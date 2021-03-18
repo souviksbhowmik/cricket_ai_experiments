@@ -1,0 +1,588 @@
+match_id,innings,team,opponent,ball,batsman,non_striker,bowler,scored_runs,extras,total,extra_type,wicket,wicket_type,player_out,fielders,winner
+433580,1st innings,Kenya,Canada,0.1,MA Ouma,SR Waters,H Osinde,0,0,0,NA,0,NA,NA,NA,0
+433580,1st innings,Kenya,Canada,0.2,MA Ouma,SR Waters,H Osinde,0,0,0,NA,1,caught,MA Ouma,HS Baidwan,0
+433580,1st innings,Kenya,Canada,0.3,CO Obuya,SR Waters,H Osinde,0,0,0,NA,0,NA,NA,NA,0
+433580,1st innings,Kenya,Canada,0.4,CO Obuya,SR Waters,H Osinde,0,0,0,NA,0,NA,NA,NA,0
+433580,1st innings,Kenya,Canada,0.5,CO Obuya,SR Waters,H Osinde,0,0,0,NA,0,NA,NA,NA,0
+433580,1st innings,Kenya,Canada,0.6,CO Obuya,SR Waters,H Osinde,0,0,0,NA,0,NA,NA,NA,0
+433580,1st innings,Kenya,Canada,1.1,SR Waters,CO Obuya,HS Baidwan,0,0,0,NA,0,NA,NA,NA,0
+433580,1st innings,Kenya,Canada,1.2,SR Waters,CO Obuya,HS Baidwan,0,0,0,NA,0,NA,NA,NA,0
+433580,1st innings,Kenya,Canada,1.3,SR Waters,CO Obuya,HS Baidwan,0,0,0,NA,0,NA,NA,NA,0
+433580,1st innings,Kenya,Canada,1.4,SR Waters,CO Obuya,HS Baidwan,0,0,0,NA,0,NA,NA,NA,0
+433580,1st innings,Kenya,Canada,1.5,SR Waters,CO Obuya,HS Baidwan,0,0,0,NA,0,NA,NA,NA,0
+433580,1st innings,Kenya,Canada,1.6,SR Waters,CO Obuya,HS Baidwan,0,0,0,NA,0,NA,NA,NA,0
+433580,1st innings,Kenya,Canada,2.1,CO Obuya,SR Waters,H Osinde,1,0,1,NA,0,NA,NA,NA,0
+433580,1st innings,Kenya,Canada,2.2,SR Waters,CO Obuya,H Osinde,1,0,1,NA,0,NA,NA,NA,0
+433580,1st innings,Kenya,Canada,2.3,CO Obuya,SR Waters,H Osinde,0,0,0,NA,0,NA,NA,NA,0
+433580,1st innings,Kenya,Canada,2.4,CO Obuya,SR Waters,H Osinde,0,0,0,NA,0,NA,NA,NA,0
+433580,1st innings,Kenya,Canada,2.5,CO Obuya,SR Waters,H Osinde,0,0,0,NA,0,NA,NA,NA,0
+433580,1st innings,Kenya,Canada,2.6,CO Obuya,SR Waters,H Osinde,1,0,1,NA,0,NA,NA,NA,0
+433580,1st innings,Kenya,Canada,3.1,CO Obuya,SR Waters,HS Baidwan,0,0,0,NA,0,NA,NA,NA,0
+433580,1st innings,Kenya,Canada,3.2,CO Obuya,SR Waters,HS Baidwan,0,0,0,NA,0,NA,NA,NA,0
+433580,1st innings,Kenya,Canada,3.3,CO Obuya,SR Waters,HS Baidwan,0,0,0,NA,0,NA,NA,NA,0
+433580,1st innings,Kenya,Canada,3.4,CO Obuya,SR Waters,HS Baidwan,2,0,2,NA,0,NA,NA,NA,0
+433580,1st innings,Kenya,Canada,3.5,CO Obuya,SR Waters,HS Baidwan,1,0,1,NA,0,NA,NA,NA,0
+433580,1st innings,Kenya,Canada,3.6,SR Waters,CO Obuya,HS Baidwan,1,0,1,NA,0,NA,NA,NA,0
+433580,1st innings,Kenya,Canada,4.1,SR Waters,CO Obuya,H Osinde,0,0,0,NA,0,NA,NA,NA,0
+433580,1st innings,Kenya,Canada,4.2,SR Waters,CO Obuya,H Osinde,0,0,0,NA,0,NA,NA,NA,0
+433580,1st innings,Kenya,Canada,4.3,SR Waters,CO Obuya,H Osinde,0,0,0,NA,0,NA,NA,NA,0
+433580,1st innings,Kenya,Canada,4.4,SR Waters,CO Obuya,H Osinde,0,0,0,NA,0,NA,NA,NA,0
+433580,1st innings,Kenya,Canada,4.5,SR Waters,CO Obuya,H Osinde,0,0,0,NA,1,bowled,SR Waters,NA,0
+433580,1st innings,Kenya,Canada,4.6,DO Obuya,CO Obuya,H Osinde,0,0,0,NA,0,NA,NA,NA,0
+433580,1st innings,Kenya,Canada,5.1,CO Obuya,DO Obuya,HS Baidwan,4,0,4,NA,0,NA,NA,NA,0
+433580,1st innings,Kenya,Canada,5.2,CO Obuya,DO Obuya,HS Baidwan,0,0,0,NA,0,NA,NA,NA,0
+433580,1st innings,Kenya,Canada,5.3,CO Obuya,DO Obuya,HS Baidwan,1,0,1,NA,0,NA,NA,NA,0
+433580,1st innings,Kenya,Canada,5.4,DO Obuya,CO Obuya,HS Baidwan,0,0,0,NA,0,NA,NA,NA,0
+433580,1st innings,Kenya,Canada,5.5,DO Obuya,CO Obuya,HS Baidwan,1,0,1,NA,0,NA,NA,NA,0
+433580,1st innings,Kenya,Canada,5.6,CO Obuya,DO Obuya,HS Baidwan,4,0,4,NA,0,NA,NA,NA,0
+433580,1st innings,Kenya,Canada,6.1,DO Obuya,CO Obuya,H Osinde,0,0,0,NA,0,NA,NA,NA,0
+433580,1st innings,Kenya,Canada,6.2,DO Obuya,CO Obuya,H Osinde,0,0,0,NA,0,NA,NA,NA,0
+433580,1st innings,Kenya,Canada,6.3,DO Obuya,CO Obuya,H Osinde,1,0,1,NA,0,NA,NA,NA,0
+433580,1st innings,Kenya,Canada,6.4,CO Obuya,DO Obuya,H Osinde,3,0,3,NA,0,NA,NA,NA,0
+433580,1st innings,Kenya,Canada,6.5,DO Obuya,CO Obuya,H Osinde,0,0,0,NA,0,NA,NA,NA,0
+433580,1st innings,Kenya,Canada,6.6,DO Obuya,CO Obuya,H Osinde,0,0,0,NA,1,caught,DO Obuya,A Bagai,0
+433580,1st innings,Kenya,Canada,7.1,CO Obuya,SO Tikolo,PA Desai,0,0,0,NA,0,NA,NA,NA,0
+433580,1st innings,Kenya,Canada,7.2,CO Obuya,SO Tikolo,PA Desai,4,0,4,NA,0,NA,NA,NA,0
+433580,1st innings,Kenya,Canada,7.3,CO Obuya,SO Tikolo,PA Desai,0,0,0,NA,0,NA,NA,NA,0
+433580,1st innings,Kenya,Canada,7.4,CO Obuya,SO Tikolo,PA Desai,0,0,0,NA,0,NA,NA,NA,0
+433580,1st innings,Kenya,Canada,7.5,CO Obuya,SO Tikolo,PA Desai,6,0,6,NA,0,NA,NA,NA,0
+433580,1st innings,Kenya,Canada,7.6,CO Obuya,SO Tikolo,PA Desai,0,0,0,NA,0,NA,NA,NA,0
+433580,1st innings,Kenya,Canada,8.1,SO Tikolo,CO Obuya,H Osinde,2,0,2,NA,0,NA,NA,NA,0
+433580,1st innings,Kenya,Canada,8.2,SO Tikolo,CO Obuya,H Osinde,0,0,0,NA,0,NA,NA,NA,0
+433580,1st innings,Kenya,Canada,8.3,SO Tikolo,CO Obuya,H Osinde,0,0,0,NA,0,NA,NA,NA,0
+433580,1st innings,Kenya,Canada,8.4,SO Tikolo,CO Obuya,H Osinde,0,1,1,wides,0,NA,NA,NA,0
+433580,1st innings,Kenya,Canada,8.5,SO Tikolo,CO Obuya,H Osinde,0,0,0,NA,0,NA,NA,NA,0
+433580,1st innings,Kenya,Canada,8.6,SO Tikolo,CO Obuya,H Osinde,0,0,0,NA,0,NA,NA,NA,0
+433580,1st innings,Kenya,Canada,8.7,SO Tikolo,CO Obuya,H Osinde,0,0,0,NA,0,NA,NA,NA,0
+433580,1st innings,Kenya,Canada,9.1,CO Obuya,SO Tikolo,HS Baidwan,0,0,0,NA,0,NA,NA,NA,0
+433580,1st innings,Kenya,Canada,9.2,CO Obuya,SO Tikolo,HS Baidwan,1,0,1,NA,0,NA,NA,NA,0
+433580,1st innings,Kenya,Canada,9.3,SO Tikolo,CO Obuya,HS Baidwan,0,0,0,NA,0,NA,NA,NA,0
+433580,1st innings,Kenya,Canada,9.4,SO Tikolo,CO Obuya,HS Baidwan,1,0,1,NA,0,NA,NA,NA,0
+433580,1st innings,Kenya,Canada,9.5,CO Obuya,SO Tikolo,HS Baidwan,1,0,1,NA,0,NA,NA,NA,0
+433580,1st innings,Kenya,Canada,9.6,SO Tikolo,CO Obuya,HS Baidwan,0,0,0,NA,0,NA,NA,NA,0
+433580,1st innings,Kenya,Canada,10.1,CO Obuya,SO Tikolo,H Osinde,0,1,1,wides,0,NA,NA,NA,0
+433580,1st innings,Kenya,Canada,10.2,CO Obuya,SO Tikolo,H Osinde,0,0,0,NA,0,NA,NA,NA,0
+433580,1st innings,Kenya,Canada,10.3,CO Obuya,SO Tikolo,H Osinde,1,0,1,NA,0,NA,NA,NA,0
+433580,1st innings,Kenya,Canada,10.4,SO Tikolo,CO Obuya,H Osinde,0,0,0,NA,0,NA,NA,NA,0
+433580,1st innings,Kenya,Canada,10.5,SO Tikolo,CO Obuya,H Osinde,1,0,1,NA,0,NA,NA,NA,0
+433580,1st innings,Kenya,Canada,10.6,CO Obuya,SO Tikolo,H Osinde,0,0,0,NA,0,NA,NA,NA,0
+433580,1st innings,Kenya,Canada,10.7,CO Obuya,SO Tikolo,H Osinde,1,0,1,NA,0,NA,NA,NA,0
+433580,1st innings,Kenya,Canada,11.1,CO Obuya,SO Tikolo,HS Baidwan,0,0,0,NA,0,NA,NA,NA,0
+433580,1st innings,Kenya,Canada,11.2,CO Obuya,SO Tikolo,HS Baidwan,0,0,0,NA,0,NA,NA,NA,0
+433580,1st innings,Kenya,Canada,11.3,CO Obuya,SO Tikolo,HS Baidwan,0,0,0,NA,1,bowled,CO Obuya,NA,0
+433580,1st innings,Kenya,Canada,11.4,T Mishra,SO Tikolo,HS Baidwan,4,0,4,NA,0,NA,NA,NA,0
+433580,1st innings,Kenya,Canada,11.5,T Mishra,SO Tikolo,HS Baidwan,0,0,0,NA,0,NA,NA,NA,0
+433580,1st innings,Kenya,Canada,11.6,T Mishra,SO Tikolo,HS Baidwan,1,0,1,NA,0,NA,NA,NA,0
+433580,1st innings,Kenya,Canada,12.1,T Mishra,SO Tikolo,H Osinde,0,0,0,NA,0,NA,NA,NA,0
+433580,1st innings,Kenya,Canada,12.2,T Mishra,SO Tikolo,H Osinde,0,0,0,NA,0,NA,NA,NA,0
+433580,1st innings,Kenya,Canada,12.3,T Mishra,SO Tikolo,H Osinde,0,0,0,NA,0,NA,NA,NA,0
+433580,1st innings,Kenya,Canada,12.4,T Mishra,SO Tikolo,H Osinde,1,0,1,NA,0,NA,NA,NA,0
+433580,1st innings,Kenya,Canada,12.5,SO Tikolo,T Mishra,H Osinde,1,0,1,NA,0,NA,NA,NA,0
+433580,1st innings,Kenya,Canada,12.6,T Mishra,SO Tikolo,H Osinde,0,0,0,NA,0,NA,NA,NA,0
+433580,1st innings,Kenya,Canada,13.1,SO Tikolo,T Mishra,HS Baidwan,0,0,0,NA,0,NA,NA,NA,0
+433580,1st innings,Kenya,Canada,13.2,SO Tikolo,T Mishra,HS Baidwan,1,0,1,NA,0,NA,NA,NA,0
+433580,1st innings,Kenya,Canada,13.3,T Mishra,SO Tikolo,HS Baidwan,1,0,1,NA,0,NA,NA,NA,0
+433580,1st innings,Kenya,Canada,13.4,SO Tikolo,T Mishra,HS Baidwan,4,0,4,NA,0,NA,NA,NA,0
+433580,1st innings,Kenya,Canada,13.5,SO Tikolo,T Mishra,HS Baidwan,0,0,0,NA,0,NA,NA,NA,0
+433580,1st innings,Kenya,Canada,13.6,SO Tikolo,T Mishra,HS Baidwan,0,0,0,NA,0,NA,NA,NA,0
+433580,1st innings,Kenya,Canada,14.1,T Mishra,SO Tikolo,Rizwan Cheema,0,0,0,NA,0,NA,NA,NA,0
+433580,1st innings,Kenya,Canada,14.2,T Mishra,SO Tikolo,Rizwan Cheema,0,0,0,NA,0,NA,NA,NA,0
+433580,1st innings,Kenya,Canada,14.3,T Mishra,SO Tikolo,Rizwan Cheema,1,0,1,NA,0,NA,NA,NA,0
+433580,1st innings,Kenya,Canada,14.4,SO Tikolo,T Mishra,Rizwan Cheema,0,0,0,NA,0,NA,NA,NA,0
+433580,1st innings,Kenya,Canada,14.5,SO Tikolo,T Mishra,Rizwan Cheema,2,0,2,NA,0,NA,NA,NA,0
+433580,1st innings,Kenya,Canada,14.6,SO Tikolo,T Mishra,Rizwan Cheema,0,0,0,NA,1,lbw,SO Tikolo,NA,0
+433580,1st innings,Kenya,Canada,15.1,T Mishra,JK Kamande,AS Hansra,1,0,1,NA,0,NA,NA,NA,0
+433580,1st innings,Kenya,Canada,15.2,JK Kamande,T Mishra,AS Hansra,4,0,4,NA,0,NA,NA,NA,0
+433580,1st innings,Kenya,Canada,15.3,JK Kamande,T Mishra,AS Hansra,0,0,0,NA,0,NA,NA,NA,0
+433580,1st innings,Kenya,Canada,15.4,JK Kamande,T Mishra,AS Hansra,0,0,0,NA,0,NA,NA,NA,0
+433580,1st innings,Kenya,Canada,15.5,JK Kamande,T Mishra,AS Hansra,0,0,0,NA,0,NA,NA,NA,0
+433580,1st innings,Kenya,Canada,15.6,JK Kamande,T Mishra,AS Hansra,0,0,0,NA,0,NA,NA,NA,0
+433580,1st innings,Kenya,Canada,16.1,T Mishra,JK Kamande,Rizwan Cheema,1,0,1,NA,0,NA,NA,NA,0
+433580,1st innings,Kenya,Canada,16.2,JK Kamande,T Mishra,Rizwan Cheema,0,0,0,NA,0,NA,NA,NA,0
+433580,1st innings,Kenya,Canada,16.3,JK Kamande,T Mishra,Rizwan Cheema,0,0,0,NA,0,NA,NA,NA,0
+433580,1st innings,Kenya,Canada,16.4,JK Kamande,T Mishra,Rizwan Cheema,0,0,0,NA,0,NA,NA,NA,0
+433580,1st innings,Kenya,Canada,16.5,JK Kamande,T Mishra,Rizwan Cheema,0,0,0,NA,0,NA,NA,NA,0
+433580,1st innings,Kenya,Canada,16.6,JK Kamande,T Mishra,Rizwan Cheema,0,0,0,NA,0,NA,NA,NA,0
+433580,1st innings,Kenya,Canada,17.1,T Mishra,JK Kamande,AS Hansra,0,0,0,NA,0,NA,NA,NA,0
+433580,1st innings,Kenya,Canada,17.2,T Mishra,JK Kamande,AS Hansra,0,0,0,NA,0,NA,NA,NA,0
+433580,1st innings,Kenya,Canada,17.3,T Mishra,JK Kamande,AS Hansra,0,0,0,NA,0,NA,NA,NA,0
+433580,1st innings,Kenya,Canada,17.4,T Mishra,JK Kamande,AS Hansra,0,0,0,NA,0,NA,NA,NA,0
+433580,1st innings,Kenya,Canada,17.5,T Mishra,JK Kamande,AS Hansra,1,0,1,NA,0,NA,NA,NA,0
+433580,1st innings,Kenya,Canada,17.6,JK Kamande,T Mishra,AS Hansra,1,0,1,NA,0,NA,NA,NA,0
+433580,1st innings,Kenya,Canada,18.1,JK Kamande,T Mishra,Rizwan Cheema,0,0,0,NA,0,NA,NA,NA,0
+433580,1st innings,Kenya,Canada,18.2,JK Kamande,T Mishra,Rizwan Cheema,0,0,0,NA,0,NA,NA,NA,0
+433580,1st innings,Kenya,Canada,18.3,JK Kamande,T Mishra,Rizwan Cheema,0,0,0,NA,0,NA,NA,NA,0
+433580,1st innings,Kenya,Canada,18.4,JK Kamande,T Mishra,Rizwan Cheema,0,0,0,NA,0,NA,NA,NA,0
+433580,1st innings,Kenya,Canada,18.5,JK Kamande,T Mishra,Rizwan Cheema,0,0,0,NA,0,NA,NA,NA,0
+433580,1st innings,Kenya,Canada,18.6,JK Kamande,T Mishra,Rizwan Cheema,0,0,0,NA,0,NA,NA,NA,0
+433580,1st innings,Kenya,Canada,19.1,T Mishra,JK Kamande,AS Hansra,4,0,4,NA,0,NA,NA,NA,0
+433580,1st innings,Kenya,Canada,19.2,T Mishra,JK Kamande,AS Hansra,2,0,2,NA,0,NA,NA,NA,0
+433580,1st innings,Kenya,Canada,19.3,T Mishra,JK Kamande,AS Hansra,0,0,0,NA,0,NA,NA,NA,0
+433580,1st innings,Kenya,Canada,19.4,T Mishra,JK Kamande,AS Hansra,0,0,0,NA,0,NA,NA,NA,0
+433580,1st innings,Kenya,Canada,19.5,T Mishra,JK Kamande,AS Hansra,1,0,1,NA,0,NA,NA,NA,0
+433580,1st innings,Kenya,Canada,19.6,JK Kamande,T Mishra,AS Hansra,1,0,1,NA,0,NA,NA,NA,0
+433580,1st innings,Kenya,Canada,20.1,JK Kamande,T Mishra,Rizwan Cheema,0,0,0,NA,0,NA,NA,NA,0
+433580,1st innings,Kenya,Canada,20.2,JK Kamande,T Mishra,Rizwan Cheema,0,0,0,NA,0,NA,NA,NA,0
+433580,1st innings,Kenya,Canada,20.3,JK Kamande,T Mishra,Rizwan Cheema,0,0,0,NA,0,NA,NA,NA,0
+433580,1st innings,Kenya,Canada,20.4,JK Kamande,T Mishra,Rizwan Cheema,4,0,4,NA,0,NA,NA,NA,0
+433580,1st innings,Kenya,Canada,20.5,JK Kamande,T Mishra,Rizwan Cheema,0,0,0,NA,0,NA,NA,NA,0
+433580,1st innings,Kenya,Canada,20.6,JK Kamande,T Mishra,Rizwan Cheema,0,0,0,NA,0,NA,NA,NA,0
+433580,1st innings,Kenya,Canada,21.1,T Mishra,JK Kamande,WD Balaji Rao,0,0,0,NA,0,NA,NA,NA,0
+433580,1st innings,Kenya,Canada,21.2,T Mishra,JK Kamande,WD Balaji Rao,1,0,1,NA,0,NA,NA,NA,0
+433580,1st innings,Kenya,Canada,21.3,JK Kamande,T Mishra,WD Balaji Rao,0,0,0,NA,0,NA,NA,NA,0
+433580,1st innings,Kenya,Canada,21.4,JK Kamande,T Mishra,WD Balaji Rao,0,0,0,NA,0,NA,NA,NA,0
+433580,1st innings,Kenya,Canada,21.5,JK Kamande,T Mishra,WD Balaji Rao,0,0,0,NA,0,NA,NA,NA,0
+433580,1st innings,Kenya,Canada,21.6,JK Kamande,T Mishra,WD Balaji Rao,0,0,0,NA,0,NA,NA,NA,0
+433580,1st innings,Kenya,Canada,22.1,T Mishra,JK Kamande,Rizwan Cheema,1,0,1,NA,0,NA,NA,NA,0
+433580,1st innings,Kenya,Canada,22.2,JK Kamande,T Mishra,Rizwan Cheema,1,0,1,NA,0,NA,NA,NA,0
+433580,1st innings,Kenya,Canada,22.3,T Mishra,JK Kamande,Rizwan Cheema,1,0,1,NA,0,NA,NA,NA,0
+433580,1st innings,Kenya,Canada,22.4,JK Kamande,T Mishra,Rizwan Cheema,0,0,0,NA,0,NA,NA,NA,0
+433580,1st innings,Kenya,Canada,22.5,JK Kamande,T Mishra,Rizwan Cheema,0,0,0,NA,0,NA,NA,NA,0
+433580,1st innings,Kenya,Canada,22.6,JK Kamande,T Mishra,Rizwan Cheema,0,0,0,NA,0,NA,NA,NA,0
+433580,1st innings,Kenya,Canada,23.1,T Mishra,JK Kamande,WD Balaji Rao,0,0,0,NA,0,NA,NA,NA,0
+433580,1st innings,Kenya,Canada,23.2,T Mishra,JK Kamande,WD Balaji Rao,1,0,1,NA,0,NA,NA,NA,0
+433580,1st innings,Kenya,Canada,23.3,JK Kamande,T Mishra,WD Balaji Rao,0,0,0,NA,0,NA,NA,NA,0
+433580,1st innings,Kenya,Canada,23.4,JK Kamande,T Mishra,WD Balaji Rao,0,0,0,NA,0,NA,NA,NA,0
+433580,1st innings,Kenya,Canada,23.5,JK Kamande,T Mishra,WD Balaji Rao,1,0,1,NA,0,NA,NA,NA,0
+433580,1st innings,Kenya,Canada,23.6,T Mishra,JK Kamande,WD Balaji Rao,1,0,1,NA,0,NA,NA,NA,0
+433580,1st innings,Kenya,Canada,24.1,T Mishra,JK Kamande,JM Davison,1,0,1,NA,0,NA,NA,NA,0
+433580,1st innings,Kenya,Canada,24.2,JK Kamande,T Mishra,JM Davison,0,0,0,NA,0,NA,NA,NA,0
+433580,1st innings,Kenya,Canada,24.3,JK Kamande,T Mishra,JM Davison,1,0,1,NA,0,NA,NA,NA,0
+433580,1st innings,Kenya,Canada,24.4,T Mishra,JK Kamande,JM Davison,0,0,0,NA,0,NA,NA,NA,0
+433580,1st innings,Kenya,Canada,24.5,T Mishra,JK Kamande,JM Davison,1,0,1,NA,0,NA,NA,NA,0
+433580,1st innings,Kenya,Canada,24.6,JK Kamande,T Mishra,JM Davison,0,0,0,NA,0,NA,NA,NA,0
+433580,1st innings,Kenya,Canada,25.1,T Mishra,JK Kamande,WD Balaji Rao,1,0,1,NA,0,NA,NA,NA,0
+433580,1st innings,Kenya,Canada,25.2,JK Kamande,T Mishra,WD Balaji Rao,0,0,0,NA,0,NA,NA,NA,0
+433580,1st innings,Kenya,Canada,25.3,JK Kamande,T Mishra,WD Balaji Rao,0,0,0,NA,0,NA,NA,NA,0
+433580,1st innings,Kenya,Canada,25.4,JK Kamande,T Mishra,WD Balaji Rao,0,0,0,NA,0,NA,NA,NA,0
+433580,1st innings,Kenya,Canada,25.5,JK Kamande,T Mishra,WD Balaji Rao,1,0,1,NA,0,NA,NA,NA,0
+433580,1st innings,Kenya,Canada,25.6,T Mishra,JK Kamande,WD Balaji Rao,0,0,0,NA,0,NA,NA,NA,0
+433580,1st innings,Kenya,Canada,26.1,JK Kamande,T Mishra,JM Davison,1,0,1,NA,0,NA,NA,NA,0
+433580,1st innings,Kenya,Canada,26.2,T Mishra,JK Kamande,JM Davison,4,0,4,NA,0,NA,NA,NA,0
+433580,1st innings,Kenya,Canada,26.3,T Mishra,JK Kamande,JM Davison,1,0,1,NA,0,NA,NA,NA,0
+433580,1st innings,Kenya,Canada,26.4,JK Kamande,T Mishra,JM Davison,0,0,0,NA,0,NA,NA,NA,0
+433580,1st innings,Kenya,Canada,26.5,JK Kamande,T Mishra,JM Davison,0,0,0,NA,0,NA,NA,NA,0
+433580,1st innings,Kenya,Canada,26.6,JK Kamande,T Mishra,JM Davison,1,0,1,NA,0,NA,NA,NA,0
+433580,1st innings,Kenya,Canada,27.1,JK Kamande,T Mishra,WD Balaji Rao,0,0,0,NA,0,NA,NA,NA,0
+433580,1st innings,Kenya,Canada,27.2,JK Kamande,T Mishra,WD Balaji Rao,0,0,0,NA,0,NA,NA,NA,0
+433580,1st innings,Kenya,Canada,27.3,JK Kamande,T Mishra,WD Balaji Rao,1,0,1,NA,0,NA,NA,NA,0
+433580,1st innings,Kenya,Canada,27.4,T Mishra,JK Kamande,WD Balaji Rao,1,0,1,NA,0,NA,NA,NA,0
+433580,1st innings,Kenya,Canada,27.5,JK Kamande,T Mishra,WD Balaji Rao,0,0,0,NA,0,NA,NA,NA,0
+433580,1st innings,Kenya,Canada,27.6,JK Kamande,T Mishra,WD Balaji Rao,0,5,5,wides,0,NA,NA,NA,0
+433580,1st innings,Kenya,Canada,27.7,JK Kamande,T Mishra,WD Balaji Rao,1,0,1,NA,0,NA,NA,NA,0
+433580,1st innings,Kenya,Canada,28.1,JK Kamande,T Mishra,H Osinde,0,0,0,NA,0,NA,NA,NA,0
+433580,1st innings,Kenya,Canada,28.2,JK Kamande,T Mishra,H Osinde,4,0,4,NA,0,NA,NA,NA,0
+433580,1st innings,Kenya,Canada,28.3,JK Kamande,T Mishra,H Osinde,0,0,0,NA,0,NA,NA,NA,0
+433580,1st innings,Kenya,Canada,28.4,JK Kamande,T Mishra,H Osinde,0,0,0,NA,0,NA,NA,NA,0
+433580,1st innings,Kenya,Canada,28.5,JK Kamande,T Mishra,H Osinde,0,0,0,NA,0,NA,NA,NA,0
+433580,1st innings,Kenya,Canada,28.6,JK Kamande,T Mishra,H Osinde,0,0,0,NA,0,NA,NA,NA,0
+433580,1st innings,Kenya,Canada,29.1,T Mishra,JK Kamande,WD Balaji Rao,1,0,1,NA,0,NA,NA,NA,0
+433580,1st innings,Kenya,Canada,29.2,JK Kamande,T Mishra,WD Balaji Rao,0,0,0,NA,1,caught,JK Kamande,A Bagai,0
+433580,1st innings,Kenya,Canada,29.3,TM Odoyo,T Mishra,WD Balaji Rao,0,0,0,NA,0,NA,NA,NA,0
+433580,1st innings,Kenya,Canada,29.4,TM Odoyo,T Mishra,WD Balaji Rao,0,0,0,NA,0,NA,NA,NA,0
+433580,1st innings,Kenya,Canada,29.5,TM Odoyo,T Mishra,WD Balaji Rao,0,0,0,NA,0,NA,NA,NA,0
+433580,1st innings,Kenya,Canada,29.6,TM Odoyo,T Mishra,WD Balaji Rao,1,0,1,NA,0,NA,NA,NA,0
+433580,1st innings,Kenya,Canada,30.1,TM Odoyo,T Mishra,HS Baidwan,0,0,0,NA,0,NA,NA,NA,0
+433580,1st innings,Kenya,Canada,30.2,TM Odoyo,T Mishra,HS Baidwan,4,0,4,NA,0,NA,NA,NA,0
+433580,1st innings,Kenya,Canada,30.3,TM Odoyo,T Mishra,HS Baidwan,0,0,0,NA,0,NA,NA,NA,0
+433580,1st innings,Kenya,Canada,30.4,TM Odoyo,T Mishra,HS Baidwan,1,0,1,NA,0,NA,NA,NA,0
+433580,1st innings,Kenya,Canada,30.5,T Mishra,TM Odoyo,HS Baidwan,0,0,0,NA,0,NA,NA,NA,0
+433580,1st innings,Kenya,Canada,30.6,T Mishra,TM Odoyo,HS Baidwan,0,0,0,NA,0,NA,NA,NA,0
+433580,1st innings,Kenya,Canada,31.1,TM Odoyo,T Mishra,WD Balaji Rao,1,0,1,NA,0,NA,NA,NA,0
+433580,1st innings,Kenya,Canada,31.2,T Mishra,TM Odoyo,WD Balaji Rao,1,0,1,NA,0,NA,NA,NA,0
+433580,1st innings,Kenya,Canada,31.3,TM Odoyo,T Mishra,WD Balaji Rao,0,0,0,NA,0,NA,NA,NA,0
+433580,1st innings,Kenya,Canada,31.4,TM Odoyo,T Mishra,WD Balaji Rao,0,0,0,NA,0,NA,NA,NA,0
+433580,1st innings,Kenya,Canada,31.5,TM Odoyo,T Mishra,WD Balaji Rao,3,0,3,NA,0,NA,NA,NA,0
+433580,1st innings,Kenya,Canada,31.6,T Mishra,TM Odoyo,WD Balaji Rao,1,0,1,NA,0,NA,NA,NA,0
+433580,1st innings,Kenya,Canada,32.1,T Mishra,TM Odoyo,PA Desai,1,0,1,NA,0,NA,NA,NA,0
+433580,1st innings,Kenya,Canada,32.2,TM Odoyo,T Mishra,PA Desai,1,0,1,NA,0,NA,NA,NA,0
+433580,1st innings,Kenya,Canada,32.3,T Mishra,TM Odoyo,PA Desai,1,0,1,NA,0,NA,NA,NA,0
+433580,1st innings,Kenya,Canada,32.4,TM Odoyo,T Mishra,PA Desai,1,0,1,NA,0,NA,NA,NA,0
+433580,1st innings,Kenya,Canada,32.5,T Mishra,TM Odoyo,PA Desai,2,0,2,NA,0,NA,NA,NA,0
+433580,1st innings,Kenya,Canada,32.6,T Mishra,TM Odoyo,PA Desai,0,0,0,NA,0,NA,NA,NA,0
+433580,1st innings,Kenya,Canada,33.1,TM Odoyo,T Mishra,WD Balaji Rao,0,0,0,NA,0,NA,NA,NA,0
+433580,1st innings,Kenya,Canada,33.2,TM Odoyo,T Mishra,WD Balaji Rao,0,0,0,NA,0,NA,NA,NA,0
+433580,1st innings,Kenya,Canada,33.3,TM Odoyo,T Mishra,WD Balaji Rao,1,0,1,NA,0,NA,NA,NA,0
+433580,1st innings,Kenya,Canada,33.4,T Mishra,TM Odoyo,WD Balaji Rao,0,0,0,NA,0,NA,NA,NA,0
+433580,1st innings,Kenya,Canada,33.5,T Mishra,TM Odoyo,WD Balaji Rao,0,0,0,NA,0,NA,NA,NA,0
+433580,1st innings,Kenya,Canada,33.6,T Mishra,TM Odoyo,WD Balaji Rao,0,0,0,NA,0,NA,NA,NA,0
+433580,1st innings,Kenya,Canada,34.1,TM Odoyo,T Mishra,PA Desai,0,0,0,NA,0,NA,NA,NA,0
+433580,1st innings,Kenya,Canada,34.2,TM Odoyo,T Mishra,PA Desai,0,0,0,NA,0,NA,NA,NA,0
+433580,1st innings,Kenya,Canada,34.3,TM Odoyo,T Mishra,PA Desai,0,0,0,NA,0,NA,NA,NA,0
+433580,1st innings,Kenya,Canada,34.4,TM Odoyo,T Mishra,PA Desai,4,0,4,NA,0,NA,NA,NA,0
+433580,1st innings,Kenya,Canada,34.5,TM Odoyo,T Mishra,PA Desai,0,0,0,NA,0,NA,NA,NA,0
+433580,1st innings,Kenya,Canada,34.6,TM Odoyo,T Mishra,PA Desai,0,0,0,NA,0,NA,NA,NA,0
+433580,1st innings,Kenya,Canada,35.1,T Mishra,TM Odoyo,WD Balaji Rao,0,0,0,NA,0,NA,NA,NA,0
+433580,1st innings,Kenya,Canada,35.2,T Mishra,TM Odoyo,WD Balaji Rao,1,0,1,NA,0,NA,NA,NA,0
+433580,1st innings,Kenya,Canada,35.3,TM Odoyo,T Mishra,WD Balaji Rao,0,0,0,NA,0,NA,NA,NA,0
+433580,1st innings,Kenya,Canada,35.4,TM Odoyo,T Mishra,WD Balaji Rao,0,0,0,NA,0,NA,NA,NA,0
+433580,1st innings,Kenya,Canada,35.5,TM Odoyo,T Mishra,WD Balaji Rao,1,0,1,NA,0,NA,NA,NA,0
+433580,1st innings,Kenya,Canada,35.6,T Mishra,TM Odoyo,WD Balaji Rao,1,0,1,NA,0,NA,NA,NA,0
+433580,1st innings,Kenya,Canada,36.1,T Mishra,TM Odoyo,JM Davison,1,0,1,NA,0,NA,NA,NA,0
+433580,1st innings,Kenya,Canada,36.2,TM Odoyo,T Mishra,JM Davison,1,0,1,NA,0,NA,NA,NA,0
+433580,1st innings,Kenya,Canada,36.3,T Mishra,TM Odoyo,JM Davison,0,0,0,NA,0,NA,NA,NA,0
+433580,1st innings,Kenya,Canada,36.4,T Mishra,TM Odoyo,JM Davison,2,0,2,NA,0,NA,NA,NA,0
+433580,1st innings,Kenya,Canada,36.5,T Mishra,TM Odoyo,JM Davison,1,0,1,NA,0,NA,NA,NA,0
+433580,1st innings,Kenya,Canada,36.6,TM Odoyo,T Mishra,JM Davison,0,0,0,NA,0,NA,NA,NA,0
+433580,1st innings,Kenya,Canada,37.1,T Mishra,TM Odoyo,WD Balaji Rao,0,0,0,NA,0,NA,NA,NA,0
+433580,1st innings,Kenya,Canada,37.2,T Mishra,TM Odoyo,WD Balaji Rao,0,0,0,NA,0,NA,NA,NA,0
+433580,1st innings,Kenya,Canada,37.3,T Mishra,TM Odoyo,WD Balaji Rao,0,0,0,NA,0,NA,NA,NA,0
+433580,1st innings,Kenya,Canada,37.4,T Mishra,TM Odoyo,WD Balaji Rao,0,0,0,NA,0,NA,NA,NA,0
+433580,1st innings,Kenya,Canada,37.5,T Mishra,TM Odoyo,WD Balaji Rao,1,0,1,NA,0,NA,NA,NA,0
+433580,1st innings,Kenya,Canada,37.6,TM Odoyo,T Mishra,WD Balaji Rao,1,0,1,NA,0,NA,NA,NA,0
+433580,1st innings,Kenya,Canada,38.1,TM Odoyo,T Mishra,Rizwan Cheema,0,0,0,NA,0,NA,NA,NA,0
+433580,1st innings,Kenya,Canada,38.2,TM Odoyo,T Mishra,Rizwan Cheema,4,0,4,NA,0,NA,NA,NA,0
+433580,1st innings,Kenya,Canada,38.3,TM Odoyo,T Mishra,Rizwan Cheema,0,0,0,NA,0,NA,NA,NA,0
+433580,1st innings,Kenya,Canada,38.4,TM Odoyo,T Mishra,Rizwan Cheema,1,0,1,NA,0,NA,NA,NA,0
+433580,1st innings,Kenya,Canada,38.5,T Mishra,TM Odoyo,Rizwan Cheema,0,0,0,NA,0,NA,NA,NA,0
+433580,1st innings,Kenya,Canada,38.6,T Mishra,TM Odoyo,Rizwan Cheema,0,0,0,NA,0,NA,NA,NA,0
+433580,1st innings,Kenya,Canada,39.1,TM Odoyo,T Mishra,WD Balaji Rao,1,0,1,NA,0,NA,NA,NA,0
+433580,1st innings,Kenya,Canada,39.2,T Mishra,TM Odoyo,WD Balaji Rao,1,0,1,NA,0,NA,NA,NA,0
+433580,1st innings,Kenya,Canada,39.3,TM Odoyo,T Mishra,WD Balaji Rao,4,0,4,NA,0,NA,NA,NA,0
+433580,1st innings,Kenya,Canada,39.4,TM Odoyo,T Mishra,WD Balaji Rao,1,0,1,NA,0,NA,NA,NA,0
+433580,1st innings,Kenya,Canada,39.5,T Mishra,TM Odoyo,WD Balaji Rao,1,0,1,NA,0,NA,NA,NA,0
+433580,1st innings,Kenya,Canada,39.6,TM Odoyo,T Mishra,WD Balaji Rao,0,0,0,NA,0,NA,NA,NA,0
+433580,1st innings,Kenya,Canada,40.1,T Mishra,TM Odoyo,Rizwan Cheema,1,0,1,NA,0,NA,NA,NA,0
+433580,1st innings,Kenya,Canada,40.2,TM Odoyo,T Mishra,Rizwan Cheema,4,0,4,NA,0,NA,NA,NA,0
+433580,1st innings,Kenya,Canada,40.3,TM Odoyo,T Mishra,Rizwan Cheema,0,0,0,NA,0,NA,NA,NA,0
+433580,1st innings,Kenya,Canada,40.4,TM Odoyo,T Mishra,Rizwan Cheema,0,0,0,NA,0,NA,NA,NA,0
+433580,1st innings,Kenya,Canada,40.5,TM Odoyo,T Mishra,Rizwan Cheema,2,0,2,NA,0,NA,NA,NA,0
+433580,1st innings,Kenya,Canada,40.6,TM Odoyo,T Mishra,Rizwan Cheema,0,0,0,NA,0,NA,NA,NA,0
+433580,1st innings,Kenya,Canada,41.1,T Mishra,TM Odoyo,H Osinde,0,1,1,wides,0,NA,NA,NA,0
+433580,1st innings,Kenya,Canada,41.2,T Mishra,TM Odoyo,H Osinde,0,0,0,NA,0,NA,NA,NA,0
+433580,1st innings,Kenya,Canada,41.3,T Mishra,TM Odoyo,H Osinde,0,0,0,NA,0,NA,NA,NA,0
+433580,1st innings,Kenya,Canada,41.4,T Mishra,TM Odoyo,H Osinde,1,0,1,NA,0,NA,NA,NA,0
+433580,1st innings,Kenya,Canada,41.5,TM Odoyo,T Mishra,H Osinde,0,0,0,NA,0,NA,NA,NA,0
+433580,1st innings,Kenya,Canada,41.6,TM Odoyo,T Mishra,H Osinde,1,0,1,NA,0,NA,NA,NA,0
+433580,1st innings,Kenya,Canada,41.7,T Mishra,TM Odoyo,H Osinde,1,0,1,NA,0,NA,NA,NA,0
+433580,1st innings,Kenya,Canada,42.1,T Mishra,TM Odoyo,JM Davison,0,0,0,NA,1,caught,T Mishra,ZE Surkari,0
+433580,1st innings,Kenya,Canada,42.2,NN Odhiambo,TM Odoyo,JM Davison,2,0,2,NA,0,NA,NA,NA,0
+433580,1st innings,Kenya,Canada,42.3,NN Odhiambo,TM Odoyo,JM Davison,0,0,0,NA,0,NA,NA,NA,0
+433580,1st innings,Kenya,Canada,42.4,NN Odhiambo,TM Odoyo,JM Davison,0,0,0,NA,0,NA,NA,NA,0
+433580,1st innings,Kenya,Canada,42.5,NN Odhiambo,TM Odoyo,JM Davison,0,0,0,NA,0,NA,NA,NA,0
+433580,1st innings,Kenya,Canada,42.6,NN Odhiambo,TM Odoyo,JM Davison,1,0,1,NA,0,NA,NA,NA,0
+433580,1st innings,Kenya,Canada,43.1,NN Odhiambo,TM Odoyo,H Osinde,0,0,0,NA,0,NA,NA,NA,0
+433580,1st innings,Kenya,Canada,43.2,NN Odhiambo,TM Odoyo,H Osinde,1,0,1,NA,0,NA,NA,NA,0
+433580,1st innings,Kenya,Canada,43.3,TM Odoyo,NN Odhiambo,H Osinde,0,0,0,NA,0,NA,NA,NA,0
+433580,1st innings,Kenya,Canada,43.4,TM Odoyo,NN Odhiambo,H Osinde,1,0,1,NA,0,NA,NA,NA,0
+433580,1st innings,Kenya,Canada,43.5,NN Odhiambo,TM Odoyo,H Osinde,0,0,0,NA,0,NA,NA,NA,0
+433580,1st innings,Kenya,Canada,43.6,NN Odhiambo,TM Odoyo,H Osinde,0,0,0,NA,1,bowled,NN Odhiambo,NA,0
+433580,1st innings,Kenya,Canada,44.1,TM Odoyo,E Otieno,JM Davison,1,0,1,NA,0,NA,NA,NA,0
+433580,1st innings,Kenya,Canada,44.2,E Otieno,TM Odoyo,JM Davison,0,0,0,NA,0,NA,NA,NA,0
+433580,1st innings,Kenya,Canada,44.3,E Otieno,TM Odoyo,JM Davison,0,0,0,NA,0,NA,NA,NA,0
+433580,1st innings,Kenya,Canada,44.4,E Otieno,TM Odoyo,JM Davison,0,0,0,NA,0,NA,NA,NA,0
+433580,1st innings,Kenya,Canada,44.5,E Otieno,TM Odoyo,JM Davison,1,0,1,NA,0,NA,NA,NA,0
+433580,1st innings,Kenya,Canada,44.6,TM Odoyo,E Otieno,JM Davison,6,0,6,NA,0,NA,NA,NA,0
+433580,1st innings,Kenya,Canada,45.1,E Otieno,TM Odoyo,HS Baidwan,0,1,1,wides,0,NA,NA,NA,0
+433580,1st innings,Kenya,Canada,45.2,E Otieno,TM Odoyo,HS Baidwan,1,0,1,NA,0,NA,NA,NA,0
+433580,1st innings,Kenya,Canada,45.3,TM Odoyo,E Otieno,HS Baidwan,0,1,1,legbyes,0,NA,NA,NA,0
+433580,1st innings,Kenya,Canada,45.4,E Otieno,TM Odoyo,HS Baidwan,0,0,0,NA,0,NA,NA,NA,0
+433580,1st innings,Kenya,Canada,45.5,E Otieno,TM Odoyo,HS Baidwan,0,0,0,NA,0,NA,NA,NA,0
+433580,1st innings,Kenya,Canada,45.6,E Otieno,TM Odoyo,HS Baidwan,0,1,1,legbyes,0,NA,NA,NA,0
+433580,1st innings,Kenya,Canada,45.7,TM Odoyo,E Otieno,HS Baidwan,0,0,0,NA,0,NA,NA,NA,0
+433580,1st innings,Kenya,Canada,46.1,E Otieno,TM Odoyo,Rizwan Cheema,0,0,0,NA,0,NA,NA,NA,0
+433580,1st innings,Kenya,Canada,46.2,E Otieno,TM Odoyo,Rizwan Cheema,0,0,0,NA,0,NA,NA,NA,0
+433580,1st innings,Kenya,Canada,46.3,E Otieno,TM Odoyo,Rizwan Cheema,1,0,1,NA,0,NA,NA,NA,0
+433580,1st innings,Kenya,Canada,46.4,TM Odoyo,E Otieno,Rizwan Cheema,0,0,0,NA,0,NA,NA,NA,0
+433580,1st innings,Kenya,Canada,46.5,TM Odoyo,E Otieno,Rizwan Cheema,0,0,0,NA,0,NA,NA,NA,0
+433580,1st innings,Kenya,Canada,46.6,TM Odoyo,E Otieno,Rizwan Cheema,1,0,1,NA,0,NA,NA,NA,0
+433580,1st innings,Kenya,Canada,47.1,TM Odoyo,E Otieno,HS Baidwan,0,1,1,legbyes,0,NA,NA,NA,0
+433580,1st innings,Kenya,Canada,47.2,E Otieno,TM Odoyo,HS Baidwan,1,0,1,NA,0,NA,NA,NA,0
+433580,1st innings,Kenya,Canada,47.3,TM Odoyo,E Otieno,HS Baidwan,0,0,0,NA,0,NA,NA,NA,0
+433580,1st innings,Kenya,Canada,47.4,TM Odoyo,E Otieno,HS Baidwan,0,0,0,NA,0,NA,NA,NA,0
+433580,1st innings,Kenya,Canada,47.5,TM Odoyo,E Otieno,HS Baidwan,1,0,1,NA,0,NA,NA,NA,0
+433580,1st innings,Kenya,Canada,47.6,E Otieno,TM Odoyo,HS Baidwan,0,0,0,NA,0,NA,NA,NA,0
+433580,1st innings,Kenya,Canada,48.1,TM Odoyo,E Otieno,Rizwan Cheema,0,0,0,NA,0,NA,NA,NA,0
+433580,1st innings,Kenya,Canada,48.2,TM Odoyo,E Otieno,Rizwan Cheema,1,0,1,NA,0,NA,NA,NA,0
+433580,1st innings,Kenya,Canada,48.3,E Otieno,TM Odoyo,Rizwan Cheema,0,0,0,NA,0,NA,NA,NA,0
+433580,1st innings,Kenya,Canada,48.4,E Otieno,TM Odoyo,Rizwan Cheema,4,0,4,NA,0,NA,NA,NA,0
+433580,1st innings,Kenya,Canada,48.5,E Otieno,TM Odoyo,Rizwan Cheema,0,0,0,NA,0,NA,NA,NA,0
+433580,1st innings,Kenya,Canada,48.6,E Otieno,TM Odoyo,Rizwan Cheema,0,0,0,NA,1,caught,E Otieno,AS Hansra,0
+433580,1st innings,Kenya,Canada,49.1,TM Odoyo,JO Ngoche,HS Baidwan,1,0,1,NA,0,NA,NA,NA,0
+433580,1st innings,Kenya,Canada,49.2,JO Ngoche,TM Odoyo,HS Baidwan,0,1,1,legbyes,0,NA,NA,NA,0
+433580,1st innings,Kenya,Canada,49.3,TM Odoyo,JO Ngoche,HS Baidwan,1,0,1,NA,0,NA,NA,NA,0
+433580,1st innings,Kenya,Canada,49.4,JO Ngoche,TM Odoyo,HS Baidwan,0,1,1,wides,0,NA,NA,NA,0
+433580,1st innings,Kenya,Canada,49.5,JO Ngoche,TM Odoyo,HS Baidwan,0,0,0,NA,0,NA,NA,NA,0
+433580,1st innings,Kenya,Canada,49.6,JO Ngoche,TM Odoyo,HS Baidwan,1,0,1,NA,0,NA,NA,NA,0
+433580,1st innings,Kenya,Canada,49.7,TM Odoyo,JO Ngoche,HS Baidwan,0,0,0,NA,1,bowled,TM Odoyo,NA,0
+433580,2nd innings,Canada,Kenya,0.1,R Gunasekera,Rizwan Cheema,TM Odoyo,1,0,1,NA,0,NA,NA,NA,1
+433580,2nd innings,Canada,Kenya,0.2,Rizwan Cheema,R Gunasekera,TM Odoyo,0,0,0,NA,0,NA,NA,NA,1
+433580,2nd innings,Canada,Kenya,0.3,Rizwan Cheema,R Gunasekera,TM Odoyo,0,0,0,NA,0,NA,NA,NA,1
+433580,2nd innings,Canada,Kenya,0.4,Rizwan Cheema,R Gunasekera,TM Odoyo,2,0,2,NA,0,NA,NA,NA,1
+433580,2nd innings,Canada,Kenya,0.5,Rizwan Cheema,R Gunasekera,TM Odoyo,4,0,4,NA,0,NA,NA,NA,1
+433580,2nd innings,Canada,Kenya,0.6,Rizwan Cheema,R Gunasekera,TM Odoyo,0,0,0,NA,0,NA,NA,NA,1
+433580,2nd innings,Canada,Kenya,1.1,R Gunasekera,Rizwan Cheema,E Otieno,0,0,0,NA,0,NA,NA,NA,1
+433580,2nd innings,Canada,Kenya,1.2,R Gunasekera,Rizwan Cheema,E Otieno,0,0,0,NA,0,NA,NA,NA,1
+433580,2nd innings,Canada,Kenya,1.3,R Gunasekera,Rizwan Cheema,E Otieno,0,0,0,NA,0,NA,NA,NA,1
+433580,2nd innings,Canada,Kenya,1.4,R Gunasekera,Rizwan Cheema,E Otieno,0,0,0,NA,0,NA,NA,NA,1
+433580,2nd innings,Canada,Kenya,1.5,R Gunasekera,Rizwan Cheema,E Otieno,0,0,0,NA,0,NA,NA,NA,1
+433580,2nd innings,Canada,Kenya,1.6,R Gunasekera,Rizwan Cheema,E Otieno,0,1,1,noballs,0,NA,NA,NA,1
+433580,2nd innings,Canada,Kenya,1.7,R Gunasekera,Rizwan Cheema,E Otieno,0,0,0,NA,0,NA,NA,NA,1
+433580,2nd innings,Canada,Kenya,2.1,Rizwan Cheema,R Gunasekera,TM Odoyo,0,0,0,NA,0,NA,NA,NA,1
+433580,2nd innings,Canada,Kenya,2.2,Rizwan Cheema,R Gunasekera,TM Odoyo,0,0,0,NA,0,NA,NA,NA,1
+433580,2nd innings,Canada,Kenya,2.3,Rizwan Cheema,R Gunasekera,TM Odoyo,0,0,0,NA,0,NA,NA,NA,1
+433580,2nd innings,Canada,Kenya,2.4,Rizwan Cheema,R Gunasekera,TM Odoyo,1,0,1,NA,0,NA,NA,NA,1
+433580,2nd innings,Canada,Kenya,2.5,R Gunasekera,Rizwan Cheema,TM Odoyo,0,0,0,NA,0,NA,NA,NA,1
+433580,2nd innings,Canada,Kenya,2.6,R Gunasekera,Rizwan Cheema,TM Odoyo,0,0,0,NA,0,NA,NA,NA,1
+433580,2nd innings,Canada,Kenya,3.1,Rizwan Cheema,R Gunasekera,E Otieno,6,0,6,NA,0,NA,NA,NA,1
+433580,2nd innings,Canada,Kenya,3.2,Rizwan Cheema,R Gunasekera,E Otieno,4,0,4,NA,0,NA,NA,NA,1
+433580,2nd innings,Canada,Kenya,3.3,Rizwan Cheema,R Gunasekera,E Otieno,0,0,0,NA,0,NA,NA,NA,1
+433580,2nd innings,Canada,Kenya,3.4,Rizwan Cheema,R Gunasekera,E Otieno,0,0,0,NA,1,bowled,Rizwan Cheema,NA,1
+433580,2nd innings,Canada,Kenya,3.5,ZE Surkari,R Gunasekera,E Otieno,0,0,0,NA,0,NA,NA,NA,1
+433580,2nd innings,Canada,Kenya,3.6,ZE Surkari,R Gunasekera,E Otieno,0,0,0,NA,0,NA,NA,NA,1
+433580,2nd innings,Canada,Kenya,4.1,R Gunasekera,ZE Surkari,TM Odoyo,0,0,0,NA,0,NA,NA,NA,1
+433580,2nd innings,Canada,Kenya,4.2,R Gunasekera,ZE Surkari,TM Odoyo,1,0,1,NA,0,NA,NA,NA,1
+433580,2nd innings,Canada,Kenya,4.3,ZE Surkari,R Gunasekera,TM Odoyo,0,0,0,NA,0,NA,NA,NA,1
+433580,2nd innings,Canada,Kenya,4.4,ZE Surkari,R Gunasekera,TM Odoyo,2,0,2,NA,0,NA,NA,NA,1
+433580,2nd innings,Canada,Kenya,4.5,ZE Surkari,R Gunasekera,TM Odoyo,0,0,0,NA,0,NA,NA,NA,1
+433580,2nd innings,Canada,Kenya,4.6,ZE Surkari,R Gunasekera,TM Odoyo,1,0,1,NA,0,NA,NA,NA,1
+433580,2nd innings,Canada,Kenya,5.1,ZE Surkari,R Gunasekera,E Otieno,0,0,0,NA,0,NA,NA,NA,1
+433580,2nd innings,Canada,Kenya,5.2,ZE Surkari,R Gunasekera,E Otieno,0,0,0,NA,0,NA,NA,NA,1
+433580,2nd innings,Canada,Kenya,5.3,ZE Surkari,R Gunasekera,E Otieno,0,0,0,NA,0,NA,NA,NA,1
+433580,2nd innings,Canada,Kenya,5.4,ZE Surkari,R Gunasekera,E Otieno,0,0,0,NA,0,NA,NA,NA,1
+433580,2nd innings,Canada,Kenya,5.5,ZE Surkari,R Gunasekera,E Otieno,0,0,0,NA,0,NA,NA,NA,1
+433580,2nd innings,Canada,Kenya,5.6,ZE Surkari,R Gunasekera,E Otieno,1,0,1,NA,0,NA,NA,NA,1
+433580,2nd innings,Canada,Kenya,6.1,ZE Surkari,R Gunasekera,TM Odoyo,0,0,0,NA,0,NA,NA,NA,1
+433580,2nd innings,Canada,Kenya,6.2,ZE Surkari,R Gunasekera,TM Odoyo,0,0,0,NA,0,NA,NA,NA,1
+433580,2nd innings,Canada,Kenya,6.3,ZE Surkari,R Gunasekera,TM Odoyo,0,0,0,NA,0,NA,NA,NA,1
+433580,2nd innings,Canada,Kenya,6.4,ZE Surkari,R Gunasekera,TM Odoyo,0,0,0,NA,0,NA,NA,NA,1
+433580,2nd innings,Canada,Kenya,6.5,ZE Surkari,R Gunasekera,TM Odoyo,0,0,0,NA,0,NA,NA,NA,1
+433580,2nd innings,Canada,Kenya,6.6,ZE Surkari,R Gunasekera,TM Odoyo,0,0,0,NA,0,NA,NA,NA,1
+433580,2nd innings,Canada,Kenya,7.1,R Gunasekera,ZE Surkari,E Otieno,1,0,1,NA,0,NA,NA,NA,1
+433580,2nd innings,Canada,Kenya,7.2,ZE Surkari,R Gunasekera,E Otieno,1,0,1,NA,0,NA,NA,NA,1
+433580,2nd innings,Canada,Kenya,7.3,R Gunasekera,ZE Surkari,E Otieno,0,0,0,NA,0,NA,NA,NA,1
+433580,2nd innings,Canada,Kenya,7.4,R Gunasekera,ZE Surkari,E Otieno,0,0,0,NA,0,NA,NA,NA,1
+433580,2nd innings,Canada,Kenya,7.5,R Gunasekera,ZE Surkari,E Otieno,0,0,0,NA,0,NA,NA,NA,1
+433580,2nd innings,Canada,Kenya,7.6,R Gunasekera,ZE Surkari,E Otieno,4,0,4,NA,0,NA,NA,NA,1
+433580,2nd innings,Canada,Kenya,8.1,ZE Surkari,R Gunasekera,TM Odoyo,0,0,0,NA,0,NA,NA,NA,1
+433580,2nd innings,Canada,Kenya,8.2,ZE Surkari,R Gunasekera,TM Odoyo,0,0,0,NA,0,NA,NA,NA,1
+433580,2nd innings,Canada,Kenya,8.3,ZE Surkari,R Gunasekera,TM Odoyo,1,0,1,NA,0,NA,NA,NA,1
+433580,2nd innings,Canada,Kenya,8.4,R Gunasekera,ZE Surkari,TM Odoyo,0,0,0,NA,0,NA,NA,NA,1
+433580,2nd innings,Canada,Kenya,8.5,R Gunasekera,ZE Surkari,TM Odoyo,1,0,1,NA,0,NA,NA,NA,1
+433580,2nd innings,Canada,Kenya,8.6,ZE Surkari,R Gunasekera,TM Odoyo,4,0,4,NA,0,NA,NA,NA,1
+433580,2nd innings,Canada,Kenya,9.1,R Gunasekera,ZE Surkari,E Otieno,0,0,0,NA,0,NA,NA,NA,1
+433580,2nd innings,Canada,Kenya,9.2,R Gunasekera,ZE Surkari,E Otieno,1,0,1,NA,0,NA,NA,NA,1
+433580,2nd innings,Canada,Kenya,9.3,ZE Surkari,R Gunasekera,E Otieno,0,0,0,NA,0,NA,NA,NA,1
+433580,2nd innings,Canada,Kenya,9.4,ZE Surkari,R Gunasekera,E Otieno,0,0,0,NA,0,NA,NA,NA,1
+433580,2nd innings,Canada,Kenya,9.5,ZE Surkari,R Gunasekera,E Otieno,0,0,0,NA,1,run out,ZE Surkari,JK Kamande,1
+433580,2nd innings,Canada,Kenya,9.6,R Gunasekera,A Bagai,E Otieno,4,0,4,NA,0,NA,NA,NA,1
+433580,2nd innings,Canada,Kenya,10.1,A Bagai,R Gunasekera,NN Odhiambo,1,0,1,NA,0,NA,NA,NA,1
+433580,2nd innings,Canada,Kenya,10.2,R Gunasekera,A Bagai,NN Odhiambo,0,0,0,NA,0,NA,NA,NA,1
+433580,2nd innings,Canada,Kenya,10.3,R Gunasekera,A Bagai,NN Odhiambo,0,0,0,NA,0,NA,NA,NA,1
+433580,2nd innings,Canada,Kenya,10.4,R Gunasekera,A Bagai,NN Odhiambo,4,0,4,NA,0,NA,NA,NA,1
+433580,2nd innings,Canada,Kenya,10.5,R Gunasekera,A Bagai,NN Odhiambo,0,0,0,NA,0,NA,NA,NA,1
+433580,2nd innings,Canada,Kenya,10.6,R Gunasekera,A Bagai,NN Odhiambo,1,0,1,NA,0,NA,NA,NA,1
+433580,2nd innings,Canada,Kenya,11.1,R Gunasekera,A Bagai,JO Ngoche,0,1,1,wides,1,stumped,R Gunasekera,MA Ouma,1
+433580,2nd innings,Canada,Kenya,11.2,AS Hansra,A Bagai,JO Ngoche,0,0,0,NA,0,NA,NA,NA,1
+433580,2nd innings,Canada,Kenya,11.3,AS Hansra,A Bagai,JO Ngoche,0,0,0,NA,0,NA,NA,NA,1
+433580,2nd innings,Canada,Kenya,11.4,AS Hansra,A Bagai,JO Ngoche,0,0,0,NA,0,NA,NA,NA,1
+433580,2nd innings,Canada,Kenya,11.5,AS Hansra,A Bagai,JO Ngoche,4,0,4,NA,0,NA,NA,NA,1
+433580,2nd innings,Canada,Kenya,11.6,AS Hansra,A Bagai,JO Ngoche,0,0,0,NA,0,NA,NA,NA,1
+433580,2nd innings,Canada,Kenya,11.7,AS Hansra,A Bagai,JO Ngoche,4,0,4,NA,0,NA,NA,NA,1
+433580,2nd innings,Canada,Kenya,12.1,A Bagai,AS Hansra,NN Odhiambo,4,0,4,NA,0,NA,NA,NA,1
+433580,2nd innings,Canada,Kenya,12.2,A Bagai,AS Hansra,NN Odhiambo,0,0,0,NA,0,NA,NA,NA,1
+433580,2nd innings,Canada,Kenya,12.3,A Bagai,AS Hansra,NN Odhiambo,0,0,0,NA,0,NA,NA,NA,1
+433580,2nd innings,Canada,Kenya,12.4,A Bagai,AS Hansra,NN Odhiambo,0,0,0,NA,0,NA,NA,NA,1
+433580,2nd innings,Canada,Kenya,12.5,A Bagai,AS Hansra,NN Odhiambo,0,0,0,NA,0,NA,NA,NA,1
+433580,2nd innings,Canada,Kenya,12.6,A Bagai,AS Hansra,NN Odhiambo,0,0,0,NA,0,NA,NA,NA,1
+433580,2nd innings,Canada,Kenya,13.1,AS Hansra,A Bagai,JO Ngoche,0,0,0,NA,0,NA,NA,NA,1
+433580,2nd innings,Canada,Kenya,13.2,AS Hansra,A Bagai,JO Ngoche,0,0,0,NA,0,NA,NA,NA,1
+433580,2nd innings,Canada,Kenya,13.3,AS Hansra,A Bagai,JO Ngoche,0,0,0,NA,0,NA,NA,NA,1
+433580,2nd innings,Canada,Kenya,13.4,AS Hansra,A Bagai,JO Ngoche,0,0,0,NA,0,NA,NA,NA,1
+433580,2nd innings,Canada,Kenya,13.5,AS Hansra,A Bagai,JO Ngoche,1,0,1,NA,0,NA,NA,NA,1
+433580,2nd innings,Canada,Kenya,13.6,A Bagai,AS Hansra,JO Ngoche,0,0,0,NA,0,NA,NA,NA,1
+433580,2nd innings,Canada,Kenya,14.1,AS Hansra,A Bagai,NN Odhiambo,0,0,0,NA,0,NA,NA,NA,1
+433580,2nd innings,Canada,Kenya,14.2,AS Hansra,A Bagai,NN Odhiambo,0,0,0,NA,0,NA,NA,NA,1
+433580,2nd innings,Canada,Kenya,14.3,AS Hansra,A Bagai,NN Odhiambo,0,0,0,NA,0,NA,NA,NA,1
+433580,2nd innings,Canada,Kenya,14.4,AS Hansra,A Bagai,NN Odhiambo,0,0,0,NA,0,NA,NA,NA,1
+433580,2nd innings,Canada,Kenya,14.5,AS Hansra,A Bagai,NN Odhiambo,0,0,0,NA,0,NA,NA,NA,1
+433580,2nd innings,Canada,Kenya,14.6,AS Hansra,A Bagai,NN Odhiambo,4,0,4,NA,0,NA,NA,NA,1
+433580,2nd innings,Canada,Kenya,15.1,A Bagai,AS Hansra,JO Ngoche,0,0,0,NA,0,NA,NA,NA,1
+433580,2nd innings,Canada,Kenya,15.2,A Bagai,AS Hansra,JO Ngoche,0,0,0,NA,0,NA,NA,NA,1
+433580,2nd innings,Canada,Kenya,15.3,A Bagai,AS Hansra,JO Ngoche,0,0,0,NA,0,NA,NA,NA,1
+433580,2nd innings,Canada,Kenya,15.4,A Bagai,AS Hansra,JO Ngoche,0,0,0,NA,0,NA,NA,NA,1
+433580,2nd innings,Canada,Kenya,15.5,A Bagai,AS Hansra,JO Ngoche,0,0,0,NA,0,NA,NA,NA,1
+433580,2nd innings,Canada,Kenya,15.6,A Bagai,AS Hansra,JO Ngoche,0,0,0,NA,0,NA,NA,NA,1
+433580,2nd innings,Canada,Kenya,16.1,AS Hansra,A Bagai,NN Odhiambo,0,0,0,NA,0,NA,NA,NA,1
+433580,2nd innings,Canada,Kenya,16.2,AS Hansra,A Bagai,NN Odhiambo,1,0,1,NA,0,NA,NA,NA,1
+433580,2nd innings,Canada,Kenya,16.3,A Bagai,AS Hansra,NN Odhiambo,0,0,0,NA,0,NA,NA,NA,1
+433580,2nd innings,Canada,Kenya,16.4,A Bagai,AS Hansra,NN Odhiambo,0,0,0,NA,0,NA,NA,NA,1
+433580,2nd innings,Canada,Kenya,16.5,A Bagai,AS Hansra,NN Odhiambo,1,0,1,NA,0,NA,NA,NA,1
+433580,2nd innings,Canada,Kenya,16.6,AS Hansra,A Bagai,NN Odhiambo,0,0,0,NA,0,NA,NA,NA,1
+433580,2nd innings,Canada,Kenya,17.1,A Bagai,AS Hansra,JO Ngoche,0,0,0,NA,0,NA,NA,NA,1
+433580,2nd innings,Canada,Kenya,17.2,A Bagai,AS Hansra,JO Ngoche,1,0,1,NA,0,NA,NA,NA,1
+433580,2nd innings,Canada,Kenya,17.3,AS Hansra,A Bagai,JO Ngoche,4,0,4,NA,0,NA,NA,NA,1
+433580,2nd innings,Canada,Kenya,17.4,AS Hansra,A Bagai,JO Ngoche,0,0,0,NA,0,NA,NA,NA,1
+433580,2nd innings,Canada,Kenya,17.5,AS Hansra,A Bagai,JO Ngoche,0,0,0,NA,0,NA,NA,NA,1
+433580,2nd innings,Canada,Kenya,17.6,AS Hansra,A Bagai,JO Ngoche,0,0,0,NA,0,NA,NA,NA,1
+433580,2nd innings,Canada,Kenya,18.1,A Bagai,AS Hansra,NN Odhiambo,1,0,1,NA,0,NA,NA,NA,1
+433580,2nd innings,Canada,Kenya,18.2,AS Hansra,A Bagai,NN Odhiambo,0,0,0,NA,0,NA,NA,NA,1
+433580,2nd innings,Canada,Kenya,18.3,AS Hansra,A Bagai,NN Odhiambo,0,0,0,NA,0,NA,NA,NA,1
+433580,2nd innings,Canada,Kenya,18.4,AS Hansra,A Bagai,NN Odhiambo,0,0,0,NA,0,NA,NA,NA,1
+433580,2nd innings,Canada,Kenya,18.5,AS Hansra,A Bagai,NN Odhiambo,0,0,0,NA,0,NA,NA,NA,1
+433580,2nd innings,Canada,Kenya,18.6,AS Hansra,A Bagai,NN Odhiambo,0,0,0,NA,0,NA,NA,NA,1
+433580,2nd innings,Canada,Kenya,19.1,A Bagai,AS Hansra,JK Kamande,1,0,1,NA,0,NA,NA,NA,1
+433580,2nd innings,Canada,Kenya,19.2,AS Hansra,A Bagai,JK Kamande,0,0,0,NA,0,NA,NA,NA,1
+433580,2nd innings,Canada,Kenya,19.3,AS Hansra,A Bagai,JK Kamande,0,0,0,NA,0,NA,NA,NA,1
+433580,2nd innings,Canada,Kenya,19.4,AS Hansra,A Bagai,JK Kamande,1,0,1,NA,0,NA,NA,NA,1
+433580,2nd innings,Canada,Kenya,19.5,A Bagai,AS Hansra,JK Kamande,0,0,0,NA,0,NA,NA,NA,1
+433580,2nd innings,Canada,Kenya,19.6,A Bagai,AS Hansra,JK Kamande,0,0,0,NA,0,NA,NA,NA,1
+433580,2nd innings,Canada,Kenya,20.1,AS Hansra,A Bagai,NN Odhiambo,0,1,1,byes,0,NA,NA,NA,1
+433580,2nd innings,Canada,Kenya,20.2,A Bagai,AS Hansra,NN Odhiambo,1,0,1,NA,0,NA,NA,NA,1
+433580,2nd innings,Canada,Kenya,20.3,AS Hansra,A Bagai,NN Odhiambo,0,0,0,NA,0,NA,NA,NA,1
+433580,2nd innings,Canada,Kenya,20.4,AS Hansra,A Bagai,NN Odhiambo,0,0,0,NA,0,NA,NA,NA,1
+433580,2nd innings,Canada,Kenya,20.5,AS Hansra,A Bagai,NN Odhiambo,0,0,0,NA,0,NA,NA,NA,1
+433580,2nd innings,Canada,Kenya,20.6,AS Hansra,A Bagai,NN Odhiambo,0,0,0,NA,0,NA,NA,NA,1
+433580,2nd innings,Canada,Kenya,21.1,A Bagai,AS Hansra,JK Kamande,0,0,0,NA,0,NA,NA,NA,1
+433580,2nd innings,Canada,Kenya,21.2,A Bagai,AS Hansra,JK Kamande,1,0,1,NA,0,NA,NA,NA,1
+433580,2nd innings,Canada,Kenya,21.3,AS Hansra,A Bagai,JK Kamande,0,0,0,NA,0,NA,NA,NA,1
+433580,2nd innings,Canada,Kenya,21.4,AS Hansra,A Bagai,JK Kamande,0,0,0,NA,0,NA,NA,NA,1
+433580,2nd innings,Canada,Kenya,21.5,AS Hansra,A Bagai,JK Kamande,0,5,5,wides,0,NA,NA,NA,1
+433580,2nd innings,Canada,Kenya,21.6,AS Hansra,A Bagai,JK Kamande,0,0,0,NA,0,NA,NA,NA,1
+433580,2nd innings,Canada,Kenya,21.7,AS Hansra,A Bagai,JK Kamande,0,0,0,NA,0,NA,NA,NA,1
+433580,2nd innings,Canada,Kenya,22.1,A Bagai,AS Hansra,CO Obuya,1,0,1,NA,0,NA,NA,NA,1
+433580,2nd innings,Canada,Kenya,22.2,AS Hansra,A Bagai,CO Obuya,0,0,0,NA,0,NA,NA,NA,1
+433580,2nd innings,Canada,Kenya,22.3,AS Hansra,A Bagai,CO Obuya,0,0,0,NA,0,NA,NA,NA,1
+433580,2nd innings,Canada,Kenya,22.4,AS Hansra,A Bagai,CO Obuya,2,0,2,NA,0,NA,NA,NA,1
+433580,2nd innings,Canada,Kenya,22.5,AS Hansra,A Bagai,CO Obuya,1,0,1,NA,0,NA,NA,NA,1
+433580,2nd innings,Canada,Kenya,22.6,A Bagai,AS Hansra,CO Obuya,0,1,1,wides,0,NA,NA,NA,1
+433580,2nd innings,Canada,Kenya,22.7,A Bagai,AS Hansra,CO Obuya,1,0,1,NA,0,NA,NA,NA,1
+433580,2nd innings,Canada,Kenya,23.1,A Bagai,AS Hansra,JK Kamande,0,0,0,NA,0,NA,NA,NA,1
+433580,2nd innings,Canada,Kenya,23.2,A Bagai,AS Hansra,JK Kamande,1,0,1,NA,0,NA,NA,NA,1
+433580,2nd innings,Canada,Kenya,23.3,AS Hansra,A Bagai,JK Kamande,1,0,1,NA,0,NA,NA,NA,1
+433580,2nd innings,Canada,Kenya,23.4,A Bagai,AS Hansra,JK Kamande,0,0,0,NA,0,NA,NA,NA,1
+433580,2nd innings,Canada,Kenya,23.5,A Bagai,AS Hansra,JK Kamande,1,0,1,NA,0,NA,NA,NA,1
+433580,2nd innings,Canada,Kenya,23.6,AS Hansra,A Bagai,JK Kamande,0,0,0,NA,0,NA,NA,NA,1
+433580,2nd innings,Canada,Kenya,24.1,A Bagai,AS Hansra,CO Obuya,1,0,1,NA,0,NA,NA,NA,1
+433580,2nd innings,Canada,Kenya,24.2,AS Hansra,A Bagai,CO Obuya,2,0,2,NA,0,NA,NA,NA,1
+433580,2nd innings,Canada,Kenya,24.3,AS Hansra,A Bagai,CO Obuya,1,0,1,NA,0,NA,NA,NA,1
+433580,2nd innings,Canada,Kenya,24.4,A Bagai,AS Hansra,CO Obuya,1,0,1,NA,0,NA,NA,NA,1
+433580,2nd innings,Canada,Kenya,24.5,AS Hansra,A Bagai,CO Obuya,2,0,2,NA,0,NA,NA,NA,1
+433580,2nd innings,Canada,Kenya,24.6,AS Hansra,A Bagai,CO Obuya,2,0,2,NA,0,NA,NA,NA,1
+433580,2nd innings,Canada,Kenya,25.1,A Bagai,AS Hansra,JK Kamande,1,0,1,NA,0,NA,NA,NA,1
+433580,2nd innings,Canada,Kenya,25.2,AS Hansra,A Bagai,JK Kamande,1,0,1,NA,0,NA,NA,NA,1
+433580,2nd innings,Canada,Kenya,25.3,A Bagai,AS Hansra,JK Kamande,1,0,1,NA,0,NA,NA,NA,1
+433580,2nd innings,Canada,Kenya,25.4,AS Hansra,A Bagai,JK Kamande,1,0,1,NA,0,NA,NA,NA,1
+433580,2nd innings,Canada,Kenya,25.5,A Bagai,AS Hansra,JK Kamande,1,0,1,NA,0,NA,NA,NA,1
+433580,2nd innings,Canada,Kenya,25.6,AS Hansra,A Bagai,JK Kamande,0,0,0,NA,0,NA,NA,NA,1
+433580,2nd innings,Canada,Kenya,26.1,A Bagai,AS Hansra,JO Ngoche,0,0,0,NA,0,NA,NA,NA,1
+433580,2nd innings,Canada,Kenya,26.2,A Bagai,AS Hansra,JO Ngoche,1,0,1,NA,0,NA,NA,NA,1
+433580,2nd innings,Canada,Kenya,26.3,AS Hansra,A Bagai,JO Ngoche,0,0,0,NA,0,NA,NA,NA,1
+433580,2nd innings,Canada,Kenya,26.4,AS Hansra,A Bagai,JO Ngoche,0,0,0,NA,0,NA,NA,NA,1
+433580,2nd innings,Canada,Kenya,26.5,AS Hansra,A Bagai,JO Ngoche,0,0,0,NA,0,NA,NA,NA,1
+433580,2nd innings,Canada,Kenya,26.6,AS Hansra,A Bagai,JO Ngoche,0,0,0,NA,0,NA,NA,NA,1
+433580,2nd innings,Canada,Kenya,27.1,A Bagai,AS Hansra,JK Kamande,0,0,0,NA,0,NA,NA,NA,1
+433580,2nd innings,Canada,Kenya,27.2,A Bagai,AS Hansra,JK Kamande,1,0,1,NA,0,NA,NA,NA,1
+433580,2nd innings,Canada,Kenya,27.3,AS Hansra,A Bagai,JK Kamande,6,0,6,NA,0,NA,NA,NA,1
+433580,2nd innings,Canada,Kenya,27.4,AS Hansra,A Bagai,JK Kamande,1,0,1,NA,0,NA,NA,NA,1
+433580,2nd innings,Canada,Kenya,27.5,A Bagai,AS Hansra,JK Kamande,1,0,1,NA,0,NA,NA,NA,1
+433580,2nd innings,Canada,Kenya,27.6,AS Hansra,A Bagai,JK Kamande,0,0,0,NA,0,NA,NA,NA,1
+433580,2nd innings,Canada,Kenya,28.1,A Bagai,AS Hansra,JO Ngoche,0,0,0,NA,0,NA,NA,NA,1
+433580,2nd innings,Canada,Kenya,28.2,A Bagai,AS Hansra,JO Ngoche,0,0,0,NA,0,NA,NA,NA,1
+433580,2nd innings,Canada,Kenya,28.3,A Bagai,AS Hansra,JO Ngoche,0,0,0,NA,0,NA,NA,NA,1
+433580,2nd innings,Canada,Kenya,28.4,A Bagai,AS Hansra,JO Ngoche,0,0,0,NA,0,NA,NA,NA,1
+433580,2nd innings,Canada,Kenya,28.5,A Bagai,AS Hansra,JO Ngoche,0,0,0,NA,0,NA,NA,NA,1
+433580,2nd innings,Canada,Kenya,28.6,A Bagai,AS Hansra,JO Ngoche,1,0,1,NA,0,NA,NA,NA,1
+433580,2nd innings,Canada,Kenya,29.1,A Bagai,AS Hansra,SO Tikolo,0,0,0,NA,0,NA,NA,NA,1
+433580,2nd innings,Canada,Kenya,29.2,A Bagai,AS Hansra,SO Tikolo,0,0,0,NA,0,NA,NA,NA,1
+433580,2nd innings,Canada,Kenya,29.3,A Bagai,AS Hansra,SO Tikolo,0,0,0,NA,0,NA,NA,NA,1
+433580,2nd innings,Canada,Kenya,29.4,A Bagai,AS Hansra,SO Tikolo,0,0,0,NA,0,NA,NA,NA,1
+433580,2nd innings,Canada,Kenya,29.5,A Bagai,AS Hansra,SO Tikolo,0,0,0,NA,0,NA,NA,NA,1
+433580,2nd innings,Canada,Kenya,29.6,A Bagai,AS Hansra,SO Tikolo,0,0,0,NA,0,NA,NA,NA,1
+433580,2nd innings,Canada,Kenya,30.1,AS Hansra,A Bagai,JO Ngoche,0,0,0,NA,0,NA,NA,NA,1
+433580,2nd innings,Canada,Kenya,30.2,AS Hansra,A Bagai,JO Ngoche,0,0,0,NA,0,NA,NA,NA,1
+433580,2nd innings,Canada,Kenya,30.3,AS Hansra,A Bagai,JO Ngoche,1,0,1,NA,0,NA,NA,NA,1
+433580,2nd innings,Canada,Kenya,30.4,A Bagai,AS Hansra,JO Ngoche,0,0,0,NA,0,NA,NA,NA,1
+433580,2nd innings,Canada,Kenya,30.5,A Bagai,AS Hansra,JO Ngoche,2,0,2,NA,0,NA,NA,NA,1
+433580,2nd innings,Canada,Kenya,30.6,A Bagai,AS Hansra,JO Ngoche,0,0,0,NA,0,NA,NA,NA,1
+433580,2nd innings,Canada,Kenya,31.1,AS Hansra,A Bagai,SO Tikolo,6,0,6,NA,0,NA,NA,NA,1
+433580,2nd innings,Canada,Kenya,31.2,AS Hansra,A Bagai,SO Tikolo,1,0,1,NA,0,NA,NA,NA,1
+433580,2nd innings,Canada,Kenya,31.3,A Bagai,AS Hansra,SO Tikolo,0,0,0,NA,0,NA,NA,NA,1
+433580,2nd innings,Canada,Kenya,31.4,A Bagai,AS Hansra,SO Tikolo,3,0,3,NA,0,NA,NA,NA,1
+433580,2nd innings,Canada,Kenya,31.5,AS Hansra,A Bagai,SO Tikolo,0,0,0,NA,0,NA,NA,NA,1
+433580,2nd innings,Canada,Kenya,31.6,AS Hansra,A Bagai,SO Tikolo,1,0,1,NA,0,NA,NA,NA,1
+433580,2nd innings,Canada,Kenya,32.1,AS Hansra,A Bagai,JO Ngoche,0,0,0,NA,0,NA,NA,NA,1
+433580,2nd innings,Canada,Kenya,32.2,AS Hansra,A Bagai,JO Ngoche,0,0,0,NA,0,NA,NA,NA,1
+433580,2nd innings,Canada,Kenya,32.3,AS Hansra,A Bagai,JO Ngoche,1,0,1,NA,0,NA,NA,NA,1
+433580,2nd innings,Canada,Kenya,32.4,A Bagai,AS Hansra,JO Ngoche,2,0,2,NA,0,NA,NA,NA,1
+433580,2nd innings,Canada,Kenya,32.5,A Bagai,AS Hansra,JO Ngoche,0,0,0,NA,0,NA,NA,NA,1
+433580,2nd innings,Canada,Kenya,32.6,A Bagai,AS Hansra,JO Ngoche,0,0,0,NA,0,NA,NA,NA,1
+433580,2nd innings,Canada,Kenya,33.1,AS Hansra,A Bagai,SO Tikolo,0,0,0,NA,0,NA,NA,NA,1
+433580,2nd innings,Canada,Kenya,33.2,AS Hansra,A Bagai,SO Tikolo,0,0,0,NA,0,NA,NA,NA,1
+433580,2nd innings,Canada,Kenya,33.3,AS Hansra,A Bagai,SO Tikolo,1,0,1,NA,0,NA,NA,NA,1
+433580,2nd innings,Canada,Kenya,33.4,A Bagai,AS Hansra,SO Tikolo,0,0,0,NA,0,NA,NA,NA,1
+433580,2nd innings,Canada,Kenya,33.5,A Bagai,AS Hansra,SO Tikolo,1,0,1,NA,0,NA,NA,NA,1
+433580,2nd innings,Canada,Kenya,33.6,AS Hansra,A Bagai,SO Tikolo,0,0,0,NA,0,NA,NA,NA,1
+433580,2nd innings,Canada,Kenya,34.1,A Bagai,AS Hansra,E Otieno,4,0,4,NA,0,NA,NA,NA,1
+433580,2nd innings,Canada,Kenya,34.2,A Bagai,AS Hansra,E Otieno,0,0,0,NA,0,NA,NA,NA,1
+433580,2nd innings,Canada,Kenya,34.3,A Bagai,AS Hansra,E Otieno,1,0,1,NA,0,NA,NA,NA,1
+433580,2nd innings,Canada,Kenya,34.4,AS Hansra,A Bagai,E Otieno,0,1,1,wides,0,NA,NA,NA,1
+433580,2nd innings,Canada,Kenya,34.5,AS Hansra,A Bagai,E Otieno,0,0,0,NA,0,NA,NA,NA,1
+433580,2nd innings,Canada,Kenya,34.6,AS Hansra,A Bagai,E Otieno,0,0,0,NA,0,NA,NA,NA,1
+433580,2nd innings,Canada,Kenya,34.7,AS Hansra,A Bagai,E Otieno,0,0,0,NA,0,NA,NA,NA,1
+433580,2nd innings,Canada,Kenya,35.1,A Bagai,AS Hansra,SO Tikolo,0,0,0,NA,0,NA,NA,NA,1
+433580,2nd innings,Canada,Kenya,35.2,A Bagai,AS Hansra,SO Tikolo,0,0,0,NA,0,NA,NA,NA,1
+433580,2nd innings,Canada,Kenya,35.3,A Bagai,AS Hansra,SO Tikolo,1,0,1,NA,0,NA,NA,NA,1
+433580,2nd innings,Canada,Kenya,35.4,AS Hansra,A Bagai,SO Tikolo,0,0,0,NA,0,NA,NA,NA,1
+433580,2nd innings,Canada,Kenya,35.5,AS Hansra,A Bagai,SO Tikolo,1,0,1,NA,0,NA,NA,NA,1
+433580,2nd innings,Canada,Kenya,35.6,A Bagai,AS Hansra,SO Tikolo,0,0,0,NA,0,NA,NA,NA,1
+433580,2nd innings,Canada,Kenya,36.1,AS Hansra,A Bagai,E Otieno,0,0,0,NA,0,NA,NA,NA,1
+433580,2nd innings,Canada,Kenya,36.2,AS Hansra,A Bagai,E Otieno,0,0,0,NA,0,NA,NA,NA,1
+433580,2nd innings,Canada,Kenya,36.3,AS Hansra,A Bagai,E Otieno,1,0,1,NA,0,NA,NA,NA,1
+433580,2nd innings,Canada,Kenya,36.4,A Bagai,AS Hansra,E Otieno,1,0,1,NA,0,NA,NA,NA,1
+433580,2nd innings,Canada,Kenya,36.5,AS Hansra,A Bagai,E Otieno,1,0,1,NA,0,NA,NA,NA,1
+433580,2nd innings,Canada,Kenya,36.6,A Bagai,AS Hansra,E Otieno,0,0,0,NA,0,NA,NA,NA,1
+433580,2nd innings,Canada,Kenya,37.1,AS Hansra,A Bagai,SO Tikolo,1,0,1,NA,0,NA,NA,NA,1
+433580,2nd innings,Canada,Kenya,37.2,A Bagai,AS Hansra,SO Tikolo,4,0,4,NA,0,NA,NA,NA,1
+433580,2nd innings,Canada,Kenya,37.3,A Bagai,AS Hansra,SO Tikolo,0,0,0,NA,0,NA,NA,NA,1
+433580,2nd innings,Canada,Kenya,37.4,A Bagai,AS Hansra,SO Tikolo,4,0,4,NA,0,NA,NA,NA,1
+433580,2nd innings,Canada,Kenya,37.5,A Bagai,AS Hansra,SO Tikolo,0,0,0,NA,0,NA,NA,NA,1
+433580,2nd innings,Canada,Kenya,37.6,A Bagai,AS Hansra,SO Tikolo,0,0,0,NA,0,NA,NA,NA,1
+433580,2nd innings,Canada,Kenya,38.1,AS Hansra,A Bagai,NN Odhiambo,0,0,0,NA,0,NA,NA,NA,1
+433580,2nd innings,Canada,Kenya,38.2,AS Hansra,A Bagai,NN Odhiambo,2,0,2,NA,0,NA,NA,NA,1
+433580,2nd innings,Canada,Kenya,38.3,AS Hansra,A Bagai,NN Odhiambo,0,0,0,NA,0,NA,NA,NA,1
+433580,2nd innings,Canada,Kenya,38.4,AS Hansra,A Bagai,NN Odhiambo,0,0,0,NA,0,NA,NA,NA,1
+433580,2nd innings,Canada,Kenya,38.5,AS Hansra,A Bagai,NN Odhiambo,0,0,0,NA,0,NA,NA,NA,1
+433580,2nd innings,Canada,Kenya,38.6,AS Hansra,A Bagai,NN Odhiambo,4,0,4,NA,0,NA,NA,NA,1
+433580,2nd innings,Canada,Kenya,39.1,A Bagai,AS Hansra,JO Ngoche,0,0,0,NA,0,NA,NA,NA,1
+433580,2nd innings,Canada,Kenya,39.2,A Bagai,AS Hansra,JO Ngoche,0,0,0,NA,0,NA,NA,NA,1
+433580,2nd innings,Canada,Kenya,39.3,A Bagai,AS Hansra,JO Ngoche,1,0,1,NA,0,NA,NA,NA,1
+433580,2nd innings,Canada,Kenya,39.4,AS Hansra,A Bagai,JO Ngoche,1,0,1,NA,0,NA,NA,NA,1
+433580,2nd innings,Canada,Kenya,39.5,A Bagai,AS Hansra,JO Ngoche,1,0,1,NA,0,NA,NA,NA,1
+433580,2nd innings,Canada,Kenya,39.6,AS Hansra,A Bagai,JO Ngoche,0,0,0,NA,0,NA,NA,NA,1
+433580,2nd innings,Canada,Kenya,40.1,A Bagai,AS Hansra,NN Odhiambo,4,0,4,NA,0,NA,NA,NA,1
+433580,2nd innings,Canada,Kenya,40.2,A Bagai,AS Hansra,NN Odhiambo,0,0,0,NA,0,NA,NA,NA,1
+433580,2nd innings,Canada,Kenya,40.3,A Bagai,AS Hansra,NN Odhiambo,0,0,0,NA,0,NA,NA,NA,1
+433580,2nd innings,Canada,Kenya,40.4,A Bagai,AS Hansra,NN Odhiambo,1,0,1,NA,0,NA,NA,NA,1
+433580,2nd innings,Canada,Kenya,40.5,AS Hansra,A Bagai,NN Odhiambo,0,0,0,NA,0,NA,NA,NA,1
+433580,2nd innings,Canada,Kenya,40.6,AS Hansra,A Bagai,NN Odhiambo,4,0,4,NA,0,NA,NA,NA,1
+433580,2nd innings,Canada,Kenya,41.1,A Bagai,AS Hansra,JO Ngoche,0,0,0,NA,0,NA,NA,NA,1
+433580,2nd innings,Canada,Kenya,41.2,A Bagai,AS Hansra,JO Ngoche,0,0,0,NA,0,NA,NA,NA,1
+433580,2nd innings,Canada,Kenya,41.3,A Bagai,AS Hansra,JO Ngoche,0,0,0,NA,0,NA,NA,NA,1
+433580,2nd innings,Canada,Kenya,41.4,A Bagai,AS Hansra,JO Ngoche,0,0,0,NA,0,NA,NA,NA,1
+433580,2nd innings,Canada,Kenya,41.5,A Bagai,AS Hansra,JO Ngoche,0,0,0,NA,0,NA,NA,NA,1
+433580,2nd innings,Canada,Kenya,41.6,A Bagai,AS Hansra,JO Ngoche,0,0,0,NA,0,NA,NA,NA,1
+433580,2nd innings,Canada,Kenya,42.1,AS Hansra,A Bagai,NN Odhiambo,1,0,1,NA,0,NA,NA,NA,1
+433580,2nd innings,Canada,Kenya,42.2,A Bagai,AS Hansra,NN Odhiambo,1,0,1,NA,0,NA,NA,NA,1
+433580,2nd innings,Canada,Kenya,42.3,AS Hansra,A Bagai,NN Odhiambo,0,0,0,NA,0,NA,NA,NA,1
+433580,2nd innings,Canada,Kenya,42.4,AS Hansra,A Bagai,NN Odhiambo,4,0,4,NA,0,NA,NA,NA,1
+433580,2nd innings,Canada,Kenya,42.5,AS Hansra,A Bagai,NN Odhiambo,0,0,0,NA,1,caught,AS Hansra,JO Ngoche,1
+433580,2nd innings,Canada,Kenya,42.6,TG Gordon,A Bagai,NN Odhiambo,0,0,0,NA,0,NA,NA,NA,1
+433580,2nd innings,Canada,Kenya,43.1,A Bagai,TG Gordon,E Otieno,1,0,1,NA,0,NA,NA,NA,1
+433580,2nd innings,Canada,Kenya,43.2,TG Gordon,A Bagai,E Otieno,0,0,0,NA,0,NA,NA,NA,1
+433580,2nd innings,Canada,Kenya,43.3,TG Gordon,A Bagai,E Otieno,0,0,0,NA,0,NA,NA,NA,1
+433580,2nd innings,Canada,Kenya,43.4,TG Gordon,A Bagai,E Otieno,0,1,1,wides,0,NA,NA,NA,1
+433580,2nd innings,Canada,Kenya,43.5,TG Gordon,A Bagai,E Otieno,0,1,1,wides,0,NA,NA,NA,1
+433580,2nd innings,Canada,Kenya,43.6,TG Gordon,A Bagai,E Otieno,0,0,0,NA,0,NA,NA,NA,1
+433580,2nd innings,Canada,Kenya,43.7,TG Gordon,A Bagai,E Otieno,0,0,0,NA,0,NA,NA,NA,1
+433580,2nd innings,Canada,Kenya,43.8,TG Gordon,A Bagai,E Otieno,1,0,1,NA,0,NA,NA,NA,1
+433580,2nd innings,Canada,Kenya,44.1,TG Gordon,A Bagai,NN Odhiambo,0,0,0,NA,0,NA,NA,NA,1
+433580,2nd innings,Canada,Kenya,44.2,TG Gordon,A Bagai,NN Odhiambo,2,0,2,NA,0,NA,NA,NA,1
+433580,2nd innings,Canada,Kenya,44.3,TG Gordon,A Bagai,NN Odhiambo,0,0,0,NA,0,NA,NA,NA,1
+433580,2nd innings,Canada,Kenya,44.4,TG Gordon,A Bagai,NN Odhiambo,0,0,0,NA,0,NA,NA,NA,1
+433580,2nd innings,Canada,Kenya,44.5,TG Gordon,A Bagai,NN Odhiambo,0,0,0,NA,1,bowled,TG Gordon,NA,1
+433580,2nd innings,Canada,Kenya,44.6,JM Davison,A Bagai,NN Odhiambo,4,0,4,NA,0,NA,NA,NA,1
+433580,2nd innings,Canada,Kenya,45.1,A Bagai,JM Davison,E Otieno,4,0,4,NA,0,NA,NA,NA,1
+433580,2nd innings,Canada,Kenya,45.2,A Bagai,JM Davison,E Otieno,0,0,0,NA,0,NA,NA,NA,1
+433580,2nd innings,Canada,Kenya,45.3,A Bagai,JM Davison,E Otieno,0,1,1,wides,0,NA,NA,NA,1
+433580,2nd innings,Canada,Kenya,45.4,A Bagai,JM Davison,E Otieno,4,0,4,NA,0,NA,NA,NA,1

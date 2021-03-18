@@ -1,0 +1,622 @@
+match_id,innings,team,opponent,ball,batsman,non_striker,bowler,scored_runs,extras,total,extra_type,wicket,wicket_type,player_out,fielders,winner
+1051297,1st innings,Bangladesh,Afghanistan,0.1,Tamim Iqbal,Soumya Sarkar,Dawlat Zadran,0,0,0,NA,0,NA,NA,NA,1
+1051297,1st innings,Bangladesh,Afghanistan,0.2,Tamim Iqbal,Soumya Sarkar,Dawlat Zadran,1,0,1,NA,0,NA,NA,NA,1
+1051297,1st innings,Bangladesh,Afghanistan,0.3,Soumya Sarkar,Tamim Iqbal,Dawlat Zadran,0,0,0,NA,0,NA,NA,NA,1
+1051297,1st innings,Bangladesh,Afghanistan,0.4,Soumya Sarkar,Tamim Iqbal,Dawlat Zadran,0,0,0,NA,0,NA,NA,NA,1
+1051297,1st innings,Bangladesh,Afghanistan,0.5,Soumya Sarkar,Tamim Iqbal,Dawlat Zadran,0,0,0,NA,1,caught,Soumya Sarkar,Shabir Noori,1
+1051297,1st innings,Bangladesh,Afghanistan,0.6,Imrul Kayes,Tamim Iqbal,Dawlat Zadran,0,0,0,NA,0,NA,NA,NA,1
+1051297,1st innings,Bangladesh,Afghanistan,1.1,Tamim Iqbal,Imrul Kayes,Naveen-ul-Haq,4,0,4,NA,0,NA,NA,NA,1
+1051297,1st innings,Bangladesh,Afghanistan,1.2,Tamim Iqbal,Imrul Kayes,Naveen-ul-Haq,0,1,1,wides,0,NA,NA,NA,1
+1051297,1st innings,Bangladesh,Afghanistan,1.3,Tamim Iqbal,Imrul Kayes,Naveen-ul-Haq,0,0,0,NA,0,NA,NA,NA,1
+1051297,1st innings,Bangladesh,Afghanistan,1.4,Tamim Iqbal,Imrul Kayes,Naveen-ul-Haq,0,0,0,NA,0,NA,NA,NA,1
+1051297,1st innings,Bangladesh,Afghanistan,1.5,Tamim Iqbal,Imrul Kayes,Naveen-ul-Haq,0,0,0,NA,0,NA,NA,NA,1
+1051297,1st innings,Bangladesh,Afghanistan,1.6,Tamim Iqbal,Imrul Kayes,Naveen-ul-Haq,0,0,0,NA,0,NA,NA,NA,1
+1051297,1st innings,Bangladesh,Afghanistan,1.7,Tamim Iqbal,Imrul Kayes,Naveen-ul-Haq,4,0,4,NA,0,NA,NA,NA,1
+1051297,1st innings,Bangladesh,Afghanistan,2.1,Imrul Kayes,Tamim Iqbal,Dawlat Zadran,0,0,0,NA,0,NA,NA,NA,1
+1051297,1st innings,Bangladesh,Afghanistan,2.2,Imrul Kayes,Tamim Iqbal,Dawlat Zadran,1,0,1,NA,0,NA,NA,NA,1
+1051297,1st innings,Bangladesh,Afghanistan,2.3,Tamim Iqbal,Imrul Kayes,Dawlat Zadran,0,0,0,NA,0,NA,NA,NA,1
+1051297,1st innings,Bangladesh,Afghanistan,2.4,Tamim Iqbal,Imrul Kayes,Dawlat Zadran,0,0,0,NA,0,NA,NA,NA,1
+1051297,1st innings,Bangladesh,Afghanistan,2.5,Tamim Iqbal,Imrul Kayes,Dawlat Zadran,2,0,2,NA,0,NA,NA,NA,1
+1051297,1st innings,Bangladesh,Afghanistan,2.6,Tamim Iqbal,Imrul Kayes,Dawlat Zadran,4,0,4,NA,0,NA,NA,NA,1
+1051297,1st innings,Bangladesh,Afghanistan,3.1,Imrul Kayes,Tamim Iqbal,Naveen-ul-Haq,0,0,0,NA,0,NA,NA,NA,1
+1051297,1st innings,Bangladesh,Afghanistan,3.2,Imrul Kayes,Tamim Iqbal,Naveen-ul-Haq,0,0,0,NA,0,NA,NA,NA,1
+1051297,1st innings,Bangladesh,Afghanistan,3.3,Imrul Kayes,Tamim Iqbal,Naveen-ul-Haq,0,0,0,NA,0,NA,NA,NA,1
+1051297,1st innings,Bangladesh,Afghanistan,3.4,Imrul Kayes,Tamim Iqbal,Naveen-ul-Haq,4,0,4,NA,0,NA,NA,NA,1
+1051297,1st innings,Bangladesh,Afghanistan,3.5,Imrul Kayes,Tamim Iqbal,Naveen-ul-Haq,1,0,1,NA,0,NA,NA,NA,1
+1051297,1st innings,Bangladesh,Afghanistan,3.6,Tamim Iqbal,Imrul Kayes,Naveen-ul-Haq,0,0,0,NA,0,NA,NA,NA,1
+1051297,1st innings,Bangladesh,Afghanistan,4.1,Imrul Kayes,Tamim Iqbal,Dawlat Zadran,1,0,1,NA,0,NA,NA,NA,1
+1051297,1st innings,Bangladesh,Afghanistan,4.2,Tamim Iqbal,Imrul Kayes,Dawlat Zadran,0,0,0,NA,0,NA,NA,NA,1
+1051297,1st innings,Bangladesh,Afghanistan,4.3,Tamim Iqbal,Imrul Kayes,Dawlat Zadran,1,0,1,NA,0,NA,NA,NA,1
+1051297,1st innings,Bangladesh,Afghanistan,4.4,Imrul Kayes,Tamim Iqbal,Dawlat Zadran,4,0,4,NA,0,NA,NA,NA,1
+1051297,1st innings,Bangladesh,Afghanistan,4.5,Imrul Kayes,Tamim Iqbal,Dawlat Zadran,1,0,1,NA,0,NA,NA,NA,1
+1051297,1st innings,Bangladesh,Afghanistan,4.6,Tamim Iqbal,Imrul Kayes,Dawlat Zadran,0,0,0,NA,0,NA,NA,NA,1
+1051297,1st innings,Bangladesh,Afghanistan,5.1,Imrul Kayes,Tamim Iqbal,Mohammad Nabi,0,0,0,NA,0,NA,NA,NA,1
+1051297,1st innings,Bangladesh,Afghanistan,5.2,Imrul Kayes,Tamim Iqbal,Mohammad Nabi,1,0,1,NA,0,NA,NA,NA,1
+1051297,1st innings,Bangladesh,Afghanistan,5.3,Tamim Iqbal,Imrul Kayes,Mohammad Nabi,0,0,0,NA,0,NA,NA,NA,1
+1051297,1st innings,Bangladesh,Afghanistan,5.4,Tamim Iqbal,Imrul Kayes,Mohammad Nabi,1,0,1,NA,0,NA,NA,NA,1
+1051297,1st innings,Bangladesh,Afghanistan,5.5,Imrul Kayes,Tamim Iqbal,Mohammad Nabi,0,0,0,NA,0,NA,NA,NA,1
+1051297,1st innings,Bangladesh,Afghanistan,5.6,Imrul Kayes,Tamim Iqbal,Mohammad Nabi,0,0,0,NA,0,NA,NA,NA,1
+1051297,1st innings,Bangladesh,Afghanistan,6.1,Tamim Iqbal,Imrul Kayes,Dawlat Zadran,0,0,0,NA,0,NA,NA,NA,1
+1051297,1st innings,Bangladesh,Afghanistan,6.2,Tamim Iqbal,Imrul Kayes,Dawlat Zadran,0,0,0,NA,0,NA,NA,NA,1
+1051297,1st innings,Bangladesh,Afghanistan,6.3,Tamim Iqbal,Imrul Kayes,Dawlat Zadran,1,0,1,NA,0,NA,NA,NA,1
+1051297,1st innings,Bangladesh,Afghanistan,6.4,Imrul Kayes,Tamim Iqbal,Dawlat Zadran,4,0,4,NA,0,NA,NA,NA,1
+1051297,1st innings,Bangladesh,Afghanistan,6.5,Imrul Kayes,Tamim Iqbal,Dawlat Zadran,0,0,0,NA,0,NA,NA,NA,1
+1051297,1st innings,Bangladesh,Afghanistan,6.6,Imrul Kayes,Tamim Iqbal,Dawlat Zadran,0,0,0,NA,0,NA,NA,NA,1
+1051297,1st innings,Bangladesh,Afghanistan,7.1,Tamim Iqbal,Imrul Kayes,Mohammad Nabi,2,0,2,NA,0,NA,NA,NA,1
+1051297,1st innings,Bangladesh,Afghanistan,7.2,Tamim Iqbal,Imrul Kayes,Mohammad Nabi,1,0,1,NA,0,NA,NA,NA,1
+1051297,1st innings,Bangladesh,Afghanistan,7.3,Imrul Kayes,Tamim Iqbal,Mohammad Nabi,0,0,0,NA,0,NA,NA,NA,1
+1051297,1st innings,Bangladesh,Afghanistan,7.4,Imrul Kayes,Tamim Iqbal,Mohammad Nabi,0,0,0,NA,0,NA,NA,NA,1
+1051297,1st innings,Bangladesh,Afghanistan,7.5,Imrul Kayes,Tamim Iqbal,Mohammad Nabi,0,0,0,NA,0,NA,NA,NA,1
+1051297,1st innings,Bangladesh,Afghanistan,7.6,Imrul Kayes,Tamim Iqbal,Mohammad Nabi,4,0,4,NA,0,NA,NA,NA,1
+1051297,1st innings,Bangladesh,Afghanistan,8.1,Tamim Iqbal,Imrul Kayes,Mirwais Ashraf,0,0,0,NA,0,NA,NA,NA,1
+1051297,1st innings,Bangladesh,Afghanistan,8.2,Tamim Iqbal,Imrul Kayes,Mirwais Ashraf,0,0,0,NA,0,NA,NA,NA,1
+1051297,1st innings,Bangladesh,Afghanistan,8.3,Tamim Iqbal,Imrul Kayes,Mirwais Ashraf,1,0,1,NA,0,NA,NA,NA,1
+1051297,1st innings,Bangladesh,Afghanistan,8.4,Imrul Kayes,Tamim Iqbal,Mirwais Ashraf,4,0,4,NA,0,NA,NA,NA,1
+1051297,1st innings,Bangladesh,Afghanistan,8.5,Imrul Kayes,Tamim Iqbal,Mirwais Ashraf,0,0,0,NA,0,NA,NA,NA,1
+1051297,1st innings,Bangladesh,Afghanistan,8.6,Imrul Kayes,Tamim Iqbal,Mirwais Ashraf,0,0,0,NA,0,NA,NA,NA,1
+1051297,1st innings,Bangladesh,Afghanistan,9.1,Tamim Iqbal,Imrul Kayes,Mohammad Nabi,1,0,1,NA,0,NA,NA,NA,1
+1051297,1st innings,Bangladesh,Afghanistan,9.2,Imrul Kayes,Tamim Iqbal,Mohammad Nabi,0,0,0,NA,0,NA,NA,NA,1
+1051297,1st innings,Bangladesh,Afghanistan,9.3,Imrul Kayes,Tamim Iqbal,Mohammad Nabi,0,0,0,NA,0,NA,NA,NA,1
+1051297,1st innings,Bangladesh,Afghanistan,9.4,Imrul Kayes,Tamim Iqbal,Mohammad Nabi,1,0,1,NA,0,NA,NA,NA,1
+1051297,1st innings,Bangladesh,Afghanistan,9.5,Tamim Iqbal,Imrul Kayes,Mohammad Nabi,0,0,0,NA,0,NA,NA,NA,1
+1051297,1st innings,Bangladesh,Afghanistan,9.6,Tamim Iqbal,Imrul Kayes,Mohammad Nabi,0,0,0,NA,0,NA,NA,NA,1
+1051297,1st innings,Bangladesh,Afghanistan,10.1,Imrul Kayes,Tamim Iqbal,Mirwais Ashraf,1,0,1,NA,0,NA,NA,NA,1
+1051297,1st innings,Bangladesh,Afghanistan,10.2,Tamim Iqbal,Imrul Kayes,Mirwais Ashraf,2,0,2,NA,0,NA,NA,NA,1
+1051297,1st innings,Bangladesh,Afghanistan,10.3,Tamim Iqbal,Imrul Kayes,Mirwais Ashraf,0,0,0,NA,0,NA,NA,NA,1
+1051297,1st innings,Bangladesh,Afghanistan,10.4,Tamim Iqbal,Imrul Kayes,Mirwais Ashraf,0,0,0,NA,0,NA,NA,NA,1
+1051297,1st innings,Bangladesh,Afghanistan,10.5,Tamim Iqbal,Imrul Kayes,Mirwais Ashraf,0,0,0,NA,0,NA,NA,NA,1
+1051297,1st innings,Bangladesh,Afghanistan,10.6,Tamim Iqbal,Imrul Kayes,Mirwais Ashraf,4,0,4,NA,0,NA,NA,NA,1
+1051297,1st innings,Bangladesh,Afghanistan,11.1,Imrul Kayes,Tamim Iqbal,Naveen-ul-Haq,1,0,1,NA,0,NA,NA,NA,1
+1051297,1st innings,Bangladesh,Afghanistan,11.2,Tamim Iqbal,Imrul Kayes,Naveen-ul-Haq,0,0,0,NA,0,NA,NA,NA,1
+1051297,1st innings,Bangladesh,Afghanistan,11.3,Tamim Iqbal,Imrul Kayes,Naveen-ul-Haq,1,0,1,NA,0,NA,NA,NA,1
+1051297,1st innings,Bangladesh,Afghanistan,11.4,Imrul Kayes,Tamim Iqbal,Naveen-ul-Haq,0,0,0,NA,0,NA,NA,NA,1
+1051297,1st innings,Bangladesh,Afghanistan,11.5,Imrul Kayes,Tamim Iqbal,Naveen-ul-Haq,0,0,0,NA,0,NA,NA,NA,1
+1051297,1st innings,Bangladesh,Afghanistan,11.6,Imrul Kayes,Tamim Iqbal,Naveen-ul-Haq,0,0,0,NA,0,NA,NA,NA,1
+1051297,1st innings,Bangladesh,Afghanistan,12.1,Tamim Iqbal,Imrul Kayes,Mirwais Ashraf,1,0,1,NA,0,NA,NA,NA,1
+1051297,1st innings,Bangladesh,Afghanistan,12.2,Imrul Kayes,Tamim Iqbal,Mirwais Ashraf,0,0,0,NA,0,NA,NA,NA,1
+1051297,1st innings,Bangladesh,Afghanistan,12.3,Imrul Kayes,Tamim Iqbal,Mirwais Ashraf,0,0,0,NA,0,NA,NA,NA,1
+1051297,1st innings,Bangladesh,Afghanistan,12.4,Imrul Kayes,Tamim Iqbal,Mirwais Ashraf,0,0,0,NA,0,NA,NA,NA,1
+1051297,1st innings,Bangladesh,Afghanistan,12.5,Imrul Kayes,Tamim Iqbal,Mirwais Ashraf,0,0,0,NA,0,NA,NA,NA,1
+1051297,1st innings,Bangladesh,Afghanistan,12.6,Imrul Kayes,Tamim Iqbal,Mirwais Ashraf,0,0,0,NA,0,NA,NA,NA,1
+1051297,1st innings,Bangladesh,Afghanistan,13.1,Tamim Iqbal,Imrul Kayes,Naveen-ul-Haq,0,1,1,wides,0,NA,NA,NA,1
+1051297,1st innings,Bangladesh,Afghanistan,13.2,Tamim Iqbal,Imrul Kayes,Naveen-ul-Haq,4,0,4,NA,0,NA,NA,NA,1
+1051297,1st innings,Bangladesh,Afghanistan,13.3,Tamim Iqbal,Imrul Kayes,Naveen-ul-Haq,1,0,1,NA,0,NA,NA,NA,1
+1051297,1st innings,Bangladesh,Afghanistan,13.4,Imrul Kayes,Tamim Iqbal,Naveen-ul-Haq,1,0,1,NA,0,NA,NA,NA,1
+1051297,1st innings,Bangladesh,Afghanistan,13.5,Tamim Iqbal,Imrul Kayes,Naveen-ul-Haq,1,0,1,NA,0,NA,NA,NA,1
+1051297,1st innings,Bangladesh,Afghanistan,13.6,Imrul Kayes,Tamim Iqbal,Naveen-ul-Haq,0,0,0,NA,0,NA,NA,NA,1
+1051297,1st innings,Bangladesh,Afghanistan,13.7,Imrul Kayes,Tamim Iqbal,Naveen-ul-Haq,0,0,0,NA,0,NA,NA,NA,1
+1051297,1st innings,Bangladesh,Afghanistan,14.1,Tamim Iqbal,Imrul Kayes,Mirwais Ashraf,0,0,0,NA,0,NA,NA,NA,1
+1051297,1st innings,Bangladesh,Afghanistan,14.2,Tamim Iqbal,Imrul Kayes,Mirwais Ashraf,1,0,1,NA,0,NA,NA,NA,1
+1051297,1st innings,Bangladesh,Afghanistan,14.3,Imrul Kayes,Tamim Iqbal,Mirwais Ashraf,4,0,4,NA,0,NA,NA,NA,1
+1051297,1st innings,Bangladesh,Afghanistan,14.4,Imrul Kayes,Tamim Iqbal,Mirwais Ashraf,0,0,0,NA,0,NA,NA,NA,1
+1051297,1st innings,Bangladesh,Afghanistan,14.5,Imrul Kayes,Tamim Iqbal,Mirwais Ashraf,0,1,1,wides,0,NA,NA,NA,1
+1051297,1st innings,Bangladesh,Afghanistan,14.6,Imrul Kayes,Tamim Iqbal,Mirwais Ashraf,0,0,0,NA,0,NA,NA,NA,1
+1051297,1st innings,Bangladesh,Afghanistan,14.7,Imrul Kayes,Tamim Iqbal,Mirwais Ashraf,0,0,0,NA,0,NA,NA,NA,1
+1051297,1st innings,Bangladesh,Afghanistan,15.1,Tamim Iqbal,Imrul Kayes,Rashid Khan,1,0,1,NA,0,NA,NA,NA,1
+1051297,1st innings,Bangladesh,Afghanistan,15.2,Imrul Kayes,Tamim Iqbal,Rashid Khan,1,0,1,NA,0,NA,NA,NA,1
+1051297,1st innings,Bangladesh,Afghanistan,15.3,Tamim Iqbal,Imrul Kayes,Rashid Khan,0,0,0,NA,0,NA,NA,NA,1
+1051297,1st innings,Bangladesh,Afghanistan,15.4,Tamim Iqbal,Imrul Kayes,Rashid Khan,0,0,0,NA,0,NA,NA,NA,1
+1051297,1st innings,Bangladesh,Afghanistan,15.5,Tamim Iqbal,Imrul Kayes,Rashid Khan,0,0,0,NA,0,NA,NA,NA,1
+1051297,1st innings,Bangladesh,Afghanistan,15.6,Tamim Iqbal,Imrul Kayes,Rashid Khan,0,0,0,NA,0,NA,NA,NA,1
+1051297,1st innings,Bangladesh,Afghanistan,16.1,Imrul Kayes,Tamim Iqbal,Mirwais Ashraf,0,0,0,NA,0,NA,NA,NA,1
+1051297,1st innings,Bangladesh,Afghanistan,16.2,Imrul Kayes,Tamim Iqbal,Mirwais Ashraf,1,0,1,NA,0,NA,NA,NA,1
+1051297,1st innings,Bangladesh,Afghanistan,16.3,Tamim Iqbal,Imrul Kayes,Mirwais Ashraf,1,0,1,NA,0,NA,NA,NA,1
+1051297,1st innings,Bangladesh,Afghanistan,16.4,Imrul Kayes,Tamim Iqbal,Mirwais Ashraf,0,0,0,NA,0,NA,NA,NA,1
+1051297,1st innings,Bangladesh,Afghanistan,16.5,Imrul Kayes,Tamim Iqbal,Mirwais Ashraf,0,0,0,NA,0,NA,NA,NA,1
+1051297,1st innings,Bangladesh,Afghanistan,16.6,Imrul Kayes,Tamim Iqbal,Mirwais Ashraf,1,0,1,NA,0,NA,NA,NA,1
+1051297,1st innings,Bangladesh,Afghanistan,17.1,Imrul Kayes,Tamim Iqbal,Rashid Khan,1,0,1,NA,0,NA,NA,NA,1
+1051297,1st innings,Bangladesh,Afghanistan,17.2,Tamim Iqbal,Imrul Kayes,Rashid Khan,0,0,0,NA,0,NA,NA,NA,1
+1051297,1st innings,Bangladesh,Afghanistan,17.3,Tamim Iqbal,Imrul Kayes,Rashid Khan,4,0,4,NA,0,NA,NA,NA,1
+1051297,1st innings,Bangladesh,Afghanistan,17.4,Tamim Iqbal,Imrul Kayes,Rashid Khan,0,0,0,NA,0,NA,NA,NA,1
+1051297,1st innings,Bangladesh,Afghanistan,17.5,Tamim Iqbal,Imrul Kayes,Rashid Khan,0,0,0,NA,0,NA,NA,NA,1
+1051297,1st innings,Bangladesh,Afghanistan,17.6,Tamim Iqbal,Imrul Kayes,Rashid Khan,0,0,0,NA,0,NA,NA,NA,1
+1051297,1st innings,Bangladesh,Afghanistan,18.1,Imrul Kayes,Tamim Iqbal,Mohammad Nabi,0,0,0,NA,1,bowled,Imrul Kayes,NA,1
+1051297,1st innings,Bangladesh,Afghanistan,18.2,Mahmudullah,Tamim Iqbal,Mohammad Nabi,0,0,0,NA,0,NA,NA,NA,1
+1051297,1st innings,Bangladesh,Afghanistan,18.3,Mahmudullah,Tamim Iqbal,Mohammad Nabi,1,0,1,NA,0,NA,NA,NA,1
+1051297,1st innings,Bangladesh,Afghanistan,18.4,Tamim Iqbal,Mahmudullah,Mohammad Nabi,0,0,0,NA,0,NA,NA,NA,1
+1051297,1st innings,Bangladesh,Afghanistan,18.5,Tamim Iqbal,Mahmudullah,Mohammad Nabi,0,0,0,NA,0,NA,NA,NA,1
+1051297,1st innings,Bangladesh,Afghanistan,18.6,Tamim Iqbal,Mahmudullah,Mohammad Nabi,1,0,1,NA,0,NA,NA,NA,1
+1051297,1st innings,Bangladesh,Afghanistan,19.1,Tamim Iqbal,Mahmudullah,Rashid Khan,1,0,1,NA,0,NA,NA,NA,1
+1051297,1st innings,Bangladesh,Afghanistan,19.2,Mahmudullah,Tamim Iqbal,Rashid Khan,0,0,0,NA,0,NA,NA,NA,1
+1051297,1st innings,Bangladesh,Afghanistan,19.3,Mahmudullah,Tamim Iqbal,Rashid Khan,1,0,1,NA,0,NA,NA,NA,1
+1051297,1st innings,Bangladesh,Afghanistan,19.4,Tamim Iqbal,Mahmudullah,Rashid Khan,1,0,1,NA,0,NA,NA,NA,1
+1051297,1st innings,Bangladesh,Afghanistan,19.5,Mahmudullah,Tamim Iqbal,Rashid Khan,0,1,1,wides,0,NA,NA,NA,1
+1051297,1st innings,Bangladesh,Afghanistan,19.6,Mahmudullah,Tamim Iqbal,Rashid Khan,0,0,0,NA,0,NA,NA,NA,1
+1051297,1st innings,Bangladesh,Afghanistan,19.7,Mahmudullah,Tamim Iqbal,Rashid Khan,0,0,0,NA,0,NA,NA,NA,1
+1051297,1st innings,Bangladesh,Afghanistan,20.1,Tamim Iqbal,Mahmudullah,Mohammad Nabi,0,1,1,wides,0,NA,NA,NA,1
+1051297,1st innings,Bangladesh,Afghanistan,20.2,Tamim Iqbal,Mahmudullah,Mohammad Nabi,1,0,1,NA,0,NA,NA,NA,1
+1051297,1st innings,Bangladesh,Afghanistan,20.3,Mahmudullah,Tamim Iqbal,Mohammad Nabi,0,0,0,NA,0,NA,NA,NA,1
+1051297,1st innings,Bangladesh,Afghanistan,20.4,Mahmudullah,Tamim Iqbal,Mohammad Nabi,0,0,0,NA,0,NA,NA,NA,1
+1051297,1st innings,Bangladesh,Afghanistan,20.5,Mahmudullah,Tamim Iqbal,Mohammad Nabi,1,0,1,NA,0,NA,NA,NA,1
+1051297,1st innings,Bangladesh,Afghanistan,20.6,Tamim Iqbal,Mahmudullah,Mohammad Nabi,1,0,1,NA,0,NA,NA,NA,1
+1051297,1st innings,Bangladesh,Afghanistan,20.7,Mahmudullah,Tamim Iqbal,Mohammad Nabi,0,0,0,NA,0,NA,NA,NA,1
+1051297,1st innings,Bangladesh,Afghanistan,21.1,Tamim Iqbal,Mahmudullah,Rashid Khan,0,0,0,NA,0,NA,NA,NA,1
+1051297,1st innings,Bangladesh,Afghanistan,21.2,Tamim Iqbal,Mahmudullah,Rashid Khan,0,0,0,NA,0,NA,NA,NA,1
+1051297,1st innings,Bangladesh,Afghanistan,21.3,Tamim Iqbal,Mahmudullah,Rashid Khan,4,0,4,NA,0,NA,NA,NA,1
+1051297,1st innings,Bangladesh,Afghanistan,21.4,Tamim Iqbal,Mahmudullah,Rashid Khan,0,0,0,NA,0,NA,NA,NA,1
+1051297,1st innings,Bangladesh,Afghanistan,21.5,Tamim Iqbal,Mahmudullah,Rashid Khan,4,0,4,NA,0,NA,NA,NA,1
+1051297,1st innings,Bangladesh,Afghanistan,21.6,Tamim Iqbal,Mahmudullah,Rashid Khan,1,0,1,NA,0,NA,NA,NA,1
+1051297,1st innings,Bangladesh,Afghanistan,22.1,Tamim Iqbal,Mahmudullah,Dawlat Zadran,0,1,1,wides,0,NA,NA,NA,1
+1051297,1st innings,Bangladesh,Afghanistan,22.2,Tamim Iqbal,Mahmudullah,Dawlat Zadran,4,0,4,NA,0,NA,NA,NA,1
+1051297,1st innings,Bangladesh,Afghanistan,22.3,Tamim Iqbal,Mahmudullah,Dawlat Zadran,0,0,0,NA,0,NA,NA,NA,1
+1051297,1st innings,Bangladesh,Afghanistan,22.4,Tamim Iqbal,Mahmudullah,Dawlat Zadran,1,0,1,NA,0,NA,NA,NA,1
+1051297,1st innings,Bangladesh,Afghanistan,22.5,Mahmudullah,Tamim Iqbal,Dawlat Zadran,0,0,0,NA,0,NA,NA,NA,1
+1051297,1st innings,Bangladesh,Afghanistan,22.6,Mahmudullah,Tamim Iqbal,Dawlat Zadran,1,0,1,NA,0,NA,NA,NA,1
+1051297,1st innings,Bangladesh,Afghanistan,22.7,Tamim Iqbal,Mahmudullah,Dawlat Zadran,1,0,1,NA,0,NA,NA,NA,1
+1051297,1st innings,Bangladesh,Afghanistan,23.1,Tamim Iqbal,Mahmudullah,Mohammad Nabi,1,0,1,NA,0,NA,NA,NA,1
+1051297,1st innings,Bangladesh,Afghanistan,23.2,Mahmudullah,Tamim Iqbal,Mohammad Nabi,0,0,0,NA,0,NA,NA,NA,1
+1051297,1st innings,Bangladesh,Afghanistan,23.3,Mahmudullah,Tamim Iqbal,Mohammad Nabi,1,0,1,NA,0,NA,NA,NA,1
+1051297,1st innings,Bangladesh,Afghanistan,23.4,Tamim Iqbal,Mahmudullah,Mohammad Nabi,0,0,0,NA,0,NA,NA,NA,1
+1051297,1st innings,Bangladesh,Afghanistan,23.5,Tamim Iqbal,Mahmudullah,Mohammad Nabi,2,0,2,NA,0,NA,NA,NA,1
+1051297,1st innings,Bangladesh,Afghanistan,23.6,Tamim Iqbal,Mahmudullah,Mohammad Nabi,0,0,0,NA,0,NA,NA,NA,1
+1051297,1st innings,Bangladesh,Afghanistan,24.1,Mahmudullah,Tamim Iqbal,Mirwais Ashraf,0,0,0,NA,0,NA,NA,NA,1
+1051297,1st innings,Bangladesh,Afghanistan,24.2,Mahmudullah,Tamim Iqbal,Mirwais Ashraf,6,0,6,NA,0,NA,NA,NA,1
+1051297,1st innings,Bangladesh,Afghanistan,24.3,Mahmudullah,Tamim Iqbal,Mirwais Ashraf,0,0,0,NA,0,NA,NA,NA,1
+1051297,1st innings,Bangladesh,Afghanistan,24.4,Mahmudullah,Tamim Iqbal,Mirwais Ashraf,0,0,0,NA,0,NA,NA,NA,1
+1051297,1st innings,Bangladesh,Afghanistan,24.5,Mahmudullah,Tamim Iqbal,Mirwais Ashraf,0,0,0,NA,0,NA,NA,NA,1
+1051297,1st innings,Bangladesh,Afghanistan,24.6,Mahmudullah,Tamim Iqbal,Mirwais Ashraf,0,0,0,NA,0,NA,NA,NA,1
+1051297,1st innings,Bangladesh,Afghanistan,25.1,Tamim Iqbal,Mahmudullah,Rashid Khan,0,0,0,NA,0,NA,NA,NA,1
+1051297,1st innings,Bangladesh,Afghanistan,25.2,Tamim Iqbal,Mahmudullah,Rashid Khan,1,0,1,NA,0,NA,NA,NA,1
+1051297,1st innings,Bangladesh,Afghanistan,25.3,Mahmudullah,Tamim Iqbal,Rashid Khan,0,0,0,NA,0,NA,NA,NA,1
+1051297,1st innings,Bangladesh,Afghanistan,25.4,Mahmudullah,Tamim Iqbal,Rashid Khan,1,0,1,NA,0,NA,NA,NA,1
+1051297,1st innings,Bangladesh,Afghanistan,25.5,Tamim Iqbal,Mahmudullah,Rashid Khan,0,0,0,NA,0,NA,NA,NA,1
+1051297,1st innings,Bangladesh,Afghanistan,25.6,Tamim Iqbal,Mahmudullah,Rashid Khan,0,0,0,NA,0,NA,NA,NA,1
+1051297,1st innings,Bangladesh,Afghanistan,26.1,Mahmudullah,Tamim Iqbal,Mirwais Ashraf,0,0,0,NA,0,NA,NA,NA,1
+1051297,1st innings,Bangladesh,Afghanistan,26.2,Mahmudullah,Tamim Iqbal,Mirwais Ashraf,1,0,1,NA,0,NA,NA,NA,1
+1051297,1st innings,Bangladesh,Afghanistan,26.3,Tamim Iqbal,Mahmudullah,Mirwais Ashraf,1,0,1,NA,0,NA,NA,NA,1
+1051297,1st innings,Bangladesh,Afghanistan,26.4,Mahmudullah,Tamim Iqbal,Mirwais Ashraf,0,0,0,NA,0,NA,NA,NA,1
+1051297,1st innings,Bangladesh,Afghanistan,26.5,Mahmudullah,Tamim Iqbal,Mirwais Ashraf,4,0,4,NA,0,NA,NA,NA,1
+1051297,1st innings,Bangladesh,Afghanistan,26.6,Mahmudullah,Tamim Iqbal,Mirwais Ashraf,1,0,1,NA,0,NA,NA,NA,1
+1051297,1st innings,Bangladesh,Afghanistan,27.1,Mahmudullah,Tamim Iqbal,Rashid Khan,0,0,0,NA,0,NA,NA,NA,1
+1051297,1st innings,Bangladesh,Afghanistan,27.2,Mahmudullah,Tamim Iqbal,Rashid Khan,0,0,0,NA,0,NA,NA,NA,1
+1051297,1st innings,Bangladesh,Afghanistan,27.3,Mahmudullah,Tamim Iqbal,Rashid Khan,0,0,0,NA,0,NA,NA,NA,1
+1051297,1st innings,Bangladesh,Afghanistan,27.4,Mahmudullah,Tamim Iqbal,Rashid Khan,0,0,0,NA,0,NA,NA,NA,1
+1051297,1st innings,Bangladesh,Afghanistan,27.5,Mahmudullah,Tamim Iqbal,Rashid Khan,0,0,0,NA,0,NA,NA,NA,1
+1051297,1st innings,Bangladesh,Afghanistan,27.6,Mahmudullah,Tamim Iqbal,Rashid Khan,1,0,1,NA,0,NA,NA,NA,1
+1051297,1st innings,Bangladesh,Afghanistan,28.1,Mahmudullah,Tamim Iqbal,Naveen-ul-Haq,1,0,1,NA,0,NA,NA,NA,1
+1051297,1st innings,Bangladesh,Afghanistan,28.2,Tamim Iqbal,Mahmudullah,Naveen-ul-Haq,0,1,1,legbyes,0,NA,NA,NA,1
+1051297,1st innings,Bangladesh,Afghanistan,28.3,Mahmudullah,Tamim Iqbal,Naveen-ul-Haq,0,0,0,NA,0,NA,NA,NA,1
+1051297,1st innings,Bangladesh,Afghanistan,28.4,Mahmudullah,Tamim Iqbal,Naveen-ul-Haq,1,0,1,NA,0,NA,NA,NA,1
+1051297,1st innings,Bangladesh,Afghanistan,28.5,Tamim Iqbal,Mahmudullah,Naveen-ul-Haq,0,0,0,NA,0,NA,NA,NA,1
+1051297,1st innings,Bangladesh,Afghanistan,28.6,Tamim Iqbal,Mahmudullah,Naveen-ul-Haq,0,0,0,NA,0,NA,NA,NA,1
+1051297,1st innings,Bangladesh,Afghanistan,29.1,Mahmudullah,Tamim Iqbal,Mohammad Nabi,1,0,1,NA,0,NA,NA,NA,1
+1051297,1st innings,Bangladesh,Afghanistan,29.2,Tamim Iqbal,Mahmudullah,Mohammad Nabi,1,0,1,NA,0,NA,NA,NA,1
+1051297,1st innings,Bangladesh,Afghanistan,29.3,Mahmudullah,Tamim Iqbal,Mohammad Nabi,1,0,1,NA,0,NA,NA,NA,1
+1051297,1st innings,Bangladesh,Afghanistan,29.4,Tamim Iqbal,Mahmudullah,Mohammad Nabi,1,0,1,NA,0,NA,NA,NA,1
+1051297,1st innings,Bangladesh,Afghanistan,29.5,Mahmudullah,Tamim Iqbal,Mohammad Nabi,0,0,0,NA,0,NA,NA,NA,1
+1051297,1st innings,Bangladesh,Afghanistan,29.6,Mahmudullah,Tamim Iqbal,Mohammad Nabi,1,0,1,NA,0,NA,NA,NA,1
+1051297,1st innings,Bangladesh,Afghanistan,30.1,Mahmudullah,Tamim Iqbal,Naveen-ul-Haq,1,0,1,NA,0,NA,NA,NA,1
+1051297,1st innings,Bangladesh,Afghanistan,30.2,Tamim Iqbal,Mahmudullah,Naveen-ul-Haq,0,0,0,NA,0,NA,NA,NA,1
+1051297,1st innings,Bangladesh,Afghanistan,30.3,Tamim Iqbal,Mahmudullah,Naveen-ul-Haq,2,0,2,NA,0,NA,NA,NA,1
+1051297,1st innings,Bangladesh,Afghanistan,30.4,Tamim Iqbal,Mahmudullah,Naveen-ul-Haq,1,0,1,NA,0,NA,NA,NA,1
+1051297,1st innings,Bangladesh,Afghanistan,30.5,Mahmudullah,Tamim Iqbal,Naveen-ul-Haq,1,0,1,NA,0,NA,NA,NA,1
+1051297,1st innings,Bangladesh,Afghanistan,30.6,Tamim Iqbal,Mahmudullah,Naveen-ul-Haq,1,0,1,NA,0,NA,NA,NA,1
+1051297,1st innings,Bangladesh,Afghanistan,31.1,Tamim Iqbal,Mahmudullah,Mohammad Nabi,1,0,1,NA,0,NA,NA,NA,1
+1051297,1st innings,Bangladesh,Afghanistan,31.2,Mahmudullah,Tamim Iqbal,Mohammad Nabi,1,0,1,NA,0,NA,NA,NA,1
+1051297,1st innings,Bangladesh,Afghanistan,31.3,Tamim Iqbal,Mahmudullah,Mohammad Nabi,1,0,1,NA,0,NA,NA,NA,1
+1051297,1st innings,Bangladesh,Afghanistan,31.4,Mahmudullah,Tamim Iqbal,Mohammad Nabi,0,0,0,NA,0,NA,NA,NA,1
+1051297,1st innings,Bangladesh,Afghanistan,31.5,Mahmudullah,Tamim Iqbal,Mohammad Nabi,0,0,0,NA,0,NA,NA,NA,1
+1051297,1st innings,Bangladesh,Afghanistan,31.6,Mahmudullah,Tamim Iqbal,Mohammad Nabi,1,0,1,NA,0,NA,NA,NA,1
+1051297,1st innings,Bangladesh,Afghanistan,32.1,Mahmudullah,Tamim Iqbal,Mirwais Ashraf,0,0,0,NA,0,NA,NA,NA,1
+1051297,1st innings,Bangladesh,Afghanistan,32.2,Mahmudullah,Tamim Iqbal,Mirwais Ashraf,0,0,0,NA,0,NA,NA,NA,1
+1051297,1st innings,Bangladesh,Afghanistan,32.3,Mahmudullah,Tamim Iqbal,Mirwais Ashraf,0,0,0,NA,0,NA,NA,NA,1
+1051297,1st innings,Bangladesh,Afghanistan,32.4,Mahmudullah,Tamim Iqbal,Mirwais Ashraf,4,0,4,NA,0,NA,NA,NA,1
+1051297,1st innings,Bangladesh,Afghanistan,32.5,Mahmudullah,Tamim Iqbal,Mirwais Ashraf,0,0,0,NA,0,NA,NA,NA,1
+1051297,1st innings,Bangladesh,Afghanistan,32.6,Mahmudullah,Tamim Iqbal,Mirwais Ashraf,1,0,1,NA,0,NA,NA,NA,1
+1051297,1st innings,Bangladesh,Afghanistan,33.1,Mahmudullah,Tamim Iqbal,Dawlat Zadran,1,0,1,NA,0,NA,NA,NA,1
+1051297,1st innings,Bangladesh,Afghanistan,33.2,Tamim Iqbal,Mahmudullah,Dawlat Zadran,0,0,0,NA,0,NA,NA,NA,1
+1051297,1st innings,Bangladesh,Afghanistan,33.3,Tamim Iqbal,Mahmudullah,Dawlat Zadran,1,0,1,NA,0,NA,NA,NA,1
+1051297,1st innings,Bangladesh,Afghanistan,33.4,Mahmudullah,Tamim Iqbal,Dawlat Zadran,4,0,4,NA,0,NA,NA,NA,1
+1051297,1st innings,Bangladesh,Afghanistan,33.5,Mahmudullah,Tamim Iqbal,Dawlat Zadran,1,0,1,NA,0,NA,NA,NA,1
+1051297,1st innings,Bangladesh,Afghanistan,33.6,Tamim Iqbal,Mahmudullah,Dawlat Zadran,1,0,1,NA,0,NA,NA,NA,1
+1051297,1st innings,Bangladesh,Afghanistan,34.1,Tamim Iqbal,Mahmudullah,Rashid Khan,0,0,0,NA,0,NA,NA,NA,1
+1051297,1st innings,Bangladesh,Afghanistan,34.2,Tamim Iqbal,Mahmudullah,Rashid Khan,0,0,0,NA,0,NA,NA,NA,1
+1051297,1st innings,Bangladesh,Afghanistan,34.3,Tamim Iqbal,Mahmudullah,Rashid Khan,0,0,0,NA,0,NA,NA,NA,1
+1051297,1st innings,Bangladesh,Afghanistan,34.4,Tamim Iqbal,Mahmudullah,Rashid Khan,1,0,1,NA,0,NA,NA,NA,1
+1051297,1st innings,Bangladesh,Afghanistan,34.5,Mahmudullah,Tamim Iqbal,Rashid Khan,0,0,0,NA,0,NA,NA,NA,1
+1051297,1st innings,Bangladesh,Afghanistan,34.6,Mahmudullah,Tamim Iqbal,Rashid Khan,0,0,0,NA,0,NA,NA,NA,1
+1051297,1st innings,Bangladesh,Afghanistan,35.1,Tamim Iqbal,Mahmudullah,Mirwais Ashraf,0,0,0,NA,1,caught,Tamim Iqbal,Naveen-ul-Haq,1
+1051297,1st innings,Bangladesh,Afghanistan,35.2,Shakib Al Hasan,Mahmudullah,Mirwais Ashraf,0,0,0,NA,0,NA,NA,NA,1
+1051297,1st innings,Bangladesh,Afghanistan,35.3,Shakib Al Hasan,Mahmudullah,Mirwais Ashraf,1,0,1,NA,0,NA,NA,NA,1
+1051297,1st innings,Bangladesh,Afghanistan,35.4,Mahmudullah,Shakib Al Hasan,Mirwais Ashraf,0,0,0,NA,0,NA,NA,NA,1
+1051297,1st innings,Bangladesh,Afghanistan,35.5,Mahmudullah,Shakib Al Hasan,Mirwais Ashraf,1,0,1,NA,0,NA,NA,NA,1
+1051297,1st innings,Bangladesh,Afghanistan,35.6,Shakib Al Hasan,Mahmudullah,Mirwais Ashraf,0,0,0,NA,0,NA,NA,NA,1
+1051297,1st innings,Bangladesh,Afghanistan,36.1,Mahmudullah,Shakib Al Hasan,Rashid Khan,1,0,1,NA,0,NA,NA,NA,1
+1051297,1st innings,Bangladesh,Afghanistan,36.2,Shakib Al Hasan,Mahmudullah,Rashid Khan,0,0,0,NA,0,NA,NA,NA,1
+1051297,1st innings,Bangladesh,Afghanistan,36.3,Shakib Al Hasan,Mahmudullah,Rashid Khan,1,0,1,NA,0,NA,NA,NA,1
+1051297,1st innings,Bangladesh,Afghanistan,36.4,Mahmudullah,Shakib Al Hasan,Rashid Khan,1,0,1,NA,0,NA,NA,NA,1
+1051297,1st innings,Bangladesh,Afghanistan,36.5,Shakib Al Hasan,Mahmudullah,Rashid Khan,2,0,2,NA,0,NA,NA,NA,1
+1051297,1st innings,Bangladesh,Afghanistan,36.6,Shakib Al Hasan,Mahmudullah,Rashid Khan,0,0,0,NA,0,NA,NA,NA,1
+1051297,1st innings,Bangladesh,Afghanistan,37.1,Mahmudullah,Shakib Al Hasan,Dawlat Zadran,4,0,4,NA,0,NA,NA,NA,1
+1051297,1st innings,Bangladesh,Afghanistan,37.2,Mahmudullah,Shakib Al Hasan,Dawlat Zadran,2,0,2,NA,0,NA,NA,NA,1
+1051297,1st innings,Bangladesh,Afghanistan,37.3,Mahmudullah,Shakib Al Hasan,Dawlat Zadran,0,0,0,NA,0,NA,NA,NA,1
+1051297,1st innings,Bangladesh,Afghanistan,37.4,Mahmudullah,Shakib Al Hasan,Dawlat Zadran,4,0,4,NA,0,NA,NA,NA,1
+1051297,1st innings,Bangladesh,Afghanistan,37.5,Mahmudullah,Shakib Al Hasan,Dawlat Zadran,6,0,6,NA,0,NA,NA,NA,1
+1051297,1st innings,Bangladesh,Afghanistan,37.6,Mahmudullah,Shakib Al Hasan,Dawlat Zadran,0,0,0,NA,0,NA,NA,NA,1
+1051297,1st innings,Bangladesh,Afghanistan,38.1,Shakib Al Hasan,Mahmudullah,Mohammad Nabi,0,0,0,NA,0,NA,NA,NA,1
+1051297,1st innings,Bangladesh,Afghanistan,38.2,Shakib Al Hasan,Mahmudullah,Mohammad Nabi,0,0,0,NA,0,NA,NA,NA,1
+1051297,1st innings,Bangladesh,Afghanistan,38.3,Shakib Al Hasan,Mahmudullah,Mohammad Nabi,1,0,1,NA,0,NA,NA,NA,1
+1051297,1st innings,Bangladesh,Afghanistan,38.4,Mahmudullah,Shakib Al Hasan,Mohammad Nabi,0,0,0,NA,0,NA,NA,NA,1
+1051297,1st innings,Bangladesh,Afghanistan,38.5,Mahmudullah,Shakib Al Hasan,Mohammad Nabi,0,0,0,NA,0,NA,NA,NA,1
+1051297,1st innings,Bangladesh,Afghanistan,38.6,Mahmudullah,Shakib Al Hasan,Mohammad Nabi,1,0,1,NA,0,NA,NA,NA,1
+1051297,1st innings,Bangladesh,Afghanistan,39.1,Mahmudullah,Shakib Al Hasan,Naveen-ul-Haq,1,0,1,NA,0,NA,NA,NA,1
+1051297,1st innings,Bangladesh,Afghanistan,39.2,Shakib Al Hasan,Mahmudullah,Naveen-ul-Haq,1,0,1,NA,0,NA,NA,NA,1
+1051297,1st innings,Bangladesh,Afghanistan,39.3,Mahmudullah,Shakib Al Hasan,Naveen-ul-Haq,1,0,1,NA,0,NA,NA,NA,1
+1051297,1st innings,Bangladesh,Afghanistan,39.4,Shakib Al Hasan,Mahmudullah,Naveen-ul-Haq,1,0,1,NA,0,NA,NA,NA,1
+1051297,1st innings,Bangladesh,Afghanistan,39.5,Mahmudullah,Shakib Al Hasan,Naveen-ul-Haq,1,0,1,NA,0,NA,NA,NA,1
+1051297,1st innings,Bangladesh,Afghanistan,39.6,Shakib Al Hasan,Mahmudullah,Naveen-ul-Haq,3,0,3,NA,0,NA,NA,NA,1
+1051297,1st innings,Bangladesh,Afghanistan,40.1,Shakib Al Hasan,Mahmudullah,Mohammad Nabi,4,0,4,NA,0,NA,NA,NA,1
+1051297,1st innings,Bangladesh,Afghanistan,40.2,Shakib Al Hasan,Mahmudullah,Mohammad Nabi,2,0,2,NA,0,NA,NA,NA,1
+1051297,1st innings,Bangladesh,Afghanistan,40.3,Shakib Al Hasan,Mahmudullah,Mohammad Nabi,1,0,1,NA,0,NA,NA,NA,1
+1051297,1st innings,Bangladesh,Afghanistan,40.4,Mahmudullah,Shakib Al Hasan,Mohammad Nabi,0,0,0,NA,1,caught,Mahmudullah,Mirwais Ashraf,1
+1051297,1st innings,Bangladesh,Afghanistan,40.5,Mushfiqur Rahim,Shakib Al Hasan,Mohammad Nabi,0,0,0,NA,0,NA,NA,NA,1
+1051297,1st innings,Bangladesh,Afghanistan,40.6,Mushfiqur Rahim,Shakib Al Hasan,Mohammad Nabi,1,0,1,NA,0,NA,NA,NA,1
+1051297,1st innings,Bangladesh,Afghanistan,41.1,Mushfiqur Rahim,Shakib Al Hasan,Naveen-ul-Haq,1,0,1,NA,0,NA,NA,NA,1
+1051297,1st innings,Bangladesh,Afghanistan,41.2,Shakib Al Hasan,Mushfiqur Rahim,Naveen-ul-Haq,1,0,1,NA,0,NA,NA,NA,1
+1051297,1st innings,Bangladesh,Afghanistan,41.3,Mushfiqur Rahim,Shakib Al Hasan,Naveen-ul-Haq,1,0,1,NA,0,NA,NA,NA,1
+1051297,1st innings,Bangladesh,Afghanistan,41.4,Shakib Al Hasan,Mushfiqur Rahim,Naveen-ul-Haq,2,0,2,NA,0,NA,NA,NA,1
+1051297,1st innings,Bangladesh,Afghanistan,41.5,Shakib Al Hasan,Mushfiqur Rahim,Naveen-ul-Haq,0,0,0,NA,0,NA,NA,NA,1
+1051297,1st innings,Bangladesh,Afghanistan,41.6,Shakib Al Hasan,Mushfiqur Rahim,Naveen-ul-Haq,1,0,1,NA,0,NA,NA,NA,1
+1051297,1st innings,Bangladesh,Afghanistan,42.1,Shakib Al Hasan,Mushfiqur Rahim,Rashid Khan,1,0,1,NA,0,NA,NA,NA,1
+1051297,1st innings,Bangladesh,Afghanistan,42.2,Mushfiqur Rahim,Shakib Al Hasan,Rashid Khan,1,0,1,NA,0,NA,NA,NA,1
+1051297,1st innings,Bangladesh,Afghanistan,42.3,Shakib Al Hasan,Mushfiqur Rahim,Rashid Khan,0,0,0,NA,0,NA,NA,NA,1
+1051297,1st innings,Bangladesh,Afghanistan,42.4,Shakib Al Hasan,Mushfiqur Rahim,Rashid Khan,1,0,1,NA,0,NA,NA,NA,1
+1051297,1st innings,Bangladesh,Afghanistan,42.5,Mushfiqur Rahim,Shakib Al Hasan,Rashid Khan,2,0,2,NA,0,NA,NA,NA,1
+1051297,1st innings,Bangladesh,Afghanistan,42.6,Mushfiqur Rahim,Shakib Al Hasan,Rashid Khan,0,0,0,NA,1,bowled,Mushfiqur Rahim,NA,1
+1051297,1st innings,Bangladesh,Afghanistan,43.1,Shakib Al Hasan,Sabbir Rahman,Mirwais Ashraf,4,0,4,NA,0,NA,NA,NA,1
+1051297,1st innings,Bangladesh,Afghanistan,43.2,Shakib Al Hasan,Sabbir Rahman,Mirwais Ashraf,1,0,1,NA,0,NA,NA,NA,1
+1051297,1st innings,Bangladesh,Afghanistan,43.3,Sabbir Rahman,Shakib Al Hasan,Mirwais Ashraf,0,0,0,NA,0,NA,NA,NA,1
+1051297,1st innings,Bangladesh,Afghanistan,43.4,Sabbir Rahman,Shakib Al Hasan,Mirwais Ashraf,1,0,1,NA,0,NA,NA,NA,1
+1051297,1st innings,Bangladesh,Afghanistan,43.5,Shakib Al Hasan,Sabbir Rahman,Mirwais Ashraf,2,0,2,NA,0,NA,NA,NA,1
+1051297,1st innings,Bangladesh,Afghanistan,43.6,Shakib Al Hasan,Sabbir Rahman,Mirwais Ashraf,1,0,1,NA,0,NA,NA,NA,1
+1051297,1st innings,Bangladesh,Afghanistan,44.1,Shakib Al Hasan,Sabbir Rahman,Rashid Khan,1,0,1,NA,0,NA,NA,NA,1
+1051297,1st innings,Bangladesh,Afghanistan,44.2,Sabbir Rahman,Shakib Al Hasan,Rashid Khan,0,0,0,NA,0,NA,NA,NA,1
+1051297,1st innings,Bangladesh,Afghanistan,44.3,Sabbir Rahman,Shakib Al Hasan,Rashid Khan,1,0,1,NA,0,NA,NA,NA,1
+1051297,1st innings,Bangladesh,Afghanistan,44.4,Shakib Al Hasan,Sabbir Rahman,Rashid Khan,1,0,1,NA,0,NA,NA,NA,1
+1051297,1st innings,Bangladesh,Afghanistan,44.5,Sabbir Rahman,Shakib Al Hasan,Rashid Khan,0,0,0,NA,1,lbw,Sabbir Rahman,NA,1
+1051297,1st innings,Bangladesh,Afghanistan,44.6,Mashrafe Mortaza,Shakib Al Hasan,Rashid Khan,0,0,0,NA,0,NA,NA,NA,1
+1051297,1st innings,Bangladesh,Afghanistan,45.1,Shakib Al Hasan,Mashrafe Mortaza,Dawlat Zadran,0,0,0,NA,0,NA,NA,NA,1
+1051297,1st innings,Bangladesh,Afghanistan,45.2,Shakib Al Hasan,Mashrafe Mortaza,Dawlat Zadran,2,0,2,NA,0,NA,NA,NA,1
+1051297,1st innings,Bangladesh,Afghanistan,45.3,Shakib Al Hasan,Mashrafe Mortaza,Dawlat Zadran,1,0,1,NA,0,NA,NA,NA,1
+1051297,1st innings,Bangladesh,Afghanistan,45.4,Mashrafe Mortaza,Shakib Al Hasan,Dawlat Zadran,0,0,0,NA,0,NA,NA,NA,1
+1051297,1st innings,Bangladesh,Afghanistan,45.5,Mashrafe Mortaza,Shakib Al Hasan,Dawlat Zadran,0,1,1,wides,0,NA,NA,NA,1
+1051297,1st innings,Bangladesh,Afghanistan,45.6,Mashrafe Mortaza,Shakib Al Hasan,Dawlat Zadran,1,0,1,NA,0,NA,NA,NA,1
+1051297,1st innings,Bangladesh,Afghanistan,45.7,Shakib Al Hasan,Mashrafe Mortaza,Dawlat Zadran,1,0,1,NA,0,NA,NA,NA,1
+1051297,1st innings,Bangladesh,Afghanistan,46.1,Shakib Al Hasan,Mashrafe Mortaza,Naveen-ul-Haq,4,0,4,NA,0,NA,NA,NA,1
+1051297,1st innings,Bangladesh,Afghanistan,46.2,Shakib Al Hasan,Mashrafe Mortaza,Naveen-ul-Haq,1,0,1,NA,0,NA,NA,NA,1
+1051297,1st innings,Bangladesh,Afghanistan,46.3,Mashrafe Mortaza,Shakib Al Hasan,Naveen-ul-Haq,1,0,1,NA,0,NA,NA,NA,1
+1051297,1st innings,Bangladesh,Afghanistan,46.4,Shakib Al Hasan,Mashrafe Mortaza,Naveen-ul-Haq,2,0,2,NA,0,NA,NA,NA,1
+1051297,1st innings,Bangladesh,Afghanistan,46.5,Shakib Al Hasan,Mashrafe Mortaza,Naveen-ul-Haq,2,0,2,NA,0,NA,NA,NA,1
+1051297,1st innings,Bangladesh,Afghanistan,46.6,Shakib Al Hasan,Mashrafe Mortaza,Naveen-ul-Haq,1,0,1,NA,0,NA,NA,NA,1
+1051297,1st innings,Bangladesh,Afghanistan,47.1,Shakib Al Hasan,Mashrafe Mortaza,Dawlat Zadran,1,0,1,NA,0,NA,NA,NA,1
+1051297,1st innings,Bangladesh,Afghanistan,47.2,Mashrafe Mortaza,Shakib Al Hasan,Dawlat Zadran,1,0,1,NA,0,NA,NA,NA,1
+1051297,1st innings,Bangladesh,Afghanistan,47.3,Shakib Al Hasan,Mashrafe Mortaza,Dawlat Zadran,0,0,0,NA,1,caught,Shakib Al Hasan,Najibullah Zadran,1
+1051297,1st innings,Bangladesh,Afghanistan,47.4,Taijul Islam,Mashrafe Mortaza,Dawlat Zadran,0,2,2,wides,0,NA,NA,NA,1
+1051297,1st innings,Bangladesh,Afghanistan,47.5,Mashrafe Mortaza,Taijul Islam,Dawlat Zadran,1,0,1,NA,0,NA,NA,NA,1
+1051297,1st innings,Bangladesh,Afghanistan,47.6,Taijul Islam,Mashrafe Mortaza,Dawlat Zadran,0,1,1,wides,0,NA,NA,NA,1
+1051297,1st innings,Bangladesh,Afghanistan,47.7,Taijul Islam,Mashrafe Mortaza,Dawlat Zadran,0,0,0,NA,0,NA,NA,NA,1
+1051297,1st innings,Bangladesh,Afghanistan,47.8,Taijul Islam,Mashrafe Mortaza,Dawlat Zadran,1,0,1,NA,0,NA,NA,NA,1
+1051297,1st innings,Bangladesh,Afghanistan,48.1,Taijul Islam,Mashrafe Mortaza,Naveen-ul-Haq,2,0,2,NA,0,NA,NA,NA,1
+1051297,1st innings,Bangladesh,Afghanistan,48.2,Taijul Islam,Mashrafe Mortaza,Naveen-ul-Haq,1,0,1,NA,0,NA,NA,NA,1
+1051297,1st innings,Bangladesh,Afghanistan,48.3,Mashrafe Mortaza,Taijul Islam,Naveen-ul-Haq,0,0,0,NA,0,NA,NA,NA,1
+1051297,1st innings,Bangladesh,Afghanistan,48.4,Mashrafe Mortaza,Taijul Islam,Naveen-ul-Haq,0,0,0,NA,1,caught,Mashrafe Mortaza,Rashid Khan,1
+1051297,1st innings,Bangladesh,Afghanistan,48.5,Taijul Islam,Taskin Ahmed,Naveen-ul-Haq,0,1,1,byes,0,NA,NA,NA,1
+1051297,1st innings,Bangladesh,Afghanistan,48.6,Taskin Ahmed,Taijul Islam,Naveen-ul-Haq,2,0,2,NA,0,NA,NA,NA,1
+1051297,1st innings,Bangladesh,Afghanistan,49.1,Taijul Islam,Taskin Ahmed,Dawlat Zadran,2,0,2,NA,0,NA,NA,NA,1
+1051297,1st innings,Bangladesh,Afghanistan,49.2,Taijul Islam,Taskin Ahmed,Dawlat Zadran,1,0,1,NA,0,NA,NA,NA,1
+1051297,1st innings,Bangladesh,Afghanistan,49.3,Taskin Ahmed,Taijul Islam,Dawlat Zadran,0,0,0,NA,1,bowled,Taskin Ahmed,NA,1
+1051297,1st innings,Bangladesh,Afghanistan,49.4,Rubel Hossain,Taijul Islam,Dawlat Zadran,1,0,1,NA,0,NA,NA,NA,1
+1051297,1st innings,Bangladesh,Afghanistan,49.5,Taijul Islam,Rubel Hossain,Dawlat Zadran,4,0,4,NA,0,NA,NA,NA,1
+1051297,1st innings,Bangladesh,Afghanistan,49.6,Taijul Islam,Rubel Hossain,Dawlat Zadran,0,0,0,NA,1,caught,Taijul Islam,Rahmat Shah,1
+1051297,2nd innings,Afghanistan,Bangladesh,0.1,Shabir Noori,Mohammad Shahzad,Mashrafe Mortaza,0,1,1,wides,0,NA,NA,NA,0
+1051297,2nd innings,Afghanistan,Bangladesh,0.2,Shabir Noori,Mohammad Shahzad,Mashrafe Mortaza,0,0,0,NA,0,NA,NA,NA,0
+1051297,2nd innings,Afghanistan,Bangladesh,0.3,Shabir Noori,Mohammad Shahzad,Mashrafe Mortaza,0,0,0,NA,0,NA,NA,NA,0
+1051297,2nd innings,Afghanistan,Bangladesh,0.4,Shabir Noori,Mohammad Shahzad,Mashrafe Mortaza,0,0,0,NA,0,NA,NA,NA,0
+1051297,2nd innings,Afghanistan,Bangladesh,0.5,Shabir Noori,Mohammad Shahzad,Mashrafe Mortaza,0,0,0,NA,0,NA,NA,NA,0
+1051297,2nd innings,Afghanistan,Bangladesh,0.6,Shabir Noori,Mohammad Shahzad,Mashrafe Mortaza,0,0,0,NA,0,NA,NA,NA,0
+1051297,2nd innings,Afghanistan,Bangladesh,0.7,Shabir Noori,Mohammad Shahzad,Mashrafe Mortaza,0,0,0,NA,0,NA,NA,NA,0
+1051297,2nd innings,Afghanistan,Bangladesh,1.1,Mohammad Shahzad,Shabir Noori,Taskin Ahmed,0,1,1,wides,0,NA,NA,NA,0
+1051297,2nd innings,Afghanistan,Bangladesh,1.2,Mohammad Shahzad,Shabir Noori,Taskin Ahmed,1,0,1,NA,0,NA,NA,NA,0
+1051297,2nd innings,Afghanistan,Bangladesh,1.3,Shabir Noori,Mohammad Shahzad,Taskin Ahmed,0,1,1,wides,0,NA,NA,NA,0
+1051297,2nd innings,Afghanistan,Bangladesh,1.4,Shabir Noori,Mohammad Shahzad,Taskin Ahmed,0,0,0,NA,0,NA,NA,NA,0
+1051297,2nd innings,Afghanistan,Bangladesh,1.5,Shabir Noori,Mohammad Shahzad,Taskin Ahmed,0,1,1,wides,0,NA,NA,NA,0
+1051297,2nd innings,Afghanistan,Bangladesh,1.6,Shabir Noori,Mohammad Shahzad,Taskin Ahmed,0,0,0,NA,0,NA,NA,NA,0
+1051297,2nd innings,Afghanistan,Bangladesh,1.7,Shabir Noori,Mohammad Shahzad,Taskin Ahmed,0,0,0,NA,0,NA,NA,NA,0
+1051297,2nd innings,Afghanistan,Bangladesh,1.8,Shabir Noori,Mohammad Shahzad,Taskin Ahmed,0,0,0,NA,0,NA,NA,NA,0
+1051297,2nd innings,Afghanistan,Bangladesh,1.9,Shabir Noori,Mohammad Shahzad,Taskin Ahmed,0,0,0,NA,0,NA,NA,NA,0
+1051297,2nd innings,Afghanistan,Bangladesh,2.1,Mohammad Shahzad,Shabir Noori,Mashrafe Mortaza,0,0,0,NA,0,NA,NA,NA,0
+1051297,2nd innings,Afghanistan,Bangladesh,2.2,Mohammad Shahzad,Shabir Noori,Mashrafe Mortaza,0,0,0,NA,0,NA,NA,NA,0
+1051297,2nd innings,Afghanistan,Bangladesh,2.3,Mohammad Shahzad,Shabir Noori,Mashrafe Mortaza,0,0,0,NA,0,NA,NA,NA,0
+1051297,2nd innings,Afghanistan,Bangladesh,2.4,Mohammad Shahzad,Shabir Noori,Mashrafe Mortaza,4,0,4,NA,0,NA,NA,NA,0
+1051297,2nd innings,Afghanistan,Bangladesh,2.5,Mohammad Shahzad,Shabir Noori,Mashrafe Mortaza,0,0,0,NA,0,NA,NA,NA,0
+1051297,2nd innings,Afghanistan,Bangladesh,2.6,Mohammad Shahzad,Shabir Noori,Mashrafe Mortaza,0,0,0,NA,0,NA,NA,NA,0
+1051297,2nd innings,Afghanistan,Bangladesh,3.1,Shabir Noori,Mohammad Shahzad,Taskin Ahmed,4,0,4,NA,0,NA,NA,NA,0
+1051297,2nd innings,Afghanistan,Bangladesh,3.2,Shabir Noori,Mohammad Shahzad,Taskin Ahmed,1,0,1,NA,0,NA,NA,NA,0
+1051297,2nd innings,Afghanistan,Bangladesh,3.3,Mohammad Shahzad,Shabir Noori,Taskin Ahmed,0,0,0,NA,0,NA,NA,NA,0
+1051297,2nd innings,Afghanistan,Bangladesh,3.4,Mohammad Shahzad,Shabir Noori,Taskin Ahmed,1,0,1,NA,0,NA,NA,NA,0
+1051297,2nd innings,Afghanistan,Bangladesh,3.5,Shabir Noori,Mohammad Shahzad,Taskin Ahmed,1,0,1,NA,0,NA,NA,NA,0
+1051297,2nd innings,Afghanistan,Bangladesh,3.6,Mohammad Shahzad,Shabir Noori,Taskin Ahmed,0,0,0,NA,0,NA,NA,NA,0
+1051297,2nd innings,Afghanistan,Bangladesh,4.1,Shabir Noori,Mohammad Shahzad,Mashrafe Mortaza,0,1,1,legbyes,0,NA,NA,NA,0
+1051297,2nd innings,Afghanistan,Bangladesh,4.2,Mohammad Shahzad,Shabir Noori,Mashrafe Mortaza,1,0,1,NA,0,NA,NA,NA,0
+1051297,2nd innings,Afghanistan,Bangladesh,4.3,Shabir Noori,Mohammad Shahzad,Mashrafe Mortaza,0,0,0,NA,0,NA,NA,NA,0
+1051297,2nd innings,Afghanistan,Bangladesh,4.4,Shabir Noori,Mohammad Shahzad,Mashrafe Mortaza,0,0,0,NA,0,NA,NA,NA,0
+1051297,2nd innings,Afghanistan,Bangladesh,4.5,Shabir Noori,Mohammad Shahzad,Mashrafe Mortaza,2,0,2,NA,0,NA,NA,NA,0
+1051297,2nd innings,Afghanistan,Bangladesh,4.6,Shabir Noori,Mohammad Shahzad,Mashrafe Mortaza,0,0,0,NA,0,NA,NA,NA,0
+1051297,2nd innings,Afghanistan,Bangladesh,5.1,Mohammad Shahzad,Shabir Noori,Taskin Ahmed,4,0,4,NA,0,NA,NA,NA,0
+1051297,2nd innings,Afghanistan,Bangladesh,5.2,Mohammad Shahzad,Shabir Noori,Taskin Ahmed,4,0,4,NA,0,NA,NA,NA,0
+1051297,2nd innings,Afghanistan,Bangladesh,5.3,Mohammad Shahzad,Shabir Noori,Taskin Ahmed,4,0,4,NA,0,NA,NA,NA,0
+1051297,2nd innings,Afghanistan,Bangladesh,5.4,Mohammad Shahzad,Shabir Noori,Taskin Ahmed,0,1,1,wides,0,NA,NA,NA,0
+1051297,2nd innings,Afghanistan,Bangladesh,5.5,Mohammad Shahzad,Shabir Noori,Taskin Ahmed,0,0,0,NA,0,NA,NA,NA,0
+1051297,2nd innings,Afghanistan,Bangladesh,5.6,Mohammad Shahzad,Shabir Noori,Taskin Ahmed,2,0,2,NA,0,NA,NA,NA,0
+1051297,2nd innings,Afghanistan,Bangladesh,5.7,Mohammad Shahzad,Shabir Noori,Taskin Ahmed,2,0,2,NA,0,NA,NA,NA,0
+1051297,2nd innings,Afghanistan,Bangladesh,6.1,Shabir Noori,Mohammad Shahzad,Mashrafe Mortaza,0,0,0,NA,0,NA,NA,NA,0
+1051297,2nd innings,Afghanistan,Bangladesh,6.2,Shabir Noori,Mohammad Shahzad,Mashrafe Mortaza,1,0,1,NA,0,NA,NA,NA,0
+1051297,2nd innings,Afghanistan,Bangladesh,6.3,Mohammad Shahzad,Shabir Noori,Mashrafe Mortaza,0,0,0,NA,0,NA,NA,NA,0
+1051297,2nd innings,Afghanistan,Bangladesh,6.4,Mohammad Shahzad,Shabir Noori,Mashrafe Mortaza,2,0,2,NA,0,NA,NA,NA,0
+1051297,2nd innings,Afghanistan,Bangladesh,6.5,Mohammad Shahzad,Shabir Noori,Mashrafe Mortaza,6,0,6,NA,0,NA,NA,NA,0
+1051297,2nd innings,Afghanistan,Bangladesh,6.6,Mohammad Shahzad,Shabir Noori,Mashrafe Mortaza,0,0,0,NA,1,caught,Mohammad Shahzad,Mushfiqur Rahim,0
+1051297,2nd innings,Afghanistan,Bangladesh,7.1,Shabir Noori,Rahmat Shah,Shakib Al Hasan,0,0,0,NA,0,NA,NA,NA,0
+1051297,2nd innings,Afghanistan,Bangladesh,7.2,Shabir Noori,Rahmat Shah,Shakib Al Hasan,0,0,0,NA,0,NA,NA,NA,0
+1051297,2nd innings,Afghanistan,Bangladesh,7.3,Shabir Noori,Rahmat Shah,Shakib Al Hasan,0,0,0,NA,1,lbw,Shabir Noori,NA,0
+1051297,2nd innings,Afghanistan,Bangladesh,7.4,Hashmatullah Shahidi,Rahmat Shah,Shakib Al Hasan,1,0,1,NA,0,NA,NA,NA,0
+1051297,2nd innings,Afghanistan,Bangladesh,7.5,Rahmat Shah,Hashmatullah Shahidi,Shakib Al Hasan,0,0,0,NA,0,NA,NA,NA,0
+1051297,2nd innings,Afghanistan,Bangladesh,7.6,Rahmat Shah,Hashmatullah Shahidi,Shakib Al Hasan,1,0,1,NA,0,NA,NA,NA,0
+1051297,2nd innings,Afghanistan,Bangladesh,8.1,Rahmat Shah,Hashmatullah Shahidi,Mashrafe Mortaza,0,0,0,NA,0,NA,NA,NA,0
+1051297,2nd innings,Afghanistan,Bangladesh,8.2,Rahmat Shah,Hashmatullah Shahidi,Mashrafe Mortaza,0,0,0,NA,0,NA,NA,NA,0
+1051297,2nd innings,Afghanistan,Bangladesh,8.3,Rahmat Shah,Hashmatullah Shahidi,Mashrafe Mortaza,1,0,1,NA,0,NA,NA,NA,0
+1051297,2nd innings,Afghanistan,Bangladesh,8.4,Hashmatullah Shahidi,Rahmat Shah,Mashrafe Mortaza,0,0,0,NA,0,NA,NA,NA,0
+1051297,2nd innings,Afghanistan,Bangladesh,8.5,Hashmatullah Shahidi,Rahmat Shah,Mashrafe Mortaza,0,1,1,byes,0,NA,NA,NA,0
+1051297,2nd innings,Afghanistan,Bangladesh,8.6,Rahmat Shah,Hashmatullah Shahidi,Mashrafe Mortaza,0,0,0,NA,0,NA,NA,NA,0
+1051297,2nd innings,Afghanistan,Bangladesh,9.1,Hashmatullah Shahidi,Rahmat Shah,Shakib Al Hasan,0,0,0,NA,0,NA,NA,NA,0
+1051297,2nd innings,Afghanistan,Bangladesh,9.2,Hashmatullah Shahidi,Rahmat Shah,Shakib Al Hasan,1,0,1,NA,0,NA,NA,NA,0
+1051297,2nd innings,Afghanistan,Bangladesh,9.3,Rahmat Shah,Hashmatullah Shahidi,Shakib Al Hasan,0,0,0,NA,0,NA,NA,NA,0
+1051297,2nd innings,Afghanistan,Bangladesh,9.4,Rahmat Shah,Hashmatullah Shahidi,Shakib Al Hasan,0,0,0,NA,0,NA,NA,NA,0
+1051297,2nd innings,Afghanistan,Bangladesh,9.5,Rahmat Shah,Hashmatullah Shahidi,Shakib Al Hasan,0,0,0,NA,0,NA,NA,NA,0
+1051297,2nd innings,Afghanistan,Bangladesh,9.6,Rahmat Shah,Hashmatullah Shahidi,Shakib Al Hasan,0,0,0,NA,0,NA,NA,NA,0
+1051297,2nd innings,Afghanistan,Bangladesh,10.1,Hashmatullah Shahidi,Rahmat Shah,Mashrafe Mortaza,0,0,0,NA,0,NA,NA,NA,0
+1051297,2nd innings,Afghanistan,Bangladesh,10.2,Hashmatullah Shahidi,Rahmat Shah,Mashrafe Mortaza,0,0,0,NA,0,NA,NA,NA,0
+1051297,2nd innings,Afghanistan,Bangladesh,10.3,Hashmatullah Shahidi,Rahmat Shah,Mashrafe Mortaza,0,0,0,NA,0,NA,NA,NA,0
+1051297,2nd innings,Afghanistan,Bangladesh,10.4,Hashmatullah Shahidi,Rahmat Shah,Mashrafe Mortaza,0,0,0,NA,0,NA,NA,NA,0
+1051297,2nd innings,Afghanistan,Bangladesh,10.5,Hashmatullah Shahidi,Rahmat Shah,Mashrafe Mortaza,0,0,0,NA,0,NA,NA,NA,0
+1051297,2nd innings,Afghanistan,Bangladesh,10.6,Hashmatullah Shahidi,Rahmat Shah,Mashrafe Mortaza,1,0,1,NA,0,NA,NA,NA,0
+1051297,2nd innings,Afghanistan,Bangladesh,11.1,Hashmatullah Shahidi,Rahmat Shah,Shakib Al Hasan,0,0,0,NA,0,NA,NA,NA,0
+1051297,2nd innings,Afghanistan,Bangladesh,11.2,Hashmatullah Shahidi,Rahmat Shah,Shakib Al Hasan,0,1,1,wides,0,NA,NA,NA,0
+1051297,2nd innings,Afghanistan,Bangladesh,11.3,Hashmatullah Shahidi,Rahmat Shah,Shakib Al Hasan,0,0,0,NA,0,NA,NA,NA,0
+1051297,2nd innings,Afghanistan,Bangladesh,11.4,Hashmatullah Shahidi,Rahmat Shah,Shakib Al Hasan,0,0,0,NA,0,NA,NA,NA,0
+1051297,2nd innings,Afghanistan,Bangladesh,11.5,Hashmatullah Shahidi,Rahmat Shah,Shakib Al Hasan,0,0,0,NA,0,NA,NA,NA,0
+1051297,2nd innings,Afghanistan,Bangladesh,11.6,Hashmatullah Shahidi,Rahmat Shah,Shakib Al Hasan,0,0,0,NA,0,NA,NA,NA,0
+1051297,2nd innings,Afghanistan,Bangladesh,11.7,Hashmatullah Shahidi,Rahmat Shah,Shakib Al Hasan,1,0,1,NA,0,NA,NA,NA,0
+1051297,2nd innings,Afghanistan,Bangladesh,12.1,Hashmatullah Shahidi,Rahmat Shah,Rubel Hossain,1,0,1,NA,0,NA,NA,NA,0
+1051297,2nd innings,Afghanistan,Bangladesh,12.2,Rahmat Shah,Hashmatullah Shahidi,Rubel Hossain,0,0,0,NA,0,NA,NA,NA,0
+1051297,2nd innings,Afghanistan,Bangladesh,12.3,Rahmat Shah,Hashmatullah Shahidi,Rubel Hossain,2,0,2,NA,0,NA,NA,NA,0
+1051297,2nd innings,Afghanistan,Bangladesh,12.4,Rahmat Shah,Hashmatullah Shahidi,Rubel Hossain,1,0,1,NA,0,NA,NA,NA,0
+1051297,2nd innings,Afghanistan,Bangladesh,12.5,Hashmatullah Shahidi,Rahmat Shah,Rubel Hossain,0,0,0,NA,0,NA,NA,NA,0
+1051297,2nd innings,Afghanistan,Bangladesh,12.6,Hashmatullah Shahidi,Rahmat Shah,Rubel Hossain,1,0,1,NA,0,NA,NA,NA,0
+1051297,2nd innings,Afghanistan,Bangladesh,13.1,Hashmatullah Shahidi,Rahmat Shah,Shakib Al Hasan,0,0,0,NA,0,NA,NA,NA,0
+1051297,2nd innings,Afghanistan,Bangladesh,13.2,Hashmatullah Shahidi,Rahmat Shah,Shakib Al Hasan,1,0,1,NA,0,NA,NA,NA,0
+1051297,2nd innings,Afghanistan,Bangladesh,13.3,Rahmat Shah,Hashmatullah Shahidi,Shakib Al Hasan,0,0,0,NA,0,NA,NA,NA,0
+1051297,2nd innings,Afghanistan,Bangladesh,13.4,Rahmat Shah,Hashmatullah Shahidi,Shakib Al Hasan,1,0,1,NA,0,NA,NA,NA,0
+1051297,2nd innings,Afghanistan,Bangladesh,13.5,Hashmatullah Shahidi,Rahmat Shah,Shakib Al Hasan,2,0,2,NA,0,NA,NA,NA,0
+1051297,2nd innings,Afghanistan,Bangladesh,13.6,Hashmatullah Shahidi,Rahmat Shah,Shakib Al Hasan,0,0,0,NA,0,NA,NA,NA,0
+1051297,2nd innings,Afghanistan,Bangladesh,14.1,Rahmat Shah,Hashmatullah Shahidi,Rubel Hossain,1,0,1,NA,0,NA,NA,NA,0
+1051297,2nd innings,Afghanistan,Bangladesh,14.2,Hashmatullah Shahidi,Rahmat Shah,Rubel Hossain,2,0,2,NA,0,NA,NA,NA,0
+1051297,2nd innings,Afghanistan,Bangladesh,14.3,Hashmatullah Shahidi,Rahmat Shah,Rubel Hossain,1,0,1,NA,0,NA,NA,NA,0
+1051297,2nd innings,Afghanistan,Bangladesh,14.4,Rahmat Shah,Hashmatullah Shahidi,Rubel Hossain,1,0,1,NA,0,NA,NA,NA,0
+1051297,2nd innings,Afghanistan,Bangladesh,14.5,Hashmatullah Shahidi,Rahmat Shah,Rubel Hossain,0,0,0,NA,0,NA,NA,NA,0
+1051297,2nd innings,Afghanistan,Bangladesh,14.6,Hashmatullah Shahidi,Rahmat Shah,Rubel Hossain,0,1,1,wides,0,NA,NA,NA,0
+1051297,2nd innings,Afghanistan,Bangladesh,14.7,Hashmatullah Shahidi,Rahmat Shah,Rubel Hossain,0,0,0,NA,0,NA,NA,NA,0
+1051297,2nd innings,Afghanistan,Bangladesh,15.1,Rahmat Shah,Hashmatullah Shahidi,Taijul Islam,0,0,0,NA,0,NA,NA,NA,0
+1051297,2nd innings,Afghanistan,Bangladesh,15.2,Rahmat Shah,Hashmatullah Shahidi,Taijul Islam,0,0,0,NA,0,NA,NA,NA,0
+1051297,2nd innings,Afghanistan,Bangladesh,15.3,Rahmat Shah,Hashmatullah Shahidi,Taijul Islam,0,0,0,NA,0,NA,NA,NA,0
+1051297,2nd innings,Afghanistan,Bangladesh,15.4,Rahmat Shah,Hashmatullah Shahidi,Taijul Islam,1,0,1,NA,0,NA,NA,NA,0
+1051297,2nd innings,Afghanistan,Bangladesh,15.5,Hashmatullah Shahidi,Rahmat Shah,Taijul Islam,1,0,1,NA,0,NA,NA,NA,0
+1051297,2nd innings,Afghanistan,Bangladesh,15.6,Rahmat Shah,Hashmatullah Shahidi,Taijul Islam,1,0,1,NA,0,NA,NA,NA,0
+1051297,2nd innings,Afghanistan,Bangladesh,16.1,Rahmat Shah,Hashmatullah Shahidi,Rubel Hossain,0,0,0,NA,0,NA,NA,NA,0
+1051297,2nd innings,Afghanistan,Bangladesh,16.2,Rahmat Shah,Hashmatullah Shahidi,Rubel Hossain,0,0,0,NA,0,NA,NA,NA,0
+1051297,2nd innings,Afghanistan,Bangladesh,16.3,Rahmat Shah,Hashmatullah Shahidi,Rubel Hossain,4,0,4,NA,0,NA,NA,NA,0
+1051297,2nd innings,Afghanistan,Bangladesh,16.4,Rahmat Shah,Hashmatullah Shahidi,Rubel Hossain,0,0,0,NA,0,NA,NA,NA,0
+1051297,2nd innings,Afghanistan,Bangladesh,16.5,Rahmat Shah,Hashmatullah Shahidi,Rubel Hossain,1,0,1,NA,0,NA,NA,NA,0
+1051297,2nd innings,Afghanistan,Bangladesh,16.6,Hashmatullah Shahidi,Rahmat Shah,Rubel Hossain,1,0,1,NA,0,NA,NA,NA,0
+1051297,2nd innings,Afghanistan,Bangladesh,17.1,Hashmatullah Shahidi,Rahmat Shah,Taijul Islam,1,0,1,NA,0,NA,NA,NA,0
+1051297,2nd innings,Afghanistan,Bangladesh,17.2,Rahmat Shah,Hashmatullah Shahidi,Taijul Islam,0,0,0,NA,0,NA,NA,NA,0
+1051297,2nd innings,Afghanistan,Bangladesh,17.3,Rahmat Shah,Hashmatullah Shahidi,Taijul Islam,0,0,0,NA,0,NA,NA,NA,0
+1051297,2nd innings,Afghanistan,Bangladesh,17.4,Rahmat Shah,Hashmatullah Shahidi,Taijul Islam,0,0,0,NA,0,NA,NA,NA,0
+1051297,2nd innings,Afghanistan,Bangladesh,17.5,Rahmat Shah,Hashmatullah Shahidi,Taijul Islam,1,0,1,NA,0,NA,NA,NA,0
+1051297,2nd innings,Afghanistan,Bangladesh,17.6,Hashmatullah Shahidi,Rahmat Shah,Taijul Islam,1,0,1,NA,0,NA,NA,NA,0
+1051297,2nd innings,Afghanistan,Bangladesh,18.1,Hashmatullah Shahidi,Rahmat Shah,Rubel Hossain,0,2,2,wides,0,NA,NA,NA,0
+1051297,2nd innings,Afghanistan,Bangladesh,18.2,Rahmat Shah,Hashmatullah Shahidi,Rubel Hossain,0,0,0,NA,0,NA,NA,NA,0
+1051297,2nd innings,Afghanistan,Bangladesh,18.3,Rahmat Shah,Hashmatullah Shahidi,Rubel Hossain,0,0,0,NA,0,NA,NA,NA,0
+1051297,2nd innings,Afghanistan,Bangladesh,18.4,Rahmat Shah,Hashmatullah Shahidi,Rubel Hossain,2,0,2,NA,0,NA,NA,NA,0
+1051297,2nd innings,Afghanistan,Bangladesh,18.5,Rahmat Shah,Hashmatullah Shahidi,Rubel Hossain,0,0,0,NA,0,NA,NA,NA,0
+1051297,2nd innings,Afghanistan,Bangladesh,18.6,Rahmat Shah,Hashmatullah Shahidi,Rubel Hossain,1,0,1,NA,0,NA,NA,NA,0
+1051297,2nd innings,Afghanistan,Bangladesh,18.7,Hashmatullah Shahidi,Rahmat Shah,Rubel Hossain,0,0,0,NA,0,NA,NA,NA,0
+1051297,2nd innings,Afghanistan,Bangladesh,19.1,Rahmat Shah,Hashmatullah Shahidi,Taijul Islam,0,0,0,NA,0,NA,NA,NA,0
+1051297,2nd innings,Afghanistan,Bangladesh,19.2,Rahmat Shah,Hashmatullah Shahidi,Taijul Islam,0,0,0,NA,0,NA,NA,NA,0
+1051297,2nd innings,Afghanistan,Bangladesh,19.3,Rahmat Shah,Hashmatullah Shahidi,Taijul Islam,0,0,0,NA,0,NA,NA,NA,0
+1051297,2nd innings,Afghanistan,Bangladesh,19.4,Rahmat Shah,Hashmatullah Shahidi,Taijul Islam,0,0,0,NA,0,NA,NA,NA,0
+1051297,2nd innings,Afghanistan,Bangladesh,19.5,Rahmat Shah,Hashmatullah Shahidi,Taijul Islam,1,0,1,NA,0,NA,NA,NA,0
+1051297,2nd innings,Afghanistan,Bangladesh,19.6,Hashmatullah Shahidi,Rahmat Shah,Taijul Islam,1,0,1,NA,0,NA,NA,NA,0
+1051297,2nd innings,Afghanistan,Bangladesh,20.1,Hashmatullah Shahidi,Rahmat Shah,Mahmudullah,0,0,0,NA,0,NA,NA,NA,0
+1051297,2nd innings,Afghanistan,Bangladesh,20.2,Hashmatullah Shahidi,Rahmat Shah,Mahmudullah,0,0,0,NA,0,NA,NA,NA,0
+1051297,2nd innings,Afghanistan,Bangladesh,20.3,Hashmatullah Shahidi,Rahmat Shah,Mahmudullah,1,0,1,NA,0,NA,NA,NA,0
+1051297,2nd innings,Afghanistan,Bangladesh,20.4,Rahmat Shah,Hashmatullah Shahidi,Mahmudullah,1,0,1,NA,0,NA,NA,NA,0
+1051297,2nd innings,Afghanistan,Bangladesh,20.5,Hashmatullah Shahidi,Rahmat Shah,Mahmudullah,0,0,0,NA,0,NA,NA,NA,0
+1051297,2nd innings,Afghanistan,Bangladesh,20.6,Hashmatullah Shahidi,Rahmat Shah,Mahmudullah,4,0,4,NA,0,NA,NA,NA,0
+1051297,2nd innings,Afghanistan,Bangladesh,21.1,Rahmat Shah,Hashmatullah Shahidi,Taijul Islam,1,0,1,NA,0,NA,NA,NA,0
+1051297,2nd innings,Afghanistan,Bangladesh,21.2,Hashmatullah Shahidi,Rahmat Shah,Taijul Islam,1,0,1,NA,0,NA,NA,NA,0
+1051297,2nd innings,Afghanistan,Bangladesh,21.3,Rahmat Shah,Hashmatullah Shahidi,Taijul Islam,1,0,1,NA,0,NA,NA,NA,0
+1051297,2nd innings,Afghanistan,Bangladesh,21.4,Hashmatullah Shahidi,Rahmat Shah,Taijul Islam,1,0,1,NA,0,NA,NA,NA,0
+1051297,2nd innings,Afghanistan,Bangladesh,21.5,Rahmat Shah,Hashmatullah Shahidi,Taijul Islam,0,0,0,NA,0,NA,NA,NA,0
+1051297,2nd innings,Afghanistan,Bangladesh,21.6,Rahmat Shah,Hashmatullah Shahidi,Taijul Islam,0,0,0,NA,0,NA,NA,NA,0
+1051297,2nd innings,Afghanistan,Bangladesh,22.1,Hashmatullah Shahidi,Rahmat Shah,Mahmudullah,1,0,1,NA,0,NA,NA,NA,0
+1051297,2nd innings,Afghanistan,Bangladesh,22.2,Rahmat Shah,Hashmatullah Shahidi,Mahmudullah,1,0,1,NA,0,NA,NA,NA,0
+1051297,2nd innings,Afghanistan,Bangladesh,22.3,Hashmatullah Shahidi,Rahmat Shah,Mahmudullah,0,0,0,NA,0,NA,NA,NA,0
+1051297,2nd innings,Afghanistan,Bangladesh,22.4,Hashmatullah Shahidi,Rahmat Shah,Mahmudullah,4,0,4,NA,0,NA,NA,NA,0
+1051297,2nd innings,Afghanistan,Bangladesh,22.5,Hashmatullah Shahidi,Rahmat Shah,Mahmudullah,1,0,1,NA,0,NA,NA,NA,0
+1051297,2nd innings,Afghanistan,Bangladesh,22.6,Rahmat Shah,Hashmatullah Shahidi,Mahmudullah,1,0,1,NA,0,NA,NA,NA,0
+1051297,2nd innings,Afghanistan,Bangladesh,23.1,Rahmat Shah,Hashmatullah Shahidi,Taijul Islam,1,0,1,NA,0,NA,NA,NA,0
+1051297,2nd innings,Afghanistan,Bangladesh,23.2,Hashmatullah Shahidi,Rahmat Shah,Taijul Islam,0,0,0,NA,0,NA,NA,NA,0
+1051297,2nd innings,Afghanistan,Bangladesh,23.3,Hashmatullah Shahidi,Rahmat Shah,Taijul Islam,0,0,0,NA,0,NA,NA,NA,0
+1051297,2nd innings,Afghanistan,Bangladesh,23.4,Hashmatullah Shahidi,Rahmat Shah,Taijul Islam,0,0,0,NA,0,NA,NA,NA,0
+1051297,2nd innings,Afghanistan,Bangladesh,23.5,Hashmatullah Shahidi,Rahmat Shah,Taijul Islam,0,0,0,NA,0,NA,NA,NA,0
+1051297,2nd innings,Afghanistan,Bangladesh,23.6,Hashmatullah Shahidi,Rahmat Shah,Taijul Islam,1,0,1,NA,0,NA,NA,NA,0
+1051297,2nd innings,Afghanistan,Bangladesh,24.1,Hashmatullah Shahidi,Rahmat Shah,Mahmudullah,0,0,0,NA,0,NA,NA,NA,0
+1051297,2nd innings,Afghanistan,Bangladesh,24.2,Hashmatullah Shahidi,Rahmat Shah,Mahmudullah,0,0,0,NA,0,NA,NA,NA,0
+1051297,2nd innings,Afghanistan,Bangladesh,24.3,Hashmatullah Shahidi,Rahmat Shah,Mahmudullah,0,0,0,NA,0,NA,NA,NA,0
+1051297,2nd innings,Afghanistan,Bangladesh,24.4,Hashmatullah Shahidi,Rahmat Shah,Mahmudullah,1,0,1,NA,0,NA,NA,NA,0
+1051297,2nd innings,Afghanistan,Bangladesh,24.5,Rahmat Shah,Hashmatullah Shahidi,Mahmudullah,6,0,6,NA,0,NA,NA,NA,0
+1051297,2nd innings,Afghanistan,Bangladesh,24.6,Rahmat Shah,Hashmatullah Shahidi,Mahmudullah,1,0,1,NA,0,NA,NA,NA,0
+1051297,2nd innings,Afghanistan,Bangladesh,25.1,Rahmat Shah,Hashmatullah Shahidi,Taijul Islam,0,0,0,NA,0,NA,NA,NA,0
+1051297,2nd innings,Afghanistan,Bangladesh,25.2,Rahmat Shah,Hashmatullah Shahidi,Taijul Islam,1,0,1,NA,0,NA,NA,NA,0
+1051297,2nd innings,Afghanistan,Bangladesh,25.3,Hashmatullah Shahidi,Rahmat Shah,Taijul Islam,1,0,1,NA,0,NA,NA,NA,0
+1051297,2nd innings,Afghanistan,Bangladesh,25.4,Rahmat Shah,Hashmatullah Shahidi,Taijul Islam,0,0,0,NA,0,NA,NA,NA,0
+1051297,2nd innings,Afghanistan,Bangladesh,25.5,Rahmat Shah,Hashmatullah Shahidi,Taijul Islam,1,0,1,NA,0,NA,NA,NA,0
+1051297,2nd innings,Afghanistan,Bangladesh,25.6,Hashmatullah Shahidi,Rahmat Shah,Taijul Islam,0,0,0,NA,0,NA,NA,NA,0
+1051297,2nd innings,Afghanistan,Bangladesh,26.1,Rahmat Shah,Hashmatullah Shahidi,Taskin Ahmed,2,0,2,NA,0,NA,NA,NA,0
+1051297,2nd innings,Afghanistan,Bangladesh,26.2,Rahmat Shah,Hashmatullah Shahidi,Taskin Ahmed,1,0,1,NA,0,NA,NA,NA,0
+1051297,2nd innings,Afghanistan,Bangladesh,26.3,Hashmatullah Shahidi,Rahmat Shah,Taskin Ahmed,0,0,0,NA,0,NA,NA,NA,0
+1051297,2nd innings,Afghanistan,Bangladesh,26.4,Hashmatullah Shahidi,Rahmat Shah,Taskin Ahmed,2,0,2,NA,0,NA,NA,NA,0
+1051297,2nd innings,Afghanistan,Bangladesh,26.5,Hashmatullah Shahidi,Rahmat Shah,Taskin Ahmed,0,1,1,wides,0,NA,NA,NA,0
+1051297,2nd innings,Afghanistan,Bangladesh,26.6,Hashmatullah Shahidi,Rahmat Shah,Taskin Ahmed,0,0,0,NA,0,NA,NA,NA,0
+1051297,2nd innings,Afghanistan,Bangladesh,26.7,Hashmatullah Shahidi,Rahmat Shah,Taskin Ahmed,0,0,0,NA,0,NA,NA,NA,0
+1051297,2nd innings,Afghanistan,Bangladesh,27.1,Rahmat Shah,Hashmatullah Shahidi,Taijul Islam,0,0,0,NA,0,NA,NA,NA,0
+1051297,2nd innings,Afghanistan,Bangladesh,27.2,Rahmat Shah,Hashmatullah Shahidi,Taijul Islam,6,0,6,NA,0,NA,NA,NA,0
+1051297,2nd innings,Afghanistan,Bangladesh,27.3,Rahmat Shah,Hashmatullah Shahidi,Taijul Islam,0,0,0,NA,0,NA,NA,NA,0
+1051297,2nd innings,Afghanistan,Bangladesh,27.4,Rahmat Shah,Hashmatullah Shahidi,Taijul Islam,1,0,1,NA,0,NA,NA,NA,0
+1051297,2nd innings,Afghanistan,Bangladesh,27.5,Hashmatullah Shahidi,Rahmat Shah,Taijul Islam,1,0,1,NA,0,NA,NA,NA,0
+1051297,2nd innings,Afghanistan,Bangladesh,27.6,Rahmat Shah,Hashmatullah Shahidi,Taijul Islam,0,0,0,NA,0,NA,NA,NA,0
+1051297,2nd innings,Afghanistan,Bangladesh,28.1,Hashmatullah Shahidi,Rahmat Shah,Taskin Ahmed,1,0,1,NA,0,NA,NA,NA,0
+1051297,2nd innings,Afghanistan,Bangladesh,28.2,Rahmat Shah,Hashmatullah Shahidi,Taskin Ahmed,0,0,0,NA,0,NA,NA,NA,0
+1051297,2nd innings,Afghanistan,Bangladesh,28.3,Rahmat Shah,Hashmatullah Shahidi,Taskin Ahmed,0,0,0,NA,0,NA,NA,NA,0
+1051297,2nd innings,Afghanistan,Bangladesh,28.4,Rahmat Shah,Hashmatullah Shahidi,Taskin Ahmed,1,0,1,NA,0,NA,NA,NA,0
+1051297,2nd innings,Afghanistan,Bangladesh,28.5,Hashmatullah Shahidi,Rahmat Shah,Taskin Ahmed,4,0,4,NA,0,NA,NA,NA,0
+1051297,2nd innings,Afghanistan,Bangladesh,28.6,Hashmatullah Shahidi,Rahmat Shah,Taskin Ahmed,0,0,0,NA,0,NA,NA,NA,0
+1051297,2nd innings,Afghanistan,Bangladesh,29.1,Rahmat Shah,Hashmatullah Shahidi,Shakib Al Hasan,0,0,0,NA,0,NA,NA,NA,0
+1051297,2nd innings,Afghanistan,Bangladesh,29.2,Rahmat Shah,Hashmatullah Shahidi,Shakib Al Hasan,1,0,1,NA,0,NA,NA,NA,0
+1051297,2nd innings,Afghanistan,Bangladesh,29.3,Hashmatullah Shahidi,Rahmat Shah,Shakib Al Hasan,0,0,0,NA,0,NA,NA,NA,0
+1051297,2nd innings,Afghanistan,Bangladesh,29.4,Hashmatullah Shahidi,Rahmat Shah,Shakib Al Hasan,0,0,0,NA,0,NA,NA,NA,0
+1051297,2nd innings,Afghanistan,Bangladesh,29.5,Hashmatullah Shahidi,Rahmat Shah,Shakib Al Hasan,0,0,0,NA,0,NA,NA,NA,0
+1051297,2nd innings,Afghanistan,Bangladesh,29.6,Hashmatullah Shahidi,Rahmat Shah,Shakib Al Hasan,0,0,0,NA,0,NA,NA,NA,0
+1051297,2nd innings,Afghanistan,Bangladesh,30.1,Rahmat Shah,Hashmatullah Shahidi,Rubel Hossain,1,0,1,NA,0,NA,NA,NA,0
+1051297,2nd innings,Afghanistan,Bangladesh,30.2,Hashmatullah Shahidi,Rahmat Shah,Rubel Hossain,0,0,0,NA,0,NA,NA,NA,0
+1051297,2nd innings,Afghanistan,Bangladesh,30.3,Hashmatullah Shahidi,Rahmat Shah,Rubel Hossain,1,0,1,NA,0,NA,NA,NA,0
+1051297,2nd innings,Afghanistan,Bangladesh,30.4,Rahmat Shah,Hashmatullah Shahidi,Rubel Hossain,0,0,0,NA,0,NA,NA,NA,0
+1051297,2nd innings,Afghanistan,Bangladesh,30.5,Rahmat Shah,Hashmatullah Shahidi,Rubel Hossain,6,0,6,NA,0,NA,NA,NA,0
+1051297,2nd innings,Afghanistan,Bangladesh,30.6,Rahmat Shah,Hashmatullah Shahidi,Rubel Hossain,0,0,0,NA,0,NA,NA,NA,0
+1051297,2nd innings,Afghanistan,Bangladesh,31.1,Hashmatullah Shahidi,Rahmat Shah,Shakib Al Hasan,1,0,1,NA,0,NA,NA,NA,0
+1051297,2nd innings,Afghanistan,Bangladesh,31.2,Rahmat Shah,Hashmatullah Shahidi,Shakib Al Hasan,0,0,0,NA,0,NA,NA,NA,0
+1051297,2nd innings,Afghanistan,Bangladesh,31.3,Rahmat Shah,Hashmatullah Shahidi,Shakib Al Hasan,0,0,0,NA,0,NA,NA,NA,0
+1051297,2nd innings,Afghanistan,Bangladesh,31.4,Rahmat Shah,Hashmatullah Shahidi,Shakib Al Hasan,1,0,1,NA,0,NA,NA,NA,0
+1051297,2nd innings,Afghanistan,Bangladesh,31.5,Hashmatullah Shahidi,Rahmat Shah,Shakib Al Hasan,4,0,4,NA,0,NA,NA,NA,0
+1051297,2nd innings,Afghanistan,Bangladesh,31.6,Hashmatullah Shahidi,Rahmat Shah,Shakib Al Hasan,0,0,0,NA,0,NA,NA,NA,0
+1051297,2nd innings,Afghanistan,Bangladesh,32.1,Rahmat Shah,Hashmatullah Shahidi,Mashrafe Mortaza,1,0,1,NA,0,NA,NA,NA,0
+1051297,2nd innings,Afghanistan,Bangladesh,32.2,Hashmatullah Shahidi,Rahmat Shah,Mashrafe Mortaza,1,0,1,NA,0,NA,NA,NA,0
+1051297,2nd innings,Afghanistan,Bangladesh,32.3,Rahmat Shah,Hashmatullah Shahidi,Mashrafe Mortaza,2,0,2,NA,0,NA,NA,NA,0
+1051297,2nd innings,Afghanistan,Bangladesh,32.4,Rahmat Shah,Hashmatullah Shahidi,Mashrafe Mortaza,2,0,2,NA,0,NA,NA,NA,0
+1051297,2nd innings,Afghanistan,Bangladesh,32.5,Rahmat Shah,Hashmatullah Shahidi,Mashrafe Mortaza,0,0,0,NA,0,NA,NA,NA,0
+1051297,2nd innings,Afghanistan,Bangladesh,32.6,Rahmat Shah,Hashmatullah Shahidi,Mashrafe Mortaza,1,0,1,NA,0,NA,NA,NA,0
+1051297,2nd innings,Afghanistan,Bangladesh,33.1,Rahmat Shah,Hashmatullah Shahidi,Shakib Al Hasan,1,0,1,NA,0,NA,NA,NA,0
+1051297,2nd innings,Afghanistan,Bangladesh,33.2,Hashmatullah Shahidi,Rahmat Shah,Shakib Al Hasan,1,0,1,NA,0,NA,NA,NA,0
+1051297,2nd innings,Afghanistan,Bangladesh,33.3,Rahmat Shah,Hashmatullah Shahidi,Shakib Al Hasan,0,1,1,wides,0,NA,NA,NA,0
+1051297,2nd innings,Afghanistan,Bangladesh,33.4,Rahmat Shah,Hashmatullah Shahidi,Shakib Al Hasan,0,0,0,NA,0,NA,NA,NA,0
+1051297,2nd innings,Afghanistan,Bangladesh,33.5,Rahmat Shah,Hashmatullah Shahidi,Shakib Al Hasan,1,0,1,NA,0,NA,NA,NA,0
+1051297,2nd innings,Afghanistan,Bangladesh,33.6,Hashmatullah Shahidi,Rahmat Shah,Shakib Al Hasan,1,0,1,NA,0,NA,NA,NA,0
+1051297,2nd innings,Afghanistan,Bangladesh,33.7,Rahmat Shah,Hashmatullah Shahidi,Shakib Al Hasan,0,0,0,NA,0,NA,NA,NA,0
+1051297,2nd innings,Afghanistan,Bangladesh,34.1,Hashmatullah Shahidi,Rahmat Shah,Mashrafe Mortaza,0,0,0,NA,0,NA,NA,NA,0
+1051297,2nd innings,Afghanistan,Bangladesh,34.2,Hashmatullah Shahidi,Rahmat Shah,Mashrafe Mortaza,0,0,0,NA,0,NA,NA,NA,0
+1051297,2nd innings,Afghanistan,Bangladesh,34.3,Hashmatullah Shahidi,Rahmat Shah,Mashrafe Mortaza,1,0,1,NA,0,NA,NA,NA,0
+1051297,2nd innings,Afghanistan,Bangladesh,34.4,Rahmat Shah,Hashmatullah Shahidi,Mashrafe Mortaza,1,0,1,NA,0,NA,NA,NA,0
+1051297,2nd innings,Afghanistan,Bangladesh,34.5,Hashmatullah Shahidi,Rahmat Shah,Mashrafe Mortaza,1,0,1,NA,0,NA,NA,NA,0
+1051297,2nd innings,Afghanistan,Bangladesh,34.6,Rahmat Shah,Hashmatullah Shahidi,Mashrafe Mortaza,0,0,0,NA,0,NA,NA,NA,0
+1051297,2nd innings,Afghanistan,Bangladesh,35.1,Hashmatullah Shahidi,Rahmat Shah,Rubel Hossain,4,0,4,NA,0,NA,NA,NA,0
+1051297,2nd innings,Afghanistan,Bangladesh,35.2,Hashmatullah Shahidi,Rahmat Shah,Rubel Hossain,0,1,1,wides,0,NA,NA,NA,0
+1051297,2nd innings,Afghanistan,Bangladesh,35.3,Hashmatullah Shahidi,Rahmat Shah,Rubel Hossain,0,0,0,NA,0,NA,NA,NA,0
+1051297,2nd innings,Afghanistan,Bangladesh,35.4,Hashmatullah Shahidi,Rahmat Shah,Rubel Hossain,0,0,0,NA,0,NA,NA,NA,0
+1051297,2nd innings,Afghanistan,Bangladesh,35.5,Hashmatullah Shahidi,Rahmat Shah,Rubel Hossain,0,0,0,NA,0,NA,NA,NA,0
+1051297,2nd innings,Afghanistan,Bangladesh,35.6,Hashmatullah Shahidi,Rahmat Shah,Rubel Hossain,1,0,1,NA,0,NA,NA,NA,0
+1051297,2nd innings,Afghanistan,Bangladesh,35.7,Rahmat Shah,Hashmatullah Shahidi,Rubel Hossain,0,0,0,NA,0,NA,NA,NA,0
+1051297,2nd innings,Afghanistan,Bangladesh,36.1,Hashmatullah Shahidi,Rahmat Shah,Mashrafe Mortaza,0,0,0,NA,0,NA,NA,NA,0
+1051297,2nd innings,Afghanistan,Bangladesh,36.2,Hashmatullah Shahidi,Rahmat Shah,Mashrafe Mortaza,1,0,1,NA,0,NA,NA,NA,0
+1051297,2nd innings,Afghanistan,Bangladesh,36.3,Rahmat Shah,Hashmatullah Shahidi,Mashrafe Mortaza,1,0,1,NA,0,NA,NA,NA,0
+1051297,2nd innings,Afghanistan,Bangladesh,36.4,Hashmatullah Shahidi,Rahmat Shah,Mashrafe Mortaza,0,0,0,NA,0,NA,NA,NA,0
+1051297,2nd innings,Afghanistan,Bangladesh,36.5,Hashmatullah Shahidi,Rahmat Shah,Mashrafe Mortaza,0,0,0,NA,0,NA,NA,NA,0
+1051297,2nd innings,Afghanistan,Bangladesh,36.6,Hashmatullah Shahidi,Rahmat Shah,Mashrafe Mortaza,1,0,1,NA,0,NA,NA,NA,0
+1051297,2nd innings,Afghanistan,Bangladesh,37.1,Hashmatullah Shahidi,Rahmat Shah,Rubel Hossain,0,0,0,NA,0,NA,NA,NA,0
+1051297,2nd innings,Afghanistan,Bangladesh,37.2,Hashmatullah Shahidi,Rahmat Shah,Rubel Hossain,1,0,1,NA,0,NA,NA,NA,0
+1051297,2nd innings,Afghanistan,Bangladesh,37.3,Rahmat Shah,Hashmatullah Shahidi,Rubel Hossain,4,0,4,NA,0,NA,NA,NA,0
+1051297,2nd innings,Afghanistan,Bangladesh,37.4,Rahmat Shah,Hashmatullah Shahidi,Rubel Hossain,1,0,1,NA,0,NA,NA,NA,0
+1051297,2nd innings,Afghanistan,Bangladesh,37.5,Hashmatullah Shahidi,Rahmat Shah,Rubel Hossain,0,0,0,NA,0,NA,NA,NA,0
+1051297,2nd innings,Afghanistan,Bangladesh,37.6,Hashmatullah Shahidi,Rahmat Shah,Rubel Hossain,1,0,1,NA,0,NA,NA,NA,0
+1051297,2nd innings,Afghanistan,Bangladesh,38.1,Hashmatullah Shahidi,Rahmat Shah,Shakib Al Hasan,0,0,0,NA,0,NA,NA,NA,0
+1051297,2nd innings,Afghanistan,Bangladesh,38.2,Hashmatullah Shahidi,Rahmat Shah,Shakib Al Hasan,0,0,0,NA,0,NA,NA,NA,0
+1051297,2nd innings,Afghanistan,Bangladesh,38.3,Hashmatullah Shahidi,Rahmat Shah,Shakib Al Hasan,0,0,0,NA,0,NA,NA,NA,0
+1051297,2nd innings,Afghanistan,Bangladesh,38.4,Hashmatullah Shahidi,Rahmat Shah,Shakib Al Hasan,0,0,0,NA,0,NA,NA,NA,0
+1051297,2nd innings,Afghanistan,Bangladesh,38.5,Hashmatullah Shahidi,Rahmat Shah,Shakib Al Hasan,1,0,1,NA,0,NA,NA,NA,0
+1051297,2nd innings,Afghanistan,Bangladesh,38.6,Rahmat Shah,Hashmatullah Shahidi,Shakib Al Hasan,0,0,0,NA,0,NA,NA,NA,0
+1051297,2nd innings,Afghanistan,Bangladesh,39.1,Hashmatullah Shahidi,Rahmat Shah,Taijul Islam,0,0,0,NA,0,NA,NA,NA,0
+1051297,2nd innings,Afghanistan,Bangladesh,39.2,Hashmatullah Shahidi,Rahmat Shah,Taijul Islam,1,0,1,NA,0,NA,NA,NA,0
+1051297,2nd innings,Afghanistan,Bangladesh,39.3,Rahmat Shah,Hashmatullah Shahidi,Taijul Islam,0,0,0,NA,0,NA,NA,NA,0
+1051297,2nd innings,Afghanistan,Bangladesh,39.4,Rahmat Shah,Hashmatullah Shahidi,Taijul Islam,1,0,1,NA,0,NA,NA,NA,0
+1051297,2nd innings,Afghanistan,Bangladesh,39.5,Hashmatullah Shahidi,Rahmat Shah,Taijul Islam,0,0,0,NA,0,NA,NA,NA,0
+1051297,2nd innings,Afghanistan,Bangladesh,39.6,Hashmatullah Shahidi,Rahmat Shah,Taijul Islam,1,0,1,NA,0,NA,NA,NA,0
+1051297,2nd innings,Afghanistan,Bangladesh,40.1,Hashmatullah Shahidi,Rahmat Shah,Shakib Al Hasan,1,0,1,NA,0,NA,NA,NA,0
+1051297,2nd innings,Afghanistan,Bangladesh,40.2,Rahmat Shah,Hashmatullah Shahidi,Shakib Al Hasan,0,0,0,NA,1,stumped,Rahmat Shah,Mushfiqur Rahim,0
+1051297,2nd innings,Afghanistan,Bangladesh,40.3,Mohammad Nabi,Hashmatullah Shahidi,Shakib Al Hasan,0,0,0,NA,0,NA,NA,NA,0
+1051297,2nd innings,Afghanistan,Bangladesh,40.4,Mohammad Nabi,Hashmatullah Shahidi,Shakib Al Hasan,0,0,0,NA,0,NA,NA,NA,0
+1051297,2nd innings,Afghanistan,Bangladesh,40.5,Mohammad Nabi,Hashmatullah Shahidi,Shakib Al Hasan,0,0,0,NA,0,NA,NA,NA,0
+1051297,2nd innings,Afghanistan,Bangladesh,40.6,Mohammad Nabi,Hashmatullah Shahidi,Shakib Al Hasan,2,0,2,NA,0,NA,NA,NA,0
+1051297,2nd innings,Afghanistan,Bangladesh,41.1,Hashmatullah Shahidi,Mohammad Nabi,Taijul Islam,0,0,0,NA,0,NA,NA,NA,0
+1051297,2nd innings,Afghanistan,Bangladesh,41.2,Hashmatullah Shahidi,Mohammad Nabi,Taijul Islam,4,0,4,NA,0,NA,NA,NA,0
+1051297,2nd innings,Afghanistan,Bangladesh,41.3,Hashmatullah Shahidi,Mohammad Nabi,Taijul Islam,1,0,1,NA,0,NA,NA,NA,0
+1051297,2nd innings,Afghanistan,Bangladesh,41.4,Mohammad Nabi,Hashmatullah Shahidi,Taijul Islam,1,0,1,NA,0,NA,NA,NA,0
+1051297,2nd innings,Afghanistan,Bangladesh,41.5,Hashmatullah Shahidi,Mohammad Nabi,Taijul Islam,1,0,1,NA,0,NA,NA,NA,0
+1051297,2nd innings,Afghanistan,Bangladesh,41.6,Mohammad Nabi,Hashmatullah Shahidi,Taijul Islam,1,0,1,NA,0,NA,NA,NA,0
+1051297,2nd innings,Afghanistan,Bangladesh,42.1,Mohammad Nabi,Hashmatullah Shahidi,Taskin Ahmed,2,0,2,NA,0,NA,NA,NA,0
+1051297,2nd innings,Afghanistan,Bangladesh,42.2,Mohammad Nabi,Hashmatullah Shahidi,Taskin Ahmed,4,0,4,NA,0,NA,NA,NA,0
+1051297,2nd innings,Afghanistan,Bangladesh,42.3,Mohammad Nabi,Hashmatullah Shahidi,Taskin Ahmed,1,0,1,NA,0,NA,NA,NA,0
+1051297,2nd innings,Afghanistan,Bangladesh,42.4,Hashmatullah Shahidi,Mohammad Nabi,Taskin Ahmed,1,0,1,NA,0,NA,NA,NA,0
+1051297,2nd innings,Afghanistan,Bangladesh,42.5,Mohammad Nabi,Hashmatullah Shahidi,Taskin Ahmed,0,0,0,NA,0,NA,NA,NA,0
+1051297,2nd innings,Afghanistan,Bangladesh,42.6,Mohammad Nabi,Hashmatullah Shahidi,Taskin Ahmed,1,0,1,NA,0,NA,NA,NA,0
+1051297,2nd innings,Afghanistan,Bangladesh,43.1,Mohammad Nabi,Hashmatullah Shahidi,Taijul Islam,0,0,0,NA,0,NA,NA,NA,0
+1051297,2nd innings,Afghanistan,Bangladesh,43.2,Mohammad Nabi,Hashmatullah Shahidi,Taijul Islam,1,0,1,NA,0,NA,NA,NA,0
+1051297,2nd innings,Afghanistan,Bangladesh,43.3,Hashmatullah Shahidi,Mohammad Nabi,Taijul Islam,0,0,0,NA,1,caught,Hashmatullah Shahidi,Soumya Sarkar,0
+1051297,2nd innings,Afghanistan,Bangladesh,43.4,Mohammad Nabi,Najibullah Zadran,Taijul Islam,0,0,0,NA,0,NA,NA,NA,0
+1051297,2nd innings,Afghanistan,Bangladesh,43.5,Mohammad Nabi,Najibullah Zadran,Taijul Islam,0,1,1,wides,0,NA,NA,NA,0
+1051297,2nd innings,Afghanistan,Bangladesh,43.6,Mohammad Nabi,Najibullah Zadran,Taijul Islam,2,0,2,NA,0,NA,NA,NA,0
+1051297,2nd innings,Afghanistan,Bangladesh,43.7,Mohammad Nabi,Najibullah Zadran,Taijul Islam,4,0,4,NA,0,NA,NA,NA,0
+1051297,2nd innings,Afghanistan,Bangladesh,44.1,Najibullah Zadran,Mohammad Nabi,Rubel Hossain,1,0,1,NA,0,NA,NA,NA,0
+1051297,2nd innings,Afghanistan,Bangladesh,44.2,Mohammad Nabi,Najibullah Zadran,Rubel Hossain,4,0,4,NA,0,NA,NA,NA,0
+1051297,2nd innings,Afghanistan,Bangladesh,44.3,Mohammad Nabi,Najibullah Zadran,Rubel Hossain,1,0,1,NA,0,NA,NA,NA,0
+1051297,2nd innings,Afghanistan,Bangladesh,44.4,Najibullah Zadran,Mohammad Nabi,Rubel Hossain,0,0,0,NA,0,NA,NA,NA,0
+1051297,2nd innings,Afghanistan,Bangladesh,44.5,Najibullah Zadran,Mohammad Nabi,Rubel Hossain,4,0,4,NA,0,NA,NA,NA,0
+1051297,2nd innings,Afghanistan,Bangladesh,44.6,Najibullah Zadran,Mohammad Nabi,Rubel Hossain,1,0,1,NA,0,NA,NA,NA,0
+1051297,2nd innings,Afghanistan,Bangladesh,45.1,Najibullah Zadran,Mohammad Nabi,Mashrafe Mortaza,1,0,1,NA,0,NA,NA,NA,0
+1051297,2nd innings,Afghanistan,Bangladesh,45.2,Mohammad Nabi,Najibullah Zadran,Mashrafe Mortaza,1,0,1,NA,0,NA,NA,NA,0
+1051297,2nd innings,Afghanistan,Bangladesh,45.3,Najibullah Zadran,Mohammad Nabi,Mashrafe Mortaza,0,0,0,NA,1,caught,Najibullah Zadran,Mushfiqur Rahim,0
+1051297,2nd innings,Afghanistan,Bangladesh,45.4,Asghar Stanikzai,Mohammad Nabi,Mashrafe Mortaza,6,0,6,NA,0,NA,NA,NA,0
+1051297,2nd innings,Afghanistan,Bangladesh,45.5,Asghar Stanikzai,Mohammad Nabi,Mashrafe Mortaza,1,0,1,NA,0,NA,NA,NA,0
+1051297,2nd innings,Afghanistan,Bangladesh,45.6,Mohammad Nabi,Asghar Stanikzai,Mashrafe Mortaza,1,0,1,NA,0,NA,NA,NA,0
+1051297,2nd innings,Afghanistan,Bangladesh,46.1,Mohammad Nabi,Asghar Stanikzai,Shakib Al Hasan,1,0,1,NA,0,NA,NA,NA,0
+1051297,2nd innings,Afghanistan,Bangladesh,46.2,Asghar Stanikzai,Mohammad Nabi,Shakib Al Hasan,0,0,0,NA,0,NA,NA,NA,0
+1051297,2nd innings,Afghanistan,Bangladesh,46.3,Asghar Stanikzai,Mohammad Nabi,Shakib Al Hasan,0,0,0,NA,0,NA,NA,NA,0
+1051297,2nd innings,Afghanistan,Bangladesh,46.4,Asghar Stanikzai,Mohammad Nabi,Shakib Al Hasan,0,0,0,NA,0,NA,NA,NA,0
+1051297,2nd innings,Afghanistan,Bangladesh,46.5,Asghar Stanikzai,Mohammad Nabi,Shakib Al Hasan,0,0,0,NA,0,NA,NA,NA,0
+1051297,2nd innings,Afghanistan,Bangladesh,46.6,Asghar Stanikzai,Mohammad Nabi,Shakib Al Hasan,0,0,0,NA,0,NA,NA,NA,0
+1051297,2nd innings,Afghanistan,Bangladesh,47.1,Mohammad Nabi,Asghar Stanikzai,Taskin Ahmed,2,0,2,NA,0,NA,NA,NA,0
+1051297,2nd innings,Afghanistan,Bangladesh,47.2,Mohammad Nabi,Asghar Stanikzai,Taskin Ahmed,1,0,1,NA,0,NA,NA,NA,0
+1051297,2nd innings,Afghanistan,Bangladesh,47.3,Asghar Stanikzai,Mohammad Nabi,Taskin Ahmed,1,0,1,NA,0,NA,NA,NA,0
+1051297,2nd innings,Afghanistan,Bangladesh,47.4,Mohammad Nabi,Asghar Stanikzai,Taskin Ahmed,0,0,0,NA,1,caught,Mohammad Nabi,Sabbir Rahman,0
+1051297,2nd innings,Afghanistan,Bangladesh,47.5,Asghar Stanikzai,Rashid Khan,Taskin Ahmed,2,0,2,NA,0,NA,NA,NA,0
+1051297,2nd innings,Afghanistan,Bangladesh,47.6,Asghar Stanikzai,Rashid Khan,Taskin Ahmed,0,0,0,NA,1,caught,Asghar Stanikzai,Mahmudullah,0
+1051297,2nd innings,Afghanistan,Bangladesh,48.1,Rashid Khan,Mirwais Ashraf,Rubel Hossain,2,0,2,NA,0,NA,NA,NA,0
+1051297,2nd innings,Afghanistan,Bangladesh,48.2,Rashid Khan,Mirwais Ashraf,Rubel Hossain,0,0,0,NA,0,NA,NA,NA,0
+1051297,2nd innings,Afghanistan,Bangladesh,48.3,Rashid Khan,Mirwais Ashraf,Rubel Hossain,1,0,1,NA,0,NA,NA,NA,0
+1051297,2nd innings,Afghanistan,Bangladesh,48.4,Mirwais Ashraf,Rashid Khan,Rubel Hossain,1,0,1,NA,0,NA,NA,NA,0
+1051297,2nd innings,Afghanistan,Bangladesh,48.5,Rashid Khan,Mirwais Ashraf,Rubel Hossain,4,0,4,NA,0,NA,NA,NA,0
+1051297,2nd innings,Afghanistan,Bangladesh,48.6,Rashid Khan,Mirwais Ashraf,Rubel Hossain,0,0,0,NA,1,bowled,Rashid Khan,NA,0
+1051297,2nd innings,Afghanistan,Bangladesh,49.1,Mirwais Ashraf,Dawlat Zadran,Taskin Ahmed,2,0,2,NA,0,NA,NA,NA,0
+1051297,2nd innings,Afghanistan,Bangladesh,49.2,Mirwais Ashraf,Dawlat Zadran,Taskin Ahmed,0,0,0,NA,1,lbw,Mirwais Ashraf,NA,0
+1051297,2nd innings,Afghanistan,Bangladesh,49.3,Naveen-ul-Haq,Dawlat Zadran,Taskin Ahmed,0,1,1,legbyes,0,NA,NA,NA,0
+1051297,2nd innings,Afghanistan,Bangladesh,49.4,Dawlat Zadran,Naveen-ul-Haq,Taskin Ahmed,2,0,2,NA,0,NA,NA,NA,0
+1051297,2nd innings,Afghanistan,Bangladesh,49.5,Dawlat Zadran,Naveen-ul-Haq,Taskin Ahmed,0,0,0,NA,0,NA,NA,NA,0
+1051297,2nd innings,Afghanistan,Bangladesh,49.6,Dawlat Zadran,Naveen-ul-Haq,Taskin Ahmed,0,0,0,NA,1,caught,Dawlat Zadran,Sabbir Rahman,0

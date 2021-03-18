@@ -1,0 +1,575 @@
+match_id,innings,team,opponent,ball,batsman,non_striker,bowler,scored_runs,extras,total,extra_type,wicket,wicket_type,player_out,fielders,winner
+1168513,1st innings,Ireland,Bangladesh,0.1,PR Stirling,JA McCollum,Abu Jayed,0,0,0,NA,0,NA,NA,NA,0
+1168513,1st innings,Ireland,Bangladesh,0.2,PR Stirling,JA McCollum,Abu Jayed,0,0,0,NA,0,NA,NA,NA,0
+1168513,1st innings,Ireland,Bangladesh,0.3,PR Stirling,JA McCollum,Abu Jayed,0,0,0,NA,0,NA,NA,NA,0
+1168513,1st innings,Ireland,Bangladesh,0.4,PR Stirling,JA McCollum,Abu Jayed,4,0,4,NA,0,NA,NA,NA,0
+1168513,1st innings,Ireland,Bangladesh,0.5,PR Stirling,JA McCollum,Abu Jayed,2,0,2,NA,0,NA,NA,NA,0
+1168513,1st innings,Ireland,Bangladesh,0.6,PR Stirling,JA McCollum,Abu Jayed,0,0,0,NA,0,NA,NA,NA,0
+1168513,1st innings,Ireland,Bangladesh,1.1,JA McCollum,PR Stirling,Rubel Hossain,0,0,0,NA,0,NA,NA,NA,0
+1168513,1st innings,Ireland,Bangladesh,1.2,JA McCollum,PR Stirling,Rubel Hossain,4,0,4,NA,0,NA,NA,NA,0
+1168513,1st innings,Ireland,Bangladesh,1.3,JA McCollum,PR Stirling,Rubel Hossain,1,0,1,NA,0,NA,NA,NA,0
+1168513,1st innings,Ireland,Bangladesh,1.4,PR Stirling,JA McCollum,Rubel Hossain,2,0,2,NA,0,NA,NA,NA,0
+1168513,1st innings,Ireland,Bangladesh,1.5,PR Stirling,JA McCollum,Rubel Hossain,0,0,0,NA,0,NA,NA,NA,0
+1168513,1st innings,Ireland,Bangladesh,1.6,PR Stirling,JA McCollum,Rubel Hossain,2,0,2,NA,0,NA,NA,NA,0
+1168513,1st innings,Ireland,Bangladesh,2.1,JA McCollum,PR Stirling,Abu Jayed,0,0,0,NA,0,NA,NA,NA,0
+1168513,1st innings,Ireland,Bangladesh,2.2,JA McCollum,PR Stirling,Abu Jayed,0,0,0,NA,0,NA,NA,NA,0
+1168513,1st innings,Ireland,Bangladesh,2.3,JA McCollum,PR Stirling,Abu Jayed,0,0,0,NA,0,NA,NA,NA,0
+1168513,1st innings,Ireland,Bangladesh,2.4,JA McCollum,PR Stirling,Abu Jayed,0,0,0,NA,0,NA,NA,NA,0
+1168513,1st innings,Ireland,Bangladesh,2.5,JA McCollum,PR Stirling,Abu Jayed,0,1,1,wides,0,NA,NA,NA,0
+1168513,1st innings,Ireland,Bangladesh,2.6,JA McCollum,PR Stirling,Abu Jayed,0,0,0,NA,0,NA,NA,NA,0
+1168513,1st innings,Ireland,Bangladesh,2.7,JA McCollum,PR Stirling,Abu Jayed,0,0,0,NA,0,NA,NA,NA,0
+1168513,1st innings,Ireland,Bangladesh,3.1,PR Stirling,JA McCollum,Rubel Hossain,0,0,0,NA,0,NA,NA,NA,0
+1168513,1st innings,Ireland,Bangladesh,3.2,PR Stirling,JA McCollum,Rubel Hossain,0,0,0,NA,0,NA,NA,NA,0
+1168513,1st innings,Ireland,Bangladesh,3.3,PR Stirling,JA McCollum,Rubel Hossain,6,0,6,NA,0,NA,NA,NA,0
+1168513,1st innings,Ireland,Bangladesh,3.4,PR Stirling,JA McCollum,Rubel Hossain,1,0,1,NA,0,NA,NA,NA,0
+1168513,1st innings,Ireland,Bangladesh,3.5,JA McCollum,PR Stirling,Rubel Hossain,0,0,0,NA,1,caught,JA McCollum,Liton Das,0
+1168513,1st innings,Ireland,Bangladesh,3.6,A Balbirnie,PR Stirling,Rubel Hossain,0,0,0,NA,0,NA,NA,NA,0
+1168513,1st innings,Ireland,Bangladesh,4.1,PR Stirling,A Balbirnie,Abu Jayed,2,0,2,NA,0,NA,NA,NA,0
+1168513,1st innings,Ireland,Bangladesh,4.2,PR Stirling,A Balbirnie,Abu Jayed,4,0,4,NA,0,NA,NA,NA,0
+1168513,1st innings,Ireland,Bangladesh,4.3,PR Stirling,A Balbirnie,Abu Jayed,0,0,0,NA,0,NA,NA,NA,0
+1168513,1st innings,Ireland,Bangladesh,4.4,PR Stirling,A Balbirnie,Abu Jayed,0,0,0,NA,0,NA,NA,NA,0
+1168513,1st innings,Ireland,Bangladesh,4.5,PR Stirling,A Balbirnie,Abu Jayed,1,0,1,NA,0,NA,NA,NA,0
+1168513,1st innings,Ireland,Bangladesh,4.6,A Balbirnie,PR Stirling,Abu Jayed,1,0,1,NA,0,NA,NA,NA,0
+1168513,1st innings,Ireland,Bangladesh,5.1,A Balbirnie,PR Stirling,Rubel Hossain,0,0,0,NA,0,NA,NA,NA,0
+1168513,1st innings,Ireland,Bangladesh,5.2,A Balbirnie,PR Stirling,Rubel Hossain,1,0,1,NA,0,NA,NA,NA,0
+1168513,1st innings,Ireland,Bangladesh,5.3,PR Stirling,A Balbirnie,Rubel Hossain,0,0,0,NA,0,NA,NA,NA,0
+1168513,1st innings,Ireland,Bangladesh,5.4,PR Stirling,A Balbirnie,Rubel Hossain,0,0,0,NA,0,NA,NA,NA,0
+1168513,1st innings,Ireland,Bangladesh,5.5,PR Stirling,A Balbirnie,Rubel Hossain,6,0,6,NA,0,NA,NA,NA,0
+1168513,1st innings,Ireland,Bangladesh,5.6,PR Stirling,A Balbirnie,Rubel Hossain,2,0,2,NA,0,NA,NA,NA,0
+1168513,1st innings,Ireland,Bangladesh,6.1,A Balbirnie,PR Stirling,Abu Jayed,0,0,0,NA,0,NA,NA,NA,0
+1168513,1st innings,Ireland,Bangladesh,6.2,A Balbirnie,PR Stirling,Abu Jayed,0,0,0,NA,0,NA,NA,NA,0
+1168513,1st innings,Ireland,Bangladesh,6.3,A Balbirnie,PR Stirling,Abu Jayed,0,0,0,NA,0,NA,NA,NA,0
+1168513,1st innings,Ireland,Bangladesh,6.4,A Balbirnie,PR Stirling,Abu Jayed,4,0,4,NA,0,NA,NA,NA,0
+1168513,1st innings,Ireland,Bangladesh,6.5,A Balbirnie,PR Stirling,Abu Jayed,0,0,0,NA,0,NA,NA,NA,0
+1168513,1st innings,Ireland,Bangladesh,6.6,A Balbirnie,PR Stirling,Abu Jayed,0,0,0,NA,0,NA,NA,NA,0
+1168513,1st innings,Ireland,Bangladesh,7.1,PR Stirling,A Balbirnie,Rubel Hossain,0,0,0,NA,0,NA,NA,NA,0
+1168513,1st innings,Ireland,Bangladesh,7.2,PR Stirling,A Balbirnie,Rubel Hossain,0,0,0,NA,0,NA,NA,NA,0
+1168513,1st innings,Ireland,Bangladesh,7.3,PR Stirling,A Balbirnie,Rubel Hossain,0,0,0,NA,0,NA,NA,NA,0
+1168513,1st innings,Ireland,Bangladesh,7.4,PR Stirling,A Balbirnie,Rubel Hossain,0,0,0,NA,0,NA,NA,NA,0
+1168513,1st innings,Ireland,Bangladesh,7.5,PR Stirling,A Balbirnie,Rubel Hossain,0,0,0,NA,0,NA,NA,NA,0
+1168513,1st innings,Ireland,Bangladesh,7.6,PR Stirling,A Balbirnie,Rubel Hossain,0,0,0,NA,0,NA,NA,NA,0
+1168513,1st innings,Ireland,Bangladesh,8.1,A Balbirnie,PR Stirling,Abu Jayed,4,0,4,NA,0,NA,NA,NA,0
+1168513,1st innings,Ireland,Bangladesh,8.2,A Balbirnie,PR Stirling,Abu Jayed,0,1,1,wides,0,NA,NA,NA,0
+1168513,1st innings,Ireland,Bangladesh,8.3,A Balbirnie,PR Stirling,Abu Jayed,0,0,0,NA,0,NA,NA,NA,0
+1168513,1st innings,Ireland,Bangladesh,8.4,A Balbirnie,PR Stirling,Abu Jayed,0,0,0,NA,0,NA,NA,NA,0
+1168513,1st innings,Ireland,Bangladesh,8.5,A Balbirnie,PR Stirling,Abu Jayed,0,0,0,NA,0,NA,NA,NA,0
+1168513,1st innings,Ireland,Bangladesh,8.6,A Balbirnie,PR Stirling,Abu Jayed,0,0,0,NA,0,NA,NA,NA,0
+1168513,1st innings,Ireland,Bangladesh,8.7,A Balbirnie,PR Stirling,Abu Jayed,4,0,4,NA,0,NA,NA,NA,0
+1168513,1st innings,Ireland,Bangladesh,9.1,PR Stirling,A Balbirnie,Rubel Hossain,0,0,0,NA,0,NA,NA,NA,0
+1168513,1st innings,Ireland,Bangladesh,9.2,PR Stirling,A Balbirnie,Rubel Hossain,0,0,0,NA,0,NA,NA,NA,0
+1168513,1st innings,Ireland,Bangladesh,9.3,PR Stirling,A Balbirnie,Rubel Hossain,0,0,0,NA,0,NA,NA,NA,0
+1168513,1st innings,Ireland,Bangladesh,9.4,PR Stirling,A Balbirnie,Rubel Hossain,0,0,0,NA,0,NA,NA,NA,0
+1168513,1st innings,Ireland,Bangladesh,9.5,PR Stirling,A Balbirnie,Rubel Hossain,0,0,0,NA,0,NA,NA,NA,0
+1168513,1st innings,Ireland,Bangladesh,9.6,PR Stirling,A Balbirnie,Rubel Hossain,0,0,0,NA,0,NA,NA,NA,0
+1168513,1st innings,Ireland,Bangladesh,10.1,A Balbirnie,PR Stirling,Abu Jayed,4,0,4,NA,0,NA,NA,NA,0
+1168513,1st innings,Ireland,Bangladesh,10.2,A Balbirnie,PR Stirling,Abu Jayed,2,0,2,NA,0,NA,NA,NA,0
+1168513,1st innings,Ireland,Bangladesh,10.3,A Balbirnie,PR Stirling,Abu Jayed,0,0,0,NA,0,NA,NA,NA,0
+1168513,1st innings,Ireland,Bangladesh,10.4,A Balbirnie,PR Stirling,Abu Jayed,0,0,0,NA,1,caught,A Balbirnie,Mushfiqur Rahim,0
+1168513,1st innings,Ireland,Bangladesh,10.5,WTS Porterfield,PR Stirling,Abu Jayed,0,0,0,NA,0,NA,NA,NA,0
+1168513,1st innings,Ireland,Bangladesh,10.6,WTS Porterfield,PR Stirling,Abu Jayed,1,0,1,NA,0,NA,NA,NA,0
+1168513,1st innings,Ireland,Bangladesh,11.1,WTS Porterfield,PR Stirling,Mohammad Saifuddin,0,0,0,NA,0,NA,NA,NA,0
+1168513,1st innings,Ireland,Bangladesh,11.2,WTS Porterfield,PR Stirling,Mohammad Saifuddin,0,0,0,NA,0,NA,NA,NA,0
+1168513,1st innings,Ireland,Bangladesh,11.3,WTS Porterfield,PR Stirling,Mohammad Saifuddin,1,0,1,NA,0,NA,NA,NA,0
+1168513,1st innings,Ireland,Bangladesh,11.4,PR Stirling,WTS Porterfield,Mohammad Saifuddin,4,0,4,NA,0,NA,NA,NA,0
+1168513,1st innings,Ireland,Bangladesh,11.5,PR Stirling,WTS Porterfield,Mohammad Saifuddin,0,0,0,NA,0,NA,NA,NA,0
+1168513,1st innings,Ireland,Bangladesh,11.6,PR Stirling,WTS Porterfield,Mohammad Saifuddin,1,0,1,NA,0,NA,NA,NA,0
+1168513,1st innings,Ireland,Bangladesh,12.1,PR Stirling,WTS Porterfield,Mosaddek Hossain,1,0,1,NA,0,NA,NA,NA,0
+1168513,1st innings,Ireland,Bangladesh,12.2,WTS Porterfield,PR Stirling,Mosaddek Hossain,0,0,0,NA,0,NA,NA,NA,0
+1168513,1st innings,Ireland,Bangladesh,12.3,WTS Porterfield,PR Stirling,Mosaddek Hossain,0,0,0,NA,0,NA,NA,NA,0
+1168513,1st innings,Ireland,Bangladesh,12.4,WTS Porterfield,PR Stirling,Mosaddek Hossain,1,0,1,NA,0,NA,NA,NA,0
+1168513,1st innings,Ireland,Bangladesh,12.5,PR Stirling,WTS Porterfield,Mosaddek Hossain,4,0,4,NA,0,NA,NA,NA,0
+1168513,1st innings,Ireland,Bangladesh,12.6,PR Stirling,WTS Porterfield,Mosaddek Hossain,0,0,0,NA,0,NA,NA,NA,0
+1168513,1st innings,Ireland,Bangladesh,13.1,WTS Porterfield,PR Stirling,Mohammad Saifuddin,1,0,1,NA,0,NA,NA,NA,0
+1168513,1st innings,Ireland,Bangladesh,13.2,PR Stirling,WTS Porterfield,Mohammad Saifuddin,2,0,2,NA,0,NA,NA,NA,0
+1168513,1st innings,Ireland,Bangladesh,13.3,PR Stirling,WTS Porterfield,Mohammad Saifuddin,0,0,0,NA,0,NA,NA,NA,0
+1168513,1st innings,Ireland,Bangladesh,13.4,PR Stirling,WTS Porterfield,Mohammad Saifuddin,2,0,2,NA,0,NA,NA,NA,0
+1168513,1st innings,Ireland,Bangladesh,13.5,PR Stirling,WTS Porterfield,Mohammad Saifuddin,0,0,0,NA,0,NA,NA,NA,0
+1168513,1st innings,Ireland,Bangladesh,13.6,PR Stirling,WTS Porterfield,Mohammad Saifuddin,0,0,0,NA,0,NA,NA,NA,0
+1168513,1st innings,Ireland,Bangladesh,14.1,WTS Porterfield,PR Stirling,Mosaddek Hossain,0,0,0,NA,0,NA,NA,NA,0
+1168513,1st innings,Ireland,Bangladesh,14.2,WTS Porterfield,PR Stirling,Mosaddek Hossain,0,0,0,NA,0,NA,NA,NA,0
+1168513,1st innings,Ireland,Bangladesh,14.3,WTS Porterfield,PR Stirling,Mosaddek Hossain,0,0,0,NA,0,NA,NA,NA,0
+1168513,1st innings,Ireland,Bangladesh,14.4,WTS Porterfield,PR Stirling,Mosaddek Hossain,4,0,4,NA,0,NA,NA,NA,0
+1168513,1st innings,Ireland,Bangladesh,14.5,WTS Porterfield,PR Stirling,Mosaddek Hossain,0,0,0,NA,0,NA,NA,NA,0
+1168513,1st innings,Ireland,Bangladesh,14.6,WTS Porterfield,PR Stirling,Mosaddek Hossain,0,0,0,NA,0,NA,NA,NA,0
+1168513,1st innings,Ireland,Bangladesh,15.1,PR Stirling,WTS Porterfield,Mohammad Saifuddin,0,0,0,NA,0,NA,NA,NA,0
+1168513,1st innings,Ireland,Bangladesh,15.2,PR Stirling,WTS Porterfield,Mohammad Saifuddin,1,0,1,NA,0,NA,NA,NA,0
+1168513,1st innings,Ireland,Bangladesh,15.3,WTS Porterfield,PR Stirling,Mohammad Saifuddin,0,0,0,NA,0,NA,NA,NA,0
+1168513,1st innings,Ireland,Bangladesh,15.4,WTS Porterfield,PR Stirling,Mohammad Saifuddin,1,0,1,NA,0,NA,NA,NA,0
+1168513,1st innings,Ireland,Bangladesh,15.5,PR Stirling,WTS Porterfield,Mohammad Saifuddin,0,0,0,NA,0,NA,NA,NA,0
+1168513,1st innings,Ireland,Bangladesh,15.6,PR Stirling,WTS Porterfield,Mohammad Saifuddin,1,0,1,NA,0,NA,NA,NA,0
+1168513,1st innings,Ireland,Bangladesh,16.1,PR Stirling,WTS Porterfield,Mosaddek Hossain,1,0,1,NA,0,NA,NA,NA,0
+1168513,1st innings,Ireland,Bangladesh,16.2,WTS Porterfield,PR Stirling,Mosaddek Hossain,1,0,1,NA,0,NA,NA,NA,0
+1168513,1st innings,Ireland,Bangladesh,16.3,PR Stirling,WTS Porterfield,Mosaddek Hossain,1,0,1,NA,0,NA,NA,NA,0
+1168513,1st innings,Ireland,Bangladesh,16.4,WTS Porterfield,PR Stirling,Mosaddek Hossain,0,0,0,NA,0,NA,NA,NA,0
+1168513,1st innings,Ireland,Bangladesh,16.5,WTS Porterfield,PR Stirling,Mosaddek Hossain,1,0,1,NA,0,NA,NA,NA,0
+1168513,1st innings,Ireland,Bangladesh,16.6,PR Stirling,WTS Porterfield,Mosaddek Hossain,1,0,1,NA,0,NA,NA,NA,0
+1168513,1st innings,Ireland,Bangladesh,17.1,PR Stirling,WTS Porterfield,Mohammad Saifuddin,0,0,0,NA,0,NA,NA,NA,0
+1168513,1st innings,Ireland,Bangladesh,17.2,PR Stirling,WTS Porterfield,Mohammad Saifuddin,0,0,0,NA,0,NA,NA,NA,0
+1168513,1st innings,Ireland,Bangladesh,17.3,PR Stirling,WTS Porterfield,Mohammad Saifuddin,1,0,1,NA,0,NA,NA,NA,0
+1168513,1st innings,Ireland,Bangladesh,17.4,WTS Porterfield,PR Stirling,Mohammad Saifuddin,1,0,1,NA,0,NA,NA,NA,0
+1168513,1st innings,Ireland,Bangladesh,17.5,PR Stirling,WTS Porterfield,Mohammad Saifuddin,0,0,0,NA,0,NA,NA,NA,0
+1168513,1st innings,Ireland,Bangladesh,17.6,PR Stirling,WTS Porterfield,Mohammad Saifuddin,1,0,1,NA,0,NA,NA,NA,0
+1168513,1st innings,Ireland,Bangladesh,18.1,PR Stirling,WTS Porterfield,Mosaddek Hossain,0,0,0,NA,0,NA,NA,NA,0
+1168513,1st innings,Ireland,Bangladesh,18.2,PR Stirling,WTS Porterfield,Mosaddek Hossain,0,0,0,NA,0,NA,NA,NA,0
+1168513,1st innings,Ireland,Bangladesh,18.3,PR Stirling,WTS Porterfield,Mosaddek Hossain,0,0,0,NA,0,NA,NA,NA,0
+1168513,1st innings,Ireland,Bangladesh,18.4,PR Stirling,WTS Porterfield,Mosaddek Hossain,0,0,0,NA,0,NA,NA,NA,0
+1168513,1st innings,Ireland,Bangladesh,18.5,PR Stirling,WTS Porterfield,Mosaddek Hossain,1,0,1,NA,0,NA,NA,NA,0
+1168513,1st innings,Ireland,Bangladesh,18.6,WTS Porterfield,PR Stirling,Mosaddek Hossain,1,0,1,NA,0,NA,NA,NA,0
+1168513,1st innings,Ireland,Bangladesh,19.1,WTS Porterfield,PR Stirling,Mohammad Saifuddin,1,0,1,NA,0,NA,NA,NA,0
+1168513,1st innings,Ireland,Bangladesh,19.2,PR Stirling,WTS Porterfield,Mohammad Saifuddin,0,0,0,NA,0,NA,NA,NA,0
+1168513,1st innings,Ireland,Bangladesh,19.3,PR Stirling,WTS Porterfield,Mohammad Saifuddin,1,0,1,NA,0,NA,NA,NA,0
+1168513,1st innings,Ireland,Bangladesh,19.4,WTS Porterfield,PR Stirling,Mohammad Saifuddin,0,0,0,NA,0,NA,NA,NA,0
+1168513,1st innings,Ireland,Bangladesh,19.5,WTS Porterfield,PR Stirling,Mohammad Saifuddin,0,0,0,NA,0,NA,NA,NA,0
+1168513,1st innings,Ireland,Bangladesh,19.6,WTS Porterfield,PR Stirling,Mohammad Saifuddin,0,0,0,NA,0,NA,NA,NA,0
+1168513,1st innings,Ireland,Bangladesh,20.1,PR Stirling,WTS Porterfield,Mosaddek Hossain,0,0,0,NA,0,NA,NA,NA,0
+1168513,1st innings,Ireland,Bangladesh,20.2,PR Stirling,WTS Porterfield,Mosaddek Hossain,1,0,1,NA,0,NA,NA,NA,0
+1168513,1st innings,Ireland,Bangladesh,20.3,WTS Porterfield,PR Stirling,Mosaddek Hossain,1,0,1,NA,0,NA,NA,NA,0
+1168513,1st innings,Ireland,Bangladesh,20.4,PR Stirling,WTS Porterfield,Mosaddek Hossain,1,0,1,NA,0,NA,NA,NA,0
+1168513,1st innings,Ireland,Bangladesh,20.5,WTS Porterfield,PR Stirling,Mosaddek Hossain,1,0,1,NA,0,NA,NA,NA,0
+1168513,1st innings,Ireland,Bangladesh,20.6,PR Stirling,WTS Porterfield,Mosaddek Hossain,1,0,1,NA,0,NA,NA,NA,0
+1168513,1st innings,Ireland,Bangladesh,21.1,PR Stirling,WTS Porterfield,Shakib Al Hasan,0,0,0,NA,0,NA,NA,NA,0
+1168513,1st innings,Ireland,Bangladesh,21.2,PR Stirling,WTS Porterfield,Shakib Al Hasan,1,0,1,NA,0,NA,NA,NA,0
+1168513,1st innings,Ireland,Bangladesh,21.3,WTS Porterfield,PR Stirling,Shakib Al Hasan,0,0,0,NA,0,NA,NA,NA,0
+1168513,1st innings,Ireland,Bangladesh,21.4,WTS Porterfield,PR Stirling,Shakib Al Hasan,0,0,0,NA,0,NA,NA,NA,0
+1168513,1st innings,Ireland,Bangladesh,21.5,WTS Porterfield,PR Stirling,Shakib Al Hasan,1,0,1,NA,0,NA,NA,NA,0
+1168513,1st innings,Ireland,Bangladesh,21.6,PR Stirling,WTS Porterfield,Shakib Al Hasan,0,0,0,NA,0,NA,NA,NA,0
+1168513,1st innings,Ireland,Bangladesh,22.1,WTS Porterfield,PR Stirling,Mosaddek Hossain,0,0,0,NA,0,NA,NA,NA,0
+1168513,1st innings,Ireland,Bangladesh,22.2,WTS Porterfield,PR Stirling,Mosaddek Hossain,0,0,0,NA,0,NA,NA,NA,0
+1168513,1st innings,Ireland,Bangladesh,22.3,WTS Porterfield,PR Stirling,Mosaddek Hossain,1,0,1,NA,0,NA,NA,NA,0
+1168513,1st innings,Ireland,Bangladesh,22.4,PR Stirling,WTS Porterfield,Mosaddek Hossain,1,0,1,NA,0,NA,NA,NA,0
+1168513,1st innings,Ireland,Bangladesh,22.5,WTS Porterfield,PR Stirling,Mosaddek Hossain,0,0,0,NA,0,NA,NA,NA,0
+1168513,1st innings,Ireland,Bangladesh,22.6,WTS Porterfield,PR Stirling,Mosaddek Hossain,0,0,0,NA,0,NA,NA,NA,0
+1168513,1st innings,Ireland,Bangladesh,23.1,PR Stirling,WTS Porterfield,Shakib Al Hasan,0,0,0,NA,0,NA,NA,NA,0
+1168513,1st innings,Ireland,Bangladesh,23.2,PR Stirling,WTS Porterfield,Shakib Al Hasan,1,0,1,NA,0,NA,NA,NA,0
+1168513,1st innings,Ireland,Bangladesh,23.3,WTS Porterfield,PR Stirling,Shakib Al Hasan,4,0,4,NA,0,NA,NA,NA,0
+1168513,1st innings,Ireland,Bangladesh,23.4,WTS Porterfield,PR Stirling,Shakib Al Hasan,1,0,1,NA,0,NA,NA,NA,0
+1168513,1st innings,Ireland,Bangladesh,23.5,PR Stirling,WTS Porterfield,Shakib Al Hasan,1,0,1,NA,0,NA,NA,NA,0
+1168513,1st innings,Ireland,Bangladesh,23.6,WTS Porterfield,PR Stirling,Shakib Al Hasan,0,0,0,NA,0,NA,NA,NA,0
+1168513,1st innings,Ireland,Bangladesh,24.1,PR Stirling,WTS Porterfield,Mosaddek Hossain,1,0,1,NA,0,NA,NA,NA,0
+1168513,1st innings,Ireland,Bangladesh,24.2,WTS Porterfield,PR Stirling,Mosaddek Hossain,0,0,0,NA,0,NA,NA,NA,0
+1168513,1st innings,Ireland,Bangladesh,24.3,WTS Porterfield,PR Stirling,Mosaddek Hossain,1,0,1,NA,0,NA,NA,NA,0
+1168513,1st innings,Ireland,Bangladesh,24.4,PR Stirling,WTS Porterfield,Mosaddek Hossain,0,0,0,NA,0,NA,NA,NA,0
+1168513,1st innings,Ireland,Bangladesh,24.5,PR Stirling,WTS Porterfield,Mosaddek Hossain,1,0,1,NA,0,NA,NA,NA,0
+1168513,1st innings,Ireland,Bangladesh,24.6,WTS Porterfield,PR Stirling,Mosaddek Hossain,1,0,1,NA,0,NA,NA,NA,0
+1168513,1st innings,Ireland,Bangladesh,25.1,WTS Porterfield,PR Stirling,Shakib Al Hasan,0,0,0,NA,0,NA,NA,NA,0
+1168513,1st innings,Ireland,Bangladesh,25.2,WTS Porterfield,PR Stirling,Shakib Al Hasan,4,0,4,NA,0,NA,NA,NA,0
+1168513,1st innings,Ireland,Bangladesh,25.3,WTS Porterfield,PR Stirling,Shakib Al Hasan,1,0,1,NA,0,NA,NA,NA,0
+1168513,1st innings,Ireland,Bangladesh,25.4,PR Stirling,WTS Porterfield,Shakib Al Hasan,0,0,0,NA,0,NA,NA,NA,0
+1168513,1st innings,Ireland,Bangladesh,25.5,PR Stirling,WTS Porterfield,Shakib Al Hasan,1,0,1,NA,0,NA,NA,NA,0
+1168513,1st innings,Ireland,Bangladesh,25.6,WTS Porterfield,PR Stirling,Shakib Al Hasan,1,0,1,NA,0,NA,NA,NA,0
+1168513,1st innings,Ireland,Bangladesh,26.1,WTS Porterfield,PR Stirling,Mosaddek Hossain,1,0,1,NA,0,NA,NA,NA,0
+1168513,1st innings,Ireland,Bangladesh,26.2,PR Stirling,WTS Porterfield,Mosaddek Hossain,1,0,1,NA,0,NA,NA,NA,0
+1168513,1st innings,Ireland,Bangladesh,26.3,WTS Porterfield,PR Stirling,Mosaddek Hossain,1,0,1,NA,0,NA,NA,NA,0
+1168513,1st innings,Ireland,Bangladesh,26.4,PR Stirling,WTS Porterfield,Mosaddek Hossain,0,0,0,NA,0,NA,NA,NA,0
+1168513,1st innings,Ireland,Bangladesh,26.5,PR Stirling,WTS Porterfield,Mosaddek Hossain,0,0,0,NA,0,NA,NA,NA,0
+1168513,1st innings,Ireland,Bangladesh,26.6,PR Stirling,WTS Porterfield,Mosaddek Hossain,1,0,1,NA,0,NA,NA,NA,0
+1168513,1st innings,Ireland,Bangladesh,27.1,PR Stirling,WTS Porterfield,Shakib Al Hasan,1,0,1,NA,0,NA,NA,NA,0
+1168513,1st innings,Ireland,Bangladesh,27.2,WTS Porterfield,PR Stirling,Shakib Al Hasan,0,0,0,NA,0,NA,NA,NA,0
+1168513,1st innings,Ireland,Bangladesh,27.3,WTS Porterfield,PR Stirling,Shakib Al Hasan,0,0,0,NA,0,NA,NA,NA,0
+1168513,1st innings,Ireland,Bangladesh,27.4,WTS Porterfield,PR Stirling,Shakib Al Hasan,0,0,0,NA,0,NA,NA,NA,0
+1168513,1st innings,Ireland,Bangladesh,27.5,WTS Porterfield,PR Stirling,Shakib Al Hasan,0,0,0,NA,0,NA,NA,NA,0
+1168513,1st innings,Ireland,Bangladesh,27.6,WTS Porterfield,PR Stirling,Shakib Al Hasan,4,0,4,NA,0,NA,NA,NA,0
+1168513,1st innings,Ireland,Bangladesh,28.1,PR Stirling,WTS Porterfield,Mashrafe Mortaza,1,0,1,NA,0,NA,NA,NA,0
+1168513,1st innings,Ireland,Bangladesh,28.2,WTS Porterfield,PR Stirling,Mashrafe Mortaza,0,0,0,NA,0,NA,NA,NA,0
+1168513,1st innings,Ireland,Bangladesh,28.3,WTS Porterfield,PR Stirling,Mashrafe Mortaza,2,0,2,NA,0,NA,NA,NA,0
+1168513,1st innings,Ireland,Bangladesh,28.4,WTS Porterfield,PR Stirling,Mashrafe Mortaza,0,0,0,NA,0,NA,NA,NA,0
+1168513,1st innings,Ireland,Bangladesh,28.5,WTS Porterfield,PR Stirling,Mashrafe Mortaza,0,0,0,NA,0,NA,NA,NA,0
+1168513,1st innings,Ireland,Bangladesh,28.6,WTS Porterfield,PR Stirling,Mashrafe Mortaza,0,0,0,NA,0,NA,NA,NA,0
+1168513,1st innings,Ireland,Bangladesh,29.1,PR Stirling,WTS Porterfield,Shakib Al Hasan,1,0,1,NA,0,NA,NA,NA,0
+1168513,1st innings,Ireland,Bangladesh,29.2,WTS Porterfield,PR Stirling,Shakib Al Hasan,4,0,4,NA,0,NA,NA,NA,0
+1168513,1st innings,Ireland,Bangladesh,29.3,WTS Porterfield,PR Stirling,Shakib Al Hasan,0,0,0,NA,0,NA,NA,NA,0
+1168513,1st innings,Ireland,Bangladesh,29.4,WTS Porterfield,PR Stirling,Shakib Al Hasan,1,0,1,NA,0,NA,NA,NA,0
+1168513,1st innings,Ireland,Bangladesh,29.5,PR Stirling,WTS Porterfield,Shakib Al Hasan,0,0,0,NA,0,NA,NA,NA,0
+1168513,1st innings,Ireland,Bangladesh,29.6,PR Stirling,WTS Porterfield,Shakib Al Hasan,0,0,0,NA,0,NA,NA,NA,0
+1168513,1st innings,Ireland,Bangladesh,30.1,WTS Porterfield,PR Stirling,Mashrafe Mortaza,1,0,1,NA,0,NA,NA,NA,0
+1168513,1st innings,Ireland,Bangladesh,30.2,PR Stirling,WTS Porterfield,Mashrafe Mortaza,0,0,0,NA,0,NA,NA,NA,0
+1168513,1st innings,Ireland,Bangladesh,30.3,PR Stirling,WTS Porterfield,Mashrafe Mortaza,4,0,4,NA,0,NA,NA,NA,0
+1168513,1st innings,Ireland,Bangladesh,30.4,PR Stirling,WTS Porterfield,Mashrafe Mortaza,0,0,0,NA,0,NA,NA,NA,0
+1168513,1st innings,Ireland,Bangladesh,30.5,PR Stirling,WTS Porterfield,Mashrafe Mortaza,1,0,1,NA,0,NA,NA,NA,0
+1168513,1st innings,Ireland,Bangladesh,30.6,WTS Porterfield,PR Stirling,Mashrafe Mortaza,1,0,1,NA,0,NA,NA,NA,0
+1168513,1st innings,Ireland,Bangladesh,31.1,WTS Porterfield,PR Stirling,Shakib Al Hasan,0,0,0,NA,0,NA,NA,NA,0
+1168513,1st innings,Ireland,Bangladesh,31.2,WTS Porterfield,PR Stirling,Shakib Al Hasan,1,0,1,NA,0,NA,NA,NA,0
+1168513,1st innings,Ireland,Bangladesh,31.3,PR Stirling,WTS Porterfield,Shakib Al Hasan,0,0,0,NA,0,NA,NA,NA,0
+1168513,1st innings,Ireland,Bangladesh,31.4,PR Stirling,WTS Porterfield,Shakib Al Hasan,0,0,0,NA,0,NA,NA,NA,0
+1168513,1st innings,Ireland,Bangladesh,31.5,PR Stirling,WTS Porterfield,Shakib Al Hasan,1,0,1,NA,0,NA,NA,NA,0
+1168513,1st innings,Ireland,Bangladesh,31.6,WTS Porterfield,PR Stirling,Shakib Al Hasan,0,1,1,wides,0,NA,NA,NA,0
+1168513,1st innings,Ireland,Bangladesh,31.7,WTS Porterfield,PR Stirling,Shakib Al Hasan,0,0,0,NA,0,NA,NA,NA,0
+1168513,1st innings,Ireland,Bangladesh,32.1,PR Stirling,WTS Porterfield,Mashrafe Mortaza,1,0,1,NA,0,NA,NA,NA,0
+1168513,1st innings,Ireland,Bangladesh,32.2,WTS Porterfield,PR Stirling,Mashrafe Mortaza,1,0,1,NA,0,NA,NA,NA,0
+1168513,1st innings,Ireland,Bangladesh,32.3,PR Stirling,WTS Porterfield,Mashrafe Mortaza,1,0,1,NA,0,NA,NA,NA,0
+1168513,1st innings,Ireland,Bangladesh,32.4,WTS Porterfield,PR Stirling,Mashrafe Mortaza,0,0,0,NA,0,NA,NA,NA,0
+1168513,1st innings,Ireland,Bangladesh,32.5,WTS Porterfield,PR Stirling,Mashrafe Mortaza,1,0,1,NA,0,NA,NA,NA,0
+1168513,1st innings,Ireland,Bangladesh,32.6,PR Stirling,WTS Porterfield,Mashrafe Mortaza,1,0,1,NA,0,NA,NA,NA,0
+1168513,1st innings,Ireland,Bangladesh,33.1,PR Stirling,WTS Porterfield,Shakib Al Hasan,1,0,1,NA,0,NA,NA,NA,0
+1168513,1st innings,Ireland,Bangladesh,33.2,WTS Porterfield,PR Stirling,Shakib Al Hasan,1,0,1,NA,0,NA,NA,NA,0
+1168513,1st innings,Ireland,Bangladesh,33.3,PR Stirling,WTS Porterfield,Shakib Al Hasan,0,0,0,NA,0,NA,NA,NA,0
+1168513,1st innings,Ireland,Bangladesh,33.4,PR Stirling,WTS Porterfield,Shakib Al Hasan,1,0,1,NA,0,NA,NA,NA,0
+1168513,1st innings,Ireland,Bangladesh,33.5,WTS Porterfield,PR Stirling,Shakib Al Hasan,1,0,1,NA,0,NA,NA,NA,0
+1168513,1st innings,Ireland,Bangladesh,33.6,PR Stirling,WTS Porterfield,Shakib Al Hasan,0,0,0,NA,0,NA,NA,NA,0
+1168513,1st innings,Ireland,Bangladesh,34.1,WTS Porterfield,PR Stirling,Mashrafe Mortaza,0,0,0,NA,0,NA,NA,NA,0
+1168513,1st innings,Ireland,Bangladesh,34.2,WTS Porterfield,PR Stirling,Mashrafe Mortaza,1,0,1,NA,0,NA,NA,NA,0
+1168513,1st innings,Ireland,Bangladesh,34.3,PR Stirling,WTS Porterfield,Mashrafe Mortaza,0,0,0,NA,0,NA,NA,NA,0
+1168513,1st innings,Ireland,Bangladesh,34.4,PR Stirling,WTS Porterfield,Mashrafe Mortaza,0,0,0,NA,0,NA,NA,NA,0
+1168513,1st innings,Ireland,Bangladesh,34.5,PR Stirling,WTS Porterfield,Mashrafe Mortaza,1,0,1,NA,0,NA,NA,NA,0
+1168513,1st innings,Ireland,Bangladesh,34.6,WTS Porterfield,PR Stirling,Mashrafe Mortaza,1,0,1,NA,0,NA,NA,NA,0
+1168513,1st innings,Ireland,Bangladesh,35.1,WTS Porterfield,PR Stirling,Shakib Al Hasan,4,0,4,NA,0,NA,NA,NA,0
+1168513,1st innings,Ireland,Bangladesh,35.2,WTS Porterfield,PR Stirling,Shakib Al Hasan,1,0,1,NA,0,NA,NA,NA,0
+1168513,1st innings,Ireland,Bangladesh,35.3,PR Stirling,WTS Porterfield,Shakib Al Hasan,0,0,0,NA,0,NA,NA,NA,0
+1168513,1st innings,Ireland,Bangladesh,35.4,PR Stirling,WTS Porterfield,Shakib Al Hasan,1,0,1,NA,0,NA,NA,NA,0
+1168513,1st innings,Ireland,Bangladesh,35.5,WTS Porterfield,PR Stirling,Shakib Al Hasan,0,1,1,wides,0,NA,NA,NA,0
+1168513,1st innings,Ireland,Bangladesh,35.6,WTS Porterfield,PR Stirling,Shakib Al Hasan,1,0,1,NA,0,NA,NA,NA,0
+1168513,1st innings,Ireland,Bangladesh,35.7,PR Stirling,WTS Porterfield,Shakib Al Hasan,0,0,0,NA,0,NA,NA,NA,0
+1168513,1st innings,Ireland,Bangladesh,36.1,WTS Porterfield,PR Stirling,Mashrafe Mortaza,1,0,1,NA,0,NA,NA,NA,0
+1168513,1st innings,Ireland,Bangladesh,36.2,PR Stirling,WTS Porterfield,Mashrafe Mortaza,0,0,0,NA,0,NA,NA,NA,0
+1168513,1st innings,Ireland,Bangladesh,36.3,PR Stirling,WTS Porterfield,Mashrafe Mortaza,0,0,0,NA,0,NA,NA,NA,0
+1168513,1st innings,Ireland,Bangladesh,36.4,PR Stirling,WTS Porterfield,Mashrafe Mortaza,0,0,0,NA,0,NA,NA,NA,0
+1168513,1st innings,Ireland,Bangladesh,36.5,PR Stirling,WTS Porterfield,Mashrafe Mortaza,1,0,1,NA,0,NA,NA,NA,0
+1168513,1st innings,Ireland,Bangladesh,36.6,WTS Porterfield,PR Stirling,Mashrafe Mortaza,1,0,1,NA,0,NA,NA,NA,0
+1168513,1st innings,Ireland,Bangladesh,37.1,WTS Porterfield,PR Stirling,Rubel Hossain,0,0,0,NA,0,NA,NA,NA,0
+1168513,1st innings,Ireland,Bangladesh,37.2,WTS Porterfield,PR Stirling,Rubel Hossain,1,0,1,NA,0,NA,NA,NA,0
+1168513,1st innings,Ireland,Bangladesh,37.3,PR Stirling,WTS Porterfield,Rubel Hossain,1,0,1,NA,0,NA,NA,NA,0
+1168513,1st innings,Ireland,Bangladesh,37.4,WTS Porterfield,PR Stirling,Rubel Hossain,0,0,0,NA,0,NA,NA,NA,0
+1168513,1st innings,Ireland,Bangladesh,37.5,WTS Porterfield,PR Stirling,Rubel Hossain,1,0,1,NA,0,NA,NA,NA,0
+1168513,1st innings,Ireland,Bangladesh,37.6,PR Stirling,WTS Porterfield,Rubel Hossain,1,0,1,NA,0,NA,NA,NA,0
+1168513,1st innings,Ireland,Bangladesh,38.1,PR Stirling,WTS Porterfield,Mashrafe Mortaza,1,0,1,NA,0,NA,NA,NA,0
+1168513,1st innings,Ireland,Bangladesh,38.2,WTS Porterfield,PR Stirling,Mashrafe Mortaza,1,0,1,NA,0,NA,NA,NA,0
+1168513,1st innings,Ireland,Bangladesh,38.3,PR Stirling,WTS Porterfield,Mashrafe Mortaza,0,0,0,NA,0,NA,NA,NA,0
+1168513,1st innings,Ireland,Bangladesh,38.4,PR Stirling,WTS Porterfield,Mashrafe Mortaza,0,0,0,NA,0,NA,NA,NA,0
+1168513,1st innings,Ireland,Bangladesh,38.5,PR Stirling,WTS Porterfield,Mashrafe Mortaza,0,0,0,NA,0,NA,NA,NA,0
+1168513,1st innings,Ireland,Bangladesh,38.6,PR Stirling,WTS Porterfield,Mashrafe Mortaza,1,0,1,NA,0,NA,NA,NA,0
+1168513,1st innings,Ireland,Bangladesh,39.1,PR Stirling,WTS Porterfield,Rubel Hossain,2,0,2,NA,0,NA,NA,NA,0
+1168513,1st innings,Ireland,Bangladesh,39.2,PR Stirling,WTS Porterfield,Rubel Hossain,4,0,4,NA,0,NA,NA,NA,0
+1168513,1st innings,Ireland,Bangladesh,39.3,PR Stirling,WTS Porterfield,Rubel Hossain,1,0,1,NA,0,NA,NA,NA,0
+1168513,1st innings,Ireland,Bangladesh,39.4,WTS Porterfield,PR Stirling,Rubel Hossain,2,0,2,NA,0,NA,NA,NA,0
+1168513,1st innings,Ireland,Bangladesh,39.5,WTS Porterfield,PR Stirling,Rubel Hossain,1,0,1,NA,0,NA,NA,NA,0
+1168513,1st innings,Ireland,Bangladesh,39.6,PR Stirling,WTS Porterfield,Rubel Hossain,2,0,2,NA,0,NA,NA,NA,0
+1168513,1st innings,Ireland,Bangladesh,40.1,WTS Porterfield,PR Stirling,Mashrafe Mortaza,1,0,1,NA,0,NA,NA,NA,0
+1168513,1st innings,Ireland,Bangladesh,40.2,PR Stirling,WTS Porterfield,Mashrafe Mortaza,1,0,1,NA,0,NA,NA,NA,0
+1168513,1st innings,Ireland,Bangladesh,40.3,WTS Porterfield,PR Stirling,Mashrafe Mortaza,1,0,1,NA,0,NA,NA,NA,0
+1168513,1st innings,Ireland,Bangladesh,40.4,PR Stirling,WTS Porterfield,Mashrafe Mortaza,1,0,1,NA,0,NA,NA,NA,0
+1168513,1st innings,Ireland,Bangladesh,40.5,WTS Porterfield,PR Stirling,Mashrafe Mortaza,0,0,0,NA,0,NA,NA,NA,0
+1168513,1st innings,Ireland,Bangladesh,40.6,WTS Porterfield,PR Stirling,Mashrafe Mortaza,1,0,1,NA,0,NA,NA,NA,0
+1168513,1st innings,Ireland,Bangladesh,41.1,WTS Porterfield,PR Stirling,Mohammad Saifuddin,1,0,1,NA,0,NA,NA,NA,0
+1168513,1st innings,Ireland,Bangladesh,41.2,PR Stirling,WTS Porterfield,Mohammad Saifuddin,1,0,1,NA,0,NA,NA,NA,0
+1168513,1st innings,Ireland,Bangladesh,41.3,WTS Porterfield,PR Stirling,Mohammad Saifuddin,1,0,1,NA,0,NA,NA,NA,0
+1168513,1st innings,Ireland,Bangladesh,41.4,PR Stirling,WTS Porterfield,Mohammad Saifuddin,1,0,1,NA,0,NA,NA,NA,0
+1168513,1st innings,Ireland,Bangladesh,41.5,WTS Porterfield,PR Stirling,Mohammad Saifuddin,0,0,0,NA,0,NA,NA,NA,0
+1168513,1st innings,Ireland,Bangladesh,41.6,WTS Porterfield,PR Stirling,Mohammad Saifuddin,1,0,1,NA,0,NA,NA,NA,0
+1168513,1st innings,Ireland,Bangladesh,42.1,WTS Porterfield,PR Stirling,Mashrafe Mortaza,6,0,6,NA,0,NA,NA,NA,0
+1168513,1st innings,Ireland,Bangladesh,42.2,WTS Porterfield,PR Stirling,Mashrafe Mortaza,0,1,1,legbyes,0,NA,NA,NA,0
+1168513,1st innings,Ireland,Bangladesh,42.3,PR Stirling,WTS Porterfield,Mashrafe Mortaza,1,0,1,NA,0,NA,NA,NA,0
+1168513,1st innings,Ireland,Bangladesh,42.4,WTS Porterfield,PR Stirling,Mashrafe Mortaza,4,0,4,NA,0,NA,NA,NA,0
+1168513,1st innings,Ireland,Bangladesh,42.5,WTS Porterfield,PR Stirling,Mashrafe Mortaza,6,0,6,NA,0,NA,NA,NA,0
+1168513,1st innings,Ireland,Bangladesh,42.6,WTS Porterfield,PR Stirling,Mashrafe Mortaza,1,0,1,NA,0,NA,NA,NA,0
+1168513,1st innings,Ireland,Bangladesh,43.1,WTS Porterfield,PR Stirling,Mohammad Saifuddin,1,0,1,NA,0,NA,NA,NA,0
+1168513,1st innings,Ireland,Bangladesh,43.2,PR Stirling,WTS Porterfield,Mohammad Saifuddin,1,0,1,NA,0,NA,NA,NA,0
+1168513,1st innings,Ireland,Bangladesh,43.3,WTS Porterfield,PR Stirling,Mohammad Saifuddin,0,0,0,NA,0,NA,NA,NA,0
+1168513,1st innings,Ireland,Bangladesh,43.4,WTS Porterfield,PR Stirling,Mohammad Saifuddin,1,0,1,NA,0,NA,NA,NA,0
+1168513,1st innings,Ireland,Bangladesh,43.5,PR Stirling,WTS Porterfield,Mohammad Saifuddin,1,0,1,NA,0,NA,NA,NA,0
+1168513,1st innings,Ireland,Bangladesh,43.6,WTS Porterfield,PR Stirling,Mohammad Saifuddin,1,0,1,NA,0,NA,NA,NA,0
+1168513,1st innings,Ireland,Bangladesh,44.1,WTS Porterfield,PR Stirling,Abu Jayed,1,0,1,NA,0,NA,NA,NA,0
+1168513,1st innings,Ireland,Bangladesh,44.2,PR Stirling,WTS Porterfield,Abu Jayed,1,0,1,NA,0,NA,NA,NA,0
+1168513,1st innings,Ireland,Bangladesh,44.3,WTS Porterfield,PR Stirling,Abu Jayed,0,4,4,legbyes,0,NA,NA,NA,0
+1168513,1st innings,Ireland,Bangladesh,44.4,WTS Porterfield,PR Stirling,Abu Jayed,0,0,0,NA,1,caught,WTS Porterfield,Liton Das,0
+1168513,1st innings,Ireland,Bangladesh,44.5,PR Stirling,KJ O'Brien,Abu Jayed,1,0,1,NA,0,NA,NA,NA,0
+1168513,1st innings,Ireland,Bangladesh,44.6,KJ O'Brien,PR Stirling,Abu Jayed,2,0,2,NA,0,NA,NA,NA,0
+1168513,1st innings,Ireland,Bangladesh,45.1,PR Stirling,KJ O'Brien,Shakib Al Hasan,4,0,4,NA,0,NA,NA,NA,0
+1168513,1st innings,Ireland,Bangladesh,45.2,PR Stirling,KJ O'Brien,Shakib Al Hasan,6,0,6,NA,0,NA,NA,NA,0
+1168513,1st innings,Ireland,Bangladesh,45.3,PR Stirling,KJ O'Brien,Shakib Al Hasan,6,0,6,NA,0,NA,NA,NA,0
+1168513,1st innings,Ireland,Bangladesh,45.4,PR Stirling,KJ O'Brien,Shakib Al Hasan,0,1,1,wides,0,NA,NA,NA,0
+1168513,1st innings,Ireland,Bangladesh,45.5,PR Stirling,KJ O'Brien,Shakib Al Hasan,4,0,4,NA,0,NA,NA,NA,0
+1168513,1st innings,Ireland,Bangladesh,45.6,PR Stirling,KJ O'Brien,Shakib Al Hasan,1,0,1,NA,0,NA,NA,NA,0
+1168513,1st innings,Ireland,Bangladesh,45.7,KJ O'Brien,PR Stirling,Shakib Al Hasan,1,0,1,NA,0,NA,NA,NA,0
+1168513,1st innings,Ireland,Bangladesh,46.1,KJ O'Brien,PR Stirling,Abu Jayed,0,1,1,legbyes,0,NA,NA,NA,0
+1168513,1st innings,Ireland,Bangladesh,46.2,PR Stirling,KJ O'Brien,Abu Jayed,2,0,2,NA,0,NA,NA,NA,0
+1168513,1st innings,Ireland,Bangladesh,46.3,PR Stirling,KJ O'Brien,Abu Jayed,1,0,1,NA,0,NA,NA,NA,0
+1168513,1st innings,Ireland,Bangladesh,46.4,KJ O'Brien,PR Stirling,Abu Jayed,0,0,0,NA,1,caught,KJ O'Brien,Tamim Iqbal,0
+1168513,1st innings,Ireland,Bangladesh,46.5,MR Adair,PR Stirling,Abu Jayed,0,1,1,wides,0,NA,NA,NA,0
+1168513,1st innings,Ireland,Bangladesh,46.6,PR Stirling,MR Adair,Abu Jayed,0,0,0,NA,1,caught,PR Stirling,Liton Das,0
+1168513,1st innings,Ireland,Bangladesh,46.7,MR Adair,GC Wilson,Abu Jayed,1,0,1,NA,0,NA,NA,NA,0
+1168513,1st innings,Ireland,Bangladesh,47.1,MR Adair,GC Wilson,Mohammad Saifuddin,6,0,6,NA,0,NA,NA,NA,0
+1168513,1st innings,Ireland,Bangladesh,47.2,MR Adair,GC Wilson,Mohammad Saifuddin,2,0,2,NA,0,NA,NA,NA,0
+1168513,1st innings,Ireland,Bangladesh,47.3,MR Adair,GC Wilson,Mohammad Saifuddin,1,0,1,NA,0,NA,NA,NA,0
+1168513,1st innings,Ireland,Bangladesh,47.4,GC Wilson,MR Adair,Mohammad Saifuddin,1,0,1,NA,0,NA,NA,NA,0
+1168513,1st innings,Ireland,Bangladesh,47.5,MR Adair,GC Wilson,Mohammad Saifuddin,1,0,1,NA,0,NA,NA,NA,0
+1168513,1st innings,Ireland,Bangladesh,47.6,GC Wilson,MR Adair,Mohammad Saifuddin,1,0,1,NA,0,NA,NA,NA,0
+1168513,1st innings,Ireland,Bangladesh,48.1,GC Wilson,MR Adair,Abu Jayed,2,0,2,NA,0,NA,NA,NA,0
+1168513,1st innings,Ireland,Bangladesh,48.2,GC Wilson,MR Adair,Abu Jayed,4,0,4,NA,0,NA,NA,NA,0
+1168513,1st innings,Ireland,Bangladesh,48.3,GC Wilson,MR Adair,Abu Jayed,4,0,4,NA,0,NA,NA,NA,0
+1168513,1st innings,Ireland,Bangladesh,48.4,GC Wilson,MR Adair,Abu Jayed,0,0,0,NA,1,caught,GC Wilson,Shakib Al Hasan,0
+1168513,1st innings,Ireland,Bangladesh,48.5,GH Dockrell,MR Adair,Abu Jayed,2,0,2,NA,0,NA,NA,NA,0
+1168513,1st innings,Ireland,Bangladesh,48.6,GH Dockrell,MR Adair,Abu Jayed,1,0,1,NA,0,NA,NA,NA,0
+1168513,1st innings,Ireland,Bangladesh,49.1,GH Dockrell,MR Adair,Mohammad Saifuddin,0,0,0,NA,0,NA,NA,NA,0
+1168513,1st innings,Ireland,Bangladesh,49.2,GH Dockrell,MR Adair,Mohammad Saifuddin,1,0,1,NA,0,NA,NA,NA,0
+1168513,1st innings,Ireland,Bangladesh,49.3,MR Adair,GH Dockrell,Mohammad Saifuddin,0,0,0,NA,0,NA,NA,NA,0
+1168513,1st innings,Ireland,Bangladesh,49.4,MR Adair,GH Dockrell,Mohammad Saifuddin,0,0,0,NA,1,bowled,MR Adair,NA,0
+1168513,1st innings,Ireland,Bangladesh,49.5,BJ McCarthy,GH Dockrell,Mohammad Saifuddin,1,0,1,NA,0,NA,NA,NA,0
+1168513,1st innings,Ireland,Bangladesh,49.6,GH Dockrell,BJ McCarthy,Mohammad Saifuddin,0,0,0,NA,1,bowled,GH Dockrell,NA,0
+1168513,2nd innings,Bangladesh,Ireland,0.1,Tamim Iqbal,Liton Das,MR Adair,0,0,0,NA,0,NA,NA,NA,1
+1168513,2nd innings,Bangladesh,Ireland,0.2,Tamim Iqbal,Liton Das,MR Adair,0,0,0,NA,0,NA,NA,NA,1
+1168513,2nd innings,Bangladesh,Ireland,0.3,Tamim Iqbal,Liton Das,MR Adair,0,0,0,NA,0,NA,NA,NA,1
+1168513,2nd innings,Bangladesh,Ireland,0.4,Tamim Iqbal,Liton Das,MR Adair,0,0,0,NA,0,NA,NA,NA,1
+1168513,2nd innings,Bangladesh,Ireland,0.5,Tamim Iqbal,Liton Das,MR Adair,2,0,2,NA,0,NA,NA,NA,1
+1168513,2nd innings,Bangladesh,Ireland,0.6,Tamim Iqbal,Liton Das,MR Adair,0,0,0,NA,0,NA,NA,NA,1
+1168513,2nd innings,Bangladesh,Ireland,1.1,Liton Das,Tamim Iqbal,BJ McCarthy,0,1,1,wides,0,NA,NA,NA,1
+1168513,2nd innings,Bangladesh,Ireland,1.2,Liton Das,Tamim Iqbal,BJ McCarthy,0,0,0,NA,0,NA,NA,NA,1
+1168513,2nd innings,Bangladesh,Ireland,1.3,Liton Das,Tamim Iqbal,BJ McCarthy,0,0,0,NA,0,NA,NA,NA,1
+1168513,2nd innings,Bangladesh,Ireland,1.4,Liton Das,Tamim Iqbal,BJ McCarthy,4,0,4,NA,0,NA,NA,NA,1
+1168513,2nd innings,Bangladesh,Ireland,1.5,Liton Das,Tamim Iqbal,BJ McCarthy,0,0,0,NA,0,NA,NA,NA,1
+1168513,2nd innings,Bangladesh,Ireland,1.6,Liton Das,Tamim Iqbal,BJ McCarthy,0,0,0,NA,0,NA,NA,NA,1
+1168513,2nd innings,Bangladesh,Ireland,1.7,Liton Das,Tamim Iqbal,BJ McCarthy,2,0,2,NA,0,NA,NA,NA,1
+1168513,2nd innings,Bangladesh,Ireland,2.1,Tamim Iqbal,Liton Das,MR Adair,0,1,1,legbyes,0,NA,NA,NA,1
+1168513,2nd innings,Bangladesh,Ireland,2.2,Liton Das,Tamim Iqbal,MR Adair,0,0,0,NA,0,NA,NA,NA,1
+1168513,2nd innings,Bangladesh,Ireland,2.3,Liton Das,Tamim Iqbal,MR Adair,0,0,0,NA,0,NA,NA,NA,1
+1168513,2nd innings,Bangladesh,Ireland,2.4,Liton Das,Tamim Iqbal,MR Adair,0,0,0,NA,0,NA,NA,NA,1
+1168513,2nd innings,Bangladesh,Ireland,2.5,Liton Das,Tamim Iqbal,MR Adair,4,0,4,NA,0,NA,NA,NA,1
+1168513,2nd innings,Bangladesh,Ireland,2.6,Liton Das,Tamim Iqbal,MR Adair,0,0,0,NA,0,NA,NA,NA,1
+1168513,2nd innings,Bangladesh,Ireland,3.1,Tamim Iqbal,Liton Das,BJ McCarthy,0,0,0,NA,0,NA,NA,NA,1
+1168513,2nd innings,Bangladesh,Ireland,3.2,Tamim Iqbal,Liton Das,BJ McCarthy,4,0,4,NA,0,NA,NA,NA,1
+1168513,2nd innings,Bangladesh,Ireland,3.3,Tamim Iqbal,Liton Das,BJ McCarthy,0,0,0,NA,0,NA,NA,NA,1
+1168513,2nd innings,Bangladesh,Ireland,3.4,Tamim Iqbal,Liton Das,BJ McCarthy,0,0,0,NA,0,NA,NA,NA,1
+1168513,2nd innings,Bangladesh,Ireland,3.5,Tamim Iqbal,Liton Das,BJ McCarthy,0,0,0,NA,0,NA,NA,NA,1
+1168513,2nd innings,Bangladesh,Ireland,3.6,Tamim Iqbal,Liton Das,BJ McCarthy,1,0,1,NA,0,NA,NA,NA,1
+1168513,2nd innings,Bangladesh,Ireland,4.1,Tamim Iqbal,Liton Das,MR Adair,0,0,0,NA,0,NA,NA,NA,1
+1168513,2nd innings,Bangladesh,Ireland,4.2,Tamim Iqbal,Liton Das,MR Adair,0,0,0,NA,0,NA,NA,NA,1
+1168513,2nd innings,Bangladesh,Ireland,4.3,Tamim Iqbal,Liton Das,MR Adair,4,0,4,NA,0,NA,NA,NA,1
+1168513,2nd innings,Bangladesh,Ireland,4.4,Tamim Iqbal,Liton Das,MR Adair,0,0,0,NA,0,NA,NA,NA,1
+1168513,2nd innings,Bangladesh,Ireland,4.5,Tamim Iqbal,Liton Das,MR Adair,1,0,1,NA,0,NA,NA,NA,1
+1168513,2nd innings,Bangladesh,Ireland,4.6,Liton Das,Tamim Iqbal,MR Adair,0,0,0,NA,0,NA,NA,NA,1
+1168513,2nd innings,Bangladesh,Ireland,5.1,Tamim Iqbal,Liton Das,BJ McCarthy,1,0,1,NA,0,NA,NA,NA,1
+1168513,2nd innings,Bangladesh,Ireland,5.2,Liton Das,Tamim Iqbal,BJ McCarthy,0,0,0,NA,0,NA,NA,NA,1
+1168513,2nd innings,Bangladesh,Ireland,5.3,Liton Das,Tamim Iqbal,BJ McCarthy,4,0,4,NA,0,NA,NA,NA,1
+1168513,2nd innings,Bangladesh,Ireland,5.4,Liton Das,Tamim Iqbal,BJ McCarthy,0,0,0,NA,0,NA,NA,NA,1
+1168513,2nd innings,Bangladesh,Ireland,5.5,Liton Das,Tamim Iqbal,BJ McCarthy,3,0,3,NA,0,NA,NA,NA,1
+1168513,2nd innings,Bangladesh,Ireland,5.6,Tamim Iqbal,Liton Das,BJ McCarthy,0,0,0,NA,0,NA,NA,NA,1
+1168513,2nd innings,Bangladesh,Ireland,6.1,Liton Das,Tamim Iqbal,MR Adair,0,0,0,NA,0,NA,NA,NA,1
+1168513,2nd innings,Bangladesh,Ireland,6.2,Liton Das,Tamim Iqbal,MR Adair,0,0,0,NA,0,NA,NA,NA,1
+1168513,2nd innings,Bangladesh,Ireland,6.3,Liton Das,Tamim Iqbal,MR Adair,0,0,0,NA,0,NA,NA,NA,1
+1168513,2nd innings,Bangladesh,Ireland,6.4,Liton Das,Tamim Iqbal,MR Adair,1,0,1,NA,0,NA,NA,NA,1
+1168513,2nd innings,Bangladesh,Ireland,6.5,Tamim Iqbal,Liton Das,MR Adair,1,0,1,NA,0,NA,NA,NA,1
+1168513,2nd innings,Bangladesh,Ireland,6.6,Liton Das,Tamim Iqbal,MR Adair,0,0,0,NA,0,NA,NA,NA,1
+1168513,2nd innings,Bangladesh,Ireland,7.1,Tamim Iqbal,Liton Das,BJ McCarthy,4,0,4,NA,0,NA,NA,NA,1
+1168513,2nd innings,Bangladesh,Ireland,7.2,Tamim Iqbal,Liton Das,BJ McCarthy,0,0,0,NA,0,NA,NA,NA,1
+1168513,2nd innings,Bangladesh,Ireland,7.3,Tamim Iqbal,Liton Das,BJ McCarthy,4,0,4,NA,0,NA,NA,NA,1
+1168513,2nd innings,Bangladesh,Ireland,7.4,Tamim Iqbal,Liton Das,BJ McCarthy,0,0,0,NA,0,NA,NA,NA,1
+1168513,2nd innings,Bangladesh,Ireland,7.5,Tamim Iqbal,Liton Das,BJ McCarthy,0,0,0,NA,0,NA,NA,NA,1
+1168513,2nd innings,Bangladesh,Ireland,7.6,Tamim Iqbal,Liton Das,BJ McCarthy,0,0,0,NA,0,NA,NA,NA,1
+1168513,2nd innings,Bangladesh,Ireland,8.1,Liton Das,Tamim Iqbal,MR Adair,0,0,0,NA,0,NA,NA,NA,1
+1168513,2nd innings,Bangladesh,Ireland,8.2,Liton Das,Tamim Iqbal,MR Adair,1,0,1,NA,0,NA,NA,NA,1
+1168513,2nd innings,Bangladesh,Ireland,8.3,Tamim Iqbal,Liton Das,MR Adair,4,0,4,NA,0,NA,NA,NA,1
+1168513,2nd innings,Bangladesh,Ireland,8.4,Tamim Iqbal,Liton Das,MR Adair,4,0,4,NA,0,NA,NA,NA,1
+1168513,2nd innings,Bangladesh,Ireland,8.5,Tamim Iqbal,Liton Das,MR Adair,1,0,1,NA,0,NA,NA,NA,1
+1168513,2nd innings,Bangladesh,Ireland,8.6,Liton Das,Tamim Iqbal,MR Adair,1,0,1,NA,0,NA,NA,NA,1
+1168513,2nd innings,Bangladesh,Ireland,9.1,Liton Das,Tamim Iqbal,J Little,0,0,0,NA,0,NA,NA,NA,1
+1168513,2nd innings,Bangladesh,Ireland,9.2,Liton Das,Tamim Iqbal,J Little,0,0,0,NA,0,NA,NA,NA,1
+1168513,2nd innings,Bangladesh,Ireland,9.3,Liton Das,Tamim Iqbal,J Little,0,0,0,NA,0,NA,NA,NA,1
+1168513,2nd innings,Bangladesh,Ireland,9.4,Liton Das,Tamim Iqbal,J Little,4,0,4,NA,0,NA,NA,NA,1
+1168513,2nd innings,Bangladesh,Ireland,9.5,Liton Das,Tamim Iqbal,J Little,0,0,0,NA,0,NA,NA,NA,1
+1168513,2nd innings,Bangladesh,Ireland,9.6,Liton Das,Tamim Iqbal,J Little,1,0,1,NA,0,NA,NA,NA,1
+1168513,2nd innings,Bangladesh,Ireland,10.1,Liton Das,Tamim Iqbal,WB Rankin,1,0,1,NA,0,NA,NA,NA,1
+1168513,2nd innings,Bangladesh,Ireland,10.2,Tamim Iqbal,Liton Das,WB Rankin,0,0,0,NA,0,NA,NA,NA,1
+1168513,2nd innings,Bangladesh,Ireland,10.3,Tamim Iqbal,Liton Das,WB Rankin,1,0,1,NA,0,NA,NA,NA,1
+1168513,2nd innings,Bangladesh,Ireland,10.4,Liton Das,Tamim Iqbal,WB Rankin,4,0,4,NA,0,NA,NA,NA,1
+1168513,2nd innings,Bangladesh,Ireland,10.5,Liton Das,Tamim Iqbal,WB Rankin,0,0,0,NA,0,NA,NA,NA,1
+1168513,2nd innings,Bangladesh,Ireland,10.6,Liton Das,Tamim Iqbal,WB Rankin,2,0,2,NA,0,NA,NA,NA,1
+1168513,2nd innings,Bangladesh,Ireland,11.1,Tamim Iqbal,Liton Das,J Little,0,1,1,wides,0,NA,NA,NA,1
+1168513,2nd innings,Bangladesh,Ireland,11.2,Tamim Iqbal,Liton Das,J Little,2,0,2,NA,0,NA,NA,NA,1
+1168513,2nd innings,Bangladesh,Ireland,11.3,Tamim Iqbal,Liton Das,J Little,1,0,1,NA,0,NA,NA,NA,1
+1168513,2nd innings,Bangladesh,Ireland,11.4,Liton Das,Tamim Iqbal,J Little,1,0,1,NA,0,NA,NA,NA,1
+1168513,2nd innings,Bangladesh,Ireland,11.5,Tamim Iqbal,Liton Das,J Little,0,0,0,NA,0,NA,NA,NA,1
+1168513,2nd innings,Bangladesh,Ireland,11.6,Tamim Iqbal,Liton Das,J Little,4,0,4,NA,0,NA,NA,NA,1
+1168513,2nd innings,Bangladesh,Ireland,11.7,Tamim Iqbal,Liton Das,J Little,1,0,1,NA,0,NA,NA,NA,1
+1168513,2nd innings,Bangladesh,Ireland,12.1,Tamim Iqbal,Liton Das,WB Rankin,1,0,1,NA,0,NA,NA,NA,1
+1168513,2nd innings,Bangladesh,Ireland,12.2,Liton Das,Tamim Iqbal,WB Rankin,1,0,1,NA,0,NA,NA,NA,1
+1168513,2nd innings,Bangladesh,Ireland,12.3,Tamim Iqbal,Liton Das,WB Rankin,0,4,4,legbyes,0,NA,NA,NA,1
+1168513,2nd innings,Bangladesh,Ireland,12.4,Tamim Iqbal,Liton Das,WB Rankin,1,0,1,NA,0,NA,NA,NA,1
+1168513,2nd innings,Bangladesh,Ireland,12.5,Liton Das,Tamim Iqbal,WB Rankin,1,0,1,NA,0,NA,NA,NA,1
+1168513,2nd innings,Bangladesh,Ireland,12.6,Tamim Iqbal,Liton Das,WB Rankin,1,0,1,NA,0,NA,NA,NA,1
+1168513,2nd innings,Bangladesh,Ireland,13.1,Tamim Iqbal,Liton Das,J Little,0,0,0,NA,0,NA,NA,NA,1
+1168513,2nd innings,Bangladesh,Ireland,13.2,Tamim Iqbal,Liton Das,J Little,1,0,1,NA,0,NA,NA,NA,1
+1168513,2nd innings,Bangladesh,Ireland,13.3,Liton Das,Tamim Iqbal,J Little,1,0,1,NA,0,NA,NA,NA,1
+1168513,2nd innings,Bangladesh,Ireland,13.4,Tamim Iqbal,Liton Das,J Little,1,0,1,NA,0,NA,NA,NA,1
+1168513,2nd innings,Bangladesh,Ireland,13.5,Liton Das,Tamim Iqbal,J Little,1,0,1,NA,0,NA,NA,NA,1
+1168513,2nd innings,Bangladesh,Ireland,13.6,Tamim Iqbal,Liton Das,J Little,4,0,4,NA,0,NA,NA,NA,1
+1168513,2nd innings,Bangladesh,Ireland,14.1,Liton Das,Tamim Iqbal,WB Rankin,1,0,1,NA,0,NA,NA,NA,1
+1168513,2nd innings,Bangladesh,Ireland,14.2,Tamim Iqbal,Liton Das,WB Rankin,1,0,1,NA,0,NA,NA,NA,1
+1168513,2nd innings,Bangladesh,Ireland,14.3,Liton Das,Tamim Iqbal,WB Rankin,2,0,2,NA,0,NA,NA,NA,1
+1168513,2nd innings,Bangladesh,Ireland,14.4,Liton Das,Tamim Iqbal,WB Rankin,1,0,1,NA,0,NA,NA,NA,1
+1168513,2nd innings,Bangladesh,Ireland,14.5,Tamim Iqbal,Liton Das,WB Rankin,1,0,1,NA,0,NA,NA,NA,1
+1168513,2nd innings,Bangladesh,Ireland,14.6,Liton Das,Tamim Iqbal,WB Rankin,4,0,4,NA,0,NA,NA,NA,1
+1168513,2nd innings,Bangladesh,Ireland,15.1,Tamim Iqbal,Liton Das,GH Dockrell,1,0,1,NA,0,NA,NA,NA,1
+1168513,2nd innings,Bangladesh,Ireland,15.2,Liton Das,Tamim Iqbal,GH Dockrell,0,0,0,NA,0,NA,NA,NA,1
+1168513,2nd innings,Bangladesh,Ireland,15.3,Liton Das,Tamim Iqbal,GH Dockrell,1,0,1,NA,0,NA,NA,NA,1
+1168513,2nd innings,Bangladesh,Ireland,15.4,Tamim Iqbal,Liton Das,GH Dockrell,1,0,1,NA,0,NA,NA,NA,1
+1168513,2nd innings,Bangladesh,Ireland,15.5,Liton Das,Tamim Iqbal,GH Dockrell,2,0,2,NA,0,NA,NA,NA,1
+1168513,2nd innings,Bangladesh,Ireland,15.6,Liton Das,Tamim Iqbal,GH Dockrell,4,0,4,NA,0,NA,NA,NA,1
+1168513,2nd innings,Bangladesh,Ireland,16.1,Tamim Iqbal,Liton Das,WB Rankin,0,0,0,NA,0,NA,NA,NA,1
+1168513,2nd innings,Bangladesh,Ireland,16.2,Tamim Iqbal,Liton Das,WB Rankin,4,0,4,NA,0,NA,NA,NA,1
+1168513,2nd innings,Bangladesh,Ireland,16.3,Tamim Iqbal,Liton Das,WB Rankin,0,0,0,NA,0,NA,NA,NA,1
+1168513,2nd innings,Bangladesh,Ireland,16.4,Tamim Iqbal,Liton Das,WB Rankin,0,1,1,wides,0,NA,NA,NA,1
+1168513,2nd innings,Bangladesh,Ireland,16.5,Tamim Iqbal,Liton Das,WB Rankin,0,0,0,NA,1,bowled,Tamim Iqbal,NA,1
+1168513,2nd innings,Bangladesh,Ireland,16.6,Shakib Al Hasan,Liton Das,WB Rankin,1,0,1,NA,0,NA,NA,NA,1
+1168513,2nd innings,Bangladesh,Ireland,16.7,Liton Das,Shakib Al Hasan,WB Rankin,4,0,4,NA,0,NA,NA,NA,1
+1168513,2nd innings,Bangladesh,Ireland,17.1,Shakib Al Hasan,Liton Das,GH Dockrell,1,0,1,NA,0,NA,NA,NA,1
+1168513,2nd innings,Bangladesh,Ireland,17.2,Liton Das,Shakib Al Hasan,GH Dockrell,0,0,0,NA,0,NA,NA,NA,1
+1168513,2nd innings,Bangladesh,Ireland,17.3,Liton Das,Shakib Al Hasan,GH Dockrell,0,0,0,NA,0,NA,NA,NA,1
+1168513,2nd innings,Bangladesh,Ireland,17.4,Liton Das,Shakib Al Hasan,GH Dockrell,0,0,0,NA,0,NA,NA,NA,1
+1168513,2nd innings,Bangladesh,Ireland,17.5,Liton Das,Shakib Al Hasan,GH Dockrell,0,0,0,NA,0,NA,NA,NA,1
+1168513,2nd innings,Bangladesh,Ireland,17.6,Liton Das,Shakib Al Hasan,GH Dockrell,1,0,1,NA,0,NA,NA,NA,1
+1168513,2nd innings,Bangladesh,Ireland,18.1,Liton Das,Shakib Al Hasan,J Little,2,0,2,NA,0,NA,NA,NA,1
+1168513,2nd innings,Bangladesh,Ireland,18.2,Liton Das,Shakib Al Hasan,J Little,0,0,0,NA,0,NA,NA,NA,1
+1168513,2nd innings,Bangladesh,Ireland,18.3,Liton Das,Shakib Al Hasan,J Little,0,0,0,NA,0,NA,NA,NA,1
+1168513,2nd innings,Bangladesh,Ireland,18.4,Liton Das,Shakib Al Hasan,J Little,1,0,1,NA,0,NA,NA,NA,1
+1168513,2nd innings,Bangladesh,Ireland,18.5,Shakib Al Hasan,Liton Das,J Little,0,1,1,wides,0,NA,NA,NA,1
+1168513,2nd innings,Bangladesh,Ireland,18.6,Shakib Al Hasan,Liton Das,J Little,1,0,1,NA,0,NA,NA,NA,1
+1168513,2nd innings,Bangladesh,Ireland,18.7,Liton Das,Shakib Al Hasan,J Little,0,0,0,NA,0,NA,NA,NA,1
+1168513,2nd innings,Bangladesh,Ireland,19.1,Shakib Al Hasan,Liton Das,GH Dockrell,4,0,4,NA,0,NA,NA,NA,1
+1168513,2nd innings,Bangladesh,Ireland,19.2,Shakib Al Hasan,Liton Das,GH Dockrell,2,0,2,NA,0,NA,NA,NA,1
+1168513,2nd innings,Bangladesh,Ireland,19.3,Shakib Al Hasan,Liton Das,GH Dockrell,1,0,1,NA,0,NA,NA,NA,1
+1168513,2nd innings,Bangladesh,Ireland,19.4,Liton Das,Shakib Al Hasan,GH Dockrell,1,0,1,NA,0,NA,NA,NA,1
+1168513,2nd innings,Bangladesh,Ireland,19.5,Shakib Al Hasan,Liton Das,GH Dockrell,0,0,0,NA,0,NA,NA,NA,1
+1168513,2nd innings,Bangladesh,Ireland,19.6,Shakib Al Hasan,Liton Das,GH Dockrell,2,0,2,NA,0,NA,NA,NA,1
+1168513,2nd innings,Bangladesh,Ireland,20.1,Liton Das,Shakib Al Hasan,J Little,1,0,1,NA,0,NA,NA,NA,1
+1168513,2nd innings,Bangladesh,Ireland,20.2,Shakib Al Hasan,Liton Das,J Little,0,1,1,wides,0,NA,NA,NA,1
+1168513,2nd innings,Bangladesh,Ireland,20.3,Shakib Al Hasan,Liton Das,J Little,0,0,0,NA,0,NA,NA,NA,1
+1168513,2nd innings,Bangladesh,Ireland,20.4,Shakib Al Hasan,Liton Das,J Little,1,0,1,NA,0,NA,NA,NA,1
+1168513,2nd innings,Bangladesh,Ireland,20.5,Liton Das,Shakib Al Hasan,J Little,6,0,6,NA,0,NA,NA,NA,1
+1168513,2nd innings,Bangladesh,Ireland,20.6,Liton Das,Shakib Al Hasan,J Little,0,0,0,NA,0,NA,NA,NA,1
+1168513,2nd innings,Bangladesh,Ireland,20.7,Liton Das,Shakib Al Hasan,J Little,2,0,2,NA,0,NA,NA,NA,1
+1168513,2nd innings,Bangladesh,Ireland,21.1,Shakib Al Hasan,Liton Das,GH Dockrell,1,0,1,NA,0,NA,NA,NA,1
+1168513,2nd innings,Bangladesh,Ireland,21.2,Liton Das,Shakib Al Hasan,GH Dockrell,4,0,4,NA,0,NA,NA,NA,1
+1168513,2nd innings,Bangladesh,Ireland,21.3,Liton Das,Shakib Al Hasan,GH Dockrell,1,0,1,NA,0,NA,NA,NA,1
+1168513,2nd innings,Bangladesh,Ireland,21.4,Shakib Al Hasan,Liton Das,GH Dockrell,1,0,1,NA,0,NA,NA,NA,1
+1168513,2nd innings,Bangladesh,Ireland,21.5,Liton Das,Shakib Al Hasan,GH Dockrell,1,0,1,NA,0,NA,NA,NA,1
+1168513,2nd innings,Bangladesh,Ireland,21.6,Shakib Al Hasan,Liton Das,GH Dockrell,1,0,1,NA,0,NA,NA,NA,1
+1168513,2nd innings,Bangladesh,Ireland,22.1,Shakib Al Hasan,Liton Das,BJ McCarthy,0,0,0,NA,0,NA,NA,NA,1
+1168513,2nd innings,Bangladesh,Ireland,22.2,Shakib Al Hasan,Liton Das,BJ McCarthy,1,0,1,NA,0,NA,NA,NA,1
+1168513,2nd innings,Bangladesh,Ireland,22.3,Liton Das,Shakib Al Hasan,BJ McCarthy,0,0,0,NA,1,bowled,Liton Das,NA,1
+1168513,2nd innings,Bangladesh,Ireland,22.4,Mushfiqur Rahim,Shakib Al Hasan,BJ McCarthy,4,0,4,NA,0,NA,NA,NA,1
+1168513,2nd innings,Bangladesh,Ireland,22.5,Mushfiqur Rahim,Shakib Al Hasan,BJ McCarthy,0,0,0,NA,0,NA,NA,NA,1
+1168513,2nd innings,Bangladesh,Ireland,22.6,Mushfiqur Rahim,Shakib Al Hasan,BJ McCarthy,1,0,1,NA,0,NA,NA,NA,1
+1168513,2nd innings,Bangladesh,Ireland,23.1,Mushfiqur Rahim,Shakib Al Hasan,GH Dockrell,1,0,1,NA,0,NA,NA,NA,1
+1168513,2nd innings,Bangladesh,Ireland,23.2,Shakib Al Hasan,Mushfiqur Rahim,GH Dockrell,1,0,1,NA,0,NA,NA,NA,1
+1168513,2nd innings,Bangladesh,Ireland,23.3,Mushfiqur Rahim,Shakib Al Hasan,GH Dockrell,1,0,1,NA,0,NA,NA,NA,1
+1168513,2nd innings,Bangladesh,Ireland,23.4,Shakib Al Hasan,Mushfiqur Rahim,GH Dockrell,0,0,0,NA,0,NA,NA,NA,1
+1168513,2nd innings,Bangladesh,Ireland,23.5,Shakib Al Hasan,Mushfiqur Rahim,GH Dockrell,1,0,1,NA,0,NA,NA,NA,1
+1168513,2nd innings,Bangladesh,Ireland,23.6,Mushfiqur Rahim,Shakib Al Hasan,GH Dockrell,1,0,1,NA,0,NA,NA,NA,1
+1168513,2nd innings,Bangladesh,Ireland,24.1,Mushfiqur Rahim,Shakib Al Hasan,BJ McCarthy,0,0,0,NA,0,NA,NA,NA,1
+1168513,2nd innings,Bangladesh,Ireland,24.2,Mushfiqur Rahim,Shakib Al Hasan,BJ McCarthy,4,0,4,NA,0,NA,NA,NA,1
+1168513,2nd innings,Bangladesh,Ireland,24.3,Mushfiqur Rahim,Shakib Al Hasan,BJ McCarthy,1,0,1,NA,0,NA,NA,NA,1
+1168513,2nd innings,Bangladesh,Ireland,24.4,Shakib Al Hasan,Mushfiqur Rahim,BJ McCarthy,0,0,0,NA,0,NA,NA,NA,1
+1168513,2nd innings,Bangladesh,Ireland,24.5,Shakib Al Hasan,Mushfiqur Rahim,BJ McCarthy,1,0,1,NA,0,NA,NA,NA,1
+1168513,2nd innings,Bangladesh,Ireland,24.6,Mushfiqur Rahim,Shakib Al Hasan,BJ McCarthy,0,0,0,NA,0,NA,NA,NA,1
+1168513,2nd innings,Bangladesh,Ireland,25.1,Shakib Al Hasan,Mushfiqur Rahim,MR Adair,0,0,0,NA,0,NA,NA,NA,1
+1168513,2nd innings,Bangladesh,Ireland,25.2,Shakib Al Hasan,Mushfiqur Rahim,MR Adair,0,0,0,NA,0,NA,NA,NA,1
+1168513,2nd innings,Bangladesh,Ireland,25.3,Shakib Al Hasan,Mushfiqur Rahim,MR Adair,0,0,0,NA,0,NA,NA,NA,1
+1168513,2nd innings,Bangladesh,Ireland,25.4,Shakib Al Hasan,Mushfiqur Rahim,MR Adair,1,0,1,NA,0,NA,NA,NA,1
+1168513,2nd innings,Bangladesh,Ireland,25.5,Mushfiqur Rahim,Shakib Al Hasan,MR Adair,0,0,0,NA,0,NA,NA,NA,1
+1168513,2nd innings,Bangladesh,Ireland,25.6,Mushfiqur Rahim,Shakib Al Hasan,MR Adair,0,0,0,NA,0,NA,NA,NA,1
+1168513,2nd innings,Bangladesh,Ireland,26.1,Shakib Al Hasan,Mushfiqur Rahim,BJ McCarthy,1,0,1,NA,0,NA,NA,NA,1
+1168513,2nd innings,Bangladesh,Ireland,26.2,Mushfiqur Rahim,Shakib Al Hasan,BJ McCarthy,4,0,4,NA,0,NA,NA,NA,1
+1168513,2nd innings,Bangladesh,Ireland,26.3,Mushfiqur Rahim,Shakib Al Hasan,BJ McCarthy,1,0,1,NA,0,NA,NA,NA,1
+1168513,2nd innings,Bangladesh,Ireland,26.4,Shakib Al Hasan,Mushfiqur Rahim,BJ McCarthy,1,0,1,NA,0,NA,NA,NA,1
+1168513,2nd innings,Bangladesh,Ireland,26.5,Mushfiqur Rahim,Shakib Al Hasan,BJ McCarthy,0,0,0,NA,0,NA,NA,NA,1
+1168513,2nd innings,Bangladesh,Ireland,26.6,Mushfiqur Rahim,Shakib Al Hasan,BJ McCarthy,1,0,1,NA,0,NA,NA,NA,1
+1168513,2nd innings,Bangladesh,Ireland,27.1,Mushfiqur Rahim,Shakib Al Hasan,MR Adair,4,0,4,NA,0,NA,NA,NA,1
+1168513,2nd innings,Bangladesh,Ireland,27.2,Mushfiqur Rahim,Shakib Al Hasan,MR Adair,0,0,0,NA,0,NA,NA,NA,1
+1168513,2nd innings,Bangladesh,Ireland,27.3,Mushfiqur Rahim,Shakib Al Hasan,MR Adair,1,0,1,NA,0,NA,NA,NA,1
+1168513,2nd innings,Bangladesh,Ireland,27.4,Shakib Al Hasan,Mushfiqur Rahim,MR Adair,4,0,4,NA,0,NA,NA,NA,1
+1168513,2nd innings,Bangladesh,Ireland,27.5,Shakib Al Hasan,Mushfiqur Rahim,MR Adair,1,0,1,NA,0,NA,NA,NA,1
+1168513,2nd innings,Bangladesh,Ireland,27.6,Mushfiqur Rahim,Shakib Al Hasan,MR Adair,1,0,1,NA,0,NA,NA,NA,1
+1168513,2nd innings,Bangladesh,Ireland,28.1,Mushfiqur Rahim,Shakib Al Hasan,WB Rankin,1,0,1,NA,0,NA,NA,NA,1
+1168513,2nd innings,Bangladesh,Ireland,28.2,Shakib Al Hasan,Mushfiqur Rahim,WB Rankin,0,0,0,NA,0,NA,NA,NA,1
+1168513,2nd innings,Bangladesh,Ireland,28.3,Shakib Al Hasan,Mushfiqur Rahim,WB Rankin,0,0,0,NA,0,NA,NA,NA,1
+1168513,2nd innings,Bangladesh,Ireland,28.4,Shakib Al Hasan,Mushfiqur Rahim,WB Rankin,1,0,1,NA,0,NA,NA,NA,1
+1168513,2nd innings,Bangladesh,Ireland,28.5,Mushfiqur Rahim,Shakib Al Hasan,WB Rankin,0,0,0,NA,0,NA,NA,NA,1
+1168513,2nd innings,Bangladesh,Ireland,28.6,Mushfiqur Rahim,Shakib Al Hasan,WB Rankin,0,0,0,NA,0,NA,NA,NA,1
+1168513,2nd innings,Bangladesh,Ireland,29.1,Shakib Al Hasan,Mushfiqur Rahim,MR Adair,0,0,0,NA,0,NA,NA,NA,1
+1168513,2nd innings,Bangladesh,Ireland,29.2,Shakib Al Hasan,Mushfiqur Rahim,MR Adair,4,0,4,NA,0,NA,NA,NA,1
+1168513,2nd innings,Bangladesh,Ireland,29.3,Shakib Al Hasan,Mushfiqur Rahim,MR Adair,1,0,1,NA,0,NA,NA,NA,1
+1168513,2nd innings,Bangladesh,Ireland,29.4,Mushfiqur Rahim,Shakib Al Hasan,MR Adair,1,0,1,NA,0,NA,NA,NA,1
+1168513,2nd innings,Bangladesh,Ireland,29.5,Shakib Al Hasan,Mushfiqur Rahim,MR Adair,1,0,1,NA,0,NA,NA,NA,1
+1168513,2nd innings,Bangladesh,Ireland,29.6,Mushfiqur Rahim,Shakib Al Hasan,MR Adair,1,0,1,NA,0,NA,NA,NA,1
+1168513,2nd innings,Bangladesh,Ireland,30.1,Mushfiqur Rahim,Shakib Al Hasan,WB Rankin,1,0,1,NA,0,NA,NA,NA,1
+1168513,2nd innings,Bangladesh,Ireland,30.2,Shakib Al Hasan,Mushfiqur Rahim,WB Rankin,1,0,1,NA,0,NA,NA,NA,1
+1168513,2nd innings,Bangladesh,Ireland,30.3,Mushfiqur Rahim,Shakib Al Hasan,WB Rankin,1,0,1,NA,0,NA,NA,NA,1
+1168513,2nd innings,Bangladesh,Ireland,30.4,Shakib Al Hasan,Mushfiqur Rahim,WB Rankin,0,0,0,NA,0,NA,NA,NA,1
+1168513,2nd innings,Bangladesh,Ireland,30.5,Shakib Al Hasan,Mushfiqur Rahim,WB Rankin,2,0,2,NA,0,NA,NA,NA,1
+1168513,2nd innings,Bangladesh,Ireland,30.6,Shakib Al Hasan,Mushfiqur Rahim,WB Rankin,0,1,1,wides,0,NA,NA,NA,1
+1168513,2nd innings,Bangladesh,Ireland,30.7,Shakib Al Hasan,Mushfiqur Rahim,WB Rankin,1,0,1,NA,0,NA,NA,NA,1
+1168513,2nd innings,Bangladesh,Ireland,31.1,Shakib Al Hasan,Mushfiqur Rahim,GH Dockrell,1,0,1,NA,0,NA,NA,NA,1
+1168513,2nd innings,Bangladesh,Ireland,31.2,Mushfiqur Rahim,Shakib Al Hasan,GH Dockrell,0,0,0,NA,0,NA,NA,NA,1
+1168513,2nd innings,Bangladesh,Ireland,31.3,Mushfiqur Rahim,Shakib Al Hasan,GH Dockrell,0,0,0,NA,0,NA,NA,NA,1
+1168513,2nd innings,Bangladesh,Ireland,31.4,Mushfiqur Rahim,Shakib Al Hasan,GH Dockrell,1,0,1,NA,0,NA,NA,NA,1
+1168513,2nd innings,Bangladesh,Ireland,31.5,Shakib Al Hasan,Mushfiqur Rahim,GH Dockrell,0,0,0,NA,0,NA,NA,NA,1
+1168513,2nd innings,Bangladesh,Ireland,31.6,Shakib Al Hasan,Mushfiqur Rahim,GH Dockrell,4,0,4,NA,0,NA,NA,NA,1
+1168513,2nd innings,Bangladesh,Ireland,32.1,Mushfiqur Rahim,Shakib Al Hasan,WB Rankin,0,0,0,NA,0,NA,NA,NA,1
+1168513,2nd innings,Bangladesh,Ireland,32.2,Mushfiqur Rahim,Shakib Al Hasan,WB Rankin,0,1,1,wides,0,NA,NA,NA,1
+1168513,2nd innings,Bangladesh,Ireland,32.3,Mushfiqur Rahim,Shakib Al Hasan,WB Rankin,4,0,4,NA,0,NA,NA,NA,1
+1168513,2nd innings,Bangladesh,Ireland,32.4,Mushfiqur Rahim,Shakib Al Hasan,WB Rankin,0,0,0,NA,1,caught,Mushfiqur Rahim,GC Wilson,1
+1168513,2nd innings,Bangladesh,Ireland,32.5,Mahmudullah,Shakib Al Hasan,WB Rankin,1,0,1,NA,0,NA,NA,NA,1
+1168513,2nd innings,Bangladesh,Ireland,32.6,Shakib Al Hasan,Mahmudullah,WB Rankin,0,0,0,NA,0,NA,NA,NA,1
+1168513,2nd innings,Bangladesh,Ireland,32.7,Shakib Al Hasan,Mahmudullah,WB Rankin,0,0,0,NA,0,NA,NA,NA,1
+1168513,2nd innings,Bangladesh,Ireland,33.1,Mahmudullah,Shakib Al Hasan,GH Dockrell,1,0,1,NA,0,NA,NA,NA,1
+1168513,2nd innings,Bangladesh,Ireland,33.2,Shakib Al Hasan,Mahmudullah,GH Dockrell,1,0,1,NA,0,NA,NA,NA,1
+1168513,2nd innings,Bangladesh,Ireland,33.3,Mahmudullah,Shakib Al Hasan,GH Dockrell,0,0,0,NA,0,NA,NA,NA,1
+1168513,2nd innings,Bangladesh,Ireland,33.4,Mahmudullah,Shakib Al Hasan,GH Dockrell,2,0,2,NA,0,NA,NA,NA,1
+1168513,2nd innings,Bangladesh,Ireland,33.5,Mahmudullah,Shakib Al Hasan,GH Dockrell,1,0,1,NA,0,NA,NA,NA,1
+1168513,2nd innings,Bangladesh,Ireland,33.6,Shakib Al Hasan,Mahmudullah,GH Dockrell,1,0,1,NA,0,NA,NA,NA,1
+1168513,2nd innings,Bangladesh,Ireland,34.1,Shakib Al Hasan,Mahmudullah,J Little,1,0,1,NA,0,NA,NA,NA,1
+1168513,2nd innings,Bangladesh,Ireland,34.2,Mahmudullah,Shakib Al Hasan,J Little,1,0,1,NA,0,NA,NA,NA,1
+1168513,2nd innings,Bangladesh,Ireland,34.3,Shakib Al Hasan,Mahmudullah,J Little,1,0,1,NA,0,NA,NA,NA,1
+1168513,2nd innings,Bangladesh,Ireland,34.4,Mahmudullah,Shakib Al Hasan,J Little,0,0,0,NA,0,NA,NA,NA,1
+1168513,2nd innings,Bangladesh,Ireland,34.5,Mahmudullah,Shakib Al Hasan,J Little,6,0,6,NA,0,NA,NA,NA,1
+1168513,2nd innings,Bangladesh,Ireland,34.6,Mahmudullah,Shakib Al Hasan,J Little,0,0,0,NA,0,NA,NA,NA,1
+1168513,2nd innings,Bangladesh,Ireland,35.1,Shakib Al Hasan,Mahmudullah,BJ McCarthy,0,0,0,NA,0,NA,NA,NA,1
+1168513,2nd innings,Bangladesh,Ireland,35.2,Shakib Al Hasan,Mahmudullah,BJ McCarthy,1,0,1,NA,0,NA,NA,NA,1
+1168513,2nd innings,Bangladesh,Ireland,35.3,Mahmudullah,Shakib Al Hasan,BJ McCarthy,0,0,0,NA,0,NA,NA,NA,1
+1168513,2nd innings,Bangladesh,Ireland,35.4,Mahmudullah,Shakib Al Hasan,BJ McCarthy,0,4,4,legbyes,0,NA,NA,NA,1
+1168513,2nd innings,Bangladesh,Ireland,35.5,Mahmudullah,Shakib Al Hasan,BJ McCarthy,1,0,1,NA,0,NA,NA,NA,1
+1168513,2nd innings,Bangladesh,Ireland,35.6,Shakib Al Hasan,Mahmudullah,BJ McCarthy,1,0,1,NA,1,retired hurt,Shakib Al Hasan,NA,1
+1168513,2nd innings,Bangladesh,Ireland,36.1,Mosaddek Hossain,Mahmudullah,J Little,0,0,0,NA,0,NA,NA,NA,1
+1168513,2nd innings,Bangladesh,Ireland,36.2,Mosaddek Hossain,Mahmudullah,J Little,0,0,0,NA,0,NA,NA,NA,1
+1168513,2nd innings,Bangladesh,Ireland,36.3,Mosaddek Hossain,Mahmudullah,J Little,1,0,1,NA,0,NA,NA,NA,1
+1168513,2nd innings,Bangladesh,Ireland,36.4,Mahmudullah,Mosaddek Hossain,J Little,1,0,1,NA,0,NA,NA,NA,1
+1168513,2nd innings,Bangladesh,Ireland,36.5,Mosaddek Hossain,Mahmudullah,J Little,0,0,0,NA,0,NA,NA,NA,1
+1168513,2nd innings,Bangladesh,Ireland,36.6,Mosaddek Hossain,Mahmudullah,J Little,1,0,1,NA,0,NA,NA,NA,1
+1168513,2nd innings,Bangladesh,Ireland,37.1,Mosaddek Hossain,Mahmudullah,BJ McCarthy,0,1,1,wides,0,NA,NA,NA,1
+1168513,2nd innings,Bangladesh,Ireland,37.2,Mosaddek Hossain,Mahmudullah,BJ McCarthy,1,0,1,NA,0,NA,NA,NA,1
+1168513,2nd innings,Bangladesh,Ireland,37.3,Mahmudullah,Mosaddek Hossain,BJ McCarthy,0,0,0,NA,0,NA,NA,NA,1
+1168513,2nd innings,Bangladesh,Ireland,37.4,Mahmudullah,Mosaddek Hossain,BJ McCarthy,0,0,0,NA,0,NA,NA,NA,1
+1168513,2nd innings,Bangladesh,Ireland,37.5,Mahmudullah,Mosaddek Hossain,BJ McCarthy,0,1,1,wides,0,NA,NA,NA,1
+1168513,2nd innings,Bangladesh,Ireland,37.6,Mahmudullah,Mosaddek Hossain,BJ McCarthy,0,0,0,NA,0,NA,NA,NA,1
+1168513,2nd innings,Bangladesh,Ireland,37.7,Mahmudullah,Mosaddek Hossain,BJ McCarthy,1,0,1,NA,0,NA,NA,NA,1
+1168513,2nd innings,Bangladesh,Ireland,37.8,Mosaddek Hossain,Mahmudullah,BJ McCarthy,1,0,1,NA,0,NA,NA,NA,1
+1168513,2nd innings,Bangladesh,Ireland,38.1,Mosaddek Hossain,Mahmudullah,J Little,0,0,0,NA,0,NA,NA,NA,1
+1168513,2nd innings,Bangladesh,Ireland,38.2,Mosaddek Hossain,Mahmudullah,J Little,1,0,1,NA,0,NA,NA,NA,1
+1168513,2nd innings,Bangladesh,Ireland,38.3,Mahmudullah,Mosaddek Hossain,J Little,4,0,4,NA,0,NA,NA,NA,1
+1168513,2nd innings,Bangladesh,Ireland,38.4,Mahmudullah,Mosaddek Hossain,J Little,0,2,2,wides,0,NA,NA,NA,1
+1168513,2nd innings,Bangladesh,Ireland,38.5,Mosaddek Hossain,Mahmudullah,J Little,4,0,4,NA,0,NA,NA,NA,1
+1168513,2nd innings,Bangladesh,Ireland,38.6,Mosaddek Hossain,Mahmudullah,J Little,1,0,1,NA,0,NA,NA,NA,1
+1168513,2nd innings,Bangladesh,Ireland,38.7,Mahmudullah,Mosaddek Hossain,J Little,4,0,4,NA,0,NA,NA,NA,1
+1168513,2nd innings,Bangladesh,Ireland,39.1,Mosaddek Hossain,Mahmudullah,BJ McCarthy,1,0,1,NA,0,NA,NA,NA,1
+1168513,2nd innings,Bangladesh,Ireland,39.2,Mahmudullah,Mosaddek Hossain,BJ McCarthy,1,0,1,NA,0,NA,NA,NA,1
+1168513,2nd innings,Bangladesh,Ireland,39.3,Mosaddek Hossain,Mahmudullah,BJ McCarthy,1,0,1,NA,0,NA,NA,NA,1
+1168513,2nd innings,Bangladesh,Ireland,39.4,Mahmudullah,Mosaddek Hossain,BJ McCarthy,1,0,1,NA,0,NA,NA,NA,1
+1168513,2nd innings,Bangladesh,Ireland,39.5,Mosaddek Hossain,Mahmudullah,BJ McCarthy,1,0,1,NA,0,NA,NA,NA,1
+1168513,2nd innings,Bangladesh,Ireland,39.6,Mahmudullah,Mosaddek Hossain,BJ McCarthy,0,0,0,NA,0,NA,NA,NA,1
+1168513,2nd innings,Bangladesh,Ireland,40.1,Mosaddek Hossain,Mahmudullah,MR Adair,0,0,0,NA,0,NA,NA,NA,1
+1168513,2nd innings,Bangladesh,Ireland,40.2,Mosaddek Hossain,Mahmudullah,MR Adair,1,0,1,NA,0,NA,NA,NA,1
+1168513,2nd innings,Bangladesh,Ireland,40.3,Mahmudullah,Mosaddek Hossain,MR Adair,1,0,1,NA,0,NA,NA,NA,1
+1168513,2nd innings,Bangladesh,Ireland,40.4,Mosaddek Hossain,Mahmudullah,MR Adair,0,0,0,NA,1,caught,Mosaddek Hossain,GC Wilson,1
+1168513,2nd innings,Bangladesh,Ireland,40.5,Sabbir Rahman,Mahmudullah,MR Adair,0,0,0,NA,0,NA,NA,NA,1
+1168513,2nd innings,Bangladesh,Ireland,40.6,Sabbir Rahman,Mahmudullah,MR Adair,0,0,0,NA,0,NA,NA,NA,1
+1168513,2nd innings,Bangladesh,Ireland,41.1,Mahmudullah,Sabbir Rahman,GH Dockrell,1,0,1,NA,0,NA,NA,NA,1
+1168513,2nd innings,Bangladesh,Ireland,41.2,Sabbir Rahman,Mahmudullah,GH Dockrell,0,0,0,NA,0,NA,NA,NA,1
+1168513,2nd innings,Bangladesh,Ireland,41.3,Sabbir Rahman,Mahmudullah,GH Dockrell,1,0,1,NA,0,NA,NA,NA,1
+1168513,2nd innings,Bangladesh,Ireland,41.4,Mahmudullah,Sabbir Rahman,GH Dockrell,6,0,6,NA,0,NA,NA,NA,1
+1168513,2nd innings,Bangladesh,Ireland,41.5,Mahmudullah,Sabbir Rahman,GH Dockrell,1,0,1,NA,0,NA,NA,NA,1
+1168513,2nd innings,Bangladesh,Ireland,41.6,Sabbir Rahman,Mahmudullah,GH Dockrell,1,0,1,NA,0,NA,NA,NA,1
+1168513,2nd innings,Bangladesh,Ireland,42.1,Sabbir Rahman,Mahmudullah,MR Adair,0,0,0,NA,0,NA,NA,NA,1
+1168513,2nd innings,Bangladesh,Ireland,42.2,Sabbir Rahman,Mahmudullah,MR Adair,1,0,1,NA,0,NA,NA,NA,1
+1168513,2nd innings,Bangladesh,Ireland,42.3,Mahmudullah,Sabbir Rahman,MR Adair,0,0,0,NA,0,NA,NA,NA,1
+1168513,2nd innings,Bangladesh,Ireland,42.4,Mahmudullah,Sabbir Rahman,MR Adair,0,0,0,NA,0,NA,NA,NA,1
+1168513,2nd innings,Bangladesh,Ireland,42.5,Mahmudullah,Sabbir Rahman,MR Adair,1,0,1,NA,0,NA,NA,NA,1
+1168513,2nd innings,Bangladesh,Ireland,42.6,Sabbir Rahman,Mahmudullah,MR Adair,4,0,4,NA,0,NA,NA,NA,1

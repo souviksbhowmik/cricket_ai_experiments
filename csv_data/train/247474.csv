@@ -1,0 +1,361 @@
+match_id,innings,team,opponent,ball,batsman,non_striker,bowler,scored_runs,extras,total,extra_type,wicket,wicket_type,player_out,fielders,winner
+247474,1st innings,Scotland,Netherlands,0.1,NS Poonia,RM Haq,WF Stelling,0,0,0,NA,0,NA,NA,NA,0
+247474,1st innings,Scotland,Netherlands,0.2,NS Poonia,RM Haq,WF Stelling,0,0,0,NA,1,caught,NS Poonia,J Smits,0
+247474,1st innings,Scotland,Netherlands,0.3,RR Watson,RM Haq,WF Stelling,1,0,1,NA,0,NA,NA,NA,0
+247474,1st innings,Scotland,Netherlands,0.4,RM Haq,RR Watson,WF Stelling,0,0,0,NA,0,NA,NA,NA,0
+247474,1st innings,Scotland,Netherlands,0.5,RM Haq,RR Watson,WF Stelling,0,1,1,noballs,0,NA,NA,NA,0
+247474,1st innings,Scotland,Netherlands,0.6,RM Haq,RR Watson,WF Stelling,0,0,0,NA,0,NA,NA,NA,0
+247474,1st innings,Scotland,Netherlands,0.7,RM Haq,RR Watson,WF Stelling,0,1,1,legbyes,0,NA,NA,NA,0
+247474,1st innings,Scotland,Netherlands,1.1,RM Haq,RR Watson,DJ Reekers,0,0,0,NA,0,NA,NA,NA,0
+247474,1st innings,Scotland,Netherlands,1.2,RM Haq,RR Watson,DJ Reekers,0,0,0,NA,0,NA,NA,NA,0
+247474,1st innings,Scotland,Netherlands,1.3,RM Haq,RR Watson,DJ Reekers,0,0,0,NA,0,NA,NA,NA,0
+247474,1st innings,Scotland,Netherlands,1.4,RM Haq,RR Watson,DJ Reekers,0,0,0,NA,0,NA,NA,NA,0
+247474,1st innings,Scotland,Netherlands,1.5,RM Haq,RR Watson,DJ Reekers,4,0,4,NA,0,NA,NA,NA,0
+247474,1st innings,Scotland,Netherlands,1.6,RM Haq,RR Watson,DJ Reekers,1,0,1,NA,0,NA,NA,NA,0
+247474,1st innings,Scotland,Netherlands,2.1,RM Haq,RR Watson,WF Stelling,0,0,0,NA,0,NA,NA,NA,0
+247474,1st innings,Scotland,Netherlands,2.2,RM Haq,RR Watson,WF Stelling,0,0,0,NA,0,NA,NA,NA,0
+247474,1st innings,Scotland,Netherlands,2.3,RM Haq,RR Watson,WF Stelling,1,0,1,NA,0,NA,NA,NA,0
+247474,1st innings,Scotland,Netherlands,2.4,RR Watson,RM Haq,WF Stelling,0,0,0,NA,0,NA,NA,NA,0
+247474,1st innings,Scotland,Netherlands,2.5,RR Watson,RM Haq,WF Stelling,0,0,0,NA,0,NA,NA,NA,0
+247474,1st innings,Scotland,Netherlands,2.6,RR Watson,RM Haq,WF Stelling,0,0,0,NA,0,NA,NA,NA,0
+247474,1st innings,Scotland,Netherlands,3.1,RM Haq,RR Watson,DJ Reekers,0,0,0,NA,0,NA,NA,NA,0
+247474,1st innings,Scotland,Netherlands,3.2,RM Haq,RR Watson,DJ Reekers,0,0,0,NA,1,bowled,RM Haq,NA,0
+247474,1st innings,Scotland,Netherlands,3.3,GM Hamilton,RR Watson,DJ Reekers,0,0,0,NA,0,NA,NA,NA,0
+247474,1st innings,Scotland,Netherlands,3.4,GM Hamilton,RR Watson,DJ Reekers,2,0,2,NA,0,NA,NA,NA,0
+247474,1st innings,Scotland,Netherlands,3.5,GM Hamilton,RR Watson,DJ Reekers,0,0,0,NA,0,NA,NA,NA,0
+247474,1st innings,Scotland,Netherlands,3.6,GM Hamilton,RR Watson,DJ Reekers,0,0,0,NA,0,NA,NA,NA,0
+247474,1st innings,Scotland,Netherlands,4.1,RR Watson,GM Hamilton,WF Stelling,0,0,0,NA,0,NA,NA,NA,0
+247474,1st innings,Scotland,Netherlands,4.2,RR Watson,GM Hamilton,WF Stelling,0,0,0,NA,0,NA,NA,NA,0
+247474,1st innings,Scotland,Netherlands,4.3,RR Watson,GM Hamilton,WF Stelling,0,1,1,legbyes,0,NA,NA,NA,0
+247474,1st innings,Scotland,Netherlands,4.4,GM Hamilton,RR Watson,WF Stelling,0,0,0,NA,0,NA,NA,NA,0
+247474,1st innings,Scotland,Netherlands,4.5,GM Hamilton,RR Watson,WF Stelling,0,0,0,NA,0,NA,NA,NA,0
+247474,1st innings,Scotland,Netherlands,4.6,GM Hamilton,RR Watson,WF Stelling,1,0,1,NA,0,NA,NA,NA,0
+247474,1st innings,Scotland,Netherlands,5.1,GM Hamilton,RR Watson,DJ Reekers,0,0,0,NA,0,NA,NA,NA,0
+247474,1st innings,Scotland,Netherlands,5.2,GM Hamilton,RR Watson,DJ Reekers,0,0,0,NA,0,NA,NA,NA,0
+247474,1st innings,Scotland,Netherlands,5.3,GM Hamilton,RR Watson,DJ Reekers,0,1,1,wides,0,NA,NA,NA,0
+247474,1st innings,Scotland,Netherlands,5.4,GM Hamilton,RR Watson,DJ Reekers,0,0,0,NA,0,NA,NA,NA,0
+247474,1st innings,Scotland,Netherlands,5.5,GM Hamilton,RR Watson,DJ Reekers,1,0,1,NA,0,NA,NA,NA,0
+247474,1st innings,Scotland,Netherlands,5.6,RR Watson,GM Hamilton,DJ Reekers,0,0,0,NA,0,NA,NA,NA,0
+247474,1st innings,Scotland,Netherlands,5.7,RR Watson,GM Hamilton,DJ Reekers,0,0,0,NA,0,NA,NA,NA,0
+247474,1st innings,Scotland,Netherlands,6.1,GM Hamilton,RR Watson,WF Stelling,0,0,0,NA,0,NA,NA,NA,0
+247474,1st innings,Scotland,Netherlands,6.2,GM Hamilton,RR Watson,WF Stelling,0,0,0,NA,1,lbw,GM Hamilton,NA,0
+247474,1st innings,Scotland,Netherlands,6.3,DR Brown,RR Watson,WF Stelling,0,0,0,NA,1,lbw,DR Brown,NA,0
+247474,1st innings,Scotland,Netherlands,6.4,NFI McCallum,RR Watson,WF Stelling,0,0,0,NA,0,NA,NA,NA,0
+247474,1st innings,Scotland,Netherlands,6.5,NFI McCallum,RR Watson,WF Stelling,0,0,0,NA,0,NA,NA,NA,0
+247474,1st innings,Scotland,Netherlands,6.6,NFI McCallum,RR Watson,WF Stelling,0,0,0,NA,0,NA,NA,NA,0
+247474,1st innings,Scotland,Netherlands,7.1,RR Watson,NFI McCallum,DJ Reekers,0,0,0,NA,0,NA,NA,NA,0
+247474,1st innings,Scotland,Netherlands,7.2,RR Watson,NFI McCallum,DJ Reekers,0,0,0,NA,0,NA,NA,NA,0
+247474,1st innings,Scotland,Netherlands,7.3,RR Watson,NFI McCallum,DJ Reekers,0,0,0,NA,0,NA,NA,NA,0
+247474,1st innings,Scotland,Netherlands,7.4,RR Watson,NFI McCallum,DJ Reekers,0,1,1,wides,0,NA,NA,NA,0
+247474,1st innings,Scotland,Netherlands,7.5,RR Watson,NFI McCallum,DJ Reekers,1,0,1,NA,0,NA,NA,NA,0
+247474,1st innings,Scotland,Netherlands,7.6,NFI McCallum,RR Watson,DJ Reekers,0,0,0,NA,0,NA,NA,NA,0
+247474,1st innings,Scotland,Netherlands,7.7,NFI McCallum,RR Watson,DJ Reekers,0,0,0,NA,0,NA,NA,NA,0
+247474,1st innings,Scotland,Netherlands,8.1,RR Watson,NFI McCallum,WF Stelling,0,0,0,NA,0,NA,NA,NA,0
+247474,1st innings,Scotland,Netherlands,8.2,RR Watson,NFI McCallum,WF Stelling,0,0,0,NA,0,NA,NA,NA,0
+247474,1st innings,Scotland,Netherlands,8.3,RR Watson,NFI McCallum,WF Stelling,0,0,0,NA,0,NA,NA,NA,0
+247474,1st innings,Scotland,Netherlands,8.4,RR Watson,NFI McCallum,WF Stelling,0,0,0,NA,0,NA,NA,NA,0
+247474,1st innings,Scotland,Netherlands,8.5,RR Watson,NFI McCallum,WF Stelling,0,0,0,NA,0,NA,NA,NA,0
+247474,1st innings,Scotland,Netherlands,8.6,RR Watson,NFI McCallum,WF Stelling,0,2,2,legbyes,0,NA,NA,NA,0
+247474,1st innings,Scotland,Netherlands,9.1,NFI McCallum,RR Watson,DJ Reekers,0,0,0,NA,0,NA,NA,NA,0
+247474,1st innings,Scotland,Netherlands,9.2,NFI McCallum,RR Watson,DJ Reekers,2,0,2,NA,0,NA,NA,NA,0
+247474,1st innings,Scotland,Netherlands,9.3,NFI McCallum,RR Watson,DJ Reekers,0,0,0,NA,0,NA,NA,NA,0
+247474,1st innings,Scotland,Netherlands,9.4,NFI McCallum,RR Watson,DJ Reekers,0,0,0,NA,0,NA,NA,NA,0
+247474,1st innings,Scotland,Netherlands,9.5,NFI McCallum,RR Watson,DJ Reekers,0,0,0,NA,0,NA,NA,NA,0
+247474,1st innings,Scotland,Netherlands,9.6,NFI McCallum,RR Watson,DJ Reekers,0,0,0,NA,0,NA,NA,NA,0
+247474,1st innings,Scotland,Netherlands,10.1,RR Watson,NFI McCallum,WF Stelling,0,0,0,NA,0,NA,NA,NA,0
+247474,1st innings,Scotland,Netherlands,10.2,RR Watson,NFI McCallum,WF Stelling,0,0,0,NA,0,NA,NA,NA,0
+247474,1st innings,Scotland,Netherlands,10.3,RR Watson,NFI McCallum,WF Stelling,0,0,0,NA,0,NA,NA,NA,0
+247474,1st innings,Scotland,Netherlands,10.4,RR Watson,NFI McCallum,WF Stelling,0,0,0,NA,0,NA,NA,NA,0
+247474,1st innings,Scotland,Netherlands,10.5,RR Watson,NFI McCallum,WF Stelling,0,0,0,NA,0,NA,NA,NA,0
+247474,1st innings,Scotland,Netherlands,10.6,RR Watson,NFI McCallum,WF Stelling,0,0,0,NA,0,NA,NA,NA,0
+247474,1st innings,Scotland,Netherlands,11.1,NFI McCallum,RR Watson,DJ Reekers,0,0,0,NA,0,NA,NA,NA,0
+247474,1st innings,Scotland,Netherlands,11.2,NFI McCallum,RR Watson,DJ Reekers,1,0,1,NA,0,NA,NA,NA,0
+247474,1st innings,Scotland,Netherlands,11.3,RR Watson,NFI McCallum,DJ Reekers,0,0,0,NA,0,NA,NA,NA,0
+247474,1st innings,Scotland,Netherlands,11.4,RR Watson,NFI McCallum,DJ Reekers,4,0,4,NA,0,NA,NA,NA,0
+247474,1st innings,Scotland,Netherlands,11.5,RR Watson,NFI McCallum,DJ Reekers,4,0,4,NA,0,NA,NA,NA,0
+247474,1st innings,Scotland,Netherlands,11.6,RR Watson,NFI McCallum,DJ Reekers,1,0,1,NA,0,NA,NA,NA,0
+247474,1st innings,Scotland,Netherlands,12.1,RR Watson,NFI McCallum,WF Stelling,0,0,0,NA,0,NA,NA,NA,0
+247474,1st innings,Scotland,Netherlands,12.2,RR Watson,NFI McCallum,WF Stelling,0,0,0,NA,0,NA,NA,NA,0
+247474,1st innings,Scotland,Netherlands,12.3,RR Watson,NFI McCallum,WF Stelling,1,1,2,noballs,0,NA,NA,NA,0
+247474,1st innings,Scotland,Netherlands,12.4,NFI McCallum,RR Watson,WF Stelling,1,0,1,NA,0,NA,NA,NA,0
+247474,1st innings,Scotland,Netherlands,12.5,RR Watson,NFI McCallum,WF Stelling,4,0,4,NA,0,NA,NA,NA,0
+247474,1st innings,Scotland,Netherlands,12.6,RR Watson,NFI McCallum,WF Stelling,0,0,0,NA,0,NA,NA,NA,0
+247474,1st innings,Scotland,Netherlands,12.7,RR Watson,NFI McCallum,WF Stelling,0,0,0,NA,0,NA,NA,NA,0
+247474,1st innings,Scotland,Netherlands,13.1,NFI McCallum,RR Watson,TBM de Leede,0,0,0,NA,0,NA,NA,NA,0
+247474,1st innings,Scotland,Netherlands,13.2,NFI McCallum,RR Watson,TBM de Leede,1,0,1,NA,0,NA,NA,NA,0
+247474,1st innings,Scotland,Netherlands,13.3,RR Watson,NFI McCallum,TBM de Leede,0,0,0,NA,0,NA,NA,NA,0
+247474,1st innings,Scotland,Netherlands,13.4,RR Watson,NFI McCallum,TBM de Leede,0,0,0,NA,1,caught and bowled,RR Watson,NA,0
+247474,1st innings,Scotland,Netherlands,13.5,CJO Smith,NFI McCallum,TBM de Leede,0,0,0,NA,0,NA,NA,NA,0
+247474,1st innings,Scotland,Netherlands,13.6,CJO Smith,NFI McCallum,TBM de Leede,0,0,0,NA,0,NA,NA,NA,0
+247474,1st innings,Scotland,Netherlands,14.1,NFI McCallum,CJO Smith,WF Stelling,0,1,1,wides,0,NA,NA,NA,0
+247474,1st innings,Scotland,Netherlands,14.2,NFI McCallum,CJO Smith,WF Stelling,0,0,0,NA,0,NA,NA,NA,0
+247474,1st innings,Scotland,Netherlands,14.3,NFI McCallum,CJO Smith,WF Stelling,0,0,0,NA,0,NA,NA,NA,0
+247474,1st innings,Scotland,Netherlands,14.4,NFI McCallum,CJO Smith,WF Stelling,0,0,0,NA,0,NA,NA,NA,0
+247474,1st innings,Scotland,Netherlands,14.5,NFI McCallum,CJO Smith,WF Stelling,0,0,0,NA,0,NA,NA,NA,0
+247474,1st innings,Scotland,Netherlands,14.6,NFI McCallum,CJO Smith,WF Stelling,0,0,0,NA,0,NA,NA,NA,0
+247474,1st innings,Scotland,Netherlands,14.7,NFI McCallum,CJO Smith,WF Stelling,0,0,0,NA,0,NA,NA,NA,0
+247474,1st innings,Scotland,Netherlands,15.1,CJO Smith,NFI McCallum,TBM de Leede,1,0,1,NA,0,NA,NA,NA,0
+247474,1st innings,Scotland,Netherlands,15.2,NFI McCallum,CJO Smith,TBM de Leede,0,0,0,NA,0,NA,NA,NA,0
+247474,1st innings,Scotland,Netherlands,15.3,NFI McCallum,CJO Smith,TBM de Leede,4,0,4,NA,0,NA,NA,NA,0
+247474,1st innings,Scotland,Netherlands,15.4,NFI McCallum,CJO Smith,TBM de Leede,0,0,0,NA,0,NA,NA,NA,0
+247474,1st innings,Scotland,Netherlands,15.5,NFI McCallum,CJO Smith,TBM de Leede,0,0,0,NA,0,NA,NA,NA,0
+247474,1st innings,Scotland,Netherlands,15.6,NFI McCallum,CJO Smith,TBM de Leede,0,0,0,NA,0,NA,NA,NA,0
+247474,1st innings,Scotland,Netherlands,16.1,CJO Smith,NFI McCallum,MBS Jonkman,4,0,4,NA,0,NA,NA,NA,0
+247474,1st innings,Scotland,Netherlands,16.2,CJO Smith,NFI McCallum,MBS Jonkman,0,0,0,NA,0,NA,NA,NA,0
+247474,1st innings,Scotland,Netherlands,16.3,CJO Smith,NFI McCallum,MBS Jonkman,0,0,0,NA,0,NA,NA,NA,0
+247474,1st innings,Scotland,Netherlands,16.4,CJO Smith,NFI McCallum,MBS Jonkman,0,0,0,NA,0,NA,NA,NA,0
+247474,1st innings,Scotland,Netherlands,16.5,CJO Smith,NFI McCallum,MBS Jonkman,4,0,4,NA,0,NA,NA,NA,0
+247474,1st innings,Scotland,Netherlands,16.6,CJO Smith,NFI McCallum,MBS Jonkman,1,0,1,NA,0,NA,NA,NA,0
+247474,1st innings,Scotland,Netherlands,17.1,CJO Smith,NFI McCallum,TBM de Leede,0,0,0,NA,0,NA,NA,NA,0
+247474,1st innings,Scotland,Netherlands,17.2,CJO Smith,NFI McCallum,TBM de Leede,0,0,0,NA,0,NA,NA,NA,0
+247474,1st innings,Scotland,Netherlands,17.3,CJO Smith,NFI McCallum,TBM de Leede,0,0,0,NA,0,NA,NA,NA,0
+247474,1st innings,Scotland,Netherlands,17.4,CJO Smith,NFI McCallum,TBM de Leede,1,0,1,NA,0,NA,NA,NA,0
+247474,1st innings,Scotland,Netherlands,17.5,NFI McCallum,CJO Smith,TBM de Leede,0,0,0,NA,0,NA,NA,NA,0
+247474,1st innings,Scotland,Netherlands,17.6,NFI McCallum,CJO Smith,TBM de Leede,6,0,6,NA,0,NA,NA,NA,0
+247474,1st innings,Scotland,Netherlands,18.1,CJO Smith,NFI McCallum,MBS Jonkman,0,0,0,NA,0,NA,NA,NA,0
+247474,1st innings,Scotland,Netherlands,18.2,CJO Smith,NFI McCallum,MBS Jonkman,0,0,0,NA,0,NA,NA,NA,0
+247474,1st innings,Scotland,Netherlands,18.3,CJO Smith,NFI McCallum,MBS Jonkman,0,0,0,NA,0,NA,NA,NA,0
+247474,1st innings,Scotland,Netherlands,18.4,CJO Smith,NFI McCallum,MBS Jonkman,0,0,0,NA,0,NA,NA,NA,0
+247474,1st innings,Scotland,Netherlands,18.5,CJO Smith,NFI McCallum,MBS Jonkman,0,0,0,NA,0,NA,NA,NA,0
+247474,1st innings,Scotland,Netherlands,18.6,CJO Smith,NFI McCallum,MBS Jonkman,4,0,4,NA,0,NA,NA,NA,0
+247474,1st innings,Scotland,Netherlands,19.1,NFI McCallum,CJO Smith,TBM de Leede,0,1,1,wides,0,NA,NA,NA,0
+247474,1st innings,Scotland,Netherlands,19.2,NFI McCallum,CJO Smith,TBM de Leede,0,0,0,NA,0,NA,NA,NA,0
+247474,1st innings,Scotland,Netherlands,19.3,NFI McCallum,CJO Smith,TBM de Leede,0,0,0,NA,0,NA,NA,NA,0
+247474,1st innings,Scotland,Netherlands,19.4,NFI McCallum,CJO Smith,TBM de Leede,0,1,1,wides,0,NA,NA,NA,0
+247474,1st innings,Scotland,Netherlands,19.5,NFI McCallum,CJO Smith,TBM de Leede,4,0,4,NA,0,NA,NA,NA,0
+247474,1st innings,Scotland,Netherlands,19.6,NFI McCallum,CJO Smith,TBM de Leede,0,0,0,NA,0,NA,NA,NA,0
+247474,1st innings,Scotland,Netherlands,19.7,NFI McCallum,CJO Smith,TBM de Leede,1,0,1,NA,0,NA,NA,NA,0
+247474,1st innings,Scotland,Netherlands,19.8,CJO Smith,NFI McCallum,TBM de Leede,4,0,4,NA,0,NA,NA,NA,0
+247474,1st innings,Scotland,Netherlands,20.1,NFI McCallum,CJO Smith,MBS Jonkman,0,1,1,legbyes,0,NA,NA,NA,0
+247474,1st innings,Scotland,Netherlands,20.2,CJO Smith,NFI McCallum,MBS Jonkman,0,0,0,NA,0,NA,NA,NA,0
+247474,1st innings,Scotland,Netherlands,20.3,CJO Smith,NFI McCallum,MBS Jonkman,0,0,0,NA,0,NA,NA,NA,0
+247474,1st innings,Scotland,Netherlands,20.4,CJO Smith,NFI McCallum,MBS Jonkman,0,0,0,NA,1,bowled,CJO Smith,NA,0
+247474,1st innings,Scotland,Netherlands,20.5,CM Wright,NFI McCallum,MBS Jonkman,0,0,0,NA,0,NA,NA,NA,0
+247474,1st innings,Scotland,Netherlands,20.6,CM Wright,NFI McCallum,MBS Jonkman,0,0,0,NA,0,NA,NA,NA,0
+247474,1st innings,Scotland,Netherlands,21.1,NFI McCallum,CM Wright,Mohammad Kashif,0,0,0,NA,0,NA,NA,NA,0
+247474,1st innings,Scotland,Netherlands,21.2,NFI McCallum,CM Wright,Mohammad Kashif,0,0,0,NA,0,NA,NA,NA,0
+247474,1st innings,Scotland,Netherlands,21.3,NFI McCallum,CM Wright,Mohammad Kashif,0,0,0,NA,0,NA,NA,NA,0
+247474,1st innings,Scotland,Netherlands,21.4,NFI McCallum,CM Wright,Mohammad Kashif,0,0,0,NA,0,NA,NA,NA,0
+247474,1st innings,Scotland,Netherlands,21.5,NFI McCallum,CM Wright,Mohammad Kashif,4,0,4,NA,0,NA,NA,NA,0
+247474,1st innings,Scotland,Netherlands,21.6,NFI McCallum,CM Wright,Mohammad Kashif,0,0,0,NA,0,NA,NA,NA,0
+247474,1st innings,Scotland,Netherlands,22.1,CM Wright,NFI McCallum,MBS Jonkman,0,1,1,wides,0,NA,NA,NA,0
+247474,1st innings,Scotland,Netherlands,22.2,CM Wright,NFI McCallum,MBS Jonkman,1,0,1,NA,0,NA,NA,NA,0
+247474,1st innings,Scotland,Netherlands,22.3,NFI McCallum,CM Wright,MBS Jonkman,0,0,0,NA,0,NA,NA,NA,0
+247474,1st innings,Scotland,Netherlands,22.4,NFI McCallum,CM Wright,MBS Jonkman,0,0,0,NA,1,caught,NFI McCallum,WF Stelling,0
+247474,1st innings,Scotland,Netherlands,22.5,JAR Blain,CM Wright,MBS Jonkman,0,0,0,NA,0,NA,NA,NA,0
+247474,1st innings,Scotland,Netherlands,22.6,JAR Blain,CM Wright,MBS Jonkman,0,0,0,NA,0,NA,NA,NA,0
+247474,1st innings,Scotland,Netherlands,22.7,JAR Blain,CM Wright,MBS Jonkman,0,0,0,NA,0,NA,NA,NA,0
+247474,1st innings,Scotland,Netherlands,23.1,CM Wright,JAR Blain,Mohammad Kashif,0,0,0,NA,0,NA,NA,NA,0
+247474,1st innings,Scotland,Netherlands,23.2,CM Wright,JAR Blain,Mohammad Kashif,0,0,0,NA,0,NA,NA,NA,0
+247474,1st innings,Scotland,Netherlands,23.3,CM Wright,JAR Blain,Mohammad Kashif,0,0,0,NA,0,NA,NA,NA,0
+247474,1st innings,Scotland,Netherlands,23.4,CM Wright,JAR Blain,Mohammad Kashif,0,0,0,NA,1,stumped,CM Wright,J Smits,0
+247474,1st innings,Scotland,Netherlands,23.5,GA Rogers,JAR Blain,Mohammad Kashif,0,0,0,NA,0,NA,NA,NA,0
+247474,1st innings,Scotland,Netherlands,23.6,GA Rogers,JAR Blain,Mohammad Kashif,0,0,0,NA,0,NA,NA,NA,0
+247474,1st innings,Scotland,Netherlands,24.1,JAR Blain,GA Rogers,MBS Jonkman,0,0,0,NA,0,NA,NA,NA,0
+247474,1st innings,Scotland,Netherlands,24.2,JAR Blain,GA Rogers,MBS Jonkman,1,0,1,NA,0,NA,NA,NA,0
+247474,1st innings,Scotland,Netherlands,24.3,GA Rogers,JAR Blain,MBS Jonkman,0,0,0,NA,0,NA,NA,NA,0
+247474,1st innings,Scotland,Netherlands,24.4,GA Rogers,JAR Blain,MBS Jonkman,4,0,4,NA,0,NA,NA,NA,0
+247474,1st innings,Scotland,Netherlands,24.5,GA Rogers,JAR Blain,MBS Jonkman,0,0,0,NA,0,NA,NA,NA,0
+247474,1st innings,Scotland,Netherlands,24.6,GA Rogers,JAR Blain,MBS Jonkman,2,0,2,NA,0,NA,NA,NA,0
+247474,1st innings,Scotland,Netherlands,25.1,JAR Blain,GA Rogers,Mohammad Kashif,0,0,0,NA,0,NA,NA,NA,0
+247474,1st innings,Scotland,Netherlands,25.2,JAR Blain,GA Rogers,Mohammad Kashif,1,0,1,NA,0,NA,NA,NA,0
+247474,1st innings,Scotland,Netherlands,25.3,GA Rogers,JAR Blain,Mohammad Kashif,4,0,4,NA,0,NA,NA,NA,0
+247474,1st innings,Scotland,Netherlands,25.4,GA Rogers,JAR Blain,Mohammad Kashif,4,0,4,NA,0,NA,NA,NA,0
+247474,1st innings,Scotland,Netherlands,25.5,GA Rogers,JAR Blain,Mohammad Kashif,0,0,0,NA,0,NA,NA,NA,0
+247474,1st innings,Scotland,Netherlands,25.6,GA Rogers,JAR Blain,Mohammad Kashif,0,0,0,NA,0,NA,NA,NA,0
+247474,1st innings,Scotland,Netherlands,26.1,JAR Blain,GA Rogers,RN ten Doeschate,0,1,1,wides,0,NA,NA,NA,0
+247474,1st innings,Scotland,Netherlands,26.2,JAR Blain,GA Rogers,RN ten Doeschate,0,1,1,wides,0,NA,NA,NA,0
+247474,1st innings,Scotland,Netherlands,26.3,JAR Blain,GA Rogers,RN ten Doeschate,0,0,0,NA,0,NA,NA,NA,0
+247474,1st innings,Scotland,Netherlands,26.4,JAR Blain,GA Rogers,RN ten Doeschate,1,0,1,NA,0,NA,NA,NA,0
+247474,1st innings,Scotland,Netherlands,26.5,GA Rogers,JAR Blain,RN ten Doeschate,0,0,0,NA,0,NA,NA,NA,0
+247474,1st innings,Scotland,Netherlands,26.6,GA Rogers,JAR Blain,RN ten Doeschate,4,0,4,NA,0,NA,NA,NA,0
+247474,1st innings,Scotland,Netherlands,26.7,GA Rogers,JAR Blain,RN ten Doeschate,4,0,4,NA,0,NA,NA,NA,0
+247474,1st innings,Scotland,Netherlands,26.8,GA Rogers,JAR Blain,RN ten Doeschate,0,0,0,NA,0,NA,NA,NA,0
+247474,1st innings,Scotland,Netherlands,27.1,JAR Blain,GA Rogers,Mohammad Kashif,0,0,0,NA,0,NA,NA,NA,0
+247474,1st innings,Scotland,Netherlands,27.2,JAR Blain,GA Rogers,Mohammad Kashif,0,0,0,NA,0,NA,NA,NA,0
+247474,1st innings,Scotland,Netherlands,27.3,JAR Blain,GA Rogers,Mohammad Kashif,0,0,0,NA,0,NA,NA,NA,0
+247474,1st innings,Scotland,Netherlands,27.4,JAR Blain,GA Rogers,Mohammad Kashif,0,0,0,NA,0,NA,NA,NA,0
+247474,1st innings,Scotland,Netherlands,27.5,JAR Blain,GA Rogers,Mohammad Kashif,0,0,0,NA,0,NA,NA,NA,0
+247474,1st innings,Scotland,Netherlands,27.6,JAR Blain,GA Rogers,Mohammad Kashif,0,0,0,NA,0,NA,NA,NA,0
+247474,1st innings,Scotland,Netherlands,28.1,GA Rogers,JAR Blain,RN ten Doeschate,0,0,0,NA,0,NA,NA,NA,0
+247474,1st innings,Scotland,Netherlands,28.2,GA Rogers,JAR Blain,RN ten Doeschate,0,0,0,NA,0,NA,NA,NA,0
+247474,1st innings,Scotland,Netherlands,28.3,GA Rogers,JAR Blain,RN ten Doeschate,0,0,0,NA,0,NA,NA,NA,0
+247474,1st innings,Scotland,Netherlands,28.4,GA Rogers,JAR Blain,RN ten Doeschate,0,0,0,NA,0,NA,NA,NA,0
+247474,1st innings,Scotland,Netherlands,28.5,GA Rogers,JAR Blain,RN ten Doeschate,0,0,0,NA,0,NA,NA,NA,0
+247474,1st innings,Scotland,Netherlands,28.6,GA Rogers,JAR Blain,RN ten Doeschate,1,0,1,NA,0,NA,NA,NA,0
+247474,1st innings,Scotland,Netherlands,29.1,GA Rogers,JAR Blain,Mohammad Kashif,0,0,0,NA,0,NA,NA,NA,0
+247474,1st innings,Scotland,Netherlands,29.2,GA Rogers,JAR Blain,Mohammad Kashif,0,0,0,NA,0,NA,NA,NA,0
+247474,1st innings,Scotland,Netherlands,29.3,GA Rogers,JAR Blain,Mohammad Kashif,0,0,0,NA,0,NA,NA,NA,0
+247474,1st innings,Scotland,Netherlands,29.4,GA Rogers,JAR Blain,Mohammad Kashif,0,0,0,NA,0,NA,NA,NA,0
+247474,1st innings,Scotland,Netherlands,29.5,GA Rogers,JAR Blain,Mohammad Kashif,1,0,1,NA,0,NA,NA,NA,0
+247474,1st innings,Scotland,Netherlands,29.6,JAR Blain,GA Rogers,Mohammad Kashif,0,0,0,NA,0,NA,NA,NA,0
+247474,1st innings,Scotland,Netherlands,30.1,GA Rogers,JAR Blain,RN ten Doeschate,0,0,0,NA,0,NA,NA,NA,0
+247474,1st innings,Scotland,Netherlands,30.2,GA Rogers,JAR Blain,RN ten Doeschate,1,0,1,NA,0,NA,NA,NA,0
+247474,1st innings,Scotland,Netherlands,30.3,JAR Blain,GA Rogers,RN ten Doeschate,0,0,0,NA,0,NA,NA,NA,0
+247474,1st innings,Scotland,Netherlands,30.4,JAR Blain,GA Rogers,RN ten Doeschate,3,0,3,NA,0,NA,NA,NA,0
+247474,1st innings,Scotland,Netherlands,30.5,GA Rogers,JAR Blain,RN ten Doeschate,0,0,0,NA,0,NA,NA,NA,0
+247474,1st innings,Scotland,Netherlands,30.6,GA Rogers,JAR Blain,RN ten Doeschate,1,0,1,NA,0,NA,NA,NA,0
+247474,1st innings,Scotland,Netherlands,31.1,GA Rogers,JAR Blain,Mohammad Kashif,0,0,0,NA,1,caught,GA Rogers,J Smits,0
+247474,1st innings,Scotland,Netherlands,31.2,PJC Hoffmann,JAR Blain,Mohammad Kashif,0,0,0,NA,0,NA,NA,NA,0
+247474,1st innings,Scotland,Netherlands,31.3,PJC Hoffmann,JAR Blain,Mohammad Kashif,4,0,4,NA,0,NA,NA,NA,0
+247474,1st innings,Scotland,Netherlands,31.4,PJC Hoffmann,JAR Blain,Mohammad Kashif,1,0,1,NA,0,NA,NA,NA,0
+247474,1st innings,Scotland,Netherlands,31.5,JAR Blain,PJC Hoffmann,Mohammad Kashif,0,0,0,NA,0,NA,NA,NA,0
+247474,1st innings,Scotland,Netherlands,31.6,JAR Blain,PJC Hoffmann,Mohammad Kashif,0,0,0,NA,0,NA,NA,NA,0
+247474,1st innings,Scotland,Netherlands,32.1,PJC Hoffmann,JAR Blain,DLS van Bunge,1,0,1,NA,0,NA,NA,NA,0
+247474,1st innings,Scotland,Netherlands,32.2,JAR Blain,PJC Hoffmann,DLS van Bunge,1,0,1,NA,0,NA,NA,NA,0
+247474,1st innings,Scotland,Netherlands,32.3,PJC Hoffmann,JAR Blain,DLS van Bunge,0,0,0,NA,0,NA,NA,NA,0
+247474,1st innings,Scotland,Netherlands,32.4,PJC Hoffmann,JAR Blain,DLS van Bunge,0,0,0,NA,0,NA,NA,NA,0
+247474,1st innings,Scotland,Netherlands,32.5,PJC Hoffmann,JAR Blain,DLS van Bunge,1,0,1,NA,0,NA,NA,NA,0
+247474,1st innings,Scotland,Netherlands,32.6,JAR Blain,PJC Hoffmann,DLS van Bunge,1,0,1,NA,0,NA,NA,NA,0
+247474,1st innings,Scotland,Netherlands,33.1,JAR Blain,PJC Hoffmann,Mohammad Kashif,0,0,0,NA,0,NA,NA,NA,0
+247474,1st innings,Scotland,Netherlands,33.2,JAR Blain,PJC Hoffmann,Mohammad Kashif,0,0,0,NA,0,NA,NA,NA,0
+247474,1st innings,Scotland,Netherlands,33.3,JAR Blain,PJC Hoffmann,Mohammad Kashif,4,0,4,NA,0,NA,NA,NA,0
+247474,1st innings,Scotland,Netherlands,33.4,JAR Blain,PJC Hoffmann,Mohammad Kashif,6,0,6,NA,0,NA,NA,NA,0
+247474,1st innings,Scotland,Netherlands,33.5,JAR Blain,PJC Hoffmann,Mohammad Kashif,0,0,0,NA,0,NA,NA,NA,0
+247474,1st innings,Scotland,Netherlands,33.6,JAR Blain,PJC Hoffmann,Mohammad Kashif,0,0,0,NA,0,NA,NA,NA,0
+247474,1st innings,Scotland,Netherlands,34.1,PJC Hoffmann,JAR Blain,DLS van Bunge,0,0,0,NA,1,caught,PJC Hoffmann,RN ten Doeschate,0
+247474,2nd innings,Netherlands,Scotland,0.1,B Zuiderent,DJ Reekers,PJC Hoffmann,0,0,0,NA,0,NA,NA,NA,1
+247474,2nd innings,Netherlands,Scotland,0.2,B Zuiderent,DJ Reekers,PJC Hoffmann,0,0,0,NA,0,NA,NA,NA,1
+247474,2nd innings,Netherlands,Scotland,0.3,B Zuiderent,DJ Reekers,PJC Hoffmann,0,0,0,NA,0,NA,NA,NA,1
+247474,2nd innings,Netherlands,Scotland,0.4,B Zuiderent,DJ Reekers,PJC Hoffmann,1,0,1,NA,0,NA,NA,NA,1
+247474,2nd innings,Netherlands,Scotland,0.5,DJ Reekers,B Zuiderent,PJC Hoffmann,4,0,4,NA,0,NA,NA,NA,1
+247474,2nd innings,Netherlands,Scotland,0.6,DJ Reekers,B Zuiderent,PJC Hoffmann,0,0,0,NA,0,NA,NA,NA,1
+247474,2nd innings,Netherlands,Scotland,1.1,B Zuiderent,DJ Reekers,JAR Blain,0,0,0,NA,0,NA,NA,NA,1
+247474,2nd innings,Netherlands,Scotland,1.2,B Zuiderent,DJ Reekers,JAR Blain,4,0,4,NA,0,NA,NA,NA,1
+247474,2nd innings,Netherlands,Scotland,1.3,B Zuiderent,DJ Reekers,JAR Blain,4,0,4,NA,0,NA,NA,NA,1
+247474,2nd innings,Netherlands,Scotland,1.4,B Zuiderent,DJ Reekers,JAR Blain,0,0,0,NA,0,NA,NA,NA,1
+247474,2nd innings,Netherlands,Scotland,1.5,B Zuiderent,DJ Reekers,JAR Blain,0,0,0,NA,0,NA,NA,NA,1
+247474,2nd innings,Netherlands,Scotland,1.6,B Zuiderent,DJ Reekers,JAR Blain,0,0,0,NA,0,NA,NA,NA,1
+247474,2nd innings,Netherlands,Scotland,2.1,DJ Reekers,B Zuiderent,PJC Hoffmann,0,0,0,NA,0,NA,NA,NA,1
+247474,2nd innings,Netherlands,Scotland,2.2,DJ Reekers,B Zuiderent,PJC Hoffmann,0,0,0,NA,0,NA,NA,NA,1
+247474,2nd innings,Netherlands,Scotland,2.3,DJ Reekers,B Zuiderent,PJC Hoffmann,4,0,4,NA,0,NA,NA,NA,1
+247474,2nd innings,Netherlands,Scotland,2.4,DJ Reekers,B Zuiderent,PJC Hoffmann,0,0,0,NA,0,NA,NA,NA,1
+247474,2nd innings,Netherlands,Scotland,2.5,DJ Reekers,B Zuiderent,PJC Hoffmann,1,0,1,NA,0,NA,NA,NA,1
+247474,2nd innings,Netherlands,Scotland,2.6,B Zuiderent,DJ Reekers,PJC Hoffmann,0,0,0,NA,0,NA,NA,NA,1
+247474,2nd innings,Netherlands,Scotland,3.1,DJ Reekers,B Zuiderent,JAR Blain,0,0,0,NA,1,caught,DJ Reekers,CM Wright,1
+247474,2nd innings,Netherlands,Scotland,3.2,B Zuiderent,ES Szwarczynski,JAR Blain,1,0,1,NA,0,NA,NA,NA,1
+247474,2nd innings,Netherlands,Scotland,3.3,ES Szwarczynski,B Zuiderent,JAR Blain,4,0,4,NA,0,NA,NA,NA,1
+247474,2nd innings,Netherlands,Scotland,3.4,ES Szwarczynski,B Zuiderent,JAR Blain,0,0,0,NA,0,NA,NA,NA,1
+247474,2nd innings,Netherlands,Scotland,3.5,ES Szwarczynski,B Zuiderent,JAR Blain,0,0,0,NA,0,NA,NA,NA,1
+247474,2nd innings,Netherlands,Scotland,3.6,ES Szwarczynski,B Zuiderent,JAR Blain,0,0,0,NA,0,NA,NA,NA,1
+247474,2nd innings,Netherlands,Scotland,4.1,B Zuiderent,ES Szwarczynski,PJC Hoffmann,1,0,1,NA,0,NA,NA,NA,1
+247474,2nd innings,Netherlands,Scotland,4.2,ES Szwarczynski,B Zuiderent,PJC Hoffmann,0,0,0,NA,0,NA,NA,NA,1
+247474,2nd innings,Netherlands,Scotland,4.3,ES Szwarczynski,B Zuiderent,PJC Hoffmann,0,0,0,NA,0,NA,NA,NA,1
+247474,2nd innings,Netherlands,Scotland,4.4,ES Szwarczynski,B Zuiderent,PJC Hoffmann,0,0,0,NA,0,NA,NA,NA,1
+247474,2nd innings,Netherlands,Scotland,4.5,ES Szwarczynski,B Zuiderent,PJC Hoffmann,4,0,4,NA,0,NA,NA,NA,1
+247474,2nd innings,Netherlands,Scotland,4.6,ES Szwarczynski,B Zuiderent,PJC Hoffmann,4,0,4,NA,0,NA,NA,NA,1
+247474,2nd innings,Netherlands,Scotland,5.1,B Zuiderent,ES Szwarczynski,JAR Blain,4,0,4,NA,0,NA,NA,NA,1
+247474,2nd innings,Netherlands,Scotland,5.2,B Zuiderent,ES Szwarczynski,JAR Blain,1,0,1,NA,0,NA,NA,NA,1
+247474,2nd innings,Netherlands,Scotland,5.3,ES Szwarczynski,B Zuiderent,JAR Blain,0,0,0,NA,0,NA,NA,NA,1
+247474,2nd innings,Netherlands,Scotland,5.4,ES Szwarczynski,B Zuiderent,JAR Blain,0,0,0,NA,1,caught,ES Szwarczynski,CJO Smith,1
+247474,2nd innings,Netherlands,Scotland,5.5,B Zuiderent,RN ten Doeschate,JAR Blain,0,1,1,wides,0,NA,NA,NA,1
+247474,2nd innings,Netherlands,Scotland,5.6,B Zuiderent,RN ten Doeschate,JAR Blain,0,0,0,NA,0,NA,NA,NA,1
+247474,2nd innings,Netherlands,Scotland,5.7,B Zuiderent,RN ten Doeschate,JAR Blain,0,0,0,NA,0,NA,NA,NA,1
+247474,2nd innings,Netherlands,Scotland,6.1,RN ten Doeschate,B Zuiderent,PJC Hoffmann,0,0,0,NA,0,NA,NA,NA,1
+247474,2nd innings,Netherlands,Scotland,6.2,RN ten Doeschate,B Zuiderent,PJC Hoffmann,0,0,0,NA,0,NA,NA,NA,1
+247474,2nd innings,Netherlands,Scotland,6.3,RN ten Doeschate,B Zuiderent,PJC Hoffmann,4,0,4,NA,0,NA,NA,NA,1
+247474,2nd innings,Netherlands,Scotland,6.4,RN ten Doeschate,B Zuiderent,PJC Hoffmann,0,0,0,NA,0,NA,NA,NA,1
+247474,2nd innings,Netherlands,Scotland,6.5,RN ten Doeschate,B Zuiderent,PJC Hoffmann,0,0,0,NA,0,NA,NA,NA,1
+247474,2nd innings,Netherlands,Scotland,6.6,RN ten Doeschate,B Zuiderent,PJC Hoffmann,3,0,3,NA,0,NA,NA,NA,1
+247474,2nd innings,Netherlands,Scotland,7.1,RN ten Doeschate,B Zuiderent,JAR Blain,4,0,4,NA,0,NA,NA,NA,1
+247474,2nd innings,Netherlands,Scotland,7.2,RN ten Doeschate,B Zuiderent,JAR Blain,0,0,0,NA,0,NA,NA,NA,1
+247474,2nd innings,Netherlands,Scotland,7.3,RN ten Doeschate,B Zuiderent,JAR Blain,0,0,0,NA,0,NA,NA,NA,1
+247474,2nd innings,Netherlands,Scotland,7.4,RN ten Doeschate,B Zuiderent,JAR Blain,0,0,0,NA,0,NA,NA,NA,1
+247474,2nd innings,Netherlands,Scotland,7.5,RN ten Doeschate,B Zuiderent,JAR Blain,0,0,0,NA,0,NA,NA,NA,1
+247474,2nd innings,Netherlands,Scotland,7.6,RN ten Doeschate,B Zuiderent,JAR Blain,0,0,0,NA,0,NA,NA,NA,1
+247474,2nd innings,Netherlands,Scotland,8.1,B Zuiderent,RN ten Doeschate,CM Wright,0,0,0,NA,0,NA,NA,NA,1
+247474,2nd innings,Netherlands,Scotland,8.2,B Zuiderent,RN ten Doeschate,CM Wright,4,0,4,NA,0,NA,NA,NA,1
+247474,2nd innings,Netherlands,Scotland,8.3,B Zuiderent,RN ten Doeschate,CM Wright,1,0,1,NA,0,NA,NA,NA,1
+247474,2nd innings,Netherlands,Scotland,8.4,RN ten Doeschate,B Zuiderent,CM Wright,0,0,0,NA,0,NA,NA,NA,1
+247474,2nd innings,Netherlands,Scotland,8.5,RN ten Doeschate,B Zuiderent,CM Wright,0,0,0,NA,0,NA,NA,NA,1
+247474,2nd innings,Netherlands,Scotland,8.6,RN ten Doeschate,B Zuiderent,CM Wright,1,0,1,NA,0,NA,NA,NA,1
+247474,2nd innings,Netherlands,Scotland,9.1,RN ten Doeschate,B Zuiderent,JAR Blain,0,0,0,NA,0,NA,NA,NA,1
+247474,2nd innings,Netherlands,Scotland,9.2,RN ten Doeschate,B Zuiderent,JAR Blain,2,0,2,NA,0,NA,NA,NA,1
+247474,2nd innings,Netherlands,Scotland,9.3,RN ten Doeschate,B Zuiderent,JAR Blain,0,0,0,NA,0,NA,NA,NA,1
+247474,2nd innings,Netherlands,Scotland,9.4,RN ten Doeschate,B Zuiderent,JAR Blain,4,0,4,NA,0,NA,NA,NA,1
+247474,2nd innings,Netherlands,Scotland,9.5,RN ten Doeschate,B Zuiderent,JAR Blain,0,0,0,NA,0,NA,NA,NA,1
+247474,2nd innings,Netherlands,Scotland,9.6,RN ten Doeschate,B Zuiderent,JAR Blain,0,0,0,NA,0,NA,NA,NA,1
+247474,2nd innings,Netherlands,Scotland,10.1,B Zuiderent,RN ten Doeschate,CM Wright,0,0,0,NA,0,NA,NA,NA,1
+247474,2nd innings,Netherlands,Scotland,10.2,B Zuiderent,RN ten Doeschate,CM Wright,0,0,0,NA,0,NA,NA,NA,1
+247474,2nd innings,Netherlands,Scotland,10.3,B Zuiderent,RN ten Doeschate,CM Wright,0,0,0,NA,0,NA,NA,NA,1
+247474,2nd innings,Netherlands,Scotland,10.4,B Zuiderent,RN ten Doeschate,CM Wright,0,0,0,NA,0,NA,NA,NA,1
+247474,2nd innings,Netherlands,Scotland,10.5,B Zuiderent,RN ten Doeschate,CM Wright,0,0,0,NA,0,NA,NA,NA,1
+247474,2nd innings,Netherlands,Scotland,10.6,B Zuiderent,RN ten Doeschate,CM Wright,0,0,0,NA,0,NA,NA,NA,1
+247474,2nd innings,Netherlands,Scotland,11.1,RN ten Doeschate,B Zuiderent,GA Rogers,0,0,0,NA,0,NA,NA,NA,1
+247474,2nd innings,Netherlands,Scotland,11.2,RN ten Doeschate,B Zuiderent,GA Rogers,0,0,0,NA,0,NA,NA,NA,1
+247474,2nd innings,Netherlands,Scotland,11.3,RN ten Doeschate,B Zuiderent,GA Rogers,0,0,0,NA,0,NA,NA,NA,1
+247474,2nd innings,Netherlands,Scotland,11.4,RN ten Doeschate,B Zuiderent,GA Rogers,0,0,0,NA,0,NA,NA,NA,1
+247474,2nd innings,Netherlands,Scotland,11.5,RN ten Doeschate,B Zuiderent,GA Rogers,0,0,0,NA,0,NA,NA,NA,1
+247474,2nd innings,Netherlands,Scotland,11.6,RN ten Doeschate,B Zuiderent,GA Rogers,0,0,0,NA,0,NA,NA,NA,1
+247474,2nd innings,Netherlands,Scotland,12.1,B Zuiderent,RN ten Doeschate,CM Wright,0,0,0,NA,0,NA,NA,NA,1
+247474,2nd innings,Netherlands,Scotland,12.2,B Zuiderent,RN ten Doeschate,CM Wright,0,0,0,NA,0,NA,NA,NA,1
+247474,2nd innings,Netherlands,Scotland,12.3,B Zuiderent,RN ten Doeschate,CM Wright,2,0,2,NA,0,NA,NA,NA,1
+247474,2nd innings,Netherlands,Scotland,12.4,B Zuiderent,RN ten Doeschate,CM Wright,2,0,2,NA,0,NA,NA,NA,1
+247474,2nd innings,Netherlands,Scotland,12.5,B Zuiderent,RN ten Doeschate,CM Wright,0,0,0,NA,0,NA,NA,NA,1
+247474,2nd innings,Netherlands,Scotland,12.6,B Zuiderent,RN ten Doeschate,CM Wright,0,0,0,NA,0,NA,NA,NA,1
+247474,2nd innings,Netherlands,Scotland,13.1,RN ten Doeschate,B Zuiderent,GA Rogers,4,0,4,NA,0,NA,NA,NA,1
+247474,2nd innings,Netherlands,Scotland,13.2,RN ten Doeschate,B Zuiderent,GA Rogers,0,0,0,NA,0,NA,NA,NA,1
+247474,2nd innings,Netherlands,Scotland,13.3,RN ten Doeschate,B Zuiderent,GA Rogers,0,0,0,NA,0,NA,NA,NA,1
+247474,2nd innings,Netherlands,Scotland,13.4,RN ten Doeschate,B Zuiderent,GA Rogers,0,0,0,NA,0,NA,NA,NA,1
+247474,2nd innings,Netherlands,Scotland,13.5,RN ten Doeschate,B Zuiderent,GA Rogers,0,0,0,NA,0,NA,NA,NA,1
+247474,2nd innings,Netherlands,Scotland,13.6,RN ten Doeschate,B Zuiderent,GA Rogers,0,0,0,NA,0,NA,NA,NA,1
+247474,2nd innings,Netherlands,Scotland,14.1,B Zuiderent,RN ten Doeschate,CM Wright,0,0,0,NA,0,NA,NA,NA,1
+247474,2nd innings,Netherlands,Scotland,14.2,B Zuiderent,RN ten Doeschate,CM Wright,1,0,1,NA,0,NA,NA,NA,1
+247474,2nd innings,Netherlands,Scotland,14.3,RN ten Doeschate,B Zuiderent,CM Wright,1,0,1,NA,0,NA,NA,NA,1
+247474,2nd innings,Netherlands,Scotland,14.4,B Zuiderent,RN ten Doeschate,CM Wright,1,0,1,NA,0,NA,NA,NA,1
+247474,2nd innings,Netherlands,Scotland,14.5,RN ten Doeschate,B Zuiderent,CM Wright,4,0,4,NA,0,NA,NA,NA,1
+247474,2nd innings,Netherlands,Scotland,14.6,RN ten Doeschate,B Zuiderent,CM Wright,0,0,0,NA,0,NA,NA,NA,1
+247474,2nd innings,Netherlands,Scotland,15.1,B Zuiderent,RN ten Doeschate,GA Rogers,0,0,0,NA,0,NA,NA,NA,1
+247474,2nd innings,Netherlands,Scotland,15.2,B Zuiderent,RN ten Doeschate,GA Rogers,1,0,1,NA,0,NA,NA,NA,1
+247474,2nd innings,Netherlands,Scotland,15.3,RN ten Doeschate,B Zuiderent,GA Rogers,4,0,4,NA,0,NA,NA,NA,1
+247474,2nd innings,Netherlands,Scotland,15.4,RN ten Doeschate,B Zuiderent,GA Rogers,6,0,6,NA,0,NA,NA,NA,1
+247474,2nd innings,Netherlands,Scotland,15.5,RN ten Doeschate,B Zuiderent,GA Rogers,0,0,0,NA,0,NA,NA,NA,1
+247474,2nd innings,Netherlands,Scotland,15.6,RN ten Doeschate,B Zuiderent,GA Rogers,0,0,0,NA,0,NA,NA,NA,1
+247474,2nd innings,Netherlands,Scotland,16.1,B Zuiderent,RN ten Doeschate,DR Brown,0,0,0,NA,0,NA,NA,NA,1
+247474,2nd innings,Netherlands,Scotland,16.2,B Zuiderent,RN ten Doeschate,DR Brown,0,0,0,NA,0,NA,NA,NA,1
+247474,2nd innings,Netherlands,Scotland,16.3,B Zuiderent,RN ten Doeschate,DR Brown,0,0,0,NA,0,NA,NA,NA,1
+247474,2nd innings,Netherlands,Scotland,16.4,B Zuiderent,RN ten Doeschate,DR Brown,1,0,1,NA,0,NA,NA,NA,1
+247474,2nd innings,Netherlands,Scotland,16.5,RN ten Doeschate,B Zuiderent,DR Brown,0,0,0,NA,0,NA,NA,NA,1
+247474,2nd innings,Netherlands,Scotland,16.6,RN ten Doeschate,B Zuiderent,DR Brown,0,4,4,legbyes,0,NA,NA,NA,1
+247474,2nd innings,Netherlands,Scotland,17.1,B Zuiderent,RN ten Doeschate,RM Haq,0,0,0,NA,0,NA,NA,NA,1
+247474,2nd innings,Netherlands,Scotland,17.2,B Zuiderent,RN ten Doeschate,RM Haq,4,0,4,NA,0,NA,NA,NA,1
+247474,2nd innings,Netherlands,Scotland,17.3,B Zuiderent,RN ten Doeschate,RM Haq,0,0,0,NA,0,NA,NA,NA,1
+247474,2nd innings,Netherlands,Scotland,17.4,B Zuiderent,RN ten Doeschate,RM Haq,0,0,0,NA,0,NA,NA,NA,1
+247474,2nd innings,Netherlands,Scotland,17.5,B Zuiderent,RN ten Doeschate,RM Haq,0,0,0,NA,0,NA,NA,NA,1
+247474,2nd innings,Netherlands,Scotland,17.6,B Zuiderent,RN ten Doeschate,RM Haq,0,0,0,NA,0,NA,NA,NA,1
+247474,2nd innings,Netherlands,Scotland,18.1,RN ten Doeschate,B Zuiderent,DR Brown,0,0,0,NA,0,NA,NA,NA,1
+247474,2nd innings,Netherlands,Scotland,18.2,RN ten Doeschate,B Zuiderent,DR Brown,1,0,1,NA,0,NA,NA,NA,1
+247474,2nd innings,Netherlands,Scotland,18.3,B Zuiderent,RN ten Doeschate,DR Brown,1,0,1,NA,0,NA,NA,NA,1
+247474,2nd innings,Netherlands,Scotland,18.4,RN ten Doeschate,B Zuiderent,DR Brown,1,0,1,NA,0,NA,NA,NA,1
+247474,2nd innings,Netherlands,Scotland,18.5,B Zuiderent,RN ten Doeschate,DR Brown,0,0,0,NA,0,NA,NA,NA,1
+247474,2nd innings,Netherlands,Scotland,18.6,B Zuiderent,RN ten Doeschate,DR Brown,0,0,0,NA,0,NA,NA,NA,1
+247474,2nd innings,Netherlands,Scotland,19.1,RN ten Doeschate,B Zuiderent,RM Haq,0,0,0,NA,0,NA,NA,NA,1
+247474,2nd innings,Netherlands,Scotland,19.2,RN ten Doeschate,B Zuiderent,RM Haq,0,0,0,NA,0,NA,NA,NA,1
+247474,2nd innings,Netherlands,Scotland,19.3,RN ten Doeschate,B Zuiderent,RM Haq,4,0,4,NA,0,NA,NA,NA,1
+247474,2nd innings,Netherlands,Scotland,19.4,RN ten Doeschate,B Zuiderent,RM Haq,0,0,0,NA,0,NA,NA,NA,1
+247474,2nd innings,Netherlands,Scotland,19.5,RN ten Doeschate,B Zuiderent,RM Haq,1,0,1,NA,0,NA,NA,NA,1
+247474,2nd innings,Netherlands,Scotland,19.6,B Zuiderent,RN ten Doeschate,RM Haq,0,0,0,NA,0,NA,NA,NA,1
+247474,2nd innings,Netherlands,Scotland,20.1,RN ten Doeschate,B Zuiderent,DR Brown,0,0,0,NA,0,NA,NA,NA,1
+247474,2nd innings,Netherlands,Scotland,20.2,RN ten Doeschate,B Zuiderent,DR Brown,0,0,0,NA,0,NA,NA,NA,1
+247474,2nd innings,Netherlands,Scotland,20.3,RN ten Doeschate,B Zuiderent,DR Brown,1,0,1,NA,0,NA,NA,NA,1
+247474,2nd innings,Netherlands,Scotland,20.4,B Zuiderent,RN ten Doeschate,DR Brown,0,0,0,NA,0,NA,NA,NA,1
+247474,2nd innings,Netherlands,Scotland,20.5,B Zuiderent,RN ten Doeschate,DR Brown,3,0,3,NA,0,NA,NA,NA,1
+247474,2nd innings,Netherlands,Scotland,20.6,RN ten Doeschate,B Zuiderent,DR Brown,0,0,0,NA,0,NA,NA,NA,1
+247474,2nd innings,Netherlands,Scotland,21.1,B Zuiderent,RN ten Doeschate,RM Haq,1,0,1,NA,0,NA,NA,NA,1
+247474,2nd innings,Netherlands,Scotland,21.2,RN ten Doeschate,B Zuiderent,RM Haq,0,0,0,NA,0,NA,NA,NA,1
+247474,2nd innings,Netherlands,Scotland,21.3,RN ten Doeschate,B Zuiderent,RM Haq,0,0,0,NA,0,NA,NA,NA,1
+247474,2nd innings,Netherlands,Scotland,21.4,RN ten Doeschate,B Zuiderent,RM Haq,0,0,0,NA,0,NA,NA,NA,1
+247474,2nd innings,Netherlands,Scotland,21.5,RN ten Doeschate,B Zuiderent,RM Haq,1,0,1,NA,0,NA,NA,NA,1
+247474,2nd innings,Netherlands,Scotland,21.6,B Zuiderent,RN ten Doeschate,RM Haq,4,0,4,NA,0,NA,NA,NA,1
+247474,2nd innings,Netherlands,Scotland,22.1,RN ten Doeschate,B Zuiderent,DR Brown,0,0,0,NA,0,NA,NA,NA,1
+247474,2nd innings,Netherlands,Scotland,22.2,RN ten Doeschate,B Zuiderent,DR Brown,0,0,0,NA,0,NA,NA,NA,1
+247474,2nd innings,Netherlands,Scotland,22.3,RN ten Doeschate,B Zuiderent,DR Brown,4,0,4,NA,0,NA,NA,NA,1
+247474,2nd innings,Netherlands,Scotland,22.4,RN ten Doeschate,B Zuiderent,DR Brown,4,0,4,NA,0,NA,NA,NA,1
+247474,2nd innings,Netherlands,Scotland,22.5,RN ten Doeschate,B Zuiderent,DR Brown,4,0,4,NA,0,NA,NA,NA,1
+247474,2nd innings,Netherlands,Scotland,22.6,RN ten Doeschate,B Zuiderent,DR Brown,0,0,0,NA,0,NA,NA,NA,1
+247474,2nd innings,Netherlands,Scotland,23.1,B Zuiderent,RN ten Doeschate,RM Haq,1,0,1,NA,0,NA,NA,NA,1
+247474,2nd innings,Netherlands,Scotland,23.2,RN ten Doeschate,B Zuiderent,RM Haq,0,0,0,NA,0,NA,NA,NA,1
+247474,2nd innings,Netherlands,Scotland,23.3,RN ten Doeschate,B Zuiderent,RM Haq,4,0,4,NA,0,NA,NA,NA,1
+247474,2nd innings,Netherlands,Scotland,23.4,RN ten Doeschate,B Zuiderent,RM Haq,4,0,4,NA,0,NA,NA,NA,1
+247474,2nd innings,Netherlands,Scotland,23.5,RN ten Doeschate,B Zuiderent,RM Haq,0,1,1,wides,0,NA,NA,NA,1
+247474,2nd innings,Netherlands,Scotland,23.6,RN ten Doeschate,B Zuiderent,RM Haq,4,0,4,NA,0,NA,NA,NA,1

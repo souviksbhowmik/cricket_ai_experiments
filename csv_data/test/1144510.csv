@@ -1,0 +1,612 @@
+match_id,innings,team,opponent,ball,batsman,non_striker,bowler,scored_runs,extras,total,extra_type,wicket,wicket_type,player_out,fielders,winner
+1144510,1st innings,India,Afghanistan,0.1,KL Rahul,RG Sharma,Mujeeb Ur Rahman,0,0,0,NA,0,NA,NA,NA,1
+1144510,1st innings,India,Afghanistan,0.2,KL Rahul,RG Sharma,Mujeeb Ur Rahman,1,0,1,NA,0,NA,NA,NA,1
+1144510,1st innings,India,Afghanistan,0.3,RG Sharma,KL Rahul,Mujeeb Ur Rahman,0,0,0,NA,0,NA,NA,NA,1
+1144510,1st innings,India,Afghanistan,0.4,RG Sharma,KL Rahul,Mujeeb Ur Rahman,1,0,1,NA,0,NA,NA,NA,1
+1144510,1st innings,India,Afghanistan,0.5,KL Rahul,RG Sharma,Mujeeb Ur Rahman,1,0,1,NA,0,NA,NA,NA,1
+1144510,1st innings,India,Afghanistan,0.6,RG Sharma,KL Rahul,Mujeeb Ur Rahman,0,0,0,NA,0,NA,NA,NA,1
+1144510,1st innings,India,Afghanistan,1.1,KL Rahul,RG Sharma,Aftab Alam,0,0,0,NA,0,NA,NA,NA,1
+1144510,1st innings,India,Afghanistan,1.2,KL Rahul,RG Sharma,Aftab Alam,0,0,0,NA,0,NA,NA,NA,1
+1144510,1st innings,India,Afghanistan,1.3,KL Rahul,RG Sharma,Aftab Alam,2,0,2,NA,0,NA,NA,NA,1
+1144510,1st innings,India,Afghanistan,1.4,KL Rahul,RG Sharma,Aftab Alam,0,0,0,NA,0,NA,NA,NA,1
+1144510,1st innings,India,Afghanistan,1.5,KL Rahul,RG Sharma,Aftab Alam,0,0,0,NA,0,NA,NA,NA,1
+1144510,1st innings,India,Afghanistan,1.6,KL Rahul,RG Sharma,Aftab Alam,1,0,1,NA,0,NA,NA,NA,1
+1144510,1st innings,India,Afghanistan,2.1,KL Rahul,RG Sharma,Mujeeb Ur Rahman,1,0,1,NA,0,NA,NA,NA,1
+1144510,1st innings,India,Afghanistan,2.2,RG Sharma,KL Rahul,Mujeeb Ur Rahman,0,0,0,NA,0,NA,NA,NA,1
+1144510,1st innings,India,Afghanistan,2.3,RG Sharma,KL Rahul,Mujeeb Ur Rahman,0,0,0,NA,0,NA,NA,NA,1
+1144510,1st innings,India,Afghanistan,2.4,RG Sharma,KL Rahul,Mujeeb Ur Rahman,0,0,0,NA,0,NA,NA,NA,1
+1144510,1st innings,India,Afghanistan,2.5,RG Sharma,KL Rahul,Mujeeb Ur Rahman,0,0,0,NA,0,NA,NA,NA,1
+1144510,1st innings,India,Afghanistan,2.6,RG Sharma,KL Rahul,Mujeeb Ur Rahman,0,0,0,NA,0,NA,NA,NA,1
+1144510,1st innings,India,Afghanistan,3.1,KL Rahul,RG Sharma,Aftab Alam,0,0,0,NA,0,NA,NA,NA,1
+1144510,1st innings,India,Afghanistan,3.2,KL Rahul,RG Sharma,Aftab Alam,0,0,0,NA,0,NA,NA,NA,1
+1144510,1st innings,India,Afghanistan,3.3,KL Rahul,RG Sharma,Aftab Alam,0,0,0,NA,0,NA,NA,NA,1
+1144510,1st innings,India,Afghanistan,3.4,KL Rahul,RG Sharma,Aftab Alam,0,0,0,NA,0,NA,NA,NA,1
+1144510,1st innings,India,Afghanistan,3.5,KL Rahul,RG Sharma,Aftab Alam,0,0,0,NA,0,NA,NA,NA,1
+1144510,1st innings,India,Afghanistan,3.6,KL Rahul,RG Sharma,Aftab Alam,0,0,0,NA,0,NA,NA,NA,1
+1144510,1st innings,India,Afghanistan,4.1,RG Sharma,KL Rahul,Mujeeb Ur Rahman,0,0,0,NA,0,NA,NA,NA,1
+1144510,1st innings,India,Afghanistan,4.2,RG Sharma,KL Rahul,Mujeeb Ur Rahman,0,0,0,NA,1,bowled,RG Sharma,NA,1
+1144510,1st innings,India,Afghanistan,4.3,V Kohli,KL Rahul,Mujeeb Ur Rahman,1,0,1,NA,0,NA,NA,NA,1
+1144510,1st innings,India,Afghanistan,4.4,KL Rahul,V Kohli,Mujeeb Ur Rahman,1,0,1,NA,0,NA,NA,NA,1
+1144510,1st innings,India,Afghanistan,4.5,V Kohli,KL Rahul,Mujeeb Ur Rahman,0,0,0,NA,0,NA,NA,NA,1
+1144510,1st innings,India,Afghanistan,4.6,V Kohli,KL Rahul,Mujeeb Ur Rahman,0,0,0,NA,0,NA,NA,NA,1
+1144510,1st innings,India,Afghanistan,5.1,KL Rahul,V Kohli,Aftab Alam,0,0,0,NA,0,NA,NA,NA,1
+1144510,1st innings,India,Afghanistan,5.2,KL Rahul,V Kohli,Aftab Alam,4,0,4,NA,0,NA,NA,NA,1
+1144510,1st innings,India,Afghanistan,5.3,KL Rahul,V Kohli,Aftab Alam,0,0,0,NA,0,NA,NA,NA,1
+1144510,1st innings,India,Afghanistan,5.4,KL Rahul,V Kohli,Aftab Alam,0,0,0,NA,0,NA,NA,NA,1
+1144510,1st innings,India,Afghanistan,5.5,KL Rahul,V Kohli,Aftab Alam,4,0,4,NA,0,NA,NA,NA,1
+1144510,1st innings,India,Afghanistan,5.6,KL Rahul,V Kohli,Aftab Alam,1,0,1,NA,0,NA,NA,NA,1
+1144510,1st innings,India,Afghanistan,6.1,KL Rahul,V Kohli,Mujeeb Ur Rahman,0,0,0,NA,0,NA,NA,NA,1
+1144510,1st innings,India,Afghanistan,6.2,KL Rahul,V Kohli,Mujeeb Ur Rahman,0,0,0,NA,0,NA,NA,NA,1
+1144510,1st innings,India,Afghanistan,6.3,KL Rahul,V Kohli,Mujeeb Ur Rahman,1,0,1,NA,0,NA,NA,NA,1
+1144510,1st innings,India,Afghanistan,6.4,V Kohli,KL Rahul,Mujeeb Ur Rahman,1,0,1,NA,0,NA,NA,NA,1
+1144510,1st innings,India,Afghanistan,6.5,KL Rahul,V Kohli,Mujeeb Ur Rahman,0,0,0,NA,0,NA,NA,NA,1
+1144510,1st innings,India,Afghanistan,6.6,KL Rahul,V Kohli,Mujeeb Ur Rahman,0,0,0,NA,0,NA,NA,NA,1
+1144510,1st innings,India,Afghanistan,7.1,V Kohli,KL Rahul,Aftab Alam,2,0,2,NA,0,NA,NA,NA,1
+1144510,1st innings,India,Afghanistan,7.2,V Kohli,KL Rahul,Aftab Alam,1,0,1,NA,0,NA,NA,NA,1
+1144510,1st innings,India,Afghanistan,7.3,KL Rahul,V Kohli,Aftab Alam,1,0,1,NA,0,NA,NA,NA,1
+1144510,1st innings,India,Afghanistan,7.4,V Kohli,KL Rahul,Aftab Alam,4,0,4,NA,0,NA,NA,NA,1
+1144510,1st innings,India,Afghanistan,7.5,V Kohli,KL Rahul,Aftab Alam,4,0,4,NA,0,NA,NA,NA,1
+1144510,1st innings,India,Afghanistan,7.6,V Kohli,KL Rahul,Aftab Alam,2,0,2,NA,0,NA,NA,NA,1
+1144510,1st innings,India,Afghanistan,8.1,KL Rahul,V Kohli,Mujeeb Ur Rahman,0,0,0,NA,0,NA,NA,NA,1
+1144510,1st innings,India,Afghanistan,8.2,KL Rahul,V Kohli,Mujeeb Ur Rahman,0,0,0,NA,0,NA,NA,NA,1
+1144510,1st innings,India,Afghanistan,8.3,KL Rahul,V Kohli,Mujeeb Ur Rahman,0,0,0,NA,0,NA,NA,NA,1
+1144510,1st innings,India,Afghanistan,8.4,KL Rahul,V Kohli,Mujeeb Ur Rahman,0,0,0,NA,0,NA,NA,NA,1
+1144510,1st innings,India,Afghanistan,8.5,KL Rahul,V Kohli,Mujeeb Ur Rahman,1,0,1,NA,0,NA,NA,NA,1
+1144510,1st innings,India,Afghanistan,8.6,V Kohli,KL Rahul,Mujeeb Ur Rahman,1,0,1,NA,0,NA,NA,NA,1
+1144510,1st innings,India,Afghanistan,9.1,V Kohli,KL Rahul,Gulbadin Naib,3,0,3,NA,0,NA,NA,NA,1
+1144510,1st innings,India,Afghanistan,9.2,KL Rahul,V Kohli,Gulbadin Naib,1,0,1,NA,0,NA,NA,NA,1
+1144510,1st innings,India,Afghanistan,9.3,V Kohli,KL Rahul,Gulbadin Naib,1,0,1,NA,0,NA,NA,NA,1
+1144510,1st innings,India,Afghanistan,9.4,KL Rahul,V Kohli,Gulbadin Naib,0,0,0,NA,0,NA,NA,NA,1
+1144510,1st innings,India,Afghanistan,9.5,KL Rahul,V Kohli,Gulbadin Naib,0,0,0,NA,0,NA,NA,NA,1
+1144510,1st innings,India,Afghanistan,9.6,KL Rahul,V Kohli,Gulbadin Naib,0,0,0,NA,0,NA,NA,NA,1
+1144510,1st innings,India,Afghanistan,10.1,V Kohli,KL Rahul,Mujeeb Ur Rahman,0,0,0,NA,0,NA,NA,NA,1
+1144510,1st innings,India,Afghanistan,10.2,V Kohli,KL Rahul,Mujeeb Ur Rahman,1,0,1,NA,0,NA,NA,NA,1
+1144510,1st innings,India,Afghanistan,10.3,KL Rahul,V Kohli,Mujeeb Ur Rahman,1,0,1,NA,0,NA,NA,NA,1
+1144510,1st innings,India,Afghanistan,10.4,V Kohli,KL Rahul,Mujeeb Ur Rahman,1,0,1,NA,0,NA,NA,NA,1
+1144510,1st innings,India,Afghanistan,10.5,KL Rahul,V Kohli,Mujeeb Ur Rahman,1,0,1,NA,0,NA,NA,NA,1
+1144510,1st innings,India,Afghanistan,10.6,V Kohli,KL Rahul,Mujeeb Ur Rahman,4,0,4,NA,0,NA,NA,NA,1
+1144510,1st innings,India,Afghanistan,11.1,KL Rahul,V Kohli,Gulbadin Naib,0,0,0,NA,0,NA,NA,NA,1
+1144510,1st innings,India,Afghanistan,11.2,KL Rahul,V Kohli,Gulbadin Naib,1,0,1,NA,0,NA,NA,NA,1
+1144510,1st innings,India,Afghanistan,11.3,V Kohli,KL Rahul,Gulbadin Naib,2,0,2,NA,0,NA,NA,NA,1
+1144510,1st innings,India,Afghanistan,11.4,V Kohli,KL Rahul,Gulbadin Naib,0,1,1,wides,0,NA,NA,NA,1
+1144510,1st innings,India,Afghanistan,11.5,V Kohli,KL Rahul,Gulbadin Naib,1,0,1,NA,0,NA,NA,NA,1
+1144510,1st innings,India,Afghanistan,11.6,KL Rahul,V Kohli,Gulbadin Naib,1,0,1,NA,0,NA,NA,NA,1
+1144510,1st innings,India,Afghanistan,11.7,V Kohli,KL Rahul,Gulbadin Naib,0,0,0,NA,0,NA,NA,NA,1
+1144510,1st innings,India,Afghanistan,12.1,KL Rahul,V Kohli,Mohammad Nabi,0,0,0,NA,0,NA,NA,NA,1
+1144510,1st innings,India,Afghanistan,12.2,KL Rahul,V Kohli,Mohammad Nabi,1,0,1,NA,0,NA,NA,NA,1
+1144510,1st innings,India,Afghanistan,12.3,V Kohli,KL Rahul,Mohammad Nabi,0,0,0,NA,0,NA,NA,NA,1
+1144510,1st innings,India,Afghanistan,12.4,V Kohli,KL Rahul,Mohammad Nabi,1,0,1,NA,0,NA,NA,NA,1
+1144510,1st innings,India,Afghanistan,12.5,KL Rahul,V Kohli,Mohammad Nabi,1,0,1,NA,0,NA,NA,NA,1
+1144510,1st innings,India,Afghanistan,12.6,V Kohli,KL Rahul,Mohammad Nabi,0,1,1,wides,0,NA,NA,NA,1
+1144510,1st innings,India,Afghanistan,12.7,V Kohli,KL Rahul,Mohammad Nabi,0,0,0,NA,0,NA,NA,NA,1
+1144510,1st innings,India,Afghanistan,13.1,KL Rahul,V Kohli,Gulbadin Naib,2,0,2,NA,0,NA,NA,NA,1
+1144510,1st innings,India,Afghanistan,13.2,KL Rahul,V Kohli,Gulbadin Naib,0,0,0,NA,0,NA,NA,NA,1
+1144510,1st innings,India,Afghanistan,13.3,KL Rahul,V Kohli,Gulbadin Naib,0,0,0,NA,0,NA,NA,NA,1
+1144510,1st innings,India,Afghanistan,13.4,KL Rahul,V Kohli,Gulbadin Naib,1,0,1,NA,0,NA,NA,NA,1
+1144510,1st innings,India,Afghanistan,13.5,V Kohli,KL Rahul,Gulbadin Naib,1,0,1,NA,0,NA,NA,NA,1
+1144510,1st innings,India,Afghanistan,13.6,KL Rahul,V Kohli,Gulbadin Naib,1,0,1,NA,0,NA,NA,NA,1
+1144510,1st innings,India,Afghanistan,14.1,KL Rahul,V Kohli,Mohammad Nabi,0,0,0,NA,0,NA,NA,NA,1
+1144510,1st innings,India,Afghanistan,14.2,KL Rahul,V Kohli,Mohammad Nabi,0,0,0,NA,1,caught,KL Rahul,Hazratullah,1
+1144510,1st innings,India,Afghanistan,14.3,V Shankar,V Kohli,Mohammad Nabi,0,0,0,NA,0,NA,NA,NA,1
+1144510,1st innings,India,Afghanistan,14.4,V Shankar,V Kohli,Mohammad Nabi,1,0,1,NA,0,NA,NA,NA,1
+1144510,1st innings,India,Afghanistan,14.5,V Kohli,V Shankar,Mohammad Nabi,1,0,1,NA,0,NA,NA,NA,1
+1144510,1st innings,India,Afghanistan,14.6,V Shankar,V Kohli,Mohammad Nabi,0,0,0,NA,0,NA,NA,NA,1
+1144510,1st innings,India,Afghanistan,15.1,V Kohli,V Shankar,Gulbadin Naib,1,0,1,NA,0,NA,NA,NA,1
+1144510,1st innings,India,Afghanistan,15.2,V Shankar,V Kohli,Gulbadin Naib,0,0,0,NA,0,NA,NA,NA,1
+1144510,1st innings,India,Afghanistan,15.3,V Shankar,V Kohli,Gulbadin Naib,0,0,0,NA,0,NA,NA,NA,1
+1144510,1st innings,India,Afghanistan,15.4,V Shankar,V Kohli,Gulbadin Naib,1,0,1,NA,0,NA,NA,NA,1
+1144510,1st innings,India,Afghanistan,15.5,V Kohli,V Shankar,Gulbadin Naib,1,0,1,NA,0,NA,NA,NA,1
+1144510,1st innings,India,Afghanistan,15.6,V Shankar,V Kohli,Gulbadin Naib,0,1,1,wides,0,NA,NA,NA,1
+1144510,1st innings,India,Afghanistan,15.7,V Shankar,V Kohli,Gulbadin Naib,1,0,1,NA,0,NA,NA,NA,1
+1144510,1st innings,India,Afghanistan,16.1,V Shankar,V Kohli,Mohammad Nabi,1,0,1,NA,0,NA,NA,NA,1
+1144510,1st innings,India,Afghanistan,16.2,V Kohli,V Shankar,Mohammad Nabi,0,0,0,NA,0,NA,NA,NA,1
+1144510,1st innings,India,Afghanistan,16.3,V Kohli,V Shankar,Mohammad Nabi,0,0,0,NA,0,NA,NA,NA,1
+1144510,1st innings,India,Afghanistan,16.4,V Kohli,V Shankar,Mohammad Nabi,0,0,0,NA,0,NA,NA,NA,1
+1144510,1st innings,India,Afghanistan,16.5,V Kohli,V Shankar,Mohammad Nabi,1,0,1,NA,0,NA,NA,NA,1
+1144510,1st innings,India,Afghanistan,16.6,V Shankar,V Kohli,Mohammad Nabi,0,0,0,NA,0,NA,NA,NA,1
+1144510,1st innings,India,Afghanistan,17.1,V Kohli,V Shankar,Gulbadin Naib,0,0,0,NA,0,NA,NA,NA,1
+1144510,1st innings,India,Afghanistan,17.2,V Kohli,V Shankar,Gulbadin Naib,1,0,1,NA,0,NA,NA,NA,1
+1144510,1st innings,India,Afghanistan,17.3,V Shankar,V Kohli,Gulbadin Naib,0,0,0,NA,0,NA,NA,NA,1
+1144510,1st innings,India,Afghanistan,17.4,V Shankar,V Kohli,Gulbadin Naib,0,0,0,NA,0,NA,NA,NA,1
+1144510,1st innings,India,Afghanistan,17.5,V Shankar,V Kohli,Gulbadin Naib,1,0,1,NA,0,NA,NA,NA,1
+1144510,1st innings,India,Afghanistan,17.6,V Kohli,V Shankar,Gulbadin Naib,0,0,0,NA,0,NA,NA,NA,1
+1144510,1st innings,India,Afghanistan,18.1,V Shankar,V Kohli,Mohammad Nabi,1,0,1,NA,0,NA,NA,NA,1
+1144510,1st innings,India,Afghanistan,18.2,V Kohli,V Shankar,Mohammad Nabi,1,0,1,NA,0,NA,NA,NA,1
+1144510,1st innings,India,Afghanistan,18.3,V Shankar,V Kohli,Mohammad Nabi,1,0,1,NA,0,NA,NA,NA,1
+1144510,1st innings,India,Afghanistan,18.4,V Kohli,V Shankar,Mohammad Nabi,0,0,0,NA,0,NA,NA,NA,1
+1144510,1st innings,India,Afghanistan,18.5,V Kohli,V Shankar,Mohammad Nabi,1,0,1,NA,0,NA,NA,NA,1
+1144510,1st innings,India,Afghanistan,18.6,V Shankar,V Kohli,Mohammad Nabi,0,0,0,NA,0,NA,NA,NA,1
+1144510,1st innings,India,Afghanistan,19.1,V Kohli,V Shankar,Rashid Khan,4,0,4,NA,0,NA,NA,NA,1
+1144510,1st innings,India,Afghanistan,19.2,V Kohli,V Shankar,Rashid Khan,1,0,1,NA,0,NA,NA,NA,1
+1144510,1st innings,India,Afghanistan,19.3,V Shankar,V Kohli,Rashid Khan,0,0,0,NA,0,NA,NA,NA,1
+1144510,1st innings,India,Afghanistan,19.4,V Shankar,V Kohli,Rashid Khan,1,0,1,NA,0,NA,NA,NA,1
+1144510,1st innings,India,Afghanistan,19.5,V Kohli,V Shankar,Rashid Khan,0,0,0,NA,0,NA,NA,NA,1
+1144510,1st innings,India,Afghanistan,19.6,V Kohli,V Shankar,Rashid Khan,1,0,1,NA,0,NA,NA,NA,1
+1144510,1st innings,India,Afghanistan,20.1,V Kohli,V Shankar,Mohammad Nabi,1,0,1,NA,0,NA,NA,NA,1
+1144510,1st innings,India,Afghanistan,20.2,V Shankar,V Kohli,Mohammad Nabi,1,0,1,NA,0,NA,NA,NA,1
+1144510,1st innings,India,Afghanistan,20.3,V Kohli,V Shankar,Mohammad Nabi,0,0,0,NA,0,NA,NA,NA,1
+1144510,1st innings,India,Afghanistan,20.4,V Kohli,V Shankar,Mohammad Nabi,1,0,1,NA,0,NA,NA,NA,1
+1144510,1st innings,India,Afghanistan,20.5,V Shankar,V Kohli,Mohammad Nabi,1,0,1,NA,0,NA,NA,NA,1
+1144510,1st innings,India,Afghanistan,20.6,V Kohli,V Shankar,Mohammad Nabi,1,0,1,NA,0,NA,NA,NA,1
+1144510,1st innings,India,Afghanistan,21.1,V Kohli,V Shankar,Rashid Khan,0,0,0,NA,0,NA,NA,NA,1
+1144510,1st innings,India,Afghanistan,21.2,V Kohli,V Shankar,Rashid Khan,0,0,0,NA,0,NA,NA,NA,1
+1144510,1st innings,India,Afghanistan,21.3,V Kohli,V Shankar,Rashid Khan,2,0,2,NA,0,NA,NA,NA,1
+1144510,1st innings,India,Afghanistan,21.4,V Kohli,V Shankar,Rashid Khan,1,0,1,NA,0,NA,NA,NA,1
+1144510,1st innings,India,Afghanistan,21.5,V Shankar,V Kohli,Rashid Khan,2,0,2,NA,0,NA,NA,NA,1
+1144510,1st innings,India,Afghanistan,21.6,V Shankar,V Kohli,Rashid Khan,0,1,1,wides,0,NA,NA,NA,1
+1144510,1st innings,India,Afghanistan,21.7,V Shankar,V Kohli,Rashid Khan,1,0,1,NA,0,NA,NA,NA,1
+1144510,1st innings,India,Afghanistan,22.1,V Shankar,V Kohli,Rahmat Shah,4,0,4,NA,0,NA,NA,NA,1
+1144510,1st innings,India,Afghanistan,22.2,V Shankar,V Kohli,Rahmat Shah,0,0,0,NA,0,NA,NA,NA,1
+1144510,1st innings,India,Afghanistan,22.3,V Shankar,V Kohli,Rahmat Shah,0,0,0,NA,0,NA,NA,NA,1
+1144510,1st innings,India,Afghanistan,22.4,V Shankar,V Kohli,Rahmat Shah,1,0,1,NA,0,NA,NA,NA,1
+1144510,1st innings,India,Afghanistan,22.5,V Kohli,V Shankar,Rahmat Shah,1,0,1,NA,0,NA,NA,NA,1
+1144510,1st innings,India,Afghanistan,22.6,V Shankar,V Kohli,Rahmat Shah,1,0,1,NA,0,NA,NA,NA,1
+1144510,1st innings,India,Afghanistan,23.1,V Shankar,V Kohli,Rashid Khan,2,0,2,NA,0,NA,NA,NA,1
+1144510,1st innings,India,Afghanistan,23.2,V Shankar,V Kohli,Rashid Khan,0,0,0,NA,0,NA,NA,NA,1
+1144510,1st innings,India,Afghanistan,23.3,V Shankar,V Kohli,Rashid Khan,0,0,0,NA,0,NA,NA,NA,1
+1144510,1st innings,India,Afghanistan,23.4,V Shankar,V Kohli,Rashid Khan,1,0,1,NA,0,NA,NA,NA,1
+1144510,1st innings,India,Afghanistan,23.5,V Kohli,V Shankar,Rashid Khan,1,0,1,NA,0,NA,NA,NA,1
+1144510,1st innings,India,Afghanistan,23.6,V Shankar,V Kohli,Rashid Khan,0,0,0,NA,0,NA,NA,NA,1
+1144510,1st innings,India,Afghanistan,24.1,V Kohli,V Shankar,Rahmat Shah,1,0,1,NA,0,NA,NA,NA,1
+1144510,1st innings,India,Afghanistan,24.2,V Shankar,V Kohli,Rahmat Shah,0,0,0,NA,0,NA,NA,NA,1
+1144510,1st innings,India,Afghanistan,24.3,V Shankar,V Kohli,Rahmat Shah,4,0,4,NA,0,NA,NA,NA,1
+1144510,1st innings,India,Afghanistan,24.4,V Shankar,V Kohli,Rahmat Shah,0,0,0,NA,0,NA,NA,NA,1
+1144510,1st innings,India,Afghanistan,24.5,V Shankar,V Kohli,Rahmat Shah,0,0,0,NA,0,NA,NA,NA,1
+1144510,1st innings,India,Afghanistan,24.6,V Shankar,V Kohli,Rahmat Shah,1,0,1,NA,0,NA,NA,NA,1
+1144510,1st innings,India,Afghanistan,25.1,V Shankar,V Kohli,Rashid Khan,1,0,1,NA,0,NA,NA,NA,1
+1144510,1st innings,India,Afghanistan,25.2,V Kohli,V Shankar,Rashid Khan,1,0,1,NA,0,NA,NA,NA,1
+1144510,1st innings,India,Afghanistan,25.3,V Shankar,V Kohli,Rashid Khan,0,0,0,NA,0,NA,NA,NA,1
+1144510,1st innings,India,Afghanistan,25.4,V Shankar,V Kohli,Rashid Khan,0,0,0,NA,0,NA,NA,NA,1
+1144510,1st innings,India,Afghanistan,25.5,V Shankar,V Kohli,Rashid Khan,1,0,1,NA,0,NA,NA,NA,1
+1144510,1st innings,India,Afghanistan,25.6,V Kohli,V Shankar,Rashid Khan,4,0,4,NA,0,NA,NA,NA,1
+1144510,1st innings,India,Afghanistan,26.1,V Shankar,V Kohli,Rahmat Shah,0,0,0,NA,1,lbw,V Shankar,NA,1
+1144510,1st innings,India,Afghanistan,26.2,MS Dhoni,V Kohli,Rahmat Shah,0,0,0,NA,0,NA,NA,NA,1
+1144510,1st innings,India,Afghanistan,26.3,MS Dhoni,V Kohli,Rahmat Shah,1,0,1,NA,0,NA,NA,NA,1
+1144510,1st innings,India,Afghanistan,26.4,V Kohli,MS Dhoni,Rahmat Shah,1,0,1,NA,0,NA,NA,NA,1
+1144510,1st innings,India,Afghanistan,26.5,MS Dhoni,V Kohli,Rahmat Shah,0,0,0,NA,0,NA,NA,NA,1
+1144510,1st innings,India,Afghanistan,26.6,MS Dhoni,V Kohli,Rahmat Shah,0,0,0,NA,0,NA,NA,NA,1
+1144510,1st innings,India,Afghanistan,27.1,V Kohli,MS Dhoni,Rashid Khan,1,0,1,NA,0,NA,NA,NA,1
+1144510,1st innings,India,Afghanistan,27.2,MS Dhoni,V Kohli,Rashid Khan,0,0,0,NA,0,NA,NA,NA,1
+1144510,1st innings,India,Afghanistan,27.3,MS Dhoni,V Kohli,Rashid Khan,0,0,0,NA,0,NA,NA,NA,1
+1144510,1st innings,India,Afghanistan,27.4,MS Dhoni,V Kohli,Rashid Khan,0,0,0,NA,0,NA,NA,NA,1
+1144510,1st innings,India,Afghanistan,27.5,MS Dhoni,V Kohli,Rashid Khan,0,0,0,NA,0,NA,NA,NA,1
+1144510,1st innings,India,Afghanistan,27.6,MS Dhoni,V Kohli,Rashid Khan,0,0,0,NA,0,NA,NA,NA,1
+1144510,1st innings,India,Afghanistan,28.1,V Kohli,MS Dhoni,Mohammad Nabi,1,0,1,NA,0,NA,NA,NA,1
+1144510,1st innings,India,Afghanistan,28.2,MS Dhoni,V Kohli,Mohammad Nabi,0,0,0,NA,0,NA,NA,NA,1
+1144510,1st innings,India,Afghanistan,28.3,MS Dhoni,V Kohli,Mohammad Nabi,0,0,0,NA,0,NA,NA,NA,1
+1144510,1st innings,India,Afghanistan,28.4,MS Dhoni,V Kohli,Mohammad Nabi,1,0,1,NA,0,NA,NA,NA,1
+1144510,1st innings,India,Afghanistan,28.5,V Kohli,MS Dhoni,Mohammad Nabi,1,0,1,NA,0,NA,NA,NA,1
+1144510,1st innings,India,Afghanistan,28.6,MS Dhoni,V Kohli,Mohammad Nabi,0,0,0,NA,0,NA,NA,NA,1
+1144510,1st innings,India,Afghanistan,29.1,V Kohli,MS Dhoni,Rahmat Shah,2,0,2,NA,0,NA,NA,NA,1
+1144510,1st innings,India,Afghanistan,29.2,V Kohli,MS Dhoni,Rahmat Shah,0,0,0,NA,0,NA,NA,NA,1
+1144510,1st innings,India,Afghanistan,29.3,V Kohli,MS Dhoni,Rahmat Shah,1,0,1,NA,0,NA,NA,NA,1
+1144510,1st innings,India,Afghanistan,29.4,MS Dhoni,V Kohli,Rahmat Shah,0,0,0,NA,0,NA,NA,NA,1
+1144510,1st innings,India,Afghanistan,29.5,MS Dhoni,V Kohli,Rahmat Shah,1,0,1,NA,0,NA,NA,NA,1
+1144510,1st innings,India,Afghanistan,29.6,V Kohli,MS Dhoni,Rahmat Shah,1,0,1,NA,0,NA,NA,NA,1
+1144510,1st innings,India,Afghanistan,30.1,V Kohli,MS Dhoni,Mohammad Nabi,1,0,1,NA,0,NA,NA,NA,1
+1144510,1st innings,India,Afghanistan,30.2,MS Dhoni,V Kohli,Mohammad Nabi,1,0,1,NA,0,NA,NA,NA,1
+1144510,1st innings,India,Afghanistan,30.3,V Kohli,MS Dhoni,Mohammad Nabi,0,0,0,NA,1,caught,V Kohli,Rahmat Shah,1
+1144510,1st innings,India,Afghanistan,30.4,KM Jadhav,MS Dhoni,Mohammad Nabi,0,0,0,NA,0,NA,NA,NA,1
+1144510,1st innings,India,Afghanistan,30.5,KM Jadhav,MS Dhoni,Mohammad Nabi,0,0,0,NA,0,NA,NA,NA,1
+1144510,1st innings,India,Afghanistan,30.6,KM Jadhav,MS Dhoni,Mohammad Nabi,1,0,1,NA,0,NA,NA,NA,1
+1144510,1st innings,India,Afghanistan,31.1,KM Jadhav,MS Dhoni,Rahmat Shah,0,1,1,wides,0,NA,NA,NA,1
+1144510,1st innings,India,Afghanistan,31.2,KM Jadhav,MS Dhoni,Rahmat Shah,0,0,0,NA,0,NA,NA,NA,1
+1144510,1st innings,India,Afghanistan,31.3,KM Jadhav,MS Dhoni,Rahmat Shah,0,0,0,NA,0,NA,NA,NA,1
+1144510,1st innings,India,Afghanistan,31.4,KM Jadhav,MS Dhoni,Rahmat Shah,1,0,1,NA,0,NA,NA,NA,1
+1144510,1st innings,India,Afghanistan,31.5,MS Dhoni,KM Jadhav,Rahmat Shah,0,0,0,NA,0,NA,NA,NA,1
+1144510,1st innings,India,Afghanistan,31.6,MS Dhoni,KM Jadhav,Rahmat Shah,0,0,0,NA,0,NA,NA,NA,1
+1144510,1st innings,India,Afghanistan,31.7,MS Dhoni,KM Jadhav,Rahmat Shah,0,0,0,NA,0,NA,NA,NA,1
+1144510,1st innings,India,Afghanistan,32.1,KM Jadhav,MS Dhoni,Mohammad Nabi,0,0,0,NA,0,NA,NA,NA,1
+1144510,1st innings,India,Afghanistan,32.2,KM Jadhav,MS Dhoni,Mohammad Nabi,2,0,2,NA,0,NA,NA,NA,1
+1144510,1st innings,India,Afghanistan,32.3,KM Jadhav,MS Dhoni,Mohammad Nabi,1,0,1,NA,0,NA,NA,NA,1
+1144510,1st innings,India,Afghanistan,32.4,MS Dhoni,KM Jadhav,Mohammad Nabi,1,0,1,NA,0,NA,NA,NA,1
+1144510,1st innings,India,Afghanistan,32.5,KM Jadhav,MS Dhoni,Mohammad Nabi,0,0,0,NA,0,NA,NA,NA,1
+1144510,1st innings,India,Afghanistan,32.6,KM Jadhav,MS Dhoni,Mohammad Nabi,1,0,1,NA,0,NA,NA,NA,1
+1144510,1st innings,India,Afghanistan,33.1,KM Jadhav,MS Dhoni,Mujeeb Ur Rahman,0,0,0,NA,0,NA,NA,NA,1
+1144510,1st innings,India,Afghanistan,33.2,KM Jadhav,MS Dhoni,Mujeeb Ur Rahman,1,0,1,NA,0,NA,NA,NA,1
+1144510,1st innings,India,Afghanistan,33.3,MS Dhoni,KM Jadhav,Mujeeb Ur Rahman,1,0,1,NA,0,NA,NA,NA,1
+1144510,1st innings,India,Afghanistan,33.4,KM Jadhav,MS Dhoni,Mujeeb Ur Rahman,0,0,0,NA,0,NA,NA,NA,1
+1144510,1st innings,India,Afghanistan,33.5,KM Jadhav,MS Dhoni,Mujeeb Ur Rahman,0,0,0,NA,0,NA,NA,NA,1
+1144510,1st innings,India,Afghanistan,33.6,KM Jadhav,MS Dhoni,Mujeeb Ur Rahman,1,0,1,NA,0,NA,NA,NA,1
+1144510,1st innings,India,Afghanistan,34.1,KM Jadhav,MS Dhoni,Mohammad Nabi,1,0,1,NA,0,NA,NA,NA,1
+1144510,1st innings,India,Afghanistan,34.2,MS Dhoni,KM Jadhav,Mohammad Nabi,1,0,1,NA,0,NA,NA,NA,1
+1144510,1st innings,India,Afghanistan,34.3,KM Jadhav,MS Dhoni,Mohammad Nabi,1,0,1,NA,0,NA,NA,NA,1
+1144510,1st innings,India,Afghanistan,34.4,MS Dhoni,KM Jadhav,Mohammad Nabi,1,0,1,NA,0,NA,NA,NA,1
+1144510,1st innings,India,Afghanistan,34.5,KM Jadhav,MS Dhoni,Mohammad Nabi,1,0,1,NA,0,NA,NA,NA,1
+1144510,1st innings,India,Afghanistan,34.6,MS Dhoni,KM Jadhav,Mohammad Nabi,0,0,0,NA,0,NA,NA,NA,1
+1144510,1st innings,India,Afghanistan,35.1,KM Jadhav,MS Dhoni,Mujeeb Ur Rahman,0,0,0,NA,0,NA,NA,NA,1
+1144510,1st innings,India,Afghanistan,35.2,KM Jadhav,MS Dhoni,Mujeeb Ur Rahman,0,0,0,NA,0,NA,NA,NA,1
+1144510,1st innings,India,Afghanistan,35.3,KM Jadhav,MS Dhoni,Mujeeb Ur Rahman,0,0,0,NA,0,NA,NA,NA,1
+1144510,1st innings,India,Afghanistan,35.4,KM Jadhav,MS Dhoni,Mujeeb Ur Rahman,1,0,1,NA,0,NA,NA,NA,1
+1144510,1st innings,India,Afghanistan,35.5,MS Dhoni,KM Jadhav,Mujeeb Ur Rahman,0,0,0,NA,0,NA,NA,NA,1
+1144510,1st innings,India,Afghanistan,35.6,MS Dhoni,KM Jadhav,Mujeeb Ur Rahman,0,0,0,NA,0,NA,NA,NA,1
+1144510,1st innings,India,Afghanistan,36.1,KM Jadhav,MS Dhoni,Rashid Khan,0,0,0,NA,0,NA,NA,NA,1
+1144510,1st innings,India,Afghanistan,36.2,KM Jadhav,MS Dhoni,Rashid Khan,0,0,0,NA,0,NA,NA,NA,1
+1144510,1st innings,India,Afghanistan,36.3,KM Jadhav,MS Dhoni,Rashid Khan,0,0,0,NA,0,NA,NA,NA,1
+1144510,1st innings,India,Afghanistan,36.4,KM Jadhav,MS Dhoni,Rashid Khan,0,0,0,NA,0,NA,NA,NA,1
+1144510,1st innings,India,Afghanistan,36.5,KM Jadhav,MS Dhoni,Rashid Khan,4,0,4,NA,0,NA,NA,NA,1
+1144510,1st innings,India,Afghanistan,36.6,KM Jadhav,MS Dhoni,Rashid Khan,0,0,0,NA,0,NA,NA,NA,1
+1144510,1st innings,India,Afghanistan,37.1,MS Dhoni,KM Jadhav,Gulbadin Naib,4,0,4,NA,0,NA,NA,NA,1
+1144510,1st innings,India,Afghanistan,37.2,MS Dhoni,KM Jadhav,Gulbadin Naib,1,0,1,NA,0,NA,NA,NA,1
+1144510,1st innings,India,Afghanistan,37.3,KM Jadhav,MS Dhoni,Gulbadin Naib,1,0,1,NA,0,NA,NA,NA,1
+1144510,1st innings,India,Afghanistan,37.4,MS Dhoni,KM Jadhav,Gulbadin Naib,0,0,0,NA,0,NA,NA,NA,1
+1144510,1st innings,India,Afghanistan,37.5,MS Dhoni,KM Jadhav,Gulbadin Naib,1,0,1,NA,0,NA,NA,NA,1
+1144510,1st innings,India,Afghanistan,37.6,KM Jadhav,MS Dhoni,Gulbadin Naib,0,0,0,NA,0,NA,NA,NA,1
+1144510,1st innings,India,Afghanistan,38.1,MS Dhoni,KM Jadhav,Rashid Khan,1,0,1,NA,0,NA,NA,NA,1
+1144510,1st innings,India,Afghanistan,38.2,KM Jadhav,MS Dhoni,Rashid Khan,0,0,0,NA,0,NA,NA,NA,1
+1144510,1st innings,India,Afghanistan,38.3,KM Jadhav,MS Dhoni,Rashid Khan,1,0,1,NA,0,NA,NA,NA,1
+1144510,1st innings,India,Afghanistan,38.4,MS Dhoni,KM Jadhav,Rashid Khan,1,0,1,NA,0,NA,NA,NA,1
+1144510,1st innings,India,Afghanistan,38.5,KM Jadhav,MS Dhoni,Rashid Khan,0,0,0,NA,0,NA,NA,NA,1
+1144510,1st innings,India,Afghanistan,38.6,KM Jadhav,MS Dhoni,Rashid Khan,0,0,0,NA,0,NA,NA,NA,1
+1144510,1st innings,India,Afghanistan,39.1,MS Dhoni,KM Jadhav,Gulbadin Naib,1,0,1,NA,0,NA,NA,NA,1
+1144510,1st innings,India,Afghanistan,39.2,KM Jadhav,MS Dhoni,Gulbadin Naib,2,0,2,NA,0,NA,NA,NA,1
+1144510,1st innings,India,Afghanistan,39.3,KM Jadhav,MS Dhoni,Gulbadin Naib,1,0,1,NA,0,NA,NA,NA,1
+1144510,1st innings,India,Afghanistan,39.4,MS Dhoni,KM Jadhav,Gulbadin Naib,4,0,4,NA,0,NA,NA,NA,1
+1144510,1st innings,India,Afghanistan,39.5,MS Dhoni,KM Jadhav,Gulbadin Naib,1,0,1,NA,0,NA,NA,NA,1
+1144510,1st innings,India,Afghanistan,39.6,KM Jadhav,MS Dhoni,Gulbadin Naib,0,0,0,NA,0,NA,NA,NA,1
+1144510,1st innings,India,Afghanistan,40.1,MS Dhoni,KM Jadhav,Rashid Khan,0,0,0,NA,0,NA,NA,NA,1
+1144510,1st innings,India,Afghanistan,40.2,MS Dhoni,KM Jadhav,Rashid Khan,0,0,0,NA,0,NA,NA,NA,1
+1144510,1st innings,India,Afghanistan,40.3,MS Dhoni,KM Jadhav,Rashid Khan,1,0,1,NA,0,NA,NA,NA,1
+1144510,1st innings,India,Afghanistan,40.4,KM Jadhav,MS Dhoni,Rashid Khan,0,0,0,NA,0,NA,NA,NA,1
+1144510,1st innings,India,Afghanistan,40.5,KM Jadhav,MS Dhoni,Rashid Khan,0,0,0,NA,0,NA,NA,NA,1
+1144510,1st innings,India,Afghanistan,40.6,KM Jadhav,MS Dhoni,Rashid Khan,1,0,1,NA,0,NA,NA,NA,1
+1144510,1st innings,India,Afghanistan,41.1,KM Jadhav,MS Dhoni,Mujeeb Ur Rahman,0,1,1,wides,0,NA,NA,NA,1
+1144510,1st innings,India,Afghanistan,41.2,KM Jadhav,MS Dhoni,Mujeeb Ur Rahman,0,0,0,NA,0,NA,NA,NA,1
+1144510,1st innings,India,Afghanistan,41.3,KM Jadhav,MS Dhoni,Mujeeb Ur Rahman,1,0,1,NA,0,NA,NA,NA,1
+1144510,1st innings,India,Afghanistan,41.4,MS Dhoni,KM Jadhav,Mujeeb Ur Rahman,0,0,0,NA,0,NA,NA,NA,1
+1144510,1st innings,India,Afghanistan,41.5,MS Dhoni,KM Jadhav,Mujeeb Ur Rahman,0,0,0,NA,0,NA,NA,NA,1
+1144510,1st innings,India,Afghanistan,41.6,MS Dhoni,KM Jadhav,Mujeeb Ur Rahman,0,0,0,NA,0,NA,NA,NA,1
+1144510,1st innings,India,Afghanistan,41.7,MS Dhoni,KM Jadhav,Mujeeb Ur Rahman,0,0,0,NA,0,NA,NA,NA,1
+1144510,1st innings,India,Afghanistan,42.1,KM Jadhav,MS Dhoni,Aftab Alam,2,0,2,NA,0,NA,NA,NA,1
+1144510,1st innings,India,Afghanistan,42.2,KM Jadhav,MS Dhoni,Aftab Alam,4,0,4,NA,0,NA,NA,NA,1
+1144510,1st innings,India,Afghanistan,42.3,KM Jadhav,MS Dhoni,Aftab Alam,0,0,0,NA,0,NA,NA,NA,1
+1144510,1st innings,India,Afghanistan,42.4,KM Jadhav,MS Dhoni,Aftab Alam,1,0,1,NA,0,NA,NA,NA,1
+1144510,1st innings,India,Afghanistan,42.5,MS Dhoni,KM Jadhav,Aftab Alam,4,0,4,NA,0,NA,NA,NA,1
+1144510,1st innings,India,Afghanistan,42.6,MS Dhoni,KM Jadhav,Aftab Alam,0,0,0,NA,0,NA,NA,NA,1
+1144510,1st innings,India,Afghanistan,43.1,KM Jadhav,MS Dhoni,Mujeeb Ur Rahman,1,0,1,NA,0,NA,NA,NA,1
+1144510,1st innings,India,Afghanistan,43.2,MS Dhoni,KM Jadhav,Mujeeb Ur Rahman,0,0,0,NA,0,NA,NA,NA,1
+1144510,1st innings,India,Afghanistan,43.3,MS Dhoni,KM Jadhav,Mujeeb Ur Rahman,0,0,0,NA,0,NA,NA,NA,1
+1144510,1st innings,India,Afghanistan,43.4,MS Dhoni,KM Jadhav,Mujeeb Ur Rahman,0,0,0,NA,0,NA,NA,NA,1
+1144510,1st innings,India,Afghanistan,43.5,MS Dhoni,KM Jadhav,Mujeeb Ur Rahman,0,0,0,NA,0,NA,NA,NA,1
+1144510,1st innings,India,Afghanistan,43.6,MS Dhoni,KM Jadhav,Mujeeb Ur Rahman,1,0,1,NA,0,NA,NA,NA,1
+1144510,1st innings,India,Afghanistan,44.1,MS Dhoni,KM Jadhav,Rashid Khan,0,0,0,NA,0,NA,NA,NA,1
+1144510,1st innings,India,Afghanistan,44.2,MS Dhoni,KM Jadhav,Rashid Khan,0,0,0,NA,0,NA,NA,NA,1
+1144510,1st innings,India,Afghanistan,44.3,MS Dhoni,KM Jadhav,Rashid Khan,0,0,0,NA,1,stumped,MS Dhoni,Ikram Alikhil,1
+1144510,1st innings,India,Afghanistan,44.4,HH Pandya,KM Jadhav,Rashid Khan,0,0,0,NA,0,NA,NA,NA,1
+1144510,1st innings,India,Afghanistan,44.5,HH Pandya,KM Jadhav,Rashid Khan,1,0,1,NA,0,NA,NA,NA,1
+1144510,1st innings,India,Afghanistan,44.6,KM Jadhav,HH Pandya,Rashid Khan,1,0,1,NA,0,NA,NA,NA,1
+1144510,1st innings,India,Afghanistan,45.1,KM Jadhav,HH Pandya,Aftab Alam,0,0,0,NA,0,NA,NA,NA,1
+1144510,1st innings,India,Afghanistan,45.2,KM Jadhav,HH Pandya,Aftab Alam,4,0,4,NA,0,NA,NA,NA,1
+1144510,1st innings,India,Afghanistan,45.3,KM Jadhav,HH Pandya,Aftab Alam,0,0,0,NA,0,NA,NA,NA,1
+1144510,1st innings,India,Afghanistan,45.4,KM Jadhav,HH Pandya,Aftab Alam,0,0,0,NA,0,NA,NA,NA,1
+1144510,1st innings,India,Afghanistan,45.5,KM Jadhav,HH Pandya,Aftab Alam,6,0,6,NA,0,NA,NA,NA,1
+1144510,1st innings,India,Afghanistan,45.6,KM Jadhav,HH Pandya,Aftab Alam,1,0,1,NA,0,NA,NA,NA,1
+1144510,1st innings,India,Afghanistan,46.1,KM Jadhav,HH Pandya,Rashid Khan,0,0,0,NA,0,NA,NA,NA,1
+1144510,1st innings,India,Afghanistan,46.2,KM Jadhav,HH Pandya,Rashid Khan,0,0,0,NA,0,NA,NA,NA,1
+1144510,1st innings,India,Afghanistan,46.3,KM Jadhav,HH Pandya,Rashid Khan,0,1,1,wides,0,NA,NA,NA,1
+1144510,1st innings,India,Afghanistan,46.4,KM Jadhav,HH Pandya,Rashid Khan,0,0,0,NA,0,NA,NA,NA,1
+1144510,1st innings,India,Afghanistan,46.5,KM Jadhav,HH Pandya,Rashid Khan,0,0,0,NA,0,NA,NA,NA,1
+1144510,1st innings,India,Afghanistan,46.6,KM Jadhav,HH Pandya,Rashid Khan,0,0,0,NA,0,NA,NA,NA,1
+1144510,1st innings,India,Afghanistan,46.7,KM Jadhav,HH Pandya,Rashid Khan,0,0,0,NA,0,NA,NA,NA,1
+1144510,1st innings,India,Afghanistan,47.1,HH Pandya,KM Jadhav,Gulbadin Naib,0,0,0,NA,0,NA,NA,NA,1
+1144510,1st innings,India,Afghanistan,47.2,HH Pandya,KM Jadhav,Gulbadin Naib,0,0,0,NA,0,NA,NA,NA,1
+1144510,1st innings,India,Afghanistan,47.3,HH Pandya,KM Jadhav,Gulbadin Naib,2,0,2,NA,0,NA,NA,NA,1
+1144510,1st innings,India,Afghanistan,47.4,HH Pandya,KM Jadhav,Gulbadin Naib,1,0,1,NA,0,NA,NA,NA,1
+1144510,1st innings,India,Afghanistan,47.5,KM Jadhav,HH Pandya,Gulbadin Naib,2,0,2,NA,0,NA,NA,NA,1
+1144510,1st innings,India,Afghanistan,47.6,KM Jadhav,HH Pandya,Gulbadin Naib,2,0,2,NA,0,NA,NA,NA,1
+1144510,1st innings,India,Afghanistan,48.1,HH Pandya,KM Jadhav,Aftab Alam,1,0,1,NA,0,NA,NA,NA,1
+1144510,1st innings,India,Afghanistan,48.2,KM Jadhav,HH Pandya,Aftab Alam,1,0,1,NA,0,NA,NA,NA,1
+1144510,1st innings,India,Afghanistan,48.3,HH Pandya,KM Jadhav,Aftab Alam,2,0,2,NA,0,NA,NA,NA,1
+1144510,1st innings,India,Afghanistan,48.4,HH Pandya,KM Jadhav,Aftab Alam,0,0,0,NA,1,caught,HH Pandya,Ikram Alikhil,1
+1144510,1st innings,India,Afghanistan,48.5,Mohammed Shami,KM Jadhav,Aftab Alam,1,0,1,NA,0,NA,NA,NA,1
+1144510,1st innings,India,Afghanistan,48.6,KM Jadhav,Mohammed Shami,Aftab Alam,1,0,1,NA,0,NA,NA,NA,1
+1144510,1st innings,India,Afghanistan,49.1,KM Jadhav,Mohammed Shami,Gulbadin Naib,2,0,2,NA,0,NA,NA,NA,1
+1144510,1st innings,India,Afghanistan,49.2,KM Jadhav,Mohammed Shami,Gulbadin Naib,1,0,1,NA,0,NA,NA,NA,1
+1144510,1st innings,India,Afghanistan,49.3,Mohammed Shami,KM Jadhav,Gulbadin Naib,0,0,0,NA,1,bowled,Mohammed Shami,NA,1
+1144510,1st innings,India,Afghanistan,49.4,Kuldeep Yadav,KM Jadhav,Gulbadin Naib,1,0,1,NA,0,NA,NA,NA,1
+1144510,1st innings,India,Afghanistan,49.5,KM Jadhav,Kuldeep Yadav,Gulbadin Naib,0,0,0,NA,1,caught,KM Jadhav,Noor Ali Zadran (sub),1
+1144510,1st innings,India,Afghanistan,49.6,JJ Bumrah,Kuldeep Yadav,Gulbadin Naib,1,0,1,NA,0,NA,NA,NA,1
+1144510,2nd innings,Afghanistan,India,0.1,Hazratullah,Gulbadin Naib,Mohammed Shami,0,0,0,NA,0,NA,NA,NA,0
+1144510,2nd innings,Afghanistan,India,0.2,Hazratullah,Gulbadin Naib,Mohammed Shami,0,0,0,NA,0,NA,NA,NA,0
+1144510,2nd innings,Afghanistan,India,0.3,Hazratullah,Gulbadin Naib,Mohammed Shami,0,0,0,NA,0,NA,NA,NA,0
+1144510,2nd innings,Afghanistan,India,0.4,Hazratullah,Gulbadin Naib,Mohammed Shami,0,0,0,NA,0,NA,NA,NA,0
+1144510,2nd innings,Afghanistan,India,0.5,Hazratullah,Gulbadin Naib,Mohammed Shami,0,0,0,NA,0,NA,NA,NA,0
+1144510,2nd innings,Afghanistan,India,0.6,Hazratullah,Gulbadin Naib,Mohammed Shami,1,0,1,NA,0,NA,NA,NA,0
+1144510,2nd innings,Afghanistan,India,1.1,Hazratullah,Gulbadin Naib,JJ Bumrah,0,0,0,NA,0,NA,NA,NA,0
+1144510,2nd innings,Afghanistan,India,1.2,Hazratullah,Gulbadin Naib,JJ Bumrah,0,4,4,byes,0,NA,NA,NA,0
+1144510,2nd innings,Afghanistan,India,1.3,Hazratullah,Gulbadin Naib,JJ Bumrah,0,0,0,NA,0,NA,NA,NA,0
+1144510,2nd innings,Afghanistan,India,1.4,Hazratullah,Gulbadin Naib,JJ Bumrah,1,0,1,NA,0,NA,NA,NA,0
+1144510,2nd innings,Afghanistan,India,1.5,Gulbadin Naib,Hazratullah,JJ Bumrah,0,0,0,NA,0,NA,NA,NA,0
+1144510,2nd innings,Afghanistan,India,1.6,Gulbadin Naib,Hazratullah,JJ Bumrah,0,0,0,NA,0,NA,NA,NA,0
+1144510,2nd innings,Afghanistan,India,2.1,Hazratullah,Gulbadin Naib,Mohammed Shami,0,0,0,NA,0,NA,NA,NA,0
+1144510,2nd innings,Afghanistan,India,2.2,Hazratullah,Gulbadin Naib,Mohammed Shami,0,0,0,NA,0,NA,NA,NA,0
+1144510,2nd innings,Afghanistan,India,2.3,Hazratullah,Gulbadin Naib,Mohammed Shami,0,0,0,NA,0,NA,NA,NA,0
+1144510,2nd innings,Afghanistan,India,2.4,Hazratullah,Gulbadin Naib,Mohammed Shami,0,0,0,NA,0,NA,NA,NA,0
+1144510,2nd innings,Afghanistan,India,2.5,Hazratullah,Gulbadin Naib,Mohammed Shami,0,0,0,NA,0,NA,NA,NA,0
+1144510,2nd innings,Afghanistan,India,2.6,Hazratullah,Gulbadin Naib,Mohammed Shami,0,0,0,NA,0,NA,NA,NA,0
+1144510,2nd innings,Afghanistan,India,3.1,Gulbadin Naib,Hazratullah,JJ Bumrah,1,0,1,NA,0,NA,NA,NA,0
+1144510,2nd innings,Afghanistan,India,3.2,Hazratullah,Gulbadin Naib,JJ Bumrah,0,0,0,NA,0,NA,NA,NA,0
+1144510,2nd innings,Afghanistan,India,3.3,Hazratullah,Gulbadin Naib,JJ Bumrah,4,0,4,NA,0,NA,NA,NA,0
+1144510,2nd innings,Afghanistan,India,3.4,Hazratullah,Gulbadin Naib,JJ Bumrah,0,0,0,NA,0,NA,NA,NA,0
+1144510,2nd innings,Afghanistan,India,3.5,Hazratullah,Gulbadin Naib,JJ Bumrah,1,0,1,NA,0,NA,NA,NA,0
+1144510,2nd innings,Afghanistan,India,3.6,Gulbadin Naib,Hazratullah,JJ Bumrah,0,0,0,NA,0,NA,NA,NA,0
+1144510,2nd innings,Afghanistan,India,4.1,Hazratullah,Gulbadin Naib,Mohammed Shami,1,0,1,NA,0,NA,NA,NA,0
+1144510,2nd innings,Afghanistan,India,4.2,Gulbadin Naib,Hazratullah,Mohammed Shami,0,0,0,NA,0,NA,NA,NA,0
+1144510,2nd innings,Afghanistan,India,4.3,Gulbadin Naib,Hazratullah,Mohammed Shami,0,0,0,NA,0,NA,NA,NA,0
+1144510,2nd innings,Afghanistan,India,4.4,Gulbadin Naib,Hazratullah,Mohammed Shami,0,0,0,NA,0,NA,NA,NA,0
+1144510,2nd innings,Afghanistan,India,4.5,Gulbadin Naib,Hazratullah,Mohammed Shami,0,2,2,legbyes,0,NA,NA,NA,0
+1144510,2nd innings,Afghanistan,India,4.6,Gulbadin Naib,Hazratullah,Mohammed Shami,1,0,1,NA,0,NA,NA,NA,0
+1144510,2nd innings,Afghanistan,India,5.1,Gulbadin Naib,Hazratullah,JJ Bumrah,0,0,0,NA,0,NA,NA,NA,0
+1144510,2nd innings,Afghanistan,India,5.2,Gulbadin Naib,Hazratullah,JJ Bumrah,0,0,0,NA,0,NA,NA,NA,0
+1144510,2nd innings,Afghanistan,India,5.3,Gulbadin Naib,Hazratullah,JJ Bumrah,2,0,2,NA,0,NA,NA,NA,0
+1144510,2nd innings,Afghanistan,India,5.4,Gulbadin Naib,Hazratullah,JJ Bumrah,0,0,0,NA,0,NA,NA,NA,0
+1144510,2nd innings,Afghanistan,India,5.5,Gulbadin Naib,Hazratullah,JJ Bumrah,0,0,0,NA,0,NA,NA,NA,0
+1144510,2nd innings,Afghanistan,India,5.6,Gulbadin Naib,Hazratullah,JJ Bumrah,0,0,0,NA,0,NA,NA,NA,0
+1144510,2nd innings,Afghanistan,India,6.1,Hazratullah,Gulbadin Naib,Mohammed Shami,0,0,0,NA,0,NA,NA,NA,0
+1144510,2nd innings,Afghanistan,India,6.2,Hazratullah,Gulbadin Naib,Mohammed Shami,2,0,2,NA,0,NA,NA,NA,0
+1144510,2nd innings,Afghanistan,India,6.3,Hazratullah,Gulbadin Naib,Mohammed Shami,0,0,0,NA,1,bowled,Hazratullah,NA,0
+1144510,2nd innings,Afghanistan,India,6.4,Rahmat Shah,Gulbadin Naib,Mohammed Shami,0,0,0,NA,0,NA,NA,NA,0
+1144510,2nd innings,Afghanistan,India,6.5,Rahmat Shah,Gulbadin Naib,Mohammed Shami,0,0,0,NA,0,NA,NA,NA,0
+1144510,2nd innings,Afghanistan,India,6.6,Rahmat Shah,Gulbadin Naib,Mohammed Shami,1,0,1,NA,0,NA,NA,NA,0
+1144510,2nd innings,Afghanistan,India,7.1,Rahmat Shah,Gulbadin Naib,JJ Bumrah,0,0,0,NA,0,NA,NA,NA,0
+1144510,2nd innings,Afghanistan,India,7.2,Rahmat Shah,Gulbadin Naib,JJ Bumrah,0,0,0,NA,0,NA,NA,NA,0
+1144510,2nd innings,Afghanistan,India,7.3,Rahmat Shah,Gulbadin Naib,JJ Bumrah,0,0,0,NA,0,NA,NA,NA,0
+1144510,2nd innings,Afghanistan,India,7.4,Rahmat Shah,Gulbadin Naib,JJ Bumrah,1,0,1,NA,0,NA,NA,NA,0
+1144510,2nd innings,Afghanistan,India,7.5,Gulbadin Naib,Rahmat Shah,JJ Bumrah,3,0,3,NA,0,NA,NA,NA,0
+1144510,2nd innings,Afghanistan,India,7.6,Rahmat Shah,Gulbadin Naib,JJ Bumrah,0,1,1,legbyes,0,NA,NA,NA,0
+1144510,2nd innings,Afghanistan,India,8.1,Rahmat Shah,Gulbadin Naib,YS Chahal,1,0,1,NA,0,NA,NA,NA,0
+1144510,2nd innings,Afghanistan,India,8.2,Gulbadin Naib,Rahmat Shah,YS Chahal,1,0,1,NA,0,NA,NA,NA,0
+1144510,2nd innings,Afghanistan,India,8.3,Rahmat Shah,Gulbadin Naib,YS Chahal,1,0,1,NA,0,NA,NA,NA,0
+1144510,2nd innings,Afghanistan,India,8.4,Gulbadin Naib,Rahmat Shah,YS Chahal,0,0,0,NA,0,NA,NA,NA,0
+1144510,2nd innings,Afghanistan,India,8.5,Gulbadin Naib,Rahmat Shah,YS Chahal,0,0,0,NA,0,NA,NA,NA,0
+1144510,2nd innings,Afghanistan,India,8.6,Gulbadin Naib,Rahmat Shah,YS Chahal,0,0,0,NA,0,NA,NA,NA,0
+1144510,2nd innings,Afghanistan,India,9.1,Rahmat Shah,Gulbadin Naib,HH Pandya,0,0,0,NA,0,NA,NA,NA,0
+1144510,2nd innings,Afghanistan,India,9.2,Rahmat Shah,Gulbadin Naib,HH Pandya,1,0,1,NA,0,NA,NA,NA,0
+1144510,2nd innings,Afghanistan,India,9.3,Gulbadin Naib,Rahmat Shah,HH Pandya,0,0,0,NA,0,NA,NA,NA,0
+1144510,2nd innings,Afghanistan,India,9.4,Gulbadin Naib,Rahmat Shah,HH Pandya,0,0,0,NA,0,NA,NA,NA,0
+1144510,2nd innings,Afghanistan,India,9.5,Gulbadin Naib,Rahmat Shah,HH Pandya,0,5,5,wides,0,NA,NA,NA,0
+1144510,2nd innings,Afghanistan,India,9.6,Gulbadin Naib,Rahmat Shah,HH Pandya,0,0,0,NA,0,NA,NA,NA,0
+1144510,2nd innings,Afghanistan,India,9.7,Gulbadin Naib,Rahmat Shah,HH Pandya,2,0,2,NA,0,NA,NA,NA,0
+1144510,2nd innings,Afghanistan,India,10.1,Rahmat Shah,Gulbadin Naib,YS Chahal,0,0,0,NA,0,NA,NA,NA,0
+1144510,2nd innings,Afghanistan,India,10.2,Rahmat Shah,Gulbadin Naib,YS Chahal,0,0,0,NA,0,NA,NA,NA,0
+1144510,2nd innings,Afghanistan,India,10.3,Rahmat Shah,Gulbadin Naib,YS Chahal,4,0,4,NA,0,NA,NA,NA,0
+1144510,2nd innings,Afghanistan,India,10.4,Rahmat Shah,Gulbadin Naib,YS Chahal,1,0,1,NA,0,NA,NA,NA,0
+1144510,2nd innings,Afghanistan,India,10.5,Gulbadin Naib,Rahmat Shah,YS Chahal,0,0,0,NA,0,NA,NA,NA,0
+1144510,2nd innings,Afghanistan,India,10.6,Gulbadin Naib,Rahmat Shah,YS Chahal,0,0,0,NA,0,NA,NA,NA,0
+1144510,2nd innings,Afghanistan,India,11.1,Rahmat Shah,Gulbadin Naib,HH Pandya,1,0,1,NA,0,NA,NA,NA,0
+1144510,2nd innings,Afghanistan,India,11.2,Gulbadin Naib,Rahmat Shah,HH Pandya,2,0,2,NA,0,NA,NA,NA,0
+1144510,2nd innings,Afghanistan,India,11.3,Gulbadin Naib,Rahmat Shah,HH Pandya,4,0,4,NA,0,NA,NA,NA,0
+1144510,2nd innings,Afghanistan,India,11.4,Gulbadin Naib,Rahmat Shah,HH Pandya,4,0,4,NA,0,NA,NA,NA,0
+1144510,2nd innings,Afghanistan,India,11.5,Gulbadin Naib,Rahmat Shah,HH Pandya,0,0,0,NA,0,NA,NA,NA,0
+1144510,2nd innings,Afghanistan,India,11.6,Gulbadin Naib,Rahmat Shah,HH Pandya,1,0,1,NA,0,NA,NA,NA,0
+1144510,2nd innings,Afghanistan,India,12.1,Gulbadin Naib,Rahmat Shah,YS Chahal,1,0,1,NA,0,NA,NA,NA,0
+1144510,2nd innings,Afghanistan,India,12.2,Rahmat Shah,Gulbadin Naib,YS Chahal,0,0,0,NA,0,NA,NA,NA,0
+1144510,2nd innings,Afghanistan,India,12.3,Rahmat Shah,Gulbadin Naib,YS Chahal,0,0,0,NA,0,NA,NA,NA,0
+1144510,2nd innings,Afghanistan,India,12.4,Rahmat Shah,Gulbadin Naib,YS Chahal,0,0,0,NA,0,NA,NA,NA,0
+1144510,2nd innings,Afghanistan,India,12.5,Rahmat Shah,Gulbadin Naib,YS Chahal,0,0,0,NA,0,NA,NA,NA,0
+1144510,2nd innings,Afghanistan,India,12.6,Rahmat Shah,Gulbadin Naib,YS Chahal,0,0,0,NA,0,NA,NA,NA,0
+1144510,2nd innings,Afghanistan,India,13.1,Gulbadin Naib,Rahmat Shah,Kuldeep Yadav,0,0,0,NA,0,NA,NA,NA,0
+1144510,2nd innings,Afghanistan,India,13.2,Gulbadin Naib,Rahmat Shah,Kuldeep Yadav,1,0,1,NA,0,NA,NA,NA,0
+1144510,2nd innings,Afghanistan,India,13.3,Rahmat Shah,Gulbadin Naib,Kuldeep Yadav,0,0,0,NA,0,NA,NA,NA,0
+1144510,2nd innings,Afghanistan,India,13.4,Rahmat Shah,Gulbadin Naib,Kuldeep Yadav,0,0,0,NA,0,NA,NA,NA,0
+1144510,2nd innings,Afghanistan,India,13.5,Rahmat Shah,Gulbadin Naib,Kuldeep Yadav,0,0,0,NA,0,NA,NA,NA,0
+1144510,2nd innings,Afghanistan,India,13.6,Rahmat Shah,Gulbadin Naib,Kuldeep Yadav,0,0,0,NA,0,NA,NA,NA,0
+1144510,2nd innings,Afghanistan,India,14.1,Gulbadin Naib,Rahmat Shah,YS Chahal,0,0,0,NA,0,NA,NA,NA,0
+1144510,2nd innings,Afghanistan,India,14.2,Gulbadin Naib,Rahmat Shah,YS Chahal,0,0,0,NA,0,NA,NA,NA,0
+1144510,2nd innings,Afghanistan,India,14.3,Gulbadin Naib,Rahmat Shah,YS Chahal,1,0,1,NA,0,NA,NA,NA,0
+1144510,2nd innings,Afghanistan,India,14.4,Rahmat Shah,Gulbadin Naib,YS Chahal,0,0,0,NA,0,NA,NA,NA,0
+1144510,2nd innings,Afghanistan,India,14.5,Rahmat Shah,Gulbadin Naib,YS Chahal,0,0,0,NA,0,NA,NA,NA,0
+1144510,2nd innings,Afghanistan,India,14.6,Rahmat Shah,Gulbadin Naib,YS Chahal,0,0,0,NA,0,NA,NA,NA,0
+1144510,2nd innings,Afghanistan,India,15.1,Gulbadin Naib,Rahmat Shah,Kuldeep Yadav,1,0,1,NA,0,NA,NA,NA,0
+1144510,2nd innings,Afghanistan,India,15.2,Rahmat Shah,Gulbadin Naib,Kuldeep Yadav,0,0,0,NA,0,NA,NA,NA,0
+1144510,2nd innings,Afghanistan,India,15.3,Rahmat Shah,Gulbadin Naib,Kuldeep Yadav,1,0,1,NA,0,NA,NA,NA,0
+1144510,2nd innings,Afghanistan,India,15.4,Gulbadin Naib,Rahmat Shah,Kuldeep Yadav,1,0,1,NA,0,NA,NA,NA,0
+1144510,2nd innings,Afghanistan,India,15.5,Rahmat Shah,Gulbadin Naib,Kuldeep Yadav,1,0,1,NA,0,NA,NA,NA,0
+1144510,2nd innings,Afghanistan,India,15.6,Gulbadin Naib,Rahmat Shah,Kuldeep Yadav,0,0,0,NA,0,NA,NA,NA,0
+1144510,2nd innings,Afghanistan,India,16.1,Rahmat Shah,Gulbadin Naib,HH Pandya,0,0,0,NA,0,NA,NA,NA,0
+1144510,2nd innings,Afghanistan,India,16.2,Rahmat Shah,Gulbadin Naib,HH Pandya,1,0,1,NA,0,NA,NA,NA,0
+1144510,2nd innings,Afghanistan,India,16.3,Gulbadin Naib,Rahmat Shah,HH Pandya,1,0,1,NA,0,NA,NA,NA,0
+1144510,2nd innings,Afghanistan,India,16.4,Rahmat Shah,Gulbadin Naib,HH Pandya,1,0,1,NA,0,NA,NA,NA,0
+1144510,2nd innings,Afghanistan,India,16.5,Gulbadin Naib,Rahmat Shah,HH Pandya,0,0,0,NA,1,caught,Gulbadin Naib,V Shankar,0
+1144510,2nd innings,Afghanistan,India,16.6,Rahmat Shah,Hashmatullah Shahidi,HH Pandya,2,0,2,NA,0,NA,NA,NA,0
+1144510,2nd innings,Afghanistan,India,17.1,Hashmatullah Shahidi,Rahmat Shah,Kuldeep Yadav,0,0,0,NA,0,NA,NA,NA,0
+1144510,2nd innings,Afghanistan,India,17.2,Hashmatullah Shahidi,Rahmat Shah,Kuldeep Yadav,0,0,0,NA,0,NA,NA,NA,0
+1144510,2nd innings,Afghanistan,India,17.3,Hashmatullah Shahidi,Rahmat Shah,Kuldeep Yadav,0,0,0,NA,0,NA,NA,NA,0
+1144510,2nd innings,Afghanistan,India,17.4,Hashmatullah Shahidi,Rahmat Shah,Kuldeep Yadav,0,0,0,NA,0,NA,NA,NA,0
+1144510,2nd innings,Afghanistan,India,17.5,Hashmatullah Shahidi,Rahmat Shah,Kuldeep Yadav,0,0,0,NA,0,NA,NA,NA,0
+1144510,2nd innings,Afghanistan,India,17.6,Hashmatullah Shahidi,Rahmat Shah,Kuldeep Yadav,1,0,1,NA,0,NA,NA,NA,0
+1144510,2nd innings,Afghanistan,India,18.1,Hashmatullah Shahidi,Rahmat Shah,HH Pandya,0,0,0,NA,0,NA,NA,NA,0
+1144510,2nd innings,Afghanistan,India,18.2,Hashmatullah Shahidi,Rahmat Shah,HH Pandya,0,0,0,NA,0,NA,NA,NA,0
+1144510,2nd innings,Afghanistan,India,18.3,Hashmatullah Shahidi,Rahmat Shah,HH Pandya,0,0,0,NA,0,NA,NA,NA,0
+1144510,2nd innings,Afghanistan,India,18.4,Hashmatullah Shahidi,Rahmat Shah,HH Pandya,0,0,0,NA,0,NA,NA,NA,0
+1144510,2nd innings,Afghanistan,India,18.5,Hashmatullah Shahidi,Rahmat Shah,HH Pandya,0,0,0,NA,0,NA,NA,NA,0
+1144510,2nd innings,Afghanistan,India,18.6,Hashmatullah Shahidi,Rahmat Shah,HH Pandya,0,0,0,NA,0,NA,NA,NA,0
+1144510,2nd innings,Afghanistan,India,19.1,Rahmat Shah,Hashmatullah Shahidi,Kuldeep Yadav,1,0,1,NA,0,NA,NA,NA,0
+1144510,2nd innings,Afghanistan,India,19.2,Hashmatullah Shahidi,Rahmat Shah,Kuldeep Yadav,1,0,1,NA,0,NA,NA,NA,0
+1144510,2nd innings,Afghanistan,India,19.3,Rahmat Shah,Hashmatullah Shahidi,Kuldeep Yadav,0,0,0,NA,0,NA,NA,NA,0
+1144510,2nd innings,Afghanistan,India,19.4,Rahmat Shah,Hashmatullah Shahidi,Kuldeep Yadav,1,0,1,NA,0,NA,NA,NA,0
+1144510,2nd innings,Afghanistan,India,19.5,Hashmatullah Shahidi,Rahmat Shah,Kuldeep Yadav,0,0,0,NA,0,NA,NA,NA,0
+1144510,2nd innings,Afghanistan,India,19.6,Hashmatullah Shahidi,Rahmat Shah,Kuldeep Yadav,1,0,1,NA,0,NA,NA,NA,0
+1144510,2nd innings,Afghanistan,India,20.1,Hashmatullah Shahidi,Rahmat Shah,HH Pandya,0,0,0,NA,0,NA,NA,NA,0
+1144510,2nd innings,Afghanistan,India,20.2,Hashmatullah Shahidi,Rahmat Shah,HH Pandya,0,0,0,NA,0,NA,NA,NA,0
+1144510,2nd innings,Afghanistan,India,20.3,Hashmatullah Shahidi,Rahmat Shah,HH Pandya,1,0,1,NA,0,NA,NA,NA,0
+1144510,2nd innings,Afghanistan,India,20.4,Rahmat Shah,Hashmatullah Shahidi,HH Pandya,0,0,0,NA,0,NA,NA,NA,0
+1144510,2nd innings,Afghanistan,India,20.5,Rahmat Shah,Hashmatullah Shahidi,HH Pandya,0,0,0,NA,0,NA,NA,NA,0
+1144510,2nd innings,Afghanistan,India,20.6,Rahmat Shah,Hashmatullah Shahidi,HH Pandya,4,0,4,NA,0,NA,NA,NA,0
+1144510,2nd innings,Afghanistan,India,21.1,Hashmatullah Shahidi,Rahmat Shah,Kuldeep Yadav,0,0,0,NA,0,NA,NA,NA,0
+1144510,2nd innings,Afghanistan,India,21.2,Hashmatullah Shahidi,Rahmat Shah,Kuldeep Yadav,4,0,4,NA,0,NA,NA,NA,0
+1144510,2nd innings,Afghanistan,India,21.3,Hashmatullah Shahidi,Rahmat Shah,Kuldeep Yadav,1,0,1,NA,0,NA,NA,NA,0
+1144510,2nd innings,Afghanistan,India,21.4,Rahmat Shah,Hashmatullah Shahidi,Kuldeep Yadav,1,0,1,NA,0,NA,NA,NA,0
+1144510,2nd innings,Afghanistan,India,21.5,Hashmatullah Shahidi,Rahmat Shah,Kuldeep Yadav,1,0,1,NA,0,NA,NA,NA,0
+1144510,2nd innings,Afghanistan,India,21.6,Rahmat Shah,Hashmatullah Shahidi,Kuldeep Yadav,0,0,0,NA,0,NA,NA,NA,0
+1144510,2nd innings,Afghanistan,India,22.1,Hashmatullah Shahidi,Rahmat Shah,YS Chahal,0,0,0,NA,0,NA,NA,NA,0
+1144510,2nd innings,Afghanistan,India,22.2,Hashmatullah Shahidi,Rahmat Shah,YS Chahal,0,0,0,NA,0,NA,NA,NA,0
+1144510,2nd innings,Afghanistan,India,22.3,Hashmatullah Shahidi,Rahmat Shah,YS Chahal,0,0,0,NA,0,NA,NA,NA,0
+1144510,2nd innings,Afghanistan,India,22.4,Hashmatullah Shahidi,Rahmat Shah,YS Chahal,1,0,1,NA,0,NA,NA,NA,0
+1144510,2nd innings,Afghanistan,India,22.5,Rahmat Shah,Hashmatullah Shahidi,YS Chahal,0,0,0,NA,0,NA,NA,NA,0
+1144510,2nd innings,Afghanistan,India,22.6,Rahmat Shah,Hashmatullah Shahidi,YS Chahal,0,0,0,NA,0,NA,NA,NA,0
+1144510,2nd innings,Afghanistan,India,23.1,Hashmatullah Shahidi,Rahmat Shah,Kuldeep Yadav,1,0,1,NA,0,NA,NA,NA,0
+1144510,2nd innings,Afghanistan,India,23.2,Rahmat Shah,Hashmatullah Shahidi,Kuldeep Yadav,0,0,0,NA,0,NA,NA,NA,0
+1144510,2nd innings,Afghanistan,India,23.3,Rahmat Shah,Hashmatullah Shahidi,Kuldeep Yadav,0,0,0,NA,0,NA,NA,NA,0
+1144510,2nd innings,Afghanistan,India,23.4,Rahmat Shah,Hashmatullah Shahidi,Kuldeep Yadav,1,0,1,NA,0,NA,NA,NA,0
+1144510,2nd innings,Afghanistan,India,23.5,Hashmatullah Shahidi,Rahmat Shah,Kuldeep Yadav,0,0,0,NA,0,NA,NA,NA,0
+1144510,2nd innings,Afghanistan,India,23.6,Hashmatullah Shahidi,Rahmat Shah,Kuldeep Yadav,1,0,1,NA,0,NA,NA,NA,0
+1144510,2nd innings,Afghanistan,India,24.1,Hashmatullah Shahidi,Rahmat Shah,YS Chahal,0,0,0,NA,0,NA,NA,NA,0
+1144510,2nd innings,Afghanistan,India,24.2,Hashmatullah Shahidi,Rahmat Shah,YS Chahal,4,0,4,NA,0,NA,NA,NA,0
+1144510,2nd innings,Afghanistan,India,24.3,Hashmatullah Shahidi,Rahmat Shah,YS Chahal,0,0,0,NA,0,NA,NA,NA,0
+1144510,2nd innings,Afghanistan,India,24.4,Hashmatullah Shahidi,Rahmat Shah,YS Chahal,0,0,0,NA,0,NA,NA,NA,0
+1144510,2nd innings,Afghanistan,India,24.5,Hashmatullah Shahidi,Rahmat Shah,YS Chahal,0,0,0,NA,0,NA,NA,NA,0
+1144510,2nd innings,Afghanistan,India,24.6,Hashmatullah Shahidi,Rahmat Shah,YS Chahal,0,0,0,NA,0,NA,NA,NA,0
+1144510,2nd innings,Afghanistan,India,25.1,Rahmat Shah,Hashmatullah Shahidi,Kuldeep Yadav,1,0,1,NA,0,NA,NA,NA,0
+1144510,2nd innings,Afghanistan,India,25.2,Hashmatullah Shahidi,Rahmat Shah,Kuldeep Yadav,1,0,1,NA,0,NA,NA,NA,0
+1144510,2nd innings,Afghanistan,India,25.3,Rahmat Shah,Hashmatullah Shahidi,Kuldeep Yadav,0,0,0,NA,0,NA,NA,NA,0
+1144510,2nd innings,Afghanistan,India,25.4,Rahmat Shah,Hashmatullah Shahidi,Kuldeep Yadav,4,0,4,NA,0,NA,NA,NA,0
+1144510,2nd innings,Afghanistan,India,25.5,Rahmat Shah,Hashmatullah Shahidi,Kuldeep Yadav,0,0,0,NA,0,NA,NA,NA,0
+1144510,2nd innings,Afghanistan,India,25.6,Rahmat Shah,Hashmatullah Shahidi,Kuldeep Yadav,1,0,1,NA,0,NA,NA,NA,0
+1144510,2nd innings,Afghanistan,India,26.1,Rahmat Shah,Hashmatullah Shahidi,JJ Bumrah,0,0,0,NA,0,NA,NA,NA,0
+1144510,2nd innings,Afghanistan,India,26.2,Rahmat Shah,Hashmatullah Shahidi,JJ Bumrah,1,0,1,NA,0,NA,NA,NA,0
+1144510,2nd innings,Afghanistan,India,26.3,Hashmatullah Shahidi,Rahmat Shah,JJ Bumrah,1,0,1,NA,0,NA,NA,NA,0
+1144510,2nd innings,Afghanistan,India,26.4,Rahmat Shah,Hashmatullah Shahidi,JJ Bumrah,0,0,0,NA,0,NA,NA,NA,0
+1144510,2nd innings,Afghanistan,India,26.5,Rahmat Shah,Hashmatullah Shahidi,JJ Bumrah,2,0,2,NA,0,NA,NA,NA,0
+1144510,2nd innings,Afghanistan,India,26.6,Rahmat Shah,Hashmatullah Shahidi,JJ Bumrah,2,0,2,NA,0,NA,NA,NA,0
+1144510,2nd innings,Afghanistan,India,27.1,Hashmatullah Shahidi,Rahmat Shah,Kuldeep Yadav,0,0,0,NA,0,NA,NA,NA,0
+1144510,2nd innings,Afghanistan,India,27.2,Hashmatullah Shahidi,Rahmat Shah,Kuldeep Yadav,2,0,2,NA,0,NA,NA,NA,0
+1144510,2nd innings,Afghanistan,India,27.3,Hashmatullah Shahidi,Rahmat Shah,Kuldeep Yadav,0,0,0,NA,0,NA,NA,NA,0
+1144510,2nd innings,Afghanistan,India,27.4,Hashmatullah Shahidi,Rahmat Shah,Kuldeep Yadav,0,0,0,NA,0,NA,NA,NA,0
+1144510,2nd innings,Afghanistan,India,27.5,Hashmatullah Shahidi,Rahmat Shah,Kuldeep Yadav,0,0,0,NA,0,NA,NA,NA,0
+1144510,2nd innings,Afghanistan,India,27.6,Hashmatullah Shahidi,Rahmat Shah,Kuldeep Yadav,0,0,0,NA,0,NA,NA,NA,0
+1144510,2nd innings,Afghanistan,India,28.1,Rahmat Shah,Hashmatullah Shahidi,JJ Bumrah,0,0,0,NA,0,NA,NA,NA,0
+1144510,2nd innings,Afghanistan,India,28.2,Rahmat Shah,Hashmatullah Shahidi,JJ Bumrah,0,0,0,NA,0,NA,NA,NA,0
+1144510,2nd innings,Afghanistan,India,28.3,Rahmat Shah,Hashmatullah Shahidi,JJ Bumrah,0,0,0,NA,0,NA,NA,NA,0
+1144510,2nd innings,Afghanistan,India,28.4,Rahmat Shah,Hashmatullah Shahidi,JJ Bumrah,0,0,0,NA,1,caught,Rahmat Shah,YS Chahal,0
+1144510,2nd innings,Afghanistan,India,28.5,Hashmatullah Shahidi,Asghar Stanikzai,JJ Bumrah,0,0,0,NA,0,NA,NA,NA,0
+1144510,2nd innings,Afghanistan,India,28.6,Hashmatullah Shahidi,Asghar Stanikzai,JJ Bumrah,0,0,0,NA,1,caught and bowled,Hashmatullah Shahidi,NA,0
+1144510,2nd innings,Afghanistan,India,29.1,Asghar Stanikzai,Mohammad Nabi,HH Pandya,1,0,1,NA,0,NA,NA,NA,0
+1144510,2nd innings,Afghanistan,India,29.2,Mohammad Nabi,Asghar Stanikzai,HH Pandya,0,0,0,NA,0,NA,NA,NA,0
+1144510,2nd innings,Afghanistan,India,29.3,Mohammad Nabi,Asghar Stanikzai,HH Pandya,0,0,0,NA,0,NA,NA,NA,0
+1144510,2nd innings,Afghanistan,India,29.4,Mohammad Nabi,Asghar Stanikzai,HH Pandya,0,0,0,NA,0,NA,NA,NA,0
+1144510,2nd innings,Afghanistan,India,29.5,Mohammad Nabi,Asghar Stanikzai,HH Pandya,0,0,0,NA,0,NA,NA,NA,0
+1144510,2nd innings,Afghanistan,India,29.6,Mohammad Nabi,Asghar Stanikzai,HH Pandya,0,0,0,NA,0,NA,NA,NA,0
+1144510,2nd innings,Afghanistan,India,30.1,Asghar Stanikzai,Mohammad Nabi,JJ Bumrah,2,0,2,NA,0,NA,NA,NA,0
+1144510,2nd innings,Afghanistan,India,30.2,Asghar Stanikzai,Mohammad Nabi,JJ Bumrah,0,0,0,NA,0,NA,NA,NA,0
+1144510,2nd innings,Afghanistan,India,30.3,Asghar Stanikzai,Mohammad Nabi,JJ Bumrah,0,0,0,NA,0,NA,NA,NA,0
+1144510,2nd innings,Afghanistan,India,30.4,Asghar Stanikzai,Mohammad Nabi,JJ Bumrah,0,0,0,NA,0,NA,NA,NA,0
+1144510,2nd innings,Afghanistan,India,30.5,Asghar Stanikzai,Mohammad Nabi,JJ Bumrah,0,0,0,NA,0,NA,NA,NA,0
+1144510,2nd innings,Afghanistan,India,30.6,Asghar Stanikzai,Mohammad Nabi,JJ Bumrah,1,0,1,NA,0,NA,NA,NA,0
+1144510,2nd innings,Afghanistan,India,31.1,Asghar Stanikzai,Mohammad Nabi,HH Pandya,0,1,1,wides,0,NA,NA,NA,0
+1144510,2nd innings,Afghanistan,India,31.2,Asghar Stanikzai,Mohammad Nabi,HH Pandya,0,0,0,NA,0,NA,NA,NA,0
+1144510,2nd innings,Afghanistan,India,31.3,Asghar Stanikzai,Mohammad Nabi,HH Pandya,0,0,0,NA,0,NA,NA,NA,0
+1144510,2nd innings,Afghanistan,India,31.4,Asghar Stanikzai,Mohammad Nabi,HH Pandya,1,0,1,NA,0,NA,NA,NA,0
+1144510,2nd innings,Afghanistan,India,31.5,Mohammad Nabi,Asghar Stanikzai,HH Pandya,2,0,2,NA,0,NA,NA,NA,0
+1144510,2nd innings,Afghanistan,India,31.6,Mohammad Nabi,Asghar Stanikzai,HH Pandya,2,0,2,NA,0,NA,NA,NA,0
+1144510,2nd innings,Afghanistan,India,31.7,Mohammad Nabi,Asghar Stanikzai,HH Pandya,0,0,0,NA,0,NA,NA,NA,0
+1144510,2nd innings,Afghanistan,India,32.1,Asghar Stanikzai,Mohammad Nabi,YS Chahal,0,0,0,NA,0,NA,NA,NA,0
+1144510,2nd innings,Afghanistan,India,32.2,Asghar Stanikzai,Mohammad Nabi,YS Chahal,0,0,0,NA,0,NA,NA,NA,0
+1144510,2nd innings,Afghanistan,India,32.3,Asghar Stanikzai,Mohammad Nabi,YS Chahal,1,0,1,NA,0,NA,NA,NA,0
+1144510,2nd innings,Afghanistan,India,32.4,Mohammad Nabi,Asghar Stanikzai,YS Chahal,0,0,0,NA,0,NA,NA,NA,0
+1144510,2nd innings,Afghanistan,India,32.5,Mohammad Nabi,Asghar Stanikzai,YS Chahal,0,0,0,NA,0,NA,NA,NA,0
+1144510,2nd innings,Afghanistan,India,32.6,Mohammad Nabi,Asghar Stanikzai,YS Chahal,4,0,4,NA,0,NA,NA,NA,0
+1144510,2nd innings,Afghanistan,India,33.1,Asghar Stanikzai,Mohammad Nabi,HH Pandya,1,0,1,NA,0,NA,NA,NA,0
+1144510,2nd innings,Afghanistan,India,33.2,Mohammad Nabi,Asghar Stanikzai,HH Pandya,1,0,1,NA,0,NA,NA,NA,0
+1144510,2nd innings,Afghanistan,India,33.3,Asghar Stanikzai,Mohammad Nabi,HH Pandya,0,0,0,NA,0,NA,NA,NA,0
+1144510,2nd innings,Afghanistan,India,33.4,Asghar Stanikzai,Mohammad Nabi,HH Pandya,0,0,0,NA,0,NA,NA,NA,0
+1144510,2nd innings,Afghanistan,India,33.5,Asghar Stanikzai,Mohammad Nabi,HH Pandya,1,0,1,NA,0,NA,NA,NA,0
+1144510,2nd innings,Afghanistan,India,33.6,Mohammad Nabi,Asghar Stanikzai,HH Pandya,1,0,1,NA,0,NA,NA,NA,0
+1144510,2nd innings,Afghanistan,India,34.1,Mohammad Nabi,Asghar Stanikzai,YS Chahal,4,0,4,NA,0,NA,NA,NA,0
+1144510,2nd innings,Afghanistan,India,34.2,Mohammad Nabi,Asghar Stanikzai,YS Chahal,0,0,0,NA,0,NA,NA,NA,0
+1144510,2nd innings,Afghanistan,India,34.3,Mohammad Nabi,Asghar Stanikzai,YS Chahal,0,0,0,NA,0,NA,NA,NA,0
+1144510,2nd innings,Afghanistan,India,34.4,Mohammad Nabi,Asghar Stanikzai,YS Chahal,1,0,1,NA,0,NA,NA,NA,0
+1144510,2nd innings,Afghanistan,India,34.5,Asghar Stanikzai,Mohammad Nabi,YS Chahal,0,0,0,NA,0,NA,NA,NA,0
+1144510,2nd innings,Afghanistan,India,34.6,Asghar Stanikzai,Mohammad Nabi,YS Chahal,0,0,0,NA,1,bowled,Asghar Stanikzai,NA,0
+1144510,2nd innings,Afghanistan,India,35.1,Mohammad Nabi,Najibullah Zadran,Kuldeep Yadav,2,0,2,NA,0,NA,NA,NA,0
+1144510,2nd innings,Afghanistan,India,35.2,Mohammad Nabi,Najibullah Zadran,Kuldeep Yadav,1,0,1,NA,0,NA,NA,NA,0
+1144510,2nd innings,Afghanistan,India,35.3,Najibullah Zadran,Mohammad Nabi,Kuldeep Yadav,2,0,2,NA,0,NA,NA,NA,0
+1144510,2nd innings,Afghanistan,India,35.4,Najibullah Zadran,Mohammad Nabi,Kuldeep Yadav,0,0,0,NA,0,NA,NA,NA,0
+1144510,2nd innings,Afghanistan,India,35.5,Najibullah Zadran,Mohammad Nabi,Kuldeep Yadav,1,0,1,NA,0,NA,NA,NA,0
+1144510,2nd innings,Afghanistan,India,35.6,Mohammad Nabi,Najibullah Zadran,Kuldeep Yadav,1,0,1,NA,0,NA,NA,NA,0
+1144510,2nd innings,Afghanistan,India,36.1,Mohammad Nabi,Najibullah Zadran,Mohammed Shami,0,0,0,NA,0,NA,NA,NA,0
+1144510,2nd innings,Afghanistan,India,36.2,Mohammad Nabi,Najibullah Zadran,Mohammed Shami,1,0,1,NA,0,NA,NA,NA,0
+1144510,2nd innings,Afghanistan,India,36.3,Najibullah Zadran,Mohammad Nabi,Mohammed Shami,0,0,0,NA,0,NA,NA,NA,0
+1144510,2nd innings,Afghanistan,India,36.4,Najibullah Zadran,Mohammad Nabi,Mohammed Shami,0,0,0,NA,0,NA,NA,NA,0
+1144510,2nd innings,Afghanistan,India,36.5,Najibullah Zadran,Mohammad Nabi,Mohammed Shami,2,0,2,NA,0,NA,NA,NA,0
+1144510,2nd innings,Afghanistan,India,36.6,Najibullah Zadran,Mohammad Nabi,Mohammed Shami,0,0,0,NA,0,NA,NA,NA,0
+1144510,2nd innings,Afghanistan,India,37.1,Mohammad Nabi,Najibullah Zadran,Kuldeep Yadav,0,0,0,NA,0,NA,NA,NA,0
+1144510,2nd innings,Afghanistan,India,37.2,Mohammad Nabi,Najibullah Zadran,Kuldeep Yadav,1,0,1,NA,0,NA,NA,NA,0
+1144510,2nd innings,Afghanistan,India,37.3,Najibullah Zadran,Mohammad Nabi,Kuldeep Yadav,0,0,0,NA,0,NA,NA,NA,0
+1144510,2nd innings,Afghanistan,India,37.4,Najibullah Zadran,Mohammad Nabi,Kuldeep Yadav,0,0,0,NA,0,NA,NA,NA,0
+1144510,2nd innings,Afghanistan,India,37.5,Najibullah Zadran,Mohammad Nabi,Kuldeep Yadav,1,0,1,NA,0,NA,NA,NA,0
+1144510,2nd innings,Afghanistan,India,37.6,Mohammad Nabi,Najibullah Zadran,Kuldeep Yadav,1,0,1,NA,0,NA,NA,NA,0
+1144510,2nd innings,Afghanistan,India,38.1,Mohammad Nabi,Najibullah Zadran,Mohammed Shami,0,0,0,NA,0,NA,NA,NA,0
+1144510,2nd innings,Afghanistan,India,38.2,Mohammad Nabi,Najibullah Zadran,Mohammed Shami,1,0,1,NA,0,NA,NA,NA,0
+1144510,2nd innings,Afghanistan,India,38.3,Najibullah Zadran,Mohammad Nabi,Mohammed Shami,0,0,0,NA,0,NA,NA,NA,0
+1144510,2nd innings,Afghanistan,India,38.4,Najibullah Zadran,Mohammad Nabi,Mohammed Shami,4,0,4,NA,0,NA,NA,NA,0
+1144510,2nd innings,Afghanistan,India,38.5,Najibullah Zadran,Mohammad Nabi,Mohammed Shami,0,1,1,wides,0,NA,NA,NA,0
+1144510,2nd innings,Afghanistan,India,38.6,Najibullah Zadran,Mohammad Nabi,Mohammed Shami,1,0,1,NA,0,NA,NA,NA,0
+1144510,2nd innings,Afghanistan,India,38.7,Mohammad Nabi,Najibullah Zadran,Mohammed Shami,1,0,1,NA,0,NA,NA,NA,0
+1144510,2nd innings,Afghanistan,India,39.1,Mohammad Nabi,Najibullah Zadran,HH Pandya,0,0,0,NA,0,NA,NA,NA,0
+1144510,2nd innings,Afghanistan,India,39.2,Mohammad Nabi,Najibullah Zadran,HH Pandya,1,0,1,NA,0,NA,NA,NA,0
+1144510,2nd innings,Afghanistan,India,39.3,Najibullah Zadran,Mohammad Nabi,HH Pandya,0,0,0,NA,0,NA,NA,NA,0
+1144510,2nd innings,Afghanistan,India,39.4,Najibullah Zadran,Mohammad Nabi,HH Pandya,2,0,2,NA,0,NA,NA,NA,0
+1144510,2nd innings,Afghanistan,India,39.5,Najibullah Zadran,Mohammad Nabi,HH Pandya,2,0,2,NA,0,NA,NA,NA,0
+1144510,2nd innings,Afghanistan,India,39.6,Najibullah Zadran,Mohammad Nabi,HH Pandya,1,0,1,NA,0,NA,NA,NA,0
+1144510,2nd innings,Afghanistan,India,40.1,Najibullah Zadran,Mohammad Nabi,Mohammed Shami,4,0,4,NA,0,NA,NA,NA,0
+1144510,2nd innings,Afghanistan,India,40.2,Najibullah Zadran,Mohammad Nabi,Mohammed Shami,0,1,1,wides,0,NA,NA,NA,0
+1144510,2nd innings,Afghanistan,India,40.3,Najibullah Zadran,Mohammad Nabi,Mohammed Shami,0,1,1,wides,0,NA,NA,NA,0
+1144510,2nd innings,Afghanistan,India,40.4,Najibullah Zadran,Mohammad Nabi,Mohammed Shami,0,0,0,NA,0,NA,NA,NA,0
+1144510,2nd innings,Afghanistan,India,40.5,Najibullah Zadran,Mohammad Nabi,Mohammed Shami,1,0,1,NA,0,NA,NA,NA,0
+1144510,2nd innings,Afghanistan,India,40.6,Mohammad Nabi,Najibullah Zadran,Mohammed Shami,1,0,1,NA,0,NA,NA,NA,0
+1144510,2nd innings,Afghanistan,India,40.7,Najibullah Zadran,Mohammad Nabi,Mohammed Shami,0,0,0,NA,0,NA,NA,NA,0
+1144510,2nd innings,Afghanistan,India,40.8,Najibullah Zadran,Mohammad Nabi,Mohammed Shami,0,0,0,NA,0,NA,NA,NA,0
+1144510,2nd innings,Afghanistan,India,41.1,Mohammad Nabi,Najibullah Zadran,HH Pandya,0,0,0,NA,0,NA,NA,NA,0
+1144510,2nd innings,Afghanistan,India,41.2,Mohammad Nabi,Najibullah Zadran,HH Pandya,1,0,1,NA,0,NA,NA,NA,0
+1144510,2nd innings,Afghanistan,India,41.3,Najibullah Zadran,Mohammad Nabi,HH Pandya,0,0,0,NA,1,caught,Najibullah Zadran,YS Chahal,0
+1144510,2nd innings,Afghanistan,India,41.4,Rashid Khan,Mohammad Nabi,HH Pandya,0,0,0,NA,0,NA,NA,NA,0
+1144510,2nd innings,Afghanistan,India,41.5,Rashid Khan,Mohammad Nabi,HH Pandya,1,0,1,NA,0,NA,NA,NA,0
+1144510,2nd innings,Afghanistan,India,41.6,Mohammad Nabi,Rashid Khan,HH Pandya,2,0,2,NA,0,NA,NA,NA,0
+1144510,2nd innings,Afghanistan,India,42.1,Rashid Khan,Mohammad Nabi,YS Chahal,0,0,0,NA,0,NA,NA,NA,0
+1144510,2nd innings,Afghanistan,India,42.2,Rashid Khan,Mohammad Nabi,YS Chahal,0,0,0,NA,0,NA,NA,NA,0
+1144510,2nd innings,Afghanistan,India,42.3,Rashid Khan,Mohammad Nabi,YS Chahal,2,0,2,NA,0,NA,NA,NA,0
+1144510,2nd innings,Afghanistan,India,42.4,Rashid Khan,Mohammad Nabi,YS Chahal,1,0,1,NA,0,NA,NA,NA,0
+1144510,2nd innings,Afghanistan,India,42.5,Mohammad Nabi,Rashid Khan,YS Chahal,0,0,0,NA,0,NA,NA,NA,0
+1144510,2nd innings,Afghanistan,India,42.6,Mohammad Nabi,Rashid Khan,YS Chahal,0,0,0,NA,0,NA,NA,NA,0
+1144510,2nd innings,Afghanistan,India,43.1,Rashid Khan,Mohammad Nabi,JJ Bumrah,0,0,0,NA,0,NA,NA,NA,0
+1144510,2nd innings,Afghanistan,India,43.2,Rashid Khan,Mohammad Nabi,JJ Bumrah,0,0,0,NA,0,NA,NA,NA,0
+1144510,2nd innings,Afghanistan,India,43.3,Rashid Khan,Mohammad Nabi,JJ Bumrah,1,0,1,NA,0,NA,NA,NA,0
+1144510,2nd innings,Afghanistan,India,43.4,Mohammad Nabi,Rashid Khan,JJ Bumrah,1,0,1,NA,0,NA,NA,NA,0
+1144510,2nd innings,Afghanistan,India,43.5,Rashid Khan,Mohammad Nabi,JJ Bumrah,2,0,2,NA,0,NA,NA,NA,0
+1144510,2nd innings,Afghanistan,India,43.6,Rashid Khan,Mohammad Nabi,JJ Bumrah,0,0,0,NA,0,NA,NA,NA,0
+1144510,2nd innings,Afghanistan,India,44.1,Mohammad Nabi,Rashid Khan,Mohammed Shami,4,0,4,NA,0,NA,NA,NA,0
+1144510,2nd innings,Afghanistan,India,44.2,Mohammad Nabi,Rashid Khan,Mohammed Shami,1,0,1,NA,0,NA,NA,NA,0
+1144510,2nd innings,Afghanistan,India,44.3,Rashid Khan,Mohammad Nabi,Mohammed Shami,1,0,1,NA,0,NA,NA,NA,0
+1144510,2nd innings,Afghanistan,India,44.4,Mohammad Nabi,Rashid Khan,Mohammed Shami,0,0,0,NA,0,NA,NA,NA,0
+1144510,2nd innings,Afghanistan,India,44.5,Mohammad Nabi,Rashid Khan,Mohammed Shami,0,1,1,legbyes,0,NA,NA,NA,0
+1144510,2nd innings,Afghanistan,India,44.6,Rashid Khan,Mohammad Nabi,Mohammed Shami,2,0,2,NA,0,NA,NA,NA,0
+1144510,2nd innings,Afghanistan,India,45.1,Mohammad Nabi,Rashid Khan,YS Chahal,1,0,1,NA,0,NA,NA,NA,0
+1144510,2nd innings,Afghanistan,India,45.2,Rashid Khan,Mohammad Nabi,YS Chahal,0,0,0,NA,0,NA,NA,NA,0
+1144510,2nd innings,Afghanistan,India,45.3,Rashid Khan,Mohammad Nabi,YS Chahal,4,0,4,NA,0,NA,NA,NA,0
+1144510,2nd innings,Afghanistan,India,45.4,Rashid Khan,Mohammad Nabi,YS Chahal,0,0,0,NA,1,stumped,Rashid Khan,MS Dhoni,0
+1144510,2nd innings,Afghanistan,India,45.5,Ikram Alikhil,Mohammad Nabi,YS Chahal,2,0,2,NA,0,NA,NA,NA,0
+1144510,2nd innings,Afghanistan,India,45.6,Ikram Alikhil,Mohammad Nabi,YS Chahal,1,0,1,NA,0,NA,NA,NA,0
+1144510,2nd innings,Afghanistan,India,46.1,Ikram Alikhil,Mohammad Nabi,JJ Bumrah,0,0,0,NA,0,NA,NA,NA,0
+1144510,2nd innings,Afghanistan,India,46.2,Ikram Alikhil,Mohammad Nabi,JJ Bumrah,1,0,1,NA,0,NA,NA,NA,0
+1144510,2nd innings,Afghanistan,India,46.3,Mohammad Nabi,Ikram Alikhil,JJ Bumrah,6,0,6,NA,0,NA,NA,NA,0
+1144510,2nd innings,Afghanistan,India,46.4,Mohammad Nabi,Ikram Alikhil,JJ Bumrah,0,0,0,NA,0,NA,NA,NA,0
+1144510,2nd innings,Afghanistan,India,46.5,Mohammad Nabi,Ikram Alikhil,JJ Bumrah,0,0,0,NA,0,NA,NA,NA,0
+1144510,2nd innings,Afghanistan,India,46.6,Mohammad Nabi,Ikram Alikhil,JJ Bumrah,1,0,1,NA,0,NA,NA,NA,0
+1144510,2nd innings,Afghanistan,India,47.1,Mohammad Nabi,Ikram Alikhil,Mohammed Shami,0,0,0,NA,0,NA,NA,NA,0
+1144510,2nd innings,Afghanistan,India,47.2,Mohammad Nabi,Ikram Alikhil,Mohammed Shami,1,0,1,NA,0,NA,NA,NA,0
+1144510,2nd innings,Afghanistan,India,47.3,Ikram Alikhil,Mohammad Nabi,Mohammed Shami,0,0,0,NA,0,NA,NA,NA,0
+1144510,2nd innings,Afghanistan,India,47.4,Ikram Alikhil,Mohammad Nabi,Mohammed Shami,0,0,0,NA,0,NA,NA,NA,0
+1144510,2nd innings,Afghanistan,India,47.5,Ikram Alikhil,Mohammad Nabi,Mohammed Shami,0,0,0,NA,0,NA,NA,NA,0
+1144510,2nd innings,Afghanistan,India,47.6,Ikram Alikhil,Mohammad Nabi,Mohammed Shami,2,0,2,NA,0,NA,NA,NA,0
+1144510,2nd innings,Afghanistan,India,48.1,Mohammad Nabi,Ikram Alikhil,JJ Bumrah,0,0,0,NA,0,NA,NA,NA,0
+1144510,2nd innings,Afghanistan,India,48.2,Mohammad Nabi,Ikram Alikhil,JJ Bumrah,2,0,2,NA,0,NA,NA,NA,0
+1144510,2nd innings,Afghanistan,India,48.3,Mohammad Nabi,Ikram Alikhil,JJ Bumrah,1,0,1,NA,0,NA,NA,NA,0
+1144510,2nd innings,Afghanistan,India,48.4,Ikram Alikhil,Mohammad Nabi,JJ Bumrah,0,0,0,NA,0,NA,NA,NA,0
+1144510,2nd innings,Afghanistan,India,48.5,Ikram Alikhil,Mohammad Nabi,JJ Bumrah,1,0,1,NA,0,NA,NA,NA,0
+1144510,2nd innings,Afghanistan,India,48.6,Mohammad Nabi,Ikram Alikhil,JJ Bumrah,1,0,1,NA,0,NA,NA,NA,0
+1144510,2nd innings,Afghanistan,India,49.1,Mohammad Nabi,Ikram Alikhil,Mohammed Shami,4,0,4,NA,0,NA,NA,NA,0
+1144510,2nd innings,Afghanistan,India,49.2,Mohammad Nabi,Ikram Alikhil,Mohammed Shami,0,0,0,NA,0,NA,NA,NA,0
+1144510,2nd innings,Afghanistan,India,49.3,Mohammad Nabi,Ikram Alikhil,Mohammed Shami,0,0,0,NA,1,caught,Mohammad Nabi,HH Pandya,0
+1144510,2nd innings,Afghanistan,India,49.4,Aftab Alam,Ikram Alikhil,Mohammed Shami,0,0,0,NA,1,bowled,Aftab Alam,NA,0
+1144510,2nd innings,Afghanistan,India,49.5,Mujeeb Ur Rahman,Ikram Alikhil,Mohammed Shami,0,0,0,NA,1,bowled,Mujeeb Ur Rahman,NA,0

@@ -1,0 +1,572 @@
+match_id,innings,team,opponent,ball,batsman,non_striker,bowler,scored_runs,extras,total,extra_type,wicket,wicket_type,player_out,fielders,winner
+749797,1st innings,New Zealand,Pakistan,0.1,MJ Guptill,BB McCullum,Mohammad Irfan,1,0,1,NA,0,NA,NA,NA,1
+749797,1st innings,New Zealand,Pakistan,0.2,BB McCullum,MJ Guptill,Mohammad Irfan,1,0,1,NA,0,NA,NA,NA,1
+749797,1st innings,New Zealand,Pakistan,0.3,MJ Guptill,BB McCullum,Mohammad Irfan,0,0,0,NA,0,NA,NA,NA,1
+749797,1st innings,New Zealand,Pakistan,0.4,MJ Guptill,BB McCullum,Mohammad Irfan,1,0,1,NA,0,NA,NA,NA,1
+749797,1st innings,New Zealand,Pakistan,0.5,BB McCullum,MJ Guptill,Mohammad Irfan,1,0,1,NA,0,NA,NA,NA,1
+749797,1st innings,New Zealand,Pakistan,0.6,MJ Guptill,BB McCullum,Mohammad Irfan,0,0,0,NA,0,NA,NA,NA,1
+749797,1st innings,New Zealand,Pakistan,1.1,BB McCullum,MJ Guptill,Bilawal Bhatti,0,1,1,wides,0,NA,NA,NA,1
+749797,1st innings,New Zealand,Pakistan,1.2,BB McCullum,MJ Guptill,Bilawal Bhatti,0,0,0,NA,0,NA,NA,NA,1
+749797,1st innings,New Zealand,Pakistan,1.3,BB McCullum,MJ Guptill,Bilawal Bhatti,0,0,0,NA,0,NA,NA,NA,1
+749797,1st innings,New Zealand,Pakistan,1.4,BB McCullum,MJ Guptill,Bilawal Bhatti,0,0,0,NA,0,NA,NA,NA,1
+749797,1st innings,New Zealand,Pakistan,1.5,BB McCullum,MJ Guptill,Bilawal Bhatti,0,0,0,NA,0,NA,NA,NA,1
+749797,1st innings,New Zealand,Pakistan,1.6,BB McCullum,MJ Guptill,Bilawal Bhatti,4,0,4,NA,0,NA,NA,NA,1
+749797,1st innings,New Zealand,Pakistan,1.7,BB McCullum,MJ Guptill,Bilawal Bhatti,4,0,4,NA,0,NA,NA,NA,1
+749797,1st innings,New Zealand,Pakistan,2.1,MJ Guptill,BB McCullum,Mohammad Irfan,0,0,0,NA,0,NA,NA,NA,1
+749797,1st innings,New Zealand,Pakistan,2.2,MJ Guptill,BB McCullum,Mohammad Irfan,0,0,0,NA,0,NA,NA,NA,1
+749797,1st innings,New Zealand,Pakistan,2.3,MJ Guptill,BB McCullum,Mohammad Irfan,1,0,1,NA,0,NA,NA,NA,1
+749797,1st innings,New Zealand,Pakistan,2.4,BB McCullum,MJ Guptill,Mohammad Irfan,0,0,0,NA,0,NA,NA,NA,1
+749797,1st innings,New Zealand,Pakistan,2.5,BB McCullum,MJ Guptill,Mohammad Irfan,1,0,1,NA,0,NA,NA,NA,1
+749797,1st innings,New Zealand,Pakistan,2.6,MJ Guptill,BB McCullum,Mohammad Irfan,0,0,0,NA,0,NA,NA,NA,1
+749797,1st innings,New Zealand,Pakistan,3.1,BB McCullum,MJ Guptill,Bilawal Bhatti,0,1,1,legbyes,0,NA,NA,NA,1
+749797,1st innings,New Zealand,Pakistan,3.2,MJ Guptill,BB McCullum,Bilawal Bhatti,1,0,1,NA,0,NA,NA,NA,1
+749797,1st innings,New Zealand,Pakistan,3.3,BB McCullum,MJ Guptill,Bilawal Bhatti,0,0,0,NA,0,NA,NA,NA,1
+749797,1st innings,New Zealand,Pakistan,3.4,BB McCullum,MJ Guptill,Bilawal Bhatti,4,0,4,NA,0,NA,NA,NA,1
+749797,1st innings,New Zealand,Pakistan,3.5,BB McCullum,MJ Guptill,Bilawal Bhatti,6,0,6,NA,0,NA,NA,NA,1
+749797,1st innings,New Zealand,Pakistan,3.6,BB McCullum,MJ Guptill,Bilawal Bhatti,0,0,0,NA,0,NA,NA,NA,1
+749797,1st innings,New Zealand,Pakistan,4.1,MJ Guptill,BB McCullum,Mohammad Irfan,0,0,0,NA,0,NA,NA,NA,1
+749797,1st innings,New Zealand,Pakistan,4.2,MJ Guptill,BB McCullum,Mohammad Irfan,0,0,0,NA,0,NA,NA,NA,1
+749797,1st innings,New Zealand,Pakistan,4.3,MJ Guptill,BB McCullum,Mohammad Irfan,0,0,0,NA,0,NA,NA,NA,1
+749797,1st innings,New Zealand,Pakistan,4.4,MJ Guptill,BB McCullum,Mohammad Irfan,1,0,1,NA,0,NA,NA,NA,1
+749797,1st innings,New Zealand,Pakistan,4.5,BB McCullum,MJ Guptill,Mohammad Irfan,2,0,2,NA,0,NA,NA,NA,1
+749797,1st innings,New Zealand,Pakistan,4.6,BB McCullum,MJ Guptill,Mohammad Irfan,0,0,0,NA,0,NA,NA,NA,1
+749797,1st innings,New Zealand,Pakistan,5.1,MJ Guptill,BB McCullum,Shahid Afridi,1,0,1,NA,0,NA,NA,NA,1
+749797,1st innings,New Zealand,Pakistan,5.2,BB McCullum,MJ Guptill,Shahid Afridi,0,0,0,NA,0,NA,NA,NA,1
+749797,1st innings,New Zealand,Pakistan,5.3,BB McCullum,MJ Guptill,Shahid Afridi,0,0,0,NA,0,NA,NA,NA,1
+749797,1st innings,New Zealand,Pakistan,5.4,BB McCullum,MJ Guptill,Shahid Afridi,0,0,0,NA,0,NA,NA,NA,1
+749797,1st innings,New Zealand,Pakistan,5.5,BB McCullum,MJ Guptill,Shahid Afridi,0,0,0,NA,0,NA,NA,NA,1
+749797,1st innings,New Zealand,Pakistan,5.6,BB McCullum,MJ Guptill,Shahid Afridi,0,0,0,NA,0,NA,NA,NA,1
+749797,1st innings,New Zealand,Pakistan,6.1,MJ Guptill,BB McCullum,Mohammad Irfan,0,0,0,NA,0,NA,NA,NA,1
+749797,1st innings,New Zealand,Pakistan,6.2,MJ Guptill,BB McCullum,Mohammad Irfan,4,0,4,NA,0,NA,NA,NA,1
+749797,1st innings,New Zealand,Pakistan,6.3,MJ Guptill,BB McCullum,Mohammad Irfan,0,0,0,NA,0,NA,NA,NA,1
+749797,1st innings,New Zealand,Pakistan,6.4,MJ Guptill,BB McCullum,Mohammad Irfan,0,0,0,NA,0,NA,NA,NA,1
+749797,1st innings,New Zealand,Pakistan,6.5,MJ Guptill,BB McCullum,Mohammad Irfan,0,0,0,NA,0,NA,NA,NA,1
+749797,1st innings,New Zealand,Pakistan,6.6,MJ Guptill,BB McCullum,Mohammad Irfan,0,0,0,NA,0,NA,NA,NA,1
+749797,1st innings,New Zealand,Pakistan,7.1,BB McCullum,MJ Guptill,Shahid Afridi,0,0,0,NA,0,NA,NA,NA,1
+749797,1st innings,New Zealand,Pakistan,7.2,BB McCullum,MJ Guptill,Shahid Afridi,4,0,4,NA,0,NA,NA,NA,1
+749797,1st innings,New Zealand,Pakistan,7.3,BB McCullum,MJ Guptill,Shahid Afridi,4,0,4,NA,0,NA,NA,NA,1
+749797,1st innings,New Zealand,Pakistan,7.4,BB McCullum,MJ Guptill,Shahid Afridi,0,0,0,NA,0,NA,NA,NA,1
+749797,1st innings,New Zealand,Pakistan,7.5,BB McCullum,MJ Guptill,Shahid Afridi,0,0,0,NA,1,bowled,BB McCullum,NA,1
+749797,1st innings,New Zealand,Pakistan,7.6,KS Williamson,MJ Guptill,Shahid Afridi,1,0,1,NA,0,NA,NA,NA,1
+749797,1st innings,New Zealand,Pakistan,8.1,KS Williamson,MJ Guptill,Mohammad Irfan,0,0,0,NA,0,NA,NA,NA,1
+749797,1st innings,New Zealand,Pakistan,8.2,KS Williamson,MJ Guptill,Mohammad Irfan,0,0,0,NA,0,NA,NA,NA,1
+749797,1st innings,New Zealand,Pakistan,8.3,KS Williamson,MJ Guptill,Mohammad Irfan,1,0,1,NA,0,NA,NA,NA,1
+749797,1st innings,New Zealand,Pakistan,8.4,MJ Guptill,KS Williamson,Mohammad Irfan,0,0,0,NA,0,NA,NA,NA,1
+749797,1st innings,New Zealand,Pakistan,8.5,MJ Guptill,KS Williamson,Mohammad Irfan,0,0,0,NA,0,NA,NA,NA,1
+749797,1st innings,New Zealand,Pakistan,8.6,MJ Guptill,KS Williamson,Mohammad Irfan,0,0,0,NA,0,NA,NA,NA,1
+749797,1st innings,New Zealand,Pakistan,9.1,KS Williamson,MJ Guptill,Shahid Afridi,0,0,0,NA,0,NA,NA,NA,1
+749797,1st innings,New Zealand,Pakistan,9.2,KS Williamson,MJ Guptill,Shahid Afridi,3,0,3,NA,0,NA,NA,NA,1
+749797,1st innings,New Zealand,Pakistan,9.3,MJ Guptill,KS Williamson,Shahid Afridi,0,0,0,NA,0,NA,NA,NA,1
+749797,1st innings,New Zealand,Pakistan,9.4,MJ Guptill,KS Williamson,Shahid Afridi,0,0,0,NA,0,NA,NA,NA,1
+749797,1st innings,New Zealand,Pakistan,9.5,MJ Guptill,KS Williamson,Shahid Afridi,0,0,0,NA,0,NA,NA,NA,1
+749797,1st innings,New Zealand,Pakistan,9.6,MJ Guptill,KS Williamson,Shahid Afridi,0,0,0,NA,0,NA,NA,NA,1
+749797,1st innings,New Zealand,Pakistan,10.1,KS Williamson,MJ Guptill,Bilawal Bhatti,1,0,1,NA,0,NA,NA,NA,1
+749797,1st innings,New Zealand,Pakistan,10.2,MJ Guptill,KS Williamson,Bilawal Bhatti,4,0,4,NA,0,NA,NA,NA,1
+749797,1st innings,New Zealand,Pakistan,10.3,MJ Guptill,KS Williamson,Bilawal Bhatti,0,1,1,wides,0,NA,NA,NA,1
+749797,1st innings,New Zealand,Pakistan,10.4,MJ Guptill,KS Williamson,Bilawal Bhatti,0,0,0,NA,0,NA,NA,NA,1
+749797,1st innings,New Zealand,Pakistan,10.5,MJ Guptill,KS Williamson,Bilawal Bhatti,0,0,0,NA,0,NA,NA,NA,1
+749797,1st innings,New Zealand,Pakistan,10.6,MJ Guptill,KS Williamson,Bilawal Bhatti,1,0,1,NA,0,NA,NA,NA,1
+749797,1st innings,New Zealand,Pakistan,10.7,KS Williamson,MJ Guptill,Bilawal Bhatti,0,0,0,NA,0,NA,NA,NA,1
+749797,1st innings,New Zealand,Pakistan,11.1,MJ Guptill,KS Williamson,Ehsan Adil,0,0,0,NA,0,NA,NA,NA,1
+749797,1st innings,New Zealand,Pakistan,11.2,MJ Guptill,KS Williamson,Ehsan Adil,1,0,1,NA,0,NA,NA,NA,1
+749797,1st innings,New Zealand,Pakistan,11.3,KS Williamson,MJ Guptill,Ehsan Adil,0,0,0,NA,0,NA,NA,NA,1
+749797,1st innings,New Zealand,Pakistan,11.4,KS Williamson,MJ Guptill,Ehsan Adil,2,0,2,NA,0,NA,NA,NA,1
+749797,1st innings,New Zealand,Pakistan,11.5,KS Williamson,MJ Guptill,Ehsan Adil,4,0,4,NA,0,NA,NA,NA,1
+749797,1st innings,New Zealand,Pakistan,11.6,KS Williamson,MJ Guptill,Ehsan Adil,1,0,1,NA,0,NA,NA,NA,1
+749797,1st innings,New Zealand,Pakistan,12.1,KS Williamson,MJ Guptill,Bilawal Bhatti,1,0,1,NA,0,NA,NA,NA,1
+749797,1st innings,New Zealand,Pakistan,12.2,MJ Guptill,KS Williamson,Bilawal Bhatti,0,0,0,NA,0,NA,NA,NA,1
+749797,1st innings,New Zealand,Pakistan,12.3,MJ Guptill,KS Williamson,Bilawal Bhatti,0,0,0,NA,0,NA,NA,NA,1
+749797,1st innings,New Zealand,Pakistan,12.4,MJ Guptill,KS Williamson,Bilawal Bhatti,0,0,0,NA,0,NA,NA,NA,1
+749797,1st innings,New Zealand,Pakistan,12.5,MJ Guptill,KS Williamson,Bilawal Bhatti,0,0,0,NA,0,NA,NA,NA,1
+749797,1st innings,New Zealand,Pakistan,12.6,MJ Guptill,KS Williamson,Bilawal Bhatti,1,0,1,NA,0,NA,NA,NA,1
+749797,1st innings,New Zealand,Pakistan,13.1,MJ Guptill,KS Williamson,Ehsan Adil,0,0,0,NA,0,NA,NA,NA,1
+749797,1st innings,New Zealand,Pakistan,13.2,MJ Guptill,KS Williamson,Ehsan Adil,1,0,1,NA,0,NA,NA,NA,1
+749797,1st innings,New Zealand,Pakistan,13.3,KS Williamson,MJ Guptill,Ehsan Adil,0,0,0,NA,0,NA,NA,NA,1
+749797,1st innings,New Zealand,Pakistan,13.4,KS Williamson,MJ Guptill,Ehsan Adil,0,0,0,NA,0,NA,NA,NA,1
+749797,1st innings,New Zealand,Pakistan,13.5,KS Williamson,MJ Guptill,Ehsan Adil,0,0,0,NA,0,NA,NA,NA,1
+749797,1st innings,New Zealand,Pakistan,13.6,KS Williamson,MJ Guptill,Ehsan Adil,4,0,4,NA,0,NA,NA,NA,1
+749797,1st innings,New Zealand,Pakistan,14.1,MJ Guptill,KS Williamson,Bilawal Bhatti,1,0,1,NA,0,NA,NA,NA,1
+749797,1st innings,New Zealand,Pakistan,14.2,KS Williamson,MJ Guptill,Bilawal Bhatti,0,0,0,NA,0,NA,NA,NA,1
+749797,1st innings,New Zealand,Pakistan,14.3,KS Williamson,MJ Guptill,Bilawal Bhatti,0,0,0,NA,0,NA,NA,NA,1
+749797,1st innings,New Zealand,Pakistan,14.4,KS Williamson,MJ Guptill,Bilawal Bhatti,1,0,1,NA,0,NA,NA,NA,1
+749797,1st innings,New Zealand,Pakistan,14.5,MJ Guptill,KS Williamson,Bilawal Bhatti,0,0,0,NA,0,NA,NA,NA,1
+749797,1st innings,New Zealand,Pakistan,14.6,MJ Guptill,KS Williamson,Bilawal Bhatti,0,0,0,NA,0,NA,NA,NA,1
+749797,1st innings,New Zealand,Pakistan,15.1,KS Williamson,MJ Guptill,Haris Sohail,2,0,2,NA,0,NA,NA,NA,1
+749797,1st innings,New Zealand,Pakistan,15.2,KS Williamson,MJ Guptill,Haris Sohail,1,0,1,NA,0,NA,NA,NA,1
+749797,1st innings,New Zealand,Pakistan,15.3,MJ Guptill,KS Williamson,Haris Sohail,4,0,4,NA,0,NA,NA,NA,1
+749797,1st innings,New Zealand,Pakistan,15.4,MJ Guptill,KS Williamson,Haris Sohail,1,0,1,NA,0,NA,NA,NA,1
+749797,1st innings,New Zealand,Pakistan,15.5,KS Williamson,MJ Guptill,Haris Sohail,1,0,1,NA,0,NA,NA,NA,1
+749797,1st innings,New Zealand,Pakistan,15.6,MJ Guptill,KS Williamson,Haris Sohail,4,0,4,NA,0,NA,NA,NA,1
+749797,1st innings,New Zealand,Pakistan,16.1,KS Williamson,MJ Guptill,Ehsan Adil,0,0,0,NA,0,NA,NA,NA,1
+749797,1st innings,New Zealand,Pakistan,16.2,KS Williamson,MJ Guptill,Ehsan Adil,0,0,0,NA,0,NA,NA,NA,1
+749797,1st innings,New Zealand,Pakistan,16.3,KS Williamson,MJ Guptill,Ehsan Adil,1,0,1,NA,0,NA,NA,NA,1
+749797,1st innings,New Zealand,Pakistan,16.4,MJ Guptill,KS Williamson,Ehsan Adil,0,0,0,NA,0,NA,NA,NA,1
+749797,1st innings,New Zealand,Pakistan,16.5,MJ Guptill,KS Williamson,Ehsan Adil,4,0,4,NA,0,NA,NA,NA,1
+749797,1st innings,New Zealand,Pakistan,16.6,MJ Guptill,KS Williamson,Ehsan Adil,1,0,1,NA,0,NA,NA,NA,1
+749797,1st innings,New Zealand,Pakistan,17.1,MJ Guptill,KS Williamson,Haris Sohail,1,0,1,NA,0,NA,NA,NA,1
+749797,1st innings,New Zealand,Pakistan,17.2,KS Williamson,MJ Guptill,Haris Sohail,0,0,0,NA,0,NA,NA,NA,1
+749797,1st innings,New Zealand,Pakistan,17.3,KS Williamson,MJ Guptill,Haris Sohail,1,0,1,NA,0,NA,NA,NA,1
+749797,1st innings,New Zealand,Pakistan,17.4,MJ Guptill,KS Williamson,Haris Sohail,1,0,1,NA,0,NA,NA,NA,1
+749797,1st innings,New Zealand,Pakistan,17.5,KS Williamson,MJ Guptill,Haris Sohail,4,0,4,NA,0,NA,NA,NA,1
+749797,1st innings,New Zealand,Pakistan,17.6,KS Williamson,MJ Guptill,Haris Sohail,0,0,0,NA,0,NA,NA,NA,1
+749797,1st innings,New Zealand,Pakistan,18.1,MJ Guptill,KS Williamson,Ehsan Adil,0,0,0,NA,0,NA,NA,NA,1
+749797,1st innings,New Zealand,Pakistan,18.2,MJ Guptill,KS Williamson,Ehsan Adil,0,0,0,NA,0,NA,NA,NA,1
+749797,1st innings,New Zealand,Pakistan,18.3,MJ Guptill,KS Williamson,Ehsan Adil,4,0,4,NA,0,NA,NA,NA,1
+749797,1st innings,New Zealand,Pakistan,18.4,MJ Guptill,KS Williamson,Ehsan Adil,0,0,0,NA,0,NA,NA,NA,1
+749797,1st innings,New Zealand,Pakistan,18.5,MJ Guptill,KS Williamson,Ehsan Adil,0,0,0,NA,0,NA,NA,NA,1
+749797,1st innings,New Zealand,Pakistan,18.6,MJ Guptill,KS Williamson,Ehsan Adil,0,0,0,NA,0,NA,NA,NA,1
+749797,1st innings,New Zealand,Pakistan,19.1,KS Williamson,MJ Guptill,Haris Sohail,1,0,1,NA,0,NA,NA,NA,1
+749797,1st innings,New Zealand,Pakistan,19.2,MJ Guptill,KS Williamson,Haris Sohail,1,0,1,NA,0,NA,NA,NA,1
+749797,1st innings,New Zealand,Pakistan,19.3,KS Williamson,MJ Guptill,Haris Sohail,3,0,3,NA,0,NA,NA,NA,1
+749797,1st innings,New Zealand,Pakistan,19.4,MJ Guptill,KS Williamson,Haris Sohail,0,0,0,NA,0,NA,NA,NA,1
+749797,1st innings,New Zealand,Pakistan,19.5,MJ Guptill,KS Williamson,Haris Sohail,2,0,2,NA,0,NA,NA,NA,1
+749797,1st innings,New Zealand,Pakistan,19.6,MJ Guptill,KS Williamson,Haris Sohail,1,0,1,NA,0,NA,NA,NA,1
+749797,1st innings,New Zealand,Pakistan,20.1,MJ Guptill,KS Williamson,Ehsan Adil,4,0,4,NA,0,NA,NA,NA,1
+749797,1st innings,New Zealand,Pakistan,20.2,MJ Guptill,KS Williamson,Ehsan Adil,1,0,1,NA,0,NA,NA,NA,1
+749797,1st innings,New Zealand,Pakistan,20.3,KS Williamson,MJ Guptill,Ehsan Adil,0,0,0,NA,0,NA,NA,NA,1
+749797,1st innings,New Zealand,Pakistan,20.4,KS Williamson,MJ Guptill,Ehsan Adil,4,0,4,NA,0,NA,NA,NA,1
+749797,1st innings,New Zealand,Pakistan,20.5,KS Williamson,MJ Guptill,Ehsan Adil,1,0,1,NA,0,NA,NA,NA,1
+749797,1st innings,New Zealand,Pakistan,20.6,MJ Guptill,KS Williamson,Ehsan Adil,1,0,1,NA,0,NA,NA,NA,1
+749797,1st innings,New Zealand,Pakistan,21.1,MJ Guptill,KS Williamson,Younis Khan,2,0,2,NA,0,NA,NA,NA,1
+749797,1st innings,New Zealand,Pakistan,21.2,MJ Guptill,KS Williamson,Younis Khan,0,0,0,NA,0,NA,NA,NA,1
+749797,1st innings,New Zealand,Pakistan,21.3,MJ Guptill,KS Williamson,Younis Khan,2,0,2,NA,0,NA,NA,NA,1
+749797,1st innings,New Zealand,Pakistan,21.4,MJ Guptill,KS Williamson,Younis Khan,0,0,0,NA,0,NA,NA,NA,1
+749797,1st innings,New Zealand,Pakistan,21.5,MJ Guptill,KS Williamson,Younis Khan,0,0,0,NA,0,NA,NA,NA,1
+749797,1st innings,New Zealand,Pakistan,21.6,MJ Guptill,KS Williamson,Younis Khan,1,0,1,NA,0,NA,NA,NA,1
+749797,1st innings,New Zealand,Pakistan,22.1,MJ Guptill,KS Williamson,Shahid Afridi,0,0,0,NA,0,NA,NA,NA,1
+749797,1st innings,New Zealand,Pakistan,22.2,MJ Guptill,KS Williamson,Shahid Afridi,0,0,0,NA,0,NA,NA,NA,1
+749797,1st innings,New Zealand,Pakistan,22.3,MJ Guptill,KS Williamson,Shahid Afridi,1,0,1,NA,0,NA,NA,NA,1
+749797,1st innings,New Zealand,Pakistan,22.4,KS Williamson,MJ Guptill,Shahid Afridi,0,0,0,NA,0,NA,NA,NA,1
+749797,1st innings,New Zealand,Pakistan,22.5,KS Williamson,MJ Guptill,Shahid Afridi,1,0,1,NA,0,NA,NA,NA,1
+749797,1st innings,New Zealand,Pakistan,22.6,MJ Guptill,KS Williamson,Shahid Afridi,4,0,4,NA,0,NA,NA,NA,1
+749797,1st innings,New Zealand,Pakistan,23.1,KS Williamson,MJ Guptill,Younis Khan,1,0,1,NA,0,NA,NA,NA,1
+749797,1st innings,New Zealand,Pakistan,23.2,MJ Guptill,KS Williamson,Younis Khan,1,0,1,NA,0,NA,NA,NA,1
+749797,1st innings,New Zealand,Pakistan,23.3,KS Williamson,MJ Guptill,Younis Khan,4,0,4,NA,0,NA,NA,NA,1
+749797,1st innings,New Zealand,Pakistan,23.4,KS Williamson,MJ Guptill,Younis Khan,2,0,2,NA,0,NA,NA,NA,1
+749797,1st innings,New Zealand,Pakistan,23.5,KS Williamson,MJ Guptill,Younis Khan,0,0,0,NA,0,NA,NA,NA,1
+749797,1st innings,New Zealand,Pakistan,23.6,KS Williamson,MJ Guptill,Younis Khan,4,0,4,NA,0,NA,NA,NA,1
+749797,1st innings,New Zealand,Pakistan,24.1,MJ Guptill,KS Williamson,Shahid Afridi,0,0,0,NA,0,NA,NA,NA,1
+749797,1st innings,New Zealand,Pakistan,24.2,MJ Guptill,KS Williamson,Shahid Afridi,1,0,1,NA,0,NA,NA,NA,1
+749797,1st innings,New Zealand,Pakistan,24.3,KS Williamson,MJ Guptill,Shahid Afridi,4,0,4,NA,0,NA,NA,NA,1
+749797,1st innings,New Zealand,Pakistan,24.4,KS Williamson,MJ Guptill,Shahid Afridi,2,0,2,NA,0,NA,NA,NA,1
+749797,1st innings,New Zealand,Pakistan,24.5,KS Williamson,MJ Guptill,Shahid Afridi,1,0,1,NA,0,NA,NA,NA,1
+749797,1st innings,New Zealand,Pakistan,24.6,MJ Guptill,KS Williamson,Shahid Afridi,0,0,0,NA,0,NA,NA,NA,1
+749797,1st innings,New Zealand,Pakistan,25.1,KS Williamson,MJ Guptill,Ahmed Shehzad,1,0,1,NA,0,NA,NA,NA,1
+749797,1st innings,New Zealand,Pakistan,25.2,MJ Guptill,KS Williamson,Ahmed Shehzad,6,0,6,NA,0,NA,NA,NA,1
+749797,1st innings,New Zealand,Pakistan,25.3,MJ Guptill,KS Williamson,Ahmed Shehzad,0,0,0,NA,0,NA,NA,NA,1
+749797,1st innings,New Zealand,Pakistan,25.4,MJ Guptill,KS Williamson,Ahmed Shehzad,2,0,2,NA,0,NA,NA,NA,1
+749797,1st innings,New Zealand,Pakistan,25.5,MJ Guptill,KS Williamson,Ahmed Shehzad,0,0,0,NA,0,NA,NA,NA,1
+749797,1st innings,New Zealand,Pakistan,25.6,MJ Guptill,KS Williamson,Ahmed Shehzad,3,0,3,NA,0,NA,NA,NA,1
+749797,1st innings,New Zealand,Pakistan,26.1,MJ Guptill,KS Williamson,Shahid Afridi,1,0,1,NA,0,NA,NA,NA,1
+749797,1st innings,New Zealand,Pakistan,26.2,KS Williamson,MJ Guptill,Shahid Afridi,0,0,0,NA,0,NA,NA,NA,1
+749797,1st innings,New Zealand,Pakistan,26.3,KS Williamson,MJ Guptill,Shahid Afridi,1,0,1,NA,0,NA,NA,NA,1
+749797,1st innings,New Zealand,Pakistan,26.4,MJ Guptill,KS Williamson,Shahid Afridi,0,0,0,NA,0,NA,NA,NA,1
+749797,1st innings,New Zealand,Pakistan,26.5,MJ Guptill,KS Williamson,Shahid Afridi,1,0,1,NA,0,NA,NA,NA,1
+749797,1st innings,New Zealand,Pakistan,26.6,KS Williamson,MJ Guptill,Shahid Afridi,2,0,2,NA,0,NA,NA,NA,1
+749797,1st innings,New Zealand,Pakistan,27.1,MJ Guptill,KS Williamson,Ahmed Shehzad,2,0,2,NA,0,NA,NA,NA,1
+749797,1st innings,New Zealand,Pakistan,27.2,MJ Guptill,KS Williamson,Ahmed Shehzad,0,0,0,NA,1,caught,MJ Guptill,Bilawal Bhatti,1
+749797,1st innings,New Zealand,Pakistan,27.3,LRPL Taylor,KS Williamson,Ahmed Shehzad,1,0,1,NA,0,NA,NA,NA,1
+749797,1st innings,New Zealand,Pakistan,27.4,KS Williamson,LRPL Taylor,Ahmed Shehzad,1,0,1,NA,0,NA,NA,NA,1
+749797,1st innings,New Zealand,Pakistan,27.5,LRPL Taylor,KS Williamson,Ahmed Shehzad,1,0,1,NA,0,NA,NA,NA,1
+749797,1st innings,New Zealand,Pakistan,27.6,KS Williamson,LRPL Taylor,Ahmed Shehzad,1,0,1,NA,0,NA,NA,NA,1
+749797,1st innings,New Zealand,Pakistan,28.1,KS Williamson,LRPL Taylor,Shahid Afridi,0,0,0,NA,0,NA,NA,NA,1
+749797,1st innings,New Zealand,Pakistan,28.2,KS Williamson,LRPL Taylor,Shahid Afridi,0,0,0,NA,0,NA,NA,NA,1
+749797,1st innings,New Zealand,Pakistan,28.3,KS Williamson,LRPL Taylor,Shahid Afridi,0,0,0,NA,0,NA,NA,NA,1
+749797,1st innings,New Zealand,Pakistan,28.4,KS Williamson,LRPL Taylor,Shahid Afridi,0,0,0,NA,0,NA,NA,NA,1
+749797,1st innings,New Zealand,Pakistan,28.5,KS Williamson,LRPL Taylor,Shahid Afridi,1,0,1,NA,0,NA,NA,NA,1
+749797,1st innings,New Zealand,Pakistan,28.6,LRPL Taylor,KS Williamson,Shahid Afridi,1,0,1,NA,0,NA,NA,NA,1
+749797,1st innings,New Zealand,Pakistan,29.1,LRPL Taylor,KS Williamson,Ahmed Shehzad,0,0,0,NA,0,NA,NA,NA,1
+749797,1st innings,New Zealand,Pakistan,29.2,LRPL Taylor,KS Williamson,Ahmed Shehzad,1,0,1,NA,0,NA,NA,NA,1
+749797,1st innings,New Zealand,Pakistan,29.3,KS Williamson,LRPL Taylor,Ahmed Shehzad,1,0,1,NA,0,NA,NA,NA,1
+749797,1st innings,New Zealand,Pakistan,29.4,LRPL Taylor,KS Williamson,Ahmed Shehzad,1,0,1,NA,0,NA,NA,NA,1
+749797,1st innings,New Zealand,Pakistan,29.5,KS Williamson,LRPL Taylor,Ahmed Shehzad,0,0,0,NA,0,NA,NA,NA,1
+749797,1st innings,New Zealand,Pakistan,29.6,KS Williamson,LRPL Taylor,Ahmed Shehzad,1,0,1,NA,0,NA,NA,NA,1
+749797,1st innings,New Zealand,Pakistan,30.1,KS Williamson,LRPL Taylor,Haris Sohail,0,0,0,NA,0,NA,NA,NA,1
+749797,1st innings,New Zealand,Pakistan,30.2,KS Williamson,LRPL Taylor,Haris Sohail,0,0,0,NA,0,NA,NA,NA,1
+749797,1st innings,New Zealand,Pakistan,30.3,KS Williamson,LRPL Taylor,Haris Sohail,0,0,0,NA,0,NA,NA,NA,1
+749797,1st innings,New Zealand,Pakistan,30.4,KS Williamson,LRPL Taylor,Haris Sohail,1,0,1,NA,0,NA,NA,NA,1
+749797,1st innings,New Zealand,Pakistan,30.5,LRPL Taylor,KS Williamson,Haris Sohail,0,0,0,NA,0,NA,NA,NA,1
+749797,1st innings,New Zealand,Pakistan,30.6,LRPL Taylor,KS Williamson,Haris Sohail,4,0,4,NA,0,NA,NA,NA,1
+749797,1st innings,New Zealand,Pakistan,31.1,KS Williamson,LRPL Taylor,Ahmed Shehzad,4,0,4,NA,0,NA,NA,NA,1
+749797,1st innings,New Zealand,Pakistan,31.2,KS Williamson,LRPL Taylor,Ahmed Shehzad,1,0,1,NA,0,NA,NA,NA,1
+749797,1st innings,New Zealand,Pakistan,31.3,LRPL Taylor,KS Williamson,Ahmed Shehzad,0,0,0,NA,0,NA,NA,NA,1
+749797,1st innings,New Zealand,Pakistan,31.4,LRPL Taylor,KS Williamson,Ahmed Shehzad,0,0,0,NA,0,NA,NA,NA,1
+749797,1st innings,New Zealand,Pakistan,31.5,LRPL Taylor,KS Williamson,Ahmed Shehzad,1,0,1,NA,0,NA,NA,NA,1
+749797,1st innings,New Zealand,Pakistan,31.6,KS Williamson,LRPL Taylor,Ahmed Shehzad,1,0,1,NA,0,NA,NA,NA,1
+749797,1st innings,New Zealand,Pakistan,32.1,KS Williamson,LRPL Taylor,Bilawal Bhatti,1,0,1,NA,0,NA,NA,NA,1
+749797,1st innings,New Zealand,Pakistan,32.2,LRPL Taylor,KS Williamson,Bilawal Bhatti,1,0,1,NA,0,NA,NA,NA,1
+749797,1st innings,New Zealand,Pakistan,32.3,KS Williamson,LRPL Taylor,Bilawal Bhatti,0,0,0,NA,0,NA,NA,NA,1
+749797,1st innings,New Zealand,Pakistan,32.4,KS Williamson,LRPL Taylor,Bilawal Bhatti,0,0,0,NA,0,NA,NA,NA,1
+749797,1st innings,New Zealand,Pakistan,32.5,KS Williamson,LRPL Taylor,Bilawal Bhatti,0,0,0,NA,0,NA,NA,NA,1
+749797,1st innings,New Zealand,Pakistan,32.6,KS Williamson,LRPL Taylor,Bilawal Bhatti,4,0,4,NA,0,NA,NA,NA,1
+749797,1st innings,New Zealand,Pakistan,33.1,LRPL Taylor,KS Williamson,Ehsan Adil,1,0,1,NA,0,NA,NA,NA,1
+749797,1st innings,New Zealand,Pakistan,33.2,KS Williamson,LRPL Taylor,Ehsan Adil,4,0,4,NA,0,NA,NA,NA,1
+749797,1st innings,New Zealand,Pakistan,33.3,KS Williamson,LRPL Taylor,Ehsan Adil,1,0,1,NA,0,NA,NA,NA,1
+749797,1st innings,New Zealand,Pakistan,33.4,LRPL Taylor,KS Williamson,Ehsan Adil,1,0,1,NA,0,NA,NA,NA,1
+749797,1st innings,New Zealand,Pakistan,33.5,KS Williamson,LRPL Taylor,Ehsan Adil,4,0,4,NA,0,NA,NA,NA,1
+749797,1st innings,New Zealand,Pakistan,33.6,KS Williamson,LRPL Taylor,Ehsan Adil,2,0,2,NA,0,NA,NA,NA,1
+749797,1st innings,New Zealand,Pakistan,34.1,LRPL Taylor,KS Williamson,Haris Sohail,0,0,0,NA,0,NA,NA,NA,1
+749797,1st innings,New Zealand,Pakistan,34.2,LRPL Taylor,KS Williamson,Haris Sohail,2,0,2,NA,0,NA,NA,NA,1
+749797,1st innings,New Zealand,Pakistan,34.3,LRPL Taylor,KS Williamson,Haris Sohail,1,0,1,NA,0,NA,NA,NA,1
+749797,1st innings,New Zealand,Pakistan,34.4,KS Williamson,LRPL Taylor,Haris Sohail,2,0,2,NA,0,NA,NA,NA,1
+749797,1st innings,New Zealand,Pakistan,34.5,KS Williamson,LRPL Taylor,Haris Sohail,0,0,0,NA,0,NA,NA,NA,1
+749797,1st innings,New Zealand,Pakistan,34.6,KS Williamson,LRPL Taylor,Haris Sohail,4,0,4,NA,0,NA,NA,NA,1
+749797,1st innings,New Zealand,Pakistan,35.1,LRPL Taylor,KS Williamson,Shahid Afridi,1,0,1,NA,0,NA,NA,NA,1
+749797,1st innings,New Zealand,Pakistan,35.2,KS Williamson,LRPL Taylor,Shahid Afridi,4,0,4,NA,0,NA,NA,NA,1
+749797,1st innings,New Zealand,Pakistan,35.3,KS Williamson,LRPL Taylor,Shahid Afridi,1,0,1,NA,0,NA,NA,NA,1
+749797,1st innings,New Zealand,Pakistan,35.4,LRPL Taylor,KS Williamson,Shahid Afridi,2,0,2,NA,0,NA,NA,NA,1
+749797,1st innings,New Zealand,Pakistan,35.5,LRPL Taylor,KS Williamson,Shahid Afridi,0,0,0,NA,0,NA,NA,NA,1
+749797,1st innings,New Zealand,Pakistan,35.6,LRPL Taylor,KS Williamson,Shahid Afridi,0,0,0,NA,0,NA,NA,NA,1
+749797,1st innings,New Zealand,Pakistan,36.1,KS Williamson,LRPL Taylor,Mohammad Irfan,1,0,1,NA,0,NA,NA,NA,1
+749797,1st innings,New Zealand,Pakistan,36.2,LRPL Taylor,KS Williamson,Mohammad Irfan,0,0,0,NA,0,NA,NA,NA,1
+749797,1st innings,New Zealand,Pakistan,36.3,LRPL Taylor,KS Williamson,Mohammad Irfan,0,0,0,NA,0,NA,NA,NA,1
+749797,1st innings,New Zealand,Pakistan,36.4,LRPL Taylor,KS Williamson,Mohammad Irfan,0,0,0,NA,0,NA,NA,NA,1
+749797,1st innings,New Zealand,Pakistan,36.5,LRPL Taylor,KS Williamson,Mohammad Irfan,1,0,1,NA,0,NA,NA,NA,1
+749797,1st innings,New Zealand,Pakistan,36.6,KS Williamson,LRPL Taylor,Mohammad Irfan,0,0,0,NA,0,NA,NA,NA,1
+749797,1st innings,New Zealand,Pakistan,37.1,LRPL Taylor,KS Williamson,Shahid Afridi,1,0,1,NA,0,NA,NA,NA,1
+749797,1st innings,New Zealand,Pakistan,37.2,KS Williamson,LRPL Taylor,Shahid Afridi,4,0,4,NA,0,NA,NA,NA,1
+749797,1st innings,New Zealand,Pakistan,37.3,KS Williamson,LRPL Taylor,Shahid Afridi,1,0,1,NA,0,NA,NA,NA,1
+749797,1st innings,New Zealand,Pakistan,37.4,LRPL Taylor,KS Williamson,Shahid Afridi,0,0,0,NA,0,NA,NA,NA,1
+749797,1st innings,New Zealand,Pakistan,37.5,LRPL Taylor,KS Williamson,Shahid Afridi,4,0,4,NA,0,NA,NA,NA,1
+749797,1st innings,New Zealand,Pakistan,37.6,LRPL Taylor,KS Williamson,Shahid Afridi,0,1,1,wides,0,NA,NA,NA,1
+749797,1st innings,New Zealand,Pakistan,37.7,LRPL Taylor,KS Williamson,Shahid Afridi,1,0,1,NA,0,NA,NA,NA,1
+749797,1st innings,New Zealand,Pakistan,38.1,LRPL Taylor,KS Williamson,Mohammad Irfan,0,0,0,NA,0,NA,NA,NA,1
+749797,1st innings,New Zealand,Pakistan,38.2,LRPL Taylor,KS Williamson,Mohammad Irfan,1,0,1,NA,0,NA,NA,NA,1
+749797,1st innings,New Zealand,Pakistan,38.3,KS Williamson,LRPL Taylor,Mohammad Irfan,0,0,0,NA,0,NA,NA,NA,1
+749797,1st innings,New Zealand,Pakistan,38.4,KS Williamson,LRPL Taylor,Mohammad Irfan,6,0,6,NA,0,NA,NA,NA,1
+749797,1st innings,New Zealand,Pakistan,38.5,KS Williamson,LRPL Taylor,Mohammad Irfan,0,0,0,NA,0,NA,NA,NA,1
+749797,1st innings,New Zealand,Pakistan,38.6,KS Williamson,LRPL Taylor,Mohammad Irfan,0,0,0,NA,1,caught,KS Williamson,Haris Sohail,1
+749797,1st innings,New Zealand,Pakistan,39.1,LRPL Taylor,GD Elliott,Shahid Afridi,1,0,1,NA,0,NA,NA,NA,1
+749797,1st innings,New Zealand,Pakistan,39.2,GD Elliott,LRPL Taylor,Shahid Afridi,0,0,0,NA,0,NA,NA,NA,1
+749797,1st innings,New Zealand,Pakistan,39.3,GD Elliott,LRPL Taylor,Shahid Afridi,1,0,1,NA,0,NA,NA,NA,1
+749797,1st innings,New Zealand,Pakistan,39.4,LRPL Taylor,GD Elliott,Shahid Afridi,0,0,0,NA,0,NA,NA,NA,1
+749797,1st innings,New Zealand,Pakistan,39.5,LRPL Taylor,GD Elliott,Shahid Afridi,1,0,1,NA,0,NA,NA,NA,1
+749797,1st innings,New Zealand,Pakistan,39.6,GD Elliott,LRPL Taylor,Shahid Afridi,0,0,0,NA,0,NA,NA,NA,1
+749797,1st innings,New Zealand,Pakistan,40.1,LRPL Taylor,GD Elliott,Bilawal Bhatti,0,0,0,NA,0,NA,NA,NA,1
+749797,1st innings,New Zealand,Pakistan,40.2,LRPL Taylor,GD Elliott,Bilawal Bhatti,1,0,1,NA,0,NA,NA,NA,1
+749797,1st innings,New Zealand,Pakistan,40.3,GD Elliott,LRPL Taylor,Bilawal Bhatti,1,0,1,NA,0,NA,NA,NA,1
+749797,1st innings,New Zealand,Pakistan,40.4,LRPL Taylor,GD Elliott,Bilawal Bhatti,1,0,1,NA,0,NA,NA,NA,1
+749797,1st innings,New Zealand,Pakistan,40.5,GD Elliott,LRPL Taylor,Bilawal Bhatti,1,0,1,NA,0,NA,NA,NA,1
+749797,1st innings,New Zealand,Pakistan,40.6,LRPL Taylor,GD Elliott,Bilawal Bhatti,1,0,1,NA,0,NA,NA,NA,1
+749797,1st innings,New Zealand,Pakistan,41.1,LRPL Taylor,GD Elliott,Haris Sohail,1,0,1,NA,0,NA,NA,NA,1
+749797,1st innings,New Zealand,Pakistan,41.2,GD Elliott,LRPL Taylor,Haris Sohail,0,0,0,NA,0,NA,NA,NA,1
+749797,1st innings,New Zealand,Pakistan,41.3,GD Elliott,LRPL Taylor,Haris Sohail,0,0,0,NA,0,NA,NA,NA,1
+749797,1st innings,New Zealand,Pakistan,41.4,GD Elliott,LRPL Taylor,Haris Sohail,1,0,1,NA,0,NA,NA,NA,1
+749797,1st innings,New Zealand,Pakistan,41.5,LRPL Taylor,GD Elliott,Haris Sohail,1,0,1,NA,0,NA,NA,NA,1
+749797,1st innings,New Zealand,Pakistan,41.6,GD Elliott,LRPL Taylor,Haris Sohail,2,0,2,NA,0,NA,NA,NA,1
+749797,1st innings,New Zealand,Pakistan,42.1,LRPL Taylor,GD Elliott,Bilawal Bhatti,2,0,2,NA,0,NA,NA,NA,1
+749797,1st innings,New Zealand,Pakistan,42.2,LRPL Taylor,GD Elliott,Bilawal Bhatti,1,0,1,NA,0,NA,NA,NA,1
+749797,1st innings,New Zealand,Pakistan,42.3,GD Elliott,LRPL Taylor,Bilawal Bhatti,6,0,6,NA,0,NA,NA,NA,1
+749797,1st innings,New Zealand,Pakistan,42.4,GD Elliott,LRPL Taylor,Bilawal Bhatti,1,0,1,NA,0,NA,NA,NA,1
+749797,1st innings,New Zealand,Pakistan,42.5,LRPL Taylor,GD Elliott,Bilawal Bhatti,6,0,6,NA,0,NA,NA,NA,1
+749797,1st innings,New Zealand,Pakistan,42.6,LRPL Taylor,GD Elliott,Bilawal Bhatti,0,0,0,NA,0,NA,NA,NA,1
+749797,1st innings,New Zealand,Pakistan,43.1,GD Elliott,LRPL Taylor,Mohammad Irfan,1,0,1,NA,0,NA,NA,NA,1
+749797,1st innings,New Zealand,Pakistan,43.2,LRPL Taylor,GD Elliott,Mohammad Irfan,0,0,0,NA,0,NA,NA,NA,1
+749797,1st innings,New Zealand,Pakistan,43.3,LRPL Taylor,GD Elliott,Mohammad Irfan,4,0,4,NA,0,NA,NA,NA,1
+749797,1st innings,New Zealand,Pakistan,43.4,LRPL Taylor,GD Elliott,Mohammad Irfan,1,0,1,NA,0,NA,NA,NA,1
+749797,1st innings,New Zealand,Pakistan,43.5,GD Elliott,LRPL Taylor,Mohammad Irfan,1,0,1,NA,0,NA,NA,NA,1
+749797,1st innings,New Zealand,Pakistan,43.6,LRPL Taylor,GD Elliott,Mohammad Irfan,0,1,1,legbyes,0,NA,NA,NA,1
+749797,1st innings,New Zealand,Pakistan,44.1,LRPL Taylor,GD Elliott,Bilawal Bhatti,4,0,4,NA,0,NA,NA,NA,1
+749797,1st innings,New Zealand,Pakistan,44.2,LRPL Taylor,GD Elliott,Bilawal Bhatti,4,0,4,NA,0,NA,NA,NA,1
+749797,1st innings,New Zealand,Pakistan,44.3,LRPL Taylor,GD Elliott,Bilawal Bhatti,4,0,4,NA,0,NA,NA,NA,1
+749797,1st innings,New Zealand,Pakistan,44.4,LRPL Taylor,GD Elliott,Bilawal Bhatti,1,0,1,NA,0,NA,NA,NA,1
+749797,1st innings,New Zealand,Pakistan,44.5,GD Elliott,LRPL Taylor,Bilawal Bhatti,2,0,2,NA,0,NA,NA,NA,1
+749797,1st innings,New Zealand,Pakistan,44.6,GD Elliott,LRPL Taylor,Bilawal Bhatti,6,0,6,NA,0,NA,NA,NA,1
+749797,1st innings,New Zealand,Pakistan,45.1,LRPL Taylor,GD Elliott,Mohammad Irfan,1,0,1,NA,0,NA,NA,NA,1
+749797,1st innings,New Zealand,Pakistan,45.2,GD Elliott,LRPL Taylor,Mohammad Irfan,0,1,1,wides,0,NA,NA,NA,1
+749797,1st innings,New Zealand,Pakistan,45.3,GD Elliott,LRPL Taylor,Mohammad Irfan,0,0,0,NA,0,NA,NA,NA,1
+749797,1st innings,New Zealand,Pakistan,45.4,GD Elliott,LRPL Taylor,Mohammad Irfan,2,0,2,NA,0,NA,NA,NA,1
+749797,1st innings,New Zealand,Pakistan,45.5,GD Elliott,LRPL Taylor,Mohammad Irfan,1,0,1,NA,0,NA,NA,NA,1
+749797,1st innings,New Zealand,Pakistan,45.6,LRPL Taylor,GD Elliott,Mohammad Irfan,1,0,1,NA,0,NA,NA,NA,1
+749797,1st innings,New Zealand,Pakistan,45.7,GD Elliott,LRPL Taylor,Mohammad Irfan,1,0,1,NA,0,NA,NA,NA,1
+749797,1st innings,New Zealand,Pakistan,46.1,GD Elliott,LRPL Taylor,Ehsan Adil,1,0,1,NA,0,NA,NA,NA,1
+749797,1st innings,New Zealand,Pakistan,46.2,LRPL Taylor,GD Elliott,Ehsan Adil,4,0,4,NA,0,NA,NA,NA,1
+749797,1st innings,New Zealand,Pakistan,46.3,LRPL Taylor,GD Elliott,Ehsan Adil,0,1,1,wides,0,NA,NA,NA,1
+749797,1st innings,New Zealand,Pakistan,46.4,LRPL Taylor,GD Elliott,Ehsan Adil,1,0,1,NA,0,NA,NA,NA,1
+749797,1st innings,New Zealand,Pakistan,46.5,GD Elliott,LRPL Taylor,Ehsan Adil,0,0,0,NA,1,caught,GD Elliott,Haris Sohail,1
+749797,1st innings,New Zealand,Pakistan,46.6,LRPL Taylor,L Ronchi,Ehsan Adil,4,0,4,NA,0,NA,NA,NA,1
+749797,1st innings,New Zealand,Pakistan,46.7,LRPL Taylor,L Ronchi,Ehsan Adil,1,0,1,NA,0,NA,NA,NA,1
+749797,1st innings,New Zealand,Pakistan,47.1,LRPL Taylor,L Ronchi,Mohammad Irfan,4,0,4,NA,0,NA,NA,NA,1
+749797,1st innings,New Zealand,Pakistan,47.2,LRPL Taylor,L Ronchi,Mohammad Irfan,4,0,4,NA,0,NA,NA,NA,1
+749797,1st innings,New Zealand,Pakistan,47.3,LRPL Taylor,L Ronchi,Mohammad Irfan,4,0,4,NA,0,NA,NA,NA,1
+749797,1st innings,New Zealand,Pakistan,47.4,LRPL Taylor,L Ronchi,Mohammad Irfan,1,0,1,NA,0,NA,NA,NA,1
+749797,1st innings,New Zealand,Pakistan,47.5,L Ronchi,LRPL Taylor,Mohammad Irfan,0,0,0,NA,1,caught,L Ronchi,Sarfraz Ahmed,1
+749797,1st innings,New Zealand,Pakistan,47.6,NL McCullum,LRPL Taylor,Mohammad Irfan,2,0,2,NA,0,NA,NA,NA,1
+749797,1st innings,New Zealand,Pakistan,48.1,LRPL Taylor,NL McCullum,Ehsan Adil,1,0,1,NA,0,NA,NA,NA,1
+749797,1st innings,New Zealand,Pakistan,48.2,NL McCullum,LRPL Taylor,Ehsan Adil,0,0,0,NA,0,NA,NA,NA,1
+749797,1st innings,New Zealand,Pakistan,48.3,NL McCullum,LRPL Taylor,Ehsan Adil,0,4,4,legbyes,0,NA,NA,NA,1
+749797,1st innings,New Zealand,Pakistan,48.4,NL McCullum,LRPL Taylor,Ehsan Adil,1,0,1,NA,0,NA,NA,NA,1
+749797,1st innings,New Zealand,Pakistan,48.5,LRPL Taylor,NL McCullum,Ehsan Adil,1,0,1,NA,0,NA,NA,NA,1
+749797,1st innings,New Zealand,Pakistan,48.6,NL McCullum,LRPL Taylor,Ehsan Adil,6,0,6,NA,0,NA,NA,NA,1
+749797,1st innings,New Zealand,Pakistan,49.1,LRPL Taylor,NL McCullum,Bilawal Bhatti,4,0,4,NA,0,NA,NA,NA,1
+749797,1st innings,New Zealand,Pakistan,49.2,LRPL Taylor,NL McCullum,Bilawal Bhatti,0,0,0,NA,0,NA,NA,NA,1
+749797,1st innings,New Zealand,Pakistan,49.3,LRPL Taylor,NL McCullum,Bilawal Bhatti,0,0,0,NA,0,NA,NA,NA,1
+749797,1st innings,New Zealand,Pakistan,49.4,LRPL Taylor,NL McCullum,Bilawal Bhatti,0,0,0,NA,0,NA,NA,NA,1
+749797,1st innings,New Zealand,Pakistan,49.5,LRPL Taylor,NL McCullum,Bilawal Bhatti,6,0,6,NA,0,NA,NA,NA,1
+749797,1st innings,New Zealand,Pakistan,49.6,LRPL Taylor,NL McCullum,Bilawal Bhatti,4,0,4,NA,0,NA,NA,NA,1
+749797,2nd innings,Pakistan,New Zealand,0.1,Mohammad Hafeez,Ahmed Shehzad,TG Southee,2,0,2,NA,0,NA,NA,NA,0
+749797,2nd innings,Pakistan,New Zealand,0.2,Mohammad Hafeez,Ahmed Shehzad,TG Southee,0,0,0,NA,0,NA,NA,NA,0
+749797,2nd innings,Pakistan,New Zealand,0.3,Mohammad Hafeez,Ahmed Shehzad,TG Southee,0,0,0,NA,0,NA,NA,NA,0
+749797,2nd innings,Pakistan,New Zealand,0.4,Mohammad Hafeez,Ahmed Shehzad,TG Southee,0,0,0,NA,0,NA,NA,NA,0
+749797,2nd innings,Pakistan,New Zealand,0.5,Mohammad Hafeez,Ahmed Shehzad,TG Southee,2,0,2,NA,0,NA,NA,NA,0
+749797,2nd innings,Pakistan,New Zealand,0.6,Mohammad Hafeez,Ahmed Shehzad,TG Southee,0,1,1,legbyes,0,NA,NA,NA,0
+749797,2nd innings,Pakistan,New Zealand,1.1,Mohammad Hafeez,Ahmed Shehzad,TA Boult,0,0,0,NA,0,NA,NA,NA,0
+749797,2nd innings,Pakistan,New Zealand,1.2,Mohammad Hafeez,Ahmed Shehzad,TA Boult,0,0,0,NA,0,NA,NA,NA,0
+749797,2nd innings,Pakistan,New Zealand,1.3,Mohammad Hafeez,Ahmed Shehzad,TA Boult,0,0,0,NA,0,NA,NA,NA,0
+749797,2nd innings,Pakistan,New Zealand,1.4,Mohammad Hafeez,Ahmed Shehzad,TA Boult,0,0,0,NA,0,NA,NA,NA,0
+749797,2nd innings,Pakistan,New Zealand,1.5,Mohammad Hafeez,Ahmed Shehzad,TA Boult,0,1,1,wides,0,NA,NA,NA,0
+749797,2nd innings,Pakistan,New Zealand,1.6,Mohammad Hafeez,Ahmed Shehzad,TA Boult,0,0,0,NA,0,NA,NA,NA,0
+749797,2nd innings,Pakistan,New Zealand,1.7,Mohammad Hafeez,Ahmed Shehzad,TA Boult,0,0,0,NA,0,NA,NA,NA,0
+749797,2nd innings,Pakistan,New Zealand,2.1,Ahmed Shehzad,Mohammad Hafeez,TG Southee,1,0,1,NA,0,NA,NA,NA,0
+749797,2nd innings,Pakistan,New Zealand,2.2,Mohammad Hafeez,Ahmed Shehzad,TG Southee,0,0,0,NA,0,NA,NA,NA,0
+749797,2nd innings,Pakistan,New Zealand,2.3,Mohammad Hafeez,Ahmed Shehzad,TG Southee,1,0,1,NA,0,NA,NA,NA,0
+749797,2nd innings,Pakistan,New Zealand,2.4,Ahmed Shehzad,Mohammad Hafeez,TG Southee,0,1,1,wides,0,NA,NA,NA,0
+749797,2nd innings,Pakistan,New Zealand,2.5,Ahmed Shehzad,Mohammad Hafeez,TG Southee,0,0,0,NA,0,NA,NA,NA,0
+749797,2nd innings,Pakistan,New Zealand,2.6,Ahmed Shehzad,Mohammad Hafeez,TG Southee,0,0,0,NA,0,NA,NA,NA,0
+749797,2nd innings,Pakistan,New Zealand,2.7,Ahmed Shehzad,Mohammad Hafeez,TG Southee,4,0,4,NA,0,NA,NA,NA,0
+749797,2nd innings,Pakistan,New Zealand,3.1,Mohammad Hafeez,Ahmed Shehzad,TA Boult,0,0,0,NA,0,NA,NA,NA,0
+749797,2nd innings,Pakistan,New Zealand,3.2,Mohammad Hafeez,Ahmed Shehzad,TA Boult,2,0,2,NA,0,NA,NA,NA,0
+749797,2nd innings,Pakistan,New Zealand,3.3,Mohammad Hafeez,Ahmed Shehzad,TA Boult,0,0,0,NA,0,NA,NA,NA,0
+749797,2nd innings,Pakistan,New Zealand,3.4,Mohammad Hafeez,Ahmed Shehzad,TA Boult,0,0,0,NA,0,NA,NA,NA,0
+749797,2nd innings,Pakistan,New Zealand,3.5,Mohammad Hafeez,Ahmed Shehzad,TA Boult,0,0,0,NA,0,NA,NA,NA,0
+749797,2nd innings,Pakistan,New Zealand,3.6,Mohammad Hafeez,Ahmed Shehzad,TA Boult,0,0,0,NA,0,NA,NA,NA,0
+749797,2nd innings,Pakistan,New Zealand,4.1,Ahmed Shehzad,Mohammad Hafeez,TG Southee,1,0,1,NA,0,NA,NA,NA,0
+749797,2nd innings,Pakistan,New Zealand,4.2,Mohammad Hafeez,Ahmed Shehzad,TG Southee,1,0,1,NA,0,NA,NA,NA,0
+749797,2nd innings,Pakistan,New Zealand,4.3,Ahmed Shehzad,Mohammad Hafeez,TG Southee,4,0,4,NA,0,NA,NA,NA,0
+749797,2nd innings,Pakistan,New Zealand,4.4,Ahmed Shehzad,Mohammad Hafeez,TG Southee,4,0,4,NA,0,NA,NA,NA,0
+749797,2nd innings,Pakistan,New Zealand,4.5,Ahmed Shehzad,Mohammad Hafeez,TG Southee,0,0,0,NA,0,NA,NA,NA,0
+749797,2nd innings,Pakistan,New Zealand,4.6,Ahmed Shehzad,Mohammad Hafeez,TG Southee,2,0,2,NA,0,NA,NA,NA,0
+749797,2nd innings,Pakistan,New Zealand,5.1,Mohammad Hafeez,Ahmed Shehzad,TA Boult,0,0,0,NA,0,NA,NA,NA,0
+749797,2nd innings,Pakistan,New Zealand,5.2,Mohammad Hafeez,Ahmed Shehzad,TA Boult,1,0,1,NA,0,NA,NA,NA,0
+749797,2nd innings,Pakistan,New Zealand,5.3,Ahmed Shehzad,Mohammad Hafeez,TA Boult,0,0,0,NA,0,NA,NA,NA,0
+749797,2nd innings,Pakistan,New Zealand,5.4,Ahmed Shehzad,Mohammad Hafeez,TA Boult,0,0,0,NA,0,NA,NA,NA,0
+749797,2nd innings,Pakistan,New Zealand,5.5,Ahmed Shehzad,Mohammad Hafeez,TA Boult,4,0,4,NA,0,NA,NA,NA,0
+749797,2nd innings,Pakistan,New Zealand,5.6,Ahmed Shehzad,Mohammad Hafeez,TA Boult,0,0,0,NA,0,NA,NA,NA,0
+749797,2nd innings,Pakistan,New Zealand,6.1,Mohammad Hafeez,Ahmed Shehzad,TG Southee,0,0,0,NA,0,NA,NA,NA,0
+749797,2nd innings,Pakistan,New Zealand,6.2,Mohammad Hafeez,Ahmed Shehzad,TG Southee,1,0,1,NA,0,NA,NA,NA,0
+749797,2nd innings,Pakistan,New Zealand,6.3,Ahmed Shehzad,Mohammad Hafeez,TG Southee,4,0,4,NA,0,NA,NA,NA,0
+749797,2nd innings,Pakistan,New Zealand,6.4,Ahmed Shehzad,Mohammad Hafeez,TG Southee,0,0,0,NA,0,NA,NA,NA,0
+749797,2nd innings,Pakistan,New Zealand,6.5,Ahmed Shehzad,Mohammad Hafeez,TG Southee,0,0,0,NA,0,NA,NA,NA,0
+749797,2nd innings,Pakistan,New Zealand,6.6,Ahmed Shehzad,Mohammad Hafeez,TG Southee,0,0,0,NA,0,NA,NA,NA,0
+749797,2nd innings,Pakistan,New Zealand,7.1,Mohammad Hafeez,Ahmed Shehzad,TA Boult,1,0,1,NA,0,NA,NA,NA,0
+749797,2nd innings,Pakistan,New Zealand,7.2,Ahmed Shehzad,Mohammad Hafeez,TA Boult,4,0,4,NA,0,NA,NA,NA,0
+749797,2nd innings,Pakistan,New Zealand,7.3,Ahmed Shehzad,Mohammad Hafeez,TA Boult,0,0,0,NA,0,NA,NA,NA,0
+749797,2nd innings,Pakistan,New Zealand,7.4,Ahmed Shehzad,Mohammad Hafeez,TA Boult,0,0,0,NA,0,NA,NA,NA,0
+749797,2nd innings,Pakistan,New Zealand,7.5,Ahmed Shehzad,Mohammad Hafeez,TA Boult,1,0,1,NA,0,NA,NA,NA,0
+749797,2nd innings,Pakistan,New Zealand,7.6,Mohammad Hafeez,Ahmed Shehzad,TA Boult,1,0,1,NA,0,NA,NA,NA,0
+749797,2nd innings,Pakistan,New Zealand,8.1,Mohammad Hafeez,Ahmed Shehzad,DL Vettori,0,0,0,NA,0,NA,NA,NA,0
+749797,2nd innings,Pakistan,New Zealand,8.2,Mohammad Hafeez,Ahmed Shehzad,DL Vettori,0,0,0,NA,0,NA,NA,NA,0
+749797,2nd innings,Pakistan,New Zealand,8.3,Mohammad Hafeez,Ahmed Shehzad,DL Vettori,1,0,1,NA,0,NA,NA,NA,0
+749797,2nd innings,Pakistan,New Zealand,8.4,Ahmed Shehzad,Mohammad Hafeez,DL Vettori,0,0,0,NA,0,NA,NA,NA,0
+749797,2nd innings,Pakistan,New Zealand,8.5,Ahmed Shehzad,Mohammad Hafeez,DL Vettori,0,0,0,NA,0,NA,NA,NA,0
+749797,2nd innings,Pakistan,New Zealand,8.6,Ahmed Shehzad,Mohammad Hafeez,DL Vettori,0,0,0,NA,0,NA,NA,NA,0
+749797,2nd innings,Pakistan,New Zealand,9.1,Mohammad Hafeez,Ahmed Shehzad,TA Boult,0,0,0,NA,0,NA,NA,NA,0
+749797,2nd innings,Pakistan,New Zealand,9.2,Mohammad Hafeez,Ahmed Shehzad,TA Boult,1,0,1,NA,0,NA,NA,NA,0
+749797,2nd innings,Pakistan,New Zealand,9.3,Ahmed Shehzad,Mohammad Hafeez,TA Boult,0,0,0,NA,0,NA,NA,NA,0
+749797,2nd innings,Pakistan,New Zealand,9.4,Ahmed Shehzad,Mohammad Hafeez,TA Boult,0,0,0,NA,0,NA,NA,NA,0
+749797,2nd innings,Pakistan,New Zealand,9.5,Ahmed Shehzad,Mohammad Hafeez,TA Boult,4,0,4,NA,0,NA,NA,NA,0
+749797,2nd innings,Pakistan,New Zealand,9.6,Ahmed Shehzad,Mohammad Hafeez,TA Boult,0,0,0,NA,0,NA,NA,NA,0
+749797,2nd innings,Pakistan,New Zealand,10.1,Mohammad Hafeez,Ahmed Shehzad,DL Vettori,0,0,0,NA,0,NA,NA,NA,0
+749797,2nd innings,Pakistan,New Zealand,10.2,Mohammad Hafeez,Ahmed Shehzad,DL Vettori,0,0,0,NA,0,NA,NA,NA,0
+749797,2nd innings,Pakistan,New Zealand,10.3,Mohammad Hafeez,Ahmed Shehzad,DL Vettori,0,0,0,NA,0,NA,NA,NA,0
+749797,2nd innings,Pakistan,New Zealand,10.4,Mohammad Hafeez,Ahmed Shehzad,DL Vettori,1,0,1,NA,0,NA,NA,NA,0
+749797,2nd innings,Pakistan,New Zealand,10.5,Ahmed Shehzad,Mohammad Hafeez,DL Vettori,0,0,0,NA,0,NA,NA,NA,0
+749797,2nd innings,Pakistan,New Zealand,10.6,Ahmed Shehzad,Mohammad Hafeez,DL Vettori,1,0,1,NA,0,NA,NA,NA,0
+749797,2nd innings,Pakistan,New Zealand,11.1,Ahmed Shehzad,Mohammad Hafeez,TA Boult,1,0,1,NA,0,NA,NA,NA,0
+749797,2nd innings,Pakistan,New Zealand,11.2,Mohammad Hafeez,Ahmed Shehzad,TA Boult,6,0,6,NA,0,NA,NA,NA,0
+749797,2nd innings,Pakistan,New Zealand,11.3,Mohammad Hafeez,Ahmed Shehzad,TA Boult,1,0,1,NA,0,NA,NA,NA,0
+749797,2nd innings,Pakistan,New Zealand,11.4,Ahmed Shehzad,Mohammad Hafeez,TA Boult,0,0,0,NA,0,NA,NA,NA,0
+749797,2nd innings,Pakistan,New Zealand,11.5,Ahmed Shehzad,Mohammad Hafeez,TA Boult,1,0,1,NA,0,NA,NA,NA,0
+749797,2nd innings,Pakistan,New Zealand,11.6,Mohammad Hafeez,Ahmed Shehzad,TA Boult,0,0,0,NA,0,NA,NA,NA,0
+749797,2nd innings,Pakistan,New Zealand,12.1,Ahmed Shehzad,Mohammad Hafeez,DL Vettori,0,0,0,NA,0,NA,NA,NA,0
+749797,2nd innings,Pakistan,New Zealand,12.2,Ahmed Shehzad,Mohammad Hafeez,DL Vettori,1,0,1,NA,0,NA,NA,NA,0
+749797,2nd innings,Pakistan,New Zealand,12.3,Mohammad Hafeez,Ahmed Shehzad,DL Vettori,1,0,1,NA,0,NA,NA,NA,0
+749797,2nd innings,Pakistan,New Zealand,12.4,Ahmed Shehzad,Mohammad Hafeez,DL Vettori,0,0,0,NA,0,NA,NA,NA,0
+749797,2nd innings,Pakistan,New Zealand,12.5,Ahmed Shehzad,Mohammad Hafeez,DL Vettori,1,0,1,NA,0,NA,NA,NA,0
+749797,2nd innings,Pakistan,New Zealand,12.6,Mohammad Hafeez,Ahmed Shehzad,DL Vettori,0,0,0,NA,0,NA,NA,NA,0
+749797,2nd innings,Pakistan,New Zealand,13.1,Ahmed Shehzad,Mohammad Hafeez,AF Milne,0,0,0,NA,0,NA,NA,NA,0
+749797,2nd innings,Pakistan,New Zealand,13.2,Ahmed Shehzad,Mohammad Hafeez,AF Milne,1,0,1,NA,0,NA,NA,NA,0
+749797,2nd innings,Pakistan,New Zealand,13.3,Mohammad Hafeez,Ahmed Shehzad,AF Milne,0,0,0,NA,0,NA,NA,NA,0
+749797,2nd innings,Pakistan,New Zealand,13.4,Mohammad Hafeez,Ahmed Shehzad,AF Milne,4,0,4,NA,0,NA,NA,NA,0
+749797,2nd innings,Pakistan,New Zealand,13.5,Mohammad Hafeez,Ahmed Shehzad,AF Milne,1,0,1,NA,0,NA,NA,NA,0
+749797,2nd innings,Pakistan,New Zealand,13.6,Ahmed Shehzad,Mohammad Hafeez,AF Milne,0,0,0,NA,0,NA,NA,NA,0
+749797,2nd innings,Pakistan,New Zealand,14.1,Mohammad Hafeez,Ahmed Shehzad,DL Vettori,4,0,4,NA,0,NA,NA,NA,0
+749797,2nd innings,Pakistan,New Zealand,14.2,Mohammad Hafeez,Ahmed Shehzad,DL Vettori,1,0,1,NA,0,NA,NA,NA,0
+749797,2nd innings,Pakistan,New Zealand,14.3,Ahmed Shehzad,Mohammad Hafeez,DL Vettori,0,0,0,NA,0,NA,NA,NA,0
+749797,2nd innings,Pakistan,New Zealand,14.4,Ahmed Shehzad,Mohammad Hafeez,DL Vettori,1,0,1,NA,0,NA,NA,NA,0
+749797,2nd innings,Pakistan,New Zealand,14.5,Mohammad Hafeez,Ahmed Shehzad,DL Vettori,0,0,0,NA,0,NA,NA,NA,0
+749797,2nd innings,Pakistan,New Zealand,14.6,Mohammad Hafeez,Ahmed Shehzad,DL Vettori,1,0,1,NA,0,NA,NA,NA,0
+749797,2nd innings,Pakistan,New Zealand,15.1,Mohammad Hafeez,Ahmed Shehzad,AF Milne,1,0,1,NA,0,NA,NA,NA,0
+749797,2nd innings,Pakistan,New Zealand,15.2,Ahmed Shehzad,Mohammad Hafeez,AF Milne,4,0,4,NA,0,NA,NA,NA,0
+749797,2nd innings,Pakistan,New Zealand,15.3,Ahmed Shehzad,Mohammad Hafeez,AF Milne,2,0,2,NA,0,NA,NA,NA,0
+749797,2nd innings,Pakistan,New Zealand,15.4,Ahmed Shehzad,Mohammad Hafeez,AF Milne,0,0,0,NA,0,NA,NA,NA,0
+749797,2nd innings,Pakistan,New Zealand,15.5,Ahmed Shehzad,Mohammad Hafeez,AF Milne,1,0,1,NA,0,NA,NA,NA,0
+749797,2nd innings,Pakistan,New Zealand,15.6,Mohammad Hafeez,Ahmed Shehzad,AF Milne,1,0,1,NA,0,NA,NA,NA,0
+749797,2nd innings,Pakistan,New Zealand,16.1,Mohammad Hafeez,Ahmed Shehzad,NL McCullum,1,0,1,NA,0,NA,NA,NA,0
+749797,2nd innings,Pakistan,New Zealand,16.2,Ahmed Shehzad,Mohammad Hafeez,NL McCullum,0,0,0,NA,0,NA,NA,NA,0
+749797,2nd innings,Pakistan,New Zealand,16.3,Ahmed Shehzad,Mohammad Hafeez,NL McCullum,0,0,0,NA,0,NA,NA,NA,0
+749797,2nd innings,Pakistan,New Zealand,16.4,Ahmed Shehzad,Mohammad Hafeez,NL McCullum,1,0,1,NA,0,NA,NA,NA,0
+749797,2nd innings,Pakistan,New Zealand,16.5,Mohammad Hafeez,Ahmed Shehzad,NL McCullum,6,0,6,NA,0,NA,NA,NA,0
+749797,2nd innings,Pakistan,New Zealand,16.6,Mohammad Hafeez,Ahmed Shehzad,NL McCullum,4,0,4,NA,0,NA,NA,NA,0
+749797,2nd innings,Pakistan,New Zealand,17.1,Ahmed Shehzad,Mohammad Hafeez,AF Milne,0,0,0,NA,0,NA,NA,NA,0
+749797,2nd innings,Pakistan,New Zealand,17.2,Ahmed Shehzad,Mohammad Hafeez,AF Milne,1,0,1,NA,0,NA,NA,NA,0
+749797,2nd innings,Pakistan,New Zealand,17.3,Mohammad Hafeez,Ahmed Shehzad,AF Milne,2,0,2,NA,0,NA,NA,NA,0
+749797,2nd innings,Pakistan,New Zealand,17.4,Mohammad Hafeez,Ahmed Shehzad,AF Milne,0,1,1,legbyes,0,NA,NA,NA,0
+749797,2nd innings,Pakistan,New Zealand,17.5,Ahmed Shehzad,Mohammad Hafeez,AF Milne,0,0,0,NA,0,NA,NA,NA,0
+749797,2nd innings,Pakistan,New Zealand,17.6,Ahmed Shehzad,Mohammad Hafeez,AF Milne,1,0,1,NA,0,NA,NA,NA,0
+749797,2nd innings,Pakistan,New Zealand,18.1,Ahmed Shehzad,Mohammad Hafeez,NL McCullum,1,0,1,NA,0,NA,NA,NA,0
+749797,2nd innings,Pakistan,New Zealand,18.2,Mohammad Hafeez,Ahmed Shehzad,NL McCullum,1,0,1,NA,0,NA,NA,NA,0
+749797,2nd innings,Pakistan,New Zealand,18.3,Ahmed Shehzad,Mohammad Hafeez,NL McCullum,0,0,0,NA,0,NA,NA,NA,0
+749797,2nd innings,Pakistan,New Zealand,18.4,Ahmed Shehzad,Mohammad Hafeez,NL McCullum,1,0,1,NA,0,NA,NA,NA,0
+749797,2nd innings,Pakistan,New Zealand,18.5,Mohammad Hafeez,Ahmed Shehzad,NL McCullum,0,0,0,NA,0,NA,NA,NA,0
+749797,2nd innings,Pakistan,New Zealand,18.6,Mohammad Hafeez,Ahmed Shehzad,NL McCullum,0,0,0,NA,0,NA,NA,NA,0
+749797,2nd innings,Pakistan,New Zealand,19.1,Ahmed Shehzad,Mohammad Hafeez,DL Vettori,0,0,0,NA,0,NA,NA,NA,0
+749797,2nd innings,Pakistan,New Zealand,19.2,Ahmed Shehzad,Mohammad Hafeez,DL Vettori,1,0,1,NA,0,NA,NA,NA,0
+749797,2nd innings,Pakistan,New Zealand,19.3,Mohammad Hafeez,Ahmed Shehzad,DL Vettori,1,0,1,NA,0,NA,NA,NA,0
+749797,2nd innings,Pakistan,New Zealand,19.4,Ahmed Shehzad,Mohammad Hafeez,DL Vettori,0,0,0,NA,0,NA,NA,NA,0
+749797,2nd innings,Pakistan,New Zealand,19.5,Ahmed Shehzad,Mohammad Hafeez,DL Vettori,1,0,1,NA,0,NA,NA,NA,0
+749797,2nd innings,Pakistan,New Zealand,19.6,Mohammad Hafeez,Ahmed Shehzad,DL Vettori,0,0,0,NA,0,NA,NA,NA,0
+749797,2nd innings,Pakistan,New Zealand,20.1,Ahmed Shehzad,Mohammad Hafeez,NL McCullum,1,0,1,NA,0,NA,NA,NA,0
+749797,2nd innings,Pakistan,New Zealand,20.2,Mohammad Hafeez,Ahmed Shehzad,NL McCullum,1,0,1,NA,0,NA,NA,NA,0
+749797,2nd innings,Pakistan,New Zealand,20.3,Ahmed Shehzad,Mohammad Hafeez,NL McCullum,0,0,0,NA,1,caught,Ahmed Shehzad,AF Milne,0
+749797,2nd innings,Pakistan,New Zealand,20.4,Mohammad Hafeez,Younis Khan,NL McCullum,0,0,0,NA,0,NA,NA,NA,0
+749797,2nd innings,Pakistan,New Zealand,20.5,Mohammad Hafeez,Younis Khan,NL McCullum,3,0,3,NA,0,NA,NA,NA,0
+749797,2nd innings,Pakistan,New Zealand,20.6,Younis Khan,Mohammad Hafeez,NL McCullum,1,0,1,NA,0,NA,NA,NA,0
+749797,2nd innings,Pakistan,New Zealand,21.1,Younis Khan,Mohammad Hafeez,DL Vettori,0,0,0,NA,0,NA,NA,NA,0
+749797,2nd innings,Pakistan,New Zealand,21.2,Younis Khan,Mohammad Hafeez,DL Vettori,0,0,0,NA,0,NA,NA,NA,0
+749797,2nd innings,Pakistan,New Zealand,21.3,Younis Khan,Mohammad Hafeez,DL Vettori,1,0,1,NA,0,NA,NA,NA,0
+749797,2nd innings,Pakistan,New Zealand,21.4,Mohammad Hafeez,Younis Khan,DL Vettori,1,0,1,NA,0,NA,NA,NA,0
+749797,2nd innings,Pakistan,New Zealand,21.5,Younis Khan,Mohammad Hafeez,DL Vettori,0,0,0,NA,0,NA,NA,NA,0
+749797,2nd innings,Pakistan,New Zealand,21.6,Younis Khan,Mohammad Hafeez,DL Vettori,2,0,2,NA,0,NA,NA,NA,0
+749797,2nd innings,Pakistan,New Zealand,22.1,Mohammad Hafeez,Younis Khan,NL McCullum,1,0,1,NA,0,NA,NA,NA,0
+749797,2nd innings,Pakistan,New Zealand,22.2,Younis Khan,Mohammad Hafeez,NL McCullum,4,0,4,NA,0,NA,NA,NA,0
+749797,2nd innings,Pakistan,New Zealand,22.3,Younis Khan,Mohammad Hafeez,NL McCullum,1,0,1,NA,0,NA,NA,NA,0
+749797,2nd innings,Pakistan,New Zealand,22.4,Mohammad Hafeez,Younis Khan,NL McCullum,1,0,1,NA,0,NA,NA,NA,0
+749797,2nd innings,Pakistan,New Zealand,22.5,Younis Khan,Mohammad Hafeez,NL McCullum,0,0,0,NA,0,NA,NA,NA,0
+749797,2nd innings,Pakistan,New Zealand,22.6,Younis Khan,Mohammad Hafeez,NL McCullum,1,0,1,NA,0,NA,NA,NA,0
+749797,2nd innings,Pakistan,New Zealand,23.1,Younis Khan,Mohammad Hafeez,TG Southee,0,0,0,NA,0,NA,NA,NA,0
+749797,2nd innings,Pakistan,New Zealand,23.2,Younis Khan,Mohammad Hafeez,TG Southee,1,0,1,NA,0,NA,NA,NA,0
+749797,2nd innings,Pakistan,New Zealand,23.3,Mohammad Hafeez,Younis Khan,TG Southee,0,0,0,NA,0,NA,NA,NA,0
+749797,2nd innings,Pakistan,New Zealand,23.4,Mohammad Hafeez,Younis Khan,TG Southee,0,0,0,NA,0,NA,NA,NA,0
+749797,2nd innings,Pakistan,New Zealand,23.5,Mohammad Hafeez,Younis Khan,TG Southee,1,0,1,NA,0,NA,NA,NA,0
+749797,2nd innings,Pakistan,New Zealand,23.6,Younis Khan,Mohammad Hafeez,TG Southee,0,0,0,NA,0,NA,NA,NA,0
+749797,2nd innings,Pakistan,New Zealand,24.1,Mohammad Hafeez,Younis Khan,NL McCullum,1,0,1,NA,0,NA,NA,NA,0
+749797,2nd innings,Pakistan,New Zealand,24.2,Younis Khan,Mohammad Hafeez,NL McCullum,0,0,0,NA,1,caught,Younis Khan,TG Southee,0
+749797,2nd innings,Pakistan,New Zealand,24.3,Misbah-ul-Haq,Mohammad Hafeez,NL McCullum,0,0,0,NA,0,NA,NA,NA,0
+749797,2nd innings,Pakistan,New Zealand,24.4,Misbah-ul-Haq,Mohammad Hafeez,NL McCullum,1,0,1,NA,0,NA,NA,NA,0
+749797,2nd innings,Pakistan,New Zealand,24.5,Mohammad Hafeez,Misbah-ul-Haq,NL McCullum,1,0,1,NA,0,NA,NA,NA,0
+749797,2nd innings,Pakistan,New Zealand,24.6,Misbah-ul-Haq,Mohammad Hafeez,NL McCullum,1,0,1,NA,0,NA,NA,NA,0
+749797,2nd innings,Pakistan,New Zealand,25.1,Misbah-ul-Haq,Mohammad Hafeez,TG Southee,1,0,1,NA,0,NA,NA,NA,0
+749797,2nd innings,Pakistan,New Zealand,25.2,Mohammad Hafeez,Misbah-ul-Haq,TG Southee,4,0,4,NA,0,NA,NA,NA,0
+749797,2nd innings,Pakistan,New Zealand,25.3,Mohammad Hafeez,Misbah-ul-Haq,TG Southee,1,0,1,NA,0,NA,NA,NA,0
+749797,2nd innings,Pakistan,New Zealand,25.4,Misbah-ul-Haq,Mohammad Hafeez,TG Southee,1,0,1,NA,0,NA,NA,NA,0
+749797,2nd innings,Pakistan,New Zealand,25.5,Mohammad Hafeez,Misbah-ul-Haq,TG Southee,0,0,0,NA,0,NA,NA,NA,0
+749797,2nd innings,Pakistan,New Zealand,25.6,Mohammad Hafeez,Misbah-ul-Haq,TG Southee,0,0,0,NA,0,NA,NA,NA,0
+749797,2nd innings,Pakistan,New Zealand,26.1,Misbah-ul-Haq,Mohammad Hafeez,DL Vettori,0,0,0,NA,0,NA,NA,NA,0
+749797,2nd innings,Pakistan,New Zealand,26.2,Misbah-ul-Haq,Mohammad Hafeez,DL Vettori,1,0,1,NA,0,NA,NA,NA,0
+749797,2nd innings,Pakistan,New Zealand,26.3,Mohammad Hafeez,Misbah-ul-Haq,DL Vettori,4,0,4,NA,0,NA,NA,NA,0
+749797,2nd innings,Pakistan,New Zealand,26.4,Mohammad Hafeez,Misbah-ul-Haq,DL Vettori,1,0,1,NA,0,NA,NA,NA,0
+749797,2nd innings,Pakistan,New Zealand,26.5,Misbah-ul-Haq,Mohammad Hafeez,DL Vettori,1,0,1,NA,0,NA,NA,NA,0
+749797,2nd innings,Pakistan,New Zealand,26.6,Mohammad Hafeez,Misbah-ul-Haq,DL Vettori,0,0,0,NA,0,NA,NA,NA,0
+749797,2nd innings,Pakistan,New Zealand,27.1,Misbah-ul-Haq,Mohammad Hafeez,TG Southee,4,0,4,NA,0,NA,NA,NA,0
+749797,2nd innings,Pakistan,New Zealand,27.2,Misbah-ul-Haq,Mohammad Hafeez,TG Southee,0,0,0,NA,0,NA,NA,NA,0
+749797,2nd innings,Pakistan,New Zealand,27.3,Misbah-ul-Haq,Mohammad Hafeez,TG Southee,1,0,1,NA,0,NA,NA,NA,0
+749797,2nd innings,Pakistan,New Zealand,27.4,Mohammad Hafeez,Misbah-ul-Haq,TG Southee,1,0,1,NA,0,NA,NA,NA,0
+749797,2nd innings,Pakistan,New Zealand,27.5,Misbah-ul-Haq,Mohammad Hafeez,TG Southee,1,0,1,NA,0,NA,NA,NA,0
+749797,2nd innings,Pakistan,New Zealand,27.6,Mohammad Hafeez,Misbah-ul-Haq,TG Southee,1,0,1,NA,0,NA,NA,NA,0
+749797,2nd innings,Pakistan,New Zealand,28.1,Mohammad Hafeez,Misbah-ul-Haq,DL Vettori,2,0,2,NA,0,NA,NA,NA,0
+749797,2nd innings,Pakistan,New Zealand,28.2,Mohammad Hafeez,Misbah-ul-Haq,DL Vettori,0,0,0,NA,0,NA,NA,NA,0
+749797,2nd innings,Pakistan,New Zealand,28.3,Mohammad Hafeez,Misbah-ul-Haq,DL Vettori,1,0,1,NA,0,NA,NA,NA,0
+749797,2nd innings,Pakistan,New Zealand,28.4,Misbah-ul-Haq,Mohammad Hafeez,DL Vettori,2,0,2,NA,0,NA,NA,NA,0
+749797,2nd innings,Pakistan,New Zealand,28.5,Misbah-ul-Haq,Mohammad Hafeez,DL Vettori,1,0,1,NA,0,NA,NA,NA,0
+749797,2nd innings,Pakistan,New Zealand,28.6,Mohammad Hafeez,Misbah-ul-Haq,DL Vettori,1,0,1,NA,0,NA,NA,NA,0
+749797,2nd innings,Pakistan,New Zealand,29.1,Mohammad Hafeez,Misbah-ul-Haq,AF Milne,1,0,1,NA,0,NA,NA,NA,0
+749797,2nd innings,Pakistan,New Zealand,29.2,Misbah-ul-Haq,Mohammad Hafeez,AF Milne,1,0,1,NA,0,NA,NA,NA,0
+749797,2nd innings,Pakistan,New Zealand,29.3,Mohammad Hafeez,Misbah-ul-Haq,AF Milne,1,0,1,NA,0,NA,NA,NA,0
+749797,2nd innings,Pakistan,New Zealand,29.4,Misbah-ul-Haq,Mohammad Hafeez,AF Milne,1,0,1,NA,0,NA,NA,NA,0
+749797,2nd innings,Pakistan,New Zealand,29.5,Mohammad Hafeez,Misbah-ul-Haq,AF Milne,1,0,1,NA,0,NA,NA,NA,0
+749797,2nd innings,Pakistan,New Zealand,29.6,Misbah-ul-Haq,Mohammad Hafeez,AF Milne,0,0,0,NA,0,NA,NA,NA,0
+749797,2nd innings,Pakistan,New Zealand,30.1,Mohammad Hafeez,Misbah-ul-Haq,GD Elliott,6,0,6,NA,0,NA,NA,NA,0
+749797,2nd innings,Pakistan,New Zealand,30.2,Mohammad Hafeez,Misbah-ul-Haq,GD Elliott,0,0,0,NA,1,caught,Mohammad Hafeez,AF Milne,0
+749797,2nd innings,Pakistan,New Zealand,30.3,Misbah-ul-Haq,Shahid Afridi,GD Elliott,1,0,1,NA,0,NA,NA,NA,0
+749797,2nd innings,Pakistan,New Zealand,30.4,Shahid Afridi,Misbah-ul-Haq,GD Elliott,2,0,2,NA,0,NA,NA,NA,0
+749797,2nd innings,Pakistan,New Zealand,30.5,Shahid Afridi,Misbah-ul-Haq,GD Elliott,4,0,4,NA,0,NA,NA,NA,0
+749797,2nd innings,Pakistan,New Zealand,30.6,Shahid Afridi,Misbah-ul-Haq,GD Elliott,2,0,2,NA,0,NA,NA,NA,0
+749797,2nd innings,Pakistan,New Zealand,31.1,Misbah-ul-Haq,Shahid Afridi,AF Milne,0,0,0,NA,0,NA,NA,NA,0
+749797,2nd innings,Pakistan,New Zealand,31.2,Misbah-ul-Haq,Shahid Afridi,AF Milne,0,0,0,NA,0,NA,NA,NA,0
+749797,2nd innings,Pakistan,New Zealand,31.3,Misbah-ul-Haq,Shahid Afridi,AF Milne,1,0,1,NA,0,NA,NA,NA,0
+749797,2nd innings,Pakistan,New Zealand,31.4,Shahid Afridi,Misbah-ul-Haq,AF Milne,0,1,1,wides,0,NA,NA,NA,0
+749797,2nd innings,Pakistan,New Zealand,31.5,Shahid Afridi,Misbah-ul-Haq,AF Milne,2,0,2,NA,0,NA,NA,NA,0
+749797,2nd innings,Pakistan,New Zealand,31.6,Shahid Afridi,Misbah-ul-Haq,AF Milne,1,0,1,NA,0,NA,NA,NA,0
+749797,2nd innings,Pakistan,New Zealand,31.7,Misbah-ul-Haq,Shahid Afridi,AF Milne,0,0,0,NA,0,NA,NA,NA,0
+749797,2nd innings,Pakistan,New Zealand,32.1,Shahid Afridi,Misbah-ul-Haq,DL Vettori,0,0,0,NA,0,NA,NA,NA,0
+749797,2nd innings,Pakistan,New Zealand,32.2,Shahid Afridi,Misbah-ul-Haq,DL Vettori,0,0,0,NA,0,NA,NA,NA,0
+749797,2nd innings,Pakistan,New Zealand,32.3,Shahid Afridi,Misbah-ul-Haq,DL Vettori,0,0,0,NA,0,NA,NA,NA,0
+749797,2nd innings,Pakistan,New Zealand,32.4,Shahid Afridi,Misbah-ul-Haq,DL Vettori,0,0,0,NA,1,caught,Shahid Afridi,GD Elliott,0
+749797,2nd innings,Pakistan,New Zealand,32.5,Misbah-ul-Haq,Umar Akmal,DL Vettori,0,0,0,NA,0,NA,NA,NA,0
+749797,2nd innings,Pakistan,New Zealand,32.6,Misbah-ul-Haq,Umar Akmal,DL Vettori,1,0,1,NA,0,NA,NA,NA,0
+749797,2nd innings,Pakistan,New Zealand,33.1,Misbah-ul-Haq,Umar Akmal,AF Milne,0,0,0,NA,0,NA,NA,NA,0
+749797,2nd innings,Pakistan,New Zealand,33.2,Misbah-ul-Haq,Umar Akmal,AF Milne,0,1,1,wides,0,NA,NA,NA,0
+749797,2nd innings,Pakistan,New Zealand,33.3,Misbah-ul-Haq,Umar Akmal,AF Milne,0,0,0,NA,0,NA,NA,NA,0
+749797,2nd innings,Pakistan,New Zealand,33.4,Misbah-ul-Haq,Umar Akmal,AF Milne,1,0,1,NA,0,NA,NA,NA,0
+749797,2nd innings,Pakistan,New Zealand,33.5,Umar Akmal,Misbah-ul-Haq,AF Milne,4,0,4,NA,0,NA,NA,NA,0
+749797,2nd innings,Pakistan,New Zealand,33.6,Umar Akmal,Misbah-ul-Haq,AF Milne,0,0,0,NA,1,bowled,Umar Akmal,NA,0
+749797,2nd innings,Pakistan,New Zealand,33.7,Haris Sohail,Misbah-ul-Haq,AF Milne,1,0,1,NA,0,NA,NA,NA,0
+749797,2nd innings,Pakistan,New Zealand,34.1,Haris Sohail,Misbah-ul-Haq,DL Vettori,0,0,0,NA,0,NA,NA,NA,0
+749797,2nd innings,Pakistan,New Zealand,34.2,Haris Sohail,Misbah-ul-Haq,DL Vettori,1,0,1,NA,0,NA,NA,NA,0
+749797,2nd innings,Pakistan,New Zealand,34.3,Misbah-ul-Haq,Haris Sohail,DL Vettori,0,0,0,NA,0,NA,NA,NA,0
+749797,2nd innings,Pakistan,New Zealand,34.4,Misbah-ul-Haq,Haris Sohail,DL Vettori,1,0,1,NA,0,NA,NA,NA,0
+749797,2nd innings,Pakistan,New Zealand,34.5,Haris Sohail,Misbah-ul-Haq,DL Vettori,4,0,4,NA,0,NA,NA,NA,0
+749797,2nd innings,Pakistan,New Zealand,34.6,Haris Sohail,Misbah-ul-Haq,DL Vettori,0,0,0,NA,0,NA,NA,NA,0
+749797,2nd innings,Pakistan,New Zealand,35.1,Misbah-ul-Haq,Haris Sohail,AF Milne,0,0,0,NA,0,NA,NA,NA,0
+749797,2nd innings,Pakistan,New Zealand,35.2,Misbah-ul-Haq,Haris Sohail,AF Milne,4,0,4,NA,0,NA,NA,NA,0
+749797,2nd innings,Pakistan,New Zealand,35.3,Misbah-ul-Haq,Haris Sohail,AF Milne,1,0,1,NA,0,NA,NA,NA,0
+749797,2nd innings,Pakistan,New Zealand,35.4,Haris Sohail,Misbah-ul-Haq,AF Milne,0,0,0,NA,1,caught,Haris Sohail,BB McCullum,0
+749797,2nd innings,Pakistan,New Zealand,35.5,Misbah-ul-Haq,Sarfraz Ahmed,AF Milne,1,0,1,NA,0,NA,NA,NA,0
+749797,2nd innings,Pakistan,New Zealand,35.6,Sarfraz Ahmed,Misbah-ul-Haq,AF Milne,1,0,1,NA,0,NA,NA,NA,0
+749797,2nd innings,Pakistan,New Zealand,36.1,Sarfraz Ahmed,Misbah-ul-Haq,GD Elliott,1,0,1,NA,0,NA,NA,NA,0
+749797,2nd innings,Pakistan,New Zealand,36.2,Misbah-ul-Haq,Sarfraz Ahmed,GD Elliott,1,0,1,NA,0,NA,NA,NA,0
+749797,2nd innings,Pakistan,New Zealand,36.3,Sarfraz Ahmed,Misbah-ul-Haq,GD Elliott,2,0,2,NA,0,NA,NA,NA,0
+749797,2nd innings,Pakistan,New Zealand,36.4,Sarfraz Ahmed,Misbah-ul-Haq,GD Elliott,1,0,1,NA,0,NA,NA,NA,0
+749797,2nd innings,Pakistan,New Zealand,36.5,Misbah-ul-Haq,Sarfraz Ahmed,GD Elliott,1,0,1,NA,0,NA,NA,NA,0
+749797,2nd innings,Pakistan,New Zealand,36.6,Sarfraz Ahmed,Misbah-ul-Haq,GD Elliott,1,0,1,NA,0,NA,NA,NA,0
+749797,2nd innings,Pakistan,New Zealand,37.1,Sarfraz Ahmed,Misbah-ul-Haq,AF Milne,1,0,1,NA,0,NA,NA,NA,0
+749797,2nd innings,Pakistan,New Zealand,37.2,Misbah-ul-Haq,Sarfraz Ahmed,AF Milne,2,1,3,noballs,0,NA,NA,NA,0
+749797,2nd innings,Pakistan,New Zealand,37.3,Misbah-ul-Haq,Sarfraz Ahmed,AF Milne,0,0,0,NA,0,NA,NA,NA,0
+749797,2nd innings,Pakistan,New Zealand,37.4,Misbah-ul-Haq,Sarfraz Ahmed,AF Milne,0,0,0,NA,0,NA,NA,NA,0
+749797,2nd innings,Pakistan,New Zealand,37.5,Misbah-ul-Haq,Sarfraz Ahmed,AF Milne,1,0,1,NA,0,NA,NA,NA,0
+749797,2nd innings,Pakistan,New Zealand,37.6,Sarfraz Ahmed,Misbah-ul-Haq,AF Milne,0,0,0,NA,0,NA,NA,NA,0
+749797,2nd innings,Pakistan,New Zealand,37.7,Sarfraz Ahmed,Misbah-ul-Haq,AF Milne,4,0,4,NA,0,NA,NA,NA,0
+749797,2nd innings,Pakistan,New Zealand,38.1,Misbah-ul-Haq,Sarfraz Ahmed,GD Elliott,1,0,1,NA,0,NA,NA,NA,0
+749797,2nd innings,Pakistan,New Zealand,38.2,Sarfraz Ahmed,Misbah-ul-Haq,GD Elliott,2,0,2,NA,0,NA,NA,NA,0
+749797,2nd innings,Pakistan,New Zealand,38.3,Sarfraz Ahmed,Misbah-ul-Haq,GD Elliott,0,0,0,NA,0,NA,NA,NA,0
+749797,2nd innings,Pakistan,New Zealand,38.4,Sarfraz Ahmed,Misbah-ul-Haq,GD Elliott,0,0,0,NA,0,NA,NA,NA,0
+749797,2nd innings,Pakistan,New Zealand,38.5,Sarfraz Ahmed,Misbah-ul-Haq,GD Elliott,0,0,0,NA,1,caught,Sarfraz Ahmed,BB McCullum,0
+749797,2nd innings,Pakistan,New Zealand,38.6,Bilawal Bhatti,Misbah-ul-Haq,GD Elliott,0,0,0,NA,0,NA,NA,NA,0
+749797,2nd innings,Pakistan,New Zealand,39.1,Misbah-ul-Haq,Bilawal Bhatti,TA Boult,0,0,0,NA,0,NA,NA,NA,0
+749797,2nd innings,Pakistan,New Zealand,39.2,Misbah-ul-Haq,Bilawal Bhatti,TA Boult,0,0,0,NA,0,NA,NA,NA,0
+749797,2nd innings,Pakistan,New Zealand,39.3,Misbah-ul-Haq,Bilawal Bhatti,TA Boult,1,0,1,NA,0,NA,NA,NA,0
+749797,2nd innings,Pakistan,New Zealand,39.4,Bilawal Bhatti,Misbah-ul-Haq,TA Boult,0,0,0,NA,0,NA,NA,NA,0
+749797,2nd innings,Pakistan,New Zealand,39.5,Bilawal Bhatti,Misbah-ul-Haq,TA Boult,0,0,0,NA,0,NA,NA,NA,0
+749797,2nd innings,Pakistan,New Zealand,39.6,Bilawal Bhatti,Misbah-ul-Haq,TA Boult,0,0,0,NA,0,NA,NA,NA,0
+749797,2nd innings,Pakistan,New Zealand,40.1,Misbah-ul-Haq,Bilawal Bhatti,GD Elliott,1,0,1,NA,0,NA,NA,NA,0
+749797,2nd innings,Pakistan,New Zealand,40.2,Bilawal Bhatti,Misbah-ul-Haq,GD Elliott,1,0,1,NA,0,NA,NA,NA,0
+749797,2nd innings,Pakistan,New Zealand,40.3,Misbah-ul-Haq,Bilawal Bhatti,GD Elliott,0,0,0,NA,0,NA,NA,NA,0
+749797,2nd innings,Pakistan,New Zealand,40.4,Misbah-ul-Haq,Bilawal Bhatti,GD Elliott,2,0,2,NA,0,NA,NA,NA,0
+749797,2nd innings,Pakistan,New Zealand,40.5,Misbah-ul-Haq,Bilawal Bhatti,GD Elliott,0,0,0,NA,0,NA,NA,NA,0
+749797,2nd innings,Pakistan,New Zealand,40.6,Misbah-ul-Haq,Bilawal Bhatti,GD Elliott,6,0,6,NA,0,NA,NA,NA,0
+749797,2nd innings,Pakistan,New Zealand,41.1,Bilawal Bhatti,Misbah-ul-Haq,TA Boult,0,0,0,NA,0,NA,NA,NA,0
+749797,2nd innings,Pakistan,New Zealand,41.2,Bilawal Bhatti,Misbah-ul-Haq,TA Boult,2,0,2,NA,0,NA,NA,NA,0
+749797,2nd innings,Pakistan,New Zealand,41.3,Bilawal Bhatti,Misbah-ul-Haq,TA Boult,1,0,1,NA,0,NA,NA,NA,0
+749797,2nd innings,Pakistan,New Zealand,41.4,Misbah-ul-Haq,Bilawal Bhatti,TA Boult,0,0,0,NA,0,NA,NA,NA,0
+749797,2nd innings,Pakistan,New Zealand,41.5,Misbah-ul-Haq,Bilawal Bhatti,TA Boult,1,0,1,NA,0,NA,NA,NA,0
+749797,2nd innings,Pakistan,New Zealand,41.6,Bilawal Bhatti,Misbah-ul-Haq,TA Boult,1,0,1,NA,0,NA,NA,NA,0
+749797,2nd innings,Pakistan,New Zealand,42.1,Bilawal Bhatti,Misbah-ul-Haq,TG Southee,4,0,4,NA,0,NA,NA,NA,0
+749797,2nd innings,Pakistan,New Zealand,42.2,Bilawal Bhatti,Misbah-ul-Haq,TG Southee,0,1,1,wides,0,NA,NA,NA,0
+749797,2nd innings,Pakistan,New Zealand,42.3,Bilawal Bhatti,Misbah-ul-Haq,TG Southee,0,0,0,NA,1,caught,Bilawal Bhatti,MJ Guptill,0
+749797,2nd innings,Pakistan,New Zealand,42.4,Ehsan Adil,Misbah-ul-Haq,TG Southee,0,1,1,wides,0,NA,NA,NA,0
+749797,2nd innings,Pakistan,New Zealand,42.5,Ehsan Adil,Misbah-ul-Haq,TG Southee,1,0,1,NA,0,NA,NA,NA,0
+749797,2nd innings,Pakistan,New Zealand,42.6,Misbah-ul-Haq,Ehsan Adil,TG Southee,0,0,0,NA,1,caught,Misbah-ul-Haq,LRPL Taylor,0
+749797,2nd innings,Pakistan,New Zealand,42.7,Mohammad Irfan,Ehsan Adil,TG Southee,0,0,0,NA,0,NA,NA,NA,0
+749797,2nd innings,Pakistan,New Zealand,42.8,Mohammad Irfan,Ehsan Adil,TG Southee,0,0,0,NA,0,NA,NA,NA,0
+749797,2nd innings,Pakistan,New Zealand,43.1,Ehsan Adil,Mohammad Irfan,TA Boult,0,0,0,NA,1,caught,Ehsan Adil,L Ronchi,0

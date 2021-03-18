@@ -1,0 +1,619 @@
+match_id,innings,team,opponent,ball,batsman,non_striker,bowler,scored_runs,extras,total,extra_type,wicket,wicket_type,player_out,fielders,winner
+461569,1st innings,South Africa,Pakistan,0.1,GC Smith,HM Amla,Shoaib Akhtar,1,0,1,NA,0,NA,NA,NA,0
+461569,1st innings,South Africa,Pakistan,0.2,HM Amla,GC Smith,Shoaib Akhtar,0,0,0,NA,0,NA,NA,NA,0
+461569,1st innings,South Africa,Pakistan,0.3,HM Amla,GC Smith,Shoaib Akhtar,1,0,1,NA,0,NA,NA,NA,0
+461569,1st innings,South Africa,Pakistan,0.4,GC Smith,HM Amla,Shoaib Akhtar,0,0,0,NA,0,NA,NA,NA,0
+461569,1st innings,South Africa,Pakistan,0.5,GC Smith,HM Amla,Shoaib Akhtar,0,0,0,NA,0,NA,NA,NA,0
+461569,1st innings,South Africa,Pakistan,0.6,GC Smith,HM Amla,Shoaib Akhtar,0,0,0,NA,0,NA,NA,NA,0
+461569,1st innings,South Africa,Pakistan,1.1,HM Amla,GC Smith,Abdul Razzaq,1,0,1,NA,0,NA,NA,NA,0
+461569,1st innings,South Africa,Pakistan,1.2,GC Smith,HM Amla,Abdul Razzaq,0,0,0,NA,0,NA,NA,NA,0
+461569,1st innings,South Africa,Pakistan,1.3,GC Smith,HM Amla,Abdul Razzaq,4,0,4,NA,0,NA,NA,NA,0
+461569,1st innings,South Africa,Pakistan,1.4,GC Smith,HM Amla,Abdul Razzaq,0,0,0,NA,0,NA,NA,NA,0
+461569,1st innings,South Africa,Pakistan,1.5,GC Smith,HM Amla,Abdul Razzaq,2,0,2,NA,0,NA,NA,NA,0
+461569,1st innings,South Africa,Pakistan,1.6,GC Smith,HM Amla,Abdul Razzaq,1,0,1,NA,0,NA,NA,NA,0
+461569,1st innings,South Africa,Pakistan,2.1,GC Smith,HM Amla,Shoaib Akhtar,0,1,1,byes,0,NA,NA,NA,0
+461569,1st innings,South Africa,Pakistan,2.2,HM Amla,GC Smith,Shoaib Akhtar,0,0,0,NA,0,NA,NA,NA,0
+461569,1st innings,South Africa,Pakistan,2.3,HM Amla,GC Smith,Shoaib Akhtar,0,0,0,NA,0,NA,NA,NA,0
+461569,1st innings,South Africa,Pakistan,2.4,HM Amla,GC Smith,Shoaib Akhtar,1,0,1,NA,0,NA,NA,NA,0
+461569,1st innings,South Africa,Pakistan,2.5,GC Smith,HM Amla,Shoaib Akhtar,0,0,0,NA,0,NA,NA,NA,0
+461569,1st innings,South Africa,Pakistan,2.6,GC Smith,HM Amla,Shoaib Akhtar,0,0,0,NA,0,NA,NA,NA,0
+461569,1st innings,South Africa,Pakistan,3.1,HM Amla,GC Smith,Abdul Razzaq,1,0,1,NA,0,NA,NA,NA,0
+461569,1st innings,South Africa,Pakistan,3.2,GC Smith,HM Amla,Abdul Razzaq,0,0,0,NA,0,NA,NA,NA,0
+461569,1st innings,South Africa,Pakistan,3.3,GC Smith,HM Amla,Abdul Razzaq,0,0,0,NA,0,NA,NA,NA,0
+461569,1st innings,South Africa,Pakistan,3.4,GC Smith,HM Amla,Abdul Razzaq,0,0,0,NA,0,NA,NA,NA,0
+461569,1st innings,South Africa,Pakistan,3.5,GC Smith,HM Amla,Abdul Razzaq,0,0,0,NA,0,NA,NA,NA,0
+461569,1st innings,South Africa,Pakistan,3.6,GC Smith,HM Amla,Abdul Razzaq,4,0,4,NA,0,NA,NA,NA,0
+461569,1st innings,South Africa,Pakistan,4.1,HM Amla,GC Smith,Shoaib Akhtar,0,0,0,NA,0,NA,NA,NA,0
+461569,1st innings,South Africa,Pakistan,4.2,HM Amla,GC Smith,Shoaib Akhtar,1,0,1,NA,0,NA,NA,NA,0
+461569,1st innings,South Africa,Pakistan,4.3,GC Smith,HM Amla,Shoaib Akhtar,4,0,4,NA,0,NA,NA,NA,0
+461569,1st innings,South Africa,Pakistan,4.4,GC Smith,HM Amla,Shoaib Akhtar,0,0,0,NA,0,NA,NA,NA,0
+461569,1st innings,South Africa,Pakistan,4.5,GC Smith,HM Amla,Shoaib Akhtar,2,0,2,NA,0,NA,NA,NA,0
+461569,1st innings,South Africa,Pakistan,4.6,GC Smith,HM Amla,Shoaib Akhtar,0,0,0,NA,0,NA,NA,NA,0
+461569,1st innings,South Africa,Pakistan,5.1,HM Amla,GC Smith,Abdul Razzaq,1,0,1,NA,0,NA,NA,NA,0
+461569,1st innings,South Africa,Pakistan,5.2,GC Smith,HM Amla,Abdul Razzaq,0,0,0,NA,0,NA,NA,NA,0
+461569,1st innings,South Africa,Pakistan,5.3,GC Smith,HM Amla,Abdul Razzaq,0,0,0,NA,0,NA,NA,NA,0
+461569,1st innings,South Africa,Pakistan,5.4,GC Smith,HM Amla,Abdul Razzaq,0,0,0,NA,0,NA,NA,NA,0
+461569,1st innings,South Africa,Pakistan,5.5,GC Smith,HM Amla,Abdul Razzaq,1,0,1,NA,0,NA,NA,NA,0
+461569,1st innings,South Africa,Pakistan,5.6,HM Amla,GC Smith,Abdul Razzaq,4,0,4,NA,0,NA,NA,NA,0
+461569,1st innings,South Africa,Pakistan,6.1,GC Smith,HM Amla,Shoaib Akhtar,4,0,4,NA,0,NA,NA,NA,0
+461569,1st innings,South Africa,Pakistan,6.2,GC Smith,HM Amla,Shoaib Akhtar,0,0,0,NA,0,NA,NA,NA,0
+461569,1st innings,South Africa,Pakistan,6.3,GC Smith,HM Amla,Shoaib Akhtar,0,0,0,NA,0,NA,NA,NA,0
+461569,1st innings,South Africa,Pakistan,6.4,GC Smith,HM Amla,Shoaib Akhtar,0,0,0,NA,0,NA,NA,NA,0
+461569,1st innings,South Africa,Pakistan,6.5,GC Smith,HM Amla,Shoaib Akhtar,1,0,1,NA,0,NA,NA,NA,0
+461569,1st innings,South Africa,Pakistan,6.6,HM Amla,GC Smith,Shoaib Akhtar,0,0,0,NA,1,caught,HM Amla,Imran Farhat,0
+461569,1st innings,South Africa,Pakistan,7.1,GC Smith,JH Kallis,Abdul Razzaq,2,0,2,NA,0,NA,NA,NA,0
+461569,1st innings,South Africa,Pakistan,7.2,GC Smith,JH Kallis,Abdul Razzaq,0,0,0,NA,0,NA,NA,NA,0
+461569,1st innings,South Africa,Pakistan,7.3,GC Smith,JH Kallis,Abdul Razzaq,0,0,0,NA,0,NA,NA,NA,0
+461569,1st innings,South Africa,Pakistan,7.4,GC Smith,JH Kallis,Abdul Razzaq,0,0,0,NA,0,NA,NA,NA,0
+461569,1st innings,South Africa,Pakistan,7.5,GC Smith,JH Kallis,Abdul Razzaq,0,0,0,NA,0,NA,NA,NA,0
+461569,1st innings,South Africa,Pakistan,7.6,GC Smith,JH Kallis,Abdul Razzaq,0,0,0,NA,0,NA,NA,NA,0
+461569,1st innings,South Africa,Pakistan,8.1,JH Kallis,GC Smith,Shoaib Akhtar,1,0,1,NA,0,NA,NA,NA,0
+461569,1st innings,South Africa,Pakistan,8.2,GC Smith,JH Kallis,Shoaib Akhtar,1,0,1,NA,0,NA,NA,NA,0
+461569,1st innings,South Africa,Pakistan,8.3,JH Kallis,GC Smith,Shoaib Akhtar,1,0,1,NA,0,NA,NA,NA,0
+461569,1st innings,South Africa,Pakistan,8.4,GC Smith,JH Kallis,Shoaib Akhtar,1,0,1,NA,0,NA,NA,NA,0
+461569,1st innings,South Africa,Pakistan,8.5,JH Kallis,GC Smith,Shoaib Akhtar,0,0,0,NA,0,NA,NA,NA,0
+461569,1st innings,South Africa,Pakistan,8.6,JH Kallis,GC Smith,Shoaib Akhtar,0,0,0,NA,0,NA,NA,NA,0
+461569,1st innings,South Africa,Pakistan,9.1,GC Smith,JH Kallis,Abdul Razzaq,1,0,1,NA,0,NA,NA,NA,0
+461569,1st innings,South Africa,Pakistan,9.2,JH Kallis,GC Smith,Abdul Razzaq,4,0,4,NA,0,NA,NA,NA,0
+461569,1st innings,South Africa,Pakistan,9.3,JH Kallis,GC Smith,Abdul Razzaq,0,0,0,NA,0,NA,NA,NA,0
+461569,1st innings,South Africa,Pakistan,9.4,JH Kallis,GC Smith,Abdul Razzaq,0,0,0,NA,0,NA,NA,NA,0
+461569,1st innings,South Africa,Pakistan,9.5,JH Kallis,GC Smith,Abdul Razzaq,4,0,4,NA,0,NA,NA,NA,0
+461569,1st innings,South Africa,Pakistan,9.6,JH Kallis,GC Smith,Abdul Razzaq,0,0,0,NA,0,NA,NA,NA,0
+461569,1st innings,South Africa,Pakistan,10.1,GC Smith,JH Kallis,Wahab Riaz,1,0,1,NA,0,NA,NA,NA,0
+461569,1st innings,South Africa,Pakistan,10.2,JH Kallis,GC Smith,Wahab Riaz,0,0,0,NA,0,NA,NA,NA,0
+461569,1st innings,South Africa,Pakistan,10.3,JH Kallis,GC Smith,Wahab Riaz,0,0,0,NA,0,NA,NA,NA,0
+461569,1st innings,South Africa,Pakistan,10.4,JH Kallis,GC Smith,Wahab Riaz,0,0,0,NA,0,NA,NA,NA,0
+461569,1st innings,South Africa,Pakistan,10.5,JH Kallis,GC Smith,Wahab Riaz,2,0,2,NA,0,NA,NA,NA,0
+461569,1st innings,South Africa,Pakistan,10.6,JH Kallis,GC Smith,Wahab Riaz,0,0,0,NA,0,NA,NA,NA,0
+461569,1st innings,South Africa,Pakistan,11.1,GC Smith,JH Kallis,Mohammad Hafeez,0,0,0,NA,0,NA,NA,NA,0
+461569,1st innings,South Africa,Pakistan,11.2,GC Smith,JH Kallis,Mohammad Hafeez,0,0,0,NA,0,NA,NA,NA,0
+461569,1st innings,South Africa,Pakistan,11.3,GC Smith,JH Kallis,Mohammad Hafeez,0,0,0,NA,0,NA,NA,NA,0
+461569,1st innings,South Africa,Pakistan,11.4,GC Smith,JH Kallis,Mohammad Hafeez,1,0,1,NA,0,NA,NA,NA,0
+461569,1st innings,South Africa,Pakistan,11.5,JH Kallis,GC Smith,Mohammad Hafeez,1,0,1,NA,0,NA,NA,NA,0
+461569,1st innings,South Africa,Pakistan,11.6,GC Smith,JH Kallis,Mohammad Hafeez,1,0,1,NA,0,NA,NA,NA,0
+461569,1st innings,South Africa,Pakistan,12.1,GC Smith,JH Kallis,Wahab Riaz,2,0,2,NA,0,NA,NA,NA,0
+461569,1st innings,South Africa,Pakistan,12.2,GC Smith,JH Kallis,Wahab Riaz,1,0,1,NA,0,NA,NA,NA,0
+461569,1st innings,South Africa,Pakistan,12.3,JH Kallis,GC Smith,Wahab Riaz,0,0,0,NA,0,NA,NA,NA,0
+461569,1st innings,South Africa,Pakistan,12.4,JH Kallis,GC Smith,Wahab Riaz,0,0,0,NA,0,NA,NA,NA,0
+461569,1st innings,South Africa,Pakistan,12.5,JH Kallis,GC Smith,Wahab Riaz,1,0,1,NA,0,NA,NA,NA,0
+461569,1st innings,South Africa,Pakistan,12.6,GC Smith,JH Kallis,Wahab Riaz,0,0,0,NA,0,NA,NA,NA,0
+461569,1st innings,South Africa,Pakistan,13.1,JH Kallis,GC Smith,Mohammad Hafeez,1,0,1,NA,0,NA,NA,NA,0
+461569,1st innings,South Africa,Pakistan,13.2,GC Smith,JH Kallis,Mohammad Hafeez,0,0,0,NA,0,NA,NA,NA,0
+461569,1st innings,South Africa,Pakistan,13.3,GC Smith,JH Kallis,Mohammad Hafeez,1,0,1,NA,0,NA,NA,NA,0
+461569,1st innings,South Africa,Pakistan,13.4,JH Kallis,GC Smith,Mohammad Hafeez,0,0,0,NA,0,NA,NA,NA,0
+461569,1st innings,South Africa,Pakistan,13.5,JH Kallis,GC Smith,Mohammad Hafeez,0,0,0,NA,0,NA,NA,NA,0
+461569,1st innings,South Africa,Pakistan,13.6,JH Kallis,GC Smith,Mohammad Hafeez,0,0,0,NA,1,caught,JH Kallis,Asad Shafiq,0
+461569,1st innings,South Africa,Pakistan,14.1,GC Smith,AB de Villiers,Wahab Riaz,4,0,4,NA,0,NA,NA,NA,0
+461569,1st innings,South Africa,Pakistan,14.2,GC Smith,AB de Villiers,Wahab Riaz,4,0,4,NA,0,NA,NA,NA,0
+461569,1st innings,South Africa,Pakistan,14.3,GC Smith,AB de Villiers,Wahab Riaz,1,0,1,NA,0,NA,NA,NA,0
+461569,1st innings,South Africa,Pakistan,14.4,AB de Villiers,GC Smith,Wahab Riaz,1,0,1,NA,0,NA,NA,NA,0
+461569,1st innings,South Africa,Pakistan,14.5,GC Smith,AB de Villiers,Wahab Riaz,0,0,0,NA,0,NA,NA,NA,0
+461569,1st innings,South Africa,Pakistan,14.6,GC Smith,AB de Villiers,Wahab Riaz,4,0,4,NA,0,NA,NA,NA,0
+461569,1st innings,South Africa,Pakistan,15.1,AB de Villiers,GC Smith,Mohammad Hafeez,0,0,0,NA,0,NA,NA,NA,0
+461569,1st innings,South Africa,Pakistan,15.2,AB de Villiers,GC Smith,Mohammad Hafeez,1,0,1,NA,0,NA,NA,NA,0
+461569,1st innings,South Africa,Pakistan,15.3,GC Smith,AB de Villiers,Mohammad Hafeez,0,0,0,NA,0,NA,NA,NA,0
+461569,1st innings,South Africa,Pakistan,15.4,GC Smith,AB de Villiers,Mohammad Hafeez,1,0,1,NA,0,NA,NA,NA,0
+461569,1st innings,South Africa,Pakistan,15.5,AB de Villiers,GC Smith,Mohammad Hafeez,0,0,0,NA,0,NA,NA,NA,0
+461569,1st innings,South Africa,Pakistan,15.6,AB de Villiers,GC Smith,Mohammad Hafeez,0,0,0,NA,0,NA,NA,NA,0
+461569,1st innings,South Africa,Pakistan,16.1,GC Smith,AB de Villiers,Shahid Afridi,1,0,1,NA,0,NA,NA,NA,0
+461569,1st innings,South Africa,Pakistan,16.2,AB de Villiers,GC Smith,Shahid Afridi,1,0,1,NA,0,NA,NA,NA,0
+461569,1st innings,South Africa,Pakistan,16.3,GC Smith,AB de Villiers,Shahid Afridi,1,0,1,NA,0,NA,NA,NA,0
+461569,1st innings,South Africa,Pakistan,16.4,AB de Villiers,GC Smith,Shahid Afridi,1,0,1,NA,0,NA,NA,NA,0
+461569,1st innings,South Africa,Pakistan,16.5,GC Smith,AB de Villiers,Shahid Afridi,0,0,0,NA,0,NA,NA,NA,0
+461569,1st innings,South Africa,Pakistan,16.6,GC Smith,AB de Villiers,Shahid Afridi,1,0,1,NA,0,NA,NA,NA,0
+461569,1st innings,South Africa,Pakistan,17.1,GC Smith,AB de Villiers,Mohammad Hafeez,2,0,2,NA,0,NA,NA,NA,0
+461569,1st innings,South Africa,Pakistan,17.2,GC Smith,AB de Villiers,Mohammad Hafeez,1,0,1,NA,0,NA,NA,NA,0
+461569,1st innings,South Africa,Pakistan,17.3,AB de Villiers,GC Smith,Mohammad Hafeez,1,0,1,NA,0,NA,NA,NA,0
+461569,1st innings,South Africa,Pakistan,17.4,GC Smith,AB de Villiers,Mohammad Hafeez,4,0,4,NA,0,NA,NA,NA,0
+461569,1st innings,South Africa,Pakistan,17.5,GC Smith,AB de Villiers,Mohammad Hafeez,0,0,0,NA,0,NA,NA,NA,0
+461569,1st innings,South Africa,Pakistan,17.6,GC Smith,AB de Villiers,Mohammad Hafeez,1,0,1,NA,0,NA,NA,NA,0
+461569,1st innings,South Africa,Pakistan,18.1,GC Smith,AB de Villiers,Shahid Afridi,0,0,0,NA,0,NA,NA,NA,0
+461569,1st innings,South Africa,Pakistan,18.2,GC Smith,AB de Villiers,Shahid Afridi,0,0,0,NA,0,NA,NA,NA,0
+461569,1st innings,South Africa,Pakistan,18.3,GC Smith,AB de Villiers,Shahid Afridi,1,0,1,NA,0,NA,NA,NA,0
+461569,1st innings,South Africa,Pakistan,18.4,AB de Villiers,GC Smith,Shahid Afridi,0,0,0,NA,0,NA,NA,NA,0
+461569,1st innings,South Africa,Pakistan,18.5,AB de Villiers,GC Smith,Shahid Afridi,1,0,1,NA,0,NA,NA,NA,0
+461569,1st innings,South Africa,Pakistan,18.6,GC Smith,AB de Villiers,Shahid Afridi,0,0,0,NA,0,NA,NA,NA,0
+461569,1st innings,South Africa,Pakistan,19.1,AB de Villiers,GC Smith,Abdur Rehman,0,0,0,NA,0,NA,NA,NA,0
+461569,1st innings,South Africa,Pakistan,19.2,AB de Villiers,GC Smith,Abdur Rehman,1,0,1,NA,0,NA,NA,NA,0
+461569,1st innings,South Africa,Pakistan,19.3,GC Smith,AB de Villiers,Abdur Rehman,0,0,0,NA,0,NA,NA,NA,0
+461569,1st innings,South Africa,Pakistan,19.4,GC Smith,AB de Villiers,Abdur Rehman,1,0,1,NA,0,NA,NA,NA,0
+461569,1st innings,South Africa,Pakistan,19.5,AB de Villiers,GC Smith,Abdur Rehman,0,0,0,NA,0,NA,NA,NA,0
+461569,1st innings,South Africa,Pakistan,19.6,AB de Villiers,GC Smith,Abdur Rehman,1,0,1,NA,0,NA,NA,NA,0
+461569,1st innings,South Africa,Pakistan,20.1,AB de Villiers,GC Smith,Shahid Afridi,1,0,1,NA,0,NA,NA,NA,0
+461569,1st innings,South Africa,Pakistan,20.2,GC Smith,AB de Villiers,Shahid Afridi,0,0,0,NA,0,NA,NA,NA,0
+461569,1st innings,South Africa,Pakistan,20.3,GC Smith,AB de Villiers,Shahid Afridi,0,0,0,NA,0,NA,NA,NA,0
+461569,1st innings,South Africa,Pakistan,20.4,GC Smith,AB de Villiers,Shahid Afridi,1,0,1,NA,0,NA,NA,NA,0
+461569,1st innings,South Africa,Pakistan,20.5,AB de Villiers,GC Smith,Shahid Afridi,1,0,1,NA,0,NA,NA,NA,0
+461569,1st innings,South Africa,Pakistan,20.6,GC Smith,AB de Villiers,Shahid Afridi,1,0,1,NA,0,NA,NA,NA,0
+461569,1st innings,South Africa,Pakistan,21.1,GC Smith,AB de Villiers,Abdur Rehman,1,0,1,NA,0,NA,NA,NA,0
+461569,1st innings,South Africa,Pakistan,21.2,AB de Villiers,GC Smith,Abdur Rehman,1,0,1,NA,0,NA,NA,NA,0
+461569,1st innings,South Africa,Pakistan,21.3,GC Smith,AB de Villiers,Abdur Rehman,0,0,0,NA,0,NA,NA,NA,0
+461569,1st innings,South Africa,Pakistan,21.4,GC Smith,AB de Villiers,Abdur Rehman,1,0,1,NA,0,NA,NA,NA,0
+461569,1st innings,South Africa,Pakistan,21.5,AB de Villiers,GC Smith,Abdur Rehman,0,0,0,NA,0,NA,NA,NA,0
+461569,1st innings,South Africa,Pakistan,21.6,AB de Villiers,GC Smith,Abdur Rehman,0,0,0,NA,0,NA,NA,NA,0
+461569,1st innings,South Africa,Pakistan,22.1,GC Smith,AB de Villiers,Shahid Afridi,2,0,2,NA,0,NA,NA,NA,0
+461569,1st innings,South Africa,Pakistan,22.2,GC Smith,AB de Villiers,Shahid Afridi,1,0,1,NA,0,NA,NA,NA,0
+461569,1st innings,South Africa,Pakistan,22.3,AB de Villiers,GC Smith,Shahid Afridi,0,1,1,wides,0,NA,NA,NA,0
+461569,1st innings,South Africa,Pakistan,22.4,AB de Villiers,GC Smith,Shahid Afridi,0,0,0,NA,0,NA,NA,NA,0
+461569,1st innings,South Africa,Pakistan,22.5,AB de Villiers,GC Smith,Shahid Afridi,0,0,0,NA,0,NA,NA,NA,0
+461569,1st innings,South Africa,Pakistan,22.6,AB de Villiers,GC Smith,Shahid Afridi,1,0,1,NA,0,NA,NA,NA,0
+461569,1st innings,South Africa,Pakistan,22.7,GC Smith,AB de Villiers,Shahid Afridi,0,0,0,NA,0,NA,NA,NA,0
+461569,1st innings,South Africa,Pakistan,23.1,AB de Villiers,GC Smith,Abdur Rehman,0,0,0,NA,0,NA,NA,NA,0
+461569,1st innings,South Africa,Pakistan,23.2,AB de Villiers,GC Smith,Abdur Rehman,0,0,0,NA,0,NA,NA,NA,0
+461569,1st innings,South Africa,Pakistan,23.3,AB de Villiers,GC Smith,Abdur Rehman,1,0,1,NA,0,NA,NA,NA,0
+461569,1st innings,South Africa,Pakistan,23.4,GC Smith,AB de Villiers,Abdur Rehman,1,0,1,NA,0,NA,NA,NA,0
+461569,1st innings,South Africa,Pakistan,23.5,AB de Villiers,GC Smith,Abdur Rehman,1,0,1,NA,0,NA,NA,NA,0
+461569,1st innings,South Africa,Pakistan,23.6,GC Smith,AB de Villiers,Abdur Rehman,0,0,0,NA,0,NA,NA,NA,0
+461569,1st innings,South Africa,Pakistan,24.1,AB de Villiers,GC Smith,Shahid Afridi,1,0,1,NA,0,NA,NA,NA,0
+461569,1st innings,South Africa,Pakistan,24.2,GC Smith,AB de Villiers,Shahid Afridi,0,0,0,NA,0,NA,NA,NA,0
+461569,1st innings,South Africa,Pakistan,24.3,GC Smith,AB de Villiers,Shahid Afridi,4,0,4,NA,0,NA,NA,NA,0
+461569,1st innings,South Africa,Pakistan,24.4,GC Smith,AB de Villiers,Shahid Afridi,0,0,0,NA,0,NA,NA,NA,0
+461569,1st innings,South Africa,Pakistan,24.5,GC Smith,AB de Villiers,Shahid Afridi,1,0,1,NA,0,NA,NA,NA,0
+461569,1st innings,South Africa,Pakistan,24.6,AB de Villiers,GC Smith,Shahid Afridi,1,0,1,NA,0,NA,NA,NA,0
+461569,1st innings,South Africa,Pakistan,25.1,AB de Villiers,GC Smith,Abdur Rehman,0,0,0,NA,0,NA,NA,NA,0
+461569,1st innings,South Africa,Pakistan,25.2,AB de Villiers,GC Smith,Abdur Rehman,0,0,0,NA,0,NA,NA,NA,0
+461569,1st innings,South Africa,Pakistan,25.3,AB de Villiers,GC Smith,Abdur Rehman,1,0,1,NA,0,NA,NA,NA,0
+461569,1st innings,South Africa,Pakistan,25.4,GC Smith,AB de Villiers,Abdur Rehman,1,0,1,NA,0,NA,NA,NA,0
+461569,1st innings,South Africa,Pakistan,25.5,AB de Villiers,GC Smith,Abdur Rehman,1,0,1,NA,0,NA,NA,NA,0
+461569,1st innings,South Africa,Pakistan,25.6,GC Smith,AB de Villiers,Abdur Rehman,0,0,0,NA,0,NA,NA,NA,0
+461569,1st innings,South Africa,Pakistan,26.1,AB de Villiers,GC Smith,Shahid Afridi,1,0,1,NA,0,NA,NA,NA,0
+461569,1st innings,South Africa,Pakistan,26.2,GC Smith,AB de Villiers,Shahid Afridi,1,0,1,NA,0,NA,NA,NA,0
+461569,1st innings,South Africa,Pakistan,26.3,AB de Villiers,GC Smith,Shahid Afridi,2,0,2,NA,0,NA,NA,NA,0
+461569,1st innings,South Africa,Pakistan,26.4,AB de Villiers,GC Smith,Shahid Afridi,1,0,1,NA,0,NA,NA,NA,0
+461569,1st innings,South Africa,Pakistan,26.5,GC Smith,AB de Villiers,Shahid Afridi,1,0,1,NA,0,NA,NA,NA,0
+461569,1st innings,South Africa,Pakistan,26.6,AB de Villiers,GC Smith,Shahid Afridi,1,0,1,NA,0,NA,NA,NA,0
+461569,1st innings,South Africa,Pakistan,27.1,AB de Villiers,GC Smith,Abdur Rehman,1,0,1,NA,0,NA,NA,NA,0
+461569,1st innings,South Africa,Pakistan,27.2,GC Smith,AB de Villiers,Abdur Rehman,1,0,1,NA,0,NA,NA,NA,0
+461569,1st innings,South Africa,Pakistan,27.3,AB de Villiers,GC Smith,Abdur Rehman,1,0,1,NA,0,NA,NA,NA,0
+461569,1st innings,South Africa,Pakistan,27.4,GC Smith,AB de Villiers,Abdur Rehman,1,0,1,NA,0,NA,NA,NA,0
+461569,1st innings,South Africa,Pakistan,27.5,AB de Villiers,GC Smith,Abdur Rehman,2,0,2,NA,0,NA,NA,NA,0
+461569,1st innings,South Africa,Pakistan,27.6,AB de Villiers,GC Smith,Abdur Rehman,0,0,0,NA,0,NA,NA,NA,0
+461569,1st innings,South Africa,Pakistan,28.1,GC Smith,AB de Villiers,Shahid Afridi,3,0,3,NA,0,NA,NA,NA,0
+461569,1st innings,South Africa,Pakistan,28.2,AB de Villiers,GC Smith,Shahid Afridi,0,0,0,NA,0,NA,NA,NA,0
+461569,1st innings,South Africa,Pakistan,28.3,AB de Villiers,GC Smith,Shahid Afridi,1,0,1,NA,0,NA,NA,NA,0
+461569,1st innings,South Africa,Pakistan,28.4,GC Smith,AB de Villiers,Shahid Afridi,1,0,1,NA,0,NA,NA,NA,0
+461569,1st innings,South Africa,Pakistan,28.5,AB de Villiers,GC Smith,Shahid Afridi,1,0,1,NA,0,NA,NA,NA,0
+461569,1st innings,South Africa,Pakistan,28.6,GC Smith,AB de Villiers,Shahid Afridi,1,0,1,NA,0,NA,NA,NA,0
+461569,1st innings,South Africa,Pakistan,29.1,GC Smith,AB de Villiers,Abdur Rehman,1,0,1,NA,0,NA,NA,NA,0
+461569,1st innings,South Africa,Pakistan,29.2,AB de Villiers,GC Smith,Abdur Rehman,1,0,1,NA,0,NA,NA,NA,0
+461569,1st innings,South Africa,Pakistan,29.3,GC Smith,AB de Villiers,Abdur Rehman,0,5,5,wides,0,NA,NA,NA,0
+461569,1st innings,South Africa,Pakistan,29.4,GC Smith,AB de Villiers,Abdur Rehman,0,0,0,NA,0,NA,NA,NA,0
+461569,1st innings,South Africa,Pakistan,29.5,GC Smith,AB de Villiers,Abdur Rehman,1,0,1,NA,0,NA,NA,NA,0
+461569,1st innings,South Africa,Pakistan,29.6,AB de Villiers,GC Smith,Abdur Rehman,1,0,1,NA,0,NA,NA,NA,0
+461569,1st innings,South Africa,Pakistan,29.7,GC Smith,AB de Villiers,Abdur Rehman,1,0,1,NA,0,NA,NA,NA,0
+461569,1st innings,South Africa,Pakistan,30.1,GC Smith,AB de Villiers,Mohammad Hafeez,1,0,1,NA,0,NA,NA,NA,0
+461569,1st innings,South Africa,Pakistan,30.2,AB de Villiers,GC Smith,Mohammad Hafeez,1,0,1,NA,0,NA,NA,NA,0
+461569,1st innings,South Africa,Pakistan,30.3,GC Smith,AB de Villiers,Mohammad Hafeez,2,0,2,NA,0,NA,NA,NA,0
+461569,1st innings,South Africa,Pakistan,30.4,GC Smith,AB de Villiers,Mohammad Hafeez,0,0,0,NA,0,NA,NA,NA,0
+461569,1st innings,South Africa,Pakistan,30.5,GC Smith,AB de Villiers,Mohammad Hafeez,0,0,0,NA,1,lbw,GC Smith,NA,0
+461569,1st innings,South Africa,Pakistan,30.6,JP Duminy,AB de Villiers,Mohammad Hafeez,1,0,1,NA,0,NA,NA,NA,0
+461569,1st innings,South Africa,Pakistan,31.1,JP Duminy,AB de Villiers,Abdur Rehman,1,0,1,NA,0,NA,NA,NA,0
+461569,1st innings,South Africa,Pakistan,31.2,AB de Villiers,JP Duminy,Abdur Rehman,0,0,0,NA,0,NA,NA,NA,0
+461569,1st innings,South Africa,Pakistan,31.3,AB de Villiers,JP Duminy,Abdur Rehman,1,0,1,NA,0,NA,NA,NA,0
+461569,1st innings,South Africa,Pakistan,31.4,JP Duminy,AB de Villiers,Abdur Rehman,0,0,0,NA,0,NA,NA,NA,0
+461569,1st innings,South Africa,Pakistan,31.5,JP Duminy,AB de Villiers,Abdur Rehman,1,0,1,NA,0,NA,NA,NA,0
+461569,1st innings,South Africa,Pakistan,31.6,AB de Villiers,JP Duminy,Abdur Rehman,0,0,0,NA,0,NA,NA,NA,0
+461569,1st innings,South Africa,Pakistan,32.1,JP Duminy,AB de Villiers,Wahab Riaz,1,0,1,NA,0,NA,NA,NA,0
+461569,1st innings,South Africa,Pakistan,32.2,AB de Villiers,JP Duminy,Wahab Riaz,1,0,1,NA,0,NA,NA,NA,0
+461569,1st innings,South Africa,Pakistan,32.3,JP Duminy,AB de Villiers,Wahab Riaz,0,0,0,NA,0,NA,NA,NA,0
+461569,1st innings,South Africa,Pakistan,32.4,JP Duminy,AB de Villiers,Wahab Riaz,1,0,1,NA,0,NA,NA,NA,0
+461569,1st innings,South Africa,Pakistan,32.5,AB de Villiers,JP Duminy,Wahab Riaz,1,0,1,NA,0,NA,NA,NA,0
+461569,1st innings,South Africa,Pakistan,32.6,JP Duminy,AB de Villiers,Wahab Riaz,0,0,0,NA,0,NA,NA,NA,0
+461569,1st innings,South Africa,Pakistan,33.1,AB de Villiers,JP Duminy,Abdur Rehman,0,0,0,NA,0,NA,NA,NA,0
+461569,1st innings,South Africa,Pakistan,33.2,AB de Villiers,JP Duminy,Abdur Rehman,0,0,0,NA,0,NA,NA,NA,0
+461569,1st innings,South Africa,Pakistan,33.3,AB de Villiers,JP Duminy,Abdur Rehman,1,0,1,NA,0,NA,NA,NA,0
+461569,1st innings,South Africa,Pakistan,33.4,JP Duminy,AB de Villiers,Abdur Rehman,0,0,0,NA,0,NA,NA,NA,0
+461569,1st innings,South Africa,Pakistan,33.5,JP Duminy,AB de Villiers,Abdur Rehman,0,1,1,legbyes,0,NA,NA,NA,0
+461569,1st innings,South Africa,Pakistan,33.6,AB de Villiers,JP Duminy,Abdur Rehman,1,0,1,NA,0,NA,NA,NA,0
+461569,1st innings,South Africa,Pakistan,34.1,AB de Villiers,JP Duminy,Wahab Riaz,1,0,1,NA,0,NA,NA,NA,0
+461569,1st innings,South Africa,Pakistan,34.2,JP Duminy,AB de Villiers,Wahab Riaz,0,0,0,NA,0,NA,NA,NA,0
+461569,1st innings,South Africa,Pakistan,34.3,JP Duminy,AB de Villiers,Wahab Riaz,0,0,0,NA,0,NA,NA,NA,0
+461569,1st innings,South Africa,Pakistan,34.4,JP Duminy,AB de Villiers,Wahab Riaz,1,0,1,NA,0,NA,NA,NA,0
+461569,1st innings,South Africa,Pakistan,34.5,AB de Villiers,JP Duminy,Wahab Riaz,1,0,1,NA,0,NA,NA,NA,0
+461569,1st innings,South Africa,Pakistan,34.6,JP Duminy,AB de Villiers,Wahab Riaz,1,0,1,NA,0,NA,NA,NA,0
+461569,1st innings,South Africa,Pakistan,35.1,JP Duminy,AB de Villiers,Abdur Rehman,1,0,1,NA,0,NA,NA,NA,0
+461569,1st innings,South Africa,Pakistan,35.2,AB de Villiers,JP Duminy,Abdur Rehman,2,0,2,NA,0,NA,NA,NA,0
+461569,1st innings,South Africa,Pakistan,35.3,AB de Villiers,JP Duminy,Abdur Rehman,1,0,1,NA,0,NA,NA,NA,0
+461569,1st innings,South Africa,Pakistan,35.4,JP Duminy,AB de Villiers,Abdur Rehman,0,0,0,NA,0,NA,NA,NA,0
+461569,1st innings,South Africa,Pakistan,35.5,JP Duminy,AB de Villiers,Abdur Rehman,0,0,0,NA,0,NA,NA,NA,0
+461569,1st innings,South Africa,Pakistan,35.6,JP Duminy,AB de Villiers,Abdur Rehman,1,0,1,NA,0,NA,NA,NA,0
+461569,1st innings,South Africa,Pakistan,36.1,JP Duminy,AB de Villiers,Wahab Riaz,0,0,0,NA,0,NA,NA,NA,0
+461569,1st innings,South Africa,Pakistan,36.2,JP Duminy,AB de Villiers,Wahab Riaz,1,0,1,NA,0,NA,NA,NA,0
+461569,1st innings,South Africa,Pakistan,36.3,AB de Villiers,JP Duminy,Wahab Riaz,1,0,1,NA,0,NA,NA,NA,0
+461569,1st innings,South Africa,Pakistan,36.4,JP Duminy,AB de Villiers,Wahab Riaz,0,1,1,legbyes,0,NA,NA,NA,0
+461569,1st innings,South Africa,Pakistan,36.5,AB de Villiers,JP Duminy,Wahab Riaz,0,0,0,NA,0,NA,NA,NA,0
+461569,1st innings,South Africa,Pakistan,36.6,AB de Villiers,JP Duminy,Wahab Riaz,2,0,2,NA,0,NA,NA,NA,0
+461569,1st innings,South Africa,Pakistan,37.1,JP Duminy,AB de Villiers,Abdur Rehman,0,0,0,NA,0,NA,NA,NA,0
+461569,1st innings,South Africa,Pakistan,37.2,JP Duminy,AB de Villiers,Abdur Rehman,0,0,0,NA,0,NA,NA,NA,0
+461569,1st innings,South Africa,Pakistan,37.3,JP Duminy,AB de Villiers,Abdur Rehman,0,0,0,NA,0,NA,NA,NA,0
+461569,1st innings,South Africa,Pakistan,37.4,JP Duminy,AB de Villiers,Abdur Rehman,1,0,1,NA,0,NA,NA,NA,0
+461569,1st innings,South Africa,Pakistan,37.5,AB de Villiers,JP Duminy,Abdur Rehman,0,0,0,NA,0,NA,NA,NA,0
+461569,1st innings,South Africa,Pakistan,37.6,AB de Villiers,JP Duminy,Abdur Rehman,0,0,0,NA,0,NA,NA,NA,0
+461569,1st innings,South Africa,Pakistan,38.1,JP Duminy,AB de Villiers,Shoaib Akhtar,0,0,0,NA,0,NA,NA,NA,0
+461569,1st innings,South Africa,Pakistan,38.2,JP Duminy,AB de Villiers,Shoaib Akhtar,1,0,1,NA,0,NA,NA,NA,0
+461569,1st innings,South Africa,Pakistan,38.3,AB de Villiers,JP Duminy,Shoaib Akhtar,1,0,1,NA,0,NA,NA,NA,0
+461569,1st innings,South Africa,Pakistan,38.4,JP Duminy,AB de Villiers,Shoaib Akhtar,1,0,1,NA,0,NA,NA,NA,0
+461569,1st innings,South Africa,Pakistan,38.5,AB de Villiers,JP Duminy,Shoaib Akhtar,0,0,0,NA,0,NA,NA,NA,0
+461569,1st innings,South Africa,Pakistan,38.6,AB de Villiers,JP Duminy,Shoaib Akhtar,2,0,2,NA,0,NA,NA,NA,0
+461569,1st innings,South Africa,Pakistan,39.1,JP Duminy,AB de Villiers,Shahid Afridi,0,0,0,NA,0,NA,NA,NA,0
+461569,1st innings,South Africa,Pakistan,39.2,JP Duminy,AB de Villiers,Shahid Afridi,1,0,1,NA,0,NA,NA,NA,0
+461569,1st innings,South Africa,Pakistan,39.3,AB de Villiers,JP Duminy,Shahid Afridi,0,0,0,NA,0,NA,NA,NA,0
+461569,1st innings,South Africa,Pakistan,39.4,AB de Villiers,JP Duminy,Shahid Afridi,1,0,1,NA,0,NA,NA,NA,0
+461569,1st innings,South Africa,Pakistan,39.5,JP Duminy,AB de Villiers,Shahid Afridi,0,0,0,NA,0,NA,NA,NA,0
+461569,1st innings,South Africa,Pakistan,39.6,JP Duminy,AB de Villiers,Shahid Afridi,1,0,1,NA,0,NA,NA,NA,0
+461569,1st innings,South Africa,Pakistan,40.1,JP Duminy,AB de Villiers,Shoaib Akhtar,1,0,1,NA,0,NA,NA,NA,0
+461569,1st innings,South Africa,Pakistan,40.2,AB de Villiers,JP Duminy,Shoaib Akhtar,0,0,0,NA,1,caught,AB de Villiers,Mohammad Hafeez,0
+461569,1st innings,South Africa,Pakistan,40.3,CA Ingram,JP Duminy,Shoaib Akhtar,1,0,1,NA,0,NA,NA,NA,0
+461569,1st innings,South Africa,Pakistan,40.4,JP Duminy,CA Ingram,Shoaib Akhtar,0,0,0,NA,0,NA,NA,NA,0
+461569,1st innings,South Africa,Pakistan,40.5,JP Duminy,CA Ingram,Shoaib Akhtar,2,0,2,NA,0,NA,NA,NA,0
+461569,1st innings,South Africa,Pakistan,40.6,JP Duminy,CA Ingram,Shoaib Akhtar,0,0,0,NA,0,NA,NA,NA,0
+461569,1st innings,South Africa,Pakistan,41.1,CA Ingram,JP Duminy,Shahid Afridi,1,0,1,NA,0,NA,NA,NA,0
+461569,1st innings,South Africa,Pakistan,41.2,JP Duminy,CA Ingram,Shahid Afridi,1,0,1,NA,0,NA,NA,NA,0
+461569,1st innings,South Africa,Pakistan,41.3,CA Ingram,JP Duminy,Shahid Afridi,0,0,0,NA,0,NA,NA,NA,0
+461569,1st innings,South Africa,Pakistan,41.4,CA Ingram,JP Duminy,Shahid Afridi,0,0,0,NA,0,NA,NA,NA,0
+461569,1st innings,South Africa,Pakistan,41.5,CA Ingram,JP Duminy,Shahid Afridi,0,0,0,NA,0,NA,NA,NA,0
+461569,1st innings,South Africa,Pakistan,41.6,CA Ingram,JP Duminy,Shahid Afridi,0,0,0,NA,0,NA,NA,NA,0
+461569,1st innings,South Africa,Pakistan,42.1,JP Duminy,CA Ingram,Shoaib Akhtar,2,0,2,NA,0,NA,NA,NA,0
+461569,1st innings,South Africa,Pakistan,42.2,JP Duminy,CA Ingram,Shoaib Akhtar,4,0,4,NA,0,NA,NA,NA,0
+461569,1st innings,South Africa,Pakistan,42.3,JP Duminy,CA Ingram,Shoaib Akhtar,1,0,1,NA,0,NA,NA,NA,0
+461569,1st innings,South Africa,Pakistan,42.4,CA Ingram,JP Duminy,Shoaib Akhtar,1,0,1,NA,0,NA,NA,NA,0
+461569,1st innings,South Africa,Pakistan,42.5,JP Duminy,CA Ingram,Shoaib Akhtar,0,1,1,wides,0,NA,NA,NA,0
+461569,1st innings,South Africa,Pakistan,42.6,JP Duminy,CA Ingram,Shoaib Akhtar,2,0,2,NA,0,NA,NA,NA,0
+461569,1st innings,South Africa,Pakistan,42.7,JP Duminy,CA Ingram,Shoaib Akhtar,1,0,1,NA,0,NA,NA,NA,0
+461569,1st innings,South Africa,Pakistan,43.1,JP Duminy,CA Ingram,Shahid Afridi,1,0,1,NA,0,NA,NA,NA,0
+461569,1st innings,South Africa,Pakistan,43.2,CA Ingram,JP Duminy,Shahid Afridi,1,0,1,NA,0,NA,NA,NA,0
+461569,1st innings,South Africa,Pakistan,43.3,JP Duminy,CA Ingram,Shahid Afridi,0,1,1,wides,0,NA,NA,NA,0
+461569,1st innings,South Africa,Pakistan,43.4,JP Duminy,CA Ingram,Shahid Afridi,0,0,0,NA,0,NA,NA,NA,0
+461569,1st innings,South Africa,Pakistan,43.5,JP Duminy,CA Ingram,Shahid Afridi,1,0,1,NA,0,NA,NA,NA,0
+461569,1st innings,South Africa,Pakistan,43.6,CA Ingram,JP Duminy,Shahid Afridi,4,0,4,NA,0,NA,NA,NA,0
+461569,1st innings,South Africa,Pakistan,43.7,CA Ingram,JP Duminy,Shahid Afridi,1,0,1,NA,0,NA,NA,NA,0
+461569,1st innings,South Africa,Pakistan,44.1,CA Ingram,JP Duminy,Wahab Riaz,0,0,0,NA,0,NA,NA,NA,0
+461569,1st innings,South Africa,Pakistan,44.2,CA Ingram,JP Duminy,Wahab Riaz,0,0,0,NA,0,NA,NA,NA,0
+461569,1st innings,South Africa,Pakistan,44.3,CA Ingram,JP Duminy,Wahab Riaz,1,0,1,NA,0,NA,NA,NA,0
+461569,1st innings,South Africa,Pakistan,44.4,JP Duminy,CA Ingram,Wahab Riaz,1,0,1,NA,0,NA,NA,NA,0
+461569,1st innings,South Africa,Pakistan,44.5,CA Ingram,JP Duminy,Wahab Riaz,0,0,0,NA,0,NA,NA,NA,0
+461569,1st innings,South Africa,Pakistan,44.6,CA Ingram,JP Duminy,Wahab Riaz,1,0,1,NA,0,NA,NA,NA,0
+461569,1st innings,South Africa,Pakistan,45.1,CA Ingram,JP Duminy,Mohammad Hafeez,1,0,1,NA,0,NA,NA,NA,0
+461569,1st innings,South Africa,Pakistan,45.2,JP Duminy,CA Ingram,Mohammad Hafeez,2,0,2,NA,0,NA,NA,NA,0
+461569,1st innings,South Africa,Pakistan,45.3,JP Duminy,CA Ingram,Mohammad Hafeez,1,0,1,NA,0,NA,NA,NA,0
+461569,1st innings,South Africa,Pakistan,45.4,CA Ingram,JP Duminy,Mohammad Hafeez,1,0,1,NA,0,NA,NA,NA,0
+461569,1st innings,South Africa,Pakistan,45.5,JP Duminy,CA Ingram,Mohammad Hafeez,0,0,0,NA,0,NA,NA,NA,0
+461569,1st innings,South Africa,Pakistan,45.6,JP Duminy,CA Ingram,Mohammad Hafeez,1,0,1,NA,0,NA,NA,NA,0
+461569,1st innings,South Africa,Pakistan,46.1,JP Duminy,CA Ingram,Wahab Riaz,0,0,0,NA,1,bowled,JP Duminy,NA,0
+461569,1st innings,South Africa,Pakistan,46.2,DA Miller,CA Ingram,Wahab Riaz,0,0,0,NA,1,bowled,DA Miller,NA,0
+461569,1st innings,South Africa,Pakistan,46.3,J Botha,CA Ingram,Wahab Riaz,0,0,0,NA,0,NA,NA,NA,0
+461569,1st innings,South Africa,Pakistan,46.4,J Botha,CA Ingram,Wahab Riaz,4,0,4,NA,0,NA,NA,NA,0
+461569,1st innings,South Africa,Pakistan,46.5,J Botha,CA Ingram,Wahab Riaz,4,0,4,NA,0,NA,NA,NA,0
+461569,1st innings,South Africa,Pakistan,46.6,J Botha,CA Ingram,Wahab Riaz,1,0,1,NA,0,NA,NA,NA,0
+461569,1st innings,South Africa,Pakistan,47.1,J Botha,CA Ingram,Mohammad Hafeez,4,0,4,NA,0,NA,NA,NA,0
+461569,1st innings,South Africa,Pakistan,47.2,J Botha,CA Ingram,Mohammad Hafeez,0,0,0,NA,0,NA,NA,NA,0
+461569,1st innings,South Africa,Pakistan,47.3,J Botha,CA Ingram,Mohammad Hafeez,4,0,4,NA,0,NA,NA,NA,0
+461569,1st innings,South Africa,Pakistan,47.4,J Botha,CA Ingram,Mohammad Hafeez,1,0,1,NA,0,NA,NA,NA,0
+461569,1st innings,South Africa,Pakistan,47.5,CA Ingram,J Botha,Mohammad Hafeez,1,0,1,NA,0,NA,NA,NA,0
+461569,1st innings,South Africa,Pakistan,47.6,J Botha,CA Ingram,Mohammad Hafeez,0,0,0,NA,0,NA,NA,NA,0
+461569,1st innings,South Africa,Pakistan,48.1,CA Ingram,J Botha,Wahab Riaz,4,0,4,NA,0,NA,NA,NA,0
+461569,1st innings,South Africa,Pakistan,48.2,CA Ingram,J Botha,Wahab Riaz,0,1,1,legbyes,0,NA,NA,NA,0
+461569,1st innings,South Africa,Pakistan,48.3,J Botha,CA Ingram,Wahab Riaz,4,0,4,NA,0,NA,NA,NA,0
+461569,1st innings,South Africa,Pakistan,48.4,J Botha,CA Ingram,Wahab Riaz,0,1,1,legbyes,0,NA,NA,NA,0
+461569,1st innings,South Africa,Pakistan,48.5,CA Ingram,J Botha,Wahab Riaz,2,1,3,noballs,0,NA,NA,NA,0
+461569,1st innings,South Africa,Pakistan,48.6,CA Ingram,J Botha,Wahab Riaz,1,0,1,NA,0,NA,NA,NA,0
+461569,1st innings,South Africa,Pakistan,48.7,J Botha,CA Ingram,Wahab Riaz,4,0,4,NA,0,NA,NA,NA,0
+461569,1st innings,South Africa,Pakistan,49.1,CA Ingram,J Botha,Shoaib Akhtar,1,0,1,NA,0,NA,NA,NA,0
+461569,1st innings,South Africa,Pakistan,49.2,J Botha,CA Ingram,Shoaib Akhtar,0,0,0,NA,0,NA,NA,NA,0
+461569,1st innings,South Africa,Pakistan,49.3,J Botha,CA Ingram,Shoaib Akhtar,1,0,1,NA,0,NA,NA,NA,0
+461569,1st innings,South Africa,Pakistan,49.4,CA Ingram,J Botha,Shoaib Akhtar,1,0,1,NA,0,NA,NA,NA,0
+461569,1st innings,South Africa,Pakistan,49.5,J Botha,CA Ingram,Shoaib Akhtar,0,3,3,wides,0,NA,NA,NA,0
+461569,1st innings,South Africa,Pakistan,49.6,J Botha,CA Ingram,Shoaib Akhtar,1,0,1,NA,0,NA,NA,NA,0
+461569,1st innings,South Africa,Pakistan,49.7,CA Ingram,J Botha,Shoaib Akhtar,4,0,4,NA,0,NA,NA,NA,0
+461569,2nd innings,Pakistan,South Africa,0.1,Imran Farhat,Mohammad Hafeez,M Morkel,2,0,2,NA,0,NA,NA,NA,1
+461569,2nd innings,Pakistan,South Africa,0.2,Imran Farhat,Mohammad Hafeez,M Morkel,0,1,1,legbyes,0,NA,NA,NA,1
+461569,2nd innings,Pakistan,South Africa,0.3,Mohammad Hafeez,Imran Farhat,M Morkel,0,0,0,NA,0,NA,NA,NA,1
+461569,2nd innings,Pakistan,South Africa,0.4,Mohammad Hafeez,Imran Farhat,M Morkel,2,0,2,NA,0,NA,NA,NA,1
+461569,2nd innings,Pakistan,South Africa,0.5,Mohammad Hafeez,Imran Farhat,M Morkel,1,0,1,NA,0,NA,NA,NA,1
+461569,2nd innings,Pakistan,South Africa,0.6,Imran Farhat,Mohammad Hafeez,M Morkel,0,0,0,NA,1,lbw,Imran Farhat,NA,1
+461569,2nd innings,Pakistan,South Africa,1.1,Mohammad Hafeez,Younis Khan,WD Parnell,3,0,3,NA,0,NA,NA,NA,1
+461569,2nd innings,Pakistan,South Africa,1.2,Younis Khan,Mohammad Hafeez,WD Parnell,0,0,0,NA,0,NA,NA,NA,1
+461569,2nd innings,Pakistan,South Africa,1.3,Younis Khan,Mohammad Hafeez,WD Parnell,0,0,0,NA,0,NA,NA,NA,1
+461569,2nd innings,Pakistan,South Africa,1.4,Younis Khan,Mohammad Hafeez,WD Parnell,3,0,3,NA,0,NA,NA,NA,1
+461569,2nd innings,Pakistan,South Africa,1.5,Mohammad Hafeez,Younis Khan,WD Parnell,1,0,1,NA,0,NA,NA,NA,1
+461569,2nd innings,Pakistan,South Africa,1.6,Younis Khan,Mohammad Hafeez,WD Parnell,2,0,2,NA,0,NA,NA,NA,1
+461569,2nd innings,Pakistan,South Africa,2.1,Mohammad Hafeez,Younis Khan,M Morkel,0,0,0,NA,0,NA,NA,NA,1
+461569,2nd innings,Pakistan,South Africa,2.2,Mohammad Hafeez,Younis Khan,M Morkel,3,0,3,NA,0,NA,NA,NA,1
+461569,2nd innings,Pakistan,South Africa,2.3,Younis Khan,Mohammad Hafeez,M Morkel,0,0,0,NA,0,NA,NA,NA,1
+461569,2nd innings,Pakistan,South Africa,2.4,Younis Khan,Mohammad Hafeez,M Morkel,1,0,1,NA,0,NA,NA,NA,1
+461569,2nd innings,Pakistan,South Africa,2.5,Mohammad Hafeez,Younis Khan,M Morkel,1,0,1,NA,0,NA,NA,NA,1
+461569,2nd innings,Pakistan,South Africa,2.6,Younis Khan,Mohammad Hafeez,M Morkel,2,0,2,NA,0,NA,NA,NA,1
+461569,2nd innings,Pakistan,South Africa,3.1,Mohammad Hafeez,Younis Khan,WD Parnell,0,0,0,NA,0,NA,NA,NA,1
+461569,2nd innings,Pakistan,South Africa,3.2,Mohammad Hafeez,Younis Khan,WD Parnell,0,1,1,wides,0,NA,NA,NA,1
+461569,2nd innings,Pakistan,South Africa,3.3,Mohammad Hafeez,Younis Khan,WD Parnell,0,0,0,NA,0,NA,NA,NA,1
+461569,2nd innings,Pakistan,South Africa,3.4,Mohammad Hafeez,Younis Khan,WD Parnell,0,0,0,NA,0,NA,NA,NA,1
+461569,2nd innings,Pakistan,South Africa,3.5,Mohammad Hafeez,Younis Khan,WD Parnell,3,0,3,NA,0,NA,NA,NA,1
+461569,2nd innings,Pakistan,South Africa,3.6,Younis Khan,Mohammad Hafeez,WD Parnell,0,0,0,NA,0,NA,NA,NA,1
+461569,2nd innings,Pakistan,South Africa,3.7,Younis Khan,Mohammad Hafeez,WD Parnell,1,0,1,NA,0,NA,NA,NA,1
+461569,2nd innings,Pakistan,South Africa,4.1,Younis Khan,Mohammad Hafeez,M Morkel,0,0,0,NA,0,NA,NA,NA,1
+461569,2nd innings,Pakistan,South Africa,4.2,Younis Khan,Mohammad Hafeez,M Morkel,0,0,0,NA,0,NA,NA,NA,1
+461569,2nd innings,Pakistan,South Africa,4.3,Younis Khan,Mohammad Hafeez,M Morkel,1,0,1,NA,0,NA,NA,NA,1
+461569,2nd innings,Pakistan,South Africa,4.4,Mohammad Hafeez,Younis Khan,M Morkel,4,0,4,NA,0,NA,NA,NA,1
+461569,2nd innings,Pakistan,South Africa,4.5,Mohammad Hafeez,Younis Khan,M Morkel,0,0,0,NA,0,NA,NA,NA,1
+461569,2nd innings,Pakistan,South Africa,4.6,Mohammad Hafeez,Younis Khan,M Morkel,0,0,0,NA,0,NA,NA,NA,1
+461569,2nd innings,Pakistan,South Africa,5.1,Younis Khan,Mohammad Hafeez,DW Steyn,0,0,0,NA,0,NA,NA,NA,1
+461569,2nd innings,Pakistan,South Africa,5.2,Younis Khan,Mohammad Hafeez,DW Steyn,1,0,1,NA,0,NA,NA,NA,1
+461569,2nd innings,Pakistan,South Africa,5.3,Mohammad Hafeez,Younis Khan,DW Steyn,4,0,4,NA,0,NA,NA,NA,1
+461569,2nd innings,Pakistan,South Africa,5.4,Mohammad Hafeez,Younis Khan,DW Steyn,2,0,2,NA,0,NA,NA,NA,1
+461569,2nd innings,Pakistan,South Africa,5.5,Mohammad Hafeez,Younis Khan,DW Steyn,4,0,4,NA,0,NA,NA,NA,1
+461569,2nd innings,Pakistan,South Africa,5.6,Mohammad Hafeez,Younis Khan,DW Steyn,0,0,0,NA,0,NA,NA,NA,1
+461569,2nd innings,Pakistan,South Africa,6.1,Younis Khan,Mohammad Hafeez,M Morkel,0,0,0,NA,0,NA,NA,NA,1
+461569,2nd innings,Pakistan,South Africa,6.2,Younis Khan,Mohammad Hafeez,M Morkel,1,0,1,NA,0,NA,NA,NA,1
+461569,2nd innings,Pakistan,South Africa,6.3,Mohammad Hafeez,Younis Khan,M Morkel,1,0,1,NA,0,NA,NA,NA,1
+461569,2nd innings,Pakistan,South Africa,6.4,Younis Khan,Mohammad Hafeez,M Morkel,0,0,0,NA,0,NA,NA,NA,1
+461569,2nd innings,Pakistan,South Africa,6.5,Younis Khan,Mohammad Hafeez,M Morkel,0,0,0,NA,0,NA,NA,NA,1
+461569,2nd innings,Pakistan,South Africa,6.6,Younis Khan,Mohammad Hafeez,M Morkel,0,0,0,NA,0,NA,NA,NA,1
+461569,2nd innings,Pakistan,South Africa,7.1,Mohammad Hafeez,Younis Khan,DW Steyn,3,0,3,NA,0,NA,NA,NA,1
+461569,2nd innings,Pakistan,South Africa,7.2,Younis Khan,Mohammad Hafeez,DW Steyn,0,0,0,NA,0,NA,NA,NA,1
+461569,2nd innings,Pakistan,South Africa,7.3,Younis Khan,Mohammad Hafeez,DW Steyn,0,0,0,NA,0,NA,NA,NA,1
+461569,2nd innings,Pakistan,South Africa,7.4,Younis Khan,Mohammad Hafeez,DW Steyn,2,0,2,NA,0,NA,NA,NA,1
+461569,2nd innings,Pakistan,South Africa,7.5,Younis Khan,Mohammad Hafeez,DW Steyn,0,0,0,NA,0,NA,NA,NA,1
+461569,2nd innings,Pakistan,South Africa,7.6,Younis Khan,Mohammad Hafeez,DW Steyn,0,0,0,NA,0,NA,NA,NA,1
+461569,2nd innings,Pakistan,South Africa,8.1,Mohammad Hafeez,Younis Khan,WD Parnell,4,0,4,NA,0,NA,NA,NA,1
+461569,2nd innings,Pakistan,South Africa,8.2,Mohammad Hafeez,Younis Khan,WD Parnell,0,0,0,NA,0,NA,NA,NA,1
+461569,2nd innings,Pakistan,South Africa,8.3,Mohammad Hafeez,Younis Khan,WD Parnell,0,0,0,NA,0,NA,NA,NA,1
+461569,2nd innings,Pakistan,South Africa,8.4,Mohammad Hafeez,Younis Khan,WD Parnell,1,0,1,NA,0,NA,NA,NA,1
+461569,2nd innings,Pakistan,South Africa,8.5,Younis Khan,Mohammad Hafeez,WD Parnell,1,0,1,NA,0,NA,NA,NA,1
+461569,2nd innings,Pakistan,South Africa,8.6,Mohammad Hafeez,Younis Khan,WD Parnell,0,1,1,wides,0,NA,NA,NA,1
+461569,2nd innings,Pakistan,South Africa,8.7,Mohammad Hafeez,Younis Khan,WD Parnell,0,0,0,NA,0,NA,NA,NA,1
+461569,2nd innings,Pakistan,South Africa,9.1,Younis Khan,Mohammad Hafeez,DW Steyn,0,0,0,NA,0,NA,NA,NA,1
+461569,2nd innings,Pakistan,South Africa,9.2,Younis Khan,Mohammad Hafeez,DW Steyn,1,0,1,NA,0,NA,NA,NA,1
+461569,2nd innings,Pakistan,South Africa,9.3,Mohammad Hafeez,Younis Khan,DW Steyn,4,0,4,NA,0,NA,NA,NA,1
+461569,2nd innings,Pakistan,South Africa,9.4,Mohammad Hafeez,Younis Khan,DW Steyn,1,0,1,NA,0,NA,NA,NA,1
+461569,2nd innings,Pakistan,South Africa,9.5,Younis Khan,Mohammad Hafeez,DW Steyn,1,0,1,NA,0,NA,NA,NA,1
+461569,2nd innings,Pakistan,South Africa,9.6,Mohammad Hafeez,Younis Khan,DW Steyn,0,0,0,NA,1,lbw,Mohammad Hafeez,NA,1
+461569,2nd innings,Pakistan,South Africa,10.1,Younis Khan,Asad Shafiq,WD Parnell,1,0,1,NA,0,NA,NA,NA,1
+461569,2nd innings,Pakistan,South Africa,10.2,Asad Shafiq,Younis Khan,WD Parnell,0,0,0,NA,0,NA,NA,NA,1
+461569,2nd innings,Pakistan,South Africa,10.3,Asad Shafiq,Younis Khan,WD Parnell,0,0,0,NA,0,NA,NA,NA,1
+461569,2nd innings,Pakistan,South Africa,10.4,Asad Shafiq,Younis Khan,WD Parnell,1,0,1,NA,0,NA,NA,NA,1
+461569,2nd innings,Pakistan,South Africa,10.5,Younis Khan,Asad Shafiq,WD Parnell,1,0,1,NA,0,NA,NA,NA,1
+461569,2nd innings,Pakistan,South Africa,10.6,Asad Shafiq,Younis Khan,WD Parnell,1,0,1,NA,0,NA,NA,NA,1
+461569,2nd innings,Pakistan,South Africa,11.1,Asad Shafiq,Younis Khan,DW Steyn,0,1,1,wides,0,NA,NA,NA,1
+461569,2nd innings,Pakistan,South Africa,11.2,Asad Shafiq,Younis Khan,DW Steyn,1,0,1,NA,0,NA,NA,NA,1
+461569,2nd innings,Pakistan,South Africa,11.3,Younis Khan,Asad Shafiq,DW Steyn,0,0,0,NA,0,NA,NA,NA,1
+461569,2nd innings,Pakistan,South Africa,11.4,Younis Khan,Asad Shafiq,DW Steyn,1,0,1,NA,0,NA,NA,NA,1
+461569,2nd innings,Pakistan,South Africa,11.5,Asad Shafiq,Younis Khan,DW Steyn,0,0,0,NA,0,NA,NA,NA,1
+461569,2nd innings,Pakistan,South Africa,11.6,Asad Shafiq,Younis Khan,DW Steyn,0,0,0,NA,0,NA,NA,NA,1
+461569,2nd innings,Pakistan,South Africa,11.7,Asad Shafiq,Younis Khan,DW Steyn,0,0,0,NA,0,NA,NA,NA,1
+461569,2nd innings,Pakistan,South Africa,12.1,Younis Khan,Asad Shafiq,WD Parnell,0,0,0,NA,0,NA,NA,NA,1
+461569,2nd innings,Pakistan,South Africa,12.2,Younis Khan,Asad Shafiq,WD Parnell,0,0,0,NA,0,NA,NA,NA,1
+461569,2nd innings,Pakistan,South Africa,12.3,Younis Khan,Asad Shafiq,WD Parnell,1,0,1,NA,0,NA,NA,NA,1
+461569,2nd innings,Pakistan,South Africa,12.4,Asad Shafiq,Younis Khan,WD Parnell,0,1,1,wides,0,NA,NA,NA,1
+461569,2nd innings,Pakistan,South Africa,12.5,Asad Shafiq,Younis Khan,WD Parnell,0,0,0,NA,0,NA,NA,NA,1
+461569,2nd innings,Pakistan,South Africa,12.6,Asad Shafiq,Younis Khan,WD Parnell,0,0,0,NA,0,NA,NA,NA,1
+461569,2nd innings,Pakistan,South Africa,12.7,Asad Shafiq,Younis Khan,WD Parnell,0,0,0,NA,0,NA,NA,NA,1
+461569,2nd innings,Pakistan,South Africa,13.1,Younis Khan,Asad Shafiq,DW Steyn,2,0,2,NA,0,NA,NA,NA,1
+461569,2nd innings,Pakistan,South Africa,13.2,Younis Khan,Asad Shafiq,DW Steyn,1,0,1,NA,0,NA,NA,NA,1
+461569,2nd innings,Pakistan,South Africa,13.3,Asad Shafiq,Younis Khan,DW Steyn,0,0,0,NA,0,NA,NA,NA,1
+461569,2nd innings,Pakistan,South Africa,13.4,Asad Shafiq,Younis Khan,DW Steyn,2,0,2,NA,0,NA,NA,NA,1
+461569,2nd innings,Pakistan,South Africa,13.5,Asad Shafiq,Younis Khan,DW Steyn,2,0,2,NA,0,NA,NA,NA,1
+461569,2nd innings,Pakistan,South Africa,13.6,Asad Shafiq,Younis Khan,DW Steyn,4,0,4,NA,0,NA,NA,NA,1
+461569,2nd innings,Pakistan,South Africa,14.1,Younis Khan,Asad Shafiq,WD Parnell,0,1,1,wides,0,NA,NA,NA,1
+461569,2nd innings,Pakistan,South Africa,14.2,Younis Khan,Asad Shafiq,WD Parnell,0,0,0,NA,0,NA,NA,NA,1
+461569,2nd innings,Pakistan,South Africa,14.3,Younis Khan,Asad Shafiq,WD Parnell,0,0,0,NA,0,NA,NA,NA,1
+461569,2nd innings,Pakistan,South Africa,14.4,Younis Khan,Asad Shafiq,WD Parnell,0,0,0,NA,0,NA,NA,NA,1
+461569,2nd innings,Pakistan,South Africa,14.5,Younis Khan,Asad Shafiq,WD Parnell,1,0,1,NA,0,NA,NA,NA,1
+461569,2nd innings,Pakistan,South Africa,14.6,Asad Shafiq,Younis Khan,WD Parnell,0,0,0,NA,0,NA,NA,NA,1
+461569,2nd innings,Pakistan,South Africa,14.7,Asad Shafiq,Younis Khan,WD Parnell,1,0,1,NA,0,NA,NA,NA,1
+461569,2nd innings,Pakistan,South Africa,15.1,Asad Shafiq,Younis Khan,J Botha,1,0,1,NA,0,NA,NA,NA,1
+461569,2nd innings,Pakistan,South Africa,15.2,Younis Khan,Asad Shafiq,J Botha,1,0,1,NA,0,NA,NA,NA,1
+461569,2nd innings,Pakistan,South Africa,15.3,Asad Shafiq,Younis Khan,J Botha,0,0,0,NA,0,NA,NA,NA,1
+461569,2nd innings,Pakistan,South Africa,15.4,Asad Shafiq,Younis Khan,J Botha,0,0,0,NA,0,NA,NA,NA,1
+461569,2nd innings,Pakistan,South Africa,15.5,Asad Shafiq,Younis Khan,J Botha,1,0,1,NA,0,NA,NA,NA,1
+461569,2nd innings,Pakistan,South Africa,15.6,Younis Khan,Asad Shafiq,J Botha,0,0,0,NA,0,NA,NA,NA,1
+461569,2nd innings,Pakistan,South Africa,16.1,Asad Shafiq,Younis Khan,JH Kallis,1,0,1,NA,0,NA,NA,NA,1
+461569,2nd innings,Pakistan,South Africa,16.2,Younis Khan,Asad Shafiq,JH Kallis,0,0,0,NA,0,NA,NA,NA,1
+461569,2nd innings,Pakistan,South Africa,16.3,Younis Khan,Asad Shafiq,JH Kallis,1,0,1,NA,0,NA,NA,NA,1
+461569,2nd innings,Pakistan,South Africa,16.4,Asad Shafiq,Younis Khan,JH Kallis,1,0,1,NA,0,NA,NA,NA,1
+461569,2nd innings,Pakistan,South Africa,16.5,Younis Khan,Asad Shafiq,JH Kallis,0,0,0,NA,0,NA,NA,NA,1
+461569,2nd innings,Pakistan,South Africa,16.6,Younis Khan,Asad Shafiq,JH Kallis,0,0,0,NA,0,NA,NA,NA,1
+461569,2nd innings,Pakistan,South Africa,17.1,Asad Shafiq,Younis Khan,J Botha,0,0,0,NA,0,NA,NA,NA,1
+461569,2nd innings,Pakistan,South Africa,17.2,Asad Shafiq,Younis Khan,J Botha,1,0,1,NA,0,NA,NA,NA,1
+461569,2nd innings,Pakistan,South Africa,17.3,Younis Khan,Asad Shafiq,J Botha,1,0,1,NA,0,NA,NA,NA,1
+461569,2nd innings,Pakistan,South Africa,17.4,Asad Shafiq,Younis Khan,J Botha,0,0,0,NA,0,NA,NA,NA,1
+461569,2nd innings,Pakistan,South Africa,17.5,Asad Shafiq,Younis Khan,J Botha,1,0,1,NA,0,NA,NA,NA,1
+461569,2nd innings,Pakistan,South Africa,17.6,Younis Khan,Asad Shafiq,J Botha,0,0,0,NA,0,NA,NA,NA,1
+461569,2nd innings,Pakistan,South Africa,18.1,Asad Shafiq,Younis Khan,JH Kallis,4,0,4,NA,0,NA,NA,NA,1
+461569,2nd innings,Pakistan,South Africa,18.2,Asad Shafiq,Younis Khan,JH Kallis,0,0,0,NA,0,NA,NA,NA,1
+461569,2nd innings,Pakistan,South Africa,18.3,Asad Shafiq,Younis Khan,JH Kallis,2,0,2,NA,0,NA,NA,NA,1
+461569,2nd innings,Pakistan,South Africa,18.4,Asad Shafiq,Younis Khan,JH Kallis,1,0,1,NA,0,NA,NA,NA,1
+461569,2nd innings,Pakistan,South Africa,18.5,Younis Khan,Asad Shafiq,JH Kallis,0,1,1,wides,0,NA,NA,NA,1
+461569,2nd innings,Pakistan,South Africa,18.6,Younis Khan,Asad Shafiq,JH Kallis,1,0,1,NA,0,NA,NA,NA,1
+461569,2nd innings,Pakistan,South Africa,18.7,Asad Shafiq,Younis Khan,JH Kallis,0,0,0,NA,0,NA,NA,NA,1
+461569,2nd innings,Pakistan,South Africa,19.1,Younis Khan,Asad Shafiq,J Botha,1,0,1,NA,0,NA,NA,NA,1
+461569,2nd innings,Pakistan,South Africa,19.2,Asad Shafiq,Younis Khan,J Botha,0,0,0,NA,0,NA,NA,NA,1
+461569,2nd innings,Pakistan,South Africa,19.3,Asad Shafiq,Younis Khan,J Botha,0,0,0,NA,0,NA,NA,NA,1
+461569,2nd innings,Pakistan,South Africa,19.4,Asad Shafiq,Younis Khan,J Botha,4,0,4,NA,0,NA,NA,NA,1
+461569,2nd innings,Pakistan,South Africa,19.5,Asad Shafiq,Younis Khan,J Botha,1,0,1,NA,0,NA,NA,NA,1
+461569,2nd innings,Pakistan,South Africa,19.6,Younis Khan,Asad Shafiq,J Botha,0,0,0,NA,0,NA,NA,NA,1
+461569,2nd innings,Pakistan,South Africa,20.1,Asad Shafiq,Younis Khan,JH Kallis,1,0,1,NA,0,NA,NA,NA,1
+461569,2nd innings,Pakistan,South Africa,20.2,Younis Khan,Asad Shafiq,JH Kallis,1,0,1,NA,0,NA,NA,NA,1
+461569,2nd innings,Pakistan,South Africa,20.3,Asad Shafiq,Younis Khan,JH Kallis,0,1,1,wides,0,NA,NA,NA,1
+461569,2nd innings,Pakistan,South Africa,20.4,Asad Shafiq,Younis Khan,JH Kallis,0,0,0,NA,0,NA,NA,NA,1
+461569,2nd innings,Pakistan,South Africa,20.5,Asad Shafiq,Younis Khan,JH Kallis,0,0,0,NA,0,NA,NA,NA,1
+461569,2nd innings,Pakistan,South Africa,20.6,Asad Shafiq,Younis Khan,JH Kallis,0,0,0,NA,0,NA,NA,NA,1
+461569,2nd innings,Pakistan,South Africa,20.7,Asad Shafiq,Younis Khan,JH Kallis,1,0,1,NA,0,NA,NA,NA,1
+461569,2nd innings,Pakistan,South Africa,21.1,Asad Shafiq,Younis Khan,J Botha,0,0,0,NA,0,NA,NA,NA,1
+461569,2nd innings,Pakistan,South Africa,21.2,Asad Shafiq,Younis Khan,J Botha,0,0,0,NA,0,NA,NA,NA,1
+461569,2nd innings,Pakistan,South Africa,21.3,Asad Shafiq,Younis Khan,J Botha,1,0,1,NA,0,NA,NA,NA,1
+461569,2nd innings,Pakistan,South Africa,21.4,Younis Khan,Asad Shafiq,J Botha,1,0,1,NA,0,NA,NA,NA,1
+461569,2nd innings,Pakistan,South Africa,21.5,Asad Shafiq,Younis Khan,J Botha,2,0,2,NA,0,NA,NA,NA,1
+461569,2nd innings,Pakistan,South Africa,21.6,Asad Shafiq,Younis Khan,J Botha,1,0,1,NA,0,NA,NA,NA,1
+461569,2nd innings,Pakistan,South Africa,22.1,Asad Shafiq,Younis Khan,JH Kallis,0,0,0,NA,0,NA,NA,NA,1
+461569,2nd innings,Pakistan,South Africa,22.2,Asad Shafiq,Younis Khan,JH Kallis,0,0,0,NA,1,run out,Asad Shafiq,WD Parnell,1
+461569,2nd innings,Pakistan,South Africa,22.3,Younis Khan,Fawad Alam,JH Kallis,1,0,1,NA,0,NA,NA,NA,1
+461569,2nd innings,Pakistan,South Africa,22.4,Fawad Alam,Younis Khan,JH Kallis,1,0,1,NA,0,NA,NA,NA,1
+461569,2nd innings,Pakistan,South Africa,22.5,Younis Khan,Fawad Alam,JH Kallis,1,0,1,NA,0,NA,NA,NA,1
+461569,2nd innings,Pakistan,South Africa,22.6,Fawad Alam,Younis Khan,JH Kallis,1,0,1,NA,0,NA,NA,NA,1
+461569,2nd innings,Pakistan,South Africa,23.1,Fawad Alam,Younis Khan,J Botha,0,0,0,NA,0,NA,NA,NA,1
+461569,2nd innings,Pakistan,South Africa,23.2,Fawad Alam,Younis Khan,J Botha,1,0,1,NA,0,NA,NA,NA,1
+461569,2nd innings,Pakistan,South Africa,23.3,Younis Khan,Fawad Alam,J Botha,1,0,1,NA,0,NA,NA,NA,1
+461569,2nd innings,Pakistan,South Africa,23.4,Fawad Alam,Younis Khan,J Botha,1,0,1,NA,0,NA,NA,NA,1
+461569,2nd innings,Pakistan,South Africa,23.5,Younis Khan,Fawad Alam,J Botha,0,0,0,NA,0,NA,NA,NA,1
+461569,2nd innings,Pakistan,South Africa,23.6,Younis Khan,Fawad Alam,J Botha,1,0,1,NA,0,NA,NA,NA,1
+461569,2nd innings,Pakistan,South Africa,24.1,Younis Khan,Fawad Alam,JH Kallis,0,0,0,NA,0,NA,NA,NA,1
+461569,2nd innings,Pakistan,South Africa,24.2,Younis Khan,Fawad Alam,JH Kallis,1,0,1,NA,0,NA,NA,NA,1
+461569,2nd innings,Pakistan,South Africa,24.3,Fawad Alam,Younis Khan,JH Kallis,2,0,2,NA,0,NA,NA,NA,1
+461569,2nd innings,Pakistan,South Africa,24.4,Fawad Alam,Younis Khan,JH Kallis,0,0,0,NA,0,NA,NA,NA,1
+461569,2nd innings,Pakistan,South Africa,24.5,Fawad Alam,Younis Khan,JH Kallis,0,0,0,NA,1,caught,Fawad Alam,DA Miller,1
+461569,2nd innings,Pakistan,South Africa,24.6,Shahid Afridi,Younis Khan,JH Kallis,0,0,0,NA,0,NA,NA,NA,1
+461569,2nd innings,Pakistan,South Africa,25.1,Younis Khan,Shahid Afridi,J Botha,1,0,1,NA,0,NA,NA,NA,1
+461569,2nd innings,Pakistan,South Africa,25.2,Shahid Afridi,Younis Khan,J Botha,3,0,3,NA,0,NA,NA,NA,1
+461569,2nd innings,Pakistan,South Africa,25.3,Younis Khan,Shahid Afridi,J Botha,0,0,0,NA,0,NA,NA,NA,1
+461569,2nd innings,Pakistan,South Africa,25.4,Younis Khan,Shahid Afridi,J Botha,1,0,1,NA,0,NA,NA,NA,1
+461569,2nd innings,Pakistan,South Africa,25.5,Shahid Afridi,Younis Khan,J Botha,0,0,0,NA,0,NA,NA,NA,1
+461569,2nd innings,Pakistan,South Africa,25.6,Shahid Afridi,Younis Khan,J Botha,0,0,0,NA,0,NA,NA,NA,1
+461569,2nd innings,Pakistan,South Africa,26.1,Younis Khan,Shahid Afridi,JH Kallis,0,0,0,NA,0,NA,NA,NA,1
+461569,2nd innings,Pakistan,South Africa,26.2,Younis Khan,Shahid Afridi,JH Kallis,0,0,0,NA,0,NA,NA,NA,1
+461569,2nd innings,Pakistan,South Africa,26.3,Younis Khan,Shahid Afridi,JH Kallis,1,0,1,NA,0,NA,NA,NA,1
+461569,2nd innings,Pakistan,South Africa,26.4,Shahid Afridi,Younis Khan,JH Kallis,0,0,0,NA,0,NA,NA,NA,1
+461569,2nd innings,Pakistan,South Africa,26.5,Shahid Afridi,Younis Khan,JH Kallis,0,0,0,NA,0,NA,NA,NA,1
+461569,2nd innings,Pakistan,South Africa,26.6,Shahid Afridi,Younis Khan,JH Kallis,4,0,4,NA,0,NA,NA,NA,1
+461569,2nd innings,Pakistan,South Africa,27.1,Younis Khan,Shahid Afridi,J Botha,1,0,1,NA,0,NA,NA,NA,1
+461569,2nd innings,Pakistan,South Africa,27.2,Shahid Afridi,Younis Khan,J Botha,1,0,1,NA,0,NA,NA,NA,1
+461569,2nd innings,Pakistan,South Africa,27.3,Younis Khan,Shahid Afridi,J Botha,1,0,1,NA,0,NA,NA,NA,1
+461569,2nd innings,Pakistan,South Africa,27.4,Shahid Afridi,Younis Khan,J Botha,0,0,0,NA,0,NA,NA,NA,1
+461569,2nd innings,Pakistan,South Africa,27.5,Shahid Afridi,Younis Khan,J Botha,1,0,1,NA,0,NA,NA,NA,1
+461569,2nd innings,Pakistan,South Africa,27.6,Younis Khan,Shahid Afridi,J Botha,0,0,0,NA,0,NA,NA,NA,1
+461569,2nd innings,Pakistan,South Africa,28.1,Shahid Afridi,Younis Khan,DW Steyn,4,0,4,NA,0,NA,NA,NA,1
+461569,2nd innings,Pakistan,South Africa,28.2,Shahid Afridi,Younis Khan,DW Steyn,0,0,0,NA,0,NA,NA,NA,1
+461569,2nd innings,Pakistan,South Africa,28.3,Shahid Afridi,Younis Khan,DW Steyn,4,0,4,NA,0,NA,NA,NA,1
+461569,2nd innings,Pakistan,South Africa,28.4,Shahid Afridi,Younis Khan,DW Steyn,0,0,0,NA,0,NA,NA,NA,1
+461569,2nd innings,Pakistan,South Africa,28.5,Shahid Afridi,Younis Khan,DW Steyn,4,0,4,NA,0,NA,NA,NA,1
+461569,2nd innings,Pakistan,South Africa,28.6,Shahid Afridi,Younis Khan,DW Steyn,1,0,1,NA,0,NA,NA,NA,1
+461569,2nd innings,Pakistan,South Africa,29.1,Shahid Afridi,Younis Khan,J Botha,0,0,0,NA,0,NA,NA,NA,1
+461569,2nd innings,Pakistan,South Africa,29.2,Shahid Afridi,Younis Khan,J Botha,1,0,1,NA,0,NA,NA,NA,1
+461569,2nd innings,Pakistan,South Africa,29.3,Younis Khan,Shahid Afridi,J Botha,1,0,1,NA,0,NA,NA,NA,1
+461569,2nd innings,Pakistan,South Africa,29.4,Shahid Afridi,Younis Khan,J Botha,1,0,1,NA,0,NA,NA,NA,1
+461569,2nd innings,Pakistan,South Africa,29.5,Younis Khan,Shahid Afridi,J Botha,1,0,1,NA,0,NA,NA,NA,1
+461569,2nd innings,Pakistan,South Africa,29.6,Shahid Afridi,Younis Khan,J Botha,1,0,1,NA,0,NA,NA,NA,1
+461569,2nd innings,Pakistan,South Africa,30.1,Shahid Afridi,Younis Khan,M Morkel,0,0,0,NA,0,NA,NA,NA,1
+461569,2nd innings,Pakistan,South Africa,30.2,Shahid Afridi,Younis Khan,M Morkel,1,0,1,NA,0,NA,NA,NA,1
+461569,2nd innings,Pakistan,South Africa,30.3,Younis Khan,Shahid Afridi,M Morkel,1,0,1,NA,0,NA,NA,NA,1
+461569,2nd innings,Pakistan,South Africa,30.4,Shahid Afridi,Younis Khan,M Morkel,2,0,2,NA,0,NA,NA,NA,1
+461569,2nd innings,Pakistan,South Africa,30.5,Shahid Afridi,Younis Khan,M Morkel,0,1,1,wides,0,NA,NA,NA,1
+461569,2nd innings,Pakistan,South Africa,30.6,Shahid Afridi,Younis Khan,M Morkel,1,0,1,NA,0,NA,NA,NA,1
+461569,2nd innings,Pakistan,South Africa,30.7,Younis Khan,Shahid Afridi,M Morkel,1,0,1,NA,0,NA,NA,NA,1
+461569,2nd innings,Pakistan,South Africa,31.1,Younis Khan,Shahid Afridi,J Botha,1,0,1,NA,0,NA,NA,NA,1
+461569,2nd innings,Pakistan,South Africa,31.2,Shahid Afridi,Younis Khan,J Botha,0,0,0,NA,1,caught,Shahid Afridi,WD Parnell,1
+461569,2nd innings,Pakistan,South Africa,31.3,Younis Khan,Abdul Razzaq,J Botha,1,0,1,NA,0,NA,NA,NA,1
+461569,2nd innings,Pakistan,South Africa,31.4,Abdul Razzaq,Younis Khan,J Botha,0,0,0,NA,0,NA,NA,NA,1
+461569,2nd innings,Pakistan,South Africa,31.5,Abdul Razzaq,Younis Khan,J Botha,1,0,1,NA,0,NA,NA,NA,1
+461569,2nd innings,Pakistan,South Africa,31.6,Younis Khan,Abdul Razzaq,J Botha,1,0,1,NA,0,NA,NA,NA,1
+461569,2nd innings,Pakistan,South Africa,32.1,Younis Khan,Abdul Razzaq,M Morkel,0,0,0,NA,0,NA,NA,NA,1
+461569,2nd innings,Pakistan,South Africa,32.2,Younis Khan,Abdul Razzaq,M Morkel,0,0,0,NA,0,NA,NA,NA,1
+461569,2nd innings,Pakistan,South Africa,32.3,Younis Khan,Abdul Razzaq,M Morkel,0,0,0,NA,0,NA,NA,NA,1
+461569,2nd innings,Pakistan,South Africa,32.4,Younis Khan,Abdul Razzaq,M Morkel,0,0,0,NA,0,NA,NA,NA,1
+461569,2nd innings,Pakistan,South Africa,32.5,Younis Khan,Abdul Razzaq,M Morkel,0,0,0,NA,0,NA,NA,NA,1
+461569,2nd innings,Pakistan,South Africa,32.6,Younis Khan,Abdul Razzaq,M Morkel,1,0,1,NA,0,NA,NA,NA,1
+461569,2nd innings,Pakistan,South Africa,33.1,Younis Khan,Abdul Razzaq,J Botha,0,0,0,NA,0,NA,NA,NA,1
+461569,2nd innings,Pakistan,South Africa,33.2,Younis Khan,Abdul Razzaq,J Botha,0,1,1,noballs,0,NA,NA,NA,1
+461569,2nd innings,Pakistan,South Africa,33.3,Younis Khan,Abdul Razzaq,J Botha,1,0,1,NA,0,NA,NA,NA,1
+461569,2nd innings,Pakistan,South Africa,33.4,Abdul Razzaq,Younis Khan,J Botha,0,0,0,NA,0,NA,NA,NA,1
+461569,2nd innings,Pakistan,South Africa,33.5,Abdul Razzaq,Younis Khan,J Botha,0,0,0,NA,0,NA,NA,NA,1
+461569,2nd innings,Pakistan,South Africa,33.6,Abdul Razzaq,Younis Khan,J Botha,1,0,1,NA,0,NA,NA,NA,1
+461569,2nd innings,Pakistan,South Africa,33.7,Younis Khan,Abdul Razzaq,J Botha,0,0,0,NA,0,NA,NA,NA,1
+461569,2nd innings,Pakistan,South Africa,34.1,Abdul Razzaq,Younis Khan,M Morkel,0,0,0,NA,0,NA,NA,NA,1
+461569,2nd innings,Pakistan,South Africa,34.2,Abdul Razzaq,Younis Khan,M Morkel,1,0,1,NA,0,NA,NA,NA,1
+461569,2nd innings,Pakistan,South Africa,34.3,Younis Khan,Abdul Razzaq,M Morkel,0,0,0,NA,0,NA,NA,NA,1
+461569,2nd innings,Pakistan,South Africa,34.4,Younis Khan,Abdul Razzaq,M Morkel,0,1,1,legbyes,0,NA,NA,NA,1
+461569,2nd innings,Pakistan,South Africa,34.5,Abdul Razzaq,Younis Khan,M Morkel,0,1,1,wides,0,NA,NA,NA,1
+461569,2nd innings,Pakistan,South Africa,34.6,Abdul Razzaq,Younis Khan,M Morkel,1,0,1,NA,0,NA,NA,NA,1
+461569,2nd innings,Pakistan,South Africa,34.7,Younis Khan,Abdul Razzaq,M Morkel,2,0,2,NA,0,NA,NA,NA,1
+461569,2nd innings,Pakistan,South Africa,35.1,Abdul Razzaq,Younis Khan,DW Steyn,1,0,1,NA,0,NA,NA,NA,1
+461569,2nd innings,Pakistan,South Africa,35.2,Younis Khan,Abdul Razzaq,DW Steyn,2,0,2,NA,0,NA,NA,NA,1
+461569,2nd innings,Pakistan,South Africa,35.3,Younis Khan,Abdul Razzaq,DW Steyn,0,0,0,NA,0,NA,NA,NA,1
+461569,2nd innings,Pakistan,South Africa,35.4,Younis Khan,Abdul Razzaq,DW Steyn,0,2,2,legbyes,0,NA,NA,NA,1
+461569,2nd innings,Pakistan,South Africa,35.5,Younis Khan,Abdul Razzaq,DW Steyn,0,0,0,NA,0,NA,NA,NA,1
+461569,2nd innings,Pakistan,South Africa,35.6,Younis Khan,Abdul Razzaq,DW Steyn,0,0,0,NA,0,NA,NA,NA,1
+461569,2nd innings,Pakistan,South Africa,36.1,Abdul Razzaq,Younis Khan,WD Parnell,0,0,0,NA,0,NA,NA,NA,1
+461569,2nd innings,Pakistan,South Africa,36.2,Abdul Razzaq,Younis Khan,WD Parnell,2,0,2,NA,0,NA,NA,NA,1
+461569,2nd innings,Pakistan,South Africa,36.3,Abdul Razzaq,Younis Khan,WD Parnell,1,0,1,NA,0,NA,NA,NA,1
+461569,2nd innings,Pakistan,South Africa,36.4,Younis Khan,Abdul Razzaq,WD Parnell,4,0,4,NA,0,NA,NA,NA,1
+461569,2nd innings,Pakistan,South Africa,36.5,Younis Khan,Abdul Razzaq,WD Parnell,1,0,1,NA,0,NA,NA,NA,1
+461569,2nd innings,Pakistan,South Africa,36.6,Abdul Razzaq,Younis Khan,WD Parnell,0,1,1,wides,0,NA,NA,NA,1
+461569,2nd innings,Pakistan,South Africa,36.7,Abdul Razzaq,Younis Khan,WD Parnell,0,1,1,wides,0,NA,NA,NA,1
+461569,2nd innings,Pakistan,South Africa,36.8,Abdul Razzaq,Younis Khan,WD Parnell,0,0,0,NA,0,NA,NA,NA,1
+461569,2nd innings,Pakistan,South Africa,37.1,Younis Khan,Abdul Razzaq,JP Duminy,1,0,1,NA,0,NA,NA,NA,1
+461569,2nd innings,Pakistan,South Africa,37.2,Abdul Razzaq,Younis Khan,JP Duminy,1,0,1,NA,0,NA,NA,NA,1
+461569,2nd innings,Pakistan,South Africa,37.3,Younis Khan,Abdul Razzaq,JP Duminy,0,0,0,NA,0,NA,NA,NA,1
+461569,2nd innings,Pakistan,South Africa,37.4,Younis Khan,Abdul Razzaq,JP Duminy,1,0,1,NA,0,NA,NA,NA,1
+461569,2nd innings,Pakistan,South Africa,37.5,Abdul Razzaq,Younis Khan,JP Duminy,0,0,0,NA,0,NA,NA,NA,1
+461569,2nd innings,Pakistan,South Africa,37.6,Abdul Razzaq,Younis Khan,JP Duminy,0,0,0,NA,0,NA,NA,NA,1
+461569,2nd innings,Pakistan,South Africa,38.1,Younis Khan,Abdul Razzaq,JH Kallis,1,0,1,NA,0,NA,NA,NA,1
+461569,2nd innings,Pakistan,South Africa,38.2,Abdul Razzaq,Younis Khan,JH Kallis,1,0,1,NA,0,NA,NA,NA,1
+461569,2nd innings,Pakistan,South Africa,38.3,Younis Khan,Abdul Razzaq,JH Kallis,0,0,0,NA,0,NA,NA,NA,1
+461569,2nd innings,Pakistan,South Africa,38.4,Younis Khan,Abdul Razzaq,JH Kallis,0,0,0,NA,0,NA,NA,NA,1
+461569,2nd innings,Pakistan,South Africa,38.5,Younis Khan,Abdul Razzaq,JH Kallis,1,0,1,NA,0,NA,NA,NA,1
+461569,2nd innings,Pakistan,South Africa,38.6,Abdul Razzaq,Younis Khan,JH Kallis,0,0,0,NA,0,NA,NA,NA,1
+461569,2nd innings,Pakistan,South Africa,39.1,Younis Khan,Abdul Razzaq,JP Duminy,1,0,1,NA,0,NA,NA,NA,1
+461569,2nd innings,Pakistan,South Africa,39.2,Abdul Razzaq,Younis Khan,JP Duminy,1,0,1,NA,0,NA,NA,NA,1
+461569,2nd innings,Pakistan,South Africa,39.3,Younis Khan,Abdul Razzaq,JP Duminy,1,0,1,NA,0,NA,NA,NA,1
+461569,2nd innings,Pakistan,South Africa,39.4,Abdul Razzaq,Younis Khan,JP Duminy,1,0,1,NA,0,NA,NA,NA,1
+461569,2nd innings,Pakistan,South Africa,39.5,Younis Khan,Abdul Razzaq,JP Duminy,2,0,2,NA,0,NA,NA,NA,1
+461569,2nd innings,Pakistan,South Africa,39.6,Younis Khan,Abdul Razzaq,JP Duminy,0,0,0,NA,0,NA,NA,NA,1
+461569,2nd innings,Pakistan,South Africa,40.1,Abdul Razzaq,Younis Khan,JH Kallis,0,0,0,NA,0,NA,NA,NA,1
+461569,2nd innings,Pakistan,South Africa,40.2,Abdul Razzaq,Younis Khan,JH Kallis,1,0,1,NA,0,NA,NA,NA,1
+461569,2nd innings,Pakistan,South Africa,40.3,Younis Khan,Abdul Razzaq,JH Kallis,1,0,1,NA,0,NA,NA,NA,1
+461569,2nd innings,Pakistan,South Africa,40.4,Abdul Razzaq,Younis Khan,JH Kallis,1,0,1,NA,0,NA,NA,NA,1
+461569,2nd innings,Pakistan,South Africa,40.5,Younis Khan,Abdul Razzaq,JH Kallis,0,0,0,NA,0,NA,NA,NA,1
+461569,2nd innings,Pakistan,South Africa,40.6,Younis Khan,Abdul Razzaq,JH Kallis,0,0,0,NA,0,NA,NA,NA,1
+461569,2nd innings,Pakistan,South Africa,41.1,Abdul Razzaq,Younis Khan,DW Steyn,1,0,1,NA,0,NA,NA,NA,1
+461569,2nd innings,Pakistan,South Africa,41.2,Younis Khan,Abdul Razzaq,DW Steyn,2,0,2,NA,0,NA,NA,NA,1
+461569,2nd innings,Pakistan,South Africa,41.3,Younis Khan,Abdul Razzaq,DW Steyn,1,0,1,NA,0,NA,NA,NA,1
+461569,2nd innings,Pakistan,South Africa,41.4,Abdul Razzaq,Younis Khan,DW Steyn,0,0,0,NA,0,NA,NA,NA,1
+461569,2nd innings,Pakistan,South Africa,41.5,Abdul Razzaq,Younis Khan,DW Steyn,1,0,1,NA,0,NA,NA,NA,1
+461569,2nd innings,Pakistan,South Africa,41.6,Younis Khan,Abdul Razzaq,DW Steyn,1,0,1,NA,0,NA,NA,NA,1
+461569,2nd innings,Pakistan,South Africa,42.1,Younis Khan,Abdul Razzaq,M Morkel,0,0,0,NA,1,bowled,Younis Khan,NA,1
+461569,2nd innings,Pakistan,South Africa,42.2,Abdur Rehman,Abdul Razzaq,M Morkel,0,0,0,NA,0,NA,NA,NA,1
+461569,2nd innings,Pakistan,South Africa,42.3,Abdur Rehman,Abdul Razzaq,M Morkel,0,0,0,NA,1,run out,Abdur Rehman,JH Kallis,1
+461569,2nd innings,Pakistan,South Africa,42.4,Zulqarnain Haider,Abdul Razzaq,M Morkel,0,0,0,NA,0,NA,NA,NA,1
+461569,2nd innings,Pakistan,South Africa,42.5,Zulqarnain Haider,Abdul Razzaq,M Morkel,0,1,1,wides,0,NA,NA,NA,1
+461569,2nd innings,Pakistan,South Africa,42.6,Zulqarnain Haider,Abdul Razzaq,M Morkel,0,0,0,NA,0,NA,NA,NA,1
+461569,2nd innings,Pakistan,South Africa,42.7,Zulqarnain Haider,Abdul Razzaq,M Morkel,0,0,0,NA,0,NA,NA,NA,1
+461569,2nd innings,Pakistan,South Africa,43.1,Abdul Razzaq,Zulqarnain Haider,WD Parnell,4,0,4,NA,0,NA,NA,NA,1
+461569,2nd innings,Pakistan,South Africa,43.2,Abdul Razzaq,Zulqarnain Haider,WD Parnell,1,0,1,NA,0,NA,NA,NA,1
+461569,2nd innings,Pakistan,South Africa,43.3,Zulqarnain Haider,Abdul Razzaq,WD Parnell,1,0,1,NA,0,NA,NA,NA,1
+461569,2nd innings,Pakistan,South Africa,43.4,Abdul Razzaq,Zulqarnain Haider,WD Parnell,1,0,1,NA,0,NA,NA,NA,1
+461569,2nd innings,Pakistan,South Africa,43.5,Zulqarnain Haider,Abdul Razzaq,WD Parnell,2,0,2,NA,0,NA,NA,NA,1
+461569,2nd innings,Pakistan,South Africa,43.6,Zulqarnain Haider,Abdul Razzaq,WD Parnell,0,0,0,NA,0,NA,NA,NA,1
+461569,2nd innings,Pakistan,South Africa,44.1,Abdul Razzaq,Zulqarnain Haider,JH Kallis,0,0,0,NA,0,NA,NA,NA,1
+461569,2nd innings,Pakistan,South Africa,44.2,Abdul Razzaq,Zulqarnain Haider,JH Kallis,2,0,2,NA,0,NA,NA,NA,1
+461569,2nd innings,Pakistan,South Africa,44.3,Abdul Razzaq,Zulqarnain Haider,JH Kallis,1,0,1,NA,0,NA,NA,NA,1
+461569,2nd innings,Pakistan,South Africa,44.4,Zulqarnain Haider,Abdul Razzaq,JH Kallis,1,0,1,NA,0,NA,NA,NA,1
+461569,2nd innings,Pakistan,South Africa,44.5,Abdul Razzaq,Zulqarnain Haider,JH Kallis,1,0,1,NA,0,NA,NA,NA,1
+461569,2nd innings,Pakistan,South Africa,44.6,Zulqarnain Haider,Abdul Razzaq,JH Kallis,1,0,1,NA,0,NA,NA,NA,1
+461569,2nd innings,Pakistan,South Africa,45.1,Zulqarnain Haider,Abdul Razzaq,DW Steyn,0,0,0,NA,0,NA,NA,NA,1
+461569,2nd innings,Pakistan,South Africa,45.2,Zulqarnain Haider,Abdul Razzaq,DW Steyn,1,0,1,NA,0,NA,NA,NA,1
+461569,2nd innings,Pakistan,South Africa,45.3,Abdul Razzaq,Zulqarnain Haider,DW Steyn,0,0,0,NA,0,NA,NA,NA,1
+461569,2nd innings,Pakistan,South Africa,45.4,Abdul Razzaq,Zulqarnain Haider,DW Steyn,2,0,2,NA,0,NA,NA,NA,1
+461569,2nd innings,Pakistan,South Africa,45.5,Abdul Razzaq,Zulqarnain Haider,DW Steyn,4,0,4,NA,0,NA,NA,NA,1
+461569,2nd innings,Pakistan,South Africa,45.6,Abdul Razzaq,Zulqarnain Haider,DW Steyn,1,0,1,NA,0,NA,NA,NA,1
+461569,2nd innings,Pakistan,South Africa,46.1,Abdul Razzaq,Zulqarnain Haider,M Morkel,0,0,0,NA,1,caught,Abdul Razzaq,AB de Villiers,1
+461569,2nd innings,Pakistan,South Africa,46.2,Wahab Riaz,Zulqarnain Haider,M Morkel,1,0,1,NA,0,NA,NA,NA,1
+461569,2nd innings,Pakistan,South Africa,46.3,Zulqarnain Haider,Wahab Riaz,M Morkel,0,0,0,NA,0,NA,NA,NA,1
+461569,2nd innings,Pakistan,South Africa,46.4,Zulqarnain Haider,Wahab Riaz,M Morkel,1,0,1,NA,0,NA,NA,NA,1
+461569,2nd innings,Pakistan,South Africa,46.5,Wahab Riaz,Zulqarnain Haider,M Morkel,1,0,1,NA,0,NA,NA,NA,1
+461569,2nd innings,Pakistan,South Africa,46.6,Zulqarnain Haider,Wahab Riaz,M Morkel,1,0,1,NA,0,NA,NA,NA,1
+461569,2nd innings,Pakistan,South Africa,47.1,Zulqarnain Haider,Wahab Riaz,DW Steyn,4,0,4,NA,0,NA,NA,NA,1
+461569,2nd innings,Pakistan,South Africa,47.2,Zulqarnain Haider,Wahab Riaz,DW Steyn,1,0,1,NA,0,NA,NA,NA,1
+461569,2nd innings,Pakistan,South Africa,47.3,Wahab Riaz,Zulqarnain Haider,DW Steyn,4,0,4,NA,0,NA,NA,NA,1
+461569,2nd innings,Pakistan,South Africa,47.4,Wahab Riaz,Zulqarnain Haider,DW Steyn,0,0,0,NA,0,NA,NA,NA,1
+461569,2nd innings,Pakistan,South Africa,47.5,Wahab Riaz,Zulqarnain Haider,DW Steyn,3,0,3,NA,0,NA,NA,NA,1
+461569,2nd innings,Pakistan,South Africa,47.6,Zulqarnain Haider,Wahab Riaz,DW Steyn,0,0,0,NA,0,NA,NA,NA,1
+461569,2nd innings,Pakistan,South Africa,48.1,Wahab Riaz,Zulqarnain Haider,M Morkel,4,0,4,NA,0,NA,NA,NA,1
+461569,2nd innings,Pakistan,South Africa,48.2,Wahab Riaz,Zulqarnain Haider,M Morkel,1,0,1,NA,0,NA,NA,NA,1
+461569,2nd innings,Pakistan,South Africa,48.3,Zulqarnain Haider,Wahab Riaz,M Morkel,1,0,1,NA,0,NA,NA,NA,1
+461569,2nd innings,Pakistan,South Africa,48.4,Wahab Riaz,Zulqarnain Haider,M Morkel,3,0,3,NA,0,NA,NA,NA,1
+461569,2nd innings,Pakistan,South Africa,48.5,Zulqarnain Haider,Wahab Riaz,M Morkel,2,0,2,NA,0,NA,NA,NA,1
+461569,2nd innings,Pakistan,South Africa,48.6,Zulqarnain Haider,Wahab Riaz,M Morkel,0,0,0,NA,0,NA,NA,NA,1
+461569,2nd innings,Pakistan,South Africa,49.1,Wahab Riaz,Zulqarnain Haider,WD Parnell,0,0,0,NA,0,NA,NA,NA,1
+461569,2nd innings,Pakistan,South Africa,49.2,Wahab Riaz,Zulqarnain Haider,WD Parnell,1,0,1,NA,0,NA,NA,NA,1
+461569,2nd innings,Pakistan,South Africa,49.3,Zulqarnain Haider,Wahab Riaz,WD Parnell,0,0,0,NA,1,run out,Wahab Riaz,WD Parnell,1
+461569,2nd innings,Pakistan,South Africa,49.4,Zulqarnain Haider,Shoaib Akhtar,WD Parnell,2,0,2,NA,0,NA,NA,NA,1
+461569,2nd innings,Pakistan,South Africa,49.5,Zulqarnain Haider,Shoaib Akhtar,WD Parnell,1,0,1,NA,0,NA,NA,NA,1

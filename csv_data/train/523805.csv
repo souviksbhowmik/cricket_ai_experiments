@@ -1,0 +1,597 @@
+match_id,innings,team,opponent,ball,batsman,non_striker,bowler,scored_runs,extras,total,extra_type,wicket,wicket_type,player_out,fielders,winner
+523805,1st innings,Ireland,Canada,0.1,EC Joyce,WTS Porterfield,Khurram Chohan,0,0,0,NA,0,NA,NA,NA,1
+523805,1st innings,Ireland,Canada,0.2,EC Joyce,WTS Porterfield,Khurram Chohan,0,0,0,NA,0,NA,NA,NA,1
+523805,1st innings,Ireland,Canada,0.3,EC Joyce,WTS Porterfield,Khurram Chohan,0,0,0,NA,0,NA,NA,NA,1
+523805,1st innings,Ireland,Canada,0.4,EC Joyce,WTS Porterfield,Khurram Chohan,0,0,0,NA,0,NA,NA,NA,1
+523805,1st innings,Ireland,Canada,0.5,EC Joyce,WTS Porterfield,Khurram Chohan,0,0,0,NA,0,NA,NA,NA,1
+523805,1st innings,Ireland,Canada,0.6,EC Joyce,WTS Porterfield,Khurram Chohan,0,0,0,NA,0,NA,NA,NA,1
+523805,1st innings,Ireland,Canada,1.1,WTS Porterfield,EC Joyce,HS Baidwan,0,0,0,NA,0,NA,NA,NA,1
+523805,1st innings,Ireland,Canada,1.2,WTS Porterfield,EC Joyce,HS Baidwan,0,0,0,NA,0,NA,NA,NA,1
+523805,1st innings,Ireland,Canada,1.3,WTS Porterfield,EC Joyce,HS Baidwan,0,0,0,NA,0,NA,NA,NA,1
+523805,1st innings,Ireland,Canada,1.4,WTS Porterfield,EC Joyce,HS Baidwan,0,0,0,NA,0,NA,NA,NA,1
+523805,1st innings,Ireland,Canada,1.5,WTS Porterfield,EC Joyce,HS Baidwan,0,0,0,NA,0,NA,NA,NA,1
+523805,1st innings,Ireland,Canada,1.6,WTS Porterfield,EC Joyce,HS Baidwan,0,1,1,wides,0,NA,NA,NA,1
+523805,1st innings,Ireland,Canada,1.7,WTS Porterfield,EC Joyce,HS Baidwan,1,0,1,NA,0,NA,NA,NA,1
+523805,1st innings,Ireland,Canada,2.1,WTS Porterfield,EC Joyce,Khurram Chohan,0,0,0,NA,0,NA,NA,NA,1
+523805,1st innings,Ireland,Canada,2.2,WTS Porterfield,EC Joyce,Khurram Chohan,0,0,0,NA,0,NA,NA,NA,1
+523805,1st innings,Ireland,Canada,2.3,WTS Porterfield,EC Joyce,Khurram Chohan,0,0,0,NA,0,NA,NA,NA,1
+523805,1st innings,Ireland,Canada,2.4,WTS Porterfield,EC Joyce,Khurram Chohan,0,0,0,NA,0,NA,NA,NA,1
+523805,1st innings,Ireland,Canada,2.5,WTS Porterfield,EC Joyce,Khurram Chohan,0,0,0,NA,0,NA,NA,NA,1
+523805,1st innings,Ireland,Canada,2.6,WTS Porterfield,EC Joyce,Khurram Chohan,0,0,0,NA,0,NA,NA,NA,1
+523805,1st innings,Ireland,Canada,3.1,EC Joyce,WTS Porterfield,HS Baidwan,0,0,0,NA,0,NA,NA,NA,1
+523805,1st innings,Ireland,Canada,3.2,EC Joyce,WTS Porterfield,HS Baidwan,0,1,1,wides,0,NA,NA,NA,1
+523805,1st innings,Ireland,Canada,3.3,EC Joyce,WTS Porterfield,HS Baidwan,0,0,0,NA,0,NA,NA,NA,1
+523805,1st innings,Ireland,Canada,3.4,EC Joyce,WTS Porterfield,HS Baidwan,0,0,0,NA,0,NA,NA,NA,1
+523805,1st innings,Ireland,Canada,3.5,EC Joyce,WTS Porterfield,HS Baidwan,0,0,0,NA,0,NA,NA,NA,1
+523805,1st innings,Ireland,Canada,3.6,EC Joyce,WTS Porterfield,HS Baidwan,1,0,1,NA,0,NA,NA,NA,1
+523805,1st innings,Ireland,Canada,3.7,WTS Porterfield,EC Joyce,HS Baidwan,1,0,1,NA,0,NA,NA,NA,1
+523805,1st innings,Ireland,Canada,4.1,WTS Porterfield,EC Joyce,Khurram Chohan,0,1,1,legbyes,0,NA,NA,NA,1
+523805,1st innings,Ireland,Canada,4.2,EC Joyce,WTS Porterfield,Khurram Chohan,0,0,0,NA,0,NA,NA,NA,1
+523805,1st innings,Ireland,Canada,4.3,EC Joyce,WTS Porterfield,Khurram Chohan,4,0,4,NA,0,NA,NA,NA,1
+523805,1st innings,Ireland,Canada,4.4,EC Joyce,WTS Porterfield,Khurram Chohan,0,0,0,NA,0,NA,NA,NA,1
+523805,1st innings,Ireland,Canada,4.5,EC Joyce,WTS Porterfield,Khurram Chohan,1,0,1,NA,0,NA,NA,NA,1
+523805,1st innings,Ireland,Canada,4.6,WTS Porterfield,EC Joyce,Khurram Chohan,0,0,0,NA,0,NA,NA,NA,1
+523805,1st innings,Ireland,Canada,5.1,EC Joyce,WTS Porterfield,HS Baidwan,0,0,0,NA,0,NA,NA,NA,1
+523805,1st innings,Ireland,Canada,5.2,EC Joyce,WTS Porterfield,HS Baidwan,4,0,4,NA,0,NA,NA,NA,1
+523805,1st innings,Ireland,Canada,5.3,EC Joyce,WTS Porterfield,HS Baidwan,0,0,0,NA,0,NA,NA,NA,1
+523805,1st innings,Ireland,Canada,5.4,EC Joyce,WTS Porterfield,HS Baidwan,4,0,4,NA,0,NA,NA,NA,1
+523805,1st innings,Ireland,Canada,5.5,EC Joyce,WTS Porterfield,HS Baidwan,0,0,0,NA,0,NA,NA,NA,1
+523805,1st innings,Ireland,Canada,5.6,EC Joyce,WTS Porterfield,HS Baidwan,0,0,0,NA,1,caught,EC Joyce,Rizwan Cheema,1
+523805,1st innings,Ireland,Canada,6.1,WTS Porterfield,AR Cusack,Khurram Chohan,0,0,0,NA,0,NA,NA,NA,1
+523805,1st innings,Ireland,Canada,6.2,WTS Porterfield,AR Cusack,Khurram Chohan,0,0,0,NA,0,NA,NA,NA,1
+523805,1st innings,Ireland,Canada,6.3,WTS Porterfield,AR Cusack,Khurram Chohan,4,0,4,NA,0,NA,NA,NA,1
+523805,1st innings,Ireland,Canada,6.4,WTS Porterfield,AR Cusack,Khurram Chohan,0,0,0,NA,0,NA,NA,NA,1
+523805,1st innings,Ireland,Canada,6.5,WTS Porterfield,AR Cusack,Khurram Chohan,2,0,2,NA,0,NA,NA,NA,1
+523805,1st innings,Ireland,Canada,6.6,WTS Porterfield,AR Cusack,Khurram Chohan,0,0,0,NA,0,NA,NA,NA,1
+523805,1st innings,Ireland,Canada,7.1,AR Cusack,WTS Porterfield,HS Baidwan,0,0,0,NA,0,NA,NA,NA,1
+523805,1st innings,Ireland,Canada,7.2,AR Cusack,WTS Porterfield,HS Baidwan,0,0,0,NA,0,NA,NA,NA,1
+523805,1st innings,Ireland,Canada,7.3,AR Cusack,WTS Porterfield,HS Baidwan,1,0,1,NA,0,NA,NA,NA,1
+523805,1st innings,Ireland,Canada,7.4,WTS Porterfield,AR Cusack,HS Baidwan,0,0,0,NA,0,NA,NA,NA,1
+523805,1st innings,Ireland,Canada,7.5,WTS Porterfield,AR Cusack,HS Baidwan,0,0,0,NA,0,NA,NA,NA,1
+523805,1st innings,Ireland,Canada,7.6,WTS Porterfield,AR Cusack,HS Baidwan,0,0,0,NA,0,NA,NA,NA,1
+523805,1st innings,Ireland,Canada,8.1,AR Cusack,WTS Porterfield,Khurram Chohan,0,0,0,NA,0,NA,NA,NA,1
+523805,1st innings,Ireland,Canada,8.2,AR Cusack,WTS Porterfield,Khurram Chohan,0,0,0,NA,0,NA,NA,NA,1
+523805,1st innings,Ireland,Canada,8.3,AR Cusack,WTS Porterfield,Khurram Chohan,0,0,0,NA,0,NA,NA,NA,1
+523805,1st innings,Ireland,Canada,8.4,AR Cusack,WTS Porterfield,Khurram Chohan,4,0,4,NA,0,NA,NA,NA,1
+523805,1st innings,Ireland,Canada,8.5,AR Cusack,WTS Porterfield,Khurram Chohan,0,0,0,NA,0,NA,NA,NA,1
+523805,1st innings,Ireland,Canada,8.6,AR Cusack,WTS Porterfield,Khurram Chohan,2,0,2,NA,0,NA,NA,NA,1
+523805,1st innings,Ireland,Canada,9.1,WTS Porterfield,AR Cusack,HS Baidwan,4,0,4,NA,0,NA,NA,NA,1
+523805,1st innings,Ireland,Canada,9.2,WTS Porterfield,AR Cusack,HS Baidwan,2,0,2,NA,0,NA,NA,NA,1
+523805,1st innings,Ireland,Canada,9.3,WTS Porterfield,AR Cusack,HS Baidwan,6,0,6,NA,0,NA,NA,NA,1
+523805,1st innings,Ireland,Canada,9.4,WTS Porterfield,AR Cusack,HS Baidwan,0,0,0,NA,0,NA,NA,NA,1
+523805,1st innings,Ireland,Canada,9.5,WTS Porterfield,AR Cusack,HS Baidwan,0,0,0,NA,0,NA,NA,NA,1
+523805,1st innings,Ireland,Canada,9.6,WTS Porterfield,AR Cusack,HS Baidwan,0,0,0,NA,0,NA,NA,NA,1
+523805,1st innings,Ireland,Canada,10.1,AR Cusack,WTS Porterfield,Khurram Chohan,4,0,4,NA,0,NA,NA,NA,1
+523805,1st innings,Ireland,Canada,10.2,AR Cusack,WTS Porterfield,Khurram Chohan,1,0,1,NA,0,NA,NA,NA,1
+523805,1st innings,Ireland,Canada,10.3,WTS Porterfield,AR Cusack,Khurram Chohan,0,0,0,NA,0,NA,NA,NA,1
+523805,1st innings,Ireland,Canada,10.4,WTS Porterfield,AR Cusack,Khurram Chohan,1,0,1,NA,0,NA,NA,NA,1
+523805,1st innings,Ireland,Canada,10.5,AR Cusack,WTS Porterfield,Khurram Chohan,0,0,0,NA,0,NA,NA,NA,1
+523805,1st innings,Ireland,Canada,10.6,AR Cusack,WTS Porterfield,Khurram Chohan,4,0,4,NA,0,NA,NA,NA,1
+523805,1st innings,Ireland,Canada,11.1,WTS Porterfield,AR Cusack,Junaid Siddiqui,1,0,1,NA,0,NA,NA,NA,1
+523805,1st innings,Ireland,Canada,11.2,AR Cusack,WTS Porterfield,Junaid Siddiqui,0,0,0,NA,0,NA,NA,NA,1
+523805,1st innings,Ireland,Canada,11.3,AR Cusack,WTS Porterfield,Junaid Siddiqui,1,0,1,NA,0,NA,NA,NA,1
+523805,1st innings,Ireland,Canada,11.4,WTS Porterfield,AR Cusack,Junaid Siddiqui,0,0,0,NA,0,NA,NA,NA,1
+523805,1st innings,Ireland,Canada,11.5,WTS Porterfield,AR Cusack,Junaid Siddiqui,1,0,1,NA,0,NA,NA,NA,1
+523805,1st innings,Ireland,Canada,11.6,AR Cusack,WTS Porterfield,Junaid Siddiqui,1,0,1,NA,0,NA,NA,NA,1
+523805,1st innings,Ireland,Canada,12.1,AR Cusack,WTS Porterfield,Rizwan Cheema,0,0,0,NA,0,NA,NA,NA,1
+523805,1st innings,Ireland,Canada,12.2,AR Cusack,WTS Porterfield,Rizwan Cheema,0,0,0,NA,0,NA,NA,NA,1
+523805,1st innings,Ireland,Canada,12.3,AR Cusack,WTS Porterfield,Rizwan Cheema,0,0,0,NA,0,NA,NA,NA,1
+523805,1st innings,Ireland,Canada,12.4,AR Cusack,WTS Porterfield,Rizwan Cheema,1,0,1,NA,0,NA,NA,NA,1
+523805,1st innings,Ireland,Canada,12.5,WTS Porterfield,AR Cusack,Rizwan Cheema,4,0,4,NA,0,NA,NA,NA,1
+523805,1st innings,Ireland,Canada,12.6,WTS Porterfield,AR Cusack,Rizwan Cheema,0,0,0,NA,0,NA,NA,NA,1
+523805,1st innings,Ireland,Canada,13.1,AR Cusack,WTS Porterfield,Junaid Siddiqui,0,0,0,NA,0,NA,NA,NA,1
+523805,1st innings,Ireland,Canada,13.2,AR Cusack,WTS Porterfield,Junaid Siddiqui,1,0,1,NA,0,NA,NA,NA,1
+523805,1st innings,Ireland,Canada,13.3,WTS Porterfield,AR Cusack,Junaid Siddiqui,0,0,0,NA,0,NA,NA,NA,1
+523805,1st innings,Ireland,Canada,13.4,WTS Porterfield,AR Cusack,Junaid Siddiqui,4,0,4,NA,0,NA,NA,NA,1
+523805,1st innings,Ireland,Canada,13.5,WTS Porterfield,AR Cusack,Junaid Siddiqui,0,1,1,wides,0,NA,NA,NA,1
+523805,1st innings,Ireland,Canada,13.6,WTS Porterfield,AR Cusack,Junaid Siddiqui,0,0,0,NA,0,NA,NA,NA,1
+523805,1st innings,Ireland,Canada,13.7,WTS Porterfield,AR Cusack,Junaid Siddiqui,1,0,1,NA,0,NA,NA,NA,1
+523805,1st innings,Ireland,Canada,14.1,WTS Porterfield,AR Cusack,Rizwan Cheema,1,0,1,NA,0,NA,NA,NA,1
+523805,1st innings,Ireland,Canada,14.2,AR Cusack,WTS Porterfield,Rizwan Cheema,0,0,0,NA,0,NA,NA,NA,1
+523805,1st innings,Ireland,Canada,14.3,AR Cusack,WTS Porterfield,Rizwan Cheema,1,0,1,NA,0,NA,NA,NA,1
+523805,1st innings,Ireland,Canada,14.4,WTS Porterfield,AR Cusack,Rizwan Cheema,0,0,0,NA,0,NA,NA,NA,1
+523805,1st innings,Ireland,Canada,14.5,WTS Porterfield,AR Cusack,Rizwan Cheema,1,0,1,NA,0,NA,NA,NA,1
+523805,1st innings,Ireland,Canada,14.6,AR Cusack,WTS Porterfield,Rizwan Cheema,0,0,0,NA,0,NA,NA,NA,1
+523805,1st innings,Ireland,Canada,15.1,WTS Porterfield,AR Cusack,Junaid Siddiqui,4,0,4,NA,0,NA,NA,NA,1
+523805,1st innings,Ireland,Canada,15.2,WTS Porterfield,AR Cusack,Junaid Siddiqui,0,0,0,NA,0,NA,NA,NA,1
+523805,1st innings,Ireland,Canada,15.3,WTS Porterfield,AR Cusack,Junaid Siddiqui,1,0,1,NA,0,NA,NA,NA,1
+523805,1st innings,Ireland,Canada,15.4,AR Cusack,WTS Porterfield,Junaid Siddiqui,0,0,0,NA,1,bowled,AR Cusack,NA,1
+523805,1st innings,Ireland,Canada,15.5,NJ O'Brien,WTS Porterfield,Junaid Siddiqui,0,0,0,NA,0,NA,NA,NA,1
+523805,1st innings,Ireland,Canada,15.6,NJ O'Brien,WTS Porterfield,Junaid Siddiqui,0,0,0,NA,0,NA,NA,NA,1
+523805,1st innings,Ireland,Canada,16.1,WTS Porterfield,NJ O'Brien,Rizwan Cheema,0,0,0,NA,0,NA,NA,NA,1
+523805,1st innings,Ireland,Canada,16.2,WTS Porterfield,NJ O'Brien,Rizwan Cheema,1,0,1,NA,0,NA,NA,NA,1
+523805,1st innings,Ireland,Canada,16.3,NJ O'Brien,WTS Porterfield,Rizwan Cheema,1,0,1,NA,0,NA,NA,NA,1
+523805,1st innings,Ireland,Canada,16.4,WTS Porterfield,NJ O'Brien,Rizwan Cheema,1,0,1,NA,0,NA,NA,NA,1
+523805,1st innings,Ireland,Canada,16.5,NJ O'Brien,WTS Porterfield,Rizwan Cheema,1,0,1,NA,0,NA,NA,NA,1
+523805,1st innings,Ireland,Canada,16.6,WTS Porterfield,NJ O'Brien,Rizwan Cheema,1,0,1,NA,0,NA,NA,NA,1
+523805,1st innings,Ireland,Canada,17.1,WTS Porterfield,NJ O'Brien,Junaid Siddiqui,1,0,1,NA,0,NA,NA,NA,1
+523805,1st innings,Ireland,Canada,17.2,NJ O'Brien,WTS Porterfield,Junaid Siddiqui,0,0,0,NA,0,NA,NA,NA,1
+523805,1st innings,Ireland,Canada,17.3,NJ O'Brien,WTS Porterfield,Junaid Siddiqui,0,0,0,NA,0,NA,NA,NA,1
+523805,1st innings,Ireland,Canada,17.4,NJ O'Brien,WTS Porterfield,Junaid Siddiqui,0,0,0,NA,0,NA,NA,NA,1
+523805,1st innings,Ireland,Canada,17.5,NJ O'Brien,WTS Porterfield,Junaid Siddiqui,0,0,0,NA,0,NA,NA,NA,1
+523805,1st innings,Ireland,Canada,17.6,NJ O'Brien,WTS Porterfield,Junaid Siddiqui,0,0,0,NA,0,NA,NA,NA,1
+523805,1st innings,Ireland,Canada,18.1,WTS Porterfield,NJ O'Brien,Rizwan Cheema,1,0,1,NA,0,NA,NA,NA,1
+523805,1st innings,Ireland,Canada,18.2,NJ O'Brien,WTS Porterfield,Rizwan Cheema,0,0,0,NA,0,NA,NA,NA,1
+523805,1st innings,Ireland,Canada,18.3,NJ O'Brien,WTS Porterfield,Rizwan Cheema,0,0,0,NA,0,NA,NA,NA,1
+523805,1st innings,Ireland,Canada,18.4,NJ O'Brien,WTS Porterfield,Rizwan Cheema,0,0,0,NA,0,NA,NA,NA,1
+523805,1st innings,Ireland,Canada,18.5,NJ O'Brien,WTS Porterfield,Rizwan Cheema,0,0,0,NA,0,NA,NA,NA,1
+523805,1st innings,Ireland,Canada,18.6,NJ O'Brien,WTS Porterfield,Rizwan Cheema,1,0,1,NA,0,NA,NA,NA,1
+523805,1st innings,Ireland,Canada,19.1,NJ O'Brien,WTS Porterfield,Junaid Siddiqui,0,0,0,NA,0,NA,NA,NA,1
+523805,1st innings,Ireland,Canada,19.2,NJ O'Brien,WTS Porterfield,Junaid Siddiqui,1,0,1,NA,0,NA,NA,NA,1
+523805,1st innings,Ireland,Canada,19.3,WTS Porterfield,NJ O'Brien,Junaid Siddiqui,2,0,2,NA,0,NA,NA,NA,1
+523805,1st innings,Ireland,Canada,19.4,WTS Porterfield,NJ O'Brien,Junaid Siddiqui,0,0,0,NA,0,NA,NA,NA,1
+523805,1st innings,Ireland,Canada,19.5,WTS Porterfield,NJ O'Brien,Junaid Siddiqui,1,0,1,NA,0,NA,NA,NA,1
+523805,1st innings,Ireland,Canada,19.6,NJ O'Brien,WTS Porterfield,Junaid Siddiqui,1,0,1,NA,0,NA,NA,NA,1
+523805,1st innings,Ireland,Canada,20.1,NJ O'Brien,WTS Porterfield,Rizwan Cheema,1,0,1,NA,0,NA,NA,NA,1
+523805,1st innings,Ireland,Canada,20.2,WTS Porterfield,NJ O'Brien,Rizwan Cheema,0,0,0,NA,0,NA,NA,NA,1
+523805,1st innings,Ireland,Canada,20.3,WTS Porterfield,NJ O'Brien,Rizwan Cheema,1,0,1,NA,0,NA,NA,NA,1
+523805,1st innings,Ireland,Canada,20.4,NJ O'Brien,WTS Porterfield,Rizwan Cheema,1,0,1,NA,0,NA,NA,NA,1
+523805,1st innings,Ireland,Canada,20.5,WTS Porterfield,NJ O'Brien,Rizwan Cheema,0,0,0,NA,0,NA,NA,NA,1
+523805,1st innings,Ireland,Canada,20.6,WTS Porterfield,NJ O'Brien,Rizwan Cheema,2,0,2,NA,0,NA,NA,NA,1
+523805,1st innings,Ireland,Canada,21.1,NJ O'Brien,WTS Porterfield,Junaid Siddiqui,1,0,1,NA,0,NA,NA,NA,1
+523805,1st innings,Ireland,Canada,21.2,WTS Porterfield,NJ O'Brien,Junaid Siddiqui,1,0,1,NA,0,NA,NA,NA,1
+523805,1st innings,Ireland,Canada,21.3,NJ O'Brien,WTS Porterfield,Junaid Siddiqui,1,0,1,NA,0,NA,NA,NA,1
+523805,1st innings,Ireland,Canada,21.4,WTS Porterfield,NJ O'Brien,Junaid Siddiqui,1,0,1,NA,0,NA,NA,NA,1
+523805,1st innings,Ireland,Canada,21.5,NJ O'Brien,WTS Porterfield,Junaid Siddiqui,0,0,0,NA,0,NA,NA,NA,1
+523805,1st innings,Ireland,Canada,21.6,NJ O'Brien,WTS Porterfield,Junaid Siddiqui,0,0,0,NA,0,NA,NA,NA,1
+523805,1st innings,Ireland,Canada,22.1,WTS Porterfield,NJ O'Brien,Zahid Hussain,1,0,1,NA,0,NA,NA,NA,1
+523805,1st innings,Ireland,Canada,22.2,NJ O'Brien,WTS Porterfield,Zahid Hussain,0,0,0,NA,0,NA,NA,NA,1
+523805,1st innings,Ireland,Canada,22.3,NJ O'Brien,WTS Porterfield,Zahid Hussain,1,0,1,NA,0,NA,NA,NA,1
+523805,1st innings,Ireland,Canada,22.4,WTS Porterfield,NJ O'Brien,Zahid Hussain,0,0,0,NA,0,NA,NA,NA,1
+523805,1st innings,Ireland,Canada,22.5,WTS Porterfield,NJ O'Brien,Zahid Hussain,0,0,0,NA,1,caught,WTS Porterfield,Junaid Siddiqui,1
+523805,1st innings,Ireland,Canada,22.6,GC Wilson,NJ O'Brien,Zahid Hussain,0,0,0,NA,0,NA,NA,NA,1
+523805,1st innings,Ireland,Canada,23.1,NJ O'Brien,GC Wilson,Junaid Siddiqui,0,0,0,NA,0,NA,NA,NA,1
+523805,1st innings,Ireland,Canada,23.2,NJ O'Brien,GC Wilson,Junaid Siddiqui,1,0,1,NA,0,NA,NA,NA,1
+523805,1st innings,Ireland,Canada,23.3,GC Wilson,NJ O'Brien,Junaid Siddiqui,2,0,2,NA,0,NA,NA,NA,1
+523805,1st innings,Ireland,Canada,23.4,GC Wilson,NJ O'Brien,Junaid Siddiqui,0,0,0,NA,0,NA,NA,NA,1
+523805,1st innings,Ireland,Canada,23.5,GC Wilson,NJ O'Brien,Junaid Siddiqui,0,0,0,NA,0,NA,NA,NA,1
+523805,1st innings,Ireland,Canada,23.6,GC Wilson,NJ O'Brien,Junaid Siddiqui,1,1,2,noballs,0,NA,NA,NA,1
+523805,1st innings,Ireland,Canada,23.7,NJ O'Brien,GC Wilson,Junaid Siddiqui,6,0,6,NA,0,NA,NA,NA,1
+523805,1st innings,Ireland,Canada,24.1,GC Wilson,NJ O'Brien,Zahid Hussain,0,0,0,NA,0,NA,NA,NA,1
+523805,1st innings,Ireland,Canada,24.2,GC Wilson,NJ O'Brien,Zahid Hussain,0,0,0,NA,0,NA,NA,NA,1
+523805,1st innings,Ireland,Canada,24.3,GC Wilson,NJ O'Brien,Zahid Hussain,1,0,1,NA,0,NA,NA,NA,1
+523805,1st innings,Ireland,Canada,24.4,NJ O'Brien,GC Wilson,Zahid Hussain,1,0,1,NA,0,NA,NA,NA,1
+523805,1st innings,Ireland,Canada,24.5,GC Wilson,NJ O'Brien,Zahid Hussain,1,0,1,NA,0,NA,NA,NA,1
+523805,1st innings,Ireland,Canada,24.6,NJ O'Brien,GC Wilson,Zahid Hussain,0,0,0,NA,0,NA,NA,NA,1
+523805,1st innings,Ireland,Canada,25.1,GC Wilson,NJ O'Brien,Junaid Siddiqui,0,0,0,NA,0,NA,NA,NA,1
+523805,1st innings,Ireland,Canada,25.2,GC Wilson,NJ O'Brien,Junaid Siddiqui,0,0,0,NA,0,NA,NA,NA,1
+523805,1st innings,Ireland,Canada,25.3,GC Wilson,NJ O'Brien,Junaid Siddiqui,0,0,0,NA,0,NA,NA,NA,1
+523805,1st innings,Ireland,Canada,25.4,GC Wilson,NJ O'Brien,Junaid Siddiqui,0,0,0,NA,0,NA,NA,NA,1
+523805,1st innings,Ireland,Canada,25.5,GC Wilson,NJ O'Brien,Junaid Siddiqui,1,0,1,NA,0,NA,NA,NA,1
+523805,1st innings,Ireland,Canada,25.6,NJ O'Brien,GC Wilson,Junaid Siddiqui,1,0,1,NA,0,NA,NA,NA,1
+523805,1st innings,Ireland,Canada,26.1,NJ O'Brien,GC Wilson,Zahid Hussain,0,0,0,NA,1,run out,NJ O'Brien,Usman Limbada,1
+523805,1st innings,Ireland,Canada,26.2,KJ O'Brien,GC Wilson,Zahid Hussain,0,0,0,NA,0,NA,NA,NA,1
+523805,1st innings,Ireland,Canada,26.3,KJ O'Brien,GC Wilson,Zahid Hussain,1,0,1,NA,0,NA,NA,NA,1
+523805,1st innings,Ireland,Canada,26.4,GC Wilson,KJ O'Brien,Zahid Hussain,0,0,0,NA,0,NA,NA,NA,1
+523805,1st innings,Ireland,Canada,26.5,GC Wilson,KJ O'Brien,Zahid Hussain,0,0,0,NA,0,NA,NA,NA,1
+523805,1st innings,Ireland,Canada,26.6,GC Wilson,KJ O'Brien,Zahid Hussain,2,0,2,NA,0,NA,NA,NA,1
+523805,1st innings,Ireland,Canada,27.1,KJ O'Brien,GC Wilson,Junaid Siddiqui,0,0,0,NA,0,NA,NA,NA,1
+523805,1st innings,Ireland,Canada,27.2,KJ O'Brien,GC Wilson,Junaid Siddiqui,0,0,0,NA,0,NA,NA,NA,1
+523805,1st innings,Ireland,Canada,27.3,KJ O'Brien,GC Wilson,Junaid Siddiqui,0,0,0,NA,0,NA,NA,NA,1
+523805,1st innings,Ireland,Canada,27.4,KJ O'Brien,GC Wilson,Junaid Siddiqui,1,0,1,NA,0,NA,NA,NA,1
+523805,1st innings,Ireland,Canada,27.5,GC Wilson,KJ O'Brien,Junaid Siddiqui,0,0,0,NA,0,NA,NA,NA,1
+523805,1st innings,Ireland,Canada,27.6,GC Wilson,KJ O'Brien,Junaid Siddiqui,0,0,0,NA,0,NA,NA,NA,1
+523805,1st innings,Ireland,Canada,28.1,KJ O'Brien,GC Wilson,Zahid Hussain,1,0,1,NA,0,NA,NA,NA,1
+523805,1st innings,Ireland,Canada,28.2,GC Wilson,KJ O'Brien,Zahid Hussain,0,0,0,NA,0,NA,NA,NA,1
+523805,1st innings,Ireland,Canada,28.3,GC Wilson,KJ O'Brien,Zahid Hussain,0,0,0,NA,0,NA,NA,NA,1
+523805,1st innings,Ireland,Canada,28.4,GC Wilson,KJ O'Brien,Zahid Hussain,0,0,0,NA,0,NA,NA,NA,1
+523805,1st innings,Ireland,Canada,28.5,GC Wilson,KJ O'Brien,Zahid Hussain,0,0,0,NA,0,NA,NA,NA,1
+523805,1st innings,Ireland,Canada,28.6,GC Wilson,KJ O'Brien,Zahid Hussain,1,0,1,NA,0,NA,NA,NA,1
+523805,1st innings,Ireland,Canada,29.1,GC Wilson,KJ O'Brien,Junaid Siddiqui,1,0,1,NA,0,NA,NA,NA,1
+523805,1st innings,Ireland,Canada,29.2,KJ O'Brien,GC Wilson,Junaid Siddiqui,2,0,2,NA,0,NA,NA,NA,1
+523805,1st innings,Ireland,Canada,29.3,KJ O'Brien,GC Wilson,Junaid Siddiqui,2,0,2,NA,0,NA,NA,NA,1
+523805,1st innings,Ireland,Canada,29.4,KJ O'Brien,GC Wilson,Junaid Siddiqui,0,0,0,NA,0,NA,NA,NA,1
+523805,1st innings,Ireland,Canada,29.5,KJ O'Brien,GC Wilson,Junaid Siddiqui,0,0,0,NA,0,NA,NA,NA,1
+523805,1st innings,Ireland,Canada,29.6,KJ O'Brien,GC Wilson,Junaid Siddiqui,0,0,0,NA,0,NA,NA,NA,1
+523805,1st innings,Ireland,Canada,30.1,GC Wilson,KJ O'Brien,Zahid Hussain,0,0,0,NA,0,NA,NA,NA,1
+523805,1st innings,Ireland,Canada,30.2,GC Wilson,KJ O'Brien,Zahid Hussain,0,0,0,NA,0,NA,NA,NA,1
+523805,1st innings,Ireland,Canada,30.3,GC Wilson,KJ O'Brien,Zahid Hussain,0,0,0,NA,0,NA,NA,NA,1
+523805,1st innings,Ireland,Canada,30.4,GC Wilson,KJ O'Brien,Zahid Hussain,0,0,0,NA,0,NA,NA,NA,1
+523805,1st innings,Ireland,Canada,30.5,GC Wilson,KJ O'Brien,Zahid Hussain,0,0,0,NA,0,NA,NA,NA,1
+523805,1st innings,Ireland,Canada,30.6,GC Wilson,KJ O'Brien,Zahid Hussain,0,0,0,NA,0,NA,NA,NA,1
+523805,1st innings,Ireland,Canada,31.1,KJ O'Brien,GC Wilson,H Patel,1,0,1,NA,0,NA,NA,NA,1
+523805,1st innings,Ireland,Canada,31.2,GC Wilson,KJ O'Brien,H Patel,0,0,0,NA,0,NA,NA,NA,1
+523805,1st innings,Ireland,Canada,31.3,GC Wilson,KJ O'Brien,H Patel,0,1,1,wides,0,NA,NA,NA,1
+523805,1st innings,Ireland,Canada,31.4,GC Wilson,KJ O'Brien,H Patel,1,0,1,NA,0,NA,NA,NA,1
+523805,1st innings,Ireland,Canada,31.5,KJ O'Brien,GC Wilson,H Patel,1,0,1,NA,0,NA,NA,NA,1
+523805,1st innings,Ireland,Canada,31.6,GC Wilson,KJ O'Brien,H Patel,2,0,2,NA,0,NA,NA,NA,1
+523805,1st innings,Ireland,Canada,31.7,GC Wilson,KJ O'Brien,H Patel,1,0,1,NA,0,NA,NA,NA,1
+523805,1st innings,Ireland,Canada,32.1,GC Wilson,KJ O'Brien,Zahid Hussain,0,0,0,NA,0,NA,NA,NA,1
+523805,1st innings,Ireland,Canada,32.2,GC Wilson,KJ O'Brien,Zahid Hussain,1,0,1,NA,0,NA,NA,NA,1
+523805,1st innings,Ireland,Canada,32.3,KJ O'Brien,GC Wilson,Zahid Hussain,2,0,2,NA,0,NA,NA,NA,1
+523805,1st innings,Ireland,Canada,32.4,KJ O'Brien,GC Wilson,Zahid Hussain,1,0,1,NA,0,NA,NA,NA,1
+523805,1st innings,Ireland,Canada,32.5,GC Wilson,KJ O'Brien,Zahid Hussain,0,0,0,NA,0,NA,NA,NA,1
+523805,1st innings,Ireland,Canada,32.6,GC Wilson,KJ O'Brien,Zahid Hussain,1,0,1,NA,0,NA,NA,NA,1
+523805,1st innings,Ireland,Canada,33.1,GC Wilson,KJ O'Brien,H Patel,0,0,0,NA,0,NA,NA,NA,1
+523805,1st innings,Ireland,Canada,33.2,GC Wilson,KJ O'Brien,H Patel,1,0,1,NA,0,NA,NA,NA,1
+523805,1st innings,Ireland,Canada,33.3,KJ O'Brien,GC Wilson,H Patel,0,0,0,NA,0,NA,NA,NA,1
+523805,1st innings,Ireland,Canada,33.4,KJ O'Brien,GC Wilson,H Patel,0,0,0,NA,0,NA,NA,NA,1
+523805,1st innings,Ireland,Canada,33.5,KJ O'Brien,GC Wilson,H Patel,1,0,1,NA,0,NA,NA,NA,1
+523805,1st innings,Ireland,Canada,33.6,GC Wilson,KJ O'Brien,H Patel,0,0,0,NA,0,NA,NA,NA,1
+523805,1st innings,Ireland,Canada,34.1,KJ O'Brien,GC Wilson,Zahid Hussain,6,0,6,NA,0,NA,NA,NA,1
+523805,1st innings,Ireland,Canada,34.2,KJ O'Brien,GC Wilson,Zahid Hussain,1,0,1,NA,0,NA,NA,NA,1
+523805,1st innings,Ireland,Canada,34.3,GC Wilson,KJ O'Brien,Zahid Hussain,0,0,0,NA,0,NA,NA,NA,1
+523805,1st innings,Ireland,Canada,34.4,GC Wilson,KJ O'Brien,Zahid Hussain,1,0,1,NA,0,NA,NA,NA,1
+523805,1st innings,Ireland,Canada,34.5,KJ O'Brien,GC Wilson,Zahid Hussain,1,0,1,NA,0,NA,NA,NA,1
+523805,1st innings,Ireland,Canada,34.6,GC Wilson,KJ O'Brien,Zahid Hussain,0,0,0,NA,0,NA,NA,NA,1
+523805,1st innings,Ireland,Canada,35.1,KJ O'Brien,GC Wilson,H Patel,4,0,4,NA,0,NA,NA,NA,1
+523805,1st innings,Ireland,Canada,35.2,KJ O'Brien,GC Wilson,H Patel,0,0,0,NA,0,NA,NA,NA,1
+523805,1st innings,Ireland,Canada,35.3,KJ O'Brien,GC Wilson,H Patel,1,0,1,NA,0,NA,NA,NA,1
+523805,1st innings,Ireland,Canada,35.4,GC Wilson,KJ O'Brien,H Patel,1,0,1,NA,0,NA,NA,NA,1
+523805,1st innings,Ireland,Canada,35.5,KJ O'Brien,GC Wilson,H Patel,4,0,4,NA,0,NA,NA,NA,1
+523805,1st innings,Ireland,Canada,35.6,KJ O'Brien,GC Wilson,H Patel,4,0,4,NA,0,NA,NA,NA,1
+523805,1st innings,Ireland,Canada,36.1,GC Wilson,KJ O'Brien,Zahid Hussain,1,0,1,NA,0,NA,NA,NA,1
+523805,1st innings,Ireland,Canada,36.2,KJ O'Brien,GC Wilson,Zahid Hussain,4,0,4,NA,0,NA,NA,NA,1
+523805,1st innings,Ireland,Canada,36.3,KJ O'Brien,GC Wilson,Zahid Hussain,1,0,1,NA,0,NA,NA,NA,1
+523805,1st innings,Ireland,Canada,36.4,GC Wilson,KJ O'Brien,Zahid Hussain,0,0,0,NA,0,NA,NA,NA,1
+523805,1st innings,Ireland,Canada,36.5,GC Wilson,KJ O'Brien,Zahid Hussain,0,0,0,NA,0,NA,NA,NA,1
+523805,1st innings,Ireland,Canada,36.6,GC Wilson,KJ O'Brien,Zahid Hussain,0,0,0,NA,0,NA,NA,NA,1
+523805,1st innings,Ireland,Canada,37.1,KJ O'Brien,GC Wilson,Khurram Chohan,0,0,0,NA,0,NA,NA,NA,1
+523805,1st innings,Ireland,Canada,37.2,KJ O'Brien,GC Wilson,Khurram Chohan,1,0,1,NA,0,NA,NA,NA,1
+523805,1st innings,Ireland,Canada,37.3,GC Wilson,KJ O'Brien,Khurram Chohan,1,0,1,NA,0,NA,NA,NA,1
+523805,1st innings,Ireland,Canada,37.4,KJ O'Brien,GC Wilson,Khurram Chohan,1,0,1,NA,0,NA,NA,NA,1
+523805,1st innings,Ireland,Canada,37.5,GC Wilson,KJ O'Brien,Khurram Chohan,0,0,0,NA,0,NA,NA,NA,1
+523805,1st innings,Ireland,Canada,37.6,GC Wilson,KJ O'Brien,Khurram Chohan,4,0,4,NA,0,NA,NA,NA,1
+523805,1st innings,Ireland,Canada,38.1,KJ O'Brien,GC Wilson,HS Baidwan,0,0,0,NA,0,NA,NA,NA,1
+523805,1st innings,Ireland,Canada,38.2,KJ O'Brien,GC Wilson,HS Baidwan,2,0,2,NA,0,NA,NA,NA,1
+523805,1st innings,Ireland,Canada,38.3,KJ O'Brien,GC Wilson,HS Baidwan,0,0,0,NA,0,NA,NA,NA,1
+523805,1st innings,Ireland,Canada,38.4,KJ O'Brien,GC Wilson,HS Baidwan,0,0,0,NA,1,caught,KJ O'Brien,R Gunasekera,1
+523805,1st innings,Ireland,Canada,38.5,GC Wilson,JF Mooney,HS Baidwan,1,0,1,NA,0,NA,NA,NA,1
+523805,1st innings,Ireland,Canada,38.6,JF Mooney,GC Wilson,HS Baidwan,0,0,0,NA,0,NA,NA,NA,1
+523805,1st innings,Ireland,Canada,39.1,GC Wilson,JF Mooney,Khurram Chohan,1,1,2,noballs,0,NA,NA,NA,1
+523805,1st innings,Ireland,Canada,39.2,JF Mooney,GC Wilson,Khurram Chohan,0,0,0,NA,0,NA,NA,NA,1
+523805,1st innings,Ireland,Canada,39.3,JF Mooney,GC Wilson,Khurram Chohan,0,0,0,NA,0,NA,NA,NA,1
+523805,1st innings,Ireland,Canada,39.4,JF Mooney,GC Wilson,Khurram Chohan,0,0,0,NA,0,NA,NA,NA,1
+523805,1st innings,Ireland,Canada,39.5,JF Mooney,GC Wilson,Khurram Chohan,1,0,1,NA,0,NA,NA,NA,1
+523805,1st innings,Ireland,Canada,39.6,GC Wilson,JF Mooney,Khurram Chohan,1,0,1,NA,0,NA,NA,NA,1
+523805,1st innings,Ireland,Canada,39.7,JF Mooney,GC Wilson,Khurram Chohan,1,0,1,NA,0,NA,NA,NA,1
+523805,1st innings,Ireland,Canada,40.1,JF Mooney,GC Wilson,HS Baidwan,0,0,0,NA,0,NA,NA,NA,1
+523805,1st innings,Ireland,Canada,40.2,JF Mooney,GC Wilson,HS Baidwan,0,0,0,NA,0,NA,NA,NA,1
+523805,1st innings,Ireland,Canada,40.3,JF Mooney,GC Wilson,HS Baidwan,2,0,2,NA,0,NA,NA,NA,1
+523805,1st innings,Ireland,Canada,40.4,JF Mooney,GC Wilson,HS Baidwan,1,0,1,NA,0,NA,NA,NA,1
+523805,1st innings,Ireland,Canada,40.5,GC Wilson,JF Mooney,HS Baidwan,1,0,1,NA,0,NA,NA,NA,1
+523805,1st innings,Ireland,Canada,40.6,JF Mooney,GC Wilson,HS Baidwan,1,0,1,NA,0,NA,NA,NA,1
+523805,1st innings,Ireland,Canada,41.1,JF Mooney,GC Wilson,Khurram Chohan,0,0,0,NA,0,NA,NA,NA,1
+523805,1st innings,Ireland,Canada,41.2,JF Mooney,GC Wilson,Khurram Chohan,4,0,4,NA,0,NA,NA,NA,1
+523805,1st innings,Ireland,Canada,41.3,JF Mooney,GC Wilson,Khurram Chohan,0,0,0,NA,0,NA,NA,NA,1
+523805,1st innings,Ireland,Canada,41.4,JF Mooney,GC Wilson,Khurram Chohan,1,0,1,NA,0,NA,NA,NA,1
+523805,1st innings,Ireland,Canada,41.5,GC Wilson,JF Mooney,Khurram Chohan,1,0,1,NA,0,NA,NA,NA,1
+523805,1st innings,Ireland,Canada,41.6,JF Mooney,GC Wilson,Khurram Chohan,1,0,1,NA,0,NA,NA,NA,1
+523805,1st innings,Ireland,Canada,42.1,JF Mooney,GC Wilson,Zahid Hussain,1,0,1,NA,0,NA,NA,NA,1
+523805,1st innings,Ireland,Canada,42.2,GC Wilson,JF Mooney,Zahid Hussain,1,0,1,NA,0,NA,NA,NA,1
+523805,1st innings,Ireland,Canada,42.3,JF Mooney,GC Wilson,Zahid Hussain,0,1,1,legbyes,0,NA,NA,NA,1
+523805,1st innings,Ireland,Canada,42.4,GC Wilson,JF Mooney,Zahid Hussain,0,0,0,NA,0,NA,NA,NA,1
+523805,1st innings,Ireland,Canada,42.5,GC Wilson,JF Mooney,Zahid Hussain,1,0,1,NA,0,NA,NA,NA,1
+523805,1st innings,Ireland,Canada,42.6,JF Mooney,GC Wilson,Zahid Hussain,1,0,1,NA,0,NA,NA,NA,1
+523805,1st innings,Ireland,Canada,43.1,JF Mooney,GC Wilson,Khurram Chohan,0,0,0,NA,0,NA,NA,NA,1
+523805,1st innings,Ireland,Canada,43.2,JF Mooney,GC Wilson,Khurram Chohan,0,0,0,NA,1,lbw,JF Mooney,NA,1
+523805,1st innings,Ireland,Canada,43.3,DT Johnston,GC Wilson,Khurram Chohan,0,0,0,NA,0,NA,NA,NA,1
+523805,1st innings,Ireland,Canada,43.4,DT Johnston,GC Wilson,Khurram Chohan,0,0,0,NA,0,NA,NA,NA,1
+523805,1st innings,Ireland,Canada,43.5,DT Johnston,GC Wilson,Khurram Chohan,1,0,1,NA,0,NA,NA,NA,1
+523805,1st innings,Ireland,Canada,43.6,GC Wilson,DT Johnston,Khurram Chohan,4,0,4,NA,0,NA,NA,NA,1
+523805,1st innings,Ireland,Canada,44.1,DT Johnston,GC Wilson,Zahid Hussain,0,0,0,NA,0,NA,NA,NA,1
+523805,1st innings,Ireland,Canada,44.2,DT Johnston,GC Wilson,Zahid Hussain,0,0,0,NA,0,NA,NA,NA,1
+523805,1st innings,Ireland,Canada,44.3,DT Johnston,GC Wilson,Zahid Hussain,2,0,2,NA,0,NA,NA,NA,1
+523805,1st innings,Ireland,Canada,44.4,DT Johnston,GC Wilson,Zahid Hussain,1,0,1,NA,0,NA,NA,NA,1
+523805,1st innings,Ireland,Canada,44.5,GC Wilson,DT Johnston,Zahid Hussain,0,0,0,NA,0,NA,NA,NA,1
+523805,1st innings,Ireland,Canada,44.6,GC Wilson,DT Johnston,Zahid Hussain,0,0,0,NA,0,NA,NA,NA,1
+523805,1st innings,Ireland,Canada,45.1,DT Johnston,GC Wilson,HS Baidwan,4,0,4,NA,0,NA,NA,NA,1
+523805,1st innings,Ireland,Canada,45.2,DT Johnston,GC Wilson,HS Baidwan,0,1,1,wides,0,NA,NA,NA,1
+523805,1st innings,Ireland,Canada,45.3,DT Johnston,GC Wilson,HS Baidwan,1,0,1,NA,0,NA,NA,NA,1
+523805,1st innings,Ireland,Canada,45.4,GC Wilson,DT Johnston,HS Baidwan,1,0,1,NA,0,NA,NA,NA,1
+523805,1st innings,Ireland,Canada,45.5,DT Johnston,GC Wilson,HS Baidwan,1,0,1,NA,0,NA,NA,NA,1
+523805,1st innings,Ireland,Canada,45.6,GC Wilson,DT Johnston,HS Baidwan,1,0,1,NA,0,NA,NA,NA,1
+523805,1st innings,Ireland,Canada,45.7,DT Johnston,GC Wilson,HS Baidwan,0,1,1,legbyes,0,NA,NA,NA,1
+523805,1st innings,Ireland,Canada,46.1,DT Johnston,GC Wilson,Rizwan Cheema,0,0,0,NA,0,NA,NA,NA,1
+523805,1st innings,Ireland,Canada,46.2,DT Johnston,GC Wilson,Rizwan Cheema,1,0,1,NA,0,NA,NA,NA,1
+523805,1st innings,Ireland,Canada,46.3,GC Wilson,DT Johnston,Rizwan Cheema,0,0,0,NA,0,NA,NA,NA,1
+523805,1st innings,Ireland,Canada,46.4,GC Wilson,DT Johnston,Rizwan Cheema,0,0,0,NA,0,NA,NA,NA,1
+523805,1st innings,Ireland,Canada,46.5,GC Wilson,DT Johnston,Rizwan Cheema,4,0,4,NA,0,NA,NA,NA,1
+523805,1st innings,Ireland,Canada,46.6,GC Wilson,DT Johnston,Rizwan Cheema,0,0,0,NA,0,NA,NA,NA,1
+523805,1st innings,Ireland,Canada,47.1,DT Johnston,GC Wilson,HS Baidwan,0,0,0,NA,0,NA,NA,NA,1
+523805,1st innings,Ireland,Canada,47.2,DT Johnston,GC Wilson,HS Baidwan,0,0,0,NA,0,NA,NA,NA,1
+523805,1st innings,Ireland,Canada,47.3,DT Johnston,GC Wilson,HS Baidwan,2,0,2,NA,0,NA,NA,NA,1
+523805,1st innings,Ireland,Canada,47.4,DT Johnston,GC Wilson,HS Baidwan,4,0,4,NA,0,NA,NA,NA,1
+523805,1st innings,Ireland,Canada,47.5,DT Johnston,GC Wilson,HS Baidwan,1,0,1,NA,0,NA,NA,NA,1
+523805,1st innings,Ireland,Canada,47.6,GC Wilson,DT Johnston,HS Baidwan,1,0,1,NA,0,NA,NA,NA,1
+523805,1st innings,Ireland,Canada,48.1,GC Wilson,DT Johnston,Rizwan Cheema,1,0,1,NA,0,NA,NA,NA,1
+523805,1st innings,Ireland,Canada,48.2,DT Johnston,GC Wilson,Rizwan Cheema,0,0,0,NA,0,NA,NA,NA,1
+523805,1st innings,Ireland,Canada,48.3,DT Johnston,GC Wilson,Rizwan Cheema,1,0,1,NA,0,NA,NA,NA,1
+523805,1st innings,Ireland,Canada,48.4,GC Wilson,DT Johnston,Rizwan Cheema,0,0,0,NA,1,caught,GC Wilson,R Gunasekera,1
+523805,1st innings,Ireland,Canada,48.5,DT Johnston,GH Dockrell,Rizwan Cheema,1,0,1,NA,0,NA,NA,NA,1
+523805,1st innings,Ireland,Canada,48.6,GH Dockrell,DT Johnston,Rizwan Cheema,0,1,1,legbyes,0,NA,NA,NA,1
+523805,1st innings,Ireland,Canada,49.1,GH Dockrell,DT Johnston,HS Baidwan,6,0,6,NA,0,NA,NA,NA,1
+523805,1st innings,Ireland,Canada,49.2,GH Dockrell,DT Johnston,HS Baidwan,1,0,1,NA,0,NA,NA,NA,1
+523805,1st innings,Ireland,Canada,49.3,DT Johnston,GH Dockrell,HS Baidwan,1,0,1,NA,0,NA,NA,NA,1
+523805,1st innings,Ireland,Canada,49.4,GH Dockrell,DT Johnston,HS Baidwan,0,0,0,NA,0,NA,NA,NA,1
+523805,1st innings,Ireland,Canada,49.5,GH Dockrell,DT Johnston,HS Baidwan,1,0,1,NA,0,NA,NA,NA,1
+523805,1st innings,Ireland,Canada,49.6,DT Johnston,GH Dockrell,HS Baidwan,1,0,1,NA,0,NA,NA,NA,1
+523805,2nd innings,Canada,Ireland,0.1,H Patel,NR Kumar,WB Rankin,4,0,4,NA,0,NA,NA,NA,0
+523805,2nd innings,Canada,Ireland,0.2,H Patel,NR Kumar,WB Rankin,0,0,0,NA,0,NA,NA,NA,0
+523805,2nd innings,Canada,Ireland,0.3,H Patel,NR Kumar,WB Rankin,0,1,1,legbyes,0,NA,NA,NA,0
+523805,2nd innings,Canada,Ireland,0.4,NR Kumar,H Patel,WB Rankin,0,0,0,NA,0,NA,NA,NA,0
+523805,2nd innings,Canada,Ireland,0.5,NR Kumar,H Patel,WB Rankin,0,0,0,NA,0,NA,NA,NA,0
+523805,2nd innings,Canada,Ireland,0.6,NR Kumar,H Patel,WB Rankin,1,0,1,NA,0,NA,NA,NA,0
+523805,2nd innings,Canada,Ireland,1.1,NR Kumar,H Patel,DT Johnston,0,0,0,NA,0,NA,NA,NA,0
+523805,2nd innings,Canada,Ireland,1.2,NR Kumar,H Patel,DT Johnston,0,0,0,NA,0,NA,NA,NA,0
+523805,2nd innings,Canada,Ireland,1.3,NR Kumar,H Patel,DT Johnston,0,0,0,NA,0,NA,NA,NA,0
+523805,2nd innings,Canada,Ireland,1.4,NR Kumar,H Patel,DT Johnston,1,0,1,NA,0,NA,NA,NA,0
+523805,2nd innings,Canada,Ireland,1.5,H Patel,NR Kumar,DT Johnston,0,0,0,NA,0,NA,NA,NA,0
+523805,2nd innings,Canada,Ireland,1.6,H Patel,NR Kumar,DT Johnston,3,0,3,NA,0,NA,NA,NA,0
+523805,2nd innings,Canada,Ireland,2.1,H Patel,NR Kumar,WB Rankin,0,0,0,NA,0,NA,NA,NA,0
+523805,2nd innings,Canada,Ireland,2.2,H Patel,NR Kumar,WB Rankin,0,0,0,NA,0,NA,NA,NA,0
+523805,2nd innings,Canada,Ireland,2.3,H Patel,NR Kumar,WB Rankin,0,0,0,NA,0,NA,NA,NA,0
+523805,2nd innings,Canada,Ireland,2.4,H Patel,NR Kumar,WB Rankin,4,0,4,NA,0,NA,NA,NA,0
+523805,2nd innings,Canada,Ireland,2.5,H Patel,NR Kumar,WB Rankin,0,0,0,NA,0,NA,NA,NA,0
+523805,2nd innings,Canada,Ireland,2.6,H Patel,NR Kumar,WB Rankin,4,0,4,NA,0,NA,NA,NA,0
+523805,2nd innings,Canada,Ireland,3.1,NR Kumar,H Patel,DT Johnston,0,1,1,wides,0,NA,NA,NA,0
+523805,2nd innings,Canada,Ireland,3.2,NR Kumar,H Patel,DT Johnston,4,0,4,NA,0,NA,NA,NA,0
+523805,2nd innings,Canada,Ireland,3.3,NR Kumar,H Patel,DT Johnston,1,0,1,NA,0,NA,NA,NA,0
+523805,2nd innings,Canada,Ireland,3.4,H Patel,NR Kumar,DT Johnston,0,0,0,NA,0,NA,NA,NA,0
+523805,2nd innings,Canada,Ireland,3.5,H Patel,NR Kumar,DT Johnston,0,0,0,NA,0,NA,NA,NA,0
+523805,2nd innings,Canada,Ireland,3.6,H Patel,NR Kumar,DT Johnston,0,0,0,NA,0,NA,NA,NA,0
+523805,2nd innings,Canada,Ireland,3.7,H Patel,NR Kumar,DT Johnston,0,0,0,NA,0,NA,NA,NA,0
+523805,2nd innings,Canada,Ireland,4.1,NR Kumar,H Patel,WB Rankin,0,0,0,NA,0,NA,NA,NA,0
+523805,2nd innings,Canada,Ireland,4.2,NR Kumar,H Patel,WB Rankin,0,0,0,NA,0,NA,NA,NA,0
+523805,2nd innings,Canada,Ireland,4.3,NR Kumar,H Patel,WB Rankin,0,0,0,NA,0,NA,NA,NA,0
+523805,2nd innings,Canada,Ireland,4.4,NR Kumar,H Patel,WB Rankin,1,0,1,NA,0,NA,NA,NA,0
+523805,2nd innings,Canada,Ireland,4.5,H Patel,NR Kumar,WB Rankin,1,0,1,NA,0,NA,NA,NA,0
+523805,2nd innings,Canada,Ireland,4.6,NR Kumar,H Patel,WB Rankin,1,0,1,NA,0,NA,NA,NA,0
+523805,2nd innings,Canada,Ireland,5.1,NR Kumar,H Patel,DT Johnston,1,0,1,NA,0,NA,NA,NA,0
+523805,2nd innings,Canada,Ireland,5.2,H Patel,NR Kumar,DT Johnston,0,0,0,NA,0,NA,NA,NA,0
+523805,2nd innings,Canada,Ireland,5.3,H Patel,NR Kumar,DT Johnston,4,0,4,NA,0,NA,NA,NA,0
+523805,2nd innings,Canada,Ireland,5.4,H Patel,NR Kumar,DT Johnston,0,1,1,wides,0,NA,NA,NA,0
+523805,2nd innings,Canada,Ireland,5.5,H Patel,NR Kumar,DT Johnston,0,0,0,NA,0,NA,NA,NA,0
+523805,2nd innings,Canada,Ireland,5.6,H Patel,NR Kumar,DT Johnston,0,0,0,NA,1,caught,H Patel,KJ O'Brien,0
+523805,2nd innings,Canada,Ireland,5.7,NR Kumar,R Gunasekera,DT Johnston,1,0,1,NA,0,NA,NA,NA,0
+523805,2nd innings,Canada,Ireland,6.1,NR Kumar,R Gunasekera,WB Rankin,1,0,1,NA,0,NA,NA,NA,0
+523805,2nd innings,Canada,Ireland,6.2,R Gunasekera,NR Kumar,WB Rankin,0,1,1,wides,0,NA,NA,NA,0
+523805,2nd innings,Canada,Ireland,6.3,R Gunasekera,NR Kumar,WB Rankin,0,0,0,NA,0,NA,NA,NA,0
+523805,2nd innings,Canada,Ireland,6.4,R Gunasekera,NR Kumar,WB Rankin,0,0,0,NA,0,NA,NA,NA,0
+523805,2nd innings,Canada,Ireland,6.5,R Gunasekera,NR Kumar,WB Rankin,0,0,0,NA,0,NA,NA,NA,0
+523805,2nd innings,Canada,Ireland,6.6,R Gunasekera,NR Kumar,WB Rankin,0,0,0,NA,0,NA,NA,NA,0
+523805,2nd innings,Canada,Ireland,6.7,R Gunasekera,NR Kumar,WB Rankin,1,0,1,NA,0,NA,NA,NA,0
+523805,2nd innings,Canada,Ireland,7.1,R Gunasekera,NR Kumar,DT Johnston,0,0,0,NA,0,NA,NA,NA,0
+523805,2nd innings,Canada,Ireland,7.2,R Gunasekera,NR Kumar,DT Johnston,0,0,0,NA,0,NA,NA,NA,0
+523805,2nd innings,Canada,Ireland,7.3,R Gunasekera,NR Kumar,DT Johnston,0,0,0,NA,0,NA,NA,NA,0
+523805,2nd innings,Canada,Ireland,7.4,R Gunasekera,NR Kumar,DT Johnston,1,0,1,NA,0,NA,NA,NA,0
+523805,2nd innings,Canada,Ireland,7.5,NR Kumar,R Gunasekera,DT Johnston,0,0,0,NA,0,NA,NA,NA,0
+523805,2nd innings,Canada,Ireland,7.6,NR Kumar,R Gunasekera,DT Johnston,0,4,4,legbyes,0,NA,NA,NA,0
+523805,2nd innings,Canada,Ireland,8.1,R Gunasekera,NR Kumar,WB Rankin,1,0,1,NA,0,NA,NA,NA,0
+523805,2nd innings,Canada,Ireland,8.2,NR Kumar,R Gunasekera,WB Rankin,0,0,0,NA,0,NA,NA,NA,0
+523805,2nd innings,Canada,Ireland,8.3,NR Kumar,R Gunasekera,WB Rankin,1,0,1,NA,0,NA,NA,NA,0
+523805,2nd innings,Canada,Ireland,8.4,R Gunasekera,NR Kumar,WB Rankin,0,0,0,NA,0,NA,NA,NA,0
+523805,2nd innings,Canada,Ireland,8.5,R Gunasekera,NR Kumar,WB Rankin,0,0,0,NA,0,NA,NA,NA,0
+523805,2nd innings,Canada,Ireland,8.6,R Gunasekera,NR Kumar,WB Rankin,0,0,0,NA,0,NA,NA,NA,0
+523805,2nd innings,Canada,Ireland,9.1,NR Kumar,R Gunasekera,DT Johnston,0,0,0,NA,0,NA,NA,NA,0
+523805,2nd innings,Canada,Ireland,9.2,NR Kumar,R Gunasekera,DT Johnston,4,0,4,NA,0,NA,NA,NA,0
+523805,2nd innings,Canada,Ireland,9.3,NR Kumar,R Gunasekera,DT Johnston,0,0,0,NA,0,NA,NA,NA,0
+523805,2nd innings,Canada,Ireland,9.4,NR Kumar,R Gunasekera,DT Johnston,0,0,0,NA,0,NA,NA,NA,0
+523805,2nd innings,Canada,Ireland,9.5,NR Kumar,R Gunasekera,DT Johnston,2,0,2,NA,0,NA,NA,NA,0
+523805,2nd innings,Canada,Ireland,9.6,NR Kumar,R Gunasekera,DT Johnston,0,0,0,NA,0,NA,NA,NA,0
+523805,2nd innings,Canada,Ireland,10.1,R Gunasekera,NR Kumar,WB Rankin,0,1,1,wides,0,NA,NA,NA,0
+523805,2nd innings,Canada,Ireland,10.2,R Gunasekera,NR Kumar,WB Rankin,0,0,0,NA,0,NA,NA,NA,0
+523805,2nd innings,Canada,Ireland,10.3,R Gunasekera,NR Kumar,WB Rankin,1,0,1,NA,0,NA,NA,NA,0
+523805,2nd innings,Canada,Ireland,10.4,NR Kumar,R Gunasekera,WB Rankin,0,0,0,NA,0,NA,NA,NA,0
+523805,2nd innings,Canada,Ireland,10.5,NR Kumar,R Gunasekera,WB Rankin,1,0,1,NA,0,NA,NA,NA,0
+523805,2nd innings,Canada,Ireland,10.6,R Gunasekera,NR Kumar,WB Rankin,0,0,0,NA,0,NA,NA,NA,0
+523805,2nd innings,Canada,Ireland,10.7,R Gunasekera,NR Kumar,WB Rankin,0,0,0,NA,0,NA,NA,NA,0
+523805,2nd innings,Canada,Ireland,11.1,NR Kumar,R Gunasekera,JF Mooney,0,0,0,NA,0,NA,NA,NA,0
+523805,2nd innings,Canada,Ireland,11.2,NR Kumar,R Gunasekera,JF Mooney,4,0,4,NA,0,NA,NA,NA,0
+523805,2nd innings,Canada,Ireland,11.3,NR Kumar,R Gunasekera,JF Mooney,0,0,0,NA,0,NA,NA,NA,0
+523805,2nd innings,Canada,Ireland,11.4,NR Kumar,R Gunasekera,JF Mooney,1,0,1,NA,0,NA,NA,NA,0
+523805,2nd innings,Canada,Ireland,11.5,R Gunasekera,NR Kumar,JF Mooney,0,0,0,NA,1,run out,R Gunasekera,DT Johnston,0
+523805,2nd innings,Canada,Ireland,11.6,NR Kumar,Usman Limbada,JF Mooney,0,0,0,NA,0,NA,NA,NA,0
+523805,2nd innings,Canada,Ireland,12.1,Usman Limbada,NR Kumar,KJ O'Brien,0,0,0,NA,0,NA,NA,NA,0
+523805,2nd innings,Canada,Ireland,12.2,Usman Limbada,NR Kumar,KJ O'Brien,0,0,0,NA,0,NA,NA,NA,0
+523805,2nd innings,Canada,Ireland,12.3,Usman Limbada,NR Kumar,KJ O'Brien,4,0,4,NA,0,NA,NA,NA,0
+523805,2nd innings,Canada,Ireland,12.4,Usman Limbada,NR Kumar,KJ O'Brien,0,0,0,NA,0,NA,NA,NA,0
+523805,2nd innings,Canada,Ireland,12.5,Usman Limbada,NR Kumar,KJ O'Brien,0,0,0,NA,0,NA,NA,NA,0
+523805,2nd innings,Canada,Ireland,12.6,Usman Limbada,NR Kumar,KJ O'Brien,0,0,0,NA,0,NA,NA,NA,0
+523805,2nd innings,Canada,Ireland,13.1,NR Kumar,Usman Limbada,JF Mooney,1,0,1,NA,0,NA,NA,NA,0
+523805,2nd innings,Canada,Ireland,13.2,Usman Limbada,NR Kumar,JF Mooney,0,0,0,NA,0,NA,NA,NA,0
+523805,2nd innings,Canada,Ireland,13.3,Usman Limbada,NR Kumar,JF Mooney,0,0,0,NA,0,NA,NA,NA,0
+523805,2nd innings,Canada,Ireland,13.4,Usman Limbada,NR Kumar,JF Mooney,0,0,0,NA,0,NA,NA,NA,0
+523805,2nd innings,Canada,Ireland,13.5,Usman Limbada,NR Kumar,JF Mooney,0,0,0,NA,0,NA,NA,NA,0
+523805,2nd innings,Canada,Ireland,13.6,Usman Limbada,NR Kumar,JF Mooney,0,1,1,wides,0,NA,NA,NA,0
+523805,2nd innings,Canada,Ireland,13.7,Usman Limbada,NR Kumar,JF Mooney,1,0,1,NA,0,NA,NA,NA,0
+523805,2nd innings,Canada,Ireland,14.1,Usman Limbada,NR Kumar,KJ O'Brien,0,0,0,NA,0,NA,NA,NA,0
+523805,2nd innings,Canada,Ireland,14.2,Usman Limbada,NR Kumar,KJ O'Brien,1,0,1,NA,0,NA,NA,NA,0
+523805,2nd innings,Canada,Ireland,14.3,NR Kumar,Usman Limbada,KJ O'Brien,1,0,1,NA,0,NA,NA,NA,0
+523805,2nd innings,Canada,Ireland,14.4,Usman Limbada,NR Kumar,KJ O'Brien,1,0,1,NA,0,NA,NA,NA,0
+523805,2nd innings,Canada,Ireland,14.5,NR Kumar,Usman Limbada,KJ O'Brien,1,0,1,NA,0,NA,NA,NA,0
+523805,2nd innings,Canada,Ireland,14.6,Usman Limbada,NR Kumar,KJ O'Brien,0,0,0,NA,0,NA,NA,NA,0
+523805,2nd innings,Canada,Ireland,15.1,NR Kumar,Usman Limbada,JF Mooney,1,0,1,NA,0,NA,NA,NA,0
+523805,2nd innings,Canada,Ireland,15.2,Usman Limbada,NR Kumar,JF Mooney,0,0,0,NA,0,NA,NA,NA,0
+523805,2nd innings,Canada,Ireland,15.3,Usman Limbada,NR Kumar,JF Mooney,6,0,6,NA,0,NA,NA,NA,0
+523805,2nd innings,Canada,Ireland,15.4,Usman Limbada,NR Kumar,JF Mooney,1,0,1,NA,0,NA,NA,NA,0
+523805,2nd innings,Canada,Ireland,15.5,NR Kumar,Usman Limbada,JF Mooney,1,0,1,NA,0,NA,NA,NA,0
+523805,2nd innings,Canada,Ireland,15.6,Usman Limbada,NR Kumar,JF Mooney,2,0,2,NA,0,NA,NA,NA,0
+523805,2nd innings,Canada,Ireland,16.1,NR Kumar,Usman Limbada,GH Dockrell,0,0,0,NA,0,NA,NA,NA,0
+523805,2nd innings,Canada,Ireland,16.2,NR Kumar,Usman Limbada,GH Dockrell,0,0,0,NA,0,NA,NA,NA,0
+523805,2nd innings,Canada,Ireland,16.3,NR Kumar,Usman Limbada,GH Dockrell,0,2,2,wides,0,NA,NA,NA,0
+523805,2nd innings,Canada,Ireland,16.4,Usman Limbada,NR Kumar,GH Dockrell,0,0,0,NA,0,NA,NA,NA,0
+523805,2nd innings,Canada,Ireland,16.5,Usman Limbada,NR Kumar,GH Dockrell,0,0,0,NA,0,NA,NA,NA,0
+523805,2nd innings,Canada,Ireland,16.6,Usman Limbada,NR Kumar,GH Dockrell,0,0,0,NA,0,NA,NA,NA,0
+523805,2nd innings,Canada,Ireland,16.7,Usman Limbada,NR Kumar,GH Dockrell,0,0,0,NA,1,run out,NR Kumar,WTS Porterfield,0
+523805,2nd innings,Canada,Ireland,17.1,Usman Limbada,AS Hansra,A van der Merwe,0,0,0,NA,0,NA,NA,NA,0
+523805,2nd innings,Canada,Ireland,17.2,Usman Limbada,AS Hansra,A van der Merwe,1,0,1,NA,0,NA,NA,NA,0
+523805,2nd innings,Canada,Ireland,17.3,AS Hansra,Usman Limbada,A van der Merwe,0,0,0,NA,0,NA,NA,NA,0
+523805,2nd innings,Canada,Ireland,17.4,AS Hansra,Usman Limbada,A van der Merwe,0,0,0,NA,0,NA,NA,NA,0
+523805,2nd innings,Canada,Ireland,17.5,AS Hansra,Usman Limbada,A van der Merwe,6,0,6,NA,0,NA,NA,NA,0
+523805,2nd innings,Canada,Ireland,17.6,AS Hansra,Usman Limbada,A van der Merwe,0,0,0,NA,0,NA,NA,NA,0
+523805,2nd innings,Canada,Ireland,18.1,Usman Limbada,AS Hansra,GH Dockrell,0,0,0,NA,0,NA,NA,NA,0
+523805,2nd innings,Canada,Ireland,18.2,Usman Limbada,AS Hansra,GH Dockrell,0,0,0,NA,0,NA,NA,NA,0
+523805,2nd innings,Canada,Ireland,18.3,Usman Limbada,AS Hansra,GH Dockrell,0,0,0,NA,0,NA,NA,NA,0
+523805,2nd innings,Canada,Ireland,18.4,Usman Limbada,AS Hansra,GH Dockrell,2,0,2,NA,0,NA,NA,NA,0
+523805,2nd innings,Canada,Ireland,18.5,Usman Limbada,AS Hansra,GH Dockrell,0,0,0,NA,0,NA,NA,NA,0
+523805,2nd innings,Canada,Ireland,18.6,Usman Limbada,AS Hansra,GH Dockrell,0,0,0,NA,0,NA,NA,NA,0
+523805,2nd innings,Canada,Ireland,19.1,AS Hansra,Usman Limbada,A van der Merwe,1,0,1,NA,0,NA,NA,NA,0
+523805,2nd innings,Canada,Ireland,19.2,Usman Limbada,AS Hansra,A van der Merwe,1,0,1,NA,0,NA,NA,NA,0
+523805,2nd innings,Canada,Ireland,19.3,AS Hansra,Usman Limbada,A van der Merwe,1,0,1,NA,0,NA,NA,NA,0
+523805,2nd innings,Canada,Ireland,19.4,Usman Limbada,AS Hansra,A van der Merwe,0,0,0,NA,0,NA,NA,NA,0
+523805,2nd innings,Canada,Ireland,19.5,Usman Limbada,AS Hansra,A van der Merwe,1,0,1,NA,0,NA,NA,NA,0
+523805,2nd innings,Canada,Ireland,19.6,AS Hansra,Usman Limbada,A van der Merwe,0,0,0,NA,0,NA,NA,NA,0
+523805,2nd innings,Canada,Ireland,20.1,Usman Limbada,AS Hansra,GH Dockrell,0,0,0,NA,0,NA,NA,NA,0
+523805,2nd innings,Canada,Ireland,20.2,Usman Limbada,AS Hansra,GH Dockrell,0,0,0,NA,0,NA,NA,NA,0
+523805,2nd innings,Canada,Ireland,20.3,Usman Limbada,AS Hansra,GH Dockrell,1,0,1,NA,0,NA,NA,NA,0
+523805,2nd innings,Canada,Ireland,20.4,AS Hansra,Usman Limbada,GH Dockrell,0,0,0,NA,0,NA,NA,NA,0
+523805,2nd innings,Canada,Ireland,20.5,AS Hansra,Usman Limbada,GH Dockrell,1,0,1,NA,0,NA,NA,NA,0
+523805,2nd innings,Canada,Ireland,20.6,Usman Limbada,AS Hansra,GH Dockrell,1,0,1,NA,0,NA,NA,NA,0
+523805,2nd innings,Canada,Ireland,21.1,Usman Limbada,AS Hansra,A van der Merwe,1,0,1,NA,0,NA,NA,NA,0
+523805,2nd innings,Canada,Ireland,21.2,AS Hansra,Usman Limbada,A van der Merwe,0,0,0,NA,0,NA,NA,NA,0
+523805,2nd innings,Canada,Ireland,21.3,AS Hansra,Usman Limbada,A van der Merwe,0,0,0,NA,1,run out,Usman Limbada,GH Dockrell,0
+523805,2nd innings,Canada,Ireland,21.4,AS Hansra,Rizwan Cheema,A van der Merwe,0,0,0,NA,0,NA,NA,NA,0
+523805,2nd innings,Canada,Ireland,21.5,AS Hansra,Rizwan Cheema,A van der Merwe,3,0,3,NA,0,NA,NA,NA,0
+523805,2nd innings,Canada,Ireland,21.6,Rizwan Cheema,AS Hansra,A van der Merwe,0,0,0,NA,0,NA,NA,NA,0
+523805,2nd innings,Canada,Ireland,22.1,AS Hansra,Rizwan Cheema,GH Dockrell,0,0,0,NA,0,NA,NA,NA,0
+523805,2nd innings,Canada,Ireland,22.2,AS Hansra,Rizwan Cheema,GH Dockrell,0,0,0,NA,0,NA,NA,NA,0
+523805,2nd innings,Canada,Ireland,22.3,AS Hansra,Rizwan Cheema,GH Dockrell,1,0,1,NA,0,NA,NA,NA,0
+523805,2nd innings,Canada,Ireland,22.4,Rizwan Cheema,AS Hansra,GH Dockrell,0,0,0,NA,0,NA,NA,NA,0
+523805,2nd innings,Canada,Ireland,22.5,Rizwan Cheema,AS Hansra,GH Dockrell,0,0,0,NA,0,NA,NA,NA,0
+523805,2nd innings,Canada,Ireland,22.6,Rizwan Cheema,AS Hansra,GH Dockrell,0,0,0,NA,0,NA,NA,NA,0
+523805,2nd innings,Canada,Ireland,23.1,AS Hansra,Rizwan Cheema,A van der Merwe,0,0,0,NA,0,NA,NA,NA,0
+523805,2nd innings,Canada,Ireland,23.2,AS Hansra,Rizwan Cheema,A van der Merwe,0,0,0,NA,0,NA,NA,NA,0
+523805,2nd innings,Canada,Ireland,23.3,AS Hansra,Rizwan Cheema,A van der Merwe,0,0,0,NA,0,NA,NA,NA,0
+523805,2nd innings,Canada,Ireland,23.4,AS Hansra,Rizwan Cheema,A van der Merwe,0,0,0,NA,0,NA,NA,NA,0
+523805,2nd innings,Canada,Ireland,23.5,AS Hansra,Rizwan Cheema,A van der Merwe,1,0,1,NA,0,NA,NA,NA,0
+523805,2nd innings,Canada,Ireland,23.6,Rizwan Cheema,AS Hansra,A van der Merwe,0,0,0,NA,0,NA,NA,NA,0
+523805,2nd innings,Canada,Ireland,24.1,AS Hansra,Rizwan Cheema,GH Dockrell,0,0,0,NA,0,NA,NA,NA,0
+523805,2nd innings,Canada,Ireland,24.2,AS Hansra,Rizwan Cheema,GH Dockrell,1,0,1,NA,0,NA,NA,NA,0
+523805,2nd innings,Canada,Ireland,24.3,Rizwan Cheema,AS Hansra,GH Dockrell,0,0,0,NA,0,NA,NA,NA,0
+523805,2nd innings,Canada,Ireland,24.4,Rizwan Cheema,AS Hansra,GH Dockrell,0,0,0,NA,1,caught,Rizwan Cheema,JF Mooney,0
+523805,2nd innings,Canada,Ireland,24.5,AS Hansra,Hamza Tariq,GH Dockrell,0,0,0,NA,0,NA,NA,NA,0
+523805,2nd innings,Canada,Ireland,24.6,AS Hansra,Hamza Tariq,GH Dockrell,0,0,0,NA,0,NA,NA,NA,0
+523805,2nd innings,Canada,Ireland,25.1,Hamza Tariq,AS Hansra,A van der Merwe,0,0,0,NA,0,NA,NA,NA,0
+523805,2nd innings,Canada,Ireland,25.2,Hamza Tariq,AS Hansra,A van der Merwe,0,0,0,NA,0,NA,NA,NA,0
+523805,2nd innings,Canada,Ireland,25.3,Hamza Tariq,AS Hansra,A van der Merwe,0,0,0,NA,0,NA,NA,NA,0
+523805,2nd innings,Canada,Ireland,25.4,Hamza Tariq,AS Hansra,A van der Merwe,0,0,0,NA,0,NA,NA,NA,0
+523805,2nd innings,Canada,Ireland,25.5,Hamza Tariq,AS Hansra,A van der Merwe,1,0,1,NA,0,NA,NA,NA,0
+523805,2nd innings,Canada,Ireland,25.6,AS Hansra,Hamza Tariq,A van der Merwe,1,0,1,NA,0,NA,NA,NA,0
+523805,2nd innings,Canada,Ireland,26.1,AS Hansra,Hamza Tariq,GH Dockrell,0,0,0,NA,0,NA,NA,NA,0
+523805,2nd innings,Canada,Ireland,26.2,AS Hansra,Hamza Tariq,GH Dockrell,0,0,0,NA,0,NA,NA,NA,0
+523805,2nd innings,Canada,Ireland,26.3,AS Hansra,Hamza Tariq,GH Dockrell,1,0,1,NA,0,NA,NA,NA,0
+523805,2nd innings,Canada,Ireland,26.4,Hamza Tariq,AS Hansra,GH Dockrell,1,0,1,NA,0,NA,NA,NA,0
+523805,2nd innings,Canada,Ireland,26.5,AS Hansra,Hamza Tariq,GH Dockrell,0,0,0,NA,0,NA,NA,NA,0
+523805,2nd innings,Canada,Ireland,26.6,AS Hansra,Hamza Tariq,GH Dockrell,1,0,1,NA,0,NA,NA,NA,0
+523805,2nd innings,Canada,Ireland,27.1,AS Hansra,Hamza Tariq,A van der Merwe,0,0,0,NA,0,NA,NA,NA,0
+523805,2nd innings,Canada,Ireland,27.2,AS Hansra,Hamza Tariq,A van der Merwe,1,0,1,NA,0,NA,NA,NA,0
+523805,2nd innings,Canada,Ireland,27.3,Hamza Tariq,AS Hansra,A van der Merwe,1,0,1,NA,0,NA,NA,NA,0
+523805,2nd innings,Canada,Ireland,27.4,AS Hansra,Hamza Tariq,A van der Merwe,0,0,0,NA,0,NA,NA,NA,0
+523805,2nd innings,Canada,Ireland,27.5,AS Hansra,Hamza Tariq,A van der Merwe,1,0,1,NA,0,NA,NA,NA,0
+523805,2nd innings,Canada,Ireland,27.6,Hamza Tariq,AS Hansra,A van der Merwe,1,0,1,NA,0,NA,NA,NA,0
+523805,2nd innings,Canada,Ireland,28.1,Hamza Tariq,AS Hansra,GH Dockrell,1,0,1,NA,0,NA,NA,NA,0
+523805,2nd innings,Canada,Ireland,28.2,AS Hansra,Hamza Tariq,GH Dockrell,0,0,0,NA,0,NA,NA,NA,0
+523805,2nd innings,Canada,Ireland,28.3,AS Hansra,Hamza Tariq,GH Dockrell,0,0,0,NA,0,NA,NA,NA,0
+523805,2nd innings,Canada,Ireland,28.4,AS Hansra,Hamza Tariq,GH Dockrell,0,0,0,NA,0,NA,NA,NA,0
+523805,2nd innings,Canada,Ireland,28.5,AS Hansra,Hamza Tariq,GH Dockrell,0,0,0,NA,0,NA,NA,NA,0
+523805,2nd innings,Canada,Ireland,28.6,AS Hansra,Hamza Tariq,GH Dockrell,0,0,0,NA,0,NA,NA,NA,0
+523805,2nd innings,Canada,Ireland,29.1,Hamza Tariq,AS Hansra,JF Mooney,0,0,0,NA,0,NA,NA,NA,0
+523805,2nd innings,Canada,Ireland,29.2,Hamza Tariq,AS Hansra,JF Mooney,0,0,0,NA,0,NA,NA,NA,0
+523805,2nd innings,Canada,Ireland,29.3,Hamza Tariq,AS Hansra,JF Mooney,1,0,1,NA,0,NA,NA,NA,0
+523805,2nd innings,Canada,Ireland,29.4,AS Hansra,Hamza Tariq,JF Mooney,2,0,2,NA,0,NA,NA,NA,0
+523805,2nd innings,Canada,Ireland,29.5,AS Hansra,Hamza Tariq,JF Mooney,2,0,2,NA,0,NA,NA,NA,0
+523805,2nd innings,Canada,Ireland,29.6,AS Hansra,Hamza Tariq,JF Mooney,0,0,0,NA,0,NA,NA,NA,0
+523805,2nd innings,Canada,Ireland,30.1,Hamza Tariq,AS Hansra,A van der Merwe,0,0,0,NA,0,NA,NA,NA,0
+523805,2nd innings,Canada,Ireland,30.2,Hamza Tariq,AS Hansra,A van der Merwe,0,0,0,NA,0,NA,NA,NA,0
+523805,2nd innings,Canada,Ireland,30.3,Hamza Tariq,AS Hansra,A van der Merwe,0,0,0,NA,0,NA,NA,NA,0
+523805,2nd innings,Canada,Ireland,30.4,Hamza Tariq,AS Hansra,A van der Merwe,0,0,0,NA,0,NA,NA,NA,0
+523805,2nd innings,Canada,Ireland,30.5,Hamza Tariq,AS Hansra,A van der Merwe,0,0,0,NA,0,NA,NA,NA,0
+523805,2nd innings,Canada,Ireland,30.6,Hamza Tariq,AS Hansra,A van der Merwe,0,0,0,NA,0,NA,NA,NA,0
+523805,2nd innings,Canada,Ireland,31.1,AS Hansra,Hamza Tariq,JF Mooney,0,1,1,wides,0,NA,NA,NA,0
+523805,2nd innings,Canada,Ireland,31.2,AS Hansra,Hamza Tariq,JF Mooney,0,0,0,NA,0,NA,NA,NA,0
+523805,2nd innings,Canada,Ireland,31.3,AS Hansra,Hamza Tariq,JF Mooney,1,0,1,NA,0,NA,NA,NA,0
+523805,2nd innings,Canada,Ireland,31.4,Hamza Tariq,AS Hansra,JF Mooney,0,0,0,NA,0,NA,NA,NA,0
+523805,2nd innings,Canada,Ireland,31.5,Hamza Tariq,AS Hansra,JF Mooney,0,0,0,NA,0,NA,NA,NA,0
+523805,2nd innings,Canada,Ireland,31.6,Hamza Tariq,AS Hansra,JF Mooney,1,0,1,NA,0,NA,NA,NA,0
+523805,2nd innings,Canada,Ireland,31.7,AS Hansra,Hamza Tariq,JF Mooney,0,0,0,NA,0,NA,NA,NA,0
+523805,2nd innings,Canada,Ireland,32.1,Hamza Tariq,AS Hansra,A van der Merwe,0,0,0,NA,0,NA,NA,NA,0
+523805,2nd innings,Canada,Ireland,32.2,Hamza Tariq,AS Hansra,A van der Merwe,0,0,0,NA,0,NA,NA,NA,0
+523805,2nd innings,Canada,Ireland,32.3,Hamza Tariq,AS Hansra,A van der Merwe,0,0,0,NA,0,NA,NA,NA,0
+523805,2nd innings,Canada,Ireland,32.4,Hamza Tariq,AS Hansra,A van der Merwe,1,0,1,NA,0,NA,NA,NA,0
+523805,2nd innings,Canada,Ireland,32.5,AS Hansra,Hamza Tariq,A van der Merwe,1,0,1,NA,0,NA,NA,NA,0
+523805,2nd innings,Canada,Ireland,32.6,Hamza Tariq,AS Hansra,A van der Merwe,0,0,0,NA,0,NA,NA,NA,0
+523805,2nd innings,Canada,Ireland,33.1,AS Hansra,Hamza Tariq,DT Johnston,1,0,1,NA,0,NA,NA,NA,0
+523805,2nd innings,Canada,Ireland,33.2,Hamza Tariq,AS Hansra,DT Johnston,0,0,0,NA,0,NA,NA,NA,0
+523805,2nd innings,Canada,Ireland,33.3,Hamza Tariq,AS Hansra,DT Johnston,0,0,0,NA,0,NA,NA,NA,0
+523805,2nd innings,Canada,Ireland,33.4,Hamza Tariq,AS Hansra,DT Johnston,0,0,0,NA,0,NA,NA,NA,0
+523805,2nd innings,Canada,Ireland,33.5,Hamza Tariq,AS Hansra,DT Johnston,0,0,0,NA,0,NA,NA,NA,0
+523805,2nd innings,Canada,Ireland,33.6,Hamza Tariq,AS Hansra,DT Johnston,1,0,1,NA,0,NA,NA,NA,0
+523805,2nd innings,Canada,Ireland,34.1,Hamza Tariq,AS Hansra,A van der Merwe,1,0,1,NA,0,NA,NA,NA,0
+523805,2nd innings,Canada,Ireland,34.2,AS Hansra,Hamza Tariq,A van der Merwe,0,0,0,NA,0,NA,NA,NA,0
+523805,2nd innings,Canada,Ireland,34.3,AS Hansra,Hamza Tariq,A van der Merwe,0,0,0,NA,0,NA,NA,NA,0
+523805,2nd innings,Canada,Ireland,34.4,AS Hansra,Hamza Tariq,A van der Merwe,1,0,1,NA,0,NA,NA,NA,0
+523805,2nd innings,Canada,Ireland,34.5,Hamza Tariq,AS Hansra,A van der Merwe,6,0,6,NA,0,NA,NA,NA,0
+523805,2nd innings,Canada,Ireland,34.6,Hamza Tariq,AS Hansra,A van der Merwe,0,0,0,NA,0,NA,NA,NA,0
+523805,2nd innings,Canada,Ireland,35.1,AS Hansra,Hamza Tariq,DT Johnston,2,0,2,NA,0,NA,NA,NA,0
+523805,2nd innings,Canada,Ireland,35.2,AS Hansra,Hamza Tariq,DT Johnston,1,0,1,NA,0,NA,NA,NA,0
+523805,2nd innings,Canada,Ireland,35.3,Hamza Tariq,AS Hansra,DT Johnston,2,0,2,NA,0,NA,NA,NA,0
+523805,2nd innings,Canada,Ireland,35.4,Hamza Tariq,AS Hansra,DT Johnston,0,0,0,NA,0,NA,NA,NA,0
+523805,2nd innings,Canada,Ireland,35.5,Hamza Tariq,AS Hansra,DT Johnston,1,0,1,NA,0,NA,NA,NA,0
+523805,2nd innings,Canada,Ireland,35.6,AS Hansra,Hamza Tariq,DT Johnston,0,0,0,NA,0,NA,NA,NA,0
+523805,2nd innings,Canada,Ireland,36.1,Hamza Tariq,AS Hansra,GH Dockrell,0,0,0,NA,0,NA,NA,NA,0
+523805,2nd innings,Canada,Ireland,36.2,Hamza Tariq,AS Hansra,GH Dockrell,0,0,0,NA,0,NA,NA,NA,0
+523805,2nd innings,Canada,Ireland,36.3,Hamza Tariq,AS Hansra,GH Dockrell,1,0,1,NA,0,NA,NA,NA,0
+523805,2nd innings,Canada,Ireland,36.4,AS Hansra,Hamza Tariq,GH Dockrell,0,0,0,NA,0,NA,NA,NA,0
+523805,2nd innings,Canada,Ireland,36.5,AS Hansra,Hamza Tariq,GH Dockrell,4,0,4,NA,0,NA,NA,NA,0
+523805,2nd innings,Canada,Ireland,36.6,AS Hansra,Hamza Tariq,GH Dockrell,0,0,0,NA,0,NA,NA,NA,0
+523805,2nd innings,Canada,Ireland,37.1,Hamza Tariq,AS Hansra,WB Rankin,4,0,4,NA,0,NA,NA,NA,0
+523805,2nd innings,Canada,Ireland,37.2,Hamza Tariq,AS Hansra,WB Rankin,0,1,1,wides,0,NA,NA,NA,0
+523805,2nd innings,Canada,Ireland,37.3,Hamza Tariq,AS Hansra,WB Rankin,0,0,0,NA,0,NA,NA,NA,0
+523805,2nd innings,Canada,Ireland,37.4,Hamza Tariq,AS Hansra,WB Rankin,0,0,0,NA,1,caught,Hamza Tariq,NJ O'Brien,0
+523805,2nd innings,Canada,Ireland,37.5,Junaid Siddiqui,AS Hansra,WB Rankin,0,0,0,NA,0,NA,NA,NA,0
+523805,2nd innings,Canada,Ireland,37.6,Junaid Siddiqui,AS Hansra,WB Rankin,1,0,1,NA,0,NA,NA,NA,0
+523805,2nd innings,Canada,Ireland,37.7,AS Hansra,Junaid Siddiqui,WB Rankin,0,0,0,NA,0,NA,NA,NA,0
+523805,2nd innings,Canada,Ireland,38.1,Junaid Siddiqui,AS Hansra,A van der Merwe,0,0,0,NA,0,NA,NA,NA,0
+523805,2nd innings,Canada,Ireland,38.2,Junaid Siddiqui,AS Hansra,A van der Merwe,1,0,1,NA,0,NA,NA,NA,0
+523805,2nd innings,Canada,Ireland,38.3,AS Hansra,Junaid Siddiqui,A van der Merwe,1,0,1,NA,0,NA,NA,NA,0
+523805,2nd innings,Canada,Ireland,38.4,Junaid Siddiqui,AS Hansra,A van der Merwe,1,0,1,NA,0,NA,NA,NA,0
+523805,2nd innings,Canada,Ireland,38.5,AS Hansra,Junaid Siddiqui,A van der Merwe,1,0,1,NA,0,NA,NA,NA,0
+523805,2nd innings,Canada,Ireland,38.6,Junaid Siddiqui,AS Hansra,A van der Merwe,1,0,1,NA,0,NA,NA,NA,0
+523805,2nd innings,Canada,Ireland,39.1,Junaid Siddiqui,AS Hansra,WB Rankin,0,0,0,NA,0,NA,NA,NA,0
+523805,2nd innings,Canada,Ireland,39.2,Junaid Siddiqui,AS Hansra,WB Rankin,0,0,0,NA,0,NA,NA,NA,0
+523805,2nd innings,Canada,Ireland,39.3,Junaid Siddiqui,AS Hansra,WB Rankin,1,0,1,NA,0,NA,NA,NA,0
+523805,2nd innings,Canada,Ireland,39.4,AS Hansra,Junaid Siddiqui,WB Rankin,1,0,1,NA,0,NA,NA,NA,0
+523805,2nd innings,Canada,Ireland,39.5,Junaid Siddiqui,AS Hansra,WB Rankin,0,0,0,NA,0,NA,NA,NA,0
+523805,2nd innings,Canada,Ireland,39.6,Junaid Siddiqui,AS Hansra,WB Rankin,1,0,1,NA,0,NA,NA,NA,0
+523805,2nd innings,Canada,Ireland,40.1,Junaid Siddiqui,AS Hansra,GH Dockrell,0,1,1,legbyes,0,NA,NA,NA,0
+523805,2nd innings,Canada,Ireland,40.2,AS Hansra,Junaid Siddiqui,GH Dockrell,0,0,0,NA,1,bowled,AS Hansra,NA,0
+523805,2nd innings,Canada,Ireland,40.3,HS Baidwan,Junaid Siddiqui,GH Dockrell,1,0,1,NA,0,NA,NA,NA,0
+523805,2nd innings,Canada,Ireland,40.4,Junaid Siddiqui,HS Baidwan,GH Dockrell,1,0,1,NA,0,NA,NA,NA,0
+523805,2nd innings,Canada,Ireland,40.5,HS Baidwan,Junaid Siddiqui,GH Dockrell,0,2,2,legbyes,0,NA,NA,NA,0
+523805,2nd innings,Canada,Ireland,40.6,HS Baidwan,Junaid Siddiqui,GH Dockrell,1,0,1,NA,0,NA,NA,NA,0
+523805,2nd innings,Canada,Ireland,41.1,HS Baidwan,Junaid Siddiqui,DT Johnston,1,0,1,NA,0,NA,NA,NA,0
+523805,2nd innings,Canada,Ireland,41.2,Junaid Siddiqui,HS Baidwan,DT Johnston,0,0,0,NA,0,NA,NA,NA,0
+523805,2nd innings,Canada,Ireland,41.3,Junaid Siddiqui,HS Baidwan,DT Johnston,0,1,1,wides,0,NA,NA,NA,0
+523805,2nd innings,Canada,Ireland,41.4,Junaid Siddiqui,HS Baidwan,DT Johnston,0,0,0,NA,0,NA,NA,NA,0
+523805,2nd innings,Canada,Ireland,41.5,Junaid Siddiqui,HS Baidwan,DT Johnston,1,0,1,NA,0,NA,NA,NA,0
+523805,2nd innings,Canada,Ireland,41.6,HS Baidwan,Junaid Siddiqui,DT Johnston,0,0,0,NA,0,NA,NA,NA,0
+523805,2nd innings,Canada,Ireland,41.7,HS Baidwan,Junaid Siddiqui,DT Johnston,0,0,0,NA,0,NA,NA,NA,0
+523805,2nd innings,Canada,Ireland,42.1,Junaid Siddiqui,HS Baidwan,GH Dockrell,1,0,1,NA,0,NA,NA,NA,0
+523805,2nd innings,Canada,Ireland,42.2,HS Baidwan,Junaid Siddiqui,GH Dockrell,1,0,1,NA,0,NA,NA,NA,0
+523805,2nd innings,Canada,Ireland,42.3,Junaid Siddiqui,HS Baidwan,GH Dockrell,1,0,1,NA,0,NA,NA,NA,0
+523805,2nd innings,Canada,Ireland,42.4,HS Baidwan,Junaid Siddiqui,GH Dockrell,1,0,1,NA,0,NA,NA,NA,0
+523805,2nd innings,Canada,Ireland,42.5,Junaid Siddiqui,HS Baidwan,GH Dockrell,0,0,0,NA,0,NA,NA,NA,0
+523805,2nd innings,Canada,Ireland,42.6,Junaid Siddiqui,HS Baidwan,GH Dockrell,0,1,1,wides,0,NA,NA,NA,0
+523805,2nd innings,Canada,Ireland,42.7,Junaid Siddiqui,HS Baidwan,GH Dockrell,1,0,1,NA,0,NA,NA,NA,0
+523805,2nd innings,Canada,Ireland,43.1,Junaid Siddiqui,HS Baidwan,DT Johnston,0,0,0,NA,0,NA,NA,NA,0
+523805,2nd innings,Canada,Ireland,43.2,Junaid Siddiqui,HS Baidwan,DT Johnston,1,0,1,NA,0,NA,NA,NA,0
+523805,2nd innings,Canada,Ireland,43.3,HS Baidwan,Junaid Siddiqui,DT Johnston,1,0,1,NA,0,NA,NA,NA,0
+523805,2nd innings,Canada,Ireland,43.4,Junaid Siddiqui,HS Baidwan,DT Johnston,1,0,1,NA,0,NA,NA,NA,0
+523805,2nd innings,Canada,Ireland,43.5,HS Baidwan,Junaid Siddiqui,DT Johnston,0,0,0,NA,1,caught,HS Baidwan,WB Rankin,0
+523805,2nd innings,Canada,Ireland,43.6,Junaid Siddiqui,Zahid Hussain,DT Johnston,1,0,1,NA,0,NA,NA,NA,0
+523805,2nd innings,Canada,Ireland,44.1,Junaid Siddiqui,Zahid Hussain,AR Cusack,1,0,1,NA,0,NA,NA,NA,0
+523805,2nd innings,Canada,Ireland,44.2,Zahid Hussain,Junaid Siddiqui,AR Cusack,1,0,1,NA,0,NA,NA,NA,0
+523805,2nd innings,Canada,Ireland,44.3,Junaid Siddiqui,Zahid Hussain,AR Cusack,1,0,1,NA,0,NA,NA,NA,0
+523805,2nd innings,Canada,Ireland,44.4,Zahid Hussain,Junaid Siddiqui,AR Cusack,1,0,1,NA,0,NA,NA,NA,0
+523805,2nd innings,Canada,Ireland,44.5,Junaid Siddiqui,Zahid Hussain,AR Cusack,1,0,1,NA,0,NA,NA,NA,0
+523805,2nd innings,Canada,Ireland,44.6,Zahid Hussain,Junaid Siddiqui,AR Cusack,0,0,0,NA,1,caught,Zahid Hussain,WTS Porterfield,0
+523805,2nd innings,Canada,Ireland,45.1,Junaid Siddiqui,Khurram Chohan,DT Johnston,1,0,1,NA,0,NA,NA,NA,0
+523805,2nd innings,Canada,Ireland,45.2,Khurram Chohan,Junaid Siddiqui,DT Johnston,1,0,1,NA,0,NA,NA,NA,0
+523805,2nd innings,Canada,Ireland,45.3,Junaid Siddiqui,Khurram Chohan,DT Johnston,0,0,0,NA,0,NA,NA,NA,0
+523805,2nd innings,Canada,Ireland,45.4,Junaid Siddiqui,Khurram Chohan,DT Johnston,1,0,1,NA,0,NA,NA,NA,0
+523805,2nd innings,Canada,Ireland,45.5,Khurram Chohan,Junaid Siddiqui,DT Johnston,0,0,0,NA,0,NA,NA,NA,0
+523805,2nd innings,Canada,Ireland,45.6,Khurram Chohan,Junaid Siddiqui,DT Johnston,0,0,0,NA,0,NA,NA,NA,0
+523805,2nd innings,Canada,Ireland,46.1,Junaid Siddiqui,Khurram Chohan,AR Cusack,6,0,6,NA,0,NA,NA,NA,0
+523805,2nd innings,Canada,Ireland,46.2,Junaid Siddiqui,Khurram Chohan,AR Cusack,0,0,0,NA,0,NA,NA,NA,0
+523805,2nd innings,Canada,Ireland,46.3,Junaid Siddiqui,Khurram Chohan,AR Cusack,0,0,0,NA,1,caught,Junaid Siddiqui,KJ O'Brien,0

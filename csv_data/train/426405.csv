@@ -1,0 +1,584 @@
+match_id,innings,team,opponent,ball,batsman,non_striker,bowler,scored_runs,extras,total,extra_type,wicket,wicket_type,player_out,fielders,winner
+426405,1st innings,England,Bangladesh,0.1,AJ Strauss,C Kieswetter,Mashrafe Mortaza,0,0,0,NA,0,NA,NA,NA,1
+426405,1st innings,England,Bangladesh,0.2,AJ Strauss,C Kieswetter,Mashrafe Mortaza,1,0,1,NA,0,NA,NA,NA,1
+426405,1st innings,England,Bangladesh,0.3,C Kieswetter,AJ Strauss,Mashrafe Mortaza,0,0,0,NA,0,NA,NA,NA,1
+426405,1st innings,England,Bangladesh,0.4,C Kieswetter,AJ Strauss,Mashrafe Mortaza,0,0,0,NA,1,bowled,C Kieswetter,NA,1
+426405,1st innings,England,Bangladesh,0.5,IJL Trott,AJ Strauss,Mashrafe Mortaza,0,0,0,NA,0,NA,NA,NA,1
+426405,1st innings,England,Bangladesh,0.6,IJL Trott,AJ Strauss,Mashrafe Mortaza,0,0,0,NA,0,NA,NA,NA,1
+426405,1st innings,England,Bangladesh,1.1,AJ Strauss,IJL Trott,Shafiul Islam,0,0,0,NA,0,NA,NA,NA,1
+426405,1st innings,England,Bangladesh,1.2,AJ Strauss,IJL Trott,Shafiul Islam,1,0,1,NA,0,NA,NA,NA,1
+426405,1st innings,England,Bangladesh,1.3,IJL Trott,AJ Strauss,Shafiul Islam,0,0,0,NA,0,NA,NA,NA,1
+426405,1st innings,England,Bangladesh,1.4,IJL Trott,AJ Strauss,Shafiul Islam,4,0,4,NA,0,NA,NA,NA,1
+426405,1st innings,England,Bangladesh,1.5,IJL Trott,AJ Strauss,Shafiul Islam,2,0,2,NA,0,NA,NA,NA,1
+426405,1st innings,England,Bangladesh,1.6,IJL Trott,AJ Strauss,Shafiul Islam,4,0,4,NA,0,NA,NA,NA,1
+426405,1st innings,England,Bangladesh,2.1,AJ Strauss,IJL Trott,Mashrafe Mortaza,0,0,0,NA,0,NA,NA,NA,1
+426405,1st innings,England,Bangladesh,2.2,AJ Strauss,IJL Trott,Mashrafe Mortaza,6,0,6,NA,0,NA,NA,NA,1
+426405,1st innings,England,Bangladesh,2.3,AJ Strauss,IJL Trott,Mashrafe Mortaza,0,0,0,NA,0,NA,NA,NA,1
+426405,1st innings,England,Bangladesh,2.4,AJ Strauss,IJL Trott,Mashrafe Mortaza,0,0,0,NA,0,NA,NA,NA,1
+426405,1st innings,England,Bangladesh,2.5,AJ Strauss,IJL Trott,Mashrafe Mortaza,2,0,2,NA,0,NA,NA,NA,1
+426405,1st innings,England,Bangladesh,2.6,AJ Strauss,IJL Trott,Mashrafe Mortaza,0,0,0,NA,0,NA,NA,NA,1
+426405,1st innings,England,Bangladesh,3.1,IJL Trott,AJ Strauss,Rubel Hossain,0,0,0,NA,0,NA,NA,NA,1
+426405,1st innings,England,Bangladesh,3.2,IJL Trott,AJ Strauss,Rubel Hossain,0,0,0,NA,0,NA,NA,NA,1
+426405,1st innings,England,Bangladesh,3.3,IJL Trott,AJ Strauss,Rubel Hossain,1,0,1,NA,0,NA,NA,NA,1
+426405,1st innings,England,Bangladesh,3.4,AJ Strauss,IJL Trott,Rubel Hossain,0,0,0,NA,0,NA,NA,NA,1
+426405,1st innings,England,Bangladesh,3.5,AJ Strauss,IJL Trott,Rubel Hossain,0,0,0,NA,0,NA,NA,NA,1
+426405,1st innings,England,Bangladesh,3.6,AJ Strauss,IJL Trott,Rubel Hossain,4,0,4,NA,0,NA,NA,NA,1
+426405,1st innings,England,Bangladesh,4.1,IJL Trott,AJ Strauss,Mashrafe Mortaza,1,0,1,NA,0,NA,NA,NA,1
+426405,1st innings,England,Bangladesh,4.2,AJ Strauss,IJL Trott,Mashrafe Mortaza,0,0,0,NA,0,NA,NA,NA,1
+426405,1st innings,England,Bangladesh,4.3,AJ Strauss,IJL Trott,Mashrafe Mortaza,0,0,0,NA,0,NA,NA,NA,1
+426405,1st innings,England,Bangladesh,4.4,AJ Strauss,IJL Trott,Mashrafe Mortaza,1,0,1,NA,0,NA,NA,NA,1
+426405,1st innings,England,Bangladesh,4.5,IJL Trott,AJ Strauss,Mashrafe Mortaza,0,0,0,NA,0,NA,NA,NA,1
+426405,1st innings,England,Bangladesh,4.6,IJL Trott,AJ Strauss,Mashrafe Mortaza,0,0,0,NA,0,NA,NA,NA,1
+426405,1st innings,England,Bangladesh,5.1,AJ Strauss,IJL Trott,Rubel Hossain,0,0,0,NA,0,NA,NA,NA,1
+426405,1st innings,England,Bangladesh,5.2,AJ Strauss,IJL Trott,Rubel Hossain,0,0,0,NA,0,NA,NA,NA,1
+426405,1st innings,England,Bangladesh,5.3,AJ Strauss,IJL Trott,Rubel Hossain,0,0,0,NA,0,NA,NA,NA,1
+426405,1st innings,England,Bangladesh,5.4,AJ Strauss,IJL Trott,Rubel Hossain,0,0,0,NA,0,NA,NA,NA,1
+426405,1st innings,England,Bangladesh,5.5,AJ Strauss,IJL Trott,Rubel Hossain,2,0,2,NA,0,NA,NA,NA,1
+426405,1st innings,England,Bangladesh,5.6,AJ Strauss,IJL Trott,Rubel Hossain,0,0,0,NA,0,NA,NA,NA,1
+426405,1st innings,England,Bangladesh,6.1,IJL Trott,AJ Strauss,Mashrafe Mortaza,0,0,0,NA,0,NA,NA,NA,1
+426405,1st innings,England,Bangladesh,6.2,IJL Trott,AJ Strauss,Mashrafe Mortaza,0,0,0,NA,0,NA,NA,NA,1
+426405,1st innings,England,Bangladesh,6.3,IJL Trott,AJ Strauss,Mashrafe Mortaza,2,0,2,NA,0,NA,NA,NA,1
+426405,1st innings,England,Bangladesh,6.4,IJL Trott,AJ Strauss,Mashrafe Mortaza,0,0,0,NA,0,NA,NA,NA,1
+426405,1st innings,England,Bangladesh,6.5,IJL Trott,AJ Strauss,Mashrafe Mortaza,1,0,1,NA,0,NA,NA,NA,1
+426405,1st innings,England,Bangladesh,6.6,AJ Strauss,IJL Trott,Mashrafe Mortaza,0,0,0,NA,0,NA,NA,NA,1
+426405,1st innings,England,Bangladesh,7.1,IJL Trott,AJ Strauss,Rubel Hossain,0,0,0,NA,0,NA,NA,NA,1
+426405,1st innings,England,Bangladesh,7.2,IJL Trott,AJ Strauss,Rubel Hossain,1,0,1,NA,0,NA,NA,NA,1
+426405,1st innings,England,Bangladesh,7.3,AJ Strauss,IJL Trott,Rubel Hossain,1,0,1,NA,0,NA,NA,NA,1
+426405,1st innings,England,Bangladesh,7.4,IJL Trott,AJ Strauss,Rubel Hossain,0,0,0,NA,0,NA,NA,NA,1
+426405,1st innings,England,Bangladesh,7.5,IJL Trott,AJ Strauss,Rubel Hossain,0,1,1,noballs,0,NA,NA,NA,1
+426405,1st innings,England,Bangladesh,7.6,IJL Trott,AJ Strauss,Rubel Hossain,0,1,1,wides,0,NA,NA,NA,1
+426405,1st innings,England,Bangladesh,7.7,IJL Trott,AJ Strauss,Rubel Hossain,4,0,4,NA,0,NA,NA,NA,1
+426405,1st innings,England,Bangladesh,7.8,IJL Trott,AJ Strauss,Rubel Hossain,0,0,0,NA,0,NA,NA,NA,1
+426405,1st innings,England,Bangladesh,8.1,AJ Strauss,IJL Trott,Mashrafe Mortaza,0,0,0,NA,0,NA,NA,NA,1
+426405,1st innings,England,Bangladesh,8.2,AJ Strauss,IJL Trott,Mashrafe Mortaza,0,0,0,NA,0,NA,NA,NA,1
+426405,1st innings,England,Bangladesh,8.3,AJ Strauss,IJL Trott,Mashrafe Mortaza,0,0,0,NA,0,NA,NA,NA,1
+426405,1st innings,England,Bangladesh,8.4,AJ Strauss,IJL Trott,Mashrafe Mortaza,0,0,0,NA,0,NA,NA,NA,1
+426405,1st innings,England,Bangladesh,8.5,AJ Strauss,IJL Trott,Mashrafe Mortaza,0,0,0,NA,0,NA,NA,NA,1
+426405,1st innings,England,Bangladesh,8.6,AJ Strauss,IJL Trott,Mashrafe Mortaza,0,1,1,legbyes,0,NA,NA,NA,1
+426405,1st innings,England,Bangladesh,9.1,AJ Strauss,IJL Trott,Rubel Hossain,0,0,0,NA,0,NA,NA,NA,1
+426405,1st innings,England,Bangladesh,9.2,AJ Strauss,IJL Trott,Rubel Hossain,0,0,0,NA,0,NA,NA,NA,1
+426405,1st innings,England,Bangladesh,9.3,AJ Strauss,IJL Trott,Rubel Hossain,0,0,0,NA,0,NA,NA,NA,1
+426405,1st innings,England,Bangladesh,9.4,AJ Strauss,IJL Trott,Rubel Hossain,4,0,4,NA,0,NA,NA,NA,1
+426405,1st innings,England,Bangladesh,9.5,AJ Strauss,IJL Trott,Rubel Hossain,0,0,0,NA,0,NA,NA,NA,1
+426405,1st innings,England,Bangladesh,9.6,AJ Strauss,IJL Trott,Rubel Hossain,0,0,0,NA,0,NA,NA,NA,1
+426405,1st innings,England,Bangladesh,10.1,IJL Trott,AJ Strauss,Mashrafe Mortaza,0,0,0,NA,0,NA,NA,NA,1
+426405,1st innings,England,Bangladesh,10.2,IJL Trott,AJ Strauss,Mashrafe Mortaza,0,0,0,NA,0,NA,NA,NA,1
+426405,1st innings,England,Bangladesh,10.3,IJL Trott,AJ Strauss,Mashrafe Mortaza,0,0,0,NA,0,NA,NA,NA,1
+426405,1st innings,England,Bangladesh,10.4,IJL Trott,AJ Strauss,Mashrafe Mortaza,0,0,0,NA,0,NA,NA,NA,1
+426405,1st innings,England,Bangladesh,10.5,IJL Trott,AJ Strauss,Mashrafe Mortaza,0,0,0,NA,0,NA,NA,NA,1
+426405,1st innings,England,Bangladesh,10.6,IJL Trott,AJ Strauss,Mashrafe Mortaza,0,0,0,NA,0,NA,NA,NA,1
+426405,1st innings,England,Bangladesh,11.1,AJ Strauss,IJL Trott,Shafiul Islam,0,0,0,NA,0,NA,NA,NA,1
+426405,1st innings,England,Bangladesh,11.2,AJ Strauss,IJL Trott,Shafiul Islam,2,0,2,NA,0,NA,NA,NA,1
+426405,1st innings,England,Bangladesh,11.3,AJ Strauss,IJL Trott,Shafiul Islam,4,0,4,NA,0,NA,NA,NA,1
+426405,1st innings,England,Bangladesh,11.4,AJ Strauss,IJL Trott,Shafiul Islam,4,0,4,NA,0,NA,NA,NA,1
+426405,1st innings,England,Bangladesh,11.5,AJ Strauss,IJL Trott,Shafiul Islam,0,0,0,NA,0,NA,NA,NA,1
+426405,1st innings,England,Bangladesh,11.6,AJ Strauss,IJL Trott,Shafiul Islam,4,0,4,NA,0,NA,NA,NA,1
+426405,1st innings,England,Bangladesh,12.1,IJL Trott,AJ Strauss,Mashrafe Mortaza,0,0,0,NA,0,NA,NA,NA,1
+426405,1st innings,England,Bangladesh,12.2,IJL Trott,AJ Strauss,Mashrafe Mortaza,1,0,1,NA,0,NA,NA,NA,1
+426405,1st innings,England,Bangladesh,12.3,AJ Strauss,IJL Trott,Mashrafe Mortaza,0,0,0,NA,0,NA,NA,NA,1
+426405,1st innings,England,Bangladesh,12.4,AJ Strauss,IJL Trott,Mashrafe Mortaza,0,0,0,NA,0,NA,NA,NA,1
+426405,1st innings,England,Bangladesh,12.5,AJ Strauss,IJL Trott,Mashrafe Mortaza,0,0,0,NA,0,NA,NA,NA,1
+426405,1st innings,England,Bangladesh,12.6,AJ Strauss,IJL Trott,Mashrafe Mortaza,0,0,0,NA,0,NA,NA,NA,1
+426405,1st innings,England,Bangladesh,13.1,IJL Trott,AJ Strauss,Abdur Razzak,0,0,0,NA,0,NA,NA,NA,1
+426405,1st innings,England,Bangladesh,13.2,IJL Trott,AJ Strauss,Abdur Razzak,0,0,0,NA,0,NA,NA,NA,1
+426405,1st innings,England,Bangladesh,13.3,IJL Trott,AJ Strauss,Abdur Razzak,1,0,1,NA,0,NA,NA,NA,1
+426405,1st innings,England,Bangladesh,13.4,AJ Strauss,IJL Trott,Abdur Razzak,0,0,0,NA,0,NA,NA,NA,1
+426405,1st innings,England,Bangladesh,13.5,AJ Strauss,IJL Trott,Abdur Razzak,1,0,1,NA,0,NA,NA,NA,1
+426405,1st innings,England,Bangladesh,13.6,IJL Trott,AJ Strauss,Abdur Razzak,1,0,1,NA,0,NA,NA,NA,1
+426405,1st innings,England,Bangladesh,14.1,IJL Trott,AJ Strauss,Mashrafe Mortaza,0,0,0,NA,0,NA,NA,NA,1
+426405,1st innings,England,Bangladesh,14.2,IJL Trott,AJ Strauss,Mashrafe Mortaza,1,0,1,NA,0,NA,NA,NA,1
+426405,1st innings,England,Bangladesh,14.3,AJ Strauss,IJL Trott,Mashrafe Mortaza,0,0,0,NA,0,NA,NA,NA,1
+426405,1st innings,England,Bangladesh,14.4,AJ Strauss,IJL Trott,Mashrafe Mortaza,1,0,1,NA,0,NA,NA,NA,1
+426405,1st innings,England,Bangladesh,14.5,IJL Trott,AJ Strauss,Mashrafe Mortaza,0,0,0,NA,0,NA,NA,NA,1
+426405,1st innings,England,Bangladesh,14.6,IJL Trott,AJ Strauss,Mashrafe Mortaza,0,0,0,NA,0,NA,NA,NA,1
+426405,1st innings,England,Bangladesh,15.1,AJ Strauss,IJL Trott,Abdur Razzak,0,0,0,NA,0,NA,NA,NA,1
+426405,1st innings,England,Bangladesh,15.2,AJ Strauss,IJL Trott,Abdur Razzak,1,0,1,NA,0,NA,NA,NA,1
+426405,1st innings,England,Bangladesh,15.3,IJL Trott,AJ Strauss,Abdur Razzak,4,0,4,NA,0,NA,NA,NA,1
+426405,1st innings,England,Bangladesh,15.4,IJL Trott,AJ Strauss,Abdur Razzak,0,0,0,NA,0,NA,NA,NA,1
+426405,1st innings,England,Bangladesh,15.5,IJL Trott,AJ Strauss,Abdur Razzak,0,0,0,NA,0,NA,NA,NA,1
+426405,1st innings,England,Bangladesh,15.6,IJL Trott,AJ Strauss,Abdur Razzak,1,0,1,NA,0,NA,NA,NA,1
+426405,1st innings,England,Bangladesh,16.1,IJL Trott,AJ Strauss,Shakib Al Hasan,0,0,0,NA,0,NA,NA,NA,1
+426405,1st innings,England,Bangladesh,16.2,IJL Trott,AJ Strauss,Shakib Al Hasan,4,0,4,NA,0,NA,NA,NA,1
+426405,1st innings,England,Bangladesh,16.3,IJL Trott,AJ Strauss,Shakib Al Hasan,0,0,0,NA,0,NA,NA,NA,1
+426405,1st innings,England,Bangladesh,16.4,IJL Trott,AJ Strauss,Shakib Al Hasan,0,0,0,NA,0,NA,NA,NA,1
+426405,1st innings,England,Bangladesh,16.5,IJL Trott,AJ Strauss,Shakib Al Hasan,0,0,0,NA,0,NA,NA,NA,1
+426405,1st innings,England,Bangladesh,16.6,IJL Trott,AJ Strauss,Shakib Al Hasan,0,0,0,NA,0,NA,NA,NA,1
+426405,1st innings,England,Bangladesh,17.1,AJ Strauss,IJL Trott,Mahmudullah,0,0,0,NA,0,NA,NA,NA,1
+426405,1st innings,England,Bangladesh,17.2,AJ Strauss,IJL Trott,Mahmudullah,0,0,0,NA,0,NA,NA,NA,1
+426405,1st innings,England,Bangladesh,17.3,AJ Strauss,IJL Trott,Mahmudullah,1,0,1,NA,0,NA,NA,NA,1
+426405,1st innings,England,Bangladesh,17.4,IJL Trott,AJ Strauss,Mahmudullah,1,0,1,NA,0,NA,NA,NA,1
+426405,1st innings,England,Bangladesh,17.5,AJ Strauss,IJL Trott,Mahmudullah,2,0,2,NA,0,NA,NA,NA,1
+426405,1st innings,England,Bangladesh,17.6,AJ Strauss,IJL Trott,Mahmudullah,0,1,1,legbyes,0,NA,NA,NA,1
+426405,1st innings,England,Bangladesh,18.1,AJ Strauss,IJL Trott,Shakib Al Hasan,0,0,0,NA,0,NA,NA,NA,1
+426405,1st innings,England,Bangladesh,18.2,AJ Strauss,IJL Trott,Shakib Al Hasan,4,0,4,NA,0,NA,NA,NA,1
+426405,1st innings,England,Bangladesh,18.3,AJ Strauss,IJL Trott,Shakib Al Hasan,1,0,1,NA,0,NA,NA,NA,1
+426405,1st innings,England,Bangladesh,18.4,IJL Trott,AJ Strauss,Shakib Al Hasan,1,0,1,NA,0,NA,NA,NA,1
+426405,1st innings,England,Bangladesh,18.5,AJ Strauss,IJL Trott,Shakib Al Hasan,1,0,1,NA,0,NA,NA,NA,1
+426405,1st innings,England,Bangladesh,18.6,IJL Trott,AJ Strauss,Shakib Al Hasan,1,0,1,NA,0,NA,NA,NA,1
+426405,1st innings,England,Bangladesh,19.1,IJL Trott,AJ Strauss,Mahmudullah,1,0,1,NA,0,NA,NA,NA,1
+426405,1st innings,England,Bangladesh,19.2,AJ Strauss,IJL Trott,Mahmudullah,1,0,1,NA,0,NA,NA,NA,1
+426405,1st innings,England,Bangladesh,19.3,IJL Trott,AJ Strauss,Mahmudullah,0,0,0,NA,0,NA,NA,NA,1
+426405,1st innings,England,Bangladesh,19.4,IJL Trott,AJ Strauss,Mahmudullah,1,0,1,NA,0,NA,NA,NA,1
+426405,1st innings,England,Bangladesh,19.5,AJ Strauss,IJL Trott,Mahmudullah,1,0,1,NA,0,NA,NA,NA,1
+426405,1st innings,England,Bangladesh,19.6,IJL Trott,AJ Strauss,Mahmudullah,2,0,2,NA,0,NA,NA,NA,1
+426405,1st innings,England,Bangladesh,20.1,AJ Strauss,IJL Trott,Shakib Al Hasan,4,0,4,NA,0,NA,NA,NA,1
+426405,1st innings,England,Bangladesh,20.2,AJ Strauss,IJL Trott,Shakib Al Hasan,1,0,1,NA,0,NA,NA,NA,1
+426405,1st innings,England,Bangladesh,20.3,IJL Trott,AJ Strauss,Shakib Al Hasan,0,0,0,NA,0,NA,NA,NA,1
+426405,1st innings,England,Bangladesh,20.4,IJL Trott,AJ Strauss,Shakib Al Hasan,1,0,1,NA,0,NA,NA,NA,1
+426405,1st innings,England,Bangladesh,20.5,AJ Strauss,IJL Trott,Shakib Al Hasan,0,0,0,NA,0,NA,NA,NA,1
+426405,1st innings,England,Bangladesh,20.6,AJ Strauss,IJL Trott,Shakib Al Hasan,1,0,1,NA,0,NA,NA,NA,1
+426405,1st innings,England,Bangladesh,21.1,AJ Strauss,IJL Trott,Mahmudullah,1,0,1,NA,0,NA,NA,NA,1
+426405,1st innings,England,Bangladesh,21.2,IJL Trott,AJ Strauss,Mahmudullah,1,0,1,NA,0,NA,NA,NA,1
+426405,1st innings,England,Bangladesh,21.3,AJ Strauss,IJL Trott,Mahmudullah,1,0,1,NA,0,NA,NA,NA,1
+426405,1st innings,England,Bangladesh,21.4,IJL Trott,AJ Strauss,Mahmudullah,0,0,0,NA,0,NA,NA,NA,1
+426405,1st innings,England,Bangladesh,21.5,IJL Trott,AJ Strauss,Mahmudullah,1,0,1,NA,0,NA,NA,NA,1
+426405,1st innings,England,Bangladesh,21.6,AJ Strauss,IJL Trott,Mahmudullah,1,0,1,NA,0,NA,NA,NA,1
+426405,1st innings,England,Bangladesh,22.1,AJ Strauss,IJL Trott,Shafiul Islam,1,0,1,NA,0,NA,NA,NA,1
+426405,1st innings,England,Bangladesh,22.2,IJL Trott,AJ Strauss,Shafiul Islam,0,0,0,NA,0,NA,NA,NA,1
+426405,1st innings,England,Bangladesh,22.3,IJL Trott,AJ Strauss,Shafiul Islam,4,0,4,NA,0,NA,NA,NA,1
+426405,1st innings,England,Bangladesh,22.4,IJL Trott,AJ Strauss,Shafiul Islam,1,0,1,NA,0,NA,NA,NA,1
+426405,1st innings,England,Bangladesh,22.5,AJ Strauss,IJL Trott,Shafiul Islam,0,0,0,NA,0,NA,NA,NA,1
+426405,1st innings,England,Bangladesh,22.6,AJ Strauss,IJL Trott,Shafiul Islam,0,0,0,NA,0,NA,NA,NA,1
+426405,1st innings,England,Bangladesh,23.1,IJL Trott,AJ Strauss,Abdur Razzak,0,0,0,NA,0,NA,NA,NA,1
+426405,1st innings,England,Bangladesh,23.2,IJL Trott,AJ Strauss,Abdur Razzak,1,0,1,NA,0,NA,NA,NA,1
+426405,1st innings,England,Bangladesh,23.3,AJ Strauss,IJL Trott,Abdur Razzak,0,1,1,byes,0,NA,NA,NA,1
+426405,1st innings,England,Bangladesh,23.4,IJL Trott,AJ Strauss,Abdur Razzak,0,0,0,NA,0,NA,NA,NA,1
+426405,1st innings,England,Bangladesh,23.5,IJL Trott,AJ Strauss,Abdur Razzak,0,0,0,NA,0,NA,NA,NA,1
+426405,1st innings,England,Bangladesh,23.6,IJL Trott,AJ Strauss,Abdur Razzak,0,0,0,NA,0,NA,NA,NA,1
+426405,1st innings,England,Bangladesh,24.1,AJ Strauss,IJL Trott,Shafiul Islam,1,0,1,NA,0,NA,NA,NA,1
+426405,1st innings,England,Bangladesh,24.2,IJL Trott,AJ Strauss,Shafiul Islam,1,0,1,NA,0,NA,NA,NA,1
+426405,1st innings,England,Bangladesh,24.3,AJ Strauss,IJL Trott,Shafiul Islam,0,0,0,NA,0,NA,NA,NA,1
+426405,1st innings,England,Bangladesh,24.4,AJ Strauss,IJL Trott,Shafiul Islam,0,0,0,NA,0,NA,NA,NA,1
+426405,1st innings,England,Bangladesh,24.5,AJ Strauss,IJL Trott,Shafiul Islam,1,0,1,NA,0,NA,NA,NA,1
+426405,1st innings,England,Bangladesh,24.6,IJL Trott,AJ Strauss,Shafiul Islam,0,0,0,NA,0,NA,NA,NA,1
+426405,1st innings,England,Bangladesh,25.1,AJ Strauss,IJL Trott,Abdur Razzak,1,0,1,NA,0,NA,NA,NA,1
+426405,1st innings,England,Bangladesh,25.2,IJL Trott,AJ Strauss,Abdur Razzak,4,0,4,NA,0,NA,NA,NA,1
+426405,1st innings,England,Bangladesh,25.3,IJL Trott,AJ Strauss,Abdur Razzak,1,0,1,NA,0,NA,NA,NA,1
+426405,1st innings,England,Bangladesh,25.4,AJ Strauss,IJL Trott,Abdur Razzak,1,0,1,NA,0,NA,NA,NA,1
+426405,1st innings,England,Bangladesh,25.5,IJL Trott,AJ Strauss,Abdur Razzak,1,0,1,NA,0,NA,NA,NA,1
+426405,1st innings,England,Bangladesh,25.6,AJ Strauss,IJL Trott,Abdur Razzak,1,0,1,NA,0,NA,NA,NA,1
+426405,1st innings,England,Bangladesh,26.1,AJ Strauss,IJL Trott,Shafiul Islam,6,0,6,NA,0,NA,NA,NA,1
+426405,1st innings,England,Bangladesh,26.2,AJ Strauss,IJL Trott,Shafiul Islam,1,0,1,NA,0,NA,NA,NA,1
+426405,1st innings,England,Bangladesh,26.3,IJL Trott,AJ Strauss,Shafiul Islam,0,0,0,NA,0,NA,NA,NA,1
+426405,1st innings,England,Bangladesh,26.4,IJL Trott,AJ Strauss,Shafiul Islam,1,0,1,NA,0,NA,NA,NA,1
+426405,1st innings,England,Bangladesh,26.5,AJ Strauss,IJL Trott,Shafiul Islam,0,0,0,NA,0,NA,NA,NA,1
+426405,1st innings,England,Bangladesh,26.6,AJ Strauss,IJL Trott,Shafiul Islam,1,0,1,NA,0,NA,NA,NA,1
+426405,1st innings,England,Bangladesh,27.1,AJ Strauss,IJL Trott,Abdur Razzak,1,0,1,NA,0,NA,NA,NA,1
+426405,1st innings,England,Bangladesh,27.2,IJL Trott,AJ Strauss,Abdur Razzak,2,0,2,NA,0,NA,NA,NA,1
+426405,1st innings,England,Bangladesh,27.3,IJL Trott,AJ Strauss,Abdur Razzak,0,0,0,NA,0,NA,NA,NA,1
+426405,1st innings,England,Bangladesh,27.4,IJL Trott,AJ Strauss,Abdur Razzak,1,0,1,NA,0,NA,NA,NA,1
+426405,1st innings,England,Bangladesh,27.5,AJ Strauss,IJL Trott,Abdur Razzak,1,0,1,NA,0,NA,NA,NA,1
+426405,1st innings,England,Bangladesh,27.6,IJL Trott,AJ Strauss,Abdur Razzak,4,0,4,NA,0,NA,NA,NA,1
+426405,1st innings,England,Bangladesh,28.1,AJ Strauss,IJL Trott,Shakib Al Hasan,1,0,1,NA,0,NA,NA,NA,1
+426405,1st innings,England,Bangladesh,28.2,IJL Trott,AJ Strauss,Shakib Al Hasan,0,0,0,NA,0,NA,NA,NA,1
+426405,1st innings,England,Bangladesh,28.3,IJL Trott,AJ Strauss,Shakib Al Hasan,1,0,1,NA,0,NA,NA,NA,1
+426405,1st innings,England,Bangladesh,28.4,AJ Strauss,IJL Trott,Shakib Al Hasan,4,0,4,NA,0,NA,NA,NA,1
+426405,1st innings,England,Bangladesh,28.5,AJ Strauss,IJL Trott,Shakib Al Hasan,1,0,1,NA,0,NA,NA,NA,1
+426405,1st innings,England,Bangladesh,28.6,IJL Trott,AJ Strauss,Shakib Al Hasan,1,0,1,NA,0,NA,NA,NA,1
+426405,1st innings,England,Bangladesh,29.1,IJL Trott,AJ Strauss,Abdur Razzak,0,0,0,NA,0,NA,NA,NA,1
+426405,1st innings,England,Bangladesh,29.2,IJL Trott,AJ Strauss,Abdur Razzak,1,0,1,NA,0,NA,NA,NA,1
+426405,1st innings,England,Bangladesh,29.3,AJ Strauss,IJL Trott,Abdur Razzak,1,0,1,NA,0,NA,NA,NA,1
+426405,1st innings,England,Bangladesh,29.4,IJL Trott,AJ Strauss,Abdur Razzak,1,0,1,NA,0,NA,NA,NA,1
+426405,1st innings,England,Bangladesh,29.5,AJ Strauss,IJL Trott,Abdur Razzak,1,0,1,NA,0,NA,NA,NA,1
+426405,1st innings,England,Bangladesh,29.6,IJL Trott,AJ Strauss,Abdur Razzak,1,0,1,NA,0,NA,NA,NA,1
+426405,1st innings,England,Bangladesh,30.1,IJL Trott,AJ Strauss,Shakib Al Hasan,1,0,1,NA,0,NA,NA,NA,1
+426405,1st innings,England,Bangladesh,30.2,AJ Strauss,IJL Trott,Shakib Al Hasan,1,0,1,NA,0,NA,NA,NA,1
+426405,1st innings,England,Bangladesh,30.3,IJL Trott,AJ Strauss,Shakib Al Hasan,1,0,1,NA,0,NA,NA,NA,1
+426405,1st innings,England,Bangladesh,30.4,AJ Strauss,IJL Trott,Shakib Al Hasan,0,0,0,NA,0,NA,NA,NA,1
+426405,1st innings,England,Bangladesh,30.5,AJ Strauss,IJL Trott,Shakib Al Hasan,1,0,1,NA,0,NA,NA,NA,1
+426405,1st innings,England,Bangladesh,30.6,IJL Trott,AJ Strauss,Shakib Al Hasan,1,0,1,NA,0,NA,NA,NA,1
+426405,1st innings,England,Bangladesh,31.1,IJL Trott,AJ Strauss,Abdur Razzak,3,0,3,NA,0,NA,NA,NA,1
+426405,1st innings,England,Bangladesh,31.2,AJ Strauss,IJL Trott,Abdur Razzak,0,0,0,NA,0,NA,NA,NA,1
+426405,1st innings,England,Bangladesh,31.3,AJ Strauss,IJL Trott,Abdur Razzak,6,0,6,NA,0,NA,NA,NA,1
+426405,1st innings,England,Bangladesh,31.4,AJ Strauss,IJL Trott,Abdur Razzak,0,0,0,NA,0,NA,NA,NA,1
+426405,1st innings,England,Bangladesh,31.5,AJ Strauss,IJL Trott,Abdur Razzak,1,0,1,NA,0,NA,NA,NA,1
+426405,1st innings,England,Bangladesh,31.6,IJL Trott,AJ Strauss,Abdur Razzak,0,0,0,NA,0,NA,NA,NA,1
+426405,1st innings,England,Bangladesh,32.1,AJ Strauss,IJL Trott,Shakib Al Hasan,1,0,1,NA,0,NA,NA,NA,1
+426405,1st innings,England,Bangladesh,32.2,IJL Trott,AJ Strauss,Shakib Al Hasan,0,0,0,NA,0,NA,NA,NA,1
+426405,1st innings,England,Bangladesh,32.3,IJL Trott,AJ Strauss,Shakib Al Hasan,0,0,0,NA,0,NA,NA,NA,1
+426405,1st innings,England,Bangladesh,32.4,IJL Trott,AJ Strauss,Shakib Al Hasan,4,0,4,NA,0,NA,NA,NA,1
+426405,1st innings,England,Bangladesh,32.5,IJL Trott,AJ Strauss,Shakib Al Hasan,0,0,0,NA,0,NA,NA,NA,1
+426405,1st innings,England,Bangladesh,32.6,IJL Trott,AJ Strauss,Shakib Al Hasan,0,0,0,NA,0,NA,NA,NA,1
+426405,1st innings,England,Bangladesh,33.1,AJ Strauss,IJL Trott,Rubel Hossain,1,0,1,NA,0,NA,NA,NA,1
+426405,1st innings,England,Bangladesh,33.2,IJL Trott,AJ Strauss,Rubel Hossain,0,0,0,NA,0,NA,NA,NA,1
+426405,1st innings,England,Bangladesh,33.3,IJL Trott,AJ Strauss,Rubel Hossain,0,0,0,NA,0,NA,NA,NA,1
+426405,1st innings,England,Bangladesh,33.4,IJL Trott,AJ Strauss,Rubel Hossain,1,0,1,NA,0,NA,NA,NA,1
+426405,1st innings,England,Bangladesh,33.5,AJ Strauss,IJL Trott,Rubel Hossain,0,0,0,NA,0,NA,NA,NA,1
+426405,1st innings,England,Bangladesh,33.6,AJ Strauss,IJL Trott,Rubel Hossain,4,0,4,NA,0,NA,NA,NA,1
+426405,1st innings,England,Bangladesh,34.1,IJL Trott,AJ Strauss,Shakib Al Hasan,1,0,1,NA,0,NA,NA,NA,1
+426405,1st innings,England,Bangladesh,34.2,AJ Strauss,IJL Trott,Shakib Al Hasan,0,0,0,NA,0,NA,NA,NA,1
+426405,1st innings,England,Bangladesh,34.3,AJ Strauss,IJL Trott,Shakib Al Hasan,1,0,1,NA,0,NA,NA,NA,1
+426405,1st innings,England,Bangladesh,34.4,IJL Trott,AJ Strauss,Shakib Al Hasan,0,0,0,NA,0,NA,NA,NA,1
+426405,1st innings,England,Bangladesh,34.5,IJL Trott,AJ Strauss,Shakib Al Hasan,1,0,1,NA,0,NA,NA,NA,1
+426405,1st innings,England,Bangladesh,34.6,AJ Strauss,IJL Trott,Shakib Al Hasan,1,0,1,NA,0,NA,NA,NA,1
+426405,1st innings,England,Bangladesh,35.1,AJ Strauss,IJL Trott,Rubel Hossain,4,0,4,NA,0,NA,NA,NA,1
+426405,1st innings,England,Bangladesh,35.2,AJ Strauss,IJL Trott,Rubel Hossain,1,0,1,NA,0,NA,NA,NA,1
+426405,1st innings,England,Bangladesh,35.3,IJL Trott,AJ Strauss,Rubel Hossain,1,0,1,NA,0,NA,NA,NA,1
+426405,1st innings,England,Bangladesh,35.4,AJ Strauss,IJL Trott,Rubel Hossain,4,0,4,NA,0,NA,NA,NA,1
+426405,1st innings,England,Bangladesh,35.5,AJ Strauss,IJL Trott,Rubel Hossain,4,0,4,NA,0,NA,NA,NA,1
+426405,1st innings,England,Bangladesh,35.6,AJ Strauss,IJL Trott,Rubel Hossain,0,0,0,NA,0,NA,NA,NA,1
+426405,1st innings,England,Bangladesh,36.1,IJL Trott,AJ Strauss,Shakib Al Hasan,4,0,4,NA,0,NA,NA,NA,1
+426405,1st innings,England,Bangladesh,36.2,IJL Trott,AJ Strauss,Shakib Al Hasan,4,0,4,NA,0,NA,NA,NA,1
+426405,1st innings,England,Bangladesh,36.3,IJL Trott,AJ Strauss,Shakib Al Hasan,0,0,0,NA,0,NA,NA,NA,1
+426405,1st innings,England,Bangladesh,36.4,IJL Trott,AJ Strauss,Shakib Al Hasan,2,0,2,NA,0,NA,NA,NA,1
+426405,1st innings,England,Bangladesh,36.5,IJL Trott,AJ Strauss,Shakib Al Hasan,2,0,2,NA,0,NA,NA,NA,1
+426405,1st innings,England,Bangladesh,36.6,IJL Trott,AJ Strauss,Shakib Al Hasan,2,0,2,NA,0,NA,NA,NA,1
+426405,1st innings,England,Bangladesh,37.1,AJ Strauss,IJL Trott,Shafiul Islam,1,0,1,NA,0,NA,NA,NA,1
+426405,1st innings,England,Bangladesh,37.2,IJL Trott,AJ Strauss,Shafiul Islam,2,0,2,NA,0,NA,NA,NA,1
+426405,1st innings,England,Bangladesh,37.3,IJL Trott,AJ Strauss,Shafiul Islam,4,0,4,NA,0,NA,NA,NA,1
+426405,1st innings,England,Bangladesh,37.4,IJL Trott,AJ Strauss,Shafiul Islam,0,0,0,NA,0,NA,NA,NA,1
+426405,1st innings,England,Bangladesh,37.5,IJL Trott,AJ Strauss,Shafiul Islam,1,0,1,NA,0,NA,NA,NA,1
+426405,1st innings,England,Bangladesh,37.6,AJ Strauss,IJL Trott,Shafiul Islam,4,0,4,NA,0,NA,NA,NA,1
+426405,1st innings,England,Bangladesh,38.1,IJL Trott,AJ Strauss,Mashrafe Mortaza,1,0,1,NA,0,NA,NA,NA,1
+426405,1st innings,England,Bangladesh,38.2,AJ Strauss,IJL Trott,Mashrafe Mortaza,1,0,1,NA,0,NA,NA,NA,1
+426405,1st innings,England,Bangladesh,38.3,IJL Trott,AJ Strauss,Mashrafe Mortaza,2,0,2,NA,0,NA,NA,NA,1
+426405,1st innings,England,Bangladesh,38.4,IJL Trott,AJ Strauss,Mashrafe Mortaza,0,0,0,NA,0,NA,NA,NA,1
+426405,1st innings,England,Bangladesh,38.5,IJL Trott,AJ Strauss,Mashrafe Mortaza,1,0,1,NA,0,NA,NA,NA,1
+426405,1st innings,England,Bangladesh,38.6,AJ Strauss,IJL Trott,Mashrafe Mortaza,1,0,1,NA,0,NA,NA,NA,1
+426405,1st innings,England,Bangladesh,39.1,AJ Strauss,IJL Trott,Shakib Al Hasan,2,0,2,NA,0,NA,NA,NA,1
+426405,1st innings,England,Bangladesh,39.2,AJ Strauss,IJL Trott,Shakib Al Hasan,1,0,1,NA,0,NA,NA,NA,1
+426405,1st innings,England,Bangladesh,39.3,IJL Trott,AJ Strauss,Shakib Al Hasan,1,0,1,NA,0,NA,NA,NA,1
+426405,1st innings,England,Bangladesh,39.4,AJ Strauss,IJL Trott,Shakib Al Hasan,0,0,0,NA,0,NA,NA,NA,1
+426405,1st innings,England,Bangladesh,39.5,AJ Strauss,IJL Trott,Shakib Al Hasan,0,0,0,NA,0,NA,NA,NA,1
+426405,1st innings,England,Bangladesh,39.6,AJ Strauss,IJL Trott,Shakib Al Hasan,6,0,6,NA,0,NA,NA,NA,1
+426405,1st innings,England,Bangladesh,40.1,IJL Trott,AJ Strauss,Mashrafe Mortaza,1,0,1,NA,0,NA,NA,NA,1
+426405,1st innings,England,Bangladesh,40.2,AJ Strauss,IJL Trott,Mashrafe Mortaza,0,0,0,NA,0,NA,NA,NA,1
+426405,1st innings,England,Bangladesh,40.3,AJ Strauss,IJL Trott,Mashrafe Mortaza,0,1,1,wides,0,NA,NA,NA,1
+426405,1st innings,England,Bangladesh,40.4,AJ Strauss,IJL Trott,Mashrafe Mortaza,4,0,4,NA,0,NA,NA,NA,1
+426405,1st innings,England,Bangladesh,40.5,AJ Strauss,IJL Trott,Mashrafe Mortaza,0,2,2,wides,0,NA,NA,NA,1
+426405,1st innings,England,Bangladesh,40.6,IJL Trott,AJ Strauss,Mashrafe Mortaza,0,0,0,NA,1,caught,IJL Trott,Shakib Al Hasan,1
+426405,1st innings,England,Bangladesh,40.7,LJ Wright,AJ Strauss,Mashrafe Mortaza,0,0,0,NA,1,caught,LJ Wright,Jahurul Islam,1
+426405,1st innings,England,Bangladesh,40.8,PD Collingwood,AJ Strauss,Mashrafe Mortaza,0,0,0,NA,0,NA,NA,NA,1
+426405,1st innings,England,Bangladesh,41.1,AJ Strauss,PD Collingwood,Shakib Al Hasan,1,0,1,NA,0,NA,NA,NA,1
+426405,1st innings,England,Bangladesh,41.2,PD Collingwood,AJ Strauss,Shakib Al Hasan,2,0,2,NA,0,NA,NA,NA,1
+426405,1st innings,England,Bangladesh,41.3,PD Collingwood,AJ Strauss,Shakib Al Hasan,0,0,0,NA,0,NA,NA,NA,1
+426405,1st innings,England,Bangladesh,41.4,PD Collingwood,AJ Strauss,Shakib Al Hasan,1,0,1,NA,0,NA,NA,NA,1
+426405,1st innings,England,Bangladesh,41.5,AJ Strauss,PD Collingwood,Shakib Al Hasan,6,0,6,NA,0,NA,NA,NA,1
+426405,1st innings,England,Bangladesh,41.6,AJ Strauss,PD Collingwood,Shakib Al Hasan,0,0,0,NA,0,NA,NA,NA,1
+426405,1st innings,England,Bangladesh,42.1,PD Collingwood,AJ Strauss,Abdur Razzak,1,0,1,NA,0,NA,NA,NA,1
+426405,1st innings,England,Bangladesh,42.2,AJ Strauss,PD Collingwood,Abdur Razzak,0,0,0,NA,0,NA,NA,NA,1
+426405,1st innings,England,Bangladesh,42.3,AJ Strauss,PD Collingwood,Abdur Razzak,0,0,0,NA,0,NA,NA,NA,1
+426405,1st innings,England,Bangladesh,42.4,AJ Strauss,PD Collingwood,Abdur Razzak,4,0,4,NA,0,NA,NA,NA,1
+426405,1st innings,England,Bangladesh,42.5,AJ Strauss,PD Collingwood,Abdur Razzak,1,0,1,NA,0,NA,NA,NA,1
+426405,1st innings,England,Bangladesh,42.6,PD Collingwood,AJ Strauss,Abdur Razzak,4,0,4,NA,0,NA,NA,NA,1
+426405,1st innings,England,Bangladesh,43.1,AJ Strauss,PD Collingwood,Rubel Hossain,0,0,0,NA,0,NA,NA,NA,1
+426405,1st innings,England,Bangladesh,43.2,AJ Strauss,PD Collingwood,Rubel Hossain,1,0,1,NA,0,NA,NA,NA,1
+426405,1st innings,England,Bangladesh,43.3,PD Collingwood,AJ Strauss,Rubel Hossain,0,0,0,NA,1,caught,PD Collingwood,Mohammad Ashraful,1
+426405,1st innings,England,Bangladesh,43.4,AJ Strauss,EJG Morgan,Rubel Hossain,1,0,1,NA,0,NA,NA,NA,1
+426405,1st innings,England,Bangladesh,43.5,EJG Morgan,AJ Strauss,Rubel Hossain,1,0,1,NA,0,NA,NA,NA,1
+426405,1st innings,England,Bangladesh,43.6,AJ Strauss,EJG Morgan,Rubel Hossain,1,0,1,NA,0,NA,NA,NA,1
+426405,1st innings,England,Bangladesh,44.1,AJ Strauss,EJG Morgan,Shafiul Islam,0,0,0,NA,0,NA,NA,NA,1
+426405,1st innings,England,Bangladesh,44.2,AJ Strauss,EJG Morgan,Shafiul Islam,4,0,4,NA,0,NA,NA,NA,1
+426405,1st innings,England,Bangladesh,44.3,AJ Strauss,EJG Morgan,Shafiul Islam,0,0,0,NA,0,NA,NA,NA,1
+426405,1st innings,England,Bangladesh,44.4,AJ Strauss,EJG Morgan,Shafiul Islam,1,0,1,NA,0,NA,NA,NA,1
+426405,1st innings,England,Bangladesh,44.5,EJG Morgan,AJ Strauss,Shafiul Islam,0,0,0,NA,1,caught,EJG Morgan,Tamim Iqbal,1
+426405,1st innings,England,Bangladesh,44.6,AJ Strauss,RS Bopara,Shafiul Islam,1,0,1,NA,0,NA,NA,NA,1
+426405,1st innings,England,Bangladesh,45.1,AJ Strauss,RS Bopara,Rubel Hossain,0,1,1,legbyes,0,NA,NA,NA,1
+426405,1st innings,England,Bangladesh,45.2,RS Bopara,AJ Strauss,Rubel Hossain,1,0,1,NA,0,NA,NA,NA,1
+426405,1st innings,England,Bangladesh,45.3,AJ Strauss,RS Bopara,Rubel Hossain,0,0,0,NA,1,caught,AJ Strauss,Shakib Al Hasan,1
+426405,1st innings,England,Bangladesh,45.4,RS Bopara,TT Bresnan,Rubel Hossain,1,0,1,NA,0,NA,NA,NA,1
+426405,1st innings,England,Bangladesh,45.5,TT Bresnan,RS Bopara,Rubel Hossain,4,0,4,NA,0,NA,NA,NA,1
+426405,1st innings,England,Bangladesh,45.6,TT Bresnan,RS Bopara,Rubel Hossain,1,0,1,NA,0,NA,NA,NA,1
+426405,1st innings,England,Bangladesh,46.1,TT Bresnan,RS Bopara,Shafiul Islam,0,0,0,NA,0,NA,NA,NA,1
+426405,1st innings,England,Bangladesh,46.2,TT Bresnan,RS Bopara,Shafiul Islam,1,0,1,NA,0,NA,NA,NA,1
+426405,1st innings,England,Bangladesh,46.3,RS Bopara,TT Bresnan,Shafiul Islam,2,0,2,NA,0,NA,NA,NA,1
+426405,1st innings,England,Bangladesh,46.4,RS Bopara,TT Bresnan,Shafiul Islam,1,0,1,NA,0,NA,NA,NA,1
+426405,1st innings,England,Bangladesh,46.5,TT Bresnan,RS Bopara,Shafiul Islam,4,0,4,NA,0,NA,NA,NA,1
+426405,1st innings,England,Bangladesh,46.6,TT Bresnan,RS Bopara,Shafiul Islam,0,0,0,NA,1,caught,TT Bresnan,Tamim Iqbal,1
+426405,1st innings,England,Bangladesh,47.1,MH Yardy,RS Bopara,Rubel Hossain,1,0,1,NA,0,NA,NA,NA,1
+426405,1st innings,England,Bangladesh,47.2,RS Bopara,MH Yardy,Rubel Hossain,1,0,1,NA,0,NA,NA,NA,1
+426405,1st innings,England,Bangladesh,47.3,MH Yardy,RS Bopara,Rubel Hossain,1,0,1,NA,0,NA,NA,NA,1
+426405,1st innings,England,Bangladesh,47.4,RS Bopara,MH Yardy,Rubel Hossain,1,0,1,NA,0,NA,NA,NA,1
+426405,1st innings,England,Bangladesh,47.5,MH Yardy,RS Bopara,Rubel Hossain,3,0,3,NA,0,NA,NA,NA,1
+426405,1st innings,England,Bangladesh,47.6,RS Bopara,MH Yardy,Rubel Hossain,4,0,4,NA,0,NA,NA,NA,1
+426405,1st innings,England,Bangladesh,48.1,MH Yardy,RS Bopara,Abdur Razzak,1,0,1,NA,0,NA,NA,NA,1
+426405,1st innings,England,Bangladesh,48.2,RS Bopara,MH Yardy,Abdur Razzak,1,0,1,NA,0,NA,NA,NA,1
+426405,1st innings,England,Bangladesh,48.3,MH Yardy,RS Bopara,Abdur Razzak,0,1,1,legbyes,0,NA,NA,NA,1
+426405,1st innings,England,Bangladesh,48.4,RS Bopara,MH Yardy,Abdur Razzak,1,0,1,NA,0,NA,NA,NA,1
+426405,1st innings,England,Bangladesh,48.5,MH Yardy,RS Bopara,Abdur Razzak,1,0,1,NA,0,NA,NA,NA,1
+426405,1st innings,England,Bangladesh,48.6,RS Bopara,MH Yardy,Abdur Razzak,6,0,6,NA,0,NA,NA,NA,1
+426405,1st innings,England,Bangladesh,49.1,MH Yardy,RS Bopara,Shafiul Islam,1,0,1,NA,0,NA,NA,NA,1
+426405,1st innings,England,Bangladesh,49.2,RS Bopara,MH Yardy,Shafiul Islam,2,1,3,noballs,0,NA,NA,NA,1
+426405,1st innings,England,Bangladesh,49.3,RS Bopara,MH Yardy,Shafiul Islam,6,0,6,NA,0,NA,NA,NA,1
+426405,1st innings,England,Bangladesh,49.4,RS Bopara,MH Yardy,Shafiul Islam,4,0,4,NA,0,NA,NA,NA,1
+426405,1st innings,England,Bangladesh,49.5,RS Bopara,MH Yardy,Shafiul Islam,2,0,2,NA,0,NA,NA,NA,1
+426405,1st innings,England,Bangladesh,49.6,RS Bopara,MH Yardy,Shafiul Islam,6,0,6,NA,0,NA,NA,NA,1
+426405,1st innings,England,Bangladesh,49.7,RS Bopara,MH Yardy,Shafiul Islam,6,0,6,NA,0,NA,NA,NA,1
+426405,2nd innings,Bangladesh,England,0.1,Tamim Iqbal,Imrul Kayes,A Shahzad,0,0,0,NA,0,NA,NA,NA,0
+426405,2nd innings,Bangladesh,England,0.2,Tamim Iqbal,Imrul Kayes,A Shahzad,0,0,0,NA,0,NA,NA,NA,0
+426405,2nd innings,Bangladesh,England,0.3,Tamim Iqbal,Imrul Kayes,A Shahzad,0,0,0,NA,0,NA,NA,NA,0
+426405,2nd innings,Bangladesh,England,0.4,Tamim Iqbal,Imrul Kayes,A Shahzad,0,0,0,NA,0,NA,NA,NA,0
+426405,2nd innings,Bangladesh,England,0.5,Tamim Iqbal,Imrul Kayes,A Shahzad,4,0,4,NA,0,NA,NA,NA,0
+426405,2nd innings,Bangladesh,England,0.6,Tamim Iqbal,Imrul Kayes,A Shahzad,1,0,1,NA,0,NA,NA,NA,0
+426405,2nd innings,Bangladesh,England,1.1,Tamim Iqbal,Imrul Kayes,TT Bresnan,0,0,0,NA,0,NA,NA,NA,0
+426405,2nd innings,Bangladesh,England,1.2,Tamim Iqbal,Imrul Kayes,TT Bresnan,0,0,0,NA,0,NA,NA,NA,0
+426405,2nd innings,Bangladesh,England,1.3,Tamim Iqbal,Imrul Kayes,TT Bresnan,0,0,0,NA,0,NA,NA,NA,0
+426405,2nd innings,Bangladesh,England,1.4,Tamim Iqbal,Imrul Kayes,TT Bresnan,4,0,4,NA,0,NA,NA,NA,0
+426405,2nd innings,Bangladesh,England,1.5,Tamim Iqbal,Imrul Kayes,TT Bresnan,1,0,1,NA,0,NA,NA,NA,0
+426405,2nd innings,Bangladesh,England,1.6,Imrul Kayes,Tamim Iqbal,TT Bresnan,4,0,4,NA,0,NA,NA,NA,0
+426405,2nd innings,Bangladesh,England,2.1,Tamim Iqbal,Imrul Kayes,A Shahzad,0,0,0,NA,0,NA,NA,NA,0
+426405,2nd innings,Bangladesh,England,2.2,Tamim Iqbal,Imrul Kayes,A Shahzad,4,0,4,NA,0,NA,NA,NA,0
+426405,2nd innings,Bangladesh,England,2.3,Tamim Iqbal,Imrul Kayes,A Shahzad,2,0,2,NA,0,NA,NA,NA,0
+426405,2nd innings,Bangladesh,England,2.4,Tamim Iqbal,Imrul Kayes,A Shahzad,0,0,0,NA,1,caught,Tamim Iqbal,LJ Wright,0
+426405,2nd innings,Bangladesh,England,2.5,Imrul Kayes,Junaid Siddique,A Shahzad,0,0,0,NA,0,NA,NA,NA,0
+426405,2nd innings,Bangladesh,England,2.6,Imrul Kayes,Junaid Siddique,A Shahzad,0,0,0,NA,0,NA,NA,NA,0
+426405,2nd innings,Bangladesh,England,3.1,Junaid Siddique,Imrul Kayes,TT Bresnan,0,0,0,NA,0,NA,NA,NA,0
+426405,2nd innings,Bangladesh,England,3.2,Junaid Siddique,Imrul Kayes,TT Bresnan,0,0,0,NA,0,NA,NA,NA,0
+426405,2nd innings,Bangladesh,England,3.3,Junaid Siddique,Imrul Kayes,TT Bresnan,0,0,0,NA,0,NA,NA,NA,0
+426405,2nd innings,Bangladesh,England,3.4,Junaid Siddique,Imrul Kayes,TT Bresnan,0,0,0,NA,0,NA,NA,NA,0
+426405,2nd innings,Bangladesh,England,3.5,Junaid Siddique,Imrul Kayes,TT Bresnan,4,0,4,NA,0,NA,NA,NA,0
+426405,2nd innings,Bangladesh,England,3.6,Junaid Siddique,Imrul Kayes,TT Bresnan,0,0,0,NA,0,NA,NA,NA,0
+426405,2nd innings,Bangladesh,England,4.1,Imrul Kayes,Junaid Siddique,A Shahzad,0,0,0,NA,0,NA,NA,NA,0
+426405,2nd innings,Bangladesh,England,4.2,Imrul Kayes,Junaid Siddique,A Shahzad,0,0,0,NA,0,NA,NA,NA,0
+426405,2nd innings,Bangladesh,England,4.3,Imrul Kayes,Junaid Siddique,A Shahzad,0,0,0,NA,0,NA,NA,NA,0
+426405,2nd innings,Bangladesh,England,4.4,Imrul Kayes,Junaid Siddique,A Shahzad,0,0,0,NA,0,NA,NA,NA,0
+426405,2nd innings,Bangladesh,England,4.5,Imrul Kayes,Junaid Siddique,A Shahzad,0,0,0,NA,0,NA,NA,NA,0
+426405,2nd innings,Bangladesh,England,4.6,Imrul Kayes,Junaid Siddique,A Shahzad,0,0,0,NA,1,caught,Imrul Kayes,C Kieswetter,0
+426405,2nd innings,Bangladesh,England,5.1,Junaid Siddique,Jahurul Islam,TT Bresnan,6,0,6,NA,0,NA,NA,NA,0
+426405,2nd innings,Bangladesh,England,5.2,Junaid Siddique,Jahurul Islam,TT Bresnan,0,0,0,NA,0,NA,NA,NA,0
+426405,2nd innings,Bangladesh,England,5.3,Junaid Siddique,Jahurul Islam,TT Bresnan,1,0,1,NA,0,NA,NA,NA,0
+426405,2nd innings,Bangladesh,England,5.4,Jahurul Islam,Junaid Siddique,TT Bresnan,0,0,0,NA,0,NA,NA,NA,0
+426405,2nd innings,Bangladesh,England,5.5,Jahurul Islam,Junaid Siddique,TT Bresnan,0,0,0,NA,0,NA,NA,NA,0
+426405,2nd innings,Bangladesh,England,5.6,Jahurul Islam,Junaid Siddique,TT Bresnan,0,0,0,NA,0,NA,NA,NA,0
+426405,2nd innings,Bangladesh,England,6.1,Junaid Siddique,Jahurul Islam,A Shahzad,1,0,1,NA,0,NA,NA,NA,0
+426405,2nd innings,Bangladesh,England,6.2,Jahurul Islam,Junaid Siddique,A Shahzad,0,1,1,noballs,0,NA,NA,NA,0
+426405,2nd innings,Bangladesh,England,6.3,Jahurul Islam,Junaid Siddique,A Shahzad,1,0,1,NA,0,NA,NA,NA,0
+426405,2nd innings,Bangladesh,England,6.4,Junaid Siddique,Jahurul Islam,A Shahzad,0,0,0,NA,0,NA,NA,NA,0
+426405,2nd innings,Bangladesh,England,6.5,Junaid Siddique,Jahurul Islam,A Shahzad,2,0,2,NA,0,NA,NA,NA,0
+426405,2nd innings,Bangladesh,England,6.6,Junaid Siddique,Jahurul Islam,A Shahzad,4,0,4,NA,0,NA,NA,NA,0
+426405,2nd innings,Bangladesh,England,6.7,Junaid Siddique,Jahurul Islam,A Shahzad,4,0,4,NA,0,NA,NA,NA,0
+426405,2nd innings,Bangladesh,England,7.1,Jahurul Islam,Junaid Siddique,SCJ Broad,0,0,0,NA,0,NA,NA,NA,0
+426405,2nd innings,Bangladesh,England,7.2,Jahurul Islam,Junaid Siddique,SCJ Broad,0,0,0,NA,0,NA,NA,NA,0
+426405,2nd innings,Bangladesh,England,7.3,Jahurul Islam,Junaid Siddique,SCJ Broad,4,0,4,NA,0,NA,NA,NA,0
+426405,2nd innings,Bangladesh,England,7.4,Jahurul Islam,Junaid Siddique,SCJ Broad,0,0,0,NA,0,NA,NA,NA,0
+426405,2nd innings,Bangladesh,England,7.5,Jahurul Islam,Junaid Siddique,SCJ Broad,0,0,0,NA,0,NA,NA,NA,0
+426405,2nd innings,Bangladesh,England,7.6,Jahurul Islam,Junaid Siddique,SCJ Broad,1,0,1,NA,0,NA,NA,NA,0
+426405,2nd innings,Bangladesh,England,8.1,Jahurul Islam,Junaid Siddique,TT Bresnan,0,0,0,NA,0,NA,NA,NA,0
+426405,2nd innings,Bangladesh,England,8.2,Jahurul Islam,Junaid Siddique,TT Bresnan,4,0,4,NA,0,NA,NA,NA,0
+426405,2nd innings,Bangladesh,England,8.3,Jahurul Islam,Junaid Siddique,TT Bresnan,1,0,1,NA,0,NA,NA,NA,0
+426405,2nd innings,Bangladesh,England,8.4,Junaid Siddique,Jahurul Islam,TT Bresnan,1,0,1,NA,0,NA,NA,NA,0
+426405,2nd innings,Bangladesh,England,8.5,Jahurul Islam,Junaid Siddique,TT Bresnan,0,0,0,NA,0,NA,NA,NA,0
+426405,2nd innings,Bangladesh,England,8.6,Jahurul Islam,Junaid Siddique,TT Bresnan,0,0,0,NA,0,NA,NA,NA,0
+426405,2nd innings,Bangladesh,England,9.1,Junaid Siddique,Jahurul Islam,SCJ Broad,0,0,0,NA,0,NA,NA,NA,0
+426405,2nd innings,Bangladesh,England,9.2,Junaid Siddique,Jahurul Islam,SCJ Broad,2,0,2,NA,0,NA,NA,NA,0
+426405,2nd innings,Bangladesh,England,9.3,Junaid Siddique,Jahurul Islam,SCJ Broad,0,1,1,legbyes,0,NA,NA,NA,0
+426405,2nd innings,Bangladesh,England,9.4,Jahurul Islam,Junaid Siddique,SCJ Broad,0,0,0,NA,0,NA,NA,NA,0
+426405,2nd innings,Bangladesh,England,9.5,Jahurul Islam,Junaid Siddique,SCJ Broad,1,0,1,NA,0,NA,NA,NA,0
+426405,2nd innings,Bangladesh,England,9.6,Junaid Siddique,Jahurul Islam,SCJ Broad,0,0,0,NA,0,NA,NA,NA,0
+426405,2nd innings,Bangladesh,England,10.1,Jahurul Islam,Junaid Siddique,TT Bresnan,4,0,4,NA,0,NA,NA,NA,0
+426405,2nd innings,Bangladesh,England,10.2,Jahurul Islam,Junaid Siddique,TT Bresnan,0,1,1,legbyes,0,NA,NA,NA,0
+426405,2nd innings,Bangladesh,England,10.3,Junaid Siddique,Jahurul Islam,TT Bresnan,0,0,0,NA,1,caught,Junaid Siddique,LJ Wright,0
+426405,2nd innings,Bangladesh,England,10.4,Jahurul Islam,Shakib Al Hasan,TT Bresnan,0,0,0,NA,0,NA,NA,NA,0
+426405,2nd innings,Bangladesh,England,10.5,Jahurul Islam,Shakib Al Hasan,TT Bresnan,0,0,0,NA,0,NA,NA,NA,0
+426405,2nd innings,Bangladesh,England,10.6,Jahurul Islam,Shakib Al Hasan,TT Bresnan,4,0,4,NA,0,NA,NA,NA,0
+426405,2nd innings,Bangladesh,England,11.1,Shakib Al Hasan,Jahurul Islam,SCJ Broad,0,0,0,NA,0,NA,NA,NA,0
+426405,2nd innings,Bangladesh,England,11.2,Shakib Al Hasan,Jahurul Islam,SCJ Broad,0,0,0,NA,0,NA,NA,NA,0
+426405,2nd innings,Bangladesh,England,11.3,Shakib Al Hasan,Jahurul Islam,SCJ Broad,1,0,1,NA,0,NA,NA,NA,0
+426405,2nd innings,Bangladesh,England,11.4,Jahurul Islam,Shakib Al Hasan,SCJ Broad,0,0,0,NA,0,NA,NA,NA,0
+426405,2nd innings,Bangladesh,England,11.5,Jahurul Islam,Shakib Al Hasan,SCJ Broad,1,0,1,NA,0,NA,NA,NA,0
+426405,2nd innings,Bangladesh,England,11.6,Shakib Al Hasan,Jahurul Islam,SCJ Broad,0,0,0,NA,0,NA,NA,NA,0
+426405,2nd innings,Bangladesh,England,12.1,Jahurul Islam,Shakib Al Hasan,TT Bresnan,0,0,0,NA,0,NA,NA,NA,0
+426405,2nd innings,Bangladesh,England,12.2,Jahurul Islam,Shakib Al Hasan,TT Bresnan,0,0,0,NA,0,NA,NA,NA,0
+426405,2nd innings,Bangladesh,England,12.3,Jahurul Islam,Shakib Al Hasan,TT Bresnan,0,0,0,NA,0,NA,NA,NA,0
+426405,2nd innings,Bangladesh,England,12.4,Jahurul Islam,Shakib Al Hasan,TT Bresnan,0,0,0,NA,0,NA,NA,NA,0
+426405,2nd innings,Bangladesh,England,12.5,Jahurul Islam,Shakib Al Hasan,TT Bresnan,0,0,0,NA,0,NA,NA,NA,0
+426405,2nd innings,Bangladesh,England,12.6,Jahurul Islam,Shakib Al Hasan,TT Bresnan,1,0,1,NA,0,NA,NA,NA,0
+426405,2nd innings,Bangladesh,England,13.1,Jahurul Islam,Shakib Al Hasan,SCJ Broad,0,0,0,NA,0,NA,NA,NA,0
+426405,2nd innings,Bangladesh,England,13.2,Jahurul Islam,Shakib Al Hasan,SCJ Broad,0,0,0,NA,0,NA,NA,NA,0
+426405,2nd innings,Bangladesh,England,13.3,Jahurul Islam,Shakib Al Hasan,SCJ Broad,1,0,1,NA,0,NA,NA,NA,0
+426405,2nd innings,Bangladesh,England,13.4,Shakib Al Hasan,Jahurul Islam,SCJ Broad,0,0,0,NA,0,NA,NA,NA,0
+426405,2nd innings,Bangladesh,England,13.5,Shakib Al Hasan,Jahurul Islam,SCJ Broad,0,0,0,NA,0,NA,NA,NA,0
+426405,2nd innings,Bangladesh,England,13.6,Shakib Al Hasan,Jahurul Islam,SCJ Broad,0,0,0,NA,0,NA,NA,NA,0
+426405,2nd innings,Bangladesh,England,14.1,Jahurul Islam,Shakib Al Hasan,TT Bresnan,0,0,0,NA,0,NA,NA,NA,0
+426405,2nd innings,Bangladesh,England,14.2,Jahurul Islam,Shakib Al Hasan,TT Bresnan,0,0,0,NA,0,NA,NA,NA,0
+426405,2nd innings,Bangladesh,England,14.3,Jahurul Islam,Shakib Al Hasan,TT Bresnan,0,0,0,NA,0,NA,NA,NA,0
+426405,2nd innings,Bangladesh,England,14.4,Jahurul Islam,Shakib Al Hasan,TT Bresnan,4,0,4,NA,0,NA,NA,NA,0
+426405,2nd innings,Bangladesh,England,14.5,Jahurul Islam,Shakib Al Hasan,TT Bresnan,0,0,0,NA,0,NA,NA,NA,0
+426405,2nd innings,Bangladesh,England,14.6,Jahurul Islam,Shakib Al Hasan,TT Bresnan,0,0,0,NA,0,NA,NA,NA,0
+426405,2nd innings,Bangladesh,England,15.1,Shakib Al Hasan,Jahurul Islam,SCJ Broad,0,0,0,NA,0,NA,NA,NA,0
+426405,2nd innings,Bangladesh,England,15.2,Shakib Al Hasan,Jahurul Islam,SCJ Broad,0,0,0,NA,0,NA,NA,NA,0
+426405,2nd innings,Bangladesh,England,15.3,Shakib Al Hasan,Jahurul Islam,SCJ Broad,1,0,1,NA,0,NA,NA,NA,0
+426405,2nd innings,Bangladesh,England,15.4,Jahurul Islam,Shakib Al Hasan,SCJ Broad,0,0,0,NA,1,caught,Jahurul Islam,AJ Strauss,0
+426405,2nd innings,Bangladesh,England,15.5,Mohammad Ashraful,Shakib Al Hasan,SCJ Broad,0,0,0,NA,0,NA,NA,NA,0
+426405,2nd innings,Bangladesh,England,15.6,Mohammad Ashraful,Shakib Al Hasan,SCJ Broad,0,0,0,NA,0,NA,NA,NA,0
+426405,2nd innings,Bangladesh,England,16.1,Shakib Al Hasan,Mohammad Ashraful,LJ Wright,0,0,0,NA,0,NA,NA,NA,0
+426405,2nd innings,Bangladesh,England,16.2,Shakib Al Hasan,Mohammad Ashraful,LJ Wright,0,0,0,NA,0,NA,NA,NA,0
+426405,2nd innings,Bangladesh,England,16.3,Shakib Al Hasan,Mohammad Ashraful,LJ Wright,1,0,1,NA,0,NA,NA,NA,0
+426405,2nd innings,Bangladesh,England,16.4,Mohammad Ashraful,Shakib Al Hasan,LJ Wright,1,0,1,NA,0,NA,NA,NA,0
+426405,2nd innings,Bangladesh,England,16.5,Shakib Al Hasan,Mohammad Ashraful,LJ Wright,0,0,0,NA,0,NA,NA,NA,0
+426405,2nd innings,Bangladesh,England,16.6,Shakib Al Hasan,Mohammad Ashraful,LJ Wright,1,0,1,NA,0,NA,NA,NA,0
+426405,2nd innings,Bangladesh,England,17.1,Shakib Al Hasan,Mohammad Ashraful,SCJ Broad,1,0,1,NA,0,NA,NA,NA,0
+426405,2nd innings,Bangladesh,England,17.2,Mohammad Ashraful,Shakib Al Hasan,SCJ Broad,0,0,0,NA,0,NA,NA,NA,0
+426405,2nd innings,Bangladesh,England,17.3,Mohammad Ashraful,Shakib Al Hasan,SCJ Broad,0,0,0,NA,0,NA,NA,NA,0
+426405,2nd innings,Bangladesh,England,17.4,Mohammad Ashraful,Shakib Al Hasan,SCJ Broad,0,0,0,NA,0,NA,NA,NA,0
+426405,2nd innings,Bangladesh,England,17.5,Mohammad Ashraful,Shakib Al Hasan,SCJ Broad,0,0,0,NA,0,NA,NA,NA,0
+426405,2nd innings,Bangladesh,England,17.6,Mohammad Ashraful,Shakib Al Hasan,SCJ Broad,1,0,1,NA,0,NA,NA,NA,0
+426405,2nd innings,Bangladesh,England,18.1,Mohammad Ashraful,Shakib Al Hasan,LJ Wright,1,0,1,NA,0,NA,NA,NA,0
+426405,2nd innings,Bangladesh,England,18.2,Shakib Al Hasan,Mohammad Ashraful,LJ Wright,0,0,0,NA,0,NA,NA,NA,0
+426405,2nd innings,Bangladesh,England,18.3,Shakib Al Hasan,Mohammad Ashraful,LJ Wright,0,0,0,NA,0,NA,NA,NA,0
+426405,2nd innings,Bangladesh,England,18.4,Shakib Al Hasan,Mohammad Ashraful,LJ Wright,1,0,1,NA,0,NA,NA,NA,0
+426405,2nd innings,Bangladesh,England,18.5,Mohammad Ashraful,Shakib Al Hasan,LJ Wright,0,2,2,noballs,1,run out,Shakib Al Hasan,PD Collingwood,0
+426405,2nd innings,Bangladesh,England,18.6,Mahmudullah,Mohammad Ashraful,LJ Wright,0,0,0,NA,0,NA,NA,NA,0
+426405,2nd innings,Bangladesh,England,18.7,Mahmudullah,Mohammad Ashraful,LJ Wright,0,0,0,NA,0,NA,NA,NA,0
+426405,2nd innings,Bangladesh,England,19.1,Mohammad Ashraful,Mahmudullah,SCJ Broad,6,0,6,NA,0,NA,NA,NA,0
+426405,2nd innings,Bangladesh,England,19.2,Mohammad Ashraful,Mahmudullah,SCJ Broad,0,0,0,NA,0,NA,NA,NA,0
+426405,2nd innings,Bangladesh,England,19.3,Mohammad Ashraful,Mahmudullah,SCJ Broad,0,0,0,NA,0,NA,NA,NA,0
+426405,2nd innings,Bangladesh,England,19.4,Mohammad Ashraful,Mahmudullah,SCJ Broad,2,0,2,NA,0,NA,NA,NA,0
+426405,2nd innings,Bangladesh,England,19.5,Mohammad Ashraful,Mahmudullah,SCJ Broad,0,0,0,NA,0,NA,NA,NA,0
+426405,2nd innings,Bangladesh,England,19.6,Mohammad Ashraful,Mahmudullah,SCJ Broad,0,0,0,NA,0,NA,NA,NA,0
+426405,2nd innings,Bangladesh,England,20.1,Mahmudullah,Mohammad Ashraful,LJ Wright,0,0,0,NA,0,NA,NA,NA,0
+426405,2nd innings,Bangladesh,England,20.2,Mahmudullah,Mohammad Ashraful,LJ Wright,0,0,0,NA,0,NA,NA,NA,0
+426405,2nd innings,Bangladesh,England,20.3,Mahmudullah,Mohammad Ashraful,LJ Wright,4,0,4,NA,0,NA,NA,NA,0
+426405,2nd innings,Bangladesh,England,20.4,Mahmudullah,Mohammad Ashraful,LJ Wright,2,0,2,NA,0,NA,NA,NA,0
+426405,2nd innings,Bangladesh,England,20.5,Mahmudullah,Mohammad Ashraful,LJ Wright,0,0,0,NA,0,NA,NA,NA,0
+426405,2nd innings,Bangladesh,England,20.6,Mahmudullah,Mohammad Ashraful,LJ Wright,0,0,0,NA,0,NA,NA,NA,0
+426405,2nd innings,Bangladesh,England,21.1,Mohammad Ashraful,Mahmudullah,RS Bopara,2,0,2,NA,0,NA,NA,NA,0
+426405,2nd innings,Bangladesh,England,21.2,Mohammad Ashraful,Mahmudullah,RS Bopara,0,0,0,NA,0,NA,NA,NA,0
+426405,2nd innings,Bangladesh,England,21.3,Mohammad Ashraful,Mahmudullah,RS Bopara,0,0,0,NA,1,lbw,Mohammad Ashraful,NA,0
+426405,2nd innings,Bangladesh,England,21.4,Mashrafe Mortaza,Mahmudullah,RS Bopara,4,0,4,NA,0,NA,NA,NA,0
+426405,2nd innings,Bangladesh,England,21.5,Mashrafe Mortaza,Mahmudullah,RS Bopara,0,1,1,wides,0,NA,NA,NA,0
+426405,2nd innings,Bangladesh,England,21.6,Mashrafe Mortaza,Mahmudullah,RS Bopara,0,0,0,NA,0,NA,NA,NA,0
+426405,2nd innings,Bangladesh,England,21.7,Mashrafe Mortaza,Mahmudullah,RS Bopara,4,0,4,NA,0,NA,NA,NA,0
+426405,2nd innings,Bangladesh,England,22.1,Mahmudullah,Mashrafe Mortaza,LJ Wright,0,0,0,NA,0,NA,NA,NA,0
+426405,2nd innings,Bangladesh,England,22.2,Mahmudullah,Mashrafe Mortaza,LJ Wright,0,0,0,NA,0,NA,NA,NA,0
+426405,2nd innings,Bangladesh,England,22.3,Mahmudullah,Mashrafe Mortaza,LJ Wright,0,0,0,NA,0,NA,NA,NA,0
+426405,2nd innings,Bangladesh,England,22.4,Mahmudullah,Mashrafe Mortaza,LJ Wright,0,0,0,NA,0,NA,NA,NA,0
+426405,2nd innings,Bangladesh,England,22.5,Mahmudullah,Mashrafe Mortaza,LJ Wright,4,0,4,NA,0,NA,NA,NA,0
+426405,2nd innings,Bangladesh,England,22.6,Mahmudullah,Mashrafe Mortaza,LJ Wright,0,0,0,NA,0,NA,NA,NA,0
+426405,2nd innings,Bangladesh,England,23.1,Mashrafe Mortaza,Mahmudullah,RS Bopara,0,0,0,NA,0,NA,NA,NA,0
+426405,2nd innings,Bangladesh,England,23.2,Mashrafe Mortaza,Mahmudullah,RS Bopara,0,0,0,NA,0,NA,NA,NA,0
+426405,2nd innings,Bangladesh,England,23.3,Mashrafe Mortaza,Mahmudullah,RS Bopara,0,0,0,NA,0,NA,NA,NA,0
+426405,2nd innings,Bangladesh,England,23.4,Mashrafe Mortaza,Mahmudullah,RS Bopara,0,0,0,NA,0,NA,NA,NA,0
+426405,2nd innings,Bangladesh,England,23.5,Mashrafe Mortaza,Mahmudullah,RS Bopara,0,0,0,NA,0,NA,NA,NA,0
+426405,2nd innings,Bangladesh,England,23.6,Mashrafe Mortaza,Mahmudullah,RS Bopara,0,0,0,NA,0,NA,NA,NA,0
+426405,2nd innings,Bangladesh,England,24.1,Mahmudullah,Mashrafe Mortaza,LJ Wright,0,1,1,wides,0,NA,NA,NA,0
+426405,2nd innings,Bangladesh,England,24.2,Mahmudullah,Mashrafe Mortaza,LJ Wright,0,0,0,NA,0,NA,NA,NA,0
+426405,2nd innings,Bangladesh,England,24.3,Mahmudullah,Mashrafe Mortaza,LJ Wright,1,0,1,NA,0,NA,NA,NA,0
+426405,2nd innings,Bangladesh,England,24.4,Mashrafe Mortaza,Mahmudullah,LJ Wright,1,0,1,NA,0,NA,NA,NA,0
+426405,2nd innings,Bangladesh,England,24.5,Mahmudullah,Mashrafe Mortaza,LJ Wright,0,0,0,NA,0,NA,NA,NA,0
+426405,2nd innings,Bangladesh,England,24.6,Mahmudullah,Mashrafe Mortaza,LJ Wright,1,0,1,NA,0,NA,NA,NA,0
+426405,2nd innings,Bangladesh,England,24.7,Mashrafe Mortaza,Mahmudullah,LJ Wright,1,0,1,NA,0,NA,NA,NA,0
+426405,2nd innings,Bangladesh,England,25.1,Mashrafe Mortaza,Mahmudullah,RS Bopara,0,0,0,NA,0,NA,NA,NA,0
+426405,2nd innings,Bangladesh,England,25.2,Mashrafe Mortaza,Mahmudullah,RS Bopara,0,0,0,NA,0,NA,NA,NA,0
+426405,2nd innings,Bangladesh,England,25.3,Mashrafe Mortaza,Mahmudullah,RS Bopara,0,0,0,NA,0,NA,NA,NA,0
+426405,2nd innings,Bangladesh,England,25.4,Mashrafe Mortaza,Mahmudullah,RS Bopara,0,0,0,NA,0,NA,NA,NA,0
+426405,2nd innings,Bangladesh,England,25.5,Mashrafe Mortaza,Mahmudullah,RS Bopara,4,0,4,NA,0,NA,NA,NA,0
+426405,2nd innings,Bangladesh,England,25.6,Mashrafe Mortaza,Mahmudullah,RS Bopara,0,0,0,NA,1,caught,Mashrafe Mortaza,C Kieswetter,0
+426405,2nd innings,Bangladesh,England,26.1,Mahmudullah,Abdur Razzak,LJ Wright,1,0,1,NA,0,NA,NA,NA,0
+426405,2nd innings,Bangladesh,England,26.2,Abdur Razzak,Mahmudullah,LJ Wright,0,0,0,NA,0,NA,NA,NA,0
+426405,2nd innings,Bangladesh,England,26.3,Abdur Razzak,Mahmudullah,LJ Wright,1,0,1,NA,0,NA,NA,NA,0
+426405,2nd innings,Bangladesh,England,26.4,Mahmudullah,Abdur Razzak,LJ Wright,0,0,0,NA,0,NA,NA,NA,0
+426405,2nd innings,Bangladesh,England,26.5,Mahmudullah,Abdur Razzak,LJ Wright,0,0,0,NA,0,NA,NA,NA,0
+426405,2nd innings,Bangladesh,England,26.6,Mahmudullah,Abdur Razzak,LJ Wright,0,0,0,NA,0,NA,NA,NA,0
+426405,2nd innings,Bangladesh,England,27.1,Abdur Razzak,Mahmudullah,RS Bopara,1,0,1,NA,0,NA,NA,NA,0
+426405,2nd innings,Bangladesh,England,27.2,Mahmudullah,Abdur Razzak,RS Bopara,0,0,0,NA,0,NA,NA,NA,0
+426405,2nd innings,Bangladesh,England,27.3,Mahmudullah,Abdur Razzak,RS Bopara,0,0,0,NA,0,NA,NA,NA,0
+426405,2nd innings,Bangladesh,England,27.4,Mahmudullah,Abdur Razzak,RS Bopara,1,0,1,NA,0,NA,NA,NA,0
+426405,2nd innings,Bangladesh,England,27.5,Abdur Razzak,Mahmudullah,RS Bopara,0,0,0,NA,0,NA,NA,NA,0
+426405,2nd innings,Bangladesh,England,27.6,Abdur Razzak,Mahmudullah,RS Bopara,0,0,0,NA,0,NA,NA,NA,0
+426405,2nd innings,Bangladesh,England,28.1,Mahmudullah,Abdur Razzak,LJ Wright,0,0,0,NA,0,NA,NA,NA,0
+426405,2nd innings,Bangladesh,England,28.2,Mahmudullah,Abdur Razzak,LJ Wright,1,0,1,NA,0,NA,NA,NA,0
+426405,2nd innings,Bangladesh,England,28.3,Abdur Razzak,Mahmudullah,LJ Wright,0,0,0,NA,0,NA,NA,NA,0
+426405,2nd innings,Bangladesh,England,28.4,Abdur Razzak,Mahmudullah,LJ Wright,1,0,1,NA,0,NA,NA,NA,0
+426405,2nd innings,Bangladesh,England,28.5,Mahmudullah,Abdur Razzak,LJ Wright,0,0,0,NA,0,NA,NA,NA,0
+426405,2nd innings,Bangladesh,England,28.6,Mahmudullah,Abdur Razzak,LJ Wright,1,0,1,NA,0,NA,NA,NA,0
+426405,2nd innings,Bangladesh,England,29.1,Mahmudullah,Abdur Razzak,RS Bopara,0,0,0,NA,0,NA,NA,NA,0
+426405,2nd innings,Bangladesh,England,29.2,Mahmudullah,Abdur Razzak,RS Bopara,0,0,0,NA,0,NA,NA,NA,0
+426405,2nd innings,Bangladesh,England,29.3,Mahmudullah,Abdur Razzak,RS Bopara,0,0,0,NA,0,NA,NA,NA,0
+426405,2nd innings,Bangladesh,England,29.4,Mahmudullah,Abdur Razzak,RS Bopara,0,0,0,NA,0,NA,NA,NA,0
+426405,2nd innings,Bangladesh,England,29.5,Mahmudullah,Abdur Razzak,RS Bopara,0,0,0,NA,0,NA,NA,NA,0
+426405,2nd innings,Bangladesh,England,29.6,Mahmudullah,Abdur Razzak,RS Bopara,1,0,1,NA,0,NA,NA,NA,0
+426405,2nd innings,Bangladesh,England,30.1,Mahmudullah,Abdur Razzak,IJL Trott,0,1,1,noballs,0,NA,NA,NA,0
+426405,2nd innings,Bangladesh,England,30.2,Mahmudullah,Abdur Razzak,IJL Trott,1,0,1,NA,0,NA,NA,NA,0
+426405,2nd innings,Bangladesh,England,30.3,Abdur Razzak,Mahmudullah,IJL Trott,0,0,0,NA,0,NA,NA,NA,0
+426405,2nd innings,Bangladesh,England,30.4,Abdur Razzak,Mahmudullah,IJL Trott,0,0,0,NA,0,NA,NA,NA,0
+426405,2nd innings,Bangladesh,England,30.5,Abdur Razzak,Mahmudullah,IJL Trott,4,0,4,NA,0,NA,NA,NA,0
+426405,2nd innings,Bangladesh,England,30.6,Abdur Razzak,Mahmudullah,IJL Trott,1,0,1,NA,0,NA,NA,NA,0
+426405,2nd innings,Bangladesh,England,30.7,Mahmudullah,Abdur Razzak,IJL Trott,0,0,0,NA,0,NA,NA,NA,0
+426405,2nd innings,Bangladesh,England,31.1,Abdur Razzak,Mahmudullah,SCJ Broad,1,0,1,NA,0,NA,NA,NA,0
+426405,2nd innings,Bangladesh,England,31.2,Mahmudullah,Abdur Razzak,SCJ Broad,0,0,0,NA,0,NA,NA,NA,0
+426405,2nd innings,Bangladesh,England,31.3,Mahmudullah,Abdur Razzak,SCJ Broad,0,1,1,wides,0,NA,NA,NA,0
+426405,2nd innings,Bangladesh,England,31.4,Mahmudullah,Abdur Razzak,SCJ Broad,0,0,0,NA,0,NA,NA,NA,0
+426405,2nd innings,Bangladesh,England,31.5,Mahmudullah,Abdur Razzak,SCJ Broad,0,0,0,NA,0,NA,NA,NA,0
+426405,2nd innings,Bangladesh,England,31.6,Mahmudullah,Abdur Razzak,SCJ Broad,0,0,0,NA,0,NA,NA,NA,0
+426405,2nd innings,Bangladesh,England,31.7,Mahmudullah,Abdur Razzak,SCJ Broad,1,0,1,NA,0,NA,NA,NA,0
+426405,2nd innings,Bangladesh,England,32.1,Mahmudullah,Abdur Razzak,IJL Trott,0,0,0,NA,0,NA,NA,NA,0
+426405,2nd innings,Bangladesh,England,32.2,Mahmudullah,Abdur Razzak,IJL Trott,0,0,0,NA,0,NA,NA,NA,0
+426405,2nd innings,Bangladesh,England,32.3,Mahmudullah,Abdur Razzak,IJL Trott,2,0,2,NA,0,NA,NA,NA,0
+426405,2nd innings,Bangladesh,England,32.4,Mahmudullah,Abdur Razzak,IJL Trott,1,0,1,NA,0,NA,NA,NA,0
+426405,2nd innings,Bangladesh,England,32.5,Abdur Razzak,Mahmudullah,IJL Trott,2,0,2,NA,0,NA,NA,NA,0
+426405,2nd innings,Bangladesh,England,32.6,Abdur Razzak,Mahmudullah,IJL Trott,0,0,0,NA,0,NA,NA,NA,0
+426405,2nd innings,Bangladesh,England,33.1,Mahmudullah,Abdur Razzak,SCJ Broad,0,0,0,NA,0,NA,NA,NA,0
+426405,2nd innings,Bangladesh,England,33.2,Mahmudullah,Abdur Razzak,SCJ Broad,0,0,0,NA,0,NA,NA,NA,0
+426405,2nd innings,Bangladesh,England,33.3,Mahmudullah,Abdur Razzak,SCJ Broad,0,0,0,NA,0,NA,NA,NA,0
+426405,2nd innings,Bangladesh,England,33.4,Mahmudullah,Abdur Razzak,SCJ Broad,0,0,0,NA,0,NA,NA,NA,0
+426405,2nd innings,Bangladesh,England,33.5,Mahmudullah,Abdur Razzak,SCJ Broad,0,0,0,NA,0,NA,NA,NA,0
+426405,2nd innings,Bangladesh,England,33.6,Mahmudullah,Abdur Razzak,SCJ Broad,0,0,0,NA,0,NA,NA,NA,0
+426405,2nd innings,Bangladesh,England,34.1,Abdur Razzak,Mahmudullah,IJL Trott,2,0,2,NA,0,NA,NA,NA,0
+426405,2nd innings,Bangladesh,England,34.2,Abdur Razzak,Mahmudullah,IJL Trott,0,0,0,NA,0,NA,NA,NA,0
+426405,2nd innings,Bangladesh,England,34.3,Abdur Razzak,Mahmudullah,IJL Trott,2,0,2,NA,0,NA,NA,NA,0
+426405,2nd innings,Bangladesh,England,34.4,Abdur Razzak,Mahmudullah,IJL Trott,1,0,1,NA,0,NA,NA,NA,0
+426405,2nd innings,Bangladesh,England,34.5,Mahmudullah,Abdur Razzak,IJL Trott,1,0,1,NA,0,NA,NA,NA,0
+426405,2nd innings,Bangladesh,England,34.6,Abdur Razzak,Mahmudullah,IJL Trott,0,0,0,NA,0,NA,NA,NA,0
+426405,2nd innings,Bangladesh,England,35.1,Mahmudullah,Abdur Razzak,SCJ Broad,0,0,0,NA,0,NA,NA,NA,0
+426405,2nd innings,Bangladesh,England,35.2,Mahmudullah,Abdur Razzak,SCJ Broad,0,0,0,NA,0,NA,NA,NA,0
+426405,2nd innings,Bangladesh,England,35.3,Mahmudullah,Abdur Razzak,SCJ Broad,0,0,0,NA,0,NA,NA,NA,0
+426405,2nd innings,Bangladesh,England,35.4,Mahmudullah,Abdur Razzak,SCJ Broad,1,0,1,NA,0,NA,NA,NA,0
+426405,2nd innings,Bangladesh,England,35.5,Abdur Razzak,Mahmudullah,SCJ Broad,0,1,1,wides,0,NA,NA,NA,0
+426405,2nd innings,Bangladesh,England,35.6,Abdur Razzak,Mahmudullah,SCJ Broad,0,0,0,NA,0,NA,NA,NA,0
+426405,2nd innings,Bangladesh,England,35.7,Abdur Razzak,Mahmudullah,SCJ Broad,0,0,0,NA,0,NA,NA,NA,0
+426405,2nd innings,Bangladesh,England,36.1,Mahmudullah,Abdur Razzak,RS Bopara,1,0,1,NA,0,NA,NA,NA,0
+426405,2nd innings,Bangladesh,England,36.2,Abdur Razzak,Mahmudullah,RS Bopara,0,0,0,NA,0,NA,NA,NA,0
+426405,2nd innings,Bangladesh,England,36.3,Abdur Razzak,Mahmudullah,RS Bopara,1,0,1,NA,0,NA,NA,NA,0
+426405,2nd innings,Bangladesh,England,36.4,Mahmudullah,Abdur Razzak,RS Bopara,2,0,2,NA,0,NA,NA,NA,0
+426405,2nd innings,Bangladesh,England,36.5,Mahmudullah,Abdur Razzak,RS Bopara,1,0,1,NA,0,NA,NA,NA,0
+426405,2nd innings,Bangladesh,England,36.6,Abdur Razzak,Mahmudullah,RS Bopara,0,0,0,NA,0,NA,NA,NA,0
+426405,2nd innings,Bangladesh,England,37.1,Mahmudullah,Abdur Razzak,MH Yardy,0,0,0,NA,0,NA,NA,NA,0
+426405,2nd innings,Bangladesh,England,37.2,Mahmudullah,Abdur Razzak,MH Yardy,4,0,4,NA,0,NA,NA,NA,0
+426405,2nd innings,Bangladesh,England,37.3,Mahmudullah,Abdur Razzak,MH Yardy,1,0,1,NA,0,NA,NA,NA,0
+426405,2nd innings,Bangladesh,England,37.4,Abdur Razzak,Mahmudullah,MH Yardy,0,0,0,NA,0,NA,NA,NA,0
+426405,2nd innings,Bangladesh,England,37.5,Abdur Razzak,Mahmudullah,MH Yardy,4,0,4,NA,0,NA,NA,NA,0
+426405,2nd innings,Bangladesh,England,37.6,Abdur Razzak,Mahmudullah,MH Yardy,0,0,0,NA,0,NA,NA,NA,0
+426405,2nd innings,Bangladesh,England,38.1,Mahmudullah,Abdur Razzak,RS Bopara,1,0,1,NA,0,NA,NA,NA,0
+426405,2nd innings,Bangladesh,England,38.2,Abdur Razzak,Mahmudullah,RS Bopara,1,0,1,NA,0,NA,NA,NA,0
+426405,2nd innings,Bangladesh,England,38.3,Mahmudullah,Abdur Razzak,RS Bopara,1,0,1,NA,0,NA,NA,NA,0
+426405,2nd innings,Bangladesh,England,38.4,Abdur Razzak,Mahmudullah,RS Bopara,0,0,0,NA,0,NA,NA,NA,0
+426405,2nd innings,Bangladesh,England,38.5,Abdur Razzak,Mahmudullah,RS Bopara,1,0,1,NA,0,NA,NA,NA,0
+426405,2nd innings,Bangladesh,England,38.6,Mahmudullah,Abdur Razzak,RS Bopara,1,0,1,NA,0,NA,NA,NA,0
+426405,2nd innings,Bangladesh,England,39.1,Mahmudullah,Abdur Razzak,MH Yardy,0,0,0,NA,0,NA,NA,NA,0
+426405,2nd innings,Bangladesh,England,39.2,Mahmudullah,Abdur Razzak,MH Yardy,0,0,0,NA,0,NA,NA,NA,0
+426405,2nd innings,Bangladesh,England,39.3,Mahmudullah,Abdur Razzak,MH Yardy,0,0,0,NA,0,NA,NA,NA,0
+426405,2nd innings,Bangladesh,England,39.4,Mahmudullah,Abdur Razzak,MH Yardy,0,0,0,NA,0,NA,NA,NA,0
+426405,2nd innings,Bangladesh,England,39.5,Mahmudullah,Abdur Razzak,MH Yardy,4,0,4,NA,0,NA,NA,NA,0
+426405,2nd innings,Bangladesh,England,39.6,Mahmudullah,Abdur Razzak,MH Yardy,1,0,1,NA,0,NA,NA,NA,0
+426405,2nd innings,Bangladesh,England,40.1,Mahmudullah,Abdur Razzak,RS Bopara,0,0,0,NA,0,NA,NA,NA,0
+426405,2nd innings,Bangladesh,England,40.2,Mahmudullah,Abdur Razzak,RS Bopara,0,0,0,NA,0,NA,NA,NA,0
+426405,2nd innings,Bangladesh,England,40.3,Mahmudullah,Abdur Razzak,RS Bopara,0,0,0,NA,0,NA,NA,NA,0
+426405,2nd innings,Bangladesh,England,40.4,Mahmudullah,Abdur Razzak,RS Bopara,0,0,0,NA,0,NA,NA,NA,0
+426405,2nd innings,Bangladesh,England,40.5,Mahmudullah,Abdur Razzak,RS Bopara,1,0,1,NA,0,NA,NA,NA,0
+426405,2nd innings,Bangladesh,England,40.6,Abdur Razzak,Mahmudullah,RS Bopara,0,0,0,NA,0,NA,NA,NA,0
+426405,2nd innings,Bangladesh,England,41.1,Mahmudullah,Abdur Razzak,MH Yardy,0,0,0,NA,0,NA,NA,NA,0
+426405,2nd innings,Bangladesh,England,41.2,Mahmudullah,Abdur Razzak,MH Yardy,0,0,0,NA,0,NA,NA,NA,0
+426405,2nd innings,Bangladesh,England,41.3,Mahmudullah,Abdur Razzak,MH Yardy,0,0,0,NA,1,lbw,Mahmudullah,NA,0
+426405,2nd innings,Bangladesh,England,41.4,Shafiul Islam,Abdur Razzak,MH Yardy,0,0,0,NA,0,NA,NA,NA,0
+426405,2nd innings,Bangladesh,England,41.5,Shafiul Islam,Abdur Razzak,MH Yardy,2,0,2,NA,0,NA,NA,NA,0
+426405,2nd innings,Bangladesh,England,41.6,Shafiul Islam,Abdur Razzak,MH Yardy,4,0,4,NA,0,NA,NA,NA,0
+426405,2nd innings,Bangladesh,England,42.1,Abdur Razzak,Shafiul Islam,RS Bopara,4,0,4,NA,0,NA,NA,NA,0
+426405,2nd innings,Bangladesh,England,42.2,Abdur Razzak,Shafiul Islam,RS Bopara,0,0,0,NA,1,caught,Abdur Razzak,TT Bresnan,0
+426405,2nd innings,Bangladesh,England,42.3,Shafiul Islam,Rubel Hossain,RS Bopara,2,0,2,NA,0,NA,NA,NA,0
+426405,2nd innings,Bangladesh,England,42.4,Shafiul Islam,Rubel Hossain,RS Bopara,0,0,0,NA,0,NA,NA,NA,0
+426405,2nd innings,Bangladesh,England,42.5,Shafiul Islam,Rubel Hossain,RS Bopara,2,0,2,NA,0,NA,NA,NA,0
+426405,2nd innings,Bangladesh,England,42.6,Shafiul Islam,Rubel Hossain,RS Bopara,0,0,0,NA,0,NA,NA,NA,0
+426405,2nd innings,Bangladesh,England,43.1,Rubel Hossain,Shafiul Islam,MH Yardy,0,0,0,NA,0,NA,NA,NA,0
+426405,2nd innings,Bangladesh,England,43.2,Rubel Hossain,Shafiul Islam,MH Yardy,0,0,0,NA,0,NA,NA,NA,0
+426405,2nd innings,Bangladesh,England,43.3,Rubel Hossain,Shafiul Islam,MH Yardy,1,0,1,NA,0,NA,NA,NA,0
+426405,2nd innings,Bangladesh,England,43.4,Shafiul Islam,Rubel Hossain,MH Yardy,0,0,0,NA,0,NA,NA,NA,0
+426405,2nd innings,Bangladesh,England,43.5,Shafiul Islam,Rubel Hossain,MH Yardy,0,0,0,NA,0,NA,NA,NA,0
+426405,2nd innings,Bangladesh,England,43.6,Shafiul Islam,Rubel Hossain,MH Yardy,6,0,6,NA,0,NA,NA,NA,0
+426405,2nd innings,Bangladesh,England,44.1,Rubel Hossain,Shafiul Islam,RS Bopara,0,0,0,NA,0,NA,NA,NA,0
+426405,2nd innings,Bangladesh,England,44.2,Rubel Hossain,Shafiul Islam,RS Bopara,0,0,0,NA,0,NA,NA,NA,0
+426405,2nd innings,Bangladesh,England,44.3,Rubel Hossain,Shafiul Islam,RS Bopara,0,1,1,wides,0,NA,NA,NA,0
+426405,2nd innings,Bangladesh,England,44.4,Rubel Hossain,Shafiul Islam,RS Bopara,0,0,0,NA,0,NA,NA,NA,0
+426405,2nd innings,Bangladesh,England,44.5,Rubel Hossain,Shafiul Islam,RS Bopara,0,1,1,legbyes,0,NA,NA,NA,0
+426405,2nd innings,Bangladesh,England,44.6,Shafiul Islam,Rubel Hossain,RS Bopara,0,0,0,NA,0,NA,NA,NA,0
+426405,2nd innings,Bangladesh,England,44.7,Shafiul Islam,Rubel Hossain,RS Bopara,0,0,0,NA,1,bowled,Shafiul Islam,NA,0

@@ -1,0 +1,593 @@
+match_id,innings,team,opponent,ball,batsman,non_striker,bowler,scored_runs,extras,total,extra_type,wicket,wicket_type,player_out,fielders,winner
+562442,1st innings,Sri Lanka,Pakistan,0.1,WU Tharanga,TM Dilshan,Umar Gul,0,0,0,NA,0,NA,NA,NA,1
+562442,1st innings,Sri Lanka,Pakistan,0.2,WU Tharanga,TM Dilshan,Umar Gul,0,1,1,wides,0,NA,NA,NA,1
+562442,1st innings,Sri Lanka,Pakistan,0.3,WU Tharanga,TM Dilshan,Umar Gul,0,0,0,NA,0,NA,NA,NA,1
+562442,1st innings,Sri Lanka,Pakistan,0.4,WU Tharanga,TM Dilshan,Umar Gul,0,4,4,legbyes,0,NA,NA,NA,1
+562442,1st innings,Sri Lanka,Pakistan,0.5,WU Tharanga,TM Dilshan,Umar Gul,0,0,0,NA,0,NA,NA,NA,1
+562442,1st innings,Sri Lanka,Pakistan,0.6,WU Tharanga,TM Dilshan,Umar Gul,0,0,0,NA,0,NA,NA,NA,1
+562442,1st innings,Sri Lanka,Pakistan,0.7,WU Tharanga,TM Dilshan,Umar Gul,4,0,4,NA,0,NA,NA,NA,1
+562442,1st innings,Sri Lanka,Pakistan,1.1,TM Dilshan,WU Tharanga,Sohail Tanvir,0,0,0,NA,0,NA,NA,NA,1
+562442,1st innings,Sri Lanka,Pakistan,1.2,TM Dilshan,WU Tharanga,Sohail Tanvir,0,0,0,NA,0,NA,NA,NA,1
+562442,1st innings,Sri Lanka,Pakistan,1.3,TM Dilshan,WU Tharanga,Sohail Tanvir,0,0,0,NA,0,NA,NA,NA,1
+562442,1st innings,Sri Lanka,Pakistan,1.4,TM Dilshan,WU Tharanga,Sohail Tanvir,0,0,0,NA,0,NA,NA,NA,1
+562442,1st innings,Sri Lanka,Pakistan,1.5,TM Dilshan,WU Tharanga,Sohail Tanvir,0,0,0,NA,0,NA,NA,NA,1
+562442,1st innings,Sri Lanka,Pakistan,1.6,TM Dilshan,WU Tharanga,Sohail Tanvir,0,0,0,NA,0,NA,NA,NA,1
+562442,1st innings,Sri Lanka,Pakistan,2.1,WU Tharanga,TM Dilshan,Umar Gul,0,0,0,NA,0,NA,NA,NA,1
+562442,1st innings,Sri Lanka,Pakistan,2.2,WU Tharanga,TM Dilshan,Umar Gul,0,0,0,NA,1,caught,WU Tharanga,Younis Khan,1
+562442,1st innings,Sri Lanka,Pakistan,2.3,KC Sangakkara,TM Dilshan,Umar Gul,0,0,0,NA,0,NA,NA,NA,1
+562442,1st innings,Sri Lanka,Pakistan,2.4,KC Sangakkara,TM Dilshan,Umar Gul,0,0,0,NA,0,NA,NA,NA,1
+562442,1st innings,Sri Lanka,Pakistan,2.5,KC Sangakkara,TM Dilshan,Umar Gul,0,0,0,NA,0,NA,NA,NA,1
+562442,1st innings,Sri Lanka,Pakistan,2.6,KC Sangakkara,TM Dilshan,Umar Gul,2,0,2,NA,0,NA,NA,NA,1
+562442,1st innings,Sri Lanka,Pakistan,3.1,TM Dilshan,KC Sangakkara,Sohail Tanvir,3,0,3,NA,0,NA,NA,NA,1
+562442,1st innings,Sri Lanka,Pakistan,3.2,KC Sangakkara,TM Dilshan,Sohail Tanvir,0,1,1,wides,0,NA,NA,NA,1
+562442,1st innings,Sri Lanka,Pakistan,3.3,KC Sangakkara,TM Dilshan,Sohail Tanvir,0,0,0,NA,0,NA,NA,NA,1
+562442,1st innings,Sri Lanka,Pakistan,3.4,KC Sangakkara,TM Dilshan,Sohail Tanvir,0,0,0,NA,0,NA,NA,NA,1
+562442,1st innings,Sri Lanka,Pakistan,3.5,KC Sangakkara,TM Dilshan,Sohail Tanvir,1,0,1,NA,0,NA,NA,NA,1
+562442,1st innings,Sri Lanka,Pakistan,3.6,TM Dilshan,KC Sangakkara,Sohail Tanvir,0,0,0,NA,0,NA,NA,NA,1
+562442,1st innings,Sri Lanka,Pakistan,3.7,TM Dilshan,KC Sangakkara,Sohail Tanvir,4,0,4,NA,0,NA,NA,NA,1
+562442,1st innings,Sri Lanka,Pakistan,4.1,KC Sangakkara,TM Dilshan,Umar Gul,0,0,0,NA,0,NA,NA,NA,1
+562442,1st innings,Sri Lanka,Pakistan,4.2,KC Sangakkara,TM Dilshan,Umar Gul,2,0,2,NA,0,NA,NA,NA,1
+562442,1st innings,Sri Lanka,Pakistan,4.3,KC Sangakkara,TM Dilshan,Umar Gul,1,0,1,NA,0,NA,NA,NA,1
+562442,1st innings,Sri Lanka,Pakistan,4.4,TM Dilshan,KC Sangakkara,Umar Gul,0,0,0,NA,0,NA,NA,NA,1
+562442,1st innings,Sri Lanka,Pakistan,4.5,TM Dilshan,KC Sangakkara,Umar Gul,0,0,0,NA,0,NA,NA,NA,1
+562442,1st innings,Sri Lanka,Pakistan,4.6,TM Dilshan,KC Sangakkara,Umar Gul,0,0,0,NA,0,NA,NA,NA,1
+562442,1st innings,Sri Lanka,Pakistan,5.1,KC Sangakkara,TM Dilshan,Sohail Tanvir,0,0,0,NA,0,NA,NA,NA,1
+562442,1st innings,Sri Lanka,Pakistan,5.2,KC Sangakkara,TM Dilshan,Sohail Tanvir,0,0,0,NA,0,NA,NA,NA,1
+562442,1st innings,Sri Lanka,Pakistan,5.3,KC Sangakkara,TM Dilshan,Sohail Tanvir,0,1,1,wides,0,NA,NA,NA,1
+562442,1st innings,Sri Lanka,Pakistan,5.4,KC Sangakkara,TM Dilshan,Sohail Tanvir,2,0,2,NA,0,NA,NA,NA,1
+562442,1st innings,Sri Lanka,Pakistan,5.5,KC Sangakkara,TM Dilshan,Sohail Tanvir,0,0,0,NA,0,NA,NA,NA,1
+562442,1st innings,Sri Lanka,Pakistan,5.6,KC Sangakkara,TM Dilshan,Sohail Tanvir,1,0,1,NA,0,NA,NA,NA,1
+562442,1st innings,Sri Lanka,Pakistan,5.7,TM Dilshan,KC Sangakkara,Sohail Tanvir,0,0,0,NA,0,NA,NA,NA,1
+562442,1st innings,Sri Lanka,Pakistan,6.1,KC Sangakkara,TM Dilshan,Umar Gul,0,0,0,NA,0,NA,NA,NA,1
+562442,1st innings,Sri Lanka,Pakistan,6.2,KC Sangakkara,TM Dilshan,Umar Gul,0,0,0,NA,0,NA,NA,NA,1
+562442,1st innings,Sri Lanka,Pakistan,6.3,KC Sangakkara,TM Dilshan,Umar Gul,0,0,0,NA,0,NA,NA,NA,1
+562442,1st innings,Sri Lanka,Pakistan,6.4,KC Sangakkara,TM Dilshan,Umar Gul,0,0,0,NA,0,NA,NA,NA,1
+562442,1st innings,Sri Lanka,Pakistan,6.5,KC Sangakkara,TM Dilshan,Umar Gul,0,0,0,NA,0,NA,NA,NA,1
+562442,1st innings,Sri Lanka,Pakistan,6.6,KC Sangakkara,TM Dilshan,Umar Gul,0,0,0,NA,0,NA,NA,NA,1
+562442,1st innings,Sri Lanka,Pakistan,7.1,TM Dilshan,KC Sangakkara,Sohail Tanvir,0,0,0,NA,0,NA,NA,NA,1
+562442,1st innings,Sri Lanka,Pakistan,7.2,TM Dilshan,KC Sangakkara,Sohail Tanvir,0,0,0,NA,0,NA,NA,NA,1
+562442,1st innings,Sri Lanka,Pakistan,7.3,TM Dilshan,KC Sangakkara,Sohail Tanvir,0,0,0,NA,0,NA,NA,NA,1
+562442,1st innings,Sri Lanka,Pakistan,7.4,TM Dilshan,KC Sangakkara,Sohail Tanvir,0,0,0,NA,0,NA,NA,NA,1
+562442,1st innings,Sri Lanka,Pakistan,7.5,TM Dilshan,KC Sangakkara,Sohail Tanvir,0,0,0,NA,0,NA,NA,NA,1
+562442,1st innings,Sri Lanka,Pakistan,7.6,TM Dilshan,KC Sangakkara,Sohail Tanvir,0,0,0,NA,0,NA,NA,NA,1
+562442,1st innings,Sri Lanka,Pakistan,8.1,KC Sangakkara,TM Dilshan,Umar Gul,1,0,1,NA,0,NA,NA,NA,1
+562442,1st innings,Sri Lanka,Pakistan,8.2,TM Dilshan,KC Sangakkara,Umar Gul,0,0,0,NA,0,NA,NA,NA,1
+562442,1st innings,Sri Lanka,Pakistan,8.3,TM Dilshan,KC Sangakkara,Umar Gul,0,0,0,NA,0,NA,NA,NA,1
+562442,1st innings,Sri Lanka,Pakistan,8.4,TM Dilshan,KC Sangakkara,Umar Gul,1,0,1,NA,0,NA,NA,NA,1
+562442,1st innings,Sri Lanka,Pakistan,8.5,KC Sangakkara,TM Dilshan,Umar Gul,0,0,0,NA,0,NA,NA,NA,1
+562442,1st innings,Sri Lanka,Pakistan,8.6,KC Sangakkara,TM Dilshan,Umar Gul,4,0,4,NA,0,NA,NA,NA,1
+562442,1st innings,Sri Lanka,Pakistan,9.1,TM Dilshan,KC Sangakkara,Sohail Tanvir,0,0,0,NA,0,NA,NA,NA,1
+562442,1st innings,Sri Lanka,Pakistan,9.2,TM Dilshan,KC Sangakkara,Sohail Tanvir,0,1,1,legbyes,0,NA,NA,NA,1
+562442,1st innings,Sri Lanka,Pakistan,9.3,KC Sangakkara,TM Dilshan,Sohail Tanvir,0,1,1,wides,0,NA,NA,NA,1
+562442,1st innings,Sri Lanka,Pakistan,9.4,KC Sangakkara,TM Dilshan,Sohail Tanvir,0,0,0,NA,0,NA,NA,NA,1
+562442,1st innings,Sri Lanka,Pakistan,9.5,KC Sangakkara,TM Dilshan,Sohail Tanvir,0,0,0,NA,0,NA,NA,NA,1
+562442,1st innings,Sri Lanka,Pakistan,9.6,KC Sangakkara,TM Dilshan,Sohail Tanvir,0,0,0,NA,0,NA,NA,NA,1
+562442,1st innings,Sri Lanka,Pakistan,9.7,KC Sangakkara,TM Dilshan,Sohail Tanvir,0,0,0,NA,0,NA,NA,NA,1
+562442,1st innings,Sri Lanka,Pakistan,10.1,TM Dilshan,KC Sangakkara,Shahid Afridi,2,0,2,NA,0,NA,NA,NA,1
+562442,1st innings,Sri Lanka,Pakistan,10.2,TM Dilshan,KC Sangakkara,Shahid Afridi,4,0,4,NA,0,NA,NA,NA,1
+562442,1st innings,Sri Lanka,Pakistan,10.3,TM Dilshan,KC Sangakkara,Shahid Afridi,0,0,0,NA,0,NA,NA,NA,1
+562442,1st innings,Sri Lanka,Pakistan,10.4,TM Dilshan,KC Sangakkara,Shahid Afridi,0,0,0,NA,0,NA,NA,NA,1
+562442,1st innings,Sri Lanka,Pakistan,10.5,TM Dilshan,KC Sangakkara,Shahid Afridi,0,0,0,NA,0,NA,NA,NA,1
+562442,1st innings,Sri Lanka,Pakistan,10.6,TM Dilshan,KC Sangakkara,Shahid Afridi,1,0,1,NA,0,NA,NA,NA,1
+562442,1st innings,Sri Lanka,Pakistan,11.1,TM Dilshan,KC Sangakkara,Younis Khan,0,1,1,wides,0,NA,NA,NA,1
+562442,1st innings,Sri Lanka,Pakistan,11.2,TM Dilshan,KC Sangakkara,Younis Khan,0,0,0,NA,0,NA,NA,NA,1
+562442,1st innings,Sri Lanka,Pakistan,11.3,TM Dilshan,KC Sangakkara,Younis Khan,1,0,1,NA,0,NA,NA,NA,1
+562442,1st innings,Sri Lanka,Pakistan,11.4,KC Sangakkara,TM Dilshan,Younis Khan,0,0,0,NA,0,NA,NA,NA,1
+562442,1st innings,Sri Lanka,Pakistan,11.5,KC Sangakkara,TM Dilshan,Younis Khan,0,1,1,wides,0,NA,NA,NA,1
+562442,1st innings,Sri Lanka,Pakistan,11.6,KC Sangakkara,TM Dilshan,Younis Khan,1,0,1,NA,0,NA,NA,NA,1
+562442,1st innings,Sri Lanka,Pakistan,11.7,TM Dilshan,KC Sangakkara,Younis Khan,1,0,1,NA,0,NA,NA,NA,1
+562442,1st innings,Sri Lanka,Pakistan,11.8,KC Sangakkara,TM Dilshan,Younis Khan,0,0,0,NA,0,NA,NA,NA,1
+562442,1st innings,Sri Lanka,Pakistan,12.1,TM Dilshan,KC Sangakkara,Shahid Afridi,0,0,0,NA,0,NA,NA,NA,1
+562442,1st innings,Sri Lanka,Pakistan,12.2,TM Dilshan,KC Sangakkara,Shahid Afridi,1,0,1,NA,0,NA,NA,NA,1
+562442,1st innings,Sri Lanka,Pakistan,12.3,KC Sangakkara,TM Dilshan,Shahid Afridi,1,0,1,NA,0,NA,NA,NA,1
+562442,1st innings,Sri Lanka,Pakistan,12.4,TM Dilshan,KC Sangakkara,Shahid Afridi,1,0,1,NA,0,NA,NA,NA,1
+562442,1st innings,Sri Lanka,Pakistan,12.5,KC Sangakkara,TM Dilshan,Shahid Afridi,0,0,0,NA,0,NA,NA,NA,1
+562442,1st innings,Sri Lanka,Pakistan,12.6,KC Sangakkara,TM Dilshan,Shahid Afridi,0,0,0,NA,0,NA,NA,NA,1
+562442,1st innings,Sri Lanka,Pakistan,13.1,TM Dilshan,KC Sangakkara,Younis Khan,0,1,1,wides,0,NA,NA,NA,1
+562442,1st innings,Sri Lanka,Pakistan,13.2,TM Dilshan,KC Sangakkara,Younis Khan,1,0,1,NA,0,NA,NA,NA,1
+562442,1st innings,Sri Lanka,Pakistan,13.3,KC Sangakkara,TM Dilshan,Younis Khan,1,0,1,NA,0,NA,NA,NA,1
+562442,1st innings,Sri Lanka,Pakistan,13.4,TM Dilshan,KC Sangakkara,Younis Khan,1,0,1,NA,0,NA,NA,NA,1
+562442,1st innings,Sri Lanka,Pakistan,13.5,KC Sangakkara,TM Dilshan,Younis Khan,1,0,1,NA,0,NA,NA,NA,1
+562442,1st innings,Sri Lanka,Pakistan,13.6,TM Dilshan,KC Sangakkara,Younis Khan,1,0,1,NA,0,NA,NA,NA,1
+562442,1st innings,Sri Lanka,Pakistan,13.7,KC Sangakkara,TM Dilshan,Younis Khan,0,0,0,NA,0,NA,NA,NA,1
+562442,1st innings,Sri Lanka,Pakistan,14.1,TM Dilshan,KC Sangakkara,Shahid Afridi,0,0,0,NA,0,NA,NA,NA,1
+562442,1st innings,Sri Lanka,Pakistan,14.2,TM Dilshan,KC Sangakkara,Shahid Afridi,0,0,0,NA,0,NA,NA,NA,1
+562442,1st innings,Sri Lanka,Pakistan,14.3,TM Dilshan,KC Sangakkara,Shahid Afridi,1,0,1,NA,0,NA,NA,NA,1
+562442,1st innings,Sri Lanka,Pakistan,14.4,KC Sangakkara,TM Dilshan,Shahid Afridi,1,0,1,NA,0,NA,NA,NA,1
+562442,1st innings,Sri Lanka,Pakistan,14.5,TM Dilshan,KC Sangakkara,Shahid Afridi,0,0,0,NA,0,NA,NA,NA,1
+562442,1st innings,Sri Lanka,Pakistan,14.6,TM Dilshan,KC Sangakkara,Shahid Afridi,0,0,0,NA,0,NA,NA,NA,1
+562442,1st innings,Sri Lanka,Pakistan,15.1,KC Sangakkara,TM Dilshan,Saeed Ajmal,4,0,4,NA,0,NA,NA,NA,1
+562442,1st innings,Sri Lanka,Pakistan,15.2,KC Sangakkara,TM Dilshan,Saeed Ajmal,0,0,0,NA,0,NA,NA,NA,1
+562442,1st innings,Sri Lanka,Pakistan,15.3,KC Sangakkara,TM Dilshan,Saeed Ajmal,1,0,1,NA,0,NA,NA,NA,1
+562442,1st innings,Sri Lanka,Pakistan,15.4,TM Dilshan,KC Sangakkara,Saeed Ajmal,0,0,0,NA,0,NA,NA,NA,1
+562442,1st innings,Sri Lanka,Pakistan,15.5,TM Dilshan,KC Sangakkara,Saeed Ajmal,1,0,1,NA,0,NA,NA,NA,1
+562442,1st innings,Sri Lanka,Pakistan,15.6,KC Sangakkara,TM Dilshan,Saeed Ajmal,0,0,0,NA,0,NA,NA,NA,1
+562442,1st innings,Sri Lanka,Pakistan,16.1,TM Dilshan,KC Sangakkara,Mohammad Hafeez,0,0,0,NA,1,lbw,TM Dilshan,NA,1
+562442,1st innings,Sri Lanka,Pakistan,16.2,LD Chandimal,KC Sangakkara,Mohammad Hafeez,0,0,0,NA,0,NA,NA,NA,1
+562442,1st innings,Sri Lanka,Pakistan,16.3,LD Chandimal,KC Sangakkara,Mohammad Hafeez,1,0,1,NA,0,NA,NA,NA,1
+562442,1st innings,Sri Lanka,Pakistan,16.4,KC Sangakkara,LD Chandimal,Mohammad Hafeez,0,0,0,NA,0,NA,NA,NA,1
+562442,1st innings,Sri Lanka,Pakistan,16.5,KC Sangakkara,LD Chandimal,Mohammad Hafeez,0,0,0,NA,0,NA,NA,NA,1
+562442,1st innings,Sri Lanka,Pakistan,16.6,KC Sangakkara,LD Chandimal,Mohammad Hafeez,0,0,0,NA,0,NA,NA,NA,1
+562442,1st innings,Sri Lanka,Pakistan,17.1,LD Chandimal,KC Sangakkara,Saeed Ajmal,0,0,0,NA,0,NA,NA,NA,1
+562442,1st innings,Sri Lanka,Pakistan,17.2,LD Chandimal,KC Sangakkara,Saeed Ajmal,0,0,0,NA,0,NA,NA,NA,1
+562442,1st innings,Sri Lanka,Pakistan,17.3,LD Chandimal,KC Sangakkara,Saeed Ajmal,0,0,0,NA,0,NA,NA,NA,1
+562442,1st innings,Sri Lanka,Pakistan,17.4,LD Chandimal,KC Sangakkara,Saeed Ajmal,0,0,0,NA,0,NA,NA,NA,1
+562442,1st innings,Sri Lanka,Pakistan,17.5,LD Chandimal,KC Sangakkara,Saeed Ajmal,0,0,0,NA,0,NA,NA,NA,1
+562442,1st innings,Sri Lanka,Pakistan,17.6,LD Chandimal,KC Sangakkara,Saeed Ajmal,0,0,0,NA,0,NA,NA,NA,1
+562442,1st innings,Sri Lanka,Pakistan,18.1,KC Sangakkara,LD Chandimal,Mohammad Hafeez,0,0,0,NA,0,NA,NA,NA,1
+562442,1st innings,Sri Lanka,Pakistan,18.2,KC Sangakkara,LD Chandimal,Mohammad Hafeez,0,0,0,NA,0,NA,NA,NA,1
+562442,1st innings,Sri Lanka,Pakistan,18.3,KC Sangakkara,LD Chandimal,Mohammad Hafeez,0,0,0,NA,0,NA,NA,NA,1
+562442,1st innings,Sri Lanka,Pakistan,18.4,KC Sangakkara,LD Chandimal,Mohammad Hafeez,0,0,0,NA,0,NA,NA,NA,1
+562442,1st innings,Sri Lanka,Pakistan,18.5,KC Sangakkara,LD Chandimal,Mohammad Hafeez,0,0,0,NA,0,NA,NA,NA,1
+562442,1st innings,Sri Lanka,Pakistan,18.6,KC Sangakkara,LD Chandimal,Mohammad Hafeez,1,0,1,NA,0,NA,NA,NA,1
+562442,1st innings,Sri Lanka,Pakistan,19.1,KC Sangakkara,LD Chandimal,Saeed Ajmal,0,0,0,NA,0,NA,NA,NA,1
+562442,1st innings,Sri Lanka,Pakistan,19.2,KC Sangakkara,LD Chandimal,Saeed Ajmal,0,0,0,NA,0,NA,NA,NA,1
+562442,1st innings,Sri Lanka,Pakistan,19.3,KC Sangakkara,LD Chandimal,Saeed Ajmal,1,0,1,NA,0,NA,NA,NA,1
+562442,1st innings,Sri Lanka,Pakistan,19.4,LD Chandimal,KC Sangakkara,Saeed Ajmal,0,0,0,NA,0,NA,NA,NA,1
+562442,1st innings,Sri Lanka,Pakistan,19.5,LD Chandimal,KC Sangakkara,Saeed Ajmal,1,0,1,NA,0,NA,NA,NA,1
+562442,1st innings,Sri Lanka,Pakistan,19.6,KC Sangakkara,LD Chandimal,Saeed Ajmal,0,0,0,NA,0,NA,NA,NA,1
+562442,1st innings,Sri Lanka,Pakistan,20.1,LD Chandimal,KC Sangakkara,Mohammad Hafeez,0,0,0,NA,0,NA,NA,NA,1
+562442,1st innings,Sri Lanka,Pakistan,20.2,LD Chandimal,KC Sangakkara,Mohammad Hafeez,4,0,4,NA,0,NA,NA,NA,1
+562442,1st innings,Sri Lanka,Pakistan,20.3,LD Chandimal,KC Sangakkara,Mohammad Hafeez,1,0,1,NA,0,NA,NA,NA,1
+562442,1st innings,Sri Lanka,Pakistan,20.4,KC Sangakkara,LD Chandimal,Mohammad Hafeez,0,0,0,NA,0,NA,NA,NA,1
+562442,1st innings,Sri Lanka,Pakistan,20.5,KC Sangakkara,LD Chandimal,Mohammad Hafeez,1,0,1,NA,0,NA,NA,NA,1
+562442,1st innings,Sri Lanka,Pakistan,20.6,LD Chandimal,KC Sangakkara,Mohammad Hafeez,1,0,1,NA,0,NA,NA,NA,1
+562442,1st innings,Sri Lanka,Pakistan,21.1,LD Chandimal,KC Sangakkara,Saeed Ajmal,1,0,1,NA,0,NA,NA,NA,1
+562442,1st innings,Sri Lanka,Pakistan,21.2,KC Sangakkara,LD Chandimal,Saeed Ajmal,0,0,0,NA,0,NA,NA,NA,1
+562442,1st innings,Sri Lanka,Pakistan,21.3,KC Sangakkara,LD Chandimal,Saeed Ajmal,0,0,0,NA,0,NA,NA,NA,1
+562442,1st innings,Sri Lanka,Pakistan,21.4,KC Sangakkara,LD Chandimal,Saeed Ajmal,0,0,0,NA,0,NA,NA,NA,1
+562442,1st innings,Sri Lanka,Pakistan,21.5,KC Sangakkara,LD Chandimal,Saeed Ajmal,0,0,0,NA,0,NA,NA,NA,1
+562442,1st innings,Sri Lanka,Pakistan,21.6,KC Sangakkara,LD Chandimal,Saeed Ajmal,0,0,0,NA,0,NA,NA,NA,1
+562442,1st innings,Sri Lanka,Pakistan,22.1,LD Chandimal,KC Sangakkara,Shahid Afridi,0,0,0,NA,0,NA,NA,NA,1
+562442,1st innings,Sri Lanka,Pakistan,22.2,LD Chandimal,KC Sangakkara,Shahid Afridi,0,0,0,NA,0,NA,NA,NA,1
+562442,1st innings,Sri Lanka,Pakistan,22.3,LD Chandimal,KC Sangakkara,Shahid Afridi,1,0,1,NA,0,NA,NA,NA,1
+562442,1st innings,Sri Lanka,Pakistan,22.4,KC Sangakkara,LD Chandimal,Shahid Afridi,1,0,1,NA,0,NA,NA,NA,1
+562442,1st innings,Sri Lanka,Pakistan,22.5,LD Chandimal,KC Sangakkara,Shahid Afridi,0,1,1,wides,0,NA,NA,NA,1
+562442,1st innings,Sri Lanka,Pakistan,22.6,LD Chandimal,KC Sangakkara,Shahid Afridi,0,0,0,NA,0,NA,NA,NA,1
+562442,1st innings,Sri Lanka,Pakistan,22.7,LD Chandimal,KC Sangakkara,Shahid Afridi,1,0,1,NA,0,NA,NA,NA,1
+562442,1st innings,Sri Lanka,Pakistan,23.1,LD Chandimal,KC Sangakkara,Mohammad Hafeez,0,0,0,NA,0,NA,NA,NA,1
+562442,1st innings,Sri Lanka,Pakistan,23.2,LD Chandimal,KC Sangakkara,Mohammad Hafeez,1,0,1,NA,0,NA,NA,NA,1
+562442,1st innings,Sri Lanka,Pakistan,23.3,KC Sangakkara,LD Chandimal,Mohammad Hafeez,1,0,1,NA,0,NA,NA,NA,1
+562442,1st innings,Sri Lanka,Pakistan,23.4,LD Chandimal,KC Sangakkara,Mohammad Hafeez,1,0,1,NA,0,NA,NA,NA,1
+562442,1st innings,Sri Lanka,Pakistan,23.5,KC Sangakkara,LD Chandimal,Mohammad Hafeez,0,0,0,NA,0,NA,NA,NA,1
+562442,1st innings,Sri Lanka,Pakistan,23.6,KC Sangakkara,LD Chandimal,Mohammad Hafeez,1,0,1,NA,0,NA,NA,NA,1
+562442,1st innings,Sri Lanka,Pakistan,24.1,KC Sangakkara,LD Chandimal,Shahid Afridi,0,0,0,NA,0,NA,NA,NA,1
+562442,1st innings,Sri Lanka,Pakistan,24.2,KC Sangakkara,LD Chandimal,Shahid Afridi,1,0,1,NA,0,NA,NA,NA,1
+562442,1st innings,Sri Lanka,Pakistan,24.3,LD Chandimal,KC Sangakkara,Shahid Afridi,4,0,4,NA,0,NA,NA,NA,1
+562442,1st innings,Sri Lanka,Pakistan,24.4,LD Chandimal,KC Sangakkara,Shahid Afridi,0,0,0,NA,0,NA,NA,NA,1
+562442,1st innings,Sri Lanka,Pakistan,24.5,LD Chandimal,KC Sangakkara,Shahid Afridi,0,0,0,NA,0,NA,NA,NA,1
+562442,1st innings,Sri Lanka,Pakistan,24.6,LD Chandimal,KC Sangakkara,Shahid Afridi,1,0,1,NA,0,NA,NA,NA,1
+562442,1st innings,Sri Lanka,Pakistan,25.1,LD Chandimal,KC Sangakkara,Mohammad Hafeez,0,0,0,NA,0,NA,NA,NA,1
+562442,1st innings,Sri Lanka,Pakistan,25.2,LD Chandimal,KC Sangakkara,Mohammad Hafeez,0,0,0,NA,0,NA,NA,NA,1
+562442,1st innings,Sri Lanka,Pakistan,25.3,LD Chandimal,KC Sangakkara,Mohammad Hafeez,0,0,0,NA,1,bowled,LD Chandimal,NA,1
+562442,1st innings,Sri Lanka,Pakistan,25.4,DPMD Jayawardene,KC Sangakkara,Mohammad Hafeez,1,0,1,NA,0,NA,NA,NA,1
+562442,1st innings,Sri Lanka,Pakistan,25.5,KC Sangakkara,DPMD Jayawardene,Mohammad Hafeez,1,0,1,NA,0,NA,NA,NA,1
+562442,1st innings,Sri Lanka,Pakistan,25.6,DPMD Jayawardene,KC Sangakkara,Mohammad Hafeez,1,0,1,NA,0,NA,NA,NA,1
+562442,1st innings,Sri Lanka,Pakistan,26.1,DPMD Jayawardene,KC Sangakkara,Shahid Afridi,0,0,0,NA,0,NA,NA,NA,1
+562442,1st innings,Sri Lanka,Pakistan,26.2,DPMD Jayawardene,KC Sangakkara,Shahid Afridi,1,0,1,NA,0,NA,NA,NA,1
+562442,1st innings,Sri Lanka,Pakistan,26.3,KC Sangakkara,DPMD Jayawardene,Shahid Afridi,0,0,0,NA,0,NA,NA,NA,1
+562442,1st innings,Sri Lanka,Pakistan,26.4,KC Sangakkara,DPMD Jayawardene,Shahid Afridi,0,1,1,byes,0,NA,NA,NA,1
+562442,1st innings,Sri Lanka,Pakistan,26.5,DPMD Jayawardene,KC Sangakkara,Shahid Afridi,0,0,0,NA,0,NA,NA,NA,1
+562442,1st innings,Sri Lanka,Pakistan,26.6,DPMD Jayawardene,KC Sangakkara,Shahid Afridi,0,0,0,NA,0,NA,NA,NA,1
+562442,1st innings,Sri Lanka,Pakistan,27.1,KC Sangakkara,DPMD Jayawardene,Mohammad Hafeez,0,0,0,NA,0,NA,NA,NA,1
+562442,1st innings,Sri Lanka,Pakistan,27.2,KC Sangakkara,DPMD Jayawardene,Mohammad Hafeez,1,0,1,NA,0,NA,NA,NA,1
+562442,1st innings,Sri Lanka,Pakistan,27.3,DPMD Jayawardene,KC Sangakkara,Mohammad Hafeez,1,0,1,NA,0,NA,NA,NA,1
+562442,1st innings,Sri Lanka,Pakistan,27.4,KC Sangakkara,DPMD Jayawardene,Mohammad Hafeez,0,0,0,NA,0,NA,NA,NA,1
+562442,1st innings,Sri Lanka,Pakistan,27.5,KC Sangakkara,DPMD Jayawardene,Mohammad Hafeez,0,0,0,NA,0,NA,NA,NA,1
+562442,1st innings,Sri Lanka,Pakistan,27.6,KC Sangakkara,DPMD Jayawardene,Mohammad Hafeez,0,0,0,NA,0,NA,NA,NA,1
+562442,1st innings,Sri Lanka,Pakistan,28.1,DPMD Jayawardene,KC Sangakkara,Shahid Afridi,0,0,0,NA,0,NA,NA,NA,1
+562442,1st innings,Sri Lanka,Pakistan,28.2,DPMD Jayawardene,KC Sangakkara,Shahid Afridi,0,0,0,NA,0,NA,NA,NA,1
+562442,1st innings,Sri Lanka,Pakistan,28.3,DPMD Jayawardene,KC Sangakkara,Shahid Afridi,0,0,0,NA,0,NA,NA,NA,1
+562442,1st innings,Sri Lanka,Pakistan,28.4,DPMD Jayawardene,KC Sangakkara,Shahid Afridi,0,0,0,NA,0,NA,NA,NA,1
+562442,1st innings,Sri Lanka,Pakistan,28.5,DPMD Jayawardene,KC Sangakkara,Shahid Afridi,2,0,2,NA,0,NA,NA,NA,1
+562442,1st innings,Sri Lanka,Pakistan,28.6,DPMD Jayawardene,KC Sangakkara,Shahid Afridi,1,0,1,NA,0,NA,NA,NA,1
+562442,1st innings,Sri Lanka,Pakistan,29.1,DPMD Jayawardene,KC Sangakkara,Mohammad Hafeez,2,0,2,NA,0,NA,NA,NA,1
+562442,1st innings,Sri Lanka,Pakistan,29.2,DPMD Jayawardene,KC Sangakkara,Mohammad Hafeez,0,0,0,NA,0,NA,NA,NA,1
+562442,1st innings,Sri Lanka,Pakistan,29.3,DPMD Jayawardene,KC Sangakkara,Mohammad Hafeez,1,0,1,NA,0,NA,NA,NA,1
+562442,1st innings,Sri Lanka,Pakistan,29.4,KC Sangakkara,DPMD Jayawardene,Mohammad Hafeez,0,0,0,NA,0,NA,NA,NA,1
+562442,1st innings,Sri Lanka,Pakistan,29.5,KC Sangakkara,DPMD Jayawardene,Mohammad Hafeez,0,0,0,NA,0,NA,NA,NA,1
+562442,1st innings,Sri Lanka,Pakistan,29.6,KC Sangakkara,DPMD Jayawardene,Mohammad Hafeez,0,0,0,NA,0,NA,NA,NA,1
+562442,1st innings,Sri Lanka,Pakistan,30.1,DPMD Jayawardene,KC Sangakkara,Shahid Afridi,1,0,1,NA,0,NA,NA,NA,1
+562442,1st innings,Sri Lanka,Pakistan,30.2,KC Sangakkara,DPMD Jayawardene,Shahid Afridi,2,0,2,NA,0,NA,NA,NA,1
+562442,1st innings,Sri Lanka,Pakistan,30.3,KC Sangakkara,DPMD Jayawardene,Shahid Afridi,0,0,0,NA,0,NA,NA,NA,1
+562442,1st innings,Sri Lanka,Pakistan,30.4,KC Sangakkara,DPMD Jayawardene,Shahid Afridi,0,0,0,NA,0,NA,NA,NA,1
+562442,1st innings,Sri Lanka,Pakistan,30.5,KC Sangakkara,DPMD Jayawardene,Shahid Afridi,1,0,1,NA,0,NA,NA,NA,1
+562442,1st innings,Sri Lanka,Pakistan,30.6,DPMD Jayawardene,KC Sangakkara,Shahid Afridi,0,0,0,NA,0,NA,NA,NA,1
+562442,1st innings,Sri Lanka,Pakistan,31.1,KC Sangakkara,DPMD Jayawardene,Mohammad Hafeez,4,0,4,NA,0,NA,NA,NA,1
+562442,1st innings,Sri Lanka,Pakistan,31.2,KC Sangakkara,DPMD Jayawardene,Mohammad Hafeez,1,0,1,NA,0,NA,NA,NA,1
+562442,1st innings,Sri Lanka,Pakistan,31.3,DPMD Jayawardene,KC Sangakkara,Mohammad Hafeez,1,0,1,NA,0,NA,NA,NA,1
+562442,1st innings,Sri Lanka,Pakistan,31.4,KC Sangakkara,DPMD Jayawardene,Mohammad Hafeez,1,0,1,NA,0,NA,NA,NA,1
+562442,1st innings,Sri Lanka,Pakistan,31.5,DPMD Jayawardene,KC Sangakkara,Mohammad Hafeez,1,0,1,NA,0,NA,NA,NA,1
+562442,1st innings,Sri Lanka,Pakistan,31.6,KC Sangakkara,DPMD Jayawardene,Mohammad Hafeez,1,0,1,NA,0,NA,NA,NA,1
+562442,1st innings,Sri Lanka,Pakistan,32.1,KC Sangakkara,DPMD Jayawardene,Shahid Afridi,1,0,1,NA,0,NA,NA,NA,1
+562442,1st innings,Sri Lanka,Pakistan,32.2,DPMD Jayawardene,KC Sangakkara,Shahid Afridi,1,0,1,NA,0,NA,NA,NA,1
+562442,1st innings,Sri Lanka,Pakistan,32.3,KC Sangakkara,DPMD Jayawardene,Shahid Afridi,0,0,0,NA,0,NA,NA,NA,1
+562442,1st innings,Sri Lanka,Pakistan,32.4,KC Sangakkara,DPMD Jayawardene,Shahid Afridi,1,0,1,NA,0,NA,NA,NA,1
+562442,1st innings,Sri Lanka,Pakistan,32.5,DPMD Jayawardene,KC Sangakkara,Shahid Afridi,0,0,0,NA,0,NA,NA,NA,1
+562442,1st innings,Sri Lanka,Pakistan,32.6,DPMD Jayawardene,KC Sangakkara,Shahid Afridi,0,0,0,NA,0,NA,NA,NA,1
+562442,1st innings,Sri Lanka,Pakistan,33.1,KC Sangakkara,DPMD Jayawardene,Mohammad Hafeez,1,0,1,NA,0,NA,NA,NA,1
+562442,1st innings,Sri Lanka,Pakistan,33.2,DPMD Jayawardene,KC Sangakkara,Mohammad Hafeez,0,0,0,NA,0,NA,NA,NA,1
+562442,1st innings,Sri Lanka,Pakistan,33.3,DPMD Jayawardene,KC Sangakkara,Mohammad Hafeez,1,0,1,NA,0,NA,NA,NA,1
+562442,1st innings,Sri Lanka,Pakistan,33.4,KC Sangakkara,DPMD Jayawardene,Mohammad Hafeez,0,0,0,NA,0,NA,NA,NA,1
+562442,1st innings,Sri Lanka,Pakistan,33.5,KC Sangakkara,DPMD Jayawardene,Mohammad Hafeez,0,0,0,NA,0,NA,NA,NA,1
+562442,1st innings,Sri Lanka,Pakistan,33.6,KC Sangakkara,DPMD Jayawardene,Mohammad Hafeez,1,0,1,NA,0,NA,NA,NA,1
+562442,1st innings,Sri Lanka,Pakistan,34.1,KC Sangakkara,DPMD Jayawardene,Shahid Afridi,0,0,0,NA,0,NA,NA,NA,1
+562442,1st innings,Sri Lanka,Pakistan,34.2,KC Sangakkara,DPMD Jayawardene,Shahid Afridi,1,0,1,NA,0,NA,NA,NA,1
+562442,1st innings,Sri Lanka,Pakistan,34.3,DPMD Jayawardene,KC Sangakkara,Shahid Afridi,1,0,1,NA,0,NA,NA,NA,1
+562442,1st innings,Sri Lanka,Pakistan,34.4,KC Sangakkara,DPMD Jayawardene,Shahid Afridi,0,0,0,NA,0,NA,NA,NA,1
+562442,1st innings,Sri Lanka,Pakistan,34.5,KC Sangakkara,DPMD Jayawardene,Shahid Afridi,1,0,1,NA,0,NA,NA,NA,1
+562442,1st innings,Sri Lanka,Pakistan,34.6,DPMD Jayawardene,KC Sangakkara,Shahid Afridi,0,0,0,NA,0,NA,NA,NA,1
+562442,1st innings,Sri Lanka,Pakistan,35.1,KC Sangakkara,DPMD Jayawardene,Saeed Ajmal,1,0,1,NA,0,NA,NA,NA,1
+562442,1st innings,Sri Lanka,Pakistan,35.2,DPMD Jayawardene,KC Sangakkara,Saeed Ajmal,1,0,1,NA,0,NA,NA,NA,1
+562442,1st innings,Sri Lanka,Pakistan,35.3,KC Sangakkara,DPMD Jayawardene,Saeed Ajmal,0,0,0,NA,0,NA,NA,NA,1
+562442,1st innings,Sri Lanka,Pakistan,35.4,KC Sangakkara,DPMD Jayawardene,Saeed Ajmal,0,0,0,NA,0,NA,NA,NA,1
+562442,1st innings,Sri Lanka,Pakistan,35.5,KC Sangakkara,DPMD Jayawardene,Saeed Ajmal,4,0,4,NA,0,NA,NA,NA,1
+562442,1st innings,Sri Lanka,Pakistan,35.6,KC Sangakkara,DPMD Jayawardene,Saeed Ajmal,1,0,1,NA,0,NA,NA,NA,1
+562442,1st innings,Sri Lanka,Pakistan,36.1,KC Sangakkara,DPMD Jayawardene,Umar Gul,6,0,6,NA,0,NA,NA,NA,1
+562442,1st innings,Sri Lanka,Pakistan,36.2,KC Sangakkara,DPMD Jayawardene,Umar Gul,0,1,1,wides,0,NA,NA,NA,1
+562442,1st innings,Sri Lanka,Pakistan,36.3,KC Sangakkara,DPMD Jayawardene,Umar Gul,1,0,1,NA,0,NA,NA,NA,1
+562442,1st innings,Sri Lanka,Pakistan,36.4,DPMD Jayawardene,KC Sangakkara,Umar Gul,0,1,1,wides,0,NA,NA,NA,1
+562442,1st innings,Sri Lanka,Pakistan,36.5,DPMD Jayawardene,KC Sangakkara,Umar Gul,0,0,0,NA,0,NA,NA,NA,1
+562442,1st innings,Sri Lanka,Pakistan,36.6,DPMD Jayawardene,KC Sangakkara,Umar Gul,1,0,1,NA,0,NA,NA,NA,1
+562442,1st innings,Sri Lanka,Pakistan,36.7,KC Sangakkara,DPMD Jayawardene,Umar Gul,0,0,0,NA,0,NA,NA,NA,1
+562442,1st innings,Sri Lanka,Pakistan,36.8,KC Sangakkara,DPMD Jayawardene,Umar Gul,0,0,0,NA,0,NA,NA,NA,1
+562442,1st innings,Sri Lanka,Pakistan,37.1,DPMD Jayawardene,KC Sangakkara,Saeed Ajmal,0,0,0,NA,0,NA,NA,NA,1
+562442,1st innings,Sri Lanka,Pakistan,37.2,DPMD Jayawardene,KC Sangakkara,Saeed Ajmal,4,0,4,NA,0,NA,NA,NA,1
+562442,1st innings,Sri Lanka,Pakistan,37.3,DPMD Jayawardene,KC Sangakkara,Saeed Ajmal,1,0,1,NA,0,NA,NA,NA,1
+562442,1st innings,Sri Lanka,Pakistan,37.4,KC Sangakkara,DPMD Jayawardene,Saeed Ajmal,1,0,1,NA,0,NA,NA,NA,1
+562442,1st innings,Sri Lanka,Pakistan,37.5,DPMD Jayawardene,KC Sangakkara,Saeed Ajmal,0,0,0,NA,0,NA,NA,NA,1
+562442,1st innings,Sri Lanka,Pakistan,37.6,DPMD Jayawardene,KC Sangakkara,Saeed Ajmal,4,0,4,NA,0,NA,NA,NA,1
+562442,1st innings,Sri Lanka,Pakistan,38.1,KC Sangakkara,DPMD Jayawardene,Umar Gul,1,0,1,NA,0,NA,NA,NA,1
+562442,1st innings,Sri Lanka,Pakistan,38.2,DPMD Jayawardene,KC Sangakkara,Umar Gul,0,0,0,NA,0,NA,NA,NA,1
+562442,1st innings,Sri Lanka,Pakistan,38.3,DPMD Jayawardene,KC Sangakkara,Umar Gul,4,0,4,NA,0,NA,NA,NA,1
+562442,1st innings,Sri Lanka,Pakistan,38.4,DPMD Jayawardene,KC Sangakkara,Umar Gul,1,0,1,NA,0,NA,NA,NA,1
+562442,1st innings,Sri Lanka,Pakistan,38.5,KC Sangakkara,DPMD Jayawardene,Umar Gul,6,0,6,NA,0,NA,NA,NA,1
+562442,1st innings,Sri Lanka,Pakistan,38.6,KC Sangakkara,DPMD Jayawardene,Umar Gul,4,0,4,NA,0,NA,NA,NA,1
+562442,1st innings,Sri Lanka,Pakistan,39.1,DPMD Jayawardene,KC Sangakkara,Saeed Ajmal,4,0,4,NA,0,NA,NA,NA,1
+562442,1st innings,Sri Lanka,Pakistan,39.2,DPMD Jayawardene,KC Sangakkara,Saeed Ajmal,1,0,1,NA,0,NA,NA,NA,1
+562442,1st innings,Sri Lanka,Pakistan,39.3,KC Sangakkara,DPMD Jayawardene,Saeed Ajmal,0,0,0,NA,0,NA,NA,NA,1
+562442,1st innings,Sri Lanka,Pakistan,39.4,KC Sangakkara,DPMD Jayawardene,Saeed Ajmal,0,0,0,NA,0,NA,NA,NA,1
+562442,1st innings,Sri Lanka,Pakistan,39.5,KC Sangakkara,DPMD Jayawardene,Saeed Ajmal,1,0,1,NA,0,NA,NA,NA,1
+562442,1st innings,Sri Lanka,Pakistan,39.6,DPMD Jayawardene,KC Sangakkara,Saeed Ajmal,0,0,0,NA,0,NA,NA,NA,1
+562442,1st innings,Sri Lanka,Pakistan,40.1,KC Sangakkara,DPMD Jayawardene,Mohammad Hafeez,0,0,0,NA,0,NA,NA,NA,1
+562442,1st innings,Sri Lanka,Pakistan,40.2,KC Sangakkara,DPMD Jayawardene,Mohammad Hafeez,1,0,1,NA,0,NA,NA,NA,1
+562442,1st innings,Sri Lanka,Pakistan,40.3,DPMD Jayawardene,KC Sangakkara,Mohammad Hafeez,1,0,1,NA,0,NA,NA,NA,1
+562442,1st innings,Sri Lanka,Pakistan,40.4,KC Sangakkara,DPMD Jayawardene,Mohammad Hafeez,1,0,1,NA,0,NA,NA,NA,1
+562442,1st innings,Sri Lanka,Pakistan,40.5,DPMD Jayawardene,KC Sangakkara,Mohammad Hafeez,1,0,1,NA,0,NA,NA,NA,1
+562442,1st innings,Sri Lanka,Pakistan,40.6,KC Sangakkara,DPMD Jayawardene,Mohammad Hafeez,0,0,0,NA,0,NA,NA,NA,1
+562442,1st innings,Sri Lanka,Pakistan,41.1,DPMD Jayawardene,KC Sangakkara,Sohail Tanvir,0,0,0,NA,0,NA,NA,NA,1
+562442,1st innings,Sri Lanka,Pakistan,41.2,DPMD Jayawardene,KC Sangakkara,Sohail Tanvir,1,0,1,NA,0,NA,NA,NA,1
+562442,1st innings,Sri Lanka,Pakistan,41.3,KC Sangakkara,DPMD Jayawardene,Sohail Tanvir,6,0,6,NA,0,NA,NA,NA,1
+562442,1st innings,Sri Lanka,Pakistan,41.4,KC Sangakkara,DPMD Jayawardene,Sohail Tanvir,0,0,0,NA,0,NA,NA,NA,1
+562442,1st innings,Sri Lanka,Pakistan,41.5,KC Sangakkara,DPMD Jayawardene,Sohail Tanvir,0,0,0,NA,0,NA,NA,NA,1
+562442,1st innings,Sri Lanka,Pakistan,41.6,KC Sangakkara,DPMD Jayawardene,Sohail Tanvir,1,0,1,NA,0,NA,NA,NA,1
+562442,1st innings,Sri Lanka,Pakistan,42.1,KC Sangakkara,DPMD Jayawardene,Saeed Ajmal,4,0,4,NA,0,NA,NA,NA,1
+562442,1st innings,Sri Lanka,Pakistan,42.2,KC Sangakkara,DPMD Jayawardene,Saeed Ajmal,0,0,0,NA,0,NA,NA,NA,1
+562442,1st innings,Sri Lanka,Pakistan,42.3,KC Sangakkara,DPMD Jayawardene,Saeed Ajmal,4,0,4,NA,0,NA,NA,NA,1
+562442,1st innings,Sri Lanka,Pakistan,42.4,KC Sangakkara,DPMD Jayawardene,Saeed Ajmal,1,0,1,NA,0,NA,NA,NA,1
+562442,1st innings,Sri Lanka,Pakistan,42.5,DPMD Jayawardene,KC Sangakkara,Saeed Ajmal,0,4,4,byes,0,NA,NA,NA,1
+562442,1st innings,Sri Lanka,Pakistan,42.6,DPMD Jayawardene,KC Sangakkara,Saeed Ajmal,0,0,0,NA,0,NA,NA,NA,1
+562442,1st innings,Sri Lanka,Pakistan,43.1,KC Sangakkara,DPMD Jayawardene,Sohail Tanvir,1,0,1,NA,0,NA,NA,NA,1
+562442,1st innings,Sri Lanka,Pakistan,43.2,DPMD Jayawardene,KC Sangakkara,Sohail Tanvir,0,0,0,NA,0,NA,NA,NA,1
+562442,1st innings,Sri Lanka,Pakistan,43.3,DPMD Jayawardene,KC Sangakkara,Sohail Tanvir,0,0,0,NA,0,NA,NA,NA,1
+562442,1st innings,Sri Lanka,Pakistan,43.4,DPMD Jayawardene,KC Sangakkara,Sohail Tanvir,0,0,0,NA,1,bowled,DPMD Jayawardene,NA,1
+562442,1st innings,Sri Lanka,Pakistan,43.5,NLTC Perera,KC Sangakkara,Sohail Tanvir,1,0,1,NA,0,NA,NA,NA,1
+562442,1st innings,Sri Lanka,Pakistan,43.6,KC Sangakkara,NLTC Perera,Sohail Tanvir,1,0,1,NA,0,NA,NA,NA,1
+562442,1st innings,Sri Lanka,Pakistan,44.1,KC Sangakkara,NLTC Perera,Saeed Ajmal,2,0,2,NA,0,NA,NA,NA,1
+562442,1st innings,Sri Lanka,Pakistan,44.2,KC Sangakkara,NLTC Perera,Saeed Ajmal,0,0,0,NA,1,caught,KC Sangakkara,Azhar Ali,1
+562442,1st innings,Sri Lanka,Pakistan,44.3,AD Mathews,NLTC Perera,Saeed Ajmal,0,0,0,NA,0,NA,NA,NA,1
+562442,1st innings,Sri Lanka,Pakistan,44.4,AD Mathews,NLTC Perera,Saeed Ajmal,1,0,1,NA,0,NA,NA,NA,1
+562442,1st innings,Sri Lanka,Pakistan,44.5,NLTC Perera,AD Mathews,Saeed Ajmal,0,0,0,NA,0,NA,NA,NA,1
+562442,1st innings,Sri Lanka,Pakistan,44.6,NLTC Perera,AD Mathews,Saeed Ajmal,1,0,1,NA,0,NA,NA,NA,1
+562442,1st innings,Sri Lanka,Pakistan,45.1,NLTC Perera,AD Mathews,Sohail Tanvir,0,0,0,NA,0,NA,NA,NA,1
+562442,1st innings,Sri Lanka,Pakistan,45.2,NLTC Perera,AD Mathews,Sohail Tanvir,0,0,0,NA,0,NA,NA,NA,1
+562442,1st innings,Sri Lanka,Pakistan,45.3,NLTC Perera,AD Mathews,Sohail Tanvir,4,0,4,NA,0,NA,NA,NA,1
+562442,1st innings,Sri Lanka,Pakistan,45.4,NLTC Perera,AD Mathews,Sohail Tanvir,1,0,1,NA,0,NA,NA,NA,1
+562442,1st innings,Sri Lanka,Pakistan,45.5,AD Mathews,NLTC Perera,Sohail Tanvir,1,0,1,NA,0,NA,NA,NA,1
+562442,1st innings,Sri Lanka,Pakistan,45.6,NLTC Perera,AD Mathews,Sohail Tanvir,1,0,1,NA,0,NA,NA,NA,1
+562442,1st innings,Sri Lanka,Pakistan,46.1,NLTC Perera,AD Mathews,Saeed Ajmal,0,1,1,wides,0,NA,NA,NA,1
+562442,1st innings,Sri Lanka,Pakistan,46.2,NLTC Perera,AD Mathews,Saeed Ajmal,0,0,0,NA,1,caught,NLTC Perera,Umar Akmal,1
+562442,1st innings,Sri Lanka,Pakistan,46.3,AD Mathews,HDRL Thirimanne,Saeed Ajmal,1,0,1,NA,0,NA,NA,NA,1
+562442,1st innings,Sri Lanka,Pakistan,46.4,HDRL Thirimanne,AD Mathews,Saeed Ajmal,0,4,4,legbyes,0,NA,NA,NA,1
+562442,1st innings,Sri Lanka,Pakistan,46.5,HDRL Thirimanne,AD Mathews,Saeed Ajmal,1,0,1,NA,0,NA,NA,NA,1
+562442,1st innings,Sri Lanka,Pakistan,46.6,AD Mathews,HDRL Thirimanne,Saeed Ajmal,1,0,1,NA,0,NA,NA,NA,1
+562442,1st innings,Sri Lanka,Pakistan,46.7,HDRL Thirimanne,AD Mathews,Saeed Ajmal,1,0,1,NA,0,NA,NA,NA,1
+562442,1st innings,Sri Lanka,Pakistan,47.1,HDRL Thirimanne,AD Mathews,Sohail Tanvir,0,0,0,NA,0,NA,NA,NA,1
+562442,1st innings,Sri Lanka,Pakistan,47.2,HDRL Thirimanne,AD Mathews,Sohail Tanvir,0,1,1,legbyes,0,NA,NA,NA,1
+562442,1st innings,Sri Lanka,Pakistan,47.3,AD Mathews,HDRL Thirimanne,Sohail Tanvir,1,0,1,NA,0,NA,NA,NA,1
+562442,1st innings,Sri Lanka,Pakistan,47.4,HDRL Thirimanne,AD Mathews,Sohail Tanvir,4,0,4,NA,0,NA,NA,NA,1
+562442,1st innings,Sri Lanka,Pakistan,47.5,HDRL Thirimanne,AD Mathews,Sohail Tanvir,1,0,1,NA,0,NA,NA,NA,1
+562442,1st innings,Sri Lanka,Pakistan,47.6,AD Mathews,HDRL Thirimanne,Sohail Tanvir,1,0,1,NA,0,NA,NA,NA,1
+562442,1st innings,Sri Lanka,Pakistan,48.1,AD Mathews,HDRL Thirimanne,Umar Gul,1,0,1,NA,0,NA,NA,NA,1
+562442,1st innings,Sri Lanka,Pakistan,48.2,HDRL Thirimanne,AD Mathews,Umar Gul,6,0,6,NA,0,NA,NA,NA,1
+562442,1st innings,Sri Lanka,Pakistan,48.3,HDRL Thirimanne,AD Mathews,Umar Gul,0,0,0,NA,1,run out,HDRL Thirimanne,Shahid Afridi,1
+562442,1st innings,Sri Lanka,Pakistan,48.4,AD Mathews,KMDN Kulasekara,Umar Gul,1,0,1,NA,0,NA,NA,NA,1
+562442,1st innings,Sri Lanka,Pakistan,48.5,KMDN Kulasekara,AD Mathews,Umar Gul,0,0,0,NA,0,NA,NA,NA,1
+562442,1st innings,Sri Lanka,Pakistan,48.6,KMDN Kulasekara,AD Mathews,Umar Gul,1,0,1,NA,0,NA,NA,NA,1
+562442,1st innings,Sri Lanka,Pakistan,49.1,KMDN Kulasekara,AD Mathews,Sohail Tanvir,1,0,1,NA,0,NA,NA,NA,1
+562442,1st innings,Sri Lanka,Pakistan,49.2,AD Mathews,KMDN Kulasekara,Sohail Tanvir,1,0,1,NA,0,NA,NA,NA,1
+562442,1st innings,Sri Lanka,Pakistan,49.3,KMDN Kulasekara,AD Mathews,Sohail Tanvir,1,0,1,NA,0,NA,NA,NA,1
+562442,1st innings,Sri Lanka,Pakistan,49.4,AD Mathews,KMDN Kulasekara,Sohail Tanvir,1,0,1,NA,0,NA,NA,NA,1
+562442,1st innings,Sri Lanka,Pakistan,49.5,KMDN Kulasekara,AD Mathews,Sohail Tanvir,0,0,0,NA,1,bowled,KMDN Kulasekara,NA,1
+562442,1st innings,Sri Lanka,Pakistan,49.6,SL Malinga,AD Mathews,Sohail Tanvir,0,0,0,NA,0,NA,NA,NA,1
+562442,2nd innings,Pakistan,Sri Lanka,0.1,Mohammad Hafeez,Azhar Ali,SL Malinga,0,0,0,NA,0,NA,NA,NA,0
+562442,2nd innings,Pakistan,Sri Lanka,0.2,Mohammad Hafeez,Azhar Ali,SL Malinga,0,0,0,NA,0,NA,NA,NA,0
+562442,2nd innings,Pakistan,Sri Lanka,0.3,Mohammad Hafeez,Azhar Ali,SL Malinga,0,0,0,NA,0,NA,NA,NA,0
+562442,2nd innings,Pakistan,Sri Lanka,0.4,Mohammad Hafeez,Azhar Ali,SL Malinga,0,0,0,NA,0,NA,NA,NA,0
+562442,2nd innings,Pakistan,Sri Lanka,0.5,Mohammad Hafeez,Azhar Ali,SL Malinga,0,0,0,NA,1,caught,Mohammad Hafeez,KMDN Kulasekara,0
+562442,2nd innings,Pakistan,Sri Lanka,0.6,Asad Shafiq,Azhar Ali,SL Malinga,1,0,1,NA,0,NA,NA,NA,0
+562442,2nd innings,Pakistan,Sri Lanka,1.1,Asad Shafiq,Azhar Ali,KMDN Kulasekara,0,1,1,wides,0,NA,NA,NA,0
+562442,2nd innings,Pakistan,Sri Lanka,1.2,Asad Shafiq,Azhar Ali,KMDN Kulasekara,0,0,0,NA,0,NA,NA,NA,0
+562442,2nd innings,Pakistan,Sri Lanka,1.3,Asad Shafiq,Azhar Ali,KMDN Kulasekara,2,0,2,NA,0,NA,NA,NA,0
+562442,2nd innings,Pakistan,Sri Lanka,1.4,Asad Shafiq,Azhar Ali,KMDN Kulasekara,0,0,0,NA,0,NA,NA,NA,0
+562442,2nd innings,Pakistan,Sri Lanka,1.5,Asad Shafiq,Azhar Ali,KMDN Kulasekara,0,0,0,NA,0,NA,NA,NA,0
+562442,2nd innings,Pakistan,Sri Lanka,1.6,Asad Shafiq,Azhar Ali,KMDN Kulasekara,1,0,1,NA,0,NA,NA,NA,0
+562442,2nd innings,Pakistan,Sri Lanka,1.7,Azhar Ali,Asad Shafiq,KMDN Kulasekara,0,0,0,NA,0,NA,NA,NA,0
+562442,2nd innings,Pakistan,Sri Lanka,2.1,Asad Shafiq,Azhar Ali,SL Malinga,0,0,0,NA,0,NA,NA,NA,0
+562442,2nd innings,Pakistan,Sri Lanka,2.2,Asad Shafiq,Azhar Ali,SL Malinga,0,0,0,NA,0,NA,NA,NA,0
+562442,2nd innings,Pakistan,Sri Lanka,2.3,Asad Shafiq,Azhar Ali,SL Malinga,0,1,1,wides,0,NA,NA,NA,0
+562442,2nd innings,Pakistan,Sri Lanka,2.4,Asad Shafiq,Azhar Ali,SL Malinga,0,0,0,NA,0,NA,NA,NA,0
+562442,2nd innings,Pakistan,Sri Lanka,2.5,Asad Shafiq,Azhar Ali,SL Malinga,0,0,0,NA,0,NA,NA,NA,0
+562442,2nd innings,Pakistan,Sri Lanka,2.6,Asad Shafiq,Azhar Ali,SL Malinga,0,0,0,NA,0,NA,NA,NA,0
+562442,2nd innings,Pakistan,Sri Lanka,2.7,Asad Shafiq,Azhar Ali,SL Malinga,4,0,4,NA,0,NA,NA,NA,0
+562442,2nd innings,Pakistan,Sri Lanka,3.1,Azhar Ali,Asad Shafiq,KMDN Kulasekara,0,1,1,wides,0,NA,NA,NA,0
+562442,2nd innings,Pakistan,Sri Lanka,3.2,Azhar Ali,Asad Shafiq,KMDN Kulasekara,0,0,0,NA,0,NA,NA,NA,0
+562442,2nd innings,Pakistan,Sri Lanka,3.3,Azhar Ali,Asad Shafiq,KMDN Kulasekara,0,0,0,NA,0,NA,NA,NA,0
+562442,2nd innings,Pakistan,Sri Lanka,3.4,Azhar Ali,Asad Shafiq,KMDN Kulasekara,0,0,0,NA,0,NA,NA,NA,0
+562442,2nd innings,Pakistan,Sri Lanka,3.5,Azhar Ali,Asad Shafiq,KMDN Kulasekara,0,1,1,wides,0,NA,NA,NA,0
+562442,2nd innings,Pakistan,Sri Lanka,3.6,Azhar Ali,Asad Shafiq,KMDN Kulasekara,0,0,0,NA,0,NA,NA,NA,0
+562442,2nd innings,Pakistan,Sri Lanka,3.7,Azhar Ali,Asad Shafiq,KMDN Kulasekara,0,0,0,NA,0,NA,NA,NA,0
+562442,2nd innings,Pakistan,Sri Lanka,3.8,Azhar Ali,Asad Shafiq,KMDN Kulasekara,1,0,1,NA,0,NA,NA,NA,0
+562442,2nd innings,Pakistan,Sri Lanka,4.1,Azhar Ali,Asad Shafiq,SL Malinga,0,0,0,NA,0,NA,NA,NA,0
+562442,2nd innings,Pakistan,Sri Lanka,4.2,Azhar Ali,Asad Shafiq,SL Malinga,0,0,0,NA,0,NA,NA,NA,0
+562442,2nd innings,Pakistan,Sri Lanka,4.3,Azhar Ali,Asad Shafiq,SL Malinga,0,0,0,NA,0,NA,NA,NA,0
+562442,2nd innings,Pakistan,Sri Lanka,4.4,Azhar Ali,Asad Shafiq,SL Malinga,0,0,0,NA,0,NA,NA,NA,0
+562442,2nd innings,Pakistan,Sri Lanka,4.5,Azhar Ali,Asad Shafiq,SL Malinga,4,0,4,NA,0,NA,NA,NA,0
+562442,2nd innings,Pakistan,Sri Lanka,4.6,Azhar Ali,Asad Shafiq,SL Malinga,0,0,0,NA,0,NA,NA,NA,0
+562442,2nd innings,Pakistan,Sri Lanka,5.1,Asad Shafiq,Azhar Ali,KMDN Kulasekara,0,0,0,NA,0,NA,NA,NA,0
+562442,2nd innings,Pakistan,Sri Lanka,5.2,Asad Shafiq,Azhar Ali,KMDN Kulasekara,0,0,0,NA,0,NA,NA,NA,0
+562442,2nd innings,Pakistan,Sri Lanka,5.3,Asad Shafiq,Azhar Ali,KMDN Kulasekara,0,0,0,NA,0,NA,NA,NA,0
+562442,2nd innings,Pakistan,Sri Lanka,5.4,Asad Shafiq,Azhar Ali,KMDN Kulasekara,1,0,1,NA,0,NA,NA,NA,0
+562442,2nd innings,Pakistan,Sri Lanka,5.5,Azhar Ali,Asad Shafiq,KMDN Kulasekara,0,0,0,NA,0,NA,NA,NA,0
+562442,2nd innings,Pakistan,Sri Lanka,5.6,Azhar Ali,Asad Shafiq,KMDN Kulasekara,0,0,0,NA,0,NA,NA,NA,0
+562442,2nd innings,Pakistan,Sri Lanka,6.1,Asad Shafiq,Azhar Ali,AD Mathews,0,0,0,NA,0,NA,NA,NA,0
+562442,2nd innings,Pakistan,Sri Lanka,6.2,Asad Shafiq,Azhar Ali,AD Mathews,0,0,0,NA,0,NA,NA,NA,0
+562442,2nd innings,Pakistan,Sri Lanka,6.3,Asad Shafiq,Azhar Ali,AD Mathews,0,0,0,NA,0,NA,NA,NA,0
+562442,2nd innings,Pakistan,Sri Lanka,6.4,Asad Shafiq,Azhar Ali,AD Mathews,0,0,0,NA,0,NA,NA,NA,0
+562442,2nd innings,Pakistan,Sri Lanka,6.5,Asad Shafiq,Azhar Ali,AD Mathews,2,0,2,NA,0,NA,NA,NA,0
+562442,2nd innings,Pakistan,Sri Lanka,6.6,Asad Shafiq,Azhar Ali,AD Mathews,0,0,0,NA,0,NA,NA,NA,0
+562442,2nd innings,Pakistan,Sri Lanka,7.1,Azhar Ali,Asad Shafiq,KMDN Kulasekara,0,0,0,NA,0,NA,NA,NA,0
+562442,2nd innings,Pakistan,Sri Lanka,7.2,Azhar Ali,Asad Shafiq,KMDN Kulasekara,4,0,4,NA,0,NA,NA,NA,0
+562442,2nd innings,Pakistan,Sri Lanka,7.3,Azhar Ali,Asad Shafiq,KMDN Kulasekara,0,0,0,NA,0,NA,NA,NA,0
+562442,2nd innings,Pakistan,Sri Lanka,7.4,Azhar Ali,Asad Shafiq,KMDN Kulasekara,0,0,0,NA,0,NA,NA,NA,0
+562442,2nd innings,Pakistan,Sri Lanka,7.5,Azhar Ali,Asad Shafiq,KMDN Kulasekara,0,0,0,NA,0,NA,NA,NA,0
+562442,2nd innings,Pakistan,Sri Lanka,7.6,Azhar Ali,Asad Shafiq,KMDN Kulasekara,0,0,0,NA,0,NA,NA,NA,0
+562442,2nd innings,Pakistan,Sri Lanka,8.1,Asad Shafiq,Azhar Ali,AD Mathews,0,0,0,NA,0,NA,NA,NA,0
+562442,2nd innings,Pakistan,Sri Lanka,8.2,Asad Shafiq,Azhar Ali,AD Mathews,1,0,1,NA,0,NA,NA,NA,0
+562442,2nd innings,Pakistan,Sri Lanka,8.3,Azhar Ali,Asad Shafiq,AD Mathews,0,0,0,NA,0,NA,NA,NA,0
+562442,2nd innings,Pakistan,Sri Lanka,8.4,Azhar Ali,Asad Shafiq,AD Mathews,0,0,0,NA,0,NA,NA,NA,0
+562442,2nd innings,Pakistan,Sri Lanka,8.5,Azhar Ali,Asad Shafiq,AD Mathews,0,0,0,NA,0,NA,NA,NA,0
+562442,2nd innings,Pakistan,Sri Lanka,8.6,Azhar Ali,Asad Shafiq,AD Mathews,0,0,0,NA,0,NA,NA,NA,0
+562442,2nd innings,Pakistan,Sri Lanka,9.1,Asad Shafiq,Azhar Ali,KMDN Kulasekara,1,0,1,NA,0,NA,NA,NA,0
+562442,2nd innings,Pakistan,Sri Lanka,9.2,Azhar Ali,Asad Shafiq,KMDN Kulasekara,0,0,0,NA,0,NA,NA,NA,0
+562442,2nd innings,Pakistan,Sri Lanka,9.3,Azhar Ali,Asad Shafiq,KMDN Kulasekara,1,0,1,NA,0,NA,NA,NA,0
+562442,2nd innings,Pakistan,Sri Lanka,9.4,Asad Shafiq,Azhar Ali,KMDN Kulasekara,0,0,0,NA,0,NA,NA,NA,0
+562442,2nd innings,Pakistan,Sri Lanka,9.5,Asad Shafiq,Azhar Ali,KMDN Kulasekara,2,0,2,NA,0,NA,NA,NA,0
+562442,2nd innings,Pakistan,Sri Lanka,9.6,Asad Shafiq,Azhar Ali,KMDN Kulasekara,0,0,0,NA,0,NA,NA,NA,0
+562442,2nd innings,Pakistan,Sri Lanka,10.1,Azhar Ali,Asad Shafiq,AD Mathews,0,0,0,NA,0,NA,NA,NA,0
+562442,2nd innings,Pakistan,Sri Lanka,10.2,Azhar Ali,Asad Shafiq,AD Mathews,0,0,0,NA,0,NA,NA,NA,0
+562442,2nd innings,Pakistan,Sri Lanka,10.3,Azhar Ali,Asad Shafiq,AD Mathews,1,0,1,NA,0,NA,NA,NA,0
+562442,2nd innings,Pakistan,Sri Lanka,10.4,Asad Shafiq,Azhar Ali,AD Mathews,4,0,4,NA,0,NA,NA,NA,0
+562442,2nd innings,Pakistan,Sri Lanka,10.5,Asad Shafiq,Azhar Ali,AD Mathews,1,0,1,NA,0,NA,NA,NA,0
+562442,2nd innings,Pakistan,Sri Lanka,10.6,Azhar Ali,Asad Shafiq,AD Mathews,1,0,1,NA,0,NA,NA,NA,0
+562442,2nd innings,Pakistan,Sri Lanka,11.1,Azhar Ali,Asad Shafiq,S Weerakoon,0,0,0,NA,0,NA,NA,NA,0
+562442,2nd innings,Pakistan,Sri Lanka,11.2,Azhar Ali,Asad Shafiq,S Weerakoon,1,0,1,NA,0,NA,NA,NA,0
+562442,2nd innings,Pakistan,Sri Lanka,11.3,Asad Shafiq,Azhar Ali,S Weerakoon,3,0,3,NA,0,NA,NA,NA,0
+562442,2nd innings,Pakistan,Sri Lanka,11.4,Azhar Ali,Asad Shafiq,S Weerakoon,1,0,1,NA,0,NA,NA,NA,0
+562442,2nd innings,Pakistan,Sri Lanka,11.5,Asad Shafiq,Azhar Ali,S Weerakoon,1,0,1,NA,0,NA,NA,NA,0
+562442,2nd innings,Pakistan,Sri Lanka,11.6,Azhar Ali,Asad Shafiq,S Weerakoon,1,0,1,NA,0,NA,NA,NA,0
+562442,2nd innings,Pakistan,Sri Lanka,12.1,Azhar Ali,Asad Shafiq,AD Mathews,0,0,0,NA,0,NA,NA,NA,0
+562442,2nd innings,Pakistan,Sri Lanka,12.2,Azhar Ali,Asad Shafiq,AD Mathews,0,0,0,NA,0,NA,NA,NA,0
+562442,2nd innings,Pakistan,Sri Lanka,12.3,Azhar Ali,Asad Shafiq,AD Mathews,2,0,2,NA,0,NA,NA,NA,0
+562442,2nd innings,Pakistan,Sri Lanka,12.4,Azhar Ali,Asad Shafiq,AD Mathews,0,0,0,NA,0,NA,NA,NA,0
+562442,2nd innings,Pakistan,Sri Lanka,12.5,Azhar Ali,Asad Shafiq,AD Mathews,0,4,4,legbyes,0,NA,NA,NA,0
+562442,2nd innings,Pakistan,Sri Lanka,12.6,Azhar Ali,Asad Shafiq,AD Mathews,1,0,1,NA,0,NA,NA,NA,0
+562442,2nd innings,Pakistan,Sri Lanka,13.1,Azhar Ali,Asad Shafiq,S Weerakoon,1,0,1,NA,0,NA,NA,NA,0
+562442,2nd innings,Pakistan,Sri Lanka,13.2,Asad Shafiq,Azhar Ali,S Weerakoon,1,0,1,NA,0,NA,NA,NA,0
+562442,2nd innings,Pakistan,Sri Lanka,13.3,Azhar Ali,Asad Shafiq,S Weerakoon,1,0,1,NA,0,NA,NA,NA,0
+562442,2nd innings,Pakistan,Sri Lanka,13.4,Asad Shafiq,Azhar Ali,S Weerakoon,0,0,0,NA,1,lbw,Asad Shafiq,NA,0
+562442,2nd innings,Pakistan,Sri Lanka,13.5,Misbah-ul-Haq,Azhar Ali,S Weerakoon,0,0,0,NA,0,NA,NA,NA,0
+562442,2nd innings,Pakistan,Sri Lanka,13.6,Misbah-ul-Haq,Azhar Ali,S Weerakoon,0,0,0,NA,0,NA,NA,NA,0
+562442,2nd innings,Pakistan,Sri Lanka,14.1,Azhar Ali,Misbah-ul-Haq,NLTC Perera,1,0,1,NA,0,NA,NA,NA,0
+562442,2nd innings,Pakistan,Sri Lanka,14.2,Misbah-ul-Haq,Azhar Ali,NLTC Perera,1,0,1,NA,0,NA,NA,NA,0
+562442,2nd innings,Pakistan,Sri Lanka,14.3,Azhar Ali,Misbah-ul-Haq,NLTC Perera,0,0,0,NA,0,NA,NA,NA,0
+562442,2nd innings,Pakistan,Sri Lanka,14.4,Azhar Ali,Misbah-ul-Haq,NLTC Perera,1,0,1,NA,0,NA,NA,NA,0
+562442,2nd innings,Pakistan,Sri Lanka,14.5,Misbah-ul-Haq,Azhar Ali,NLTC Perera,1,0,1,NA,0,NA,NA,NA,0
+562442,2nd innings,Pakistan,Sri Lanka,14.6,Azhar Ali,Misbah-ul-Haq,NLTC Perera,1,0,1,NA,0,NA,NA,NA,0
+562442,2nd innings,Pakistan,Sri Lanka,15.1,Azhar Ali,Misbah-ul-Haq,S Weerakoon,0,0,0,NA,0,NA,NA,NA,0
+562442,2nd innings,Pakistan,Sri Lanka,15.2,Azhar Ali,Misbah-ul-Haq,S Weerakoon,0,0,0,NA,0,NA,NA,NA,0
+562442,2nd innings,Pakistan,Sri Lanka,15.3,Azhar Ali,Misbah-ul-Haq,S Weerakoon,1,0,1,NA,0,NA,NA,NA,0
+562442,2nd innings,Pakistan,Sri Lanka,15.4,Misbah-ul-Haq,Azhar Ali,S Weerakoon,0,0,0,NA,0,NA,NA,NA,0
+562442,2nd innings,Pakistan,Sri Lanka,15.5,Misbah-ul-Haq,Azhar Ali,S Weerakoon,0,0,0,NA,0,NA,NA,NA,0
+562442,2nd innings,Pakistan,Sri Lanka,15.6,Misbah-ul-Haq,Azhar Ali,S Weerakoon,1,0,1,NA,0,NA,NA,NA,0
+562442,2nd innings,Pakistan,Sri Lanka,16.1,Misbah-ul-Haq,Azhar Ali,NLTC Perera,1,0,1,NA,0,NA,NA,NA,0
+562442,2nd innings,Pakistan,Sri Lanka,16.2,Azhar Ali,Misbah-ul-Haq,NLTC Perera,0,0,0,NA,0,NA,NA,NA,0
+562442,2nd innings,Pakistan,Sri Lanka,16.3,Azhar Ali,Misbah-ul-Haq,NLTC Perera,0,0,0,NA,0,NA,NA,NA,0
+562442,2nd innings,Pakistan,Sri Lanka,16.4,Azhar Ali,Misbah-ul-Haq,NLTC Perera,0,0,0,NA,0,NA,NA,NA,0
+562442,2nd innings,Pakistan,Sri Lanka,16.5,Azhar Ali,Misbah-ul-Haq,NLTC Perera,0,0,0,NA,0,NA,NA,NA,0
+562442,2nd innings,Pakistan,Sri Lanka,16.6,Azhar Ali,Misbah-ul-Haq,NLTC Perera,0,0,0,NA,0,NA,NA,NA,0
+562442,2nd innings,Pakistan,Sri Lanka,17.1,Misbah-ul-Haq,Azhar Ali,KMDN Kulasekara,4,0,4,NA,0,NA,NA,NA,0
+562442,2nd innings,Pakistan,Sri Lanka,17.2,Misbah-ul-Haq,Azhar Ali,KMDN Kulasekara,0,0,0,NA,0,NA,NA,NA,0
+562442,2nd innings,Pakistan,Sri Lanka,17.3,Misbah-ul-Haq,Azhar Ali,KMDN Kulasekara,0,0,0,NA,0,NA,NA,NA,0
+562442,2nd innings,Pakistan,Sri Lanka,17.4,Misbah-ul-Haq,Azhar Ali,KMDN Kulasekara,0,0,0,NA,0,NA,NA,NA,0
+562442,2nd innings,Pakistan,Sri Lanka,17.5,Misbah-ul-Haq,Azhar Ali,KMDN Kulasekara,0,0,0,NA,0,NA,NA,NA,0
+562442,2nd innings,Pakistan,Sri Lanka,17.6,Misbah-ul-Haq,Azhar Ali,KMDN Kulasekara,0,0,0,NA,0,NA,NA,NA,0
+562442,2nd innings,Pakistan,Sri Lanka,18.1,Azhar Ali,Misbah-ul-Haq,NLTC Perera,1,0,1,NA,0,NA,NA,NA,0
+562442,2nd innings,Pakistan,Sri Lanka,18.2,Misbah-ul-Haq,Azhar Ali,NLTC Perera,0,0,0,NA,0,NA,NA,NA,0
+562442,2nd innings,Pakistan,Sri Lanka,18.3,Misbah-ul-Haq,Azhar Ali,NLTC Perera,0,0,0,NA,0,NA,NA,NA,0
+562442,2nd innings,Pakistan,Sri Lanka,18.4,Misbah-ul-Haq,Azhar Ali,NLTC Perera,0,0,0,NA,0,NA,NA,NA,0
+562442,2nd innings,Pakistan,Sri Lanka,18.5,Misbah-ul-Haq,Azhar Ali,NLTC Perera,1,0,1,NA,0,NA,NA,NA,0
+562442,2nd innings,Pakistan,Sri Lanka,18.6,Azhar Ali,Misbah-ul-Haq,NLTC Perera,0,0,0,NA,0,NA,NA,NA,0
+562442,2nd innings,Pakistan,Sri Lanka,19.1,Misbah-ul-Haq,Azhar Ali,KMDN Kulasekara,1,0,1,NA,0,NA,NA,NA,0
+562442,2nd innings,Pakistan,Sri Lanka,19.2,Azhar Ali,Misbah-ul-Haq,KMDN Kulasekara,0,0,0,NA,0,NA,NA,NA,0
+562442,2nd innings,Pakistan,Sri Lanka,19.3,Azhar Ali,Misbah-ul-Haq,KMDN Kulasekara,4,0,4,NA,0,NA,NA,NA,0
+562442,2nd innings,Pakistan,Sri Lanka,19.4,Azhar Ali,Misbah-ul-Haq,KMDN Kulasekara,1,0,1,NA,0,NA,NA,NA,0
+562442,2nd innings,Pakistan,Sri Lanka,19.5,Misbah-ul-Haq,Azhar Ali,KMDN Kulasekara,2,0,2,NA,0,NA,NA,NA,0
+562442,2nd innings,Pakistan,Sri Lanka,19.6,Misbah-ul-Haq,Azhar Ali,KMDN Kulasekara,0,0,0,NA,0,NA,NA,NA,0
+562442,2nd innings,Pakistan,Sri Lanka,20.1,Azhar Ali,Misbah-ul-Haq,NLTC Perera,1,0,1,NA,0,NA,NA,NA,0
+562442,2nd innings,Pakistan,Sri Lanka,20.2,Misbah-ul-Haq,Azhar Ali,NLTC Perera,4,0,4,NA,0,NA,NA,NA,0
+562442,2nd innings,Pakistan,Sri Lanka,20.3,Misbah-ul-Haq,Azhar Ali,NLTC Perera,0,0,0,NA,0,NA,NA,NA,0
+562442,2nd innings,Pakistan,Sri Lanka,20.4,Misbah-ul-Haq,Azhar Ali,NLTC Perera,0,0,0,NA,0,NA,NA,NA,0
+562442,2nd innings,Pakistan,Sri Lanka,20.5,Misbah-ul-Haq,Azhar Ali,NLTC Perera,0,0,0,NA,0,NA,NA,NA,0
+562442,2nd innings,Pakistan,Sri Lanka,20.6,Misbah-ul-Haq,Azhar Ali,NLTC Perera,0,0,0,NA,0,NA,NA,NA,0
+562442,2nd innings,Pakistan,Sri Lanka,21.1,Azhar Ali,Misbah-ul-Haq,S Weerakoon,0,0,0,NA,0,NA,NA,NA,0
+562442,2nd innings,Pakistan,Sri Lanka,21.2,Azhar Ali,Misbah-ul-Haq,S Weerakoon,1,0,1,NA,0,NA,NA,NA,0
+562442,2nd innings,Pakistan,Sri Lanka,21.3,Misbah-ul-Haq,Azhar Ali,S Weerakoon,1,0,1,NA,0,NA,NA,NA,0
+562442,2nd innings,Pakistan,Sri Lanka,21.4,Azhar Ali,Misbah-ul-Haq,S Weerakoon,1,0,1,NA,0,NA,NA,NA,0
+562442,2nd innings,Pakistan,Sri Lanka,21.5,Misbah-ul-Haq,Azhar Ali,S Weerakoon,1,0,1,NA,0,NA,NA,NA,0
+562442,2nd innings,Pakistan,Sri Lanka,21.6,Azhar Ali,Misbah-ul-Haq,S Weerakoon,0,4,4,wides,0,NA,NA,NA,0
+562442,2nd innings,Pakistan,Sri Lanka,21.7,Misbah-ul-Haq,Azhar Ali,S Weerakoon,0,0,0,NA,0,NA,NA,NA,0
+562442,2nd innings,Pakistan,Sri Lanka,22.1,Azhar Ali,Misbah-ul-Haq,NLTC Perera,0,0,0,NA,0,NA,NA,NA,0
+562442,2nd innings,Pakistan,Sri Lanka,22.2,Azhar Ali,Misbah-ul-Haq,NLTC Perera,0,0,0,NA,0,NA,NA,NA,0
+562442,2nd innings,Pakistan,Sri Lanka,22.3,Azhar Ali,Misbah-ul-Haq,NLTC Perera,0,0,0,NA,0,NA,NA,NA,0
+562442,2nd innings,Pakistan,Sri Lanka,22.4,Azhar Ali,Misbah-ul-Haq,NLTC Perera,1,0,1,NA,0,NA,NA,NA,0
+562442,2nd innings,Pakistan,Sri Lanka,22.5,Misbah-ul-Haq,Azhar Ali,NLTC Perera,1,0,1,NA,0,NA,NA,NA,0
+562442,2nd innings,Pakistan,Sri Lanka,22.6,Azhar Ali,Misbah-ul-Haq,NLTC Perera,0,0,0,NA,0,NA,NA,NA,0
+562442,2nd innings,Pakistan,Sri Lanka,23.1,Misbah-ul-Haq,Azhar Ali,S Weerakoon,1,0,1,NA,0,NA,NA,NA,0
+562442,2nd innings,Pakistan,Sri Lanka,23.2,Azhar Ali,Misbah-ul-Haq,S Weerakoon,0,0,0,NA,0,NA,NA,NA,0
+562442,2nd innings,Pakistan,Sri Lanka,23.3,Azhar Ali,Misbah-ul-Haq,S Weerakoon,2,0,2,NA,0,NA,NA,NA,0
+562442,2nd innings,Pakistan,Sri Lanka,23.4,Azhar Ali,Misbah-ul-Haq,S Weerakoon,1,0,1,NA,0,NA,NA,NA,0
+562442,2nd innings,Pakistan,Sri Lanka,23.5,Misbah-ul-Haq,Azhar Ali,S Weerakoon,1,0,1,NA,0,NA,NA,NA,0
+562442,2nd innings,Pakistan,Sri Lanka,23.6,Azhar Ali,Misbah-ul-Haq,S Weerakoon,0,0,0,NA,0,NA,NA,NA,0
+562442,2nd innings,Pakistan,Sri Lanka,24.1,Misbah-ul-Haq,Azhar Ali,NLTC Perera,0,0,0,NA,0,NA,NA,NA,0
+562442,2nd innings,Pakistan,Sri Lanka,24.2,Misbah-ul-Haq,Azhar Ali,NLTC Perera,4,0,4,NA,0,NA,NA,NA,0
+562442,2nd innings,Pakistan,Sri Lanka,24.3,Misbah-ul-Haq,Azhar Ali,NLTC Perera,0,0,0,NA,0,NA,NA,NA,0
+562442,2nd innings,Pakistan,Sri Lanka,24.4,Misbah-ul-Haq,Azhar Ali,NLTC Perera,0,0,0,NA,0,NA,NA,NA,0
+562442,2nd innings,Pakistan,Sri Lanka,24.5,Misbah-ul-Haq,Azhar Ali,NLTC Perera,0,0,0,NA,0,NA,NA,NA,0
+562442,2nd innings,Pakistan,Sri Lanka,24.6,Misbah-ul-Haq,Azhar Ali,NLTC Perera,1,0,1,NA,0,NA,NA,NA,0
+562442,2nd innings,Pakistan,Sri Lanka,25.1,Misbah-ul-Haq,Azhar Ali,S Weerakoon,1,0,1,NA,0,NA,NA,NA,0
+562442,2nd innings,Pakistan,Sri Lanka,25.2,Azhar Ali,Misbah-ul-Haq,S Weerakoon,1,0,1,NA,0,NA,NA,NA,0
+562442,2nd innings,Pakistan,Sri Lanka,25.3,Misbah-ul-Haq,Azhar Ali,S Weerakoon,1,0,1,NA,0,NA,NA,NA,0
+562442,2nd innings,Pakistan,Sri Lanka,25.4,Azhar Ali,Misbah-ul-Haq,S Weerakoon,1,0,1,NA,0,NA,NA,NA,0
+562442,2nd innings,Pakistan,Sri Lanka,25.5,Misbah-ul-Haq,Azhar Ali,S Weerakoon,0,0,0,NA,0,NA,NA,NA,0
+562442,2nd innings,Pakistan,Sri Lanka,25.6,Misbah-ul-Haq,Azhar Ali,S Weerakoon,1,0,1,NA,0,NA,NA,NA,0
+562442,2nd innings,Pakistan,Sri Lanka,26.1,Misbah-ul-Haq,Azhar Ali,AD Mathews,0,2,2,legbyes,0,NA,NA,NA,0
+562442,2nd innings,Pakistan,Sri Lanka,26.2,Misbah-ul-Haq,Azhar Ali,AD Mathews,1,0,1,NA,0,NA,NA,NA,0
+562442,2nd innings,Pakistan,Sri Lanka,26.3,Azhar Ali,Misbah-ul-Haq,AD Mathews,1,0,1,NA,0,NA,NA,NA,0
+562442,2nd innings,Pakistan,Sri Lanka,26.4,Misbah-ul-Haq,Azhar Ali,AD Mathews,1,0,1,NA,0,NA,NA,NA,0
+562442,2nd innings,Pakistan,Sri Lanka,26.5,Azhar Ali,Misbah-ul-Haq,AD Mathews,0,0,0,NA,0,NA,NA,NA,0
+562442,2nd innings,Pakistan,Sri Lanka,26.6,Azhar Ali,Misbah-ul-Haq,AD Mathews,1,0,1,NA,0,NA,NA,NA,0
+562442,2nd innings,Pakistan,Sri Lanka,27.1,Azhar Ali,Misbah-ul-Haq,S Weerakoon,1,0,1,NA,0,NA,NA,NA,0
+562442,2nd innings,Pakistan,Sri Lanka,27.2,Misbah-ul-Haq,Azhar Ali,S Weerakoon,1,0,1,NA,0,NA,NA,NA,0
+562442,2nd innings,Pakistan,Sri Lanka,27.3,Azhar Ali,Misbah-ul-Haq,S Weerakoon,0,0,0,NA,0,NA,NA,NA,0
+562442,2nd innings,Pakistan,Sri Lanka,27.4,Azhar Ali,Misbah-ul-Haq,S Weerakoon,0,0,0,NA,0,NA,NA,NA,0
+562442,2nd innings,Pakistan,Sri Lanka,27.5,Azhar Ali,Misbah-ul-Haq,S Weerakoon,1,0,1,NA,0,NA,NA,NA,0
+562442,2nd innings,Pakistan,Sri Lanka,27.6,Misbah-ul-Haq,Azhar Ali,S Weerakoon,0,0,0,NA,0,NA,NA,NA,0
+562442,2nd innings,Pakistan,Sri Lanka,28.1,Azhar Ali,Misbah-ul-Haq,AD Mathews,1,0,1,NA,0,NA,NA,NA,0
+562442,2nd innings,Pakistan,Sri Lanka,28.2,Misbah-ul-Haq,Azhar Ali,AD Mathews,1,0,1,NA,0,NA,NA,NA,0
+562442,2nd innings,Pakistan,Sri Lanka,28.3,Azhar Ali,Misbah-ul-Haq,AD Mathews,0,0,0,NA,0,NA,NA,NA,0
+562442,2nd innings,Pakistan,Sri Lanka,28.4,Azhar Ali,Misbah-ul-Haq,AD Mathews,0,1,1,legbyes,0,NA,NA,NA,0
+562442,2nd innings,Pakistan,Sri Lanka,28.5,Misbah-ul-Haq,Azhar Ali,AD Mathews,0,0,0,NA,0,NA,NA,NA,0
+562442,2nd innings,Pakistan,Sri Lanka,28.6,Misbah-ul-Haq,Azhar Ali,AD Mathews,1,0,1,NA,0,NA,NA,NA,0
+562442,2nd innings,Pakistan,Sri Lanka,29.1,Misbah-ul-Haq,Azhar Ali,S Weerakoon,0,0,0,NA,0,NA,NA,NA,0
+562442,2nd innings,Pakistan,Sri Lanka,29.2,Misbah-ul-Haq,Azhar Ali,S Weerakoon,0,0,0,NA,0,NA,NA,NA,0
+562442,2nd innings,Pakistan,Sri Lanka,29.3,Misbah-ul-Haq,Azhar Ali,S Weerakoon,1,0,1,NA,0,NA,NA,NA,0
+562442,2nd innings,Pakistan,Sri Lanka,29.4,Azhar Ali,Misbah-ul-Haq,S Weerakoon,0,0,0,NA,0,NA,NA,NA,0
+562442,2nd innings,Pakistan,Sri Lanka,29.5,Azhar Ali,Misbah-ul-Haq,S Weerakoon,1,0,1,NA,0,NA,NA,NA,0
+562442,2nd innings,Pakistan,Sri Lanka,29.6,Misbah-ul-Haq,Azhar Ali,S Weerakoon,1,0,1,NA,0,NA,NA,NA,0
+562442,2nd innings,Pakistan,Sri Lanka,30.1,Misbah-ul-Haq,Azhar Ali,AD Mathews,1,0,1,NA,0,NA,NA,NA,0
+562442,2nd innings,Pakistan,Sri Lanka,30.2,Azhar Ali,Misbah-ul-Haq,AD Mathews,0,1,1,legbyes,0,NA,NA,NA,0
+562442,2nd innings,Pakistan,Sri Lanka,30.3,Misbah-ul-Haq,Azhar Ali,AD Mathews,0,0,0,NA,0,NA,NA,NA,0
+562442,2nd innings,Pakistan,Sri Lanka,30.4,Misbah-ul-Haq,Azhar Ali,AD Mathews,1,0,1,NA,0,NA,NA,NA,0
+562442,2nd innings,Pakistan,Sri Lanka,30.5,Azhar Ali,Misbah-ul-Haq,AD Mathews,0,0,0,NA,0,NA,NA,NA,0
+562442,2nd innings,Pakistan,Sri Lanka,30.6,Azhar Ali,Misbah-ul-Haq,AD Mathews,0,1,1,legbyes,0,NA,NA,NA,0
+562442,2nd innings,Pakistan,Sri Lanka,31.1,Azhar Ali,Misbah-ul-Haq,S Weerakoon,1,0,1,NA,0,NA,NA,NA,0
+562442,2nd innings,Pakistan,Sri Lanka,31.2,Misbah-ul-Haq,Azhar Ali,S Weerakoon,1,0,1,NA,0,NA,NA,NA,0
+562442,2nd innings,Pakistan,Sri Lanka,31.3,Azhar Ali,Misbah-ul-Haq,S Weerakoon,1,0,1,NA,0,NA,NA,NA,0
+562442,2nd innings,Pakistan,Sri Lanka,31.4,Misbah-ul-Haq,Azhar Ali,S Weerakoon,1,0,1,NA,0,NA,NA,NA,0
+562442,2nd innings,Pakistan,Sri Lanka,31.5,Azhar Ali,Misbah-ul-Haq,S Weerakoon,1,0,1,NA,0,NA,NA,NA,0
+562442,2nd innings,Pakistan,Sri Lanka,31.6,Misbah-ul-Haq,Azhar Ali,S Weerakoon,2,0,2,NA,0,NA,NA,NA,0
+562442,2nd innings,Pakistan,Sri Lanka,32.1,Azhar Ali,Misbah-ul-Haq,AD Mathews,1,0,1,NA,0,NA,NA,NA,0
+562442,2nd innings,Pakistan,Sri Lanka,32.2,Misbah-ul-Haq,Azhar Ali,AD Mathews,0,0,0,NA,0,NA,NA,NA,0
+562442,2nd innings,Pakistan,Sri Lanka,32.3,Misbah-ul-Haq,Azhar Ali,AD Mathews,1,0,1,NA,0,NA,NA,NA,0
+562442,2nd innings,Pakistan,Sri Lanka,32.4,Azhar Ali,Misbah-ul-Haq,AD Mathews,2,0,2,NA,0,NA,NA,NA,0
+562442,2nd innings,Pakistan,Sri Lanka,32.5,Azhar Ali,Misbah-ul-Haq,AD Mathews,1,0,1,NA,0,NA,NA,NA,0
+562442,2nd innings,Pakistan,Sri Lanka,32.6,Misbah-ul-Haq,Azhar Ali,AD Mathews,1,0,1,NA,0,NA,NA,NA,0
+562442,2nd innings,Pakistan,Sri Lanka,33.1,Misbah-ul-Haq,Azhar Ali,S Weerakoon,1,0,1,NA,0,NA,NA,NA,0
+562442,2nd innings,Pakistan,Sri Lanka,33.2,Azhar Ali,Misbah-ul-Haq,S Weerakoon,1,0,1,NA,0,NA,NA,NA,0
+562442,2nd innings,Pakistan,Sri Lanka,33.3,Misbah-ul-Haq,Azhar Ali,S Weerakoon,1,0,1,NA,0,NA,NA,NA,0
+562442,2nd innings,Pakistan,Sri Lanka,33.4,Azhar Ali,Misbah-ul-Haq,S Weerakoon,1,0,1,NA,0,NA,NA,NA,0
+562442,2nd innings,Pakistan,Sri Lanka,33.5,Misbah-ul-Haq,Azhar Ali,S Weerakoon,1,0,1,NA,0,NA,NA,NA,0
+562442,2nd innings,Pakistan,Sri Lanka,33.6,Azhar Ali,Misbah-ul-Haq,S Weerakoon,1,0,1,NA,0,NA,NA,NA,0
+562442,2nd innings,Pakistan,Sri Lanka,34.1,Azhar Ali,Misbah-ul-Haq,NLTC Perera,0,0,0,NA,0,NA,NA,NA,0
+562442,2nd innings,Pakistan,Sri Lanka,34.2,Azhar Ali,Misbah-ul-Haq,NLTC Perera,0,0,0,NA,0,NA,NA,NA,0
+562442,2nd innings,Pakistan,Sri Lanka,34.3,Azhar Ali,Misbah-ul-Haq,NLTC Perera,6,0,6,NA,0,NA,NA,NA,0
+562442,2nd innings,Pakistan,Sri Lanka,34.4,Azhar Ali,Misbah-ul-Haq,NLTC Perera,0,0,0,NA,0,NA,NA,NA,0
+562442,2nd innings,Pakistan,Sri Lanka,34.5,Azhar Ali,Misbah-ul-Haq,NLTC Perera,1,0,1,NA,0,NA,NA,NA,0
+562442,2nd innings,Pakistan,Sri Lanka,34.6,Misbah-ul-Haq,Azhar Ali,NLTC Perera,1,0,1,NA,0,NA,NA,NA,0
+562442,2nd innings,Pakistan,Sri Lanka,35.1,Misbah-ul-Haq,Azhar Ali,SL Malinga,2,0,2,NA,0,NA,NA,NA,0
+562442,2nd innings,Pakistan,Sri Lanka,35.2,Misbah-ul-Haq,Azhar Ali,SL Malinga,0,0,0,NA,0,NA,NA,NA,0
+562442,2nd innings,Pakistan,Sri Lanka,35.3,Misbah-ul-Haq,Azhar Ali,SL Malinga,0,0,0,NA,0,NA,NA,NA,0
+562442,2nd innings,Pakistan,Sri Lanka,35.4,Misbah-ul-Haq,Azhar Ali,SL Malinga,1,0,1,NA,0,NA,NA,NA,0
+562442,2nd innings,Pakistan,Sri Lanka,35.5,Azhar Ali,Misbah-ul-Haq,SL Malinga,1,0,1,NA,0,NA,NA,NA,0
+562442,2nd innings,Pakistan,Sri Lanka,35.6,Misbah-ul-Haq,Azhar Ali,SL Malinga,2,0,2,NA,0,NA,NA,NA,0
+562442,2nd innings,Pakistan,Sri Lanka,36.1,Azhar Ali,Misbah-ul-Haq,KMDN Kulasekara,0,0,0,NA,0,NA,NA,NA,0
+562442,2nd innings,Pakistan,Sri Lanka,36.2,Azhar Ali,Misbah-ul-Haq,KMDN Kulasekara,1,0,1,NA,0,NA,NA,NA,0
+562442,2nd innings,Pakistan,Sri Lanka,36.3,Misbah-ul-Haq,Azhar Ali,KMDN Kulasekara,0,0,0,NA,0,NA,NA,NA,0
+562442,2nd innings,Pakistan,Sri Lanka,36.4,Misbah-ul-Haq,Azhar Ali,KMDN Kulasekara,4,0,4,NA,0,NA,NA,NA,0
+562442,2nd innings,Pakistan,Sri Lanka,36.5,Misbah-ul-Haq,Azhar Ali,KMDN Kulasekara,0,0,0,NA,0,NA,NA,NA,0
+562442,2nd innings,Pakistan,Sri Lanka,36.6,Misbah-ul-Haq,Azhar Ali,KMDN Kulasekara,0,0,0,NA,0,NA,NA,NA,0
+562442,2nd innings,Pakistan,Sri Lanka,37.1,Azhar Ali,Misbah-ul-Haq,SL Malinga,2,0,2,NA,0,NA,NA,NA,0
+562442,2nd innings,Pakistan,Sri Lanka,37.2,Azhar Ali,Misbah-ul-Haq,SL Malinga,1,0,1,NA,0,NA,NA,NA,0
+562442,2nd innings,Pakistan,Sri Lanka,37.3,Misbah-ul-Haq,Azhar Ali,SL Malinga,0,0,0,NA,1,caught,Misbah-ul-Haq,KMDN Kulasekara,0
+562442,2nd innings,Pakistan,Sri Lanka,37.4,Umar Akmal,Azhar Ali,SL Malinga,0,0,0,NA,0,NA,NA,NA,0
+562442,2nd innings,Pakistan,Sri Lanka,37.5,Umar Akmal,Azhar Ali,SL Malinga,0,0,0,NA,0,NA,NA,NA,0
+562442,2nd innings,Pakistan,Sri Lanka,37.6,Umar Akmal,Azhar Ali,SL Malinga,0,0,0,NA,0,NA,NA,NA,0
+562442,2nd innings,Pakistan,Sri Lanka,38.1,Azhar Ali,Umar Akmal,KMDN Kulasekara,0,1,1,wides,0,NA,NA,NA,0
+562442,2nd innings,Pakistan,Sri Lanka,38.2,Azhar Ali,Umar Akmal,KMDN Kulasekara,0,0,0,NA,0,NA,NA,NA,0
+562442,2nd innings,Pakistan,Sri Lanka,38.3,Azhar Ali,Umar Akmal,KMDN Kulasekara,0,1,1,wides,0,NA,NA,NA,0
+562442,2nd innings,Pakistan,Sri Lanka,38.4,Azhar Ali,Umar Akmal,KMDN Kulasekara,0,0,0,NA,0,NA,NA,NA,0
+562442,2nd innings,Pakistan,Sri Lanka,38.5,Azhar Ali,Umar Akmal,KMDN Kulasekara,1,0,1,NA,0,NA,NA,NA,0
+562442,2nd innings,Pakistan,Sri Lanka,38.6,Umar Akmal,Azhar Ali,KMDN Kulasekara,0,0,0,NA,1,caught,Umar Akmal,KC Sangakkara,0
+562442,2nd innings,Pakistan,Sri Lanka,38.7,Younis Khan,Azhar Ali,KMDN Kulasekara,0,0,0,NA,0,NA,NA,NA,0
+562442,2nd innings,Pakistan,Sri Lanka,38.8,Younis Khan,Azhar Ali,KMDN Kulasekara,0,0,0,NA,0,NA,NA,NA,0
+562442,2nd innings,Pakistan,Sri Lanka,39.1,Azhar Ali,Younis Khan,SL Malinga,0,0,0,NA,0,NA,NA,NA,0
+562442,2nd innings,Pakistan,Sri Lanka,39.2,Azhar Ali,Younis Khan,SL Malinga,0,1,1,wides,0,NA,NA,NA,0
+562442,2nd innings,Pakistan,Sri Lanka,39.3,Azhar Ali,Younis Khan,SL Malinga,0,0,0,NA,0,NA,NA,NA,0
+562442,2nd innings,Pakistan,Sri Lanka,39.4,Azhar Ali,Younis Khan,SL Malinga,4,0,4,NA,0,NA,NA,NA,0
+562442,2nd innings,Pakistan,Sri Lanka,39.5,Azhar Ali,Younis Khan,SL Malinga,1,0,1,NA,0,NA,NA,NA,0
+562442,2nd innings,Pakistan,Sri Lanka,39.6,Younis Khan,Azhar Ali,SL Malinga,1,0,1,NA,0,NA,NA,NA,0
+562442,2nd innings,Pakistan,Sri Lanka,39.7,Azhar Ali,Younis Khan,SL Malinga,0,0,0,NA,0,NA,NA,NA,0
+562442,2nd innings,Pakistan,Sri Lanka,40.1,Younis Khan,Azhar Ali,NLTC Perera,0,0,0,NA,0,NA,NA,NA,0
+562442,2nd innings,Pakistan,Sri Lanka,40.2,Younis Khan,Azhar Ali,NLTC Perera,0,0,0,NA,1,caught,Younis Khan,KC Sangakkara,0
+562442,2nd innings,Pakistan,Sri Lanka,40.3,Shahid Afridi,Azhar Ali,NLTC Perera,0,0,0,NA,1,caught,Shahid Afridi,LD Chandimal,0
+562442,2nd innings,Pakistan,Sri Lanka,40.4,Sarfraz Ahmed,Azhar Ali,NLTC Perera,0,0,0,NA,1,caught,Sarfraz Ahmed,DPMD Jayawardene,0
+562442,2nd innings,Pakistan,Sri Lanka,40.5,Sohail Tanvir,Azhar Ali,NLTC Perera,0,0,0,NA,0,NA,NA,NA,0
+562442,2nd innings,Pakistan,Sri Lanka,40.6,Sohail Tanvir,Azhar Ali,NLTC Perera,0,0,0,NA,1,run out,Sohail Tanvir,NLTC Perera,0
+562442,2nd innings,Pakistan,Sri Lanka,41.1,Azhar Ali,Umar Gul,AD Mathews,0,1,1,wides,0,NA,NA,NA,0
+562442,2nd innings,Pakistan,Sri Lanka,41.2,Azhar Ali,Umar Gul,AD Mathews,1,0,1,NA,0,NA,NA,NA,0
+562442,2nd innings,Pakistan,Sri Lanka,41.3,Umar Gul,Azhar Ali,AD Mathews,0,1,1,wides,0,NA,NA,NA,0
+562442,2nd innings,Pakistan,Sri Lanka,41.4,Umar Gul,Azhar Ali,AD Mathews,0,0,0,NA,1,caught,Umar Gul,KC Sangakkara,0
+562442,2nd innings,Pakistan,Sri Lanka,41.5,Saeed Ajmal,Azhar Ali,AD Mathews,0,0,0,NA,0,NA,NA,NA,0
+562442,2nd innings,Pakistan,Sri Lanka,41.6,Saeed Ajmal,Azhar Ali,AD Mathews,1,0,1,NA,0,NA,NA,NA,0
+562442,2nd innings,Pakistan,Sri Lanka,41.7,Azhar Ali,Saeed Ajmal,AD Mathews,1,0,1,NA,0,NA,NA,NA,0
+562442,2nd innings,Pakistan,Sri Lanka,41.8,Saeed Ajmal,Azhar Ali,AD Mathews,0,0,0,NA,0,NA,NA,NA,0
+562442,2nd innings,Pakistan,Sri Lanka,42.1,Azhar Ali,Saeed Ajmal,NLTC Perera,1,0,1,NA,0,NA,NA,NA,0
+562442,2nd innings,Pakistan,Sri Lanka,42.2,Saeed Ajmal,Azhar Ali,NLTC Perera,1,0,1,NA,0,NA,NA,NA,0
+562442,2nd innings,Pakistan,Sri Lanka,42.3,Azhar Ali,Saeed Ajmal,NLTC Perera,1,0,1,NA,0,NA,NA,NA,0
+562442,2nd innings,Pakistan,Sri Lanka,42.4,Saeed Ajmal,Azhar Ali,NLTC Perera,1,0,1,NA,0,NA,NA,NA,0
+562442,2nd innings,Pakistan,Sri Lanka,42.5,Azhar Ali,Saeed Ajmal,NLTC Perera,0,1,1,wides,0,NA,NA,NA,0
+562442,2nd innings,Pakistan,Sri Lanka,42.6,Azhar Ali,Saeed Ajmal,NLTC Perera,1,0,1,NA,0,NA,NA,NA,0
+562442,2nd innings,Pakistan,Sri Lanka,42.7,Saeed Ajmal,Azhar Ali,NLTC Perera,2,0,2,NA,0,NA,NA,NA,0
+562442,2nd innings,Pakistan,Sri Lanka,43.1,Azhar Ali,Saeed Ajmal,SL Malinga,0,0,0,NA,0,NA,NA,NA,0
+562442,2nd innings,Pakistan,Sri Lanka,43.2,Azhar Ali,Saeed Ajmal,SL Malinga,1,0,1,NA,0,NA,NA,NA,0
+562442,2nd innings,Pakistan,Sri Lanka,43.3,Saeed Ajmal,Azhar Ali,SL Malinga,0,0,0,NA,0,NA,NA,NA,0
+562442,2nd innings,Pakistan,Sri Lanka,43.4,Saeed Ajmal,Azhar Ali,SL Malinga,1,0,1,NA,0,NA,NA,NA,0
+562442,2nd innings,Pakistan,Sri Lanka,43.5,Azhar Ali,Saeed Ajmal,SL Malinga,1,0,1,NA,0,NA,NA,NA,0
+562442,2nd innings,Pakistan,Sri Lanka,43.6,Saeed Ajmal,Azhar Ali,SL Malinga,1,0,1,NA,0,NA,NA,NA,0
+562442,2nd innings,Pakistan,Sri Lanka,44.1,Saeed Ajmal,Azhar Ali,NLTC Perera,4,0,4,NA,0,NA,NA,NA,0
+562442,2nd innings,Pakistan,Sri Lanka,44.2,Saeed Ajmal,Azhar Ali,NLTC Perera,1,0,1,NA,0,NA,NA,NA,0
+562442,2nd innings,Pakistan,Sri Lanka,44.3,Azhar Ali,Saeed Ajmal,NLTC Perera,1,0,1,NA,0,NA,NA,NA,0
+562442,2nd innings,Pakistan,Sri Lanka,44.4,Saeed Ajmal,Azhar Ali,NLTC Perera,0,0,0,NA,0,NA,NA,NA,0
+562442,2nd innings,Pakistan,Sri Lanka,44.5,Saeed Ajmal,Azhar Ali,NLTC Perera,0,0,0,NA,0,NA,NA,NA,0
+562442,2nd innings,Pakistan,Sri Lanka,44.6,Saeed Ajmal,Azhar Ali,NLTC Perera,0,0,0,NA,1,caught,Saeed Ajmal,HDRL Thirimanne,0

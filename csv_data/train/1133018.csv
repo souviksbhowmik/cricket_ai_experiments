@@ -1,0 +1,605 @@
+match_id,innings,team,opponent,ball,batsman,non_striker,bowler,scored_runs,extras,total,extra_type,wicket,wicket_type,player_out,fielders,winner
+1133018,1st innings,West Indies,Afghanistan,0.1,CH Gayle,E Lewis,Dawlat Zadran,0,0,0,NA,0,NA,NA,NA,0
+1133018,1st innings,West Indies,Afghanistan,0.2,CH Gayle,E Lewis,Dawlat Zadran,0,0,0,NA,0,NA,NA,NA,0
+1133018,1st innings,West Indies,Afghanistan,0.3,CH Gayle,E Lewis,Dawlat Zadran,1,0,1,NA,0,NA,NA,NA,0
+1133018,1st innings,West Indies,Afghanistan,0.4,E Lewis,CH Gayle,Dawlat Zadran,0,0,0,NA,0,NA,NA,NA,0
+1133018,1st innings,West Indies,Afghanistan,0.5,E Lewis,CH Gayle,Dawlat Zadran,1,0,1,NA,0,NA,NA,NA,0
+1133018,1st innings,West Indies,Afghanistan,0.6,CH Gayle,E Lewis,Dawlat Zadran,0,0,0,NA,0,NA,NA,NA,0
+1133018,1st innings,West Indies,Afghanistan,1.1,E Lewis,CH Gayle,Mujeeb Ur Rahman,0,0,0,NA,0,NA,NA,NA,0
+1133018,1st innings,West Indies,Afghanistan,1.2,E Lewis,CH Gayle,Mujeeb Ur Rahman,0,1,1,wides,0,NA,NA,NA,0
+1133018,1st innings,West Indies,Afghanistan,1.3,E Lewis,CH Gayle,Mujeeb Ur Rahman,2,0,2,NA,0,NA,NA,NA,0
+1133018,1st innings,West Indies,Afghanistan,1.4,E Lewis,CH Gayle,Mujeeb Ur Rahman,0,0,0,NA,0,NA,NA,NA,0
+1133018,1st innings,West Indies,Afghanistan,1.5,E Lewis,CH Gayle,Mujeeb Ur Rahman,0,0,0,NA,0,NA,NA,NA,0
+1133018,1st innings,West Indies,Afghanistan,1.6,E Lewis,CH Gayle,Mujeeb Ur Rahman,1,0,1,NA,0,NA,NA,NA,0
+1133018,1st innings,West Indies,Afghanistan,1.7,CH Gayle,E Lewis,Mujeeb Ur Rahman,0,0,0,NA,0,NA,NA,NA,0
+1133018,1st innings,West Indies,Afghanistan,2.1,E Lewis,CH Gayle,Dawlat Zadran,4,0,4,NA,0,NA,NA,NA,0
+1133018,1st innings,West Indies,Afghanistan,2.2,E Lewis,CH Gayle,Dawlat Zadran,0,0,0,NA,0,NA,NA,NA,0
+1133018,1st innings,West Indies,Afghanistan,2.3,E Lewis,CH Gayle,Dawlat Zadran,1,0,1,NA,0,NA,NA,NA,0
+1133018,1st innings,West Indies,Afghanistan,2.4,CH Gayle,E Lewis,Dawlat Zadran,0,0,0,NA,0,NA,NA,NA,0
+1133018,1st innings,West Indies,Afghanistan,2.5,CH Gayle,E Lewis,Dawlat Zadran,0,0,0,NA,0,NA,NA,NA,0
+1133018,1st innings,West Indies,Afghanistan,2.6,CH Gayle,E Lewis,Dawlat Zadran,0,0,0,NA,0,NA,NA,NA,0
+1133018,1st innings,West Indies,Afghanistan,3.1,E Lewis,CH Gayle,Mujeeb Ur Rahman,1,0,1,NA,0,NA,NA,NA,0
+1133018,1st innings,West Indies,Afghanistan,3.2,CH Gayle,E Lewis,Mujeeb Ur Rahman,0,0,0,NA,1,bowled,CH Gayle,NA,0
+1133018,1st innings,West Indies,Afghanistan,3.3,SO Hetmyer,E Lewis,Mujeeb Ur Rahman,1,0,1,NA,0,NA,NA,NA,0
+1133018,1st innings,West Indies,Afghanistan,3.4,E Lewis,SO Hetmyer,Mujeeb Ur Rahman,0,0,0,NA,0,NA,NA,NA,0
+1133018,1st innings,West Indies,Afghanistan,3.5,E Lewis,SO Hetmyer,Mujeeb Ur Rahman,0,0,0,NA,0,NA,NA,NA,0
+1133018,1st innings,West Indies,Afghanistan,3.6,E Lewis,SO Hetmyer,Mujeeb Ur Rahman,0,0,0,NA,0,NA,NA,NA,0
+1133018,1st innings,West Indies,Afghanistan,4.1,SO Hetmyer,E Lewis,Dawlat Zadran,0,0,0,NA,0,NA,NA,NA,0
+1133018,1st innings,West Indies,Afghanistan,4.2,SO Hetmyer,E Lewis,Dawlat Zadran,3,0,3,NA,0,NA,NA,NA,0
+1133018,1st innings,West Indies,Afghanistan,4.3,E Lewis,SO Hetmyer,Dawlat Zadran,1,0,1,NA,0,NA,NA,NA,0
+1133018,1st innings,West Indies,Afghanistan,4.4,SO Hetmyer,E Lewis,Dawlat Zadran,0,0,0,NA,0,NA,NA,NA,0
+1133018,1st innings,West Indies,Afghanistan,4.5,SO Hetmyer,E Lewis,Dawlat Zadran,0,0,0,NA,0,NA,NA,NA,0
+1133018,1st innings,West Indies,Afghanistan,4.6,SO Hetmyer,E Lewis,Dawlat Zadran,0,0,0,NA,0,NA,NA,NA,0
+1133018,1st innings,West Indies,Afghanistan,5.1,E Lewis,SO Hetmyer,Mujeeb Ur Rahman,0,0,0,NA,0,NA,NA,NA,0
+1133018,1st innings,West Indies,Afghanistan,5.2,E Lewis,SO Hetmyer,Mujeeb Ur Rahman,0,0,0,NA,0,NA,NA,NA,0
+1133018,1st innings,West Indies,Afghanistan,5.3,E Lewis,SO Hetmyer,Mujeeb Ur Rahman,0,0,0,NA,0,NA,NA,NA,0
+1133018,1st innings,West Indies,Afghanistan,5.4,E Lewis,SO Hetmyer,Mujeeb Ur Rahman,0,0,0,NA,0,NA,NA,NA,0
+1133018,1st innings,West Indies,Afghanistan,5.5,E Lewis,SO Hetmyer,Mujeeb Ur Rahman,0,0,0,NA,0,NA,NA,NA,0
+1133018,1st innings,West Indies,Afghanistan,5.6,E Lewis,SO Hetmyer,Mujeeb Ur Rahman,0,0,0,NA,0,NA,NA,NA,0
+1133018,1st innings,West Indies,Afghanistan,6.1,SO Hetmyer,E Lewis,Dawlat Zadran,0,0,0,NA,0,NA,NA,NA,0
+1133018,1st innings,West Indies,Afghanistan,6.2,SO Hetmyer,E Lewis,Dawlat Zadran,0,1,1,legbyes,0,NA,NA,NA,0
+1133018,1st innings,West Indies,Afghanistan,6.3,E Lewis,SO Hetmyer,Dawlat Zadran,0,0,0,NA,0,NA,NA,NA,0
+1133018,1st innings,West Indies,Afghanistan,6.4,E Lewis,SO Hetmyer,Dawlat Zadran,0,0,0,NA,0,NA,NA,NA,0
+1133018,1st innings,West Indies,Afghanistan,6.5,E Lewis,SO Hetmyer,Dawlat Zadran,0,0,0,NA,0,NA,NA,NA,0
+1133018,1st innings,West Indies,Afghanistan,6.6,E Lewis,SO Hetmyer,Dawlat Zadran,0,0,0,NA,0,NA,NA,NA,0
+1133018,1st innings,West Indies,Afghanistan,7.1,SO Hetmyer,E Lewis,Mujeeb Ur Rahman,0,0,0,NA,0,NA,NA,NA,0
+1133018,1st innings,West Indies,Afghanistan,7.2,SO Hetmyer,E Lewis,Mujeeb Ur Rahman,0,0,0,NA,0,NA,NA,NA,0
+1133018,1st innings,West Indies,Afghanistan,7.3,SO Hetmyer,E Lewis,Mujeeb Ur Rahman,2,0,2,NA,0,NA,NA,NA,0
+1133018,1st innings,West Indies,Afghanistan,7.4,SO Hetmyer,E Lewis,Mujeeb Ur Rahman,0,0,0,NA,0,NA,NA,NA,0
+1133018,1st innings,West Indies,Afghanistan,7.5,SO Hetmyer,E Lewis,Mujeeb Ur Rahman,1,0,1,NA,0,NA,NA,NA,0
+1133018,1st innings,West Indies,Afghanistan,7.6,E Lewis,SO Hetmyer,Mujeeb Ur Rahman,0,1,1,wides,0,NA,NA,NA,0
+1133018,1st innings,West Indies,Afghanistan,7.7,E Lewis,SO Hetmyer,Mujeeb Ur Rahman,4,0,4,NA,0,NA,NA,NA,0
+1133018,1st innings,West Indies,Afghanistan,8.1,SO Hetmyer,E Lewis,Dawlat Zadran,0,0,0,NA,0,NA,NA,NA,0
+1133018,1st innings,West Indies,Afghanistan,8.2,SO Hetmyer,E Lewis,Dawlat Zadran,1,0,1,NA,0,NA,NA,NA,0
+1133018,1st innings,West Indies,Afghanistan,8.3,E Lewis,SO Hetmyer,Dawlat Zadran,0,0,0,NA,0,NA,NA,NA,0
+1133018,1st innings,West Indies,Afghanistan,8.4,E Lewis,SO Hetmyer,Dawlat Zadran,4,0,4,NA,0,NA,NA,NA,0
+1133018,1st innings,West Indies,Afghanistan,8.5,E Lewis,SO Hetmyer,Dawlat Zadran,4,0,4,NA,0,NA,NA,NA,0
+1133018,1st innings,West Indies,Afghanistan,8.6,E Lewis,SO Hetmyer,Dawlat Zadran,0,0,0,NA,0,NA,NA,NA,0
+1133018,1st innings,West Indies,Afghanistan,9.1,SO Hetmyer,E Lewis,Mujeeb Ur Rahman,0,0,0,NA,0,NA,NA,NA,0
+1133018,1st innings,West Indies,Afghanistan,9.2,SO Hetmyer,E Lewis,Mujeeb Ur Rahman,4,0,4,NA,0,NA,NA,NA,0
+1133018,1st innings,West Indies,Afghanistan,9.3,SO Hetmyer,E Lewis,Mujeeb Ur Rahman,1,0,1,NA,0,NA,NA,NA,0
+1133018,1st innings,West Indies,Afghanistan,9.4,E Lewis,SO Hetmyer,Mujeeb Ur Rahman,0,0,0,NA,0,NA,NA,NA,0
+1133018,1st innings,West Indies,Afghanistan,9.5,E Lewis,SO Hetmyer,Mujeeb Ur Rahman,0,0,0,NA,0,NA,NA,NA,0
+1133018,1st innings,West Indies,Afghanistan,9.6,E Lewis,SO Hetmyer,Mujeeb Ur Rahman,2,0,2,NA,0,NA,NA,NA,0
+1133018,1st innings,West Indies,Afghanistan,10.1,SO Hetmyer,E Lewis,Gulbadin Naib,1,0,1,NA,0,NA,NA,NA,0
+1133018,1st innings,West Indies,Afghanistan,10.2,E Lewis,SO Hetmyer,Gulbadin Naib,0,0,0,NA,0,NA,NA,NA,0
+1133018,1st innings,West Indies,Afghanistan,10.3,E Lewis,SO Hetmyer,Gulbadin Naib,1,0,1,NA,0,NA,NA,NA,0
+1133018,1st innings,West Indies,Afghanistan,10.4,SO Hetmyer,E Lewis,Gulbadin Naib,0,0,0,NA,0,NA,NA,NA,0
+1133018,1st innings,West Indies,Afghanistan,10.5,SO Hetmyer,E Lewis,Gulbadin Naib,1,0,1,NA,0,NA,NA,NA,0
+1133018,1st innings,West Indies,Afghanistan,10.6,E Lewis,SO Hetmyer,Gulbadin Naib,0,1,1,wides,0,NA,NA,NA,0
+1133018,1st innings,West Indies,Afghanistan,10.7,E Lewis,SO Hetmyer,Gulbadin Naib,0,0,0,NA,0,NA,NA,NA,0
+1133018,1st innings,West Indies,Afghanistan,11.1,SO Hetmyer,E Lewis,Mohammad Nabi,0,0,0,NA,1,lbw,SO Hetmyer,NA,0
+1133018,1st innings,West Indies,Afghanistan,11.2,MN Samuels,E Lewis,Mohammad Nabi,0,0,0,NA,0,NA,NA,NA,0
+1133018,1st innings,West Indies,Afghanistan,11.3,MN Samuels,E Lewis,Mohammad Nabi,0,0,0,NA,0,NA,NA,NA,0
+1133018,1st innings,West Indies,Afghanistan,11.4,MN Samuels,E Lewis,Mohammad Nabi,2,0,2,NA,0,NA,NA,NA,0
+1133018,1st innings,West Indies,Afghanistan,11.5,MN Samuels,E Lewis,Mohammad Nabi,2,0,2,NA,0,NA,NA,NA,0
+1133018,1st innings,West Indies,Afghanistan,11.6,MN Samuels,E Lewis,Mohammad Nabi,0,0,0,NA,0,NA,NA,NA,0
+1133018,1st innings,West Indies,Afghanistan,12.1,E Lewis,MN Samuels,Gulbadin Naib,1,0,1,NA,0,NA,NA,NA,0
+1133018,1st innings,West Indies,Afghanistan,12.2,MN Samuels,E Lewis,Gulbadin Naib,0,0,0,NA,0,NA,NA,NA,0
+1133018,1st innings,West Indies,Afghanistan,12.3,MN Samuels,E Lewis,Gulbadin Naib,0,0,0,NA,0,NA,NA,NA,0
+1133018,1st innings,West Indies,Afghanistan,12.4,MN Samuels,E Lewis,Gulbadin Naib,2,0,2,NA,0,NA,NA,NA,0
+1133018,1st innings,West Indies,Afghanistan,12.5,MN Samuels,E Lewis,Gulbadin Naib,0,0,0,NA,1,run out,E Lewis,NA,0
+1133018,1st innings,West Indies,Afghanistan,12.6,SD Hope,MN Samuels,Gulbadin Naib,0,1,1,wides,0,NA,NA,NA,0
+1133018,1st innings,West Indies,Afghanistan,12.7,SD Hope,MN Samuels,Gulbadin Naib,0,0,0,NA,0,NA,NA,NA,0
+1133018,1st innings,West Indies,Afghanistan,13.1,MN Samuels,SD Hope,Mohammad Nabi,0,0,0,NA,0,NA,NA,NA,0
+1133018,1st innings,West Indies,Afghanistan,13.2,MN Samuels,SD Hope,Mohammad Nabi,0,0,0,NA,0,NA,NA,NA,0
+1133018,1st innings,West Indies,Afghanistan,13.3,MN Samuels,SD Hope,Mohammad Nabi,0,0,0,NA,0,NA,NA,NA,0
+1133018,1st innings,West Indies,Afghanistan,13.4,MN Samuels,SD Hope,Mohammad Nabi,0,0,0,NA,0,NA,NA,NA,0
+1133018,1st innings,West Indies,Afghanistan,13.5,MN Samuels,SD Hope,Mohammad Nabi,0,0,0,NA,0,NA,NA,NA,0
+1133018,1st innings,West Indies,Afghanistan,13.6,MN Samuels,SD Hope,Mohammad Nabi,0,0,0,NA,0,NA,NA,NA,0
+1133018,1st innings,West Indies,Afghanistan,14.1,SD Hope,MN Samuels,Gulbadin Naib,0,0,0,NA,0,NA,NA,NA,0
+1133018,1st innings,West Indies,Afghanistan,14.2,SD Hope,MN Samuels,Gulbadin Naib,1,0,1,NA,0,NA,NA,NA,0
+1133018,1st innings,West Indies,Afghanistan,14.3,MN Samuels,SD Hope,Gulbadin Naib,1,0,1,NA,0,NA,NA,NA,0
+1133018,1st innings,West Indies,Afghanistan,14.4,SD Hope,MN Samuels,Gulbadin Naib,0,0,0,NA,0,NA,NA,NA,0
+1133018,1st innings,West Indies,Afghanistan,14.5,SD Hope,MN Samuels,Gulbadin Naib,0,0,0,NA,0,NA,NA,NA,0
+1133018,1st innings,West Indies,Afghanistan,14.6,SD Hope,MN Samuels,Gulbadin Naib,1,0,1,NA,0,NA,NA,NA,0
+1133018,1st innings,West Indies,Afghanistan,15.1,SD Hope,MN Samuels,Sharafuddin Ashraf,1,0,1,NA,0,NA,NA,NA,0
+1133018,1st innings,West Indies,Afghanistan,15.2,MN Samuels,SD Hope,Sharafuddin Ashraf,0,0,0,NA,0,NA,NA,NA,0
+1133018,1st innings,West Indies,Afghanistan,15.3,MN Samuels,SD Hope,Sharafuddin Ashraf,0,0,0,NA,0,NA,NA,NA,0
+1133018,1st innings,West Indies,Afghanistan,15.4,MN Samuels,SD Hope,Sharafuddin Ashraf,0,0,0,NA,0,NA,NA,NA,0
+1133018,1st innings,West Indies,Afghanistan,15.5,MN Samuels,SD Hope,Sharafuddin Ashraf,1,0,1,NA,0,NA,NA,NA,0
+1133018,1st innings,West Indies,Afghanistan,15.6,SD Hope,MN Samuels,Sharafuddin Ashraf,0,0,0,NA,0,NA,NA,NA,0
+1133018,1st innings,West Indies,Afghanistan,16.1,MN Samuels,SD Hope,Mohammad Nabi,1,0,1,NA,0,NA,NA,NA,0
+1133018,1st innings,West Indies,Afghanistan,16.2,SD Hope,MN Samuels,Mohammad Nabi,0,0,0,NA,0,NA,NA,NA,0
+1133018,1st innings,West Indies,Afghanistan,16.3,SD Hope,MN Samuels,Mohammad Nabi,1,0,1,NA,0,NA,NA,NA,0
+1133018,1st innings,West Indies,Afghanistan,16.4,MN Samuels,SD Hope,Mohammad Nabi,1,0,1,NA,0,NA,NA,NA,0
+1133018,1st innings,West Indies,Afghanistan,16.5,SD Hope,MN Samuels,Mohammad Nabi,0,0,0,NA,0,NA,NA,NA,0
+1133018,1st innings,West Indies,Afghanistan,16.6,SD Hope,MN Samuels,Mohammad Nabi,1,0,1,NA,0,NA,NA,NA,0
+1133018,1st innings,West Indies,Afghanistan,17.1,SD Hope,MN Samuels,Sharafuddin Ashraf,0,0,0,NA,0,NA,NA,NA,0
+1133018,1st innings,West Indies,Afghanistan,17.2,SD Hope,MN Samuels,Sharafuddin Ashraf,0,0,0,NA,0,NA,NA,NA,0
+1133018,1st innings,West Indies,Afghanistan,17.3,SD Hope,MN Samuels,Sharafuddin Ashraf,1,0,1,NA,0,NA,NA,NA,0
+1133018,1st innings,West Indies,Afghanistan,17.4,MN Samuels,SD Hope,Sharafuddin Ashraf,0,0,0,NA,0,NA,NA,NA,0
+1133018,1st innings,West Indies,Afghanistan,17.5,MN Samuels,SD Hope,Sharafuddin Ashraf,0,0,0,NA,0,NA,NA,NA,0
+1133018,1st innings,West Indies,Afghanistan,17.6,MN Samuels,SD Hope,Sharafuddin Ashraf,0,0,0,NA,0,NA,NA,NA,0
+1133018,1st innings,West Indies,Afghanistan,18.1,SD Hope,MN Samuels,Mujeeb Ur Rahman,1,0,1,NA,0,NA,NA,NA,0
+1133018,1st innings,West Indies,Afghanistan,18.2,MN Samuels,SD Hope,Mujeeb Ur Rahman,1,0,1,NA,0,NA,NA,NA,0
+1133018,1st innings,West Indies,Afghanistan,18.3,SD Hope,MN Samuels,Mujeeb Ur Rahman,0,0,0,NA,0,NA,NA,NA,0
+1133018,1st innings,West Indies,Afghanistan,18.4,SD Hope,MN Samuels,Mujeeb Ur Rahman,0,0,0,NA,0,NA,NA,NA,0
+1133018,1st innings,West Indies,Afghanistan,18.5,SD Hope,MN Samuels,Mujeeb Ur Rahman,0,0,0,NA,0,NA,NA,NA,0
+1133018,1st innings,West Indies,Afghanistan,18.6,SD Hope,MN Samuels,Mujeeb Ur Rahman,0,0,0,NA,0,NA,NA,NA,0
+1133018,1st innings,West Indies,Afghanistan,19.1,MN Samuels,SD Hope,Sharafuddin Ashraf,0,0,0,NA,0,NA,NA,NA,0
+1133018,1st innings,West Indies,Afghanistan,19.2,MN Samuels,SD Hope,Sharafuddin Ashraf,0,0,0,NA,0,NA,NA,NA,0
+1133018,1st innings,West Indies,Afghanistan,19.3,MN Samuels,SD Hope,Sharafuddin Ashraf,0,0,0,NA,0,NA,NA,NA,0
+1133018,1st innings,West Indies,Afghanistan,19.4,MN Samuels,SD Hope,Sharafuddin Ashraf,0,0,0,NA,0,NA,NA,NA,0
+1133018,1st innings,West Indies,Afghanistan,19.5,MN Samuels,SD Hope,Sharafuddin Ashraf,0,0,0,NA,0,NA,NA,NA,0
+1133018,1st innings,West Indies,Afghanistan,19.6,MN Samuels,SD Hope,Sharafuddin Ashraf,0,0,0,NA,0,NA,NA,NA,0
+1133018,1st innings,West Indies,Afghanistan,20.1,SD Hope,MN Samuels,Mujeeb Ur Rahman,0,0,0,NA,0,NA,NA,NA,0
+1133018,1st innings,West Indies,Afghanistan,20.2,SD Hope,MN Samuels,Mujeeb Ur Rahman,0,0,0,NA,0,NA,NA,NA,0
+1133018,1st innings,West Indies,Afghanistan,20.3,SD Hope,MN Samuels,Mujeeb Ur Rahman,0,0,0,NA,0,NA,NA,NA,0
+1133018,1st innings,West Indies,Afghanistan,20.4,SD Hope,MN Samuels,Mujeeb Ur Rahman,1,0,1,NA,0,NA,NA,NA,0
+1133018,1st innings,West Indies,Afghanistan,20.5,MN Samuels,SD Hope,Mujeeb Ur Rahman,1,0,1,NA,0,NA,NA,NA,0
+1133018,1st innings,West Indies,Afghanistan,20.6,SD Hope,MN Samuels,Mujeeb Ur Rahman,1,0,1,NA,0,NA,NA,NA,0
+1133018,1st innings,West Indies,Afghanistan,21.1,SD Hope,MN Samuels,Sharafuddin Ashraf,0,0,0,NA,0,NA,NA,NA,0
+1133018,1st innings,West Indies,Afghanistan,21.2,SD Hope,MN Samuels,Sharafuddin Ashraf,0,0,0,NA,0,NA,NA,NA,0
+1133018,1st innings,West Indies,Afghanistan,21.3,SD Hope,MN Samuels,Sharafuddin Ashraf,2,0,2,NA,0,NA,NA,NA,0
+1133018,1st innings,West Indies,Afghanistan,21.4,SD Hope,MN Samuels,Sharafuddin Ashraf,0,0,0,NA,0,NA,NA,NA,0
+1133018,1st innings,West Indies,Afghanistan,21.5,SD Hope,MN Samuels,Sharafuddin Ashraf,1,0,1,NA,0,NA,NA,NA,0
+1133018,1st innings,West Indies,Afghanistan,21.6,MN Samuels,SD Hope,Sharafuddin Ashraf,4,0,4,NA,0,NA,NA,NA,0
+1133018,1st innings,West Indies,Afghanistan,22.1,SD Hope,MN Samuels,Rashid Khan,0,0,0,NA,0,NA,NA,NA,0
+1133018,1st innings,West Indies,Afghanistan,22.2,SD Hope,MN Samuels,Rashid Khan,0,0,0,NA,0,NA,NA,NA,0
+1133018,1st innings,West Indies,Afghanistan,22.3,SD Hope,MN Samuels,Rashid Khan,1,0,1,NA,0,NA,NA,NA,0
+1133018,1st innings,West Indies,Afghanistan,22.4,MN Samuels,SD Hope,Rashid Khan,0,0,0,NA,0,NA,NA,NA,0
+1133018,1st innings,West Indies,Afghanistan,22.5,MN Samuels,SD Hope,Rashid Khan,1,0,1,NA,0,NA,NA,NA,0
+1133018,1st innings,West Indies,Afghanistan,22.6,SD Hope,MN Samuels,Rashid Khan,0,0,0,NA,0,NA,NA,NA,0
+1133018,1st innings,West Indies,Afghanistan,23.1,MN Samuels,SD Hope,Sharafuddin Ashraf,0,0,0,NA,0,NA,NA,NA,0
+1133018,1st innings,West Indies,Afghanistan,23.2,MN Samuels,SD Hope,Sharafuddin Ashraf,2,0,2,NA,0,NA,NA,NA,0
+1133018,1st innings,West Indies,Afghanistan,23.3,MN Samuels,SD Hope,Sharafuddin Ashraf,0,0,0,NA,0,NA,NA,NA,0
+1133018,1st innings,West Indies,Afghanistan,23.4,MN Samuels,SD Hope,Sharafuddin Ashraf,0,0,0,NA,0,NA,NA,NA,0
+1133018,1st innings,West Indies,Afghanistan,23.5,MN Samuels,SD Hope,Sharafuddin Ashraf,0,0,0,NA,0,NA,NA,NA,0
+1133018,1st innings,West Indies,Afghanistan,23.6,MN Samuels,SD Hope,Sharafuddin Ashraf,0,0,0,NA,0,NA,NA,NA,0
+1133018,1st innings,West Indies,Afghanistan,24.1,SD Hope,MN Samuels,Rashid Khan,1,0,1,NA,0,NA,NA,NA,0
+1133018,1st innings,West Indies,Afghanistan,24.2,MN Samuels,SD Hope,Rashid Khan,2,0,2,NA,0,NA,NA,NA,0
+1133018,1st innings,West Indies,Afghanistan,24.3,MN Samuels,SD Hope,Rashid Khan,0,0,0,NA,0,NA,NA,NA,0
+1133018,1st innings,West Indies,Afghanistan,24.4,MN Samuels,SD Hope,Rashid Khan,0,0,0,NA,0,NA,NA,NA,0
+1133018,1st innings,West Indies,Afghanistan,24.5,MN Samuels,SD Hope,Rashid Khan,0,0,0,NA,0,NA,NA,NA,0
+1133018,1st innings,West Indies,Afghanistan,24.6,MN Samuels,SD Hope,Rashid Khan,0,0,0,NA,0,NA,NA,NA,0
+1133018,1st innings,West Indies,Afghanistan,25.1,SD Hope,MN Samuels,Sharafuddin Ashraf,0,0,0,NA,0,NA,NA,NA,0
+1133018,1st innings,West Indies,Afghanistan,25.2,SD Hope,MN Samuels,Sharafuddin Ashraf,1,0,1,NA,0,NA,NA,NA,0
+1133018,1st innings,West Indies,Afghanistan,25.3,MN Samuels,SD Hope,Sharafuddin Ashraf,0,0,0,NA,0,NA,NA,NA,0
+1133018,1st innings,West Indies,Afghanistan,25.4,MN Samuels,SD Hope,Sharafuddin Ashraf,3,0,3,NA,0,NA,NA,NA,0
+1133018,1st innings,West Indies,Afghanistan,25.5,SD Hope,MN Samuels,Sharafuddin Ashraf,1,0,1,NA,0,NA,NA,NA,0
+1133018,1st innings,West Indies,Afghanistan,25.6,MN Samuels,SD Hope,Sharafuddin Ashraf,0,0,0,NA,0,NA,NA,NA,0
+1133018,1st innings,West Indies,Afghanistan,26.1,SD Hope,MN Samuels,Rashid Khan,0,0,0,NA,0,NA,NA,NA,0
+1133018,1st innings,West Indies,Afghanistan,26.2,SD Hope,MN Samuels,Rashid Khan,1,0,1,NA,0,NA,NA,NA,0
+1133018,1st innings,West Indies,Afghanistan,26.3,MN Samuels,SD Hope,Rashid Khan,1,0,1,NA,0,NA,NA,NA,0
+1133018,1st innings,West Indies,Afghanistan,26.4,SD Hope,MN Samuels,Rashid Khan,0,1,1,wides,0,NA,NA,NA,0
+1133018,1st innings,West Indies,Afghanistan,26.5,SD Hope,MN Samuels,Rashid Khan,1,0,1,NA,0,NA,NA,NA,0
+1133018,1st innings,West Indies,Afghanistan,26.6,MN Samuels,SD Hope,Rashid Khan,1,0,1,NA,0,NA,NA,NA,0
+1133018,1st innings,West Indies,Afghanistan,26.7,SD Hope,MN Samuels,Rashid Khan,0,0,0,NA,0,NA,NA,NA,0
+1133018,1st innings,West Indies,Afghanistan,27.1,MN Samuels,SD Hope,Sharafuddin Ashraf,1,0,1,NA,0,NA,NA,NA,0
+1133018,1st innings,West Indies,Afghanistan,27.2,SD Hope,MN Samuels,Sharafuddin Ashraf,0,0,0,NA,0,NA,NA,NA,0
+1133018,1st innings,West Indies,Afghanistan,27.3,SD Hope,MN Samuels,Sharafuddin Ashraf,0,0,0,NA,0,NA,NA,NA,0
+1133018,1st innings,West Indies,Afghanistan,27.4,SD Hope,MN Samuels,Sharafuddin Ashraf,0,0,0,NA,0,NA,NA,NA,0
+1133018,1st innings,West Indies,Afghanistan,27.5,SD Hope,MN Samuels,Sharafuddin Ashraf,0,0,0,NA,0,NA,NA,NA,0
+1133018,1st innings,West Indies,Afghanistan,27.6,SD Hope,MN Samuels,Sharafuddin Ashraf,1,0,1,NA,0,NA,NA,NA,0
+1133018,1st innings,West Indies,Afghanistan,28.1,SD Hope,MN Samuels,Mohammad Nabi,1,0,1,NA,0,NA,NA,NA,0
+1133018,1st innings,West Indies,Afghanistan,28.2,MN Samuels,SD Hope,Mohammad Nabi,1,0,1,NA,0,NA,NA,NA,0
+1133018,1st innings,West Indies,Afghanistan,28.3,SD Hope,MN Samuels,Mohammad Nabi,1,0,1,NA,0,NA,NA,NA,0
+1133018,1st innings,West Indies,Afghanistan,28.4,MN Samuels,SD Hope,Mohammad Nabi,4,0,4,NA,0,NA,NA,NA,0
+1133018,1st innings,West Indies,Afghanistan,28.5,MN Samuels,SD Hope,Mohammad Nabi,0,0,0,NA,0,NA,NA,NA,0
+1133018,1st innings,West Indies,Afghanistan,28.6,MN Samuels,SD Hope,Mohammad Nabi,1,0,1,NA,0,NA,NA,NA,0
+1133018,1st innings,West Indies,Afghanistan,29.1,MN Samuels,SD Hope,Rashid Khan,1,0,1,NA,0,NA,NA,NA,0
+1133018,1st innings,West Indies,Afghanistan,29.2,SD Hope,MN Samuels,Rashid Khan,0,0,0,NA,0,NA,NA,NA,0
+1133018,1st innings,West Indies,Afghanistan,29.3,SD Hope,MN Samuels,Rashid Khan,1,0,1,NA,0,NA,NA,NA,0
+1133018,1st innings,West Indies,Afghanistan,29.4,MN Samuels,SD Hope,Rashid Khan,0,0,0,NA,0,NA,NA,NA,0
+1133018,1st innings,West Indies,Afghanistan,29.5,MN Samuels,SD Hope,Rashid Khan,0,0,0,NA,0,NA,NA,NA,0
+1133018,1st innings,West Indies,Afghanistan,29.6,MN Samuels,SD Hope,Rashid Khan,1,0,1,NA,0,NA,NA,NA,0
+1133018,1st innings,West Indies,Afghanistan,30.1,MN Samuels,SD Hope,Mohammad Nabi,0,0,0,NA,0,NA,NA,NA,0
+1133018,1st innings,West Indies,Afghanistan,30.2,MN Samuels,SD Hope,Mohammad Nabi,1,0,1,NA,0,NA,NA,NA,0
+1133018,1st innings,West Indies,Afghanistan,30.3,SD Hope,MN Samuels,Mohammad Nabi,0,0,0,NA,0,NA,NA,NA,0
+1133018,1st innings,West Indies,Afghanistan,30.4,SD Hope,MN Samuels,Mohammad Nabi,1,0,1,NA,0,NA,NA,NA,0
+1133018,1st innings,West Indies,Afghanistan,30.5,MN Samuels,SD Hope,Mohammad Nabi,0,0,0,NA,1,caught,MN Samuels,Gulbadin Naib,0
+1133018,1st innings,West Indies,Afghanistan,30.6,SD Hope,JO Holder,Mohammad Nabi,1,0,1,NA,0,NA,NA,NA,0
+1133018,1st innings,West Indies,Afghanistan,31.1,SD Hope,JO Holder,Rashid Khan,0,0,0,NA,0,NA,NA,NA,0
+1133018,1st innings,West Indies,Afghanistan,31.2,SD Hope,JO Holder,Rashid Khan,0,0,0,NA,0,NA,NA,NA,0
+1133018,1st innings,West Indies,Afghanistan,31.3,SD Hope,JO Holder,Rashid Khan,0,0,0,NA,0,NA,NA,NA,0
+1133018,1st innings,West Indies,Afghanistan,31.4,SD Hope,JO Holder,Rashid Khan,2,0,2,NA,0,NA,NA,NA,0
+1133018,1st innings,West Indies,Afghanistan,31.5,SD Hope,JO Holder,Rashid Khan,1,0,1,NA,0,NA,NA,NA,0
+1133018,1st innings,West Indies,Afghanistan,31.6,JO Holder,SD Hope,Rashid Khan,1,0,1,NA,0,NA,NA,NA,0
+1133018,1st innings,West Indies,Afghanistan,32.1,JO Holder,SD Hope,Mohammad Nabi,0,0,0,NA,0,NA,NA,NA,0
+1133018,1st innings,West Indies,Afghanistan,32.2,JO Holder,SD Hope,Mohammad Nabi,1,0,1,NA,0,NA,NA,NA,0
+1133018,1st innings,West Indies,Afghanistan,32.3,SD Hope,JO Holder,Mohammad Nabi,0,0,0,NA,0,NA,NA,NA,0
+1133018,1st innings,West Indies,Afghanistan,32.4,SD Hope,JO Holder,Mohammad Nabi,0,0,0,NA,0,NA,NA,NA,0
+1133018,1st innings,West Indies,Afghanistan,32.5,SD Hope,JO Holder,Mohammad Nabi,0,0,0,NA,0,NA,NA,NA,0
+1133018,1st innings,West Indies,Afghanistan,32.6,SD Hope,JO Holder,Mohammad Nabi,2,0,2,NA,0,NA,NA,NA,0
+1133018,1st innings,West Indies,Afghanistan,33.1,JO Holder,SD Hope,Rashid Khan,1,0,1,NA,0,NA,NA,NA,0
+1133018,1st innings,West Indies,Afghanistan,33.2,SD Hope,JO Holder,Rashid Khan,0,0,0,NA,0,NA,NA,NA,0
+1133018,1st innings,West Indies,Afghanistan,33.3,SD Hope,JO Holder,Rashid Khan,1,0,1,NA,0,NA,NA,NA,0
+1133018,1st innings,West Indies,Afghanistan,33.4,JO Holder,SD Hope,Rashid Khan,0,0,0,NA,0,NA,NA,NA,0
+1133018,1st innings,West Indies,Afghanistan,33.5,JO Holder,SD Hope,Rashid Khan,4,0,4,NA,0,NA,NA,NA,0
+1133018,1st innings,West Indies,Afghanistan,33.6,JO Holder,SD Hope,Rashid Khan,4,0,4,NA,0,NA,NA,NA,0
+1133018,1st innings,West Indies,Afghanistan,34.1,SD Hope,JO Holder,Mohammad Nabi,0,0,0,NA,0,NA,NA,NA,0
+1133018,1st innings,West Indies,Afghanistan,34.2,SD Hope,JO Holder,Mohammad Nabi,1,0,1,NA,0,NA,NA,NA,0
+1133018,1st innings,West Indies,Afghanistan,34.3,JO Holder,SD Hope,Mohammad Nabi,1,0,1,NA,0,NA,NA,NA,0
+1133018,1st innings,West Indies,Afghanistan,34.4,SD Hope,JO Holder,Mohammad Nabi,0,0,0,NA,0,NA,NA,NA,0
+1133018,1st innings,West Indies,Afghanistan,34.5,SD Hope,JO Holder,Mohammad Nabi,0,0,0,NA,0,NA,NA,NA,0
+1133018,1st innings,West Indies,Afghanistan,34.6,SD Hope,JO Holder,Mohammad Nabi,0,0,0,NA,0,NA,NA,NA,0
+1133018,1st innings,West Indies,Afghanistan,35.1,JO Holder,SD Hope,Dawlat Zadran,1,0,1,NA,0,NA,NA,NA,0
+1133018,1st innings,West Indies,Afghanistan,35.2,SD Hope,JO Holder,Dawlat Zadran,1,0,1,NA,0,NA,NA,NA,0
+1133018,1st innings,West Indies,Afghanistan,35.3,JO Holder,SD Hope,Dawlat Zadran,0,1,1,wides,0,NA,NA,NA,0
+1133018,1st innings,West Indies,Afghanistan,35.4,JO Holder,SD Hope,Dawlat Zadran,1,0,1,NA,0,NA,NA,NA,0
+1133018,1st innings,West Indies,Afghanistan,35.5,SD Hope,JO Holder,Dawlat Zadran,0,0,0,NA,0,NA,NA,NA,0
+1133018,1st innings,West Indies,Afghanistan,35.6,SD Hope,JO Holder,Dawlat Zadran,1,0,1,NA,0,NA,NA,NA,0
+1133018,1st innings,West Indies,Afghanistan,35.7,JO Holder,SD Hope,Dawlat Zadran,1,1,2,noballs,0,NA,NA,NA,0
+1133018,1st innings,West Indies,Afghanistan,35.8,SD Hope,JO Holder,Dawlat Zadran,1,0,1,NA,0,NA,NA,NA,0
+1133018,1st innings,West Indies,Afghanistan,36.1,SD Hope,JO Holder,Mohammad Nabi,0,0,0,NA,0,NA,NA,NA,0
+1133018,1st innings,West Indies,Afghanistan,36.2,SD Hope,JO Holder,Mohammad Nabi,1,0,1,NA,0,NA,NA,NA,0
+1133018,1st innings,West Indies,Afghanistan,36.3,JO Holder,SD Hope,Mohammad Nabi,0,0,0,NA,0,NA,NA,NA,0
+1133018,1st innings,West Indies,Afghanistan,36.4,JO Holder,SD Hope,Mohammad Nabi,0,2,2,wides,0,NA,NA,NA,0
+1133018,1st innings,West Indies,Afghanistan,36.5,SD Hope,JO Holder,Mohammad Nabi,1,0,1,NA,0,NA,NA,NA,0
+1133018,1st innings,West Indies,Afghanistan,36.6,JO Holder,SD Hope,Mohammad Nabi,6,0,6,NA,0,NA,NA,NA,0
+1133018,1st innings,West Indies,Afghanistan,36.7,JO Holder,SD Hope,Mohammad Nabi,1,0,1,NA,0,NA,NA,NA,0
+1133018,1st innings,West Indies,Afghanistan,37.1,JO Holder,SD Hope,Dawlat Zadran,0,0,0,NA,0,NA,NA,NA,0
+1133018,1st innings,West Indies,Afghanistan,37.2,JO Holder,SD Hope,Dawlat Zadran,1,0,1,NA,0,NA,NA,NA,0
+1133018,1st innings,West Indies,Afghanistan,37.3,SD Hope,JO Holder,Dawlat Zadran,2,0,2,NA,0,NA,NA,NA,0
+1133018,1st innings,West Indies,Afghanistan,37.4,SD Hope,JO Holder,Dawlat Zadran,0,0,0,NA,0,NA,NA,NA,0
+1133018,1st innings,West Indies,Afghanistan,37.5,SD Hope,JO Holder,Dawlat Zadran,1,0,1,NA,0,NA,NA,NA,0
+1133018,1st innings,West Indies,Afghanistan,37.6,JO Holder,SD Hope,Dawlat Zadran,1,0,1,NA,0,NA,NA,NA,0
+1133018,1st innings,West Indies,Afghanistan,38.1,JO Holder,SD Hope,Mujeeb Ur Rahman,1,0,1,NA,0,NA,NA,NA,0
+1133018,1st innings,West Indies,Afghanistan,38.2,SD Hope,JO Holder,Mujeeb Ur Rahman,1,0,1,NA,0,NA,NA,NA,0
+1133018,1st innings,West Indies,Afghanistan,38.3,JO Holder,SD Hope,Mujeeb Ur Rahman,0,0,0,NA,0,NA,NA,NA,0
+1133018,1st innings,West Indies,Afghanistan,38.4,JO Holder,SD Hope,Mujeeb Ur Rahman,0,0,0,NA,0,NA,NA,NA,0
+1133018,1st innings,West Indies,Afghanistan,38.5,JO Holder,SD Hope,Mujeeb Ur Rahman,1,0,1,NA,0,NA,NA,NA,0
+1133018,1st innings,West Indies,Afghanistan,38.6,SD Hope,JO Holder,Mujeeb Ur Rahman,0,0,0,NA,0,NA,NA,NA,0
+1133018,1st innings,West Indies,Afghanistan,39.1,JO Holder,SD Hope,Rashid Khan,0,0,0,NA,0,NA,NA,NA,0
+1133018,1st innings,West Indies,Afghanistan,39.2,JO Holder,SD Hope,Rashid Khan,0,0,0,NA,0,NA,NA,NA,0
+1133018,1st innings,West Indies,Afghanistan,39.3,JO Holder,SD Hope,Rashid Khan,1,0,1,NA,0,NA,NA,NA,0
+1133018,1st innings,West Indies,Afghanistan,39.4,SD Hope,JO Holder,Rashid Khan,0,0,0,NA,0,NA,NA,NA,0
+1133018,1st innings,West Indies,Afghanistan,39.5,SD Hope,JO Holder,Rashid Khan,0,0,0,NA,0,NA,NA,NA,0
+1133018,1st innings,West Indies,Afghanistan,39.6,SD Hope,JO Holder,Rashid Khan,0,0,0,NA,0,NA,NA,NA,0
+1133018,1st innings,West Indies,Afghanistan,40.1,JO Holder,SD Hope,Mujeeb Ur Rahman,1,0,1,NA,0,NA,NA,NA,0
+1133018,1st innings,West Indies,Afghanistan,40.2,SD Hope,JO Holder,Mujeeb Ur Rahman,1,0,1,NA,0,NA,NA,NA,0
+1133018,1st innings,West Indies,Afghanistan,40.3,JO Holder,SD Hope,Mujeeb Ur Rahman,0,0,0,NA,1,caught,JO Holder,Najibullah Zadran,0
+1133018,1st innings,West Indies,Afghanistan,40.4,R Powell,SD Hope,Mujeeb Ur Rahman,0,0,0,NA,0,NA,NA,NA,0
+1133018,1st innings,West Indies,Afghanistan,40.5,R Powell,SD Hope,Mujeeb Ur Rahman,0,0,0,NA,0,NA,NA,NA,0
+1133018,1st innings,West Indies,Afghanistan,40.6,R Powell,SD Hope,Mujeeb Ur Rahman,0,0,0,NA,0,NA,NA,NA,0
+1133018,1st innings,West Indies,Afghanistan,41.1,SD Hope,R Powell,Rashid Khan,0,0,0,NA,0,NA,NA,NA,0
+1133018,1st innings,West Indies,Afghanistan,41.2,SD Hope,R Powell,Rashid Khan,0,0,0,NA,0,NA,NA,NA,0
+1133018,1st innings,West Indies,Afghanistan,41.3,SD Hope,R Powell,Rashid Khan,0,0,0,NA,0,NA,NA,NA,0
+1133018,1st innings,West Indies,Afghanistan,41.4,SD Hope,R Powell,Rashid Khan,0,0,0,NA,0,NA,NA,NA,0
+1133018,1st innings,West Indies,Afghanistan,41.5,SD Hope,R Powell,Rashid Khan,0,0,0,NA,0,NA,NA,NA,0
+1133018,1st innings,West Indies,Afghanistan,41.6,SD Hope,R Powell,Rashid Khan,1,0,1,NA,0,NA,NA,NA,0
+1133018,1st innings,West Indies,Afghanistan,42.1,SD Hope,R Powell,Mujeeb Ur Rahman,1,0,1,NA,0,NA,NA,NA,0
+1133018,1st innings,West Indies,Afghanistan,42.2,R Powell,SD Hope,Mujeeb Ur Rahman,1,0,1,NA,0,NA,NA,NA,0
+1133018,1st innings,West Indies,Afghanistan,42.3,SD Hope,R Powell,Mujeeb Ur Rahman,0,0,0,NA,1,caught,SD Hope,Najibullah Zadran,0
+1133018,1st innings,West Indies,Afghanistan,42.4,CR Brathwaite,R Powell,Mujeeb Ur Rahman,0,0,0,NA,0,NA,NA,NA,0
+1133018,1st innings,West Indies,Afghanistan,42.5,CR Brathwaite,R Powell,Mujeeb Ur Rahman,0,0,0,NA,0,NA,NA,NA,0
+1133018,1st innings,West Indies,Afghanistan,42.6,CR Brathwaite,R Powell,Mujeeb Ur Rahman,0,0,0,NA,0,NA,NA,NA,0
+1133018,1st innings,West Indies,Afghanistan,43.1,R Powell,CR Brathwaite,Sharafuddin Ashraf,1,0,1,NA,0,NA,NA,NA,0
+1133018,1st innings,West Indies,Afghanistan,43.2,CR Brathwaite,R Powell,Sharafuddin Ashraf,4,0,4,NA,0,NA,NA,NA,0
+1133018,1st innings,West Indies,Afghanistan,43.3,CR Brathwaite,R Powell,Sharafuddin Ashraf,0,0,0,NA,1,caught,CR Brathwaite,Rahmat Shah,0
+1133018,1st innings,West Indies,Afghanistan,43.4,R Powell,AR Nurse,Sharafuddin Ashraf,0,0,0,NA,0,NA,NA,NA,0
+1133018,1st innings,West Indies,Afghanistan,43.5,R Powell,AR Nurse,Sharafuddin Ashraf,1,0,1,NA,0,NA,NA,NA,0
+1133018,1st innings,West Indies,Afghanistan,43.6,AR Nurse,R Powell,Sharafuddin Ashraf,2,0,2,NA,0,NA,NA,NA,0
+1133018,1st innings,West Indies,Afghanistan,44.1,R Powell,AR Nurse,Rashid Khan,0,0,0,NA,0,NA,NA,NA,0
+1133018,1st innings,West Indies,Afghanistan,44.2,R Powell,AR Nurse,Rashid Khan,0,0,0,NA,0,NA,NA,NA,0
+1133018,1st innings,West Indies,Afghanistan,44.3,R Powell,AR Nurse,Rashid Khan,0,0,0,NA,0,NA,NA,NA,0
+1133018,1st innings,West Indies,Afghanistan,44.4,R Powell,AR Nurse,Rashid Khan,0,0,0,NA,0,NA,NA,NA,0
+1133018,1st innings,West Indies,Afghanistan,44.5,R Powell,AR Nurse,Rashid Khan,0,0,0,NA,1,caught,R Powell,Mujeeb Ur Rahman,0
+1133018,1st innings,West Indies,Afghanistan,44.6,KMA Paul,AR Nurse,Rashid Khan,0,0,0,NA,0,NA,NA,NA,0
+1133018,1st innings,West Indies,Afghanistan,45.1,AR Nurse,KMA Paul,Sharafuddin Ashraf,2,0,2,NA,0,NA,NA,NA,0
+1133018,1st innings,West Indies,Afghanistan,45.2,AR Nurse,KMA Paul,Sharafuddin Ashraf,1,0,1,NA,0,NA,NA,NA,0
+1133018,1st innings,West Indies,Afghanistan,45.3,KMA Paul,AR Nurse,Sharafuddin Ashraf,0,0,0,NA,0,NA,NA,NA,0
+1133018,1st innings,West Indies,Afghanistan,45.4,KMA Paul,AR Nurse,Sharafuddin Ashraf,0,0,0,NA,0,NA,NA,NA,0
+1133018,1st innings,West Indies,Afghanistan,45.5,KMA Paul,AR Nurse,Sharafuddin Ashraf,1,0,1,NA,0,NA,NA,NA,0
+1133018,1st innings,West Indies,Afghanistan,45.6,AR Nurse,KMA Paul,Sharafuddin Ashraf,0,0,0,NA,0,NA,NA,NA,0
+1133018,1st innings,West Indies,Afghanistan,46.1,KMA Paul,AR Nurse,Mohammad Nabi,0,0,0,NA,0,NA,NA,NA,0
+1133018,1st innings,West Indies,Afghanistan,46.2,KMA Paul,AR Nurse,Mohammad Nabi,1,0,1,NA,0,NA,NA,NA,0
+1133018,1st innings,West Indies,Afghanistan,46.3,AR Nurse,KMA Paul,Mohammad Nabi,1,0,1,NA,0,NA,NA,NA,0
+1133018,1st innings,West Indies,Afghanistan,46.4,KMA Paul,AR Nurse,Mohammad Nabi,1,0,1,NA,0,NA,NA,NA,0
+1133018,1st innings,West Indies,Afghanistan,46.5,AR Nurse,KMA Paul,Mohammad Nabi,1,0,1,NA,0,NA,NA,NA,0
+1133018,1st innings,West Indies,Afghanistan,46.6,KMA Paul,AR Nurse,Mohammad Nabi,2,0,2,NA,0,NA,NA,NA,0
+1133018,1st innings,West Indies,Afghanistan,47.1,AR Nurse,KMA Paul,Rashid Khan,1,0,1,NA,0,NA,NA,NA,0
+1133018,1st innings,West Indies,Afghanistan,47.2,KMA Paul,AR Nurse,Rashid Khan,1,0,1,NA,0,NA,NA,NA,0
+1133018,1st innings,West Indies,Afghanistan,47.3,AR Nurse,KMA Paul,Rashid Khan,0,0,0,NA,0,NA,NA,NA,0
+1133018,1st innings,West Indies,Afghanistan,47.4,AR Nurse,KMA Paul,Rashid Khan,0,0,0,NA,0,NA,NA,NA,0
+1133018,1st innings,West Indies,Afghanistan,47.5,AR Nurse,KMA Paul,Rashid Khan,0,0,0,NA,0,NA,NA,NA,0
+1133018,1st innings,West Indies,Afghanistan,47.6,AR Nurse,KMA Paul,Rashid Khan,0,0,0,NA,0,NA,NA,NA,0
+1133018,1st innings,West Indies,Afghanistan,48.1,KMA Paul,AR Nurse,Mohammad Nabi,0,0,0,NA,0,NA,NA,NA,0
+1133018,1st innings,West Indies,Afghanistan,48.2,KMA Paul,AR Nurse,Mohammad Nabi,1,0,1,NA,0,NA,NA,NA,0
+1133018,1st innings,West Indies,Afghanistan,48.3,AR Nurse,KMA Paul,Mohammad Nabi,0,1,1,legbyes,0,NA,NA,NA,0
+1133018,1st innings,West Indies,Afghanistan,48.4,KMA Paul,AR Nurse,Mohammad Nabi,0,0,0,NA,0,NA,NA,NA,0
+1133018,1st innings,West Indies,Afghanistan,48.5,KMA Paul,AR Nurse,Mohammad Nabi,0,0,0,NA,0,NA,NA,NA,0
+1133018,1st innings,West Indies,Afghanistan,48.6,KMA Paul,AR Nurse,Mohammad Nabi,1,0,1,NA,0,NA,NA,NA,0
+1133018,1st innings,West Indies,Afghanistan,49.1,KMA Paul,AR Nurse,Dawlat Zadran,1,1,2,noballs,0,NA,NA,NA,0
+1133018,1st innings,West Indies,Afghanistan,49.2,AR Nurse,KMA Paul,Dawlat Zadran,1,0,1,NA,0,NA,NA,NA,0
+1133018,1st innings,West Indies,Afghanistan,49.3,KMA Paul,AR Nurse,Dawlat Zadran,6,0,6,NA,0,NA,NA,NA,0
+1133018,1st innings,West Indies,Afghanistan,49.4,KMA Paul,AR Nurse,Dawlat Zadran,0,1,1,byes,0,NA,NA,NA,0
+1133018,1st innings,West Indies,Afghanistan,49.5,AR Nurse,KMA Paul,Dawlat Zadran,0,1,1,legbyes,0,NA,NA,NA,0
+1133018,1st innings,West Indies,Afghanistan,49.6,KMA Paul,AR Nurse,Dawlat Zadran,1,0,1,NA,0,NA,NA,NA,0
+1133018,1st innings,West Indies,Afghanistan,49.7,AR Nurse,KMA Paul,Dawlat Zadran,1,0,1,NA,0,NA,NA,NA,0
+1133018,2nd innings,Afghanistan,West Indies,0.1,Mohammad Shahzad,Javed Ahmadi,JO Holder,0,0,0,NA,0,NA,NA,NA,1
+1133018,2nd innings,Afghanistan,West Indies,0.2,Mohammad Shahzad,Javed Ahmadi,JO Holder,1,0,1,NA,0,NA,NA,NA,1
+1133018,2nd innings,Afghanistan,West Indies,0.3,Javed Ahmadi,Mohammad Shahzad,JO Holder,1,0,1,NA,0,NA,NA,NA,1
+1133018,2nd innings,Afghanistan,West Indies,0.4,Mohammad Shahzad,Javed Ahmadi,JO Holder,4,0,4,NA,0,NA,NA,NA,1
+1133018,2nd innings,Afghanistan,West Indies,0.5,Mohammad Shahzad,Javed Ahmadi,JO Holder,0,1,1,wides,0,NA,NA,NA,1
+1133018,2nd innings,Afghanistan,West Indies,0.6,Mohammad Shahzad,Javed Ahmadi,JO Holder,0,1,1,wides,0,NA,NA,NA,1
+1133018,2nd innings,Afghanistan,West Indies,0.7,Mohammad Shahzad,Javed Ahmadi,JO Holder,0,0,0,NA,0,NA,NA,NA,1
+1133018,2nd innings,Afghanistan,West Indies,0.8,Mohammad Shahzad,Javed Ahmadi,JO Holder,0,0,0,NA,0,NA,NA,NA,1
+1133018,2nd innings,Afghanistan,West Indies,1.1,Javed Ahmadi,Mohammad Shahzad,KMA Paul,0,1,1,wides,0,NA,NA,NA,1
+1133018,2nd innings,Afghanistan,West Indies,1.2,Javed Ahmadi,Mohammad Shahzad,KMA Paul,0,0,0,NA,1,lbw,Javed Ahmadi,NA,1
+1133018,2nd innings,Afghanistan,West Indies,1.3,Rahmat Shah,Mohammad Shahzad,KMA Paul,0,0,0,NA,0,NA,NA,NA,1
+1133018,2nd innings,Afghanistan,West Indies,1.4,Rahmat Shah,Mohammad Shahzad,KMA Paul,0,0,0,NA,0,NA,NA,NA,1
+1133018,2nd innings,Afghanistan,West Indies,1.5,Rahmat Shah,Mohammad Shahzad,KMA Paul,0,1,1,wides,0,NA,NA,NA,1
+1133018,2nd innings,Afghanistan,West Indies,1.6,Rahmat Shah,Mohammad Shahzad,KMA Paul,0,0,0,NA,0,NA,NA,NA,1
+1133018,2nd innings,Afghanistan,West Indies,1.7,Rahmat Shah,Mohammad Shahzad,KMA Paul,0,0,0,NA,0,NA,NA,NA,1
+1133018,2nd innings,Afghanistan,West Indies,1.8,Rahmat Shah,Mohammad Shahzad,KMA Paul,1,0,1,NA,0,NA,NA,NA,1
+1133018,2nd innings,Afghanistan,West Indies,2.1,Rahmat Shah,Mohammad Shahzad,JO Holder,0,0,0,NA,0,NA,NA,NA,1
+1133018,2nd innings,Afghanistan,West Indies,2.2,Rahmat Shah,Mohammad Shahzad,JO Holder,0,1,1,wides,0,NA,NA,NA,1
+1133018,2nd innings,Afghanistan,West Indies,2.3,Rahmat Shah,Mohammad Shahzad,JO Holder,0,0,0,NA,0,NA,NA,NA,1
+1133018,2nd innings,Afghanistan,West Indies,2.4,Rahmat Shah,Mohammad Shahzad,JO Holder,0,0,0,NA,0,NA,NA,NA,1
+1133018,2nd innings,Afghanistan,West Indies,2.5,Rahmat Shah,Mohammad Shahzad,JO Holder,0,0,0,NA,0,NA,NA,NA,1
+1133018,2nd innings,Afghanistan,West Indies,2.6,Rahmat Shah,Mohammad Shahzad,JO Holder,0,0,0,NA,0,NA,NA,NA,1
+1133018,2nd innings,Afghanistan,West Indies,2.7,Rahmat Shah,Mohammad Shahzad,JO Holder,2,0,2,NA,0,NA,NA,NA,1
+1133018,2nd innings,Afghanistan,West Indies,3.1,Mohammad Shahzad,Rahmat Shah,KMA Paul,0,0,0,NA,0,NA,NA,NA,1
+1133018,2nd innings,Afghanistan,West Indies,3.2,Mohammad Shahzad,Rahmat Shah,KMA Paul,0,0,0,NA,0,NA,NA,NA,1
+1133018,2nd innings,Afghanistan,West Indies,3.3,Mohammad Shahzad,Rahmat Shah,KMA Paul,0,0,0,NA,0,NA,NA,NA,1
+1133018,2nd innings,Afghanistan,West Indies,3.4,Mohammad Shahzad,Rahmat Shah,KMA Paul,2,0,2,NA,0,NA,NA,NA,1
+1133018,2nd innings,Afghanistan,West Indies,3.5,Mohammad Shahzad,Rahmat Shah,KMA Paul,0,0,0,NA,0,NA,NA,NA,1
+1133018,2nd innings,Afghanistan,West Indies,3.6,Mohammad Shahzad,Rahmat Shah,KMA Paul,1,0,1,NA,0,NA,NA,NA,1
+1133018,2nd innings,Afghanistan,West Indies,4.1,Mohammad Shahzad,Rahmat Shah,JO Holder,0,0,0,NA,1,caught,Mohammad Shahzad,R Powell,1
+1133018,2nd innings,Afghanistan,West Indies,4.2,Rahmat Shah,Samiullah Shenwari,JO Holder,0,0,0,NA,0,NA,NA,NA,1
+1133018,2nd innings,Afghanistan,West Indies,4.3,Rahmat Shah,Samiullah Shenwari,JO Holder,0,0,0,NA,0,NA,NA,NA,1
+1133018,2nd innings,Afghanistan,West Indies,4.4,Rahmat Shah,Samiullah Shenwari,JO Holder,0,0,0,NA,0,NA,NA,NA,1
+1133018,2nd innings,Afghanistan,West Indies,4.5,Rahmat Shah,Samiullah Shenwari,JO Holder,3,0,3,NA,0,NA,NA,NA,1
+1133018,2nd innings,Afghanistan,West Indies,4.6,Samiullah Shenwari,Rahmat Shah,JO Holder,0,0,0,NA,0,NA,NA,NA,1
+1133018,2nd innings,Afghanistan,West Indies,5.1,Rahmat Shah,Samiullah Shenwari,KMA Paul,0,0,0,NA,0,NA,NA,NA,1
+1133018,2nd innings,Afghanistan,West Indies,5.2,Rahmat Shah,Samiullah Shenwari,KMA Paul,0,0,0,NA,0,NA,NA,NA,1
+1133018,2nd innings,Afghanistan,West Indies,5.3,Rahmat Shah,Samiullah Shenwari,KMA Paul,0,0,0,NA,0,NA,NA,NA,1
+1133018,2nd innings,Afghanistan,West Indies,5.4,Rahmat Shah,Samiullah Shenwari,KMA Paul,0,0,0,NA,0,NA,NA,NA,1
+1133018,2nd innings,Afghanistan,West Indies,5.5,Rahmat Shah,Samiullah Shenwari,KMA Paul,0,0,0,NA,0,NA,NA,NA,1
+1133018,2nd innings,Afghanistan,West Indies,5.6,Rahmat Shah,Samiullah Shenwari,KMA Paul,0,0,0,NA,0,NA,NA,NA,1
+1133018,2nd innings,Afghanistan,West Indies,6.1,Samiullah Shenwari,Rahmat Shah,JO Holder,1,0,1,NA,0,NA,NA,NA,1
+1133018,2nd innings,Afghanistan,West Indies,6.2,Rahmat Shah,Samiullah Shenwari,JO Holder,1,0,1,NA,0,NA,NA,NA,1
+1133018,2nd innings,Afghanistan,West Indies,6.3,Samiullah Shenwari,Rahmat Shah,JO Holder,0,0,0,NA,0,NA,NA,NA,1
+1133018,2nd innings,Afghanistan,West Indies,6.4,Samiullah Shenwari,Rahmat Shah,JO Holder,0,0,0,NA,0,NA,NA,NA,1
+1133018,2nd innings,Afghanistan,West Indies,6.5,Samiullah Shenwari,Rahmat Shah,JO Holder,4,0,4,NA,0,NA,NA,NA,1
+1133018,2nd innings,Afghanistan,West Indies,6.6,Samiullah Shenwari,Rahmat Shah,JO Holder,1,0,1,NA,0,NA,NA,NA,1
+1133018,2nd innings,Afghanistan,West Indies,7.1,Samiullah Shenwari,Rahmat Shah,KMA Paul,0,0,0,NA,0,NA,NA,NA,1
+1133018,2nd innings,Afghanistan,West Indies,7.2,Samiullah Shenwari,Rahmat Shah,KMA Paul,0,0,0,NA,0,NA,NA,NA,1
+1133018,2nd innings,Afghanistan,West Indies,7.3,Samiullah Shenwari,Rahmat Shah,KMA Paul,1,0,1,NA,0,NA,NA,NA,1
+1133018,2nd innings,Afghanistan,West Indies,7.4,Rahmat Shah,Samiullah Shenwari,KMA Paul,2,0,2,NA,0,NA,NA,NA,1
+1133018,2nd innings,Afghanistan,West Indies,7.5,Rahmat Shah,Samiullah Shenwari,KMA Paul,0,0,0,NA,0,NA,NA,NA,1
+1133018,2nd innings,Afghanistan,West Indies,7.6,Rahmat Shah,Samiullah Shenwari,KMA Paul,0,0,0,NA,0,NA,NA,NA,1
+1133018,2nd innings,Afghanistan,West Indies,8.1,Samiullah Shenwari,Rahmat Shah,JO Holder,0,0,0,NA,0,NA,NA,NA,1
+1133018,2nd innings,Afghanistan,West Indies,8.2,Samiullah Shenwari,Rahmat Shah,JO Holder,0,0,0,NA,0,NA,NA,NA,1
+1133018,2nd innings,Afghanistan,West Indies,8.3,Samiullah Shenwari,Rahmat Shah,JO Holder,0,0,0,NA,0,NA,NA,NA,1
+1133018,2nd innings,Afghanistan,West Indies,8.4,Samiullah Shenwari,Rahmat Shah,JO Holder,2,0,2,NA,0,NA,NA,NA,1
+1133018,2nd innings,Afghanistan,West Indies,8.5,Samiullah Shenwari,Rahmat Shah,JO Holder,0,0,0,NA,0,NA,NA,NA,1
+1133018,2nd innings,Afghanistan,West Indies,8.6,Samiullah Shenwari,Rahmat Shah,JO Holder,0,0,0,NA,0,NA,NA,NA,1
+1133018,2nd innings,Afghanistan,West Indies,9.1,Rahmat Shah,Samiullah Shenwari,KMA Paul,0,0,0,NA,0,NA,NA,NA,1
+1133018,2nd innings,Afghanistan,West Indies,9.2,Rahmat Shah,Samiullah Shenwari,KMA Paul,1,0,1,NA,0,NA,NA,NA,1
+1133018,2nd innings,Afghanistan,West Indies,9.3,Samiullah Shenwari,Rahmat Shah,KMA Paul,0,0,0,NA,0,NA,NA,NA,1
+1133018,2nd innings,Afghanistan,West Indies,9.4,Samiullah Shenwari,Rahmat Shah,KMA Paul,2,0,2,NA,0,NA,NA,NA,1
+1133018,2nd innings,Afghanistan,West Indies,9.5,Samiullah Shenwari,Rahmat Shah,KMA Paul,0,0,0,NA,0,NA,NA,NA,1
+1133018,2nd innings,Afghanistan,West Indies,9.6,Samiullah Shenwari,Rahmat Shah,KMA Paul,1,0,1,NA,0,NA,NA,NA,1
+1133018,2nd innings,Afghanistan,West Indies,10.1,Samiullah Shenwari,Rahmat Shah,NO Miller,1,0,1,NA,0,NA,NA,NA,1
+1133018,2nd innings,Afghanistan,West Indies,10.2,Rahmat Shah,Samiullah Shenwari,NO Miller,1,0,1,NA,0,NA,NA,NA,1
+1133018,2nd innings,Afghanistan,West Indies,10.3,Samiullah Shenwari,Rahmat Shah,NO Miller,0,0,0,NA,0,NA,NA,NA,1
+1133018,2nd innings,Afghanistan,West Indies,10.4,Samiullah Shenwari,Rahmat Shah,NO Miller,0,0,0,NA,0,NA,NA,NA,1
+1133018,2nd innings,Afghanistan,West Indies,10.5,Samiullah Shenwari,Rahmat Shah,NO Miller,1,0,1,NA,0,NA,NA,NA,1
+1133018,2nd innings,Afghanistan,West Indies,10.6,Rahmat Shah,Samiullah Shenwari,NO Miller,1,0,1,NA,0,NA,NA,NA,1
+1133018,2nd innings,Afghanistan,West Indies,11.1,Rahmat Shah,Samiullah Shenwari,CR Brathwaite,0,0,0,NA,0,NA,NA,NA,1
+1133018,2nd innings,Afghanistan,West Indies,11.2,Rahmat Shah,Samiullah Shenwari,CR Brathwaite,0,0,0,NA,0,NA,NA,NA,1
+1133018,2nd innings,Afghanistan,West Indies,11.3,Rahmat Shah,Samiullah Shenwari,CR Brathwaite,0,0,0,NA,0,NA,NA,NA,1
+1133018,2nd innings,Afghanistan,West Indies,11.4,Rahmat Shah,Samiullah Shenwari,CR Brathwaite,1,0,1,NA,0,NA,NA,NA,1
+1133018,2nd innings,Afghanistan,West Indies,11.5,Samiullah Shenwari,Rahmat Shah,CR Brathwaite,0,0,0,NA,0,NA,NA,NA,1
+1133018,2nd innings,Afghanistan,West Indies,11.6,Samiullah Shenwari,Rahmat Shah,CR Brathwaite,0,0,0,NA,0,NA,NA,NA,1
+1133018,2nd innings,Afghanistan,West Indies,12.1,Rahmat Shah,Samiullah Shenwari,NO Miller,0,0,0,NA,0,NA,NA,NA,1
+1133018,2nd innings,Afghanistan,West Indies,12.2,Rahmat Shah,Samiullah Shenwari,NO Miller,0,0,0,NA,0,NA,NA,NA,1
+1133018,2nd innings,Afghanistan,West Indies,12.3,Rahmat Shah,Samiullah Shenwari,NO Miller,1,0,1,NA,0,NA,NA,NA,1
+1133018,2nd innings,Afghanistan,West Indies,12.4,Samiullah Shenwari,Rahmat Shah,NO Miller,0,0,0,NA,0,NA,NA,NA,1
+1133018,2nd innings,Afghanistan,West Indies,12.5,Samiullah Shenwari,Rahmat Shah,NO Miller,1,0,1,NA,0,NA,NA,NA,1
+1133018,2nd innings,Afghanistan,West Indies,12.6,Rahmat Shah,Samiullah Shenwari,NO Miller,1,0,1,NA,0,NA,NA,NA,1
+1133018,2nd innings,Afghanistan,West Indies,13.1,Rahmat Shah,Samiullah Shenwari,CR Brathwaite,4,0,4,NA,0,NA,NA,NA,1
+1133018,2nd innings,Afghanistan,West Indies,13.2,Rahmat Shah,Samiullah Shenwari,CR Brathwaite,0,0,0,NA,0,NA,NA,NA,1
+1133018,2nd innings,Afghanistan,West Indies,13.3,Rahmat Shah,Samiullah Shenwari,CR Brathwaite,0,0,0,NA,0,NA,NA,NA,1
+1133018,2nd innings,Afghanistan,West Indies,13.4,Rahmat Shah,Samiullah Shenwari,CR Brathwaite,4,0,4,NA,0,NA,NA,NA,1
+1133018,2nd innings,Afghanistan,West Indies,13.5,Rahmat Shah,Samiullah Shenwari,CR Brathwaite,0,0,0,NA,0,NA,NA,NA,1
+1133018,2nd innings,Afghanistan,West Indies,13.6,Rahmat Shah,Samiullah Shenwari,CR Brathwaite,4,0,4,NA,0,NA,NA,NA,1
+1133018,2nd innings,Afghanistan,West Indies,14.1,Samiullah Shenwari,Rahmat Shah,NO Miller,4,0,4,NA,0,NA,NA,NA,1
+1133018,2nd innings,Afghanistan,West Indies,14.2,Samiullah Shenwari,Rahmat Shah,NO Miller,0,0,0,NA,0,NA,NA,NA,1
+1133018,2nd innings,Afghanistan,West Indies,14.3,Samiullah Shenwari,Rahmat Shah,NO Miller,0,0,0,NA,0,NA,NA,NA,1
+1133018,2nd innings,Afghanistan,West Indies,14.4,Samiullah Shenwari,Rahmat Shah,NO Miller,1,0,1,NA,0,NA,NA,NA,1
+1133018,2nd innings,Afghanistan,West Indies,14.5,Rahmat Shah,Samiullah Shenwari,NO Miller,1,0,1,NA,0,NA,NA,NA,1
+1133018,2nd innings,Afghanistan,West Indies,14.6,Samiullah Shenwari,Rahmat Shah,NO Miller,0,0,0,NA,0,NA,NA,NA,1
+1133018,2nd innings,Afghanistan,West Indies,15.1,Rahmat Shah,Samiullah Shenwari,CR Brathwaite,0,0,0,NA,0,NA,NA,NA,1
+1133018,2nd innings,Afghanistan,West Indies,15.2,Rahmat Shah,Samiullah Shenwari,CR Brathwaite,0,0,0,NA,0,NA,NA,NA,1
+1133018,2nd innings,Afghanistan,West Indies,15.3,Rahmat Shah,Samiullah Shenwari,CR Brathwaite,0,0,0,NA,0,NA,NA,NA,1
+1133018,2nd innings,Afghanistan,West Indies,15.4,Rahmat Shah,Samiullah Shenwari,CR Brathwaite,1,0,1,NA,0,NA,NA,NA,1
+1133018,2nd innings,Afghanistan,West Indies,15.5,Samiullah Shenwari,Rahmat Shah,CR Brathwaite,1,0,1,NA,0,NA,NA,NA,1
+1133018,2nd innings,Afghanistan,West Indies,15.6,Rahmat Shah,Samiullah Shenwari,CR Brathwaite,1,0,1,NA,0,NA,NA,NA,1
+1133018,2nd innings,Afghanistan,West Indies,16.1,Rahmat Shah,Samiullah Shenwari,NO Miller,1,0,1,NA,0,NA,NA,NA,1
+1133018,2nd innings,Afghanistan,West Indies,16.2,Samiullah Shenwari,Rahmat Shah,NO Miller,0,0,0,NA,0,NA,NA,NA,1
+1133018,2nd innings,Afghanistan,West Indies,16.3,Samiullah Shenwari,Rahmat Shah,NO Miller,0,0,0,NA,0,NA,NA,NA,1
+1133018,2nd innings,Afghanistan,West Indies,16.4,Samiullah Shenwari,Rahmat Shah,NO Miller,0,0,0,NA,0,NA,NA,NA,1
+1133018,2nd innings,Afghanistan,West Indies,16.5,Samiullah Shenwari,Rahmat Shah,NO Miller,0,0,0,NA,0,NA,NA,NA,1
+1133018,2nd innings,Afghanistan,West Indies,16.6,Samiullah Shenwari,Rahmat Shah,NO Miller,0,0,0,NA,0,NA,NA,NA,1
+1133018,2nd innings,Afghanistan,West Indies,17.1,Rahmat Shah,Samiullah Shenwari,CR Brathwaite,0,0,0,NA,0,NA,NA,NA,1
+1133018,2nd innings,Afghanistan,West Indies,17.2,Rahmat Shah,Samiullah Shenwari,CR Brathwaite,1,0,1,NA,0,NA,NA,NA,1
+1133018,2nd innings,Afghanistan,West Indies,17.3,Samiullah Shenwari,Rahmat Shah,CR Brathwaite,0,0,0,NA,0,NA,NA,NA,1
+1133018,2nd innings,Afghanistan,West Indies,17.4,Samiullah Shenwari,Rahmat Shah,CR Brathwaite,1,0,1,NA,0,NA,NA,NA,1
+1133018,2nd innings,Afghanistan,West Indies,17.5,Rahmat Shah,Samiullah Shenwari,CR Brathwaite,0,0,0,NA,0,NA,NA,NA,1
+1133018,2nd innings,Afghanistan,West Indies,17.6,Rahmat Shah,Samiullah Shenwari,CR Brathwaite,0,1,1,wides,0,NA,NA,NA,1
+1133018,2nd innings,Afghanistan,West Indies,17.7,Rahmat Shah,Samiullah Shenwari,CR Brathwaite,0,0,0,NA,0,NA,NA,NA,1
+1133018,2nd innings,Afghanistan,West Indies,18.1,Samiullah Shenwari,Rahmat Shah,NO Miller,0,0,0,NA,0,NA,NA,NA,1
+1133018,2nd innings,Afghanistan,West Indies,18.2,Samiullah Shenwari,Rahmat Shah,NO Miller,1,0,1,NA,0,NA,NA,NA,1
+1133018,2nd innings,Afghanistan,West Indies,18.3,Rahmat Shah,Samiullah Shenwari,NO Miller,1,0,1,NA,0,NA,NA,NA,1
+1133018,2nd innings,Afghanistan,West Indies,18.4,Samiullah Shenwari,Rahmat Shah,NO Miller,0,0,0,NA,0,NA,NA,NA,1
+1133018,2nd innings,Afghanistan,West Indies,18.5,Samiullah Shenwari,Rahmat Shah,NO Miller,1,0,1,NA,0,NA,NA,NA,1
+1133018,2nd innings,Afghanistan,West Indies,18.6,Rahmat Shah,Samiullah Shenwari,NO Miller,4,0,4,NA,0,NA,NA,NA,1
+1133018,2nd innings,Afghanistan,West Indies,19.1,Samiullah Shenwari,Rahmat Shah,CR Brathwaite,0,0,0,NA,0,NA,NA,NA,1
+1133018,2nd innings,Afghanistan,West Indies,19.2,Samiullah Shenwari,Rahmat Shah,CR Brathwaite,0,0,0,NA,0,NA,NA,NA,1
+1133018,2nd innings,Afghanistan,West Indies,19.3,Samiullah Shenwari,Rahmat Shah,CR Brathwaite,0,4,4,byes,0,NA,NA,NA,1
+1133018,2nd innings,Afghanistan,West Indies,19.4,Samiullah Shenwari,Rahmat Shah,CR Brathwaite,1,0,1,NA,0,NA,NA,NA,1
+1133018,2nd innings,Afghanistan,West Indies,19.5,Rahmat Shah,Samiullah Shenwari,CR Brathwaite,0,0,0,NA,0,NA,NA,NA,1
+1133018,2nd innings,Afghanistan,West Indies,19.6,Rahmat Shah,Samiullah Shenwari,CR Brathwaite,0,0,0,NA,0,NA,NA,NA,1
+1133018,2nd innings,Afghanistan,West Indies,20.1,Samiullah Shenwari,Rahmat Shah,NO Miller,0,0,0,NA,0,NA,NA,NA,1
+1133018,2nd innings,Afghanistan,West Indies,20.2,Samiullah Shenwari,Rahmat Shah,NO Miller,2,0,2,NA,0,NA,NA,NA,1
+1133018,2nd innings,Afghanistan,West Indies,20.3,Samiullah Shenwari,Rahmat Shah,NO Miller,0,0,0,NA,1,caught,Samiullah Shenwari,CH Gayle,1
+1133018,2nd innings,Afghanistan,West Indies,20.4,Mohammad Nabi,Rahmat Shah,NO Miller,2,0,2,NA,0,NA,NA,NA,1
+1133018,2nd innings,Afghanistan,West Indies,20.5,Mohammad Nabi,Rahmat Shah,NO Miller,0,0,0,NA,0,NA,NA,NA,1
+1133018,2nd innings,Afghanistan,West Indies,20.6,Mohammad Nabi,Rahmat Shah,NO Miller,1,0,1,NA,0,NA,NA,NA,1
+1133018,2nd innings,Afghanistan,West Indies,21.1,Mohammad Nabi,Rahmat Shah,CR Brathwaite,0,0,0,NA,0,NA,NA,NA,1
+1133018,2nd innings,Afghanistan,West Indies,21.2,Mohammad Nabi,Rahmat Shah,CR Brathwaite,0,0,0,NA,0,NA,NA,NA,1
+1133018,2nd innings,Afghanistan,West Indies,21.3,Mohammad Nabi,Rahmat Shah,CR Brathwaite,1,0,1,NA,0,NA,NA,NA,1
+1133018,2nd innings,Afghanistan,West Indies,21.4,Rahmat Shah,Mohammad Nabi,CR Brathwaite,1,0,1,NA,0,NA,NA,NA,1
+1133018,2nd innings,Afghanistan,West Indies,21.5,Mohammad Nabi,Rahmat Shah,CR Brathwaite,0,0,0,NA,0,NA,NA,NA,1
+1133018,2nd innings,Afghanistan,West Indies,21.6,Mohammad Nabi,Rahmat Shah,CR Brathwaite,0,0,0,NA,0,NA,NA,NA,1
+1133018,2nd innings,Afghanistan,West Indies,22.1,Rahmat Shah,Mohammad Nabi,NO Miller,0,0,0,NA,0,NA,NA,NA,1
+1133018,2nd innings,Afghanistan,West Indies,22.2,Rahmat Shah,Mohammad Nabi,NO Miller,0,0,0,NA,0,NA,NA,NA,1
+1133018,2nd innings,Afghanistan,West Indies,22.3,Rahmat Shah,Mohammad Nabi,NO Miller,0,0,0,NA,0,NA,NA,NA,1
+1133018,2nd innings,Afghanistan,West Indies,22.4,Rahmat Shah,Mohammad Nabi,NO Miller,1,0,1,NA,0,NA,NA,NA,1
+1133018,2nd innings,Afghanistan,West Indies,22.5,Mohammad Nabi,Rahmat Shah,NO Miller,0,0,0,NA,0,NA,NA,NA,1
+1133018,2nd innings,Afghanistan,West Indies,22.6,Mohammad Nabi,Rahmat Shah,NO Miller,2,0,2,NA,0,NA,NA,NA,1
+1133018,2nd innings,Afghanistan,West Indies,23.1,Rahmat Shah,Mohammad Nabi,JO Holder,0,0,0,NA,0,NA,NA,NA,1
+1133018,2nd innings,Afghanistan,West Indies,23.2,Rahmat Shah,Mohammad Nabi,JO Holder,0,0,0,NA,0,NA,NA,NA,1
+1133018,2nd innings,Afghanistan,West Indies,23.3,Rahmat Shah,Mohammad Nabi,JO Holder,0,0,0,NA,0,NA,NA,NA,1
+1133018,2nd innings,Afghanistan,West Indies,23.4,Rahmat Shah,Mohammad Nabi,JO Holder,0,1,1,legbyes,0,NA,NA,NA,1
+1133018,2nd innings,Afghanistan,West Indies,23.5,Mohammad Nabi,Rahmat Shah,JO Holder,0,0,0,NA,0,NA,NA,NA,1
+1133018,2nd innings,Afghanistan,West Indies,23.6,Mohammad Nabi,Rahmat Shah,JO Holder,1,0,1,NA,0,NA,NA,NA,1
+1133018,2nd innings,Afghanistan,West Indies,24.1,Mohammad Nabi,Rahmat Shah,NO Miller,0,0,0,NA,0,NA,NA,NA,1
+1133018,2nd innings,Afghanistan,West Indies,24.2,Mohammad Nabi,Rahmat Shah,NO Miller,0,0,0,NA,0,NA,NA,NA,1
+1133018,2nd innings,Afghanistan,West Indies,24.3,Mohammad Nabi,Rahmat Shah,NO Miller,0,0,0,NA,0,NA,NA,NA,1
+1133018,2nd innings,Afghanistan,West Indies,24.4,Mohammad Nabi,Rahmat Shah,NO Miller,1,0,1,NA,0,NA,NA,NA,1
+1133018,2nd innings,Afghanistan,West Indies,24.5,Rahmat Shah,Mohammad Nabi,NO Miller,1,0,1,NA,0,NA,NA,NA,1
+1133018,2nd innings,Afghanistan,West Indies,24.6,Mohammad Nabi,Rahmat Shah,NO Miller,1,0,1,NA,0,NA,NA,NA,1
+1133018,2nd innings,Afghanistan,West Indies,25.1,Mohammad Nabi,Rahmat Shah,KMA Paul,0,0,0,NA,0,NA,NA,NA,1
+1133018,2nd innings,Afghanistan,West Indies,25.2,Mohammad Nabi,Rahmat Shah,KMA Paul,0,0,0,NA,0,NA,NA,NA,1
+1133018,2nd innings,Afghanistan,West Indies,25.3,Mohammad Nabi,Rahmat Shah,KMA Paul,0,1,1,wides,0,NA,NA,NA,1
+1133018,2nd innings,Afghanistan,West Indies,25.4,Mohammad Nabi,Rahmat Shah,KMA Paul,4,0,4,NA,0,NA,NA,NA,1
+1133018,2nd innings,Afghanistan,West Indies,25.5,Mohammad Nabi,Rahmat Shah,KMA Paul,0,1,1,wides,0,NA,NA,NA,1
+1133018,2nd innings,Afghanistan,West Indies,25.6,Mohammad Nabi,Rahmat Shah,KMA Paul,0,0,0,NA,0,NA,NA,NA,1
+1133018,2nd innings,Afghanistan,West Indies,25.7,Mohammad Nabi,Rahmat Shah,KMA Paul,0,0,0,NA,0,NA,NA,NA,1
+1133018,2nd innings,Afghanistan,West Indies,25.8,Mohammad Nabi,Rahmat Shah,KMA Paul,1,0,1,NA,0,NA,NA,NA,1
+1133018,2nd innings,Afghanistan,West Indies,26.1,Mohammad Nabi,Rahmat Shah,AR Nurse,0,0,0,NA,0,NA,NA,NA,1
+1133018,2nd innings,Afghanistan,West Indies,26.2,Mohammad Nabi,Rahmat Shah,AR Nurse,0,0,0,NA,0,NA,NA,NA,1
+1133018,2nd innings,Afghanistan,West Indies,26.3,Mohammad Nabi,Rahmat Shah,AR Nurse,1,0,1,NA,0,NA,NA,NA,1
+1133018,2nd innings,Afghanistan,West Indies,26.4,Rahmat Shah,Mohammad Nabi,AR Nurse,0,0,0,NA,0,NA,NA,NA,1
+1133018,2nd innings,Afghanistan,West Indies,26.5,Rahmat Shah,Mohammad Nabi,AR Nurse,1,0,1,NA,0,NA,NA,NA,1
+1133018,2nd innings,Afghanistan,West Indies,26.6,Mohammad Nabi,Rahmat Shah,AR Nurse,0,0,0,NA,0,NA,NA,NA,1
+1133018,2nd innings,Afghanistan,West Indies,27.1,Rahmat Shah,Mohammad Nabi,KMA Paul,0,0,0,NA,0,NA,NA,NA,1
+1133018,2nd innings,Afghanistan,West Indies,27.2,Rahmat Shah,Mohammad Nabi,KMA Paul,1,0,1,NA,0,NA,NA,NA,1
+1133018,2nd innings,Afghanistan,West Indies,27.3,Mohammad Nabi,Rahmat Shah,KMA Paul,0,0,0,NA,0,NA,NA,NA,1
+1133018,2nd innings,Afghanistan,West Indies,27.4,Mohammad Nabi,Rahmat Shah,KMA Paul,0,0,0,NA,0,NA,NA,NA,1
+1133018,2nd innings,Afghanistan,West Indies,27.5,Mohammad Nabi,Rahmat Shah,KMA Paul,0,0,0,NA,0,NA,NA,NA,1
+1133018,2nd innings,Afghanistan,West Indies,27.6,Mohammad Nabi,Rahmat Shah,KMA Paul,0,0,0,NA,0,NA,NA,NA,1
+1133018,2nd innings,Afghanistan,West Indies,28.1,Rahmat Shah,Mohammad Nabi,AR Nurse,0,0,0,NA,0,NA,NA,NA,1
+1133018,2nd innings,Afghanistan,West Indies,28.2,Rahmat Shah,Mohammad Nabi,AR Nurse,1,0,1,NA,0,NA,NA,NA,1
+1133018,2nd innings,Afghanistan,West Indies,28.3,Mohammad Nabi,Rahmat Shah,AR Nurse,0,0,0,NA,0,NA,NA,NA,1
+1133018,2nd innings,Afghanistan,West Indies,28.4,Mohammad Nabi,Rahmat Shah,AR Nurse,0,0,0,NA,0,NA,NA,NA,1
+1133018,2nd innings,Afghanistan,West Indies,28.5,Mohammad Nabi,Rahmat Shah,AR Nurse,1,0,1,NA,0,NA,NA,NA,1
+1133018,2nd innings,Afghanistan,West Indies,28.6,Rahmat Shah,Mohammad Nabi,AR Nurse,0,0,0,NA,0,NA,NA,NA,1
+1133018,2nd innings,Afghanistan,West Indies,29.1,Mohammad Nabi,Rahmat Shah,CR Brathwaite,4,0,4,NA,0,NA,NA,NA,1
+1133018,2nd innings,Afghanistan,West Indies,29.2,Mohammad Nabi,Rahmat Shah,CR Brathwaite,0,0,0,NA,0,NA,NA,NA,1
+1133018,2nd innings,Afghanistan,West Indies,29.3,Mohammad Nabi,Rahmat Shah,CR Brathwaite,0,0,0,NA,0,NA,NA,NA,1
+1133018,2nd innings,Afghanistan,West Indies,29.4,Mohammad Nabi,Rahmat Shah,CR Brathwaite,1,0,1,NA,0,NA,NA,NA,1
+1133018,2nd innings,Afghanistan,West Indies,29.5,Rahmat Shah,Mohammad Nabi,CR Brathwaite,0,0,0,NA,0,NA,NA,NA,1
+1133018,2nd innings,Afghanistan,West Indies,29.6,Rahmat Shah,Mohammad Nabi,CR Brathwaite,0,0,0,NA,0,NA,NA,NA,1
+1133018,2nd innings,Afghanistan,West Indies,30.1,Mohammad Nabi,Rahmat Shah,AR Nurse,0,0,0,NA,0,NA,NA,NA,1
+1133018,2nd innings,Afghanistan,West Indies,30.2,Mohammad Nabi,Rahmat Shah,AR Nurse,1,0,1,NA,0,NA,NA,NA,1
+1133018,2nd innings,Afghanistan,West Indies,30.3,Rahmat Shah,Mohammad Nabi,AR Nurse,1,0,1,NA,0,NA,NA,NA,1
+1133018,2nd innings,Afghanistan,West Indies,30.4,Mohammad Nabi,Rahmat Shah,AR Nurse,1,0,1,NA,0,NA,NA,NA,1
+1133018,2nd innings,Afghanistan,West Indies,30.5,Rahmat Shah,Mohammad Nabi,AR Nurse,0,0,0,NA,0,NA,NA,NA,1
+1133018,2nd innings,Afghanistan,West Indies,30.6,Rahmat Shah,Mohammad Nabi,AR Nurse,0,0,0,NA,0,NA,NA,NA,1
+1133018,2nd innings,Afghanistan,West Indies,31.1,Mohammad Nabi,Rahmat Shah,R Powell,0,0,0,NA,0,NA,NA,NA,1
+1133018,2nd innings,Afghanistan,West Indies,31.2,Mohammad Nabi,Rahmat Shah,R Powell,1,0,1,NA,0,NA,NA,NA,1
+1133018,2nd innings,Afghanistan,West Indies,31.3,Rahmat Shah,Mohammad Nabi,R Powell,0,0,0,NA,0,NA,NA,NA,1
+1133018,2nd innings,Afghanistan,West Indies,31.4,Rahmat Shah,Mohammad Nabi,R Powell,0,0,0,NA,0,NA,NA,NA,1
+1133018,2nd innings,Afghanistan,West Indies,31.5,Rahmat Shah,Mohammad Nabi,R Powell,0,0,0,NA,0,NA,NA,NA,1
+1133018,2nd innings,Afghanistan,West Indies,31.6,Rahmat Shah,Mohammad Nabi,R Powell,0,0,0,NA,0,NA,NA,NA,1
+1133018,2nd innings,Afghanistan,West Indies,32.1,Mohammad Nabi,Rahmat Shah,AR Nurse,0,0,0,NA,0,NA,NA,NA,1
+1133018,2nd innings,Afghanistan,West Indies,32.2,Mohammad Nabi,Rahmat Shah,AR Nurse,1,0,1,NA,0,NA,NA,NA,1
+1133018,2nd innings,Afghanistan,West Indies,32.3,Rahmat Shah,Mohammad Nabi,AR Nurse,0,0,0,NA,0,NA,NA,NA,1
+1133018,2nd innings,Afghanistan,West Indies,32.4,Rahmat Shah,Mohammad Nabi,AR Nurse,0,0,0,NA,0,NA,NA,NA,1
+1133018,2nd innings,Afghanistan,West Indies,32.5,Rahmat Shah,Mohammad Nabi,AR Nurse,2,0,2,NA,0,NA,NA,NA,1
+1133018,2nd innings,Afghanistan,West Indies,32.6,Rahmat Shah,Mohammad Nabi,AR Nurse,1,0,1,NA,0,NA,NA,NA,1
+1133018,2nd innings,Afghanistan,West Indies,33.1,Rahmat Shah,Mohammad Nabi,R Powell,0,0,0,NA,0,NA,NA,NA,1
+1133018,2nd innings,Afghanistan,West Indies,33.2,Rahmat Shah,Mohammad Nabi,R Powell,1,0,1,NA,0,NA,NA,NA,1
+1133018,2nd innings,Afghanistan,West Indies,33.3,Mohammad Nabi,Rahmat Shah,R Powell,1,0,1,NA,0,NA,NA,NA,1
+1133018,2nd innings,Afghanistan,West Indies,33.4,Rahmat Shah,Mohammad Nabi,R Powell,1,0,1,NA,0,NA,NA,NA,1
+1133018,2nd innings,Afghanistan,West Indies,33.5,Mohammad Nabi,Rahmat Shah,R Powell,1,0,1,NA,0,NA,NA,NA,1
+1133018,2nd innings,Afghanistan,West Indies,33.6,Rahmat Shah,Mohammad Nabi,R Powell,1,0,1,NA,0,NA,NA,NA,1
+1133018,2nd innings,Afghanistan,West Indies,34.1,Rahmat Shah,Mohammad Nabi,AR Nurse,0,0,0,NA,0,NA,NA,NA,1
+1133018,2nd innings,Afghanistan,West Indies,34.2,Rahmat Shah,Mohammad Nabi,AR Nurse,0,0,0,NA,0,NA,NA,NA,1
+1133018,2nd innings,Afghanistan,West Indies,34.3,Rahmat Shah,Mohammad Nabi,AR Nurse,1,0,1,NA,0,NA,NA,NA,1
+1133018,2nd innings,Afghanistan,West Indies,34.4,Mohammad Nabi,Rahmat Shah,AR Nurse,2,0,2,NA,0,NA,NA,NA,1
+1133018,2nd innings,Afghanistan,West Indies,34.5,Mohammad Nabi,Rahmat Shah,AR Nurse,0,0,0,NA,0,NA,NA,NA,1
+1133018,2nd innings,Afghanistan,West Indies,34.6,Mohammad Nabi,Rahmat Shah,AR Nurse,1,0,1,NA,0,NA,NA,NA,1
+1133018,2nd innings,Afghanistan,West Indies,35.1,Mohammad Nabi,Rahmat Shah,JO Holder,0,0,0,NA,0,NA,NA,NA,1
+1133018,2nd innings,Afghanistan,West Indies,35.2,Mohammad Nabi,Rahmat Shah,JO Holder,1,0,1,NA,0,NA,NA,NA,1
+1133018,2nd innings,Afghanistan,West Indies,35.3,Rahmat Shah,Mohammad Nabi,JO Holder,0,0,0,NA,0,NA,NA,NA,1
+1133018,2nd innings,Afghanistan,West Indies,35.4,Rahmat Shah,Mohammad Nabi,JO Holder,1,0,1,NA,0,NA,NA,NA,1
+1133018,2nd innings,Afghanistan,West Indies,35.5,Mohammad Nabi,Rahmat Shah,JO Holder,0,0,0,NA,0,NA,NA,NA,1
+1133018,2nd innings,Afghanistan,West Indies,35.6,Mohammad Nabi,Rahmat Shah,JO Holder,0,0,0,NA,1,caught,Mohammad Nabi,SO Hetmyer,1
+1133018,2nd innings,Afghanistan,West Indies,36.1,Rahmat Shah,Najibullah Zadran,AR Nurse,1,0,1,NA,0,NA,NA,NA,1
+1133018,2nd innings,Afghanistan,West Indies,36.2,Najibullah Zadran,Rahmat Shah,AR Nurse,0,0,0,NA,0,NA,NA,NA,1
+1133018,2nd innings,Afghanistan,West Indies,36.3,Najibullah Zadran,Rahmat Shah,AR Nurse,0,0,0,NA,0,NA,NA,NA,1
+1133018,2nd innings,Afghanistan,West Indies,36.4,Najibullah Zadran,Rahmat Shah,AR Nurse,0,0,0,NA,0,NA,NA,NA,1
+1133018,2nd innings,Afghanistan,West Indies,36.5,Najibullah Zadran,Rahmat Shah,AR Nurse,0,0,0,NA,0,NA,NA,NA,1
+1133018,2nd innings,Afghanistan,West Indies,36.6,Najibullah Zadran,Rahmat Shah,AR Nurse,1,0,1,NA,0,NA,NA,NA,1
+1133018,2nd innings,Afghanistan,West Indies,37.1,Najibullah Zadran,Rahmat Shah,JO Holder,0,0,0,NA,0,NA,NA,NA,1
+1133018,2nd innings,Afghanistan,West Indies,37.2,Najibullah Zadran,Rahmat Shah,JO Holder,0,0,0,NA,0,NA,NA,NA,1
+1133018,2nd innings,Afghanistan,West Indies,37.3,Najibullah Zadran,Rahmat Shah,JO Holder,1,0,1,NA,0,NA,NA,NA,1
+1133018,2nd innings,Afghanistan,West Indies,37.4,Rahmat Shah,Najibullah Zadran,JO Holder,0,0,0,NA,0,NA,NA,NA,1
+1133018,2nd innings,Afghanistan,West Indies,37.5,Rahmat Shah,Najibullah Zadran,JO Holder,1,0,1,NA,0,NA,NA,NA,1
+1133018,2nd innings,Afghanistan,West Indies,37.6,Najibullah Zadran,Rahmat Shah,JO Holder,0,0,0,NA,0,NA,NA,NA,1
+1133018,2nd innings,Afghanistan,West Indies,38.1,Rahmat Shah,Najibullah Zadran,AR Nurse,4,0,4,NA,0,NA,NA,NA,1
+1133018,2nd innings,Afghanistan,West Indies,38.2,Rahmat Shah,Najibullah Zadran,AR Nurse,0,0,0,NA,0,NA,NA,NA,1
+1133018,2nd innings,Afghanistan,West Indies,38.3,Rahmat Shah,Najibullah Zadran,AR Nurse,1,0,1,NA,0,NA,NA,NA,1
+1133018,2nd innings,Afghanistan,West Indies,38.4,Najibullah Zadran,Rahmat Shah,AR Nurse,0,0,0,NA,0,NA,NA,NA,1
+1133018,2nd innings,Afghanistan,West Indies,38.5,Najibullah Zadran,Rahmat Shah,AR Nurse,0,0,0,NA,0,NA,NA,NA,1
+1133018,2nd innings,Afghanistan,West Indies,38.6,Najibullah Zadran,Rahmat Shah,AR Nurse,0,0,0,NA,0,NA,NA,NA,1
+1133018,2nd innings,Afghanistan,West Indies,39.1,Rahmat Shah,Najibullah Zadran,NO Miller,1,0,1,NA,0,NA,NA,NA,1
+1133018,2nd innings,Afghanistan,West Indies,39.2,Najibullah Zadran,Rahmat Shah,NO Miller,1,0,1,NA,0,NA,NA,NA,1
+1133018,2nd innings,Afghanistan,West Indies,39.3,Rahmat Shah,Najibullah Zadran,NO Miller,6,0,6,NA,0,NA,NA,NA,1
+1133018,2nd innings,Afghanistan,West Indies,39.4,Rahmat Shah,Najibullah Zadran,NO Miller,0,0,0,NA,0,NA,NA,NA,1
+1133018,2nd innings,Afghanistan,West Indies,39.5,Rahmat Shah,Najibullah Zadran,NO Miller,1,0,1,NA,0,NA,NA,NA,1
+1133018,2nd innings,Afghanistan,West Indies,39.6,Najibullah Zadran,Rahmat Shah,NO Miller,0,0,0,NA,0,NA,NA,NA,1
+1133018,2nd innings,Afghanistan,West Indies,40.1,Rahmat Shah,Najibullah Zadran,AR Nurse,1,0,1,NA,0,NA,NA,NA,1
+1133018,2nd innings,Afghanistan,West Indies,40.2,Najibullah Zadran,Rahmat Shah,AR Nurse,1,0,1,NA,0,NA,NA,NA,1
+1133018,2nd innings,Afghanistan,West Indies,40.3,Rahmat Shah,Najibullah Zadran,AR Nurse,0,0,0,NA,1,caught,Rahmat Shah,KMA Paul,1
+1133018,2nd innings,Afghanistan,West Indies,40.4,Gulbadin Naib,Najibullah Zadran,AR Nurse,1,0,1,NA,0,NA,NA,NA,1
+1133018,2nd innings,Afghanistan,West Indies,40.5,Najibullah Zadran,Gulbadin Naib,AR Nurse,0,0,0,NA,0,NA,NA,NA,1
+1133018,2nd innings,Afghanistan,West Indies,40.6,Najibullah Zadran,Gulbadin Naib,AR Nurse,1,0,1,NA,0,NA,NA,NA,1
+1133018,2nd innings,Afghanistan,West Indies,41.1,Najibullah Zadran,Gulbadin Naib,CR Brathwaite,0,0,0,NA,0,NA,NA,NA,1
+1133018,2nd innings,Afghanistan,West Indies,41.2,Najibullah Zadran,Gulbadin Naib,CR Brathwaite,1,0,1,NA,0,NA,NA,NA,1
+1133018,2nd innings,Afghanistan,West Indies,41.3,Gulbadin Naib,Najibullah Zadran,CR Brathwaite,0,0,0,NA,0,NA,NA,NA,1
+1133018,2nd innings,Afghanistan,West Indies,41.4,Gulbadin Naib,Najibullah Zadran,CR Brathwaite,0,0,0,NA,0,NA,NA,NA,1
+1133018,2nd innings,Afghanistan,West Indies,41.5,Gulbadin Naib,Najibullah Zadran,CR Brathwaite,0,0,0,NA,0,NA,NA,NA,1
+1133018,2nd innings,Afghanistan,West Indies,41.6,Gulbadin Naib,Najibullah Zadran,CR Brathwaite,0,0,0,NA,0,NA,NA,NA,1
+1133018,2nd innings,Afghanistan,West Indies,42.1,Najibullah Zadran,Gulbadin Naib,AR Nurse,0,0,0,NA,0,NA,NA,NA,1
+1133018,2nd innings,Afghanistan,West Indies,42.2,Najibullah Zadran,Gulbadin Naib,AR Nurse,6,0,6,NA,0,NA,NA,NA,1
+1133018,2nd innings,Afghanistan,West Indies,42.3,Najibullah Zadran,Gulbadin Naib,AR Nurse,4,0,4,NA,0,NA,NA,NA,1
+1133018,2nd innings,Afghanistan,West Indies,42.4,Najibullah Zadran,Gulbadin Naib,AR Nurse,2,0,2,NA,0,NA,NA,NA,1
+1133018,2nd innings,Afghanistan,West Indies,42.5,Najibullah Zadran,Gulbadin Naib,AR Nurse,1,0,1,NA,0,NA,NA,NA,1
+1133018,2nd innings,Afghanistan,West Indies,42.6,Gulbadin Naib,Najibullah Zadran,AR Nurse,0,0,0,NA,0,NA,NA,NA,1
+1133018,2nd innings,Afghanistan,West Indies,43.1,Najibullah Zadran,Gulbadin Naib,KMA Paul,0,0,0,NA,0,NA,NA,NA,1
+1133018,2nd innings,Afghanistan,West Indies,43.2,Najibullah Zadran,Gulbadin Naib,KMA Paul,0,0,0,NA,1,caught,Najibullah Zadran,NO Miller,1
+1133018,2nd innings,Afghanistan,West Indies,43.3,Rashid Khan,Gulbadin Naib,KMA Paul,1,0,1,NA,0,NA,NA,NA,1
+1133018,2nd innings,Afghanistan,West Indies,43.4,Gulbadin Naib,Rashid Khan,KMA Paul,1,0,1,NA,0,NA,NA,NA,1
+1133018,2nd innings,Afghanistan,West Indies,43.5,Rashid Khan,Gulbadin Naib,KMA Paul,0,0,0,NA,0,NA,NA,NA,1
+1133018,2nd innings,Afghanistan,West Indies,43.6,Rashid Khan,Gulbadin Naib,KMA Paul,0,0,0,NA,0,NA,NA,NA,1
+1133018,2nd innings,Afghanistan,West Indies,44.1,Gulbadin Naib,Rashid Khan,JO Holder,3,0,3,NA,0,NA,NA,NA,1
+1133018,2nd innings,Afghanistan,West Indies,44.2,Rashid Khan,Gulbadin Naib,JO Holder,0,0,0,NA,0,NA,NA,NA,1
+1133018,2nd innings,Afghanistan,West Indies,44.3,Rashid Khan,Gulbadin Naib,JO Holder,1,0,1,NA,0,NA,NA,NA,1
+1133018,2nd innings,Afghanistan,West Indies,44.4,Gulbadin Naib,Rashid Khan,JO Holder,0,0,0,NA,0,NA,NA,NA,1
+1133018,2nd innings,Afghanistan,West Indies,44.5,Gulbadin Naib,Rashid Khan,JO Holder,4,0,4,NA,0,NA,NA,NA,1
+1133018,2nd innings,Afghanistan,West Indies,44.6,Gulbadin Naib,Rashid Khan,JO Holder,0,0,0,NA,0,NA,NA,NA,1
+1133018,2nd innings,Afghanistan,West Indies,45.1,Rashid Khan,Gulbadin Naib,CR Brathwaite,1,0,1,NA,0,NA,NA,NA,1
+1133018,2nd innings,Afghanistan,West Indies,45.2,Gulbadin Naib,Rashid Khan,CR Brathwaite,1,0,1,NA,0,NA,NA,NA,1
+1133018,2nd innings,Afghanistan,West Indies,45.3,Rashid Khan,Gulbadin Naib,CR Brathwaite,2,0,2,NA,0,NA,NA,NA,1
+1133018,2nd innings,Afghanistan,West Indies,45.4,Rashid Khan,Gulbadin Naib,CR Brathwaite,4,0,4,NA,0,NA,NA,NA,1
+1133018,2nd innings,Afghanistan,West Indies,45.5,Rashid Khan,Gulbadin Naib,CR Brathwaite,3,0,3,NA,0,NA,NA,NA,1
+1133018,2nd innings,Afghanistan,West Indies,45.6,Gulbadin Naib,Rashid Khan,CR Brathwaite,0,0,0,NA,0,NA,NA,NA,1
+1133018,2nd innings,Afghanistan,West Indies,46.1,Rashid Khan,Gulbadin Naib,JO Holder,0,0,0,NA,0,NA,NA,NA,1
+1133018,2nd innings,Afghanistan,West Indies,46.2,Rashid Khan,Gulbadin Naib,JO Holder,1,0,1,NA,0,NA,NA,NA,1
+1133018,2nd innings,Afghanistan,West Indies,46.3,Gulbadin Naib,Rashid Khan,JO Holder,0,0,0,NA,1,caught,Gulbadin Naib,R Powell,1
+1133018,2nd innings,Afghanistan,West Indies,46.4,Sharafuddin Ashraf,Rashid Khan,JO Holder,0,0,0,NA,0,NA,NA,NA,1
+1133018,2nd innings,Afghanistan,West Indies,46.5,Sharafuddin Ashraf,Rashid Khan,JO Holder,0,1,1,wides,0,NA,NA,NA,1
+1133018,2nd innings,Afghanistan,West Indies,46.6,Sharafuddin Ashraf,Rashid Khan,JO Holder,0,0,0,NA,0,NA,NA,NA,1
+1133018,2nd innings,Afghanistan,West Indies,46.7,Sharafuddin Ashraf,Rashid Khan,JO Holder,1,0,1,NA,0,NA,NA,NA,1
+1133018,2nd innings,Afghanistan,West Indies,47.1,Sharafuddin Ashraf,Rashid Khan,KMA Paul,0,0,0,NA,0,NA,NA,NA,1
+1133018,2nd innings,Afghanistan,West Indies,47.2,Sharafuddin Ashraf,Rashid Khan,KMA Paul,0,0,0,NA,0,NA,NA,NA,1
+1133018,2nd innings,Afghanistan,West Indies,47.3,Sharafuddin Ashraf,Rashid Khan,KMA Paul,2,0,2,NA,0,NA,NA,NA,1
+1133018,2nd innings,Afghanistan,West Indies,47.4,Sharafuddin Ashraf,Rashid Khan,KMA Paul,4,0,4,NA,0,NA,NA,NA,1

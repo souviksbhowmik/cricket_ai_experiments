@@ -1,0 +1,602 @@
+match_id,innings,team,opponent,ball,batsman,non_striker,bowler,scored_runs,extras,total,extra_type,wicket,wicket_type,player_out,fielders,winner
+247478,1st innings,Australia,South Africa,0.1,AC Gilchrist,ML Hayden,SM Pollock,0,0,0,NA,0,NA,NA,NA,1
+247478,1st innings,Australia,South Africa,0.2,AC Gilchrist,ML Hayden,SM Pollock,0,0,0,NA,0,NA,NA,NA,1
+247478,1st innings,Australia,South Africa,0.3,AC Gilchrist,ML Hayden,SM Pollock,0,0,0,NA,0,NA,NA,NA,1
+247478,1st innings,Australia,South Africa,0.4,AC Gilchrist,ML Hayden,SM Pollock,0,0,0,NA,0,NA,NA,NA,1
+247478,1st innings,Australia,South Africa,0.5,AC Gilchrist,ML Hayden,SM Pollock,1,0,1,NA,0,NA,NA,NA,1
+247478,1st innings,Australia,South Africa,0.6,ML Hayden,AC Gilchrist,SM Pollock,4,0,4,NA,0,NA,NA,NA,1
+247478,1st innings,Australia,South Africa,1.1,AC Gilchrist,ML Hayden,M Ntini,0,0,0,NA,0,NA,NA,NA,1
+247478,1st innings,Australia,South Africa,1.2,AC Gilchrist,ML Hayden,M Ntini,4,0,4,NA,0,NA,NA,NA,1
+247478,1st innings,Australia,South Africa,1.3,AC Gilchrist,ML Hayden,M Ntini,0,0,0,NA,0,NA,NA,NA,1
+247478,1st innings,Australia,South Africa,1.4,AC Gilchrist,ML Hayden,M Ntini,2,0,2,NA,0,NA,NA,NA,1
+247478,1st innings,Australia,South Africa,1.5,AC Gilchrist,ML Hayden,M Ntini,0,0,0,NA,0,NA,NA,NA,1
+247478,1st innings,Australia,South Africa,1.6,AC Gilchrist,ML Hayden,M Ntini,2,0,2,NA,0,NA,NA,NA,1
+247478,1st innings,Australia,South Africa,2.1,ML Hayden,AC Gilchrist,SM Pollock,0,0,0,NA,0,NA,NA,NA,1
+247478,1st innings,Australia,South Africa,2.2,ML Hayden,AC Gilchrist,SM Pollock,4,0,4,NA,0,NA,NA,NA,1
+247478,1st innings,Australia,South Africa,2.3,ML Hayden,AC Gilchrist,SM Pollock,1,0,1,NA,0,NA,NA,NA,1
+247478,1st innings,Australia,South Africa,2.4,AC Gilchrist,ML Hayden,SM Pollock,2,0,2,NA,0,NA,NA,NA,1
+247478,1st innings,Australia,South Africa,2.5,AC Gilchrist,ML Hayden,SM Pollock,0,0,0,NA,0,NA,NA,NA,1
+247478,1st innings,Australia,South Africa,2.6,AC Gilchrist,ML Hayden,SM Pollock,4,0,4,NA,0,NA,NA,NA,1
+247478,1st innings,Australia,South Africa,3.1,ML Hayden,AC Gilchrist,M Ntini,0,0,0,NA,0,NA,NA,NA,1
+247478,1st innings,Australia,South Africa,3.2,ML Hayden,AC Gilchrist,M Ntini,1,0,1,NA,0,NA,NA,NA,1
+247478,1st innings,Australia,South Africa,3.3,AC Gilchrist,ML Hayden,M Ntini,4,0,4,NA,0,NA,NA,NA,1
+247478,1st innings,Australia,South Africa,3.4,AC Gilchrist,ML Hayden,M Ntini,4,0,4,NA,0,NA,NA,NA,1
+247478,1st innings,Australia,South Africa,3.5,AC Gilchrist,ML Hayden,M Ntini,0,0,0,NA,0,NA,NA,NA,1
+247478,1st innings,Australia,South Africa,3.6,AC Gilchrist,ML Hayden,M Ntini,0,0,0,NA,0,NA,NA,NA,1
+247478,1st innings,Australia,South Africa,4.1,ML Hayden,AC Gilchrist,SM Pollock,4,0,4,NA,0,NA,NA,NA,1
+247478,1st innings,Australia,South Africa,4.2,ML Hayden,AC Gilchrist,SM Pollock,0,0,0,NA,0,NA,NA,NA,1
+247478,1st innings,Australia,South Africa,4.3,ML Hayden,AC Gilchrist,SM Pollock,6,0,6,NA,0,NA,NA,NA,1
+247478,1st innings,Australia,South Africa,4.4,ML Hayden,AC Gilchrist,SM Pollock,6,0,6,NA,0,NA,NA,NA,1
+247478,1st innings,Australia,South Africa,4.5,ML Hayden,AC Gilchrist,SM Pollock,1,0,1,NA,0,NA,NA,NA,1
+247478,1st innings,Australia,South Africa,4.6,AC Gilchrist,ML Hayden,SM Pollock,0,0,0,NA,0,NA,NA,NA,1
+247478,1st innings,Australia,South Africa,5.1,ML Hayden,AC Gilchrist,M Ntini,0,0,0,NA,0,NA,NA,NA,1
+247478,1st innings,Australia,South Africa,5.2,ML Hayden,AC Gilchrist,M Ntini,2,0,2,NA,0,NA,NA,NA,1
+247478,1st innings,Australia,South Africa,5.3,ML Hayden,AC Gilchrist,M Ntini,0,0,0,NA,0,NA,NA,NA,1
+247478,1st innings,Australia,South Africa,5.4,ML Hayden,AC Gilchrist,M Ntini,0,0,0,NA,0,NA,NA,NA,1
+247478,1st innings,Australia,South Africa,5.5,ML Hayden,AC Gilchrist,M Ntini,1,0,1,NA,0,NA,NA,NA,1
+247478,1st innings,Australia,South Africa,5.6,AC Gilchrist,ML Hayden,M Ntini,4,0,4,NA,0,NA,NA,NA,1
+247478,1st innings,Australia,South Africa,6.1,ML Hayden,AC Gilchrist,SM Pollock,0,0,0,NA,0,NA,NA,NA,1
+247478,1st innings,Australia,South Africa,6.2,ML Hayden,AC Gilchrist,SM Pollock,2,0,2,NA,0,NA,NA,NA,1
+247478,1st innings,Australia,South Africa,6.3,ML Hayden,AC Gilchrist,SM Pollock,0,0,0,NA,0,NA,NA,NA,1
+247478,1st innings,Australia,South Africa,6.4,ML Hayden,AC Gilchrist,SM Pollock,4,0,4,NA,0,NA,NA,NA,1
+247478,1st innings,Australia,South Africa,6.5,ML Hayden,AC Gilchrist,SM Pollock,0,0,0,NA,0,NA,NA,NA,1
+247478,1st innings,Australia,South Africa,6.6,ML Hayden,AC Gilchrist,SM Pollock,0,0,0,NA,0,NA,NA,NA,1
+247478,1st innings,Australia,South Africa,7.1,AC Gilchrist,ML Hayden,M Ntini,1,0,1,NA,0,NA,NA,NA,1
+247478,1st innings,Australia,South Africa,7.2,ML Hayden,AC Gilchrist,M Ntini,0,0,0,NA,0,NA,NA,NA,1
+247478,1st innings,Australia,South Africa,7.3,ML Hayden,AC Gilchrist,M Ntini,0,0,0,NA,0,NA,NA,NA,1
+247478,1st innings,Australia,South Africa,7.4,ML Hayden,AC Gilchrist,M Ntini,0,0,0,NA,0,NA,NA,NA,1
+247478,1st innings,Australia,South Africa,7.5,ML Hayden,AC Gilchrist,M Ntini,0,0,0,NA,0,NA,NA,NA,1
+247478,1st innings,Australia,South Africa,7.6,ML Hayden,AC Gilchrist,M Ntini,0,0,0,NA,0,NA,NA,NA,1
+247478,1st innings,Australia,South Africa,8.1,AC Gilchrist,ML Hayden,SM Pollock,0,0,0,NA,0,NA,NA,NA,1
+247478,1st innings,Australia,South Africa,8.2,AC Gilchrist,ML Hayden,SM Pollock,0,0,0,NA,0,NA,NA,NA,1
+247478,1st innings,Australia,South Africa,8.3,AC Gilchrist,ML Hayden,SM Pollock,0,0,0,NA,0,NA,NA,NA,1
+247478,1st innings,Australia,South Africa,8.4,AC Gilchrist,ML Hayden,SM Pollock,1,0,1,NA,0,NA,NA,NA,1
+247478,1st innings,Australia,South Africa,8.5,ML Hayden,AC Gilchrist,SM Pollock,1,0,1,NA,0,NA,NA,NA,1
+247478,1st innings,Australia,South Africa,8.6,AC Gilchrist,ML Hayden,SM Pollock,1,0,1,NA,0,NA,NA,NA,1
+247478,1st innings,Australia,South Africa,9.1,AC Gilchrist,ML Hayden,M Ntini,1,0,1,NA,0,NA,NA,NA,1
+247478,1st innings,Australia,South Africa,9.2,ML Hayden,AC Gilchrist,M Ntini,4,0,4,NA,0,NA,NA,NA,1
+247478,1st innings,Australia,South Africa,9.3,ML Hayden,AC Gilchrist,M Ntini,4,0,4,NA,0,NA,NA,NA,1
+247478,1st innings,Australia,South Africa,9.4,ML Hayden,AC Gilchrist,M Ntini,0,0,0,NA,0,NA,NA,NA,1
+247478,1st innings,Australia,South Africa,9.5,ML Hayden,AC Gilchrist,M Ntini,1,0,1,NA,0,NA,NA,NA,1
+247478,1st innings,Australia,South Africa,9.6,AC Gilchrist,ML Hayden,M Ntini,0,0,0,NA,0,NA,NA,NA,1
+247478,1st innings,Australia,South Africa,10.1,ML Hayden,AC Gilchrist,CK Langeveldt,1,0,1,NA,0,NA,NA,NA,1
+247478,1st innings,Australia,South Africa,10.2,AC Gilchrist,ML Hayden,CK Langeveldt,0,0,0,NA,0,NA,NA,NA,1
+247478,1st innings,Australia,South Africa,10.3,AC Gilchrist,ML Hayden,CK Langeveldt,0,0,0,NA,0,NA,NA,NA,1
+247478,1st innings,Australia,South Africa,10.4,AC Gilchrist,ML Hayden,CK Langeveldt,0,0,0,NA,0,NA,NA,NA,1
+247478,1st innings,Australia,South Africa,10.5,AC Gilchrist,ML Hayden,CK Langeveldt,0,0,0,NA,0,NA,NA,NA,1
+247478,1st innings,Australia,South Africa,10.6,AC Gilchrist,ML Hayden,CK Langeveldt,6,0,6,NA,0,NA,NA,NA,1
+247478,1st innings,Australia,South Africa,11.1,ML Hayden,AC Gilchrist,AJ Hall,0,0,0,NA,0,NA,NA,NA,1
+247478,1st innings,Australia,South Africa,11.2,ML Hayden,AC Gilchrist,AJ Hall,0,0,0,NA,0,NA,NA,NA,1
+247478,1st innings,Australia,South Africa,11.3,ML Hayden,AC Gilchrist,AJ Hall,0,0,0,NA,0,NA,NA,NA,1
+247478,1st innings,Australia,South Africa,11.4,ML Hayden,AC Gilchrist,AJ Hall,4,0,4,NA,0,NA,NA,NA,1
+247478,1st innings,Australia,South Africa,11.5,ML Hayden,AC Gilchrist,AJ Hall,0,0,0,NA,0,NA,NA,NA,1
+247478,1st innings,Australia,South Africa,11.6,ML Hayden,AC Gilchrist,AJ Hall,1,0,1,NA,0,NA,NA,NA,1
+247478,1st innings,Australia,South Africa,12.1,ML Hayden,AC Gilchrist,CK Langeveldt,1,0,1,NA,0,NA,NA,NA,1
+247478,1st innings,Australia,South Africa,12.2,AC Gilchrist,ML Hayden,CK Langeveldt,0,0,0,NA,0,NA,NA,NA,1
+247478,1st innings,Australia,South Africa,12.3,AC Gilchrist,ML Hayden,CK Langeveldt,0,0,0,NA,0,NA,NA,NA,1
+247478,1st innings,Australia,South Africa,12.4,AC Gilchrist,ML Hayden,CK Langeveldt,0,0,0,NA,0,NA,NA,NA,1
+247478,1st innings,Australia,South Africa,12.5,AC Gilchrist,ML Hayden,CK Langeveldt,1,0,1,NA,0,NA,NA,NA,1
+247478,1st innings,Australia,South Africa,12.6,ML Hayden,AC Gilchrist,CK Langeveldt,1,0,1,NA,0,NA,NA,NA,1
+247478,1st innings,Australia,South Africa,13.1,ML Hayden,AC Gilchrist,AJ Hall,0,0,0,NA,0,NA,NA,NA,1
+247478,1st innings,Australia,South Africa,13.2,ML Hayden,AC Gilchrist,AJ Hall,4,0,4,NA,0,NA,NA,NA,1
+247478,1st innings,Australia,South Africa,13.3,ML Hayden,AC Gilchrist,AJ Hall,6,0,6,NA,0,NA,NA,NA,1
+247478,1st innings,Australia,South Africa,13.4,ML Hayden,AC Gilchrist,AJ Hall,0,0,0,NA,0,NA,NA,NA,1
+247478,1st innings,Australia,South Africa,13.5,ML Hayden,AC Gilchrist,AJ Hall,0,0,0,NA,0,NA,NA,NA,1
+247478,1st innings,Australia,South Africa,13.6,ML Hayden,AC Gilchrist,AJ Hall,0,0,0,NA,0,NA,NA,NA,1
+247478,1st innings,Australia,South Africa,14.1,AC Gilchrist,ML Hayden,CK Langeveldt,4,0,4,NA,0,NA,NA,NA,1
+247478,1st innings,Australia,South Africa,14.2,AC Gilchrist,ML Hayden,CK Langeveldt,0,0,0,NA,0,NA,NA,NA,1
+247478,1st innings,Australia,South Africa,14.3,AC Gilchrist,ML Hayden,CK Langeveldt,0,0,0,NA,0,NA,NA,NA,1
+247478,1st innings,Australia,South Africa,14.4,AC Gilchrist,ML Hayden,CK Langeveldt,0,0,0,NA,0,NA,NA,NA,1
+247478,1st innings,Australia,South Africa,14.5,AC Gilchrist,ML Hayden,CK Langeveldt,0,0,0,NA,1,caught,AC Gilchrist,HH Gibbs,1
+247478,1st innings,Australia,South Africa,14.6,RT Ponting,ML Hayden,CK Langeveldt,0,0,0,NA,0,NA,NA,NA,1
+247478,1st innings,Australia,South Africa,15.1,ML Hayden,RT Ponting,AJ Hall,4,0,4,NA,0,NA,NA,NA,1
+247478,1st innings,Australia,South Africa,15.2,ML Hayden,RT Ponting,AJ Hall,1,0,1,NA,0,NA,NA,NA,1
+247478,1st innings,Australia,South Africa,15.3,RT Ponting,ML Hayden,AJ Hall,0,0,0,NA,0,NA,NA,NA,1
+247478,1st innings,Australia,South Africa,15.4,RT Ponting,ML Hayden,AJ Hall,0,0,0,NA,0,NA,NA,NA,1
+247478,1st innings,Australia,South Africa,15.5,RT Ponting,ML Hayden,AJ Hall,0,0,0,NA,0,NA,NA,NA,1
+247478,1st innings,Australia,South Africa,15.6,RT Ponting,ML Hayden,AJ Hall,0,0,0,NA,0,NA,NA,NA,1
+247478,1st innings,Australia,South Africa,16.1,ML Hayden,RT Ponting,CK Langeveldt,0,0,0,NA,0,NA,NA,NA,1
+247478,1st innings,Australia,South Africa,16.2,ML Hayden,RT Ponting,CK Langeveldt,4,0,4,NA,0,NA,NA,NA,1
+247478,1st innings,Australia,South Africa,16.3,ML Hayden,RT Ponting,CK Langeveldt,0,0,0,NA,0,NA,NA,NA,1
+247478,1st innings,Australia,South Africa,16.4,ML Hayden,RT Ponting,CK Langeveldt,0,0,0,NA,0,NA,NA,NA,1
+247478,1st innings,Australia,South Africa,16.5,ML Hayden,RT Ponting,CK Langeveldt,4,0,4,NA,0,NA,NA,NA,1
+247478,1st innings,Australia,South Africa,16.6,ML Hayden,RT Ponting,CK Langeveldt,4,0,4,NA,0,NA,NA,NA,1
+247478,1st innings,Australia,South Africa,17.1,RT Ponting,ML Hayden,AJ Hall,0,0,0,NA,0,NA,NA,NA,1
+247478,1st innings,Australia,South Africa,17.2,RT Ponting,ML Hayden,AJ Hall,0,0,0,NA,0,NA,NA,NA,1
+247478,1st innings,Australia,South Africa,17.3,RT Ponting,ML Hayden,AJ Hall,0,0,0,NA,0,NA,NA,NA,1
+247478,1st innings,Australia,South Africa,17.4,RT Ponting,ML Hayden,AJ Hall,1,0,1,NA,0,NA,NA,NA,1
+247478,1st innings,Australia,South Africa,17.5,ML Hayden,RT Ponting,AJ Hall,4,0,4,NA,0,NA,NA,NA,1
+247478,1st innings,Australia,South Africa,17.6,ML Hayden,RT Ponting,AJ Hall,0,0,0,NA,0,NA,NA,NA,1
+247478,1st innings,Australia,South Africa,18.1,RT Ponting,ML Hayden,CK Langeveldt,0,1,1,noballs,0,NA,NA,NA,1
+247478,1st innings,Australia,South Africa,18.2,RT Ponting,ML Hayden,CK Langeveldt,1,0,1,NA,0,NA,NA,NA,1
+247478,1st innings,Australia,South Africa,18.3,ML Hayden,RT Ponting,CK Langeveldt,4,0,4,NA,0,NA,NA,NA,1
+247478,1st innings,Australia,South Africa,18.4,ML Hayden,RT Ponting,CK Langeveldt,1,0,1,NA,0,NA,NA,NA,1
+247478,1st innings,Australia,South Africa,18.5,RT Ponting,ML Hayden,CK Langeveldt,0,1,1,wides,0,NA,NA,NA,1
+247478,1st innings,Australia,South Africa,18.6,RT Ponting,ML Hayden,CK Langeveldt,0,0,0,NA,0,NA,NA,NA,1
+247478,1st innings,Australia,South Africa,18.7,RT Ponting,ML Hayden,CK Langeveldt,0,0,0,NA,0,NA,NA,NA,1
+247478,1st innings,Australia,South Africa,18.8,RT Ponting,ML Hayden,CK Langeveldt,4,0,4,NA,0,NA,NA,NA,1
+247478,1st innings,Australia,South Africa,19.1,ML Hayden,RT Ponting,AJ Hall,1,0,1,NA,0,NA,NA,NA,1
+247478,1st innings,Australia,South Africa,19.2,RT Ponting,ML Hayden,AJ Hall,0,0,0,NA,0,NA,NA,NA,1
+247478,1st innings,Australia,South Africa,19.3,RT Ponting,ML Hayden,AJ Hall,6,0,6,NA,0,NA,NA,NA,1
+247478,1st innings,Australia,South Africa,19.4,RT Ponting,ML Hayden,AJ Hall,0,0,0,NA,0,NA,NA,NA,1
+247478,1st innings,Australia,South Africa,19.5,RT Ponting,ML Hayden,AJ Hall,4,0,4,NA,0,NA,NA,NA,1
+247478,1st innings,Australia,South Africa,19.6,RT Ponting,ML Hayden,AJ Hall,0,0,0,NA,0,NA,NA,NA,1
+247478,1st innings,Australia,South Africa,20.1,ML Hayden,RT Ponting,CK Langeveldt,0,0,0,NA,0,NA,NA,NA,1
+247478,1st innings,Australia,South Africa,20.2,ML Hayden,RT Ponting,CK Langeveldt,1,0,1,NA,0,NA,NA,NA,1
+247478,1st innings,Australia,South Africa,20.3,RT Ponting,ML Hayden,CK Langeveldt,1,0,1,NA,0,NA,NA,NA,1
+247478,1st innings,Australia,South Africa,20.4,ML Hayden,RT Ponting,CK Langeveldt,0,1,1,wides,0,NA,NA,NA,1
+247478,1st innings,Australia,South Africa,20.5,ML Hayden,RT Ponting,CK Langeveldt,1,0,1,NA,0,NA,NA,NA,1
+247478,1st innings,Australia,South Africa,20.6,RT Ponting,ML Hayden,CK Langeveldt,0,0,0,NA,0,NA,NA,NA,1
+247478,1st innings,Australia,South Africa,20.7,RT Ponting,ML Hayden,CK Langeveldt,1,0,1,NA,0,NA,NA,NA,1
+247478,1st innings,Australia,South Africa,21.1,RT Ponting,ML Hayden,AJ Hall,0,0,0,NA,0,NA,NA,NA,1
+247478,1st innings,Australia,South Africa,21.2,RT Ponting,ML Hayden,AJ Hall,1,0,1,NA,0,NA,NA,NA,1
+247478,1st innings,Australia,South Africa,21.3,ML Hayden,RT Ponting,AJ Hall,1,0,1,NA,0,NA,NA,NA,1
+247478,1st innings,Australia,South Africa,21.4,RT Ponting,ML Hayden,AJ Hall,0,0,0,NA,0,NA,NA,NA,1
+247478,1st innings,Australia,South Africa,21.5,RT Ponting,ML Hayden,AJ Hall,0,0,0,NA,0,NA,NA,NA,1
+247478,1st innings,Australia,South Africa,21.6,RT Ponting,ML Hayden,AJ Hall,0,0,0,NA,0,NA,NA,NA,1
+247478,1st innings,Australia,South Africa,22.1,ML Hayden,RT Ponting,GC Smith,0,0,0,NA,0,NA,NA,NA,1
+247478,1st innings,Australia,South Africa,22.2,ML Hayden,RT Ponting,GC Smith,6,0,6,NA,0,NA,NA,NA,1
+247478,1st innings,Australia,South Africa,22.3,ML Hayden,RT Ponting,GC Smith,1,0,1,NA,0,NA,NA,NA,1
+247478,1st innings,Australia,South Africa,22.4,RT Ponting,ML Hayden,GC Smith,0,0,0,NA,0,NA,NA,NA,1
+247478,1st innings,Australia,South Africa,22.5,RT Ponting,ML Hayden,GC Smith,0,0,0,NA,0,NA,NA,NA,1
+247478,1st innings,Australia,South Africa,22.6,RT Ponting,ML Hayden,GC Smith,1,0,1,NA,0,NA,NA,NA,1
+247478,1st innings,Australia,South Africa,23.1,RT Ponting,ML Hayden,JH Kallis,0,0,0,NA,0,NA,NA,NA,1
+247478,1st innings,Australia,South Africa,23.2,RT Ponting,ML Hayden,JH Kallis,1,0,1,NA,0,NA,NA,NA,1
+247478,1st innings,Australia,South Africa,23.3,ML Hayden,RT Ponting,JH Kallis,0,0,0,NA,1,caught,ML Hayden,HH Gibbs,1
+247478,1st innings,Australia,South Africa,23.4,MJ Clarke,RT Ponting,JH Kallis,0,0,0,NA,0,NA,NA,NA,1
+247478,1st innings,Australia,South Africa,23.5,MJ Clarke,RT Ponting,JH Kallis,0,0,0,NA,0,NA,NA,NA,1
+247478,1st innings,Australia,South Africa,23.6,MJ Clarke,RT Ponting,JH Kallis,1,0,1,NA,0,NA,NA,NA,1
+247478,1st innings,Australia,South Africa,24.1,MJ Clarke,RT Ponting,GC Smith,1,0,1,NA,0,NA,NA,NA,1
+247478,1st innings,Australia,South Africa,24.2,RT Ponting,MJ Clarke,GC Smith,1,0,1,NA,0,NA,NA,NA,1
+247478,1st innings,Australia,South Africa,24.3,MJ Clarke,RT Ponting,GC Smith,1,0,1,NA,0,NA,NA,NA,1
+247478,1st innings,Australia,South Africa,24.4,RT Ponting,MJ Clarke,GC Smith,1,0,1,NA,0,NA,NA,NA,1
+247478,1st innings,Australia,South Africa,24.5,MJ Clarke,RT Ponting,GC Smith,1,0,1,NA,0,NA,NA,NA,1
+247478,1st innings,Australia,South Africa,24.6,RT Ponting,MJ Clarke,GC Smith,1,0,1,NA,0,NA,NA,NA,1
+247478,1st innings,Australia,South Africa,25.1,RT Ponting,MJ Clarke,JH Kallis,1,0,1,NA,0,NA,NA,NA,1
+247478,1st innings,Australia,South Africa,25.2,MJ Clarke,RT Ponting,JH Kallis,1,0,1,NA,0,NA,NA,NA,1
+247478,1st innings,Australia,South Africa,25.3,RT Ponting,MJ Clarke,JH Kallis,0,0,0,NA,0,NA,NA,NA,1
+247478,1st innings,Australia,South Africa,25.4,RT Ponting,MJ Clarke,JH Kallis,1,0,1,NA,0,NA,NA,NA,1
+247478,1st innings,Australia,South Africa,25.5,MJ Clarke,RT Ponting,JH Kallis,0,0,0,NA,0,NA,NA,NA,1
+247478,1st innings,Australia,South Africa,25.6,MJ Clarke,RT Ponting,JH Kallis,0,0,0,NA,0,NA,NA,NA,1
+247478,1st innings,Australia,South Africa,26.1,RT Ponting,MJ Clarke,SM Pollock,0,0,0,NA,0,NA,NA,NA,1
+247478,1st innings,Australia,South Africa,26.2,RT Ponting,MJ Clarke,SM Pollock,1,0,1,NA,0,NA,NA,NA,1
+247478,1st innings,Australia,South Africa,26.3,MJ Clarke,RT Ponting,SM Pollock,0,0,0,NA,0,NA,NA,NA,1
+247478,1st innings,Australia,South Africa,26.4,MJ Clarke,RT Ponting,SM Pollock,0,2,2,wides,0,NA,NA,NA,1
+247478,1st innings,Australia,South Africa,26.5,RT Ponting,MJ Clarke,SM Pollock,0,0,0,NA,0,NA,NA,NA,1
+247478,1st innings,Australia,South Africa,26.6,RT Ponting,MJ Clarke,SM Pollock,1,0,1,NA,0,NA,NA,NA,1
+247478,1st innings,Australia,South Africa,26.7,MJ Clarke,RT Ponting,SM Pollock,1,0,1,NA,0,NA,NA,NA,1
+247478,1st innings,Australia,South Africa,27.1,MJ Clarke,RT Ponting,JH Kallis,0,0,0,NA,0,NA,NA,NA,1
+247478,1st innings,Australia,South Africa,27.2,MJ Clarke,RT Ponting,JH Kallis,1,0,1,NA,0,NA,NA,NA,1
+247478,1st innings,Australia,South Africa,27.3,RT Ponting,MJ Clarke,JH Kallis,4,0,4,NA,0,NA,NA,NA,1
+247478,1st innings,Australia,South Africa,27.4,RT Ponting,MJ Clarke,JH Kallis,0,0,0,NA,0,NA,NA,NA,1
+247478,1st innings,Australia,South Africa,27.5,RT Ponting,MJ Clarke,JH Kallis,1,0,1,NA,0,NA,NA,NA,1
+247478,1st innings,Australia,South Africa,27.6,MJ Clarke,RT Ponting,JH Kallis,1,0,1,NA,0,NA,NA,NA,1
+247478,1st innings,Australia,South Africa,28.1,MJ Clarke,RT Ponting,SM Pollock,0,0,0,NA,0,NA,NA,NA,1
+247478,1st innings,Australia,South Africa,28.2,MJ Clarke,RT Ponting,SM Pollock,2,0,2,NA,0,NA,NA,NA,1
+247478,1st innings,Australia,South Africa,28.3,MJ Clarke,RT Ponting,SM Pollock,0,0,0,NA,0,NA,NA,NA,1
+247478,1st innings,Australia,South Africa,28.4,MJ Clarke,RT Ponting,SM Pollock,0,0,0,NA,0,NA,NA,NA,1
+247478,1st innings,Australia,South Africa,28.5,MJ Clarke,RT Ponting,SM Pollock,1,0,1,NA,0,NA,NA,NA,1
+247478,1st innings,Australia,South Africa,28.6,RT Ponting,MJ Clarke,SM Pollock,1,0,1,NA,0,NA,NA,NA,1
+247478,1st innings,Australia,South Africa,29.1,RT Ponting,MJ Clarke,JH Kallis,1,0,1,NA,0,NA,NA,NA,1
+247478,1st innings,Australia,South Africa,29.2,MJ Clarke,RT Ponting,JH Kallis,1,0,1,NA,0,NA,NA,NA,1
+247478,1st innings,Australia,South Africa,29.3,RT Ponting,MJ Clarke,JH Kallis,0,4,4,legbyes,0,NA,NA,NA,1
+247478,1st innings,Australia,South Africa,29.4,RT Ponting,MJ Clarke,JH Kallis,1,0,1,NA,0,NA,NA,NA,1
+247478,1st innings,Australia,South Africa,29.5,MJ Clarke,RT Ponting,JH Kallis,0,0,0,NA,0,NA,NA,NA,1
+247478,1st innings,Australia,South Africa,29.6,MJ Clarke,RT Ponting,JH Kallis,1,0,1,NA,0,NA,NA,NA,1
+247478,1st innings,Australia,South Africa,30.1,MJ Clarke,RT Ponting,SM Pollock,1,0,1,NA,0,NA,NA,NA,1
+247478,1st innings,Australia,South Africa,30.2,RT Ponting,MJ Clarke,SM Pollock,1,0,1,NA,0,NA,NA,NA,1
+247478,1st innings,Australia,South Africa,30.3,MJ Clarke,RT Ponting,SM Pollock,0,0,0,NA,0,NA,NA,NA,1
+247478,1st innings,Australia,South Africa,30.4,MJ Clarke,RT Ponting,SM Pollock,0,0,0,NA,0,NA,NA,NA,1
+247478,1st innings,Australia,South Africa,30.5,MJ Clarke,RT Ponting,SM Pollock,0,0,0,NA,0,NA,NA,NA,1
+247478,1st innings,Australia,South Africa,30.6,MJ Clarke,RT Ponting,SM Pollock,0,0,0,NA,0,NA,NA,NA,1
+247478,1st innings,Australia,South Africa,31.1,RT Ponting,MJ Clarke,JH Kallis,1,0,1,NA,0,NA,NA,NA,1
+247478,1st innings,Australia,South Africa,31.2,MJ Clarke,RT Ponting,JH Kallis,0,0,0,NA,0,NA,NA,NA,1
+247478,1st innings,Australia,South Africa,31.3,MJ Clarke,RT Ponting,JH Kallis,0,0,0,NA,0,NA,NA,NA,1
+247478,1st innings,Australia,South Africa,31.4,MJ Clarke,RT Ponting,JH Kallis,4,0,4,NA,0,NA,NA,NA,1
+247478,1st innings,Australia,South Africa,31.5,MJ Clarke,RT Ponting,JH Kallis,6,0,6,NA,0,NA,NA,NA,1
+247478,1st innings,Australia,South Africa,31.6,MJ Clarke,RT Ponting,JH Kallis,0,0,0,NA,0,NA,NA,NA,1
+247478,1st innings,Australia,South Africa,32.1,RT Ponting,MJ Clarke,M Ntini,0,0,0,NA,0,NA,NA,NA,1
+247478,1st innings,Australia,South Africa,32.2,RT Ponting,MJ Clarke,M Ntini,0,0,0,NA,0,NA,NA,NA,1
+247478,1st innings,Australia,South Africa,32.3,RT Ponting,MJ Clarke,M Ntini,1,0,1,NA,0,NA,NA,NA,1
+247478,1st innings,Australia,South Africa,32.4,MJ Clarke,RT Ponting,M Ntini,0,0,0,NA,0,NA,NA,NA,1
+247478,1st innings,Australia,South Africa,32.5,MJ Clarke,RT Ponting,M Ntini,0,0,0,NA,0,NA,NA,NA,1
+247478,1st innings,Australia,South Africa,32.6,MJ Clarke,RT Ponting,M Ntini,1,0,1,NA,0,NA,NA,NA,1
+247478,1st innings,Australia,South Africa,33.1,MJ Clarke,RT Ponting,JH Kallis,4,0,4,NA,0,NA,NA,NA,1
+247478,1st innings,Australia,South Africa,33.2,MJ Clarke,RT Ponting,JH Kallis,4,0,4,NA,0,NA,NA,NA,1
+247478,1st innings,Australia,South Africa,33.3,MJ Clarke,RT Ponting,JH Kallis,1,0,1,NA,0,NA,NA,NA,1
+247478,1st innings,Australia,South Africa,33.4,RT Ponting,MJ Clarke,JH Kallis,1,0,1,NA,0,NA,NA,NA,1
+247478,1st innings,Australia,South Africa,33.5,MJ Clarke,RT Ponting,JH Kallis,1,0,1,NA,0,NA,NA,NA,1
+247478,1st innings,Australia,South Africa,33.6,RT Ponting,MJ Clarke,JH Kallis,1,0,1,NA,0,NA,NA,NA,1
+247478,1st innings,Australia,South Africa,34.1,RT Ponting,MJ Clarke,M Ntini,4,0,4,NA,0,NA,NA,NA,1
+247478,1st innings,Australia,South Africa,34.2,RT Ponting,MJ Clarke,M Ntini,2,0,2,NA,0,NA,NA,NA,1
+247478,1st innings,Australia,South Africa,34.3,RT Ponting,MJ Clarke,M Ntini,0,0,0,NA,0,NA,NA,NA,1
+247478,1st innings,Australia,South Africa,34.4,RT Ponting,MJ Clarke,M Ntini,0,0,0,NA,0,NA,NA,NA,1
+247478,1st innings,Australia,South Africa,34.5,RT Ponting,MJ Clarke,M Ntini,4,0,4,NA,0,NA,NA,NA,1
+247478,1st innings,Australia,South Africa,34.6,RT Ponting,MJ Clarke,M Ntini,1,0,1,NA,0,NA,NA,NA,1
+247478,1st innings,Australia,South Africa,35.1,RT Ponting,MJ Clarke,CK Langeveldt,1,0,1,NA,0,NA,NA,NA,1
+247478,1st innings,Australia,South Africa,35.2,MJ Clarke,RT Ponting,CK Langeveldt,0,0,0,NA,0,NA,NA,NA,1
+247478,1st innings,Australia,South Africa,35.3,MJ Clarke,RT Ponting,CK Langeveldt,2,0,2,NA,0,NA,NA,NA,1
+247478,1st innings,Australia,South Africa,35.4,MJ Clarke,RT Ponting,CK Langeveldt,4,0,4,NA,0,NA,NA,NA,1
+247478,1st innings,Australia,South Africa,35.5,MJ Clarke,RT Ponting,CK Langeveldt,4,0,4,NA,0,NA,NA,NA,1
+247478,1st innings,Australia,South Africa,35.6,MJ Clarke,RT Ponting,CK Langeveldt,0,0,0,NA,0,NA,NA,NA,1
+247478,1st innings,Australia,South Africa,36.1,RT Ponting,MJ Clarke,SM Pollock,1,0,1,NA,0,NA,NA,NA,1
+247478,1st innings,Australia,South Africa,36.2,MJ Clarke,RT Ponting,SM Pollock,0,0,0,NA,0,NA,NA,NA,1
+247478,1st innings,Australia,South Africa,36.3,MJ Clarke,RT Ponting,SM Pollock,6,0,6,NA,0,NA,NA,NA,1
+247478,1st innings,Australia,South Africa,36.4,MJ Clarke,RT Ponting,SM Pollock,1,0,1,NA,0,NA,NA,NA,1
+247478,1st innings,Australia,South Africa,36.5,RT Ponting,MJ Clarke,SM Pollock,6,0,6,NA,0,NA,NA,NA,1
+247478,1st innings,Australia,South Africa,36.6,RT Ponting,MJ Clarke,SM Pollock,2,0,2,NA,0,NA,NA,NA,1
+247478,1st innings,Australia,South Africa,37.1,MJ Clarke,RT Ponting,CK Langeveldt,0,0,0,NA,0,NA,NA,NA,1
+247478,1st innings,Australia,South Africa,37.2,MJ Clarke,RT Ponting,CK Langeveldt,0,0,0,NA,0,NA,NA,NA,1
+247478,1st innings,Australia,South Africa,37.3,MJ Clarke,RT Ponting,CK Langeveldt,1,0,1,NA,0,NA,NA,NA,1
+247478,1st innings,Australia,South Africa,37.4,RT Ponting,MJ Clarke,CK Langeveldt,1,0,1,NA,0,NA,NA,NA,1
+247478,1st innings,Australia,South Africa,37.5,MJ Clarke,RT Ponting,CK Langeveldt,1,0,1,NA,0,NA,NA,NA,1
+247478,1st innings,Australia,South Africa,37.6,RT Ponting,MJ Clarke,CK Langeveldt,1,0,1,NA,0,NA,NA,NA,1
+247478,1st innings,Australia,South Africa,38.1,RT Ponting,MJ Clarke,SM Pollock,1,0,1,NA,0,NA,NA,NA,1
+247478,1st innings,Australia,South Africa,38.2,MJ Clarke,RT Ponting,SM Pollock,1,0,1,NA,0,NA,NA,NA,1
+247478,1st innings,Australia,South Africa,38.3,RT Ponting,MJ Clarke,SM Pollock,0,5,5,wides,0,NA,NA,NA,1
+247478,1st innings,Australia,South Africa,38.4,RT Ponting,MJ Clarke,SM Pollock,1,0,1,NA,0,NA,NA,NA,1
+247478,1st innings,Australia,South Africa,38.5,MJ Clarke,RT Ponting,SM Pollock,1,0,1,NA,0,NA,NA,NA,1
+247478,1st innings,Australia,South Africa,38.6,RT Ponting,MJ Clarke,SM Pollock,4,0,4,NA,0,NA,NA,NA,1
+247478,1st innings,Australia,South Africa,38.7,RT Ponting,MJ Clarke,SM Pollock,1,0,1,NA,0,NA,NA,NA,1
+247478,1st innings,Australia,South Africa,39.1,RT Ponting,MJ Clarke,AJ Hall,0,0,0,NA,0,NA,NA,NA,1
+247478,1st innings,Australia,South Africa,39.2,RT Ponting,MJ Clarke,AJ Hall,1,0,1,NA,0,NA,NA,NA,1
+247478,1st innings,Australia,South Africa,39.3,MJ Clarke,RT Ponting,AJ Hall,0,0,0,NA,0,NA,NA,NA,1
+247478,1st innings,Australia,South Africa,39.4,MJ Clarke,RT Ponting,AJ Hall,1,0,1,NA,0,NA,NA,NA,1
+247478,1st innings,Australia,South Africa,39.5,RT Ponting,MJ Clarke,AJ Hall,1,0,1,NA,0,NA,NA,NA,1
+247478,1st innings,Australia,South Africa,39.6,MJ Clarke,RT Ponting,AJ Hall,1,0,1,NA,0,NA,NA,NA,1
+247478,1st innings,Australia,South Africa,40.1,MJ Clarke,RT Ponting,JH Kallis,1,0,1,NA,0,NA,NA,NA,1
+247478,1st innings,Australia,South Africa,40.2,RT Ponting,MJ Clarke,JH Kallis,1,0,1,NA,0,NA,NA,NA,1
+247478,1st innings,Australia,South Africa,40.3,MJ Clarke,RT Ponting,JH Kallis,1,0,1,NA,0,NA,NA,NA,1
+247478,1st innings,Australia,South Africa,40.4,RT Ponting,MJ Clarke,JH Kallis,1,0,1,NA,0,NA,NA,NA,1
+247478,1st innings,Australia,South Africa,40.5,MJ Clarke,RT Ponting,JH Kallis,1,0,1,NA,0,NA,NA,NA,1
+247478,1st innings,Australia,South Africa,40.6,RT Ponting,MJ Clarke,JH Kallis,4,0,4,NA,0,NA,NA,NA,1
+247478,1st innings,Australia,South Africa,41.1,MJ Clarke,RT Ponting,AJ Hall,1,0,1,NA,0,NA,NA,NA,1
+247478,1st innings,Australia,South Africa,41.2,RT Ponting,MJ Clarke,AJ Hall,1,0,1,NA,0,NA,NA,NA,1
+247478,1st innings,Australia,South Africa,41.3,MJ Clarke,RT Ponting,AJ Hall,1,0,1,NA,0,NA,NA,NA,1
+247478,1st innings,Australia,South Africa,41.4,RT Ponting,MJ Clarke,AJ Hall,1,0,1,NA,0,NA,NA,NA,1
+247478,1st innings,Australia,South Africa,41.5,MJ Clarke,RT Ponting,AJ Hall,1,0,1,NA,0,NA,NA,NA,1
+247478,1st innings,Australia,South Africa,41.6,RT Ponting,MJ Clarke,AJ Hall,1,0,1,NA,0,NA,NA,NA,1
+247478,1st innings,Australia,South Africa,42.1,RT Ponting,MJ Clarke,JH Kallis,0,0,0,NA,0,NA,NA,NA,1
+247478,1st innings,Australia,South Africa,42.2,RT Ponting,MJ Clarke,JH Kallis,1,0,1,NA,0,NA,NA,NA,1
+247478,1st innings,Australia,South Africa,42.3,MJ Clarke,RT Ponting,JH Kallis,4,0,4,NA,0,NA,NA,NA,1
+247478,1st innings,Australia,South Africa,42.4,MJ Clarke,RT Ponting,JH Kallis,1,0,1,NA,0,NA,NA,NA,1
+247478,1st innings,Australia,South Africa,42.5,RT Ponting,MJ Clarke,JH Kallis,1,0,1,NA,0,NA,NA,NA,1
+247478,1st innings,Australia,South Africa,42.6,MJ Clarke,RT Ponting,JH Kallis,1,0,1,NA,0,NA,NA,NA,1
+247478,1st innings,Australia,South Africa,43.1,MJ Clarke,RT Ponting,M Ntini,0,0,0,NA,0,NA,NA,NA,1
+247478,1st innings,Australia,South Africa,43.2,MJ Clarke,RT Ponting,M Ntini,1,0,1,NA,0,NA,NA,NA,1
+247478,1st innings,Australia,South Africa,43.3,RT Ponting,MJ Clarke,M Ntini,1,0,1,NA,0,NA,NA,NA,1
+247478,1st innings,Australia,South Africa,43.4,MJ Clarke,RT Ponting,M Ntini,1,0,1,NA,0,NA,NA,NA,1
+247478,1st innings,Australia,South Africa,43.5,RT Ponting,MJ Clarke,M Ntini,4,0,4,NA,0,NA,NA,NA,1
+247478,1st innings,Australia,South Africa,43.6,RT Ponting,MJ Clarke,M Ntini,0,0,0,NA,0,NA,NA,NA,1
+247478,1st innings,Australia,South Africa,44.1,MJ Clarke,RT Ponting,JH Kallis,1,0,1,NA,0,NA,NA,NA,1
+247478,1st innings,Australia,South Africa,44.2,RT Ponting,MJ Clarke,JH Kallis,1,0,1,NA,0,NA,NA,NA,1
+247478,1st innings,Australia,South Africa,44.3,MJ Clarke,RT Ponting,JH Kallis,1,0,1,NA,0,NA,NA,NA,1
+247478,1st innings,Australia,South Africa,44.4,RT Ponting,MJ Clarke,JH Kallis,0,0,0,NA,0,NA,NA,NA,1
+247478,1st innings,Australia,South Africa,44.5,RT Ponting,MJ Clarke,JH Kallis,1,0,1,NA,0,NA,NA,NA,1
+247478,1st innings,Australia,South Africa,44.6,MJ Clarke,RT Ponting,JH Kallis,6,0,6,NA,0,NA,NA,NA,1
+247478,1st innings,Australia,South Africa,45.1,RT Ponting,MJ Clarke,M Ntini,0,0,0,NA,1,caught,RT Ponting,AB de Villiers,1
+247478,1st innings,Australia,South Africa,45.2,A Symonds,MJ Clarke,M Ntini,1,0,1,NA,0,NA,NA,NA,1
+247478,1st innings,Australia,South Africa,45.3,MJ Clarke,A Symonds,M Ntini,4,0,4,NA,0,NA,NA,NA,1
+247478,1st innings,Australia,South Africa,45.4,MJ Clarke,A Symonds,M Ntini,1,0,1,NA,0,NA,NA,NA,1
+247478,1st innings,Australia,South Africa,45.5,A Symonds,MJ Clarke,M Ntini,1,0,1,NA,0,NA,NA,NA,1
+247478,1st innings,Australia,South Africa,45.6,MJ Clarke,A Symonds,M Ntini,6,0,6,NA,0,NA,NA,NA,1
+247478,1st innings,Australia,South Africa,46.1,A Symonds,MJ Clarke,CK Langeveldt,1,0,1,NA,0,NA,NA,NA,1
+247478,1st innings,Australia,South Africa,46.2,MJ Clarke,A Symonds,CK Langeveldt,1,0,1,NA,0,NA,NA,NA,1
+247478,1st innings,Australia,South Africa,46.3,A Symonds,MJ Clarke,CK Langeveldt,4,0,4,NA,0,NA,NA,NA,1
+247478,1st innings,Australia,South Africa,46.4,A Symonds,MJ Clarke,CK Langeveldt,0,0,0,NA,1,run out,MJ Clarke,SM Pollock,1
+247478,1st innings,Australia,South Africa,46.5,A Symonds,MEK Hussey,CK Langeveldt,1,0,1,NA,0,NA,NA,NA,1
+247478,1st innings,Australia,South Africa,46.6,MEK Hussey,A Symonds,CK Langeveldt,1,0,1,NA,0,NA,NA,NA,1
+247478,1st innings,Australia,South Africa,47.1,MEK Hussey,A Symonds,AJ Hall,4,0,4,NA,0,NA,NA,NA,1
+247478,1st innings,Australia,South Africa,47.2,MEK Hussey,A Symonds,AJ Hall,0,0,0,NA,1,caught,MEK Hussey,JH Kallis,1
+247478,1st innings,Australia,South Africa,47.3,A Symonds,SR Watson,AJ Hall,1,0,1,NA,0,NA,NA,NA,1
+247478,1st innings,Australia,South Africa,47.4,SR Watson,A Symonds,AJ Hall,1,0,1,NA,0,NA,NA,NA,1
+247478,1st innings,Australia,South Africa,47.5,A Symonds,SR Watson,AJ Hall,1,0,1,NA,0,NA,NA,NA,1
+247478,1st innings,Australia,South Africa,47.6,SR Watson,A Symonds,AJ Hall,1,0,1,NA,0,NA,NA,NA,1
+247478,1st innings,Australia,South Africa,48.1,SR Watson,A Symonds,CK Langeveldt,1,0,1,NA,0,NA,NA,NA,1
+247478,1st innings,Australia,South Africa,48.2,A Symonds,SR Watson,CK Langeveldt,4,0,4,NA,0,NA,NA,NA,1
+247478,1st innings,Australia,South Africa,48.3,A Symonds,SR Watson,CK Langeveldt,1,0,1,NA,0,NA,NA,NA,1
+247478,1st innings,Australia,South Africa,48.4,SR Watson,A Symonds,CK Langeveldt,4,0,4,NA,0,NA,NA,NA,1
+247478,1st innings,Australia,South Africa,48.5,SR Watson,A Symonds,CK Langeveldt,2,0,2,NA,0,NA,NA,NA,1
+247478,1st innings,Australia,South Africa,48.6,SR Watson,A Symonds,CK Langeveldt,4,0,4,NA,0,NA,NA,NA,1
+247478,1st innings,Australia,South Africa,49.1,A Symonds,SR Watson,AJ Hall,1,0,1,NA,0,NA,NA,NA,1
+247478,1st innings,Australia,South Africa,49.2,SR Watson,A Symonds,AJ Hall,0,0,0,NA,0,NA,NA,NA,1
+247478,1st innings,Australia,South Africa,49.3,SR Watson,A Symonds,AJ Hall,0,0,0,NA,0,NA,NA,NA,1
+247478,1st innings,Australia,South Africa,49.4,SR Watson,A Symonds,AJ Hall,1,0,1,NA,0,NA,NA,NA,1
+247478,1st innings,Australia,South Africa,49.5,A Symonds,SR Watson,AJ Hall,2,0,2,NA,0,NA,NA,NA,1
+247478,1st innings,Australia,South Africa,49.6,A Symonds,SR Watson,AJ Hall,0,0,0,NA,1,bowled,A Symonds,NA,1
+247478,2nd innings,South Africa,Australia,0.1,AB de Villiers,GC Smith,NW Bracken,0,0,0,NA,0,NA,NA,NA,0
+247478,2nd innings,South Africa,Australia,0.2,AB de Villiers,GC Smith,NW Bracken,0,0,0,NA,0,NA,NA,NA,0
+247478,2nd innings,South Africa,Australia,0.3,AB de Villiers,GC Smith,NW Bracken,0,0,0,NA,0,NA,NA,NA,0
+247478,2nd innings,South Africa,Australia,0.4,AB de Villiers,GC Smith,NW Bracken,4,0,4,NA,0,NA,NA,NA,0
+247478,2nd innings,South Africa,Australia,0.5,AB de Villiers,GC Smith,NW Bracken,6,0,6,NA,0,NA,NA,NA,0
+247478,2nd innings,South Africa,Australia,0.6,AB de Villiers,GC Smith,NW Bracken,0,0,0,NA,0,NA,NA,NA,0
+247478,2nd innings,South Africa,Australia,1.1,GC Smith,AB de Villiers,SW Tait,0,0,0,NA,0,NA,NA,NA,0
+247478,2nd innings,South Africa,Australia,1.2,GC Smith,AB de Villiers,SW Tait,0,0,0,NA,0,NA,NA,NA,0
+247478,2nd innings,South Africa,Australia,1.3,GC Smith,AB de Villiers,SW Tait,1,0,1,NA,0,NA,NA,NA,0
+247478,2nd innings,South Africa,Australia,1.4,AB de Villiers,GC Smith,SW Tait,0,1,1,wides,0,NA,NA,NA,0
+247478,2nd innings,South Africa,Australia,1.5,AB de Villiers,GC Smith,SW Tait,4,0,4,NA,0,NA,NA,NA,0
+247478,2nd innings,South Africa,Australia,1.6,AB de Villiers,GC Smith,SW Tait,0,0,0,NA,0,NA,NA,NA,0
+247478,2nd innings,South Africa,Australia,1.7,AB de Villiers,GC Smith,SW Tait,0,1,1,wides,0,NA,NA,NA,0
+247478,2nd innings,South Africa,Australia,1.8,AB de Villiers,GC Smith,SW Tait,1,0,1,NA,0,NA,NA,NA,0
+247478,2nd innings,South Africa,Australia,2.1,AB de Villiers,GC Smith,NW Bracken,0,0,0,NA,0,NA,NA,NA,0
+247478,2nd innings,South Africa,Australia,2.2,AB de Villiers,GC Smith,NW Bracken,0,0,0,NA,0,NA,NA,NA,0
+247478,2nd innings,South Africa,Australia,2.3,AB de Villiers,GC Smith,NW Bracken,1,0,1,NA,0,NA,NA,NA,0
+247478,2nd innings,South Africa,Australia,2.4,GC Smith,AB de Villiers,NW Bracken,0,0,0,NA,0,NA,NA,NA,0
+247478,2nd innings,South Africa,Australia,2.5,GC Smith,AB de Villiers,NW Bracken,0,0,0,NA,0,NA,NA,NA,0
+247478,2nd innings,South Africa,Australia,2.6,GC Smith,AB de Villiers,NW Bracken,0,0,0,NA,0,NA,NA,NA,0
+247478,2nd innings,South Africa,Australia,3.1,AB de Villiers,GC Smith,SW Tait,1,0,1,NA,0,NA,NA,NA,0
+247478,2nd innings,South Africa,Australia,3.2,GC Smith,AB de Villiers,SW Tait,0,0,0,NA,0,NA,NA,NA,0
+247478,2nd innings,South Africa,Australia,3.3,GC Smith,AB de Villiers,SW Tait,4,0,4,NA,0,NA,NA,NA,0
+247478,2nd innings,South Africa,Australia,3.4,GC Smith,AB de Villiers,SW Tait,1,0,1,NA,0,NA,NA,NA,0
+247478,2nd innings,South Africa,Australia,3.5,AB de Villiers,GC Smith,SW Tait,4,0,4,NA,0,NA,NA,NA,0
+247478,2nd innings,South Africa,Australia,3.6,AB de Villiers,GC Smith,SW Tait,0,1,1,wides,0,NA,NA,NA,0
+247478,2nd innings,South Africa,Australia,3.7,AB de Villiers,GC Smith,SW Tait,0,0,0,NA,0,NA,NA,NA,0
+247478,2nd innings,South Africa,Australia,4.1,GC Smith,AB de Villiers,NW Bracken,4,0,4,NA,0,NA,NA,NA,0
+247478,2nd innings,South Africa,Australia,4.2,GC Smith,AB de Villiers,NW Bracken,0,0,0,NA,0,NA,NA,NA,0
+247478,2nd innings,South Africa,Australia,4.3,GC Smith,AB de Villiers,NW Bracken,0,0,0,NA,0,NA,NA,NA,0
+247478,2nd innings,South Africa,Australia,4.4,GC Smith,AB de Villiers,NW Bracken,4,0,4,NA,0,NA,NA,NA,0
+247478,2nd innings,South Africa,Australia,4.5,GC Smith,AB de Villiers,NW Bracken,1,0,1,NA,0,NA,NA,NA,0
+247478,2nd innings,South Africa,Australia,4.6,AB de Villiers,GC Smith,NW Bracken,1,0,1,NA,0,NA,NA,NA,0
+247478,2nd innings,South Africa,Australia,5.1,AB de Villiers,GC Smith,GD McGrath,4,0,4,NA,0,NA,NA,NA,0
+247478,2nd innings,South Africa,Australia,5.2,AB de Villiers,GC Smith,GD McGrath,4,0,4,NA,0,NA,NA,NA,0
+247478,2nd innings,South Africa,Australia,5.3,AB de Villiers,GC Smith,GD McGrath,4,0,4,NA,0,NA,NA,NA,0
+247478,2nd innings,South Africa,Australia,5.4,AB de Villiers,GC Smith,GD McGrath,0,0,0,NA,0,NA,NA,NA,0
+247478,2nd innings,South Africa,Australia,5.5,AB de Villiers,GC Smith,GD McGrath,0,0,0,NA,0,NA,NA,NA,0
+247478,2nd innings,South Africa,Australia,5.6,AB de Villiers,GC Smith,GD McGrath,0,0,0,NA,0,NA,NA,NA,0
+247478,2nd innings,South Africa,Australia,6.1,GC Smith,AB de Villiers,NW Bracken,1,0,1,NA,0,NA,NA,NA,0
+247478,2nd innings,South Africa,Australia,6.2,AB de Villiers,GC Smith,NW Bracken,0,0,0,NA,0,NA,NA,NA,0
+247478,2nd innings,South Africa,Australia,6.3,AB de Villiers,GC Smith,NW Bracken,0,0,0,NA,0,NA,NA,NA,0
+247478,2nd innings,South Africa,Australia,6.4,AB de Villiers,GC Smith,NW Bracken,0,0,0,NA,0,NA,NA,NA,0
+247478,2nd innings,South Africa,Australia,6.5,AB de Villiers,GC Smith,NW Bracken,1,0,1,NA,0,NA,NA,NA,0
+247478,2nd innings,South Africa,Australia,6.6,GC Smith,AB de Villiers,NW Bracken,0,0,0,NA,0,NA,NA,NA,0
+247478,2nd innings,South Africa,Australia,7.1,AB de Villiers,GC Smith,GD McGrath,0,0,0,NA,0,NA,NA,NA,0
+247478,2nd innings,South Africa,Australia,7.2,AB de Villiers,GC Smith,GD McGrath,0,0,0,NA,0,NA,NA,NA,0
+247478,2nd innings,South Africa,Australia,7.3,AB de Villiers,GC Smith,GD McGrath,0,0,0,NA,0,NA,NA,NA,0
+247478,2nd innings,South Africa,Australia,7.4,AB de Villiers,GC Smith,GD McGrath,0,0,0,NA,0,NA,NA,NA,0
+247478,2nd innings,South Africa,Australia,7.5,AB de Villiers,GC Smith,GD McGrath,1,0,1,NA,0,NA,NA,NA,0
+247478,2nd innings,South Africa,Australia,7.6,GC Smith,AB de Villiers,GD McGrath,0,0,0,NA,0,NA,NA,NA,0
+247478,2nd innings,South Africa,Australia,8.1,AB de Villiers,GC Smith,SR Watson,1,0,1,NA,0,NA,NA,NA,0
+247478,2nd innings,South Africa,Australia,8.2,GC Smith,AB de Villiers,SR Watson,0,0,0,NA,0,NA,NA,NA,0
+247478,2nd innings,South Africa,Australia,8.3,GC Smith,AB de Villiers,SR Watson,0,0,0,NA,0,NA,NA,NA,0
+247478,2nd innings,South Africa,Australia,8.4,GC Smith,AB de Villiers,SR Watson,6,0,6,NA,0,NA,NA,NA,0
+247478,2nd innings,South Africa,Australia,8.5,GC Smith,AB de Villiers,SR Watson,1,0,1,NA,0,NA,NA,NA,0
+247478,2nd innings,South Africa,Australia,8.6,AB de Villiers,GC Smith,SR Watson,0,0,0,NA,0,NA,NA,NA,0
+247478,2nd innings,South Africa,Australia,9.1,GC Smith,AB de Villiers,GD McGrath,4,0,4,NA,0,NA,NA,NA,0
+247478,2nd innings,South Africa,Australia,9.2,GC Smith,AB de Villiers,GD McGrath,1,0,1,NA,0,NA,NA,NA,0
+247478,2nd innings,South Africa,Australia,9.3,AB de Villiers,GC Smith,GD McGrath,0,0,0,NA,0,NA,NA,NA,0
+247478,2nd innings,South Africa,Australia,9.4,AB de Villiers,GC Smith,GD McGrath,4,0,4,NA,0,NA,NA,NA,0
+247478,2nd innings,South Africa,Australia,9.5,AB de Villiers,GC Smith,GD McGrath,1,0,1,NA,0,NA,NA,NA,0
+247478,2nd innings,South Africa,Australia,9.6,GC Smith,AB de Villiers,GD McGrath,0,0,0,NA,0,NA,NA,NA,0
+247478,2nd innings,South Africa,Australia,10.1,AB de Villiers,GC Smith,SR Watson,0,0,0,NA,0,NA,NA,NA,0
+247478,2nd innings,South Africa,Australia,10.2,AB de Villiers,GC Smith,SR Watson,1,0,1,NA,0,NA,NA,NA,0
+247478,2nd innings,South Africa,Australia,10.3,GC Smith,AB de Villiers,SR Watson,1,0,1,NA,0,NA,NA,NA,0
+247478,2nd innings,South Africa,Australia,10.4,AB de Villiers,GC Smith,SR Watson,0,0,0,NA,0,NA,NA,NA,0
+247478,2nd innings,South Africa,Australia,10.5,AB de Villiers,GC Smith,SR Watson,0,0,0,NA,0,NA,NA,NA,0
+247478,2nd innings,South Africa,Australia,10.6,AB de Villiers,GC Smith,SR Watson,4,0,4,NA,0,NA,NA,NA,0
+247478,2nd innings,South Africa,Australia,11.1,GC Smith,AB de Villiers,GD McGrath,1,0,1,NA,0,NA,NA,NA,0
+247478,2nd innings,South Africa,Australia,11.2,AB de Villiers,GC Smith,GD McGrath,0,0,0,NA,0,NA,NA,NA,0
+247478,2nd innings,South Africa,Australia,11.3,AB de Villiers,GC Smith,GD McGrath,0,0,0,NA,0,NA,NA,NA,0
+247478,2nd innings,South Africa,Australia,11.4,AB de Villiers,GC Smith,GD McGrath,0,0,0,NA,0,NA,NA,NA,0
+247478,2nd innings,South Africa,Australia,11.5,AB de Villiers,GC Smith,GD McGrath,1,0,1,NA,0,NA,NA,NA,0
+247478,2nd innings,South Africa,Australia,11.6,GC Smith,AB de Villiers,GD McGrath,0,0,0,NA,0,NA,NA,NA,0
+247478,2nd innings,South Africa,Australia,12.1,AB de Villiers,GC Smith,SR Watson,1,0,1,NA,0,NA,NA,NA,0
+247478,2nd innings,South Africa,Australia,12.2,GC Smith,AB de Villiers,SR Watson,4,0,4,NA,0,NA,NA,NA,0
+247478,2nd innings,South Africa,Australia,12.3,GC Smith,AB de Villiers,SR Watson,0,0,0,NA,0,NA,NA,NA,0
+247478,2nd innings,South Africa,Australia,12.4,GC Smith,AB de Villiers,SR Watson,6,0,6,NA,0,NA,NA,NA,0
+247478,2nd innings,South Africa,Australia,12.5,GC Smith,AB de Villiers,SR Watson,1,0,1,NA,0,NA,NA,NA,0
+247478,2nd innings,South Africa,Australia,12.6,AB de Villiers,GC Smith,SR Watson,3,0,3,NA,0,NA,NA,NA,0
+247478,2nd innings,South Africa,Australia,13.1,AB de Villiers,GC Smith,GD McGrath,4,0,4,NA,0,NA,NA,NA,0
+247478,2nd innings,South Africa,Australia,13.2,AB de Villiers,GC Smith,GD McGrath,0,0,0,NA,0,NA,NA,NA,0
+247478,2nd innings,South Africa,Australia,13.3,AB de Villiers,GC Smith,GD McGrath,1,0,1,NA,0,NA,NA,NA,0
+247478,2nd innings,South Africa,Australia,13.4,GC Smith,AB de Villiers,GD McGrath,0,0,0,NA,0,NA,NA,NA,0
+247478,2nd innings,South Africa,Australia,13.5,GC Smith,AB de Villiers,GD McGrath,1,0,1,NA,0,NA,NA,NA,0
+247478,2nd innings,South Africa,Australia,13.6,AB de Villiers,GC Smith,GD McGrath,4,0,4,NA,0,NA,NA,NA,0
+247478,2nd innings,South Africa,Australia,14.1,GC Smith,AB de Villiers,SW Tait,1,0,1,NA,0,NA,NA,NA,0
+247478,2nd innings,South Africa,Australia,14.2,AB de Villiers,GC Smith,SW Tait,0,0,0,NA,0,NA,NA,NA,0
+247478,2nd innings,South Africa,Australia,14.3,AB de Villiers,GC Smith,SW Tait,1,0,1,NA,0,NA,NA,NA,0
+247478,2nd innings,South Africa,Australia,14.4,GC Smith,AB de Villiers,SW Tait,4,0,4,NA,0,NA,NA,NA,0
+247478,2nd innings,South Africa,Australia,14.5,GC Smith,AB de Villiers,SW Tait,1,0,1,NA,0,NA,NA,NA,0
+247478,2nd innings,South Africa,Australia,14.6,AB de Villiers,GC Smith,SW Tait,0,0,0,NA,0,NA,NA,NA,0
+247478,2nd innings,South Africa,Australia,15.1,GC Smith,AB de Villiers,GB Hogg,0,0,0,NA,0,NA,NA,NA,0
+247478,2nd innings,South Africa,Australia,15.2,GC Smith,AB de Villiers,GB Hogg,0,0,0,NA,0,NA,NA,NA,0
+247478,2nd innings,South Africa,Australia,15.3,GC Smith,AB de Villiers,GB Hogg,0,0,0,NA,0,NA,NA,NA,0
+247478,2nd innings,South Africa,Australia,15.4,GC Smith,AB de Villiers,GB Hogg,0,0,0,NA,0,NA,NA,NA,0
+247478,2nd innings,South Africa,Australia,15.5,GC Smith,AB de Villiers,GB Hogg,4,0,4,NA,0,NA,NA,NA,0
+247478,2nd innings,South Africa,Australia,15.6,GC Smith,AB de Villiers,GB Hogg,1,0,1,NA,0,NA,NA,NA,0
+247478,2nd innings,South Africa,Australia,16.1,GC Smith,AB de Villiers,SW Tait,0,0,0,NA,0,NA,NA,NA,0
+247478,2nd innings,South Africa,Australia,16.2,GC Smith,AB de Villiers,SW Tait,0,0,0,NA,0,NA,NA,NA,0
+247478,2nd innings,South Africa,Australia,16.3,GC Smith,AB de Villiers,SW Tait,1,0,1,NA,0,NA,NA,NA,0
+247478,2nd innings,South Africa,Australia,16.4,AB de Villiers,GC Smith,SW Tait,1,0,1,NA,0,NA,NA,NA,0
+247478,2nd innings,South Africa,Australia,16.5,GC Smith,AB de Villiers,SW Tait,4,0,4,NA,0,NA,NA,NA,0
+247478,2nd innings,South Africa,Australia,16.6,GC Smith,AB de Villiers,SW Tait,1,0,1,NA,0,NA,NA,NA,0
+247478,2nd innings,South Africa,Australia,17.1,GC Smith,AB de Villiers,GB Hogg,0,0,0,NA,0,NA,NA,NA,0
+247478,2nd innings,South Africa,Australia,17.2,GC Smith,AB de Villiers,GB Hogg,1,0,1,NA,0,NA,NA,NA,0
+247478,2nd innings,South Africa,Australia,17.3,AB de Villiers,GC Smith,GB Hogg,2,0,2,NA,0,NA,NA,NA,0
+247478,2nd innings,South Africa,Australia,17.4,AB de Villiers,GC Smith,GB Hogg,6,0,6,NA,0,NA,NA,NA,0
+247478,2nd innings,South Africa,Australia,17.5,AB de Villiers,GC Smith,GB Hogg,0,0,0,NA,0,NA,NA,NA,0
+247478,2nd innings,South Africa,Australia,17.6,AB de Villiers,GC Smith,GB Hogg,0,0,0,NA,0,NA,NA,NA,0
+247478,2nd innings,South Africa,Australia,18.1,GC Smith,AB de Villiers,A Symonds,1,0,1,NA,0,NA,NA,NA,0
+247478,2nd innings,South Africa,Australia,18.2,AB de Villiers,GC Smith,A Symonds,0,0,0,NA,0,NA,NA,NA,0
+247478,2nd innings,South Africa,Australia,18.3,AB de Villiers,GC Smith,A Symonds,0,0,0,NA,0,NA,NA,NA,0
+247478,2nd innings,South Africa,Australia,18.4,AB de Villiers,GC Smith,A Symonds,4,0,4,NA,0,NA,NA,NA,0
+247478,2nd innings,South Africa,Australia,18.5,AB de Villiers,GC Smith,A Symonds,4,0,4,NA,0,NA,NA,NA,0
+247478,2nd innings,South Africa,Australia,18.6,AB de Villiers,GC Smith,A Symonds,4,0,4,NA,0,NA,NA,NA,0
+247478,2nd innings,South Africa,Australia,19.1,GC Smith,AB de Villiers,GB Hogg,0,0,0,NA,0,NA,NA,NA,0
+247478,2nd innings,South Africa,Australia,19.2,GC Smith,AB de Villiers,GB Hogg,0,0,0,NA,0,NA,NA,NA,0
+247478,2nd innings,South Africa,Australia,19.3,GC Smith,AB de Villiers,GB Hogg,1,0,1,NA,0,NA,NA,NA,0
+247478,2nd innings,South Africa,Australia,19.4,AB de Villiers,GC Smith,GB Hogg,0,0,0,NA,0,NA,NA,NA,0
+247478,2nd innings,South Africa,Australia,19.5,AB de Villiers,GC Smith,GB Hogg,4,0,4,NA,0,NA,NA,NA,0
+247478,2nd innings,South Africa,Australia,19.6,AB de Villiers,GC Smith,GB Hogg,2,0,2,NA,0,NA,NA,NA,0
+247478,2nd innings,South Africa,Australia,20.1,GC Smith,AB de Villiers,A Symonds,1,0,1,NA,0,NA,NA,NA,0
+247478,2nd innings,South Africa,Australia,20.2,AB de Villiers,GC Smith,A Symonds,1,0,1,NA,0,NA,NA,NA,0
+247478,2nd innings,South Africa,Australia,20.3,GC Smith,AB de Villiers,A Symonds,1,0,1,NA,0,NA,NA,NA,0
+247478,2nd innings,South Africa,Australia,20.4,AB de Villiers,GC Smith,A Symonds,1,0,1,NA,0,NA,NA,NA,0
+247478,2nd innings,South Africa,Australia,20.5,GC Smith,AB de Villiers,A Symonds,1,0,1,NA,0,NA,NA,NA,0
+247478,2nd innings,South Africa,Australia,20.6,AB de Villiers,GC Smith,A Symonds,1,0,1,NA,1,run out,AB de Villiers,SR Watson,0
+247478,2nd innings,South Africa,Australia,21.1,GC Smith,JH Kallis,GB Hogg,4,0,4,NA,0,NA,NA,NA,0
+247478,2nd innings,South Africa,Australia,21.2,GC Smith,JH Kallis,GB Hogg,1,0,1,NA,0,NA,NA,NA,0
+247478,2nd innings,South Africa,Australia,21.3,JH Kallis,GC Smith,GB Hogg,0,0,0,NA,0,NA,NA,NA,0
+247478,2nd innings,South Africa,Australia,21.4,JH Kallis,GC Smith,GB Hogg,0,0,0,NA,0,NA,NA,NA,0
+247478,2nd innings,South Africa,Australia,21.5,JH Kallis,GC Smith,GB Hogg,0,0,0,NA,0,NA,NA,NA,0
+247478,2nd innings,South Africa,Australia,21.6,JH Kallis,GC Smith,GB Hogg,1,0,1,NA,0,NA,NA,NA,0
+247478,2nd innings,South Africa,Australia,22.1,JH Kallis,GC Smith,SW Tait,0,0,0,NA,0,NA,NA,NA,0
+247478,2nd innings,South Africa,Australia,22.2,JH Kallis,GC Smith,SW Tait,0,0,0,NA,0,NA,NA,NA,0
+247478,2nd innings,South Africa,Australia,22.3,JH Kallis,GC Smith,SW Tait,0,1,1,wides,0,NA,NA,NA,0
+247478,2nd innings,South Africa,Australia,22.4,JH Kallis,GC Smith,SW Tait,0,0,0,NA,0,NA,NA,NA,0
+247478,2nd innings,South Africa,Australia,22.5,JH Kallis,GC Smith,SW Tait,0,0,0,NA,0,NA,NA,NA,0
+247478,2nd innings,South Africa,Australia,22.6,JH Kallis,GC Smith,SW Tait,4,0,4,NA,0,NA,NA,NA,0
+247478,2nd innings,South Africa,Australia,22.7,JH Kallis,GC Smith,SW Tait,0,0,0,NA,0,NA,NA,NA,0
+247478,2nd innings,South Africa,Australia,23.1,GC Smith,JH Kallis,SR Watson,0,0,0,NA,0,NA,NA,NA,0
+247478,2nd innings,South Africa,Australia,23.2,GC Smith,JH Kallis,SR Watson,0,5,5,wides,0,NA,NA,NA,0
+247478,2nd innings,South Africa,Australia,23.3,GC Smith,JH Kallis,SR Watson,0,0,0,NA,0,NA,NA,NA,0
+247478,2nd innings,South Africa,Australia,23.4,GC Smith,JH Kallis,SR Watson,0,5,5,penalty,0,NA,NA,NA,0
+247478,2nd innings,South Africa,Australia,23.5,GC Smith,JH Kallis,SR Watson,0,1,1,wides,0,NA,NA,NA,0
+247478,2nd innings,South Africa,Australia,23.6,GC Smith,JH Kallis,SR Watson,0,0,0,NA,0,NA,NA,NA,0
+247478,2nd innings,South Africa,Australia,23.7,GC Smith,JH Kallis,SR Watson,0,0,0,NA,0,NA,NA,NA,0
+247478,2nd innings,South Africa,Australia,23.8,GC Smith,JH Kallis,SR Watson,1,0,1,NA,0,NA,NA,NA,0
+247478,2nd innings,South Africa,Australia,24.1,GC Smith,JH Kallis,SW Tait,1,0,1,NA,0,NA,NA,NA,0
+247478,2nd innings,South Africa,Australia,24.2,JH Kallis,GC Smith,SW Tait,0,0,0,NA,0,NA,NA,NA,0
+247478,2nd innings,South Africa,Australia,24.3,JH Kallis,GC Smith,SW Tait,0,0,0,NA,0,NA,NA,NA,0
+247478,2nd innings,South Africa,Australia,24.4,JH Kallis,GC Smith,SW Tait,0,0,0,NA,0,NA,NA,NA,0
+247478,2nd innings,South Africa,Australia,24.5,JH Kallis,GC Smith,SW Tait,0,0,0,NA,0,NA,NA,NA,0
+247478,2nd innings,South Africa,Australia,24.6,JH Kallis,GC Smith,SW Tait,0,0,0,NA,0,NA,NA,NA,0
+247478,2nd innings,South Africa,Australia,25.1,GC Smith,JH Kallis,SR Watson,0,0,0,NA,0,NA,NA,NA,0
+247478,2nd innings,South Africa,Australia,25.2,HH Gibbs,JH Kallis,SR Watson,0,0,0,NA,0,NA,NA,NA,0
+247478,2nd innings,South Africa,Australia,25.3,HH Gibbs,JH Kallis,SR Watson,0,0,0,NA,0,NA,NA,NA,0
+247478,2nd innings,South Africa,Australia,25.4,HH Gibbs,JH Kallis,SR Watson,1,0,1,NA,0,NA,NA,NA,0
+247478,2nd innings,South Africa,Australia,25.5,JH Kallis,HH Gibbs,SR Watson,1,0,1,NA,0,NA,NA,NA,0
+247478,2nd innings,South Africa,Australia,25.6,HH Gibbs,JH Kallis,SR Watson,0,0,0,NA,0,NA,NA,NA,0
+247478,2nd innings,South Africa,Australia,26.1,JH Kallis,HH Gibbs,SW Tait,2,0,2,NA,0,NA,NA,NA,0
+247478,2nd innings,South Africa,Australia,26.2,JH Kallis,HH Gibbs,SW Tait,1,0,1,NA,0,NA,NA,NA,0
+247478,2nd innings,South Africa,Australia,26.3,HH Gibbs,JH Kallis,SW Tait,0,0,0,NA,0,NA,NA,NA,0
+247478,2nd innings,South Africa,Australia,26.4,HH Gibbs,JH Kallis,SW Tait,0,0,0,NA,0,NA,NA,NA,0
+247478,2nd innings,South Africa,Australia,26.5,HH Gibbs,JH Kallis,SW Tait,0,0,0,NA,0,NA,NA,NA,0
+247478,2nd innings,South Africa,Australia,26.6,HH Gibbs,JH Kallis,SW Tait,0,0,0,NA,0,NA,NA,NA,0
+247478,2nd innings,South Africa,Australia,27.1,JH Kallis,HH Gibbs,GB Hogg,1,0,1,NA,0,NA,NA,NA,0
+247478,2nd innings,South Africa,Australia,27.2,HH Gibbs,JH Kallis,GB Hogg,4,0,4,NA,0,NA,NA,NA,0
+247478,2nd innings,South Africa,Australia,27.3,HH Gibbs,JH Kallis,GB Hogg,1,0,1,NA,0,NA,NA,NA,0
+247478,2nd innings,South Africa,Australia,27.4,JH Kallis,HH Gibbs,GB Hogg,4,0,4,NA,0,NA,NA,NA,0
+247478,2nd innings,South Africa,Australia,27.5,JH Kallis,HH Gibbs,GB Hogg,0,0,0,NA,0,NA,NA,NA,0
+247478,2nd innings,South Africa,Australia,27.6,JH Kallis,HH Gibbs,GB Hogg,0,0,0,NA,0,NA,NA,NA,0
+247478,2nd innings,South Africa,Australia,28.1,HH Gibbs,JH Kallis,SR Watson,0,0,0,NA,0,NA,NA,NA,0
+247478,2nd innings,South Africa,Australia,28.2,HH Gibbs,JH Kallis,SR Watson,1,0,1,NA,0,NA,NA,NA,0
+247478,2nd innings,South Africa,Australia,28.3,JH Kallis,HH Gibbs,SR Watson,1,0,1,NA,0,NA,NA,NA,0
+247478,2nd innings,South Africa,Australia,28.4,HH Gibbs,JH Kallis,SR Watson,1,0,1,NA,0,NA,NA,NA,0
+247478,2nd innings,South Africa,Australia,28.5,JH Kallis,HH Gibbs,SR Watson,0,0,0,NA,0,NA,NA,NA,0
+247478,2nd innings,South Africa,Australia,28.6,JH Kallis,HH Gibbs,SR Watson,1,0,1,NA,0,NA,NA,NA,0
+247478,2nd innings,South Africa,Australia,29.1,JH Kallis,HH Gibbs,GB Hogg,0,0,0,NA,0,NA,NA,NA,0
+247478,2nd innings,South Africa,Australia,29.2,JH Kallis,HH Gibbs,GB Hogg,0,0,0,NA,0,NA,NA,NA,0
+247478,2nd innings,South Africa,Australia,29.3,JH Kallis,HH Gibbs,GB Hogg,1,0,1,NA,0,NA,NA,NA,0
+247478,2nd innings,South Africa,Australia,29.4,HH Gibbs,JH Kallis,GB Hogg,1,0,1,NA,0,NA,NA,NA,0
+247478,2nd innings,South Africa,Australia,29.5,JH Kallis,HH Gibbs,GB Hogg,4,0,4,NA,0,NA,NA,NA,0
+247478,2nd innings,South Africa,Australia,29.6,JH Kallis,HH Gibbs,GB Hogg,0,0,0,NA,0,NA,NA,NA,0
+247478,2nd innings,South Africa,Australia,30.1,HH Gibbs,JH Kallis,SR Watson,1,0,1,NA,0,NA,NA,NA,0
+247478,2nd innings,South Africa,Australia,30.2,JH Kallis,HH Gibbs,SR Watson,1,0,1,NA,0,NA,NA,NA,0
+247478,2nd innings,South Africa,Australia,30.3,HH Gibbs,JH Kallis,SR Watson,0,0,0,NA,0,NA,NA,NA,0
+247478,2nd innings,South Africa,Australia,30.4,HH Gibbs,JH Kallis,SR Watson,1,0,1,NA,0,NA,NA,NA,0
+247478,2nd innings,South Africa,Australia,30.5,JH Kallis,HH Gibbs,SR Watson,0,0,0,NA,0,NA,NA,NA,0
+247478,2nd innings,South Africa,Australia,30.6,JH Kallis,HH Gibbs,SR Watson,1,0,1,NA,0,NA,NA,NA,0
+247478,2nd innings,South Africa,Australia,31.1,JH Kallis,HH Gibbs,GB Hogg,1,0,1,NA,0,NA,NA,NA,0
+247478,2nd innings,South Africa,Australia,31.2,HH Gibbs,JH Kallis,GB Hogg,6,0,6,NA,0,NA,NA,NA,0
+247478,2nd innings,South Africa,Australia,31.3,HH Gibbs,JH Kallis,GB Hogg,0,0,0,NA,1,stumped,HH Gibbs,AC Gilchrist,0
+247478,2nd innings,South Africa,Australia,31.4,AG Prince,JH Kallis,GB Hogg,0,0,0,NA,0,NA,NA,NA,0
+247478,2nd innings,South Africa,Australia,31.5,AG Prince,JH Kallis,GB Hogg,1,0,1,NA,0,NA,NA,NA,0
+247478,2nd innings,South Africa,Australia,31.6,JH Kallis,AG Prince,GB Hogg,1,0,1,NA,0,NA,NA,NA,0
+247478,2nd innings,South Africa,Australia,32.1,JH Kallis,AG Prince,GD McGrath,1,0,1,NA,0,NA,NA,NA,0
+247478,2nd innings,South Africa,Australia,32.2,AG Prince,JH Kallis,GD McGrath,0,0,0,NA,1,caught,AG Prince,ML Hayden,0
+247478,2nd innings,South Africa,Australia,32.3,JH Kallis,MV Boucher,GD McGrath,1,0,1,NA,0,NA,NA,NA,0
+247478,2nd innings,South Africa,Australia,32.4,MV Boucher,JH Kallis,GD McGrath,1,0,1,NA,0,NA,NA,NA,0
+247478,2nd innings,South Africa,Australia,32.5,JH Kallis,MV Boucher,GD McGrath,1,0,1,NA,0,NA,NA,NA,0
+247478,2nd innings,South Africa,Australia,32.6,MV Boucher,JH Kallis,GD McGrath,0,0,0,NA,0,NA,NA,NA,0
+247478,2nd innings,South Africa,Australia,33.1,JH Kallis,MV Boucher,GB Hogg,1,0,1,NA,0,NA,NA,NA,0
+247478,2nd innings,South Africa,Australia,33.2,MV Boucher,JH Kallis,GB Hogg,0,0,0,NA,0,NA,NA,NA,0
+247478,2nd innings,South Africa,Australia,33.3,MV Boucher,JH Kallis,GB Hogg,0,0,0,NA,0,NA,NA,NA,0
+247478,2nd innings,South Africa,Australia,33.4,MV Boucher,JH Kallis,GB Hogg,0,0,0,NA,0,NA,NA,NA,0
+247478,2nd innings,South Africa,Australia,33.5,MV Boucher,JH Kallis,GB Hogg,1,0,1,NA,0,NA,NA,NA,0
+247478,2nd innings,South Africa,Australia,33.6,JH Kallis,MV Boucher,GB Hogg,0,0,0,NA,0,NA,NA,NA,0
+247478,2nd innings,South Africa,Australia,34.1,MV Boucher,JH Kallis,GD McGrath,0,0,0,NA,0,NA,NA,NA,0
+247478,2nd innings,South Africa,Australia,34.2,MV Boucher,JH Kallis,GD McGrath,0,0,0,NA,0,NA,NA,NA,0
+247478,2nd innings,South Africa,Australia,34.3,MV Boucher,JH Kallis,GD McGrath,1,0,1,NA,0,NA,NA,NA,0
+247478,2nd innings,South Africa,Australia,34.4,JH Kallis,MV Boucher,GD McGrath,1,0,1,NA,0,NA,NA,NA,0
+247478,2nd innings,South Africa,Australia,34.5,MV Boucher,JH Kallis,GD McGrath,0,0,0,NA,0,NA,NA,NA,0
+247478,2nd innings,South Africa,Australia,34.6,MV Boucher,JH Kallis,GD McGrath,1,0,1,NA,0,NA,NA,NA,0
+247478,2nd innings,South Africa,Australia,35.1,MV Boucher,JH Kallis,NW Bracken,0,0,0,NA,0,NA,NA,NA,0
+247478,2nd innings,South Africa,Australia,35.2,MV Boucher,JH Kallis,NW Bracken,1,0,1,NA,0,NA,NA,NA,0
+247478,2nd innings,South Africa,Australia,35.3,JH Kallis,MV Boucher,NW Bracken,0,0,0,NA,0,NA,NA,NA,0
+247478,2nd innings,South Africa,Australia,35.4,JH Kallis,MV Boucher,NW Bracken,1,0,1,NA,0,NA,NA,NA,0
+247478,2nd innings,South Africa,Australia,35.5,MV Boucher,JH Kallis,NW Bracken,1,0,1,NA,0,NA,NA,NA,0
+247478,2nd innings,South Africa,Australia,35.6,JH Kallis,MV Boucher,NW Bracken,0,0,0,NA,0,NA,NA,NA,0
+247478,2nd innings,South Africa,Australia,36.1,MV Boucher,JH Kallis,GD McGrath,0,0,0,NA,0,NA,NA,NA,0
+247478,2nd innings,South Africa,Australia,36.2,MV Boucher,JH Kallis,GD McGrath,2,0,2,NA,0,NA,NA,NA,0
+247478,2nd innings,South Africa,Australia,36.3,MV Boucher,JH Kallis,GD McGrath,0,0,0,NA,0,NA,NA,NA,0
+247478,2nd innings,South Africa,Australia,36.4,MV Boucher,JH Kallis,GD McGrath,4,0,4,NA,0,NA,NA,NA,0
+247478,2nd innings,South Africa,Australia,36.5,MV Boucher,JH Kallis,GD McGrath,6,0,6,NA,0,NA,NA,NA,0
+247478,2nd innings,South Africa,Australia,36.6,MV Boucher,JH Kallis,GD McGrath,1,0,1,NA,0,NA,NA,NA,0
+247478,2nd innings,South Africa,Australia,37.1,MV Boucher,JH Kallis,NW Bracken,0,0,0,NA,0,NA,NA,NA,0
+247478,2nd innings,South Africa,Australia,37.2,MV Boucher,JH Kallis,NW Bracken,0,0,0,NA,0,NA,NA,NA,0
+247478,2nd innings,South Africa,Australia,37.3,MV Boucher,JH Kallis,NW Bracken,1,0,1,NA,0,NA,NA,NA,0
+247478,2nd innings,South Africa,Australia,37.4,JH Kallis,MV Boucher,NW Bracken,0,0,0,NA,0,NA,NA,NA,0
+247478,2nd innings,South Africa,Australia,37.5,JH Kallis,MV Boucher,NW Bracken,1,0,1,NA,0,NA,NA,NA,0
+247478,2nd innings,South Africa,Australia,37.6,MV Boucher,JH Kallis,NW Bracken,1,0,1,NA,0,NA,NA,NA,0
+247478,2nd innings,South Africa,Australia,38.1,MV Boucher,JH Kallis,SW Tait,1,0,1,NA,0,NA,NA,NA,0
+247478,2nd innings,South Africa,Australia,38.2,JH Kallis,MV Boucher,SW Tait,0,0,0,NA,0,NA,NA,NA,0
+247478,2nd innings,South Africa,Australia,38.3,JH Kallis,MV Boucher,SW Tait,4,0,4,NA,0,NA,NA,NA,0
+247478,2nd innings,South Africa,Australia,38.4,JH Kallis,MV Boucher,SW Tait,1,0,1,NA,0,NA,NA,NA,0
+247478,2nd innings,South Africa,Australia,38.5,MV Boucher,JH Kallis,SW Tait,0,0,0,NA,1,bowled,MV Boucher,NA,0
+247478,2nd innings,South Africa,Australia,38.6,JM Kemp,JH Kallis,SW Tait,0,0,0,NA,0,NA,NA,NA,0
+247478,2nd innings,South Africa,Australia,39.1,JH Kallis,JM Kemp,NW Bracken,0,0,0,NA,0,NA,NA,NA,0
+247478,2nd innings,South Africa,Australia,39.2,JH Kallis,JM Kemp,NW Bracken,1,0,1,NA,0,NA,NA,NA,0
+247478,2nd innings,South Africa,Australia,39.3,JM Kemp,JH Kallis,NW Bracken,0,0,0,NA,0,NA,NA,NA,0
+247478,2nd innings,South Africa,Australia,39.4,JM Kemp,JH Kallis,NW Bracken,0,0,0,NA,0,NA,NA,NA,0
+247478,2nd innings,South Africa,Australia,39.5,JM Kemp,JH Kallis,NW Bracken,1,0,1,NA,0,NA,NA,NA,0
+247478,2nd innings,South Africa,Australia,39.6,JH Kallis,JM Kemp,NW Bracken,1,0,1,NA,0,NA,NA,NA,0
+247478,2nd innings,South Africa,Australia,40.1,JH Kallis,JM Kemp,SW Tait,4,0,4,NA,0,NA,NA,NA,0
+247478,2nd innings,South Africa,Australia,40.2,JH Kallis,JM Kemp,SW Tait,0,0,0,NA,0,NA,NA,NA,0
+247478,2nd innings,South Africa,Australia,40.3,JH Kallis,JM Kemp,SW Tait,1,0,1,NA,0,NA,NA,NA,0
+247478,2nd innings,South Africa,Australia,40.4,JM Kemp,JH Kallis,SW Tait,0,0,0,NA,0,NA,NA,NA,0
+247478,2nd innings,South Africa,Australia,40.5,JM Kemp,JH Kallis,SW Tait,0,0,0,NA,1,lbw,JM Kemp,NA,0
+247478,2nd innings,South Africa,Australia,40.6,GC Smith,JH Kallis,SW Tait,1,0,1,NA,0,NA,NA,NA,0
+247478,2nd innings,South Africa,Australia,41.1,GC Smith,JH Kallis,GB Hogg,1,0,1,NA,0,NA,NA,NA,0
+247478,2nd innings,South Africa,Australia,41.2,JH Kallis,GC Smith,GB Hogg,1,0,1,NA,0,NA,NA,NA,0
+247478,2nd innings,South Africa,Australia,41.3,GC Smith,JH Kallis,GB Hogg,0,0,0,NA,1,caught,GC Smith,AC Gilchrist,0
+247478,2nd innings,South Africa,Australia,41.4,SM Pollock,JH Kallis,GB Hogg,0,0,0,NA,0,NA,NA,NA,0
+247478,2nd innings,South Africa,Australia,41.5,SM Pollock,JH Kallis,GB Hogg,1,0,1,NA,0,NA,NA,NA,0
+247478,2nd innings,South Africa,Australia,41.6,JH Kallis,SM Pollock,GB Hogg,2,0,2,NA,0,NA,NA,NA,0
+247478,2nd innings,South Africa,Australia,42.1,SM Pollock,JH Kallis,SW Tait,1,0,1,NA,0,NA,NA,NA,0
+247478,2nd innings,South Africa,Australia,42.2,JH Kallis,SM Pollock,SW Tait,0,0,0,NA,0,NA,NA,NA,0
+247478,2nd innings,South Africa,Australia,42.3,JH Kallis,SM Pollock,SW Tait,0,0,0,NA,0,NA,NA,NA,0
+247478,2nd innings,South Africa,Australia,42.4,JH Kallis,SM Pollock,SW Tait,0,0,0,NA,0,NA,NA,NA,0
+247478,2nd innings,South Africa,Australia,42.5,JH Kallis,SM Pollock,SW Tait,0,1,1,noballs,0,NA,NA,NA,0
+247478,2nd innings,South Africa,Australia,42.6,JH Kallis,SM Pollock,SW Tait,1,0,1,NA,0,NA,NA,NA,0
+247478,2nd innings,South Africa,Australia,42.7,SM Pollock,JH Kallis,SW Tait,4,0,4,NA,0,NA,NA,NA,0
+247478,2nd innings,South Africa,Australia,43.1,JH Kallis,SM Pollock,GB Hogg,0,0,0,NA,1,caught,JH Kallis,MJ Clarke,0
+247478,2nd innings,South Africa,Australia,43.2,SM Pollock,AJ Hall,GB Hogg,0,0,0,NA,0,NA,NA,NA,0
+247478,2nd innings,South Africa,Australia,43.3,SM Pollock,AJ Hall,GB Hogg,0,1,1,wides,0,NA,NA,NA,0
+247478,2nd innings,South Africa,Australia,43.4,SM Pollock,AJ Hall,GB Hogg,1,0,1,NA,0,NA,NA,NA,0
+247478,2nd innings,South Africa,Australia,43.5,AJ Hall,SM Pollock,GB Hogg,0,0,0,NA,0,NA,NA,NA,0
+247478,2nd innings,South Africa,Australia,43.6,AJ Hall,SM Pollock,GB Hogg,0,0,0,NA,0,NA,NA,NA,0
+247478,2nd innings,South Africa,Australia,43.7,AJ Hall,SM Pollock,GB Hogg,0,0,0,NA,0,NA,NA,NA,0
+247478,2nd innings,South Africa,Australia,44.1,SM Pollock,AJ Hall,SR Watson,0,0,0,NA,1,bowled,SM Pollock,NA,0
+247478,2nd innings,South Africa,Australia,44.2,CK Langeveldt,AJ Hall,SR Watson,0,0,0,NA,0,NA,NA,NA,0
+247478,2nd innings,South Africa,Australia,44.3,CK Langeveldt,AJ Hall,SR Watson,0,0,0,NA,0,NA,NA,NA,0
+247478,2nd innings,South Africa,Australia,44.4,CK Langeveldt,AJ Hall,SR Watson,0,0,0,NA,0,NA,NA,NA,0
+247478,2nd innings,South Africa,Australia,44.5,CK Langeveldt,AJ Hall,SR Watson,0,0,0,NA,0,NA,NA,NA,0
+247478,2nd innings,South Africa,Australia,44.6,CK Langeveldt,AJ Hall,SR Watson,0,0,0,NA,0,NA,NA,NA,0
+247478,2nd innings,South Africa,Australia,45.1,AJ Hall,CK Langeveldt,NW Bracken,1,0,1,NA,0,NA,NA,NA,0
+247478,2nd innings,South Africa,Australia,45.2,CK Langeveldt,AJ Hall,NW Bracken,0,0,0,NA,1,bowled,CK Langeveldt,NA,0
+247478,2nd innings,South Africa,Australia,45.3,M Ntini,AJ Hall,NW Bracken,0,0,0,NA,0,NA,NA,NA,0
+247478,2nd innings,South Africa,Australia,45.4,M Ntini,AJ Hall,NW Bracken,0,0,0,NA,0,NA,NA,NA,0
+247478,2nd innings,South Africa,Australia,45.5,M Ntini,AJ Hall,NW Bracken,0,0,0,NA,0,NA,NA,NA,0
+247478,2nd innings,South Africa,Australia,45.6,M Ntini,AJ Hall,NW Bracken,4,0,4,NA,0,NA,NA,NA,0
+247478,2nd innings,South Africa,Australia,46.1,AJ Hall,M Ntini,GD McGrath,1,0,1,NA,0,NA,NA,NA,0
+247478,2nd innings,South Africa,Australia,46.2,M Ntini,AJ Hall,GD McGrath,1,0,1,NA,0,NA,NA,NA,0
+247478,2nd innings,South Africa,Australia,46.3,AJ Hall,M Ntini,GD McGrath,2,0,2,NA,0,NA,NA,NA,0
+247478,2nd innings,South Africa,Australia,46.4,AJ Hall,M Ntini,GD McGrath,1,0,1,NA,0,NA,NA,NA,0
+247478,2nd innings,South Africa,Australia,46.5,M Ntini,AJ Hall,GD McGrath,1,0,1,NA,0,NA,NA,NA,0
+247478,2nd innings,South Africa,Australia,46.6,AJ Hall,M Ntini,GD McGrath,1,0,1,NA,0,NA,NA,NA,0
+247478,2nd innings,South Africa,Australia,47.1,AJ Hall,M Ntini,NW Bracken,0,0,0,NA,0,NA,NA,NA,0
+247478,2nd innings,South Africa,Australia,47.2,AJ Hall,M Ntini,NW Bracken,1,0,1,NA,0,NA,NA,NA,0
+247478,2nd innings,South Africa,Australia,47.3,M Ntini,AJ Hall,NW Bracken,1,0,1,NA,0,NA,NA,NA,0
+247478,2nd innings,South Africa,Australia,47.4,AJ Hall,M Ntini,NW Bracken,0,0,0,NA,0,NA,NA,NA,0
+247478,2nd innings,South Africa,Australia,47.5,AJ Hall,M Ntini,NW Bracken,1,0,1,NA,0,NA,NA,NA,0
+247478,2nd innings,South Africa,Australia,47.6,M Ntini,AJ Hall,NW Bracken,0,0,0,NA,1,bowled,M Ntini,NA,0

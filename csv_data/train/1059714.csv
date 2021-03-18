@@ -1,0 +1,617 @@
+match_id,innings,team,opponent,ball,batsman,non_striker,bowler,scored_runs,extras,total,extra_type,wicket,wicket_type,player_out,fielders,winner
+1059714,1st innings,Sri Lanka,West Indies,0.1,DM de Silva,MDKJ Perera,ST Gabriel,1,0,1,NA,0,NA,NA,NA,1
+1059714,1st innings,Sri Lanka,West Indies,0.2,MDKJ Perera,DM de Silva,ST Gabriel,1,0,1,NA,0,NA,NA,NA,1
+1059714,1st innings,Sri Lanka,West Indies,0.3,DM de Silva,MDKJ Perera,ST Gabriel,1,0,1,NA,0,NA,NA,NA,1
+1059714,1st innings,Sri Lanka,West Indies,0.4,MDKJ Perera,DM de Silva,ST Gabriel,0,0,0,NA,0,NA,NA,NA,1
+1059714,1st innings,Sri Lanka,West Indies,0.5,MDKJ Perera,DM de Silva,ST Gabriel,1,0,1,NA,0,NA,NA,NA,1
+1059714,1st innings,Sri Lanka,West Indies,0.6,DM de Silva,MDKJ Perera,ST Gabriel,0,1,1,wides,0,NA,NA,NA,1
+1059714,1st innings,Sri Lanka,West Indies,0.7,DM de Silva,MDKJ Perera,ST Gabriel,0,0,0,NA,0,NA,NA,NA,1
+1059714,1st innings,Sri Lanka,West Indies,1.1,MDKJ Perera,DM de Silva,JO Holder,1,0,1,NA,0,NA,NA,NA,1
+1059714,1st innings,Sri Lanka,West Indies,1.2,DM de Silva,MDKJ Perera,JO Holder,4,0,4,NA,0,NA,NA,NA,1
+1059714,1st innings,Sri Lanka,West Indies,1.3,DM de Silva,MDKJ Perera,JO Holder,2,0,2,NA,0,NA,NA,NA,1
+1059714,1st innings,Sri Lanka,West Indies,1.4,DM de Silva,MDKJ Perera,JO Holder,0,0,0,NA,0,NA,NA,NA,1
+1059714,1st innings,Sri Lanka,West Indies,1.5,DM de Silva,MDKJ Perera,JO Holder,0,0,0,NA,0,NA,NA,NA,1
+1059714,1st innings,Sri Lanka,West Indies,1.6,DM de Silva,MDKJ Perera,JO Holder,0,0,0,NA,0,NA,NA,NA,1
+1059714,1st innings,Sri Lanka,West Indies,2.1,MDKJ Perera,DM de Silva,ST Gabriel,0,1,1,legbyes,0,NA,NA,NA,1
+1059714,1st innings,Sri Lanka,West Indies,2.2,DM de Silva,MDKJ Perera,ST Gabriel,1,0,1,NA,0,NA,NA,NA,1
+1059714,1st innings,Sri Lanka,West Indies,2.3,MDKJ Perera,DM de Silva,ST Gabriel,4,0,4,NA,0,NA,NA,NA,1
+1059714,1st innings,Sri Lanka,West Indies,2.4,MDKJ Perera,DM de Silva,ST Gabriel,0,0,0,NA,1,bowled,MDKJ Perera,NA,1
+1059714,1st innings,Sri Lanka,West Indies,2.5,N Dickwella,DM de Silva,ST Gabriel,0,0,0,NA,0,NA,NA,NA,1
+1059714,1st innings,Sri Lanka,West Indies,2.6,N Dickwella,DM de Silva,ST Gabriel,4,0,4,NA,0,NA,NA,NA,1
+1059714,1st innings,Sri Lanka,West Indies,3.1,DM de Silva,N Dickwella,JO Holder,0,0,0,NA,0,NA,NA,NA,1
+1059714,1st innings,Sri Lanka,West Indies,3.2,DM de Silva,N Dickwella,JO Holder,0,0,0,NA,0,NA,NA,NA,1
+1059714,1st innings,Sri Lanka,West Indies,3.3,DM de Silva,N Dickwella,JO Holder,0,0,0,NA,0,NA,NA,NA,1
+1059714,1st innings,Sri Lanka,West Indies,3.4,DM de Silva,N Dickwella,JO Holder,1,0,1,NA,0,NA,NA,NA,1
+1059714,1st innings,Sri Lanka,West Indies,3.5,N Dickwella,DM de Silva,JO Holder,2,0,2,NA,0,NA,NA,NA,1
+1059714,1st innings,Sri Lanka,West Indies,3.6,N Dickwella,DM de Silva,JO Holder,0,0,0,NA,0,NA,NA,NA,1
+1059714,1st innings,Sri Lanka,West Indies,4.1,DM de Silva,N Dickwella,CR Brathwaite,0,0,0,NA,0,NA,NA,NA,1
+1059714,1st innings,Sri Lanka,West Indies,4.2,DM de Silva,N Dickwella,CR Brathwaite,0,0,0,NA,0,NA,NA,NA,1
+1059714,1st innings,Sri Lanka,West Indies,4.3,DM de Silva,N Dickwella,CR Brathwaite,4,0,4,NA,0,NA,NA,NA,1
+1059714,1st innings,Sri Lanka,West Indies,4.4,DM de Silva,N Dickwella,CR Brathwaite,0,0,0,NA,0,NA,NA,NA,1
+1059714,1st innings,Sri Lanka,West Indies,4.5,DM de Silva,N Dickwella,CR Brathwaite,0,0,0,NA,0,NA,NA,NA,1
+1059714,1st innings,Sri Lanka,West Indies,4.6,DM de Silva,N Dickwella,CR Brathwaite,0,0,0,NA,0,NA,NA,NA,1
+1059714,1st innings,Sri Lanka,West Indies,5.1,N Dickwella,DM de Silva,JO Holder,0,0,0,NA,0,NA,NA,NA,1
+1059714,1st innings,Sri Lanka,West Indies,5.2,N Dickwella,DM de Silva,JO Holder,0,0,0,NA,0,NA,NA,NA,1
+1059714,1st innings,Sri Lanka,West Indies,5.3,N Dickwella,DM de Silva,JO Holder,0,0,0,NA,0,NA,NA,NA,1
+1059714,1st innings,Sri Lanka,West Indies,5.4,N Dickwella,DM de Silva,JO Holder,3,0,3,NA,0,NA,NA,NA,1
+1059714,1st innings,Sri Lanka,West Indies,5.5,DM de Silva,N Dickwella,JO Holder,0,0,0,NA,0,NA,NA,NA,1
+1059714,1st innings,Sri Lanka,West Indies,5.6,DM de Silva,N Dickwella,JO Holder,4,0,4,NA,0,NA,NA,NA,1
+1059714,1st innings,Sri Lanka,West Indies,6.1,N Dickwella,DM de Silva,CR Brathwaite,2,0,2,NA,0,NA,NA,NA,1
+1059714,1st innings,Sri Lanka,West Indies,6.2,N Dickwella,DM de Silva,CR Brathwaite,2,0,2,NA,0,NA,NA,NA,1
+1059714,1st innings,Sri Lanka,West Indies,6.3,N Dickwella,DM de Silva,CR Brathwaite,4,0,4,NA,0,NA,NA,NA,1
+1059714,1st innings,Sri Lanka,West Indies,6.4,N Dickwella,DM de Silva,CR Brathwaite,0,0,0,NA,0,NA,NA,NA,1
+1059714,1st innings,Sri Lanka,West Indies,6.5,N Dickwella,DM de Silva,CR Brathwaite,0,0,0,NA,0,NA,NA,NA,1
+1059714,1st innings,Sri Lanka,West Indies,6.6,N Dickwella,DM de Silva,CR Brathwaite,6,0,6,NA,0,NA,NA,NA,1
+1059714,1st innings,Sri Lanka,West Indies,7.1,DM de Silva,N Dickwella,JO Holder,0,0,0,NA,0,NA,NA,NA,1
+1059714,1st innings,Sri Lanka,West Indies,7.2,DM de Silva,N Dickwella,JO Holder,1,0,1,NA,0,NA,NA,NA,1
+1059714,1st innings,Sri Lanka,West Indies,7.3,N Dickwella,DM de Silva,JO Holder,4,0,4,NA,0,NA,NA,NA,1
+1059714,1st innings,Sri Lanka,West Indies,7.4,N Dickwella,DM de Silva,JO Holder,1,0,1,NA,0,NA,NA,NA,1
+1059714,1st innings,Sri Lanka,West Indies,7.5,DM de Silva,N Dickwella,JO Holder,0,0,0,NA,0,NA,NA,NA,1
+1059714,1st innings,Sri Lanka,West Indies,7.6,DM de Silva,N Dickwella,JO Holder,2,0,2,NA,0,NA,NA,NA,1
+1059714,1st innings,Sri Lanka,West Indies,8.1,N Dickwella,DM de Silva,CR Brathwaite,0,0,0,NA,0,NA,NA,NA,1
+1059714,1st innings,Sri Lanka,West Indies,8.2,N Dickwella,DM de Silva,CR Brathwaite,0,0,0,NA,0,NA,NA,NA,1
+1059714,1st innings,Sri Lanka,West Indies,8.3,N Dickwella,DM de Silva,CR Brathwaite,1,0,1,NA,0,NA,NA,NA,1
+1059714,1st innings,Sri Lanka,West Indies,8.4,DM de Silva,N Dickwella,CR Brathwaite,4,0,4,NA,0,NA,NA,NA,1
+1059714,1st innings,Sri Lanka,West Indies,8.5,DM de Silva,N Dickwella,CR Brathwaite,4,0,4,NA,0,NA,NA,NA,1
+1059714,1st innings,Sri Lanka,West Indies,8.6,DM de Silva,N Dickwella,CR Brathwaite,0,0,0,NA,0,NA,NA,NA,1
+1059714,1st innings,Sri Lanka,West Indies,9.1,N Dickwella,DM de Silva,AR Nurse,1,0,1,NA,0,NA,NA,NA,1
+1059714,1st innings,Sri Lanka,West Indies,9.2,DM de Silva,N Dickwella,AR Nurse,1,0,1,NA,0,NA,NA,NA,1
+1059714,1st innings,Sri Lanka,West Indies,9.3,N Dickwella,DM de Silva,AR Nurse,1,0,1,NA,0,NA,NA,NA,1
+1059714,1st innings,Sri Lanka,West Indies,9.4,DM de Silva,N Dickwella,AR Nurse,0,0,0,NA,0,NA,NA,NA,1
+1059714,1st innings,Sri Lanka,West Indies,9.5,DM de Silva,N Dickwella,AR Nurse,0,0,0,NA,0,NA,NA,NA,1
+1059714,1st innings,Sri Lanka,West Indies,9.6,DM de Silva,N Dickwella,AR Nurse,1,0,1,NA,0,NA,NA,NA,1
+1059714,1st innings,Sri Lanka,West Indies,10.1,DM de Silva,N Dickwella,KC Brathwaite,1,0,1,NA,0,NA,NA,NA,1
+1059714,1st innings,Sri Lanka,West Indies,10.2,N Dickwella,DM de Silva,KC Brathwaite,1,0,1,NA,0,NA,NA,NA,1
+1059714,1st innings,Sri Lanka,West Indies,10.3,DM de Silva,N Dickwella,KC Brathwaite,1,0,1,NA,0,NA,NA,NA,1
+1059714,1st innings,Sri Lanka,West Indies,10.4,N Dickwella,DM de Silva,KC Brathwaite,0,0,0,NA,0,NA,NA,NA,1
+1059714,1st innings,Sri Lanka,West Indies,10.5,N Dickwella,DM de Silva,KC Brathwaite,0,0,0,NA,0,NA,NA,NA,1
+1059714,1st innings,Sri Lanka,West Indies,10.6,N Dickwella,DM de Silva,KC Brathwaite,0,0,0,NA,0,NA,NA,NA,1
+1059714,1st innings,Sri Lanka,West Indies,11.1,DM de Silva,N Dickwella,AR Nurse,0,0,0,NA,0,NA,NA,NA,1
+1059714,1st innings,Sri Lanka,West Indies,11.2,DM de Silva,N Dickwella,AR Nurse,1,0,1,NA,0,NA,NA,NA,1
+1059714,1st innings,Sri Lanka,West Indies,11.3,N Dickwella,DM de Silva,AR Nurse,4,0,4,NA,0,NA,NA,NA,1
+1059714,1st innings,Sri Lanka,West Indies,11.4,N Dickwella,DM de Silva,AR Nurse,0,0,0,NA,0,NA,NA,NA,1
+1059714,1st innings,Sri Lanka,West Indies,11.5,N Dickwella,DM de Silva,AR Nurse,1,0,1,NA,0,NA,NA,NA,1
+1059714,1st innings,Sri Lanka,West Indies,11.6,DM de Silva,N Dickwella,AR Nurse,2,0,2,NA,0,NA,NA,NA,1
+1059714,1st innings,Sri Lanka,West Indies,12.1,N Dickwella,DM de Silva,KC Brathwaite,1,0,1,NA,0,NA,NA,NA,1
+1059714,1st innings,Sri Lanka,West Indies,12.2,DM de Silva,N Dickwella,KC Brathwaite,0,0,0,NA,0,NA,NA,NA,1
+1059714,1st innings,Sri Lanka,West Indies,12.3,DM de Silva,N Dickwella,KC Brathwaite,0,0,0,NA,0,NA,NA,NA,1
+1059714,1st innings,Sri Lanka,West Indies,12.4,DM de Silva,N Dickwella,KC Brathwaite,0,0,0,NA,0,NA,NA,NA,1
+1059714,1st innings,Sri Lanka,West Indies,12.5,DM de Silva,N Dickwella,KC Brathwaite,1,0,1,NA,0,NA,NA,NA,1
+1059714,1st innings,Sri Lanka,West Indies,12.6,N Dickwella,DM de Silva,KC Brathwaite,1,0,1,NA,0,NA,NA,NA,1
+1059714,1st innings,Sri Lanka,West Indies,13.1,N Dickwella,DM de Silva,AR Nurse,0,0,0,NA,0,NA,NA,NA,1
+1059714,1st innings,Sri Lanka,West Indies,13.2,N Dickwella,DM de Silva,AR Nurse,0,0,0,NA,0,NA,NA,NA,1
+1059714,1st innings,Sri Lanka,West Indies,13.3,N Dickwella,DM de Silva,AR Nurse,0,0,0,NA,0,NA,NA,NA,1
+1059714,1st innings,Sri Lanka,West Indies,13.4,N Dickwella,DM de Silva,AR Nurse,1,0,1,NA,0,NA,NA,NA,1
+1059714,1st innings,Sri Lanka,West Indies,13.5,DM de Silva,N Dickwella,AR Nurse,1,0,1,NA,0,NA,NA,NA,1
+1059714,1st innings,Sri Lanka,West Indies,13.6,N Dickwella,DM de Silva,AR Nurse,1,0,1,NA,0,NA,NA,NA,1
+1059714,1st innings,Sri Lanka,West Indies,14.1,N Dickwella,DM de Silva,KC Brathwaite,0,0,0,NA,0,NA,NA,NA,1
+1059714,1st innings,Sri Lanka,West Indies,14.2,N Dickwella,DM de Silva,KC Brathwaite,1,0,1,NA,0,NA,NA,NA,1
+1059714,1st innings,Sri Lanka,West Indies,14.3,DM de Silva,N Dickwella,KC Brathwaite,2,0,2,NA,0,NA,NA,NA,1
+1059714,1st innings,Sri Lanka,West Indies,14.4,DM de Silva,N Dickwella,KC Brathwaite,1,0,1,NA,0,NA,NA,NA,1
+1059714,1st innings,Sri Lanka,West Indies,14.5,N Dickwella,DM de Silva,KC Brathwaite,0,0,0,NA,0,NA,NA,NA,1
+1059714,1st innings,Sri Lanka,West Indies,14.6,N Dickwella,DM de Silva,KC Brathwaite,1,0,1,NA,0,NA,NA,NA,1
+1059714,1st innings,Sri Lanka,West Indies,15.1,N Dickwella,DM de Silva,AR Nurse,0,0,0,NA,0,NA,NA,NA,1
+1059714,1st innings,Sri Lanka,West Indies,15.2,N Dickwella,DM de Silva,AR Nurse,0,0,0,NA,0,NA,NA,NA,1
+1059714,1st innings,Sri Lanka,West Indies,15.3,N Dickwella,DM de Silva,AR Nurse,4,0,4,NA,0,NA,NA,NA,1
+1059714,1st innings,Sri Lanka,West Indies,15.4,N Dickwella,DM de Silva,AR Nurse,0,0,0,NA,0,NA,NA,NA,1
+1059714,1st innings,Sri Lanka,West Indies,15.5,N Dickwella,DM de Silva,AR Nurse,1,0,1,NA,0,NA,NA,NA,1
+1059714,1st innings,Sri Lanka,West Indies,15.6,DM de Silva,N Dickwella,AR Nurse,1,0,1,NA,0,NA,NA,NA,1
+1059714,1st innings,Sri Lanka,West Indies,16.1,DM de Silva,N Dickwella,KC Brathwaite,2,0,2,NA,0,NA,NA,NA,1
+1059714,1st innings,Sri Lanka,West Indies,16.2,DM de Silva,N Dickwella,KC Brathwaite,1,0,1,NA,0,NA,NA,NA,1
+1059714,1st innings,Sri Lanka,West Indies,16.3,N Dickwella,DM de Silva,KC Brathwaite,0,0,0,NA,0,NA,NA,NA,1
+1059714,1st innings,Sri Lanka,West Indies,16.4,N Dickwella,DM de Silva,KC Brathwaite,0,0,0,NA,0,NA,NA,NA,1
+1059714,1st innings,Sri Lanka,West Indies,16.5,N Dickwella,DM de Silva,KC Brathwaite,1,0,1,NA,0,NA,NA,NA,1
+1059714,1st innings,Sri Lanka,West Indies,16.6,DM de Silva,N Dickwella,KC Brathwaite,0,0,0,NA,0,NA,NA,NA,1
+1059714,1st innings,Sri Lanka,West Indies,17.1,N Dickwella,DM de Silva,AR Nurse,0,0,0,NA,0,NA,NA,NA,1
+1059714,1st innings,Sri Lanka,West Indies,17.2,N Dickwella,DM de Silva,AR Nurse,0,0,0,NA,0,NA,NA,NA,1
+1059714,1st innings,Sri Lanka,West Indies,17.3,N Dickwella,DM de Silva,AR Nurse,1,0,1,NA,0,NA,NA,NA,1
+1059714,1st innings,Sri Lanka,West Indies,17.4,DM de Silva,N Dickwella,AR Nurse,0,0,0,NA,0,NA,NA,NA,1
+1059714,1st innings,Sri Lanka,West Indies,17.5,DM de Silva,N Dickwella,AR Nurse,1,0,1,NA,0,NA,NA,NA,1
+1059714,1st innings,Sri Lanka,West Indies,17.6,N Dickwella,DM de Silva,AR Nurse,0,0,0,NA,0,NA,NA,NA,1
+1059714,1st innings,Sri Lanka,West Indies,18.1,DM de Silva,N Dickwella,KC Brathwaite,1,0,1,NA,0,NA,NA,NA,1
+1059714,1st innings,Sri Lanka,West Indies,18.2,N Dickwella,DM de Silva,KC Brathwaite,0,0,0,NA,0,NA,NA,NA,1
+1059714,1st innings,Sri Lanka,West Indies,18.3,N Dickwella,DM de Silva,KC Brathwaite,1,0,1,NA,0,NA,NA,NA,1
+1059714,1st innings,Sri Lanka,West Indies,18.4,DM de Silva,N Dickwella,KC Brathwaite,4,0,4,NA,0,NA,NA,NA,1
+1059714,1st innings,Sri Lanka,West Indies,18.5,DM de Silva,N Dickwella,KC Brathwaite,1,0,1,NA,0,NA,NA,NA,1
+1059714,1st innings,Sri Lanka,West Indies,18.6,N Dickwella,DM de Silva,KC Brathwaite,1,0,1,NA,0,NA,NA,NA,1
+1059714,1st innings,Sri Lanka,West Indies,19.1,N Dickwella,DM de Silva,AR Nurse,0,0,0,NA,0,NA,NA,NA,1
+1059714,1st innings,Sri Lanka,West Indies,19.2,N Dickwella,DM de Silva,AR Nurse,1,0,1,NA,0,NA,NA,NA,1
+1059714,1st innings,Sri Lanka,West Indies,19.3,DM de Silva,N Dickwella,AR Nurse,4,0,4,NA,0,NA,NA,NA,1
+1059714,1st innings,Sri Lanka,West Indies,19.4,DM de Silva,N Dickwella,AR Nurse,0,0,0,NA,0,NA,NA,NA,1
+1059714,1st innings,Sri Lanka,West Indies,19.5,DM de Silva,N Dickwella,AR Nurse,1,0,1,NA,0,NA,NA,NA,1
+1059714,1st innings,Sri Lanka,West Indies,19.6,N Dickwella,DM de Silva,AR Nurse,1,0,1,NA,0,NA,NA,NA,1
+1059714,1st innings,Sri Lanka,West Indies,20.1,N Dickwella,DM de Silva,KC Brathwaite,1,0,1,NA,0,NA,NA,NA,1
+1059714,1st innings,Sri Lanka,West Indies,20.2,DM de Silva,N Dickwella,KC Brathwaite,0,0,0,NA,0,NA,NA,NA,1
+1059714,1st innings,Sri Lanka,West Indies,20.3,DM de Silva,N Dickwella,KC Brathwaite,0,0,0,NA,0,NA,NA,NA,1
+1059714,1st innings,Sri Lanka,West Indies,20.4,DM de Silva,N Dickwella,KC Brathwaite,1,0,1,NA,0,NA,NA,NA,1
+1059714,1st innings,Sri Lanka,West Indies,20.5,N Dickwella,DM de Silva,KC Brathwaite,1,0,1,NA,0,NA,NA,NA,1
+1059714,1st innings,Sri Lanka,West Indies,20.6,DM de Silva,N Dickwella,KC Brathwaite,0,0,0,NA,1,caught and bowled,DM de Silva,NA,1
+1059714,1st innings,Sri Lanka,West Indies,21.1,N Dickwella,BKG Mendis,SJ Benn,3,0,3,NA,0,NA,NA,NA,1
+1059714,1st innings,Sri Lanka,West Indies,21.2,BKG Mendis,N Dickwella,SJ Benn,0,0,0,NA,0,NA,NA,NA,1
+1059714,1st innings,Sri Lanka,West Indies,21.3,BKG Mendis,N Dickwella,SJ Benn,0,0,0,NA,0,NA,NA,NA,1
+1059714,1st innings,Sri Lanka,West Indies,21.4,BKG Mendis,N Dickwella,SJ Benn,0,0,0,NA,0,NA,NA,NA,1
+1059714,1st innings,Sri Lanka,West Indies,21.5,BKG Mendis,N Dickwella,SJ Benn,1,0,1,NA,0,NA,NA,NA,1
+1059714,1st innings,Sri Lanka,West Indies,21.6,N Dickwella,BKG Mendis,SJ Benn,0,0,0,NA,0,NA,NA,NA,1
+1059714,1st innings,Sri Lanka,West Indies,22.1,BKG Mendis,N Dickwella,KC Brathwaite,1,0,1,NA,0,NA,NA,NA,1
+1059714,1st innings,Sri Lanka,West Indies,22.2,N Dickwella,BKG Mendis,KC Brathwaite,0,0,0,NA,0,NA,NA,NA,1
+1059714,1st innings,Sri Lanka,West Indies,22.3,N Dickwella,BKG Mendis,KC Brathwaite,0,0,0,NA,0,NA,NA,NA,1
+1059714,1st innings,Sri Lanka,West Indies,22.4,N Dickwella,BKG Mendis,KC Brathwaite,1,0,1,NA,0,NA,NA,NA,1
+1059714,1st innings,Sri Lanka,West Indies,22.5,BKG Mendis,N Dickwella,KC Brathwaite,1,0,1,NA,0,NA,NA,NA,1
+1059714,1st innings,Sri Lanka,West Indies,22.6,N Dickwella,BKG Mendis,KC Brathwaite,0,0,0,NA,0,NA,NA,NA,1
+1059714,1st innings,Sri Lanka,West Indies,23.1,BKG Mendis,N Dickwella,SJ Benn,1,0,1,NA,0,NA,NA,NA,1
+1059714,1st innings,Sri Lanka,West Indies,23.2,N Dickwella,BKG Mendis,SJ Benn,0,0,0,NA,0,NA,NA,NA,1
+1059714,1st innings,Sri Lanka,West Indies,23.3,N Dickwella,BKG Mendis,SJ Benn,0,0,0,NA,0,NA,NA,NA,1
+1059714,1st innings,Sri Lanka,West Indies,23.4,N Dickwella,BKG Mendis,SJ Benn,0,0,0,NA,0,NA,NA,NA,1
+1059714,1st innings,Sri Lanka,West Indies,23.5,N Dickwella,BKG Mendis,SJ Benn,0,0,0,NA,0,NA,NA,NA,1
+1059714,1st innings,Sri Lanka,West Indies,23.6,N Dickwella,BKG Mendis,SJ Benn,1,0,1,NA,0,NA,NA,NA,1
+1059714,1st innings,Sri Lanka,West Indies,24.1,N Dickwella,BKG Mendis,KC Brathwaite,1,0,1,NA,0,NA,NA,NA,1
+1059714,1st innings,Sri Lanka,West Indies,24.2,BKG Mendis,N Dickwella,KC Brathwaite,0,1,1,wides,0,NA,NA,NA,1
+1059714,1st innings,Sri Lanka,West Indies,24.3,BKG Mendis,N Dickwella,KC Brathwaite,0,0,0,NA,0,NA,NA,NA,1
+1059714,1st innings,Sri Lanka,West Indies,24.4,BKG Mendis,N Dickwella,KC Brathwaite,4,0,4,NA,0,NA,NA,NA,1
+1059714,1st innings,Sri Lanka,West Indies,24.5,BKG Mendis,N Dickwella,KC Brathwaite,1,0,1,NA,0,NA,NA,NA,1
+1059714,1st innings,Sri Lanka,West Indies,24.6,N Dickwella,BKG Mendis,KC Brathwaite,1,0,1,NA,0,NA,NA,NA,1
+1059714,1st innings,Sri Lanka,West Indies,24.7,BKG Mendis,N Dickwella,KC Brathwaite,1,0,1,NA,0,NA,NA,NA,1
+1059714,1st innings,Sri Lanka,West Indies,25.1,BKG Mendis,N Dickwella,SJ Benn,0,0,0,NA,0,NA,NA,NA,1
+1059714,1st innings,Sri Lanka,West Indies,25.2,BKG Mendis,N Dickwella,SJ Benn,1,0,1,NA,0,NA,NA,NA,1
+1059714,1st innings,Sri Lanka,West Indies,25.3,N Dickwella,BKG Mendis,SJ Benn,1,0,1,NA,0,NA,NA,NA,1
+1059714,1st innings,Sri Lanka,West Indies,25.4,BKG Mendis,N Dickwella,SJ Benn,1,0,1,NA,0,NA,NA,NA,1
+1059714,1st innings,Sri Lanka,West Indies,25.5,N Dickwella,BKG Mendis,SJ Benn,1,0,1,NA,0,NA,NA,NA,1
+1059714,1st innings,Sri Lanka,West Indies,25.6,BKG Mendis,N Dickwella,SJ Benn,2,0,2,NA,0,NA,NA,NA,1
+1059714,1st innings,Sri Lanka,West Indies,26.1,N Dickwella,BKG Mendis,KC Brathwaite,1,0,1,NA,0,NA,NA,NA,1
+1059714,1st innings,Sri Lanka,West Indies,26.2,BKG Mendis,N Dickwella,KC Brathwaite,4,0,4,NA,0,NA,NA,NA,1
+1059714,1st innings,Sri Lanka,West Indies,26.3,BKG Mendis,N Dickwella,KC Brathwaite,0,0,0,NA,0,NA,NA,NA,1
+1059714,1st innings,Sri Lanka,West Indies,26.4,BKG Mendis,N Dickwella,KC Brathwaite,1,0,1,NA,0,NA,NA,NA,1
+1059714,1st innings,Sri Lanka,West Indies,26.5,N Dickwella,BKG Mendis,KC Brathwaite,1,0,1,NA,0,NA,NA,NA,1
+1059714,1st innings,Sri Lanka,West Indies,26.6,BKG Mendis,N Dickwella,KC Brathwaite,1,0,1,NA,0,NA,NA,NA,1
+1059714,1st innings,Sri Lanka,West Indies,27.1,BKG Mendis,N Dickwella,SJ Benn,0,0,0,NA,0,NA,NA,NA,1
+1059714,1st innings,Sri Lanka,West Indies,27.2,BKG Mendis,N Dickwella,SJ Benn,1,0,1,NA,0,NA,NA,NA,1
+1059714,1st innings,Sri Lanka,West Indies,27.3,N Dickwella,BKG Mendis,SJ Benn,1,0,1,NA,0,NA,NA,NA,1
+1059714,1st innings,Sri Lanka,West Indies,27.4,BKG Mendis,N Dickwella,SJ Benn,1,0,1,NA,0,NA,NA,NA,1
+1059714,1st innings,Sri Lanka,West Indies,27.5,N Dickwella,BKG Mendis,SJ Benn,1,0,1,NA,0,NA,NA,NA,1
+1059714,1st innings,Sri Lanka,West Indies,27.6,BKG Mendis,N Dickwella,SJ Benn,0,0,0,NA,0,NA,NA,NA,1
+1059714,1st innings,Sri Lanka,West Indies,28.1,N Dickwella,BKG Mendis,KC Brathwaite,2,0,2,NA,0,NA,NA,NA,1
+1059714,1st innings,Sri Lanka,West Indies,28.2,N Dickwella,BKG Mendis,KC Brathwaite,1,0,1,NA,0,NA,NA,NA,1
+1059714,1st innings,Sri Lanka,West Indies,28.3,BKG Mendis,N Dickwella,KC Brathwaite,1,0,1,NA,0,NA,NA,NA,1
+1059714,1st innings,Sri Lanka,West Indies,28.4,N Dickwella,BKG Mendis,KC Brathwaite,1,0,1,NA,0,NA,NA,NA,1
+1059714,1st innings,Sri Lanka,West Indies,28.5,BKG Mendis,N Dickwella,KC Brathwaite,4,0,4,NA,0,NA,NA,NA,1
+1059714,1st innings,Sri Lanka,West Indies,28.6,BKG Mendis,N Dickwella,KC Brathwaite,1,0,1,NA,0,NA,NA,NA,1
+1059714,1st innings,Sri Lanka,West Indies,29.1,BKG Mendis,N Dickwella,SJ Benn,1,0,1,NA,0,NA,NA,NA,1
+1059714,1st innings,Sri Lanka,West Indies,29.2,N Dickwella,BKG Mendis,SJ Benn,0,0,0,NA,0,NA,NA,NA,1
+1059714,1st innings,Sri Lanka,West Indies,29.3,N Dickwella,BKG Mendis,SJ Benn,2,0,2,NA,0,NA,NA,NA,1
+1059714,1st innings,Sri Lanka,West Indies,29.4,N Dickwella,BKG Mendis,SJ Benn,1,0,1,NA,0,NA,NA,NA,1
+1059714,1st innings,Sri Lanka,West Indies,29.5,BKG Mendis,N Dickwella,SJ Benn,0,0,0,NA,0,NA,NA,NA,1
+1059714,1st innings,Sri Lanka,West Indies,29.6,BKG Mendis,N Dickwella,SJ Benn,1,0,1,NA,0,NA,NA,NA,1
+1059714,1st innings,Sri Lanka,West Indies,30.1,BKG Mendis,N Dickwella,ST Gabriel,0,0,0,NA,0,NA,NA,NA,1
+1059714,1st innings,Sri Lanka,West Indies,30.2,BKG Mendis,N Dickwella,ST Gabriel,4,0,4,NA,0,NA,NA,NA,1
+1059714,1st innings,Sri Lanka,West Indies,30.3,BKG Mendis,N Dickwella,ST Gabriel,1,0,1,NA,0,NA,NA,NA,1
+1059714,1st innings,Sri Lanka,West Indies,30.4,N Dickwella,BKG Mendis,ST Gabriel,0,0,0,NA,0,NA,NA,NA,1
+1059714,1st innings,Sri Lanka,West Indies,30.5,N Dickwella,BKG Mendis,ST Gabriel,0,0,0,NA,0,NA,NA,NA,1
+1059714,1st innings,Sri Lanka,West Indies,30.6,N Dickwella,BKG Mendis,ST Gabriel,0,0,0,NA,0,NA,NA,NA,1
+1059714,1st innings,Sri Lanka,West Indies,31.1,BKG Mendis,N Dickwella,SJ Benn,0,0,0,NA,0,NA,NA,NA,1
+1059714,1st innings,Sri Lanka,West Indies,31.2,BKG Mendis,N Dickwella,SJ Benn,1,0,1,NA,0,NA,NA,NA,1
+1059714,1st innings,Sri Lanka,West Indies,31.3,N Dickwella,BKG Mendis,SJ Benn,1,0,1,NA,0,NA,NA,NA,1
+1059714,1st innings,Sri Lanka,West Indies,31.4,BKG Mendis,N Dickwella,SJ Benn,0,0,0,NA,0,NA,NA,NA,1
+1059714,1st innings,Sri Lanka,West Indies,31.5,BKG Mendis,N Dickwella,SJ Benn,4,0,4,NA,0,NA,NA,NA,1
+1059714,1st innings,Sri Lanka,West Indies,31.6,BKG Mendis,N Dickwella,SJ Benn,0,0,0,NA,0,NA,NA,NA,1
+1059714,1st innings,Sri Lanka,West Indies,32.1,N Dickwella,BKG Mendis,ST Gabriel,0,0,0,NA,0,NA,NA,NA,1
+1059714,1st innings,Sri Lanka,West Indies,32.2,N Dickwella,BKG Mendis,ST Gabriel,0,0,0,NA,0,NA,NA,NA,1
+1059714,1st innings,Sri Lanka,West Indies,32.3,N Dickwella,BKG Mendis,ST Gabriel,1,0,1,NA,0,NA,NA,NA,1
+1059714,1st innings,Sri Lanka,West Indies,32.4,BKG Mendis,N Dickwella,ST Gabriel,0,0,0,NA,0,NA,NA,NA,1
+1059714,1st innings,Sri Lanka,West Indies,32.5,BKG Mendis,N Dickwella,ST Gabriel,0,0,0,NA,0,NA,NA,NA,1
+1059714,1st innings,Sri Lanka,West Indies,32.6,BKG Mendis,N Dickwella,ST Gabriel,1,0,1,NA,0,NA,NA,NA,1
+1059714,1st innings,Sri Lanka,West Indies,33.1,BKG Mendis,N Dickwella,SJ Benn,0,0,0,NA,0,NA,NA,NA,1
+1059714,1st innings,Sri Lanka,West Indies,33.2,BKG Mendis,N Dickwella,SJ Benn,0,0,0,NA,0,NA,NA,NA,1
+1059714,1st innings,Sri Lanka,West Indies,33.3,BKG Mendis,N Dickwella,SJ Benn,4,0,4,NA,0,NA,NA,NA,1
+1059714,1st innings,Sri Lanka,West Indies,33.4,BKG Mendis,N Dickwella,SJ Benn,0,0,0,NA,0,NA,NA,NA,1
+1059714,1st innings,Sri Lanka,West Indies,33.5,BKG Mendis,N Dickwella,SJ Benn,0,0,0,NA,0,NA,NA,NA,1
+1059714,1st innings,Sri Lanka,West Indies,33.6,BKG Mendis,N Dickwella,SJ Benn,1,0,1,NA,0,NA,NA,NA,1
+1059714,1st innings,Sri Lanka,West Indies,34.1,BKG Mendis,N Dickwella,ST Gabriel,4,0,4,NA,0,NA,NA,NA,1
+1059714,1st innings,Sri Lanka,West Indies,34.2,BKG Mendis,N Dickwella,ST Gabriel,1,0,1,NA,0,NA,NA,NA,1
+1059714,1st innings,Sri Lanka,West Indies,34.3,N Dickwella,BKG Mendis,ST Gabriel,2,0,2,NA,0,NA,NA,NA,1
+1059714,1st innings,Sri Lanka,West Indies,34.4,N Dickwella,BKG Mendis,ST Gabriel,0,0,0,NA,0,NA,NA,NA,1
+1059714,1st innings,Sri Lanka,West Indies,34.5,N Dickwella,BKG Mendis,ST Gabriel,1,0,1,NA,0,NA,NA,NA,1
+1059714,1st innings,Sri Lanka,West Indies,34.6,BKG Mendis,N Dickwella,ST Gabriel,0,0,0,NA,0,NA,NA,NA,1
+1059714,1st innings,Sri Lanka,West Indies,35.1,N Dickwella,BKG Mendis,SJ Benn,0,0,0,NA,0,NA,NA,NA,1
+1059714,1st innings,Sri Lanka,West Indies,35.2,N Dickwella,BKG Mendis,SJ Benn,4,0,4,NA,0,NA,NA,NA,1
+1059714,1st innings,Sri Lanka,West Indies,35.3,N Dickwella,BKG Mendis,SJ Benn,0,0,0,NA,0,NA,NA,NA,1
+1059714,1st innings,Sri Lanka,West Indies,35.4,N Dickwella,BKG Mendis,SJ Benn,1,0,1,NA,0,NA,NA,NA,1
+1059714,1st innings,Sri Lanka,West Indies,35.5,BKG Mendis,N Dickwella,SJ Benn,1,0,1,NA,0,NA,NA,NA,1
+1059714,1st innings,Sri Lanka,West Indies,35.6,N Dickwella,BKG Mendis,SJ Benn,0,1,1,wides,0,NA,NA,NA,1
+1059714,1st innings,Sri Lanka,West Indies,35.7,N Dickwella,BKG Mendis,SJ Benn,0,0,0,NA,0,NA,NA,NA,1
+1059714,1st innings,Sri Lanka,West Indies,36.1,BKG Mendis,N Dickwella,JO Holder,1,0,1,NA,0,NA,NA,NA,1
+1059714,1st innings,Sri Lanka,West Indies,36.2,N Dickwella,BKG Mendis,JO Holder,1,0,1,NA,0,NA,NA,NA,1
+1059714,1st innings,Sri Lanka,West Indies,36.3,BKG Mendis,N Dickwella,JO Holder,1,0,1,NA,0,NA,NA,NA,1
+1059714,1st innings,Sri Lanka,West Indies,36.4,N Dickwella,BKG Mendis,JO Holder,0,0,0,NA,0,NA,NA,NA,1
+1059714,1st innings,Sri Lanka,West Indies,36.5,N Dickwella,BKG Mendis,JO Holder,4,0,4,NA,0,NA,NA,NA,1
+1059714,1st innings,Sri Lanka,West Indies,36.6,N Dickwella,BKG Mendis,JO Holder,0,4,4,legbyes,0,NA,NA,NA,1
+1059714,1st innings,Sri Lanka,West Indies,37.1,BKG Mendis,N Dickwella,SJ Benn,1,0,1,NA,0,NA,NA,NA,1
+1059714,1st innings,Sri Lanka,West Indies,37.2,N Dickwella,BKG Mendis,SJ Benn,2,0,2,NA,0,NA,NA,NA,1
+1059714,1st innings,Sri Lanka,West Indies,37.3,N Dickwella,BKG Mendis,SJ Benn,1,0,1,NA,0,NA,NA,NA,1
+1059714,1st innings,Sri Lanka,West Indies,37.4,BKG Mendis,N Dickwella,SJ Benn,6,0,6,NA,0,NA,NA,NA,1
+1059714,1st innings,Sri Lanka,West Indies,37.5,BKG Mendis,N Dickwella,SJ Benn,0,0,0,NA,0,NA,NA,NA,1
+1059714,1st innings,Sri Lanka,West Indies,37.6,BKG Mendis,N Dickwella,SJ Benn,1,0,1,NA,0,NA,NA,NA,1
+1059714,1st innings,Sri Lanka,West Indies,38.1,BKG Mendis,N Dickwella,JO Holder,1,0,1,NA,0,NA,NA,NA,1
+1059714,1st innings,Sri Lanka,West Indies,38.2,N Dickwella,BKG Mendis,JO Holder,0,0,0,NA,1,lbw,N Dickwella,NA,1
+1059714,1st innings,Sri Lanka,West Indies,38.3,GSNFG Jayasuriya,BKG Mendis,JO Holder,0,0,0,NA,0,NA,NA,NA,1
+1059714,1st innings,Sri Lanka,West Indies,38.4,GSNFG Jayasuriya,BKG Mendis,JO Holder,1,0,1,NA,0,NA,NA,NA,1
+1059714,1st innings,Sri Lanka,West Indies,38.5,BKG Mendis,GSNFG Jayasuriya,JO Holder,0,0,0,NA,0,NA,NA,NA,1
+1059714,1st innings,Sri Lanka,West Indies,38.6,BKG Mendis,GSNFG Jayasuriya,JO Holder,0,0,0,NA,0,NA,NA,NA,1
+1059714,1st innings,Sri Lanka,West Indies,39.1,GSNFG Jayasuriya,BKG Mendis,SJ Benn,0,0,0,NA,0,NA,NA,NA,1
+1059714,1st innings,Sri Lanka,West Indies,39.2,GSNFG Jayasuriya,BKG Mendis,SJ Benn,1,0,1,NA,0,NA,NA,NA,1
+1059714,1st innings,Sri Lanka,West Indies,39.3,BKG Mendis,GSNFG Jayasuriya,SJ Benn,0,0,0,NA,0,NA,NA,NA,1
+1059714,1st innings,Sri Lanka,West Indies,39.4,BKG Mendis,GSNFG Jayasuriya,SJ Benn,0,0,0,NA,0,NA,NA,NA,1
+1059714,1st innings,Sri Lanka,West Indies,39.5,BKG Mendis,GSNFG Jayasuriya,SJ Benn,2,0,2,NA,0,NA,NA,NA,1
+1059714,1st innings,Sri Lanka,West Indies,39.6,BKG Mendis,GSNFG Jayasuriya,SJ Benn,6,0,6,NA,0,NA,NA,NA,1
+1059714,1st innings,Sri Lanka,West Indies,40.1,GSNFG Jayasuriya,BKG Mendis,JO Holder,0,1,1,legbyes,0,NA,NA,NA,1
+1059714,1st innings,Sri Lanka,West Indies,40.2,BKG Mendis,GSNFG Jayasuriya,JO Holder,0,0,0,NA,0,NA,NA,NA,1
+1059714,1st innings,Sri Lanka,West Indies,40.3,BKG Mendis,GSNFG Jayasuriya,JO Holder,1,0,1,NA,0,NA,NA,NA,1
+1059714,1st innings,Sri Lanka,West Indies,40.4,GSNFG Jayasuriya,BKG Mendis,JO Holder,0,0,0,NA,0,NA,NA,NA,1
+1059714,1st innings,Sri Lanka,West Indies,40.5,GSNFG Jayasuriya,BKG Mendis,JO Holder,2,0,2,NA,0,NA,NA,NA,1
+1059714,1st innings,Sri Lanka,West Indies,40.6,GSNFG Jayasuriya,BKG Mendis,JO Holder,1,0,1,NA,0,NA,NA,NA,1
+1059714,1st innings,Sri Lanka,West Indies,41.1,GSNFG Jayasuriya,BKG Mendis,AR Nurse,2,0,2,NA,0,NA,NA,NA,1
+1059714,1st innings,Sri Lanka,West Indies,41.2,GSNFG Jayasuriya,BKG Mendis,AR Nurse,1,0,1,NA,0,NA,NA,NA,1
+1059714,1st innings,Sri Lanka,West Indies,41.3,BKG Mendis,GSNFG Jayasuriya,AR Nurse,6,0,6,NA,0,NA,NA,NA,1
+1059714,1st innings,Sri Lanka,West Indies,41.4,BKG Mendis,GSNFG Jayasuriya,AR Nurse,1,0,1,NA,0,NA,NA,NA,1
+1059714,1st innings,Sri Lanka,West Indies,41.5,GSNFG Jayasuriya,BKG Mendis,AR Nurse,1,0,1,NA,0,NA,NA,NA,1
+1059714,1st innings,Sri Lanka,West Indies,41.6,BKG Mendis,GSNFG Jayasuriya,AR Nurse,2,0,2,NA,0,NA,NA,NA,1
+1059714,1st innings,Sri Lanka,West Indies,42.1,GSNFG Jayasuriya,BKG Mendis,CR Brathwaite,0,0,0,NA,1,bowled,GSNFG Jayasuriya,NA,1
+1059714,1st innings,Sri Lanka,West Indies,42.2,WU Tharanga,BKG Mendis,CR Brathwaite,0,1,1,wides,0,NA,NA,NA,1
+1059714,1st innings,Sri Lanka,West Indies,42.3,WU Tharanga,BKG Mendis,CR Brathwaite,1,0,1,NA,0,NA,NA,NA,1
+1059714,1st innings,Sri Lanka,West Indies,42.4,BKG Mendis,WU Tharanga,CR Brathwaite,0,0,0,NA,0,NA,NA,NA,1
+1059714,1st innings,Sri Lanka,West Indies,42.5,BKG Mendis,WU Tharanga,CR Brathwaite,1,0,1,NA,0,NA,NA,NA,1
+1059714,1st innings,Sri Lanka,West Indies,42.6,WU Tharanga,BKG Mendis,CR Brathwaite,4,0,4,NA,0,NA,NA,NA,1
+1059714,1st innings,Sri Lanka,West Indies,42.7,WU Tharanga,BKG Mendis,CR Brathwaite,0,0,0,NA,0,NA,NA,NA,1
+1059714,1st innings,Sri Lanka,West Indies,43.1,BKG Mendis,WU Tharanga,AR Nurse,6,0,6,NA,0,NA,NA,NA,1
+1059714,1st innings,Sri Lanka,West Indies,43.2,BKG Mendis,WU Tharanga,AR Nurse,6,0,6,NA,0,NA,NA,NA,1
+1059714,1st innings,Sri Lanka,West Indies,43.3,BKG Mendis,WU Tharanga,AR Nurse,0,0,0,NA,1,caught,BKG Mendis,SD Hope,1
+1059714,1st innings,Sri Lanka,West Indies,43.4,DAS Gunaratne,WU Tharanga,AR Nurse,1,0,1,NA,0,NA,NA,NA,1
+1059714,1st innings,Sri Lanka,West Indies,43.5,WU Tharanga,DAS Gunaratne,AR Nurse,1,0,1,NA,0,NA,NA,NA,1
+1059714,1st innings,Sri Lanka,West Indies,43.6,DAS Gunaratne,WU Tharanga,AR Nurse,1,0,1,NA,0,NA,NA,NA,1
+1059714,1st innings,Sri Lanka,West Indies,44.1,DAS Gunaratne,WU Tharanga,CR Brathwaite,1,0,1,NA,0,NA,NA,NA,1
+1059714,1st innings,Sri Lanka,West Indies,44.2,WU Tharanga,DAS Gunaratne,CR Brathwaite,0,0,0,NA,0,NA,NA,NA,1
+1059714,1st innings,Sri Lanka,West Indies,44.3,WU Tharanga,DAS Gunaratne,CR Brathwaite,1,0,1,NA,0,NA,NA,NA,1
+1059714,1st innings,Sri Lanka,West Indies,44.4,DAS Gunaratne,WU Tharanga,CR Brathwaite,1,0,1,NA,0,NA,NA,NA,1
+1059714,1st innings,Sri Lanka,West Indies,44.5,WU Tharanga,DAS Gunaratne,CR Brathwaite,1,0,1,NA,0,NA,NA,NA,1
+1059714,1st innings,Sri Lanka,West Indies,44.6,DAS Gunaratne,WU Tharanga,CR Brathwaite,1,0,1,NA,0,NA,NA,NA,1
+1059714,1st innings,Sri Lanka,West Indies,45.1,DAS Gunaratne,WU Tharanga,JO Holder,1,0,1,NA,0,NA,NA,NA,1
+1059714,1st innings,Sri Lanka,West Indies,45.2,WU Tharanga,DAS Gunaratne,JO Holder,4,0,4,NA,0,NA,NA,NA,1
+1059714,1st innings,Sri Lanka,West Indies,45.3,WU Tharanga,DAS Gunaratne,JO Holder,1,0,1,NA,0,NA,NA,NA,1
+1059714,1st innings,Sri Lanka,West Indies,45.4,DAS Gunaratne,WU Tharanga,JO Holder,0,0,0,NA,1,caught,DAS Gunaratne,R Powell,1
+1059714,1st innings,Sri Lanka,West Indies,45.5,WU Tharanga,SS Pathirana,JO Holder,1,0,1,NA,0,NA,NA,NA,1
+1059714,1st innings,Sri Lanka,West Indies,45.6,SS Pathirana,WU Tharanga,JO Holder,0,0,0,NA,0,NA,NA,NA,1
+1059714,1st innings,Sri Lanka,West Indies,46.1,WU Tharanga,SS Pathirana,CR Brathwaite,1,0,1,NA,0,NA,NA,NA,1
+1059714,1st innings,Sri Lanka,West Indies,46.2,SS Pathirana,WU Tharanga,CR Brathwaite,1,0,1,NA,0,NA,NA,NA,1
+1059714,1st innings,Sri Lanka,West Indies,46.3,WU Tharanga,SS Pathirana,CR Brathwaite,1,0,1,NA,0,NA,NA,NA,1
+1059714,1st innings,Sri Lanka,West Indies,46.4,SS Pathirana,WU Tharanga,CR Brathwaite,2,0,2,NA,0,NA,NA,NA,1
+1059714,1st innings,Sri Lanka,West Indies,46.5,SS Pathirana,WU Tharanga,CR Brathwaite,4,0,4,NA,0,NA,NA,NA,1
+1059714,1st innings,Sri Lanka,West Indies,46.6,SS Pathirana,WU Tharanga,CR Brathwaite,4,0,4,NA,0,NA,NA,NA,1
+1059714,1st innings,Sri Lanka,West Indies,47.1,WU Tharanga,SS Pathirana,JO Holder,2,0,2,NA,0,NA,NA,NA,1
+1059714,1st innings,Sri Lanka,West Indies,47.2,WU Tharanga,SS Pathirana,JO Holder,2,0,2,NA,0,NA,NA,NA,1
+1059714,1st innings,Sri Lanka,West Indies,47.3,WU Tharanga,SS Pathirana,JO Holder,1,0,1,NA,0,NA,NA,NA,1
+1059714,1st innings,Sri Lanka,West Indies,47.4,SS Pathirana,WU Tharanga,JO Holder,2,0,2,NA,0,NA,NA,NA,1
+1059714,1st innings,Sri Lanka,West Indies,47.5,SS Pathirana,WU Tharanga,JO Holder,2,0,2,NA,0,NA,NA,NA,1
+1059714,1st innings,Sri Lanka,West Indies,47.6,SS Pathirana,WU Tharanga,JO Holder,1,0,1,NA,0,NA,NA,NA,1
+1059714,1st innings,Sri Lanka,West Indies,48.1,SS Pathirana,WU Tharanga,CR Brathwaite,4,0,4,NA,0,NA,NA,NA,1
+1059714,1st innings,Sri Lanka,West Indies,48.2,SS Pathirana,WU Tharanga,CR Brathwaite,1,0,1,NA,0,NA,NA,NA,1
+1059714,1st innings,Sri Lanka,West Indies,48.3,WU Tharanga,SS Pathirana,CR Brathwaite,1,0,1,NA,0,NA,NA,NA,1
+1059714,1st innings,Sri Lanka,West Indies,48.4,SS Pathirana,WU Tharanga,CR Brathwaite,0,1,1,wides,0,NA,NA,NA,1
+1059714,1st innings,Sri Lanka,West Indies,48.5,SS Pathirana,WU Tharanga,CR Brathwaite,0,0,0,NA,0,NA,NA,NA,1
+1059714,1st innings,Sri Lanka,West Indies,48.6,SS Pathirana,WU Tharanga,CR Brathwaite,1,0,1,NA,0,NA,NA,NA,1
+1059714,1st innings,Sri Lanka,West Indies,48.7,WU Tharanga,SS Pathirana,CR Brathwaite,4,0,4,NA,0,NA,NA,NA,1
+1059714,1st innings,Sri Lanka,West Indies,49.1,SS Pathirana,WU Tharanga,JO Holder,0,0,0,NA,0,NA,NA,NA,1
+1059714,1st innings,Sri Lanka,West Indies,49.2,SS Pathirana,WU Tharanga,JO Holder,0,0,0,NA,0,NA,NA,NA,1
+1059714,1st innings,Sri Lanka,West Indies,49.3,SS Pathirana,WU Tharanga,JO Holder,1,0,1,NA,0,NA,NA,NA,1
+1059714,1st innings,Sri Lanka,West Indies,49.4,WU Tharanga,SS Pathirana,JO Holder,0,1,1,legbyes,0,NA,NA,NA,1
+1059714,1st innings,Sri Lanka,West Indies,49.5,SS Pathirana,WU Tharanga,JO Holder,1,0,1,NA,0,NA,NA,NA,1
+1059714,1st innings,Sri Lanka,West Indies,49.6,WU Tharanga,SS Pathirana,JO Holder,0,0,0,NA,1,caught,WU Tharanga,AR Nurse,1
+1059714,2nd innings,West Indies,Sri Lanka,0.1,J Charles,E Lewis,KMDN Kulasekara,0,1,1,legbyes,0,NA,NA,NA,0
+1059714,2nd innings,West Indies,Sri Lanka,0.2,E Lewis,J Charles,KMDN Kulasekara,0,0,0,NA,0,NA,NA,NA,0
+1059714,2nd innings,West Indies,Sri Lanka,0.3,E Lewis,J Charles,KMDN Kulasekara,0,5,5,wides,0,NA,NA,NA,0
+1059714,2nd innings,West Indies,Sri Lanka,0.4,E Lewis,J Charles,KMDN Kulasekara,0,0,0,NA,0,NA,NA,NA,0
+1059714,2nd innings,West Indies,Sri Lanka,0.5,E Lewis,J Charles,KMDN Kulasekara,0,0,0,NA,0,NA,NA,NA,0
+1059714,2nd innings,West Indies,Sri Lanka,0.6,E Lewis,J Charles,KMDN Kulasekara,4,0,4,NA,0,NA,NA,NA,0
+1059714,2nd innings,West Indies,Sri Lanka,0.7,E Lewis,J Charles,KMDN Kulasekara,1,0,1,NA,0,NA,NA,NA,0
+1059714,2nd innings,West Indies,Sri Lanka,1.1,E Lewis,J Charles,RAS Lakmal,4,0,4,NA,0,NA,NA,NA,0
+1059714,2nd innings,West Indies,Sri Lanka,1.2,E Lewis,J Charles,RAS Lakmal,0,0,0,NA,0,NA,NA,NA,0
+1059714,2nd innings,West Indies,Sri Lanka,1.3,E Lewis,J Charles,RAS Lakmal,1,0,1,NA,0,NA,NA,NA,0
+1059714,2nd innings,West Indies,Sri Lanka,1.4,J Charles,E Lewis,RAS Lakmal,0,0,0,NA,0,NA,NA,NA,0
+1059714,2nd innings,West Indies,Sri Lanka,1.5,J Charles,E Lewis,RAS Lakmal,0,0,0,NA,0,NA,NA,NA,0
+1059714,2nd innings,West Indies,Sri Lanka,1.6,J Charles,E Lewis,RAS Lakmal,0,0,0,NA,0,NA,NA,NA,0
+1059714,2nd innings,West Indies,Sri Lanka,2.1,E Lewis,J Charles,KMDN Kulasekara,0,0,0,NA,0,NA,NA,NA,0
+1059714,2nd innings,West Indies,Sri Lanka,2.2,E Lewis,J Charles,KMDN Kulasekara,1,0,1,NA,0,NA,NA,NA,0
+1059714,2nd innings,West Indies,Sri Lanka,2.3,J Charles,E Lewis,KMDN Kulasekara,0,0,0,NA,0,NA,NA,NA,0
+1059714,2nd innings,West Indies,Sri Lanka,2.4,J Charles,E Lewis,KMDN Kulasekara,0,0,0,NA,0,NA,NA,NA,0
+1059714,2nd innings,West Indies,Sri Lanka,2.5,J Charles,E Lewis,KMDN Kulasekara,0,0,0,NA,0,NA,NA,NA,0
+1059714,2nd innings,West Indies,Sri Lanka,2.6,J Charles,E Lewis,KMDN Kulasekara,0,0,0,NA,0,NA,NA,NA,0
+1059714,2nd innings,West Indies,Sri Lanka,3.1,E Lewis,J Charles,RAS Lakmal,0,0,0,NA,0,NA,NA,NA,0
+1059714,2nd innings,West Indies,Sri Lanka,3.2,E Lewis,J Charles,RAS Lakmal,0,0,0,NA,0,NA,NA,NA,0
+1059714,2nd innings,West Indies,Sri Lanka,3.3,E Lewis,J Charles,RAS Lakmal,2,0,2,NA,0,NA,NA,NA,0
+1059714,2nd innings,West Indies,Sri Lanka,3.4,E Lewis,J Charles,RAS Lakmal,0,0,0,NA,0,NA,NA,NA,0
+1059714,2nd innings,West Indies,Sri Lanka,3.5,E Lewis,J Charles,RAS Lakmal,4,0,4,NA,0,NA,NA,NA,0
+1059714,2nd innings,West Indies,Sri Lanka,3.6,E Lewis,J Charles,RAS Lakmal,4,0,4,NA,0,NA,NA,NA,0
+1059714,2nd innings,West Indies,Sri Lanka,4.1,J Charles,E Lewis,KMDN Kulasekara,1,0,1,NA,0,NA,NA,NA,0
+1059714,2nd innings,West Indies,Sri Lanka,4.2,E Lewis,J Charles,KMDN Kulasekara,0,0,0,NA,0,NA,NA,NA,0
+1059714,2nd innings,West Indies,Sri Lanka,4.3,E Lewis,J Charles,KMDN Kulasekara,4,0,4,NA,0,NA,NA,NA,0
+1059714,2nd innings,West Indies,Sri Lanka,4.4,E Lewis,J Charles,KMDN Kulasekara,1,0,1,NA,0,NA,NA,NA,0
+1059714,2nd innings,West Indies,Sri Lanka,4.5,J Charles,E Lewis,KMDN Kulasekara,1,0,1,NA,0,NA,NA,NA,0
+1059714,2nd innings,West Indies,Sri Lanka,4.6,E Lewis,J Charles,KMDN Kulasekara,0,0,0,NA,0,NA,NA,NA,0
+1059714,2nd innings,West Indies,Sri Lanka,5.1,J Charles,E Lewis,RAS Lakmal,0,0,0,NA,0,NA,NA,NA,0
+1059714,2nd innings,West Indies,Sri Lanka,5.2,J Charles,E Lewis,RAS Lakmal,4,0,4,NA,0,NA,NA,NA,0
+1059714,2nd innings,West Indies,Sri Lanka,5.3,J Charles,E Lewis,RAS Lakmal,0,0,0,NA,0,NA,NA,NA,0
+1059714,2nd innings,West Indies,Sri Lanka,5.4,J Charles,E Lewis,RAS Lakmal,1,0,1,NA,0,NA,NA,NA,0
+1059714,2nd innings,West Indies,Sri Lanka,5.5,E Lewis,J Charles,RAS Lakmal,0,0,0,NA,0,NA,NA,NA,0
+1059714,2nd innings,West Indies,Sri Lanka,5.6,E Lewis,J Charles,RAS Lakmal,0,0,0,NA,0,NA,NA,NA,0
+1059714,2nd innings,West Indies,Sri Lanka,6.1,J Charles,E Lewis,KMDN Kulasekara,0,1,1,wides,0,NA,NA,NA,0
+1059714,2nd innings,West Indies,Sri Lanka,6.2,J Charles,E Lewis,KMDN Kulasekara,4,0,4,NA,0,NA,NA,NA,0
+1059714,2nd innings,West Indies,Sri Lanka,6.3,J Charles,E Lewis,KMDN Kulasekara,6,0,6,NA,0,NA,NA,NA,0
+1059714,2nd innings,West Indies,Sri Lanka,6.4,J Charles,E Lewis,KMDN Kulasekara,0,0,0,NA,0,NA,NA,NA,0
+1059714,2nd innings,West Indies,Sri Lanka,6.5,J Charles,E Lewis,KMDN Kulasekara,1,0,1,NA,0,NA,NA,NA,0
+1059714,2nd innings,West Indies,Sri Lanka,6.6,E Lewis,J Charles,KMDN Kulasekara,3,0,3,NA,0,NA,NA,NA,0
+1059714,2nd innings,West Indies,Sri Lanka,6.7,J Charles,E Lewis,KMDN Kulasekara,0,0,0,NA,0,NA,NA,NA,0
+1059714,2nd innings,West Indies,Sri Lanka,7.1,E Lewis,J Charles,RAS Lakmal,1,0,1,NA,0,NA,NA,NA,0
+1059714,2nd innings,West Indies,Sri Lanka,7.2,J Charles,E Lewis,RAS Lakmal,0,0,0,NA,0,NA,NA,NA,0
+1059714,2nd innings,West Indies,Sri Lanka,7.3,J Charles,E Lewis,RAS Lakmal,0,0,0,NA,0,NA,NA,NA,0
+1059714,2nd innings,West Indies,Sri Lanka,7.4,J Charles,E Lewis,RAS Lakmal,4,0,4,NA,0,NA,NA,NA,0
+1059714,2nd innings,West Indies,Sri Lanka,7.5,J Charles,E Lewis,RAS Lakmal,4,0,4,NA,0,NA,NA,NA,0
+1059714,2nd innings,West Indies,Sri Lanka,7.6,J Charles,E Lewis,RAS Lakmal,0,0,0,NA,1,caught,J Charles,WU Tharanga,0
+1059714,2nd innings,West Indies,Sri Lanka,8.1,E Lewis,KC Brathwaite,KMDN Kulasekara,6,0,6,NA,0,NA,NA,NA,0
+1059714,2nd innings,West Indies,Sri Lanka,8.2,E Lewis,KC Brathwaite,KMDN Kulasekara,4,0,4,NA,0,NA,NA,NA,0
+1059714,2nd innings,West Indies,Sri Lanka,8.3,E Lewis,KC Brathwaite,KMDN Kulasekara,0,0,0,NA,0,NA,NA,NA,0
+1059714,2nd innings,West Indies,Sri Lanka,8.4,E Lewis,KC Brathwaite,KMDN Kulasekara,1,0,1,NA,0,NA,NA,NA,0
+1059714,2nd innings,West Indies,Sri Lanka,8.5,KC Brathwaite,E Lewis,KMDN Kulasekara,0,0,0,NA,0,NA,NA,NA,0
+1059714,2nd innings,West Indies,Sri Lanka,8.6,KC Brathwaite,E Lewis,KMDN Kulasekara,0,0,0,NA,0,NA,NA,NA,0
+1059714,2nd innings,West Indies,Sri Lanka,9.1,E Lewis,KC Brathwaite,RAS Lakmal,4,0,4,NA,0,NA,NA,NA,0
+1059714,2nd innings,West Indies,Sri Lanka,9.2,E Lewis,KC Brathwaite,RAS Lakmal,0,0,0,NA,0,NA,NA,NA,0
+1059714,2nd innings,West Indies,Sri Lanka,9.3,E Lewis,KC Brathwaite,RAS Lakmal,0,0,0,NA,0,NA,NA,NA,0
+1059714,2nd innings,West Indies,Sri Lanka,9.4,E Lewis,KC Brathwaite,RAS Lakmal,0,0,0,NA,0,NA,NA,NA,0
+1059714,2nd innings,West Indies,Sri Lanka,9.5,E Lewis,KC Brathwaite,RAS Lakmal,1,0,1,NA,0,NA,NA,NA,0
+1059714,2nd innings,West Indies,Sri Lanka,9.6,KC Brathwaite,E Lewis,RAS Lakmal,0,0,0,NA,0,NA,NA,NA,0
+1059714,2nd innings,West Indies,Sri Lanka,10.1,E Lewis,KC Brathwaite,GSNFG Jayasuriya,0,1,1,wides,0,NA,NA,NA,0
+1059714,2nd innings,West Indies,Sri Lanka,10.2,E Lewis,KC Brathwaite,GSNFG Jayasuriya,0,0,0,NA,0,NA,NA,NA,0
+1059714,2nd innings,West Indies,Sri Lanka,10.3,E Lewis,KC Brathwaite,GSNFG Jayasuriya,0,0,0,NA,0,NA,NA,NA,0
+1059714,2nd innings,West Indies,Sri Lanka,10.4,E Lewis,KC Brathwaite,GSNFG Jayasuriya,0,0,0,NA,0,NA,NA,NA,0
+1059714,2nd innings,West Indies,Sri Lanka,10.5,E Lewis,KC Brathwaite,GSNFG Jayasuriya,0,0,0,NA,0,NA,NA,NA,0
+1059714,2nd innings,West Indies,Sri Lanka,10.6,E Lewis,KC Brathwaite,GSNFG Jayasuriya,2,0,2,NA,0,NA,NA,NA,0
+1059714,2nd innings,West Indies,Sri Lanka,10.7,E Lewis,KC Brathwaite,GSNFG Jayasuriya,1,0,1,NA,0,NA,NA,NA,0
+1059714,2nd innings,West Indies,Sri Lanka,11.1,E Lewis,KC Brathwaite,N Pradeep,0,0,0,NA,0,NA,NA,NA,0
+1059714,2nd innings,West Indies,Sri Lanka,11.2,E Lewis,KC Brathwaite,N Pradeep,1,0,1,NA,0,NA,NA,NA,0
+1059714,2nd innings,West Indies,Sri Lanka,11.3,KC Brathwaite,E Lewis,N Pradeep,1,0,1,NA,0,NA,NA,NA,0
+1059714,2nd innings,West Indies,Sri Lanka,11.4,E Lewis,KC Brathwaite,N Pradeep,0,0,0,NA,0,NA,NA,NA,0
+1059714,2nd innings,West Indies,Sri Lanka,11.5,E Lewis,KC Brathwaite,N Pradeep,0,0,0,NA,0,NA,NA,NA,0
+1059714,2nd innings,West Indies,Sri Lanka,11.6,E Lewis,KC Brathwaite,N Pradeep,2,0,2,NA,0,NA,NA,NA,0
+1059714,2nd innings,West Indies,Sri Lanka,12.1,KC Brathwaite,E Lewis,GSNFG Jayasuriya,2,0,2,NA,0,NA,NA,NA,0
+1059714,2nd innings,West Indies,Sri Lanka,12.2,KC Brathwaite,E Lewis,GSNFG Jayasuriya,1,0,1,NA,0,NA,NA,NA,0
+1059714,2nd innings,West Indies,Sri Lanka,12.3,E Lewis,KC Brathwaite,GSNFG Jayasuriya,0,0,0,NA,0,NA,NA,NA,0
+1059714,2nd innings,West Indies,Sri Lanka,12.4,E Lewis,KC Brathwaite,GSNFG Jayasuriya,1,0,1,NA,0,NA,NA,NA,0
+1059714,2nd innings,West Indies,Sri Lanka,12.5,KC Brathwaite,E Lewis,GSNFG Jayasuriya,0,0,0,NA,0,NA,NA,NA,0
+1059714,2nd innings,West Indies,Sri Lanka,12.6,KC Brathwaite,E Lewis,GSNFG Jayasuriya,1,0,1,NA,0,NA,NA,NA,0
+1059714,2nd innings,West Indies,Sri Lanka,13.1,KC Brathwaite,E Lewis,N Pradeep,1,0,1,NA,0,NA,NA,NA,0
+1059714,2nd innings,West Indies,Sri Lanka,13.2,E Lewis,KC Brathwaite,N Pradeep,0,0,0,NA,0,NA,NA,NA,0
+1059714,2nd innings,West Indies,Sri Lanka,13.3,E Lewis,KC Brathwaite,N Pradeep,0,0,0,NA,0,NA,NA,NA,0
+1059714,2nd innings,West Indies,Sri Lanka,13.4,E Lewis,KC Brathwaite,N Pradeep,0,0,0,NA,0,NA,NA,NA,0
+1059714,2nd innings,West Indies,Sri Lanka,13.5,E Lewis,KC Brathwaite,N Pradeep,2,0,2,NA,0,NA,NA,NA,0
+1059714,2nd innings,West Indies,Sri Lanka,13.6,E Lewis,KC Brathwaite,N Pradeep,1,0,1,NA,0,NA,NA,NA,0
+1059714,2nd innings,West Indies,Sri Lanka,14.1,E Lewis,KC Brathwaite,GSNFG Jayasuriya,1,0,1,NA,0,NA,NA,NA,0
+1059714,2nd innings,West Indies,Sri Lanka,14.2,KC Brathwaite,E Lewis,GSNFG Jayasuriya,0,0,0,NA,0,NA,NA,NA,0
+1059714,2nd innings,West Indies,Sri Lanka,14.3,KC Brathwaite,E Lewis,GSNFG Jayasuriya,1,0,1,NA,0,NA,NA,NA,0
+1059714,2nd innings,West Indies,Sri Lanka,14.4,E Lewis,KC Brathwaite,GSNFG Jayasuriya,1,0,1,NA,0,NA,NA,NA,0
+1059714,2nd innings,West Indies,Sri Lanka,14.5,KC Brathwaite,E Lewis,GSNFG Jayasuriya,0,0,0,NA,0,NA,NA,NA,0
+1059714,2nd innings,West Indies,Sri Lanka,14.6,KC Brathwaite,E Lewis,GSNFG Jayasuriya,1,0,1,NA,0,NA,NA,NA,0
+1059714,2nd innings,West Indies,Sri Lanka,15.1,KC Brathwaite,E Lewis,N Pradeep,1,0,1,NA,0,NA,NA,NA,0
+1059714,2nd innings,West Indies,Sri Lanka,15.2,E Lewis,KC Brathwaite,N Pradeep,1,0,1,NA,0,NA,NA,NA,0
+1059714,2nd innings,West Indies,Sri Lanka,15.3,KC Brathwaite,E Lewis,N Pradeep,1,0,1,NA,0,NA,NA,NA,0
+1059714,2nd innings,West Indies,Sri Lanka,15.4,E Lewis,KC Brathwaite,N Pradeep,0,0,0,NA,0,NA,NA,NA,0
+1059714,2nd innings,West Indies,Sri Lanka,15.5,E Lewis,KC Brathwaite,N Pradeep,4,0,4,NA,0,NA,NA,NA,0
+1059714,2nd innings,West Indies,Sri Lanka,15.6,E Lewis,KC Brathwaite,N Pradeep,1,0,1,NA,0,NA,NA,NA,0
+1059714,2nd innings,West Indies,Sri Lanka,16.1,E Lewis,KC Brathwaite,GSNFG Jayasuriya,4,0,4,NA,0,NA,NA,NA,0
+1059714,2nd innings,West Indies,Sri Lanka,16.2,E Lewis,KC Brathwaite,GSNFG Jayasuriya,1,0,1,NA,0,NA,NA,NA,0
+1059714,2nd innings,West Indies,Sri Lanka,16.3,KC Brathwaite,E Lewis,GSNFG Jayasuriya,1,0,1,NA,0,NA,NA,NA,0
+1059714,2nd innings,West Indies,Sri Lanka,16.4,E Lewis,KC Brathwaite,GSNFG Jayasuriya,0,0,0,NA,0,NA,NA,NA,0
+1059714,2nd innings,West Indies,Sri Lanka,16.5,E Lewis,KC Brathwaite,GSNFG Jayasuriya,0,0,0,NA,0,NA,NA,NA,0
+1059714,2nd innings,West Indies,Sri Lanka,16.6,E Lewis,KC Brathwaite,GSNFG Jayasuriya,1,0,1,NA,0,NA,NA,NA,0
+1059714,2nd innings,West Indies,Sri Lanka,17.1,E Lewis,KC Brathwaite,N Pradeep,0,0,0,NA,0,NA,NA,NA,0
+1059714,2nd innings,West Indies,Sri Lanka,17.2,E Lewis,KC Brathwaite,N Pradeep,1,0,1,NA,0,NA,NA,NA,0
+1059714,2nd innings,West Indies,Sri Lanka,17.3,KC Brathwaite,E Lewis,N Pradeep,0,0,0,NA,0,NA,NA,NA,0
+1059714,2nd innings,West Indies,Sri Lanka,17.4,KC Brathwaite,E Lewis,N Pradeep,0,0,0,NA,0,NA,NA,NA,0
+1059714,2nd innings,West Indies,Sri Lanka,17.5,KC Brathwaite,E Lewis,N Pradeep,0,0,0,NA,0,NA,NA,NA,0
+1059714,2nd innings,West Indies,Sri Lanka,17.6,KC Brathwaite,E Lewis,N Pradeep,0,0,0,NA,0,NA,NA,NA,0
+1059714,2nd innings,West Indies,Sri Lanka,18.1,E Lewis,KC Brathwaite,SS Pathirana,1,0,1,NA,0,NA,NA,NA,0
+1059714,2nd innings,West Indies,Sri Lanka,18.2,KC Brathwaite,E Lewis,SS Pathirana,1,0,1,NA,0,NA,NA,NA,0
+1059714,2nd innings,West Indies,Sri Lanka,18.3,E Lewis,KC Brathwaite,SS Pathirana,1,0,1,NA,0,NA,NA,NA,0
+1059714,2nd innings,West Indies,Sri Lanka,18.4,KC Brathwaite,E Lewis,SS Pathirana,1,0,1,NA,0,NA,NA,NA,0
+1059714,2nd innings,West Indies,Sri Lanka,18.5,E Lewis,KC Brathwaite,SS Pathirana,1,0,1,NA,0,NA,NA,NA,0
+1059714,2nd innings,West Indies,Sri Lanka,18.6,KC Brathwaite,E Lewis,SS Pathirana,0,0,0,NA,0,NA,NA,NA,0
+1059714,2nd innings,West Indies,Sri Lanka,19.1,E Lewis,KC Brathwaite,N Pradeep,1,0,1,NA,0,NA,NA,NA,0
+1059714,2nd innings,West Indies,Sri Lanka,19.2,KC Brathwaite,E Lewis,N Pradeep,0,0,0,NA,0,NA,NA,NA,0
+1059714,2nd innings,West Indies,Sri Lanka,19.3,KC Brathwaite,E Lewis,N Pradeep,0,1,1,wides,0,NA,NA,NA,0
+1059714,2nd innings,West Indies,Sri Lanka,19.4,KC Brathwaite,E Lewis,N Pradeep,1,0,1,NA,0,NA,NA,NA,0
+1059714,2nd innings,West Indies,Sri Lanka,19.5,E Lewis,KC Brathwaite,N Pradeep,0,0,0,NA,0,NA,NA,NA,0
+1059714,2nd innings,West Indies,Sri Lanka,19.6,E Lewis,KC Brathwaite,N Pradeep,4,0,4,NA,0,NA,NA,NA,0
+1059714,2nd innings,West Indies,Sri Lanka,19.7,E Lewis,KC Brathwaite,N Pradeep,2,0,2,NA,0,NA,NA,NA,0
+1059714,2nd innings,West Indies,Sri Lanka,20.1,KC Brathwaite,E Lewis,SS Pathirana,0,0,0,NA,0,NA,NA,NA,0
+1059714,2nd innings,West Indies,Sri Lanka,20.2,KC Brathwaite,E Lewis,SS Pathirana,0,0,0,NA,0,NA,NA,NA,0
+1059714,2nd innings,West Indies,Sri Lanka,20.3,KC Brathwaite,E Lewis,SS Pathirana,0,0,0,NA,0,NA,NA,NA,0
+1059714,2nd innings,West Indies,Sri Lanka,20.4,KC Brathwaite,E Lewis,SS Pathirana,0,0,0,NA,0,NA,NA,NA,0
+1059714,2nd innings,West Indies,Sri Lanka,20.5,KC Brathwaite,E Lewis,SS Pathirana,0,0,0,NA,0,NA,NA,NA,0
+1059714,2nd innings,West Indies,Sri Lanka,20.6,KC Brathwaite,E Lewis,SS Pathirana,1,0,1,NA,0,NA,NA,NA,0
+1059714,2nd innings,West Indies,Sri Lanka,21.1,KC Brathwaite,E Lewis,DAS Gunaratne,1,0,1,NA,0,NA,NA,NA,0
+1059714,2nd innings,West Indies,Sri Lanka,21.2,E Lewis,KC Brathwaite,DAS Gunaratne,1,0,1,NA,0,NA,NA,NA,0
+1059714,2nd innings,West Indies,Sri Lanka,21.3,KC Brathwaite,E Lewis,DAS Gunaratne,0,0,0,NA,1,bowled,KC Brathwaite,NA,0
+1059714,2nd innings,West Indies,Sri Lanka,21.4,SD Hope,E Lewis,DAS Gunaratne,0,0,0,NA,0,NA,NA,NA,0
+1059714,2nd innings,West Indies,Sri Lanka,21.5,SD Hope,E Lewis,DAS Gunaratne,0,0,0,NA,0,NA,NA,NA,0
+1059714,2nd innings,West Indies,Sri Lanka,21.6,SD Hope,E Lewis,DAS Gunaratne,1,0,1,NA,0,NA,NA,NA,0
+1059714,2nd innings,West Indies,Sri Lanka,22.1,SD Hope,E Lewis,SS Pathirana,0,0,0,NA,0,NA,NA,NA,0
+1059714,2nd innings,West Indies,Sri Lanka,22.2,SD Hope,E Lewis,SS Pathirana,2,0,2,NA,0,NA,NA,NA,0
+1059714,2nd innings,West Indies,Sri Lanka,22.3,SD Hope,E Lewis,SS Pathirana,1,0,1,NA,0,NA,NA,NA,0
+1059714,2nd innings,West Indies,Sri Lanka,22.4,E Lewis,SD Hope,SS Pathirana,2,0,2,NA,0,NA,NA,NA,0
+1059714,2nd innings,West Indies,Sri Lanka,22.5,E Lewis,SD Hope,SS Pathirana,1,0,1,NA,0,NA,NA,NA,0
+1059714,2nd innings,West Indies,Sri Lanka,22.6,SD Hope,E Lewis,SS Pathirana,1,0,1,NA,0,NA,NA,NA,0
+1059714,2nd innings,West Indies,Sri Lanka,23.1,SD Hope,E Lewis,DAS Gunaratne,0,0,0,NA,0,NA,NA,NA,0
+1059714,2nd innings,West Indies,Sri Lanka,23.2,SD Hope,E Lewis,DAS Gunaratne,1,0,1,NA,0,NA,NA,NA,0
+1059714,2nd innings,West Indies,Sri Lanka,23.3,E Lewis,SD Hope,DAS Gunaratne,1,0,1,NA,0,NA,NA,NA,0
+1059714,2nd innings,West Indies,Sri Lanka,23.4,SD Hope,E Lewis,DAS Gunaratne,2,0,2,NA,0,NA,NA,NA,0
+1059714,2nd innings,West Indies,Sri Lanka,23.5,SD Hope,E Lewis,DAS Gunaratne,0,0,0,NA,0,NA,NA,NA,0
+1059714,2nd innings,West Indies,Sri Lanka,23.6,SD Hope,E Lewis,DAS Gunaratne,0,0,0,NA,0,NA,NA,NA,0
+1059714,2nd innings,West Indies,Sri Lanka,24.1,E Lewis,SD Hope,SS Pathirana,0,0,0,NA,0,NA,NA,NA,0
+1059714,2nd innings,West Indies,Sri Lanka,24.2,E Lewis,SD Hope,SS Pathirana,1,0,1,NA,0,NA,NA,NA,0
+1059714,2nd innings,West Indies,Sri Lanka,24.3,SD Hope,E Lewis,SS Pathirana,1,0,1,NA,0,NA,NA,NA,0
+1059714,2nd innings,West Indies,Sri Lanka,24.4,E Lewis,SD Hope,SS Pathirana,0,0,0,NA,0,NA,NA,NA,0
+1059714,2nd innings,West Indies,Sri Lanka,24.5,E Lewis,SD Hope,SS Pathirana,0,0,0,NA,0,NA,NA,NA,0
+1059714,2nd innings,West Indies,Sri Lanka,24.6,E Lewis,SD Hope,SS Pathirana,4,0,4,NA,0,NA,NA,NA,0
+1059714,2nd innings,West Indies,Sri Lanka,25.1,SD Hope,E Lewis,DAS Gunaratne,0,0,0,NA,0,NA,NA,NA,0
+1059714,2nd innings,West Indies,Sri Lanka,25.2,SD Hope,E Lewis,DAS Gunaratne,0,0,0,NA,0,NA,NA,NA,0
+1059714,2nd innings,West Indies,Sri Lanka,25.3,SD Hope,E Lewis,DAS Gunaratne,0,0,0,NA,0,NA,NA,NA,0
+1059714,2nd innings,West Indies,Sri Lanka,25.4,SD Hope,E Lewis,DAS Gunaratne,0,0,0,NA,0,NA,NA,NA,0
+1059714,2nd innings,West Indies,Sri Lanka,25.5,SD Hope,E Lewis,DAS Gunaratne,1,0,1,NA,0,NA,NA,NA,0
+1059714,2nd innings,West Indies,Sri Lanka,25.6,E Lewis,SD Hope,DAS Gunaratne,1,0,1,NA,0,NA,NA,NA,0
+1059714,2nd innings,West Indies,Sri Lanka,26.1,E Lewis,SD Hope,SS Pathirana,0,0,0,NA,0,NA,NA,NA,0
+1059714,2nd innings,West Indies,Sri Lanka,26.2,E Lewis,SD Hope,SS Pathirana,1,0,1,NA,0,NA,NA,NA,0
+1059714,2nd innings,West Indies,Sri Lanka,26.3,SD Hope,E Lewis,SS Pathirana,4,0,4,NA,0,NA,NA,NA,0
+1059714,2nd innings,West Indies,Sri Lanka,26.4,SD Hope,E Lewis,SS Pathirana,1,0,1,NA,0,NA,NA,NA,0
+1059714,2nd innings,West Indies,Sri Lanka,26.5,E Lewis,SD Hope,SS Pathirana,4,0,4,NA,0,NA,NA,NA,0
+1059714,2nd innings,West Indies,Sri Lanka,26.6,E Lewis,SD Hope,SS Pathirana,0,0,0,NA,0,NA,NA,NA,0
+1059714,2nd innings,West Indies,Sri Lanka,27.1,SD Hope,E Lewis,DAS Gunaratne,2,0,2,NA,0,NA,NA,NA,0
+1059714,2nd innings,West Indies,Sri Lanka,27.2,SD Hope,E Lewis,DAS Gunaratne,0,0,0,NA,0,NA,NA,NA,0
+1059714,2nd innings,West Indies,Sri Lanka,27.3,SD Hope,E Lewis,DAS Gunaratne,0,0,0,NA,0,NA,NA,NA,0
+1059714,2nd innings,West Indies,Sri Lanka,27.4,SD Hope,E Lewis,DAS Gunaratne,1,0,1,NA,0,NA,NA,NA,0
+1059714,2nd innings,West Indies,Sri Lanka,27.5,E Lewis,SD Hope,DAS Gunaratne,0,0,0,NA,0,NA,NA,NA,0
+1059714,2nd innings,West Indies,Sri Lanka,27.6,E Lewis,SD Hope,DAS Gunaratne,0,0,0,NA,0,NA,NA,NA,0
+1059714,2nd innings,West Indies,Sri Lanka,28.1,SD Hope,E Lewis,RAS Lakmal,0,0,0,NA,0,NA,NA,NA,0
+1059714,2nd innings,West Indies,Sri Lanka,28.2,SD Hope,E Lewis,RAS Lakmal,0,0,0,NA,0,NA,NA,NA,0
+1059714,2nd innings,West Indies,Sri Lanka,28.3,SD Hope,E Lewis,RAS Lakmal,0,0,0,NA,0,NA,NA,NA,0
+1059714,2nd innings,West Indies,Sri Lanka,28.4,SD Hope,E Lewis,RAS Lakmal,4,0,4,NA,0,NA,NA,NA,0
+1059714,2nd innings,West Indies,Sri Lanka,28.5,SD Hope,E Lewis,RAS Lakmal,0,0,0,NA,0,NA,NA,NA,0
+1059714,2nd innings,West Indies,Sri Lanka,28.6,SD Hope,E Lewis,RAS Lakmal,1,0,1,NA,0,NA,NA,NA,0
+1059714,2nd innings,West Indies,Sri Lanka,29.1,SD Hope,E Lewis,DAS Gunaratne,1,0,1,NA,0,NA,NA,NA,0
+1059714,2nd innings,West Indies,Sri Lanka,29.2,E Lewis,SD Hope,DAS Gunaratne,1,0,1,NA,0,NA,NA,NA,0
+1059714,2nd innings,West Indies,Sri Lanka,29.3,SD Hope,E Lewis,DAS Gunaratne,1,0,1,NA,0,NA,NA,NA,0
+1059714,2nd innings,West Indies,Sri Lanka,29.4,E Lewis,SD Hope,DAS Gunaratne,1,0,1,NA,1,run out,SD Hope,N Pradeep,0
+1059714,2nd innings,West Indies,Sri Lanka,29.5,E Lewis,JL Carter,DAS Gunaratne,0,0,0,NA,0,NA,NA,NA,0
+1059714,2nd innings,West Indies,Sri Lanka,29.6,E Lewis,JL Carter,DAS Gunaratne,0,1,1,wides,0,NA,NA,NA,0
+1059714,2nd innings,West Indies,Sri Lanka,29.7,E Lewis,JL Carter,DAS Gunaratne,1,0,1,NA,0,NA,NA,NA,0
+1059714,2nd innings,West Indies,Sri Lanka,30.1,E Lewis,JL Carter,RAS Lakmal,0,1,1,legbyes,0,NA,NA,NA,0
+1059714,2nd innings,West Indies,Sri Lanka,30.2,JL Carter,E Lewis,RAS Lakmal,1,0,1,NA,0,NA,NA,NA,0
+1059714,2nd innings,West Indies,Sri Lanka,30.3,E Lewis,JL Carter,RAS Lakmal,0,0,0,NA,0,NA,NA,NA,0
+1059714,2nd innings,West Indies,Sri Lanka,30.4,E Lewis,JL Carter,RAS Lakmal,1,0,1,NA,0,NA,NA,NA,0
+1059714,2nd innings,West Indies,Sri Lanka,30.5,JL Carter,E Lewis,RAS Lakmal,2,0,2,NA,0,NA,NA,NA,0
+1059714,2nd innings,West Indies,Sri Lanka,30.6,JL Carter,E Lewis,RAS Lakmal,2,0,2,NA,0,NA,NA,NA,0
+1059714,2nd innings,West Indies,Sri Lanka,31.1,E Lewis,JL Carter,DAS Gunaratne,1,0,1,NA,0,NA,NA,NA,0
+1059714,2nd innings,West Indies,Sri Lanka,31.2,JL Carter,E Lewis,DAS Gunaratne,0,0,0,NA,0,NA,NA,NA,0
+1059714,2nd innings,West Indies,Sri Lanka,31.3,JL Carter,E Lewis,DAS Gunaratne,1,0,1,NA,0,NA,NA,NA,0
+1059714,2nd innings,West Indies,Sri Lanka,31.4,E Lewis,JL Carter,DAS Gunaratne,4,0,4,NA,0,NA,NA,NA,0
+1059714,2nd innings,West Indies,Sri Lanka,31.5,E Lewis,JL Carter,DAS Gunaratne,0,0,0,NA,0,NA,NA,NA,0
+1059714,2nd innings,West Indies,Sri Lanka,31.6,E Lewis,JL Carter,DAS Gunaratne,1,0,1,NA,0,NA,NA,NA,0
+1059714,2nd innings,West Indies,Sri Lanka,32.1,E Lewis,JL Carter,N Pradeep,0,1,1,wides,0,NA,NA,NA,0
+1059714,2nd innings,West Indies,Sri Lanka,32.2,E Lewis,JL Carter,N Pradeep,6,0,6,NA,0,NA,NA,NA,0
+1059714,2nd innings,West Indies,Sri Lanka,32.3,E Lewis,JL Carter,N Pradeep,0,0,0,NA,1,run out,JL Carter,WU Tharanga,0
+1059714,2nd innings,West Indies,Sri Lanka,32.4,E Lewis,R Powell,N Pradeep,1,0,1,NA,0,NA,NA,NA,0
+1059714,2nd innings,West Indies,Sri Lanka,32.5,R Powell,E Lewis,N Pradeep,0,0,0,NA,0,NA,NA,NA,0
+1059714,2nd innings,West Indies,Sri Lanka,32.6,R Powell,E Lewis,N Pradeep,4,0,4,NA,0,NA,NA,NA,0
+1059714,2nd innings,West Indies,Sri Lanka,32.7,R Powell,E Lewis,N Pradeep,1,0,1,NA,0,NA,NA,NA,0
+1059714,2nd innings,West Indies,Sri Lanka,33.1,R Powell,E Lewis,DAS Gunaratne,0,2,2,legbyes,0,NA,NA,NA,0
+1059714,2nd innings,West Indies,Sri Lanka,33.2,R Powell,E Lewis,DAS Gunaratne,1,0,1,NA,0,NA,NA,NA,0
+1059714,2nd innings,West Indies,Sri Lanka,33.3,E Lewis,R Powell,DAS Gunaratne,4,0,4,NA,0,NA,NA,NA,0
+1059714,2nd innings,West Indies,Sri Lanka,33.4,E Lewis,R Powell,DAS Gunaratne,2,0,2,NA,0,NA,NA,NA,0
+1059714,2nd innings,West Indies,Sri Lanka,33.5,E Lewis,R Powell,DAS Gunaratne,4,0,4,NA,0,NA,NA,NA,0
+1059714,2nd innings,West Indies,Sri Lanka,33.6,E Lewis,R Powell,DAS Gunaratne,1,0,1,NA,0,NA,NA,NA,0
+1059714,2nd innings,West Indies,Sri Lanka,34.1,E Lewis,R Powell,N Pradeep,1,0,1,NA,0,NA,NA,NA,0
+1059714,2nd innings,West Indies,Sri Lanka,34.2,R Powell,E Lewis,N Pradeep,0,0,0,NA,0,NA,NA,NA,0
+1059714,2nd innings,West Indies,Sri Lanka,34.3,R Powell,E Lewis,N Pradeep,0,0,0,NA,0,NA,NA,NA,0
+1059714,2nd innings,West Indies,Sri Lanka,34.4,R Powell,E Lewis,N Pradeep,0,0,0,NA,0,NA,NA,NA,0
+1059714,2nd innings,West Indies,Sri Lanka,34.5,R Powell,E Lewis,N Pradeep,1,0,1,NA,0,NA,NA,NA,0
+1059714,2nd innings,West Indies,Sri Lanka,34.6,E Lewis,R Powell,N Pradeep,0,0,0,NA,0,NA,NA,NA,0
+1059714,2nd innings,West Indies,Sri Lanka,35.1,R Powell,E Lewis,KMDN Kulasekara,2,0,2,NA,0,NA,NA,NA,0
+1059714,2nd innings,West Indies,Sri Lanka,35.2,R Powell,E Lewis,KMDN Kulasekara,1,0,1,NA,0,NA,NA,NA,0
+1059714,2nd innings,West Indies,Sri Lanka,35.3,E Lewis,R Powell,KMDN Kulasekara,1,0,1,NA,0,NA,NA,NA,0
+1059714,2nd innings,West Indies,Sri Lanka,35.4,R Powell,E Lewis,KMDN Kulasekara,0,0,0,NA,0,NA,NA,NA,0
+1059714,2nd innings,West Indies,Sri Lanka,35.5,R Powell,E Lewis,KMDN Kulasekara,0,0,0,NA,1,lbw,R Powell,NA,0
+1059714,2nd innings,West Indies,Sri Lanka,35.6,JO Holder,E Lewis,KMDN Kulasekara,1,0,1,NA,0,NA,NA,NA,0
+1059714,2nd innings,West Indies,Sri Lanka,36.1,JO Holder,E Lewis,SS Pathirana,0,0,0,NA,0,NA,NA,NA,0
+1059714,2nd innings,West Indies,Sri Lanka,36.2,JO Holder,E Lewis,SS Pathirana,1,0,1,NA,0,NA,NA,NA,0
+1059714,2nd innings,West Indies,Sri Lanka,36.3,E Lewis,JO Holder,SS Pathirana,1,0,1,NA,0,NA,NA,NA,0
+1059714,2nd innings,West Indies,Sri Lanka,36.4,JO Holder,E Lewis,SS Pathirana,0,0,0,NA,0,NA,NA,NA,0
+1059714,2nd innings,West Indies,Sri Lanka,36.5,JO Holder,E Lewis,SS Pathirana,0,0,0,NA,0,NA,NA,NA,0
+1059714,2nd innings,West Indies,Sri Lanka,36.6,JO Holder,E Lewis,SS Pathirana,4,0,4,NA,0,NA,NA,NA,0
+1059714,2nd innings,West Indies,Sri Lanka,37.1,E Lewis,JO Holder,KMDN Kulasekara,0,0,0,NA,0,NA,NA,NA,0
+1059714,2nd innings,West Indies,Sri Lanka,37.2,E Lewis,JO Holder,KMDN Kulasekara,1,0,1,NA,0,NA,NA,NA,0
+1059714,2nd innings,West Indies,Sri Lanka,37.3,JO Holder,E Lewis,KMDN Kulasekara,1,0,1,NA,0,NA,NA,NA,0
+1059714,2nd innings,West Indies,Sri Lanka,37.4,E Lewis,JO Holder,KMDN Kulasekara,0,0,0,NA,0,NA,NA,NA,0
+1059714,2nd innings,West Indies,Sri Lanka,37.5,E Lewis,JO Holder,KMDN Kulasekara,1,0,1,NA,0,NA,NA,NA,0
+1059714,2nd innings,West Indies,Sri Lanka,37.6,JO Holder,E Lewis,KMDN Kulasekara,0,0,0,NA,0,NA,NA,NA,0
+1059714,2nd innings,West Indies,Sri Lanka,38.1,E Lewis,JO Holder,SS Pathirana,6,0,6,NA,0,NA,NA,NA,0
+1059714,2nd innings,West Indies,Sri Lanka,38.2,E Lewis,JO Holder,SS Pathirana,0,0,0,NA,0,NA,NA,NA,0
+1059714,2nd innings,West Indies,Sri Lanka,38.3,E Lewis,JO Holder,SS Pathirana,2,0,2,NA,0,NA,NA,NA,0
+1059714,2nd innings,West Indies,Sri Lanka,38.4,E Lewis,JO Holder,SS Pathirana,1,0,1,NA,0,NA,NA,NA,0
+1059714,2nd innings,West Indies,Sri Lanka,38.5,JO Holder,E Lewis,SS Pathirana,1,0,1,NA,0,NA,NA,NA,0
+1059714,2nd innings,West Indies,Sri Lanka,38.6,E Lewis,JO Holder,SS Pathirana,6,0,6,NA,0,NA,NA,NA,0
+1059714,2nd innings,West Indies,Sri Lanka,39.1,JO Holder,E Lewis,N Pradeep,0,0,0,NA,0,NA,NA,NA,0
+1059714,2nd innings,West Indies,Sri Lanka,39.2,JO Holder,E Lewis,N Pradeep,2,0,2,NA,0,NA,NA,NA,0
+1059714,2nd innings,West Indies,Sri Lanka,39.3,JO Holder,E Lewis,N Pradeep,1,0,1,NA,0,NA,NA,NA,0
+1059714,2nd innings,West Indies,Sri Lanka,39.4,E Lewis,JO Holder,N Pradeep,1,0,1,NA,0,NA,NA,NA,0
+1059714,2nd innings,West Indies,Sri Lanka,39.5,JO Holder,E Lewis,N Pradeep,0,0,0,NA,0,NA,NA,NA,0
+1059714,2nd innings,West Indies,Sri Lanka,39.6,JO Holder,E Lewis,N Pradeep,6,0,6,NA,0,NA,NA,NA,0
+1059714,2nd innings,West Indies,Sri Lanka,40.1,E Lewis,JO Holder,DAS Gunaratne,2,0,2,NA,0,NA,NA,NA,0
+1059714,2nd innings,West Indies,Sri Lanka,40.2,E Lewis,JO Holder,DAS Gunaratne,0,0,0,NA,0,NA,NA,NA,0
+1059714,2nd innings,West Indies,Sri Lanka,40.3,E Lewis,JO Holder,DAS Gunaratne,0,0,0,NA,1,run out,E Lewis,BKG Mendis,0
+1059714,2nd innings,West Indies,Sri Lanka,40.4,CR Brathwaite,JO Holder,DAS Gunaratne,1,0,1,NA,0,NA,NA,NA,0
+1059714,2nd innings,West Indies,Sri Lanka,40.5,JO Holder,CR Brathwaite,DAS Gunaratne,0,0,0,NA,0,NA,NA,NA,0
+1059714,2nd innings,West Indies,Sri Lanka,40.6,JO Holder,CR Brathwaite,DAS Gunaratne,1,0,1,NA,0,NA,NA,NA,0
+1059714,2nd innings,West Indies,Sri Lanka,41.1,JO Holder,CR Brathwaite,RAS Lakmal,0,0,0,NA,0,NA,NA,NA,0
+1059714,2nd innings,West Indies,Sri Lanka,41.2,JO Holder,CR Brathwaite,RAS Lakmal,0,0,0,NA,0,NA,NA,NA,0
+1059714,2nd innings,West Indies,Sri Lanka,41.3,JO Holder,CR Brathwaite,RAS Lakmal,0,1,1,wides,0,NA,NA,NA,0
+1059714,2nd innings,West Indies,Sri Lanka,41.4,JO Holder,CR Brathwaite,RAS Lakmal,0,1,1,wides,0,NA,NA,NA,0
+1059714,2nd innings,West Indies,Sri Lanka,41.5,JO Holder,CR Brathwaite,RAS Lakmal,1,0,1,NA,0,NA,NA,NA,0
+1059714,2nd innings,West Indies,Sri Lanka,41.6,CR Brathwaite,JO Holder,RAS Lakmal,1,0,1,NA,0,NA,NA,NA,0
+1059714,2nd innings,West Indies,Sri Lanka,41.7,JO Holder,CR Brathwaite,RAS Lakmal,1,0,1,NA,0,NA,NA,NA,0
+1059714,2nd innings,West Indies,Sri Lanka,41.8,CR Brathwaite,JO Holder,RAS Lakmal,1,0,1,NA,0,NA,NA,NA,0
+1059714,2nd innings,West Indies,Sri Lanka,42.1,CR Brathwaite,JO Holder,DAS Gunaratne,1,0,1,NA,0,NA,NA,NA,0
+1059714,2nd innings,West Indies,Sri Lanka,42.2,JO Holder,CR Brathwaite,DAS Gunaratne,1,0,1,NA,0,NA,NA,NA,0
+1059714,2nd innings,West Indies,Sri Lanka,42.3,CR Brathwaite,JO Holder,DAS Gunaratne,1,0,1,NA,0,NA,NA,NA,0
+1059714,2nd innings,West Indies,Sri Lanka,42.4,JO Holder,CR Brathwaite,DAS Gunaratne,1,0,1,NA,0,NA,NA,NA,0
+1059714,2nd innings,West Indies,Sri Lanka,42.5,CR Brathwaite,JO Holder,DAS Gunaratne,1,0,1,NA,0,NA,NA,NA,0
+1059714,2nd innings,West Indies,Sri Lanka,42.6,JO Holder,CR Brathwaite,DAS Gunaratne,1,0,1,NA,0,NA,NA,NA,0
+1059714,2nd innings,West Indies,Sri Lanka,43.1,JO Holder,CR Brathwaite,KMDN Kulasekara,1,0,1,NA,0,NA,NA,NA,0
+1059714,2nd innings,West Indies,Sri Lanka,43.2,CR Brathwaite,JO Holder,KMDN Kulasekara,6,0,6,NA,0,NA,NA,NA,0
+1059714,2nd innings,West Indies,Sri Lanka,43.3,CR Brathwaite,JO Holder,KMDN Kulasekara,0,1,1,wides,0,NA,NA,NA,0
+1059714,2nd innings,West Indies,Sri Lanka,43.4,CR Brathwaite,JO Holder,KMDN Kulasekara,2,0,2,NA,0,NA,NA,NA,0
+1059714,2nd innings,West Indies,Sri Lanka,43.5,CR Brathwaite,JO Holder,KMDN Kulasekara,0,0,0,NA,0,NA,NA,NA,0
+1059714,2nd innings,West Indies,Sri Lanka,43.6,CR Brathwaite,JO Holder,KMDN Kulasekara,1,0,1,NA,0,NA,NA,NA,0
+1059714,2nd innings,West Indies,Sri Lanka,43.7,JO Holder,CR Brathwaite,KMDN Kulasekara,1,0,1,NA,0,NA,NA,NA,0
+1059714,2nd innings,West Indies,Sri Lanka,44.1,JO Holder,CR Brathwaite,N Pradeep,2,0,2,NA,0,NA,NA,NA,0
+1059714,2nd innings,West Indies,Sri Lanka,44.2,JO Holder,CR Brathwaite,N Pradeep,1,0,1,NA,0,NA,NA,NA,0
+1059714,2nd innings,West Indies,Sri Lanka,44.3,CR Brathwaite,JO Holder,N Pradeep,0,1,1,wides,0,NA,NA,NA,0
+1059714,2nd innings,West Indies,Sri Lanka,44.4,CR Brathwaite,JO Holder,N Pradeep,0,0,0,NA,0,NA,NA,NA,0
+1059714,2nd innings,West Indies,Sri Lanka,44.5,CR Brathwaite,JO Holder,N Pradeep,1,0,1,NA,0,NA,NA,NA,0
+1059714,2nd innings,West Indies,Sri Lanka,44.6,JO Holder,CR Brathwaite,N Pradeep,0,0,0,NA,0,NA,NA,NA,0
+1059714,2nd innings,West Indies,Sri Lanka,44.7,JO Holder,CR Brathwaite,N Pradeep,1,0,1,NA,0,NA,NA,NA,0
+1059714,2nd innings,West Indies,Sri Lanka,45.1,JO Holder,CR Brathwaite,KMDN Kulasekara,1,0,1,NA,0,NA,NA,NA,0
+1059714,2nd innings,West Indies,Sri Lanka,45.2,CR Brathwaite,JO Holder,KMDN Kulasekara,1,0,1,NA,0,NA,NA,NA,0
+1059714,2nd innings,West Indies,Sri Lanka,45.3,JO Holder,CR Brathwaite,KMDN Kulasekara,0,0,0,NA,0,NA,NA,NA,0
+1059714,2nd innings,West Indies,Sri Lanka,45.4,JO Holder,CR Brathwaite,KMDN Kulasekara,0,0,0,NA,0,NA,NA,NA,0
+1059714,2nd innings,West Indies,Sri Lanka,45.5,JO Holder,CR Brathwaite,KMDN Kulasekara,2,0,2,NA,0,NA,NA,NA,0
+1059714,2nd innings,West Indies,Sri Lanka,45.6,JO Holder,CR Brathwaite,KMDN Kulasekara,1,0,1,NA,0,NA,NA,NA,0
+1059714,2nd innings,West Indies,Sri Lanka,46.1,JO Holder,CR Brathwaite,RAS Lakmal,2,0,2,NA,0,NA,NA,NA,0
+1059714,2nd innings,West Indies,Sri Lanka,46.2,JO Holder,CR Brathwaite,RAS Lakmal,1,0,1,NA,0,NA,NA,NA,0
+1059714,2nd innings,West Indies,Sri Lanka,46.3,CR Brathwaite,JO Holder,RAS Lakmal,1,0,1,NA,0,NA,NA,NA,0
+1059714,2nd innings,West Indies,Sri Lanka,46.4,JO Holder,CR Brathwaite,RAS Lakmal,1,0,1,NA,0,NA,NA,NA,0
+1059714,2nd innings,West Indies,Sri Lanka,46.5,CR Brathwaite,JO Holder,RAS Lakmal,1,0,1,NA,0,NA,NA,NA,0
+1059714,2nd innings,West Indies,Sri Lanka,46.6,JO Holder,CR Brathwaite,RAS Lakmal,1,0,1,NA,0,NA,NA,NA,0
+1059714,2nd innings,West Indies,Sri Lanka,47.1,JO Holder,CR Brathwaite,KMDN Kulasekara,1,0,1,NA,0,NA,NA,NA,0
+1059714,2nd innings,West Indies,Sri Lanka,47.2,CR Brathwaite,JO Holder,KMDN Kulasekara,0,0,0,NA,1,bowled,CR Brathwaite,NA,0
+1059714,2nd innings,West Indies,Sri Lanka,47.3,AR Nurse,JO Holder,KMDN Kulasekara,0,1,1,legbyes,0,NA,NA,NA,0
+1059714,2nd innings,West Indies,Sri Lanka,47.4,JO Holder,AR Nurse,KMDN Kulasekara,0,0,0,NA,0,NA,NA,NA,0
+1059714,2nd innings,West Indies,Sri Lanka,47.5,JO Holder,AR Nurse,KMDN Kulasekara,1,0,1,NA,0,NA,NA,NA,0
+1059714,2nd innings,West Indies,Sri Lanka,47.6,AR Nurse,JO Holder,KMDN Kulasekara,2,0,2,NA,0,NA,NA,NA,0
+1059714,2nd innings,West Indies,Sri Lanka,48.1,JO Holder,AR Nurse,RAS Lakmal,0,1,1,legbyes,0,NA,NA,NA,0
+1059714,2nd innings,West Indies,Sri Lanka,48.2,AR Nurse,JO Holder,RAS Lakmal,0,0,0,NA,1,caught,AR Nurse,N Dickwella,0
+1059714,2nd innings,West Indies,Sri Lanka,48.3,SJ Benn,JO Holder,RAS Lakmal,4,0,4,NA,0,NA,NA,NA,0
+1059714,2nd innings,West Indies,Sri Lanka,48.4,SJ Benn,JO Holder,RAS Lakmal,1,0,1,NA,0,NA,NA,NA,0
+1059714,2nd innings,West Indies,Sri Lanka,48.5,JO Holder,SJ Benn,RAS Lakmal,2,0,2,NA,0,NA,NA,NA,0
+1059714,2nd innings,West Indies,Sri Lanka,48.6,JO Holder,SJ Benn,RAS Lakmal,0,1,1,wides,0,NA,NA,NA,0
+1059714,2nd innings,West Indies,Sri Lanka,48.7,JO Holder,SJ Benn,RAS Lakmal,1,0,1,NA,0,NA,NA,NA,0
+1059714,2nd innings,West Indies,Sri Lanka,49.1,JO Holder,SJ Benn,N Pradeep,1,0,1,NA,0,NA,NA,NA,0
+1059714,2nd innings,West Indies,Sri Lanka,49.2,SJ Benn,JO Holder,N Pradeep,0,0,0,NA,0,NA,NA,NA,0
+1059714,2nd innings,West Indies,Sri Lanka,49.3,SJ Benn,JO Holder,N Pradeep,6,0,6,NA,0,NA,NA,NA,0
+1059714,2nd innings,West Indies,Sri Lanka,49.4,SJ Benn,JO Holder,N Pradeep,0,0,0,NA,0,NA,NA,NA,0
+1059714,2nd innings,West Indies,Sri Lanka,49.5,SJ Benn,JO Holder,N Pradeep,0,0,0,NA,1,caught,SJ Benn,DM de Silva,0
+1059714,2nd innings,West Indies,Sri Lanka,49.6,JO Holder,ST Gabriel,N Pradeep,1,0,1,NA,0,NA,NA,NA,0

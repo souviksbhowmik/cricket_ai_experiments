@@ -1,0 +1,604 @@
+match_id,innings,team,opponent,ball,batsman,non_striker,bowler,scored_runs,extras,total,extra_type,wicket,wicket_type,player_out,fielders,winner
+647249,1st innings,Australia,India,0.1,PJ Hughes,AJ Finch,B Kumar,0,0,0,NA,0,NA,NA,NA,1
+647249,1st innings,Australia,India,0.2,PJ Hughes,AJ Finch,B Kumar,0,1,1,legbyes,0,NA,NA,NA,1
+647249,1st innings,Australia,India,0.3,AJ Finch,PJ Hughes,B Kumar,0,0,0,NA,0,NA,NA,NA,1
+647249,1st innings,Australia,India,0.4,AJ Finch,PJ Hughes,B Kumar,0,0,0,NA,0,NA,NA,NA,1
+647249,1st innings,Australia,India,0.5,AJ Finch,PJ Hughes,B Kumar,0,0,0,NA,0,NA,NA,NA,1
+647249,1st innings,Australia,India,0.6,AJ Finch,PJ Hughes,B Kumar,0,0,0,NA,0,NA,NA,NA,1
+647249,1st innings,Australia,India,1.1,PJ Hughes,AJ Finch,R Vinay Kumar,1,0,1,NA,0,NA,NA,NA,1
+647249,1st innings,Australia,India,1.2,AJ Finch,PJ Hughes,R Vinay Kumar,0,0,0,NA,0,NA,NA,NA,1
+647249,1st innings,Australia,India,1.3,AJ Finch,PJ Hughes,R Vinay Kumar,0,0,0,NA,0,NA,NA,NA,1
+647249,1st innings,Australia,India,1.4,AJ Finch,PJ Hughes,R Vinay Kumar,0,0,0,NA,0,NA,NA,NA,1
+647249,1st innings,Australia,India,1.5,AJ Finch,PJ Hughes,R Vinay Kumar,0,0,0,NA,0,NA,NA,NA,1
+647249,1st innings,Australia,India,1.6,AJ Finch,PJ Hughes,R Vinay Kumar,1,0,1,NA,0,NA,NA,NA,1
+647249,1st innings,Australia,India,2.1,AJ Finch,PJ Hughes,B Kumar,0,0,0,NA,0,NA,NA,NA,1
+647249,1st innings,Australia,India,2.2,AJ Finch,PJ Hughes,B Kumar,0,0,0,NA,0,NA,NA,NA,1
+647249,1st innings,Australia,India,2.3,AJ Finch,PJ Hughes,B Kumar,0,0,0,NA,0,NA,NA,NA,1
+647249,1st innings,Australia,India,2.4,AJ Finch,PJ Hughes,B Kumar,0,0,0,NA,0,NA,NA,NA,1
+647249,1st innings,Australia,India,2.5,AJ Finch,PJ Hughes,B Kumar,0,0,0,NA,0,NA,NA,NA,1
+647249,1st innings,Australia,India,2.6,AJ Finch,PJ Hughes,B Kumar,0,0,0,NA,0,NA,NA,NA,1
+647249,1st innings,Australia,India,3.1,PJ Hughes,AJ Finch,R Vinay Kumar,0,0,0,NA,0,NA,NA,NA,1
+647249,1st innings,Australia,India,3.2,PJ Hughes,AJ Finch,R Vinay Kumar,3,0,3,NA,0,NA,NA,NA,1
+647249,1st innings,Australia,India,3.3,AJ Finch,PJ Hughes,R Vinay Kumar,1,0,1,NA,0,NA,NA,NA,1
+647249,1st innings,Australia,India,3.4,PJ Hughes,AJ Finch,R Vinay Kumar,4,0,4,NA,0,NA,NA,NA,1
+647249,1st innings,Australia,India,3.5,PJ Hughes,AJ Finch,R Vinay Kumar,0,0,0,NA,0,NA,NA,NA,1
+647249,1st innings,Australia,India,3.6,PJ Hughes,AJ Finch,R Vinay Kumar,0,0,0,NA,0,NA,NA,NA,1
+647249,1st innings,Australia,India,4.1,AJ Finch,PJ Hughes,B Kumar,0,1,1,legbyes,0,NA,NA,NA,1
+647249,1st innings,Australia,India,4.2,PJ Hughes,AJ Finch,B Kumar,0,0,0,NA,0,NA,NA,NA,1
+647249,1st innings,Australia,India,4.3,PJ Hughes,AJ Finch,B Kumar,1,0,1,NA,0,NA,NA,NA,1
+647249,1st innings,Australia,India,4.4,AJ Finch,PJ Hughes,B Kumar,0,0,0,NA,0,NA,NA,NA,1
+647249,1st innings,Australia,India,4.5,AJ Finch,PJ Hughes,B Kumar,0,0,0,NA,0,NA,NA,NA,1
+647249,1st innings,Australia,India,4.6,AJ Finch,PJ Hughes,B Kumar,0,0,0,NA,0,NA,NA,NA,1
+647249,1st innings,Australia,India,5.1,PJ Hughes,AJ Finch,R Vinay Kumar,0,0,0,NA,0,NA,NA,NA,1
+647249,1st innings,Australia,India,5.2,PJ Hughes,AJ Finch,R Vinay Kumar,0,0,0,NA,0,NA,NA,NA,1
+647249,1st innings,Australia,India,5.3,PJ Hughes,AJ Finch,R Vinay Kumar,0,0,0,NA,0,NA,NA,NA,1
+647249,1st innings,Australia,India,5.4,PJ Hughes,AJ Finch,R Vinay Kumar,0,0,0,NA,0,NA,NA,NA,1
+647249,1st innings,Australia,India,5.5,PJ Hughes,AJ Finch,R Vinay Kumar,0,0,0,NA,0,NA,NA,NA,1
+647249,1st innings,Australia,India,5.6,PJ Hughes,AJ Finch,R Vinay Kumar,0,1,1,legbyes,0,NA,NA,NA,1
+647249,1st innings,Australia,India,6.1,PJ Hughes,AJ Finch,B Kumar,0,0,0,NA,0,NA,NA,NA,1
+647249,1st innings,Australia,India,6.2,PJ Hughes,AJ Finch,B Kumar,1,0,1,NA,0,NA,NA,NA,1
+647249,1st innings,Australia,India,6.3,AJ Finch,PJ Hughes,B Kumar,6,0,6,NA,0,NA,NA,NA,1
+647249,1st innings,Australia,India,6.4,AJ Finch,PJ Hughes,B Kumar,4,0,4,NA,0,NA,NA,NA,1
+647249,1st innings,Australia,India,6.5,AJ Finch,PJ Hughes,B Kumar,0,0,0,NA,0,NA,NA,NA,1
+647249,1st innings,Australia,India,6.6,AJ Finch,PJ Hughes,B Kumar,4,0,4,NA,0,NA,NA,NA,1
+647249,1st innings,Australia,India,7.1,PJ Hughes,AJ Finch,R Vinay Kumar,0,0,0,NA,0,NA,NA,NA,1
+647249,1st innings,Australia,India,7.2,PJ Hughes,AJ Finch,R Vinay Kumar,0,0,0,NA,0,NA,NA,NA,1
+647249,1st innings,Australia,India,7.3,PJ Hughes,AJ Finch,R Vinay Kumar,4,0,4,NA,0,NA,NA,NA,1
+647249,1st innings,Australia,India,7.4,PJ Hughes,AJ Finch,R Vinay Kumar,0,0,0,NA,0,NA,NA,NA,1
+647249,1st innings,Australia,India,7.5,PJ Hughes,AJ Finch,R Vinay Kumar,0,0,0,NA,0,NA,NA,NA,1
+647249,1st innings,Australia,India,7.6,PJ Hughes,AJ Finch,R Vinay Kumar,4,0,4,NA,0,NA,NA,NA,1
+647249,1st innings,Australia,India,8.1,AJ Finch,PJ Hughes,B Kumar,1,0,1,NA,0,NA,NA,NA,1
+647249,1st innings,Australia,India,8.2,PJ Hughes,AJ Finch,B Kumar,4,0,4,NA,0,NA,NA,NA,1
+647249,1st innings,Australia,India,8.3,PJ Hughes,AJ Finch,B Kumar,0,0,0,NA,0,NA,NA,NA,1
+647249,1st innings,Australia,India,8.4,PJ Hughes,AJ Finch,B Kumar,0,0,0,NA,0,NA,NA,NA,1
+647249,1st innings,Australia,India,8.5,PJ Hughes,AJ Finch,B Kumar,1,0,1,NA,0,NA,NA,NA,1
+647249,1st innings,Australia,India,8.6,AJ Finch,PJ Hughes,B Kumar,0,0,0,NA,0,NA,NA,NA,1
+647249,1st innings,Australia,India,9.1,PJ Hughes,AJ Finch,I Sharma,4,0,4,NA,0,NA,NA,NA,1
+647249,1st innings,Australia,India,9.2,PJ Hughes,AJ Finch,I Sharma,0,0,0,NA,0,NA,NA,NA,1
+647249,1st innings,Australia,India,9.3,PJ Hughes,AJ Finch,I Sharma,2,0,2,NA,0,NA,NA,NA,1
+647249,1st innings,Australia,India,9.4,PJ Hughes,AJ Finch,I Sharma,0,0,0,NA,0,NA,NA,NA,1
+647249,1st innings,Australia,India,9.5,PJ Hughes,AJ Finch,I Sharma,1,0,1,NA,0,NA,NA,NA,1
+647249,1st innings,Australia,India,9.6,AJ Finch,PJ Hughes,I Sharma,0,0,0,NA,0,NA,NA,NA,1
+647249,1st innings,Australia,India,10.1,PJ Hughes,AJ Finch,R Ashwin,0,0,0,NA,0,NA,NA,NA,1
+647249,1st innings,Australia,India,10.2,PJ Hughes,AJ Finch,R Ashwin,0,0,0,NA,0,NA,NA,NA,1
+647249,1st innings,Australia,India,10.3,PJ Hughes,AJ Finch,R Ashwin,1,0,1,NA,0,NA,NA,NA,1
+647249,1st innings,Australia,India,10.4,AJ Finch,PJ Hughes,R Ashwin,1,0,1,NA,0,NA,NA,NA,1
+647249,1st innings,Australia,India,10.5,PJ Hughes,AJ Finch,R Ashwin,0,0,0,NA,0,NA,NA,NA,1
+647249,1st innings,Australia,India,10.6,PJ Hughes,AJ Finch,R Ashwin,1,0,1,NA,0,NA,NA,NA,1
+647249,1st innings,Australia,India,11.1,PJ Hughes,AJ Finch,I Sharma,1,0,1,NA,0,NA,NA,NA,1
+647249,1st innings,Australia,India,11.2,AJ Finch,PJ Hughes,I Sharma,0,0,0,NA,0,NA,NA,NA,1
+647249,1st innings,Australia,India,11.3,AJ Finch,PJ Hughes,I Sharma,4,0,4,NA,0,NA,NA,NA,1
+647249,1st innings,Australia,India,11.4,AJ Finch,PJ Hughes,I Sharma,4,0,4,NA,0,NA,NA,NA,1
+647249,1st innings,Australia,India,11.5,AJ Finch,PJ Hughes,I Sharma,0,0,0,NA,0,NA,NA,NA,1
+647249,1st innings,Australia,India,11.6,AJ Finch,PJ Hughes,I Sharma,1,0,1,NA,0,NA,NA,NA,1
+647249,1st innings,Australia,India,12.1,AJ Finch,PJ Hughes,R Ashwin,6,0,6,NA,0,NA,NA,NA,1
+647249,1st innings,Australia,India,12.2,AJ Finch,PJ Hughes,R Ashwin,0,0,0,NA,0,NA,NA,NA,1
+647249,1st innings,Australia,India,12.3,AJ Finch,PJ Hughes,R Ashwin,0,0,0,NA,0,NA,NA,NA,1
+647249,1st innings,Australia,India,12.4,AJ Finch,PJ Hughes,R Ashwin,0,0,0,NA,0,NA,NA,NA,1
+647249,1st innings,Australia,India,12.5,AJ Finch,PJ Hughes,R Ashwin,4,0,4,NA,0,NA,NA,NA,1
+647249,1st innings,Australia,India,12.6,AJ Finch,PJ Hughes,R Ashwin,0,0,0,NA,0,NA,NA,NA,1
+647249,1st innings,Australia,India,13.1,PJ Hughes,AJ Finch,I Sharma,1,0,1,NA,0,NA,NA,NA,1
+647249,1st innings,Australia,India,13.2,AJ Finch,PJ Hughes,I Sharma,1,0,1,NA,0,NA,NA,NA,1
+647249,1st innings,Australia,India,13.3,PJ Hughes,AJ Finch,I Sharma,0,0,0,NA,0,NA,NA,NA,1
+647249,1st innings,Australia,India,13.4,PJ Hughes,AJ Finch,I Sharma,2,0,2,NA,0,NA,NA,NA,1
+647249,1st innings,Australia,India,13.5,PJ Hughes,AJ Finch,I Sharma,0,0,0,NA,0,NA,NA,NA,1
+647249,1st innings,Australia,India,13.6,PJ Hughes,AJ Finch,I Sharma,2,0,2,NA,0,NA,NA,NA,1
+647249,1st innings,Australia,India,14.1,AJ Finch,PJ Hughes,RA Jadeja,0,0,0,NA,0,NA,NA,NA,1
+647249,1st innings,Australia,India,14.2,AJ Finch,PJ Hughes,RA Jadeja,0,0,0,NA,0,NA,NA,NA,1
+647249,1st innings,Australia,India,14.3,AJ Finch,PJ Hughes,RA Jadeja,4,0,4,NA,0,NA,NA,NA,1
+647249,1st innings,Australia,India,14.4,AJ Finch,PJ Hughes,RA Jadeja,1,0,1,NA,0,NA,NA,NA,1
+647249,1st innings,Australia,India,14.5,PJ Hughes,AJ Finch,RA Jadeja,1,0,1,NA,0,NA,NA,NA,1
+647249,1st innings,Australia,India,14.6,AJ Finch,PJ Hughes,RA Jadeja,0,0,0,NA,0,NA,NA,NA,1
+647249,1st innings,Australia,India,15.1,PJ Hughes,AJ Finch,I Sharma,1,0,1,NA,0,NA,NA,NA,1
+647249,1st innings,Australia,India,15.2,AJ Finch,PJ Hughes,I Sharma,4,0,4,NA,0,NA,NA,NA,1
+647249,1st innings,Australia,India,15.3,AJ Finch,PJ Hughes,I Sharma,1,0,1,NA,0,NA,NA,NA,1
+647249,1st innings,Australia,India,15.4,PJ Hughes,AJ Finch,I Sharma,1,0,1,NA,0,NA,NA,NA,1
+647249,1st innings,Australia,India,15.5,AJ Finch,PJ Hughes,I Sharma,0,0,0,NA,0,NA,NA,NA,1
+647249,1st innings,Australia,India,15.6,AJ Finch,PJ Hughes,I Sharma,0,0,0,NA,0,NA,NA,NA,1
+647249,1st innings,Australia,India,16.1,PJ Hughes,AJ Finch,RA Jadeja,1,0,1,NA,0,NA,NA,NA,1
+647249,1st innings,Australia,India,16.2,AJ Finch,PJ Hughes,RA Jadeja,0,0,0,NA,0,NA,NA,NA,1
+647249,1st innings,Australia,India,16.3,AJ Finch,PJ Hughes,RA Jadeja,0,0,0,NA,0,NA,NA,NA,1
+647249,1st innings,Australia,India,16.4,AJ Finch,PJ Hughes,RA Jadeja,0,0,0,NA,0,NA,NA,NA,1
+647249,1st innings,Australia,India,16.5,AJ Finch,PJ Hughes,RA Jadeja,1,0,1,NA,0,NA,NA,NA,1
+647249,1st innings,Australia,India,16.6,PJ Hughes,AJ Finch,RA Jadeja,2,0,2,NA,0,NA,NA,NA,1
+647249,1st innings,Australia,India,17.1,AJ Finch,PJ Hughes,V Kohli,4,0,4,NA,0,NA,NA,NA,1
+647249,1st innings,Australia,India,17.2,AJ Finch,PJ Hughes,V Kohli,1,0,1,NA,0,NA,NA,NA,1
+647249,1st innings,Australia,India,17.3,PJ Hughes,AJ Finch,V Kohli,0,0,0,NA,0,NA,NA,NA,1
+647249,1st innings,Australia,India,17.4,PJ Hughes,AJ Finch,V Kohli,1,0,1,NA,0,NA,NA,NA,1
+647249,1st innings,Australia,India,17.5,AJ Finch,PJ Hughes,V Kohli,6,0,6,NA,0,NA,NA,NA,1
+647249,1st innings,Australia,India,17.6,AJ Finch,PJ Hughes,V Kohli,0,0,0,NA,0,NA,NA,NA,1
+647249,1st innings,Australia,India,18.1,PJ Hughes,AJ Finch,RA Jadeja,2,0,2,NA,0,NA,NA,NA,1
+647249,1st innings,Australia,India,18.2,PJ Hughes,AJ Finch,RA Jadeja,0,0,0,NA,1,caught,PJ Hughes,SK Raina,1
+647249,1st innings,Australia,India,18.3,SR Watson,AJ Finch,RA Jadeja,0,0,0,NA,0,NA,NA,NA,1
+647249,1st innings,Australia,India,18.4,SR Watson,AJ Finch,RA Jadeja,1,0,1,NA,0,NA,NA,NA,1
+647249,1st innings,Australia,India,18.5,AJ Finch,SR Watson,RA Jadeja,1,0,1,NA,0,NA,NA,NA,1
+647249,1st innings,Australia,India,18.6,SR Watson,AJ Finch,RA Jadeja,1,0,1,NA,0,NA,NA,NA,1
+647249,1st innings,Australia,India,19.1,SR Watson,AJ Finch,Yuvraj Singh,0,0,0,NA,1,caught,SR Watson,RA Jadeja,1
+647249,1st innings,Australia,India,19.2,GJ Bailey,AJ Finch,Yuvraj Singh,1,0,1,NA,0,NA,NA,NA,1
+647249,1st innings,Australia,India,19.3,AJ Finch,GJ Bailey,Yuvraj Singh,0,0,0,NA,0,NA,NA,NA,1
+647249,1st innings,Australia,India,19.4,AJ Finch,GJ Bailey,Yuvraj Singh,0,0,0,NA,0,NA,NA,NA,1
+647249,1st innings,Australia,India,19.5,AJ Finch,GJ Bailey,Yuvraj Singh,0,0,0,NA,0,NA,NA,NA,1
+647249,1st innings,Australia,India,19.6,AJ Finch,GJ Bailey,Yuvraj Singh,0,0,0,NA,0,NA,NA,NA,1
+647249,1st innings,Australia,India,20.1,GJ Bailey,AJ Finch,RA Jadeja,0,0,0,NA,0,NA,NA,NA,1
+647249,1st innings,Australia,India,20.2,GJ Bailey,AJ Finch,RA Jadeja,4,0,4,NA,0,NA,NA,NA,1
+647249,1st innings,Australia,India,20.3,GJ Bailey,AJ Finch,RA Jadeja,0,0,0,NA,0,NA,NA,NA,1
+647249,1st innings,Australia,India,20.4,GJ Bailey,AJ Finch,RA Jadeja,0,0,0,NA,0,NA,NA,NA,1
+647249,1st innings,Australia,India,20.5,GJ Bailey,AJ Finch,RA Jadeja,0,0,0,NA,0,NA,NA,NA,1
+647249,1st innings,Australia,India,20.6,GJ Bailey,AJ Finch,RA Jadeja,0,0,0,NA,0,NA,NA,NA,1
+647249,1st innings,Australia,India,21.1,AJ Finch,GJ Bailey,Yuvraj Singh,1,0,1,NA,0,NA,NA,NA,1
+647249,1st innings,Australia,India,21.2,GJ Bailey,AJ Finch,Yuvraj Singh,0,0,0,NA,0,NA,NA,NA,1
+647249,1st innings,Australia,India,21.3,GJ Bailey,AJ Finch,Yuvraj Singh,0,0,0,NA,0,NA,NA,NA,1
+647249,1st innings,Australia,India,21.4,GJ Bailey,AJ Finch,Yuvraj Singh,1,0,1,NA,0,NA,NA,NA,1
+647249,1st innings,Australia,India,21.5,AJ Finch,GJ Bailey,Yuvraj Singh,1,0,1,NA,0,NA,NA,NA,1
+647249,1st innings,Australia,India,21.6,GJ Bailey,AJ Finch,Yuvraj Singh,1,0,1,NA,0,NA,NA,NA,1
+647249,1st innings,Australia,India,22.1,GJ Bailey,AJ Finch,RA Jadeja,1,0,1,NA,0,NA,NA,NA,1
+647249,1st innings,Australia,India,22.2,AJ Finch,GJ Bailey,RA Jadeja,0,0,0,NA,0,NA,NA,NA,1
+647249,1st innings,Australia,India,22.3,AJ Finch,GJ Bailey,RA Jadeja,0,0,0,NA,0,NA,NA,NA,1
+647249,1st innings,Australia,India,22.4,AJ Finch,GJ Bailey,RA Jadeja,1,0,1,NA,0,NA,NA,NA,1
+647249,1st innings,Australia,India,22.5,GJ Bailey,AJ Finch,RA Jadeja,0,0,0,NA,0,NA,NA,NA,1
+647249,1st innings,Australia,India,22.6,GJ Bailey,AJ Finch,RA Jadeja,1,0,1,NA,0,NA,NA,NA,1
+647249,1st innings,Australia,India,23.1,GJ Bailey,AJ Finch,Yuvraj Singh,4,0,4,NA,0,NA,NA,NA,1
+647249,1st innings,Australia,India,23.2,GJ Bailey,AJ Finch,Yuvraj Singh,1,0,1,NA,0,NA,NA,NA,1
+647249,1st innings,Australia,India,23.3,AJ Finch,GJ Bailey,Yuvraj Singh,1,0,1,NA,0,NA,NA,NA,1
+647249,1st innings,Australia,India,23.4,GJ Bailey,AJ Finch,Yuvraj Singh,0,0,0,NA,0,NA,NA,NA,1
+647249,1st innings,Australia,India,23.5,GJ Bailey,AJ Finch,Yuvraj Singh,1,0,1,NA,0,NA,NA,NA,1
+647249,1st innings,Australia,India,23.6,AJ Finch,GJ Bailey,Yuvraj Singh,1,0,1,NA,0,NA,NA,NA,1
+647249,1st innings,Australia,India,24.1,AJ Finch,GJ Bailey,RA Jadeja,0,0,0,NA,0,NA,NA,NA,1
+647249,1st innings,Australia,India,24.2,AJ Finch,GJ Bailey,RA Jadeja,1,0,1,NA,0,NA,NA,NA,1
+647249,1st innings,Australia,India,24.3,GJ Bailey,AJ Finch,RA Jadeja,0,0,0,NA,0,NA,NA,NA,1
+647249,1st innings,Australia,India,24.4,GJ Bailey,AJ Finch,RA Jadeja,1,0,1,NA,0,NA,NA,NA,1
+647249,1st innings,Australia,India,24.5,AJ Finch,GJ Bailey,RA Jadeja,1,0,1,NA,0,NA,NA,NA,1
+647249,1st innings,Australia,India,24.6,GJ Bailey,AJ Finch,RA Jadeja,0,0,0,NA,0,NA,NA,NA,1
+647249,1st innings,Australia,India,25.1,AJ Finch,GJ Bailey,Yuvraj Singh,0,0,0,NA,0,NA,NA,NA,1
+647249,1st innings,Australia,India,25.2,AJ Finch,GJ Bailey,Yuvraj Singh,0,0,0,NA,0,NA,NA,NA,1
+647249,1st innings,Australia,India,25.3,AJ Finch,GJ Bailey,Yuvraj Singh,1,0,1,NA,0,NA,NA,NA,1
+647249,1st innings,Australia,India,25.4,GJ Bailey,AJ Finch,Yuvraj Singh,4,0,4,NA,0,NA,NA,NA,1
+647249,1st innings,Australia,India,25.5,GJ Bailey,AJ Finch,Yuvraj Singh,1,0,1,NA,0,NA,NA,NA,1
+647249,1st innings,Australia,India,25.6,AJ Finch,GJ Bailey,Yuvraj Singh,1,0,1,NA,0,NA,NA,NA,1
+647249,1st innings,Australia,India,26.1,AJ Finch,GJ Bailey,RA Jadeja,1,0,1,NA,0,NA,NA,NA,1
+647249,1st innings,Australia,India,26.2,GJ Bailey,AJ Finch,RA Jadeja,1,0,1,NA,0,NA,NA,NA,1
+647249,1st innings,Australia,India,26.3,AJ Finch,GJ Bailey,RA Jadeja,1,0,1,NA,0,NA,NA,NA,1
+647249,1st innings,Australia,India,26.4,GJ Bailey,AJ Finch,RA Jadeja,0,0,0,NA,0,NA,NA,NA,1
+647249,1st innings,Australia,India,26.5,GJ Bailey,AJ Finch,RA Jadeja,0,0,0,NA,0,NA,NA,NA,1
+647249,1st innings,Australia,India,26.6,GJ Bailey,AJ Finch,RA Jadeja,0,0,0,NA,0,NA,NA,NA,1
+647249,1st innings,Australia,India,27.1,AJ Finch,GJ Bailey,Yuvraj Singh,0,0,0,NA,1,caught,AJ Finch,V Kohli,1
+647249,1st innings,Australia,India,27.2,GJ Bailey,AC Voges,Yuvraj Singh,0,0,0,NA,0,NA,NA,NA,1
+647249,1st innings,Australia,India,27.3,GJ Bailey,AC Voges,Yuvraj Singh,2,0,2,NA,0,NA,NA,NA,1
+647249,1st innings,Australia,India,27.4,GJ Bailey,AC Voges,Yuvraj Singh,1,0,1,NA,0,NA,NA,NA,1
+647249,1st innings,Australia,India,27.5,AC Voges,GJ Bailey,Yuvraj Singh,1,0,1,NA,0,NA,NA,NA,1
+647249,1st innings,Australia,India,27.6,GJ Bailey,AC Voges,Yuvraj Singh,0,0,0,NA,0,NA,NA,NA,1
+647249,1st innings,Australia,India,28.1,AC Voges,GJ Bailey,RA Jadeja,0,0,0,NA,0,NA,NA,NA,1
+647249,1st innings,Australia,India,28.2,AC Voges,GJ Bailey,RA Jadeja,0,0,0,NA,0,NA,NA,NA,1
+647249,1st innings,Australia,India,28.3,AC Voges,GJ Bailey,RA Jadeja,0,0,0,NA,0,NA,NA,NA,1
+647249,1st innings,Australia,India,28.4,AC Voges,GJ Bailey,RA Jadeja,0,0,0,NA,0,NA,NA,NA,1
+647249,1st innings,Australia,India,28.5,AC Voges,GJ Bailey,RA Jadeja,1,0,1,NA,0,NA,NA,NA,1
+647249,1st innings,Australia,India,28.6,GJ Bailey,AC Voges,RA Jadeja,2,0,2,NA,0,NA,NA,NA,1
+647249,1st innings,Australia,India,29.1,AC Voges,GJ Bailey,Yuvraj Singh,1,0,1,NA,0,NA,NA,NA,1
+647249,1st innings,Australia,India,29.2,GJ Bailey,AC Voges,Yuvraj Singh,0,0,0,NA,0,NA,NA,NA,1
+647249,1st innings,Australia,India,29.3,GJ Bailey,AC Voges,Yuvraj Singh,4,0,4,NA,0,NA,NA,NA,1
+647249,1st innings,Australia,India,29.4,GJ Bailey,AC Voges,Yuvraj Singh,0,0,0,NA,0,NA,NA,NA,1
+647249,1st innings,Australia,India,29.5,GJ Bailey,AC Voges,Yuvraj Singh,4,0,4,NA,0,NA,NA,NA,1
+647249,1st innings,Australia,India,29.6,GJ Bailey,AC Voges,Yuvraj Singh,1,0,1,NA,0,NA,NA,NA,1
+647249,1st innings,Australia,India,30.1,GJ Bailey,AC Voges,R Ashwin,1,0,1,NA,0,NA,NA,NA,1
+647249,1st innings,Australia,India,30.2,AC Voges,GJ Bailey,R Ashwin,0,0,0,NA,0,NA,NA,NA,1
+647249,1st innings,Australia,India,30.3,AC Voges,GJ Bailey,R Ashwin,1,0,1,NA,0,NA,NA,NA,1
+647249,1st innings,Australia,India,30.4,GJ Bailey,AC Voges,R Ashwin,1,0,1,NA,0,NA,NA,NA,1
+647249,1st innings,Australia,India,30.5,AC Voges,GJ Bailey,R Ashwin,0,0,0,NA,0,NA,NA,NA,1
+647249,1st innings,Australia,India,30.6,AC Voges,GJ Bailey,R Ashwin,1,0,1,NA,0,NA,NA,NA,1
+647249,1st innings,Australia,India,31.1,AC Voges,GJ Bailey,I Sharma,1,0,1,NA,0,NA,NA,NA,1
+647249,1st innings,Australia,India,31.2,GJ Bailey,AC Voges,I Sharma,0,0,0,NA,0,NA,NA,NA,1
+647249,1st innings,Australia,India,31.3,GJ Bailey,AC Voges,I Sharma,1,0,1,NA,0,NA,NA,NA,1
+647249,1st innings,Australia,India,31.4,AC Voges,GJ Bailey,I Sharma,1,0,1,NA,0,NA,NA,NA,1
+647249,1st innings,Australia,India,31.5,GJ Bailey,AC Voges,I Sharma,2,0,2,NA,0,NA,NA,NA,1
+647249,1st innings,Australia,India,31.6,GJ Bailey,AC Voges,I Sharma,0,0,0,NA,1,run out,AC Voges,Yuvraj Singh,1
+647249,1st innings,Australia,India,32.1,GJ Bailey,GJ Maxwell,R Ashwin,1,0,1,NA,0,NA,NA,NA,1
+647249,1st innings,Australia,India,32.2,GJ Maxwell,GJ Bailey,R Ashwin,0,0,0,NA,0,NA,NA,NA,1
+647249,1st innings,Australia,India,32.3,GJ Maxwell,GJ Bailey,R Ashwin,0,0,0,NA,0,NA,NA,NA,1
+647249,1st innings,Australia,India,32.4,GJ Maxwell,GJ Bailey,R Ashwin,0,0,0,NA,0,NA,NA,NA,1
+647249,1st innings,Australia,India,32.5,GJ Maxwell,GJ Bailey,R Ashwin,0,0,0,NA,0,NA,NA,NA,1
+647249,1st innings,Australia,India,32.6,GJ Maxwell,GJ Bailey,R Ashwin,1,0,1,NA,0,NA,NA,NA,1
+647249,1st innings,Australia,India,33.1,GJ Maxwell,GJ Bailey,I Sharma,1,0,1,NA,0,NA,NA,NA,1
+647249,1st innings,Australia,India,33.2,GJ Bailey,GJ Maxwell,I Sharma,1,0,1,NA,0,NA,NA,NA,1
+647249,1st innings,Australia,India,33.3,GJ Maxwell,GJ Bailey,I Sharma,4,0,4,NA,0,NA,NA,NA,1
+647249,1st innings,Australia,India,33.4,GJ Maxwell,GJ Bailey,I Sharma,0,0,0,NA,0,NA,NA,NA,1
+647249,1st innings,Australia,India,33.5,GJ Maxwell,GJ Bailey,I Sharma,1,0,1,NA,0,NA,NA,NA,1
+647249,1st innings,Australia,India,33.6,GJ Bailey,GJ Maxwell,I Sharma,1,0,1,NA,0,NA,NA,NA,1
+647249,1st innings,Australia,India,34.1,GJ Bailey,GJ Maxwell,R Ashwin,0,0,0,NA,0,NA,NA,NA,1
+647249,1st innings,Australia,India,34.2,GJ Bailey,GJ Maxwell,R Ashwin,0,0,0,NA,0,NA,NA,NA,1
+647249,1st innings,Australia,India,34.3,GJ Bailey,GJ Maxwell,R Ashwin,1,0,1,NA,0,NA,NA,NA,1
+647249,1st innings,Australia,India,34.4,GJ Maxwell,GJ Bailey,R Ashwin,0,0,0,NA,0,NA,NA,NA,1
+647249,1st innings,Australia,India,34.5,GJ Maxwell,GJ Bailey,R Ashwin,1,0,1,NA,0,NA,NA,NA,1
+647249,1st innings,Australia,India,34.6,GJ Bailey,GJ Maxwell,R Ashwin,1,0,1,NA,0,NA,NA,NA,1
+647249,1st innings,Australia,India,35.1,GJ Bailey,GJ Maxwell,R Vinay Kumar,1,0,1,NA,0,NA,NA,NA,1
+647249,1st innings,Australia,India,35.2,GJ Maxwell,GJ Bailey,R Vinay Kumar,0,0,0,NA,0,NA,NA,NA,1
+647249,1st innings,Australia,India,35.3,GJ Maxwell,GJ Bailey,R Vinay Kumar,1,0,1,NA,0,NA,NA,NA,1
+647249,1st innings,Australia,India,35.4,GJ Bailey,GJ Maxwell,R Vinay Kumar,0,0,0,NA,0,NA,NA,NA,1
+647249,1st innings,Australia,India,35.5,GJ Bailey,GJ Maxwell,R Vinay Kumar,1,0,1,NA,0,NA,NA,NA,1
+647249,1st innings,Australia,India,35.6,GJ Maxwell,GJ Bailey,R Vinay Kumar,0,0,0,NA,0,NA,NA,NA,1
+647249,1st innings,Australia,India,36.1,GJ Bailey,GJ Maxwell,R Ashwin,2,0,2,NA,0,NA,NA,NA,1
+647249,1st innings,Australia,India,36.2,GJ Bailey,GJ Maxwell,R Ashwin,1,0,1,NA,0,NA,NA,NA,1
+647249,1st innings,Australia,India,36.3,GJ Maxwell,GJ Bailey,R Ashwin,6,0,6,NA,0,NA,NA,NA,1
+647249,1st innings,Australia,India,36.4,GJ Maxwell,GJ Bailey,R Ashwin,2,0,2,NA,0,NA,NA,NA,1
+647249,1st innings,Australia,India,36.5,GJ Maxwell,GJ Bailey,R Ashwin,0,0,0,NA,0,NA,NA,NA,1
+647249,1st innings,Australia,India,36.6,GJ Maxwell,GJ Bailey,R Ashwin,1,0,1,NA,0,NA,NA,NA,1
+647249,1st innings,Australia,India,37.1,GJ Maxwell,GJ Bailey,R Vinay Kumar,1,0,1,NA,0,NA,NA,NA,1
+647249,1st innings,Australia,India,37.2,GJ Bailey,GJ Maxwell,R Vinay Kumar,1,0,1,NA,0,NA,NA,NA,1
+647249,1st innings,Australia,India,37.3,GJ Maxwell,GJ Bailey,R Vinay Kumar,6,0,6,NA,0,NA,NA,NA,1
+647249,1st innings,Australia,India,37.4,GJ Maxwell,GJ Bailey,R Vinay Kumar,0,0,0,NA,0,NA,NA,NA,1
+647249,1st innings,Australia,India,37.5,GJ Maxwell,GJ Bailey,R Vinay Kumar,6,0,6,NA,0,NA,NA,NA,1
+647249,1st innings,Australia,India,37.6,GJ Maxwell,GJ Bailey,R Vinay Kumar,0,0,0,NA,1,caught,GJ Maxwell,RG Sharma,1
+647249,1st innings,Australia,India,38.1,GJ Bailey,BJ Haddin,RA Jadeja,0,0,0,NA,0,NA,NA,NA,1
+647249,1st innings,Australia,India,38.2,GJ Bailey,BJ Haddin,RA Jadeja,0,0,0,NA,0,NA,NA,NA,1
+647249,1st innings,Australia,India,38.3,GJ Bailey,BJ Haddin,RA Jadeja,0,0,0,NA,0,NA,NA,NA,1
+647249,1st innings,Australia,India,38.4,GJ Bailey,BJ Haddin,RA Jadeja,1,0,1,NA,0,NA,NA,NA,1
+647249,1st innings,Australia,India,38.5,BJ Haddin,GJ Bailey,RA Jadeja,0,0,0,NA,0,NA,NA,NA,1
+647249,1st innings,Australia,India,38.6,BJ Haddin,GJ Bailey,RA Jadeja,0,0,0,NA,0,NA,NA,NA,1
+647249,1st innings,Australia,India,39.1,GJ Bailey,BJ Haddin,R Vinay Kumar,1,0,1,NA,0,NA,NA,NA,1
+647249,1st innings,Australia,India,39.2,BJ Haddin,GJ Bailey,R Vinay Kumar,0,0,0,NA,0,NA,NA,NA,1
+647249,1st innings,Australia,India,39.3,BJ Haddin,GJ Bailey,R Vinay Kumar,4,0,4,NA,0,NA,NA,NA,1
+647249,1st innings,Australia,India,39.4,BJ Haddin,GJ Bailey,R Vinay Kumar,4,0,4,NA,0,NA,NA,NA,1
+647249,1st innings,Australia,India,39.5,BJ Haddin,GJ Bailey,R Vinay Kumar,0,0,0,NA,0,NA,NA,NA,1
+647249,1st innings,Australia,India,39.6,BJ Haddin,GJ Bailey,R Vinay Kumar,0,0,0,NA,0,NA,NA,NA,1
+647249,1st innings,Australia,India,40.1,GJ Bailey,BJ Haddin,R Ashwin,1,0,1,NA,0,NA,NA,NA,1
+647249,1st innings,Australia,India,40.2,BJ Haddin,GJ Bailey,R Ashwin,0,0,0,NA,0,NA,NA,NA,1
+647249,1st innings,Australia,India,40.3,BJ Haddin,GJ Bailey,R Ashwin,0,0,0,NA,0,NA,NA,NA,1
+647249,1st innings,Australia,India,40.4,BJ Haddin,GJ Bailey,R Ashwin,1,0,1,NA,0,NA,NA,NA,1
+647249,1st innings,Australia,India,40.5,GJ Bailey,BJ Haddin,R Ashwin,1,0,1,NA,0,NA,NA,NA,1
+647249,1st innings,Australia,India,40.6,BJ Haddin,GJ Bailey,R Ashwin,0,0,0,NA,0,NA,NA,NA,1
+647249,1st innings,Australia,India,41.1,GJ Bailey,BJ Haddin,RA Jadeja,0,0,0,NA,0,NA,NA,NA,1
+647249,1st innings,Australia,India,41.2,GJ Bailey,BJ Haddin,RA Jadeja,0,0,0,NA,0,NA,NA,NA,1
+647249,1st innings,Australia,India,41.3,GJ Bailey,BJ Haddin,RA Jadeja,1,0,1,NA,0,NA,NA,NA,1
+647249,1st innings,Australia,India,41.4,BJ Haddin,GJ Bailey,RA Jadeja,0,0,0,NA,0,NA,NA,NA,1
+647249,1st innings,Australia,India,41.5,BJ Haddin,GJ Bailey,RA Jadeja,1,0,1,NA,0,NA,NA,NA,1
+647249,1st innings,Australia,India,41.6,GJ Bailey,BJ Haddin,RA Jadeja,1,0,1,NA,0,NA,NA,NA,1
+647249,1st innings,Australia,India,42.1,GJ Bailey,BJ Haddin,R Ashwin,1,0,1,NA,0,NA,NA,NA,1
+647249,1st innings,Australia,India,42.2,BJ Haddin,GJ Bailey,R Ashwin,0,0,0,NA,1,lbw,BJ Haddin,NA,1
+647249,1st innings,Australia,India,42.3,JP Faulkner,GJ Bailey,R Ashwin,1,0,1,NA,0,NA,NA,NA,1
+647249,1st innings,Australia,India,42.4,GJ Bailey,JP Faulkner,R Ashwin,0,0,0,NA,0,NA,NA,NA,1
+647249,1st innings,Australia,India,42.5,GJ Bailey,JP Faulkner,R Ashwin,1,0,1,NA,0,NA,NA,NA,1
+647249,1st innings,Australia,India,42.6,JP Faulkner,GJ Bailey,R Ashwin,1,0,1,NA,0,NA,NA,NA,1
+647249,1st innings,Australia,India,43.1,JP Faulkner,GJ Bailey,B Kumar,1,0,1,NA,0,NA,NA,NA,1
+647249,1st innings,Australia,India,43.2,GJ Bailey,JP Faulkner,B Kumar,4,0,4,NA,0,NA,NA,NA,1
+647249,1st innings,Australia,India,43.3,GJ Bailey,JP Faulkner,B Kumar,4,0,4,NA,0,NA,NA,NA,1
+647249,1st innings,Australia,India,43.4,GJ Bailey,JP Faulkner,B Kumar,0,0,0,NA,0,NA,NA,NA,1
+647249,1st innings,Australia,India,43.5,GJ Bailey,JP Faulkner,B Kumar,1,0,1,NA,0,NA,NA,NA,1
+647249,1st innings,Australia,India,43.6,JP Faulkner,GJ Bailey,B Kumar,0,0,0,NA,0,NA,NA,NA,1
+647249,1st innings,Australia,India,44.1,GJ Bailey,JP Faulkner,R Ashwin,1,0,1,NA,0,NA,NA,NA,1
+647249,1st innings,Australia,India,44.2,JP Faulkner,GJ Bailey,R Ashwin,0,0,0,NA,0,NA,NA,NA,1
+647249,1st innings,Australia,India,44.3,JP Faulkner,GJ Bailey,R Ashwin,0,0,0,NA,0,NA,NA,NA,1
+647249,1st innings,Australia,India,44.4,JP Faulkner,GJ Bailey,R Ashwin,1,0,1,NA,0,NA,NA,NA,1
+647249,1st innings,Australia,India,44.5,GJ Bailey,JP Faulkner,R Ashwin,4,0,4,NA,0,NA,NA,NA,1
+647249,1st innings,Australia,India,44.6,GJ Bailey,JP Faulkner,R Ashwin,1,0,1,NA,0,NA,NA,NA,1
+647249,1st innings,Australia,India,45.1,GJ Bailey,JP Faulkner,R Vinay Kumar,1,0,1,NA,0,NA,NA,NA,1
+647249,1st innings,Australia,India,45.2,JP Faulkner,GJ Bailey,R Vinay Kumar,0,0,0,NA,0,NA,NA,NA,1
+647249,1st innings,Australia,India,45.3,JP Faulkner,GJ Bailey,R Vinay Kumar,1,0,1,NA,0,NA,NA,NA,1
+647249,1st innings,Australia,India,45.4,GJ Bailey,JP Faulkner,R Vinay Kumar,1,0,1,NA,0,NA,NA,NA,1
+647249,1st innings,Australia,India,45.5,JP Faulkner,GJ Bailey,R Vinay Kumar,1,0,1,NA,0,NA,NA,NA,1
+647249,1st innings,Australia,India,45.6,GJ Bailey,JP Faulkner,R Vinay Kumar,4,0,4,NA,0,NA,NA,NA,1
+647249,1st innings,Australia,India,46.1,JP Faulkner,GJ Bailey,R Ashwin,1,0,1,NA,0,NA,NA,NA,1
+647249,1st innings,Australia,India,46.2,GJ Bailey,JP Faulkner,R Ashwin,4,0,4,NA,0,NA,NA,NA,1
+647249,1st innings,Australia,India,46.3,GJ Bailey,JP Faulkner,R Ashwin,0,0,0,NA,1,caught,GJ Bailey,SK Raina,1
+647249,1st innings,Australia,India,46.4,JP Faulkner,MG Johnson,R Ashwin,0,0,0,NA,0,NA,NA,NA,1
+647249,1st innings,Australia,India,46.5,JP Faulkner,MG Johnson,R Ashwin,0,0,0,NA,0,NA,NA,NA,1
+647249,1st innings,Australia,India,46.6,JP Faulkner,MG Johnson,R Ashwin,2,0,2,NA,0,NA,NA,NA,1
+647249,1st innings,Australia,India,47.1,MG Johnson,JP Faulkner,R Vinay Kumar,1,0,1,NA,0,NA,NA,NA,1
+647249,1st innings,Australia,India,47.2,JP Faulkner,MG Johnson,R Vinay Kumar,2,0,2,NA,0,NA,NA,NA,1
+647249,1st innings,Australia,India,47.3,JP Faulkner,MG Johnson,R Vinay Kumar,6,0,6,NA,0,NA,NA,NA,1
+647249,1st innings,Australia,India,47.4,JP Faulkner,MG Johnson,R Vinay Kumar,6,0,6,NA,0,NA,NA,NA,1
+647249,1st innings,Australia,India,47.5,JP Faulkner,MG Johnson,R Vinay Kumar,1,0,1,NA,0,NA,NA,NA,1
+647249,1st innings,Australia,India,47.6,MG Johnson,JP Faulkner,R Vinay Kumar,0,0,0,NA,0,NA,NA,NA,1
+647249,1st innings,Australia,India,48.1,JP Faulkner,MG Johnson,B Kumar,0,0,0,NA,0,NA,NA,NA,1
+647249,1st innings,Australia,India,48.2,JP Faulkner,MG Johnson,B Kumar,1,0,1,NA,0,NA,NA,NA,1
+647249,1st innings,Australia,India,48.3,MG Johnson,JP Faulkner,B Kumar,0,0,0,NA,0,NA,NA,NA,1
+647249,1st innings,Australia,India,48.4,MG Johnson,JP Faulkner,B Kumar,4,0,4,NA,0,NA,NA,NA,1
+647249,1st innings,Australia,India,48.5,MG Johnson,JP Faulkner,B Kumar,4,0,4,NA,0,NA,NA,NA,1
+647249,1st innings,Australia,India,48.6,MG Johnson,JP Faulkner,B Kumar,0,0,0,NA,0,NA,NA,NA,1
+647249,1st innings,Australia,India,49.1,JP Faulkner,MG Johnson,I Sharma,2,0,2,NA,0,NA,NA,NA,1
+647249,1st innings,Australia,India,49.2,JP Faulkner,MG Johnson,I Sharma,0,0,0,NA,1,caught,JP Faulkner,R Vinay Kumar,1
+647249,1st innings,Australia,India,49.3,CJ McKay,MG Johnson,I Sharma,0,0,0,NA,0,NA,NA,NA,1
+647249,1st innings,Australia,India,49.4,CJ McKay,MG Johnson,I Sharma,4,0,4,NA,0,NA,NA,NA,1
+647249,1st innings,Australia,India,49.5,CJ McKay,MG Johnson,I Sharma,6,0,6,NA,0,NA,NA,NA,1
+647249,1st innings,Australia,India,49.6,CJ McKay,MG Johnson,I Sharma,1,0,1,NA,0,NA,NA,NA,1
+647249,2nd innings,India,Australia,0.1,S Dhawan,RG Sharma,MG Johnson,0,0,0,NA,0,NA,NA,NA,0
+647249,2nd innings,India,Australia,0.2,S Dhawan,RG Sharma,MG Johnson,1,0,1,NA,0,NA,NA,NA,0
+647249,2nd innings,India,Australia,0.3,RG Sharma,S Dhawan,MG Johnson,1,0,1,NA,0,NA,NA,NA,0
+647249,2nd innings,India,Australia,0.4,S Dhawan,RG Sharma,MG Johnson,0,0,0,NA,0,NA,NA,NA,0
+647249,2nd innings,India,Australia,0.5,S Dhawan,RG Sharma,MG Johnson,0,0,0,NA,0,NA,NA,NA,0
+647249,2nd innings,India,Australia,0.6,S Dhawan,RG Sharma,MG Johnson,0,0,0,NA,0,NA,NA,NA,0
+647249,2nd innings,India,Australia,1.1,RG Sharma,S Dhawan,CJ McKay,0,1,1,wides,0,NA,NA,NA,0
+647249,2nd innings,India,Australia,1.2,RG Sharma,S Dhawan,CJ McKay,1,0,1,NA,0,NA,NA,NA,0
+647249,2nd innings,India,Australia,1.3,S Dhawan,RG Sharma,CJ McKay,1,0,1,NA,0,NA,NA,NA,0
+647249,2nd innings,India,Australia,1.4,RG Sharma,S Dhawan,CJ McKay,0,0,0,NA,0,NA,NA,NA,0
+647249,2nd innings,India,Australia,1.5,RG Sharma,S Dhawan,CJ McKay,0,0,0,NA,0,NA,NA,NA,0
+647249,2nd innings,India,Australia,1.6,RG Sharma,S Dhawan,CJ McKay,0,0,0,NA,0,NA,NA,NA,0
+647249,2nd innings,India,Australia,1.7,RG Sharma,S Dhawan,CJ McKay,1,0,1,NA,0,NA,NA,NA,0
+647249,2nd innings,India,Australia,2.1,RG Sharma,S Dhawan,MG Johnson,0,0,0,NA,0,NA,NA,NA,0
+647249,2nd innings,India,Australia,2.2,RG Sharma,S Dhawan,MG Johnson,0,0,0,NA,0,NA,NA,NA,0
+647249,2nd innings,India,Australia,2.3,RG Sharma,S Dhawan,MG Johnson,0,0,0,NA,0,NA,NA,NA,0
+647249,2nd innings,India,Australia,2.4,RG Sharma,S Dhawan,MG Johnson,0,0,0,NA,0,NA,NA,NA,0
+647249,2nd innings,India,Australia,2.5,RG Sharma,S Dhawan,MG Johnson,0,0,0,NA,0,NA,NA,NA,0
+647249,2nd innings,India,Australia,2.6,RG Sharma,S Dhawan,MG Johnson,1,0,1,NA,0,NA,NA,NA,0
+647249,2nd innings,India,Australia,3.1,RG Sharma,S Dhawan,CJ McKay,0,0,0,NA,0,NA,NA,NA,0
+647249,2nd innings,India,Australia,3.2,RG Sharma,S Dhawan,CJ McKay,1,0,1,NA,0,NA,NA,NA,0
+647249,2nd innings,India,Australia,3.3,S Dhawan,RG Sharma,CJ McKay,0,0,0,NA,0,NA,NA,NA,0
+647249,2nd innings,India,Australia,3.4,S Dhawan,RG Sharma,CJ McKay,0,0,0,NA,0,NA,NA,NA,0
+647249,2nd innings,India,Australia,3.5,S Dhawan,RG Sharma,CJ McKay,0,0,0,NA,0,NA,NA,NA,0
+647249,2nd innings,India,Australia,3.6,S Dhawan,RG Sharma,CJ McKay,0,0,0,NA,0,NA,NA,NA,0
+647249,2nd innings,India,Australia,4.1,RG Sharma,S Dhawan,MG Johnson,2,0,2,NA,0,NA,NA,NA,0
+647249,2nd innings,India,Australia,4.2,RG Sharma,S Dhawan,MG Johnson,0,0,0,NA,0,NA,NA,NA,0
+647249,2nd innings,India,Australia,4.3,RG Sharma,S Dhawan,MG Johnson,0,0,0,NA,0,NA,NA,NA,0
+647249,2nd innings,India,Australia,4.4,RG Sharma,S Dhawan,MG Johnson,0,0,0,NA,0,NA,NA,NA,0
+647249,2nd innings,India,Australia,4.5,RG Sharma,S Dhawan,MG Johnson,4,0,4,NA,0,NA,NA,NA,0
+647249,2nd innings,India,Australia,4.6,RG Sharma,S Dhawan,MG Johnson,0,1,1,wides,0,NA,NA,NA,0
+647249,2nd innings,India,Australia,4.7,RG Sharma,S Dhawan,MG Johnson,0,0,0,NA,0,NA,NA,NA,0
+647249,2nd innings,India,Australia,5.1,S Dhawan,RG Sharma,CJ McKay,0,0,0,NA,0,NA,NA,NA,0
+647249,2nd innings,India,Australia,5.2,S Dhawan,RG Sharma,CJ McKay,0,0,0,NA,0,NA,NA,NA,0
+647249,2nd innings,India,Australia,5.3,S Dhawan,RG Sharma,CJ McKay,1,0,1,NA,0,NA,NA,NA,0
+647249,2nd innings,India,Australia,5.4,RG Sharma,S Dhawan,CJ McKay,4,0,4,NA,0,NA,NA,NA,0
+647249,2nd innings,India,Australia,5.5,RG Sharma,S Dhawan,CJ McKay,0,0,0,NA,0,NA,NA,NA,0
+647249,2nd innings,India,Australia,5.6,RG Sharma,S Dhawan,CJ McKay,2,0,2,NA,0,NA,NA,NA,0
+647249,2nd innings,India,Australia,6.1,S Dhawan,RG Sharma,JP Faulkner,4,0,4,NA,0,NA,NA,NA,0
+647249,2nd innings,India,Australia,6.2,S Dhawan,RG Sharma,JP Faulkner,0,0,0,NA,1,caught,S Dhawan,BJ Haddin,0
+647249,2nd innings,India,Australia,6.3,V Kohli,RG Sharma,JP Faulkner,0,0,0,NA,0,NA,NA,NA,0
+647249,2nd innings,India,Australia,6.4,V Kohli,RG Sharma,JP Faulkner,0,0,0,NA,0,NA,NA,NA,0
+647249,2nd innings,India,Australia,6.5,V Kohli,RG Sharma,JP Faulkner,0,0,0,NA,0,NA,NA,NA,0
+647249,2nd innings,India,Australia,6.6,V Kohli,RG Sharma,JP Faulkner,2,0,2,NA,0,NA,NA,NA,0
+647249,2nd innings,India,Australia,7.1,RG Sharma,V Kohli,CJ McKay,0,0,0,NA,0,NA,NA,NA,0
+647249,2nd innings,India,Australia,7.2,RG Sharma,V Kohli,CJ McKay,0,0,0,NA,0,NA,NA,NA,0
+647249,2nd innings,India,Australia,7.3,RG Sharma,V Kohli,CJ McKay,1,0,1,NA,0,NA,NA,NA,0
+647249,2nd innings,India,Australia,7.4,V Kohli,RG Sharma,CJ McKay,0,0,0,NA,0,NA,NA,NA,0
+647249,2nd innings,India,Australia,7.5,V Kohli,RG Sharma,CJ McKay,0,0,0,NA,0,NA,NA,NA,0
+647249,2nd innings,India,Australia,7.6,V Kohli,RG Sharma,CJ McKay,0,0,0,NA,0,NA,NA,NA,0
+647249,2nd innings,India,Australia,8.1,RG Sharma,V Kohli,JP Faulkner,4,0,4,NA,0,NA,NA,NA,0
+647249,2nd innings,India,Australia,8.2,RG Sharma,V Kohli,JP Faulkner,0,0,0,NA,0,NA,NA,NA,0
+647249,2nd innings,India,Australia,8.3,RG Sharma,V Kohli,JP Faulkner,4,0,4,NA,0,NA,NA,NA,0
+647249,2nd innings,India,Australia,8.4,RG Sharma,V Kohli,JP Faulkner,0,0,0,NA,0,NA,NA,NA,0
+647249,2nd innings,India,Australia,8.5,RG Sharma,V Kohli,JP Faulkner,0,0,0,NA,0,NA,NA,NA,0
+647249,2nd innings,India,Australia,8.6,RG Sharma,V Kohli,JP Faulkner,4,0,4,NA,0,NA,NA,NA,0
+647249,2nd innings,India,Australia,9.1,V Kohli,RG Sharma,CJ McKay,0,0,0,NA,0,NA,NA,NA,0
+647249,2nd innings,India,Australia,9.2,V Kohli,RG Sharma,CJ McKay,1,0,1,NA,0,NA,NA,NA,0
+647249,2nd innings,India,Australia,9.3,RG Sharma,V Kohli,CJ McKay,0,0,0,NA,0,NA,NA,NA,0
+647249,2nd innings,India,Australia,9.4,RG Sharma,V Kohli,CJ McKay,0,0,0,NA,0,NA,NA,NA,0
+647249,2nd innings,India,Australia,9.5,RG Sharma,V Kohli,CJ McKay,0,0,0,NA,0,NA,NA,NA,0
+647249,2nd innings,India,Australia,9.6,RG Sharma,V Kohli,CJ McKay,1,0,1,NA,0,NA,NA,NA,0
+647249,2nd innings,India,Australia,10.1,RG Sharma,V Kohli,XJ Doherty,2,0,2,NA,0,NA,NA,NA,0
+647249,2nd innings,India,Australia,10.2,RG Sharma,V Kohli,XJ Doherty,1,0,1,NA,0,NA,NA,NA,0
+647249,2nd innings,India,Australia,10.3,V Kohli,RG Sharma,XJ Doherty,4,0,4,NA,0,NA,NA,NA,0
+647249,2nd innings,India,Australia,10.4,V Kohli,RG Sharma,XJ Doherty,0,0,0,NA,0,NA,NA,NA,0
+647249,2nd innings,India,Australia,10.5,V Kohli,RG Sharma,XJ Doherty,1,0,1,NA,0,NA,NA,NA,0
+647249,2nd innings,India,Australia,10.6,RG Sharma,V Kohli,XJ Doherty,4,0,4,NA,0,NA,NA,NA,0
+647249,2nd innings,India,Australia,11.1,V Kohli,RG Sharma,SR Watson,0,0,0,NA,0,NA,NA,NA,0
+647249,2nd innings,India,Australia,11.2,V Kohli,RG Sharma,SR Watson,2,0,2,NA,0,NA,NA,NA,0
+647249,2nd innings,India,Australia,11.3,V Kohli,RG Sharma,SR Watson,1,0,1,NA,0,NA,NA,NA,0
+647249,2nd innings,India,Australia,11.4,RG Sharma,V Kohli,SR Watson,1,0,1,NA,0,NA,NA,NA,0
+647249,2nd innings,India,Australia,11.5,V Kohli,RG Sharma,SR Watson,1,0,1,NA,0,NA,NA,NA,0
+647249,2nd innings,India,Australia,11.6,RG Sharma,V Kohli,SR Watson,1,0,1,NA,0,NA,NA,NA,0
+647249,2nd innings,India,Australia,12.1,RG Sharma,V Kohli,XJ Doherty,0,0,0,NA,0,NA,NA,NA,0
+647249,2nd innings,India,Australia,12.2,RG Sharma,V Kohli,XJ Doherty,1,0,1,NA,0,NA,NA,NA,0
+647249,2nd innings,India,Australia,12.3,V Kohli,RG Sharma,XJ Doherty,1,0,1,NA,0,NA,NA,NA,0
+647249,2nd innings,India,Australia,12.4,RG Sharma,V Kohli,XJ Doherty,0,0,0,NA,0,NA,NA,NA,0
+647249,2nd innings,India,Australia,12.5,RG Sharma,V Kohli,XJ Doherty,1,0,1,NA,0,NA,NA,NA,0
+647249,2nd innings,India,Australia,12.6,V Kohli,RG Sharma,XJ Doherty,1,0,1,NA,0,NA,NA,NA,0
+647249,2nd innings,India,Australia,13.1,V Kohli,RG Sharma,SR Watson,0,0,0,NA,0,NA,NA,NA,0
+647249,2nd innings,India,Australia,13.2,V Kohli,RG Sharma,SR Watson,0,0,0,NA,0,NA,NA,NA,0
+647249,2nd innings,India,Australia,13.3,V Kohli,RG Sharma,SR Watson,1,0,1,NA,0,NA,NA,NA,0
+647249,2nd innings,India,Australia,13.4,RG Sharma,V Kohli,SR Watson,0,0,0,NA,0,NA,NA,NA,0
+647249,2nd innings,India,Australia,13.5,RG Sharma,V Kohli,SR Watson,0,0,0,NA,1,caught,RG Sharma,PJ Hughes,0
+647249,2nd innings,India,Australia,13.6,SK Raina,V Kohli,SR Watson,0,0,0,NA,0,NA,NA,NA,0
+647249,2nd innings,India,Australia,14.1,V Kohli,SK Raina,XJ Doherty,1,0,1,NA,0,NA,NA,NA,0
+647249,2nd innings,India,Australia,14.2,SK Raina,V Kohli,XJ Doherty,1,0,1,NA,0,NA,NA,NA,0
+647249,2nd innings,India,Australia,14.3,V Kohli,SK Raina,XJ Doherty,1,0,1,NA,0,NA,NA,NA,0
+647249,2nd innings,India,Australia,14.4,SK Raina,V Kohli,XJ Doherty,1,0,1,NA,0,NA,NA,NA,0
+647249,2nd innings,India,Australia,14.5,V Kohli,SK Raina,XJ Doherty,1,0,1,NA,0,NA,NA,NA,0
+647249,2nd innings,India,Australia,14.6,SK Raina,V Kohli,XJ Doherty,1,0,1,NA,0,NA,NA,NA,0
+647249,2nd innings,India,Australia,15.1,SK Raina,V Kohli,SR Watson,0,0,0,NA,0,NA,NA,NA,0
+647249,2nd innings,India,Australia,15.2,SK Raina,V Kohli,SR Watson,1,0,1,NA,0,NA,NA,NA,0
+647249,2nd innings,India,Australia,15.3,V Kohli,SK Raina,SR Watson,1,0,1,NA,0,NA,NA,NA,0
+647249,2nd innings,India,Australia,15.4,SK Raina,V Kohli,SR Watson,0,0,0,NA,0,NA,NA,NA,0
+647249,2nd innings,India,Australia,15.5,SK Raina,V Kohli,SR Watson,0,0,0,NA,0,NA,NA,NA,0
+647249,2nd innings,India,Australia,15.6,SK Raina,V Kohli,SR Watson,1,0,1,NA,0,NA,NA,NA,0
+647249,2nd innings,India,Australia,16.1,SK Raina,V Kohli,MG Johnson,1,0,1,NA,0,NA,NA,NA,0
+647249,2nd innings,India,Australia,16.2,V Kohli,SK Raina,MG Johnson,0,0,0,NA,0,NA,NA,NA,0
+647249,2nd innings,India,Australia,16.3,V Kohli,SK Raina,MG Johnson,0,1,1,legbyes,0,NA,NA,NA,0
+647249,2nd innings,India,Australia,16.4,SK Raina,V Kohli,MG Johnson,0,0,0,NA,0,NA,NA,NA,0
+647249,2nd innings,India,Australia,16.5,SK Raina,V Kohli,MG Johnson,1,0,1,NA,0,NA,NA,NA,0
+647249,2nd innings,India,Australia,16.6,V Kohli,SK Raina,MG Johnson,0,0,0,NA,0,NA,NA,NA,0
+647249,2nd innings,India,Australia,17.1,SK Raina,V Kohli,SR Watson,0,0,0,NA,0,NA,NA,NA,0
+647249,2nd innings,India,Australia,17.2,SK Raina,V Kohli,SR Watson,0,0,0,NA,0,NA,NA,NA,0
+647249,2nd innings,India,Australia,17.3,SK Raina,V Kohli,SR Watson,1,0,1,NA,0,NA,NA,NA,0
+647249,2nd innings,India,Australia,17.4,V Kohli,SK Raina,SR Watson,0,0,0,NA,0,NA,NA,NA,0
+647249,2nd innings,India,Australia,17.5,V Kohli,SK Raina,SR Watson,0,0,0,NA,0,NA,NA,NA,0
+647249,2nd innings,India,Australia,17.6,V Kohli,SK Raina,SR Watson,0,0,0,NA,0,NA,NA,NA,0
+647249,2nd innings,India,Australia,18.1,SK Raina,V Kohli,MG Johnson,0,0,0,NA,0,NA,NA,NA,0
+647249,2nd innings,India,Australia,18.2,SK Raina,V Kohli,MG Johnson,4,0,4,NA,0,NA,NA,NA,0
+647249,2nd innings,India,Australia,18.3,SK Raina,V Kohli,MG Johnson,0,0,0,NA,0,NA,NA,NA,0
+647249,2nd innings,India,Australia,18.4,SK Raina,V Kohli,MG Johnson,1,0,1,NA,0,NA,NA,NA,0
+647249,2nd innings,India,Australia,18.5,V Kohli,SK Raina,MG Johnson,0,0,0,NA,0,NA,NA,NA,0
+647249,2nd innings,India,Australia,18.6,V Kohli,SK Raina,MG Johnson,1,0,1,NA,0,NA,NA,NA,0
+647249,2nd innings,India,Australia,19.1,V Kohli,SK Raina,SR Watson,0,0,0,NA,0,NA,NA,NA,0
+647249,2nd innings,India,Australia,19.2,V Kohli,SK Raina,SR Watson,0,0,0,NA,0,NA,NA,NA,0
+647249,2nd innings,India,Australia,19.3,V Kohli,SK Raina,SR Watson,0,0,0,NA,0,NA,NA,NA,0
+647249,2nd innings,India,Australia,19.4,V Kohli,SK Raina,SR Watson,1,0,1,NA,0,NA,NA,NA,0
+647249,2nd innings,India,Australia,19.5,SK Raina,V Kohli,SR Watson,1,0,1,NA,0,NA,NA,NA,0
+647249,2nd innings,India,Australia,19.6,V Kohli,SK Raina,SR Watson,0,0,0,NA,0,NA,NA,NA,0
+647249,2nd innings,India,Australia,20.1,SK Raina,V Kohli,XJ Doherty,0,0,0,NA,0,NA,NA,NA,0
+647249,2nd innings,India,Australia,20.2,SK Raina,V Kohli,XJ Doherty,0,0,0,NA,0,NA,NA,NA,0
+647249,2nd innings,India,Australia,20.3,SK Raina,V Kohli,XJ Doherty,4,0,4,NA,0,NA,NA,NA,0
+647249,2nd innings,India,Australia,20.4,SK Raina,V Kohli,XJ Doherty,0,0,0,NA,0,NA,NA,NA,0
+647249,2nd innings,India,Australia,20.5,SK Raina,V Kohli,XJ Doherty,1,0,1,NA,0,NA,NA,NA,0
+647249,2nd innings,India,Australia,20.6,V Kohli,SK Raina,XJ Doherty,0,0,0,NA,0,NA,NA,NA,0
+647249,2nd innings,India,Australia,21.1,SK Raina,V Kohli,AC Voges,0,0,0,NA,0,NA,NA,NA,0
+647249,2nd innings,India,Australia,21.2,SK Raina,V Kohli,AC Voges,1,0,1,NA,0,NA,NA,NA,0
+647249,2nd innings,India,Australia,21.3,V Kohli,SK Raina,AC Voges,4,0,4,NA,0,NA,NA,NA,0
+647249,2nd innings,India,Australia,21.4,V Kohli,SK Raina,AC Voges,4,0,4,NA,0,NA,NA,NA,0
+647249,2nd innings,India,Australia,21.5,V Kohli,SK Raina,AC Voges,0,0,0,NA,0,NA,NA,NA,0
+647249,2nd innings,India,Australia,21.6,V Kohli,SK Raina,AC Voges,0,0,0,NA,0,NA,NA,NA,0
+647249,2nd innings,India,Australia,22.1,SK Raina,V Kohli,XJ Doherty,0,0,0,NA,0,NA,NA,NA,0
+647249,2nd innings,India,Australia,22.2,SK Raina,V Kohli,XJ Doherty,1,0,1,NA,0,NA,NA,NA,0
+647249,2nd innings,India,Australia,22.3,V Kohli,SK Raina,XJ Doherty,1,0,1,NA,0,NA,NA,NA,0
+647249,2nd innings,India,Australia,22.4,SK Raina,V Kohli,XJ Doherty,1,0,1,NA,0,NA,NA,NA,0
+647249,2nd innings,India,Australia,22.5,V Kohli,SK Raina,XJ Doherty,1,0,1,NA,0,NA,NA,NA,0
+647249,2nd innings,India,Australia,22.6,SK Raina,V Kohli,XJ Doherty,1,0,1,NA,0,NA,NA,NA,0
+647249,2nd innings,India,Australia,23.1,SK Raina,V Kohli,JP Faulkner,1,0,1,NA,0,NA,NA,NA,0
+647249,2nd innings,India,Australia,23.2,V Kohli,SK Raina,JP Faulkner,4,0,4,NA,0,NA,NA,NA,0
+647249,2nd innings,India,Australia,23.3,V Kohli,SK Raina,JP Faulkner,1,0,1,NA,0,NA,NA,NA,0
+647249,2nd innings,India,Australia,23.4,SK Raina,V Kohli,JP Faulkner,0,1,1,wides,0,NA,NA,NA,0
+647249,2nd innings,India,Australia,23.5,SK Raina,V Kohli,JP Faulkner,1,0,1,NA,0,NA,NA,NA,0
+647249,2nd innings,India,Australia,23.6,V Kohli,SK Raina,JP Faulkner,0,0,0,NA,0,NA,NA,NA,0
+647249,2nd innings,India,Australia,23.7,V Kohli,SK Raina,JP Faulkner,0,0,0,NA,0,NA,NA,NA,0
+647249,2nd innings,India,Australia,24.1,SK Raina,V Kohli,XJ Doherty,1,0,1,NA,0,NA,NA,NA,0
+647249,2nd innings,India,Australia,24.2,V Kohli,SK Raina,XJ Doherty,1,0,1,NA,0,NA,NA,NA,0
+647249,2nd innings,India,Australia,24.3,SK Raina,V Kohli,XJ Doherty,6,0,6,NA,0,NA,NA,NA,0
+647249,2nd innings,India,Australia,24.4,SK Raina,V Kohli,XJ Doherty,1,0,1,NA,0,NA,NA,NA,0
+647249,2nd innings,India,Australia,24.5,V Kohli,SK Raina,XJ Doherty,1,0,1,NA,0,NA,NA,NA,0
+647249,2nd innings,India,Australia,24.6,SK Raina,V Kohli,XJ Doherty,1,0,1,NA,0,NA,NA,NA,0
+647249,2nd innings,India,Australia,25.1,SK Raina,V Kohli,JP Faulkner,0,0,0,NA,0,NA,NA,NA,0
+647249,2nd innings,India,Australia,25.2,SK Raina,V Kohli,JP Faulkner,1,0,1,NA,0,NA,NA,NA,0
+647249,2nd innings,India,Australia,25.3,V Kohli,SK Raina,JP Faulkner,0,0,0,NA,0,NA,NA,NA,0
+647249,2nd innings,India,Australia,25.4,V Kohli,SK Raina,JP Faulkner,1,0,1,NA,0,NA,NA,NA,0
+647249,2nd innings,India,Australia,25.5,SK Raina,V Kohli,JP Faulkner,1,0,1,NA,0,NA,NA,NA,0
+647249,2nd innings,India,Australia,25.6,V Kohli,SK Raina,JP Faulkner,1,0,1,NA,0,NA,NA,NA,0
+647249,2nd innings,India,Australia,26.1,V Kohli,SK Raina,CJ McKay,4,0,4,NA,0,NA,NA,NA,0
+647249,2nd innings,India,Australia,26.2,V Kohli,SK Raina,CJ McKay,1,0,1,NA,0,NA,NA,NA,0
+647249,2nd innings,India,Australia,26.3,SK Raina,V Kohli,CJ McKay,0,0,0,NA,0,NA,NA,NA,0
+647249,2nd innings,India,Australia,26.4,SK Raina,V Kohli,CJ McKay,0,0,0,NA,0,NA,NA,NA,0
+647249,2nd innings,India,Australia,26.5,SK Raina,V Kohli,CJ McKay,1,0,1,NA,0,NA,NA,NA,0
+647249,2nd innings,India,Australia,26.6,V Kohli,SK Raina,CJ McKay,0,0,0,NA,0,NA,NA,NA,0
+647249,2nd innings,India,Australia,27.1,SK Raina,V Kohli,JP Faulkner,2,0,2,NA,0,NA,NA,NA,0
+647249,2nd innings,India,Australia,27.2,SK Raina,V Kohli,JP Faulkner,0,0,0,NA,1,caught,SK Raina,XJ Doherty,0
+647249,2nd innings,India,Australia,27.3,V Kohli,Yuvraj Singh,JP Faulkner,1,0,1,NA,0,NA,NA,NA,0
+647249,2nd innings,India,Australia,27.4,Yuvraj Singh,V Kohli,JP Faulkner,0,0,0,NA,0,NA,NA,NA,0
+647249,2nd innings,India,Australia,27.5,Yuvraj Singh,V Kohli,JP Faulkner,6,0,6,NA,0,NA,NA,NA,0
+647249,2nd innings,India,Australia,27.6,Yuvraj Singh,V Kohli,JP Faulkner,0,0,0,NA,0,NA,NA,NA,0
+647249,2nd innings,India,Australia,28.1,V Kohli,Yuvraj Singh,MG Johnson,1,0,1,NA,0,NA,NA,NA,0
+647249,2nd innings,India,Australia,28.2,Yuvraj Singh,V Kohli,MG Johnson,1,0,1,NA,0,NA,NA,NA,0
+647249,2nd innings,India,Australia,28.3,V Kohli,Yuvraj Singh,MG Johnson,1,0,1,NA,0,NA,NA,NA,0
+647249,2nd innings,India,Australia,28.4,Yuvraj Singh,V Kohli,MG Johnson,0,0,0,NA,0,NA,NA,NA,0
+647249,2nd innings,India,Australia,28.5,Yuvraj Singh,V Kohli,MG Johnson,0,0,0,NA,0,NA,NA,NA,0
+647249,2nd innings,India,Australia,28.6,Yuvraj Singh,V Kohli,MG Johnson,0,0,0,NA,1,caught,Yuvraj Singh,PJ Hughes,0
+647249,2nd innings,India,Australia,29.1,V Kohli,MS Dhoni,XJ Doherty,1,0,1,NA,0,NA,NA,NA,0
+647249,2nd innings,India,Australia,29.2,MS Dhoni,V Kohli,XJ Doherty,0,0,0,NA,0,NA,NA,NA,0
+647249,2nd innings,India,Australia,29.3,MS Dhoni,V Kohli,XJ Doherty,1,0,1,NA,0,NA,NA,NA,0
+647249,2nd innings,India,Australia,29.4,V Kohli,MS Dhoni,XJ Doherty,0,0,0,NA,0,NA,NA,NA,0
+647249,2nd innings,India,Australia,29.5,V Kohli,MS Dhoni,XJ Doherty,0,0,0,NA,0,NA,NA,NA,0
+647249,2nd innings,India,Australia,29.6,V Kohli,MS Dhoni,XJ Doherty,1,0,1,NA,0,NA,NA,NA,0
+647249,2nd innings,India,Australia,30.1,V Kohli,MS Dhoni,MG Johnson,4,0,4,NA,0,NA,NA,NA,0
+647249,2nd innings,India,Australia,30.2,V Kohli,MS Dhoni,MG Johnson,0,0,0,NA,0,NA,NA,NA,0
+647249,2nd innings,India,Australia,30.3,V Kohli,MS Dhoni,MG Johnson,0,0,0,NA,0,NA,NA,NA,0
+647249,2nd innings,India,Australia,30.4,V Kohli,MS Dhoni,MG Johnson,0,0,0,NA,0,NA,NA,NA,0
+647249,2nd innings,India,Australia,30.5,V Kohli,MS Dhoni,MG Johnson,1,0,1,NA,0,NA,NA,NA,0
+647249,2nd innings,India,Australia,30.6,MS Dhoni,V Kohli,MG Johnson,0,0,0,NA,0,NA,NA,NA,0
+647249,2nd innings,India,Australia,31.1,V Kohli,MS Dhoni,XJ Doherty,0,0,0,NA,0,NA,NA,NA,0
+647249,2nd innings,India,Australia,31.2,V Kohli,MS Dhoni,XJ Doherty,0,0,0,NA,0,NA,NA,NA,0
+647249,2nd innings,India,Australia,31.3,V Kohli,MS Dhoni,XJ Doherty,0,0,0,NA,0,NA,NA,NA,0
+647249,2nd innings,India,Australia,31.4,V Kohli,MS Dhoni,XJ Doherty,0,0,0,NA,0,NA,NA,NA,0
+647249,2nd innings,India,Australia,31.5,V Kohli,MS Dhoni,XJ Doherty,0,0,0,NA,0,NA,NA,NA,0
+647249,2nd innings,India,Australia,31.6,V Kohli,MS Dhoni,XJ Doherty,0,0,0,NA,0,NA,NA,NA,0
+647249,2nd innings,India,Australia,32.1,MS Dhoni,V Kohli,SR Watson,1,0,1,NA,0,NA,NA,NA,0
+647249,2nd innings,India,Australia,32.2,V Kohli,MS Dhoni,SR Watson,1,0,1,NA,0,NA,NA,NA,0
+647249,2nd innings,India,Australia,32.3,MS Dhoni,V Kohli,SR Watson,1,0,1,NA,0,NA,NA,NA,0
+647249,2nd innings,India,Australia,32.4,V Kohli,MS Dhoni,SR Watson,0,0,0,NA,0,NA,NA,NA,0
+647249,2nd innings,India,Australia,32.5,V Kohli,MS Dhoni,SR Watson,1,0,1,NA,0,NA,NA,NA,0
+647249,2nd innings,India,Australia,32.6,MS Dhoni,V Kohli,SR Watson,1,0,1,NA,0,NA,NA,NA,0
+647249,2nd innings,India,Australia,33.1,MS Dhoni,V Kohli,XJ Doherty,1,0,1,NA,0,NA,NA,NA,0
+647249,2nd innings,India,Australia,33.2,V Kohli,MS Dhoni,XJ Doherty,0,0,0,NA,0,NA,NA,NA,0
+647249,2nd innings,India,Australia,33.3,V Kohli,MS Dhoni,XJ Doherty,1,0,1,NA,0,NA,NA,NA,0
+647249,2nd innings,India,Australia,33.4,MS Dhoni,V Kohli,XJ Doherty,1,0,1,NA,0,NA,NA,NA,0
+647249,2nd innings,India,Australia,33.5,V Kohli,MS Dhoni,XJ Doherty,1,0,1,NA,0,NA,NA,NA,0
+647249,2nd innings,India,Australia,33.6,MS Dhoni,V Kohli,XJ Doherty,0,0,0,NA,0,NA,NA,NA,0
+647249,2nd innings,India,Australia,34.1,V Kohli,MS Dhoni,SR Watson,0,0,0,NA,0,NA,NA,NA,0
+647249,2nd innings,India,Australia,34.2,V Kohli,MS Dhoni,SR Watson,0,0,0,NA,0,NA,NA,NA,0
+647249,2nd innings,India,Australia,34.3,V Kohli,MS Dhoni,SR Watson,2,0,2,NA,0,NA,NA,NA,0
+647249,2nd innings,India,Australia,34.4,V Kohli,MS Dhoni,SR Watson,0,0,0,NA,1,lbw,V Kohli,NA,0
+647249,2nd innings,India,Australia,34.5,RA Jadeja,MS Dhoni,SR Watson,0,0,0,NA,0,NA,NA,NA,0
+647249,2nd innings,India,Australia,34.6,RA Jadeja,MS Dhoni,SR Watson,1,0,1,NA,0,NA,NA,NA,0
+647249,2nd innings,India,Australia,35.1,RA Jadeja,MS Dhoni,JP Faulkner,0,0,0,NA,0,NA,NA,NA,0
+647249,2nd innings,India,Australia,35.2,RA Jadeja,MS Dhoni,JP Faulkner,0,0,0,NA,0,NA,NA,NA,0
+647249,2nd innings,India,Australia,35.3,RA Jadeja,MS Dhoni,JP Faulkner,2,0,2,NA,0,NA,NA,NA,0
+647249,2nd innings,India,Australia,35.4,RA Jadeja,MS Dhoni,JP Faulkner,0,0,0,NA,0,NA,NA,NA,0
+647249,2nd innings,India,Australia,35.5,RA Jadeja,MS Dhoni,JP Faulkner,1,0,1,NA,0,NA,NA,NA,0
+647249,2nd innings,India,Australia,35.6,MS Dhoni,RA Jadeja,JP Faulkner,0,1,1,legbyes,0,NA,NA,NA,0
+647249,2nd innings,India,Australia,36.1,MS Dhoni,RA Jadeja,SR Watson,4,0,4,NA,0,NA,NA,NA,0
+647249,2nd innings,India,Australia,36.2,MS Dhoni,RA Jadeja,SR Watson,0,0,0,NA,0,NA,NA,NA,0
+647249,2nd innings,India,Australia,36.3,MS Dhoni,RA Jadeja,SR Watson,0,1,1,wides,0,NA,NA,NA,0
+647249,2nd innings,India,Australia,36.4,MS Dhoni,RA Jadeja,SR Watson,0,0,0,NA,0,NA,NA,NA,0
+647249,2nd innings,India,Australia,36.5,MS Dhoni,RA Jadeja,SR Watson,4,0,4,NA,0,NA,NA,NA,0
+647249,2nd innings,India,Australia,36.6,MS Dhoni,RA Jadeja,SR Watson,1,0,1,NA,0,NA,NA,NA,0
+647249,2nd innings,India,Australia,36.7,RA Jadeja,MS Dhoni,SR Watson,0,0,0,NA,0,NA,NA,NA,0
+647249,2nd innings,India,Australia,37.1,MS Dhoni,RA Jadeja,JP Faulkner,0,0,0,NA,0,NA,NA,NA,0
+647249,2nd innings,India,Australia,37.2,MS Dhoni,RA Jadeja,JP Faulkner,1,0,1,NA,0,NA,NA,NA,0
+647249,2nd innings,India,Australia,37.3,RA Jadeja,MS Dhoni,JP Faulkner,1,0,1,NA,0,NA,NA,NA,0
+647249,2nd innings,India,Australia,37.4,MS Dhoni,RA Jadeja,JP Faulkner,1,0,1,NA,0,NA,NA,NA,0
+647249,2nd innings,India,Australia,37.5,RA Jadeja,MS Dhoni,JP Faulkner,0,0,0,NA,0,NA,NA,NA,0
+647249,2nd innings,India,Australia,37.6,RA Jadeja,MS Dhoni,JP Faulkner,0,0,0,NA,0,NA,NA,NA,0
+647249,2nd innings,India,Australia,38.1,MS Dhoni,RA Jadeja,CJ McKay,0,1,1,legbyes,0,NA,NA,NA,0
+647249,2nd innings,India,Australia,38.2,RA Jadeja,MS Dhoni,CJ McKay,0,0,0,NA,0,NA,NA,NA,0
+647249,2nd innings,India,Australia,38.3,RA Jadeja,MS Dhoni,CJ McKay,0,0,0,NA,0,NA,NA,NA,0
+647249,2nd innings,India,Australia,38.4,RA Jadeja,MS Dhoni,CJ McKay,2,0,2,NA,0,NA,NA,NA,0
+647249,2nd innings,India,Australia,38.5,RA Jadeja,MS Dhoni,CJ McKay,4,0,4,NA,0,NA,NA,NA,0
+647249,2nd innings,India,Australia,38.6,RA Jadeja,MS Dhoni,CJ McKay,0,0,0,NA,0,NA,NA,NA,0
+647249,2nd innings,India,Australia,39.1,MS Dhoni,RA Jadeja,JP Faulkner,1,0,1,NA,0,NA,NA,NA,0
+647249,2nd innings,India,Australia,39.2,RA Jadeja,MS Dhoni,JP Faulkner,0,0,0,NA,0,NA,NA,NA,0
+647249,2nd innings,India,Australia,39.3,RA Jadeja,MS Dhoni,JP Faulkner,0,0,0,NA,1,caught,RA Jadeja,GJ Bailey,0
+647249,2nd innings,India,Australia,39.4,R Ashwin,MS Dhoni,JP Faulkner,0,0,0,NA,0,NA,NA,NA,0
+647249,2nd innings,India,Australia,39.5,R Ashwin,MS Dhoni,JP Faulkner,0,0,0,NA,0,NA,NA,NA,0
+647249,2nd innings,India,Australia,39.6,R Ashwin,MS Dhoni,JP Faulkner,1,0,1,NA,0,NA,NA,NA,0
+647249,2nd innings,India,Australia,40.1,R Ashwin,MS Dhoni,CJ McKay,1,0,1,NA,0,NA,NA,NA,0
+647249,2nd innings,India,Australia,40.2,MS Dhoni,R Ashwin,CJ McKay,1,0,1,NA,0,NA,NA,NA,0
+647249,2nd innings,India,Australia,40.3,R Ashwin,MS Dhoni,CJ McKay,1,0,1,NA,0,NA,NA,NA,0
+647249,2nd innings,India,Australia,40.4,MS Dhoni,R Ashwin,CJ McKay,0,0,0,NA,1,bowled,MS Dhoni,NA,0
+647249,2nd innings,India,Australia,40.5,B Kumar,R Ashwin,CJ McKay,0,0,0,NA,0,NA,NA,NA,0
+647249,2nd innings,India,Australia,40.6,B Kumar,R Ashwin,CJ McKay,0,0,0,NA,0,NA,NA,NA,0
+647249,2nd innings,India,Australia,41.1,R Ashwin,B Kumar,XJ Doherty,1,0,1,NA,0,NA,NA,NA,0
+647249,2nd innings,India,Australia,41.2,B Kumar,R Ashwin,XJ Doherty,1,0,1,NA,0,NA,NA,NA,0
+647249,2nd innings,India,Australia,41.3,R Ashwin,B Kumar,XJ Doherty,0,0,0,NA,0,NA,NA,NA,0
+647249,2nd innings,India,Australia,41.4,R Ashwin,B Kumar,XJ Doherty,0,0,0,NA,0,NA,NA,NA,0
+647249,2nd innings,India,Australia,41.5,R Ashwin,B Kumar,XJ Doherty,1,0,1,NA,0,NA,NA,NA,0
+647249,2nd innings,India,Australia,41.6,B Kumar,R Ashwin,XJ Doherty,0,1,1,wides,0,NA,NA,NA,0
+647249,2nd innings,India,Australia,41.7,B Kumar,R Ashwin,XJ Doherty,0,0,0,NA,0,NA,NA,NA,0
+647249,2nd innings,India,Australia,42.1,R Ashwin,B Kumar,CJ McKay,0,0,0,NA,1,caught,R Ashwin,SR Watson,0
+647249,2nd innings,India,Australia,42.2,R Vinay Kumar,B Kumar,CJ McKay,0,0,0,NA,0,NA,NA,NA,0
+647249,2nd innings,India,Australia,42.3,R Vinay Kumar,B Kumar,CJ McKay,0,0,0,NA,0,NA,NA,NA,0
+647249,2nd innings,India,Australia,42.4,R Vinay Kumar,B Kumar,CJ McKay,0,0,0,NA,0,NA,NA,NA,0
+647249,2nd innings,India,Australia,42.5,R Vinay Kumar,B Kumar,CJ McKay,1,0,1,NA,0,NA,NA,NA,0
+647249,2nd innings,India,Australia,42.6,B Kumar,R Vinay Kumar,CJ McKay,1,0,1,NA,0,NA,NA,NA,0
+647249,2nd innings,India,Australia,43.1,B Kumar,R Vinay Kumar,MG Johnson,0,0,0,NA,0,NA,NA,NA,0
+647249,2nd innings,India,Australia,43.2,B Kumar,R Vinay Kumar,MG Johnson,0,0,0,NA,0,NA,NA,NA,0
+647249,2nd innings,India,Australia,43.3,B Kumar,R Vinay Kumar,MG Johnson,0,0,0,NA,0,NA,NA,NA,0
+647249,2nd innings,India,Australia,43.4,B Kumar,R Vinay Kumar,MG Johnson,0,0,0,NA,0,NA,NA,NA,0
+647249,2nd innings,India,Australia,43.5,B Kumar,R Vinay Kumar,MG Johnson,0,0,0,NA,0,NA,NA,NA,0
+647249,2nd innings,India,Australia,43.6,B Kumar,R Vinay Kumar,MG Johnson,4,0,4,NA,0,NA,NA,NA,0
+647249,2nd innings,India,Australia,44.1,R Vinay Kumar,B Kumar,CJ McKay,0,0,0,NA,0,NA,NA,NA,0
+647249,2nd innings,India,Australia,44.2,R Vinay Kumar,B Kumar,CJ McKay,1,0,1,NA,0,NA,NA,NA,0
+647249,2nd innings,India,Australia,44.3,B Kumar,R Vinay Kumar,CJ McKay,1,0,1,NA,0,NA,NA,NA,0
+647249,2nd innings,India,Australia,44.4,R Vinay Kumar,B Kumar,CJ McKay,1,0,1,NA,0,NA,NA,NA,0
+647249,2nd innings,India,Australia,44.5,B Kumar,R Vinay Kumar,CJ McKay,1,0,1,NA,0,NA,NA,NA,0
+647249,2nd innings,India,Australia,44.6,R Vinay Kumar,B Kumar,CJ McKay,0,0,0,NA,0,NA,NA,NA,0
+647249,2nd innings,India,Australia,45.1,B Kumar,R Vinay Kumar,MG Johnson,0,0,0,NA,0,NA,NA,NA,0
+647249,2nd innings,India,Australia,45.2,B Kumar,R Vinay Kumar,MG Johnson,1,0,1,NA,0,NA,NA,NA,0
+647249,2nd innings,India,Australia,45.3,R Vinay Kumar,B Kumar,MG Johnson,4,0,4,NA,0,NA,NA,NA,0
+647249,2nd innings,India,Australia,45.4,R Vinay Kumar,B Kumar,MG Johnson,0,1,1,legbyes,0,NA,NA,NA,0
+647249,2nd innings,India,Australia,45.5,B Kumar,R Vinay Kumar,MG Johnson,0,0,0,NA,0,NA,NA,NA,0
+647249,2nd innings,India,Australia,45.6,B Kumar,R Vinay Kumar,MG Johnson,1,0,1,NA,0,NA,NA,NA,0
+647249,2nd innings,India,Australia,46.1,B Kumar,R Vinay Kumar,AC Voges,1,0,1,NA,0,NA,NA,NA,0
+647249,2nd innings,India,Australia,46.2,R Vinay Kumar,B Kumar,AC Voges,1,0,1,NA,0,NA,NA,NA,0
+647249,2nd innings,India,Australia,46.3,B Kumar,R Vinay Kumar,AC Voges,2,0,2,NA,0,NA,NA,NA,0
+647249,2nd innings,India,Australia,46.4,B Kumar,R Vinay Kumar,AC Voges,0,2,2,byes,0,NA,NA,NA,0
+647249,2nd innings,India,Australia,46.5,B Kumar,R Vinay Kumar,AC Voges,1,0,1,NA,0,NA,NA,NA,0
+647249,2nd innings,India,Australia,46.6,R Vinay Kumar,B Kumar,AC Voges,1,0,1,NA,0,NA,NA,NA,0
+647249,2nd innings,India,Australia,47.1,R Vinay Kumar,B Kumar,MG Johnson,1,0,1,NA,0,NA,NA,NA,0
+647249,2nd innings,India,Australia,47.2,B Kumar,R Vinay Kumar,MG Johnson,1,0,1,NA,0,NA,NA,NA,0
+647249,2nd innings,India,Australia,47.3,R Vinay Kumar,B Kumar,MG Johnson,0,0,0,NA,0,NA,NA,NA,0
+647249,2nd innings,India,Australia,47.4,R Vinay Kumar,B Kumar,MG Johnson,0,0,0,NA,0,NA,NA,NA,0
+647249,2nd innings,India,Australia,47.5,R Vinay Kumar,B Kumar,MG Johnson,0,0,0,NA,0,NA,NA,NA,0
+647249,2nd innings,India,Australia,47.6,R Vinay Kumar,B Kumar,MG Johnson,0,0,0,NA,0,NA,NA,NA,0
+647249,2nd innings,India,Australia,48.1,B Kumar,R Vinay Kumar,AC Voges,1,0,1,NA,0,NA,NA,NA,0
+647249,2nd innings,India,Australia,48.2,R Vinay Kumar,B Kumar,AC Voges,1,0,1,NA,0,NA,NA,NA,0
+647249,2nd innings,India,Australia,48.3,B Kumar,R Vinay Kumar,AC Voges,1,0,1,NA,0,NA,NA,NA,0
+647249,2nd innings,India,Australia,48.4,R Vinay Kumar,B Kumar,AC Voges,0,0,0,NA,1,bowled,R Vinay Kumar,NA,0
+647249,2nd innings,India,Australia,48.5,I Sharma,B Kumar,AC Voges,0,0,0,NA,0,NA,NA,NA,0
+647249,2nd innings,India,Australia,48.6,I Sharma,B Kumar,AC Voges,0,0,0,NA,0,NA,NA,NA,0
+647249,2nd innings,India,Australia,49.1,B Kumar,I Sharma,AJ Finch,1,0,1,NA,0,NA,NA,NA,0
+647249,2nd innings,India,Australia,49.2,I Sharma,B Kumar,AJ Finch,1,0,1,NA,0,NA,NA,NA,0
+647249,2nd innings,India,Australia,49.3,B Kumar,I Sharma,AJ Finch,0,0,0,NA,0,NA,NA,NA,0
+647249,2nd innings,India,Australia,49.4,B Kumar,I Sharma,AJ Finch,0,0,0,NA,1,caught,B Kumar,AC Voges,0

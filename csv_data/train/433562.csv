@@ -1,0 +1,603 @@
+match_id,innings,team,opponent,ball,batsman,non_striker,bowler,scored_runs,extras,total,extra_type,wicket,wicket_type,player_out,fielders,winner
+433562,1st innings,Netherlands,England,0.1,AN Kervezee,W Barresi,JM Anderson,1,0,1,NA,0,NA,NA,NA,0
+433562,1st innings,Netherlands,England,0.2,W Barresi,AN Kervezee,JM Anderson,0,0,0,NA,0,NA,NA,NA,0
+433562,1st innings,Netherlands,England,0.3,W Barresi,AN Kervezee,JM Anderson,4,0,4,NA,0,NA,NA,NA,0
+433562,1st innings,Netherlands,England,0.4,W Barresi,AN Kervezee,JM Anderson,0,0,0,NA,0,NA,NA,NA,0
+433562,1st innings,Netherlands,England,0.5,W Barresi,AN Kervezee,JM Anderson,0,0,0,NA,0,NA,NA,NA,0
+433562,1st innings,Netherlands,England,0.6,W Barresi,AN Kervezee,JM Anderson,2,0,2,NA,0,NA,NA,NA,0
+433562,1st innings,Netherlands,England,1.1,AN Kervezee,W Barresi,SCJ Broad,0,0,0,NA,0,NA,NA,NA,0
+433562,1st innings,Netherlands,England,1.2,AN Kervezee,W Barresi,SCJ Broad,0,0,0,NA,0,NA,NA,NA,0
+433562,1st innings,Netherlands,England,1.3,AN Kervezee,W Barresi,SCJ Broad,0,0,0,NA,0,NA,NA,NA,0
+433562,1st innings,Netherlands,England,1.4,AN Kervezee,W Barresi,SCJ Broad,0,0,0,NA,0,NA,NA,NA,0
+433562,1st innings,Netherlands,England,1.5,AN Kervezee,W Barresi,SCJ Broad,4,0,4,NA,0,NA,NA,NA,0
+433562,1st innings,Netherlands,England,1.6,AN Kervezee,W Barresi,SCJ Broad,1,0,1,NA,0,NA,NA,NA,0
+433562,1st innings,Netherlands,England,2.1,AN Kervezee,W Barresi,JM Anderson,0,0,0,NA,0,NA,NA,NA,0
+433562,1st innings,Netherlands,England,2.2,AN Kervezee,W Barresi,JM Anderson,0,0,0,NA,0,NA,NA,NA,0
+433562,1st innings,Netherlands,England,2.3,AN Kervezee,W Barresi,JM Anderson,0,0,0,NA,0,NA,NA,NA,0
+433562,1st innings,Netherlands,England,2.4,AN Kervezee,W Barresi,JM Anderson,4,0,4,NA,0,NA,NA,NA,0
+433562,1st innings,Netherlands,England,2.5,AN Kervezee,W Barresi,JM Anderson,0,0,0,NA,0,NA,NA,NA,0
+433562,1st innings,Netherlands,England,2.6,AN Kervezee,W Barresi,JM Anderson,1,0,1,NA,0,NA,NA,NA,0
+433562,1st innings,Netherlands,England,3.1,AN Kervezee,W Barresi,SCJ Broad,0,0,0,NA,0,NA,NA,NA,0
+433562,1st innings,Netherlands,England,3.2,AN Kervezee,W Barresi,SCJ Broad,0,0,0,NA,0,NA,NA,NA,0
+433562,1st innings,Netherlands,England,3.3,AN Kervezee,W Barresi,SCJ Broad,0,0,0,NA,0,NA,NA,NA,0
+433562,1st innings,Netherlands,England,3.4,AN Kervezee,W Barresi,SCJ Broad,0,0,0,NA,0,NA,NA,NA,0
+433562,1st innings,Netherlands,England,3.5,AN Kervezee,W Barresi,SCJ Broad,0,0,0,NA,0,NA,NA,NA,0
+433562,1st innings,Netherlands,England,3.6,AN Kervezee,W Barresi,SCJ Broad,0,0,0,NA,0,NA,NA,NA,0
+433562,1st innings,Netherlands,England,4.1,W Barresi,AN Kervezee,TT Bresnan,1,0,1,NA,0,NA,NA,NA,0
+433562,1st innings,Netherlands,England,4.2,AN Kervezee,W Barresi,TT Bresnan,0,0,0,NA,0,NA,NA,NA,0
+433562,1st innings,Netherlands,England,4.3,AN Kervezee,W Barresi,TT Bresnan,1,0,1,NA,0,NA,NA,NA,0
+433562,1st innings,Netherlands,England,4.4,W Barresi,AN Kervezee,TT Bresnan,0,0,0,NA,0,NA,NA,NA,0
+433562,1st innings,Netherlands,England,4.5,W Barresi,AN Kervezee,TT Bresnan,1,0,1,NA,0,NA,NA,NA,0
+433562,1st innings,Netherlands,England,4.6,AN Kervezee,W Barresi,TT Bresnan,1,0,1,NA,0,NA,NA,NA,0
+433562,1st innings,Netherlands,England,5.1,AN Kervezee,W Barresi,SCJ Broad,1,0,1,NA,0,NA,NA,NA,0
+433562,1st innings,Netherlands,England,5.2,W Barresi,AN Kervezee,SCJ Broad,4,0,4,NA,0,NA,NA,NA,0
+433562,1st innings,Netherlands,England,5.3,W Barresi,AN Kervezee,SCJ Broad,4,0,4,NA,0,NA,NA,NA,0
+433562,1st innings,Netherlands,England,5.4,W Barresi,AN Kervezee,SCJ Broad,0,0,0,NA,0,NA,NA,NA,0
+433562,1st innings,Netherlands,England,5.5,W Barresi,AN Kervezee,SCJ Broad,0,0,0,NA,0,NA,NA,NA,0
+433562,1st innings,Netherlands,England,5.6,W Barresi,AN Kervezee,SCJ Broad,4,0,4,NA,0,NA,NA,NA,0
+433562,1st innings,Netherlands,England,6.1,AN Kervezee,W Barresi,TT Bresnan,2,0,2,NA,0,NA,NA,NA,0
+433562,1st innings,Netherlands,England,6.2,AN Kervezee,W Barresi,TT Bresnan,0,0,0,NA,1,caught,AN Kervezee,MJ Prior,0
+433562,1st innings,Netherlands,England,6.3,TLW Cooper,W Barresi,TT Bresnan,4,0,4,NA,0,NA,NA,NA,0
+433562,1st innings,Netherlands,England,6.4,TLW Cooper,W Barresi,TT Bresnan,0,0,0,NA,0,NA,NA,NA,0
+433562,1st innings,Netherlands,England,6.5,TLW Cooper,W Barresi,TT Bresnan,1,0,1,NA,0,NA,NA,NA,0
+433562,1st innings,Netherlands,England,6.6,W Barresi,TLW Cooper,TT Bresnan,0,0,0,NA,0,NA,NA,NA,0
+433562,1st innings,Netherlands,England,7.1,TLW Cooper,W Barresi,SCJ Broad,0,0,0,NA,0,NA,NA,NA,0
+433562,1st innings,Netherlands,England,7.2,TLW Cooper,W Barresi,SCJ Broad,0,0,0,NA,0,NA,NA,NA,0
+433562,1st innings,Netherlands,England,7.3,TLW Cooper,W Barresi,SCJ Broad,0,0,0,NA,0,NA,NA,NA,0
+433562,1st innings,Netherlands,England,7.4,TLW Cooper,W Barresi,SCJ Broad,0,0,0,NA,0,NA,NA,NA,0
+433562,1st innings,Netherlands,England,7.5,TLW Cooper,W Barresi,SCJ Broad,1,0,1,NA,0,NA,NA,NA,0
+433562,1st innings,Netherlands,England,7.6,W Barresi,TLW Cooper,SCJ Broad,4,0,4,NA,0,NA,NA,NA,0
+433562,1st innings,Netherlands,England,8.1,TLW Cooper,W Barresi,TT Bresnan,1,0,1,NA,0,NA,NA,NA,0
+433562,1st innings,Netherlands,England,8.2,W Barresi,TLW Cooper,TT Bresnan,0,0,0,NA,0,NA,NA,NA,0
+433562,1st innings,Netherlands,England,8.3,W Barresi,TLW Cooper,TT Bresnan,0,0,0,NA,0,NA,NA,NA,0
+433562,1st innings,Netherlands,England,8.4,W Barresi,TLW Cooper,TT Bresnan,0,0,0,NA,0,NA,NA,NA,0
+433562,1st innings,Netherlands,England,8.5,W Barresi,TLW Cooper,TT Bresnan,0,0,0,NA,0,NA,NA,NA,0
+433562,1st innings,Netherlands,England,8.6,W Barresi,TLW Cooper,TT Bresnan,0,0,0,NA,0,NA,NA,NA,0
+433562,1st innings,Netherlands,England,9.1,TLW Cooper,W Barresi,SCJ Broad,0,0,0,NA,0,NA,NA,NA,0
+433562,1st innings,Netherlands,England,9.2,TLW Cooper,W Barresi,SCJ Broad,0,0,0,NA,0,NA,NA,NA,0
+433562,1st innings,Netherlands,England,9.3,TLW Cooper,W Barresi,SCJ Broad,0,0,0,NA,0,NA,NA,NA,0
+433562,1st innings,Netherlands,England,9.4,TLW Cooper,W Barresi,SCJ Broad,0,0,0,NA,0,NA,NA,NA,0
+433562,1st innings,Netherlands,England,9.5,TLW Cooper,W Barresi,SCJ Broad,0,0,0,NA,0,NA,NA,NA,0
+433562,1st innings,Netherlands,England,9.6,TLW Cooper,W Barresi,SCJ Broad,0,0,0,NA,0,NA,NA,NA,0
+433562,1st innings,Netherlands,England,10.1,W Barresi,TLW Cooper,TT Bresnan,4,0,4,NA,0,NA,NA,NA,0
+433562,1st innings,Netherlands,England,10.2,W Barresi,TLW Cooper,TT Bresnan,0,0,0,NA,0,NA,NA,NA,0
+433562,1st innings,Netherlands,England,10.3,W Barresi,TLW Cooper,TT Bresnan,0,0,0,NA,0,NA,NA,NA,0
+433562,1st innings,Netherlands,England,10.4,W Barresi,TLW Cooper,TT Bresnan,1,0,1,NA,0,NA,NA,NA,0
+433562,1st innings,Netherlands,England,10.5,TLW Cooper,W Barresi,TT Bresnan,4,0,4,NA,0,NA,NA,NA,0
+433562,1st innings,Netherlands,England,10.6,TLW Cooper,W Barresi,TT Bresnan,1,0,1,NA,0,NA,NA,NA,0
+433562,1st innings,Netherlands,England,11.1,TLW Cooper,W Barresi,GP Swann,0,0,0,NA,0,NA,NA,NA,0
+433562,1st innings,Netherlands,England,11.2,TLW Cooper,W Barresi,GP Swann,0,0,0,NA,0,NA,NA,NA,0
+433562,1st innings,Netherlands,England,11.3,TLW Cooper,W Barresi,GP Swann,1,0,1,NA,0,NA,NA,NA,0
+433562,1st innings,Netherlands,England,11.4,W Barresi,TLW Cooper,GP Swann,0,0,0,NA,1,stumped,W Barresi,MJ Prior,0
+433562,1st innings,Netherlands,England,11.5,RN ten Doeschate,TLW Cooper,GP Swann,0,0,0,NA,0,NA,NA,NA,0
+433562,1st innings,Netherlands,England,11.6,RN ten Doeschate,TLW Cooper,GP Swann,0,0,0,NA,0,NA,NA,NA,0
+433562,1st innings,Netherlands,England,12.1,TLW Cooper,RN ten Doeschate,PD Collingwood,0,0,0,NA,0,NA,NA,NA,0
+433562,1st innings,Netherlands,England,12.2,TLW Cooper,RN ten Doeschate,PD Collingwood,1,0,1,NA,0,NA,NA,NA,0
+433562,1st innings,Netherlands,England,12.3,RN ten Doeschate,TLW Cooper,PD Collingwood,0,0,0,NA,0,NA,NA,NA,0
+433562,1st innings,Netherlands,England,12.4,RN ten Doeschate,TLW Cooper,PD Collingwood,0,0,0,NA,0,NA,NA,NA,0
+433562,1st innings,Netherlands,England,12.5,RN ten Doeschate,TLW Cooper,PD Collingwood,0,0,0,NA,0,NA,NA,NA,0
+433562,1st innings,Netherlands,England,12.6,RN ten Doeschate,TLW Cooper,PD Collingwood,0,0,0,NA,0,NA,NA,NA,0
+433562,1st innings,Netherlands,England,13.1,TLW Cooper,RN ten Doeschate,GP Swann,0,0,0,NA,0,NA,NA,NA,0
+433562,1st innings,Netherlands,England,13.2,TLW Cooper,RN ten Doeschate,GP Swann,0,0,0,NA,0,NA,NA,NA,0
+433562,1st innings,Netherlands,England,13.3,TLW Cooper,RN ten Doeschate,GP Swann,0,0,0,NA,0,NA,NA,NA,0
+433562,1st innings,Netherlands,England,13.4,TLW Cooper,RN ten Doeschate,GP Swann,1,0,1,NA,0,NA,NA,NA,0
+433562,1st innings,Netherlands,England,13.5,RN ten Doeschate,TLW Cooper,GP Swann,0,0,0,NA,0,NA,NA,NA,0
+433562,1st innings,Netherlands,England,13.6,RN ten Doeschate,TLW Cooper,GP Swann,0,0,0,NA,0,NA,NA,NA,0
+433562,1st innings,Netherlands,England,14.1,TLW Cooper,RN ten Doeschate,PD Collingwood,0,0,0,NA,0,NA,NA,NA,0
+433562,1st innings,Netherlands,England,14.2,TLW Cooper,RN ten Doeschate,PD Collingwood,1,0,1,NA,0,NA,NA,NA,0
+433562,1st innings,Netherlands,England,14.3,RN ten Doeschate,TLW Cooper,PD Collingwood,0,0,0,NA,0,NA,NA,NA,0
+433562,1st innings,Netherlands,England,14.4,RN ten Doeschate,TLW Cooper,PD Collingwood,0,0,0,NA,0,NA,NA,NA,0
+433562,1st innings,Netherlands,England,14.5,RN ten Doeschate,TLW Cooper,PD Collingwood,0,0,0,NA,0,NA,NA,NA,0
+433562,1st innings,Netherlands,England,14.6,RN ten Doeschate,TLW Cooper,PD Collingwood,4,0,4,NA,0,NA,NA,NA,0
+433562,1st innings,Netherlands,England,15.1,TLW Cooper,RN ten Doeschate,GP Swann,1,0,1,NA,0,NA,NA,NA,0
+433562,1st innings,Netherlands,England,15.2,RN ten Doeschate,TLW Cooper,GP Swann,1,0,1,NA,0,NA,NA,NA,0
+433562,1st innings,Netherlands,England,15.3,TLW Cooper,RN ten Doeschate,GP Swann,0,0,0,NA,0,NA,NA,NA,0
+433562,1st innings,Netherlands,England,15.4,TLW Cooper,RN ten Doeschate,GP Swann,1,0,1,NA,0,NA,NA,NA,0
+433562,1st innings,Netherlands,England,15.5,RN ten Doeschate,TLW Cooper,GP Swann,1,0,1,NA,0,NA,NA,NA,0
+433562,1st innings,Netherlands,England,15.6,TLW Cooper,RN ten Doeschate,GP Swann,1,0,1,NA,0,NA,NA,NA,0
+433562,1st innings,Netherlands,England,16.1,TLW Cooper,RN ten Doeschate,PD Collingwood,1,0,1,NA,0,NA,NA,NA,0
+433562,1st innings,Netherlands,England,16.2,RN ten Doeschate,TLW Cooper,PD Collingwood,4,0,4,NA,0,NA,NA,NA,0
+433562,1st innings,Netherlands,England,16.3,RN ten Doeschate,TLW Cooper,PD Collingwood,1,0,1,NA,0,NA,NA,NA,0
+433562,1st innings,Netherlands,England,16.4,TLW Cooper,RN ten Doeschate,PD Collingwood,0,0,0,NA,0,NA,NA,NA,0
+433562,1st innings,Netherlands,England,16.5,TLW Cooper,RN ten Doeschate,PD Collingwood,2,0,2,NA,0,NA,NA,NA,0
+433562,1st innings,Netherlands,England,16.6,TLW Cooper,RN ten Doeschate,PD Collingwood,1,0,1,NA,0,NA,NA,NA,0
+433562,1st innings,Netherlands,England,17.1,TLW Cooper,RN ten Doeschate,GP Swann,1,0,1,NA,0,NA,NA,NA,0
+433562,1st innings,Netherlands,England,17.2,RN ten Doeschate,TLW Cooper,GP Swann,1,0,1,NA,0,NA,NA,NA,0
+433562,1st innings,Netherlands,England,17.3,TLW Cooper,RN ten Doeschate,GP Swann,0,0,0,NA,0,NA,NA,NA,0
+433562,1st innings,Netherlands,England,17.4,TLW Cooper,RN ten Doeschate,GP Swann,1,0,1,NA,0,NA,NA,NA,0
+433562,1st innings,Netherlands,England,17.5,RN ten Doeschate,TLW Cooper,GP Swann,0,0,0,NA,0,NA,NA,NA,0
+433562,1st innings,Netherlands,England,17.6,RN ten Doeschate,TLW Cooper,GP Swann,0,0,0,NA,0,NA,NA,NA,0
+433562,1st innings,Netherlands,England,18.1,TLW Cooper,RN ten Doeschate,JM Anderson,1,0,1,NA,0,NA,NA,NA,0
+433562,1st innings,Netherlands,England,18.2,RN ten Doeschate,TLW Cooper,JM Anderson,0,0,0,NA,0,NA,NA,NA,0
+433562,1st innings,Netherlands,England,18.3,RN ten Doeschate,TLW Cooper,JM Anderson,1,0,1,NA,0,NA,NA,NA,0
+433562,1st innings,Netherlands,England,18.4,TLW Cooper,RN ten Doeschate,JM Anderson,1,0,1,NA,0,NA,NA,NA,0
+433562,1st innings,Netherlands,England,18.5,RN ten Doeschate,TLW Cooper,JM Anderson,2,0,2,NA,0,NA,NA,NA,0
+433562,1st innings,Netherlands,England,18.6,RN ten Doeschate,TLW Cooper,JM Anderson,1,0,1,NA,0,NA,NA,NA,0
+433562,1st innings,Netherlands,England,19.1,RN ten Doeschate,TLW Cooper,GP Swann,1,0,1,NA,0,NA,NA,NA,0
+433562,1st innings,Netherlands,England,19.2,TLW Cooper,RN ten Doeschate,GP Swann,0,0,0,NA,0,NA,NA,NA,0
+433562,1st innings,Netherlands,England,19.3,TLW Cooper,RN ten Doeschate,GP Swann,0,0,0,NA,0,NA,NA,NA,0
+433562,1st innings,Netherlands,England,19.4,TLW Cooper,RN ten Doeschate,GP Swann,0,0,0,NA,0,NA,NA,NA,0
+433562,1st innings,Netherlands,England,19.5,TLW Cooper,RN ten Doeschate,GP Swann,1,0,1,NA,0,NA,NA,NA,0
+433562,1st innings,Netherlands,England,19.6,RN ten Doeschate,TLW Cooper,GP Swann,0,0,0,NA,0,NA,NA,NA,0
+433562,1st innings,Netherlands,England,20.1,TLW Cooper,RN ten Doeschate,JM Anderson,0,0,0,NA,0,NA,NA,NA,0
+433562,1st innings,Netherlands,England,20.2,TLW Cooper,RN ten Doeschate,JM Anderson,1,0,1,NA,0,NA,NA,NA,0
+433562,1st innings,Netherlands,England,20.3,RN ten Doeschate,TLW Cooper,JM Anderson,1,0,1,NA,0,NA,NA,NA,0
+433562,1st innings,Netherlands,England,20.4,TLW Cooper,RN ten Doeschate,JM Anderson,0,0,0,NA,0,NA,NA,NA,0
+433562,1st innings,Netherlands,England,20.5,TLW Cooper,RN ten Doeschate,JM Anderson,1,0,1,NA,0,NA,NA,NA,0
+433562,1st innings,Netherlands,England,20.6,RN ten Doeschate,TLW Cooper,JM Anderson,1,0,1,NA,0,NA,NA,NA,0
+433562,1st innings,Netherlands,England,21.1,RN ten Doeschate,TLW Cooper,GP Swann,0,0,0,NA,0,NA,NA,NA,0
+433562,1st innings,Netherlands,England,21.2,RN ten Doeschate,TLW Cooper,GP Swann,0,0,0,NA,0,NA,NA,NA,0
+433562,1st innings,Netherlands,England,21.3,RN ten Doeschate,TLW Cooper,GP Swann,1,0,1,NA,0,NA,NA,NA,0
+433562,1st innings,Netherlands,England,21.4,TLW Cooper,RN ten Doeschate,GP Swann,0,0,0,NA,0,NA,NA,NA,0
+433562,1st innings,Netherlands,England,21.5,TLW Cooper,RN ten Doeschate,GP Swann,0,0,0,NA,0,NA,NA,NA,0
+433562,1st innings,Netherlands,England,21.6,TLW Cooper,RN ten Doeschate,GP Swann,1,0,1,NA,0,NA,NA,NA,0
+433562,1st innings,Netherlands,England,22.1,TLW Cooper,RN ten Doeschate,JM Anderson,1,0,1,NA,0,NA,NA,NA,0
+433562,1st innings,Netherlands,England,22.2,RN ten Doeschate,TLW Cooper,JM Anderson,1,0,1,NA,0,NA,NA,NA,0
+433562,1st innings,Netherlands,England,22.3,TLW Cooper,RN ten Doeschate,JM Anderson,0,0,0,NA,0,NA,NA,NA,0
+433562,1st innings,Netherlands,England,22.4,TLW Cooper,RN ten Doeschate,JM Anderson,1,0,1,NA,0,NA,NA,NA,0
+433562,1st innings,Netherlands,England,22.5,RN ten Doeschate,TLW Cooper,JM Anderson,1,0,1,NA,0,NA,NA,NA,0
+433562,1st innings,Netherlands,England,22.6,TLW Cooper,RN ten Doeschate,JM Anderson,1,0,1,NA,0,NA,NA,NA,0
+433562,1st innings,Netherlands,England,23.1,TLW Cooper,RN ten Doeschate,KP Pietersen,0,0,0,NA,0,NA,NA,NA,0
+433562,1st innings,Netherlands,England,23.2,TLW Cooper,RN ten Doeschate,KP Pietersen,4,0,4,NA,0,NA,NA,NA,0
+433562,1st innings,Netherlands,England,23.3,TLW Cooper,RN ten Doeschate,KP Pietersen,1,0,1,NA,0,NA,NA,NA,0
+433562,1st innings,Netherlands,England,23.4,RN ten Doeschate,TLW Cooper,KP Pietersen,1,0,1,NA,0,NA,NA,NA,0
+433562,1st innings,Netherlands,England,23.5,TLW Cooper,RN ten Doeschate,KP Pietersen,2,0,2,NA,0,NA,NA,NA,0
+433562,1st innings,Netherlands,England,23.6,TLW Cooper,RN ten Doeschate,KP Pietersen,0,0,0,NA,0,NA,NA,NA,0
+433562,1st innings,Netherlands,England,24.1,RN ten Doeschate,TLW Cooper,PD Collingwood,4,0,4,NA,0,NA,NA,NA,0
+433562,1st innings,Netherlands,England,24.2,RN ten Doeschate,TLW Cooper,PD Collingwood,0,0,0,NA,0,NA,NA,NA,0
+433562,1st innings,Netherlands,England,24.3,RN ten Doeschate,TLW Cooper,PD Collingwood,4,0,4,NA,0,NA,NA,NA,0
+433562,1st innings,Netherlands,England,24.4,RN ten Doeschate,TLW Cooper,PD Collingwood,1,0,1,NA,0,NA,NA,NA,0
+433562,1st innings,Netherlands,England,24.5,TLW Cooper,RN ten Doeschate,PD Collingwood,0,0,0,NA,0,NA,NA,NA,0
+433562,1st innings,Netherlands,England,24.6,TLW Cooper,RN ten Doeschate,PD Collingwood,1,0,1,NA,0,NA,NA,NA,0
+433562,1st innings,Netherlands,England,25.1,TLW Cooper,RN ten Doeschate,KP Pietersen,1,0,1,NA,0,NA,NA,NA,0
+433562,1st innings,Netherlands,England,25.2,RN ten Doeschate,TLW Cooper,KP Pietersen,0,0,0,NA,0,NA,NA,NA,0
+433562,1st innings,Netherlands,England,25.3,RN ten Doeschate,TLW Cooper,KP Pietersen,0,0,0,NA,0,NA,NA,NA,0
+433562,1st innings,Netherlands,England,25.4,RN ten Doeschate,TLW Cooper,KP Pietersen,6,0,6,NA,0,NA,NA,NA,0
+433562,1st innings,Netherlands,England,25.5,RN ten Doeschate,TLW Cooper,KP Pietersen,3,0,3,NA,0,NA,NA,NA,0
+433562,1st innings,Netherlands,England,25.6,TLW Cooper,RN ten Doeschate,KP Pietersen,1,0,1,NA,0,NA,NA,NA,0
+433562,1st innings,Netherlands,England,26.1,TLW Cooper,RN ten Doeschate,PD Collingwood,0,0,0,NA,0,NA,NA,NA,0
+433562,1st innings,Netherlands,England,26.2,TLW Cooper,RN ten Doeschate,PD Collingwood,1,0,1,NA,0,NA,NA,NA,0
+433562,1st innings,Netherlands,England,26.3,RN ten Doeschate,TLW Cooper,PD Collingwood,0,0,0,NA,0,NA,NA,NA,0
+433562,1st innings,Netherlands,England,26.4,RN ten Doeschate,TLW Cooper,PD Collingwood,0,0,0,NA,0,NA,NA,NA,0
+433562,1st innings,Netherlands,England,26.5,RN ten Doeschate,TLW Cooper,PD Collingwood,1,0,1,NA,0,NA,NA,NA,0
+433562,1st innings,Netherlands,England,26.6,TLW Cooper,RN ten Doeschate,PD Collingwood,0,0,0,NA,0,NA,NA,NA,0
+433562,1st innings,Netherlands,England,27.1,RN ten Doeschate,TLW Cooper,TT Bresnan,1,0,1,NA,0,NA,NA,NA,0
+433562,1st innings,Netherlands,England,27.2,TLW Cooper,RN ten Doeschate,TT Bresnan,0,0,0,NA,0,NA,NA,NA,0
+433562,1st innings,Netherlands,England,27.3,TLW Cooper,RN ten Doeschate,TT Bresnan,0,0,0,NA,0,NA,NA,NA,0
+433562,1st innings,Netherlands,England,27.4,TLW Cooper,RN ten Doeschate,TT Bresnan,1,0,1,NA,0,NA,NA,NA,0
+433562,1st innings,Netherlands,England,27.5,RN ten Doeschate,TLW Cooper,TT Bresnan,0,1,1,legbyes,0,NA,NA,NA,0
+433562,1st innings,Netherlands,England,27.6,TLW Cooper,RN ten Doeschate,TT Bresnan,1,0,1,NA,0,NA,NA,NA,0
+433562,1st innings,Netherlands,England,28.1,TLW Cooper,RN ten Doeschate,PD Collingwood,0,0,0,NA,1,caught,TLW Cooper,JM Anderson,0
+433562,1st innings,Netherlands,England,28.2,B Zuiderent,RN ten Doeschate,PD Collingwood,0,0,0,NA,0,NA,NA,NA,0
+433562,1st innings,Netherlands,England,28.3,B Zuiderent,RN ten Doeschate,PD Collingwood,1,0,1,NA,0,NA,NA,NA,0
+433562,1st innings,Netherlands,England,28.4,RN ten Doeschate,B Zuiderent,PD Collingwood,0,0,0,NA,0,NA,NA,NA,0
+433562,1st innings,Netherlands,England,28.5,RN ten Doeschate,B Zuiderent,PD Collingwood,0,0,0,NA,0,NA,NA,NA,0
+433562,1st innings,Netherlands,England,28.6,RN ten Doeschate,B Zuiderent,PD Collingwood,0,0,0,NA,0,NA,NA,NA,0
+433562,1st innings,Netherlands,England,29.1,B Zuiderent,RN ten Doeschate,TT Bresnan,0,1,1,wides,0,NA,NA,NA,0
+433562,1st innings,Netherlands,England,29.2,B Zuiderent,RN ten Doeschate,TT Bresnan,0,0,0,NA,0,NA,NA,NA,0
+433562,1st innings,Netherlands,England,29.3,B Zuiderent,RN ten Doeschate,TT Bresnan,0,1,1,legbyes,0,NA,NA,NA,0
+433562,1st innings,Netherlands,England,29.4,RN ten Doeschate,B Zuiderent,TT Bresnan,0,0,0,NA,0,NA,NA,NA,0
+433562,1st innings,Netherlands,England,29.5,RN ten Doeschate,B Zuiderent,TT Bresnan,0,0,0,NA,0,NA,NA,NA,0
+433562,1st innings,Netherlands,England,29.6,RN ten Doeschate,B Zuiderent,TT Bresnan,2,0,2,NA,0,NA,NA,NA,0
+433562,1st innings,Netherlands,England,29.7,RN ten Doeschate,B Zuiderent,TT Bresnan,0,1,1,legbyes,0,NA,NA,NA,0
+433562,1st innings,Netherlands,England,30.1,RN ten Doeschate,B Zuiderent,GP Swann,2,0,2,NA,0,NA,NA,NA,0
+433562,1st innings,Netherlands,England,30.2,RN ten Doeschate,B Zuiderent,GP Swann,0,0,0,NA,0,NA,NA,NA,0
+433562,1st innings,Netherlands,England,30.3,RN ten Doeschate,B Zuiderent,GP Swann,0,0,0,NA,0,NA,NA,NA,0
+433562,1st innings,Netherlands,England,30.4,RN ten Doeschate,B Zuiderent,GP Swann,2,0,2,NA,0,NA,NA,NA,0
+433562,1st innings,Netherlands,England,30.5,RN ten Doeschate,B Zuiderent,GP Swann,0,0,0,NA,0,NA,NA,NA,0
+433562,1st innings,Netherlands,England,30.6,RN ten Doeschate,B Zuiderent,GP Swann,1,0,1,NA,0,NA,NA,NA,0
+433562,1st innings,Netherlands,England,31.1,RN ten Doeschate,B Zuiderent,TT Bresnan,0,0,0,NA,0,NA,NA,NA,0
+433562,1st innings,Netherlands,England,31.2,RN ten Doeschate,B Zuiderent,TT Bresnan,0,0,0,NA,0,NA,NA,NA,0
+433562,1st innings,Netherlands,England,31.3,RN ten Doeschate,B Zuiderent,TT Bresnan,0,0,0,NA,0,NA,NA,NA,0
+433562,1st innings,Netherlands,England,31.4,RN ten Doeschate,B Zuiderent,TT Bresnan,1,0,1,NA,0,NA,NA,NA,0
+433562,1st innings,Netherlands,England,31.5,B Zuiderent,RN ten Doeschate,TT Bresnan,0,0,0,NA,0,NA,NA,NA,0
+433562,1st innings,Netherlands,England,31.6,B Zuiderent,RN ten Doeschate,TT Bresnan,0,0,0,NA,0,NA,NA,NA,0
+433562,1st innings,Netherlands,England,32.1,RN ten Doeschate,B Zuiderent,GP Swann,1,0,1,NA,0,NA,NA,NA,0
+433562,1st innings,Netherlands,England,32.2,B Zuiderent,RN ten Doeschate,GP Swann,0,0,0,NA,0,NA,NA,NA,0
+433562,1st innings,Netherlands,England,32.3,B Zuiderent,RN ten Doeschate,GP Swann,0,0,0,NA,0,NA,NA,NA,0
+433562,1st innings,Netherlands,England,32.4,B Zuiderent,RN ten Doeschate,GP Swann,0,0,0,NA,0,NA,NA,NA,0
+433562,1st innings,Netherlands,England,32.5,B Zuiderent,RN ten Doeschate,GP Swann,0,0,0,NA,1,caught,B Zuiderent,PD Collingwood,0
+433562,1st innings,Netherlands,England,32.6,TN de Grooth,RN ten Doeschate,GP Swann,0,0,0,NA,0,NA,NA,NA,0
+433562,1st innings,Netherlands,England,33.1,RN ten Doeschate,TN de Grooth,TT Bresnan,0,0,0,NA,0,NA,NA,NA,0
+433562,1st innings,Netherlands,England,33.2,RN ten Doeschate,TN de Grooth,TT Bresnan,0,0,0,NA,0,NA,NA,NA,0
+433562,1st innings,Netherlands,England,33.3,RN ten Doeschate,TN de Grooth,TT Bresnan,2,0,2,NA,0,NA,NA,NA,0
+433562,1st innings,Netherlands,England,33.4,RN ten Doeschate,TN de Grooth,TT Bresnan,0,0,0,NA,0,NA,NA,NA,0
+433562,1st innings,Netherlands,England,33.5,RN ten Doeschate,TN de Grooth,TT Bresnan,1,0,1,NA,0,NA,NA,NA,0
+433562,1st innings,Netherlands,England,33.6,TN de Grooth,RN ten Doeschate,TT Bresnan,0,0,0,NA,0,NA,NA,NA,0
+433562,1st innings,Netherlands,England,34.1,RN ten Doeschate,TN de Grooth,GP Swann,0,0,0,NA,0,NA,NA,NA,0
+433562,1st innings,Netherlands,England,34.2,RN ten Doeschate,TN de Grooth,GP Swann,0,0,0,NA,0,NA,NA,NA,0
+433562,1st innings,Netherlands,England,34.3,RN ten Doeschate,TN de Grooth,GP Swann,1,0,1,NA,0,NA,NA,NA,0
+433562,1st innings,Netherlands,England,34.4,TN de Grooth,RN ten Doeschate,GP Swann,3,0,3,NA,0,NA,NA,NA,0
+433562,1st innings,Netherlands,England,34.5,RN ten Doeschate,TN de Grooth,GP Swann,0,0,0,NA,0,NA,NA,NA,0
+433562,1st innings,Netherlands,England,34.6,RN ten Doeschate,TN de Grooth,GP Swann,6,0,6,NA,0,NA,NA,NA,0
+433562,1st innings,Netherlands,England,35.1,TN de Grooth,RN ten Doeschate,SCJ Broad,0,0,0,NA,0,NA,NA,NA,0
+433562,1st innings,Netherlands,England,35.2,TN de Grooth,RN ten Doeschate,SCJ Broad,0,0,0,NA,0,NA,NA,NA,0
+433562,1st innings,Netherlands,England,35.3,TN de Grooth,RN ten Doeschate,SCJ Broad,2,0,2,NA,0,NA,NA,NA,0
+433562,1st innings,Netherlands,England,35.4,TN de Grooth,RN ten Doeschate,SCJ Broad,1,0,1,NA,0,NA,NA,NA,0
+433562,1st innings,Netherlands,England,35.5,RN ten Doeschate,TN de Grooth,SCJ Broad,0,0,0,NA,0,NA,NA,NA,0
+433562,1st innings,Netherlands,England,35.6,RN ten Doeschate,TN de Grooth,SCJ Broad,1,0,1,NA,0,NA,NA,NA,0
+433562,1st innings,Netherlands,England,36.1,RN ten Doeschate,TN de Grooth,GP Swann,1,0,1,NA,0,NA,NA,NA,0
+433562,1st innings,Netherlands,England,36.2,TN de Grooth,RN ten Doeschate,GP Swann,4,0,4,NA,0,NA,NA,NA,0
+433562,1st innings,Netherlands,England,36.3,TN de Grooth,RN ten Doeschate,GP Swann,0,0,0,NA,0,NA,NA,NA,0
+433562,1st innings,Netherlands,England,36.4,TN de Grooth,RN ten Doeschate,GP Swann,0,0,0,NA,0,NA,NA,NA,0
+433562,1st innings,Netherlands,England,36.5,TN de Grooth,RN ten Doeschate,GP Swann,0,0,0,NA,0,NA,NA,NA,0
+433562,1st innings,Netherlands,England,36.6,TN de Grooth,RN ten Doeschate,GP Swann,0,0,0,NA,0,NA,NA,NA,0
+433562,1st innings,Netherlands,England,37.1,RN ten Doeschate,TN de Grooth,SCJ Broad,1,0,1,NA,0,NA,NA,NA,0
+433562,1st innings,Netherlands,England,37.2,TN de Grooth,RN ten Doeschate,SCJ Broad,0,0,0,NA,0,NA,NA,NA,0
+433562,1st innings,Netherlands,England,37.3,TN de Grooth,RN ten Doeschate,SCJ Broad,2,0,2,NA,0,NA,NA,NA,0
+433562,1st innings,Netherlands,England,37.4,TN de Grooth,RN ten Doeschate,SCJ Broad,0,0,0,NA,0,NA,NA,NA,0
+433562,1st innings,Netherlands,England,37.5,TN de Grooth,RN ten Doeschate,SCJ Broad,4,0,4,NA,0,NA,NA,NA,0
+433562,1st innings,Netherlands,England,37.6,TN de Grooth,RN ten Doeschate,SCJ Broad,1,0,1,NA,0,NA,NA,NA,0
+433562,1st innings,Netherlands,England,38.1,TN de Grooth,RN ten Doeschate,PD Collingwood,1,0,1,NA,0,NA,NA,NA,0
+433562,1st innings,Netherlands,England,38.2,RN ten Doeschate,TN de Grooth,PD Collingwood,0,0,0,NA,0,NA,NA,NA,0
+433562,1st innings,Netherlands,England,38.3,RN ten Doeschate,TN de Grooth,PD Collingwood,1,0,1,NA,0,NA,NA,NA,0
+433562,1st innings,Netherlands,England,38.4,TN de Grooth,RN ten Doeschate,PD Collingwood,4,0,4,NA,0,NA,NA,NA,0
+433562,1st innings,Netherlands,England,38.5,TN de Grooth,RN ten Doeschate,PD Collingwood,1,0,1,NA,0,NA,NA,NA,0
+433562,1st innings,Netherlands,England,38.6,RN ten Doeschate,TN de Grooth,PD Collingwood,0,0,0,NA,0,NA,NA,NA,0
+433562,1st innings,Netherlands,England,39.1,TN de Grooth,RN ten Doeschate,JM Anderson,0,0,0,NA,0,NA,NA,NA,0
+433562,1st innings,Netherlands,England,39.2,TN de Grooth,RN ten Doeschate,JM Anderson,0,0,0,NA,0,NA,NA,NA,0
+433562,1st innings,Netherlands,England,39.3,TN de Grooth,RN ten Doeschate,JM Anderson,1,0,1,NA,0,NA,NA,NA,0
+433562,1st innings,Netherlands,England,39.4,RN ten Doeschate,TN de Grooth,JM Anderson,0,0,0,NA,0,NA,NA,NA,0
+433562,1st innings,Netherlands,England,39.5,RN ten Doeschate,TN de Grooth,JM Anderson,1,0,1,NA,0,NA,NA,NA,0
+433562,1st innings,Netherlands,England,39.6,TN de Grooth,RN ten Doeschate,JM Anderson,0,0,0,NA,0,NA,NA,NA,0
+433562,1st innings,Netherlands,England,40.1,RN ten Doeschate,TN de Grooth,PD Collingwood,0,0,0,NA,0,NA,NA,NA,0
+433562,1st innings,Netherlands,England,40.2,RN ten Doeschate,TN de Grooth,PD Collingwood,6,0,6,NA,0,NA,NA,NA,0
+433562,1st innings,Netherlands,England,40.3,RN ten Doeschate,TN de Grooth,PD Collingwood,1,0,1,NA,0,NA,NA,NA,0
+433562,1st innings,Netherlands,England,40.4,TN de Grooth,RN ten Doeschate,PD Collingwood,1,0,1,NA,0,NA,NA,NA,0
+433562,1st innings,Netherlands,England,40.5,RN ten Doeschate,TN de Grooth,PD Collingwood,2,0,2,NA,0,NA,NA,NA,0
+433562,1st innings,Netherlands,England,40.6,RN ten Doeschate,TN de Grooth,PD Collingwood,1,0,1,NA,0,NA,NA,NA,0
+433562,1st innings,Netherlands,England,41.1,RN ten Doeschate,TN de Grooth,JM Anderson,1,0,1,NA,0,NA,NA,NA,0
+433562,1st innings,Netherlands,England,41.2,TN de Grooth,RN ten Doeschate,JM Anderson,0,0,0,NA,0,NA,NA,NA,0
+433562,1st innings,Netherlands,England,41.3,TN de Grooth,RN ten Doeschate,JM Anderson,2,0,2,NA,0,NA,NA,NA,0
+433562,1st innings,Netherlands,England,41.4,TN de Grooth,RN ten Doeschate,JM Anderson,1,0,1,NA,0,NA,NA,NA,0
+433562,1st innings,Netherlands,England,41.5,RN ten Doeschate,TN de Grooth,JM Anderson,4,0,4,NA,0,NA,NA,NA,0
+433562,1st innings,Netherlands,England,41.6,RN ten Doeschate,TN de Grooth,JM Anderson,2,0,2,NA,0,NA,NA,NA,0
+433562,1st innings,Netherlands,England,42.1,TN de Grooth,RN ten Doeschate,SCJ Broad,0,1,1,byes,0,NA,NA,NA,0
+433562,1st innings,Netherlands,England,42.2,RN ten Doeschate,TN de Grooth,SCJ Broad,2,0,2,NA,0,NA,NA,NA,0
+433562,1st innings,Netherlands,England,42.3,RN ten Doeschate,TN de Grooth,SCJ Broad,1,0,1,NA,0,NA,NA,NA,0
+433562,1st innings,Netherlands,England,42.4,TN de Grooth,RN ten Doeschate,SCJ Broad,0,0,0,NA,0,NA,NA,NA,0
+433562,1st innings,Netherlands,England,42.5,TN de Grooth,RN ten Doeschate,SCJ Broad,0,0,0,NA,1,bowled,TN de Grooth,NA,0
+433562,1st innings,Netherlands,England,42.6,PW Borren,RN ten Doeschate,SCJ Broad,1,0,1,NA,0,NA,NA,NA,0
+433562,1st innings,Netherlands,England,43.1,PW Borren,RN ten Doeschate,TT Bresnan,0,0,0,NA,0,NA,NA,NA,0
+433562,1st innings,Netherlands,England,43.2,PW Borren,RN ten Doeschate,TT Bresnan,1,0,1,NA,0,NA,NA,NA,0
+433562,1st innings,Netherlands,England,43.3,RN ten Doeschate,PW Borren,TT Bresnan,4,0,4,NA,0,NA,NA,NA,0
+433562,1st innings,Netherlands,England,43.4,RN ten Doeschate,PW Borren,TT Bresnan,4,0,4,NA,0,NA,NA,NA,0
+433562,1st innings,Netherlands,England,43.5,RN ten Doeschate,PW Borren,TT Bresnan,1,0,1,NA,0,NA,NA,NA,0
+433562,1st innings,Netherlands,England,43.6,PW Borren,RN ten Doeschate,TT Bresnan,1,0,1,NA,0,NA,NA,NA,0
+433562,1st innings,Netherlands,England,44.1,PW Borren,RN ten Doeschate,SCJ Broad,1,0,1,NA,0,NA,NA,NA,0
+433562,1st innings,Netherlands,England,44.2,RN ten Doeschate,PW Borren,SCJ Broad,2,0,2,NA,0,NA,NA,NA,0
+433562,1st innings,Netherlands,England,44.3,RN ten Doeschate,PW Borren,SCJ Broad,5,0,5,NA,0,NA,NA,NA,0
+433562,1st innings,Netherlands,England,44.4,PW Borren,RN ten Doeschate,SCJ Broad,1,0,1,NA,0,NA,NA,NA,0
+433562,1st innings,Netherlands,England,44.5,RN ten Doeschate,PW Borren,SCJ Broad,4,0,4,NA,0,NA,NA,NA,0
+433562,1st innings,Netherlands,England,44.6,RN ten Doeschate,PW Borren,SCJ Broad,1,0,1,NA,0,NA,NA,NA,0
+433562,1st innings,Netherlands,England,45.1,RN ten Doeschate,PW Borren,JM Anderson,1,0,1,NA,0,NA,NA,NA,0
+433562,1st innings,Netherlands,England,45.2,PW Borren,RN ten Doeschate,JM Anderson,1,0,1,NA,0,NA,NA,NA,0
+433562,1st innings,Netherlands,England,45.3,RN ten Doeschate,PW Borren,JM Anderson,1,1,2,noballs,0,NA,NA,NA,0
+433562,1st innings,Netherlands,England,45.4,PW Borren,RN ten Doeschate,JM Anderson,1,0,1,NA,0,NA,NA,NA,0
+433562,1st innings,Netherlands,England,45.5,RN ten Doeschate,PW Borren,JM Anderson,4,1,5,noballs,0,NA,NA,NA,0
+433562,1st innings,Netherlands,England,45.6,RN ten Doeschate,PW Borren,JM Anderson,1,0,1,NA,0,NA,NA,NA,0
+433562,1st innings,Netherlands,England,45.7,PW Borren,RN ten Doeschate,JM Anderson,1,0,1,NA,0,NA,NA,NA,0
+433562,1st innings,Netherlands,England,45.8,RN ten Doeschate,PW Borren,JM Anderson,2,0,2,NA,0,NA,NA,NA,0
+433562,1st innings,Netherlands,England,46.1,PW Borren,RN ten Doeschate,TT Bresnan,1,0,1,NA,0,NA,NA,NA,0
+433562,1st innings,Netherlands,England,46.2,RN ten Doeschate,PW Borren,TT Bresnan,1,0,1,NA,0,NA,NA,NA,0
+433562,1st innings,Netherlands,England,46.3,PW Borren,RN ten Doeschate,TT Bresnan,0,0,0,NA,0,NA,NA,NA,0
+433562,1st innings,Netherlands,England,46.4,PW Borren,RN ten Doeschate,TT Bresnan,1,0,1,NA,0,NA,NA,NA,0
+433562,1st innings,Netherlands,England,46.5,RN ten Doeschate,PW Borren,TT Bresnan,1,0,1,NA,0,NA,NA,NA,0
+433562,1st innings,Netherlands,England,46.6,PW Borren,RN ten Doeschate,TT Bresnan,2,0,2,NA,0,NA,NA,NA,0
+433562,1st innings,Netherlands,England,47.1,RN ten Doeschate,PW Borren,JM Anderson,0,1,1,byes,0,NA,NA,NA,0
+433562,1st innings,Netherlands,England,47.2,PW Borren,RN ten Doeschate,JM Anderson,1,0,1,NA,0,NA,NA,NA,0
+433562,1st innings,Netherlands,England,47.3,RN ten Doeschate,PW Borren,JM Anderson,0,1,1,byes,0,NA,NA,NA,0
+433562,1st innings,Netherlands,England,47.4,PW Borren,RN ten Doeschate,JM Anderson,4,0,4,NA,0,NA,NA,NA,0
+433562,1st innings,Netherlands,England,47.5,PW Borren,RN ten Doeschate,JM Anderson,4,0,4,NA,0,NA,NA,NA,0
+433562,1st innings,Netherlands,England,47.6,PW Borren,RN ten Doeschate,JM Anderson,4,0,4,NA,0,NA,NA,NA,0
+433562,1st innings,Netherlands,England,48.1,RN ten Doeschate,PW Borren,SCJ Broad,0,0,0,NA,1,caught,RN ten Doeschate,RS Bopara,0
+433562,1st innings,Netherlands,England,48.2,PW Borren,Mudassar Bukhari,SCJ Broad,0,1,1,wides,0,NA,NA,NA,0
+433562,1st innings,Netherlands,England,48.3,PW Borren,Mudassar Bukhari,SCJ Broad,4,0,4,NA,0,NA,NA,NA,0
+433562,1st innings,Netherlands,England,48.4,PW Borren,Mudassar Bukhari,SCJ Broad,0,1,1,noballs,0,NA,NA,NA,0
+433562,1st innings,Netherlands,England,48.5,PW Borren,Mudassar Bukhari,SCJ Broad,1,0,1,NA,0,NA,NA,NA,0
+433562,1st innings,Netherlands,England,48.6,Mudassar Bukhari,PW Borren,SCJ Broad,2,0,2,NA,0,NA,NA,NA,0
+433562,1st innings,Netherlands,England,48.7,Mudassar Bukhari,PW Borren,SCJ Broad,1,0,1,NA,0,NA,NA,NA,0
+433562,1st innings,Netherlands,England,48.8,PW Borren,Mudassar Bukhari,SCJ Broad,2,0,2,NA,0,NA,NA,NA,0
+433562,1st innings,Netherlands,England,49.1,Mudassar Bukhari,PW Borren,JM Anderson,2,0,2,NA,0,NA,NA,NA,0
+433562,1st innings,Netherlands,England,49.2,Mudassar Bukhari,PW Borren,JM Anderson,1,0,1,NA,0,NA,NA,NA,0
+433562,1st innings,Netherlands,England,49.3,PW Borren,Mudassar Bukhari,JM Anderson,2,0,2,NA,0,NA,NA,NA,0
+433562,1st innings,Netherlands,England,49.4,PW Borren,Mudassar Bukhari,JM Anderson,0,0,0,NA,0,NA,NA,NA,0
+433562,1st innings,Netherlands,England,49.5,PW Borren,Mudassar Bukhari,JM Anderson,1,0,1,NA,0,NA,NA,NA,0
+433562,1st innings,Netherlands,England,49.6,Mudassar Bukhari,PW Borren,JM Anderson,0,0,0,NA,0,NA,NA,NA,0
+433562,2nd innings,England,Netherlands,0.1,AJ Strauss,KP Pietersen,Mudassar Bukhari,0,0,0,NA,0,NA,NA,NA,1
+433562,2nd innings,England,Netherlands,0.2,AJ Strauss,KP Pietersen,Mudassar Bukhari,4,0,4,NA,0,NA,NA,NA,1
+433562,2nd innings,England,Netherlands,0.3,AJ Strauss,KP Pietersen,Mudassar Bukhari,4,0,4,NA,0,NA,NA,NA,1
+433562,2nd innings,England,Netherlands,0.4,AJ Strauss,KP Pietersen,Mudassar Bukhari,0,0,0,NA,0,NA,NA,NA,1
+433562,2nd innings,England,Netherlands,0.5,AJ Strauss,KP Pietersen,Mudassar Bukhari,0,0,0,NA,0,NA,NA,NA,1
+433562,2nd innings,England,Netherlands,0.6,AJ Strauss,KP Pietersen,Mudassar Bukhari,4,0,4,NA,0,NA,NA,NA,1
+433562,2nd innings,England,Netherlands,1.1,KP Pietersen,AJ Strauss,BA Westdijk,4,0,4,NA,0,NA,NA,NA,1
+433562,2nd innings,England,Netherlands,1.2,KP Pietersen,AJ Strauss,BA Westdijk,0,0,0,NA,0,NA,NA,NA,1
+433562,2nd innings,England,Netherlands,1.3,KP Pietersen,AJ Strauss,BA Westdijk,0,0,0,NA,0,NA,NA,NA,1
+433562,2nd innings,England,Netherlands,1.4,KP Pietersen,AJ Strauss,BA Westdijk,0,0,0,NA,0,NA,NA,NA,1
+433562,2nd innings,England,Netherlands,1.5,KP Pietersen,AJ Strauss,BA Westdijk,0,0,0,NA,0,NA,NA,NA,1
+433562,2nd innings,England,Netherlands,1.6,KP Pietersen,AJ Strauss,BA Westdijk,1,0,1,NA,0,NA,NA,NA,1
+433562,2nd innings,England,Netherlands,2.1,KP Pietersen,AJ Strauss,Mudassar Bukhari,1,0,1,NA,0,NA,NA,NA,1
+433562,2nd innings,England,Netherlands,2.2,AJ Strauss,KP Pietersen,Mudassar Bukhari,1,0,1,NA,0,NA,NA,NA,1
+433562,2nd innings,England,Netherlands,2.3,KP Pietersen,AJ Strauss,Mudassar Bukhari,0,0,0,NA,0,NA,NA,NA,1
+433562,2nd innings,England,Netherlands,2.4,KP Pietersen,AJ Strauss,Mudassar Bukhari,2,0,2,NA,0,NA,NA,NA,1
+433562,2nd innings,England,Netherlands,2.5,KP Pietersen,AJ Strauss,Mudassar Bukhari,1,0,1,NA,0,NA,NA,NA,1
+433562,2nd innings,England,Netherlands,2.6,AJ Strauss,KP Pietersen,Mudassar Bukhari,0,0,0,NA,0,NA,NA,NA,1
+433562,2nd innings,England,Netherlands,3.1,KP Pietersen,AJ Strauss,BA Westdijk,0,0,0,NA,0,NA,NA,NA,1
+433562,2nd innings,England,Netherlands,3.2,KP Pietersen,AJ Strauss,BA Westdijk,4,0,4,NA,0,NA,NA,NA,1
+433562,2nd innings,England,Netherlands,3.3,KP Pietersen,AJ Strauss,BA Westdijk,2,0,2,NA,0,NA,NA,NA,1
+433562,2nd innings,England,Netherlands,3.4,KP Pietersen,AJ Strauss,BA Westdijk,0,0,0,NA,0,NA,NA,NA,1
+433562,2nd innings,England,Netherlands,3.5,KP Pietersen,AJ Strauss,BA Westdijk,0,0,0,NA,0,NA,NA,NA,1
+433562,2nd innings,England,Netherlands,3.6,KP Pietersen,AJ Strauss,BA Westdijk,4,0,4,NA,0,NA,NA,NA,1
+433562,2nd innings,England,Netherlands,4.1,AJ Strauss,KP Pietersen,Mudassar Bukhari,0,0,0,NA,0,NA,NA,NA,1
+433562,2nd innings,England,Netherlands,4.2,AJ Strauss,KP Pietersen,Mudassar Bukhari,1,0,1,NA,0,NA,NA,NA,1
+433562,2nd innings,England,Netherlands,4.3,KP Pietersen,AJ Strauss,Mudassar Bukhari,0,0,0,NA,0,NA,NA,NA,1
+433562,2nd innings,England,Netherlands,4.4,KP Pietersen,AJ Strauss,Mudassar Bukhari,0,0,0,NA,0,NA,NA,NA,1
+433562,2nd innings,England,Netherlands,4.5,KP Pietersen,AJ Strauss,Mudassar Bukhari,0,0,0,NA,0,NA,NA,NA,1
+433562,2nd innings,England,Netherlands,4.6,KP Pietersen,AJ Strauss,Mudassar Bukhari,1,0,1,NA,0,NA,NA,NA,1
+433562,2nd innings,England,Netherlands,5.1,KP Pietersen,AJ Strauss,BA Westdijk,0,0,0,NA,0,NA,NA,NA,1
+433562,2nd innings,England,Netherlands,5.2,KP Pietersen,AJ Strauss,BA Westdijk,0,0,0,NA,0,NA,NA,NA,1
+433562,2nd innings,England,Netherlands,5.3,KP Pietersen,AJ Strauss,BA Westdijk,0,0,0,NA,0,NA,NA,NA,1
+433562,2nd innings,England,Netherlands,5.4,KP Pietersen,AJ Strauss,BA Westdijk,4,0,4,NA,0,NA,NA,NA,1
+433562,2nd innings,England,Netherlands,5.5,KP Pietersen,AJ Strauss,BA Westdijk,0,0,0,NA,0,NA,NA,NA,1
+433562,2nd innings,England,Netherlands,5.6,KP Pietersen,AJ Strauss,BA Westdijk,0,0,0,NA,0,NA,NA,NA,1
+433562,2nd innings,England,Netherlands,6.1,AJ Strauss,KP Pietersen,Mudassar Bukhari,0,0,0,NA,0,NA,NA,NA,1
+433562,2nd innings,England,Netherlands,6.2,AJ Strauss,KP Pietersen,Mudassar Bukhari,1,0,1,NA,0,NA,NA,NA,1
+433562,2nd innings,England,Netherlands,6.3,KP Pietersen,AJ Strauss,Mudassar Bukhari,0,0,0,NA,0,NA,NA,NA,1
+433562,2nd innings,England,Netherlands,6.4,KP Pietersen,AJ Strauss,Mudassar Bukhari,0,0,0,NA,0,NA,NA,NA,1
+433562,2nd innings,England,Netherlands,6.5,KP Pietersen,AJ Strauss,Mudassar Bukhari,1,0,1,NA,0,NA,NA,NA,1
+433562,2nd innings,England,Netherlands,6.6,AJ Strauss,KP Pietersen,Mudassar Bukhari,4,0,4,NA,0,NA,NA,NA,1
+433562,2nd innings,England,Netherlands,7.1,KP Pietersen,AJ Strauss,BA Westdijk,0,0,0,NA,0,NA,NA,NA,1
+433562,2nd innings,England,Netherlands,7.2,KP Pietersen,AJ Strauss,BA Westdijk,4,0,4,NA,0,NA,NA,NA,1
+433562,2nd innings,England,Netherlands,7.3,KP Pietersen,AJ Strauss,BA Westdijk,0,0,0,NA,0,NA,NA,NA,1
+433562,2nd innings,England,Netherlands,7.4,KP Pietersen,AJ Strauss,BA Westdijk,0,0,0,NA,0,NA,NA,NA,1
+433562,2nd innings,England,Netherlands,7.5,KP Pietersen,AJ Strauss,BA Westdijk,0,0,0,NA,0,NA,NA,NA,1
+433562,2nd innings,England,Netherlands,7.6,KP Pietersen,AJ Strauss,BA Westdijk,0,0,0,NA,0,NA,NA,NA,1
+433562,2nd innings,England,Netherlands,8.1,AJ Strauss,KP Pietersen,BP Loots,2,0,2,NA,0,NA,NA,NA,1
+433562,2nd innings,England,Netherlands,8.2,AJ Strauss,KP Pietersen,BP Loots,0,0,0,NA,0,NA,NA,NA,1
+433562,2nd innings,England,Netherlands,8.3,AJ Strauss,KP Pietersen,BP Loots,1,0,1,NA,0,NA,NA,NA,1
+433562,2nd innings,England,Netherlands,8.4,KP Pietersen,AJ Strauss,BP Loots,0,0,0,NA,0,NA,NA,NA,1
+433562,2nd innings,England,Netherlands,8.5,KP Pietersen,AJ Strauss,BP Loots,1,0,1,NA,0,NA,NA,NA,1
+433562,2nd innings,England,Netherlands,8.6,AJ Strauss,KP Pietersen,BP Loots,0,0,0,NA,0,NA,NA,NA,1
+433562,2nd innings,England,Netherlands,9.1,KP Pietersen,AJ Strauss,BA Westdijk,0,0,0,NA,0,NA,NA,NA,1
+433562,2nd innings,England,Netherlands,9.2,KP Pietersen,AJ Strauss,BA Westdijk,0,0,0,NA,0,NA,NA,NA,1
+433562,2nd innings,England,Netherlands,9.3,KP Pietersen,AJ Strauss,BA Westdijk,0,0,0,NA,0,NA,NA,NA,1
+433562,2nd innings,England,Netherlands,9.4,KP Pietersen,AJ Strauss,BA Westdijk,0,0,0,NA,0,NA,NA,NA,1
+433562,2nd innings,England,Netherlands,9.5,KP Pietersen,AJ Strauss,BA Westdijk,0,0,0,NA,0,NA,NA,NA,1
+433562,2nd innings,England,Netherlands,9.6,KP Pietersen,AJ Strauss,BA Westdijk,1,0,1,NA,0,NA,NA,NA,1
+433562,2nd innings,England,Netherlands,10.1,KP Pietersen,AJ Strauss,BP Loots,1,0,1,NA,0,NA,NA,NA,1
+433562,2nd innings,England,Netherlands,10.2,AJ Strauss,KP Pietersen,BP Loots,0,0,0,NA,0,NA,NA,NA,1
+433562,2nd innings,England,Netherlands,10.3,AJ Strauss,KP Pietersen,BP Loots,1,0,1,NA,0,NA,NA,NA,1
+433562,2nd innings,England,Netherlands,10.4,KP Pietersen,AJ Strauss,BP Loots,0,1,1,wides,0,NA,NA,NA,1
+433562,2nd innings,England,Netherlands,10.5,KP Pietersen,AJ Strauss,BP Loots,1,0,1,NA,0,NA,NA,NA,1
+433562,2nd innings,England,Netherlands,10.6,AJ Strauss,KP Pietersen,BP Loots,2,0,2,NA,0,NA,NA,NA,1
+433562,2nd innings,England,Netherlands,10.7,AJ Strauss,KP Pietersen,BP Loots,4,0,4,NA,0,NA,NA,NA,1
+433562,2nd innings,England,Netherlands,11.1,KP Pietersen,AJ Strauss,BA Westdijk,0,0,0,NA,0,NA,NA,NA,1
+433562,2nd innings,England,Netherlands,11.2,KP Pietersen,AJ Strauss,BA Westdijk,0,0,0,NA,0,NA,NA,NA,1
+433562,2nd innings,England,Netherlands,11.3,KP Pietersen,AJ Strauss,BA Westdijk,1,0,1,NA,0,NA,NA,NA,1
+433562,2nd innings,England,Netherlands,11.4,AJ Strauss,KP Pietersen,BA Westdijk,0,0,0,NA,0,NA,NA,NA,1
+433562,2nd innings,England,Netherlands,11.5,AJ Strauss,KP Pietersen,BA Westdijk,4,0,4,NA,0,NA,NA,NA,1
+433562,2nd innings,England,Netherlands,11.6,AJ Strauss,KP Pietersen,BA Westdijk,4,0,4,NA,0,NA,NA,NA,1
+433562,2nd innings,England,Netherlands,12.1,KP Pietersen,AJ Strauss,BP Loots,0,5,5,wides,0,NA,NA,NA,1
+433562,2nd innings,England,Netherlands,12.2,KP Pietersen,AJ Strauss,BP Loots,0,0,0,NA,0,NA,NA,NA,1
+433562,2nd innings,England,Netherlands,12.3,KP Pietersen,AJ Strauss,BP Loots,0,0,0,NA,0,NA,NA,NA,1
+433562,2nd innings,England,Netherlands,12.4,KP Pietersen,AJ Strauss,BP Loots,0,0,0,NA,0,NA,NA,NA,1
+433562,2nd innings,England,Netherlands,12.5,KP Pietersen,AJ Strauss,BP Loots,1,0,1,NA,0,NA,NA,NA,1
+433562,2nd innings,England,Netherlands,12.6,AJ Strauss,KP Pietersen,BP Loots,4,0,4,NA,0,NA,NA,NA,1
+433562,2nd innings,England,Netherlands,12.7,AJ Strauss,KP Pietersen,BP Loots,1,0,1,NA,0,NA,NA,NA,1
+433562,2nd innings,England,Netherlands,13.1,AJ Strauss,KP Pietersen,PM Seelaar,0,0,0,NA,0,NA,NA,NA,1
+433562,2nd innings,England,Netherlands,13.2,AJ Strauss,KP Pietersen,PM Seelaar,0,0,0,NA,0,NA,NA,NA,1
+433562,2nd innings,England,Netherlands,13.3,AJ Strauss,KP Pietersen,PM Seelaar,1,0,1,NA,0,NA,NA,NA,1
+433562,2nd innings,England,Netherlands,13.4,KP Pietersen,AJ Strauss,PM Seelaar,0,0,0,NA,0,NA,NA,NA,1
+433562,2nd innings,England,Netherlands,13.5,KP Pietersen,AJ Strauss,PM Seelaar,0,0,0,NA,0,NA,NA,NA,1
+433562,2nd innings,England,Netherlands,13.6,KP Pietersen,AJ Strauss,PM Seelaar,1,0,1,NA,0,NA,NA,NA,1
+433562,2nd innings,England,Netherlands,14.1,KP Pietersen,AJ Strauss,RN ten Doeschate,0,0,0,NA,0,NA,NA,NA,1
+433562,2nd innings,England,Netherlands,14.2,KP Pietersen,AJ Strauss,RN ten Doeschate,1,0,1,NA,0,NA,NA,NA,1
+433562,2nd innings,England,Netherlands,14.3,AJ Strauss,KP Pietersen,RN ten Doeschate,0,0,0,NA,0,NA,NA,NA,1
+433562,2nd innings,England,Netherlands,14.4,AJ Strauss,KP Pietersen,RN ten Doeschate,0,0,0,NA,0,NA,NA,NA,1
+433562,2nd innings,England,Netherlands,14.5,AJ Strauss,KP Pietersen,RN ten Doeschate,2,0,2,NA,0,NA,NA,NA,1
+433562,2nd innings,England,Netherlands,14.6,AJ Strauss,KP Pietersen,RN ten Doeschate,4,0,4,NA,0,NA,NA,NA,1
+433562,2nd innings,England,Netherlands,15.1,KP Pietersen,AJ Strauss,PM Seelaar,1,0,1,NA,0,NA,NA,NA,1
+433562,2nd innings,England,Netherlands,15.2,AJ Strauss,KP Pietersen,PM Seelaar,1,0,1,NA,0,NA,NA,NA,1
+433562,2nd innings,England,Netherlands,15.3,KP Pietersen,AJ Strauss,PM Seelaar,1,0,1,NA,0,NA,NA,NA,1
+433562,2nd innings,England,Netherlands,15.4,AJ Strauss,KP Pietersen,PM Seelaar,0,3,3,wides,0,NA,NA,NA,1
+433562,2nd innings,England,Netherlands,15.5,AJ Strauss,KP Pietersen,PM Seelaar,0,0,0,NA,0,NA,NA,NA,1
+433562,2nd innings,England,Netherlands,15.6,AJ Strauss,KP Pietersen,PM Seelaar,1,0,1,NA,0,NA,NA,NA,1
+433562,2nd innings,England,Netherlands,15.7,KP Pietersen,AJ Strauss,PM Seelaar,0,0,0,NA,0,NA,NA,NA,1
+433562,2nd innings,England,Netherlands,16.1,AJ Strauss,KP Pietersen,RN ten Doeschate,0,0,0,NA,0,NA,NA,NA,1
+433562,2nd innings,England,Netherlands,16.2,AJ Strauss,KP Pietersen,RN ten Doeschate,0,0,0,NA,0,NA,NA,NA,1
+433562,2nd innings,England,Netherlands,16.3,AJ Strauss,KP Pietersen,RN ten Doeschate,0,0,0,NA,0,NA,NA,NA,1
+433562,2nd innings,England,Netherlands,16.4,AJ Strauss,KP Pietersen,RN ten Doeschate,0,0,0,NA,0,NA,NA,NA,1
+433562,2nd innings,England,Netherlands,16.5,AJ Strauss,KP Pietersen,RN ten Doeschate,0,0,0,NA,0,NA,NA,NA,1
+433562,2nd innings,England,Netherlands,16.6,AJ Strauss,KP Pietersen,RN ten Doeschate,1,0,1,NA,0,NA,NA,NA,1
+433562,2nd innings,England,Netherlands,17.1,AJ Strauss,KP Pietersen,PM Seelaar,2,0,2,NA,0,NA,NA,NA,1
+433562,2nd innings,England,Netherlands,17.2,AJ Strauss,KP Pietersen,PM Seelaar,2,0,2,NA,0,NA,NA,NA,1
+433562,2nd innings,England,Netherlands,17.3,AJ Strauss,KP Pietersen,PM Seelaar,1,0,1,NA,0,NA,NA,NA,1
+433562,2nd innings,England,Netherlands,17.4,KP Pietersen,AJ Strauss,PM Seelaar,0,0,0,NA,1,caught,KP Pietersen,PW Borren,1
+433562,2nd innings,England,Netherlands,17.5,IJL Trott,AJ Strauss,PM Seelaar,0,0,0,NA,0,NA,NA,NA,1
+433562,2nd innings,England,Netherlands,17.6,IJL Trott,AJ Strauss,PM Seelaar,0,0,0,NA,0,NA,NA,NA,1
+433562,2nd innings,England,Netherlands,18.1,AJ Strauss,IJL Trott,RN ten Doeschate,0,0,0,NA,0,NA,NA,NA,1
+433562,2nd innings,England,Netherlands,18.2,AJ Strauss,IJL Trott,RN ten Doeschate,1,0,1,NA,0,NA,NA,NA,1
+433562,2nd innings,England,Netherlands,18.3,IJL Trott,AJ Strauss,RN ten Doeschate,0,0,0,NA,0,NA,NA,NA,1
+433562,2nd innings,England,Netherlands,18.4,IJL Trott,AJ Strauss,RN ten Doeschate,1,0,1,NA,0,NA,NA,NA,1
+433562,2nd innings,England,Netherlands,18.5,AJ Strauss,IJL Trott,RN ten Doeschate,1,0,1,NA,0,NA,NA,NA,1
+433562,2nd innings,England,Netherlands,18.6,IJL Trott,AJ Strauss,RN ten Doeschate,0,0,0,NA,0,NA,NA,NA,1
+433562,2nd innings,England,Netherlands,19.1,AJ Strauss,IJL Trott,PM Seelaar,0,0,0,NA,0,NA,NA,NA,1
+433562,2nd innings,England,Netherlands,19.2,AJ Strauss,IJL Trott,PM Seelaar,1,0,1,NA,0,NA,NA,NA,1
+433562,2nd innings,England,Netherlands,19.3,IJL Trott,AJ Strauss,PM Seelaar,0,0,0,NA,0,NA,NA,NA,1
+433562,2nd innings,England,Netherlands,19.4,IJL Trott,AJ Strauss,PM Seelaar,1,0,1,NA,0,NA,NA,NA,1
+433562,2nd innings,England,Netherlands,19.5,AJ Strauss,IJL Trott,PM Seelaar,0,0,0,NA,0,NA,NA,NA,1
+433562,2nd innings,England,Netherlands,19.6,AJ Strauss,IJL Trott,PM Seelaar,2,0,2,NA,0,NA,NA,NA,1
+433562,2nd innings,England,Netherlands,20.1,IJL Trott,AJ Strauss,RN ten Doeschate,0,0,0,NA,0,NA,NA,NA,1
+433562,2nd innings,England,Netherlands,20.2,IJL Trott,AJ Strauss,RN ten Doeschate,1,0,1,NA,0,NA,NA,NA,1
+433562,2nd innings,England,Netherlands,20.3,AJ Strauss,IJL Trott,RN ten Doeschate,2,0,2,NA,0,NA,NA,NA,1
+433562,2nd innings,England,Netherlands,20.4,AJ Strauss,IJL Trott,RN ten Doeschate,0,0,0,NA,0,NA,NA,NA,1
+433562,2nd innings,England,Netherlands,20.5,AJ Strauss,IJL Trott,RN ten Doeschate,2,0,2,NA,0,NA,NA,NA,1
+433562,2nd innings,England,Netherlands,20.6,AJ Strauss,IJL Trott,RN ten Doeschate,0,0,0,NA,0,NA,NA,NA,1
+433562,2nd innings,England,Netherlands,21.1,IJL Trott,AJ Strauss,PM Seelaar,1,0,1,NA,0,NA,NA,NA,1
+433562,2nd innings,England,Netherlands,21.2,AJ Strauss,IJL Trott,PM Seelaar,0,0,0,NA,0,NA,NA,NA,1
+433562,2nd innings,England,Netherlands,21.3,AJ Strauss,IJL Trott,PM Seelaar,1,0,1,NA,0,NA,NA,NA,1
+433562,2nd innings,England,Netherlands,21.4,IJL Trott,AJ Strauss,PM Seelaar,0,0,0,NA,0,NA,NA,NA,1
+433562,2nd innings,England,Netherlands,21.5,IJL Trott,AJ Strauss,PM Seelaar,1,0,1,NA,0,NA,NA,NA,1
+433562,2nd innings,England,Netherlands,21.6,AJ Strauss,IJL Trott,PM Seelaar,1,0,1,NA,0,NA,NA,NA,1
+433562,2nd innings,England,Netherlands,22.1,AJ Strauss,IJL Trott,RN ten Doeschate,0,0,0,NA,0,NA,NA,NA,1
+433562,2nd innings,England,Netherlands,22.2,AJ Strauss,IJL Trott,RN ten Doeschate,1,0,1,NA,0,NA,NA,NA,1
+433562,2nd innings,England,Netherlands,22.3,IJL Trott,AJ Strauss,RN ten Doeschate,1,0,1,NA,0,NA,NA,NA,1
+433562,2nd innings,England,Netherlands,22.4,AJ Strauss,IJL Trott,RN ten Doeschate,0,0,0,NA,0,NA,NA,NA,1
+433562,2nd innings,England,Netherlands,22.5,AJ Strauss,IJL Trott,RN ten Doeschate,1,0,1,NA,0,NA,NA,NA,1
+433562,2nd innings,England,Netherlands,22.6,IJL Trott,AJ Strauss,RN ten Doeschate,1,0,1,NA,0,NA,NA,NA,1
+433562,2nd innings,England,Netherlands,23.1,IJL Trott,AJ Strauss,TLW Cooper,1,0,1,NA,0,NA,NA,NA,1
+433562,2nd innings,England,Netherlands,23.2,AJ Strauss,IJL Trott,TLW Cooper,1,0,1,NA,0,NA,NA,NA,1
+433562,2nd innings,England,Netherlands,23.3,IJL Trott,AJ Strauss,TLW Cooper,1,0,1,NA,0,NA,NA,NA,1
+433562,2nd innings,England,Netherlands,23.4,AJ Strauss,IJL Trott,TLW Cooper,2,0,2,NA,0,NA,NA,NA,1
+433562,2nd innings,England,Netherlands,23.5,AJ Strauss,IJL Trott,TLW Cooper,0,0,0,NA,0,NA,NA,NA,1
+433562,2nd innings,England,Netherlands,23.6,AJ Strauss,IJL Trott,TLW Cooper,1,0,1,NA,0,NA,NA,NA,1
+433562,2nd innings,England,Netherlands,24.1,AJ Strauss,IJL Trott,RN ten Doeschate,0,1,1,byes,0,NA,NA,NA,1
+433562,2nd innings,England,Netherlands,24.2,IJL Trott,AJ Strauss,RN ten Doeschate,1,0,1,NA,0,NA,NA,NA,1
+433562,2nd innings,England,Netherlands,24.3,AJ Strauss,IJL Trott,RN ten Doeschate,1,0,1,NA,0,NA,NA,NA,1
+433562,2nd innings,England,Netherlands,24.4,IJL Trott,AJ Strauss,RN ten Doeschate,0,0,0,NA,0,NA,NA,NA,1
+433562,2nd innings,England,Netherlands,24.5,IJL Trott,AJ Strauss,RN ten Doeschate,1,0,1,NA,0,NA,NA,NA,1
+433562,2nd innings,England,Netherlands,24.6,AJ Strauss,IJL Trott,RN ten Doeschate,1,0,1,NA,0,NA,NA,NA,1
+433562,2nd innings,England,Netherlands,25.1,AJ Strauss,IJL Trott,TLW Cooper,1,0,1,NA,0,NA,NA,NA,1
+433562,2nd innings,England,Netherlands,25.2,IJL Trott,AJ Strauss,TLW Cooper,1,0,1,NA,0,NA,NA,NA,1
+433562,2nd innings,England,Netherlands,25.3,AJ Strauss,IJL Trott,TLW Cooper,2,0,2,NA,0,NA,NA,NA,1
+433562,2nd innings,England,Netherlands,25.4,AJ Strauss,IJL Trott,TLW Cooper,1,0,1,NA,0,NA,NA,NA,1
+433562,2nd innings,England,Netherlands,25.5,IJL Trott,AJ Strauss,TLW Cooper,0,0,0,NA,0,NA,NA,NA,1
+433562,2nd innings,England,Netherlands,25.6,IJL Trott,AJ Strauss,TLW Cooper,0,0,0,NA,0,NA,NA,NA,1
+433562,2nd innings,England,Netherlands,26.1,AJ Strauss,IJL Trott,RN ten Doeschate,1,0,1,NA,0,NA,NA,NA,1
+433562,2nd innings,England,Netherlands,26.2,IJL Trott,AJ Strauss,RN ten Doeschate,2,0,2,NA,0,NA,NA,NA,1
+433562,2nd innings,England,Netherlands,26.3,IJL Trott,AJ Strauss,RN ten Doeschate,1,0,1,NA,0,NA,NA,NA,1
+433562,2nd innings,England,Netherlands,26.4,AJ Strauss,IJL Trott,RN ten Doeschate,0,0,0,NA,0,NA,NA,NA,1
+433562,2nd innings,England,Netherlands,26.5,AJ Strauss,IJL Trott,RN ten Doeschate,1,0,1,NA,0,NA,NA,NA,1
+433562,2nd innings,England,Netherlands,26.6,IJL Trott,AJ Strauss,RN ten Doeschate,1,0,1,NA,0,NA,NA,NA,1
+433562,2nd innings,England,Netherlands,27.1,IJL Trott,AJ Strauss,TLW Cooper,2,0,2,NA,0,NA,NA,NA,1
+433562,2nd innings,England,Netherlands,27.2,IJL Trott,AJ Strauss,TLW Cooper,4,0,4,NA,0,NA,NA,NA,1
+433562,2nd innings,England,Netherlands,27.3,IJL Trott,AJ Strauss,TLW Cooper,1,0,1,NA,0,NA,NA,NA,1
+433562,2nd innings,England,Netherlands,27.4,AJ Strauss,IJL Trott,TLW Cooper,1,0,1,NA,0,NA,NA,NA,1
+433562,2nd innings,England,Netherlands,27.5,IJL Trott,AJ Strauss,TLW Cooper,0,0,0,NA,0,NA,NA,NA,1
+433562,2nd innings,England,Netherlands,27.6,IJL Trott,AJ Strauss,TLW Cooper,4,0,4,NA,0,NA,NA,NA,1
+433562,2nd innings,England,Netherlands,28.1,AJ Strauss,IJL Trott,RN ten Doeschate,2,0,2,NA,0,NA,NA,NA,1
+433562,2nd innings,England,Netherlands,28.2,AJ Strauss,IJL Trott,RN ten Doeschate,2,0,2,NA,0,NA,NA,NA,1
+433562,2nd innings,England,Netherlands,28.3,AJ Strauss,IJL Trott,RN ten Doeschate,0,0,0,NA,0,NA,NA,NA,1
+433562,2nd innings,England,Netherlands,28.4,AJ Strauss,IJL Trott,RN ten Doeschate,0,0,0,NA,0,NA,NA,NA,1
+433562,2nd innings,England,Netherlands,28.5,AJ Strauss,IJL Trott,RN ten Doeschate,1,0,1,NA,0,NA,NA,NA,1
+433562,2nd innings,England,Netherlands,28.6,IJL Trott,AJ Strauss,RN ten Doeschate,1,0,1,NA,0,NA,NA,NA,1
+433562,2nd innings,England,Netherlands,29.1,IJL Trott,AJ Strauss,Mudassar Bukhari,1,0,1,NA,0,NA,NA,NA,1
+433562,2nd innings,England,Netherlands,29.2,AJ Strauss,IJL Trott,Mudassar Bukhari,0,0,0,NA,1,caught,AJ Strauss,TLW Cooper,1
+433562,2nd innings,England,Netherlands,29.3,IJL Trott,IR Bell,Mudassar Bukhari,0,0,0,NA,0,NA,NA,NA,1
+433562,2nd innings,England,Netherlands,29.4,IJL Trott,IR Bell,Mudassar Bukhari,1,0,1,NA,0,NA,NA,NA,1
+433562,2nd innings,England,Netherlands,29.5,IR Bell,IJL Trott,Mudassar Bukhari,0,0,0,NA,0,NA,NA,NA,1
+433562,2nd innings,England,Netherlands,29.6,IR Bell,IJL Trott,Mudassar Bukhari,1,0,1,NA,0,NA,NA,NA,1
+433562,2nd innings,England,Netherlands,30.1,IR Bell,IJL Trott,BP Loots,1,0,1,NA,0,NA,NA,NA,1
+433562,2nd innings,England,Netherlands,30.2,IJL Trott,IR Bell,BP Loots,1,0,1,NA,0,NA,NA,NA,1
+433562,2nd innings,England,Netherlands,30.3,IR Bell,IJL Trott,BP Loots,1,0,1,NA,0,NA,NA,NA,1
+433562,2nd innings,England,Netherlands,30.4,IJL Trott,IR Bell,BP Loots,0,0,0,NA,0,NA,NA,NA,1
+433562,2nd innings,England,Netherlands,30.5,IJL Trott,IR Bell,BP Loots,0,0,0,NA,0,NA,NA,NA,1
+433562,2nd innings,England,Netherlands,30.6,IJL Trott,IR Bell,BP Loots,1,0,1,NA,0,NA,NA,NA,1
+433562,2nd innings,England,Netherlands,31.1,IJL Trott,IR Bell,Mudassar Bukhari,0,0,0,NA,0,NA,NA,NA,1
+433562,2nd innings,England,Netherlands,31.2,IJL Trott,IR Bell,Mudassar Bukhari,1,0,1,NA,0,NA,NA,NA,1
+433562,2nd innings,England,Netherlands,31.3,IR Bell,IJL Trott,Mudassar Bukhari,0,0,0,NA,0,NA,NA,NA,1
+433562,2nd innings,England,Netherlands,31.4,IR Bell,IJL Trott,Mudassar Bukhari,1,0,1,NA,0,NA,NA,NA,1
+433562,2nd innings,England,Netherlands,31.5,IJL Trott,IR Bell,Mudassar Bukhari,1,0,1,NA,0,NA,NA,NA,1
+433562,2nd innings,England,Netherlands,31.6,IR Bell,IJL Trott,Mudassar Bukhari,0,0,0,NA,0,NA,NA,NA,1
+433562,2nd innings,England,Netherlands,32.1,IJL Trott,IR Bell,BP Loots,1,0,1,NA,0,NA,NA,NA,1
+433562,2nd innings,England,Netherlands,32.2,IR Bell,IJL Trott,BP Loots,1,0,1,NA,0,NA,NA,NA,1
+433562,2nd innings,England,Netherlands,32.3,IJL Trott,IR Bell,BP Loots,0,0,0,NA,0,NA,NA,NA,1
+433562,2nd innings,England,Netherlands,32.4,IJL Trott,IR Bell,BP Loots,1,0,1,NA,0,NA,NA,NA,1
+433562,2nd innings,England,Netherlands,32.5,IR Bell,IJL Trott,BP Loots,2,0,2,NA,0,NA,NA,NA,1
+433562,2nd innings,England,Netherlands,32.6,IR Bell,IJL Trott,BP Loots,0,0,0,NA,0,NA,NA,NA,1
+433562,2nd innings,England,Netherlands,33.1,IJL Trott,IR Bell,PM Seelaar,1,0,1,NA,0,NA,NA,NA,1
+433562,2nd innings,England,Netherlands,33.2,IR Bell,IJL Trott,PM Seelaar,0,0,0,NA,0,NA,NA,NA,1
+433562,2nd innings,England,Netherlands,33.3,IR Bell,IJL Trott,PM Seelaar,0,0,0,NA,0,NA,NA,NA,1
+433562,2nd innings,England,Netherlands,33.4,IR Bell,IJL Trott,PM Seelaar,2,0,2,NA,0,NA,NA,NA,1
+433562,2nd innings,England,Netherlands,33.5,IR Bell,IJL Trott,PM Seelaar,2,0,2,NA,0,NA,NA,NA,1
+433562,2nd innings,England,Netherlands,33.6,IR Bell,IJL Trott,PM Seelaar,0,0,0,NA,0,NA,NA,NA,1
+433562,2nd innings,England,Netherlands,34.1,IJL Trott,IR Bell,BP Loots,0,0,0,NA,0,NA,NA,NA,1
+433562,2nd innings,England,Netherlands,34.2,IJL Trott,IR Bell,BP Loots,1,0,1,NA,0,NA,NA,NA,1
+433562,2nd innings,England,Netherlands,34.3,IR Bell,IJL Trott,BP Loots,1,0,1,NA,0,NA,NA,NA,1
+433562,2nd innings,England,Netherlands,34.4,IJL Trott,IR Bell,BP Loots,0,0,0,NA,0,NA,NA,NA,1
+433562,2nd innings,England,Netherlands,34.5,IJL Trott,IR Bell,BP Loots,1,0,1,NA,0,NA,NA,NA,1
+433562,2nd innings,England,Netherlands,34.6,IR Bell,IJL Trott,BP Loots,1,0,1,NA,0,NA,NA,NA,1
+433562,2nd innings,England,Netherlands,35.1,IR Bell,IJL Trott,Mudassar Bukhari,1,0,1,NA,0,NA,NA,NA,1
+433562,2nd innings,England,Netherlands,35.2,IJL Trott,IR Bell,Mudassar Bukhari,2,0,2,NA,0,NA,NA,NA,1
+433562,2nd innings,England,Netherlands,35.3,IJL Trott,IR Bell,Mudassar Bukhari,4,0,4,NA,0,NA,NA,NA,1
+433562,2nd innings,England,Netherlands,35.4,IJL Trott,IR Bell,Mudassar Bukhari,1,0,1,NA,0,NA,NA,NA,1
+433562,2nd innings,England,Netherlands,35.5,IR Bell,IJL Trott,Mudassar Bukhari,0,0,0,NA,0,NA,NA,NA,1
+433562,2nd innings,England,Netherlands,35.6,IR Bell,IJL Trott,Mudassar Bukhari,0,0,0,NA,0,NA,NA,NA,1
+433562,2nd innings,England,Netherlands,36.1,IJL Trott,IR Bell,BP Loots,0,0,0,NA,0,NA,NA,NA,1
+433562,2nd innings,England,Netherlands,36.2,IJL Trott,IR Bell,BP Loots,1,0,1,NA,0,NA,NA,NA,1
+433562,2nd innings,England,Netherlands,36.3,IR Bell,IJL Trott,BP Loots,0,0,0,NA,0,NA,NA,NA,1
+433562,2nd innings,England,Netherlands,36.4,IR Bell,IJL Trott,BP Loots,0,0,0,NA,0,NA,NA,NA,1
+433562,2nd innings,England,Netherlands,36.5,IR Bell,IJL Trott,BP Loots,1,0,1,NA,0,NA,NA,NA,1
+433562,2nd innings,England,Netherlands,36.6,IJL Trott,IR Bell,BP Loots,1,0,1,NA,0,NA,NA,NA,1
+433562,2nd innings,England,Netherlands,37.1,IJL Trott,IR Bell,PM Seelaar,1,0,1,NA,0,NA,NA,NA,1
+433562,2nd innings,England,Netherlands,37.2,IR Bell,IJL Trott,PM Seelaar,1,0,1,NA,0,NA,NA,NA,1
+433562,2nd innings,England,Netherlands,37.3,IJL Trott,IR Bell,PM Seelaar,0,1,1,legbyes,0,NA,NA,NA,1
+433562,2nd innings,England,Netherlands,37.4,IR Bell,IJL Trott,PM Seelaar,1,0,1,NA,0,NA,NA,NA,1
+433562,2nd innings,England,Netherlands,37.5,IJL Trott,IR Bell,PM Seelaar,2,0,2,NA,0,NA,NA,NA,1
+433562,2nd innings,England,Netherlands,37.6,IJL Trott,IR Bell,PM Seelaar,1,0,1,NA,0,NA,NA,NA,1
+433562,2nd innings,England,Netherlands,38.1,IJL Trott,IR Bell,BA Westdijk,1,0,1,NA,0,NA,NA,NA,1
+433562,2nd innings,England,Netherlands,38.2,IR Bell,IJL Trott,BA Westdijk,1,0,1,NA,0,NA,NA,NA,1
+433562,2nd innings,England,Netherlands,38.3,IJL Trott,IR Bell,BA Westdijk,4,0,4,NA,0,NA,NA,NA,1
+433562,2nd innings,England,Netherlands,38.4,IJL Trott,IR Bell,BA Westdijk,0,0,0,NA,0,NA,NA,NA,1
+433562,2nd innings,England,Netherlands,38.5,IJL Trott,IR Bell,BA Westdijk,1,0,1,NA,0,NA,NA,NA,1
+433562,2nd innings,England,Netherlands,38.6,IR Bell,IJL Trott,BA Westdijk,1,0,1,NA,0,NA,NA,NA,1
+433562,2nd innings,England,Netherlands,39.1,IR Bell,IJL Trott,PM Seelaar,2,0,2,NA,0,NA,NA,NA,1
+433562,2nd innings,England,Netherlands,39.2,IR Bell,IJL Trott,PM Seelaar,0,0,0,NA,0,NA,NA,NA,1
+433562,2nd innings,England,Netherlands,39.3,IR Bell,IJL Trott,PM Seelaar,0,0,0,NA,0,NA,NA,NA,1
+433562,2nd innings,England,Netherlands,39.4,IR Bell,IJL Trott,PM Seelaar,1,0,1,NA,0,NA,NA,NA,1
+433562,2nd innings,England,Netherlands,39.5,IJL Trott,IR Bell,PM Seelaar,2,0,2,NA,0,NA,NA,NA,1
+433562,2nd innings,England,Netherlands,39.6,IJL Trott,IR Bell,PM Seelaar,2,0,2,NA,0,NA,NA,NA,1
+433562,2nd innings,England,Netherlands,40.1,IR Bell,IJL Trott,RN ten Doeschate,1,0,1,NA,0,NA,NA,NA,1
+433562,2nd innings,England,Netherlands,40.2,IJL Trott,IR Bell,RN ten Doeschate,0,1,1,wides,1,stumped,IJL Trott,W Barresi,1
+433562,2nd innings,England,Netherlands,40.3,PD Collingwood,IR Bell,RN ten Doeschate,1,0,1,NA,0,NA,NA,NA,1
+433562,2nd innings,England,Netherlands,40.4,IR Bell,PD Collingwood,RN ten Doeschate,1,0,1,NA,0,NA,NA,NA,1
+433562,2nd innings,England,Netherlands,40.5,PD Collingwood,IR Bell,RN ten Doeschate,0,0,0,NA,0,NA,NA,NA,1
+433562,2nd innings,England,Netherlands,40.6,PD Collingwood,IR Bell,RN ten Doeschate,1,0,1,NA,0,NA,NA,NA,1
+433562,2nd innings,England,Netherlands,40.7,IR Bell,PD Collingwood,RN ten Doeschate,2,0,2,NA,0,NA,NA,NA,1
+433562,2nd innings,England,Netherlands,41.1,PD Collingwood,IR Bell,Mudassar Bukhari,0,0,0,NA,0,NA,NA,NA,1
+433562,2nd innings,England,Netherlands,41.2,PD Collingwood,IR Bell,Mudassar Bukhari,2,0,2,NA,0,NA,NA,NA,1
+433562,2nd innings,England,Netherlands,41.3,PD Collingwood,IR Bell,Mudassar Bukhari,0,0,0,NA,0,NA,NA,NA,1
+433562,2nd innings,England,Netherlands,41.4,PD Collingwood,IR Bell,Mudassar Bukhari,0,1,1,legbyes,0,NA,NA,NA,1
+433562,2nd innings,England,Netherlands,41.5,IR Bell,PD Collingwood,Mudassar Bukhari,4,0,4,NA,0,NA,NA,NA,1
+433562,2nd innings,England,Netherlands,41.6,IR Bell,PD Collingwood,Mudassar Bukhari,1,0,1,NA,0,NA,NA,NA,1
+433562,2nd innings,England,Netherlands,42.1,IR Bell,PD Collingwood,RN ten Doeschate,1,0,1,NA,0,NA,NA,NA,1
+433562,2nd innings,England,Netherlands,42.2,PD Collingwood,IR Bell,RN ten Doeschate,1,0,1,NA,0,NA,NA,NA,1
+433562,2nd innings,England,Netherlands,42.3,IR Bell,PD Collingwood,RN ten Doeschate,0,0,0,NA,0,NA,NA,NA,1
+433562,2nd innings,England,Netherlands,42.4,IR Bell,PD Collingwood,RN ten Doeschate,1,0,1,NA,0,NA,NA,NA,1
+433562,2nd innings,England,Netherlands,42.5,PD Collingwood,IR Bell,RN ten Doeschate,1,0,1,NA,0,NA,NA,NA,1
+433562,2nd innings,England,Netherlands,42.6,IR Bell,PD Collingwood,RN ten Doeschate,0,0,0,NA,1,bowled,IR Bell,NA,1
+433562,2nd innings,England,Netherlands,43.1,PD Collingwood,RS Bopara,Mudassar Bukhari,0,0,0,NA,0,NA,NA,NA,1
+433562,2nd innings,England,Netherlands,43.2,PD Collingwood,RS Bopara,Mudassar Bukhari,4,0,4,NA,0,NA,NA,NA,1
+433562,2nd innings,England,Netherlands,43.3,PD Collingwood,RS Bopara,Mudassar Bukhari,1,0,1,NA,0,NA,NA,NA,1
+433562,2nd innings,England,Netherlands,43.4,RS Bopara,PD Collingwood,Mudassar Bukhari,0,0,0,NA,0,NA,NA,NA,1
+433562,2nd innings,England,Netherlands,43.5,RS Bopara,PD Collingwood,Mudassar Bukhari,1,0,1,NA,0,NA,NA,NA,1
+433562,2nd innings,England,Netherlands,43.6,PD Collingwood,RS Bopara,Mudassar Bukhari,2,0,2,NA,0,NA,NA,NA,1
+433562,2nd innings,England,Netherlands,44.1,RS Bopara,PD Collingwood,BP Loots,0,0,0,NA,0,NA,NA,NA,1
+433562,2nd innings,England,Netherlands,44.2,RS Bopara,PD Collingwood,BP Loots,1,0,1,NA,0,NA,NA,NA,1
+433562,2nd innings,England,Netherlands,44.3,PD Collingwood,RS Bopara,BP Loots,0,0,0,NA,0,NA,NA,NA,1
+433562,2nd innings,England,Netherlands,44.4,PD Collingwood,RS Bopara,BP Loots,4,0,4,NA,0,NA,NA,NA,1
+433562,2nd innings,England,Netherlands,44.5,PD Collingwood,RS Bopara,BP Loots,1,0,1,NA,0,NA,NA,NA,1
+433562,2nd innings,England,Netherlands,44.6,RS Bopara,PD Collingwood,BP Loots,1,0,1,NA,0,NA,NA,NA,1
+433562,2nd innings,England,Netherlands,45.1,RS Bopara,PD Collingwood,PM Seelaar,0,0,0,NA,0,NA,NA,NA,1
+433562,2nd innings,England,Netherlands,45.2,RS Bopara,PD Collingwood,PM Seelaar,1,0,1,NA,0,NA,NA,NA,1
+433562,2nd innings,England,Netherlands,45.3,PD Collingwood,RS Bopara,PM Seelaar,1,0,1,NA,0,NA,NA,NA,1
+433562,2nd innings,England,Netherlands,45.4,RS Bopara,PD Collingwood,PM Seelaar,0,0,0,NA,0,NA,NA,NA,1
+433562,2nd innings,England,Netherlands,45.5,RS Bopara,PD Collingwood,PM Seelaar,1,0,1,NA,0,NA,NA,NA,1
+433562,2nd innings,England,Netherlands,45.6,PD Collingwood,RS Bopara,PM Seelaar,1,0,1,NA,0,NA,NA,NA,1
+433562,2nd innings,England,Netherlands,46.1,PD Collingwood,RS Bopara,BP Loots,4,0,4,NA,0,NA,NA,NA,1
+433562,2nd innings,England,Netherlands,46.2,PD Collingwood,RS Bopara,BP Loots,1,0,1,NA,0,NA,NA,NA,1
+433562,2nd innings,England,Netherlands,46.3,RS Bopara,PD Collingwood,BP Loots,2,0,2,NA,0,NA,NA,NA,1
+433562,2nd innings,England,Netherlands,46.4,RS Bopara,PD Collingwood,BP Loots,1,0,1,NA,0,NA,NA,NA,1
+433562,2nd innings,England,Netherlands,46.5,PD Collingwood,RS Bopara,BP Loots,1,0,1,NA,0,NA,NA,NA,1
+433562,2nd innings,England,Netherlands,46.6,RS Bopara,PD Collingwood,BP Loots,1,0,1,NA,0,NA,NA,NA,1
+433562,2nd innings,England,Netherlands,47.1,RS Bopara,PD Collingwood,PM Seelaar,1,0,1,NA,0,NA,NA,NA,1
+433562,2nd innings,England,Netherlands,47.2,PD Collingwood,RS Bopara,PM Seelaar,3,0,3,NA,0,NA,NA,NA,1
+433562,2nd innings,England,Netherlands,47.3,RS Bopara,PD Collingwood,PM Seelaar,0,1,1,wides,0,NA,NA,NA,1
+433562,2nd innings,England,Netherlands,47.4,RS Bopara,PD Collingwood,PM Seelaar,1,0,1,NA,0,NA,NA,NA,1
+433562,2nd innings,England,Netherlands,47.5,PD Collingwood,RS Bopara,PM Seelaar,1,0,1,NA,0,NA,NA,NA,1
+433562,2nd innings,England,Netherlands,47.6,RS Bopara,PD Collingwood,PM Seelaar,2,0,2,NA,0,NA,NA,NA,1
+433562,2nd innings,England,Netherlands,47.7,RS Bopara,PD Collingwood,PM Seelaar,1,0,1,NA,0,NA,NA,NA,1
+433562,2nd innings,England,Netherlands,48.1,RS Bopara,PD Collingwood,BP Loots,6,0,6,NA,0,NA,NA,NA,1
+433562,2nd innings,England,Netherlands,48.2,RS Bopara,PD Collingwood,BP Loots,2,0,2,NA,0,NA,NA,NA,1
+433562,2nd innings,England,Netherlands,48.3,RS Bopara,PD Collingwood,BP Loots,4,0,4,NA,0,NA,NA,NA,1
+433562,2nd innings,England,Netherlands,48.4,RS Bopara,PD Collingwood,BP Loots,4,0,4,NA,0,NA,NA,NA,1

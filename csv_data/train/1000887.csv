@@ -1,0 +1,572 @@
+match_id,innings,team,opponent,ball,batsman,non_striker,bowler,scored_runs,extras,total,extra_type,wicket,wicket_type,player_out,fielders,winner
+1000887,1st innings,Australia,Pakistan,0.1,DA Warner,TM Head,Mohammad Amir,0,0,0,NA,0,NA,NA,NA,1
+1000887,1st innings,Australia,Pakistan,0.2,DA Warner,TM Head,Mohammad Amir,0,0,0,NA,0,NA,NA,NA,1
+1000887,1st innings,Australia,Pakistan,0.3,DA Warner,TM Head,Mohammad Amir,0,0,0,NA,0,NA,NA,NA,1
+1000887,1st innings,Australia,Pakistan,0.4,DA Warner,TM Head,Mohammad Amir,0,0,0,NA,0,NA,NA,NA,1
+1000887,1st innings,Australia,Pakistan,0.5,DA Warner,TM Head,Mohammad Amir,0,1,1,wides,0,NA,NA,NA,1
+1000887,1st innings,Australia,Pakistan,0.6,DA Warner,TM Head,Mohammad Amir,0,0,0,NA,0,NA,NA,NA,1
+1000887,1st innings,Australia,Pakistan,0.7,DA Warner,TM Head,Mohammad Amir,0,0,0,NA,0,NA,NA,NA,1
+1000887,1st innings,Australia,Pakistan,1.1,TM Head,DA Warner,Mohammad Hafeez,0,0,0,NA,0,NA,NA,NA,1
+1000887,1st innings,Australia,Pakistan,1.2,TM Head,DA Warner,Mohammad Hafeez,1,0,1,NA,0,NA,NA,NA,1
+1000887,1st innings,Australia,Pakistan,1.3,DA Warner,TM Head,Mohammad Hafeez,0,0,0,NA,0,NA,NA,NA,1
+1000887,1st innings,Australia,Pakistan,1.4,DA Warner,TM Head,Mohammad Hafeez,0,0,0,NA,0,NA,NA,NA,1
+1000887,1st innings,Australia,Pakistan,1.5,DA Warner,TM Head,Mohammad Hafeez,0,0,0,NA,0,NA,NA,NA,1
+1000887,1st innings,Australia,Pakistan,1.6,DA Warner,TM Head,Mohammad Hafeez,0,0,0,NA,0,NA,NA,NA,1
+1000887,1st innings,Australia,Pakistan,2.1,TM Head,DA Warner,Mohammad Amir,1,0,1,NA,0,NA,NA,NA,1
+1000887,1st innings,Australia,Pakistan,2.2,DA Warner,TM Head,Mohammad Amir,0,0,0,NA,0,NA,NA,NA,1
+1000887,1st innings,Australia,Pakistan,2.3,DA Warner,TM Head,Mohammad Amir,1,0,1,NA,0,NA,NA,NA,1
+1000887,1st innings,Australia,Pakistan,2.4,TM Head,DA Warner,Mohammad Amir,1,0,1,NA,0,NA,NA,NA,1
+1000887,1st innings,Australia,Pakistan,2.5,DA Warner,TM Head,Mohammad Amir,0,0,0,NA,0,NA,NA,NA,1
+1000887,1st innings,Australia,Pakistan,2.6,DA Warner,TM Head,Mohammad Amir,0,0,0,NA,0,NA,NA,NA,1
+1000887,1st innings,Australia,Pakistan,3.1,TM Head,DA Warner,Mohammad Hafeez,0,0,0,NA,0,NA,NA,NA,1
+1000887,1st innings,Australia,Pakistan,3.2,TM Head,DA Warner,Mohammad Hafeez,0,0,0,NA,0,NA,NA,NA,1
+1000887,1st innings,Australia,Pakistan,3.3,TM Head,DA Warner,Mohammad Hafeez,1,0,1,NA,0,NA,NA,NA,1
+1000887,1st innings,Australia,Pakistan,3.4,DA Warner,TM Head,Mohammad Hafeez,4,0,4,NA,0,NA,NA,NA,1
+1000887,1st innings,Australia,Pakistan,3.5,DA Warner,TM Head,Mohammad Hafeez,1,0,1,NA,0,NA,NA,NA,1
+1000887,1st innings,Australia,Pakistan,3.6,TM Head,DA Warner,Mohammad Hafeez,0,0,0,NA,0,NA,NA,NA,1
+1000887,1st innings,Australia,Pakistan,4.1,DA Warner,TM Head,Mohammad Amir,1,0,1,NA,0,NA,NA,NA,1
+1000887,1st innings,Australia,Pakistan,4.2,TM Head,DA Warner,Mohammad Amir,1,0,1,NA,0,NA,NA,NA,1
+1000887,1st innings,Australia,Pakistan,4.3,DA Warner,TM Head,Mohammad Amir,0,0,0,NA,1,bowled,DA Warner,NA,1
+1000887,1st innings,Australia,Pakistan,4.4,SPD Smith,TM Head,Mohammad Amir,0,0,0,NA,1,caught,SPD Smith,Mohammad Rizwan,1
+1000887,1st innings,Australia,Pakistan,4.5,CA Lynn,TM Head,Mohammad Amir,0,0,0,NA,0,NA,NA,NA,1
+1000887,1st innings,Australia,Pakistan,4.6,CA Lynn,TM Head,Mohammad Amir,0,0,0,NA,0,NA,NA,NA,1
+1000887,1st innings,Australia,Pakistan,5.1,TM Head,CA Lynn,Hasan Ali,1,0,1,NA,0,NA,NA,NA,1
+1000887,1st innings,Australia,Pakistan,5.2,CA Lynn,TM Head,Hasan Ali,1,0,1,NA,0,NA,NA,NA,1
+1000887,1st innings,Australia,Pakistan,5.3,TM Head,CA Lynn,Hasan Ali,1,0,1,NA,0,NA,NA,NA,1
+1000887,1st innings,Australia,Pakistan,5.4,CA Lynn,TM Head,Hasan Ali,4,0,4,NA,0,NA,NA,NA,1
+1000887,1st innings,Australia,Pakistan,5.5,CA Lynn,TM Head,Hasan Ali,0,1,1,wides,0,NA,NA,NA,1
+1000887,1st innings,Australia,Pakistan,5.6,CA Lynn,TM Head,Hasan Ali,0,0,0,NA,0,NA,NA,NA,1
+1000887,1st innings,Australia,Pakistan,5.7,CA Lynn,TM Head,Hasan Ali,0,0,0,NA,0,NA,NA,NA,1
+1000887,1st innings,Australia,Pakistan,6.1,TM Head,CA Lynn,Mohammad Amir,0,0,0,NA,0,NA,NA,NA,1
+1000887,1st innings,Australia,Pakistan,6.2,TM Head,CA Lynn,Mohammad Amir,0,0,0,NA,0,NA,NA,NA,1
+1000887,1st innings,Australia,Pakistan,6.3,TM Head,CA Lynn,Mohammad Amir,1,0,1,NA,0,NA,NA,NA,1
+1000887,1st innings,Australia,Pakistan,6.4,CA Lynn,TM Head,Mohammad Amir,3,0,3,NA,0,NA,NA,NA,1
+1000887,1st innings,Australia,Pakistan,6.5,TM Head,CA Lynn,Mohammad Amir,0,0,0,NA,0,NA,NA,NA,1
+1000887,1st innings,Australia,Pakistan,6.6,TM Head,CA Lynn,Mohammad Amir,0,0,0,NA,0,NA,NA,NA,1
+1000887,1st innings,Australia,Pakistan,7.1,CA Lynn,TM Head,Hasan Ali,6,0,6,NA,0,NA,NA,NA,1
+1000887,1st innings,Australia,Pakistan,7.2,CA Lynn,TM Head,Hasan Ali,1,0,1,NA,0,NA,NA,NA,1
+1000887,1st innings,Australia,Pakistan,7.3,TM Head,CA Lynn,Hasan Ali,2,0,2,NA,0,NA,NA,NA,1
+1000887,1st innings,Australia,Pakistan,7.4,TM Head,CA Lynn,Hasan Ali,0,0,0,NA,0,NA,NA,NA,1
+1000887,1st innings,Australia,Pakistan,7.5,TM Head,CA Lynn,Hasan Ali,4,0,4,NA,0,NA,NA,NA,1
+1000887,1st innings,Australia,Pakistan,7.6,TM Head,CA Lynn,Hasan Ali,0,0,0,NA,0,NA,NA,NA,1
+1000887,1st innings,Australia,Pakistan,8.1,CA Lynn,TM Head,Wahab Riaz,0,1,1,wides,0,NA,NA,NA,1
+1000887,1st innings,Australia,Pakistan,8.2,CA Lynn,TM Head,Wahab Riaz,1,0,1,NA,0,NA,NA,NA,1
+1000887,1st innings,Australia,Pakistan,8.3,TM Head,CA Lynn,Wahab Riaz,4,0,4,NA,0,NA,NA,NA,1
+1000887,1st innings,Australia,Pakistan,8.4,TM Head,CA Lynn,Wahab Riaz,4,0,4,NA,0,NA,NA,NA,1
+1000887,1st innings,Australia,Pakistan,8.5,TM Head,CA Lynn,Wahab Riaz,4,0,4,NA,0,NA,NA,NA,1
+1000887,1st innings,Australia,Pakistan,8.6,TM Head,CA Lynn,Wahab Riaz,0,0,0,NA,0,NA,NA,NA,1
+1000887,1st innings,Australia,Pakistan,8.7,TM Head,CA Lynn,Wahab Riaz,0,0,0,NA,0,NA,NA,NA,1
+1000887,1st innings,Australia,Pakistan,9.1,CA Lynn,TM Head,Hasan Ali,0,0,0,NA,0,NA,NA,NA,1
+1000887,1st innings,Australia,Pakistan,9.2,CA Lynn,TM Head,Hasan Ali,0,0,0,NA,1,caught,CA Lynn,Mohammad Rizwan,1
+1000887,1st innings,Australia,Pakistan,9.3,TM Head,MR Marsh,Hasan Ali,4,0,4,NA,0,NA,NA,NA,1
+1000887,1st innings,Australia,Pakistan,9.4,TM Head,MR Marsh,Hasan Ali,4,0,4,NA,0,NA,NA,NA,1
+1000887,1st innings,Australia,Pakistan,9.5,TM Head,MR Marsh,Hasan Ali,0,0,0,NA,0,NA,NA,NA,1
+1000887,1st innings,Australia,Pakistan,9.6,TM Head,MR Marsh,Hasan Ali,1,0,1,NA,0,NA,NA,NA,1
+1000887,1st innings,Australia,Pakistan,10.1,TM Head,MR Marsh,Imad Wasim,1,0,1,NA,0,NA,NA,NA,1
+1000887,1st innings,Australia,Pakistan,10.2,MR Marsh,TM Head,Imad Wasim,0,0,0,NA,0,NA,NA,NA,1
+1000887,1st innings,Australia,Pakistan,10.3,MR Marsh,TM Head,Imad Wasim,0,0,0,NA,0,NA,NA,NA,1
+1000887,1st innings,Australia,Pakistan,10.4,MR Marsh,TM Head,Imad Wasim,0,0,0,NA,0,NA,NA,NA,1
+1000887,1st innings,Australia,Pakistan,10.5,MR Marsh,TM Head,Imad Wasim,0,0,0,NA,0,NA,NA,NA,1
+1000887,1st innings,Australia,Pakistan,10.6,MR Marsh,TM Head,Imad Wasim,0,0,0,NA,0,NA,NA,NA,1
+1000887,1st innings,Australia,Pakistan,11.1,TM Head,MR Marsh,Mohammad Hafeez,1,0,1,NA,0,NA,NA,NA,1
+1000887,1st innings,Australia,Pakistan,11.2,MR Marsh,TM Head,Mohammad Hafeez,1,0,1,NA,0,NA,NA,NA,1
+1000887,1st innings,Australia,Pakistan,11.3,TM Head,MR Marsh,Mohammad Hafeez,0,0,0,NA,0,NA,NA,NA,1
+1000887,1st innings,Australia,Pakistan,11.4,TM Head,MR Marsh,Mohammad Hafeez,0,0,0,NA,0,NA,NA,NA,1
+1000887,1st innings,Australia,Pakistan,11.5,TM Head,MR Marsh,Mohammad Hafeez,0,0,0,NA,0,NA,NA,NA,1
+1000887,1st innings,Australia,Pakistan,11.6,TM Head,MR Marsh,Mohammad Hafeez,1,0,1,NA,0,NA,NA,NA,1
+1000887,1st innings,Australia,Pakistan,12.1,TM Head,MR Marsh,Imad Wasim,0,0,0,NA,0,NA,NA,NA,1
+1000887,1st innings,Australia,Pakistan,12.2,TM Head,MR Marsh,Imad Wasim,0,0,0,NA,0,NA,NA,NA,1
+1000887,1st innings,Australia,Pakistan,12.3,TM Head,MR Marsh,Imad Wasim,1,0,1,NA,0,NA,NA,NA,1
+1000887,1st innings,Australia,Pakistan,12.4,MR Marsh,TM Head,Imad Wasim,0,0,0,NA,0,NA,NA,NA,1
+1000887,1st innings,Australia,Pakistan,12.5,MR Marsh,TM Head,Imad Wasim,1,0,1,NA,0,NA,NA,NA,1
+1000887,1st innings,Australia,Pakistan,12.6,TM Head,MR Marsh,Imad Wasim,0,0,0,NA,1,caught,TM Head,Mohammad Rizwan,1
+1000887,1st innings,Australia,Pakistan,13.1,MR Marsh,GJ Maxwell,Mohammad Hafeez,1,0,1,NA,0,NA,NA,NA,1
+1000887,1st innings,Australia,Pakistan,13.2,GJ Maxwell,MR Marsh,Mohammad Hafeez,0,0,0,NA,0,NA,NA,NA,1
+1000887,1st innings,Australia,Pakistan,13.3,GJ Maxwell,MR Marsh,Mohammad Hafeez,2,0,2,NA,0,NA,NA,NA,1
+1000887,1st innings,Australia,Pakistan,13.4,GJ Maxwell,MR Marsh,Mohammad Hafeez,0,0,0,NA,0,NA,NA,NA,1
+1000887,1st innings,Australia,Pakistan,13.5,GJ Maxwell,MR Marsh,Mohammad Hafeez,0,0,0,NA,0,NA,NA,NA,1
+1000887,1st innings,Australia,Pakistan,13.6,GJ Maxwell,MR Marsh,Mohammad Hafeez,0,0,0,NA,0,NA,NA,NA,1
+1000887,1st innings,Australia,Pakistan,14.1,MR Marsh,GJ Maxwell,Imad Wasim,0,0,0,NA,0,NA,NA,NA,1
+1000887,1st innings,Australia,Pakistan,14.2,MR Marsh,GJ Maxwell,Imad Wasim,0,0,0,NA,0,NA,NA,NA,1
+1000887,1st innings,Australia,Pakistan,14.3,MR Marsh,GJ Maxwell,Imad Wasim,0,0,0,NA,0,NA,NA,NA,1
+1000887,1st innings,Australia,Pakistan,14.4,MR Marsh,GJ Maxwell,Imad Wasim,1,0,1,NA,0,NA,NA,NA,1
+1000887,1st innings,Australia,Pakistan,14.5,GJ Maxwell,MR Marsh,Imad Wasim,1,0,1,NA,0,NA,NA,NA,1
+1000887,1st innings,Australia,Pakistan,14.6,MR Marsh,GJ Maxwell,Imad Wasim,0,0,0,NA,0,NA,NA,NA,1
+1000887,1st innings,Australia,Pakistan,15.1,GJ Maxwell,MR Marsh,Wahab Riaz,0,0,0,NA,0,NA,NA,NA,1
+1000887,1st innings,Australia,Pakistan,15.2,GJ Maxwell,MR Marsh,Wahab Riaz,4,0,4,NA,0,NA,NA,NA,1
+1000887,1st innings,Australia,Pakistan,15.3,GJ Maxwell,MR Marsh,Wahab Riaz,0,0,0,NA,0,NA,NA,NA,1
+1000887,1st innings,Australia,Pakistan,15.4,GJ Maxwell,MR Marsh,Wahab Riaz,1,0,1,NA,0,NA,NA,NA,1
+1000887,1st innings,Australia,Pakistan,15.5,MR Marsh,GJ Maxwell,Wahab Riaz,0,0,0,NA,0,NA,NA,NA,1
+1000887,1st innings,Australia,Pakistan,15.6,MR Marsh,GJ Maxwell,Wahab Riaz,0,0,0,NA,0,NA,NA,NA,1
+1000887,1st innings,Australia,Pakistan,16.1,GJ Maxwell,MR Marsh,Imad Wasim,1,0,1,NA,0,NA,NA,NA,1
+1000887,1st innings,Australia,Pakistan,16.2,MR Marsh,GJ Maxwell,Imad Wasim,0,0,0,NA,1,caught,MR Marsh,Mohammad Rizwan,1
+1000887,1st innings,Australia,Pakistan,16.3,MS Wade,GJ Maxwell,Imad Wasim,1,0,1,NA,0,NA,NA,NA,1
+1000887,1st innings,Australia,Pakistan,16.4,GJ Maxwell,MS Wade,Imad Wasim,1,0,1,NA,0,NA,NA,NA,1
+1000887,1st innings,Australia,Pakistan,16.5,MS Wade,GJ Maxwell,Imad Wasim,1,0,1,NA,0,NA,NA,NA,1
+1000887,1st innings,Australia,Pakistan,16.6,GJ Maxwell,MS Wade,Imad Wasim,0,0,0,NA,0,NA,NA,NA,1
+1000887,1st innings,Australia,Pakistan,17.1,MS Wade,GJ Maxwell,Wahab Riaz,1,0,1,NA,0,NA,NA,NA,1
+1000887,1st innings,Australia,Pakistan,17.2,GJ Maxwell,MS Wade,Wahab Riaz,1,0,1,NA,0,NA,NA,NA,1
+1000887,1st innings,Australia,Pakistan,17.3,MS Wade,GJ Maxwell,Wahab Riaz,0,1,1,wides,0,NA,NA,NA,1
+1000887,1st innings,Australia,Pakistan,17.4,MS Wade,GJ Maxwell,Wahab Riaz,0,0,0,NA,0,NA,NA,NA,1
+1000887,1st innings,Australia,Pakistan,17.5,MS Wade,GJ Maxwell,Wahab Riaz,1,0,1,NA,0,NA,NA,NA,1
+1000887,1st innings,Australia,Pakistan,17.6,GJ Maxwell,MS Wade,Wahab Riaz,0,0,0,NA,0,NA,NA,NA,1
+1000887,1st innings,Australia,Pakistan,17.7,GJ Maxwell,MS Wade,Wahab Riaz,1,0,1,NA,0,NA,NA,NA,1
+1000887,1st innings,Australia,Pakistan,18.1,GJ Maxwell,MS Wade,Imad Wasim,1,0,1,NA,0,NA,NA,NA,1
+1000887,1st innings,Australia,Pakistan,18.2,MS Wade,GJ Maxwell,Imad Wasim,0,0,0,NA,0,NA,NA,NA,1
+1000887,1st innings,Australia,Pakistan,18.3,MS Wade,GJ Maxwell,Imad Wasim,0,0,0,NA,0,NA,NA,NA,1
+1000887,1st innings,Australia,Pakistan,18.4,MS Wade,GJ Maxwell,Imad Wasim,1,0,1,NA,0,NA,NA,NA,1
+1000887,1st innings,Australia,Pakistan,18.5,GJ Maxwell,MS Wade,Imad Wasim,0,0,0,NA,0,NA,NA,NA,1
+1000887,1st innings,Australia,Pakistan,18.6,GJ Maxwell,MS Wade,Imad Wasim,0,0,0,NA,0,NA,NA,NA,1
+1000887,1st innings,Australia,Pakistan,19.1,MS Wade,GJ Maxwell,Mohammad Amir,0,0,0,NA,0,NA,NA,NA,1
+1000887,1st innings,Australia,Pakistan,19.2,MS Wade,GJ Maxwell,Mohammad Amir,1,0,1,NA,0,NA,NA,NA,1
+1000887,1st innings,Australia,Pakistan,19.3,GJ Maxwell,MS Wade,Mohammad Amir,1,0,1,NA,0,NA,NA,NA,1
+1000887,1st innings,Australia,Pakistan,19.4,MS Wade,GJ Maxwell,Mohammad Amir,2,0,2,NA,0,NA,NA,NA,1
+1000887,1st innings,Australia,Pakistan,19.5,MS Wade,GJ Maxwell,Mohammad Amir,1,0,1,NA,0,NA,NA,NA,1
+1000887,1st innings,Australia,Pakistan,19.6,GJ Maxwell,MS Wade,Mohammad Amir,1,0,1,NA,0,NA,NA,NA,1
+1000887,1st innings,Australia,Pakistan,20.1,GJ Maxwell,MS Wade,Imad Wasim,1,0,1,NA,0,NA,NA,NA,1
+1000887,1st innings,Australia,Pakistan,20.2,MS Wade,GJ Maxwell,Imad Wasim,0,0,0,NA,0,NA,NA,NA,1
+1000887,1st innings,Australia,Pakistan,20.3,MS Wade,GJ Maxwell,Imad Wasim,0,0,0,NA,0,NA,NA,NA,1
+1000887,1st innings,Australia,Pakistan,20.4,MS Wade,GJ Maxwell,Imad Wasim,1,0,1,NA,0,NA,NA,NA,1
+1000887,1st innings,Australia,Pakistan,20.5,GJ Maxwell,MS Wade,Imad Wasim,0,0,0,NA,0,NA,NA,NA,1
+1000887,1st innings,Australia,Pakistan,20.6,GJ Maxwell,MS Wade,Imad Wasim,2,0,2,NA,0,NA,NA,NA,1
+1000887,1st innings,Australia,Pakistan,21.1,MS Wade,GJ Maxwell,Mohammad Amir,0,0,0,NA,0,NA,NA,NA,1
+1000887,1st innings,Australia,Pakistan,21.2,MS Wade,GJ Maxwell,Mohammad Amir,0,0,0,NA,0,NA,NA,NA,1
+1000887,1st innings,Australia,Pakistan,21.3,MS Wade,GJ Maxwell,Mohammad Amir,4,0,4,NA,0,NA,NA,NA,1
+1000887,1st innings,Australia,Pakistan,21.4,MS Wade,GJ Maxwell,Mohammad Amir,0,0,0,NA,0,NA,NA,NA,1
+1000887,1st innings,Australia,Pakistan,21.5,MS Wade,GJ Maxwell,Mohammad Amir,1,0,1,NA,0,NA,NA,NA,1
+1000887,1st innings,Australia,Pakistan,21.6,GJ Maxwell,MS Wade,Mohammad Amir,2,0,2,NA,0,NA,NA,NA,1
+1000887,1st innings,Australia,Pakistan,22.1,MS Wade,GJ Maxwell,Imad Wasim,0,0,0,NA,0,NA,NA,NA,1
+1000887,1st innings,Australia,Pakistan,22.2,MS Wade,GJ Maxwell,Imad Wasim,0,0,0,NA,0,NA,NA,NA,1
+1000887,1st innings,Australia,Pakistan,22.3,MS Wade,GJ Maxwell,Imad Wasim,1,0,1,NA,0,NA,NA,NA,1
+1000887,1st innings,Australia,Pakistan,22.4,GJ Maxwell,MS Wade,Imad Wasim,0,0,0,NA,0,NA,NA,NA,1
+1000887,1st innings,Australia,Pakistan,22.5,GJ Maxwell,MS Wade,Imad Wasim,1,0,1,NA,0,NA,NA,NA,1
+1000887,1st innings,Australia,Pakistan,22.6,MS Wade,GJ Maxwell,Imad Wasim,0,0,0,NA,0,NA,NA,NA,1
+1000887,1st innings,Australia,Pakistan,23.1,GJ Maxwell,MS Wade,Mohammad Nawaz (3),4,0,4,NA,0,NA,NA,NA,1
+1000887,1st innings,Australia,Pakistan,23.2,GJ Maxwell,MS Wade,Mohammad Nawaz (3),0,0,0,NA,0,NA,NA,NA,1
+1000887,1st innings,Australia,Pakistan,23.3,GJ Maxwell,MS Wade,Mohammad Nawaz (3),1,0,1,NA,0,NA,NA,NA,1
+1000887,1st innings,Australia,Pakistan,23.4,MS Wade,GJ Maxwell,Mohammad Nawaz (3),0,0,0,NA,0,NA,NA,NA,1
+1000887,1st innings,Australia,Pakistan,23.5,MS Wade,GJ Maxwell,Mohammad Nawaz (3),1,0,1,NA,0,NA,NA,NA,1
+1000887,1st innings,Australia,Pakistan,23.6,GJ Maxwell,MS Wade,Mohammad Nawaz (3),0,0,0,NA,0,NA,NA,NA,1
+1000887,1st innings,Australia,Pakistan,24.1,MS Wade,GJ Maxwell,Imad Wasim,0,0,0,NA,0,NA,NA,NA,1
+1000887,1st innings,Australia,Pakistan,24.2,MS Wade,GJ Maxwell,Imad Wasim,1,0,1,NA,0,NA,NA,NA,1
+1000887,1st innings,Australia,Pakistan,24.3,GJ Maxwell,MS Wade,Imad Wasim,4,0,4,NA,0,NA,NA,NA,1
+1000887,1st innings,Australia,Pakistan,24.4,GJ Maxwell,MS Wade,Imad Wasim,2,0,2,NA,0,NA,NA,NA,1
+1000887,1st innings,Australia,Pakistan,24.5,GJ Maxwell,MS Wade,Imad Wasim,0,0,0,NA,0,NA,NA,NA,1
+1000887,1st innings,Australia,Pakistan,24.6,GJ Maxwell,MS Wade,Imad Wasim,4,0,4,NA,0,NA,NA,NA,1
+1000887,1st innings,Australia,Pakistan,25.1,MS Wade,GJ Maxwell,Mohammad Nawaz (3),0,0,0,NA,0,NA,NA,NA,1
+1000887,1st innings,Australia,Pakistan,25.2,MS Wade,GJ Maxwell,Mohammad Nawaz (3),1,0,1,NA,0,NA,NA,NA,1
+1000887,1st innings,Australia,Pakistan,25.3,GJ Maxwell,MS Wade,Mohammad Nawaz (3),0,0,0,NA,0,NA,NA,NA,1
+1000887,1st innings,Australia,Pakistan,25.4,GJ Maxwell,MS Wade,Mohammad Nawaz (3),4,0,4,NA,0,NA,NA,NA,1
+1000887,1st innings,Australia,Pakistan,25.5,GJ Maxwell,MS Wade,Mohammad Nawaz (3),1,0,1,NA,0,NA,NA,NA,1
+1000887,1st innings,Australia,Pakistan,25.6,MS Wade,GJ Maxwell,Mohammad Nawaz (3),0,0,0,NA,0,NA,NA,NA,1
+1000887,1st innings,Australia,Pakistan,26.1,GJ Maxwell,MS Wade,Hasan Ali,1,0,1,NA,0,NA,NA,NA,1
+1000887,1st innings,Australia,Pakistan,26.2,MS Wade,GJ Maxwell,Hasan Ali,1,0,1,NA,0,NA,NA,NA,1
+1000887,1st innings,Australia,Pakistan,26.3,GJ Maxwell,MS Wade,Hasan Ali,1,0,1,NA,0,NA,NA,NA,1
+1000887,1st innings,Australia,Pakistan,26.4,MS Wade,GJ Maxwell,Hasan Ali,2,0,2,NA,0,NA,NA,NA,1
+1000887,1st innings,Australia,Pakistan,26.5,MS Wade,GJ Maxwell,Hasan Ali,0,0,0,NA,0,NA,NA,NA,1
+1000887,1st innings,Australia,Pakistan,26.6,MS Wade,GJ Maxwell,Hasan Ali,0,0,0,NA,0,NA,NA,NA,1
+1000887,1st innings,Australia,Pakistan,27.1,GJ Maxwell,MS Wade,Mohammad Nawaz (3),4,0,4,NA,0,NA,NA,NA,1
+1000887,1st innings,Australia,Pakistan,27.2,GJ Maxwell,MS Wade,Mohammad Nawaz (3),0,0,0,NA,0,NA,NA,NA,1
+1000887,1st innings,Australia,Pakistan,27.3,GJ Maxwell,MS Wade,Mohammad Nawaz (3),1,0,1,NA,0,NA,NA,NA,1
+1000887,1st innings,Australia,Pakistan,27.4,MS Wade,GJ Maxwell,Mohammad Nawaz (3),1,0,1,NA,0,NA,NA,NA,1
+1000887,1st innings,Australia,Pakistan,27.5,GJ Maxwell,MS Wade,Mohammad Nawaz (3),1,0,1,NA,0,NA,NA,NA,1
+1000887,1st innings,Australia,Pakistan,27.6,MS Wade,GJ Maxwell,Mohammad Nawaz (3),2,0,2,NA,0,NA,NA,NA,1
+1000887,1st innings,Australia,Pakistan,28.1,GJ Maxwell,MS Wade,Hasan Ali,1,0,1,NA,0,NA,NA,NA,1
+1000887,1st innings,Australia,Pakistan,28.2,MS Wade,GJ Maxwell,Hasan Ali,1,0,1,NA,0,NA,NA,NA,1
+1000887,1st innings,Australia,Pakistan,28.3,GJ Maxwell,MS Wade,Hasan Ali,1,0,1,NA,0,NA,NA,NA,1
+1000887,1st innings,Australia,Pakistan,28.4,MS Wade,GJ Maxwell,Hasan Ali,1,0,1,NA,0,NA,NA,NA,1
+1000887,1st innings,Australia,Pakistan,28.5,GJ Maxwell,MS Wade,Hasan Ali,1,0,1,NA,0,NA,NA,NA,1
+1000887,1st innings,Australia,Pakistan,28.6,MS Wade,GJ Maxwell,Hasan Ali,0,0,0,NA,0,NA,NA,NA,1
+1000887,1st innings,Australia,Pakistan,29.1,GJ Maxwell,MS Wade,Wahab Riaz,1,0,1,NA,0,NA,NA,NA,1
+1000887,1st innings,Australia,Pakistan,29.2,MS Wade,GJ Maxwell,Wahab Riaz,1,0,1,NA,0,NA,NA,NA,1
+1000887,1st innings,Australia,Pakistan,29.3,GJ Maxwell,MS Wade,Wahab Riaz,0,0,0,NA,0,NA,NA,NA,1
+1000887,1st innings,Australia,Pakistan,29.4,GJ Maxwell,MS Wade,Wahab Riaz,0,1,1,wides,0,NA,NA,NA,1
+1000887,1st innings,Australia,Pakistan,29.5,GJ Maxwell,MS Wade,Wahab Riaz,1,0,1,NA,0,NA,NA,NA,1
+1000887,1st innings,Australia,Pakistan,29.6,MS Wade,GJ Maxwell,Wahab Riaz,0,0,0,NA,0,NA,NA,NA,1
+1000887,1st innings,Australia,Pakistan,29.7,MS Wade,GJ Maxwell,Wahab Riaz,0,0,0,NA,0,NA,NA,NA,1
+1000887,1st innings,Australia,Pakistan,30.1,GJ Maxwell,MS Wade,Hasan Ali,0,0,0,NA,0,NA,NA,NA,1
+1000887,1st innings,Australia,Pakistan,30.2,GJ Maxwell,MS Wade,Hasan Ali,0,1,1,wides,0,NA,NA,NA,1
+1000887,1st innings,Australia,Pakistan,30.3,GJ Maxwell,MS Wade,Hasan Ali,4,0,4,NA,0,NA,NA,NA,1
+1000887,1st innings,Australia,Pakistan,30.4,GJ Maxwell,MS Wade,Hasan Ali,0,0,0,NA,0,NA,NA,NA,1
+1000887,1st innings,Australia,Pakistan,30.5,GJ Maxwell,MS Wade,Hasan Ali,0,0,0,NA,0,NA,NA,NA,1
+1000887,1st innings,Australia,Pakistan,30.6,GJ Maxwell,MS Wade,Hasan Ali,2,0,2,NA,0,NA,NA,NA,1
+1000887,1st innings,Australia,Pakistan,30.7,GJ Maxwell,MS Wade,Hasan Ali,0,0,0,NA,1,caught,GJ Maxwell,Mohammad Hafeez,1
+1000887,1st innings,Australia,Pakistan,31.1,MS Wade,JP Faulkner,Wahab Riaz,0,0,0,NA,0,NA,NA,NA,1
+1000887,1st innings,Australia,Pakistan,31.2,MS Wade,JP Faulkner,Wahab Riaz,1,0,1,NA,0,NA,NA,NA,1
+1000887,1st innings,Australia,Pakistan,31.3,JP Faulkner,MS Wade,Wahab Riaz,0,0,0,NA,0,NA,NA,NA,1
+1000887,1st innings,Australia,Pakistan,31.4,JP Faulkner,MS Wade,Wahab Riaz,0,0,0,NA,0,NA,NA,NA,1
+1000887,1st innings,Australia,Pakistan,31.5,JP Faulkner,MS Wade,Wahab Riaz,0,0,0,NA,0,NA,NA,NA,1
+1000887,1st innings,Australia,Pakistan,31.6,JP Faulkner,MS Wade,Wahab Riaz,2,0,2,NA,0,NA,NA,NA,1
+1000887,1st innings,Australia,Pakistan,32.1,MS Wade,JP Faulkner,Mohammad Hafeez,1,0,1,NA,0,NA,NA,NA,1
+1000887,1st innings,Australia,Pakistan,32.2,JP Faulkner,MS Wade,Mohammad Hafeez,0,1,1,wides,0,NA,NA,NA,1
+1000887,1st innings,Australia,Pakistan,32.3,JP Faulkner,MS Wade,Mohammad Hafeez,1,0,1,NA,0,NA,NA,NA,1
+1000887,1st innings,Australia,Pakistan,32.4,MS Wade,JP Faulkner,Mohammad Hafeez,1,0,1,NA,0,NA,NA,NA,1
+1000887,1st innings,Australia,Pakistan,32.5,JP Faulkner,MS Wade,Mohammad Hafeez,0,0,0,NA,0,NA,NA,NA,1
+1000887,1st innings,Australia,Pakistan,32.6,JP Faulkner,MS Wade,Mohammad Hafeez,0,0,0,NA,0,NA,NA,NA,1
+1000887,1st innings,Australia,Pakistan,32.7,JP Faulkner,MS Wade,Mohammad Hafeez,1,0,1,NA,0,NA,NA,NA,1
+1000887,1st innings,Australia,Pakistan,33.1,JP Faulkner,MS Wade,Mohammad Nawaz (3),0,0,0,NA,0,NA,NA,NA,1
+1000887,1st innings,Australia,Pakistan,33.2,JP Faulkner,MS Wade,Mohammad Nawaz (3),1,0,1,NA,0,NA,NA,NA,1
+1000887,1st innings,Australia,Pakistan,33.3,MS Wade,JP Faulkner,Mohammad Nawaz (3),0,0,0,NA,0,NA,NA,NA,1
+1000887,1st innings,Australia,Pakistan,33.4,MS Wade,JP Faulkner,Mohammad Nawaz (3),1,0,1,NA,0,NA,NA,NA,1
+1000887,1st innings,Australia,Pakistan,33.5,JP Faulkner,MS Wade,Mohammad Nawaz (3),0,0,0,NA,0,NA,NA,NA,1
+1000887,1st innings,Australia,Pakistan,33.6,JP Faulkner,MS Wade,Mohammad Nawaz (3),0,0,0,NA,1,caught,JP Faulkner,Mohammad Hafeez,1
+1000887,1st innings,Australia,Pakistan,34.1,MS Wade,PJ Cummins,Mohammad Hafeez,0,0,0,NA,0,NA,NA,NA,1
+1000887,1st innings,Australia,Pakistan,34.2,MS Wade,PJ Cummins,Mohammad Hafeez,1,0,1,NA,0,NA,NA,NA,1
+1000887,1st innings,Australia,Pakistan,34.3,PJ Cummins,MS Wade,Mohammad Hafeez,1,0,1,NA,0,NA,NA,NA,1
+1000887,1st innings,Australia,Pakistan,34.4,MS Wade,PJ Cummins,Mohammad Hafeez,1,0,1,NA,0,NA,NA,NA,1
+1000887,1st innings,Australia,Pakistan,34.5,PJ Cummins,MS Wade,Mohammad Hafeez,0,0,0,NA,0,NA,NA,NA,1
+1000887,1st innings,Australia,Pakistan,34.6,PJ Cummins,MS Wade,Mohammad Hafeez,0,0,0,NA,0,NA,NA,NA,1
+1000887,1st innings,Australia,Pakistan,35.1,MS Wade,PJ Cummins,Mohammad Nawaz (3),1,0,1,NA,0,NA,NA,NA,1
+1000887,1st innings,Australia,Pakistan,35.2,PJ Cummins,MS Wade,Mohammad Nawaz (3),0,0,0,NA,0,NA,NA,NA,1
+1000887,1st innings,Australia,Pakistan,35.3,PJ Cummins,MS Wade,Mohammad Nawaz (3),0,0,0,NA,0,NA,NA,NA,1
+1000887,1st innings,Australia,Pakistan,35.4,PJ Cummins,MS Wade,Mohammad Nawaz (3),0,0,0,NA,0,NA,NA,NA,1
+1000887,1st innings,Australia,Pakistan,35.5,PJ Cummins,MS Wade,Mohammad Nawaz (3),0,0,0,NA,0,NA,NA,NA,1
+1000887,1st innings,Australia,Pakistan,35.6,PJ Cummins,MS Wade,Mohammad Nawaz (3),1,0,1,NA,0,NA,NA,NA,1
+1000887,1st innings,Australia,Pakistan,36.1,PJ Cummins,MS Wade,Mohammad Hafeez,1,0,1,NA,0,NA,NA,NA,1
+1000887,1st innings,Australia,Pakistan,36.2,MS Wade,PJ Cummins,Mohammad Hafeez,0,0,0,NA,0,NA,NA,NA,1
+1000887,1st innings,Australia,Pakistan,36.3,MS Wade,PJ Cummins,Mohammad Hafeez,0,0,0,NA,0,NA,NA,NA,1
+1000887,1st innings,Australia,Pakistan,36.4,MS Wade,PJ Cummins,Mohammad Hafeez,1,0,1,NA,0,NA,NA,NA,1
+1000887,1st innings,Australia,Pakistan,36.5,PJ Cummins,MS Wade,Mohammad Hafeez,0,0,0,NA,0,NA,NA,NA,1
+1000887,1st innings,Australia,Pakistan,36.6,PJ Cummins,MS Wade,Mohammad Hafeez,0,0,0,NA,0,NA,NA,NA,1
+1000887,1st innings,Australia,Pakistan,37.1,MS Wade,PJ Cummins,Mohammad Nawaz (3),1,0,1,NA,0,NA,NA,NA,1
+1000887,1st innings,Australia,Pakistan,37.2,PJ Cummins,MS Wade,Mohammad Nawaz (3),1,0,1,NA,0,NA,NA,NA,1
+1000887,1st innings,Australia,Pakistan,37.3,MS Wade,PJ Cummins,Mohammad Nawaz (3),1,0,1,NA,0,NA,NA,NA,1
+1000887,1st innings,Australia,Pakistan,37.4,PJ Cummins,MS Wade,Mohammad Nawaz (3),0,0,0,NA,0,NA,NA,NA,1
+1000887,1st innings,Australia,Pakistan,37.5,PJ Cummins,MS Wade,Mohammad Nawaz (3),2,0,2,NA,0,NA,NA,NA,1
+1000887,1st innings,Australia,Pakistan,37.6,PJ Cummins,MS Wade,Mohammad Nawaz (3),1,0,1,NA,0,NA,NA,NA,1
+1000887,1st innings,Australia,Pakistan,38.1,PJ Cummins,MS Wade,Imad Wasim,0,0,0,NA,0,NA,NA,NA,1
+1000887,1st innings,Australia,Pakistan,38.2,PJ Cummins,MS Wade,Imad Wasim,0,1,1,legbyes,0,NA,NA,NA,1
+1000887,1st innings,Australia,Pakistan,38.3,MS Wade,PJ Cummins,Imad Wasim,1,0,1,NA,0,NA,NA,NA,1
+1000887,1st innings,Australia,Pakistan,38.4,PJ Cummins,MS Wade,Imad Wasim,1,0,1,NA,0,NA,NA,NA,1
+1000887,1st innings,Australia,Pakistan,38.5,MS Wade,PJ Cummins,Imad Wasim,1,0,1,NA,0,NA,NA,NA,1
+1000887,1st innings,Australia,Pakistan,38.6,PJ Cummins,MS Wade,Imad Wasim,2,0,2,NA,0,NA,NA,NA,1
+1000887,1st innings,Australia,Pakistan,39.1,MS Wade,PJ Cummins,Mohammad Nawaz (3),2,0,2,NA,0,NA,NA,NA,1
+1000887,1st innings,Australia,Pakistan,39.2,MS Wade,PJ Cummins,Mohammad Nawaz (3),0,0,0,NA,0,NA,NA,NA,1
+1000887,1st innings,Australia,Pakistan,39.3,MS Wade,PJ Cummins,Mohammad Nawaz (3),1,0,1,NA,0,NA,NA,NA,1
+1000887,1st innings,Australia,Pakistan,39.4,PJ Cummins,MS Wade,Mohammad Nawaz (3),0,0,0,NA,0,NA,NA,NA,1
+1000887,1st innings,Australia,Pakistan,39.5,PJ Cummins,MS Wade,Mohammad Nawaz (3),0,0,0,NA,0,NA,NA,NA,1
+1000887,1st innings,Australia,Pakistan,39.6,PJ Cummins,MS Wade,Mohammad Nawaz (3),1,0,1,NA,0,NA,NA,NA,1
+1000887,1st innings,Australia,Pakistan,40.1,PJ Cummins,MS Wade,Imad Wasim,1,0,1,NA,0,NA,NA,NA,1
+1000887,1st innings,Australia,Pakistan,40.2,MS Wade,PJ Cummins,Imad Wasim,1,0,1,NA,0,NA,NA,NA,1
+1000887,1st innings,Australia,Pakistan,40.3,PJ Cummins,MS Wade,Imad Wasim,0,0,0,NA,0,NA,NA,NA,1
+1000887,1st innings,Australia,Pakistan,40.4,PJ Cummins,MS Wade,Imad Wasim,0,0,0,NA,0,NA,NA,NA,1
+1000887,1st innings,Australia,Pakistan,40.5,PJ Cummins,MS Wade,Imad Wasim,0,0,0,NA,0,NA,NA,NA,1
+1000887,1st innings,Australia,Pakistan,40.6,PJ Cummins,MS Wade,Imad Wasim,0,0,0,NA,0,NA,NA,NA,1
+1000887,1st innings,Australia,Pakistan,41.1,MS Wade,PJ Cummins,Mohammad Nawaz (3),6,0,6,NA,0,NA,NA,NA,1
+1000887,1st innings,Australia,Pakistan,41.2,MS Wade,PJ Cummins,Mohammad Nawaz (3),2,0,2,NA,0,NA,NA,NA,1
+1000887,1st innings,Australia,Pakistan,41.3,MS Wade,PJ Cummins,Mohammad Nawaz (3),2,0,2,NA,0,NA,NA,NA,1
+1000887,1st innings,Australia,Pakistan,41.4,MS Wade,PJ Cummins,Mohammad Nawaz (3),1,0,1,NA,0,NA,NA,NA,1
+1000887,1st innings,Australia,Pakistan,41.5,PJ Cummins,MS Wade,Mohammad Nawaz (3),1,0,1,NA,0,NA,NA,NA,1
+1000887,1st innings,Australia,Pakistan,41.6,MS Wade,PJ Cummins,Mohammad Nawaz (3),1,0,1,NA,0,NA,NA,NA,1
+1000887,1st innings,Australia,Pakistan,42.1,MS Wade,PJ Cummins,Mohammad Amir,1,0,1,NA,0,NA,NA,NA,1
+1000887,1st innings,Australia,Pakistan,42.2,PJ Cummins,MS Wade,Mohammad Amir,0,0,0,NA,0,NA,NA,NA,1
+1000887,1st innings,Australia,Pakistan,42.3,PJ Cummins,MS Wade,Mohammad Amir,2,0,2,NA,0,NA,NA,NA,1
+1000887,1st innings,Australia,Pakistan,42.4,PJ Cummins,MS Wade,Mohammad Amir,0,0,0,NA,0,NA,NA,NA,1
+1000887,1st innings,Australia,Pakistan,42.5,PJ Cummins,MS Wade,Mohammad Amir,0,1,1,wides,0,NA,NA,NA,1
+1000887,1st innings,Australia,Pakistan,42.6,PJ Cummins,MS Wade,Mohammad Amir,0,0,0,NA,1,run out,PJ Cummins,Umar Akmal,1
+1000887,1st innings,Australia,Pakistan,42.7,MS Wade,MA Starc,Mohammad Amir,1,0,1,NA,0,NA,NA,NA,1
+1000887,1st innings,Australia,Pakistan,43.1,MS Wade,MA Starc,Wahab Riaz,0,1,1,noballs,0,NA,NA,NA,1
+1000887,1st innings,Australia,Pakistan,43.2,MS Wade,MA Starc,Wahab Riaz,4,0,4,NA,0,NA,NA,NA,1
+1000887,1st innings,Australia,Pakistan,43.3,MS Wade,MA Starc,Wahab Riaz,0,0,0,NA,0,NA,NA,NA,1
+1000887,1st innings,Australia,Pakistan,43.4,MS Wade,MA Starc,Wahab Riaz,0,0,0,NA,0,NA,NA,NA,1
+1000887,1st innings,Australia,Pakistan,43.5,MS Wade,MA Starc,Wahab Riaz,4,0,4,NA,0,NA,NA,NA,1
+1000887,1st innings,Australia,Pakistan,43.6,MS Wade,MA Starc,Wahab Riaz,1,0,1,NA,0,NA,NA,NA,1
+1000887,1st innings,Australia,Pakistan,43.7,MA Starc,MS Wade,Wahab Riaz,1,0,1,NA,0,NA,NA,NA,1
+1000887,1st innings,Australia,Pakistan,44.1,MA Starc,MS Wade,Mohammad Amir,0,0,0,NA,0,NA,NA,NA,1
+1000887,1st innings,Australia,Pakistan,44.2,MA Starc,MS Wade,Mohammad Amir,1,0,1,NA,0,NA,NA,NA,1
+1000887,1st innings,Australia,Pakistan,44.3,MS Wade,MA Starc,Mohammad Amir,0,0,0,NA,0,NA,NA,NA,1
+1000887,1st innings,Australia,Pakistan,44.4,MS Wade,MA Starc,Mohammad Amir,1,0,1,NA,0,NA,NA,NA,1
+1000887,1st innings,Australia,Pakistan,44.5,MA Starc,MS Wade,Mohammad Amir,6,0,6,NA,0,NA,NA,NA,1
+1000887,1st innings,Australia,Pakistan,44.6,MA Starc,MS Wade,Mohammad Amir,1,0,1,NA,0,NA,NA,NA,1
+1000887,1st innings,Australia,Pakistan,45.1,MA Starc,MS Wade,Hasan Ali,1,0,1,NA,0,NA,NA,NA,1
+1000887,1st innings,Australia,Pakistan,45.2,MS Wade,MA Starc,Hasan Ali,1,0,1,NA,0,NA,NA,NA,1
+1000887,1st innings,Australia,Pakistan,45.3,MA Starc,MS Wade,Hasan Ali,0,0,0,NA,0,NA,NA,NA,1
+1000887,1st innings,Australia,Pakistan,45.4,MA Starc,MS Wade,Hasan Ali,0,0,0,NA,1,bowled,MA Starc,NA,1
+1000887,1st innings,Australia,Pakistan,45.5,B Stanlake,MS Wade,Hasan Ali,0,0,0,NA,0,NA,NA,NA,1
+1000887,1st innings,Australia,Pakistan,45.6,B Stanlake,MS Wade,Hasan Ali,0,0,0,NA,0,NA,NA,NA,1
+1000887,1st innings,Australia,Pakistan,46.1,MS Wade,B Stanlake,Mohammad Amir,0,0,0,NA,0,NA,NA,NA,1
+1000887,1st innings,Australia,Pakistan,46.2,MS Wade,B Stanlake,Mohammad Amir,1,0,1,NA,0,NA,NA,NA,1
+1000887,1st innings,Australia,Pakistan,46.3,B Stanlake,MS Wade,Mohammad Amir,1,0,1,NA,0,NA,NA,NA,1
+1000887,1st innings,Australia,Pakistan,46.4,MS Wade,B Stanlake,Mohammad Amir,6,0,6,NA,0,NA,NA,NA,1
+1000887,1st innings,Australia,Pakistan,46.5,MS Wade,B Stanlake,Mohammad Amir,1,0,1,NA,0,NA,NA,NA,1
+1000887,1st innings,Australia,Pakistan,46.6,B Stanlake,MS Wade,Mohammad Amir,0,0,0,NA,0,NA,NA,NA,1
+1000887,1st innings,Australia,Pakistan,47.1,MS Wade,B Stanlake,Hasan Ali,4,0,4,NA,0,NA,NA,NA,1
+1000887,1st innings,Australia,Pakistan,47.2,MS Wade,B Stanlake,Hasan Ali,0,0,0,NA,0,NA,NA,NA,1
+1000887,1st innings,Australia,Pakistan,47.3,MS Wade,B Stanlake,Hasan Ali,4,0,4,NA,0,NA,NA,NA,1
+1000887,1st innings,Australia,Pakistan,47.4,MS Wade,B Stanlake,Hasan Ali,1,0,1,NA,0,NA,NA,NA,1
+1000887,1st innings,Australia,Pakistan,47.5,B Stanlake,MS Wade,Hasan Ali,0,0,0,NA,0,NA,NA,NA,1
+1000887,1st innings,Australia,Pakistan,47.6,B Stanlake,MS Wade,Hasan Ali,0,0,0,NA,0,NA,NA,NA,1
+1000887,1st innings,Australia,Pakistan,48.1,MS Wade,B Stanlake,Mohammad Amir,0,0,0,NA,0,NA,NA,NA,1
+1000887,1st innings,Australia,Pakistan,48.2,MS Wade,B Stanlake,Mohammad Amir,4,0,4,NA,0,NA,NA,NA,1
+1000887,1st innings,Australia,Pakistan,48.3,MS Wade,B Stanlake,Mohammad Amir,0,1,1,wides,0,NA,NA,NA,1
+1000887,1st innings,Australia,Pakistan,48.4,MS Wade,B Stanlake,Mohammad Amir,0,0,0,NA,0,NA,NA,NA,1
+1000887,1st innings,Australia,Pakistan,48.5,MS Wade,B Stanlake,Mohammad Amir,0,0,0,NA,0,NA,NA,NA,1
+1000887,1st innings,Australia,Pakistan,48.6,MS Wade,B Stanlake,Mohammad Amir,2,0,2,NA,0,NA,NA,NA,1
+1000887,1st innings,Australia,Pakistan,48.7,MS Wade,B Stanlake,Mohammad Amir,1,0,1,NA,0,NA,NA,NA,1
+1000887,1st innings,Australia,Pakistan,49.1,MS Wade,B Stanlake,Hasan Ali,0,0,0,NA,0,NA,NA,NA,1
+1000887,1st innings,Australia,Pakistan,49.2,MS Wade,B Stanlake,Hasan Ali,4,0,4,NA,0,NA,NA,NA,1
+1000887,1st innings,Australia,Pakistan,49.3,MS Wade,B Stanlake,Hasan Ali,0,0,0,NA,0,NA,NA,NA,1
+1000887,1st innings,Australia,Pakistan,49.4,MS Wade,B Stanlake,Hasan Ali,0,0,0,NA,0,NA,NA,NA,1
+1000887,1st innings,Australia,Pakistan,49.5,MS Wade,B Stanlake,Hasan Ali,2,0,2,NA,0,NA,NA,NA,1
+1000887,1st innings,Australia,Pakistan,49.6,MS Wade,B Stanlake,Hasan Ali,1,0,1,NA,0,NA,NA,NA,1
+1000887,2nd innings,Pakistan,Australia,0.1,Azhar Ali,Sharjeel Khan,MA Starc,0,0,0,NA,0,NA,NA,NA,0
+1000887,2nd innings,Pakistan,Australia,0.2,Azhar Ali,Sharjeel Khan,MA Starc,0,0,0,NA,0,NA,NA,NA,0
+1000887,2nd innings,Pakistan,Australia,0.3,Azhar Ali,Sharjeel Khan,MA Starc,0,0,0,NA,0,NA,NA,NA,0
+1000887,2nd innings,Pakistan,Australia,0.4,Azhar Ali,Sharjeel Khan,MA Starc,1,0,1,NA,0,NA,NA,NA,0
+1000887,2nd innings,Pakistan,Australia,0.5,Sharjeel Khan,Azhar Ali,MA Starc,0,0,0,NA,0,NA,NA,NA,0
+1000887,2nd innings,Pakistan,Australia,0.6,Sharjeel Khan,Azhar Ali,MA Starc,0,0,0,NA,0,NA,NA,NA,0
+1000887,2nd innings,Pakistan,Australia,1.1,Azhar Ali,Sharjeel Khan,B Stanlake,0,0,0,NA,0,NA,NA,NA,0
+1000887,2nd innings,Pakistan,Australia,1.2,Azhar Ali,Sharjeel Khan,B Stanlake,0,0,0,NA,0,NA,NA,NA,0
+1000887,2nd innings,Pakistan,Australia,1.3,Azhar Ali,Sharjeel Khan,B Stanlake,0,0,0,NA,0,NA,NA,NA,0
+1000887,2nd innings,Pakistan,Australia,1.4,Azhar Ali,Sharjeel Khan,B Stanlake,0,0,0,NA,0,NA,NA,NA,0
+1000887,2nd innings,Pakistan,Australia,1.5,Azhar Ali,Sharjeel Khan,B Stanlake,0,0,0,NA,0,NA,NA,NA,0
+1000887,2nd innings,Pakistan,Australia,1.6,Azhar Ali,Sharjeel Khan,B Stanlake,1,0,1,NA,0,NA,NA,NA,0
+1000887,2nd innings,Pakistan,Australia,2.1,Azhar Ali,Sharjeel Khan,MA Starc,0,0,0,NA,0,NA,NA,NA,0
+1000887,2nd innings,Pakistan,Australia,2.2,Azhar Ali,Sharjeel Khan,MA Starc,2,0,2,NA,0,NA,NA,NA,0
+1000887,2nd innings,Pakistan,Australia,2.3,Azhar Ali,Sharjeel Khan,MA Starc,0,1,1,wides,0,NA,NA,NA,0
+1000887,2nd innings,Pakistan,Australia,2.4,Azhar Ali,Sharjeel Khan,MA Starc,0,0,0,NA,0,NA,NA,NA,0
+1000887,2nd innings,Pakistan,Australia,2.5,Azhar Ali,Sharjeel Khan,MA Starc,2,0,2,NA,0,NA,NA,NA,0
+1000887,2nd innings,Pakistan,Australia,2.6,Azhar Ali,Sharjeel Khan,MA Starc,0,4,4,byes,0,NA,NA,NA,0
+1000887,2nd innings,Pakistan,Australia,2.7,Azhar Ali,Sharjeel Khan,MA Starc,0,0,0,NA,0,NA,NA,NA,0
+1000887,2nd innings,Pakistan,Australia,3.1,Sharjeel Khan,Azhar Ali,B Stanlake,0,0,0,NA,0,NA,NA,NA,0
+1000887,2nd innings,Pakistan,Australia,3.2,Sharjeel Khan,Azhar Ali,B Stanlake,0,0,0,NA,0,NA,NA,NA,0
+1000887,2nd innings,Pakistan,Australia,3.3,Sharjeel Khan,Azhar Ali,B Stanlake,0,1,1,wides,0,NA,NA,NA,0
+1000887,2nd innings,Pakistan,Australia,3.4,Sharjeel Khan,Azhar Ali,B Stanlake,0,0,0,NA,0,NA,NA,NA,0
+1000887,2nd innings,Pakistan,Australia,3.5,Sharjeel Khan,Azhar Ali,B Stanlake,0,0,0,NA,0,NA,NA,NA,0
+1000887,2nd innings,Pakistan,Australia,3.6,Sharjeel Khan,Azhar Ali,B Stanlake,1,0,1,NA,0,NA,NA,NA,0
+1000887,2nd innings,Pakistan,Australia,3.7,Azhar Ali,Sharjeel Khan,B Stanlake,0,0,0,NA,0,NA,NA,NA,0
+1000887,2nd innings,Pakistan,Australia,4.1,Sharjeel Khan,Azhar Ali,MA Starc,0,0,0,NA,0,NA,NA,NA,0
+1000887,2nd innings,Pakistan,Australia,4.2,Sharjeel Khan,Azhar Ali,MA Starc,0,0,0,NA,0,NA,NA,NA,0
+1000887,2nd innings,Pakistan,Australia,4.3,Sharjeel Khan,Azhar Ali,MA Starc,2,0,2,NA,0,NA,NA,NA,0
+1000887,2nd innings,Pakistan,Australia,4.4,Sharjeel Khan,Azhar Ali,MA Starc,2,0,2,NA,0,NA,NA,NA,0
+1000887,2nd innings,Pakistan,Australia,4.5,Sharjeel Khan,Azhar Ali,MA Starc,0,0,0,NA,0,NA,NA,NA,0
+1000887,2nd innings,Pakistan,Australia,4.6,Sharjeel Khan,Azhar Ali,MA Starc,1,0,1,NA,0,NA,NA,NA,0
+1000887,2nd innings,Pakistan,Australia,5.1,Sharjeel Khan,Azhar Ali,B Stanlake,6,0,6,NA,0,NA,NA,NA,0
+1000887,2nd innings,Pakistan,Australia,5.2,Sharjeel Khan,Azhar Ali,B Stanlake,1,0,1,NA,0,NA,NA,NA,0
+1000887,2nd innings,Pakistan,Australia,5.3,Azhar Ali,Sharjeel Khan,B Stanlake,3,0,3,NA,0,NA,NA,NA,0
+1000887,2nd innings,Pakistan,Australia,5.4,Sharjeel Khan,Azhar Ali,B Stanlake,0,1,1,legbyes,0,NA,NA,NA,0
+1000887,2nd innings,Pakistan,Australia,5.5,Azhar Ali,Sharjeel Khan,B Stanlake,0,0,0,NA,0,NA,NA,NA,0
+1000887,2nd innings,Pakistan,Australia,5.6,Azhar Ali,Sharjeel Khan,B Stanlake,0,0,0,NA,0,NA,NA,NA,0
+1000887,2nd innings,Pakistan,Australia,6.1,Sharjeel Khan,Azhar Ali,JP Faulkner,0,0,0,NA,0,NA,NA,NA,0
+1000887,2nd innings,Pakistan,Australia,6.2,Sharjeel Khan,Azhar Ali,JP Faulkner,1,0,1,NA,0,NA,NA,NA,0
+1000887,2nd innings,Pakistan,Australia,6.3,Azhar Ali,Sharjeel Khan,JP Faulkner,1,0,1,NA,0,NA,NA,NA,0
+1000887,2nd innings,Pakistan,Australia,6.4,Sharjeel Khan,Azhar Ali,JP Faulkner,4,0,4,NA,0,NA,NA,NA,0
+1000887,2nd innings,Pakistan,Australia,6.5,Sharjeel Khan,Azhar Ali,JP Faulkner,0,0,0,NA,0,NA,NA,NA,0
+1000887,2nd innings,Pakistan,Australia,6.6,Sharjeel Khan,Azhar Ali,JP Faulkner,0,0,0,NA,0,NA,NA,NA,0
+1000887,2nd innings,Pakistan,Australia,7.1,Azhar Ali,Sharjeel Khan,PJ Cummins,0,0,0,NA,0,NA,NA,NA,0
+1000887,2nd innings,Pakistan,Australia,7.2,Azhar Ali,Sharjeel Khan,PJ Cummins,0,0,0,NA,0,NA,NA,NA,0
+1000887,2nd innings,Pakistan,Australia,7.3,Azhar Ali,Sharjeel Khan,PJ Cummins,0,1,1,wides,0,NA,NA,NA,0
+1000887,2nd innings,Pakistan,Australia,7.4,Azhar Ali,Sharjeel Khan,PJ Cummins,2,0,2,NA,0,NA,NA,NA,0
+1000887,2nd innings,Pakistan,Australia,7.5,Azhar Ali,Sharjeel Khan,PJ Cummins,0,0,0,NA,0,NA,NA,NA,0
+1000887,2nd innings,Pakistan,Australia,7.6,Azhar Ali,Sharjeel Khan,PJ Cummins,0,0,0,NA,0,NA,NA,NA,0
+1000887,2nd innings,Pakistan,Australia,7.7,Azhar Ali,Sharjeel Khan,PJ Cummins,0,0,0,NA,0,NA,NA,NA,0
+1000887,2nd innings,Pakistan,Australia,8.1,Sharjeel Khan,Azhar Ali,JP Faulkner,0,0,0,NA,1,caught,Sharjeel Khan,GJ Maxwell,0
+1000887,2nd innings,Pakistan,Australia,8.2,Mohammad Hafeez,Azhar Ali,JP Faulkner,0,0,0,NA,0,NA,NA,NA,0
+1000887,2nd innings,Pakistan,Australia,8.3,Mohammad Hafeez,Azhar Ali,JP Faulkner,0,0,0,NA,0,NA,NA,NA,0
+1000887,2nd innings,Pakistan,Australia,8.4,Mohammad Hafeez,Azhar Ali,JP Faulkner,1,0,1,NA,0,NA,NA,NA,0
+1000887,2nd innings,Pakistan,Australia,8.5,Babar Azam,Mohammad Hafeez,JP Faulkner,0,0,0,NA,0,NA,NA,NA,0
+1000887,2nd innings,Pakistan,Australia,8.6,Babar Azam,Mohammad Hafeez,JP Faulkner,0,0,0,NA,0,NA,NA,NA,0
+1000887,2nd innings,Pakistan,Australia,9.1,Mohammad Hafeez,Babar Azam,PJ Cummins,0,0,0,NA,0,NA,NA,NA,0
+1000887,2nd innings,Pakistan,Australia,9.2,Mohammad Hafeez,Babar Azam,PJ Cummins,0,0,0,NA,0,NA,NA,NA,0
+1000887,2nd innings,Pakistan,Australia,9.3,Mohammad Hafeez,Babar Azam,PJ Cummins,0,1,1,wides,0,NA,NA,NA,0
+1000887,2nd innings,Pakistan,Australia,9.4,Mohammad Hafeez,Babar Azam,PJ Cummins,3,0,3,NA,0,NA,NA,NA,0
+1000887,2nd innings,Pakistan,Australia,9.5,Babar Azam,Mohammad Hafeez,PJ Cummins,4,0,4,NA,0,NA,NA,NA,0
+1000887,2nd innings,Pakistan,Australia,9.6,Babar Azam,Mohammad Hafeez,PJ Cummins,0,0,0,NA,0,NA,NA,NA,0
+1000887,2nd innings,Pakistan,Australia,9.7,Babar Azam,Mohammad Hafeez,PJ Cummins,0,0,0,NA,0,NA,NA,NA,0
+1000887,2nd innings,Pakistan,Australia,10.1,Mohammad Hafeez,Babar Azam,JP Faulkner,0,0,0,NA,1,caught,Mohammad Hafeez,MS Wade,0
+1000887,2nd innings,Pakistan,Australia,10.2,Umar Akmal,Babar Azam,JP Faulkner,0,0,0,NA,0,NA,NA,NA,0
+1000887,2nd innings,Pakistan,Australia,10.3,Umar Akmal,Babar Azam,JP Faulkner,0,0,0,NA,0,NA,NA,NA,0
+1000887,2nd innings,Pakistan,Australia,10.4,Umar Akmal,Babar Azam,JP Faulkner,0,0,0,NA,0,NA,NA,NA,0
+1000887,2nd innings,Pakistan,Australia,10.5,Umar Akmal,Babar Azam,JP Faulkner,0,0,0,NA,0,NA,NA,NA,0
+1000887,2nd innings,Pakistan,Australia,10.6,Umar Akmal,Babar Azam,JP Faulkner,0,0,0,NA,0,NA,NA,NA,0
+1000887,2nd innings,Pakistan,Australia,11.1,Babar Azam,Umar Akmal,PJ Cummins,0,0,0,NA,0,NA,NA,NA,0
+1000887,2nd innings,Pakistan,Australia,11.2,Babar Azam,Umar Akmal,PJ Cummins,3,0,3,NA,0,NA,NA,NA,0
+1000887,2nd innings,Pakistan,Australia,11.3,Umar Akmal,Babar Azam,PJ Cummins,0,0,0,NA,0,NA,NA,NA,0
+1000887,2nd innings,Pakistan,Australia,11.4,Umar Akmal,Babar Azam,PJ Cummins,0,0,0,NA,0,NA,NA,NA,0
+1000887,2nd innings,Pakistan,Australia,11.5,Umar Akmal,Babar Azam,PJ Cummins,0,0,0,NA,0,NA,NA,NA,0
+1000887,2nd innings,Pakistan,Australia,11.6,Umar Akmal,Babar Azam,PJ Cummins,0,0,0,NA,0,NA,NA,NA,0
+1000887,2nd innings,Pakistan,Australia,12.1,Babar Azam,Umar Akmal,JP Faulkner,4,0,4,NA,0,NA,NA,NA,0
+1000887,2nd innings,Pakistan,Australia,12.2,Babar Azam,Umar Akmal,JP Faulkner,0,0,0,NA,0,NA,NA,NA,0
+1000887,2nd innings,Pakistan,Australia,12.3,Babar Azam,Umar Akmal,JP Faulkner,0,0,0,NA,0,NA,NA,NA,0
+1000887,2nd innings,Pakistan,Australia,12.4,Babar Azam,Umar Akmal,JP Faulkner,3,0,3,NA,0,NA,NA,NA,0
+1000887,2nd innings,Pakistan,Australia,12.5,Umar Akmal,Babar Azam,JP Faulkner,4,0,4,NA,0,NA,NA,NA,0
+1000887,2nd innings,Pakistan,Australia,12.6,Umar Akmal,Babar Azam,JP Faulkner,0,2,2,legbyes,0,NA,NA,NA,0
+1000887,2nd innings,Pakistan,Australia,13.1,Babar Azam,Umar Akmal,PJ Cummins,1,0,1,NA,0,NA,NA,NA,0
+1000887,2nd innings,Pakistan,Australia,13.2,Umar Akmal,Babar Azam,PJ Cummins,0,0,0,NA,0,NA,NA,NA,0
+1000887,2nd innings,Pakistan,Australia,13.3,Umar Akmal,Babar Azam,PJ Cummins,1,0,1,NA,0,NA,NA,NA,0
+1000887,2nd innings,Pakistan,Australia,13.4,Babar Azam,Umar Akmal,PJ Cummins,0,0,0,NA,0,NA,NA,NA,0
+1000887,2nd innings,Pakistan,Australia,13.5,Babar Azam,Umar Akmal,PJ Cummins,0,0,0,NA,0,NA,NA,NA,0
+1000887,2nd innings,Pakistan,Australia,13.6,Babar Azam,Umar Akmal,PJ Cummins,0,0,0,NA,0,NA,NA,NA,0
+1000887,2nd innings,Pakistan,Australia,14.1,Umar Akmal,Babar Azam,MA Starc,0,0,0,NA,0,NA,NA,NA,0
+1000887,2nd innings,Pakistan,Australia,14.2,Umar Akmal,Babar Azam,MA Starc,0,0,0,NA,0,NA,NA,NA,0
+1000887,2nd innings,Pakistan,Australia,14.3,Umar Akmal,Babar Azam,MA Starc,4,0,4,NA,0,NA,NA,NA,0
+1000887,2nd innings,Pakistan,Australia,14.4,Umar Akmal,Babar Azam,MA Starc,0,0,0,NA,0,NA,NA,NA,0
+1000887,2nd innings,Pakistan,Australia,14.5,Umar Akmal,Babar Azam,MA Starc,2,0,2,NA,0,NA,NA,NA,0
+1000887,2nd innings,Pakistan,Australia,14.6,Umar Akmal,Babar Azam,MA Starc,0,0,0,NA,0,NA,NA,NA,0
+1000887,2nd innings,Pakistan,Australia,15.1,Babar Azam,Umar Akmal,TM Head,0,0,0,NA,0,NA,NA,NA,0
+1000887,2nd innings,Pakistan,Australia,15.2,Babar Azam,Umar Akmal,TM Head,0,0,0,NA,0,NA,NA,NA,0
+1000887,2nd innings,Pakistan,Australia,15.3,Babar Azam,Umar Akmal,TM Head,0,0,0,NA,0,NA,NA,NA,0
+1000887,2nd innings,Pakistan,Australia,15.4,Babar Azam,Umar Akmal,TM Head,1,0,1,NA,0,NA,NA,NA,0
+1000887,2nd innings,Pakistan,Australia,15.5,Umar Akmal,Babar Azam,TM Head,0,0,0,NA,0,NA,NA,NA,0
+1000887,2nd innings,Pakistan,Australia,15.6,Umar Akmal,Babar Azam,TM Head,1,0,1,NA,0,NA,NA,NA,0
+1000887,2nd innings,Pakistan,Australia,16.1,Umar Akmal,Babar Azam,MA Starc,0,0,0,NA,0,NA,NA,NA,0
+1000887,2nd innings,Pakistan,Australia,16.2,Umar Akmal,Babar Azam,MA Starc,4,0,4,NA,0,NA,NA,NA,0
+1000887,2nd innings,Pakistan,Australia,16.3,Umar Akmal,Babar Azam,MA Starc,1,0,1,NA,0,NA,NA,NA,0
+1000887,2nd innings,Pakistan,Australia,16.4,Babar Azam,Umar Akmal,MA Starc,1,0,1,NA,0,NA,NA,NA,0
+1000887,2nd innings,Pakistan,Australia,16.5,Umar Akmal,Babar Azam,MA Starc,0,0,0,NA,1,caught,Umar Akmal,TM Head,0
+1000887,2nd innings,Pakistan,Australia,16.6,Mohammad Rizwan,Babar Azam,MA Starc,0,0,0,NA,0,NA,NA,NA,0
+1000887,2nd innings,Pakistan,Australia,17.1,Babar Azam,Mohammad Rizwan,TM Head,0,0,0,NA,0,NA,NA,NA,0
+1000887,2nd innings,Pakistan,Australia,17.2,Babar Azam,Mohammad Rizwan,TM Head,1,0,1,NA,0,NA,NA,NA,0
+1000887,2nd innings,Pakistan,Australia,17.3,Mohammad Rizwan,Babar Azam,TM Head,1,0,1,NA,0,NA,NA,NA,0
+1000887,2nd innings,Pakistan,Australia,17.4,Babar Azam,Mohammad Rizwan,TM Head,0,0,0,NA,0,NA,NA,NA,0
+1000887,2nd innings,Pakistan,Australia,17.5,Babar Azam,Mohammad Rizwan,TM Head,0,0,0,NA,0,NA,NA,NA,0
+1000887,2nd innings,Pakistan,Australia,17.6,Babar Azam,Mohammad Rizwan,TM Head,0,0,0,NA,0,NA,NA,NA,0
+1000887,2nd innings,Pakistan,Australia,18.1,Mohammad Rizwan,Babar Azam,MA Starc,1,0,1,NA,0,NA,NA,NA,0
+1000887,2nd innings,Pakistan,Australia,18.2,Babar Azam,Mohammad Rizwan,MA Starc,0,0,0,NA,0,NA,NA,NA,0
+1000887,2nd innings,Pakistan,Australia,18.3,Babar Azam,Mohammad Rizwan,MA Starc,4,0,4,NA,0,NA,NA,NA,0
+1000887,2nd innings,Pakistan,Australia,18.4,Babar Azam,Mohammad Rizwan,MA Starc,0,0,0,NA,0,NA,NA,NA,0
+1000887,2nd innings,Pakistan,Australia,18.5,Babar Azam,Mohammad Rizwan,MA Starc,0,0,0,NA,0,NA,NA,NA,0
+1000887,2nd innings,Pakistan,Australia,18.6,Babar Azam,Mohammad Rizwan,MA Starc,0,0,0,NA,0,NA,NA,NA,0
+1000887,2nd innings,Pakistan,Australia,19.1,Mohammad Rizwan,Babar Azam,TM Head,2,0,2,NA,0,NA,NA,NA,0
+1000887,2nd innings,Pakistan,Australia,19.2,Mohammad Rizwan,Babar Azam,TM Head,0,0,0,NA,0,NA,NA,NA,0
+1000887,2nd innings,Pakistan,Australia,19.3,Mohammad Rizwan,Babar Azam,TM Head,0,1,1,legbyes,0,NA,NA,NA,0
+1000887,2nd innings,Pakistan,Australia,19.4,Babar Azam,Mohammad Rizwan,TM Head,1,0,1,NA,0,NA,NA,NA,0
+1000887,2nd innings,Pakistan,Australia,19.5,Mohammad Rizwan,Babar Azam,TM Head,0,0,0,NA,0,NA,NA,NA,0
+1000887,2nd innings,Pakistan,Australia,19.6,Mohammad Rizwan,Babar Azam,TM Head,1,0,1,NA,0,NA,NA,NA,0
+1000887,2nd innings,Pakistan,Australia,20.1,Mohammad Rizwan,Babar Azam,MR Marsh,0,0,0,NA,0,NA,NA,NA,0
+1000887,2nd innings,Pakistan,Australia,20.2,Mohammad Rizwan,Babar Azam,MR Marsh,0,0,0,NA,0,NA,NA,NA,0
+1000887,2nd innings,Pakistan,Australia,20.3,Mohammad Rizwan,Babar Azam,MR Marsh,0,0,0,NA,0,NA,NA,NA,0
+1000887,2nd innings,Pakistan,Australia,20.4,Mohammad Rizwan,Babar Azam,MR Marsh,0,0,0,NA,0,NA,NA,NA,0
+1000887,2nd innings,Pakistan,Australia,20.5,Mohammad Rizwan,Babar Azam,MR Marsh,1,0,1,NA,0,NA,NA,NA,0
+1000887,2nd innings,Pakistan,Australia,20.6,Babar Azam,Mohammad Rizwan,MR Marsh,1,0,1,NA,0,NA,NA,NA,0
+1000887,2nd innings,Pakistan,Australia,21.1,Babar Azam,Mohammad Rizwan,TM Head,1,0,1,NA,0,NA,NA,NA,0
+1000887,2nd innings,Pakistan,Australia,21.2,Mohammad Rizwan,Babar Azam,TM Head,0,0,0,NA,0,NA,NA,NA,0
+1000887,2nd innings,Pakistan,Australia,21.3,Mohammad Rizwan,Babar Azam,TM Head,0,0,0,NA,0,NA,NA,NA,0
+1000887,2nd innings,Pakistan,Australia,21.4,Mohammad Rizwan,Babar Azam,TM Head,0,0,0,NA,0,NA,NA,NA,0
+1000887,2nd innings,Pakistan,Australia,21.5,Mohammad Rizwan,Babar Azam,TM Head,0,0,0,NA,0,NA,NA,NA,0
+1000887,2nd innings,Pakistan,Australia,21.6,Mohammad Rizwan,Babar Azam,TM Head,0,0,0,NA,0,NA,NA,NA,0
+1000887,2nd innings,Pakistan,Australia,22.1,Babar Azam,Mohammad Rizwan,MR Marsh,0,0,0,NA,0,NA,NA,NA,0
+1000887,2nd innings,Pakistan,Australia,22.2,Babar Azam,Mohammad Rizwan,MR Marsh,0,0,0,NA,0,NA,NA,NA,0
+1000887,2nd innings,Pakistan,Australia,22.3,Babar Azam,Mohammad Rizwan,MR Marsh,1,0,1,NA,0,NA,NA,NA,0
+1000887,2nd innings,Pakistan,Australia,22.4,Mohammad Rizwan,Babar Azam,MR Marsh,1,0,1,NA,0,NA,NA,NA,0
+1000887,2nd innings,Pakistan,Australia,22.5,Babar Azam,Mohammad Rizwan,MR Marsh,2,0,2,NA,0,NA,NA,NA,0
+1000887,2nd innings,Pakistan,Australia,22.6,Babar Azam,Mohammad Rizwan,MR Marsh,0,0,0,NA,0,NA,NA,NA,0
+1000887,2nd innings,Pakistan,Australia,23.1,Mohammad Rizwan,Babar Azam,TM Head,1,0,1,NA,0,NA,NA,NA,0
+1000887,2nd innings,Pakistan,Australia,23.2,Babar Azam,Mohammad Rizwan,TM Head,0,0,0,NA,0,NA,NA,NA,0
+1000887,2nd innings,Pakistan,Australia,23.3,Babar Azam,Mohammad Rizwan,TM Head,0,0,0,NA,0,NA,NA,NA,0
+1000887,2nd innings,Pakistan,Australia,23.4,Babar Azam,Mohammad Rizwan,TM Head,0,0,0,NA,0,NA,NA,NA,0
+1000887,2nd innings,Pakistan,Australia,23.5,Babar Azam,Mohammad Rizwan,TM Head,1,0,1,NA,0,NA,NA,NA,0
+1000887,2nd innings,Pakistan,Australia,23.6,Mohammad Rizwan,Babar Azam,TM Head,2,0,2,NA,0,NA,NA,NA,0
+1000887,2nd innings,Pakistan,Australia,24.1,Babar Azam,Mohammad Rizwan,MR Marsh,1,0,1,NA,0,NA,NA,NA,0
+1000887,2nd innings,Pakistan,Australia,24.2,Mohammad Rizwan,Babar Azam,MR Marsh,0,0,0,NA,0,NA,NA,NA,0
+1000887,2nd innings,Pakistan,Australia,24.3,Mohammad Rizwan,Babar Azam,MR Marsh,1,0,1,NA,0,NA,NA,NA,0
+1000887,2nd innings,Pakistan,Australia,24.4,Babar Azam,Mohammad Rizwan,MR Marsh,1,0,1,NA,0,NA,NA,NA,0
+1000887,2nd innings,Pakistan,Australia,24.5,Mohammad Rizwan,Babar Azam,MR Marsh,0,0,0,NA,0,NA,NA,NA,0
+1000887,2nd innings,Pakistan,Australia,24.6,Mohammad Rizwan,Babar Azam,MR Marsh,1,0,1,NA,0,NA,NA,NA,0
+1000887,2nd innings,Pakistan,Australia,25.1,Mohammad Rizwan,Babar Azam,PJ Cummins,0,0,0,NA,0,NA,NA,NA,0
+1000887,2nd innings,Pakistan,Australia,25.2,Mohammad Rizwan,Babar Azam,PJ Cummins,0,0,0,NA,0,NA,NA,NA,0
+1000887,2nd innings,Pakistan,Australia,25.3,Mohammad Rizwan,Babar Azam,PJ Cummins,1,0,1,NA,0,NA,NA,NA,0
+1000887,2nd innings,Pakistan,Australia,25.4,Babar Azam,Mohammad Rizwan,PJ Cummins,2,0,2,NA,0,NA,NA,NA,0
+1000887,2nd innings,Pakistan,Australia,25.5,Babar Azam,Mohammad Rizwan,PJ Cummins,0,0,0,NA,1,caught,Babar Azam,SPD Smith,0
+1000887,2nd innings,Pakistan,Australia,25.6,Imad Wasim,Mohammad Rizwan,PJ Cummins,0,0,0,NA,0,NA,NA,NA,0
+1000887,2nd innings,Pakistan,Australia,26.1,Mohammad Rizwan,Imad Wasim,MR Marsh,0,0,0,NA,0,NA,NA,NA,0
+1000887,2nd innings,Pakistan,Australia,26.2,Mohammad Rizwan,Imad Wasim,MR Marsh,0,0,0,NA,0,NA,NA,NA,0
+1000887,2nd innings,Pakistan,Australia,26.3,Mohammad Rizwan,Imad Wasim,MR Marsh,1,0,1,NA,0,NA,NA,NA,0
+1000887,2nd innings,Pakistan,Australia,26.4,Imad Wasim,Mohammad Rizwan,MR Marsh,0,0,0,NA,0,NA,NA,NA,0
+1000887,2nd innings,Pakistan,Australia,26.5,Imad Wasim,Mohammad Rizwan,MR Marsh,1,0,1,NA,0,NA,NA,NA,0
+1000887,2nd innings,Pakistan,Australia,26.6,Mohammad Rizwan,Imad Wasim,MR Marsh,2,0,2,NA,0,NA,NA,NA,0
+1000887,2nd innings,Pakistan,Australia,27.1,Imad Wasim,Mohammad Rizwan,TM Head,1,0,1,NA,0,NA,NA,NA,0
+1000887,2nd innings,Pakistan,Australia,27.2,Mohammad Rizwan,Imad Wasim,TM Head,0,0,0,NA,0,NA,NA,NA,0
+1000887,2nd innings,Pakistan,Australia,27.3,Mohammad Rizwan,Imad Wasim,TM Head,0,0,0,NA,0,NA,NA,NA,0
+1000887,2nd innings,Pakistan,Australia,27.4,Mohammad Rizwan,Imad Wasim,TM Head,0,0,0,NA,0,NA,NA,NA,0
+1000887,2nd innings,Pakistan,Australia,27.5,Mohammad Rizwan,Imad Wasim,TM Head,2,0,2,NA,0,NA,NA,NA,0
+1000887,2nd innings,Pakistan,Australia,27.6,Mohammad Rizwan,Imad Wasim,TM Head,2,0,2,NA,0,NA,NA,NA,0
+1000887,2nd innings,Pakistan,Australia,28.1,Imad Wasim,Mohammad Rizwan,PJ Cummins,6,0,6,NA,0,NA,NA,NA,0
+1000887,2nd innings,Pakistan,Australia,28.2,Imad Wasim,Mohammad Rizwan,PJ Cummins,0,0,0,NA,0,NA,NA,NA,0
+1000887,2nd innings,Pakistan,Australia,28.3,Imad Wasim,Mohammad Rizwan,PJ Cummins,0,0,0,NA,0,NA,NA,NA,0
+1000887,2nd innings,Pakistan,Australia,28.4,Imad Wasim,Mohammad Rizwan,PJ Cummins,1,0,1,NA,0,NA,NA,NA,0
+1000887,2nd innings,Pakistan,Australia,28.5,Mohammad Rizwan,Imad Wasim,PJ Cummins,0,0,0,NA,0,NA,NA,NA,0
+1000887,2nd innings,Pakistan,Australia,28.6,Mohammad Rizwan,Imad Wasim,PJ Cummins,0,0,0,NA,0,NA,NA,NA,0
+1000887,2nd innings,Pakistan,Australia,29.1,Imad Wasim,Mohammad Rizwan,TM Head,1,0,1,NA,0,NA,NA,NA,0
+1000887,2nd innings,Pakistan,Australia,29.2,Mohammad Rizwan,Imad Wasim,TM Head,0,0,0,NA,0,NA,NA,NA,0
+1000887,2nd innings,Pakistan,Australia,29.3,Mohammad Rizwan,Imad Wasim,TM Head,1,0,1,NA,0,NA,NA,NA,0
+1000887,2nd innings,Pakistan,Australia,29.4,Imad Wasim,Mohammad Rizwan,TM Head,1,0,1,NA,0,NA,NA,NA,0
+1000887,2nd innings,Pakistan,Australia,29.5,Mohammad Rizwan,Imad Wasim,TM Head,0,0,0,NA,0,NA,NA,NA,0
+1000887,2nd innings,Pakistan,Australia,29.6,Mohammad Rizwan,Imad Wasim,TM Head,0,1,1,legbyes,0,NA,NA,NA,0
+1000887,2nd innings,Pakistan,Australia,30.1,Mohammad Rizwan,Imad Wasim,PJ Cummins,0,0,0,NA,1,caught,Mohammad Rizwan,MR Marsh,0
+1000887,2nd innings,Pakistan,Australia,30.2,Imad Wasim,Mohammad Nawaz (3),PJ Cummins,0,0,0,NA,0,NA,NA,NA,0
+1000887,2nd innings,Pakistan,Australia,30.3,Imad Wasim,Mohammad Nawaz (3),PJ Cummins,0,0,0,NA,0,NA,NA,NA,0
+1000887,2nd innings,Pakistan,Australia,30.4,Imad Wasim,Mohammad Nawaz (3),PJ Cummins,1,0,1,NA,0,NA,NA,NA,0
+1000887,2nd innings,Pakistan,Australia,30.5,Mohammad Nawaz (3),Imad Wasim,PJ Cummins,0,0,0,NA,0,NA,NA,NA,0
+1000887,2nd innings,Pakistan,Australia,30.6,Mohammad Nawaz (3),Imad Wasim,PJ Cummins,0,0,0,NA,0,NA,NA,NA,0
+1000887,2nd innings,Pakistan,Australia,31.1,Imad Wasim,Mohammad Nawaz (3),TM Head,0,0,0,NA,0,NA,NA,NA,0
+1000887,2nd innings,Pakistan,Australia,31.2,Imad Wasim,Mohammad Nawaz (3),TM Head,0,0,0,NA,0,NA,NA,NA,0
+1000887,2nd innings,Pakistan,Australia,31.3,Imad Wasim,Mohammad Nawaz (3),TM Head,0,0,0,NA,0,NA,NA,NA,0
+1000887,2nd innings,Pakistan,Australia,31.4,Imad Wasim,Mohammad Nawaz (3),TM Head,1,0,1,NA,0,NA,NA,NA,0
+1000887,2nd innings,Pakistan,Australia,31.5,Mohammad Nawaz (3),Imad Wasim,TM Head,0,0,0,NA,0,NA,NA,NA,0
+1000887,2nd innings,Pakistan,Australia,31.6,Mohammad Nawaz (3),Imad Wasim,TM Head,1,0,1,NA,0,NA,NA,NA,0
+1000887,2nd innings,Pakistan,Australia,32.1,Mohammad Nawaz (3),Imad Wasim,MA Starc,0,0,0,NA,0,NA,NA,NA,0
+1000887,2nd innings,Pakistan,Australia,32.2,Mohammad Nawaz (3),Imad Wasim,MA Starc,0,0,0,NA,0,NA,NA,NA,0
+1000887,2nd innings,Pakistan,Australia,32.3,Mohammad Nawaz (3),Imad Wasim,MA Starc,0,0,0,NA,0,NA,NA,NA,0
+1000887,2nd innings,Pakistan,Australia,32.4,Mohammad Nawaz (3),Imad Wasim,MA Starc,0,1,1,wides,0,NA,NA,NA,0
+1000887,2nd innings,Pakistan,Australia,32.5,Mohammad Nawaz (3),Imad Wasim,MA Starc,0,0,0,NA,0,NA,NA,NA,0
+1000887,2nd innings,Pakistan,Australia,32.6,Mohammad Nawaz (3),Imad Wasim,MA Starc,0,0,0,NA,1,bowled,Mohammad Nawaz (3),NA,0
+1000887,2nd innings,Pakistan,Australia,32.7,Azhar Ali,Imad Wasim,MA Starc,2,0,2,NA,0,NA,NA,NA,0
+1000887,2nd innings,Pakistan,Australia,33.1,Imad Wasim,Azhar Ali,TM Head,1,0,1,NA,0,NA,NA,NA,0
+1000887,2nd innings,Pakistan,Australia,33.2,Azhar Ali,Imad Wasim,TM Head,0,0,0,NA,0,NA,NA,NA,0
+1000887,2nd innings,Pakistan,Australia,33.3,Azhar Ali,Imad Wasim,TM Head,0,0,0,NA,0,NA,NA,NA,0
+1000887,2nd innings,Pakistan,Australia,33.4,Azhar Ali,Imad Wasim,TM Head,1,0,1,NA,0,NA,NA,NA,0
+1000887,2nd innings,Pakistan,Australia,33.5,Imad Wasim,Azhar Ali,TM Head,1,0,1,NA,0,NA,NA,NA,0
+1000887,2nd innings,Pakistan,Australia,33.6,Azhar Ali,Imad Wasim,TM Head,0,0,0,NA,0,NA,NA,NA,0
+1000887,2nd innings,Pakistan,Australia,34.1,Imad Wasim,Azhar Ali,MA Starc,0,0,0,NA,0,NA,NA,NA,0
+1000887,2nd innings,Pakistan,Australia,34.2,Imad Wasim,Azhar Ali,MA Starc,0,0,0,NA,0,NA,NA,NA,0
+1000887,2nd innings,Pakistan,Australia,34.3,Imad Wasim,Azhar Ali,MA Starc,2,0,2,NA,0,NA,NA,NA,0
+1000887,2nd innings,Pakistan,Australia,34.4,Imad Wasim,Azhar Ali,MA Starc,0,0,0,NA,0,NA,NA,NA,0
+1000887,2nd innings,Pakistan,Australia,34.5,Imad Wasim,Azhar Ali,MA Starc,0,0,0,NA,0,NA,NA,NA,0
+1000887,2nd innings,Pakistan,Australia,34.6,Imad Wasim,Azhar Ali,MA Starc,1,0,1,NA,0,NA,NA,NA,0
+1000887,2nd innings,Pakistan,Australia,35.1,Imad Wasim,Azhar Ali,TM Head,0,0,0,NA,0,NA,NA,NA,0
+1000887,2nd innings,Pakistan,Australia,35.2,Imad Wasim,Azhar Ali,TM Head,0,0,0,NA,0,NA,NA,NA,0
+1000887,2nd innings,Pakistan,Australia,35.3,Imad Wasim,Azhar Ali,TM Head,0,0,0,NA,0,NA,NA,NA,0
+1000887,2nd innings,Pakistan,Australia,35.4,Imad Wasim,Azhar Ali,TM Head,1,0,1,NA,0,NA,NA,NA,0
+1000887,2nd innings,Pakistan,Australia,35.5,Azhar Ali,Imad Wasim,TM Head,0,0,0,NA,0,NA,NA,NA,0
+1000887,2nd innings,Pakistan,Australia,35.6,Azhar Ali,Imad Wasim,TM Head,1,0,1,NA,0,NA,NA,NA,0
+1000887,2nd innings,Pakistan,Australia,36.1,Azhar Ali,Imad Wasim,MR Marsh,1,0,1,NA,0,NA,NA,NA,0
+1000887,2nd innings,Pakistan,Australia,36.2,Imad Wasim,Azhar Ali,MR Marsh,2,0,2,NA,0,NA,NA,NA,0
+1000887,2nd innings,Pakistan,Australia,36.3,Imad Wasim,Azhar Ali,MR Marsh,1,0,1,NA,0,NA,NA,NA,0
+1000887,2nd innings,Pakistan,Australia,36.4,Azhar Ali,Imad Wasim,MR Marsh,1,0,1,NA,0,NA,NA,NA,0
+1000887,2nd innings,Pakistan,Australia,36.5,Imad Wasim,Azhar Ali,MR Marsh,4,0,4,NA,0,NA,NA,NA,0
+1000887,2nd innings,Pakistan,Australia,36.6,Imad Wasim,Azhar Ali,MR Marsh,2,0,2,NA,0,NA,NA,NA,0
+1000887,2nd innings,Pakistan,Australia,37.1,Azhar Ali,Imad Wasim,JP Faulkner,0,0,0,NA,0,NA,NA,NA,0
+1000887,2nd innings,Pakistan,Australia,37.2,Azhar Ali,Imad Wasim,JP Faulkner,0,0,0,NA,0,NA,NA,NA,0
+1000887,2nd innings,Pakistan,Australia,37.3,Azhar Ali,Imad Wasim,JP Faulkner,1,0,1,NA,0,NA,NA,NA,0
+1000887,2nd innings,Pakistan,Australia,37.4,Imad Wasim,Azhar Ali,JP Faulkner,1,0,1,NA,0,NA,NA,NA,0
+1000887,2nd innings,Pakistan,Australia,37.5,Azhar Ali,Imad Wasim,JP Faulkner,0,0,0,NA,0,NA,NA,NA,0
+1000887,2nd innings,Pakistan,Australia,37.6,Azhar Ali,Imad Wasim,JP Faulkner,1,0,1,NA,0,NA,NA,NA,0
+1000887,2nd innings,Pakistan,Australia,38.1,Azhar Ali,Imad Wasim,MR Marsh,1,0,1,NA,0,NA,NA,NA,0
+1000887,2nd innings,Pakistan,Australia,38.2,Imad Wasim,Azhar Ali,MR Marsh,0,0,0,NA,0,NA,NA,NA,0
+1000887,2nd innings,Pakistan,Australia,38.3,Imad Wasim,Azhar Ali,MR Marsh,0,0,0,NA,1,caught,Imad Wasim,DA Warner,0
+1000887,2nd innings,Pakistan,Australia,38.4,Azhar Ali,Mohammad Amir,MR Marsh,0,0,0,NA,0,NA,NA,NA,0
+1000887,2nd innings,Pakistan,Australia,38.5,Azhar Ali,Mohammad Amir,MR Marsh,1,0,1,NA,0,NA,NA,NA,0
+1000887,2nd innings,Pakistan,Australia,38.6,Mohammad Amir,Azhar Ali,MR Marsh,0,0,0,NA,0,NA,NA,NA,0
+1000887,2nd innings,Pakistan,Australia,39.1,Azhar Ali,Mohammad Amir,JP Faulkner,1,0,1,NA,0,NA,NA,NA,0
+1000887,2nd innings,Pakistan,Australia,39.2,Mohammad Amir,Azhar Ali,JP Faulkner,1,0,1,NA,0,NA,NA,NA,0
+1000887,2nd innings,Pakistan,Australia,39.3,Azhar Ali,Mohammad Amir,JP Faulkner,1,0,1,NA,0,NA,NA,NA,0
+1000887,2nd innings,Pakistan,Australia,39.4,Mohammad Amir,Azhar Ali,JP Faulkner,1,0,1,NA,0,NA,NA,NA,0
+1000887,2nd innings,Pakistan,Australia,39.5,Azhar Ali,Mohammad Amir,JP Faulkner,0,0,0,NA,0,NA,NA,NA,0
+1000887,2nd innings,Pakistan,Australia,39.6,Azhar Ali,Mohammad Amir,JP Faulkner,0,0,0,NA,1,caught,Azhar Ali,DA Warner,0
+1000887,2nd innings,Pakistan,Australia,40.1,Wahab Riaz,Mohammad Amir,PJ Cummins,1,0,1,NA,0,NA,NA,NA,0
+1000887,2nd innings,Pakistan,Australia,40.2,Mohammad Amir,Wahab Riaz,PJ Cummins,0,0,0,NA,0,NA,NA,NA,0
+1000887,2nd innings,Pakistan,Australia,40.3,Mohammad Amir,Wahab Riaz,PJ Cummins,2,0,2,NA,0,NA,NA,NA,0
+1000887,2nd innings,Pakistan,Australia,40.4,Mohammad Amir,Wahab Riaz,PJ Cummins,0,0,0,NA,0,NA,NA,NA,0
+1000887,2nd innings,Pakistan,Australia,40.5,Mohammad Amir,Wahab Riaz,PJ Cummins,1,0,1,NA,0,NA,NA,NA,0
+1000887,2nd innings,Pakistan,Australia,40.6,Wahab Riaz,Mohammad Amir,PJ Cummins,0,0,0,NA,0,NA,NA,NA,0
+1000887,2nd innings,Pakistan,Australia,41.1,Mohammad Amir,Wahab Riaz,JP Faulkner,1,0,1,NA,0,NA,NA,NA,0
+1000887,2nd innings,Pakistan,Australia,41.2,Wahab Riaz,Mohammad Amir,JP Faulkner,1,0,1,NA,0,NA,NA,NA,0
+1000887,2nd innings,Pakistan,Australia,41.3,Mohammad Amir,Wahab Riaz,JP Faulkner,2,0,2,NA,0,NA,NA,NA,0
+1000887,2nd innings,Pakistan,Australia,41.4,Mohammad Amir,Wahab Riaz,JP Faulkner,0,0,0,NA,1,caught,Mohammad Amir,GJ Maxwell,0
+1000887,2nd innings,Pakistan,Australia,41.5,Wahab Riaz,Hasan Ali,JP Faulkner,2,0,2,NA,0,NA,NA,NA,0
+1000887,2nd innings,Pakistan,Australia,41.6,Wahab Riaz,Hasan Ali,JP Faulkner,1,0,1,NA,0,NA,NA,NA,0
+1000887,2nd innings,Pakistan,Australia,42.1,Wahab Riaz,Hasan Ali,PJ Cummins,0,0,0,NA,0,NA,NA,NA,0
+1000887,2nd innings,Pakistan,Australia,42.2,Wahab Riaz,Hasan Ali,PJ Cummins,1,0,1,NA,0,NA,NA,NA,0
+1000887,2nd innings,Pakistan,Australia,42.3,Hasan Ali,Wahab Riaz,PJ Cummins,1,0,1,NA,0,NA,NA,NA,0
+1000887,2nd innings,Pakistan,Australia,42.4,Wahab Riaz,Hasan Ali,PJ Cummins,0,0,0,NA,1,caught,Wahab Riaz,MA Starc,0

@@ -1,0 +1,610 @@
+match_id,innings,team,opponent,ball,batsman,non_striker,bowler,scored_runs,extras,total,extra_type,wicket,wicket_type,player_out,fielders,winner
+1123205,1st innings,India,South Africa,0.1,S Mandhana,DB Sharma,S Ismail,0,0,0,NA,0,NA,NA,NA,0
+1123205,1st innings,India,South Africa,0.2,S Mandhana,DB Sharma,S Ismail,0,0,0,NA,0,NA,NA,NA,0
+1123205,1st innings,India,South Africa,0.3,S Mandhana,DB Sharma,S Ismail,0,0,0,NA,1,caught,S Mandhana,L Wolvaardt,0
+1123205,1st innings,India,South Africa,0.4,M Raj,DB Sharma,S Ismail,0,0,0,NA,0,NA,NA,NA,0
+1123205,1st innings,India,South Africa,0.5,M Raj,DB Sharma,S Ismail,1,0,1,NA,0,NA,NA,NA,0
+1123205,1st innings,India,South Africa,0.6,DB Sharma,M Raj,S Ismail,0,0,0,NA,0,NA,NA,NA,0
+1123205,1st innings,India,South Africa,1.1,M Raj,DB Sharma,A Khaka,0,1,1,wides,0,NA,NA,NA,0
+1123205,1st innings,India,South Africa,1.2,M Raj,DB Sharma,A Khaka,0,0,0,NA,0,NA,NA,NA,0
+1123205,1st innings,India,South Africa,1.3,M Raj,DB Sharma,A Khaka,1,0,1,NA,0,NA,NA,NA,0
+1123205,1st innings,India,South Africa,1.4,DB Sharma,M Raj,A Khaka,0,0,0,NA,0,NA,NA,NA,0
+1123205,1st innings,India,South Africa,1.5,DB Sharma,M Raj,A Khaka,0,0,0,NA,0,NA,NA,NA,0
+1123205,1st innings,India,South Africa,1.6,DB Sharma,M Raj,A Khaka,0,0,0,NA,0,NA,NA,NA,0
+1123205,1st innings,India,South Africa,1.7,DB Sharma,M Raj,A Khaka,4,0,4,NA,0,NA,NA,NA,0
+1123205,1st innings,India,South Africa,2.1,M Raj,DB Sharma,S Ismail,0,0,0,NA,0,NA,NA,NA,0
+1123205,1st innings,India,South Africa,2.2,M Raj,DB Sharma,S Ismail,0,0,0,NA,0,NA,NA,NA,0
+1123205,1st innings,India,South Africa,2.3,M Raj,DB Sharma,S Ismail,0,0,0,NA,0,NA,NA,NA,0
+1123205,1st innings,India,South Africa,2.4,M Raj,DB Sharma,S Ismail,0,0,0,NA,0,NA,NA,NA,0
+1123205,1st innings,India,South Africa,2.5,M Raj,DB Sharma,S Ismail,0,0,0,NA,0,NA,NA,NA,0
+1123205,1st innings,India,South Africa,2.6,M Raj,DB Sharma,S Ismail,0,0,0,NA,0,NA,NA,NA,0
+1123205,1st innings,India,South Africa,3.1,DB Sharma,M Raj,A Khaka,1,0,1,NA,0,NA,NA,NA,0
+1123205,1st innings,India,South Africa,3.2,M Raj,DB Sharma,A Khaka,0,0,0,NA,0,NA,NA,NA,0
+1123205,1st innings,India,South Africa,3.3,M Raj,DB Sharma,A Khaka,0,0,0,NA,0,NA,NA,NA,0
+1123205,1st innings,India,South Africa,3.4,M Raj,DB Sharma,A Khaka,0,0,0,NA,0,NA,NA,NA,0
+1123205,1st innings,India,South Africa,3.5,M Raj,DB Sharma,A Khaka,1,0,1,NA,0,NA,NA,NA,0
+1123205,1st innings,India,South Africa,3.6,DB Sharma,M Raj,A Khaka,0,0,0,NA,0,NA,NA,NA,0
+1123205,1st innings,India,South Africa,4.1,M Raj,DB Sharma,S Ismail,0,0,0,NA,0,NA,NA,NA,0
+1123205,1st innings,India,South Africa,4.2,M Raj,DB Sharma,S Ismail,0,0,0,NA,0,NA,NA,NA,0
+1123205,1st innings,India,South Africa,4.3,M Raj,DB Sharma,S Ismail,0,0,0,NA,0,NA,NA,NA,0
+1123205,1st innings,India,South Africa,4.4,M Raj,DB Sharma,S Ismail,0,0,0,NA,0,NA,NA,NA,0
+1123205,1st innings,India,South Africa,4.5,M Raj,DB Sharma,S Ismail,1,0,1,NA,0,NA,NA,NA,0
+1123205,1st innings,India,South Africa,4.6,DB Sharma,M Raj,S Ismail,0,0,0,NA,0,NA,NA,NA,0
+1123205,1st innings,India,South Africa,5.1,M Raj,DB Sharma,A Khaka,0,0,0,NA,0,NA,NA,NA,0
+1123205,1st innings,India,South Africa,5.2,M Raj,DB Sharma,A Khaka,0,0,0,NA,0,NA,NA,NA,0
+1123205,1st innings,India,South Africa,5.3,M Raj,DB Sharma,A Khaka,0,0,0,NA,0,NA,NA,NA,0
+1123205,1st innings,India,South Africa,5.4,M Raj,DB Sharma,A Khaka,0,0,0,NA,0,NA,NA,NA,0
+1123205,1st innings,India,South Africa,5.5,M Raj,DB Sharma,A Khaka,0,0,0,NA,1,caught,M Raj,L Lee,0
+1123205,1st innings,India,South Africa,5.6,H Kaur,DB Sharma,A Khaka,0,0,0,NA,0,NA,NA,NA,0
+1123205,1st innings,India,South Africa,6.1,DB Sharma,H Kaur,S Ismail,0,0,0,NA,0,NA,NA,NA,0
+1123205,1st innings,India,South Africa,6.2,DB Sharma,H Kaur,S Ismail,0,0,0,NA,0,NA,NA,NA,0
+1123205,1st innings,India,South Africa,6.3,DB Sharma,H Kaur,S Ismail,0,0,0,NA,0,NA,NA,NA,0
+1123205,1st innings,India,South Africa,6.4,DB Sharma,H Kaur,S Ismail,1,0,1,NA,0,NA,NA,NA,0
+1123205,1st innings,India,South Africa,6.5,H Kaur,DB Sharma,S Ismail,1,0,1,NA,0,NA,NA,NA,0
+1123205,1st innings,India,South Africa,6.6,DB Sharma,H Kaur,S Ismail,1,0,1,NA,0,NA,NA,NA,0
+1123205,1st innings,India,South Africa,7.1,DB Sharma,H Kaur,A Khaka,0,1,1,wides,0,NA,NA,NA,0
+1123205,1st innings,India,South Africa,7.2,DB Sharma,H Kaur,A Khaka,0,0,0,NA,0,NA,NA,NA,0
+1123205,1st innings,India,South Africa,7.3,DB Sharma,H Kaur,A Khaka,0,0,0,NA,0,NA,NA,NA,0
+1123205,1st innings,India,South Africa,7.4,DB Sharma,H Kaur,A Khaka,0,0,0,NA,0,NA,NA,NA,0
+1123205,1st innings,India,South Africa,7.5,DB Sharma,H Kaur,A Khaka,4,0,4,NA,0,NA,NA,NA,0
+1123205,1st innings,India,South Africa,7.6,DB Sharma,H Kaur,A Khaka,0,0,0,NA,0,NA,NA,NA,0
+1123205,1st innings,India,South Africa,7.7,DB Sharma,H Kaur,A Khaka,1,0,1,NA,0,NA,NA,NA,0
+1123205,1st innings,India,South Africa,8.1,DB Sharma,H Kaur,S Ismail,0,0,0,NA,0,NA,NA,NA,0
+1123205,1st innings,India,South Africa,8.2,DB Sharma,H Kaur,S Ismail,4,0,4,NA,0,NA,NA,NA,0
+1123205,1st innings,India,South Africa,8.3,DB Sharma,H Kaur,S Ismail,0,0,0,NA,0,NA,NA,NA,0
+1123205,1st innings,India,South Africa,8.4,DB Sharma,H Kaur,S Ismail,0,0,0,NA,0,NA,NA,NA,0
+1123205,1st innings,India,South Africa,8.5,DB Sharma,H Kaur,S Ismail,0,0,0,NA,0,NA,NA,NA,0
+1123205,1st innings,India,South Africa,8.6,DB Sharma,H Kaur,S Ismail,0,0,0,NA,0,NA,NA,NA,0
+1123205,1st innings,India,South Africa,9.1,H Kaur,DB Sharma,M Klaas,0,0,0,NA,0,NA,NA,NA,0
+1123205,1st innings,India,South Africa,9.2,H Kaur,DB Sharma,M Klaas,0,0,0,NA,0,NA,NA,NA,0
+1123205,1st innings,India,South Africa,9.3,H Kaur,DB Sharma,M Klaas,1,0,1,NA,0,NA,NA,NA,0
+1123205,1st innings,India,South Africa,9.4,DB Sharma,H Kaur,M Klaas,0,0,0,NA,0,NA,NA,NA,0
+1123205,1st innings,India,South Africa,9.5,DB Sharma,H Kaur,M Klaas,0,0,0,NA,0,NA,NA,NA,0
+1123205,1st innings,India,South Africa,9.6,DB Sharma,H Kaur,M Klaas,0,1,1,noballs,0,NA,NA,NA,0
+1123205,1st innings,India,South Africa,9.7,DB Sharma,H Kaur,M Klaas,0,0,0,NA,0,NA,NA,NA,0
+1123205,1st innings,India,South Africa,10.1,H Kaur,DB Sharma,CL Tryon,0,0,0,NA,0,NA,NA,NA,0
+1123205,1st innings,India,South Africa,10.2,H Kaur,DB Sharma,CL Tryon,0,0,0,NA,0,NA,NA,NA,0
+1123205,1st innings,India,South Africa,10.3,H Kaur,DB Sharma,CL Tryon,0,0,0,NA,0,NA,NA,NA,0
+1123205,1st innings,India,South Africa,10.4,H Kaur,DB Sharma,CL Tryon,0,0,0,NA,0,NA,NA,NA,0
+1123205,1st innings,India,South Africa,10.5,H Kaur,DB Sharma,CL Tryon,0,0,0,NA,0,NA,NA,NA,0
+1123205,1st innings,India,South Africa,10.6,H Kaur,DB Sharma,CL Tryon,0,0,0,NA,0,NA,NA,NA,0
+1123205,1st innings,India,South Africa,11.1,DB Sharma,H Kaur,M Klaas,0,0,0,NA,0,NA,NA,NA,0
+1123205,1st innings,India,South Africa,11.2,DB Sharma,H Kaur,M Klaas,1,0,1,NA,0,NA,NA,NA,0
+1123205,1st innings,India,South Africa,11.3,H Kaur,DB Sharma,M Klaas,0,0,0,NA,0,NA,NA,NA,0
+1123205,1st innings,India,South Africa,11.4,H Kaur,DB Sharma,M Klaas,1,0,1,NA,0,NA,NA,NA,0
+1123205,1st innings,India,South Africa,11.5,DB Sharma,H Kaur,M Klaas,0,0,0,NA,0,NA,NA,NA,0
+1123205,1st innings,India,South Africa,11.6,DB Sharma,H Kaur,M Klaas,1,0,1,NA,0,NA,NA,NA,0
+1123205,1st innings,India,South Africa,12.1,DB Sharma,H Kaur,CL Tryon,0,0,0,NA,0,NA,NA,NA,0
+1123205,1st innings,India,South Africa,12.2,DB Sharma,H Kaur,CL Tryon,1,0,1,NA,0,NA,NA,NA,0
+1123205,1st innings,India,South Africa,12.3,H Kaur,DB Sharma,CL Tryon,0,0,0,NA,0,NA,NA,NA,0
+1123205,1st innings,India,South Africa,12.4,H Kaur,DB Sharma,CL Tryon,4,0,4,NA,0,NA,NA,NA,0
+1123205,1st innings,India,South Africa,12.5,H Kaur,DB Sharma,CL Tryon,0,0,0,NA,0,NA,NA,NA,0
+1123205,1st innings,India,South Africa,12.6,H Kaur,DB Sharma,CL Tryon,1,0,1,NA,0,NA,NA,NA,0
+1123205,1st innings,India,South Africa,13.1,H Kaur,DB Sharma,M Klaas,4,0,4,NA,0,NA,NA,NA,0
+1123205,1st innings,India,South Africa,13.2,H Kaur,DB Sharma,M Klaas,4,0,4,NA,0,NA,NA,NA,0
+1123205,1st innings,India,South Africa,13.3,H Kaur,DB Sharma,M Klaas,0,0,0,NA,0,NA,NA,NA,0
+1123205,1st innings,India,South Africa,13.4,H Kaur,DB Sharma,M Klaas,1,0,1,NA,0,NA,NA,NA,0
+1123205,1st innings,India,South Africa,13.5,DB Sharma,H Kaur,M Klaas,1,0,1,NA,0,NA,NA,NA,0
+1123205,1st innings,India,South Africa,13.6,H Kaur,DB Sharma,M Klaas,1,0,1,NA,0,NA,NA,NA,0
+1123205,1st innings,India,South Africa,14.1,H Kaur,DB Sharma,CL Tryon,1,0,1,NA,0,NA,NA,NA,0
+1123205,1st innings,India,South Africa,14.2,DB Sharma,H Kaur,CL Tryon,1,0,1,NA,0,NA,NA,NA,0
+1123205,1st innings,India,South Africa,14.3,H Kaur,DB Sharma,CL Tryon,4,0,4,NA,0,NA,NA,NA,0
+1123205,1st innings,India,South Africa,14.4,H Kaur,DB Sharma,CL Tryon,0,0,0,NA,0,NA,NA,NA,0
+1123205,1st innings,India,South Africa,14.5,H Kaur,DB Sharma,CL Tryon,0,0,0,NA,0,NA,NA,NA,0
+1123205,1st innings,India,South Africa,14.6,H Kaur,DB Sharma,CL Tryon,0,0,0,NA,0,NA,NA,NA,0
+1123205,1st innings,India,South Africa,15.1,DB Sharma,H Kaur,M Klaas,0,1,1,wides,0,NA,NA,NA,0
+1123205,1st innings,India,South Africa,15.2,DB Sharma,H Kaur,M Klaas,0,0,0,NA,0,NA,NA,NA,0
+1123205,1st innings,India,South Africa,15.3,DB Sharma,H Kaur,M Klaas,1,0,1,NA,0,NA,NA,NA,0
+1123205,1st innings,India,South Africa,15.4,H Kaur,DB Sharma,M Klaas,0,0,0,NA,0,NA,NA,NA,0
+1123205,1st innings,India,South Africa,15.5,H Kaur,DB Sharma,M Klaas,1,0,1,NA,0,NA,NA,NA,0
+1123205,1st innings,India,South Africa,15.6,DB Sharma,H Kaur,M Klaas,0,0,0,NA,0,NA,NA,NA,0
+1123205,1st innings,India,South Africa,15.7,DB Sharma,H Kaur,M Klaas,0,0,0,NA,0,NA,NA,NA,0
+1123205,1st innings,India,South Africa,16.1,H Kaur,DB Sharma,CL Tryon,0,0,0,NA,0,NA,NA,NA,0
+1123205,1st innings,India,South Africa,16.2,H Kaur,DB Sharma,CL Tryon,0,0,0,NA,0,NA,NA,NA,0
+1123205,1st innings,India,South Africa,16.3,H Kaur,DB Sharma,CL Tryon,1,0,1,NA,0,NA,NA,NA,0
+1123205,1st innings,India,South Africa,16.4,DB Sharma,H Kaur,CL Tryon,1,0,1,NA,0,NA,NA,NA,0
+1123205,1st innings,India,South Africa,16.5,H Kaur,DB Sharma,CL Tryon,0,0,0,NA,0,NA,NA,NA,0
+1123205,1st innings,India,South Africa,16.6,H Kaur,DB Sharma,CL Tryon,0,0,0,NA,0,NA,NA,NA,0
+1123205,1st innings,India,South Africa,17.1,DB Sharma,H Kaur,D van Niekerk,0,0,0,NA,0,NA,NA,NA,0
+1123205,1st innings,India,South Africa,17.2,DB Sharma,H Kaur,D van Niekerk,1,0,1,NA,0,NA,NA,NA,0
+1123205,1st innings,India,South Africa,17.3,H Kaur,DB Sharma,D van Niekerk,0,0,0,NA,1,caught,H Kaur,L Lee,0
+1123205,1st innings,India,South Africa,17.4,V Krishnamurthy,DB Sharma,D van Niekerk,0,0,0,NA,0,NA,NA,NA,0
+1123205,1st innings,India,South Africa,17.5,V Krishnamurthy,DB Sharma,D van Niekerk,1,0,1,NA,0,NA,NA,NA,0
+1123205,1st innings,India,South Africa,17.6,DB Sharma,V Krishnamurthy,D van Niekerk,0,0,0,NA,0,NA,NA,NA,0
+1123205,1st innings,India,South Africa,18.1,V Krishnamurthy,DB Sharma,CL Tryon,0,0,0,NA,0,NA,NA,NA,0
+1123205,1st innings,India,South Africa,18.2,V Krishnamurthy,DB Sharma,CL Tryon,0,0,0,NA,0,NA,NA,NA,0
+1123205,1st innings,India,South Africa,18.3,V Krishnamurthy,DB Sharma,CL Tryon,0,0,0,NA,0,NA,NA,NA,0
+1123205,1st innings,India,South Africa,18.4,V Krishnamurthy,DB Sharma,CL Tryon,0,0,0,NA,0,NA,NA,NA,0
+1123205,1st innings,India,South Africa,18.5,V Krishnamurthy,DB Sharma,CL Tryon,0,0,0,NA,0,NA,NA,NA,0
+1123205,1st innings,India,South Africa,18.6,V Krishnamurthy,DB Sharma,CL Tryon,0,0,0,NA,0,NA,NA,NA,0
+1123205,1st innings,India,South Africa,19.1,DB Sharma,V Krishnamurthy,D van Niekerk,1,0,1,NA,0,NA,NA,NA,0
+1123205,1st innings,India,South Africa,19.2,V Krishnamurthy,DB Sharma,D van Niekerk,0,0,0,NA,0,NA,NA,NA,0
+1123205,1st innings,India,South Africa,19.3,V Krishnamurthy,DB Sharma,D van Niekerk,1,0,1,NA,0,NA,NA,NA,0
+1123205,1st innings,India,South Africa,19.4,DB Sharma,V Krishnamurthy,D van Niekerk,2,0,2,NA,0,NA,NA,NA,0
+1123205,1st innings,India,South Africa,19.5,DB Sharma,V Krishnamurthy,D van Niekerk,0,0,0,NA,0,NA,NA,NA,0
+1123205,1st innings,India,South Africa,19.6,DB Sharma,V Krishnamurthy,D van Niekerk,0,0,0,NA,0,NA,NA,NA,0
+1123205,1st innings,India,South Africa,20.1,V Krishnamurthy,DB Sharma,CL Tryon,4,0,4,NA,0,NA,NA,NA,0
+1123205,1st innings,India,South Africa,20.2,V Krishnamurthy,DB Sharma,CL Tryon,4,0,4,NA,0,NA,NA,NA,0
+1123205,1st innings,India,South Africa,20.3,V Krishnamurthy,DB Sharma,CL Tryon,0,0,0,NA,0,NA,NA,NA,0
+1123205,1st innings,India,South Africa,20.4,V Krishnamurthy,DB Sharma,CL Tryon,0,0,0,NA,0,NA,NA,NA,0
+1123205,1st innings,India,South Africa,20.5,V Krishnamurthy,DB Sharma,CL Tryon,0,0,0,NA,0,NA,NA,NA,0
+1123205,1st innings,India,South Africa,20.6,V Krishnamurthy,DB Sharma,CL Tryon,1,0,1,NA,0,NA,NA,NA,0
+1123205,1st innings,India,South Africa,21.1,V Krishnamurthy,DB Sharma,D van Niekerk,0,0,0,NA,0,NA,NA,NA,0
+1123205,1st innings,India,South Africa,21.2,V Krishnamurthy,DB Sharma,D van Niekerk,1,0,1,NA,0,NA,NA,NA,0
+1123205,1st innings,India,South Africa,21.3,DB Sharma,V Krishnamurthy,D van Niekerk,0,0,0,NA,0,NA,NA,NA,0
+1123205,1st innings,India,South Africa,21.4,DB Sharma,V Krishnamurthy,D van Niekerk,1,0,1,NA,0,NA,NA,NA,0
+1123205,1st innings,India,South Africa,21.5,V Krishnamurthy,DB Sharma,D van Niekerk,1,0,1,NA,0,NA,NA,NA,0
+1123205,1st innings,India,South Africa,21.6,DB Sharma,V Krishnamurthy,D van Niekerk,0,0,0,NA,0,NA,NA,NA,0
+1123205,1st innings,India,South Africa,22.1,V Krishnamurthy,DB Sharma,R Ntozakhe,0,0,0,NA,0,NA,NA,NA,0
+1123205,1st innings,India,South Africa,22.2,V Krishnamurthy,DB Sharma,R Ntozakhe,0,0,0,NA,0,NA,NA,NA,0
+1123205,1st innings,India,South Africa,22.3,V Krishnamurthy,DB Sharma,R Ntozakhe,1,0,1,NA,0,NA,NA,NA,0
+1123205,1st innings,India,South Africa,22.4,DB Sharma,V Krishnamurthy,R Ntozakhe,0,0,0,NA,0,NA,NA,NA,0
+1123205,1st innings,India,South Africa,22.5,DB Sharma,V Krishnamurthy,R Ntozakhe,0,0,0,NA,0,NA,NA,NA,0
+1123205,1st innings,India,South Africa,22.6,DB Sharma,V Krishnamurthy,R Ntozakhe,1,0,1,NA,0,NA,NA,NA,0
+1123205,1st innings,India,South Africa,23.1,DB Sharma,V Krishnamurthy,D van Niekerk,0,0,0,NA,0,NA,NA,NA,0
+1123205,1st innings,India,South Africa,23.2,DB Sharma,V Krishnamurthy,D van Niekerk,1,0,1,NA,0,NA,NA,NA,0
+1123205,1st innings,India,South Africa,23.3,V Krishnamurthy,DB Sharma,D van Niekerk,4,0,4,NA,0,NA,NA,NA,0
+1123205,1st innings,India,South Africa,23.4,V Krishnamurthy,DB Sharma,D van Niekerk,1,0,1,NA,0,NA,NA,NA,0
+1123205,1st innings,India,South Africa,23.5,DB Sharma,V Krishnamurthy,D van Niekerk,1,0,1,NA,0,NA,NA,NA,0
+1123205,1st innings,India,South Africa,23.6,V Krishnamurthy,DB Sharma,D van Niekerk,1,0,1,NA,0,NA,NA,NA,0
+1123205,1st innings,India,South Africa,24.1,V Krishnamurthy,DB Sharma,R Ntozakhe,2,0,2,NA,0,NA,NA,NA,0
+1123205,1st innings,India,South Africa,24.2,V Krishnamurthy,DB Sharma,R Ntozakhe,1,0,1,NA,0,NA,NA,NA,0
+1123205,1st innings,India,South Africa,24.3,DB Sharma,V Krishnamurthy,R Ntozakhe,0,0,0,NA,0,NA,NA,NA,0
+1123205,1st innings,India,South Africa,24.4,DB Sharma,V Krishnamurthy,R Ntozakhe,0,0,0,NA,0,NA,NA,NA,0
+1123205,1st innings,India,South Africa,24.5,DB Sharma,V Krishnamurthy,R Ntozakhe,0,0,0,NA,0,NA,NA,NA,0
+1123205,1st innings,India,South Africa,24.6,DB Sharma,V Krishnamurthy,R Ntozakhe,1,0,1,NA,0,NA,NA,NA,0
+1123205,1st innings,India,South Africa,25.1,DB Sharma,V Krishnamurthy,S Ismail,1,0,1,NA,0,NA,NA,NA,0
+1123205,1st innings,India,South Africa,25.2,V Krishnamurthy,DB Sharma,S Ismail,1,0,1,NA,0,NA,NA,NA,0
+1123205,1st innings,India,South Africa,25.3,DB Sharma,V Krishnamurthy,S Ismail,0,0,0,NA,0,NA,NA,NA,0
+1123205,1st innings,India,South Africa,25.4,DB Sharma,V Krishnamurthy,S Ismail,0,0,0,NA,0,NA,NA,NA,0
+1123205,1st innings,India,South Africa,25.5,DB Sharma,V Krishnamurthy,S Ismail,0,0,0,NA,0,NA,NA,NA,0
+1123205,1st innings,India,South Africa,25.6,DB Sharma,V Krishnamurthy,S Ismail,0,0,0,NA,0,NA,NA,NA,0
+1123205,1st innings,India,South Africa,26.1,V Krishnamurthy,DB Sharma,R Ntozakhe,1,0,1,NA,0,NA,NA,NA,0
+1123205,1st innings,India,South Africa,26.2,DB Sharma,V Krishnamurthy,R Ntozakhe,1,0,1,NA,0,NA,NA,NA,0
+1123205,1st innings,India,South Africa,26.3,V Krishnamurthy,DB Sharma,R Ntozakhe,0,0,0,NA,0,NA,NA,NA,0
+1123205,1st innings,India,South Africa,26.4,V Krishnamurthy,DB Sharma,R Ntozakhe,1,0,1,NA,0,NA,NA,NA,0
+1123205,1st innings,India,South Africa,26.5,DB Sharma,V Krishnamurthy,R Ntozakhe,1,0,1,NA,0,NA,NA,NA,0
+1123205,1st innings,India,South Africa,26.6,V Krishnamurthy,DB Sharma,R Ntozakhe,0,0,0,NA,0,NA,NA,NA,0
+1123205,1st innings,India,South Africa,27.1,DB Sharma,V Krishnamurthy,S Luus,1,0,1,NA,0,NA,NA,NA,0
+1123205,1st innings,India,South Africa,27.2,V Krishnamurthy,DB Sharma,S Luus,0,0,0,NA,0,NA,NA,NA,0
+1123205,1st innings,India,South Africa,27.3,V Krishnamurthy,DB Sharma,S Luus,0,0,0,NA,0,NA,NA,NA,0
+1123205,1st innings,India,South Africa,27.4,V Krishnamurthy,DB Sharma,S Luus,0,1,1,noballs,0,NA,NA,NA,0
+1123205,1st innings,India,South Africa,27.5,V Krishnamurthy,DB Sharma,S Luus,0,0,0,NA,0,NA,NA,NA,0
+1123205,1st innings,India,South Africa,27.6,V Krishnamurthy,DB Sharma,S Luus,1,0,1,NA,0,NA,NA,NA,0
+1123205,1st innings,India,South Africa,27.7,DB Sharma,V Krishnamurthy,S Luus,1,1,2,noballs,0,NA,NA,NA,0
+1123205,1st innings,India,South Africa,27.8,V Krishnamurthy,DB Sharma,S Luus,4,0,4,NA,0,NA,NA,NA,0
+1123205,1st innings,India,South Africa,28.1,DB Sharma,V Krishnamurthy,R Ntozakhe,1,0,1,NA,0,NA,NA,NA,0
+1123205,1st innings,India,South Africa,28.2,V Krishnamurthy,DB Sharma,R Ntozakhe,0,0,0,NA,0,NA,NA,NA,0
+1123205,1st innings,India,South Africa,28.3,V Krishnamurthy,DB Sharma,R Ntozakhe,1,0,1,NA,0,NA,NA,NA,0
+1123205,1st innings,India,South Africa,28.4,DB Sharma,V Krishnamurthy,R Ntozakhe,1,0,1,NA,0,NA,NA,NA,0
+1123205,1st innings,India,South Africa,28.5,V Krishnamurthy,DB Sharma,R Ntozakhe,0,0,0,NA,0,NA,NA,NA,0
+1123205,1st innings,India,South Africa,28.6,V Krishnamurthy,DB Sharma,R Ntozakhe,4,0,4,NA,0,NA,NA,NA,0
+1123205,1st innings,India,South Africa,29.1,DB Sharma,V Krishnamurthy,D van Niekerk,1,0,1,NA,0,NA,NA,NA,0
+1123205,1st innings,India,South Africa,29.2,V Krishnamurthy,DB Sharma,D van Niekerk,0,0,0,NA,0,NA,NA,NA,0
+1123205,1st innings,India,South Africa,29.3,V Krishnamurthy,DB Sharma,D van Niekerk,1,0,1,NA,0,NA,NA,NA,0
+1123205,1st innings,India,South Africa,29.4,DB Sharma,V Krishnamurthy,D van Niekerk,1,0,1,NA,0,NA,NA,NA,0
+1123205,1st innings,India,South Africa,29.5,V Krishnamurthy,DB Sharma,D van Niekerk,0,0,0,NA,0,NA,NA,NA,0
+1123205,1st innings,India,South Africa,29.6,V Krishnamurthy,DB Sharma,D van Niekerk,0,0,0,NA,0,NA,NA,NA,0
+1123205,1st innings,India,South Africa,30.1,DB Sharma,V Krishnamurthy,R Ntozakhe,0,0,0,NA,0,NA,NA,NA,0
+1123205,1st innings,India,South Africa,30.2,DB Sharma,V Krishnamurthy,R Ntozakhe,1,0,1,NA,0,NA,NA,NA,0
+1123205,1st innings,India,South Africa,30.3,V Krishnamurthy,DB Sharma,R Ntozakhe,0,0,0,NA,0,NA,NA,NA,0
+1123205,1st innings,India,South Africa,30.4,V Krishnamurthy,DB Sharma,R Ntozakhe,0,0,0,NA,0,NA,NA,NA,0
+1123205,1st innings,India,South Africa,30.5,V Krishnamurthy,DB Sharma,R Ntozakhe,0,0,0,NA,0,NA,NA,NA,0
+1123205,1st innings,India,South Africa,30.6,V Krishnamurthy,DB Sharma,R Ntozakhe,1,0,1,NA,0,NA,NA,NA,0
+1123205,1st innings,India,South Africa,31.1,V Krishnamurthy,DB Sharma,D van Niekerk,0,0,0,NA,0,NA,NA,NA,0
+1123205,1st innings,India,South Africa,31.2,V Krishnamurthy,DB Sharma,D van Niekerk,1,0,1,NA,0,NA,NA,NA,0
+1123205,1st innings,India,South Africa,31.3,DB Sharma,V Krishnamurthy,D van Niekerk,1,0,1,NA,0,NA,NA,NA,0
+1123205,1st innings,India,South Africa,31.4,V Krishnamurthy,DB Sharma,D van Niekerk,4,0,4,NA,0,NA,NA,NA,0
+1123205,1st innings,India,South Africa,31.5,V Krishnamurthy,DB Sharma,D van Niekerk,1,0,1,NA,0,NA,NA,NA,0
+1123205,1st innings,India,South Africa,31.6,DB Sharma,V Krishnamurthy,D van Niekerk,1,0,1,NA,0,NA,NA,NA,0
+1123205,1st innings,India,South Africa,32.1,DB Sharma,V Krishnamurthy,R Ntozakhe,1,0,1,NA,0,NA,NA,NA,0
+1123205,1st innings,India,South Africa,32.2,V Krishnamurthy,DB Sharma,R Ntozakhe,0,0,0,NA,0,NA,NA,NA,0
+1123205,1st innings,India,South Africa,32.3,V Krishnamurthy,DB Sharma,R Ntozakhe,4,0,4,NA,0,NA,NA,NA,0
+1123205,1st innings,India,South Africa,32.4,V Krishnamurthy,DB Sharma,R Ntozakhe,0,0,0,NA,0,NA,NA,NA,0
+1123205,1st innings,India,South Africa,32.5,V Krishnamurthy,DB Sharma,R Ntozakhe,2,0,2,NA,0,NA,NA,NA,0
+1123205,1st innings,India,South Africa,32.6,V Krishnamurthy,DB Sharma,R Ntozakhe,0,0,0,NA,0,NA,NA,NA,0
+1123205,1st innings,India,South Africa,33.1,DB Sharma,V Krishnamurthy,M Klaas,1,0,1,NA,0,NA,NA,NA,0
+1123205,1st innings,India,South Africa,33.2,V Krishnamurthy,DB Sharma,M Klaas,4,0,4,NA,0,NA,NA,NA,0
+1123205,1st innings,India,South Africa,33.3,V Krishnamurthy,DB Sharma,M Klaas,0,0,0,NA,0,NA,NA,NA,0
+1123205,1st innings,India,South Africa,33.4,V Krishnamurthy,DB Sharma,M Klaas,1,0,1,NA,0,NA,NA,NA,0
+1123205,1st innings,India,South Africa,33.5,DB Sharma,V Krishnamurthy,M Klaas,0,0,0,NA,0,NA,NA,NA,0
+1123205,1st innings,India,South Africa,33.6,DB Sharma,V Krishnamurthy,M Klaas,1,0,1,NA,0,NA,NA,NA,0
+1123205,1st innings,India,South Africa,34.1,DB Sharma,V Krishnamurthy,R Ntozakhe,0,0,0,NA,0,NA,NA,NA,0
+1123205,1st innings,India,South Africa,34.2,DB Sharma,V Krishnamurthy,R Ntozakhe,0,0,0,NA,0,NA,NA,NA,0
+1123205,1st innings,India,South Africa,34.3,DB Sharma,V Krishnamurthy,R Ntozakhe,1,0,1,NA,0,NA,NA,NA,0
+1123205,1st innings,India,South Africa,34.4,V Krishnamurthy,DB Sharma,R Ntozakhe,1,0,1,NA,0,NA,NA,NA,0
+1123205,1st innings,India,South Africa,34.5,DB Sharma,V Krishnamurthy,R Ntozakhe,1,0,1,NA,0,NA,NA,NA,0
+1123205,1st innings,India,South Africa,34.6,V Krishnamurthy,DB Sharma,R Ntozakhe,0,0,0,NA,1,caught,V Krishnamurthy,A Steyn,0
+1123205,1st innings,India,South Africa,35.1,DB Sharma,MR Meshram,M Klaas,0,0,0,NA,0,NA,NA,NA,0
+1123205,1st innings,India,South Africa,35.2,DB Sharma,MR Meshram,M Klaas,0,0,0,NA,0,NA,NA,NA,0
+1123205,1st innings,India,South Africa,35.3,DB Sharma,MR Meshram,M Klaas,0,0,0,NA,0,NA,NA,NA,0
+1123205,1st innings,India,South Africa,35.4,DB Sharma,MR Meshram,M Klaas,0,0,0,NA,0,NA,NA,NA,0
+1123205,1st innings,India,South Africa,35.5,DB Sharma,MR Meshram,M Klaas,1,0,1,NA,0,NA,NA,NA,0
+1123205,1st innings,India,South Africa,35.6,MR Meshram,DB Sharma,M Klaas,0,0,0,NA,0,NA,NA,NA,0
+1123205,1st innings,India,South Africa,36.1,DB Sharma,MR Meshram,A Khaka,0,1,1,wides,0,NA,NA,NA,0
+1123205,1st innings,India,South Africa,36.2,DB Sharma,MR Meshram,A Khaka,0,0,0,NA,0,NA,NA,NA,0
+1123205,1st innings,India,South Africa,36.3,DB Sharma,MR Meshram,A Khaka,1,0,1,NA,0,NA,NA,NA,0
+1123205,1st innings,India,South Africa,36.4,MR Meshram,DB Sharma,A Khaka,0,1,1,wides,0,NA,NA,NA,0
+1123205,1st innings,India,South Africa,36.5,MR Meshram,DB Sharma,A Khaka,0,0,0,NA,0,NA,NA,NA,0
+1123205,1st innings,India,South Africa,36.6,MR Meshram,DB Sharma,A Khaka,1,0,1,NA,0,NA,NA,NA,0
+1123205,1st innings,India,South Africa,36.7,DB Sharma,MR Meshram,A Khaka,0,0,0,NA,0,NA,NA,NA,0
+1123205,1st innings,India,South Africa,36.8,DB Sharma,MR Meshram,A Khaka,0,0,0,NA,0,NA,NA,NA,0
+1123205,1st innings,India,South Africa,37.1,MR Meshram,DB Sharma,M Klaas,1,0,1,NA,0,NA,NA,NA,0
+1123205,1st innings,India,South Africa,37.2,DB Sharma,MR Meshram,M Klaas,4,0,4,NA,0,NA,NA,NA,0
+1123205,1st innings,India,South Africa,37.3,DB Sharma,MR Meshram,M Klaas,4,0,4,NA,0,NA,NA,NA,0
+1123205,1st innings,India,South Africa,37.4,DB Sharma,MR Meshram,M Klaas,1,0,1,NA,0,NA,NA,NA,0
+1123205,1st innings,India,South Africa,37.5,MR Meshram,DB Sharma,M Klaas,0,0,0,NA,0,NA,NA,NA,0
+1123205,1st innings,India,South Africa,37.6,MR Meshram,DB Sharma,M Klaas,1,0,1,NA,0,NA,NA,NA,0
+1123205,1st innings,India,South Africa,38.1,MR Meshram,DB Sharma,S Ismail,0,0,0,NA,0,NA,NA,NA,0
+1123205,1st innings,India,South Africa,38.2,MR Meshram,DB Sharma,S Ismail,0,0,0,NA,0,NA,NA,NA,0
+1123205,1st innings,India,South Africa,38.3,MR Meshram,DB Sharma,S Ismail,0,1,1,wides,0,NA,NA,NA,0
+1123205,1st innings,India,South Africa,38.4,MR Meshram,DB Sharma,S Ismail,0,0,0,NA,0,NA,NA,NA,0
+1123205,1st innings,India,South Africa,38.5,MR Meshram,DB Sharma,S Ismail,0,0,0,NA,0,NA,NA,NA,0
+1123205,1st innings,India,South Africa,38.6,MR Meshram,DB Sharma,S Ismail,1,0,1,NA,0,NA,NA,NA,0
+1123205,1st innings,India,South Africa,38.7,DB Sharma,MR Meshram,S Ismail,1,0,1,NA,0,NA,NA,NA,0
+1123205,1st innings,India,South Africa,39.1,DB Sharma,MR Meshram,A Khaka,0,1,1,wides,0,NA,NA,NA,0
+1123205,1st innings,India,South Africa,39.2,DB Sharma,MR Meshram,A Khaka,0,1,1,wides,0,NA,NA,NA,0
+1123205,1st innings,India,South Africa,39.3,DB Sharma,MR Meshram,A Khaka,0,0,0,NA,0,NA,NA,NA,0
+1123205,1st innings,India,South Africa,39.4,DB Sharma,MR Meshram,A Khaka,1,0,1,NA,0,NA,NA,NA,0
+1123205,1st innings,India,South Africa,39.5,MR Meshram,DB Sharma,A Khaka,0,0,0,NA,0,NA,NA,NA,0
+1123205,1st innings,India,South Africa,39.6,MR Meshram,DB Sharma,A Khaka,1,0,1,NA,0,NA,NA,NA,0
+1123205,1st innings,India,South Africa,39.7,DB Sharma,MR Meshram,A Khaka,4,0,4,NA,0,NA,NA,NA,0
+1123205,1st innings,India,South Africa,39.8,DB Sharma,MR Meshram,A Khaka,0,0,0,NA,0,NA,NA,NA,0
+1123205,1st innings,India,South Africa,40.1,MR Meshram,DB Sharma,CL Tryon,2,0,2,NA,0,NA,NA,NA,0
+1123205,1st innings,India,South Africa,40.2,MR Meshram,DB Sharma,CL Tryon,1,0,1,NA,0,NA,NA,NA,0
+1123205,1st innings,India,South Africa,40.3,DB Sharma,MR Meshram,CL Tryon,1,0,1,NA,0,NA,NA,NA,0
+1123205,1st innings,India,South Africa,40.4,MR Meshram,DB Sharma,CL Tryon,0,0,0,NA,0,NA,NA,NA,0
+1123205,1st innings,India,South Africa,40.5,MR Meshram,DB Sharma,CL Tryon,1,0,1,NA,0,NA,NA,NA,0
+1123205,1st innings,India,South Africa,40.6,DB Sharma,MR Meshram,CL Tryon,2,0,2,NA,0,NA,NA,NA,0
+1123205,1st innings,India,South Africa,41.1,MR Meshram,DB Sharma,R Ntozakhe,1,0,1,NA,0,NA,NA,NA,0
+1123205,1st innings,India,South Africa,41.2,DB Sharma,MR Meshram,R Ntozakhe,4,0,4,NA,0,NA,NA,NA,0
+1123205,1st innings,India,South Africa,41.3,DB Sharma,MR Meshram,R Ntozakhe,0,0,0,NA,0,NA,NA,NA,0
+1123205,1st innings,India,South Africa,41.4,DB Sharma,MR Meshram,R Ntozakhe,4,0,4,NA,0,NA,NA,NA,0
+1123205,1st innings,India,South Africa,41.5,DB Sharma,MR Meshram,R Ntozakhe,1,0,1,NA,0,NA,NA,NA,0
+1123205,1st innings,India,South Africa,41.6,MR Meshram,DB Sharma,R Ntozakhe,0,0,0,NA,0,NA,NA,NA,0
+1123205,1st innings,India,South Africa,42.1,DB Sharma,MR Meshram,CL Tryon,1,0,1,NA,0,NA,NA,NA,0
+1123205,1st innings,India,South Africa,42.2,MR Meshram,DB Sharma,CL Tryon,0,0,0,NA,0,NA,NA,NA,0
+1123205,1st innings,India,South Africa,42.3,MR Meshram,DB Sharma,CL Tryon,1,0,1,NA,0,NA,NA,NA,0
+1123205,1st innings,India,South Africa,42.4,DB Sharma,MR Meshram,CL Tryon,0,0,0,NA,1,caught,DB Sharma,S Ismail,0
+1123205,1st innings,India,South Africa,42.5,S Verma,MR Meshram,CL Tryon,0,0,0,NA,0,NA,NA,NA,0
+1123205,1st innings,India,South Africa,42.6,S Verma,MR Meshram,CL Tryon,1,0,1,NA,0,NA,NA,NA,0
+1123205,1st innings,India,South Africa,43.1,S Verma,MR Meshram,A Khaka,0,0,0,NA,0,NA,NA,NA,0
+1123205,1st innings,India,South Africa,43.2,S Verma,MR Meshram,A Khaka,0,0,0,NA,0,NA,NA,NA,0
+1123205,1st innings,India,South Africa,43.3,S Verma,MR Meshram,A Khaka,0,0,0,NA,0,NA,NA,NA,0
+1123205,1st innings,India,South Africa,43.4,S Verma,MR Meshram,A Khaka,0,0,0,NA,0,NA,NA,NA,0
+1123205,1st innings,India,South Africa,43.5,S Verma,MR Meshram,A Khaka,0,0,0,NA,0,NA,NA,NA,0
+1123205,1st innings,India,South Africa,43.6,S Verma,MR Meshram,A Khaka,0,0,0,NA,0,NA,NA,NA,0
+1123205,1st innings,India,South Africa,44.1,MR Meshram,S Verma,CL Tryon,0,0,0,NA,1,caught,MR Meshram,D van Niekerk,0
+1123205,1st innings,India,South Africa,44.2,S Pandey,S Verma,CL Tryon,4,0,4,NA,0,NA,NA,NA,0
+1123205,1st innings,India,South Africa,44.3,S Pandey,S Verma,CL Tryon,1,0,1,NA,0,NA,NA,NA,0
+1123205,1st innings,India,South Africa,44.4,S Verma,S Pandey,CL Tryon,0,0,0,NA,0,NA,NA,NA,0
+1123205,1st innings,India,South Africa,44.5,S Verma,S Pandey,CL Tryon,4,0,4,NA,0,NA,NA,NA,0
+1123205,1st innings,India,South Africa,44.6,S Verma,S Pandey,CL Tryon,1,0,1,NA,0,NA,NA,NA,0
+1123205,1st innings,India,South Africa,45.1,S Verma,S Pandey,A Khaka,4,0,4,NA,0,NA,NA,NA,0
+1123205,1st innings,India,South Africa,45.2,S Verma,S Pandey,A Khaka,1,0,1,NA,0,NA,NA,NA,0
+1123205,1st innings,India,South Africa,45.3,S Pandey,S Verma,A Khaka,4,0,4,NA,0,NA,NA,NA,0
+1123205,1st innings,India,South Africa,45.4,S Pandey,S Verma,A Khaka,0,0,0,NA,0,NA,NA,NA,0
+1123205,1st innings,India,South Africa,45.5,S Pandey,S Verma,A Khaka,1,0,1,NA,0,NA,NA,NA,0
+1123205,1st innings,India,South Africa,45.6,S Verma,S Pandey,A Khaka,0,0,0,NA,0,NA,NA,NA,0
+1123205,1st innings,India,South Africa,46.1,S Pandey,S Verma,S Ismail,1,0,1,NA,0,NA,NA,NA,0
+1123205,1st innings,India,South Africa,46.2,S Verma,S Pandey,S Ismail,4,0,4,NA,0,NA,NA,NA,0
+1123205,1st innings,India,South Africa,46.3,S Verma,S Pandey,S Ismail,2,0,2,NA,0,NA,NA,NA,0
+1123205,1st innings,India,South Africa,46.4,S Verma,S Pandey,S Ismail,0,0,0,NA,1,caught,S Verma,CL Tryon,0
+1123205,1st innings,India,South Africa,46.5,S Pandey,P Vastrakar,S Ismail,4,0,4,NA,0,NA,NA,NA,0
+1123205,1st innings,India,South Africa,46.6,S Pandey,P Vastrakar,S Ismail,1,0,1,NA,0,NA,NA,NA,0
+1123205,1st innings,India,South Africa,47.1,S Pandey,P Vastrakar,A Khaka,4,0,4,NA,0,NA,NA,NA,0
+1123205,1st innings,India,South Africa,47.2,S Pandey,P Vastrakar,A Khaka,4,0,4,NA,0,NA,NA,NA,0
+1123205,1st innings,India,South Africa,47.3,S Pandey,P Vastrakar,A Khaka,1,0,1,NA,0,NA,NA,NA,0
+1123205,1st innings,India,South Africa,47.4,P Vastrakar,S Pandey,A Khaka,1,0,1,NA,0,NA,NA,NA,0
+1123205,1st innings,India,South Africa,47.5,S Pandey,P Vastrakar,A Khaka,0,0,0,NA,0,NA,NA,NA,0
+1123205,1st innings,India,South Africa,47.6,S Pandey,P Vastrakar,A Khaka,1,0,1,NA,0,NA,NA,NA,0
+1123205,1st innings,India,South Africa,48.1,S Pandey,P Vastrakar,S Ismail,1,0,1,NA,0,NA,NA,NA,0
+1123205,1st innings,India,South Africa,48.2,P Vastrakar,S Pandey,S Ismail,0,0,0,NA,1,bowled,P Vastrakar,NA,0
+1123205,1st innings,India,South Africa,48.3,E Bisht,S Pandey,S Ismail,0,0,0,NA,0,NA,NA,NA,0
+1123205,1st innings,India,South Africa,48.4,E Bisht,S Pandey,S Ismail,1,1,2,noballs,0,NA,NA,NA,0
+1123205,1st innings,India,South Africa,48.5,E Bisht,S Pandey,S Ismail,0,0,0,NA,0,NA,NA,NA,0
+1123205,1st innings,India,South Africa,48.6,E Bisht,S Pandey,S Ismail,0,0,0,NA,1,bowled,E Bisht,NA,0
+1123205,1st innings,India,South Africa,48.7,Poonam Yadav,S Pandey,S Ismail,1,0,1,NA,0,NA,NA,NA,0
+1123205,1st innings,India,South Africa,49.1,Poonam Yadav,S Pandey,CL Tryon,1,0,1,NA,0,NA,NA,NA,0
+1123205,1st innings,India,South Africa,49.2,S Pandey,Poonam Yadav,CL Tryon,4,0,4,NA,0,NA,NA,NA,0
+1123205,1st innings,India,South Africa,49.3,S Pandey,Poonam Yadav,CL Tryon,0,1,1,byes,0,NA,NA,NA,0
+1123205,1st innings,India,South Africa,49.4,Poonam Yadav,S Pandey,CL Tryon,0,0,0,NA,0,NA,NA,NA,0
+1123205,1st innings,India,South Africa,49.5,Poonam Yadav,S Pandey,CL Tryon,0,0,0,NA,0,NA,NA,NA,0
+1123205,1st innings,India,South Africa,49.6,Poonam Yadav,S Pandey,CL Tryon,0,0,0,NA,1,run out,Poonam Yadav,NA,0
+1123205,2nd innings,South Africa,India,0.1,L Lee,L Wolvaardt,S Pandey,0,0,0,NA,0,NA,NA,NA,1
+1123205,2nd innings,South Africa,India,0.2,L Lee,L Wolvaardt,S Pandey,0,0,0,NA,0,NA,NA,NA,1
+1123205,2nd innings,South Africa,India,0.3,L Lee,L Wolvaardt,S Pandey,0,0,0,NA,0,NA,NA,NA,1
+1123205,2nd innings,South Africa,India,0.4,L Lee,L Wolvaardt,S Pandey,0,0,0,NA,0,NA,NA,NA,1
+1123205,2nd innings,South Africa,India,0.5,L Lee,L Wolvaardt,S Pandey,1,0,1,NA,0,NA,NA,NA,1
+1123205,2nd innings,South Africa,India,0.6,L Wolvaardt,L Lee,S Pandey,0,0,0,NA,0,NA,NA,NA,1
+1123205,2nd innings,South Africa,India,1.1,L Lee,L Wolvaardt,P Vastrakar,0,0,0,NA,0,NA,NA,NA,1
+1123205,2nd innings,South Africa,India,1.2,L Lee,L Wolvaardt,P Vastrakar,0,0,0,NA,0,NA,NA,NA,1
+1123205,2nd innings,South Africa,India,1.3,L Lee,L Wolvaardt,P Vastrakar,4,0,4,NA,0,NA,NA,NA,1
+1123205,2nd innings,South Africa,India,1.4,L Lee,L Wolvaardt,P Vastrakar,0,0,0,NA,0,NA,NA,NA,1
+1123205,2nd innings,South Africa,India,1.5,L Lee,L Wolvaardt,P Vastrakar,0,0,0,NA,0,NA,NA,NA,1
+1123205,2nd innings,South Africa,India,1.6,L Lee,L Wolvaardt,P Vastrakar,1,0,1,NA,0,NA,NA,NA,1
+1123205,2nd innings,South Africa,India,2.1,L Lee,L Wolvaardt,S Pandey,4,0,4,NA,0,NA,NA,NA,1
+1123205,2nd innings,South Africa,India,2.2,L Lee,L Wolvaardt,S Pandey,0,0,0,NA,0,NA,NA,NA,1
+1123205,2nd innings,South Africa,India,2.3,L Lee,L Wolvaardt,S Pandey,0,0,0,NA,1,caught,L Lee,E Bisht,1
+1123205,2nd innings,South Africa,India,2.4,A Steyn,L Wolvaardt,S Pandey,0,0,0,NA,0,NA,NA,NA,1
+1123205,2nd innings,South Africa,India,2.5,A Steyn,L Wolvaardt,S Pandey,1,0,1,NA,0,NA,NA,NA,1
+1123205,2nd innings,South Africa,India,2.6,L Wolvaardt,A Steyn,S Pandey,0,0,0,NA,0,NA,NA,NA,1
+1123205,2nd innings,South Africa,India,3.1,A Steyn,L Wolvaardt,P Vastrakar,0,0,0,NA,0,NA,NA,NA,1
+1123205,2nd innings,South Africa,India,3.2,A Steyn,L Wolvaardt,P Vastrakar,0,0,0,NA,0,NA,NA,NA,1
+1123205,2nd innings,South Africa,India,3.3,A Steyn,L Wolvaardt,P Vastrakar,0,0,0,NA,0,NA,NA,NA,1
+1123205,2nd innings,South Africa,India,3.4,A Steyn,L Wolvaardt,P Vastrakar,0,0,0,NA,0,NA,NA,NA,1
+1123205,2nd innings,South Africa,India,3.5,A Steyn,L Wolvaardt,P Vastrakar,0,0,0,NA,0,NA,NA,NA,1
+1123205,2nd innings,South Africa,India,3.6,A Steyn,L Wolvaardt,P Vastrakar,0,0,0,NA,0,NA,NA,NA,1
+1123205,2nd innings,South Africa,India,4.1,L Wolvaardt,A Steyn,S Pandey,0,0,0,NA,0,NA,NA,NA,1
+1123205,2nd innings,South Africa,India,4.2,L Wolvaardt,A Steyn,S Pandey,1,0,1,NA,0,NA,NA,NA,1
+1123205,2nd innings,South Africa,India,4.3,A Steyn,L Wolvaardt,S Pandey,0,0,0,NA,0,NA,NA,NA,1
+1123205,2nd innings,South Africa,India,4.4,A Steyn,L Wolvaardt,S Pandey,4,0,4,NA,0,NA,NA,NA,1
+1123205,2nd innings,South Africa,India,4.5,A Steyn,L Wolvaardt,S Pandey,0,0,0,NA,0,NA,NA,NA,1
+1123205,2nd innings,South Africa,India,4.6,A Steyn,L Wolvaardt,S Pandey,4,0,4,NA,0,NA,NA,NA,1
+1123205,2nd innings,South Africa,India,5.1,L Wolvaardt,A Steyn,P Vastrakar,1,0,1,NA,0,NA,NA,NA,1
+1123205,2nd innings,South Africa,India,5.2,A Steyn,L Wolvaardt,P Vastrakar,0,0,0,NA,0,NA,NA,NA,1
+1123205,2nd innings,South Africa,India,5.3,A Steyn,L Wolvaardt,P Vastrakar,0,0,0,NA,0,NA,NA,NA,1
+1123205,2nd innings,South Africa,India,5.4,A Steyn,L Wolvaardt,P Vastrakar,0,0,0,NA,0,NA,NA,NA,1
+1123205,2nd innings,South Africa,India,5.5,A Steyn,L Wolvaardt,P Vastrakar,4,0,4,NA,0,NA,NA,NA,1
+1123205,2nd innings,South Africa,India,5.6,A Steyn,L Wolvaardt,P Vastrakar,0,0,0,NA,0,NA,NA,NA,1
+1123205,2nd innings,South Africa,India,6.1,L Wolvaardt,A Steyn,S Pandey,0,0,0,NA,0,NA,NA,NA,1
+1123205,2nd innings,South Africa,India,6.2,L Wolvaardt,A Steyn,S Pandey,1,0,1,NA,0,NA,NA,NA,1
+1123205,2nd innings,South Africa,India,6.3,A Steyn,L Wolvaardt,S Pandey,0,0,0,NA,0,NA,NA,NA,1
+1123205,2nd innings,South Africa,India,6.4,A Steyn,L Wolvaardt,S Pandey,0,0,0,NA,0,NA,NA,NA,1
+1123205,2nd innings,South Africa,India,6.5,A Steyn,L Wolvaardt,S Pandey,0,0,0,NA,0,NA,NA,NA,1
+1123205,2nd innings,South Africa,India,6.6,A Steyn,L Wolvaardt,S Pandey,1,0,1,NA,0,NA,NA,NA,1
+1123205,2nd innings,South Africa,India,7.1,A Steyn,L Wolvaardt,P Vastrakar,0,0,0,NA,0,NA,NA,NA,1
+1123205,2nd innings,South Africa,India,7.2,A Steyn,L Wolvaardt,P Vastrakar,0,0,0,NA,0,NA,NA,NA,1
+1123205,2nd innings,South Africa,India,7.3,A Steyn,L Wolvaardt,P Vastrakar,4,0,4,NA,0,NA,NA,NA,1
+1123205,2nd innings,South Africa,India,7.4,A Steyn,L Wolvaardt,P Vastrakar,0,0,0,NA,0,NA,NA,NA,1
+1123205,2nd innings,South Africa,India,7.5,A Steyn,L Wolvaardt,P Vastrakar,0,0,0,NA,0,NA,NA,NA,1
+1123205,2nd innings,South Africa,India,7.6,A Steyn,L Wolvaardt,P Vastrakar,0,0,0,NA,0,NA,NA,NA,1
+1123205,2nd innings,South Africa,India,8.1,L Wolvaardt,A Steyn,S Pandey,0,0,0,NA,0,NA,NA,NA,1
+1123205,2nd innings,South Africa,India,8.2,L Wolvaardt,A Steyn,S Pandey,0,0,0,NA,0,NA,NA,NA,1
+1123205,2nd innings,South Africa,India,8.3,L Wolvaardt,A Steyn,S Pandey,1,0,1,NA,0,NA,NA,NA,1
+1123205,2nd innings,South Africa,India,8.4,A Steyn,L Wolvaardt,S Pandey,0,0,0,NA,0,NA,NA,NA,1
+1123205,2nd innings,South Africa,India,8.5,A Steyn,L Wolvaardt,S Pandey,0,0,0,NA,0,NA,NA,NA,1
+1123205,2nd innings,South Africa,India,8.6,A Steyn,L Wolvaardt,S Pandey,0,0,0,NA,0,NA,NA,NA,1
+1123205,2nd innings,South Africa,India,9.1,L Wolvaardt,A Steyn,E Bisht,0,1,1,legbyes,0,NA,NA,NA,1
+1123205,2nd innings,South Africa,India,9.2,A Steyn,L Wolvaardt,E Bisht,0,0,0,NA,0,NA,NA,NA,1
+1123205,2nd innings,South Africa,India,9.3,A Steyn,L Wolvaardt,E Bisht,0,0,0,NA,0,NA,NA,NA,1
+1123205,2nd innings,South Africa,India,9.4,A Steyn,L Wolvaardt,E Bisht,0,0,0,NA,0,NA,NA,NA,1
+1123205,2nd innings,South Africa,India,9.5,A Steyn,L Wolvaardt,E Bisht,1,0,1,NA,0,NA,NA,NA,1
+1123205,2nd innings,South Africa,India,9.6,L Wolvaardt,A Steyn,E Bisht,0,0,0,NA,0,NA,NA,NA,1
+1123205,2nd innings,South Africa,India,10.1,A Steyn,L Wolvaardt,DB Sharma,0,0,0,NA,0,NA,NA,NA,1
+1123205,2nd innings,South Africa,India,10.2,A Steyn,L Wolvaardt,DB Sharma,1,0,1,NA,0,NA,NA,NA,1
+1123205,2nd innings,South Africa,India,10.3,L Wolvaardt,A Steyn,DB Sharma,0,0,0,NA,0,NA,NA,NA,1
+1123205,2nd innings,South Africa,India,10.4,L Wolvaardt,A Steyn,DB Sharma,0,0,0,NA,0,NA,NA,NA,1
+1123205,2nd innings,South Africa,India,10.5,L Wolvaardt,A Steyn,DB Sharma,1,0,1,NA,0,NA,NA,NA,1
+1123205,2nd innings,South Africa,India,10.6,A Steyn,L Wolvaardt,DB Sharma,0,0,0,NA,0,NA,NA,NA,1
+1123205,2nd innings,South Africa,India,11.1,L Wolvaardt,A Steyn,E Bisht,1,0,1,NA,0,NA,NA,NA,1
+1123205,2nd innings,South Africa,India,11.2,A Steyn,L Wolvaardt,E Bisht,1,0,1,NA,0,NA,NA,NA,1
+1123205,2nd innings,South Africa,India,11.3,L Wolvaardt,A Steyn,E Bisht,0,0,0,NA,0,NA,NA,NA,1
+1123205,2nd innings,South Africa,India,11.4,L Wolvaardt,A Steyn,E Bisht,0,0,0,NA,0,NA,NA,NA,1
+1123205,2nd innings,South Africa,India,11.5,L Wolvaardt,A Steyn,E Bisht,0,0,0,NA,0,NA,NA,NA,1
+1123205,2nd innings,South Africa,India,11.6,L Wolvaardt,A Steyn,E Bisht,0,0,0,NA,0,NA,NA,NA,1
+1123205,2nd innings,South Africa,India,12.1,A Steyn,L Wolvaardt,DB Sharma,1,0,1,NA,0,NA,NA,NA,1
+1123205,2nd innings,South Africa,India,12.2,L Wolvaardt,A Steyn,DB Sharma,1,0,1,NA,0,NA,NA,NA,1
+1123205,2nd innings,South Africa,India,12.3,A Steyn,L Wolvaardt,DB Sharma,0,0,0,NA,0,NA,NA,NA,1
+1123205,2nd innings,South Africa,India,12.4,A Steyn,L Wolvaardt,DB Sharma,0,0,0,NA,0,NA,NA,NA,1
+1123205,2nd innings,South Africa,India,12.5,A Steyn,L Wolvaardt,DB Sharma,1,0,1,NA,0,NA,NA,NA,1
+1123205,2nd innings,South Africa,India,12.6,L Wolvaardt,A Steyn,DB Sharma,2,0,2,NA,0,NA,NA,NA,1
+1123205,2nd innings,South Africa,India,13.1,A Steyn,L Wolvaardt,E Bisht,0,0,0,NA,0,NA,NA,NA,1
+1123205,2nd innings,South Africa,India,13.2,A Steyn,L Wolvaardt,E Bisht,1,0,1,NA,0,NA,NA,NA,1
+1123205,2nd innings,South Africa,India,13.3,L Wolvaardt,A Steyn,E Bisht,1,0,1,NA,0,NA,NA,NA,1
+1123205,2nd innings,South Africa,India,13.4,A Steyn,L Wolvaardt,E Bisht,1,0,1,NA,0,NA,NA,NA,1
+1123205,2nd innings,South Africa,India,13.5,L Wolvaardt,A Steyn,E Bisht,0,0,0,NA,0,NA,NA,NA,1
+1123205,2nd innings,South Africa,India,13.6,L Wolvaardt,A Steyn,E Bisht,0,0,0,NA,0,NA,NA,NA,1
+1123205,2nd innings,South Africa,India,14.1,A Steyn,L Wolvaardt,DB Sharma,0,0,0,NA,0,NA,NA,NA,1
+1123205,2nd innings,South Africa,India,14.2,A Steyn,L Wolvaardt,DB Sharma,0,0,0,NA,0,NA,NA,NA,1
+1123205,2nd innings,South Africa,India,14.3,A Steyn,L Wolvaardt,DB Sharma,4,0,4,NA,0,NA,NA,NA,1
+1123205,2nd innings,South Africa,India,14.4,A Steyn,L Wolvaardt,DB Sharma,0,0,0,NA,0,NA,NA,NA,1
+1123205,2nd innings,South Africa,India,14.5,A Steyn,L Wolvaardt,DB Sharma,0,0,0,NA,0,NA,NA,NA,1
+1123205,2nd innings,South Africa,India,14.6,A Steyn,L Wolvaardt,DB Sharma,1,0,1,NA,0,NA,NA,NA,1
+1123205,2nd innings,South Africa,India,15.1,A Steyn,L Wolvaardt,Poonam Yadav,0,0,0,NA,0,NA,NA,NA,1
+1123205,2nd innings,South Africa,India,15.2,A Steyn,L Wolvaardt,Poonam Yadav,0,0,0,NA,1,caught and bowled,A Steyn,NA,1
+1123205,2nd innings,South Africa,India,15.3,M du Preez,L Wolvaardt,Poonam Yadav,0,0,0,NA,0,NA,NA,NA,1
+1123205,2nd innings,South Africa,India,15.4,M du Preez,L Wolvaardt,Poonam Yadav,0,0,0,NA,0,NA,NA,NA,1
+1123205,2nd innings,South Africa,India,15.5,M du Preez,L Wolvaardt,Poonam Yadav,0,0,0,NA,0,NA,NA,NA,1
+1123205,2nd innings,South Africa,India,15.6,M du Preez,L Wolvaardt,Poonam Yadav,1,0,1,NA,0,NA,NA,NA,1
+1123205,2nd innings,South Africa,India,16.1,M du Preez,L Wolvaardt,E Bisht,0,0,0,NA,0,NA,NA,NA,1
+1123205,2nd innings,South Africa,India,16.2,M du Preez,L Wolvaardt,E Bisht,0,0,0,NA,0,NA,NA,NA,1
+1123205,2nd innings,South Africa,India,16.3,M du Preez,L Wolvaardt,E Bisht,0,0,0,NA,0,NA,NA,NA,1
+1123205,2nd innings,South Africa,India,16.4,M du Preez,L Wolvaardt,E Bisht,0,0,0,NA,0,NA,NA,NA,1
+1123205,2nd innings,South Africa,India,16.5,M du Preez,L Wolvaardt,E Bisht,0,0,0,NA,0,NA,NA,NA,1
+1123205,2nd innings,South Africa,India,16.6,M du Preez,L Wolvaardt,E Bisht,0,0,0,NA,0,NA,NA,NA,1
+1123205,2nd innings,South Africa,India,17.1,L Wolvaardt,M du Preez,Poonam Yadav,0,0,0,NA,0,NA,NA,NA,1
+1123205,2nd innings,South Africa,India,17.2,L Wolvaardt,M du Preez,Poonam Yadav,1,0,1,NA,0,NA,NA,NA,1
+1123205,2nd innings,South Africa,India,17.3,M du Preez,L Wolvaardt,Poonam Yadav,1,0,1,NA,0,NA,NA,NA,1
+1123205,2nd innings,South Africa,India,17.4,L Wolvaardt,M du Preez,Poonam Yadav,0,0,0,NA,0,NA,NA,NA,1
+1123205,2nd innings,South Africa,India,17.5,L Wolvaardt,M du Preez,Poonam Yadav,1,0,1,NA,0,NA,NA,NA,1
+1123205,2nd innings,South Africa,India,17.6,M du Preez,L Wolvaardt,Poonam Yadav,1,0,1,NA,0,NA,NA,NA,1
+1123205,2nd innings,South Africa,India,18.1,M du Preez,L Wolvaardt,E Bisht,0,0,0,NA,0,NA,NA,NA,1
+1123205,2nd innings,South Africa,India,18.2,M du Preez,L Wolvaardt,E Bisht,1,0,1,NA,0,NA,NA,NA,1
+1123205,2nd innings,South Africa,India,18.3,L Wolvaardt,M du Preez,E Bisht,0,0,0,NA,0,NA,NA,NA,1
+1123205,2nd innings,South Africa,India,18.4,L Wolvaardt,M du Preez,E Bisht,1,0,1,NA,0,NA,NA,NA,1
+1123205,2nd innings,South Africa,India,18.5,M du Preez,L Wolvaardt,E Bisht,1,0,1,NA,0,NA,NA,NA,1
+1123205,2nd innings,South Africa,India,18.6,L Wolvaardt,M du Preez,E Bisht,1,0,1,NA,0,NA,NA,NA,1
+1123205,2nd innings,South Africa,India,19.1,L Wolvaardt,M du Preez,Poonam Yadav,0,0,0,NA,0,NA,NA,NA,1
+1123205,2nd innings,South Africa,India,19.2,L Wolvaardt,M du Preez,Poonam Yadav,0,2,2,byes,0,NA,NA,NA,1
+1123205,2nd innings,South Africa,India,19.3,L Wolvaardt,M du Preez,Poonam Yadav,0,0,0,NA,0,NA,NA,NA,1
+1123205,2nd innings,South Africa,India,19.4,L Wolvaardt,M du Preez,Poonam Yadav,0,0,0,NA,0,NA,NA,NA,1
+1123205,2nd innings,South Africa,India,19.5,L Wolvaardt,M du Preez,Poonam Yadav,1,0,1,NA,0,NA,NA,NA,1
+1123205,2nd innings,South Africa,India,19.6,M du Preez,L Wolvaardt,Poonam Yadav,1,0,1,NA,0,NA,NA,NA,1
+1123205,2nd innings,South Africa,India,20.1,M du Preez,L Wolvaardt,P Vastrakar,0,0,0,NA,0,NA,NA,NA,1
+1123205,2nd innings,South Africa,India,20.2,M du Preez,L Wolvaardt,P Vastrakar,1,0,1,NA,0,NA,NA,NA,1
+1123205,2nd innings,South Africa,India,20.3,L Wolvaardt,M du Preez,P Vastrakar,0,0,0,NA,0,NA,NA,NA,1
+1123205,2nd innings,South Africa,India,20.4,L Wolvaardt,M du Preez,P Vastrakar,0,0,0,NA,0,NA,NA,NA,1
+1123205,2nd innings,South Africa,India,20.5,L Wolvaardt,M du Preez,P Vastrakar,1,0,1,NA,0,NA,NA,NA,1
+1123205,2nd innings,South Africa,India,20.6,M du Preez,L Wolvaardt,P Vastrakar,0,0,0,NA,0,NA,NA,NA,1
+1123205,2nd innings,South Africa,India,21.1,L Wolvaardt,M du Preez,Poonam Yadav,1,0,1,NA,0,NA,NA,NA,1
+1123205,2nd innings,South Africa,India,21.2,M du Preez,L Wolvaardt,Poonam Yadav,0,0,0,NA,0,NA,NA,NA,1
+1123205,2nd innings,South Africa,India,21.3,M du Preez,L Wolvaardt,Poonam Yadav,0,0,0,NA,0,NA,NA,NA,1
+1123205,2nd innings,South Africa,India,21.4,M du Preez,L Wolvaardt,Poonam Yadav,0,0,0,NA,0,NA,NA,NA,1
+1123205,2nd innings,South Africa,India,21.5,M du Preez,L Wolvaardt,Poonam Yadav,1,0,1,NA,0,NA,NA,NA,1
+1123205,2nd innings,South Africa,India,21.6,L Wolvaardt,M du Preez,Poonam Yadav,0,0,0,NA,0,NA,NA,NA,1
+1123205,2nd innings,South Africa,India,22.1,M du Preez,L Wolvaardt,P Vastrakar,2,0,2,NA,0,NA,NA,NA,1
+1123205,2nd innings,South Africa,India,22.2,M du Preez,L Wolvaardt,P Vastrakar,0,0,0,NA,0,NA,NA,NA,1
+1123205,2nd innings,South Africa,India,22.3,M du Preez,L Wolvaardt,P Vastrakar,0,0,0,NA,0,NA,NA,NA,1
+1123205,2nd innings,South Africa,India,22.4,M du Preez,L Wolvaardt,P Vastrakar,0,0,0,NA,0,NA,NA,NA,1
+1123205,2nd innings,South Africa,India,22.5,M du Preez,L Wolvaardt,P Vastrakar,0,0,0,NA,0,NA,NA,NA,1
+1123205,2nd innings,South Africa,India,22.6,M du Preez,L Wolvaardt,P Vastrakar,0,0,0,NA,0,NA,NA,NA,1
+1123205,2nd innings,South Africa,India,23.1,L Wolvaardt,M du Preez,DB Sharma,1,0,1,NA,0,NA,NA,NA,1
+1123205,2nd innings,South Africa,India,23.2,M du Preez,L Wolvaardt,DB Sharma,1,0,1,NA,0,NA,NA,NA,1
+1123205,2nd innings,South Africa,India,23.3,L Wolvaardt,M du Preez,DB Sharma,1,0,1,NA,0,NA,NA,NA,1
+1123205,2nd innings,South Africa,India,23.4,M du Preez,L Wolvaardt,DB Sharma,0,0,0,NA,0,NA,NA,NA,1
+1123205,2nd innings,South Africa,India,23.5,M du Preez,L Wolvaardt,DB Sharma,1,0,1,NA,0,NA,NA,NA,1
+1123205,2nd innings,South Africa,India,23.6,L Wolvaardt,M du Preez,DB Sharma,0,0,0,NA,0,NA,NA,NA,1
+1123205,2nd innings,South Africa,India,24.1,M du Preez,L Wolvaardt,P Vastrakar,0,0,0,NA,0,NA,NA,NA,1
+1123205,2nd innings,South Africa,India,24.2,M du Preez,L Wolvaardt,P Vastrakar,4,0,4,NA,0,NA,NA,NA,1
+1123205,2nd innings,South Africa,India,24.3,M du Preez,L Wolvaardt,P Vastrakar,0,0,0,NA,0,NA,NA,NA,1
+1123205,2nd innings,South Africa,India,24.4,M du Preez,L Wolvaardt,P Vastrakar,1,0,1,NA,0,NA,NA,NA,1
+1123205,2nd innings,South Africa,India,24.5,L Wolvaardt,M du Preez,P Vastrakar,0,0,0,NA,0,NA,NA,NA,1
+1123205,2nd innings,South Africa,India,24.6,L Wolvaardt,M du Preez,P Vastrakar,4,0,4,NA,0,NA,NA,NA,1
+1123205,2nd innings,South Africa,India,25.1,M du Preez,L Wolvaardt,DB Sharma,4,0,4,NA,0,NA,NA,NA,1
+1123205,2nd innings,South Africa,India,25.2,M du Preez,L Wolvaardt,DB Sharma,1,0,1,NA,0,NA,NA,NA,1
+1123205,2nd innings,South Africa,India,25.3,L Wolvaardt,M du Preez,DB Sharma,1,0,1,NA,0,NA,NA,NA,1
+1123205,2nd innings,South Africa,India,25.4,M du Preez,L Wolvaardt,DB Sharma,1,0,1,NA,0,NA,NA,NA,1
+1123205,2nd innings,South Africa,India,25.5,L Wolvaardt,M du Preez,DB Sharma,0,0,0,NA,0,NA,NA,NA,1
+1123205,2nd innings,South Africa,India,25.6,L Wolvaardt,M du Preez,DB Sharma,0,0,0,NA,0,NA,NA,NA,1
+1123205,2nd innings,South Africa,India,26.1,M du Preez,L Wolvaardt,Poonam Yadav,1,0,1,NA,0,NA,NA,NA,1
+1123205,2nd innings,South Africa,India,26.2,L Wolvaardt,M du Preez,Poonam Yadav,4,0,4,NA,0,NA,NA,NA,1
+1123205,2nd innings,South Africa,India,26.3,L Wolvaardt,M du Preez,Poonam Yadav,0,0,0,NA,0,NA,NA,NA,1
+1123205,2nd innings,South Africa,India,26.4,L Wolvaardt,M du Preez,Poonam Yadav,1,0,1,NA,0,NA,NA,NA,1
+1123205,2nd innings,South Africa,India,26.5,M du Preez,L Wolvaardt,Poonam Yadav,0,0,0,NA,0,NA,NA,NA,1
+1123205,2nd innings,South Africa,India,26.6,M du Preez,L Wolvaardt,Poonam Yadav,0,0,0,NA,0,NA,NA,NA,1
+1123205,2nd innings,South Africa,India,27.1,L Wolvaardt,M du Preez,E Bisht,1,0,1,NA,0,NA,NA,NA,1
+1123205,2nd innings,South Africa,India,27.2,M du Preez,L Wolvaardt,E Bisht,0,0,0,NA,0,NA,NA,NA,1
+1123205,2nd innings,South Africa,India,27.3,M du Preez,L Wolvaardt,E Bisht,1,0,1,NA,0,NA,NA,NA,1
+1123205,2nd innings,South Africa,India,27.4,L Wolvaardt,M du Preez,E Bisht,0,0,0,NA,0,NA,NA,NA,1
+1123205,2nd innings,South Africa,India,27.5,L Wolvaardt,M du Preez,E Bisht,1,0,1,NA,0,NA,NA,NA,1
+1123205,2nd innings,South Africa,India,27.6,M du Preez,L Wolvaardt,E Bisht,1,0,1,NA,0,NA,NA,NA,1
+1123205,2nd innings,South Africa,India,28.1,M du Preez,L Wolvaardt,Poonam Yadav,1,0,1,NA,0,NA,NA,NA,1
+1123205,2nd innings,South Africa,India,28.2,L Wolvaardt,M du Preez,Poonam Yadav,1,0,1,NA,0,NA,NA,NA,1
+1123205,2nd innings,South Africa,India,28.3,M du Preez,L Wolvaardt,Poonam Yadav,0,0,0,NA,0,NA,NA,NA,1
+1123205,2nd innings,South Africa,India,28.4,M du Preez,L Wolvaardt,Poonam Yadav,1,0,1,NA,0,NA,NA,NA,1
+1123205,2nd innings,South Africa,India,28.5,L Wolvaardt,M du Preez,Poonam Yadav,1,0,1,NA,0,NA,NA,NA,1
+1123205,2nd innings,South Africa,India,28.6,M du Preez,L Wolvaardt,Poonam Yadav,4,0,4,NA,0,NA,NA,NA,1
+1123205,2nd innings,South Africa,India,29.1,L Wolvaardt,M du Preez,E Bisht,1,0,1,NA,0,NA,NA,NA,1
+1123205,2nd innings,South Africa,India,29.2,M du Preez,L Wolvaardt,E Bisht,0,0,0,NA,0,NA,NA,NA,1
+1123205,2nd innings,South Africa,India,29.3,M du Preez,L Wolvaardt,E Bisht,0,0,0,NA,0,NA,NA,NA,1
+1123205,2nd innings,South Africa,India,29.4,M du Preez,L Wolvaardt,E Bisht,1,0,1,NA,0,NA,NA,NA,1
+1123205,2nd innings,South Africa,India,29.5,L Wolvaardt,M du Preez,E Bisht,1,0,1,NA,0,NA,NA,NA,1
+1123205,2nd innings,South Africa,India,29.6,M du Preez,L Wolvaardt,E Bisht,0,0,0,NA,0,NA,NA,NA,1
+1123205,2nd innings,South Africa,India,30.1,L Wolvaardt,M du Preez,Poonam Yadav,2,0,2,NA,0,NA,NA,NA,1
+1123205,2nd innings,South Africa,India,30.2,L Wolvaardt,M du Preez,Poonam Yadav,1,0,1,NA,0,NA,NA,NA,1
+1123205,2nd innings,South Africa,India,30.3,M du Preez,L Wolvaardt,Poonam Yadav,4,0,4,NA,0,NA,NA,NA,1
+1123205,2nd innings,South Africa,India,30.4,M du Preez,L Wolvaardt,Poonam Yadav,1,0,1,NA,0,NA,NA,NA,1
+1123205,2nd innings,South Africa,India,30.5,L Wolvaardt,M du Preez,Poonam Yadav,1,0,1,NA,0,NA,NA,NA,1
+1123205,2nd innings,South Africa,India,30.6,M du Preez,L Wolvaardt,Poonam Yadav,0,0,0,NA,0,NA,NA,NA,1
+1123205,2nd innings,South Africa,India,31.1,L Wolvaardt,M du Preez,H Kaur,0,4,4,byes,0,NA,NA,NA,1
+1123205,2nd innings,South Africa,India,31.2,L Wolvaardt,M du Preez,H Kaur,1,0,1,NA,0,NA,NA,NA,1
+1123205,2nd innings,South Africa,India,31.3,M du Preez,L Wolvaardt,H Kaur,0,0,0,NA,0,NA,NA,NA,1
+1123205,2nd innings,South Africa,India,31.4,M du Preez,L Wolvaardt,H Kaur,1,0,1,NA,0,NA,NA,NA,1
+1123205,2nd innings,South Africa,India,31.5,L Wolvaardt,M du Preez,H Kaur,0,0,0,NA,0,NA,NA,NA,1
+1123205,2nd innings,South Africa,India,31.6,L Wolvaardt,M du Preez,H Kaur,1,0,1,NA,0,NA,NA,NA,1
+1123205,2nd innings,South Africa,India,32.1,L Wolvaardt,M du Preez,DB Sharma,0,0,0,NA,0,NA,NA,NA,1
+1123205,2nd innings,South Africa,India,32.2,L Wolvaardt,M du Preez,DB Sharma,1,0,1,NA,0,NA,NA,NA,1
+1123205,2nd innings,South Africa,India,32.3,M du Preez,L Wolvaardt,DB Sharma,0,0,0,NA,0,NA,NA,NA,1
+1123205,2nd innings,South Africa,India,32.4,M du Preez,L Wolvaardt,DB Sharma,0,0,0,NA,0,NA,NA,NA,1
+1123205,2nd innings,South Africa,India,32.5,M du Preez,L Wolvaardt,DB Sharma,1,0,1,NA,0,NA,NA,NA,1
+1123205,2nd innings,South Africa,India,32.6,L Wolvaardt,M du Preez,DB Sharma,0,0,0,NA,0,NA,NA,NA,1
+1123205,2nd innings,South Africa,India,33.1,M du Preez,L Wolvaardt,H Kaur,1,0,1,NA,0,NA,NA,NA,1
+1123205,2nd innings,South Africa,India,33.2,L Wolvaardt,M du Preez,H Kaur,0,0,0,NA,0,NA,NA,NA,1
+1123205,2nd innings,South Africa,India,33.3,L Wolvaardt,M du Preez,H Kaur,1,0,1,NA,0,NA,NA,NA,1
+1123205,2nd innings,South Africa,India,33.4,M du Preez,L Wolvaardt,H Kaur,1,0,1,NA,0,NA,NA,NA,1
+1123205,2nd innings,South Africa,India,33.5,L Wolvaardt,M du Preez,H Kaur,1,0,1,NA,0,NA,NA,NA,1
+1123205,2nd innings,South Africa,India,33.6,M du Preez,L Wolvaardt,H Kaur,0,0,0,NA,0,NA,NA,NA,1
+1123205,2nd innings,South Africa,India,34.1,L Wolvaardt,M du Preez,DB Sharma,1,0,1,NA,0,NA,NA,NA,1
+1123205,2nd innings,South Africa,India,34.2,M du Preez,L Wolvaardt,DB Sharma,4,0,4,NA,0,NA,NA,NA,1
+1123205,2nd innings,South Africa,India,34.3,M du Preez,L Wolvaardt,DB Sharma,0,0,0,NA,0,NA,NA,NA,1
+1123205,2nd innings,South Africa,India,34.4,M du Preez,L Wolvaardt,DB Sharma,1,0,1,NA,0,NA,NA,NA,1
+1123205,2nd innings,South Africa,India,34.5,L Wolvaardt,M du Preez,DB Sharma,0,0,0,NA,0,NA,NA,NA,1
+1123205,2nd innings,South Africa,India,34.6,L Wolvaardt,M du Preez,DB Sharma,0,0,0,NA,0,NA,NA,NA,1
+1123205,2nd innings,South Africa,India,35.1,M du Preez,L Wolvaardt,S Pandey,1,0,1,NA,0,NA,NA,NA,1
+1123205,2nd innings,South Africa,India,35.2,L Wolvaardt,M du Preez,S Pandey,0,0,0,NA,0,NA,NA,NA,1
+1123205,2nd innings,South Africa,India,35.3,L Wolvaardt,M du Preez,S Pandey,1,0,1,NA,0,NA,NA,NA,1
+1123205,2nd innings,South Africa,India,35.4,M du Preez,L Wolvaardt,S Pandey,1,0,1,NA,0,NA,NA,NA,1
+1123205,2nd innings,South Africa,India,35.5,L Wolvaardt,M du Preez,S Pandey,1,0,1,NA,0,NA,NA,NA,1
+1123205,2nd innings,South Africa,India,35.6,M du Preez,L Wolvaardt,S Pandey,1,0,1,NA,0,NA,NA,NA,1
+1123205,2nd innings,South Africa,India,36.1,M du Preez,L Wolvaardt,E Bisht,1,0,1,NA,0,NA,NA,NA,1
+1123205,2nd innings,South Africa,India,36.2,L Wolvaardt,M du Preez,E Bisht,1,0,1,NA,0,NA,NA,NA,1
+1123205,2nd innings,South Africa,India,36.3,M du Preez,L Wolvaardt,E Bisht,1,0,1,NA,0,NA,NA,NA,1
+1123205,2nd innings,South Africa,India,36.4,L Wolvaardt,M du Preez,E Bisht,0,0,0,NA,0,NA,NA,NA,1
+1123205,2nd innings,South Africa,India,36.5,L Wolvaardt,M du Preez,E Bisht,4,0,4,NA,0,NA,NA,NA,1
+1123205,2nd innings,South Africa,India,36.6,L Wolvaardt,M du Preez,E Bisht,0,0,0,NA,0,NA,NA,NA,1
+1123205,2nd innings,South Africa,India,37.1,M du Preez,L Wolvaardt,P Vastrakar,4,0,4,NA,0,NA,NA,NA,1
+1123205,2nd innings,South Africa,India,37.2,M du Preez,L Wolvaardt,P Vastrakar,1,0,1,NA,0,NA,NA,NA,1
+1123205,2nd innings,South Africa,India,37.3,L Wolvaardt,M du Preez,P Vastrakar,0,1,1,legbyes,0,NA,NA,NA,1
+1123205,2nd innings,South Africa,India,37.4,M du Preez,L Wolvaardt,P Vastrakar,1,0,1,NA,0,NA,NA,NA,1
+1123205,2nd innings,South Africa,India,37.5,L Wolvaardt,M du Preez,P Vastrakar,4,0,4,NA,0,NA,NA,NA,1
+1123205,2nd innings,South Africa,India,37.6,L Wolvaardt,M du Preez,P Vastrakar,2,0,2,NA,0,NA,NA,NA,1
+1123205,2nd innings,South Africa,India,38.1,M du Preez,L Wolvaardt,E Bisht,1,0,1,NA,0,NA,NA,NA,1
+1123205,2nd innings,South Africa,India,38.2,L Wolvaardt,M du Preez,E Bisht,1,0,1,NA,0,NA,NA,NA,1
+1123205,2nd innings,South Africa,India,38.3,M du Preez,L Wolvaardt,E Bisht,0,0,0,NA,0,NA,NA,NA,1
+1123205,2nd innings,South Africa,India,38.4,M du Preez,L Wolvaardt,E Bisht,2,0,2,NA,0,NA,NA,NA,1
+1123205,2nd innings,South Africa,India,38.5,M du Preez,L Wolvaardt,E Bisht,1,0,1,NA,0,NA,NA,NA,1
+1123205,2nd innings,South Africa,India,38.6,L Wolvaardt,M du Preez,E Bisht,0,0,0,NA,1,caught,L Wolvaardt,H Kaur,1
+1123205,2nd innings,South Africa,India,39.1,M du Preez,D van Niekerk,S Pandey,1,0,1,NA,0,NA,NA,NA,1
+1123205,2nd innings,South Africa,India,39.2,D van Niekerk,M du Preez,S Pandey,0,0,0,NA,0,NA,NA,NA,1
+1123205,2nd innings,South Africa,India,39.3,D van Niekerk,M du Preez,S Pandey,1,0,1,NA,0,NA,NA,NA,1
+1123205,2nd innings,South Africa,India,39.4,M du Preez,D van Niekerk,S Pandey,1,0,1,NA,0,NA,NA,NA,1
+1123205,2nd innings,South Africa,India,39.5,D van Niekerk,M du Preez,S Pandey,1,0,1,NA,0,NA,NA,NA,1
+1123205,2nd innings,South Africa,India,39.6,M du Preez,D van Niekerk,S Pandey,1,0,1,NA,0,NA,NA,NA,1
+1123205,2nd innings,South Africa,India,40.1,M du Preez,D van Niekerk,H Kaur,1,0,1,NA,0,NA,NA,NA,1
+1123205,2nd innings,South Africa,India,40.2,D van Niekerk,M du Preez,H Kaur,1,0,1,NA,0,NA,NA,NA,1
+1123205,2nd innings,South Africa,India,40.3,M du Preez,D van Niekerk,H Kaur,0,0,0,NA,0,NA,NA,NA,1
+1123205,2nd innings,South Africa,India,40.4,M du Preez,D van Niekerk,H Kaur,1,0,1,NA,0,NA,NA,NA,1
+1123205,2nd innings,South Africa,India,40.5,D van Niekerk,M du Preez,H Kaur,0,0,0,NA,0,NA,NA,NA,1
+1123205,2nd innings,South Africa,India,40.6,D van Niekerk,M du Preez,H Kaur,1,0,1,NA,0,NA,NA,NA,1
+1123205,2nd innings,South Africa,India,41.1,D van Niekerk,M du Preez,Poonam Yadav,1,0,1,NA,0,NA,NA,NA,1
+1123205,2nd innings,South Africa,India,41.2,M du Preez,D van Niekerk,Poonam Yadav,1,0,1,NA,0,NA,NA,NA,1
+1123205,2nd innings,South Africa,India,41.3,D van Niekerk,M du Preez,Poonam Yadav,0,0,0,NA,0,NA,NA,NA,1
+1123205,2nd innings,South Africa,India,41.4,D van Niekerk,M du Preez,Poonam Yadav,1,0,1,NA,0,NA,NA,NA,1
+1123205,2nd innings,South Africa,India,41.5,M du Preez,D van Niekerk,Poonam Yadav,0,0,0,NA,0,NA,NA,NA,1
+1123205,2nd innings,South Africa,India,41.6,M du Preez,D van Niekerk,Poonam Yadav,1,0,1,NA,0,NA,NA,NA,1
+1123205,2nd innings,South Africa,India,42.1,M du Preez,D van Niekerk,H Kaur,1,0,1,NA,0,NA,NA,NA,1
+1123205,2nd innings,South Africa,India,42.2,D van Niekerk,M du Preez,H Kaur,1,0,1,NA,0,NA,NA,NA,1
+1123205,2nd innings,South Africa,India,42.3,M du Preez,D van Niekerk,H Kaur,0,0,0,NA,0,NA,NA,NA,1
+1123205,2nd innings,South Africa,India,42.4,M du Preez,D van Niekerk,H Kaur,1,0,1,NA,0,NA,NA,NA,1
+1123205,2nd innings,South Africa,India,42.5,D van Niekerk,M du Preez,H Kaur,4,0,4,NA,0,NA,NA,NA,1
+1123205,2nd innings,South Africa,India,42.6,D van Niekerk,M du Preez,H Kaur,1,0,1,NA,0,NA,NA,NA,1
+1123205,2nd innings,South Africa,India,43.1,D van Niekerk,M du Preez,Poonam Yadav,1,0,1,NA,0,NA,NA,NA,1
+1123205,2nd innings,South Africa,India,43.2,M du Preez,D van Niekerk,Poonam Yadav,0,0,0,NA,0,NA,NA,NA,1
+1123205,2nd innings,South Africa,India,43.3,M du Preez,D van Niekerk,Poonam Yadav,1,0,1,NA,0,NA,NA,NA,1
+1123205,2nd innings,South Africa,India,43.4,D van Niekerk,M du Preez,Poonam Yadav,1,0,1,NA,0,NA,NA,NA,1
+1123205,2nd innings,South Africa,India,43.5,M du Preez,D van Niekerk,Poonam Yadav,0,0,0,NA,0,NA,NA,NA,1
+1123205,2nd innings,South Africa,India,43.6,M du Preez,D van Niekerk,Poonam Yadav,1,0,1,NA,0,NA,NA,NA,1
+1123205,2nd innings,South Africa,India,44.1,M du Preez,D van Niekerk,S Pandey,0,0,0,NA,0,NA,NA,NA,1
+1123205,2nd innings,South Africa,India,44.2,M du Preez,D van Niekerk,S Pandey,1,0,1,NA,0,NA,NA,NA,1
+1123205,2nd innings,South Africa,India,44.3,D van Niekerk,M du Preez,S Pandey,0,1,1,byes,0,NA,NA,NA,1
+1123205,2nd innings,South Africa,India,44.4,M du Preez,D van Niekerk,S Pandey,1,0,1,NA,0,NA,NA,NA,1
+1123205,2nd innings,South Africa,India,44.5,D van Niekerk,M du Preez,S Pandey,1,0,1,NA,0,NA,NA,NA,1
+1123205,2nd innings,South Africa,India,44.6,M du Preez,D van Niekerk,S Pandey,1,0,1,NA,0,NA,NA,NA,1
+1123205,2nd innings,South Africa,India,45.1,M du Preez,D van Niekerk,Poonam Yadav,0,0,0,NA,0,NA,NA,NA,1
+1123205,2nd innings,South Africa,India,45.2,M du Preez,D van Niekerk,Poonam Yadav,1,0,1,NA,0,NA,NA,NA,1
+1123205,2nd innings,South Africa,India,45.3,D van Niekerk,M du Preez,Poonam Yadav,1,0,1,NA,0,NA,NA,NA,1
+1123205,2nd innings,South Africa,India,45.4,M du Preez,D van Niekerk,Poonam Yadav,1,0,1,NA,0,NA,NA,NA,1
+1123205,2nd innings,South Africa,India,45.5,D van Niekerk,M du Preez,Poonam Yadav,0,1,1,wides,0,NA,NA,NA,1
+1123205,2nd innings,South Africa,India,45.6,D van Niekerk,M du Preez,Poonam Yadav,4,0,4,NA,0,NA,NA,NA,1
+1123205,2nd innings,South Africa,India,45.7,D van Niekerk,M du Preez,Poonam Yadav,4,0,4,NA,0,NA,NA,NA,1
+1123205,2nd innings,South Africa,India,46.1,M du Preez,D van Niekerk,S Pandey,1,0,1,NA,0,NA,NA,NA,1
+1123205,2nd innings,South Africa,India,46.2,D van Niekerk,M du Preez,S Pandey,0,0,0,NA,0,NA,NA,NA,1
+1123205,2nd innings,South Africa,India,46.3,D van Niekerk,M du Preez,S Pandey,1,0,1,NA,0,NA,NA,NA,1
+1123205,2nd innings,South Africa,India,46.4,M du Preez,D van Niekerk,S Pandey,4,0,4,NA,0,NA,NA,NA,1
+1123205,2nd innings,South Africa,India,46.5,M du Preez,D van Niekerk,S Pandey,1,0,1,NA,0,NA,NA,NA,1
+1123205,2nd innings,South Africa,India,46.6,D van Niekerk,M du Preez,S Pandey,2,0,2,NA,0,NA,NA,NA,1
+1123205,2nd innings,South Africa,India,47.1,M du Preez,D van Niekerk,DB Sharma,1,0,1,NA,0,NA,NA,NA,1
+1123205,2nd innings,South Africa,India,47.2,D van Niekerk,M du Preez,DB Sharma,4,0,4,NA,0,NA,NA,NA,1
+1123205,2nd innings,South Africa,India,47.3,D van Niekerk,M du Preez,DB Sharma,1,0,1,NA,0,NA,NA,NA,1
+1123205,2nd innings,South Africa,India,47.4,M du Preez,D van Niekerk,DB Sharma,1,0,1,NA,0,NA,NA,NA,1
+1123205,2nd innings,South Africa,India,47.5,D van Niekerk,M du Preez,DB Sharma,1,0,1,NA,0,NA,NA,NA,1
+1123205,2nd innings,South Africa,India,47.6,M du Preez,D van Niekerk,DB Sharma,1,0,1,NA,0,NA,NA,NA,1
+1123205,2nd innings,South Africa,India,48.1,M du Preez,D van Niekerk,E Bisht,1,0,1,NA,0,NA,NA,NA,1
+1123205,2nd innings,South Africa,India,48.2,D van Niekerk,M du Preez,E Bisht,1,0,1,NA,0,NA,NA,NA,1
+1123205,2nd innings,South Africa,India,48.3,M du Preez,D van Niekerk,E Bisht,1,0,1,NA,0,NA,NA,NA,1
+1123205,2nd innings,South Africa,India,48.4,D van Niekerk,M du Preez,E Bisht,2,0,2,NA,0,NA,NA,NA,1
+1123205,2nd innings,South Africa,India,48.5,D van Niekerk,M du Preez,E Bisht,4,0,4,NA,0,NA,NA,NA,1
+1123205,2nd innings,South Africa,India,48.6,D van Niekerk,M du Preez,E Bisht,0,1,1,byes,0,NA,NA,NA,1
+1123205,2nd innings,South Africa,India,49.1,D van Niekerk,M du Preez,S Pandey,1,0,1,NA,0,NA,NA,NA,1
+1123205,2nd innings,South Africa,India,49.2,M du Preez,D van Niekerk,S Pandey,1,0,1,NA,0,NA,NA,NA,1

@@ -1,0 +1,383 @@
+match_id,innings,team,opponent,ball,batsman,non_striker,bowler,scored_runs,extras,total,extra_type,wicket,wicket_type,player_out,fielders,winner
+293072,1st innings,South Africa,Ireland,0.1,MN van Wyk,AB de Villiers,RK Whelan,0,0,0,NA,0,NA,NA,NA,1
+293072,1st innings,South Africa,Ireland,0.2,MN van Wyk,AB de Villiers,RK Whelan,0,0,0,NA,0,NA,NA,NA,1
+293072,1st innings,South Africa,Ireland,0.3,MN van Wyk,AB de Villiers,RK Whelan,0,0,0,NA,0,NA,NA,NA,1
+293072,1st innings,South Africa,Ireland,0.4,MN van Wyk,AB de Villiers,RK Whelan,0,1,1,legbyes,0,NA,NA,NA,1
+293072,1st innings,South Africa,Ireland,0.5,AB de Villiers,MN van Wyk,RK Whelan,0,0,0,NA,0,NA,NA,NA,1
+293072,1st innings,South Africa,Ireland,0.6,AB de Villiers,MN van Wyk,RK Whelan,1,0,1,NA,0,NA,NA,NA,1
+293072,1st innings,South Africa,Ireland,1.1,AB de Villiers,MN van Wyk,MJ Fourie,0,5,5,wides,0,NA,NA,NA,1
+293072,1st innings,South Africa,Ireland,1.2,AB de Villiers,MN van Wyk,MJ Fourie,0,0,0,NA,0,NA,NA,NA,1
+293072,1st innings,South Africa,Ireland,1.3,AB de Villiers,MN van Wyk,MJ Fourie,0,0,0,NA,0,NA,NA,NA,1
+293072,1st innings,South Africa,Ireland,1.4,AB de Villiers,MN van Wyk,MJ Fourie,4,0,4,NA,0,NA,NA,NA,1
+293072,1st innings,South Africa,Ireland,1.5,AB de Villiers,MN van Wyk,MJ Fourie,0,0,0,NA,0,NA,NA,NA,1
+293072,1st innings,South Africa,Ireland,1.6,AB de Villiers,MN van Wyk,MJ Fourie,0,0,0,NA,0,NA,NA,NA,1
+293072,1st innings,South Africa,Ireland,1.7,AB de Villiers,MN van Wyk,MJ Fourie,0,0,0,NA,0,NA,NA,NA,1
+293072,1st innings,South Africa,Ireland,2.1,MN van Wyk,AB de Villiers,RK Whelan,0,1,1,wides,0,NA,NA,NA,1
+293072,1st innings,South Africa,Ireland,2.2,MN van Wyk,AB de Villiers,RK Whelan,4,0,4,NA,0,NA,NA,NA,1
+293072,1st innings,South Africa,Ireland,2.3,MN van Wyk,AB de Villiers,RK Whelan,0,0,0,NA,0,NA,NA,NA,1
+293072,1st innings,South Africa,Ireland,2.4,MN van Wyk,AB de Villiers,RK Whelan,1,0,1,NA,0,NA,NA,NA,1
+293072,1st innings,South Africa,Ireland,2.5,AB de Villiers,MN van Wyk,RK Whelan,5,0,5,NA,0,NA,NA,NA,1
+293072,1st innings,South Africa,Ireland,2.6,MN van Wyk,AB de Villiers,RK Whelan,1,0,1,NA,0,NA,NA,NA,1
+293072,1st innings,South Africa,Ireland,2.7,AB de Villiers,MN van Wyk,RK Whelan,4,0,4,NA,0,NA,NA,NA,1
+293072,1st innings,South Africa,Ireland,3.1,MN van Wyk,AB de Villiers,MJ Fourie,0,0,0,NA,0,NA,NA,NA,1
+293072,1st innings,South Africa,Ireland,3.2,MN van Wyk,AB de Villiers,MJ Fourie,0,0,0,NA,0,NA,NA,NA,1
+293072,1st innings,South Africa,Ireland,3.3,MN van Wyk,AB de Villiers,MJ Fourie,0,0,0,NA,0,NA,NA,NA,1
+293072,1st innings,South Africa,Ireland,3.4,MN van Wyk,AB de Villiers,MJ Fourie,0,0,0,NA,0,NA,NA,NA,1
+293072,1st innings,South Africa,Ireland,3.5,MN van Wyk,AB de Villiers,MJ Fourie,4,0,4,NA,0,NA,NA,NA,1
+293072,1st innings,South Africa,Ireland,3.6,MN van Wyk,AB de Villiers,MJ Fourie,0,0,0,NA,0,NA,NA,NA,1
+293072,1st innings,South Africa,Ireland,4.1,AB de Villiers,MN van Wyk,RK Whelan,0,1,1,wides,0,NA,NA,NA,1
+293072,1st innings,South Africa,Ireland,4.2,AB de Villiers,MN van Wyk,RK Whelan,4,0,4,NA,0,NA,NA,NA,1
+293072,1st innings,South Africa,Ireland,4.3,AB de Villiers,MN van Wyk,RK Whelan,0,0,0,NA,0,NA,NA,NA,1
+293072,1st innings,South Africa,Ireland,4.4,AB de Villiers,MN van Wyk,RK Whelan,0,0,0,NA,0,NA,NA,NA,1
+293072,1st innings,South Africa,Ireland,4.5,AB de Villiers,MN van Wyk,RK Whelan,0,0,0,NA,0,NA,NA,NA,1
+293072,1st innings,South Africa,Ireland,4.6,AB de Villiers,MN van Wyk,RK Whelan,0,0,0,NA,0,NA,NA,NA,1
+293072,1st innings,South Africa,Ireland,4.7,AB de Villiers,MN van Wyk,RK Whelan,0,0,0,NA,0,NA,NA,NA,1
+293072,1st innings,South Africa,Ireland,5.1,MN van Wyk,AB de Villiers,MJ Fourie,0,0,0,NA,0,NA,NA,NA,1
+293072,1st innings,South Africa,Ireland,5.2,MN van Wyk,AB de Villiers,MJ Fourie,0,0,0,NA,0,NA,NA,NA,1
+293072,1st innings,South Africa,Ireland,5.3,MN van Wyk,AB de Villiers,MJ Fourie,0,1,1,wides,0,NA,NA,NA,1
+293072,1st innings,South Africa,Ireland,5.4,MN van Wyk,AB de Villiers,MJ Fourie,0,0,0,NA,0,NA,NA,NA,1
+293072,1st innings,South Africa,Ireland,5.5,MN van Wyk,AB de Villiers,MJ Fourie,0,0,0,NA,0,NA,NA,NA,1
+293072,1st innings,South Africa,Ireland,5.6,MN van Wyk,AB de Villiers,MJ Fourie,0,0,0,NA,0,NA,NA,NA,1
+293072,1st innings,South Africa,Ireland,5.7,MN van Wyk,AB de Villiers,MJ Fourie,0,0,0,NA,0,NA,NA,NA,1
+293072,1st innings,South Africa,Ireland,6.1,AB de Villiers,MN van Wyk,RK Whelan,3,0,3,NA,0,NA,NA,NA,1
+293072,1st innings,South Africa,Ireland,6.2,MN van Wyk,AB de Villiers,RK Whelan,2,0,2,NA,0,NA,NA,NA,1
+293072,1st innings,South Africa,Ireland,6.3,MN van Wyk,AB de Villiers,RK Whelan,0,0,0,NA,0,NA,NA,NA,1
+293072,1st innings,South Africa,Ireland,6.4,MN van Wyk,AB de Villiers,RK Whelan,0,0,0,NA,0,NA,NA,NA,1
+293072,1st innings,South Africa,Ireland,6.5,MN van Wyk,AB de Villiers,RK Whelan,0,0,0,NA,0,NA,NA,NA,1
+293072,1st innings,South Africa,Ireland,6.6,MN van Wyk,AB de Villiers,RK Whelan,0,0,0,NA,0,NA,NA,NA,1
+293072,1st innings,South Africa,Ireland,7.1,AB de Villiers,MN van Wyk,MJ Fourie,0,0,0,NA,0,NA,NA,NA,1
+293072,1st innings,South Africa,Ireland,7.2,AB de Villiers,MN van Wyk,MJ Fourie,4,0,4,NA,0,NA,NA,NA,1
+293072,1st innings,South Africa,Ireland,7.3,AB de Villiers,MN van Wyk,MJ Fourie,0,0,0,NA,0,NA,NA,NA,1
+293072,1st innings,South Africa,Ireland,7.4,AB de Villiers,MN van Wyk,MJ Fourie,1,0,1,NA,0,NA,NA,NA,1
+293072,1st innings,South Africa,Ireland,7.5,MN van Wyk,AB de Villiers,MJ Fourie,1,0,1,NA,0,NA,NA,NA,1
+293072,1st innings,South Africa,Ireland,7.6,AB de Villiers,MN van Wyk,MJ Fourie,0,0,0,NA,0,NA,NA,NA,1
+293072,1st innings,South Africa,Ireland,8.1,MN van Wyk,AB de Villiers,RK Whelan,0,0,0,NA,0,NA,NA,NA,1
+293072,1st innings,South Africa,Ireland,8.2,MN van Wyk,AB de Villiers,RK Whelan,0,0,0,NA,0,NA,NA,NA,1
+293072,1st innings,South Africa,Ireland,8.3,MN van Wyk,AB de Villiers,RK Whelan,0,0,0,NA,0,NA,NA,NA,1
+293072,1st innings,South Africa,Ireland,8.4,MN van Wyk,AB de Villiers,RK Whelan,1,0,1,NA,0,NA,NA,NA,1
+293072,1st innings,South Africa,Ireland,8.5,AB de Villiers,MN van Wyk,RK Whelan,0,1,1,legbyes,0,NA,NA,NA,1
+293072,1st innings,South Africa,Ireland,8.6,MN van Wyk,AB de Villiers,RK Whelan,1,0,1,NA,0,NA,NA,NA,1
+293072,1st innings,South Africa,Ireland,9.1,MN van Wyk,AB de Villiers,MJ Fourie,0,0,0,NA,0,NA,NA,NA,1
+293072,1st innings,South Africa,Ireland,9.2,MN van Wyk,AB de Villiers,MJ Fourie,1,0,1,NA,0,NA,NA,NA,1
+293072,1st innings,South Africa,Ireland,9.3,AB de Villiers,MN van Wyk,MJ Fourie,0,0,0,NA,0,NA,NA,NA,1
+293072,1st innings,South Africa,Ireland,9.4,AB de Villiers,MN van Wyk,MJ Fourie,1,0,1,NA,0,NA,NA,NA,1
+293072,1st innings,South Africa,Ireland,9.5,MN van Wyk,AB de Villiers,MJ Fourie,0,0,0,NA,0,NA,NA,NA,1
+293072,1st innings,South Africa,Ireland,9.6,MN van Wyk,AB de Villiers,MJ Fourie,0,0,0,NA,0,NA,NA,NA,1
+293072,1st innings,South Africa,Ireland,10.1,AB de Villiers,MN van Wyk,RK Whelan,0,0,0,NA,0,NA,NA,NA,1
+293072,1st innings,South Africa,Ireland,10.2,AB de Villiers,MN van Wyk,RK Whelan,1,0,1,NA,0,NA,NA,NA,1
+293072,1st innings,South Africa,Ireland,10.3,MN van Wyk,AB de Villiers,RK Whelan,4,0,4,NA,0,NA,NA,NA,1
+293072,1st innings,South Africa,Ireland,10.4,MN van Wyk,AB de Villiers,RK Whelan,0,0,0,NA,0,NA,NA,NA,1
+293072,1st innings,South Africa,Ireland,10.5,MN van Wyk,AB de Villiers,RK Whelan,0,0,0,NA,0,NA,NA,NA,1
+293072,1st innings,South Africa,Ireland,10.6,MN van Wyk,AB de Villiers,RK Whelan,4,0,4,NA,0,NA,NA,NA,1
+293072,1st innings,South Africa,Ireland,11.1,AB de Villiers,MN van Wyk,KJ O'Brien,4,0,4,NA,0,NA,NA,NA,1
+293072,1st innings,South Africa,Ireland,11.2,AB de Villiers,MN van Wyk,KJ O'Brien,0,0,0,NA,0,NA,NA,NA,1
+293072,1st innings,South Africa,Ireland,11.3,AB de Villiers,MN van Wyk,KJ O'Brien,0,0,0,NA,0,NA,NA,NA,1
+293072,1st innings,South Africa,Ireland,11.4,AB de Villiers,MN van Wyk,KJ O'Brien,4,0,4,NA,0,NA,NA,NA,1
+293072,1st innings,South Africa,Ireland,11.5,AB de Villiers,MN van Wyk,KJ O'Brien,2,0,2,NA,0,NA,NA,NA,1
+293072,1st innings,South Africa,Ireland,11.6,AB de Villiers,MN van Wyk,KJ O'Brien,0,0,0,NA,0,NA,NA,NA,1
+293072,1st innings,South Africa,Ireland,12.1,MN van Wyk,AB de Villiers,RK Whelan,1,0,1,NA,0,NA,NA,NA,1
+293072,1st innings,South Africa,Ireland,12.2,AB de Villiers,MN van Wyk,RK Whelan,2,0,2,NA,0,NA,NA,NA,1
+293072,1st innings,South Africa,Ireland,12.3,AB de Villiers,MN van Wyk,RK Whelan,0,0,0,NA,1,caught,AB de Villiers,AR Cusack,1
+293072,1st innings,South Africa,Ireland,12.4,MN van Wyk,JH Kallis,RK Whelan,0,0,0,NA,0,NA,NA,NA,1
+293072,1st innings,South Africa,Ireland,12.5,MN van Wyk,JH Kallis,RK Whelan,1,0,1,NA,0,NA,NA,NA,1
+293072,1st innings,South Africa,Ireland,12.6,JH Kallis,MN van Wyk,RK Whelan,1,0,1,NA,0,NA,NA,NA,1
+293072,1st innings,South Africa,Ireland,13.1,JH Kallis,MN van Wyk,KJ O'Brien,0,0,0,NA,0,NA,NA,NA,1
+293072,1st innings,South Africa,Ireland,13.2,JH Kallis,MN van Wyk,KJ O'Brien,0,0,0,NA,0,NA,NA,NA,1
+293072,1st innings,South Africa,Ireland,13.3,JH Kallis,MN van Wyk,KJ O'Brien,4,0,4,NA,0,NA,NA,NA,1
+293072,1st innings,South Africa,Ireland,13.4,JH Kallis,MN van Wyk,KJ O'Brien,1,0,1,NA,0,NA,NA,NA,1
+293072,1st innings,South Africa,Ireland,13.5,MN van Wyk,JH Kallis,KJ O'Brien,0,0,0,NA,0,NA,NA,NA,1
+293072,1st innings,South Africa,Ireland,13.6,MN van Wyk,JH Kallis,KJ O'Brien,0,0,0,NA,0,NA,NA,NA,1
+293072,1st innings,South Africa,Ireland,14.1,JH Kallis,MN van Wyk,WK McCallan,1,0,1,NA,0,NA,NA,NA,1
+293072,1st innings,South Africa,Ireland,14.2,MN van Wyk,JH Kallis,WK McCallan,1,0,1,NA,0,NA,NA,NA,1
+293072,1st innings,South Africa,Ireland,14.3,JH Kallis,MN van Wyk,WK McCallan,1,0,1,NA,0,NA,NA,NA,1
+293072,1st innings,South Africa,Ireland,14.4,MN van Wyk,JH Kallis,WK McCallan,0,0,0,NA,0,NA,NA,NA,1
+293072,1st innings,South Africa,Ireland,14.5,MN van Wyk,JH Kallis,WK McCallan,2,0,2,NA,0,NA,NA,NA,1
+293072,1st innings,South Africa,Ireland,14.6,MN van Wyk,JH Kallis,WK McCallan,1,0,1,NA,0,NA,NA,NA,1
+293072,1st innings,South Africa,Ireland,15.1,MN van Wyk,JH Kallis,DT Johnston,0,0,0,NA,0,NA,NA,NA,1
+293072,1st innings,South Africa,Ireland,15.2,MN van Wyk,JH Kallis,DT Johnston,0,0,0,NA,0,NA,NA,NA,1
+293072,1st innings,South Africa,Ireland,15.3,MN van Wyk,JH Kallis,DT Johnston,1,0,1,NA,0,NA,NA,NA,1
+293072,1st innings,South Africa,Ireland,15.4,JH Kallis,MN van Wyk,DT Johnston,0,0,0,NA,0,NA,NA,NA,1
+293072,1st innings,South Africa,Ireland,15.5,JH Kallis,MN van Wyk,DT Johnston,0,0,0,NA,0,NA,NA,NA,1
+293072,1st innings,South Africa,Ireland,15.6,JH Kallis,MN van Wyk,DT Johnston,1,0,1,NA,0,NA,NA,NA,1
+293072,1st innings,South Africa,Ireland,16.1,JH Kallis,MN van Wyk,WK McCallan,1,0,1,NA,0,NA,NA,NA,1
+293072,1st innings,South Africa,Ireland,16.2,MN van Wyk,JH Kallis,WK McCallan,0,0,0,NA,0,NA,NA,NA,1
+293072,1st innings,South Africa,Ireland,16.3,MN van Wyk,JH Kallis,WK McCallan,0,0,0,NA,0,NA,NA,NA,1
+293072,1st innings,South Africa,Ireland,16.4,MN van Wyk,JH Kallis,WK McCallan,2,0,2,NA,0,NA,NA,NA,1
+293072,1st innings,South Africa,Ireland,16.5,MN van Wyk,JH Kallis,WK McCallan,0,0,0,NA,0,NA,NA,NA,1
+293072,1st innings,South Africa,Ireland,16.6,MN van Wyk,JH Kallis,WK McCallan,1,0,1,NA,0,NA,NA,NA,1
+293072,1st innings,South Africa,Ireland,17.1,MN van Wyk,JH Kallis,DT Johnston,1,0,1,NA,0,NA,NA,NA,1
+293072,1st innings,South Africa,Ireland,17.2,JH Kallis,MN van Wyk,DT Johnston,1,0,1,NA,0,NA,NA,NA,1
+293072,1st innings,South Africa,Ireland,17.3,MN van Wyk,JH Kallis,DT Johnston,0,0,0,NA,0,NA,NA,NA,1
+293072,1st innings,South Africa,Ireland,17.4,MN van Wyk,JH Kallis,DT Johnston,0,0,0,NA,0,NA,NA,NA,1
+293072,1st innings,South Africa,Ireland,17.5,MN van Wyk,JH Kallis,DT Johnston,0,0,0,NA,0,NA,NA,NA,1
+293072,1st innings,South Africa,Ireland,17.6,MN van Wyk,JH Kallis,DT Johnston,0,0,0,NA,0,NA,NA,NA,1
+293072,1st innings,South Africa,Ireland,18.1,JH Kallis,MN van Wyk,WK McCallan,1,0,1,NA,0,NA,NA,NA,1
+293072,1st innings,South Africa,Ireland,18.2,MN van Wyk,JH Kallis,WK McCallan,1,0,1,NA,0,NA,NA,NA,1
+293072,1st innings,South Africa,Ireland,18.3,JH Kallis,MN van Wyk,WK McCallan,0,0,0,NA,0,NA,NA,NA,1
+293072,1st innings,South Africa,Ireland,18.4,JH Kallis,MN van Wyk,WK McCallan,1,0,1,NA,0,NA,NA,NA,1
+293072,1st innings,South Africa,Ireland,18.5,MN van Wyk,JH Kallis,WK McCallan,0,0,0,NA,0,NA,NA,NA,1
+293072,1st innings,South Africa,Ireland,18.6,MN van Wyk,JH Kallis,WK McCallan,0,0,0,NA,0,NA,NA,NA,1
+293072,1st innings,South Africa,Ireland,19.1,JH Kallis,MN van Wyk,DT Johnston,1,0,1,NA,0,NA,NA,NA,1
+293072,1st innings,South Africa,Ireland,19.2,MN van Wyk,JH Kallis,DT Johnston,1,0,1,NA,0,NA,NA,NA,1
+293072,1st innings,South Africa,Ireland,19.3,JH Kallis,MN van Wyk,DT Johnston,0,0,0,NA,0,NA,NA,NA,1
+293072,1st innings,South Africa,Ireland,19.4,JH Kallis,MN van Wyk,DT Johnston,1,0,1,NA,0,NA,NA,NA,1
+293072,1st innings,South Africa,Ireland,19.5,MN van Wyk,JH Kallis,DT Johnston,1,0,1,NA,0,NA,NA,NA,1
+293072,1st innings,South Africa,Ireland,19.6,JH Kallis,MN van Wyk,DT Johnston,1,0,1,NA,0,NA,NA,NA,1
+293072,1st innings,South Africa,Ireland,20.1,JH Kallis,MN van Wyk,WK McCallan,1,0,1,NA,0,NA,NA,NA,1
+293072,1st innings,South Africa,Ireland,20.2,MN van Wyk,JH Kallis,WK McCallan,0,0,0,NA,0,NA,NA,NA,1
+293072,1st innings,South Africa,Ireland,20.3,MN van Wyk,JH Kallis,WK McCallan,0,0,0,NA,0,NA,NA,NA,1
+293072,1st innings,South Africa,Ireland,20.4,MN van Wyk,JH Kallis,WK McCallan,0,0,0,NA,0,NA,NA,NA,1
+293072,1st innings,South Africa,Ireland,20.5,MN van Wyk,JH Kallis,WK McCallan,0,0,0,NA,0,NA,NA,NA,1
+293072,1st innings,South Africa,Ireland,20.6,MN van Wyk,JH Kallis,WK McCallan,0,0,0,NA,0,NA,NA,NA,1
+293072,1st innings,South Africa,Ireland,21.1,JH Kallis,MN van Wyk,DT Johnston,2,0,2,NA,0,NA,NA,NA,1
+293072,1st innings,South Africa,Ireland,21.2,JH Kallis,MN van Wyk,DT Johnston,1,0,1,NA,0,NA,NA,NA,1
+293072,1st innings,South Africa,Ireland,21.3,MN van Wyk,JH Kallis,DT Johnston,0,0,0,NA,0,NA,NA,NA,1
+293072,1st innings,South Africa,Ireland,21.4,MN van Wyk,JH Kallis,DT Johnston,4,0,4,NA,0,NA,NA,NA,1
+293072,1st innings,South Africa,Ireland,21.5,MN van Wyk,JH Kallis,DT Johnston,1,0,1,NA,0,NA,NA,NA,1
+293072,1st innings,South Africa,Ireland,21.6,JH Kallis,MN van Wyk,DT Johnston,0,0,0,NA,0,NA,NA,NA,1
+293072,1st innings,South Africa,Ireland,22.1,MN van Wyk,JH Kallis,AR White,1,0,1,NA,0,NA,NA,NA,1
+293072,1st innings,South Africa,Ireland,22.2,JH Kallis,MN van Wyk,AR White,0,0,0,NA,0,NA,NA,NA,1
+293072,1st innings,South Africa,Ireland,22.3,JH Kallis,MN van Wyk,AR White,2,0,2,NA,0,NA,NA,NA,1
+293072,1st innings,South Africa,Ireland,22.4,JH Kallis,MN van Wyk,AR White,1,0,1,NA,0,NA,NA,NA,1
+293072,1st innings,South Africa,Ireland,22.5,MN van Wyk,JH Kallis,AR White,1,0,1,NA,0,NA,NA,NA,1
+293072,1st innings,South Africa,Ireland,22.6,JH Kallis,MN van Wyk,AR White,1,0,1,NA,0,NA,NA,NA,1
+293072,1st innings,South Africa,Ireland,23.1,JH Kallis,MN van Wyk,AR Cusack,0,0,0,NA,0,NA,NA,NA,1
+293072,1st innings,South Africa,Ireland,23.2,JH Kallis,MN van Wyk,AR Cusack,1,0,1,NA,0,NA,NA,NA,1
+293072,1st innings,South Africa,Ireland,23.3,MN van Wyk,JH Kallis,AR Cusack,0,0,0,NA,0,NA,NA,NA,1
+293072,1st innings,South Africa,Ireland,23.4,MN van Wyk,JH Kallis,AR Cusack,1,0,1,NA,0,NA,NA,NA,1
+293072,1st innings,South Africa,Ireland,23.5,JH Kallis,MN van Wyk,AR Cusack,1,0,1,NA,0,NA,NA,NA,1
+293072,1st innings,South Africa,Ireland,23.6,MN van Wyk,JH Kallis,AR Cusack,1,0,1,NA,0,NA,NA,NA,1
+293072,1st innings,South Africa,Ireland,24.1,MN van Wyk,JH Kallis,AR White,2,0,2,NA,0,NA,NA,NA,1
+293072,1st innings,South Africa,Ireland,24.2,MN van Wyk,JH Kallis,AR White,2,0,2,NA,0,NA,NA,NA,1
+293072,1st innings,South Africa,Ireland,24.3,MN van Wyk,JH Kallis,AR White,1,0,1,NA,0,NA,NA,NA,1
+293072,1st innings,South Africa,Ireland,24.4,JH Kallis,MN van Wyk,AR White,6,0,6,NA,0,NA,NA,NA,1
+293072,1st innings,South Africa,Ireland,24.5,JH Kallis,MN van Wyk,AR White,1,0,1,NA,0,NA,NA,NA,1
+293072,1st innings,South Africa,Ireland,24.6,MN van Wyk,JH Kallis,AR White,0,0,0,NA,0,NA,NA,NA,1
+293072,1st innings,South Africa,Ireland,25.1,JH Kallis,MN van Wyk,AR Cusack,1,0,1,NA,0,NA,NA,NA,1
+293072,1st innings,South Africa,Ireland,25.2,MN van Wyk,JH Kallis,AR Cusack,0,0,0,NA,1,caught,MN van Wyk,DT Johnston,1
+293072,1st innings,South Africa,Ireland,25.3,HH Gibbs,JH Kallis,AR Cusack,1,0,1,NA,0,NA,NA,NA,1
+293072,1st innings,South Africa,Ireland,25.4,JH Kallis,HH Gibbs,AR Cusack,0,0,0,NA,0,NA,NA,NA,1
+293072,1st innings,South Africa,Ireland,25.5,JH Kallis,HH Gibbs,AR Cusack,0,0,0,NA,0,NA,NA,NA,1
+293072,1st innings,South Africa,Ireland,25.6,JH Kallis,HH Gibbs,AR Cusack,1,0,1,NA,0,NA,NA,NA,1
+293072,1st innings,South Africa,Ireland,26.1,JH Kallis,HH Gibbs,MJ Fourie,0,1,1,wides,0,NA,NA,NA,1
+293072,1st innings,South Africa,Ireland,26.2,JH Kallis,HH Gibbs,MJ Fourie,0,0,0,NA,0,NA,NA,NA,1
+293072,1st innings,South Africa,Ireland,26.3,JH Kallis,HH Gibbs,MJ Fourie,1,0,1,NA,0,NA,NA,NA,1
+293072,1st innings,South Africa,Ireland,26.4,HH Gibbs,JH Kallis,MJ Fourie,1,0,1,NA,0,NA,NA,NA,1
+293072,1st innings,South Africa,Ireland,26.5,JH Kallis,HH Gibbs,MJ Fourie,0,0,0,NA,0,NA,NA,NA,1
+293072,1st innings,South Africa,Ireland,26.6,JH Kallis,HH Gibbs,MJ Fourie,4,0,4,NA,0,NA,NA,NA,1
+293072,1st innings,South Africa,Ireland,26.7,JH Kallis,HH Gibbs,MJ Fourie,1,0,1,NA,0,NA,NA,NA,1
+293072,1st innings,South Africa,Ireland,27.1,JH Kallis,HH Gibbs,AR Cusack,0,1,1,legbyes,0,NA,NA,NA,1
+293072,1st innings,South Africa,Ireland,27.2,HH Gibbs,JH Kallis,AR Cusack,0,0,0,NA,0,NA,NA,NA,1
+293072,1st innings,South Africa,Ireland,27.3,HH Gibbs,JH Kallis,AR Cusack,0,0,0,NA,1,caught,HH Gibbs,NJ O'Brien,1
+293072,1st innings,South Africa,Ireland,27.4,JM Kemp,JH Kallis,AR Cusack,1,0,1,NA,0,NA,NA,NA,1
+293072,1st innings,South Africa,Ireland,27.5,JH Kallis,JM Kemp,AR Cusack,1,0,1,NA,0,NA,NA,NA,1
+293072,1st innings,South Africa,Ireland,27.6,JM Kemp,JH Kallis,AR Cusack,1,0,1,NA,0,NA,NA,NA,1
+293072,1st innings,South Africa,Ireland,28.1,JM Kemp,JH Kallis,WK McCallan,0,0,0,NA,0,NA,NA,NA,1
+293072,1st innings,South Africa,Ireland,28.2,JM Kemp,JH Kallis,WK McCallan,0,0,0,NA,0,NA,NA,NA,1
+293072,1st innings,South Africa,Ireland,28.3,JM Kemp,JH Kallis,WK McCallan,0,1,1,legbyes,0,NA,NA,NA,1
+293072,1st innings,South Africa,Ireland,28.4,JH Kallis,JM Kemp,WK McCallan,1,0,1,NA,0,NA,NA,NA,1
+293072,1st innings,South Africa,Ireland,28.5,JM Kemp,JH Kallis,WK McCallan,4,0,4,NA,0,NA,NA,NA,1
+293072,1st innings,South Africa,Ireland,28.6,JM Kemp,JH Kallis,WK McCallan,2,0,2,NA,0,NA,NA,NA,1
+293072,1st innings,South Africa,Ireland,29.1,JH Kallis,JM Kemp,AR Cusack,1,0,1,NA,0,NA,NA,NA,1
+293072,1st innings,South Africa,Ireland,29.2,JM Kemp,JH Kallis,AR Cusack,1,0,1,NA,0,NA,NA,NA,1
+293072,1st innings,South Africa,Ireland,29.3,JH Kallis,JM Kemp,AR Cusack,2,0,2,NA,0,NA,NA,NA,1
+293072,1st innings,South Africa,Ireland,29.4,JH Kallis,JM Kemp,AR Cusack,0,0,0,NA,1,caught,JH Kallis,KJ O'Brien,1
+293072,1st innings,South Africa,Ireland,29.5,JM Kemp,MV Boucher,AR Cusack,1,0,1,NA,0,NA,NA,NA,1
+293072,1st innings,South Africa,Ireland,29.6,MV Boucher,JM Kemp,AR Cusack,0,0,0,NA,0,NA,NA,NA,1
+293072,1st innings,South Africa,Ireland,30.1,JM Kemp,MV Boucher,WK McCallan,2,0,2,NA,0,NA,NA,NA,1
+293072,1st innings,South Africa,Ireland,30.2,JM Kemp,MV Boucher,WK McCallan,1,0,1,NA,0,NA,NA,NA,1
+293072,1st innings,South Africa,Ireland,30.3,MV Boucher,JM Kemp,WK McCallan,1,0,1,NA,0,NA,NA,NA,1
+293072,1st innings,South Africa,Ireland,30.4,JM Kemp,MV Boucher,WK McCallan,1,0,1,NA,0,NA,NA,NA,1
+293072,1st innings,South Africa,Ireland,30.5,MV Boucher,JM Kemp,WK McCallan,1,0,1,NA,0,NA,NA,NA,1
+293072,1st innings,South Africa,Ireland,30.6,JM Kemp,MV Boucher,WK McCallan,4,0,4,NA,0,NA,NA,NA,1
+293072,2nd innings,Ireland,South Africa,0.1,WTS Porterfield,KED Carroll,M Ntini,0,0,0,NA,0,NA,NA,NA,0
+293072,2nd innings,Ireland,South Africa,0.2,WTS Porterfield,KED Carroll,M Ntini,0,0,0,NA,0,NA,NA,NA,0
+293072,2nd innings,Ireland,South Africa,0.3,WTS Porterfield,KED Carroll,M Ntini,0,0,0,NA,0,NA,NA,NA,0
+293072,2nd innings,Ireland,South Africa,0.4,WTS Porterfield,KED Carroll,M Ntini,0,1,1,wides,0,NA,NA,NA,0
+293072,2nd innings,Ireland,South Africa,0.5,WTS Porterfield,KED Carroll,M Ntini,0,1,1,wides,0,NA,NA,NA,0
+293072,2nd innings,Ireland,South Africa,0.6,WTS Porterfield,KED Carroll,M Ntini,3,0,3,NA,0,NA,NA,NA,0
+293072,2nd innings,Ireland,South Africa,0.7,KED Carroll,WTS Porterfield,M Ntini,0,0,0,NA,0,NA,NA,NA,0
+293072,2nd innings,Ireland,South Africa,0.8,KED Carroll,WTS Porterfield,M Ntini,0,0,0,NA,0,NA,NA,NA,0
+293072,2nd innings,Ireland,South Africa,1.1,WTS Porterfield,KED Carroll,DW Steyn,0,0,0,NA,0,NA,NA,NA,0
+293072,2nd innings,Ireland,South Africa,1.2,WTS Porterfield,KED Carroll,DW Steyn,0,0,0,NA,0,NA,NA,NA,0
+293072,2nd innings,Ireland,South Africa,1.3,WTS Porterfield,KED Carroll,DW Steyn,4,0,4,NA,0,NA,NA,NA,0
+293072,2nd innings,Ireland,South Africa,1.4,WTS Porterfield,KED Carroll,DW Steyn,1,0,1,NA,0,NA,NA,NA,0
+293072,2nd innings,Ireland,South Africa,1.5,KED Carroll,WTS Porterfield,DW Steyn,2,0,2,NA,0,NA,NA,NA,0
+293072,2nd innings,Ireland,South Africa,1.6,KED Carroll,WTS Porterfield,DW Steyn,0,0,0,NA,0,NA,NA,NA,0
+293072,2nd innings,Ireland,South Africa,2.1,WTS Porterfield,KED Carroll,M Ntini,0,0,0,NA,0,NA,NA,NA,0
+293072,2nd innings,Ireland,South Africa,2.2,WTS Porterfield,KED Carroll,M Ntini,0,0,0,NA,0,NA,NA,NA,0
+293072,2nd innings,Ireland,South Africa,2.3,WTS Porterfield,KED Carroll,M Ntini,0,1,1,wides,0,NA,NA,NA,0
+293072,2nd innings,Ireland,South Africa,2.4,WTS Porterfield,KED Carroll,M Ntini,2,0,2,NA,0,NA,NA,NA,0
+293072,2nd innings,Ireland,South Africa,2.5,WTS Porterfield,KED Carroll,M Ntini,0,0,0,NA,0,NA,NA,NA,0
+293072,2nd innings,Ireland,South Africa,2.6,WTS Porterfield,KED Carroll,M Ntini,4,0,4,NA,0,NA,NA,NA,0
+293072,2nd innings,Ireland,South Africa,2.7,WTS Porterfield,KED Carroll,M Ntini,0,0,0,NA,0,NA,NA,NA,0
+293072,2nd innings,Ireland,South Africa,3.1,KED Carroll,WTS Porterfield,DW Steyn,4,0,4,NA,0,NA,NA,NA,0
+293072,2nd innings,Ireland,South Africa,3.2,KED Carroll,WTS Porterfield,DW Steyn,0,0,0,NA,0,NA,NA,NA,0
+293072,2nd innings,Ireland,South Africa,3.3,KED Carroll,WTS Porterfield,DW Steyn,1,0,1,NA,0,NA,NA,NA,0
+293072,2nd innings,Ireland,South Africa,3.4,WTS Porterfield,KED Carroll,DW Steyn,0,0,0,NA,0,NA,NA,NA,0
+293072,2nd innings,Ireland,South Africa,3.5,WTS Porterfield,KED Carroll,DW Steyn,0,0,0,NA,0,NA,NA,NA,0
+293072,2nd innings,Ireland,South Africa,3.6,WTS Porterfield,KED Carroll,DW Steyn,0,0,0,NA,0,NA,NA,NA,0
+293072,2nd innings,Ireland,South Africa,4.1,KED Carroll,WTS Porterfield,M Ntini,0,0,0,NA,0,NA,NA,NA,0
+293072,2nd innings,Ireland,South Africa,4.2,KED Carroll,WTS Porterfield,M Ntini,0,0,0,NA,0,NA,NA,NA,0
+293072,2nd innings,Ireland,South Africa,4.3,KED Carroll,WTS Porterfield,M Ntini,0,1,1,wides,0,NA,NA,NA,0
+293072,2nd innings,Ireland,South Africa,4.4,KED Carroll,WTS Porterfield,M Ntini,1,0,1,NA,0,NA,NA,NA,0
+293072,2nd innings,Ireland,South Africa,4.5,WTS Porterfield,KED Carroll,M Ntini,0,0,0,NA,0,NA,NA,NA,0
+293072,2nd innings,Ireland,South Africa,4.6,WTS Porterfield,KED Carroll,M Ntini,0,0,0,NA,0,NA,NA,NA,0
+293072,2nd innings,Ireland,South Africa,4.7,WTS Porterfield,KED Carroll,M Ntini,0,0,0,NA,0,NA,NA,NA,0
+293072,2nd innings,Ireland,South Africa,5.1,KED Carroll,WTS Porterfield,DW Steyn,0,0,0,NA,0,NA,NA,NA,0
+293072,2nd innings,Ireland,South Africa,5.2,KED Carroll,WTS Porterfield,DW Steyn,0,2,2,legbyes,0,NA,NA,NA,0
+293072,2nd innings,Ireland,South Africa,5.3,KED Carroll,WTS Porterfield,DW Steyn,2,0,2,NA,0,NA,NA,NA,0
+293072,2nd innings,Ireland,South Africa,5.4,KED Carroll,WTS Porterfield,DW Steyn,0,0,0,NA,0,NA,NA,NA,0
+293072,2nd innings,Ireland,South Africa,5.5,KED Carroll,WTS Porterfield,DW Steyn,2,0,2,NA,0,NA,NA,NA,0
+293072,2nd innings,Ireland,South Africa,5.6,KED Carroll,WTS Porterfield,DW Steyn,2,0,2,NA,0,NA,NA,NA,0
+293072,2nd innings,Ireland,South Africa,6.1,WTS Porterfield,KED Carroll,M Ntini,0,1,1,wides,0,NA,NA,NA,0
+293072,2nd innings,Ireland,South Africa,6.2,WTS Porterfield,KED Carroll,M Ntini,0,0,0,NA,0,NA,NA,NA,0
+293072,2nd innings,Ireland,South Africa,6.3,WTS Porterfield,KED Carroll,M Ntini,0,0,0,NA,0,NA,NA,NA,0
+293072,2nd innings,Ireland,South Africa,6.4,WTS Porterfield,KED Carroll,M Ntini,0,0,0,NA,0,NA,NA,NA,0
+293072,2nd innings,Ireland,South Africa,6.5,WTS Porterfield,KED Carroll,M Ntini,1,0,1,NA,0,NA,NA,NA,0
+293072,2nd innings,Ireland,South Africa,6.6,KED Carroll,WTS Porterfield,M Ntini,1,0,1,NA,0,NA,NA,NA,0
+293072,2nd innings,Ireland,South Africa,6.7,WTS Porterfield,KED Carroll,M Ntini,0,0,0,NA,0,NA,NA,NA,0
+293072,2nd innings,Ireland,South Africa,7.1,KED Carroll,WTS Porterfield,DW Steyn,2,0,2,NA,0,NA,NA,NA,0
+293072,2nd innings,Ireland,South Africa,7.2,KED Carroll,WTS Porterfield,DW Steyn,0,0,0,NA,0,NA,NA,NA,0
+293072,2nd innings,Ireland,South Africa,7.3,KED Carroll,WTS Porterfield,DW Steyn,0,0,0,NA,0,NA,NA,NA,0
+293072,2nd innings,Ireland,South Africa,7.4,KED Carroll,WTS Porterfield,DW Steyn,3,0,3,NA,0,NA,NA,NA,0
+293072,2nd innings,Ireland,South Africa,7.5,WTS Porterfield,KED Carroll,DW Steyn,0,0,0,NA,0,NA,NA,NA,0
+293072,2nd innings,Ireland,South Africa,7.6,WTS Porterfield,KED Carroll,DW Steyn,0,1,1,legbyes,0,NA,NA,NA,0
+293072,2nd innings,Ireland,South Africa,8.1,WTS Porterfield,KED Carroll,VD Philander,0,0,0,NA,0,NA,NA,NA,0
+293072,2nd innings,Ireland,South Africa,8.2,WTS Porterfield,KED Carroll,VD Philander,1,0,1,NA,0,NA,NA,NA,0
+293072,2nd innings,Ireland,South Africa,8.3,KED Carroll,WTS Porterfield,VD Philander,0,0,0,NA,0,NA,NA,NA,0
+293072,2nd innings,Ireland,South Africa,8.4,KED Carroll,WTS Porterfield,VD Philander,1,0,1,NA,0,NA,NA,NA,0
+293072,2nd innings,Ireland,South Africa,8.5,WTS Porterfield,KED Carroll,VD Philander,0,0,0,NA,0,NA,NA,NA,0
+293072,2nd innings,Ireland,South Africa,8.6,WTS Porterfield,KED Carroll,VD Philander,0,0,0,NA,0,NA,NA,NA,0
+293072,2nd innings,Ireland,South Africa,9.1,KED Carroll,WTS Porterfield,DW Steyn,0,0,0,NA,1,hit wicket,KED Carroll,NA,0
+293072,2nd innings,Ireland,South Africa,9.2,MJ Fourie,WTS Porterfield,DW Steyn,0,0,0,NA,0,NA,NA,NA,0
+293072,2nd innings,Ireland,South Africa,9.3,MJ Fourie,WTS Porterfield,DW Steyn,1,0,1,NA,0,NA,NA,NA,0
+293072,2nd innings,Ireland,South Africa,9.4,WTS Porterfield,MJ Fourie,DW Steyn,1,0,1,NA,0,NA,NA,NA,0
+293072,2nd innings,Ireland,South Africa,9.5,MJ Fourie,WTS Porterfield,DW Steyn,0,0,0,NA,1,caught,MJ Fourie,JM Kemp,0
+293072,2nd innings,Ireland,South Africa,9.6,DI Joyce,WTS Porterfield,DW Steyn,0,0,0,NA,0,NA,NA,NA,0
+293072,2nd innings,Ireland,South Africa,10.1,WTS Porterfield,DI Joyce,VD Philander,0,0,0,NA,0,NA,NA,NA,0
+293072,2nd innings,Ireland,South Africa,10.2,WTS Porterfield,DI Joyce,VD Philander,0,0,0,NA,0,NA,NA,NA,0
+293072,2nd innings,Ireland,South Africa,10.3,WTS Porterfield,DI Joyce,VD Philander,0,0,0,NA,1,caught,WTS Porterfield,MV Boucher,0
+293072,2nd innings,Ireland,South Africa,10.4,NJ O'Brien,DI Joyce,VD Philander,0,0,0,NA,0,NA,NA,NA,0
+293072,2nd innings,Ireland,South Africa,10.5,NJ O'Brien,DI Joyce,VD Philander,0,1,1,wides,0,NA,NA,NA,0
+293072,2nd innings,Ireland,South Africa,10.6,NJ O'Brien,DI Joyce,VD Philander,2,0,2,NA,0,NA,NA,NA,0
+293072,2nd innings,Ireland,South Africa,10.7,NJ O'Brien,DI Joyce,VD Philander,1,0,1,NA,0,NA,NA,NA,0
+293072,2nd innings,Ireland,South Africa,11.1,NJ O'Brien,DI Joyce,JH Kallis,1,0,1,NA,0,NA,NA,NA,0
+293072,2nd innings,Ireland,South Africa,11.2,DI Joyce,NJ O'Brien,JH Kallis,0,0,0,NA,0,NA,NA,NA,0
+293072,2nd innings,Ireland,South Africa,11.3,DI Joyce,NJ O'Brien,JH Kallis,0,0,0,NA,0,NA,NA,NA,0
+293072,2nd innings,Ireland,South Africa,11.4,DI Joyce,NJ O'Brien,JH Kallis,0,0,0,NA,0,NA,NA,NA,0
+293072,2nd innings,Ireland,South Africa,11.5,DI Joyce,NJ O'Brien,JH Kallis,4,0,4,NA,0,NA,NA,NA,0
+293072,2nd innings,Ireland,South Africa,11.6,DI Joyce,NJ O'Brien,JH Kallis,0,0,0,NA,0,NA,NA,NA,0
+293072,2nd innings,Ireland,South Africa,12.1,NJ O'Brien,DI Joyce,VD Philander,0,0,0,NA,1,bowled,NJ O'Brien,NA,0
+293072,2nd innings,Ireland,South Africa,12.2,AR Cusack,DI Joyce,VD Philander,0,0,0,NA,0,NA,NA,NA,0
+293072,2nd innings,Ireland,South Africa,12.3,AR Cusack,DI Joyce,VD Philander,0,0,0,NA,0,NA,NA,NA,0
+293072,2nd innings,Ireland,South Africa,12.4,AR Cusack,DI Joyce,VD Philander,0,0,0,NA,0,NA,NA,NA,0
+293072,2nd innings,Ireland,South Africa,12.5,AR Cusack,DI Joyce,VD Philander,0,0,0,NA,0,NA,NA,NA,0
+293072,2nd innings,Ireland,South Africa,12.6,AR Cusack,DI Joyce,VD Philander,0,0,0,NA,0,NA,NA,NA,0
+293072,2nd innings,Ireland,South Africa,13.1,DI Joyce,AR Cusack,JH Kallis,0,0,0,NA,0,NA,NA,NA,0
+293072,2nd innings,Ireland,South Africa,13.2,DI Joyce,AR Cusack,JH Kallis,0,0,0,NA,0,NA,NA,NA,0
+293072,2nd innings,Ireland,South Africa,13.3,DI Joyce,AR Cusack,JH Kallis,0,0,0,NA,0,NA,NA,NA,0
+293072,2nd innings,Ireland,South Africa,13.4,DI Joyce,AR Cusack,JH Kallis,0,2,2,legbyes,0,NA,NA,NA,0
+293072,2nd innings,Ireland,South Africa,13.5,DI Joyce,AR Cusack,JH Kallis,4,0,4,NA,0,NA,NA,NA,0
+293072,2nd innings,Ireland,South Africa,13.6,DI Joyce,AR Cusack,JH Kallis,1,0,1,NA,0,NA,NA,NA,0
+293072,2nd innings,Ireland,South Africa,14.1,DI Joyce,AR Cusack,VD Philander,0,0,0,NA,0,NA,NA,NA,0
+293072,2nd innings,Ireland,South Africa,14.2,DI Joyce,AR Cusack,VD Philander,0,0,0,NA,0,NA,NA,NA,0
+293072,2nd innings,Ireland,South Africa,14.3,DI Joyce,AR Cusack,VD Philander,0,0,0,NA,0,NA,NA,NA,0
+293072,2nd innings,Ireland,South Africa,14.4,DI Joyce,AR Cusack,VD Philander,0,0,0,NA,0,NA,NA,NA,0
+293072,2nd innings,Ireland,South Africa,14.5,DI Joyce,AR Cusack,VD Philander,1,0,1,NA,0,NA,NA,NA,0
+293072,2nd innings,Ireland,South Africa,14.6,AR Cusack,DI Joyce,VD Philander,0,0,0,NA,0,NA,NA,NA,0
+293072,2nd innings,Ireland,South Africa,15.1,DI Joyce,AR Cusack,JH Kallis,1,0,1,NA,0,NA,NA,NA,0
+293072,2nd innings,Ireland,South Africa,15.2,AR Cusack,DI Joyce,JH Kallis,0,0,0,NA,0,NA,NA,NA,0
+293072,2nd innings,Ireland,South Africa,15.3,AR Cusack,DI Joyce,JH Kallis,0,0,0,NA,0,NA,NA,NA,0
+293072,2nd innings,Ireland,South Africa,15.4,AR Cusack,DI Joyce,JH Kallis,1,0,1,NA,0,NA,NA,NA,0
+293072,2nd innings,Ireland,South Africa,15.5,DI Joyce,AR Cusack,JH Kallis,0,0,0,NA,1,caught,DI Joyce,MV Boucher,0
+293072,2nd innings,Ireland,South Africa,15.6,KJ O'Brien,AR Cusack,JH Kallis,0,0,0,NA,0,NA,NA,NA,0
+293072,2nd innings,Ireland,South Africa,16.1,AR Cusack,KJ O'Brien,MS Tshabalala,1,0,1,NA,0,NA,NA,NA,0
+293072,2nd innings,Ireland,South Africa,16.2,KJ O'Brien,AR Cusack,MS Tshabalala,0,0,0,NA,0,NA,NA,NA,0
+293072,2nd innings,Ireland,South Africa,16.3,KJ O'Brien,AR Cusack,MS Tshabalala,1,0,1,NA,0,NA,NA,NA,0
+293072,2nd innings,Ireland,South Africa,16.4,AR Cusack,KJ O'Brien,MS Tshabalala,0,0,0,NA,0,NA,NA,NA,0
+293072,2nd innings,Ireland,South Africa,16.5,AR Cusack,KJ O'Brien,MS Tshabalala,1,0,1,NA,0,NA,NA,NA,0
+293072,2nd innings,Ireland,South Africa,16.6,KJ O'Brien,AR Cusack,MS Tshabalala,4,0,4,NA,0,NA,NA,NA,0
+293072,2nd innings,Ireland,South Africa,17.1,AR Cusack,KJ O'Brien,JH Kallis,0,0,0,NA,0,NA,NA,NA,0
+293072,2nd innings,Ireland,South Africa,17.2,AR Cusack,KJ O'Brien,JH Kallis,1,0,1,NA,0,NA,NA,NA,0
+293072,2nd innings,Ireland,South Africa,17.3,KJ O'Brien,AR Cusack,JH Kallis,0,0,0,NA,0,NA,NA,NA,0
+293072,2nd innings,Ireland,South Africa,17.4,KJ O'Brien,AR Cusack,JH Kallis,1,0,1,NA,0,NA,NA,NA,0
+293072,2nd innings,Ireland,South Africa,17.5,AR Cusack,KJ O'Brien,JH Kallis,2,0,2,NA,0,NA,NA,NA,0
+293072,2nd innings,Ireland,South Africa,17.6,AR Cusack,KJ O'Brien,JH Kallis,0,0,0,NA,0,NA,NA,NA,0
+293072,2nd innings,Ireland,South Africa,18.1,KJ O'Brien,AR Cusack,MS Tshabalala,0,0,0,NA,1,caught,KJ O'Brien,MN van Wyk,0
+293072,2nd innings,Ireland,South Africa,18.2,AR Cusack,AR White,MS Tshabalala,1,0,1,NA,0,NA,NA,NA,0
+293072,2nd innings,Ireland,South Africa,18.3,AR White,AR Cusack,MS Tshabalala,2,0,2,NA,0,NA,NA,NA,0
+293072,2nd innings,Ireland,South Africa,18.4,AR White,AR Cusack,MS Tshabalala,1,0,1,NA,0,NA,NA,NA,0
+293072,2nd innings,Ireland,South Africa,18.5,AR Cusack,AR White,MS Tshabalala,0,0,0,NA,0,NA,NA,NA,0
+293072,2nd innings,Ireland,South Africa,18.6,AR Cusack,AR White,MS Tshabalala,1,0,1,NA,0,NA,NA,NA,0
+293072,2nd innings,Ireland,South Africa,19.1,AR Cusack,AR White,JP Duminy,1,0,1,NA,0,NA,NA,NA,0
+293072,2nd innings,Ireland,South Africa,19.2,AR White,AR Cusack,JP Duminy,0,0,0,NA,0,NA,NA,NA,0
+293072,2nd innings,Ireland,South Africa,19.3,AR White,AR Cusack,JP Duminy,0,0,0,NA,1,caught,AR White,M Ntini,0
+293072,2nd innings,Ireland,South Africa,19.4,DT Johnston,AR Cusack,JP Duminy,1,0,1,NA,0,NA,NA,NA,0
+293072,2nd innings,Ireland,South Africa,19.5,AR Cusack,DT Johnston,JP Duminy,0,0,0,NA,0,NA,NA,NA,0
+293072,2nd innings,Ireland,South Africa,19.6,AR Cusack,DT Johnston,JP Duminy,0,0,0,NA,0,NA,NA,NA,0
+293072,2nd innings,Ireland,South Africa,20.1,DT Johnston,AR Cusack,M Ntini,0,0,0,NA,0,NA,NA,NA,0
+293072,2nd innings,Ireland,South Africa,20.2,DT Johnston,AR Cusack,M Ntini,1,0,1,NA,0,NA,NA,NA,0
+293072,2nd innings,Ireland,South Africa,20.3,AR Cusack,DT Johnston,M Ntini,1,0,1,NA,0,NA,NA,NA,0
+293072,2nd innings,Ireland,South Africa,20.4,DT Johnston,AR Cusack,M Ntini,1,0,1,NA,0,NA,NA,NA,0
+293072,2nd innings,Ireland,South Africa,20.5,AR Cusack,DT Johnston,M Ntini,0,0,0,NA,0,NA,NA,NA,0
+293072,2nd innings,Ireland,South Africa,20.6,AR Cusack,DT Johnston,M Ntini,2,0,2,NA,0,NA,NA,NA,0
+293072,2nd innings,Ireland,South Africa,21.1,DT Johnston,AR Cusack,JP Duminy,0,0,0,NA,0,NA,NA,NA,0
+293072,2nd innings,Ireland,South Africa,21.2,DT Johnston,AR Cusack,JP Duminy,0,0,0,NA,0,NA,NA,NA,0
+293072,2nd innings,Ireland,South Africa,21.3,DT Johnston,AR Cusack,JP Duminy,0,0,0,NA,0,NA,NA,NA,0
+293072,2nd innings,Ireland,South Africa,21.4,DT Johnston,AR Cusack,JP Duminy,2,0,2,NA,0,NA,NA,NA,0
+293072,2nd innings,Ireland,South Africa,21.5,DT Johnston,AR Cusack,JP Duminy,2,0,2,NA,0,NA,NA,NA,0
+293072,2nd innings,Ireland,South Africa,21.6,DT Johnston,AR Cusack,JP Duminy,2,0,2,NA,0,NA,NA,NA,0
+293072,2nd innings,Ireland,South Africa,22.1,AR Cusack,DT Johnston,M Ntini,1,0,1,NA,0,NA,NA,NA,0
+293072,2nd innings,Ireland,South Africa,22.2,DT Johnston,AR Cusack,M Ntini,0,0,0,NA,0,NA,NA,NA,0
+293072,2nd innings,Ireland,South Africa,22.3,DT Johnston,AR Cusack,M Ntini,0,0,0,NA,0,NA,NA,NA,0
+293072,2nd innings,Ireland,South Africa,22.4,DT Johnston,AR Cusack,M Ntini,0,0,0,NA,1,caught,DT Johnston,JP Duminy,0
+293072,2nd innings,Ireland,South Africa,22.5,AR Cusack,WK McCallan,M Ntini,0,0,0,NA,0,NA,NA,NA,0
+293072,2nd innings,Ireland,South Africa,22.6,AR Cusack,WK McCallan,M Ntini,0,2,2,legbyes,0,NA,NA,NA,0
+293072,2nd innings,Ireland,South Africa,23.1,WK McCallan,AR Cusack,MS Tshabalala,1,0,1,NA,0,NA,NA,NA,0
+293072,2nd innings,Ireland,South Africa,23.2,AR Cusack,WK McCallan,MS Tshabalala,4,0,4,NA,0,NA,NA,NA,0
+293072,2nd innings,Ireland,South Africa,23.3,AR Cusack,WK McCallan,MS Tshabalala,1,0,1,NA,0,NA,NA,NA,0
+293072,2nd innings,Ireland,South Africa,23.4,WK McCallan,AR Cusack,MS Tshabalala,1,0,1,NA,0,NA,NA,NA,0
+293072,2nd innings,Ireland,South Africa,23.5,AR Cusack,WK McCallan,MS Tshabalala,1,0,1,NA,0,NA,NA,NA,0
+293072,2nd innings,Ireland,South Africa,23.6,WK McCallan,AR Cusack,MS Tshabalala,0,0,0,NA,0,NA,NA,NA,0
+293072,2nd innings,Ireland,South Africa,24.1,AR Cusack,WK McCallan,JH Kallis,0,0,0,NA,0,NA,NA,NA,0
+293072,2nd innings,Ireland,South Africa,24.2,AR Cusack,WK McCallan,JH Kallis,0,0,0,NA,0,NA,NA,NA,0
+293072,2nd innings,Ireland,South Africa,24.3,AR Cusack,WK McCallan,JH Kallis,0,0,0,NA,0,NA,NA,NA,0
+293072,2nd innings,Ireland,South Africa,24.4,AR Cusack,WK McCallan,JH Kallis,1,0,1,NA,0,NA,NA,NA,0
+293072,2nd innings,Ireland,South Africa,24.5,WK McCallan,AR Cusack,JH Kallis,0,0,0,NA,0,NA,NA,NA,0
+293072,2nd innings,Ireland,South Africa,24.6,WK McCallan,AR Cusack,JH Kallis,2,0,2,NA,0,NA,NA,NA,0
+293072,2nd innings,Ireland,South Africa,25.1,AR Cusack,WK McCallan,MS Tshabalala,6,0,6,NA,0,NA,NA,NA,0
+293072,2nd innings,Ireland,South Africa,25.2,AR Cusack,WK McCallan,MS Tshabalala,1,0,1,NA,0,NA,NA,NA,0
+293072,2nd innings,Ireland,South Africa,25.3,WK McCallan,AR Cusack,MS Tshabalala,1,0,1,NA,0,NA,NA,NA,0
+293072,2nd innings,Ireland,South Africa,25.4,AR Cusack,WK McCallan,MS Tshabalala,2,0,2,NA,0,NA,NA,NA,0
+293072,2nd innings,Ireland,South Africa,25.5,AR Cusack,WK McCallan,MS Tshabalala,0,0,0,NA,0,NA,NA,NA,0
+293072,2nd innings,Ireland,South Africa,25.6,AR Cusack,WK McCallan,MS Tshabalala,0,0,0,NA,0,NA,NA,NA,0
+293072,2nd innings,Ireland,South Africa,26.1,WK McCallan,AR Cusack,JH Kallis,0,0,0,NA,0,NA,NA,NA,0
+293072,2nd innings,Ireland,South Africa,26.2,WK McCallan,AR Cusack,JH Kallis,1,0,1,NA,0,NA,NA,NA,0
+293072,2nd innings,Ireland,South Africa,26.3,AR Cusack,WK McCallan,JH Kallis,0,0,0,NA,0,NA,NA,NA,0
+293072,2nd innings,Ireland,South Africa,26.4,AR Cusack,WK McCallan,JH Kallis,0,0,0,NA,0,NA,NA,NA,0
+293072,2nd innings,Ireland,South Africa,26.5,AR Cusack,WK McCallan,JH Kallis,1,0,1,NA,0,NA,NA,NA,0
+293072,2nd innings,Ireland,South Africa,26.6,WK McCallan,AR Cusack,JH Kallis,0,0,0,NA,0,NA,NA,NA,0
+293072,2nd innings,Ireland,South Africa,27.1,AR Cusack,WK McCallan,DW Steyn,0,0,0,NA,0,NA,NA,NA,0
+293072,2nd innings,Ireland,South Africa,27.2,AR Cusack,WK McCallan,DW Steyn,0,0,0,NA,0,NA,NA,NA,0
+293072,2nd innings,Ireland,South Africa,27.3,AR Cusack,WK McCallan,DW Steyn,2,0,2,NA,0,NA,NA,NA,0
+293072,2nd innings,Ireland,South Africa,27.4,AR Cusack,WK McCallan,DW Steyn,1,0,1,NA,0,NA,NA,NA,0
+293072,2nd innings,Ireland,South Africa,27.5,WK McCallan,AR Cusack,DW Steyn,1,0,1,NA,0,NA,NA,NA,0
+293072,2nd innings,Ireland,South Africa,27.6,AR Cusack,WK McCallan,DW Steyn,0,0,0,NA,0,NA,NA,NA,0
+293072,2nd innings,Ireland,South Africa,28.1,WK McCallan,AR Cusack,VD Philander,3,0,3,NA,0,NA,NA,NA,0
+293072,2nd innings,Ireland,South Africa,28.2,AR Cusack,WK McCallan,VD Philander,0,0,0,NA,0,NA,NA,NA,0
+293072,2nd innings,Ireland,South Africa,28.3,AR Cusack,WK McCallan,VD Philander,0,0,0,NA,0,NA,NA,NA,0
+293072,2nd innings,Ireland,South Africa,28.4,AR Cusack,WK McCallan,VD Philander,0,0,0,NA,0,NA,NA,NA,0
+293072,2nd innings,Ireland,South Africa,28.5,AR Cusack,WK McCallan,VD Philander,1,0,1,NA,0,NA,NA,NA,0
+293072,2nd innings,Ireland,South Africa,28.6,WK McCallan,AR Cusack,VD Philander,0,0,0,NA,1,caught,WK McCallan,MV Boucher,0
+293072,2nd innings,Ireland,South Africa,29.1,AR Cusack,RK Whelan,DW Steyn,1,0,1,NA,0,NA,NA,NA,0
+293072,2nd innings,Ireland,South Africa,29.2,RK Whelan,AR Cusack,DW Steyn,0,0,0,NA,0,NA,NA,NA,0
+293072,2nd innings,Ireland,South Africa,29.3,RK Whelan,AR Cusack,DW Steyn,0,0,0,NA,0,NA,NA,NA,0
+293072,2nd innings,Ireland,South Africa,29.4,RK Whelan,AR Cusack,DW Steyn,0,0,0,NA,0,NA,NA,NA,0
+293072,2nd innings,Ireland,South Africa,29.5,RK Whelan,AR Cusack,DW Steyn,0,0,0,NA,0,NA,NA,NA,0
+293072,2nd innings,Ireland,South Africa,29.6,RK Whelan,AR Cusack,DW Steyn,0,0,0,NA,0,NA,NA,NA,0
+293072,2nd innings,Ireland,South Africa,30.1,AR Cusack,RK Whelan,VD Philander,0,0,0,NA,0,NA,NA,NA,0
+293072,2nd innings,Ireland,South Africa,30.2,AR Cusack,RK Whelan,VD Philander,0,0,0,NA,0,NA,NA,NA,0
+293072,2nd innings,Ireland,South Africa,30.3,AR Cusack,RK Whelan,VD Philander,1,0,1,NA,0,NA,NA,NA,0
+293072,2nd innings,Ireland,South Africa,30.4,RK Whelan,AR Cusack,VD Philander,0,0,0,NA,0,NA,NA,NA,0
+293072,2nd innings,Ireland,South Africa,30.5,RK Whelan,AR Cusack,VD Philander,0,0,0,NA,1,bowled,RK Whelan,NA,0

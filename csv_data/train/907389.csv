@@ -1,0 +1,604 @@
+match_id,innings,team,opponent,ball,batsman,non_striker,bowler,scored_runs,extras,total,extra_type,wicket,wicket_type,player_out,fielders,winner
+907389,1st innings,West Indies,South Africa,0.1,HK Matthews,SL Quintyne,S Ismail,1,0,1,NA,0,NA,NA,NA,1
+907389,1st innings,West Indies,South Africa,0.2,SL Quintyne,HK Matthews,S Ismail,0,0,0,NA,0,NA,NA,NA,1
+907389,1st innings,West Indies,South Africa,0.3,SL Quintyne,HK Matthews,S Ismail,0,0,0,NA,0,NA,NA,NA,1
+907389,1st innings,West Indies,South Africa,0.4,SL Quintyne,HK Matthews,S Ismail,0,0,0,NA,0,NA,NA,NA,1
+907389,1st innings,West Indies,South Africa,0.5,SL Quintyne,HK Matthews,S Ismail,0,0,0,NA,0,NA,NA,NA,1
+907389,1st innings,West Indies,South Africa,0.6,SL Quintyne,HK Matthews,S Ismail,1,0,1,NA,0,NA,NA,NA,1
+907389,1st innings,West Indies,South Africa,1.1,SL Quintyne,HK Matthews,M Kapp,6,0,6,NA,0,NA,NA,NA,1
+907389,1st innings,West Indies,South Africa,1.2,SL Quintyne,HK Matthews,M Kapp,0,0,0,NA,0,NA,NA,NA,1
+907389,1st innings,West Indies,South Africa,1.3,SL Quintyne,HK Matthews,M Kapp,0,0,0,NA,0,NA,NA,NA,1
+907389,1st innings,West Indies,South Africa,1.4,SL Quintyne,HK Matthews,M Kapp,0,0,0,NA,0,NA,NA,NA,1
+907389,1st innings,West Indies,South Africa,1.5,SL Quintyne,HK Matthews,M Kapp,0,0,0,NA,0,NA,NA,NA,1
+907389,1st innings,West Indies,South Africa,1.6,SL Quintyne,HK Matthews,M Kapp,0,0,0,NA,0,NA,NA,NA,1
+907389,1st innings,West Indies,South Africa,2.1,HK Matthews,SL Quintyne,S Ismail,1,0,1,NA,0,NA,NA,NA,1
+907389,1st innings,West Indies,South Africa,2.2,SL Quintyne,HK Matthews,S Ismail,0,0,0,NA,0,NA,NA,NA,1
+907389,1st innings,West Indies,South Africa,2.3,SL Quintyne,HK Matthews,S Ismail,4,0,4,NA,0,NA,NA,NA,1
+907389,1st innings,West Indies,South Africa,2.4,SL Quintyne,HK Matthews,S Ismail,1,0,1,NA,0,NA,NA,NA,1
+907389,1st innings,West Indies,South Africa,2.5,HK Matthews,SL Quintyne,S Ismail,0,0,0,NA,0,NA,NA,NA,1
+907389,1st innings,West Indies,South Africa,2.6,HK Matthews,SL Quintyne,S Ismail,1,0,1,NA,0,NA,NA,NA,1
+907389,1st innings,West Indies,South Africa,3.1,HK Matthews,SL Quintyne,M Kapp,0,0,0,NA,0,NA,NA,NA,1
+907389,1st innings,West Indies,South Africa,3.2,HK Matthews,SL Quintyne,M Kapp,0,0,0,NA,0,NA,NA,NA,1
+907389,1st innings,West Indies,South Africa,3.3,HK Matthews,SL Quintyne,M Kapp,0,0,0,NA,0,NA,NA,NA,1
+907389,1st innings,West Indies,South Africa,3.4,HK Matthews,SL Quintyne,M Kapp,0,0,0,NA,0,NA,NA,NA,1
+907389,1st innings,West Indies,South Africa,3.5,HK Matthews,SL Quintyne,M Kapp,0,0,0,NA,0,NA,NA,NA,1
+907389,1st innings,West Indies,South Africa,3.6,HK Matthews,SL Quintyne,M Kapp,1,0,1,NA,0,NA,NA,NA,1
+907389,1st innings,West Indies,South Africa,4.1,HK Matthews,SL Quintyne,S Ismail,0,0,0,NA,0,NA,NA,NA,1
+907389,1st innings,West Indies,South Africa,4.2,HK Matthews,SL Quintyne,S Ismail,4,0,4,NA,0,NA,NA,NA,1
+907389,1st innings,West Indies,South Africa,4.3,HK Matthews,SL Quintyne,S Ismail,0,0,0,NA,0,NA,NA,NA,1
+907389,1st innings,West Indies,South Africa,4.4,HK Matthews,SL Quintyne,S Ismail,0,0,0,NA,0,NA,NA,NA,1
+907389,1st innings,West Indies,South Africa,4.5,HK Matthews,SL Quintyne,S Ismail,0,0,0,NA,0,NA,NA,NA,1
+907389,1st innings,West Indies,South Africa,4.6,HK Matthews,SL Quintyne,S Ismail,0,0,0,NA,0,NA,NA,NA,1
+907389,1st innings,West Indies,South Africa,5.1,SL Quintyne,HK Matthews,M Kapp,0,0,0,NA,0,NA,NA,NA,1
+907389,1st innings,West Indies,South Africa,5.2,SL Quintyne,HK Matthews,M Kapp,0,0,0,NA,0,NA,NA,NA,1
+907389,1st innings,West Indies,South Africa,5.3,SL Quintyne,HK Matthews,M Kapp,1,0,1,NA,0,NA,NA,NA,1
+907389,1st innings,West Indies,South Africa,5.4,HK Matthews,SL Quintyne,M Kapp,1,0,1,NA,0,NA,NA,NA,1
+907389,1st innings,West Indies,South Africa,5.5,SL Quintyne,HK Matthews,M Kapp,1,0,1,NA,0,NA,NA,NA,1
+907389,1st innings,West Indies,South Africa,5.6,HK Matthews,SL Quintyne,M Kapp,0,0,0,NA,0,NA,NA,NA,1
+907389,1st innings,West Indies,South Africa,6.1,SL Quintyne,HK Matthews,S Ismail,0,0,0,NA,0,NA,NA,NA,1
+907389,1st innings,West Indies,South Africa,6.2,SL Quintyne,HK Matthews,S Ismail,0,0,0,NA,0,NA,NA,NA,1
+907389,1st innings,West Indies,South Africa,6.3,SL Quintyne,HK Matthews,S Ismail,4,0,4,NA,0,NA,NA,NA,1
+907389,1st innings,West Indies,South Africa,6.4,SL Quintyne,HK Matthews,S Ismail,0,0,0,NA,0,NA,NA,NA,1
+907389,1st innings,West Indies,South Africa,6.5,SL Quintyne,HK Matthews,S Ismail,0,0,0,NA,1,bowled,SL Quintyne,NA,1
+907389,1st innings,West Indies,South Africa,6.6,SR Taylor,HK Matthews,S Ismail,0,0,0,NA,0,NA,NA,NA,1
+907389,1st innings,West Indies,South Africa,7.1,HK Matthews,SR Taylor,M Kapp,0,0,0,NA,0,NA,NA,NA,1
+907389,1st innings,West Indies,South Africa,7.2,HK Matthews,SR Taylor,M Kapp,1,0,1,NA,0,NA,NA,NA,1
+907389,1st innings,West Indies,South Africa,7.3,SR Taylor,HK Matthews,M Kapp,0,0,0,NA,0,NA,NA,NA,1
+907389,1st innings,West Indies,South Africa,7.4,SR Taylor,HK Matthews,M Kapp,0,0,0,NA,0,NA,NA,NA,1
+907389,1st innings,West Indies,South Africa,7.5,SR Taylor,HK Matthews,M Kapp,0,0,0,NA,0,NA,NA,NA,1
+907389,1st innings,West Indies,South Africa,7.6,SR Taylor,HK Matthews,M Kapp,0,0,0,NA,0,NA,NA,NA,1
+907389,1st innings,West Indies,South Africa,8.1,HK Matthews,SR Taylor,M Klaas,1,0,1,NA,0,NA,NA,NA,1
+907389,1st innings,West Indies,South Africa,8.2,SR Taylor,HK Matthews,M Klaas,1,0,1,NA,0,NA,NA,NA,1
+907389,1st innings,West Indies,South Africa,8.3,HK Matthews,SR Taylor,M Klaas,0,0,0,NA,0,NA,NA,NA,1
+907389,1st innings,West Indies,South Africa,8.4,HK Matthews,SR Taylor,M Klaas,0,0,0,NA,0,NA,NA,NA,1
+907389,1st innings,West Indies,South Africa,8.5,HK Matthews,SR Taylor,M Klaas,1,0,1,NA,0,NA,NA,NA,1
+907389,1st innings,West Indies,South Africa,8.6,SR Taylor,HK Matthews,M Klaas,0,0,0,NA,0,NA,NA,NA,1
+907389,1st innings,West Indies,South Africa,9.1,HK Matthews,SR Taylor,CL Tryon,0,1,1,legbyes,0,NA,NA,NA,1
+907389,1st innings,West Indies,South Africa,9.2,SR Taylor,HK Matthews,CL Tryon,0,0,0,NA,0,NA,NA,NA,1
+907389,1st innings,West Indies,South Africa,9.3,SR Taylor,HK Matthews,CL Tryon,0,0,0,NA,0,NA,NA,NA,1
+907389,1st innings,West Indies,South Africa,9.4,SR Taylor,HK Matthews,CL Tryon,0,0,0,NA,0,NA,NA,NA,1
+907389,1st innings,West Indies,South Africa,9.5,SR Taylor,HK Matthews,CL Tryon,0,0,0,NA,0,NA,NA,NA,1
+907389,1st innings,West Indies,South Africa,9.6,SR Taylor,HK Matthews,CL Tryon,0,0,0,NA,0,NA,NA,NA,1
+907389,1st innings,West Indies,South Africa,10.1,HK Matthews,SR Taylor,M Klaas,0,0,0,NA,0,NA,NA,NA,1
+907389,1st innings,West Indies,South Africa,10.2,HK Matthews,SR Taylor,M Klaas,2,0,2,NA,0,NA,NA,NA,1
+907389,1st innings,West Indies,South Africa,10.3,HK Matthews,SR Taylor,M Klaas,1,0,1,NA,0,NA,NA,NA,1
+907389,1st innings,West Indies,South Africa,10.4,SR Taylor,HK Matthews,M Klaas,0,0,0,NA,0,NA,NA,NA,1
+907389,1st innings,West Indies,South Africa,10.5,SR Taylor,HK Matthews,M Klaas,0,0,0,NA,0,NA,NA,NA,1
+907389,1st innings,West Indies,South Africa,10.6,SR Taylor,HK Matthews,M Klaas,0,0,0,NA,0,NA,NA,NA,1
+907389,1st innings,West Indies,South Africa,11.1,HK Matthews,SR Taylor,CL Tryon,0,0,0,NA,0,NA,NA,NA,1
+907389,1st innings,West Indies,South Africa,11.2,HK Matthews,SR Taylor,CL Tryon,0,0,0,NA,0,NA,NA,NA,1
+907389,1st innings,West Indies,South Africa,11.3,HK Matthews,SR Taylor,CL Tryon,0,0,0,NA,0,NA,NA,NA,1
+907389,1st innings,West Indies,South Africa,11.4,HK Matthews,SR Taylor,CL Tryon,0,0,0,NA,0,NA,NA,NA,1
+907389,1st innings,West Indies,South Africa,11.5,HK Matthews,SR Taylor,CL Tryon,4,0,4,NA,0,NA,NA,NA,1
+907389,1st innings,West Indies,South Africa,11.6,HK Matthews,SR Taylor,CL Tryon,0,0,0,NA,0,NA,NA,NA,1
+907389,1st innings,West Indies,South Africa,12.1,SR Taylor,HK Matthews,M Klaas,0,0,0,NA,0,NA,NA,NA,1
+907389,1st innings,West Indies,South Africa,12.2,SR Taylor,HK Matthews,M Klaas,0,0,0,NA,0,NA,NA,NA,1
+907389,1st innings,West Indies,South Africa,12.3,SR Taylor,HK Matthews,M Klaas,4,0,4,NA,0,NA,NA,NA,1
+907389,1st innings,West Indies,South Africa,12.4,SR Taylor,HK Matthews,M Klaas,4,0,4,NA,0,NA,NA,NA,1
+907389,1st innings,West Indies,South Africa,12.5,SR Taylor,HK Matthews,M Klaas,4,0,4,NA,0,NA,NA,NA,1
+907389,1st innings,West Indies,South Africa,12.6,SR Taylor,HK Matthews,M Klaas,0,0,0,NA,0,NA,NA,NA,1
+907389,1st innings,West Indies,South Africa,13.1,HK Matthews,SR Taylor,CL Tryon,0,0,0,NA,0,NA,NA,NA,1
+907389,1st innings,West Indies,South Africa,13.2,HK Matthews,SR Taylor,CL Tryon,0,0,0,NA,0,NA,NA,NA,1
+907389,1st innings,West Indies,South Africa,13.3,HK Matthews,SR Taylor,CL Tryon,2,0,2,NA,0,NA,NA,NA,1
+907389,1st innings,West Indies,South Africa,13.4,HK Matthews,SR Taylor,CL Tryon,4,0,4,NA,0,NA,NA,NA,1
+907389,1st innings,West Indies,South Africa,13.5,HK Matthews,SR Taylor,CL Tryon,0,0,0,NA,0,NA,NA,NA,1
+907389,1st innings,West Indies,South Africa,13.6,HK Matthews,SR Taylor,CL Tryon,0,0,0,NA,0,NA,NA,NA,1
+907389,1st innings,West Indies,South Africa,14.1,SR Taylor,HK Matthews,D van Niekerk,0,0,0,NA,0,NA,NA,NA,1
+907389,1st innings,West Indies,South Africa,14.2,SR Taylor,HK Matthews,D van Niekerk,0,0,0,NA,1,lbw,SR Taylor,NA,1
+907389,1st innings,West Indies,South Africa,14.3,DJS Dottin,HK Matthews,D van Niekerk,0,0,0,NA,0,NA,NA,NA,1
+907389,1st innings,West Indies,South Africa,14.4,DJS Dottin,HK Matthews,D van Niekerk,0,0,0,NA,0,NA,NA,NA,1
+907389,1st innings,West Indies,South Africa,14.5,DJS Dottin,HK Matthews,D van Niekerk,0,0,0,NA,0,NA,NA,NA,1
+907389,1st innings,West Indies,South Africa,14.6,DJS Dottin,HK Matthews,D van Niekerk,0,0,0,NA,0,NA,NA,NA,1
+907389,1st innings,West Indies,South Africa,15.1,HK Matthews,DJS Dottin,CL Tryon,4,0,4,NA,0,NA,NA,NA,1
+907389,1st innings,West Indies,South Africa,15.2,HK Matthews,DJS Dottin,CL Tryon,4,0,4,NA,0,NA,NA,NA,1
+907389,1st innings,West Indies,South Africa,15.3,HK Matthews,DJS Dottin,CL Tryon,0,0,0,NA,0,NA,NA,NA,1
+907389,1st innings,West Indies,South Africa,15.4,HK Matthews,DJS Dottin,CL Tryon,1,0,1,NA,0,NA,NA,NA,1
+907389,1st innings,West Indies,South Africa,15.5,DJS Dottin,HK Matthews,CL Tryon,0,0,0,NA,0,NA,NA,NA,1
+907389,1st innings,West Indies,South Africa,15.6,DJS Dottin,HK Matthews,CL Tryon,0,0,0,NA,0,NA,NA,NA,1
+907389,1st innings,West Indies,South Africa,16.1,HK Matthews,DJS Dottin,D van Niekerk,1,0,1,NA,0,NA,NA,NA,1
+907389,1st innings,West Indies,South Africa,16.2,DJS Dottin,HK Matthews,D van Niekerk,0,0,0,NA,0,NA,NA,NA,1
+907389,1st innings,West Indies,South Africa,16.3,DJS Dottin,HK Matthews,D van Niekerk,0,0,0,NA,0,NA,NA,NA,1
+907389,1st innings,West Indies,South Africa,16.4,DJS Dottin,HK Matthews,D van Niekerk,0,0,0,NA,0,NA,NA,NA,1
+907389,1st innings,West Indies,South Africa,16.5,DJS Dottin,HK Matthews,D van Niekerk,1,0,1,NA,0,NA,NA,NA,1
+907389,1st innings,West Indies,South Africa,16.6,HK Matthews,DJS Dottin,D van Niekerk,4,0,4,NA,0,NA,NA,NA,1
+907389,1st innings,West Indies,South Africa,17.1,DJS Dottin,HK Matthews,D Devnarain,0,0,0,NA,0,NA,NA,NA,1
+907389,1st innings,West Indies,South Africa,17.2,DJS Dottin,HK Matthews,D Devnarain,4,1,5,noballs,0,NA,NA,NA,1
+907389,1st innings,West Indies,South Africa,17.3,DJS Dottin,HK Matthews,D Devnarain,0,0,0,NA,0,NA,NA,NA,1
+907389,1st innings,West Indies,South Africa,17.4,DJS Dottin,HK Matthews,D Devnarain,4,0,4,NA,0,NA,NA,NA,1
+907389,1st innings,West Indies,South Africa,17.5,DJS Dottin,HK Matthews,D Devnarain,1,0,1,NA,0,NA,NA,NA,1
+907389,1st innings,West Indies,South Africa,17.6,HK Matthews,DJS Dottin,D Devnarain,0,0,0,NA,0,NA,NA,NA,1
+907389,1st innings,West Indies,South Africa,17.7,HK Matthews,DJS Dottin,D Devnarain,4,0,4,NA,0,NA,NA,NA,1
+907389,1st innings,West Indies,South Africa,18.1,DJS Dottin,HK Matthews,D van Niekerk,1,0,1,NA,0,NA,NA,NA,1
+907389,1st innings,West Indies,South Africa,18.2,HK Matthews,DJS Dottin,D van Niekerk,0,0,0,NA,0,NA,NA,NA,1
+907389,1st innings,West Indies,South Africa,18.3,HK Matthews,DJS Dottin,D van Niekerk,1,0,1,NA,0,NA,NA,NA,1
+907389,1st innings,West Indies,South Africa,18.4,DJS Dottin,HK Matthews,D van Niekerk,0,0,0,NA,0,NA,NA,NA,1
+907389,1st innings,West Indies,South Africa,18.5,DJS Dottin,HK Matthews,D van Niekerk,1,0,1,NA,0,NA,NA,NA,1
+907389,1st innings,West Indies,South Africa,18.6,HK Matthews,DJS Dottin,D van Niekerk,0,0,0,NA,0,NA,NA,NA,1
+907389,1st innings,West Indies,South Africa,19.1,DJS Dottin,HK Matthews,S Ismail,0,0,0,NA,0,NA,NA,NA,1
+907389,1st innings,West Indies,South Africa,19.2,DJS Dottin,HK Matthews,S Ismail,0,0,0,NA,0,NA,NA,NA,1
+907389,1st innings,West Indies,South Africa,19.3,DJS Dottin,HK Matthews,S Ismail,1,0,1,NA,0,NA,NA,NA,1
+907389,1st innings,West Indies,South Africa,19.4,HK Matthews,DJS Dottin,S Ismail,0,0,0,NA,0,NA,NA,NA,1
+907389,1st innings,West Indies,South Africa,19.5,HK Matthews,DJS Dottin,S Ismail,1,0,1,NA,0,NA,NA,NA,1
+907389,1st innings,West Indies,South Africa,19.6,DJS Dottin,HK Matthews,S Ismail,1,0,1,NA,0,NA,NA,NA,1
+907389,1st innings,West Indies,South Africa,20.1,DJS Dottin,HK Matthews,D van Niekerk,0,0,0,NA,0,NA,NA,NA,1
+907389,1st innings,West Indies,South Africa,20.2,DJS Dottin,HK Matthews,D van Niekerk,0,0,0,NA,0,NA,NA,NA,1
+907389,1st innings,West Indies,South Africa,20.3,DJS Dottin,HK Matthews,D van Niekerk,0,0,0,NA,0,NA,NA,NA,1
+907389,1st innings,West Indies,South Africa,20.4,DJS Dottin,HK Matthews,D van Niekerk,0,0,0,NA,0,NA,NA,NA,1
+907389,1st innings,West Indies,South Africa,20.5,DJS Dottin,HK Matthews,D van Niekerk,0,0,0,NA,0,NA,NA,NA,1
+907389,1st innings,West Indies,South Africa,20.6,DJS Dottin,HK Matthews,D van Niekerk,1,0,1,NA,0,NA,NA,NA,1
+907389,1st innings,West Indies,South Africa,21.1,DJS Dottin,HK Matthews,S Luus,1,0,1,NA,0,NA,NA,NA,1
+907389,1st innings,West Indies,South Africa,21.2,HK Matthews,DJS Dottin,S Luus,0,0,0,NA,0,NA,NA,NA,1
+907389,1st innings,West Indies,South Africa,21.3,HK Matthews,DJS Dottin,S Luus,0,0,0,NA,0,NA,NA,NA,1
+907389,1st innings,West Indies,South Africa,21.4,HK Matthews,DJS Dottin,S Luus,1,0,1,NA,0,NA,NA,NA,1
+907389,1st innings,West Indies,South Africa,21.5,DJS Dottin,HK Matthews,S Luus,1,0,1,NA,0,NA,NA,NA,1
+907389,1st innings,West Indies,South Africa,21.6,HK Matthews,DJS Dottin,S Luus,2,0,2,NA,0,NA,NA,NA,1
+907389,1st innings,West Indies,South Africa,22.1,DJS Dottin,HK Matthews,D van Niekerk,0,0,0,NA,0,NA,NA,NA,1
+907389,1st innings,West Indies,South Africa,22.2,DJS Dottin,HK Matthews,D van Niekerk,0,0,0,NA,0,NA,NA,NA,1
+907389,1st innings,West Indies,South Africa,22.3,DJS Dottin,HK Matthews,D van Niekerk,0,0,0,NA,0,NA,NA,NA,1
+907389,1st innings,West Indies,South Africa,22.4,DJS Dottin,HK Matthews,D van Niekerk,1,0,1,NA,0,NA,NA,NA,1
+907389,1st innings,West Indies,South Africa,22.5,HK Matthews,DJS Dottin,D van Niekerk,0,0,0,NA,0,NA,NA,NA,1
+907389,1st innings,West Indies,South Africa,22.6,HK Matthews,DJS Dottin,D van Niekerk,0,0,0,NA,0,NA,NA,NA,1
+907389,1st innings,West Indies,South Africa,23.1,DJS Dottin,HK Matthews,S Luus,4,0,4,NA,0,NA,NA,NA,1
+907389,1st innings,West Indies,South Africa,23.2,DJS Dottin,HK Matthews,S Luus,0,0,0,NA,0,NA,NA,NA,1
+907389,1st innings,West Indies,South Africa,23.3,DJS Dottin,HK Matthews,S Luus,1,0,1,NA,0,NA,NA,NA,1
+907389,1st innings,West Indies,South Africa,23.4,HK Matthews,DJS Dottin,S Luus,1,0,1,NA,0,NA,NA,NA,1
+907389,1st innings,West Indies,South Africa,23.5,DJS Dottin,HK Matthews,S Luus,0,0,0,NA,0,NA,NA,NA,1
+907389,1st innings,West Indies,South Africa,23.6,DJS Dottin,HK Matthews,S Luus,0,0,0,NA,0,NA,NA,NA,1
+907389,1st innings,West Indies,South Africa,24.1,HK Matthews,DJS Dottin,D van Niekerk,0,0,0,NA,0,NA,NA,NA,1
+907389,1st innings,West Indies,South Africa,24.2,HK Matthews,DJS Dottin,D van Niekerk,1,0,1,NA,0,NA,NA,NA,1
+907389,1st innings,West Indies,South Africa,24.3,DJS Dottin,HK Matthews,D van Niekerk,0,0,0,NA,0,NA,NA,NA,1
+907389,1st innings,West Indies,South Africa,24.4,DJS Dottin,HK Matthews,D van Niekerk,4,0,4,NA,0,NA,NA,NA,1
+907389,1st innings,West Indies,South Africa,24.5,DJS Dottin,HK Matthews,D van Niekerk,1,0,1,NA,0,NA,NA,NA,1
+907389,1st innings,West Indies,South Africa,24.6,HK Matthews,DJS Dottin,D van Niekerk,1,0,1,NA,0,NA,NA,NA,1
+907389,1st innings,West Indies,South Africa,25.1,HK Matthews,DJS Dottin,S Luus,0,0,0,NA,0,NA,NA,NA,1
+907389,1st innings,West Indies,South Africa,25.2,HK Matthews,DJS Dottin,S Luus,1,0,1,NA,0,NA,NA,NA,1
+907389,1st innings,West Indies,South Africa,25.3,DJS Dottin,HK Matthews,S Luus,0,0,0,NA,1,lbw,DJS Dottin,NA,1
+907389,1st innings,West Indies,South Africa,25.4,MR Aguilleira,HK Matthews,S Luus,0,0,0,NA,0,NA,NA,NA,1
+907389,1st innings,West Indies,South Africa,25.5,MR Aguilleira,HK Matthews,S Luus,1,0,1,NA,0,NA,NA,NA,1
+907389,1st innings,West Indies,South Africa,25.6,HK Matthews,MR Aguilleira,S Luus,0,0,0,NA,0,NA,NA,NA,1
+907389,1st innings,West Indies,South Africa,26.1,MR Aguilleira,HK Matthews,D van Niekerk,0,1,1,wides,0,NA,NA,NA,1
+907389,1st innings,West Indies,South Africa,26.2,MR Aguilleira,HK Matthews,D van Niekerk,0,0,0,NA,0,NA,NA,NA,1
+907389,1st innings,West Indies,South Africa,26.3,MR Aguilleira,HK Matthews,D van Niekerk,0,0,0,NA,0,NA,NA,NA,1
+907389,1st innings,West Indies,South Africa,26.4,MR Aguilleira,HK Matthews,D van Niekerk,0,0,0,NA,0,NA,NA,NA,1
+907389,1st innings,West Indies,South Africa,26.5,MR Aguilleira,HK Matthews,D van Niekerk,0,0,0,NA,0,NA,NA,NA,1
+907389,1st innings,West Indies,South Africa,26.6,MR Aguilleira,HK Matthews,D van Niekerk,0,0,0,NA,0,NA,NA,NA,1
+907389,1st innings,West Indies,South Africa,26.7,MR Aguilleira,HK Matthews,D van Niekerk,0,0,0,NA,0,NA,NA,NA,1
+907389,1st innings,West Indies,South Africa,27.1,HK Matthews,MR Aguilleira,S Luus,4,0,4,NA,0,NA,NA,NA,1
+907389,1st innings,West Indies,South Africa,27.2,HK Matthews,MR Aguilleira,S Luus,0,0,0,NA,1,lbw,HK Matthews,NA,1
+907389,1st innings,West Indies,South Africa,27.3,B Cooper,MR Aguilleira,S Luus,4,0,4,NA,0,NA,NA,NA,1
+907389,1st innings,West Indies,South Africa,27.4,B Cooper,MR Aguilleira,S Luus,0,0,0,NA,0,NA,NA,NA,1
+907389,1st innings,West Indies,South Africa,27.5,B Cooper,MR Aguilleira,S Luus,0,0,0,NA,0,NA,NA,NA,1
+907389,1st innings,West Indies,South Africa,27.6,B Cooper,MR Aguilleira,S Luus,0,0,0,NA,0,NA,NA,NA,1
+907389,1st innings,West Indies,South Africa,28.1,MR Aguilleira,B Cooper,D van Niekerk,4,0,4,NA,0,NA,NA,NA,1
+907389,1st innings,West Indies,South Africa,28.2,MR Aguilleira,B Cooper,D van Niekerk,0,0,0,NA,0,NA,NA,NA,1
+907389,1st innings,West Indies,South Africa,28.3,MR Aguilleira,B Cooper,D van Niekerk,1,0,1,NA,0,NA,NA,NA,1
+907389,1st innings,West Indies,South Africa,28.4,B Cooper,MR Aguilleira,D van Niekerk,0,0,0,NA,0,NA,NA,NA,1
+907389,1st innings,West Indies,South Africa,28.5,B Cooper,MR Aguilleira,D van Niekerk,0,0,0,NA,0,NA,NA,NA,1
+907389,1st innings,West Indies,South Africa,28.6,B Cooper,MR Aguilleira,D van Niekerk,0,0,0,NA,0,NA,NA,NA,1
+907389,1st innings,West Indies,South Africa,29.1,MR Aguilleira,B Cooper,S Luus,1,0,1,NA,0,NA,NA,NA,1
+907389,1st innings,West Indies,South Africa,29.2,B Cooper,MR Aguilleira,S Luus,0,0,0,NA,0,NA,NA,NA,1
+907389,1st innings,West Indies,South Africa,29.3,B Cooper,MR Aguilleira,S Luus,1,0,1,NA,0,NA,NA,NA,1
+907389,1st innings,West Indies,South Africa,29.4,MR Aguilleira,B Cooper,S Luus,0,0,0,NA,0,NA,NA,NA,1
+907389,1st innings,West Indies,South Africa,29.5,MR Aguilleira,B Cooper,S Luus,0,0,0,NA,0,NA,NA,NA,1
+907389,1st innings,West Indies,South Africa,29.6,MR Aguilleira,B Cooper,S Luus,0,0,0,NA,0,NA,NA,NA,1
+907389,1st innings,West Indies,South Africa,30.1,B Cooper,MR Aguilleira,D van Niekerk,1,0,1,NA,0,NA,NA,NA,1
+907389,1st innings,West Indies,South Africa,30.2,MR Aguilleira,B Cooper,D van Niekerk,0,0,0,NA,1,bowled,MR Aguilleira,NA,1
+907389,1st innings,West Indies,South Africa,30.3,SA Campbelle,B Cooper,D van Niekerk,0,0,0,NA,0,NA,NA,NA,1
+907389,1st innings,West Indies,South Africa,30.4,SA Campbelle,B Cooper,D van Niekerk,0,0,0,NA,0,NA,NA,NA,1
+907389,1st innings,West Indies,South Africa,30.5,SA Campbelle,B Cooper,D van Niekerk,0,0,0,NA,0,NA,NA,NA,1
+907389,1st innings,West Indies,South Africa,30.6,SA Campbelle,B Cooper,D van Niekerk,0,0,0,NA,0,NA,NA,NA,1
+907389,1st innings,West Indies,South Africa,31.1,B Cooper,SA Campbelle,S Luus,0,0,0,NA,0,NA,NA,NA,1
+907389,1st innings,West Indies,South Africa,31.2,B Cooper,SA Campbelle,S Luus,0,0,0,NA,0,NA,NA,NA,1
+907389,1st innings,West Indies,South Africa,31.3,B Cooper,SA Campbelle,S Luus,4,0,4,NA,0,NA,NA,NA,1
+907389,1st innings,West Indies,South Africa,31.4,B Cooper,SA Campbelle,S Luus,0,0,0,NA,0,NA,NA,NA,1
+907389,1st innings,West Indies,South Africa,31.5,B Cooper,SA Campbelle,S Luus,0,0,0,NA,0,NA,NA,NA,1
+907389,1st innings,West Indies,South Africa,31.6,B Cooper,SA Campbelle,S Luus,0,0,0,NA,0,NA,NA,NA,1
+907389,1st innings,West Indies,South Africa,32.1,SA Campbelle,B Cooper,D van Niekerk,0,0,0,NA,0,NA,NA,NA,1
+907389,1st innings,West Indies,South Africa,32.2,SA Campbelle,B Cooper,D van Niekerk,0,0,0,NA,0,NA,NA,NA,1
+907389,1st innings,West Indies,South Africa,32.3,SA Campbelle,B Cooper,D van Niekerk,0,0,0,NA,0,NA,NA,NA,1
+907389,1st innings,West Indies,South Africa,32.4,SA Campbelle,B Cooper,D van Niekerk,0,0,0,NA,0,NA,NA,NA,1
+907389,1st innings,West Indies,South Africa,32.5,SA Campbelle,B Cooper,D van Niekerk,0,0,0,NA,0,NA,NA,NA,1
+907389,1st innings,West Indies,South Africa,32.6,SA Campbelle,B Cooper,D van Niekerk,0,0,0,NA,0,NA,NA,NA,1
+907389,1st innings,West Indies,South Africa,33.1,B Cooper,SA Campbelle,S Luus,1,0,1,NA,0,NA,NA,NA,1
+907389,1st innings,West Indies,South Africa,33.2,SA Campbelle,B Cooper,S Luus,0,0,0,NA,0,NA,NA,NA,1
+907389,1st innings,West Indies,South Africa,33.3,SA Campbelle,B Cooper,S Luus,0,0,0,NA,0,NA,NA,NA,1
+907389,1st innings,West Indies,South Africa,33.4,SA Campbelle,B Cooper,S Luus,4,0,4,NA,0,NA,NA,NA,1
+907389,1st innings,West Indies,South Africa,33.5,SA Campbelle,B Cooper,S Luus,0,0,0,NA,0,NA,NA,NA,1
+907389,1st innings,West Indies,South Africa,33.6,SA Campbelle,B Cooper,S Luus,4,0,4,NA,0,NA,NA,NA,1
+907389,1st innings,West Indies,South Africa,34.1,B Cooper,SA Campbelle,M Kapp,1,0,1,NA,0,NA,NA,NA,1
+907389,1st innings,West Indies,South Africa,34.2,SA Campbelle,B Cooper,M Kapp,1,0,1,NA,0,NA,NA,NA,1
+907389,1st innings,West Indies,South Africa,34.3,B Cooper,SA Campbelle,M Kapp,0,0,0,NA,0,NA,NA,NA,1
+907389,1st innings,West Indies,South Africa,34.4,B Cooper,SA Campbelle,M Kapp,2,0,2,NA,0,NA,NA,NA,1
+907389,1st innings,West Indies,South Africa,34.5,B Cooper,SA Campbelle,M Kapp,0,0,0,NA,0,NA,NA,NA,1
+907389,1st innings,West Indies,South Africa,34.6,B Cooper,SA Campbelle,M Kapp,0,0,0,NA,0,NA,NA,NA,1
+907389,1st innings,West Indies,South Africa,35.1,SA Campbelle,B Cooper,S Ismail,0,0,0,NA,0,NA,NA,NA,1
+907389,1st innings,West Indies,South Africa,35.2,SA Campbelle,B Cooper,S Ismail,1,0,1,NA,0,NA,NA,NA,1
+907389,1st innings,West Indies,South Africa,35.3,B Cooper,SA Campbelle,S Ismail,1,0,1,NA,0,NA,NA,NA,1
+907389,1st innings,West Indies,South Africa,35.4,SA Campbelle,B Cooper,S Ismail,0,0,0,NA,0,NA,NA,NA,1
+907389,1st innings,West Indies,South Africa,35.5,SA Campbelle,B Cooper,S Ismail,0,0,0,NA,0,NA,NA,NA,1
+907389,1st innings,West Indies,South Africa,35.6,SA Campbelle,B Cooper,S Ismail,0,0,0,NA,0,NA,NA,NA,1
+907389,1st innings,West Indies,South Africa,36.1,B Cooper,SA Campbelle,M Kapp,0,0,0,NA,0,NA,NA,NA,1
+907389,1st innings,West Indies,South Africa,36.2,B Cooper,SA Campbelle,M Kapp,0,0,0,NA,0,NA,NA,NA,1
+907389,1st innings,West Indies,South Africa,36.3,B Cooper,SA Campbelle,M Kapp,0,0,0,NA,0,NA,NA,NA,1
+907389,1st innings,West Indies,South Africa,36.4,B Cooper,SA Campbelle,M Kapp,0,0,0,NA,0,NA,NA,NA,1
+907389,1st innings,West Indies,South Africa,36.5,B Cooper,SA Campbelle,M Kapp,0,0,0,NA,0,NA,NA,NA,1
+907389,1st innings,West Indies,South Africa,36.6,B Cooper,SA Campbelle,M Kapp,0,0,0,NA,0,NA,NA,NA,1
+907389,1st innings,West Indies,South Africa,37.1,SA Campbelle,B Cooper,S Ismail,0,0,0,NA,0,NA,NA,NA,1
+907389,1st innings,West Indies,South Africa,37.2,SA Campbelle,B Cooper,S Ismail,0,0,0,NA,0,NA,NA,NA,1
+907389,1st innings,West Indies,South Africa,37.3,SA Campbelle,B Cooper,S Ismail,0,0,0,NA,0,NA,NA,NA,1
+907389,1st innings,West Indies,South Africa,37.4,SA Campbelle,B Cooper,S Ismail,1,0,1,NA,0,NA,NA,NA,1
+907389,1st innings,West Indies,South Africa,37.5,B Cooper,SA Campbelle,S Ismail,0,0,0,NA,0,NA,NA,NA,1
+907389,1st innings,West Indies,South Africa,37.6,B Cooper,SA Campbelle,S Ismail,1,0,1,NA,0,NA,NA,NA,1
+907389,1st innings,West Indies,South Africa,38.1,B Cooper,SA Campbelle,M Kapp,0,0,0,NA,0,NA,NA,NA,1
+907389,1st innings,West Indies,South Africa,38.2,B Cooper,SA Campbelle,M Kapp,1,0,1,NA,0,NA,NA,NA,1
+907389,1st innings,West Indies,South Africa,38.3,SA Campbelle,B Cooper,M Kapp,1,0,1,NA,0,NA,NA,NA,1
+907389,1st innings,West Indies,South Africa,38.4,B Cooper,SA Campbelle,M Kapp,1,0,1,NA,0,NA,NA,NA,1
+907389,1st innings,West Indies,South Africa,38.5,SA Campbelle,B Cooper,M Kapp,1,0,1,NA,0,NA,NA,NA,1
+907389,1st innings,West Indies,South Africa,38.6,B Cooper,SA Campbelle,M Kapp,0,0,0,NA,0,NA,NA,NA,1
+907389,1st innings,West Indies,South Africa,39.1,SA Campbelle,B Cooper,S Ismail,1,0,1,NA,0,NA,NA,NA,1
+907389,1st innings,West Indies,South Africa,39.2,B Cooper,SA Campbelle,S Ismail,0,0,0,NA,0,NA,NA,NA,1
+907389,1st innings,West Indies,South Africa,39.3,B Cooper,SA Campbelle,S Ismail,1,0,1,NA,0,NA,NA,NA,1
+907389,1st innings,West Indies,South Africa,39.4,SA Campbelle,B Cooper,S Ismail,0,0,0,NA,0,NA,NA,NA,1
+907389,1st innings,West Indies,South Africa,39.5,SA Campbelle,B Cooper,S Ismail,0,0,0,NA,0,NA,NA,NA,1
+907389,1st innings,West Indies,South Africa,39.6,SA Campbelle,B Cooper,S Ismail,4,0,4,NA,0,NA,NA,NA,1
+907389,1st innings,West Indies,South Africa,40.1,B Cooper,SA Campbelle,M Klaas,2,0,2,NA,0,NA,NA,NA,1
+907389,1st innings,West Indies,South Africa,40.2,B Cooper,SA Campbelle,M Klaas,1,0,1,NA,0,NA,NA,NA,1
+907389,1st innings,West Indies,South Africa,40.3,SA Campbelle,B Cooper,M Klaas,0,0,0,NA,0,NA,NA,NA,1
+907389,1st innings,West Indies,South Africa,40.4,SA Campbelle,B Cooper,M Klaas,4,0,4,NA,0,NA,NA,NA,1
+907389,1st innings,West Indies,South Africa,40.5,SA Campbelle,B Cooper,M Klaas,1,0,1,NA,0,NA,NA,NA,1
+907389,1st innings,West Indies,South Africa,40.6,B Cooper,SA Campbelle,M Klaas,0,0,0,NA,0,NA,NA,NA,1
+907389,1st innings,West Indies,South Africa,41.1,SA Campbelle,B Cooper,S Luus,0,0,0,NA,0,NA,NA,NA,1
+907389,1st innings,West Indies,South Africa,41.2,SA Campbelle,B Cooper,S Luus,0,0,0,NA,0,NA,NA,NA,1
+907389,1st innings,West Indies,South Africa,41.3,SA Campbelle,B Cooper,S Luus,1,0,1,NA,0,NA,NA,NA,1
+907389,1st innings,West Indies,South Africa,41.4,B Cooper,SA Campbelle,S Luus,1,0,1,NA,0,NA,NA,NA,1
+907389,1st innings,West Indies,South Africa,41.5,SA Campbelle,B Cooper,S Luus,0,0,0,NA,0,NA,NA,NA,1
+907389,1st innings,West Indies,South Africa,41.6,SA Campbelle,B Cooper,S Luus,0,0,0,NA,0,NA,NA,NA,1
+907389,1st innings,West Indies,South Africa,42.1,B Cooper,SA Campbelle,M Klaas,4,0,4,NA,0,NA,NA,NA,1
+907389,1st innings,West Indies,South Africa,42.2,B Cooper,SA Campbelle,M Klaas,1,0,1,NA,0,NA,NA,NA,1
+907389,1st innings,West Indies,South Africa,42.3,SA Campbelle,B Cooper,M Klaas,2,0,2,NA,0,NA,NA,NA,1
+907389,1st innings,West Indies,South Africa,42.4,SA Campbelle,B Cooper,M Klaas,0,0,0,NA,1,caught,SA Campbelle,M du Preez,1
+907389,1st innings,West Indies,South Africa,42.5,A Mohammed,B Cooper,M Klaas,0,0,0,NA,0,NA,NA,NA,1
+907389,1st innings,West Indies,South Africa,42.6,A Mohammed,B Cooper,M Klaas,0,0,0,NA,0,NA,NA,NA,1
+907389,1st innings,West Indies,South Africa,43.1,B Cooper,A Mohammed,S Luus,0,0,0,NA,0,NA,NA,NA,1
+907389,1st innings,West Indies,South Africa,43.2,B Cooper,A Mohammed,S Luus,4,0,4,NA,0,NA,NA,NA,1
+907389,1st innings,West Indies,South Africa,43.3,B Cooper,A Mohammed,S Luus,4,0,4,NA,0,NA,NA,NA,1
+907389,1st innings,West Indies,South Africa,43.4,B Cooper,A Mohammed,S Luus,0,0,0,NA,0,NA,NA,NA,1
+907389,1st innings,West Indies,South Africa,43.5,B Cooper,A Mohammed,S Luus,1,0,1,NA,0,NA,NA,NA,1
+907389,1st innings,West Indies,South Africa,43.6,A Mohammed,B Cooper,S Luus,0,0,0,NA,0,NA,NA,NA,1
+907389,1st innings,West Indies,South Africa,44.1,B Cooper,A Mohammed,M Kapp,0,0,0,NA,0,NA,NA,NA,1
+907389,1st innings,West Indies,South Africa,44.2,B Cooper,A Mohammed,M Kapp,1,0,1,NA,0,NA,NA,NA,1
+907389,1st innings,West Indies,South Africa,44.3,A Mohammed,B Cooper,M Kapp,0,0,0,NA,0,NA,NA,NA,1
+907389,1st innings,West Indies,South Africa,44.4,A Mohammed,B Cooper,M Kapp,0,0,0,NA,0,NA,NA,NA,1
+907389,1st innings,West Indies,South Africa,44.5,A Mohammed,B Cooper,M Kapp,1,0,1,NA,0,NA,NA,NA,1
+907389,1st innings,West Indies,South Africa,44.6,B Cooper,A Mohammed,M Kapp,1,0,1,NA,0,NA,NA,NA,1
+907389,1st innings,West Indies,South Africa,45.1,B Cooper,A Mohammed,S Luus,1,0,1,NA,0,NA,NA,NA,1
+907389,1st innings,West Indies,South Africa,45.2,A Mohammed,B Cooper,S Luus,0,0,0,NA,0,NA,NA,NA,1
+907389,1st innings,West Indies,South Africa,45.3,A Mohammed,B Cooper,S Luus,1,0,1,NA,0,NA,NA,NA,1
+907389,1st innings,West Indies,South Africa,45.4,B Cooper,A Mohammed,S Luus,0,0,0,NA,0,NA,NA,NA,1
+907389,1st innings,West Indies,South Africa,45.5,B Cooper,A Mohammed,S Luus,1,0,1,NA,0,NA,NA,NA,1
+907389,1st innings,West Indies,South Africa,45.6,A Mohammed,B Cooper,S Luus,0,0,0,NA,0,NA,NA,NA,1
+907389,1st innings,West Indies,South Africa,46.1,B Cooper,A Mohammed,M Kapp,0,0,0,NA,0,NA,NA,NA,1
+907389,1st innings,West Indies,South Africa,46.2,B Cooper,A Mohammed,M Kapp,1,0,1,NA,0,NA,NA,NA,1
+907389,1st innings,West Indies,South Africa,46.3,A Mohammed,B Cooper,M Kapp,0,0,0,NA,0,NA,NA,NA,1
+907389,1st innings,West Indies,South Africa,46.4,A Mohammed,B Cooper,M Kapp,0,0,0,NA,0,NA,NA,NA,1
+907389,1st innings,West Indies,South Africa,46.5,A Mohammed,B Cooper,M Kapp,0,0,0,NA,0,NA,NA,NA,1
+907389,1st innings,West Indies,South Africa,46.6,A Mohammed,B Cooper,M Kapp,0,0,0,NA,0,NA,NA,NA,1
+907389,1st innings,West Indies,South Africa,47.1,B Cooper,A Mohammed,S Ismail,0,1,1,wides,0,NA,NA,NA,1
+907389,1st innings,West Indies,South Africa,47.2,B Cooper,A Mohammed,S Ismail,1,0,1,NA,0,NA,NA,NA,1
+907389,1st innings,West Indies,South Africa,47.3,A Mohammed,B Cooper,S Ismail,0,0,0,NA,0,NA,NA,NA,1
+907389,1st innings,West Indies,South Africa,47.4,A Mohammed,B Cooper,S Ismail,1,0,1,NA,0,NA,NA,NA,1
+907389,1st innings,West Indies,South Africa,47.5,B Cooper,A Mohammed,S Ismail,0,0,0,NA,0,NA,NA,NA,1
+907389,1st innings,West Indies,South Africa,47.6,B Cooper,A Mohammed,S Ismail,0,0,0,NA,0,NA,NA,NA,1
+907389,1st innings,West Indies,South Africa,47.7,B Cooper,A Mohammed,S Ismail,0,0,0,NA,0,NA,NA,NA,1
+907389,1st innings,West Indies,South Africa,48.1,A Mohammed,B Cooper,M Kapp,1,0,1,NA,0,NA,NA,NA,1
+907389,1st innings,West Indies,South Africa,48.2,B Cooper,A Mohammed,M Kapp,0,0,0,NA,0,NA,NA,NA,1
+907389,1st innings,West Indies,South Africa,48.3,B Cooper,A Mohammed,M Kapp,6,0,6,NA,0,NA,NA,NA,1
+907389,1st innings,West Indies,South Africa,48.4,B Cooper,A Mohammed,M Kapp,0,0,0,NA,0,NA,NA,NA,1
+907389,1st innings,West Indies,South Africa,48.5,B Cooper,A Mohammed,M Kapp,1,0,1,NA,0,NA,NA,NA,1
+907389,1st innings,West Indies,South Africa,48.6,A Mohammed,B Cooper,M Kapp,1,0,1,NA,0,NA,NA,NA,1
+907389,1st innings,West Indies,South Africa,49.1,A Mohammed,B Cooper,S Ismail,1,0,1,NA,0,NA,NA,NA,1
+907389,1st innings,West Indies,South Africa,49.2,B Cooper,A Mohammed,S Ismail,1,0,1,NA,0,NA,NA,NA,1
+907389,1st innings,West Indies,South Africa,49.3,A Mohammed,B Cooper,S Ismail,0,0,0,NA,1,bowled,A Mohammed,NA,1
+907389,1st innings,West Indies,South Africa,49.4,TD Smartt,B Cooper,S Ismail,0,0,0,NA,0,NA,NA,NA,1
+907389,1st innings,West Indies,South Africa,49.5,TD Smartt,B Cooper,S Ismail,1,0,1,NA,0,NA,NA,NA,1
+907389,1st innings,West Indies,South Africa,49.6,B Cooper,TD Smartt,S Ismail,4,0,4,NA,0,NA,NA,NA,1
+907389,2nd innings,South Africa,West Indies,0.1,L Wolvaardt,T Chetty,TD Smartt,0,0,0,NA,0,NA,NA,NA,0
+907389,2nd innings,South Africa,West Indies,0.2,L Wolvaardt,T Chetty,TD Smartt,0,0,0,NA,0,NA,NA,NA,0
+907389,2nd innings,South Africa,West Indies,0.3,L Wolvaardt,T Chetty,TD Smartt,0,0,0,NA,0,NA,NA,NA,0
+907389,2nd innings,South Africa,West Indies,0.4,L Wolvaardt,T Chetty,TD Smartt,0,0,0,NA,0,NA,NA,NA,0
+907389,2nd innings,South Africa,West Indies,0.5,L Wolvaardt,T Chetty,TD Smartt,1,0,1,NA,0,NA,NA,NA,0
+907389,2nd innings,South Africa,West Indies,0.6,T Chetty,L Wolvaardt,TD Smartt,0,0,0,NA,0,NA,NA,NA,0
+907389,2nd innings,South Africa,West Indies,1.1,L Wolvaardt,T Chetty,SC Selman,0,0,0,NA,0,NA,NA,NA,0
+907389,2nd innings,South Africa,West Indies,1.2,L Wolvaardt,T Chetty,SC Selman,1,0,1,NA,0,NA,NA,NA,0
+907389,2nd innings,South Africa,West Indies,1.3,T Chetty,L Wolvaardt,SC Selman,0,0,0,NA,0,NA,NA,NA,0
+907389,2nd innings,South Africa,West Indies,1.4,T Chetty,L Wolvaardt,SC Selman,0,0,0,NA,0,NA,NA,NA,0
+907389,2nd innings,South Africa,West Indies,1.5,T Chetty,L Wolvaardt,SC Selman,0,0,0,NA,0,NA,NA,NA,0
+907389,2nd innings,South Africa,West Indies,1.6,T Chetty,L Wolvaardt,SC Selman,1,0,1,NA,0,NA,NA,NA,0
+907389,2nd innings,South Africa,West Indies,2.1,T Chetty,L Wolvaardt,TD Smartt,2,0,2,NA,0,NA,NA,NA,0
+907389,2nd innings,South Africa,West Indies,2.2,T Chetty,L Wolvaardt,TD Smartt,1,0,1,NA,0,NA,NA,NA,0
+907389,2nd innings,South Africa,West Indies,2.3,L Wolvaardt,T Chetty,TD Smartt,0,0,0,NA,0,NA,NA,NA,0
+907389,2nd innings,South Africa,West Indies,2.4,L Wolvaardt,T Chetty,TD Smartt,1,0,1,NA,0,NA,NA,NA,0
+907389,2nd innings,South Africa,West Indies,2.5,T Chetty,L Wolvaardt,TD Smartt,1,0,1,NA,0,NA,NA,NA,0
+907389,2nd innings,South Africa,West Indies,2.6,L Wolvaardt,T Chetty,TD Smartt,0,0,0,NA,0,NA,NA,NA,0
+907389,2nd innings,South Africa,West Indies,3.1,T Chetty,L Wolvaardt,SC Selman,4,0,4,NA,0,NA,NA,NA,0
+907389,2nd innings,South Africa,West Indies,3.2,T Chetty,L Wolvaardt,SC Selman,1,0,1,NA,0,NA,NA,NA,0
+907389,2nd innings,South Africa,West Indies,3.3,L Wolvaardt,T Chetty,SC Selman,1,0,1,NA,0,NA,NA,NA,0
+907389,2nd innings,South Africa,West Indies,3.4,T Chetty,L Wolvaardt,SC Selman,0,0,0,NA,0,NA,NA,NA,0
+907389,2nd innings,South Africa,West Indies,3.5,T Chetty,L Wolvaardt,SC Selman,0,0,0,NA,0,NA,NA,NA,0
+907389,2nd innings,South Africa,West Indies,3.6,T Chetty,L Wolvaardt,SC Selman,1,0,1,NA,0,NA,NA,NA,0
+907389,2nd innings,South Africa,West Indies,4.1,T Chetty,L Wolvaardt,TD Smartt,1,0,1,NA,0,NA,NA,NA,0
+907389,2nd innings,South Africa,West Indies,4.2,L Wolvaardt,T Chetty,TD Smartt,0,0,0,NA,0,NA,NA,NA,0
+907389,2nd innings,South Africa,West Indies,4.3,L Wolvaardt,T Chetty,TD Smartt,1,0,1,NA,0,NA,NA,NA,0
+907389,2nd innings,South Africa,West Indies,4.4,T Chetty,L Wolvaardt,TD Smartt,0,0,0,NA,0,NA,NA,NA,0
+907389,2nd innings,South Africa,West Indies,4.5,T Chetty,L Wolvaardt,TD Smartt,0,0,0,NA,0,NA,NA,NA,0
+907389,2nd innings,South Africa,West Indies,4.6,T Chetty,L Wolvaardt,TD Smartt,1,0,1,NA,0,NA,NA,NA,0
+907389,2nd innings,South Africa,West Indies,5.1,T Chetty,L Wolvaardt,SC Selman,1,0,1,NA,0,NA,NA,NA,0
+907389,2nd innings,South Africa,West Indies,5.2,L Wolvaardt,T Chetty,SC Selman,0,0,0,NA,0,NA,NA,NA,0
+907389,2nd innings,South Africa,West Indies,5.3,L Wolvaardt,T Chetty,SC Selman,0,0,0,NA,0,NA,NA,NA,0
+907389,2nd innings,South Africa,West Indies,5.4,L Wolvaardt,T Chetty,SC Selman,0,0,0,NA,0,NA,NA,NA,0
+907389,2nd innings,South Africa,West Indies,5.5,L Wolvaardt,T Chetty,SC Selman,0,0,0,NA,0,NA,NA,NA,0
+907389,2nd innings,South Africa,West Indies,5.6,L Wolvaardt,T Chetty,SC Selman,4,0,4,NA,0,NA,NA,NA,0
+907389,2nd innings,South Africa,West Indies,6.1,T Chetty,L Wolvaardt,TD Smartt,1,0,1,NA,0,NA,NA,NA,0
+907389,2nd innings,South Africa,West Indies,6.2,L Wolvaardt,T Chetty,TD Smartt,0,0,0,NA,0,NA,NA,NA,0
+907389,2nd innings,South Africa,West Indies,6.3,L Wolvaardt,T Chetty,TD Smartt,0,0,0,NA,0,NA,NA,NA,0
+907389,2nd innings,South Africa,West Indies,6.4,L Wolvaardt,T Chetty,TD Smartt,0,0,0,NA,0,NA,NA,NA,0
+907389,2nd innings,South Africa,West Indies,6.5,L Wolvaardt,T Chetty,TD Smartt,0,0,0,NA,0,NA,NA,NA,0
+907389,2nd innings,South Africa,West Indies,6.6,L Wolvaardt,T Chetty,TD Smartt,0,0,0,NA,0,NA,NA,NA,0
+907389,2nd innings,South Africa,West Indies,7.1,T Chetty,L Wolvaardt,SC Selman,0,0,0,NA,0,NA,NA,NA,0
+907389,2nd innings,South Africa,West Indies,7.2,T Chetty,L Wolvaardt,SC Selman,1,0,1,NA,0,NA,NA,NA,0
+907389,2nd innings,South Africa,West Indies,7.3,L Wolvaardt,T Chetty,SC Selman,0,0,0,NA,0,NA,NA,NA,0
+907389,2nd innings,South Africa,West Indies,7.4,L Wolvaardt,T Chetty,SC Selman,1,0,1,NA,0,NA,NA,NA,0
+907389,2nd innings,South Africa,West Indies,7.5,T Chetty,L Wolvaardt,SC Selman,4,0,4,NA,0,NA,NA,NA,0
+907389,2nd innings,South Africa,West Indies,7.6,T Chetty,L Wolvaardt,SC Selman,1,0,1,NA,0,NA,NA,NA,0
+907389,2nd innings,South Africa,West Indies,8.1,T Chetty,L Wolvaardt,ASS Fletcher,0,0,0,NA,0,NA,NA,NA,0
+907389,2nd innings,South Africa,West Indies,8.2,T Chetty,L Wolvaardt,ASS Fletcher,0,0,0,NA,0,NA,NA,NA,0
+907389,2nd innings,South Africa,West Indies,8.3,T Chetty,L Wolvaardt,ASS Fletcher,0,0,0,NA,0,NA,NA,NA,0
+907389,2nd innings,South Africa,West Indies,8.4,T Chetty,L Wolvaardt,ASS Fletcher,2,0,2,NA,0,NA,NA,NA,0
+907389,2nd innings,South Africa,West Indies,8.5,T Chetty,L Wolvaardt,ASS Fletcher,0,0,0,NA,0,NA,NA,NA,0
+907389,2nd innings,South Africa,West Indies,8.6,T Chetty,L Wolvaardt,ASS Fletcher,0,0,0,NA,0,NA,NA,NA,0
+907389,2nd innings,South Africa,West Indies,9.1,L Wolvaardt,T Chetty,A Mohammed,0,0,0,NA,0,NA,NA,NA,0
+907389,2nd innings,South Africa,West Indies,9.2,L Wolvaardt,T Chetty,A Mohammed,0,0,0,NA,0,NA,NA,NA,0
+907389,2nd innings,South Africa,West Indies,9.3,L Wolvaardt,T Chetty,A Mohammed,0,0,0,NA,0,NA,NA,NA,0
+907389,2nd innings,South Africa,West Indies,9.4,L Wolvaardt,T Chetty,A Mohammed,0,0,0,NA,0,NA,NA,NA,0
+907389,2nd innings,South Africa,West Indies,9.5,L Wolvaardt,T Chetty,A Mohammed,0,0,0,NA,0,NA,NA,NA,0
+907389,2nd innings,South Africa,West Indies,9.6,L Wolvaardt,T Chetty,A Mohammed,0,0,0,NA,1,caught,L Wolvaardt,DJS Dottin,0
+907389,2nd innings,South Africa,West Indies,10.1,T Chetty,M du Preez,ASS Fletcher,2,0,2,NA,0,NA,NA,NA,0
+907389,2nd innings,South Africa,West Indies,10.2,T Chetty,M du Preez,ASS Fletcher,0,0,0,NA,0,NA,NA,NA,0
+907389,2nd innings,South Africa,West Indies,10.3,T Chetty,M du Preez,ASS Fletcher,0,0,0,NA,0,NA,NA,NA,0
+907389,2nd innings,South Africa,West Indies,10.4,T Chetty,M du Preez,ASS Fletcher,0,0,0,NA,0,NA,NA,NA,0
+907389,2nd innings,South Africa,West Indies,10.5,T Chetty,M du Preez,ASS Fletcher,0,0,0,NA,0,NA,NA,NA,0
+907389,2nd innings,South Africa,West Indies,10.6,T Chetty,M du Preez,ASS Fletcher,1,0,1,NA,0,NA,NA,NA,0
+907389,2nd innings,South Africa,West Indies,11.1,T Chetty,M du Preez,A Mohammed,1,0,1,NA,0,NA,NA,NA,0
+907389,2nd innings,South Africa,West Indies,11.2,M du Preez,T Chetty,A Mohammed,0,0,0,NA,0,NA,NA,NA,0
+907389,2nd innings,South Africa,West Indies,11.3,M du Preez,T Chetty,A Mohammed,0,0,0,NA,0,NA,NA,NA,0
+907389,2nd innings,South Africa,West Indies,11.4,M du Preez,T Chetty,A Mohammed,1,0,1,NA,0,NA,NA,NA,0
+907389,2nd innings,South Africa,West Indies,11.5,T Chetty,M du Preez,A Mohammed,4,0,4,NA,0,NA,NA,NA,0
+907389,2nd innings,South Africa,West Indies,11.6,T Chetty,M du Preez,A Mohammed,0,0,0,NA,0,NA,NA,NA,0
+907389,2nd innings,South Africa,West Indies,12.1,M du Preez,T Chetty,ASS Fletcher,0,0,0,NA,0,NA,NA,NA,0
+907389,2nd innings,South Africa,West Indies,12.2,M du Preez,T Chetty,ASS Fletcher,0,0,0,NA,0,NA,NA,NA,0
+907389,2nd innings,South Africa,West Indies,12.3,M du Preez,T Chetty,ASS Fletcher,4,0,4,NA,0,NA,NA,NA,0
+907389,2nd innings,South Africa,West Indies,12.4,M du Preez,T Chetty,ASS Fletcher,0,0,0,NA,0,NA,NA,NA,0
+907389,2nd innings,South Africa,West Indies,12.5,M du Preez,T Chetty,ASS Fletcher,0,0,0,NA,0,NA,NA,NA,0
+907389,2nd innings,South Africa,West Indies,12.6,M du Preez,T Chetty,ASS Fletcher,2,0,2,NA,0,NA,NA,NA,0
+907389,2nd innings,South Africa,West Indies,13.1,T Chetty,M du Preez,A Mohammed,0,0,0,NA,0,NA,NA,NA,0
+907389,2nd innings,South Africa,West Indies,13.2,T Chetty,M du Preez,A Mohammed,1,0,1,NA,0,NA,NA,NA,0
+907389,2nd innings,South Africa,West Indies,13.3,M du Preez,T Chetty,A Mohammed,0,0,0,NA,0,NA,NA,NA,0
+907389,2nd innings,South Africa,West Indies,13.4,M du Preez,T Chetty,A Mohammed,0,0,0,NA,0,NA,NA,NA,0
+907389,2nd innings,South Africa,West Indies,13.5,M du Preez,T Chetty,A Mohammed,0,0,0,NA,0,NA,NA,NA,0
+907389,2nd innings,South Africa,West Indies,13.6,M du Preez,T Chetty,A Mohammed,0,0,0,NA,1,caught and bowled,M du Preez,NA,0
+907389,2nd innings,South Africa,West Indies,14.1,T Chetty,M Kapp,ASS Fletcher,0,0,0,NA,0,NA,NA,NA,0
+907389,2nd innings,South Africa,West Indies,14.2,T Chetty,M Kapp,ASS Fletcher,0,0,0,NA,0,NA,NA,NA,0
+907389,2nd innings,South Africa,West Indies,14.3,T Chetty,M Kapp,ASS Fletcher,1,0,1,NA,0,NA,NA,NA,0
+907389,2nd innings,South Africa,West Indies,14.4,M Kapp,T Chetty,ASS Fletcher,0,0,0,NA,0,NA,NA,NA,0
+907389,2nd innings,South Africa,West Indies,14.5,M Kapp,T Chetty,ASS Fletcher,0,0,0,NA,0,NA,NA,NA,0
+907389,2nd innings,South Africa,West Indies,14.6,M Kapp,T Chetty,ASS Fletcher,0,0,0,NA,0,NA,NA,NA,0
+907389,2nd innings,South Africa,West Indies,15.1,T Chetty,M Kapp,A Mohammed,1,0,1,NA,0,NA,NA,NA,0
+907389,2nd innings,South Africa,West Indies,15.2,M Kapp,T Chetty,A Mohammed,1,0,1,NA,0,NA,NA,NA,0
+907389,2nd innings,South Africa,West Indies,15.3,T Chetty,M Kapp,A Mohammed,2,0,2,NA,0,NA,NA,NA,0
+907389,2nd innings,South Africa,West Indies,15.4,T Chetty,M Kapp,A Mohammed,0,0,0,NA,0,NA,NA,NA,0
+907389,2nd innings,South Africa,West Indies,15.5,T Chetty,M Kapp,A Mohammed,0,0,0,NA,0,NA,NA,NA,0
+907389,2nd innings,South Africa,West Indies,15.6,T Chetty,M Kapp,A Mohammed,1,0,1,NA,0,NA,NA,NA,0
+907389,2nd innings,South Africa,West Indies,16.1,T Chetty,M Kapp,ASS Fletcher,1,0,1,NA,0,NA,NA,NA,0
+907389,2nd innings,South Africa,West Indies,16.2,M Kapp,T Chetty,ASS Fletcher,1,0,1,NA,0,NA,NA,NA,0
+907389,2nd innings,South Africa,West Indies,16.3,T Chetty,M Kapp,ASS Fletcher,1,0,1,NA,0,NA,NA,NA,0
+907389,2nd innings,South Africa,West Indies,16.4,M Kapp,T Chetty,ASS Fletcher,1,0,1,NA,0,NA,NA,NA,0
+907389,2nd innings,South Africa,West Indies,16.5,T Chetty,M Kapp,ASS Fletcher,1,0,1,NA,0,NA,NA,NA,0
+907389,2nd innings,South Africa,West Indies,16.6,M Kapp,T Chetty,ASS Fletcher,0,0,0,NA,0,NA,NA,NA,0
+907389,2nd innings,South Africa,West Indies,17.1,T Chetty,M Kapp,A Mohammed,1,0,1,NA,0,NA,NA,NA,0
+907389,2nd innings,South Africa,West Indies,17.2,M Kapp,T Chetty,A Mohammed,1,0,1,NA,0,NA,NA,NA,0
+907389,2nd innings,South Africa,West Indies,17.3,T Chetty,M Kapp,A Mohammed,0,0,0,NA,0,NA,NA,NA,0
+907389,2nd innings,South Africa,West Indies,17.4,T Chetty,M Kapp,A Mohammed,1,0,1,NA,0,NA,NA,NA,0
+907389,2nd innings,South Africa,West Indies,17.5,M Kapp,T Chetty,A Mohammed,1,0,1,NA,0,NA,NA,NA,0
+907389,2nd innings,South Africa,West Indies,17.6,T Chetty,M Kapp,A Mohammed,0,0,0,NA,0,NA,NA,NA,0
+907389,2nd innings,South Africa,West Indies,18.1,M Kapp,T Chetty,DJS Dottin,0,0,0,NA,0,NA,NA,NA,0
+907389,2nd innings,South Africa,West Indies,18.2,M Kapp,T Chetty,DJS Dottin,0,0,0,NA,0,NA,NA,NA,0
+907389,2nd innings,South Africa,West Indies,18.3,M Kapp,T Chetty,DJS Dottin,0,1,1,wides,0,NA,NA,NA,0
+907389,2nd innings,South Africa,West Indies,18.4,M Kapp,T Chetty,DJS Dottin,0,0,0,NA,0,NA,NA,NA,0
+907389,2nd innings,South Africa,West Indies,18.5,M Kapp,T Chetty,DJS Dottin,6,0,6,NA,0,NA,NA,NA,0
+907389,2nd innings,South Africa,West Indies,18.6,M Kapp,T Chetty,DJS Dottin,0,0,0,NA,0,NA,NA,NA,0
+907389,2nd innings,South Africa,West Indies,18.7,M Kapp,T Chetty,DJS Dottin,1,0,1,NA,0,NA,NA,NA,0
+907389,2nd innings,South Africa,West Indies,19.1,M Kapp,T Chetty,HK Matthews,1,0,1,NA,0,NA,NA,NA,0
+907389,2nd innings,South Africa,West Indies,19.2,T Chetty,M Kapp,HK Matthews,0,0,0,NA,0,NA,NA,NA,0
+907389,2nd innings,South Africa,West Indies,19.3,T Chetty,M Kapp,HK Matthews,1,0,1,NA,0,NA,NA,NA,0
+907389,2nd innings,South Africa,West Indies,19.4,M Kapp,T Chetty,HK Matthews,0,0,0,NA,0,NA,NA,NA,0
+907389,2nd innings,South Africa,West Indies,19.5,M Kapp,T Chetty,HK Matthews,0,0,0,NA,0,NA,NA,NA,0
+907389,2nd innings,South Africa,West Indies,19.6,M Kapp,T Chetty,HK Matthews,0,0,0,NA,0,NA,NA,NA,0
+907389,2nd innings,South Africa,West Indies,20.1,T Chetty,M Kapp,DJS Dottin,0,0,0,NA,0,NA,NA,NA,0
+907389,2nd innings,South Africa,West Indies,20.2,T Chetty,M Kapp,DJS Dottin,1,0,1,NA,0,NA,NA,NA,0
+907389,2nd innings,South Africa,West Indies,20.3,M Kapp,T Chetty,DJS Dottin,0,0,0,NA,0,NA,NA,NA,0
+907389,2nd innings,South Africa,West Indies,20.4,M Kapp,T Chetty,DJS Dottin,1,0,1,NA,0,NA,NA,NA,0
+907389,2nd innings,South Africa,West Indies,20.5,T Chetty,M Kapp,DJS Dottin,1,0,1,NA,0,NA,NA,NA,0
+907389,2nd innings,South Africa,West Indies,20.6,M Kapp,T Chetty,DJS Dottin,0,0,0,NA,0,NA,NA,NA,0
+907389,2nd innings,South Africa,West Indies,21.1,T Chetty,M Kapp,HK Matthews,0,0,0,NA,0,NA,NA,NA,0
+907389,2nd innings,South Africa,West Indies,21.2,T Chetty,M Kapp,HK Matthews,0,0,0,NA,0,NA,NA,NA,0
+907389,2nd innings,South Africa,West Indies,21.3,T Chetty,M Kapp,HK Matthews,0,0,0,NA,0,NA,NA,NA,0
+907389,2nd innings,South Africa,West Indies,21.4,T Chetty,M Kapp,HK Matthews,1,0,1,NA,0,NA,NA,NA,0
+907389,2nd innings,South Africa,West Indies,21.5,M Kapp,T Chetty,HK Matthews,1,0,1,NA,0,NA,NA,NA,0
+907389,2nd innings,South Africa,West Indies,21.6,T Chetty,M Kapp,HK Matthews,0,0,0,NA,0,NA,NA,NA,0
+907389,2nd innings,South Africa,West Indies,22.1,M Kapp,T Chetty,DJS Dottin,0,0,0,NA,0,NA,NA,NA,0
+907389,2nd innings,South Africa,West Indies,22.2,M Kapp,T Chetty,DJS Dottin,1,0,1,NA,0,NA,NA,NA,0
+907389,2nd innings,South Africa,West Indies,22.3,T Chetty,M Kapp,DJS Dottin,1,0,1,NA,0,NA,NA,NA,0
+907389,2nd innings,South Africa,West Indies,22.4,M Kapp,T Chetty,DJS Dottin,1,0,1,NA,0,NA,NA,NA,0
+907389,2nd innings,South Africa,West Indies,22.5,T Chetty,M Kapp,DJS Dottin,0,0,0,NA,1,bowled,T Chetty,NA,0
+907389,2nd innings,South Africa,West Indies,22.6,L Lee,M Kapp,DJS Dottin,0,0,0,NA,1,lbw,L Lee,NA,0
+907389,2nd innings,South Africa,West Indies,23.1,M Kapp,D van Niekerk,HK Matthews,4,0,4,NA,0,NA,NA,NA,0
+907389,2nd innings,South Africa,West Indies,23.2,M Kapp,D van Niekerk,HK Matthews,0,0,0,NA,0,NA,NA,NA,0
+907389,2nd innings,South Africa,West Indies,23.3,M Kapp,D van Niekerk,HK Matthews,1,0,1,NA,0,NA,NA,NA,0
+907389,2nd innings,South Africa,West Indies,23.4,D van Niekerk,M Kapp,HK Matthews,0,0,0,NA,0,NA,NA,NA,0
+907389,2nd innings,South Africa,West Indies,23.5,D van Niekerk,M Kapp,HK Matthews,0,0,0,NA,0,NA,NA,NA,0
+907389,2nd innings,South Africa,West Indies,23.6,D van Niekerk,M Kapp,HK Matthews,4,0,4,NA,0,NA,NA,NA,0
+907389,2nd innings,South Africa,West Indies,24.1,M Kapp,D van Niekerk,DJS Dottin,1,0,1,NA,0,NA,NA,NA,0
+907389,2nd innings,South Africa,West Indies,24.2,D van Niekerk,M Kapp,DJS Dottin,0,0,0,NA,1,bowled,D van Niekerk,NA,0
+907389,2nd innings,South Africa,West Indies,24.3,D Devnarain,M Kapp,DJS Dottin,0,1,1,wides,0,NA,NA,NA,0
+907389,2nd innings,South Africa,West Indies,24.4,D Devnarain,M Kapp,DJS Dottin,0,0,0,NA,0,NA,NA,NA,0
+907389,2nd innings,South Africa,West Indies,24.5,D Devnarain,M Kapp,DJS Dottin,0,0,0,NA,0,NA,NA,NA,0
+907389,2nd innings,South Africa,West Indies,24.6,D Devnarain,M Kapp,DJS Dottin,0,0,0,NA,0,NA,NA,NA,0
+907389,2nd innings,South Africa,West Indies,24.7,D Devnarain,M Kapp,DJS Dottin,1,0,1,NA,1,run out,D Devnarain,B Cooper,0
+907389,2nd innings,South Africa,West Indies,25.1,M Kapp,S Luus,HK Matthews,1,0,1,NA,0,NA,NA,NA,0
+907389,2nd innings,South Africa,West Indies,25.2,S Luus,M Kapp,HK Matthews,1,0,1,NA,0,NA,NA,NA,0
+907389,2nd innings,South Africa,West Indies,25.3,M Kapp,S Luus,HK Matthews,1,0,1,NA,0,NA,NA,NA,0
+907389,2nd innings,South Africa,West Indies,25.4,S Luus,M Kapp,HK Matthews,0,0,0,NA,0,NA,NA,NA,0
+907389,2nd innings,South Africa,West Indies,25.5,S Luus,M Kapp,HK Matthews,0,0,0,NA,0,NA,NA,NA,0
+907389,2nd innings,South Africa,West Indies,25.6,S Luus,M Kapp,HK Matthews,0,0,0,NA,0,NA,NA,NA,0
+907389,2nd innings,South Africa,West Indies,26.1,M Kapp,S Luus,DJS Dottin,0,0,0,NA,0,NA,NA,NA,0
+907389,2nd innings,South Africa,West Indies,26.2,M Kapp,S Luus,DJS Dottin,0,0,0,NA,0,NA,NA,NA,0
+907389,2nd innings,South Africa,West Indies,26.3,M Kapp,S Luus,DJS Dottin,0,0,0,NA,0,NA,NA,NA,0
+907389,2nd innings,South Africa,West Indies,26.4,M Kapp,S Luus,DJS Dottin,1,0,1,NA,0,NA,NA,NA,0
+907389,2nd innings,South Africa,West Indies,26.5,S Luus,M Kapp,DJS Dottin,0,0,0,NA,0,NA,NA,NA,0
+907389,2nd innings,South Africa,West Indies,26.6,S Luus,M Kapp,DJS Dottin,1,0,1,NA,0,NA,NA,NA,0
+907389,2nd innings,South Africa,West Indies,27.1,S Luus,M Kapp,HK Matthews,1,0,1,NA,0,NA,NA,NA,0
+907389,2nd innings,South Africa,West Indies,27.2,M Kapp,S Luus,HK Matthews,1,0,1,NA,0,NA,NA,NA,0
+907389,2nd innings,South Africa,West Indies,27.3,S Luus,M Kapp,HK Matthews,0,0,0,NA,0,NA,NA,NA,0
+907389,2nd innings,South Africa,West Indies,27.4,S Luus,M Kapp,HK Matthews,0,0,0,NA,0,NA,NA,NA,0
+907389,2nd innings,South Africa,West Indies,27.5,S Luus,M Kapp,HK Matthews,0,0,0,NA,0,NA,NA,NA,0
+907389,2nd innings,South Africa,West Indies,27.6,S Luus,M Kapp,HK Matthews,0,0,0,NA,0,NA,NA,NA,0
+907389,2nd innings,South Africa,West Indies,28.1,M Kapp,S Luus,ASS Fletcher,0,0,0,NA,0,NA,NA,NA,0
+907389,2nd innings,South Africa,West Indies,28.2,M Kapp,S Luus,ASS Fletcher,1,0,1,NA,0,NA,NA,NA,0
+907389,2nd innings,South Africa,West Indies,28.3,S Luus,M Kapp,ASS Fletcher,0,0,0,NA,0,NA,NA,NA,0
+907389,2nd innings,South Africa,West Indies,28.4,S Luus,M Kapp,ASS Fletcher,1,0,1,NA,0,NA,NA,NA,0
+907389,2nd innings,South Africa,West Indies,28.5,M Kapp,S Luus,ASS Fletcher,1,0,1,NA,0,NA,NA,NA,0
+907389,2nd innings,South Africa,West Indies,28.6,S Luus,M Kapp,ASS Fletcher,0,0,0,NA,0,NA,NA,NA,0
+907389,2nd innings,South Africa,West Indies,29.1,M Kapp,S Luus,A Mohammed,1,0,1,NA,0,NA,NA,NA,0
+907389,2nd innings,South Africa,West Indies,29.2,S Luus,M Kapp,A Mohammed,1,0,1,NA,0,NA,NA,NA,0
+907389,2nd innings,South Africa,West Indies,29.3,M Kapp,S Luus,A Mohammed,1,0,1,NA,0,NA,NA,NA,0
+907389,2nd innings,South Africa,West Indies,29.4,S Luus,M Kapp,A Mohammed,1,0,1,NA,0,NA,NA,NA,0
+907389,2nd innings,South Africa,West Indies,29.5,M Kapp,S Luus,A Mohammed,0,0,0,NA,0,NA,NA,NA,0
+907389,2nd innings,South Africa,West Indies,29.6,M Kapp,S Luus,A Mohammed,1,0,1,NA,0,NA,NA,NA,0
+907389,2nd innings,South Africa,West Indies,30.1,M Kapp,S Luus,ASS Fletcher,0,0,0,NA,0,NA,NA,NA,0
+907389,2nd innings,South Africa,West Indies,30.2,M Kapp,S Luus,ASS Fletcher,0,0,0,NA,0,NA,NA,NA,0
+907389,2nd innings,South Africa,West Indies,30.3,M Kapp,S Luus,ASS Fletcher,1,0,1,NA,0,NA,NA,NA,0
+907389,2nd innings,South Africa,West Indies,30.4,S Luus,M Kapp,ASS Fletcher,1,0,1,NA,0,NA,NA,NA,0
+907389,2nd innings,South Africa,West Indies,30.5,M Kapp,S Luus,ASS Fletcher,4,0,4,NA,0,NA,NA,NA,0
+907389,2nd innings,South Africa,West Indies,30.6,M Kapp,S Luus,ASS Fletcher,1,0,1,NA,0,NA,NA,NA,0
+907389,2nd innings,South Africa,West Indies,31.1,M Kapp,S Luus,A Mohammed,1,0,1,NA,0,NA,NA,NA,0
+907389,2nd innings,South Africa,West Indies,31.2,S Luus,M Kapp,A Mohammed,0,0,0,NA,0,NA,NA,NA,0
+907389,2nd innings,South Africa,West Indies,31.3,S Luus,M Kapp,A Mohammed,2,0,2,NA,0,NA,NA,NA,0
+907389,2nd innings,South Africa,West Indies,31.4,S Luus,M Kapp,A Mohammed,0,0,0,NA,0,NA,NA,NA,0
+907389,2nd innings,South Africa,West Indies,31.5,S Luus,M Kapp,A Mohammed,0,0,0,NA,0,NA,NA,NA,0
+907389,2nd innings,South Africa,West Indies,31.6,S Luus,M Kapp,A Mohammed,1,0,1,NA,0,NA,NA,NA,0
+907389,2nd innings,South Africa,West Indies,32.1,S Luus,M Kapp,DJS Dottin,0,0,0,NA,1,bowled,S Luus,NA,0
+907389,2nd innings,South Africa,West Indies,32.2,S Ismail,M Kapp,DJS Dottin,0,1,1,byes,0,NA,NA,NA,0
+907389,2nd innings,South Africa,West Indies,32.3,M Kapp,S Ismail,DJS Dottin,0,0,0,NA,0,NA,NA,NA,0
+907389,2nd innings,South Africa,West Indies,32.4,M Kapp,S Ismail,DJS Dottin,0,0,0,NA,0,NA,NA,NA,0
+907389,2nd innings,South Africa,West Indies,32.5,M Kapp,S Ismail,DJS Dottin,2,0,2,NA,0,NA,NA,NA,0
+907389,2nd innings,South Africa,West Indies,32.6,M Kapp,S Ismail,DJS Dottin,0,0,0,NA,0,NA,NA,NA,0
+907389,2nd innings,South Africa,West Indies,33.1,S Ismail,M Kapp,SC Selman,0,0,0,NA,0,NA,NA,NA,0
+907389,2nd innings,South Africa,West Indies,33.2,S Ismail,M Kapp,SC Selman,0,0,0,NA,0,NA,NA,NA,0
+907389,2nd innings,South Africa,West Indies,33.3,S Ismail,M Kapp,SC Selman,1,0,1,NA,0,NA,NA,NA,0
+907389,2nd innings,South Africa,West Indies,33.4,M Kapp,S Ismail,SC Selman,0,1,1,wides,0,NA,NA,NA,0
+907389,2nd innings,South Africa,West Indies,33.5,M Kapp,S Ismail,SC Selman,1,0,1,NA,0,NA,NA,NA,0
+907389,2nd innings,South Africa,West Indies,33.6,S Ismail,M Kapp,SC Selman,4,0,4,NA,0,NA,NA,NA,0
+907389,2nd innings,South Africa,West Indies,33.7,S Ismail,M Kapp,SC Selman,1,0,1,NA,0,NA,NA,NA,0
+907389,2nd innings,South Africa,West Indies,34.1,S Ismail,M Kapp,DJS Dottin,0,0,0,NA,0,NA,NA,NA,0
+907389,2nd innings,South Africa,West Indies,34.2,S Ismail,M Kapp,DJS Dottin,1,0,1,NA,0,NA,NA,NA,0
+907389,2nd innings,South Africa,West Indies,34.3,M Kapp,S Ismail,DJS Dottin,0,1,1,legbyes,0,NA,NA,NA,0
+907389,2nd innings,South Africa,West Indies,34.4,S Ismail,M Kapp,DJS Dottin,1,0,1,NA,0,NA,NA,NA,0
+907389,2nd innings,South Africa,West Indies,34.5,M Kapp,S Ismail,DJS Dottin,1,0,1,NA,0,NA,NA,NA,0
+907389,2nd innings,South Africa,West Indies,34.6,S Ismail,M Kapp,DJS Dottin,0,1,1,wides,0,NA,NA,NA,0
+907389,2nd innings,South Africa,West Indies,34.7,S Ismail,M Kapp,DJS Dottin,0,0,0,NA,0,NA,NA,NA,0
+907389,2nd innings,South Africa,West Indies,35.1,M Kapp,S Ismail,A Mohammed,1,0,1,NA,0,NA,NA,NA,0
+907389,2nd innings,South Africa,West Indies,35.2,S Ismail,M Kapp,A Mohammed,0,0,0,NA,0,NA,NA,NA,0
+907389,2nd innings,South Africa,West Indies,35.3,S Ismail,M Kapp,A Mohammed,1,0,1,NA,0,NA,NA,NA,0
+907389,2nd innings,South Africa,West Indies,35.4,M Kapp,S Ismail,A Mohammed,1,0,1,NA,0,NA,NA,NA,0
+907389,2nd innings,South Africa,West Indies,35.5,S Ismail,M Kapp,A Mohammed,2,0,2,NA,0,NA,NA,NA,0
+907389,2nd innings,South Africa,West Indies,35.6,S Ismail,M Kapp,A Mohammed,1,0,1,NA,0,NA,NA,NA,0
+907389,2nd innings,South Africa,West Indies,36.1,S Ismail,M Kapp,HK Matthews,0,0,0,NA,0,NA,NA,NA,0
+907389,2nd innings,South Africa,West Indies,36.2,S Ismail,M Kapp,HK Matthews,0,0,0,NA,0,NA,NA,NA,0
+907389,2nd innings,South Africa,West Indies,36.3,S Ismail,M Kapp,HK Matthews,1,0,1,NA,0,NA,NA,NA,0
+907389,2nd innings,South Africa,West Indies,36.4,M Kapp,S Ismail,HK Matthews,1,0,1,NA,0,NA,NA,NA,0
+907389,2nd innings,South Africa,West Indies,36.5,S Ismail,M Kapp,HK Matthews,0,0,0,NA,0,NA,NA,NA,0
+907389,2nd innings,South Africa,West Indies,36.6,S Ismail,M Kapp,HK Matthews,0,0,0,NA,0,NA,NA,NA,0
+907389,2nd innings,South Africa,West Indies,37.1,M Kapp,S Ismail,A Mohammed,0,0,0,NA,0,NA,NA,NA,0
+907389,2nd innings,South Africa,West Indies,37.2,M Kapp,S Ismail,A Mohammed,1,0,1,NA,0,NA,NA,NA,0
+907389,2nd innings,South Africa,West Indies,37.3,S Ismail,M Kapp,A Mohammed,0,0,0,NA,0,NA,NA,NA,0
+907389,2nd innings,South Africa,West Indies,37.4,S Ismail,M Kapp,A Mohammed,0,0,0,NA,0,NA,NA,NA,0
+907389,2nd innings,South Africa,West Indies,37.5,S Ismail,M Kapp,A Mohammed,0,0,0,NA,0,NA,NA,NA,0
+907389,2nd innings,South Africa,West Indies,37.6,S Ismail,M Kapp,A Mohammed,1,0,1,NA,0,NA,NA,NA,0
+907389,2nd innings,South Africa,West Indies,38.1,S Ismail,M Kapp,HK Matthews,0,1,1,wides,0,NA,NA,NA,0
+907389,2nd innings,South Africa,West Indies,38.2,S Ismail,M Kapp,HK Matthews,1,0,1,NA,0,NA,NA,NA,0
+907389,2nd innings,South Africa,West Indies,38.3,M Kapp,S Ismail,HK Matthews,1,0,1,NA,0,NA,NA,NA,0
+907389,2nd innings,South Africa,West Indies,38.4,S Ismail,M Kapp,HK Matthews,1,0,1,NA,0,NA,NA,NA,0
+907389,2nd innings,South Africa,West Indies,38.5,M Kapp,S Ismail,HK Matthews,1,0,1,NA,0,NA,NA,NA,0
+907389,2nd innings,South Africa,West Indies,38.6,S Ismail,M Kapp,HK Matthews,1,0,1,NA,0,NA,NA,NA,0
+907389,2nd innings,South Africa,West Indies,38.7,M Kapp,S Ismail,HK Matthews,1,0,1,NA,0,NA,NA,NA,0
+907389,2nd innings,South Africa,West Indies,39.1,M Kapp,S Ismail,A Mohammed,1,0,1,NA,0,NA,NA,NA,0
+907389,2nd innings,South Africa,West Indies,39.2,S Ismail,M Kapp,A Mohammed,0,0,0,NA,0,NA,NA,NA,0
+907389,2nd innings,South Africa,West Indies,39.3,S Ismail,M Kapp,A Mohammed,1,0,1,NA,0,NA,NA,NA,0
+907389,2nd innings,South Africa,West Indies,39.4,M Kapp,S Ismail,A Mohammed,0,0,0,NA,0,NA,NA,NA,0
+907389,2nd innings,South Africa,West Indies,39.5,M Kapp,S Ismail,A Mohammed,1,0,1,NA,0,NA,NA,NA,0
+907389,2nd innings,South Africa,West Indies,39.6,S Ismail,M Kapp,A Mohammed,0,0,0,NA,0,NA,NA,NA,0
+907389,2nd innings,South Africa,West Indies,40.1,M Kapp,S Ismail,HK Matthews,0,0,0,NA,0,NA,NA,NA,0
+907389,2nd innings,South Africa,West Indies,40.2,M Kapp,S Ismail,HK Matthews,1,0,1,NA,0,NA,NA,NA,0
+907389,2nd innings,South Africa,West Indies,40.3,S Ismail,M Kapp,HK Matthews,0,0,0,NA,0,NA,NA,NA,0
+907389,2nd innings,South Africa,West Indies,40.4,S Ismail,M Kapp,HK Matthews,1,0,1,NA,0,NA,NA,NA,0
+907389,2nd innings,South Africa,West Indies,40.5,M Kapp,S Ismail,HK Matthews,4,0,4,NA,0,NA,NA,NA,0
+907389,2nd innings,South Africa,West Indies,40.6,M Kapp,S Ismail,HK Matthews,1,0,1,NA,0,NA,NA,NA,0
+907389,2nd innings,South Africa,West Indies,41.1,M Kapp,S Ismail,SL Quintyne,0,0,0,NA,0,NA,NA,NA,0
+907389,2nd innings,South Africa,West Indies,41.2,M Kapp,S Ismail,SL Quintyne,1,0,1,NA,0,NA,NA,NA,0
+907389,2nd innings,South Africa,West Indies,41.3,S Ismail,M Kapp,SL Quintyne,0,1,1,wides,0,NA,NA,NA,0
+907389,2nd innings,South Africa,West Indies,41.4,S Ismail,M Kapp,SL Quintyne,0,0,0,NA,0,NA,NA,NA,0
+907389,2nd innings,South Africa,West Indies,41.5,S Ismail,M Kapp,SL Quintyne,1,0,1,NA,0,NA,NA,NA,0
+907389,2nd innings,South Africa,West Indies,41.6,M Kapp,S Ismail,SL Quintyne,1,0,1,NA,0,NA,NA,NA,0
+907389,2nd innings,South Africa,West Indies,41.7,S Ismail,M Kapp,SL Quintyne,0,0,0,NA,0,NA,NA,NA,0
+907389,2nd innings,South Africa,West Indies,42.1,M Kapp,S Ismail,SR Taylor,1,0,1,NA,0,NA,NA,NA,0
+907389,2nd innings,South Africa,West Indies,42.2,S Ismail,M Kapp,SR Taylor,0,0,0,NA,0,NA,NA,NA,0
+907389,2nd innings,South Africa,West Indies,42.3,S Ismail,M Kapp,SR Taylor,0,0,0,NA,0,NA,NA,NA,0
+907389,2nd innings,South Africa,West Indies,42.4,S Ismail,M Kapp,SR Taylor,0,0,0,NA,0,NA,NA,NA,0
+907389,2nd innings,South Africa,West Indies,42.5,S Ismail,M Kapp,SR Taylor,0,0,0,NA,0,NA,NA,NA,0
+907389,2nd innings,South Africa,West Indies,42.6,S Ismail,M Kapp,SR Taylor,1,0,1,NA,0,NA,NA,NA,0
+907389,2nd innings,South Africa,West Indies,43.1,S Ismail,M Kapp,SL Quintyne,0,0,0,NA,0,NA,NA,NA,0
+907389,2nd innings,South Africa,West Indies,43.2,S Ismail,M Kapp,SL Quintyne,0,0,0,NA,0,NA,NA,NA,0
+907389,2nd innings,South Africa,West Indies,43.3,S Ismail,M Kapp,SL Quintyne,0,0,0,NA,0,NA,NA,NA,0
+907389,2nd innings,South Africa,West Indies,43.4,S Ismail,M Kapp,SL Quintyne,4,0,4,NA,0,NA,NA,NA,0
+907389,2nd innings,South Africa,West Indies,43.5,S Ismail,M Kapp,SL Quintyne,0,0,0,NA,0,NA,NA,NA,0
+907389,2nd innings,South Africa,West Indies,43.6,S Ismail,M Kapp,SL Quintyne,0,0,0,NA,0,NA,NA,NA,0
+907389,2nd innings,South Africa,West Indies,44.1,M Kapp,S Ismail,SR Taylor,4,0,4,NA,0,NA,NA,NA,0
+907389,2nd innings,South Africa,West Indies,44.2,M Kapp,S Ismail,SR Taylor,1,0,1,NA,0,NA,NA,NA,0
+907389,2nd innings,South Africa,West Indies,44.3,S Ismail,M Kapp,SR Taylor,0,0,0,NA,0,NA,NA,NA,0
+907389,2nd innings,South Africa,West Indies,44.4,S Ismail,M Kapp,SR Taylor,0,0,0,NA,0,NA,NA,NA,0
+907389,2nd innings,South Africa,West Indies,44.5,S Ismail,M Kapp,SR Taylor,4,0,4,NA,0,NA,NA,NA,0
+907389,2nd innings,South Africa,West Indies,44.6,S Ismail,M Kapp,SR Taylor,0,0,0,NA,0,NA,NA,NA,0
+907389,2nd innings,South Africa,West Indies,45.1,M Kapp,S Ismail,SL Quintyne,1,0,1,NA,0,NA,NA,NA,0
+907389,2nd innings,South Africa,West Indies,45.2,S Ismail,M Kapp,SL Quintyne,0,0,0,NA,0,NA,NA,NA,0
+907389,2nd innings,South Africa,West Indies,45.3,S Ismail,M Kapp,SL Quintyne,0,0,0,NA,0,NA,NA,NA,0
+907389,2nd innings,South Africa,West Indies,45.4,S Ismail,M Kapp,SL Quintyne,4,0,4,NA,0,NA,NA,NA,0
+907389,2nd innings,South Africa,West Indies,45.5,S Ismail,M Kapp,SL Quintyne,0,0,0,NA,0,NA,NA,NA,0
+907389,2nd innings,South Africa,West Indies,45.6,S Ismail,M Kapp,SL Quintyne,0,0,0,NA,0,NA,NA,NA,0
+907389,2nd innings,South Africa,West Indies,46.1,M Kapp,S Ismail,DJS Dottin,0,0,0,NA,0,NA,NA,NA,0
+907389,2nd innings,South Africa,West Indies,46.2,M Kapp,S Ismail,DJS Dottin,0,0,0,NA,0,NA,NA,NA,0
+907389,2nd innings,South Africa,West Indies,46.3,M Kapp,S Ismail,DJS Dottin,1,0,1,NA,0,NA,NA,NA,0
+907389,2nd innings,South Africa,West Indies,46.4,S Ismail,M Kapp,DJS Dottin,0,0,0,NA,0,NA,NA,NA,0
+907389,2nd innings,South Africa,West Indies,46.5,S Ismail,M Kapp,DJS Dottin,0,1,1,wides,0,NA,NA,NA,0
+907389,2nd innings,South Africa,West Indies,46.6,S Ismail,M Kapp,DJS Dottin,0,0,0,NA,0,NA,NA,NA,0
+907389,2nd innings,South Africa,West Indies,46.7,S Ismail,M Kapp,DJS Dottin,1,0,1,NA,0,NA,NA,NA,0
+907389,2nd innings,South Africa,West Indies,47.1,S Ismail,M Kapp,SL Quintyne,0,0,0,NA,0,NA,NA,NA,0
+907389,2nd innings,South Africa,West Indies,47.2,S Ismail,M Kapp,SL Quintyne,0,0,0,NA,1,caught,S Ismail,DJS Dottin,0
+907389,2nd innings,South Africa,West Indies,47.3,M Kapp,M Klaas,SL Quintyne,1,0,1,NA,0,NA,NA,NA,0
+907389,2nd innings,South Africa,West Indies,47.4,M Klaas,M Kapp,SL Quintyne,0,0,0,NA,0,NA,NA,NA,0
+907389,2nd innings,South Africa,West Indies,47.5,M Klaas,M Kapp,SL Quintyne,0,0,0,NA,1,caught,M Klaas,SR Taylor,0
+907389,2nd innings,South Africa,West Indies,47.6,CL Tryon,M Kapp,SL Quintyne,1,0,1,NA,0,NA,NA,NA,0
+907389,2nd innings,South Africa,West Indies,48.1,CL Tryon,M Kapp,DJS Dottin,0,0,0,NA,0,NA,NA,NA,0
+907389,2nd innings,South Africa,West Indies,48.2,CL Tryon,M Kapp,DJS Dottin,4,0,4,NA,0,NA,NA,NA,0
+907389,2nd innings,South Africa,West Indies,48.3,CL Tryon,M Kapp,DJS Dottin,0,0,0,NA,0,NA,NA,NA,0
+907389,2nd innings,South Africa,West Indies,48.4,CL Tryon,M Kapp,DJS Dottin,2,0,2,NA,0,NA,NA,NA,0
+907389,2nd innings,South Africa,West Indies,48.5,CL Tryon,M Kapp,DJS Dottin,0,0,0,NA,1,bowled,CL Tryon,NA,0

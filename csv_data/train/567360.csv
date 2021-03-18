@@ -1,0 +1,618 @@
+match_id,innings,team,opponent,ball,batsman,non_striker,bowler,scored_runs,extras,total,extra_type,wicket,wicket_type,player_out,fielders,winner
+567360,1st innings,New Zealand,South Africa,0.1,MJ Guptill,BJ Watling,DW Steyn,0,1,1,wides,0,NA,NA,NA,0
+567360,1st innings,New Zealand,South Africa,0.2,MJ Guptill,BJ Watling,DW Steyn,0,0,0,NA,0,NA,NA,NA,0
+567360,1st innings,New Zealand,South Africa,0.3,MJ Guptill,BJ Watling,DW Steyn,4,0,4,NA,0,NA,NA,NA,0
+567360,1st innings,New Zealand,South Africa,0.4,MJ Guptill,BJ Watling,DW Steyn,0,0,0,NA,0,NA,NA,NA,0
+567360,1st innings,New Zealand,South Africa,0.5,MJ Guptill,BJ Watling,DW Steyn,0,0,0,NA,0,NA,NA,NA,0
+567360,1st innings,New Zealand,South Africa,0.6,MJ Guptill,BJ Watling,DW Steyn,0,0,0,NA,0,NA,NA,NA,0
+567360,1st innings,New Zealand,South Africa,0.7,MJ Guptill,BJ Watling,DW Steyn,0,0,0,NA,0,NA,NA,NA,0
+567360,1st innings,New Zealand,South Africa,1.1,BJ Watling,MJ Guptill,LL Tsotsobe,0,0,0,NA,0,NA,NA,NA,0
+567360,1st innings,New Zealand,South Africa,1.2,BJ Watling,MJ Guptill,LL Tsotsobe,0,0,0,NA,0,NA,NA,NA,0
+567360,1st innings,New Zealand,South Africa,1.3,BJ Watling,MJ Guptill,LL Tsotsobe,2,0,2,NA,0,NA,NA,NA,0
+567360,1st innings,New Zealand,South Africa,1.4,BJ Watling,MJ Guptill,LL Tsotsobe,0,0,0,NA,0,NA,NA,NA,0
+567360,1st innings,New Zealand,South Africa,1.5,BJ Watling,MJ Guptill,LL Tsotsobe,0,0,0,NA,0,NA,NA,NA,0
+567360,1st innings,New Zealand,South Africa,1.6,BJ Watling,MJ Guptill,LL Tsotsobe,0,0,0,NA,0,NA,NA,NA,0
+567360,1st innings,New Zealand,South Africa,2.1,MJ Guptill,BJ Watling,DW Steyn,0,0,0,NA,0,NA,NA,NA,0
+567360,1st innings,New Zealand,South Africa,2.2,MJ Guptill,BJ Watling,DW Steyn,0,0,0,NA,0,NA,NA,NA,0
+567360,1st innings,New Zealand,South Africa,2.3,MJ Guptill,BJ Watling,DW Steyn,0,0,0,NA,0,NA,NA,NA,0
+567360,1st innings,New Zealand,South Africa,2.4,MJ Guptill,BJ Watling,DW Steyn,0,0,0,NA,0,NA,NA,NA,0
+567360,1st innings,New Zealand,South Africa,2.5,MJ Guptill,BJ Watling,DW Steyn,0,0,0,NA,0,NA,NA,NA,0
+567360,1st innings,New Zealand,South Africa,2.6,MJ Guptill,BJ Watling,DW Steyn,0,0,0,NA,0,NA,NA,NA,0
+567360,1st innings,New Zealand,South Africa,3.1,BJ Watling,MJ Guptill,LL Tsotsobe,1,0,1,NA,0,NA,NA,NA,0
+567360,1st innings,New Zealand,South Africa,3.2,MJ Guptill,BJ Watling,LL Tsotsobe,0,0,0,NA,0,NA,NA,NA,0
+567360,1st innings,New Zealand,South Africa,3.3,MJ Guptill,BJ Watling,LL Tsotsobe,0,0,0,NA,0,NA,NA,NA,0
+567360,1st innings,New Zealand,South Africa,3.4,MJ Guptill,BJ Watling,LL Tsotsobe,1,0,1,NA,0,NA,NA,NA,0
+567360,1st innings,New Zealand,South Africa,3.5,BJ Watling,MJ Guptill,LL Tsotsobe,1,0,1,NA,0,NA,NA,NA,0
+567360,1st innings,New Zealand,South Africa,3.6,MJ Guptill,BJ Watling,LL Tsotsobe,0,0,0,NA,0,NA,NA,NA,0
+567360,1st innings,New Zealand,South Africa,4.1,BJ Watling,MJ Guptill,DW Steyn,0,1,1,wides,0,NA,NA,NA,0
+567360,1st innings,New Zealand,South Africa,4.2,BJ Watling,MJ Guptill,DW Steyn,0,0,0,NA,0,NA,NA,NA,0
+567360,1st innings,New Zealand,South Africa,4.3,BJ Watling,MJ Guptill,DW Steyn,0,0,0,NA,0,NA,NA,NA,0
+567360,1st innings,New Zealand,South Africa,4.4,BJ Watling,MJ Guptill,DW Steyn,4,0,4,NA,0,NA,NA,NA,0
+567360,1st innings,New Zealand,South Africa,4.5,BJ Watling,MJ Guptill,DW Steyn,0,0,0,NA,0,NA,NA,NA,0
+567360,1st innings,New Zealand,South Africa,4.6,BJ Watling,MJ Guptill,DW Steyn,0,0,0,NA,0,NA,NA,NA,0
+567360,1st innings,New Zealand,South Africa,4.7,BJ Watling,MJ Guptill,DW Steyn,0,0,0,NA,0,NA,NA,NA,0
+567360,1st innings,New Zealand,South Africa,5.1,MJ Guptill,BJ Watling,LL Tsotsobe,0,0,0,NA,0,NA,NA,NA,0
+567360,1st innings,New Zealand,South Africa,5.2,MJ Guptill,BJ Watling,LL Tsotsobe,0,0,0,NA,1,caught,MJ Guptill,CA Ingram,0
+567360,1st innings,New Zealand,South Africa,5.3,KS Williamson,BJ Watling,LL Tsotsobe,0,0,0,NA,0,NA,NA,NA,0
+567360,1st innings,New Zealand,South Africa,5.4,KS Williamson,BJ Watling,LL Tsotsobe,0,0,0,NA,0,NA,NA,NA,0
+567360,1st innings,New Zealand,South Africa,5.5,KS Williamson,BJ Watling,LL Tsotsobe,0,0,0,NA,0,NA,NA,NA,0
+567360,1st innings,New Zealand,South Africa,5.6,KS Williamson,BJ Watling,LL Tsotsobe,0,0,0,NA,0,NA,NA,NA,0
+567360,1st innings,New Zealand,South Africa,6.1,BJ Watling,KS Williamson,DW Steyn,0,0,0,NA,0,NA,NA,NA,0
+567360,1st innings,New Zealand,South Africa,6.2,BJ Watling,KS Williamson,DW Steyn,1,0,1,NA,0,NA,NA,NA,0
+567360,1st innings,New Zealand,South Africa,6.3,KS Williamson,BJ Watling,DW Steyn,0,0,0,NA,0,NA,NA,NA,0
+567360,1st innings,New Zealand,South Africa,6.4,KS Williamson,BJ Watling,DW Steyn,0,0,0,NA,0,NA,NA,NA,0
+567360,1st innings,New Zealand,South Africa,6.5,KS Williamson,BJ Watling,DW Steyn,0,0,0,NA,0,NA,NA,NA,0
+567360,1st innings,New Zealand,South Africa,6.6,KS Williamson,BJ Watling,DW Steyn,1,0,1,NA,0,NA,NA,NA,0
+567360,1st innings,New Zealand,South Africa,7.1,KS Williamson,BJ Watling,LL Tsotsobe,0,0,0,NA,0,NA,NA,NA,0
+567360,1st innings,New Zealand,South Africa,7.2,KS Williamson,BJ Watling,LL Tsotsobe,0,0,0,NA,0,NA,NA,NA,0
+567360,1st innings,New Zealand,South Africa,7.3,KS Williamson,BJ Watling,LL Tsotsobe,0,0,0,NA,0,NA,NA,NA,0
+567360,1st innings,New Zealand,South Africa,7.4,KS Williamson,BJ Watling,LL Tsotsobe,0,0,0,NA,0,NA,NA,NA,0
+567360,1st innings,New Zealand,South Africa,7.5,KS Williamson,BJ Watling,LL Tsotsobe,0,0,0,NA,0,NA,NA,NA,0
+567360,1st innings,New Zealand,South Africa,7.6,KS Williamson,BJ Watling,LL Tsotsobe,0,0,0,NA,0,NA,NA,NA,0
+567360,1st innings,New Zealand,South Africa,8.1,BJ Watling,KS Williamson,DW Steyn,1,0,1,NA,0,NA,NA,NA,0
+567360,1st innings,New Zealand,South Africa,8.2,KS Williamson,BJ Watling,DW Steyn,1,0,1,NA,0,NA,NA,NA,0
+567360,1st innings,New Zealand,South Africa,8.3,BJ Watling,KS Williamson,DW Steyn,0,0,0,NA,0,NA,NA,NA,0
+567360,1st innings,New Zealand,South Africa,8.4,BJ Watling,KS Williamson,DW Steyn,0,0,0,NA,0,NA,NA,NA,0
+567360,1st innings,New Zealand,South Africa,8.5,BJ Watling,KS Williamson,DW Steyn,4,0,4,NA,0,NA,NA,NA,0
+567360,1st innings,New Zealand,South Africa,8.6,BJ Watling,KS Williamson,DW Steyn,0,0,0,NA,0,NA,NA,NA,0
+567360,1st innings,New Zealand,South Africa,9.1,KS Williamson,BJ Watling,LL Tsotsobe,4,0,4,NA,0,NA,NA,NA,0
+567360,1st innings,New Zealand,South Africa,9.2,KS Williamson,BJ Watling,LL Tsotsobe,0,0,0,NA,1,caught,KS Williamson,Q de Kock,0
+567360,1st innings,New Zealand,South Africa,9.3,GD Elliott,BJ Watling,LL Tsotsobe,0,0,0,NA,0,NA,NA,NA,0
+567360,1st innings,New Zealand,South Africa,9.4,GD Elliott,BJ Watling,LL Tsotsobe,0,0,0,NA,0,NA,NA,NA,0
+567360,1st innings,New Zealand,South Africa,9.5,GD Elliott,BJ Watling,LL Tsotsobe,0,0,0,NA,0,NA,NA,NA,0
+567360,1st innings,New Zealand,South Africa,9.6,GD Elliott,BJ Watling,LL Tsotsobe,0,0,0,NA,0,NA,NA,NA,0
+567360,1st innings,New Zealand,South Africa,10.1,BJ Watling,GD Elliott,RK Kleinveldt,0,0,0,NA,0,NA,NA,NA,0
+567360,1st innings,New Zealand,South Africa,10.2,BJ Watling,GD Elliott,RK Kleinveldt,0,0,0,NA,0,NA,NA,NA,0
+567360,1st innings,New Zealand,South Africa,10.3,BJ Watling,GD Elliott,RK Kleinveldt,0,0,0,NA,0,NA,NA,NA,0
+567360,1st innings,New Zealand,South Africa,10.4,BJ Watling,GD Elliott,RK Kleinveldt,0,0,0,NA,0,NA,NA,NA,0
+567360,1st innings,New Zealand,South Africa,10.5,BJ Watling,GD Elliott,RK Kleinveldt,0,0,0,NA,0,NA,NA,NA,0
+567360,1st innings,New Zealand,South Africa,10.6,BJ Watling,GD Elliott,RK Kleinveldt,0,0,0,NA,0,NA,NA,NA,0
+567360,1st innings,New Zealand,South Africa,11.1,GD Elliott,BJ Watling,AM Phangiso,0,0,0,NA,0,NA,NA,NA,0
+567360,1st innings,New Zealand,South Africa,11.2,GD Elliott,BJ Watling,AM Phangiso,0,0,0,NA,0,NA,NA,NA,0
+567360,1st innings,New Zealand,South Africa,11.3,GD Elliott,BJ Watling,AM Phangiso,1,0,1,NA,0,NA,NA,NA,0
+567360,1st innings,New Zealand,South Africa,11.4,BJ Watling,GD Elliott,AM Phangiso,1,0,1,NA,0,NA,NA,NA,0
+567360,1st innings,New Zealand,South Africa,11.5,GD Elliott,BJ Watling,AM Phangiso,0,0,0,NA,0,NA,NA,NA,0
+567360,1st innings,New Zealand,South Africa,11.6,GD Elliott,BJ Watling,AM Phangiso,4,0,4,NA,0,NA,NA,NA,0
+567360,1st innings,New Zealand,South Africa,12.1,BJ Watling,GD Elliott,RK Kleinveldt,0,0,0,NA,0,NA,NA,NA,0
+567360,1st innings,New Zealand,South Africa,12.2,BJ Watling,GD Elliott,RK Kleinveldt,1,0,1,NA,0,NA,NA,NA,0
+567360,1st innings,New Zealand,South Africa,12.3,GD Elliott,BJ Watling,RK Kleinveldt,0,0,0,NA,0,NA,NA,NA,0
+567360,1st innings,New Zealand,South Africa,12.4,GD Elliott,BJ Watling,RK Kleinveldt,1,0,1,NA,0,NA,NA,NA,0
+567360,1st innings,New Zealand,South Africa,12.5,BJ Watling,GD Elliott,RK Kleinveldt,0,0,0,NA,0,NA,NA,NA,0
+567360,1st innings,New Zealand,South Africa,12.6,BJ Watling,GD Elliott,RK Kleinveldt,0,0,0,NA,0,NA,NA,NA,0
+567360,1st innings,New Zealand,South Africa,13.1,GD Elliott,BJ Watling,AM Phangiso,0,0,0,NA,0,NA,NA,NA,0
+567360,1st innings,New Zealand,South Africa,13.2,GD Elliott,BJ Watling,AM Phangiso,1,0,1,NA,0,NA,NA,NA,0
+567360,1st innings,New Zealand,South Africa,13.3,BJ Watling,GD Elliott,AM Phangiso,0,0,0,NA,0,NA,NA,NA,0
+567360,1st innings,New Zealand,South Africa,13.4,BJ Watling,GD Elliott,AM Phangiso,1,0,1,NA,0,NA,NA,NA,0
+567360,1st innings,New Zealand,South Africa,13.5,GD Elliott,BJ Watling,AM Phangiso,4,0,4,NA,0,NA,NA,NA,0
+567360,1st innings,New Zealand,South Africa,13.6,GD Elliott,BJ Watling,AM Phangiso,1,0,1,NA,0,NA,NA,NA,0
+567360,1st innings,New Zealand,South Africa,14.1,GD Elliott,BJ Watling,RK Kleinveldt,1,0,1,NA,0,NA,NA,NA,0
+567360,1st innings,New Zealand,South Africa,14.2,BJ Watling,GD Elliott,RK Kleinveldt,0,0,0,NA,0,NA,NA,NA,0
+567360,1st innings,New Zealand,South Africa,14.3,BJ Watling,GD Elliott,RK Kleinveldt,0,0,0,NA,0,NA,NA,NA,0
+567360,1st innings,New Zealand,South Africa,14.4,BJ Watling,GD Elliott,RK Kleinveldt,0,0,0,NA,0,NA,NA,NA,0
+567360,1st innings,New Zealand,South Africa,14.5,BJ Watling,GD Elliott,RK Kleinveldt,3,0,3,NA,0,NA,NA,NA,0
+567360,1st innings,New Zealand,South Africa,14.6,GD Elliott,BJ Watling,RK Kleinveldt,0,0,0,NA,0,NA,NA,NA,0
+567360,1st innings,New Zealand,South Africa,15.1,BJ Watling,GD Elliott,R McLaren,0,0,0,NA,0,NA,NA,NA,0
+567360,1st innings,New Zealand,South Africa,15.2,BJ Watling,GD Elliott,R McLaren,0,0,0,NA,1,caught,BJ Watling,F du Plessis,0
+567360,1st innings,New Zealand,South Africa,15.3,BB McCullum,GD Elliott,R McLaren,0,0,0,NA,0,NA,NA,NA,0
+567360,1st innings,New Zealand,South Africa,15.4,BB McCullum,GD Elliott,R McLaren,0,0,0,NA,0,NA,NA,NA,0
+567360,1st innings,New Zealand,South Africa,15.5,BB McCullum,GD Elliott,R McLaren,0,0,0,NA,0,NA,NA,NA,0
+567360,1st innings,New Zealand,South Africa,15.6,BB McCullum,GD Elliott,R McLaren,1,0,1,NA,0,NA,NA,NA,0
+567360,1st innings,New Zealand,South Africa,16.1,BB McCullum,GD Elliott,RK Kleinveldt,0,0,0,NA,0,NA,NA,NA,0
+567360,1st innings,New Zealand,South Africa,16.2,BB McCullum,GD Elliott,RK Kleinveldt,0,0,0,NA,0,NA,NA,NA,0
+567360,1st innings,New Zealand,South Africa,16.3,BB McCullum,GD Elliott,RK Kleinveldt,0,1,1,wides,0,NA,NA,NA,0
+567360,1st innings,New Zealand,South Africa,16.4,BB McCullum,GD Elliott,RK Kleinveldt,0,0,0,NA,0,NA,NA,NA,0
+567360,1st innings,New Zealand,South Africa,16.5,BB McCullum,GD Elliott,RK Kleinveldt,1,0,1,NA,0,NA,NA,NA,0
+567360,1st innings,New Zealand,South Africa,16.6,GD Elliott,BB McCullum,RK Kleinveldt,0,0,0,NA,0,NA,NA,NA,0
+567360,1st innings,New Zealand,South Africa,16.7,GD Elliott,BB McCullum,RK Kleinveldt,0,0,0,NA,0,NA,NA,NA,0
+567360,1st innings,New Zealand,South Africa,17.1,BB McCullum,GD Elliott,R McLaren,0,0,0,NA,0,NA,NA,NA,0
+567360,1st innings,New Zealand,South Africa,17.2,BB McCullum,GD Elliott,R McLaren,0,0,0,NA,0,NA,NA,NA,0
+567360,1st innings,New Zealand,South Africa,17.3,BB McCullum,GD Elliott,R McLaren,0,0,0,NA,0,NA,NA,NA,0
+567360,1st innings,New Zealand,South Africa,17.4,BB McCullum,GD Elliott,R McLaren,1,0,1,NA,0,NA,NA,NA,0
+567360,1st innings,New Zealand,South Africa,17.5,GD Elliott,BB McCullum,R McLaren,1,0,1,NA,0,NA,NA,NA,0
+567360,1st innings,New Zealand,South Africa,17.6,BB McCullum,GD Elliott,R McLaren,0,0,0,NA,0,NA,NA,NA,0
+567360,1st innings,New Zealand,South Africa,18.1,GD Elliott,BB McCullum,RK Kleinveldt,1,0,1,NA,0,NA,NA,NA,0
+567360,1st innings,New Zealand,South Africa,18.2,BB McCullum,GD Elliott,RK Kleinveldt,0,0,0,NA,0,NA,NA,NA,0
+567360,1st innings,New Zealand,South Africa,18.3,BB McCullum,GD Elliott,RK Kleinveldt,0,0,0,NA,0,NA,NA,NA,0
+567360,1st innings,New Zealand,South Africa,18.4,BB McCullum,GD Elliott,RK Kleinveldt,1,0,1,NA,0,NA,NA,NA,0
+567360,1st innings,New Zealand,South Africa,18.5,GD Elliott,BB McCullum,RK Kleinveldt,0,0,0,NA,0,NA,NA,NA,0
+567360,1st innings,New Zealand,South Africa,18.6,GD Elliott,BB McCullum,RK Kleinveldt,1,0,1,NA,0,NA,NA,NA,0
+567360,1st innings,New Zealand,South Africa,19.1,GD Elliott,BB McCullum,R McLaren,0,0,0,NA,0,NA,NA,NA,0
+567360,1st innings,New Zealand,South Africa,19.2,GD Elliott,BB McCullum,R McLaren,1,0,1,NA,0,NA,NA,NA,0
+567360,1st innings,New Zealand,South Africa,19.3,BB McCullum,GD Elliott,R McLaren,4,0,4,NA,0,NA,NA,NA,0
+567360,1st innings,New Zealand,South Africa,19.4,BB McCullum,GD Elliott,R McLaren,0,0,0,NA,0,NA,NA,NA,0
+567360,1st innings,New Zealand,South Africa,19.5,BB McCullum,GD Elliott,R McLaren,2,0,2,NA,0,NA,NA,NA,0
+567360,1st innings,New Zealand,South Africa,19.6,BB McCullum,GD Elliott,R McLaren,0,0,0,NA,0,NA,NA,NA,0
+567360,1st innings,New Zealand,South Africa,20.1,GD Elliott,BB McCullum,AM Phangiso,0,1,1,wides,0,NA,NA,NA,0
+567360,1st innings,New Zealand,South Africa,20.2,GD Elliott,BB McCullum,AM Phangiso,0,1,1,byes,0,NA,NA,NA,0
+567360,1st innings,New Zealand,South Africa,20.3,BB McCullum,GD Elliott,AM Phangiso,1,0,1,NA,0,NA,NA,NA,0
+567360,1st innings,New Zealand,South Africa,20.4,GD Elliott,BB McCullum,AM Phangiso,0,0,0,NA,0,NA,NA,NA,0
+567360,1st innings,New Zealand,South Africa,20.5,GD Elliott,BB McCullum,AM Phangiso,0,0,0,NA,0,NA,NA,NA,0
+567360,1st innings,New Zealand,South Africa,20.6,GD Elliott,BB McCullum,AM Phangiso,1,0,1,NA,0,NA,NA,NA,0
+567360,1st innings,New Zealand,South Africa,20.7,BB McCullum,GD Elliott,AM Phangiso,1,0,1,NA,0,NA,NA,NA,0
+567360,1st innings,New Zealand,South Africa,21.1,BB McCullum,GD Elliott,R McLaren,1,0,1,NA,0,NA,NA,NA,0
+567360,1st innings,New Zealand,South Africa,21.2,GD Elliott,BB McCullum,R McLaren,0,0,0,NA,0,NA,NA,NA,0
+567360,1st innings,New Zealand,South Africa,21.3,GD Elliott,BB McCullum,R McLaren,1,0,1,NA,0,NA,NA,NA,0
+567360,1st innings,New Zealand,South Africa,21.4,BB McCullum,GD Elliott,R McLaren,0,0,0,NA,0,NA,NA,NA,0
+567360,1st innings,New Zealand,South Africa,21.5,BB McCullum,GD Elliott,R McLaren,0,0,0,NA,1,caught,BB McCullum,DW Steyn,0
+567360,1st innings,New Zealand,South Africa,21.6,C Munro,GD Elliott,R McLaren,1,0,1,NA,0,NA,NA,NA,0
+567360,1st innings,New Zealand,South Africa,22.1,C Munro,GD Elliott,AM Phangiso,0,0,0,NA,0,NA,NA,NA,0
+567360,1st innings,New Zealand,South Africa,22.2,C Munro,GD Elliott,AM Phangiso,0,0,0,NA,0,NA,NA,NA,0
+567360,1st innings,New Zealand,South Africa,22.3,C Munro,GD Elliott,AM Phangiso,0,0,0,NA,0,NA,NA,NA,0
+567360,1st innings,New Zealand,South Africa,22.4,C Munro,GD Elliott,AM Phangiso,0,0,0,NA,0,NA,NA,NA,0
+567360,1st innings,New Zealand,South Africa,22.5,C Munro,GD Elliott,AM Phangiso,1,0,1,NA,0,NA,NA,NA,0
+567360,1st innings,New Zealand,South Africa,22.6,GD Elliott,C Munro,AM Phangiso,0,0,0,NA,0,NA,NA,NA,0
+567360,1st innings,New Zealand,South Africa,23.1,C Munro,GD Elliott,R McLaren,1,0,1,NA,0,NA,NA,NA,0
+567360,1st innings,New Zealand,South Africa,23.2,GD Elliott,C Munro,R McLaren,2,0,2,NA,0,NA,NA,NA,0
+567360,1st innings,New Zealand,South Africa,23.3,GD Elliott,C Munro,R McLaren,0,0,0,NA,0,NA,NA,NA,0
+567360,1st innings,New Zealand,South Africa,23.4,GD Elliott,C Munro,R McLaren,1,0,1,NA,0,NA,NA,NA,0
+567360,1st innings,New Zealand,South Africa,23.5,C Munro,GD Elliott,R McLaren,0,0,0,NA,0,NA,NA,NA,0
+567360,1st innings,New Zealand,South Africa,23.6,C Munro,GD Elliott,R McLaren,1,0,1,NA,0,NA,NA,NA,0
+567360,1st innings,New Zealand,South Africa,24.1,C Munro,GD Elliott,AM Phangiso,0,0,0,NA,0,NA,NA,NA,0
+567360,1st innings,New Zealand,South Africa,24.2,C Munro,GD Elliott,AM Phangiso,2,0,2,NA,0,NA,NA,NA,0
+567360,1st innings,New Zealand,South Africa,24.3,C Munro,GD Elliott,AM Phangiso,0,0,0,NA,0,NA,NA,NA,0
+567360,1st innings,New Zealand,South Africa,24.4,C Munro,GD Elliott,AM Phangiso,1,0,1,NA,0,NA,NA,NA,0
+567360,1st innings,New Zealand,South Africa,24.5,GD Elliott,C Munro,AM Phangiso,1,0,1,NA,0,NA,NA,NA,0
+567360,1st innings,New Zealand,South Africa,24.6,C Munro,GD Elliott,AM Phangiso,0,0,0,NA,0,NA,NA,NA,0
+567360,1st innings,New Zealand,South Africa,25.1,GD Elliott,C Munro,LL Tsotsobe,4,0,4,NA,0,NA,NA,NA,0
+567360,1st innings,New Zealand,South Africa,25.2,GD Elliott,C Munro,LL Tsotsobe,0,0,0,NA,0,NA,NA,NA,0
+567360,1st innings,New Zealand,South Africa,25.3,GD Elliott,C Munro,LL Tsotsobe,0,0,0,NA,0,NA,NA,NA,0
+567360,1st innings,New Zealand,South Africa,25.4,GD Elliott,C Munro,LL Tsotsobe,1,0,1,NA,0,NA,NA,NA,0
+567360,1st innings,New Zealand,South Africa,25.5,C Munro,GD Elliott,LL Tsotsobe,0,0,0,NA,0,NA,NA,NA,0
+567360,1st innings,New Zealand,South Africa,25.6,C Munro,GD Elliott,LL Tsotsobe,1,0,1,NA,0,NA,NA,NA,0
+567360,1st innings,New Zealand,South Africa,26.1,C Munro,GD Elliott,DW Steyn,0,0,0,NA,0,NA,NA,NA,0
+567360,1st innings,New Zealand,South Africa,26.2,C Munro,GD Elliott,DW Steyn,0,0,0,NA,0,NA,NA,NA,0
+567360,1st innings,New Zealand,South Africa,26.3,C Munro,GD Elliott,DW Steyn,0,0,0,NA,0,NA,NA,NA,0
+567360,1st innings,New Zealand,South Africa,26.4,C Munro,GD Elliott,DW Steyn,0,0,0,NA,0,NA,NA,NA,0
+567360,1st innings,New Zealand,South Africa,26.5,C Munro,GD Elliott,DW Steyn,2,0,2,NA,0,NA,NA,NA,0
+567360,1st innings,New Zealand,South Africa,26.6,C Munro,GD Elliott,DW Steyn,0,0,0,NA,0,NA,NA,NA,0
+567360,1st innings,New Zealand,South Africa,27.1,GD Elliott,C Munro,LL Tsotsobe,0,0,0,NA,0,NA,NA,NA,0
+567360,1st innings,New Zealand,South Africa,27.2,GD Elliott,C Munro,LL Tsotsobe,0,0,0,NA,0,NA,NA,NA,0
+567360,1st innings,New Zealand,South Africa,27.3,GD Elliott,C Munro,LL Tsotsobe,0,0,0,NA,0,NA,NA,NA,0
+567360,1st innings,New Zealand,South Africa,27.4,GD Elliott,C Munro,LL Tsotsobe,4,0,4,NA,0,NA,NA,NA,0
+567360,1st innings,New Zealand,South Africa,27.5,GD Elliott,C Munro,LL Tsotsobe,0,0,0,NA,0,NA,NA,NA,0
+567360,1st innings,New Zealand,South Africa,27.6,GD Elliott,C Munro,LL Tsotsobe,0,0,0,NA,0,NA,NA,NA,0
+567360,1st innings,New Zealand,South Africa,28.1,C Munro,GD Elliott,AM Phangiso,0,0,0,NA,0,NA,NA,NA,0
+567360,1st innings,New Zealand,South Africa,28.2,C Munro,GD Elliott,AM Phangiso,1,0,1,NA,0,NA,NA,NA,0
+567360,1st innings,New Zealand,South Africa,28.3,GD Elliott,C Munro,AM Phangiso,0,0,0,NA,0,NA,NA,NA,0
+567360,1st innings,New Zealand,South Africa,28.4,GD Elliott,C Munro,AM Phangiso,0,0,0,NA,0,NA,NA,NA,0
+567360,1st innings,New Zealand,South Africa,28.5,GD Elliott,C Munro,AM Phangiso,0,0,0,NA,0,NA,NA,NA,0
+567360,1st innings,New Zealand,South Africa,28.6,GD Elliott,C Munro,AM Phangiso,1,0,1,NA,0,NA,NA,NA,0
+567360,1st innings,New Zealand,South Africa,29.1,GD Elliott,C Munro,R McLaren,0,0,0,NA,0,NA,NA,NA,0
+567360,1st innings,New Zealand,South Africa,29.2,GD Elliott,C Munro,R McLaren,0,0,0,NA,0,NA,NA,NA,0
+567360,1st innings,New Zealand,South Africa,29.3,GD Elliott,C Munro,R McLaren,1,0,1,NA,0,NA,NA,NA,0
+567360,1st innings,New Zealand,South Africa,29.4,C Munro,GD Elliott,R McLaren,0,0,0,NA,0,NA,NA,NA,0
+567360,1st innings,New Zealand,South Africa,29.5,C Munro,GD Elliott,R McLaren,1,0,1,NA,0,NA,NA,NA,0
+567360,1st innings,New Zealand,South Africa,29.6,GD Elliott,C Munro,R McLaren,1,0,1,NA,0,NA,NA,NA,0
+567360,1st innings,New Zealand,South Africa,30.1,GD Elliott,C Munro,AM Phangiso,0,0,0,NA,0,NA,NA,NA,0
+567360,1st innings,New Zealand,South Africa,30.2,GD Elliott,C Munro,AM Phangiso,0,0,0,NA,0,NA,NA,NA,0
+567360,1st innings,New Zealand,South Africa,30.3,GD Elliott,C Munro,AM Phangiso,0,0,0,NA,0,NA,NA,NA,0
+567360,1st innings,New Zealand,South Africa,30.4,GD Elliott,C Munro,AM Phangiso,0,0,0,NA,0,NA,NA,NA,0
+567360,1st innings,New Zealand,South Africa,30.5,GD Elliott,C Munro,AM Phangiso,1,0,1,NA,0,NA,NA,NA,0
+567360,1st innings,New Zealand,South Africa,30.6,C Munro,GD Elliott,AM Phangiso,1,0,1,NA,0,NA,NA,NA,0
+567360,1st innings,New Zealand,South Africa,31.1,C Munro,GD Elliott,R McLaren,0,0,0,NA,0,NA,NA,NA,0
+567360,1st innings,New Zealand,South Africa,31.2,C Munro,GD Elliott,R McLaren,1,0,1,NA,0,NA,NA,NA,0
+567360,1st innings,New Zealand,South Africa,31.3,GD Elliott,C Munro,R McLaren,4,0,4,NA,0,NA,NA,NA,0
+567360,1st innings,New Zealand,South Africa,31.4,GD Elliott,C Munro,R McLaren,4,0,4,NA,0,NA,NA,NA,0
+567360,1st innings,New Zealand,South Africa,31.5,GD Elliott,C Munro,R McLaren,1,0,1,NA,0,NA,NA,NA,0
+567360,1st innings,New Zealand,South Africa,31.6,C Munro,GD Elliott,R McLaren,0,0,0,NA,0,NA,NA,NA,0
+567360,1st innings,New Zealand,South Africa,32.1,GD Elliott,C Munro,AM Phangiso,4,0,4,NA,0,NA,NA,NA,0
+567360,1st innings,New Zealand,South Africa,32.2,GD Elliott,C Munro,AM Phangiso,0,0,0,NA,0,NA,NA,NA,0
+567360,1st innings,New Zealand,South Africa,32.3,GD Elliott,C Munro,AM Phangiso,1,0,1,NA,0,NA,NA,NA,0
+567360,1st innings,New Zealand,South Africa,32.4,C Munro,GD Elliott,AM Phangiso,4,0,4,NA,0,NA,NA,NA,0
+567360,1st innings,New Zealand,South Africa,32.5,C Munro,GD Elliott,AM Phangiso,4,0,4,NA,0,NA,NA,NA,0
+567360,1st innings,New Zealand,South Africa,32.6,C Munro,GD Elliott,AM Phangiso,4,0,4,NA,0,NA,NA,NA,0
+567360,1st innings,New Zealand,South Africa,33.1,GD Elliott,C Munro,LL Tsotsobe,4,0,4,NA,0,NA,NA,NA,0
+567360,1st innings,New Zealand,South Africa,33.2,GD Elliott,C Munro,LL Tsotsobe,0,0,0,NA,1,caught,GD Elliott,DW Steyn,0
+567360,1st innings,New Zealand,South Africa,33.3,C Munro,JEC Franklin,LL Tsotsobe,1,0,1,NA,0,NA,NA,NA,0
+567360,1st innings,New Zealand,South Africa,33.4,JEC Franklin,C Munro,LL Tsotsobe,0,0,0,NA,0,NA,NA,NA,0
+567360,1st innings,New Zealand,South Africa,33.5,JEC Franklin,C Munro,LL Tsotsobe,0,0,0,NA,0,NA,NA,NA,0
+567360,1st innings,New Zealand,South Africa,33.6,JEC Franklin,C Munro,LL Tsotsobe,0,0,0,NA,0,NA,NA,NA,0
+567360,1st innings,New Zealand,South Africa,34.1,C Munro,JEC Franklin,F Behardien,1,0,1,NA,0,NA,NA,NA,0
+567360,1st innings,New Zealand,South Africa,34.2,JEC Franklin,C Munro,F Behardien,1,0,1,NA,0,NA,NA,NA,0
+567360,1st innings,New Zealand,South Africa,34.3,C Munro,JEC Franklin,F Behardien,1,0,1,NA,0,NA,NA,NA,0
+567360,1st innings,New Zealand,South Africa,34.4,JEC Franklin,C Munro,F Behardien,0,0,0,NA,0,NA,NA,NA,0
+567360,1st innings,New Zealand,South Africa,34.5,JEC Franklin,C Munro,F Behardien,1,0,1,NA,0,NA,NA,NA,0
+567360,1st innings,New Zealand,South Africa,34.6,C Munro,JEC Franklin,F Behardien,2,0,2,NA,0,NA,NA,NA,0
+567360,1st innings,New Zealand,South Africa,35.1,JEC Franklin,C Munro,RK Kleinveldt,4,0,4,NA,0,NA,NA,NA,0
+567360,1st innings,New Zealand,South Africa,35.2,JEC Franklin,C Munro,RK Kleinveldt,0,0,0,NA,0,NA,NA,NA,0
+567360,1st innings,New Zealand,South Africa,35.3,JEC Franklin,C Munro,RK Kleinveldt,0,0,0,NA,0,NA,NA,NA,0
+567360,1st innings,New Zealand,South Africa,35.4,JEC Franklin,C Munro,RK Kleinveldt,1,0,1,NA,0,NA,NA,NA,0
+567360,1st innings,New Zealand,South Africa,35.5,C Munro,JEC Franklin,RK Kleinveldt,0,0,0,NA,0,NA,NA,NA,0
+567360,1st innings,New Zealand,South Africa,35.6,C Munro,JEC Franklin,RK Kleinveldt,0,0,0,NA,0,NA,NA,NA,0
+567360,1st innings,New Zealand,South Africa,36.1,JEC Franklin,C Munro,DW Steyn,1,0,1,NA,0,NA,NA,NA,0
+567360,1st innings,New Zealand,South Africa,36.2,C Munro,JEC Franklin,DW Steyn,1,0,1,NA,0,NA,NA,NA,0
+567360,1st innings,New Zealand,South Africa,36.3,JEC Franklin,C Munro,DW Steyn,1,0,1,NA,0,NA,NA,NA,0
+567360,1st innings,New Zealand,South Africa,36.4,C Munro,JEC Franklin,DW Steyn,1,0,1,NA,0,NA,NA,NA,0
+567360,1st innings,New Zealand,South Africa,36.5,JEC Franklin,C Munro,DW Steyn,0,1,1,wides,0,NA,NA,NA,0
+567360,1st innings,New Zealand,South Africa,36.6,JEC Franklin,C Munro,DW Steyn,1,0,1,NA,0,NA,NA,NA,0
+567360,1st innings,New Zealand,South Africa,36.7,C Munro,JEC Franklin,DW Steyn,0,1,1,wides,0,NA,NA,NA,0
+567360,1st innings,New Zealand,South Africa,36.8,C Munro,JEC Franklin,DW Steyn,1,0,1,NA,0,NA,NA,NA,0
+567360,1st innings,New Zealand,South Africa,37.1,C Munro,JEC Franklin,RK Kleinveldt,0,1,1,legbyes,0,NA,NA,NA,0
+567360,1st innings,New Zealand,South Africa,37.2,JEC Franklin,C Munro,RK Kleinveldt,1,0,1,NA,0,NA,NA,NA,0
+567360,1st innings,New Zealand,South Africa,37.3,C Munro,JEC Franklin,RK Kleinveldt,0,0,0,NA,0,NA,NA,NA,0
+567360,1st innings,New Zealand,South Africa,37.4,C Munro,JEC Franklin,RK Kleinveldt,0,0,0,NA,0,NA,NA,NA,0
+567360,1st innings,New Zealand,South Africa,37.5,C Munro,JEC Franklin,RK Kleinveldt,0,0,0,NA,0,NA,NA,NA,0
+567360,1st innings,New Zealand,South Africa,37.6,C Munro,JEC Franklin,RK Kleinveldt,4,0,4,NA,0,NA,NA,NA,0
+567360,1st innings,New Zealand,South Africa,38.1,JEC Franklin,C Munro,DW Steyn,1,0,1,NA,0,NA,NA,NA,0
+567360,1st innings,New Zealand,South Africa,38.2,C Munro,JEC Franklin,DW Steyn,6,0,6,NA,0,NA,NA,NA,0
+567360,1st innings,New Zealand,South Africa,38.3,C Munro,JEC Franklin,DW Steyn,0,0,0,NA,0,NA,NA,NA,0
+567360,1st innings,New Zealand,South Africa,38.4,C Munro,JEC Franklin,DW Steyn,4,0,4,NA,0,NA,NA,NA,0
+567360,1st innings,New Zealand,South Africa,38.5,C Munro,JEC Franklin,DW Steyn,1,0,1,NA,0,NA,NA,NA,0
+567360,1st innings,New Zealand,South Africa,38.6,JEC Franklin,C Munro,DW Steyn,0,1,1,wides,0,NA,NA,NA,0
+567360,1st innings,New Zealand,South Africa,38.7,JEC Franklin,C Munro,DW Steyn,2,0,2,NA,0,NA,NA,NA,0
+567360,1st innings,New Zealand,South Africa,39.1,C Munro,JEC Franklin,RK Kleinveldt,0,1,1,legbyes,0,NA,NA,NA,0
+567360,1st innings,New Zealand,South Africa,39.2,JEC Franklin,C Munro,RK Kleinveldt,1,0,1,NA,0,NA,NA,NA,0
+567360,1st innings,New Zealand,South Africa,39.3,C Munro,JEC Franklin,RK Kleinveldt,0,1,1,legbyes,0,NA,NA,NA,0
+567360,1st innings,New Zealand,South Africa,39.4,JEC Franklin,C Munro,RK Kleinveldt,1,0,1,NA,0,NA,NA,NA,0
+567360,1st innings,New Zealand,South Africa,39.5,C Munro,JEC Franklin,RK Kleinveldt,0,1,1,legbyes,0,NA,NA,NA,0
+567360,1st innings,New Zealand,South Africa,39.6,JEC Franklin,C Munro,RK Kleinveldt,0,0,0,NA,0,NA,NA,NA,0
+567360,1st innings,New Zealand,South Africa,40.1,C Munro,JEC Franklin,F Behardien,1,0,1,NA,0,NA,NA,NA,0
+567360,1st innings,New Zealand,South Africa,40.2,JEC Franklin,C Munro,F Behardien,0,0,0,NA,0,NA,NA,NA,0
+567360,1st innings,New Zealand,South Africa,40.3,JEC Franklin,C Munro,F Behardien,0,0,0,NA,0,NA,NA,NA,0
+567360,1st innings,New Zealand,South Africa,40.4,JEC Franklin,C Munro,F Behardien,1,0,1,NA,0,NA,NA,NA,0
+567360,1st innings,New Zealand,South Africa,40.5,C Munro,JEC Franklin,F Behardien,0,1,1,legbyes,0,NA,NA,NA,0
+567360,1st innings,New Zealand,South Africa,40.6,JEC Franklin,C Munro,F Behardien,1,0,1,NA,0,NA,NA,NA,0
+567360,1st innings,New Zealand,South Africa,41.1,JEC Franklin,C Munro,R McLaren,1,0,1,NA,0,NA,NA,NA,0
+567360,1st innings,New Zealand,South Africa,41.2,C Munro,JEC Franklin,R McLaren,0,0,0,NA,0,NA,NA,NA,0
+567360,1st innings,New Zealand,South Africa,41.3,C Munro,JEC Franklin,R McLaren,1,0,1,NA,0,NA,NA,NA,0
+567360,1st innings,New Zealand,South Africa,41.4,JEC Franklin,C Munro,R McLaren,1,0,1,NA,0,NA,NA,NA,0
+567360,1st innings,New Zealand,South Africa,41.5,C Munro,JEC Franklin,R McLaren,0,1,1,wides,0,NA,NA,NA,0
+567360,1st innings,New Zealand,South Africa,41.6,C Munro,JEC Franklin,R McLaren,4,0,4,NA,0,NA,NA,NA,0
+567360,1st innings,New Zealand,South Africa,41.7,C Munro,JEC Franklin,R McLaren,1,0,1,NA,0,NA,NA,NA,0
+567360,1st innings,New Zealand,South Africa,42.1,C Munro,JEC Franklin,LL Tsotsobe,1,0,1,NA,0,NA,NA,NA,0
+567360,1st innings,New Zealand,South Africa,42.2,JEC Franklin,C Munro,LL Tsotsobe,2,0,2,NA,0,NA,NA,NA,0
+567360,1st innings,New Zealand,South Africa,42.3,JEC Franklin,C Munro,LL Tsotsobe,2,0,2,NA,0,NA,NA,NA,0
+567360,1st innings,New Zealand,South Africa,42.4,JEC Franklin,C Munro,LL Tsotsobe,2,0,2,NA,0,NA,NA,NA,0
+567360,1st innings,New Zealand,South Africa,42.5,JEC Franklin,C Munro,LL Tsotsobe,1,0,1,NA,0,NA,NA,NA,0
+567360,1st innings,New Zealand,South Africa,42.6,C Munro,JEC Franklin,LL Tsotsobe,0,0,0,NA,1,caught,C Munro,Q de Kock,0
+567360,1st innings,New Zealand,South Africa,43.1,JEC Franklin,NL McCullum,R McLaren,1,0,1,NA,0,NA,NA,NA,0
+567360,1st innings,New Zealand,South Africa,43.2,NL McCullum,JEC Franklin,R McLaren,2,0,2,NA,0,NA,NA,NA,0
+567360,1st innings,New Zealand,South Africa,43.3,NL McCullum,JEC Franklin,R McLaren,0,0,0,NA,1,caught,NL McCullum,Q de Kock,0
+567360,1st innings,New Zealand,South Africa,43.4,JDS Neesham,JEC Franklin,R McLaren,0,0,0,NA,0,NA,NA,NA,0
+567360,1st innings,New Zealand,South Africa,43.5,JDS Neesham,JEC Franklin,R McLaren,1,0,1,NA,0,NA,NA,NA,0
+567360,1st innings,New Zealand,South Africa,43.6,JEC Franklin,JDS Neesham,R McLaren,1,0,1,NA,0,NA,NA,NA,0
+567360,1st innings,New Zealand,South Africa,44.1,JEC Franklin,JDS Neesham,LL Tsotsobe,1,0,1,NA,0,NA,NA,NA,0
+567360,1st innings,New Zealand,South Africa,44.2,JDS Neesham,JEC Franklin,LL Tsotsobe,4,0,4,NA,0,NA,NA,NA,0
+567360,1st innings,New Zealand,South Africa,44.3,JDS Neesham,JEC Franklin,LL Tsotsobe,4,0,4,NA,0,NA,NA,NA,0
+567360,1st innings,New Zealand,South Africa,44.4,JDS Neesham,JEC Franklin,LL Tsotsobe,0,0,0,NA,0,NA,NA,NA,0
+567360,1st innings,New Zealand,South Africa,44.5,JDS Neesham,JEC Franklin,LL Tsotsobe,0,0,0,NA,0,NA,NA,NA,0
+567360,1st innings,New Zealand,South Africa,44.6,JDS Neesham,JEC Franklin,LL Tsotsobe,4,0,4,NA,0,NA,NA,NA,0
+567360,1st innings,New Zealand,South Africa,45.1,JEC Franklin,JDS Neesham,R McLaren,1,0,1,NA,0,NA,NA,NA,0
+567360,1st innings,New Zealand,South Africa,45.2,JDS Neesham,JEC Franklin,R McLaren,0,1,1,wides,0,NA,NA,NA,0
+567360,1st innings,New Zealand,South Africa,45.3,JDS Neesham,JEC Franklin,R McLaren,0,0,0,NA,1,lbw,JDS Neesham,NA,0
+567360,1st innings,New Zealand,South Africa,45.4,KD Mills,JEC Franklin,R McLaren,0,0,0,NA,0,NA,NA,NA,0
+567360,1st innings,New Zealand,South Africa,45.5,KD Mills,JEC Franklin,R McLaren,1,0,1,NA,0,NA,NA,NA,0
+567360,1st innings,New Zealand,South Africa,45.6,JEC Franklin,KD Mills,R McLaren,0,1,1,legbyes,0,NA,NA,NA,0
+567360,1st innings,New Zealand,South Africa,45.7,KD Mills,JEC Franklin,R McLaren,4,0,4,NA,0,NA,NA,NA,0
+567360,1st innings,New Zealand,South Africa,46.1,JEC Franklin,KD Mills,DW Steyn,1,0,1,NA,0,NA,NA,NA,0
+567360,1st innings,New Zealand,South Africa,46.2,KD Mills,JEC Franklin,DW Steyn,1,0,1,NA,0,NA,NA,NA,0
+567360,1st innings,New Zealand,South Africa,46.3,JEC Franklin,KD Mills,DW Steyn,0,0,0,NA,0,NA,NA,NA,0
+567360,1st innings,New Zealand,South Africa,46.4,JEC Franklin,KD Mills,DW Steyn,2,0,2,NA,0,NA,NA,NA,0
+567360,1st innings,New Zealand,South Africa,46.5,JEC Franklin,KD Mills,DW Steyn,0,0,0,NA,0,NA,NA,NA,0
+567360,1st innings,New Zealand,South Africa,46.6,JEC Franklin,KD Mills,DW Steyn,1,0,1,NA,0,NA,NA,NA,0
+567360,1st innings,New Zealand,South Africa,47.1,JEC Franklin,KD Mills,RK Kleinveldt,0,0,0,NA,0,NA,NA,NA,0
+567360,1st innings,New Zealand,South Africa,47.2,JEC Franklin,KD Mills,RK Kleinveldt,0,1,1,legbyes,0,NA,NA,NA,0
+567360,1st innings,New Zealand,South Africa,47.3,KD Mills,JEC Franklin,RK Kleinveldt,0,1,1,wides,0,NA,NA,NA,0
+567360,1st innings,New Zealand,South Africa,47.4,KD Mills,JEC Franklin,RK Kleinveldt,1,0,1,NA,0,NA,NA,NA,0
+567360,1st innings,New Zealand,South Africa,47.5,JEC Franklin,KD Mills,RK Kleinveldt,0,1,1,legbyes,0,NA,NA,NA,0
+567360,1st innings,New Zealand,South Africa,47.6,KD Mills,JEC Franklin,RK Kleinveldt,0,1,1,wides,0,NA,NA,NA,0
+567360,1st innings,New Zealand,South Africa,47.7,KD Mills,JEC Franklin,RK Kleinveldt,0,1,1,legbyes,0,NA,NA,NA,0
+567360,1st innings,New Zealand,South Africa,47.8,JEC Franklin,KD Mills,RK Kleinveldt,1,0,1,NA,0,NA,NA,NA,0
+567360,1st innings,New Zealand,South Africa,48.1,JEC Franklin,KD Mills,DW Steyn,0,0,0,NA,1,run out,KD Mills,F du Plessis,0
+567360,1st innings,New Zealand,South Africa,48.2,JEC Franklin,MJ McClenaghan,DW Steyn,1,0,1,NA,0,NA,NA,NA,0
+567360,1st innings,New Zealand,South Africa,48.3,MJ McClenaghan,JEC Franklin,DW Steyn,0,1,1,wides,0,NA,NA,NA,0
+567360,1st innings,New Zealand,South Africa,48.4,MJ McClenaghan,JEC Franklin,DW Steyn,1,0,1,NA,0,NA,NA,NA,0
+567360,1st innings,New Zealand,South Africa,48.5,JEC Franklin,MJ McClenaghan,DW Steyn,4,0,4,NA,0,NA,NA,NA,0
+567360,1st innings,New Zealand,South Africa,48.6,JEC Franklin,MJ McClenaghan,DW Steyn,1,0,1,NA,0,NA,NA,NA,0
+567360,1st innings,New Zealand,South Africa,49.1,JEC Franklin,MJ McClenaghan,RK Kleinveldt,1,0,1,NA,0,NA,NA,NA,0
+567360,1st innings,New Zealand,South Africa,49.2,MJ McClenaghan,JEC Franklin,RK Kleinveldt,1,0,1,NA,0,NA,NA,NA,0
+567360,1st innings,New Zealand,South Africa,49.3,JEC Franklin,MJ McClenaghan,RK Kleinveldt,0,5,5,wides,0,NA,NA,NA,0
+567360,1st innings,New Zealand,South Africa,49.4,JEC Franklin,MJ McClenaghan,RK Kleinveldt,4,0,4,NA,0,NA,NA,NA,0
+567360,1st innings,New Zealand,South Africa,49.5,JEC Franklin,MJ McClenaghan,RK Kleinveldt,0,0,0,NA,0,NA,NA,NA,0
+567360,1st innings,New Zealand,South Africa,49.6,JEC Franklin,MJ McClenaghan,RK Kleinveldt,6,0,6,NA,0,NA,NA,NA,0
+567360,1st innings,New Zealand,South Africa,49.7,JEC Franklin,MJ McClenaghan,RK Kleinveldt,0,1,1,legbyes,0,NA,NA,NA,0
+567360,2nd innings,South Africa,New Zealand,0.1,Q de Kock,GC Smith,KD Mills,0,0,0,NA,0,NA,NA,NA,1
+567360,2nd innings,South Africa,New Zealand,0.2,Q de Kock,GC Smith,KD Mills,0,0,0,NA,0,NA,NA,NA,1
+567360,2nd innings,South Africa,New Zealand,0.3,Q de Kock,GC Smith,KD Mills,0,0,0,NA,0,NA,NA,NA,1
+567360,2nd innings,South Africa,New Zealand,0.4,Q de Kock,GC Smith,KD Mills,1,0,1,NA,0,NA,NA,NA,1
+567360,2nd innings,South Africa,New Zealand,0.5,GC Smith,Q de Kock,KD Mills,0,0,0,NA,0,NA,NA,NA,1
+567360,2nd innings,South Africa,New Zealand,0.6,GC Smith,Q de Kock,KD Mills,0,0,0,NA,0,NA,NA,NA,1
+567360,2nd innings,South Africa,New Zealand,1.1,Q de Kock,GC Smith,MJ McClenaghan,0,0,0,NA,0,NA,NA,NA,1
+567360,2nd innings,South Africa,New Zealand,1.2,Q de Kock,GC Smith,MJ McClenaghan,0,0,0,NA,0,NA,NA,NA,1
+567360,2nd innings,South Africa,New Zealand,1.3,Q de Kock,GC Smith,MJ McClenaghan,4,0,4,NA,0,NA,NA,NA,1
+567360,2nd innings,South Africa,New Zealand,1.4,Q de Kock,GC Smith,MJ McClenaghan,2,0,2,NA,0,NA,NA,NA,1
+567360,2nd innings,South Africa,New Zealand,1.5,Q de Kock,GC Smith,MJ McClenaghan,0,0,0,NA,0,NA,NA,NA,1
+567360,2nd innings,South Africa,New Zealand,1.6,Q de Kock,GC Smith,MJ McClenaghan,0,0,0,NA,0,NA,NA,NA,1
+567360,2nd innings,South Africa,New Zealand,2.1,GC Smith,Q de Kock,KD Mills,0,0,0,NA,0,NA,NA,NA,1
+567360,2nd innings,South Africa,New Zealand,2.2,GC Smith,Q de Kock,KD Mills,0,0,0,NA,0,NA,NA,NA,1
+567360,2nd innings,South Africa,New Zealand,2.3,GC Smith,Q de Kock,KD Mills,0,0,0,NA,0,NA,NA,NA,1
+567360,2nd innings,South Africa,New Zealand,2.4,GC Smith,Q de Kock,KD Mills,2,0,2,NA,0,NA,NA,NA,1
+567360,2nd innings,South Africa,New Zealand,2.5,GC Smith,Q de Kock,KD Mills,1,0,1,NA,0,NA,NA,NA,1
+567360,2nd innings,South Africa,New Zealand,2.6,Q de Kock,GC Smith,KD Mills,0,0,0,NA,0,NA,NA,NA,1
+567360,2nd innings,South Africa,New Zealand,3.1,GC Smith,Q de Kock,MJ McClenaghan,2,0,2,NA,0,NA,NA,NA,1
+567360,2nd innings,South Africa,New Zealand,3.2,GC Smith,Q de Kock,MJ McClenaghan,0,0,0,NA,0,NA,NA,NA,1
+567360,2nd innings,South Africa,New Zealand,3.3,GC Smith,Q de Kock,MJ McClenaghan,4,0,4,NA,0,NA,NA,NA,1
+567360,2nd innings,South Africa,New Zealand,3.4,GC Smith,Q de Kock,MJ McClenaghan,0,0,0,NA,0,NA,NA,NA,1
+567360,2nd innings,South Africa,New Zealand,3.5,GC Smith,Q de Kock,MJ McClenaghan,0,0,0,NA,0,NA,NA,NA,1
+567360,2nd innings,South Africa,New Zealand,3.6,GC Smith,Q de Kock,MJ McClenaghan,0,1,1,wides,0,NA,NA,NA,1
+567360,2nd innings,South Africa,New Zealand,3.7,GC Smith,Q de Kock,MJ McClenaghan,0,0,0,NA,0,NA,NA,NA,1
+567360,2nd innings,South Africa,New Zealand,4.1,Q de Kock,GC Smith,KD Mills,0,0,0,NA,0,NA,NA,NA,1
+567360,2nd innings,South Africa,New Zealand,4.2,Q de Kock,GC Smith,KD Mills,0,0,0,NA,0,NA,NA,NA,1
+567360,2nd innings,South Africa,New Zealand,4.3,Q de Kock,GC Smith,KD Mills,0,0,0,NA,0,NA,NA,NA,1
+567360,2nd innings,South Africa,New Zealand,4.4,Q de Kock,GC Smith,KD Mills,1,0,1,NA,0,NA,NA,NA,1
+567360,2nd innings,South Africa,New Zealand,4.5,GC Smith,Q de Kock,KD Mills,0,0,0,NA,0,NA,NA,NA,1
+567360,2nd innings,South Africa,New Zealand,4.6,GC Smith,Q de Kock,KD Mills,0,0,0,NA,0,NA,NA,NA,1
+567360,2nd innings,South Africa,New Zealand,5.1,Q de Kock,GC Smith,MJ McClenaghan,0,0,0,NA,0,NA,NA,NA,1
+567360,2nd innings,South Africa,New Zealand,5.2,Q de Kock,GC Smith,MJ McClenaghan,0,0,0,NA,0,NA,NA,NA,1
+567360,2nd innings,South Africa,New Zealand,5.3,Q de Kock,GC Smith,MJ McClenaghan,4,0,4,NA,0,NA,NA,NA,1
+567360,2nd innings,South Africa,New Zealand,5.4,Q de Kock,GC Smith,MJ McClenaghan,0,0,0,NA,0,NA,NA,NA,1
+567360,2nd innings,South Africa,New Zealand,5.5,Q de Kock,GC Smith,MJ McClenaghan,1,0,1,NA,0,NA,NA,NA,1
+567360,2nd innings,South Africa,New Zealand,5.6,GC Smith,Q de Kock,MJ McClenaghan,0,0,0,NA,0,NA,NA,NA,1
+567360,2nd innings,South Africa,New Zealand,6.1,Q de Kock,GC Smith,KD Mills,1,0,1,NA,0,NA,NA,NA,1
+567360,2nd innings,South Africa,New Zealand,6.2,GC Smith,Q de Kock,KD Mills,0,0,0,NA,0,NA,NA,NA,1
+567360,2nd innings,South Africa,New Zealand,6.3,GC Smith,Q de Kock,KD Mills,0,0,0,NA,0,NA,NA,NA,1
+567360,2nd innings,South Africa,New Zealand,6.4,GC Smith,Q de Kock,KD Mills,4,0,4,NA,0,NA,NA,NA,1
+567360,2nd innings,South Africa,New Zealand,6.5,GC Smith,Q de Kock,KD Mills,0,0,0,NA,0,NA,NA,NA,1
+567360,2nd innings,South Africa,New Zealand,6.6,GC Smith,Q de Kock,KD Mills,0,0,0,NA,0,NA,NA,NA,1
+567360,2nd innings,South Africa,New Zealand,7.1,Q de Kock,GC Smith,MJ McClenaghan,2,0,2,NA,0,NA,NA,NA,1
+567360,2nd innings,South Africa,New Zealand,7.2,Q de Kock,GC Smith,MJ McClenaghan,1,0,1,NA,0,NA,NA,NA,1
+567360,2nd innings,South Africa,New Zealand,7.3,GC Smith,Q de Kock,MJ McClenaghan,4,0,4,NA,0,NA,NA,NA,1
+567360,2nd innings,South Africa,New Zealand,7.4,GC Smith,Q de Kock,MJ McClenaghan,0,0,0,NA,0,NA,NA,NA,1
+567360,2nd innings,South Africa,New Zealand,7.5,GC Smith,Q de Kock,MJ McClenaghan,0,0,0,NA,0,NA,NA,NA,1
+567360,2nd innings,South Africa,New Zealand,7.6,GC Smith,Q de Kock,MJ McClenaghan,4,0,4,NA,0,NA,NA,NA,1
+567360,2nd innings,South Africa,New Zealand,8.1,Q de Kock,GC Smith,KD Mills,0,0,0,NA,0,NA,NA,NA,1
+567360,2nd innings,South Africa,New Zealand,8.2,Q de Kock,GC Smith,KD Mills,4,0,4,NA,0,NA,NA,NA,1
+567360,2nd innings,South Africa,New Zealand,8.3,Q de Kock,GC Smith,KD Mills,1,0,1,NA,0,NA,NA,NA,1
+567360,2nd innings,South Africa,New Zealand,8.4,GC Smith,Q de Kock,KD Mills,1,0,1,NA,0,NA,NA,NA,1
+567360,2nd innings,South Africa,New Zealand,8.5,Q de Kock,GC Smith,KD Mills,0,0,0,NA,0,NA,NA,NA,1
+567360,2nd innings,South Africa,New Zealand,8.6,Q de Kock,GC Smith,KD Mills,4,0,4,NA,0,NA,NA,NA,1
+567360,2nd innings,South Africa,New Zealand,9.1,GC Smith,Q de Kock,JDS Neesham,2,0,2,NA,0,NA,NA,NA,1
+567360,2nd innings,South Africa,New Zealand,9.2,GC Smith,Q de Kock,JDS Neesham,0,0,0,NA,0,NA,NA,NA,1
+567360,2nd innings,South Africa,New Zealand,9.3,GC Smith,Q de Kock,JDS Neesham,1,0,1,NA,0,NA,NA,NA,1
+567360,2nd innings,South Africa,New Zealand,9.4,Q de Kock,GC Smith,JDS Neesham,1,0,1,NA,0,NA,NA,NA,1
+567360,2nd innings,South Africa,New Zealand,9.5,GC Smith,Q de Kock,JDS Neesham,0,0,0,NA,0,NA,NA,NA,1
+567360,2nd innings,South Africa,New Zealand,9.6,GC Smith,Q de Kock,JDS Neesham,1,0,1,NA,0,NA,NA,NA,1
+567360,2nd innings,South Africa,New Zealand,10.1,GC Smith,Q de Kock,NL McCullum,0,0,0,NA,0,NA,NA,NA,1
+567360,2nd innings,South Africa,New Zealand,10.2,GC Smith,Q de Kock,NL McCullum,0,0,0,NA,0,NA,NA,NA,1
+567360,2nd innings,South Africa,New Zealand,10.3,GC Smith,Q de Kock,NL McCullum,0,0,0,NA,0,NA,NA,NA,1
+567360,2nd innings,South Africa,New Zealand,10.4,GC Smith,Q de Kock,NL McCullum,0,0,0,NA,0,NA,NA,NA,1
+567360,2nd innings,South Africa,New Zealand,10.5,GC Smith,Q de Kock,NL McCullum,0,0,0,NA,0,NA,NA,NA,1
+567360,2nd innings,South Africa,New Zealand,10.6,GC Smith,Q de Kock,NL McCullum,0,0,0,NA,0,NA,NA,NA,1
+567360,2nd innings,South Africa,New Zealand,11.1,Q de Kock,GC Smith,JDS Neesham,1,0,1,NA,0,NA,NA,NA,1
+567360,2nd innings,South Africa,New Zealand,11.2,GC Smith,Q de Kock,JDS Neesham,0,1,1,wides,0,NA,NA,NA,1
+567360,2nd innings,South Africa,New Zealand,11.3,GC Smith,Q de Kock,JDS Neesham,0,0,0,NA,0,NA,NA,NA,1
+567360,2nd innings,South Africa,New Zealand,11.4,GC Smith,Q de Kock,JDS Neesham,1,0,1,NA,0,NA,NA,NA,1
+567360,2nd innings,South Africa,New Zealand,11.5,Q de Kock,GC Smith,JDS Neesham,1,0,1,NA,0,NA,NA,NA,1
+567360,2nd innings,South Africa,New Zealand,11.6,GC Smith,Q de Kock,JDS Neesham,2,0,2,NA,0,NA,NA,NA,1
+567360,2nd innings,South Africa,New Zealand,11.7,GC Smith,Q de Kock,JDS Neesham,1,0,1,NA,0,NA,NA,NA,1
+567360,2nd innings,South Africa,New Zealand,12.1,GC Smith,Q de Kock,NL McCullum,1,0,1,NA,0,NA,NA,NA,1
+567360,2nd innings,South Africa,New Zealand,12.2,Q de Kock,GC Smith,NL McCullum,1,0,1,NA,0,NA,NA,NA,1
+567360,2nd innings,South Africa,New Zealand,12.3,GC Smith,Q de Kock,NL McCullum,1,0,1,NA,0,NA,NA,NA,1
+567360,2nd innings,South Africa,New Zealand,12.4,Q de Kock,GC Smith,NL McCullum,0,0,0,NA,0,NA,NA,NA,1
+567360,2nd innings,South Africa,New Zealand,12.5,Q de Kock,GC Smith,NL McCullum,1,0,1,NA,0,NA,NA,NA,1
+567360,2nd innings,South Africa,New Zealand,12.6,GC Smith,Q de Kock,NL McCullum,1,0,1,NA,0,NA,NA,NA,1
+567360,2nd innings,South Africa,New Zealand,13.1,GC Smith,Q de Kock,JEC Franklin,0,0,0,NA,0,NA,NA,NA,1
+567360,2nd innings,South Africa,New Zealand,13.2,GC Smith,Q de Kock,JEC Franklin,0,0,0,NA,0,NA,NA,NA,1
+567360,2nd innings,South Africa,New Zealand,13.3,GC Smith,Q de Kock,JEC Franklin,4,0,4,NA,0,NA,NA,NA,1
+567360,2nd innings,South Africa,New Zealand,13.4,GC Smith,Q de Kock,JEC Franklin,0,0,0,NA,0,NA,NA,NA,1
+567360,2nd innings,South Africa,New Zealand,13.5,GC Smith,Q de Kock,JEC Franklin,1,0,1,NA,0,NA,NA,NA,1
+567360,2nd innings,South Africa,New Zealand,13.6,Q de Kock,GC Smith,JEC Franklin,0,0,0,NA,0,NA,NA,NA,1
+567360,2nd innings,South Africa,New Zealand,14.1,GC Smith,Q de Kock,NL McCullum,0,0,0,NA,0,NA,NA,NA,1
+567360,2nd innings,South Africa,New Zealand,14.2,GC Smith,Q de Kock,NL McCullum,0,0,0,NA,0,NA,NA,NA,1
+567360,2nd innings,South Africa,New Zealand,14.3,GC Smith,Q de Kock,NL McCullum,4,0,4,NA,0,NA,NA,NA,1
+567360,2nd innings,South Africa,New Zealand,14.4,GC Smith,Q de Kock,NL McCullum,2,0,2,NA,0,NA,NA,NA,1
+567360,2nd innings,South Africa,New Zealand,14.5,GC Smith,Q de Kock,NL McCullum,2,0,2,NA,0,NA,NA,NA,1
+567360,2nd innings,South Africa,New Zealand,14.6,GC Smith,Q de Kock,NL McCullum,0,0,0,NA,0,NA,NA,NA,1
+567360,2nd innings,South Africa,New Zealand,15.1,Q de Kock,GC Smith,JEC Franklin,0,4,4,byes,0,NA,NA,NA,1
+567360,2nd innings,South Africa,New Zealand,15.2,Q de Kock,GC Smith,JEC Franklin,0,0,0,NA,0,NA,NA,NA,1
+567360,2nd innings,South Africa,New Zealand,15.3,Q de Kock,GC Smith,JEC Franklin,0,0,0,NA,1,bowled,Q de Kock,NA,1
+567360,2nd innings,South Africa,New Zealand,15.4,CA Ingram,GC Smith,JEC Franklin,2,0,2,NA,0,NA,NA,NA,1
+567360,2nd innings,South Africa,New Zealand,15.5,CA Ingram,GC Smith,JEC Franklin,0,0,0,NA,0,NA,NA,NA,1
+567360,2nd innings,South Africa,New Zealand,15.6,CA Ingram,GC Smith,JEC Franklin,1,0,1,NA,0,NA,NA,NA,1
+567360,2nd innings,South Africa,New Zealand,16.1,CA Ingram,GC Smith,NL McCullum,1,0,1,NA,0,NA,NA,NA,1
+567360,2nd innings,South Africa,New Zealand,16.2,GC Smith,CA Ingram,NL McCullum,1,0,1,NA,0,NA,NA,NA,1
+567360,2nd innings,South Africa,New Zealand,16.3,CA Ingram,GC Smith,NL McCullum,0,0,0,NA,0,NA,NA,NA,1
+567360,2nd innings,South Africa,New Zealand,16.4,CA Ingram,GC Smith,NL McCullum,0,0,0,NA,0,NA,NA,NA,1
+567360,2nd innings,South Africa,New Zealand,16.5,CA Ingram,GC Smith,NL McCullum,0,0,0,NA,0,NA,NA,NA,1
+567360,2nd innings,South Africa,New Zealand,16.6,CA Ingram,GC Smith,NL McCullum,1,0,1,NA,0,NA,NA,NA,1
+567360,2nd innings,South Africa,New Zealand,17.1,CA Ingram,GC Smith,JEC Franklin,0,0,0,NA,0,NA,NA,NA,1
+567360,2nd innings,South Africa,New Zealand,17.2,CA Ingram,GC Smith,JEC Franklin,0,0,0,NA,0,NA,NA,NA,1
+567360,2nd innings,South Africa,New Zealand,17.3,CA Ingram,GC Smith,JEC Franklin,0,0,0,NA,0,NA,NA,NA,1
+567360,2nd innings,South Africa,New Zealand,17.4,CA Ingram,GC Smith,JEC Franklin,0,0,0,NA,0,NA,NA,NA,1
+567360,2nd innings,South Africa,New Zealand,17.5,CA Ingram,GC Smith,JEC Franklin,0,0,0,NA,0,NA,NA,NA,1
+567360,2nd innings,South Africa,New Zealand,17.6,CA Ingram,GC Smith,JEC Franklin,4,0,4,NA,0,NA,NA,NA,1
+567360,2nd innings,South Africa,New Zealand,18.1,GC Smith,CA Ingram,NL McCullum,0,0,0,NA,0,NA,NA,NA,1
+567360,2nd innings,South Africa,New Zealand,18.2,GC Smith,CA Ingram,NL McCullum,0,0,0,NA,0,NA,NA,NA,1
+567360,2nd innings,South Africa,New Zealand,18.3,GC Smith,CA Ingram,NL McCullum,0,0,0,NA,0,NA,NA,NA,1
+567360,2nd innings,South Africa,New Zealand,18.4,GC Smith,CA Ingram,NL McCullum,0,0,0,NA,0,NA,NA,NA,1
+567360,2nd innings,South Africa,New Zealand,18.5,GC Smith,CA Ingram,NL McCullum,0,1,1,legbyes,0,NA,NA,NA,1
+567360,2nd innings,South Africa,New Zealand,18.6,CA Ingram,GC Smith,NL McCullum,1,0,1,NA,0,NA,NA,NA,1
+567360,2nd innings,South Africa,New Zealand,19.1,CA Ingram,GC Smith,JEC Franklin,0,0,0,NA,0,NA,NA,NA,1
+567360,2nd innings,South Africa,New Zealand,19.2,CA Ingram,GC Smith,JEC Franklin,0,0,0,NA,0,NA,NA,NA,1
+567360,2nd innings,South Africa,New Zealand,19.3,CA Ingram,GC Smith,JEC Franklin,1,0,1,NA,0,NA,NA,NA,1
+567360,2nd innings,South Africa,New Zealand,19.4,GC Smith,CA Ingram,JEC Franklin,2,0,2,NA,0,NA,NA,NA,1
+567360,2nd innings,South Africa,New Zealand,19.5,GC Smith,CA Ingram,JEC Franklin,0,0,0,NA,0,NA,NA,NA,1
+567360,2nd innings,South Africa,New Zealand,19.6,GC Smith,CA Ingram,JEC Franklin,1,0,1,NA,0,NA,NA,NA,1
+567360,2nd innings,South Africa,New Zealand,20.1,GC Smith,CA Ingram,NL McCullum,0,0,0,NA,0,NA,NA,NA,1
+567360,2nd innings,South Africa,New Zealand,20.2,GC Smith,CA Ingram,NL McCullum,1,0,1,NA,0,NA,NA,NA,1
+567360,2nd innings,South Africa,New Zealand,20.3,CA Ingram,GC Smith,NL McCullum,0,0,0,NA,0,NA,NA,NA,1
+567360,2nd innings,South Africa,New Zealand,20.4,CA Ingram,GC Smith,NL McCullum,0,0,0,NA,0,NA,NA,NA,1
+567360,2nd innings,South Africa,New Zealand,20.5,CA Ingram,GC Smith,NL McCullum,0,0,0,NA,0,NA,NA,NA,1
+567360,2nd innings,South Africa,New Zealand,20.6,CA Ingram,GC Smith,NL McCullum,0,0,0,NA,0,NA,NA,NA,1
+567360,2nd innings,South Africa,New Zealand,21.1,GC Smith,CA Ingram,GD Elliott,1,0,1,NA,0,NA,NA,NA,1
+567360,2nd innings,South Africa,New Zealand,21.2,CA Ingram,GC Smith,GD Elliott,1,0,1,NA,0,NA,NA,NA,1
+567360,2nd innings,South Africa,New Zealand,21.3,GC Smith,CA Ingram,GD Elliott,1,0,1,NA,0,NA,NA,NA,1
+567360,2nd innings,South Africa,New Zealand,21.4,CA Ingram,GC Smith,GD Elliott,1,0,1,NA,0,NA,NA,NA,1
+567360,2nd innings,South Africa,New Zealand,21.5,GC Smith,CA Ingram,GD Elliott,0,0,0,NA,0,NA,NA,NA,1
+567360,2nd innings,South Africa,New Zealand,21.6,GC Smith,CA Ingram,GD Elliott,2,0,2,NA,0,NA,NA,NA,1
+567360,2nd innings,South Africa,New Zealand,22.1,CA Ingram,GC Smith,NL McCullum,0,0,0,NA,0,NA,NA,NA,1
+567360,2nd innings,South Africa,New Zealand,22.2,CA Ingram,GC Smith,NL McCullum,0,0,0,NA,0,NA,NA,NA,1
+567360,2nd innings,South Africa,New Zealand,22.3,CA Ingram,GC Smith,NL McCullum,0,0,0,NA,0,NA,NA,NA,1
+567360,2nd innings,South Africa,New Zealand,22.4,CA Ingram,GC Smith,NL McCullum,0,0,0,NA,0,NA,NA,NA,1
+567360,2nd innings,South Africa,New Zealand,22.5,CA Ingram,GC Smith,NL McCullum,1,0,1,NA,0,NA,NA,NA,1
+567360,2nd innings,South Africa,New Zealand,22.6,GC Smith,CA Ingram,NL McCullum,0,0,0,NA,0,NA,NA,NA,1
+567360,2nd innings,South Africa,New Zealand,23.1,CA Ingram,GC Smith,GD Elliott,0,0,0,NA,0,NA,NA,NA,1
+567360,2nd innings,South Africa,New Zealand,23.2,CA Ingram,GC Smith,GD Elliott,1,0,1,NA,0,NA,NA,NA,1
+567360,2nd innings,South Africa,New Zealand,23.3,GC Smith,CA Ingram,GD Elliott,0,0,0,NA,0,NA,NA,NA,1
+567360,2nd innings,South Africa,New Zealand,23.4,GC Smith,CA Ingram,GD Elliott,1,0,1,NA,0,NA,NA,NA,1
+567360,2nd innings,South Africa,New Zealand,23.5,CA Ingram,GC Smith,GD Elliott,0,0,0,NA,0,NA,NA,NA,1
+567360,2nd innings,South Africa,New Zealand,23.6,CA Ingram,GC Smith,GD Elliott,0,0,0,NA,0,NA,NA,NA,1
+567360,2nd innings,South Africa,New Zealand,24.1,GC Smith,CA Ingram,NL McCullum,1,0,1,NA,0,NA,NA,NA,1
+567360,2nd innings,South Africa,New Zealand,24.2,CA Ingram,GC Smith,NL McCullum,0,0,0,NA,0,NA,NA,NA,1
+567360,2nd innings,South Africa,New Zealand,24.3,CA Ingram,GC Smith,NL McCullum,1,0,1,NA,0,NA,NA,NA,1
+567360,2nd innings,South Africa,New Zealand,24.4,GC Smith,CA Ingram,NL McCullum,0,0,0,NA,0,NA,NA,NA,1
+567360,2nd innings,South Africa,New Zealand,24.5,GC Smith,CA Ingram,NL McCullum,1,0,1,NA,0,NA,NA,NA,1
+567360,2nd innings,South Africa,New Zealand,24.6,CA Ingram,GC Smith,NL McCullum,4,0,4,NA,0,NA,NA,NA,1
+567360,2nd innings,South Africa,New Zealand,25.1,GC Smith,CA Ingram,GD Elliott,0,0,0,NA,0,NA,NA,NA,1
+567360,2nd innings,South Africa,New Zealand,25.2,GC Smith,CA Ingram,GD Elliott,0,0,0,NA,0,NA,NA,NA,1
+567360,2nd innings,South Africa,New Zealand,25.3,GC Smith,CA Ingram,GD Elliott,1,0,1,NA,0,NA,NA,NA,1
+567360,2nd innings,South Africa,New Zealand,25.4,CA Ingram,GC Smith,GD Elliott,4,0,4,NA,0,NA,NA,NA,1
+567360,2nd innings,South Africa,New Zealand,25.5,CA Ingram,GC Smith,GD Elliott,0,0,0,NA,0,NA,NA,NA,1
+567360,2nd innings,South Africa,New Zealand,25.6,CA Ingram,GC Smith,GD Elliott,1,0,1,NA,0,NA,NA,NA,1
+567360,2nd innings,South Africa,New Zealand,26.1,CA Ingram,GC Smith,NL McCullum,0,0,0,NA,1,caught,CA Ingram,MJ Guptill,1
+567360,2nd innings,South Africa,New Zealand,26.2,F du Plessis,GC Smith,NL McCullum,1,0,1,NA,0,NA,NA,NA,1
+567360,2nd innings,South Africa,New Zealand,26.3,GC Smith,F du Plessis,NL McCullum,0,0,0,NA,0,NA,NA,NA,1
+567360,2nd innings,South Africa,New Zealand,26.4,GC Smith,F du Plessis,NL McCullum,1,0,1,NA,0,NA,NA,NA,1
+567360,2nd innings,South Africa,New Zealand,26.5,F du Plessis,GC Smith,NL McCullum,0,0,0,NA,0,NA,NA,NA,1
+567360,2nd innings,South Africa,New Zealand,26.6,F du Plessis,GC Smith,NL McCullum,1,0,1,NA,0,NA,NA,NA,1
+567360,2nd innings,South Africa,New Zealand,27.1,F du Plessis,GC Smith,MJ McClenaghan,1,0,1,NA,0,NA,NA,NA,1
+567360,2nd innings,South Africa,New Zealand,27.2,GC Smith,F du Plessis,MJ McClenaghan,0,0,0,NA,0,NA,NA,NA,1
+567360,2nd innings,South Africa,New Zealand,27.3,GC Smith,F du Plessis,MJ McClenaghan,4,0,4,NA,0,NA,NA,NA,1
+567360,2nd innings,South Africa,New Zealand,27.4,GC Smith,F du Plessis,MJ McClenaghan,0,0,0,NA,0,NA,NA,NA,1
+567360,2nd innings,South Africa,New Zealand,27.5,GC Smith,F du Plessis,MJ McClenaghan,1,0,1,NA,0,NA,NA,NA,1
+567360,2nd innings,South Africa,New Zealand,27.6,F du Plessis,GC Smith,MJ McClenaghan,0,0,0,NA,0,NA,NA,NA,1
+567360,2nd innings,South Africa,New Zealand,28.1,GC Smith,F du Plessis,NL McCullum,0,0,0,NA,0,NA,NA,NA,1
+567360,2nd innings,South Africa,New Zealand,28.2,GC Smith,F du Plessis,NL McCullum,4,0,4,NA,0,NA,NA,NA,1
+567360,2nd innings,South Africa,New Zealand,28.3,GC Smith,F du Plessis,NL McCullum,0,0,0,NA,0,NA,NA,NA,1
+567360,2nd innings,South Africa,New Zealand,28.4,GC Smith,F du Plessis,NL McCullum,0,0,0,NA,0,NA,NA,NA,1
+567360,2nd innings,South Africa,New Zealand,28.5,GC Smith,F du Plessis,NL McCullum,1,0,1,NA,0,NA,NA,NA,1
+567360,2nd innings,South Africa,New Zealand,28.6,F du Plessis,GC Smith,NL McCullum,1,0,1,NA,0,NA,NA,NA,1
+567360,2nd innings,South Africa,New Zealand,29.1,F du Plessis,GC Smith,MJ McClenaghan,0,0,0,NA,0,NA,NA,NA,1
+567360,2nd innings,South Africa,New Zealand,29.2,F du Plessis,GC Smith,MJ McClenaghan,0,0,0,NA,0,NA,NA,NA,1
+567360,2nd innings,South Africa,New Zealand,29.3,F du Plessis,GC Smith,MJ McClenaghan,0,0,0,NA,0,NA,NA,NA,1
+567360,2nd innings,South Africa,New Zealand,29.4,F du Plessis,GC Smith,MJ McClenaghan,0,0,0,NA,0,NA,NA,NA,1
+567360,2nd innings,South Africa,New Zealand,29.5,F du Plessis,GC Smith,MJ McClenaghan,4,0,4,NA,0,NA,NA,NA,1
+567360,2nd innings,South Africa,New Zealand,29.6,F du Plessis,GC Smith,MJ McClenaghan,0,0,0,NA,0,NA,NA,NA,1
+567360,2nd innings,South Africa,New Zealand,30.1,GC Smith,F du Plessis,KS Williamson,1,0,1,NA,0,NA,NA,NA,1
+567360,2nd innings,South Africa,New Zealand,30.2,F du Plessis,GC Smith,KS Williamson,2,0,2,NA,0,NA,NA,NA,1
+567360,2nd innings,South Africa,New Zealand,30.3,F du Plessis,GC Smith,KS Williamson,0,0,0,NA,0,NA,NA,NA,1
+567360,2nd innings,South Africa,New Zealand,30.4,F du Plessis,GC Smith,KS Williamson,0,0,0,NA,0,NA,NA,NA,1
+567360,2nd innings,South Africa,New Zealand,30.5,F du Plessis,GC Smith,KS Williamson,2,0,2,NA,0,NA,NA,NA,1
+567360,2nd innings,South Africa,New Zealand,30.6,F du Plessis,GC Smith,KS Williamson,0,0,0,NA,0,NA,NA,NA,1
+567360,2nd innings,South Africa,New Zealand,31.1,GC Smith,F du Plessis,JEC Franklin,4,0,4,NA,0,NA,NA,NA,1
+567360,2nd innings,South Africa,New Zealand,31.2,GC Smith,F du Plessis,JEC Franklin,0,0,0,NA,0,NA,NA,NA,1
+567360,2nd innings,South Africa,New Zealand,31.3,GC Smith,F du Plessis,JEC Franklin,0,0,0,NA,0,NA,NA,NA,1
+567360,2nd innings,South Africa,New Zealand,31.4,GC Smith,F du Plessis,JEC Franklin,1,0,1,NA,0,NA,NA,NA,1
+567360,2nd innings,South Africa,New Zealand,31.5,F du Plessis,GC Smith,JEC Franklin,4,0,4,NA,0,NA,NA,NA,1
+567360,2nd innings,South Africa,New Zealand,31.6,F du Plessis,GC Smith,JEC Franklin,2,0,2,NA,0,NA,NA,NA,1
+567360,2nd innings,South Africa,New Zealand,32.1,GC Smith,F du Plessis,KS Williamson,1,0,1,NA,0,NA,NA,NA,1
+567360,2nd innings,South Africa,New Zealand,32.2,F du Plessis,GC Smith,KS Williamson,0,0,0,NA,0,NA,NA,NA,1
+567360,2nd innings,South Africa,New Zealand,32.3,F du Plessis,GC Smith,KS Williamson,0,0,0,NA,0,NA,NA,NA,1
+567360,2nd innings,South Africa,New Zealand,32.4,F du Plessis,GC Smith,KS Williamson,1,0,1,NA,0,NA,NA,NA,1
+567360,2nd innings,South Africa,New Zealand,32.5,GC Smith,F du Plessis,KS Williamson,4,0,4,NA,0,NA,NA,NA,1
+567360,2nd innings,South Africa,New Zealand,32.6,GC Smith,F du Plessis,KS Williamson,1,0,1,NA,0,NA,NA,NA,1
+567360,2nd innings,South Africa,New Zealand,33.1,GC Smith,F du Plessis,KD Mills,1,0,1,NA,0,NA,NA,NA,1
+567360,2nd innings,South Africa,New Zealand,33.2,F du Plessis,GC Smith,KD Mills,0,0,0,NA,1,caught,F du Plessis,MJ Guptill,1
+567360,2nd innings,South Africa,New Zealand,33.3,F Behardien,GC Smith,KD Mills,0,0,0,NA,0,NA,NA,NA,1
+567360,2nd innings,South Africa,New Zealand,33.4,F Behardien,GC Smith,KD Mills,1,0,1,NA,0,NA,NA,NA,1
+567360,2nd innings,South Africa,New Zealand,33.5,GC Smith,F Behardien,KD Mills,1,0,1,NA,0,NA,NA,NA,1
+567360,2nd innings,South Africa,New Zealand,33.6,F Behardien,GC Smith,KD Mills,0,0,0,NA,0,NA,NA,NA,1
+567360,2nd innings,South Africa,New Zealand,34.1,GC Smith,F Behardien,KS Williamson,0,0,0,NA,0,NA,NA,NA,1
+567360,2nd innings,South Africa,New Zealand,34.2,GC Smith,F Behardien,KS Williamson,0,0,0,NA,0,NA,NA,NA,1
+567360,2nd innings,South Africa,New Zealand,34.3,GC Smith,F Behardien,KS Williamson,0,0,0,NA,0,NA,NA,NA,1
+567360,2nd innings,South Africa,New Zealand,34.4,GC Smith,F Behardien,KS Williamson,1,0,1,NA,0,NA,NA,NA,1
+567360,2nd innings,South Africa,New Zealand,34.5,F Behardien,GC Smith,KS Williamson,0,0,0,NA,0,NA,NA,NA,1
+567360,2nd innings,South Africa,New Zealand,34.6,F Behardien,GC Smith,KS Williamson,1,0,1,NA,0,NA,NA,NA,1
+567360,2nd innings,South Africa,New Zealand,35.1,F Behardien,GC Smith,KD Mills,1,0,1,NA,0,NA,NA,NA,1
+567360,2nd innings,South Africa,New Zealand,35.2,GC Smith,F Behardien,KD Mills,0,0,0,NA,0,NA,NA,NA,1
+567360,2nd innings,South Africa,New Zealand,35.3,GC Smith,F Behardien,KD Mills,0,0,0,NA,0,NA,NA,NA,1
+567360,2nd innings,South Africa,New Zealand,35.4,GC Smith,F Behardien,KD Mills,0,0,0,NA,0,NA,NA,NA,1
+567360,2nd innings,South Africa,New Zealand,35.5,GC Smith,F Behardien,KD Mills,2,0,2,NA,0,NA,NA,NA,1
+567360,2nd innings,South Africa,New Zealand,35.6,GC Smith,F Behardien,KD Mills,0,0,0,NA,0,NA,NA,NA,1
+567360,2nd innings,South Africa,New Zealand,36.1,F Behardien,GC Smith,KS Williamson,1,0,1,NA,0,NA,NA,NA,1
+567360,2nd innings,South Africa,New Zealand,36.2,GC Smith,F Behardien,KS Williamson,1,0,1,NA,0,NA,NA,NA,1
+567360,2nd innings,South Africa,New Zealand,36.3,F Behardien,GC Smith,KS Williamson,0,0,0,NA,0,NA,NA,NA,1
+567360,2nd innings,South Africa,New Zealand,36.4,F Behardien,GC Smith,KS Williamson,0,0,0,NA,1,caught and bowled,F Behardien,NA,1
+567360,2nd innings,South Africa,New Zealand,36.5,DA Miller,GC Smith,KS Williamson,1,0,1,NA,0,NA,NA,NA,1
+567360,2nd innings,South Africa,New Zealand,36.6,GC Smith,DA Miller,KS Williamson,1,0,1,NA,0,NA,NA,NA,1
+567360,2nd innings,South Africa,New Zealand,37.1,GC Smith,DA Miller,KD Mills,1,0,1,NA,0,NA,NA,NA,1
+567360,2nd innings,South Africa,New Zealand,37.2,DA Miller,GC Smith,KD Mills,0,0,0,NA,0,NA,NA,NA,1
+567360,2nd innings,South Africa,New Zealand,37.3,DA Miller,GC Smith,KD Mills,0,0,0,NA,0,NA,NA,NA,1
+567360,2nd innings,South Africa,New Zealand,37.4,DA Miller,GC Smith,KD Mills,0,0,0,NA,0,NA,NA,NA,1
+567360,2nd innings,South Africa,New Zealand,37.5,DA Miller,GC Smith,KD Mills,2,0,2,NA,0,NA,NA,NA,1
+567360,2nd innings,South Africa,New Zealand,37.6,DA Miller,GC Smith,KD Mills,0,0,0,NA,0,NA,NA,NA,1
+567360,2nd innings,South Africa,New Zealand,38.1,GC Smith,DA Miller,KS Williamson,1,0,1,NA,0,NA,NA,NA,1
+567360,2nd innings,South Africa,New Zealand,38.2,DA Miller,GC Smith,KS Williamson,0,0,0,NA,0,NA,NA,NA,1
+567360,2nd innings,South Africa,New Zealand,38.3,DA Miller,GC Smith,KS Williamson,4,0,4,NA,0,NA,NA,NA,1
+567360,2nd innings,South Africa,New Zealand,38.4,DA Miller,GC Smith,KS Williamson,0,0,0,NA,0,NA,NA,NA,1
+567360,2nd innings,South Africa,New Zealand,38.5,DA Miller,GC Smith,KS Williamson,0,0,0,NA,0,NA,NA,NA,1
+567360,2nd innings,South Africa,New Zealand,38.6,DA Miller,GC Smith,KS Williamson,0,0,0,NA,0,NA,NA,NA,1
+567360,2nd innings,South Africa,New Zealand,39.1,GC Smith,DA Miller,KD Mills,1,0,1,NA,0,NA,NA,NA,1
+567360,2nd innings,South Africa,New Zealand,39.2,DA Miller,GC Smith,KD Mills,0,0,0,NA,0,NA,NA,NA,1
+567360,2nd innings,South Africa,New Zealand,39.3,DA Miller,GC Smith,KD Mills,4,0,4,NA,0,NA,NA,NA,1
+567360,2nd innings,South Africa,New Zealand,39.4,DA Miller,GC Smith,KD Mills,1,0,1,NA,0,NA,NA,NA,1
+567360,2nd innings,South Africa,New Zealand,39.5,GC Smith,DA Miller,KD Mills,1,0,1,NA,0,NA,NA,NA,1
+567360,2nd innings,South Africa,New Zealand,39.6,DA Miller,GC Smith,KD Mills,1,0,1,NA,0,NA,NA,NA,1
+567360,2nd innings,South Africa,New Zealand,40.1,DA Miller,GC Smith,KS Williamson,1,0,1,NA,0,NA,NA,NA,1
+567360,2nd innings,South Africa,New Zealand,40.2,GC Smith,DA Miller,KS Williamson,0,0,0,NA,0,NA,NA,NA,1
+567360,2nd innings,South Africa,New Zealand,40.3,GC Smith,DA Miller,KS Williamson,0,0,0,NA,0,NA,NA,NA,1
+567360,2nd innings,South Africa,New Zealand,40.4,GC Smith,DA Miller,KS Williamson,4,0,4,NA,0,NA,NA,NA,1
+567360,2nd innings,South Africa,New Zealand,40.5,GC Smith,DA Miller,KS Williamson,4,0,4,NA,0,NA,NA,NA,1
+567360,2nd innings,South Africa,New Zealand,40.6,GC Smith,DA Miller,KS Williamson,1,0,1,NA,0,NA,NA,NA,1
+567360,2nd innings,South Africa,New Zealand,41.1,GC Smith,DA Miller,KD Mills,1,0,1,NA,0,NA,NA,NA,1
+567360,2nd innings,South Africa,New Zealand,41.2,DA Miller,GC Smith,KD Mills,0,0,0,NA,0,NA,NA,NA,1
+567360,2nd innings,South Africa,New Zealand,41.3,DA Miller,GC Smith,KD Mills,1,0,1,NA,0,NA,NA,NA,1
+567360,2nd innings,South Africa,New Zealand,41.4,GC Smith,DA Miller,KD Mills,1,0,1,NA,0,NA,NA,NA,1
+567360,2nd innings,South Africa,New Zealand,41.5,DA Miller,GC Smith,KD Mills,0,0,0,NA,1,bowled,DA Miller,NA,1
+567360,2nd innings,South Africa,New Zealand,41.6,R McLaren,GC Smith,KD Mills,0,0,0,NA,0,NA,NA,NA,1
+567360,2nd innings,South Africa,New Zealand,42.1,GC Smith,R McLaren,MJ McClenaghan,0,0,0,NA,0,NA,NA,NA,1
+567360,2nd innings,South Africa,New Zealand,42.2,GC Smith,R McLaren,MJ McClenaghan,1,0,1,NA,0,NA,NA,NA,1
+567360,2nd innings,South Africa,New Zealand,42.3,R McLaren,GC Smith,MJ McClenaghan,0,0,0,NA,0,NA,NA,NA,1
+567360,2nd innings,South Africa,New Zealand,42.4,R McLaren,GC Smith,MJ McClenaghan,4,0,4,NA,0,NA,NA,NA,1
+567360,2nd innings,South Africa,New Zealand,42.5,R McLaren,GC Smith,MJ McClenaghan,0,0,0,NA,0,NA,NA,NA,1
+567360,2nd innings,South Africa,New Zealand,42.6,R McLaren,GC Smith,MJ McClenaghan,0,1,1,wides,0,NA,NA,NA,1
+567360,2nd innings,South Africa,New Zealand,42.7,R McLaren,GC Smith,MJ McClenaghan,1,0,1,NA,0,NA,NA,NA,1
+567360,2nd innings,South Africa,New Zealand,43.1,R McLaren,GC Smith,KS Williamson,1,0,1,NA,0,NA,NA,NA,1
+567360,2nd innings,South Africa,New Zealand,43.2,GC Smith,R McLaren,KS Williamson,1,0,1,NA,0,NA,NA,NA,1
+567360,2nd innings,South Africa,New Zealand,43.3,R McLaren,GC Smith,KS Williamson,0,0,0,NA,0,NA,NA,NA,1
+567360,2nd innings,South Africa,New Zealand,43.4,R McLaren,GC Smith,KS Williamson,0,0,0,NA,0,NA,NA,NA,1
+567360,2nd innings,South Africa,New Zealand,43.5,R McLaren,GC Smith,KS Williamson,1,0,1,NA,0,NA,NA,NA,1
+567360,2nd innings,South Africa,New Zealand,43.6,GC Smith,R McLaren,KS Williamson,1,0,1,NA,0,NA,NA,NA,1
+567360,2nd innings,South Africa,New Zealand,44.1,GC Smith,R McLaren,MJ McClenaghan,4,0,4,NA,0,NA,NA,NA,1
+567360,2nd innings,South Africa,New Zealand,44.2,GC Smith,R McLaren,MJ McClenaghan,1,0,1,NA,0,NA,NA,NA,1
+567360,2nd innings,South Africa,New Zealand,44.3,R McLaren,GC Smith,MJ McClenaghan,2,0,2,NA,0,NA,NA,NA,1
+567360,2nd innings,South Africa,New Zealand,44.4,R McLaren,GC Smith,MJ McClenaghan,0,0,0,NA,0,NA,NA,NA,1
+567360,2nd innings,South Africa,New Zealand,44.5,R McLaren,GC Smith,MJ McClenaghan,1,0,1,NA,0,NA,NA,NA,1
+567360,2nd innings,South Africa,New Zealand,44.6,GC Smith,R McLaren,MJ McClenaghan,4,0,4,NA,0,NA,NA,NA,1
+567360,2nd innings,South Africa,New Zealand,45.1,R McLaren,GC Smith,KS Williamson,0,0,0,NA,0,NA,NA,NA,1
+567360,2nd innings,South Africa,New Zealand,45.2,R McLaren,GC Smith,KS Williamson,0,0,0,NA,0,NA,NA,NA,1
+567360,2nd innings,South Africa,New Zealand,45.3,R McLaren,GC Smith,KS Williamson,1,0,1,NA,0,NA,NA,NA,1
+567360,2nd innings,South Africa,New Zealand,45.4,GC Smith,R McLaren,KS Williamson,0,0,0,NA,1,caught,GC Smith,BJ Watling,1
+567360,2nd innings,South Africa,New Zealand,45.5,R McLaren,RK Kleinveldt,KS Williamson,1,0,1,NA,0,NA,NA,NA,1
+567360,2nd innings,South Africa,New Zealand,45.6,RK Kleinveldt,R McLaren,KS Williamson,1,0,1,NA,0,NA,NA,NA,1
+567360,2nd innings,South Africa,New Zealand,46.1,RK Kleinveldt,R McLaren,MJ McClenaghan,1,0,1,NA,0,NA,NA,NA,1
+567360,2nd innings,South Africa,New Zealand,46.2,R McLaren,RK Kleinveldt,MJ McClenaghan,1,0,1,NA,0,NA,NA,NA,1
+567360,2nd innings,South Africa,New Zealand,46.3,RK Kleinveldt,R McLaren,MJ McClenaghan,0,0,0,NA,0,NA,NA,NA,1
+567360,2nd innings,South Africa,New Zealand,46.4,RK Kleinveldt,R McLaren,MJ McClenaghan,4,0,4,NA,0,NA,NA,NA,1
+567360,2nd innings,South Africa,New Zealand,46.5,RK Kleinveldt,R McLaren,MJ McClenaghan,0,0,0,NA,1,bowled,RK Kleinveldt,NA,1
+567360,2nd innings,South Africa,New Zealand,46.6,AM Phangiso,R McLaren,MJ McClenaghan,0,1,1,wides,0,NA,NA,NA,1
+567360,2nd innings,South Africa,New Zealand,46.7,AM Phangiso,R McLaren,MJ McClenaghan,2,0,2,NA,0,NA,NA,NA,1
+567360,2nd innings,South Africa,New Zealand,47.1,R McLaren,AM Phangiso,JDS Neesham,1,0,1,NA,0,NA,NA,NA,1
+567360,2nd innings,South Africa,New Zealand,47.2,AM Phangiso,R McLaren,JDS Neesham,0,0,0,NA,0,NA,NA,NA,1
+567360,2nd innings,South Africa,New Zealand,47.3,AM Phangiso,R McLaren,JDS Neesham,2,0,2,NA,0,NA,NA,NA,1
+567360,2nd innings,South Africa,New Zealand,47.4,AM Phangiso,R McLaren,JDS Neesham,1,0,1,NA,0,NA,NA,NA,1
+567360,2nd innings,South Africa,New Zealand,47.5,R McLaren,AM Phangiso,JDS Neesham,0,1,1,wides,0,NA,NA,NA,1
+567360,2nd innings,South Africa,New Zealand,47.6,R McLaren,AM Phangiso,JDS Neesham,1,0,1,NA,0,NA,NA,NA,1
+567360,2nd innings,South Africa,New Zealand,47.7,AM Phangiso,R McLaren,JDS Neesham,4,0,4,NA,0,NA,NA,NA,1
+567360,2nd innings,South Africa,New Zealand,48.1,R McLaren,AM Phangiso,MJ McClenaghan,0,0,0,NA,0,NA,NA,NA,1
+567360,2nd innings,South Africa,New Zealand,48.2,R McLaren,AM Phangiso,MJ McClenaghan,1,0,1,NA,0,NA,NA,NA,1
+567360,2nd innings,South Africa,New Zealand,48.3,AM Phangiso,R McLaren,MJ McClenaghan,0,0,0,NA,1,caught,AM Phangiso,BB McCullum,1
+567360,2nd innings,South Africa,New Zealand,48.4,DW Steyn,R McLaren,MJ McClenaghan,0,0,0,NA,0,NA,NA,NA,1
+567360,2nd innings,South Africa,New Zealand,48.5,DW Steyn,R McLaren,MJ McClenaghan,2,0,2,NA,0,NA,NA,NA,1
+567360,2nd innings,South Africa,New Zealand,48.6,DW Steyn,R McLaren,MJ McClenaghan,0,0,0,NA,0,NA,NA,NA,1
+567360,2nd innings,South Africa,New Zealand,49.1,R McLaren,DW Steyn,JEC Franklin,2,0,2,NA,0,NA,NA,NA,1
+567360,2nd innings,South Africa,New Zealand,49.2,R McLaren,DW Steyn,JEC Franklin,1,0,1,NA,0,NA,NA,NA,1
+567360,2nd innings,South Africa,New Zealand,49.3,DW Steyn,R McLaren,JEC Franklin,0,0,0,NA,0,NA,NA,NA,1
+567360,2nd innings,South Africa,New Zealand,49.4,DW Steyn,R McLaren,JEC Franklin,2,0,2,NA,0,NA,NA,NA,1
+567360,2nd innings,South Africa,New Zealand,49.5,DW Steyn,R McLaren,JEC Franklin,0,0,0,NA,1,caught,DW Steyn,GD Elliott,1
+567360,2nd innings,South Africa,New Zealand,49.6,R McLaren,LL Tsotsobe,JEC Franklin,6,0,6,NA,0,NA,NA,NA,1

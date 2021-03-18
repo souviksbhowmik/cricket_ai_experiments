@@ -1,0 +1,614 @@
+match_id,innings,team,opponent,ball,batsman,non_striker,bowler,scored_runs,extras,total,extra_type,wicket,wicket_type,player_out,fielders,winner
+1073403,1st innings,South Africa,Pakistan,0.1,L Lee,L Wolvaardt,Aliya Riaz,0,0,0,NA,0,NA,NA,NA,1
+1073403,1st innings,South Africa,Pakistan,0.2,L Lee,L Wolvaardt,Aliya Riaz,0,0,0,NA,0,NA,NA,NA,1
+1073403,1st innings,South Africa,Pakistan,0.3,L Lee,L Wolvaardt,Aliya Riaz,4,0,4,NA,0,NA,NA,NA,1
+1073403,1st innings,South Africa,Pakistan,0.4,L Lee,L Wolvaardt,Aliya Riaz,0,0,0,NA,0,NA,NA,NA,1
+1073403,1st innings,South Africa,Pakistan,0.5,L Lee,L Wolvaardt,Aliya Riaz,0,0,0,NA,0,NA,NA,NA,1
+1073403,1st innings,South Africa,Pakistan,0.6,L Lee,L Wolvaardt,Aliya Riaz,4,0,4,NA,0,NA,NA,NA,1
+1073403,1st innings,South Africa,Pakistan,1.1,L Wolvaardt,L Lee,Maham Tariq,0,1,1,wides,0,NA,NA,NA,1
+1073403,1st innings,South Africa,Pakistan,1.2,L Wolvaardt,L Lee,Maham Tariq,0,0,0,NA,0,NA,NA,NA,1
+1073403,1st innings,South Africa,Pakistan,1.3,L Wolvaardt,L Lee,Maham Tariq,0,0,0,NA,0,NA,NA,NA,1
+1073403,1st innings,South Africa,Pakistan,1.4,L Wolvaardt,L Lee,Maham Tariq,0,0,0,NA,0,NA,NA,NA,1
+1073403,1st innings,South Africa,Pakistan,1.5,L Wolvaardt,L Lee,Maham Tariq,2,0,2,NA,0,NA,NA,NA,1
+1073403,1st innings,South Africa,Pakistan,1.6,L Wolvaardt,L Lee,Maham Tariq,4,0,4,NA,0,NA,NA,NA,1
+1073403,1st innings,South Africa,Pakistan,1.7,L Wolvaardt,L Lee,Maham Tariq,4,0,4,NA,0,NA,NA,NA,1
+1073403,1st innings,South Africa,Pakistan,2.1,L Lee,L Wolvaardt,Aliya Riaz,0,0,0,NA,0,NA,NA,NA,1
+1073403,1st innings,South Africa,Pakistan,2.2,L Lee,L Wolvaardt,Aliya Riaz,2,0,2,NA,0,NA,NA,NA,1
+1073403,1st innings,South Africa,Pakistan,2.3,L Lee,L Wolvaardt,Aliya Riaz,2,0,2,NA,0,NA,NA,NA,1
+1073403,1st innings,South Africa,Pakistan,2.4,L Lee,L Wolvaardt,Aliya Riaz,0,0,0,NA,0,NA,NA,NA,1
+1073403,1st innings,South Africa,Pakistan,2.5,L Lee,L Wolvaardt,Aliya Riaz,6,0,6,NA,0,NA,NA,NA,1
+1073403,1st innings,South Africa,Pakistan,2.6,L Lee,L Wolvaardt,Aliya Riaz,0,0,0,NA,1,caught,L Lee,Nain Abidi,1
+1073403,1st innings,South Africa,Pakistan,3.1,M du Preez,L Wolvaardt,Maham Tariq,1,0,1,NA,0,NA,NA,NA,1
+1073403,1st innings,South Africa,Pakistan,3.2,L Wolvaardt,M du Preez,Maham Tariq,0,0,0,NA,0,NA,NA,NA,1
+1073403,1st innings,South Africa,Pakistan,3.3,L Wolvaardt,M du Preez,Maham Tariq,2,0,2,NA,0,NA,NA,NA,1
+1073403,1st innings,South Africa,Pakistan,3.4,L Wolvaardt,M du Preez,Maham Tariq,0,0,0,NA,0,NA,NA,NA,1
+1073403,1st innings,South Africa,Pakistan,3.5,L Wolvaardt,M du Preez,Maham Tariq,0,0,0,NA,0,NA,NA,NA,1
+1073403,1st innings,South Africa,Pakistan,3.6,L Wolvaardt,M du Preez,Maham Tariq,0,0,0,NA,0,NA,NA,NA,1
+1073403,1st innings,South Africa,Pakistan,4.1,M du Preez,L Wolvaardt,Aliya Riaz,0,0,0,NA,0,NA,NA,NA,1
+1073403,1st innings,South Africa,Pakistan,4.2,M du Preez,L Wolvaardt,Aliya Riaz,0,0,0,NA,0,NA,NA,NA,1
+1073403,1st innings,South Africa,Pakistan,4.3,M du Preez,L Wolvaardt,Aliya Riaz,0,0,0,NA,0,NA,NA,NA,1
+1073403,1st innings,South Africa,Pakistan,4.4,M du Preez,L Wolvaardt,Aliya Riaz,0,0,0,NA,0,NA,NA,NA,1
+1073403,1st innings,South Africa,Pakistan,4.5,M du Preez,L Wolvaardt,Aliya Riaz,0,0,0,NA,0,NA,NA,NA,1
+1073403,1st innings,South Africa,Pakistan,4.6,M du Preez,L Wolvaardt,Aliya Riaz,0,0,0,NA,0,NA,NA,NA,1
+1073403,1st innings,South Africa,Pakistan,5.1,L Wolvaardt,M du Preez,Maham Tariq,1,0,1,NA,0,NA,NA,NA,1
+1073403,1st innings,South Africa,Pakistan,5.2,M du Preez,L Wolvaardt,Maham Tariq,0,0,0,NA,0,NA,NA,NA,1
+1073403,1st innings,South Africa,Pakistan,5.3,M du Preez,L Wolvaardt,Maham Tariq,0,0,0,NA,0,NA,NA,NA,1
+1073403,1st innings,South Africa,Pakistan,5.4,M du Preez,L Wolvaardt,Maham Tariq,4,0,4,NA,0,NA,NA,NA,1
+1073403,1st innings,South Africa,Pakistan,5.5,M du Preez,L Wolvaardt,Maham Tariq,0,0,0,NA,0,NA,NA,NA,1
+1073403,1st innings,South Africa,Pakistan,5.6,M du Preez,L Wolvaardt,Maham Tariq,1,0,1,NA,0,NA,NA,NA,1
+1073403,1st innings,South Africa,Pakistan,6.1,M du Preez,L Wolvaardt,Aliya Riaz,4,0,4,NA,0,NA,NA,NA,1
+1073403,1st innings,South Africa,Pakistan,6.2,M du Preez,L Wolvaardt,Aliya Riaz,0,0,0,NA,0,NA,NA,NA,1
+1073403,1st innings,South Africa,Pakistan,6.3,M du Preez,L Wolvaardt,Aliya Riaz,0,0,0,NA,0,NA,NA,NA,1
+1073403,1st innings,South Africa,Pakistan,6.4,M du Preez,L Wolvaardt,Aliya Riaz,0,0,0,NA,0,NA,NA,NA,1
+1073403,1st innings,South Africa,Pakistan,6.5,M du Preez,L Wolvaardt,Aliya Riaz,0,0,0,NA,0,NA,NA,NA,1
+1073403,1st innings,South Africa,Pakistan,6.6,M du Preez,L Wolvaardt,Aliya Riaz,0,0,0,NA,0,NA,NA,NA,1
+1073403,1st innings,South Africa,Pakistan,7.1,L Wolvaardt,M du Preez,Sana Mir,0,0,0,NA,0,NA,NA,NA,1
+1073403,1st innings,South Africa,Pakistan,7.2,L Wolvaardt,M du Preez,Sana Mir,0,0,0,NA,0,NA,NA,NA,1
+1073403,1st innings,South Africa,Pakistan,7.3,L Wolvaardt,M du Preez,Sana Mir,0,0,0,NA,0,NA,NA,NA,1
+1073403,1st innings,South Africa,Pakistan,7.4,L Wolvaardt,M du Preez,Sana Mir,0,1,1,byes,0,NA,NA,NA,1
+1073403,1st innings,South Africa,Pakistan,7.5,M du Preez,L Wolvaardt,Sana Mir,0,0,0,NA,0,NA,NA,NA,1
+1073403,1st innings,South Africa,Pakistan,7.6,M du Preez,L Wolvaardt,Sana Mir,0,0,0,NA,0,NA,NA,NA,1
+1073403,1st innings,South Africa,Pakistan,8.1,L Wolvaardt,M du Preez,Aliya Riaz,4,0,4,NA,0,NA,NA,NA,1
+1073403,1st innings,South Africa,Pakistan,8.2,L Wolvaardt,M du Preez,Aliya Riaz,0,0,0,NA,0,NA,NA,NA,1
+1073403,1st innings,South Africa,Pakistan,8.3,L Wolvaardt,M du Preez,Aliya Riaz,0,0,0,NA,0,NA,NA,NA,1
+1073403,1st innings,South Africa,Pakistan,8.4,L Wolvaardt,M du Preez,Aliya Riaz,0,0,0,NA,0,NA,NA,NA,1
+1073403,1st innings,South Africa,Pakistan,8.5,L Wolvaardt,M du Preez,Aliya Riaz,0,0,0,NA,0,NA,NA,NA,1
+1073403,1st innings,South Africa,Pakistan,8.6,L Wolvaardt,M du Preez,Aliya Riaz,0,1,1,noballs,0,NA,NA,NA,1
+1073403,1st innings,South Africa,Pakistan,8.7,L Wolvaardt,M du Preez,Aliya Riaz,0,0,0,NA,0,NA,NA,NA,1
+1073403,1st innings,South Africa,Pakistan,9.1,M du Preez,L Wolvaardt,Sana Mir,0,0,0,NA,0,NA,NA,NA,1
+1073403,1st innings,South Africa,Pakistan,9.2,M du Preez,L Wolvaardt,Sana Mir,1,0,1,NA,0,NA,NA,NA,1
+1073403,1st innings,South Africa,Pakistan,9.3,L Wolvaardt,M du Preez,Sana Mir,0,0,0,NA,0,NA,NA,NA,1
+1073403,1st innings,South Africa,Pakistan,9.4,L Wolvaardt,M du Preez,Sana Mir,0,0,0,NA,0,NA,NA,NA,1
+1073403,1st innings,South Africa,Pakistan,9.5,L Wolvaardt,M du Preez,Sana Mir,0,0,0,NA,0,NA,NA,NA,1
+1073403,1st innings,South Africa,Pakistan,9.6,L Wolvaardt,M du Preez,Sana Mir,0,0,0,NA,0,NA,NA,NA,1
+1073403,1st innings,South Africa,Pakistan,10.1,M du Preez,L Wolvaardt,Nashra Sandhu,1,0,1,NA,0,NA,NA,NA,1
+1073403,1st innings,South Africa,Pakistan,10.2,L Wolvaardt,M du Preez,Nashra Sandhu,0,0,0,NA,0,NA,NA,NA,1
+1073403,1st innings,South Africa,Pakistan,10.3,L Wolvaardt,M du Preez,Nashra Sandhu,0,0,0,NA,0,NA,NA,NA,1
+1073403,1st innings,South Africa,Pakistan,10.4,L Wolvaardt,M du Preez,Nashra Sandhu,0,0,0,NA,0,NA,NA,NA,1
+1073403,1st innings,South Africa,Pakistan,10.5,L Wolvaardt,M du Preez,Nashra Sandhu,0,0,0,NA,0,NA,NA,NA,1
+1073403,1st innings,South Africa,Pakistan,10.6,L Wolvaardt,M du Preez,Nashra Sandhu,0,0,0,NA,0,NA,NA,NA,1
+1073403,1st innings,South Africa,Pakistan,11.1,M du Preez,L Wolvaardt,Sana Mir,0,0,0,NA,0,NA,NA,NA,1
+1073403,1st innings,South Africa,Pakistan,11.2,M du Preez,L Wolvaardt,Sana Mir,0,0,0,NA,0,NA,NA,NA,1
+1073403,1st innings,South Africa,Pakistan,11.3,M du Preez,L Wolvaardt,Sana Mir,2,0,2,NA,0,NA,NA,NA,1
+1073403,1st innings,South Africa,Pakistan,11.4,M du Preez,L Wolvaardt,Sana Mir,1,0,1,NA,0,NA,NA,NA,1
+1073403,1st innings,South Africa,Pakistan,11.5,L Wolvaardt,M du Preez,Sana Mir,1,0,1,NA,0,NA,NA,NA,1
+1073403,1st innings,South Africa,Pakistan,11.6,M du Preez,L Wolvaardt,Sana Mir,1,0,1,NA,0,NA,NA,NA,1
+1073403,1st innings,South Africa,Pakistan,12.1,M du Preez,L Wolvaardt,Nashra Sandhu,4,0,4,NA,0,NA,NA,NA,1
+1073403,1st innings,South Africa,Pakistan,12.2,M du Preez,L Wolvaardt,Nashra Sandhu,0,0,0,NA,0,NA,NA,NA,1
+1073403,1st innings,South Africa,Pakistan,12.3,M du Preez,L Wolvaardt,Nashra Sandhu,0,0,0,NA,0,NA,NA,NA,1
+1073403,1st innings,South Africa,Pakistan,12.4,M du Preez,L Wolvaardt,Nashra Sandhu,1,0,1,NA,0,NA,NA,NA,1
+1073403,1st innings,South Africa,Pakistan,12.5,L Wolvaardt,M du Preez,Nashra Sandhu,1,0,1,NA,0,NA,NA,NA,1
+1073403,1st innings,South Africa,Pakistan,12.6,M du Preez,L Wolvaardt,Nashra Sandhu,0,0,0,NA,0,NA,NA,NA,1
+1073403,1st innings,South Africa,Pakistan,13.1,L Wolvaardt,M du Preez,Ghulam Fatima,1,0,1,NA,0,NA,NA,NA,1
+1073403,1st innings,South Africa,Pakistan,13.2,M du Preez,L Wolvaardt,Ghulam Fatima,1,0,1,NA,0,NA,NA,NA,1
+1073403,1st innings,South Africa,Pakistan,13.3,L Wolvaardt,M du Preez,Ghulam Fatima,0,0,0,NA,1,stumped,L Wolvaardt,Rabiya Shah,1
+1073403,1st innings,South Africa,Pakistan,13.4,T Chetty,M du Preez,Ghulam Fatima,0,0,0,NA,0,NA,NA,NA,1
+1073403,1st innings,South Africa,Pakistan,13.5,T Chetty,M du Preez,Ghulam Fatima,0,0,0,NA,0,NA,NA,NA,1
+1073403,1st innings,South Africa,Pakistan,13.6,T Chetty,M du Preez,Ghulam Fatima,0,0,0,NA,0,NA,NA,NA,1
+1073403,1st innings,South Africa,Pakistan,14.1,M du Preez,T Chetty,Nashra Sandhu,1,0,1,NA,0,NA,NA,NA,1
+1073403,1st innings,South Africa,Pakistan,14.2,T Chetty,M du Preez,Nashra Sandhu,0,0,0,NA,1,bowled,T Chetty,NA,1
+1073403,1st innings,South Africa,Pakistan,14.3,M Kapp,M du Preez,Nashra Sandhu,0,0,0,NA,0,NA,NA,NA,1
+1073403,1st innings,South Africa,Pakistan,14.4,M Kapp,M du Preez,Nashra Sandhu,0,0,0,NA,0,NA,NA,NA,1
+1073403,1st innings,South Africa,Pakistan,14.5,M Kapp,M du Preez,Nashra Sandhu,1,0,1,NA,0,NA,NA,NA,1
+1073403,1st innings,South Africa,Pakistan,14.6,M du Preez,M Kapp,Nashra Sandhu,1,0,1,NA,0,NA,NA,NA,1
+1073403,1st innings,South Africa,Pakistan,15.1,M du Preez,M Kapp,Ghulam Fatima,4,0,4,NA,0,NA,NA,NA,1
+1073403,1st innings,South Africa,Pakistan,15.2,M du Preez,M Kapp,Ghulam Fatima,1,0,1,NA,0,NA,NA,NA,1
+1073403,1st innings,South Africa,Pakistan,15.3,M Kapp,M du Preez,Ghulam Fatima,1,0,1,NA,0,NA,NA,NA,1
+1073403,1st innings,South Africa,Pakistan,15.4,M du Preez,M Kapp,Ghulam Fatima,0,0,0,NA,0,NA,NA,NA,1
+1073403,1st innings,South Africa,Pakistan,15.5,M du Preez,M Kapp,Ghulam Fatima,1,0,1,NA,0,NA,NA,NA,1
+1073403,1st innings,South Africa,Pakistan,15.6,M Kapp,M du Preez,Ghulam Fatima,0,0,0,NA,0,NA,NA,NA,1
+1073403,1st innings,South Africa,Pakistan,16.1,M du Preez,M Kapp,Nashra Sandhu,1,0,1,NA,0,NA,NA,NA,1
+1073403,1st innings,South Africa,Pakistan,16.2,M Kapp,M du Preez,Nashra Sandhu,0,0,0,NA,0,NA,NA,NA,1
+1073403,1st innings,South Africa,Pakistan,16.3,M Kapp,M du Preez,Nashra Sandhu,0,0,0,NA,0,NA,NA,NA,1
+1073403,1st innings,South Africa,Pakistan,16.4,M Kapp,M du Preez,Nashra Sandhu,4,0,4,NA,0,NA,NA,NA,1
+1073403,1st innings,South Africa,Pakistan,16.5,M Kapp,M du Preez,Nashra Sandhu,0,1,1,wides,0,NA,NA,NA,1
+1073403,1st innings,South Africa,Pakistan,16.6,M Kapp,M du Preez,Nashra Sandhu,0,0,0,NA,0,NA,NA,NA,1
+1073403,1st innings,South Africa,Pakistan,16.7,M Kapp,M du Preez,Nashra Sandhu,4,0,4,NA,0,NA,NA,NA,1
+1073403,1st innings,South Africa,Pakistan,17.1,M du Preez,M Kapp,Ghulam Fatima,1,0,1,NA,0,NA,NA,NA,1
+1073403,1st innings,South Africa,Pakistan,17.2,M Kapp,M du Preez,Ghulam Fatima,0,0,0,NA,0,NA,NA,NA,1
+1073403,1st innings,South Africa,Pakistan,17.3,M Kapp,M du Preez,Ghulam Fatima,2,0,2,NA,0,NA,NA,NA,1
+1073403,1st innings,South Africa,Pakistan,17.4,M Kapp,M du Preez,Ghulam Fatima,4,0,4,NA,0,NA,NA,NA,1
+1073403,1st innings,South Africa,Pakistan,17.5,M Kapp,M du Preez,Ghulam Fatima,0,0,0,NA,0,NA,NA,NA,1
+1073403,1st innings,South Africa,Pakistan,17.6,M Kapp,M du Preez,Ghulam Fatima,1,0,1,NA,0,NA,NA,NA,1
+1073403,1st innings,South Africa,Pakistan,18.1,M Kapp,M du Preez,Sana Mir,4,0,4,NA,0,NA,NA,NA,1
+1073403,1st innings,South Africa,Pakistan,18.2,M Kapp,M du Preez,Sana Mir,0,0,0,NA,0,NA,NA,NA,1
+1073403,1st innings,South Africa,Pakistan,18.3,M Kapp,M du Preez,Sana Mir,1,0,1,NA,0,NA,NA,NA,1
+1073403,1st innings,South Africa,Pakistan,18.4,M du Preez,M Kapp,Sana Mir,0,0,0,NA,0,NA,NA,NA,1
+1073403,1st innings,South Africa,Pakistan,18.5,M du Preez,M Kapp,Sana Mir,0,0,0,NA,0,NA,NA,NA,1
+1073403,1st innings,South Africa,Pakistan,18.6,M du Preez,M Kapp,Sana Mir,0,0,0,NA,0,NA,NA,NA,1
+1073403,1st innings,South Africa,Pakistan,19.1,M Kapp,M du Preez,Ghulam Fatima,2,0,2,NA,0,NA,NA,NA,1
+1073403,1st innings,South Africa,Pakistan,19.2,M Kapp,M du Preez,Ghulam Fatima,0,0,0,NA,0,NA,NA,NA,1
+1073403,1st innings,South Africa,Pakistan,19.3,M Kapp,M du Preez,Ghulam Fatima,0,1,1,wides,0,NA,NA,NA,1
+1073403,1st innings,South Africa,Pakistan,19.4,M Kapp,M du Preez,Ghulam Fatima,0,0,0,NA,0,NA,NA,NA,1
+1073403,1st innings,South Africa,Pakistan,19.5,M Kapp,M du Preez,Ghulam Fatima,2,0,2,NA,0,NA,NA,NA,1
+1073403,1st innings,South Africa,Pakistan,19.6,M Kapp,M du Preez,Ghulam Fatima,1,0,1,NA,0,NA,NA,NA,1
+1073403,1st innings,South Africa,Pakistan,19.7,M du Preez,M Kapp,Ghulam Fatima,2,0,2,NA,0,NA,NA,NA,1
+1073403,1st innings,South Africa,Pakistan,20.1,M Kapp,M du Preez,Sana Mir,1,0,1,NA,0,NA,NA,NA,1
+1073403,1st innings,South Africa,Pakistan,20.2,M du Preez,M Kapp,Sana Mir,0,0,0,NA,0,NA,NA,NA,1
+1073403,1st innings,South Africa,Pakistan,20.3,M du Preez,M Kapp,Sana Mir,0,0,0,NA,0,NA,NA,NA,1
+1073403,1st innings,South Africa,Pakistan,20.4,M du Preez,M Kapp,Sana Mir,0,0,0,NA,0,NA,NA,NA,1
+1073403,1st innings,South Africa,Pakistan,20.5,M du Preez,M Kapp,Sana Mir,0,0,0,NA,0,NA,NA,NA,1
+1073403,1st innings,South Africa,Pakistan,20.6,M du Preez,M Kapp,Sana Mir,0,0,0,NA,0,NA,NA,NA,1
+1073403,1st innings,South Africa,Pakistan,21.1,M Kapp,M du Preez,Javeria Khan,0,0,0,NA,0,NA,NA,NA,1
+1073403,1st innings,South Africa,Pakistan,21.2,M Kapp,M du Preez,Javeria Khan,1,0,1,NA,0,NA,NA,NA,1
+1073403,1st innings,South Africa,Pakistan,21.3,M du Preez,M Kapp,Javeria Khan,4,0,4,NA,0,NA,NA,NA,1
+1073403,1st innings,South Africa,Pakistan,21.4,M du Preez,M Kapp,Javeria Khan,1,0,1,NA,0,NA,NA,NA,1
+1073403,1st innings,South Africa,Pakistan,21.5,M Kapp,M du Preez,Javeria Khan,1,0,1,NA,0,NA,NA,NA,1
+1073403,1st innings,South Africa,Pakistan,21.6,M du Preez,M Kapp,Javeria Khan,0,0,0,NA,0,NA,NA,NA,1
+1073403,1st innings,South Africa,Pakistan,22.1,M Kapp,M du Preez,Sana Mir,0,0,0,NA,0,NA,NA,NA,1
+1073403,1st innings,South Africa,Pakistan,22.2,M Kapp,M du Preez,Sana Mir,0,0,0,NA,0,NA,NA,NA,1
+1073403,1st innings,South Africa,Pakistan,22.3,M Kapp,M du Preez,Sana Mir,0,0,0,NA,0,NA,NA,NA,1
+1073403,1st innings,South Africa,Pakistan,22.4,M Kapp,M du Preez,Sana Mir,0,0,0,NA,0,NA,NA,NA,1
+1073403,1st innings,South Africa,Pakistan,22.5,M Kapp,M du Preez,Sana Mir,2,0,2,NA,0,NA,NA,NA,1
+1073403,1st innings,South Africa,Pakistan,22.6,M Kapp,M du Preez,Sana Mir,1,0,1,NA,0,NA,NA,NA,1
+1073403,1st innings,South Africa,Pakistan,23.1,M Kapp,M du Preez,Javeria Khan,1,0,1,NA,0,NA,NA,NA,1
+1073403,1st innings,South Africa,Pakistan,23.2,M du Preez,M Kapp,Javeria Khan,1,0,1,NA,0,NA,NA,NA,1
+1073403,1st innings,South Africa,Pakistan,23.3,M Kapp,M du Preez,Javeria Khan,1,0,1,NA,0,NA,NA,NA,1
+1073403,1st innings,South Africa,Pakistan,23.4,M du Preez,M Kapp,Javeria Khan,0,0,0,NA,1,caught,M du Preez,Sana Mir,1
+1073403,1st innings,South Africa,Pakistan,23.5,CL Tryon,M Kapp,Javeria Khan,2,0,2,NA,0,NA,NA,NA,1
+1073403,1st innings,South Africa,Pakistan,23.6,CL Tryon,M Kapp,Javeria Khan,1,0,1,NA,0,NA,NA,NA,1
+1073403,1st innings,South Africa,Pakistan,24.1,CL Tryon,M Kapp,Aliya Riaz,4,0,4,NA,0,NA,NA,NA,1
+1073403,1st innings,South Africa,Pakistan,24.2,CL Tryon,M Kapp,Aliya Riaz,0,0,0,NA,0,NA,NA,NA,1
+1073403,1st innings,South Africa,Pakistan,24.3,CL Tryon,M Kapp,Aliya Riaz,0,0,0,NA,0,NA,NA,NA,1
+1073403,1st innings,South Africa,Pakistan,24.4,CL Tryon,M Kapp,Aliya Riaz,1,0,1,NA,0,NA,NA,NA,1
+1073403,1st innings,South Africa,Pakistan,24.5,M Kapp,CL Tryon,Aliya Riaz,0,0,0,NA,0,NA,NA,NA,1
+1073403,1st innings,South Africa,Pakistan,24.6,M Kapp,CL Tryon,Aliya Riaz,1,0,1,NA,0,NA,NA,NA,1
+1073403,1st innings,South Africa,Pakistan,25.1,M Kapp,CL Tryon,Javeria Khan,0,0,0,NA,0,NA,NA,NA,1
+1073403,1st innings,South Africa,Pakistan,25.2,M Kapp,CL Tryon,Javeria Khan,0,0,0,NA,0,NA,NA,NA,1
+1073403,1st innings,South Africa,Pakistan,25.3,M Kapp,CL Tryon,Javeria Khan,2,0,2,NA,0,NA,NA,NA,1
+1073403,1st innings,South Africa,Pakistan,25.4,M Kapp,CL Tryon,Javeria Khan,0,0,0,NA,1,bowled,M Kapp,NA,1
+1073403,1st innings,South Africa,Pakistan,25.5,D van Niekerk,CL Tryon,Javeria Khan,0,0,0,NA,0,NA,NA,NA,1
+1073403,1st innings,South Africa,Pakistan,25.6,D van Niekerk,CL Tryon,Javeria Khan,0,0,0,NA,0,NA,NA,NA,1
+1073403,1st innings,South Africa,Pakistan,26.1,CL Tryon,D van Niekerk,Ghulam Fatima,0,0,0,NA,0,NA,NA,NA,1
+1073403,1st innings,South Africa,Pakistan,26.2,CL Tryon,D van Niekerk,Ghulam Fatima,1,0,1,NA,0,NA,NA,NA,1
+1073403,1st innings,South Africa,Pakistan,26.3,D van Niekerk,CL Tryon,Ghulam Fatima,1,0,1,NA,0,NA,NA,NA,1
+1073403,1st innings,South Africa,Pakistan,26.4,CL Tryon,D van Niekerk,Ghulam Fatima,0,0,0,NA,0,NA,NA,NA,1
+1073403,1st innings,South Africa,Pakistan,26.5,CL Tryon,D van Niekerk,Ghulam Fatima,0,0,0,NA,0,NA,NA,NA,1
+1073403,1st innings,South Africa,Pakistan,26.6,CL Tryon,D van Niekerk,Ghulam Fatima,1,0,1,NA,0,NA,NA,NA,1
+1073403,1st innings,South Africa,Pakistan,27.1,CL Tryon,D van Niekerk,Javeria Khan,0,0,0,NA,0,NA,NA,NA,1
+1073403,1st innings,South Africa,Pakistan,27.2,CL Tryon,D van Niekerk,Javeria Khan,4,0,4,NA,0,NA,NA,NA,1
+1073403,1st innings,South Africa,Pakistan,27.3,CL Tryon,D van Niekerk,Javeria Khan,0,0,0,NA,0,NA,NA,NA,1
+1073403,1st innings,South Africa,Pakistan,27.4,CL Tryon,D van Niekerk,Javeria Khan,0,0,0,NA,0,NA,NA,NA,1
+1073403,1st innings,South Africa,Pakistan,27.5,CL Tryon,D van Niekerk,Javeria Khan,0,0,0,NA,0,NA,NA,NA,1
+1073403,1st innings,South Africa,Pakistan,27.6,CL Tryon,D van Niekerk,Javeria Khan,1,0,1,NA,0,NA,NA,NA,1
+1073403,1st innings,South Africa,Pakistan,28.1,CL Tryon,D van Niekerk,Nashra Sandhu,0,0,0,NA,0,NA,NA,NA,1
+1073403,1st innings,South Africa,Pakistan,28.2,CL Tryon,D van Niekerk,Nashra Sandhu,1,0,1,NA,0,NA,NA,NA,1
+1073403,1st innings,South Africa,Pakistan,28.3,D van Niekerk,CL Tryon,Nashra Sandhu,1,0,1,NA,0,NA,NA,NA,1
+1073403,1st innings,South Africa,Pakistan,28.4,CL Tryon,D van Niekerk,Nashra Sandhu,2,0,2,NA,0,NA,NA,NA,1
+1073403,1st innings,South Africa,Pakistan,28.5,CL Tryon,D van Niekerk,Nashra Sandhu,0,0,0,NA,0,NA,NA,NA,1
+1073403,1st innings,South Africa,Pakistan,28.6,CL Tryon,D van Niekerk,Nashra Sandhu,0,0,0,NA,0,NA,NA,NA,1
+1073403,1st innings,South Africa,Pakistan,29.1,D van Niekerk,CL Tryon,Javeria Khan,1,0,1,NA,0,NA,NA,NA,1
+1073403,1st innings,South Africa,Pakistan,29.2,CL Tryon,D van Niekerk,Javeria Khan,0,0,0,NA,0,NA,NA,NA,1
+1073403,1st innings,South Africa,Pakistan,29.3,CL Tryon,D van Niekerk,Javeria Khan,0,0,0,NA,0,NA,NA,NA,1
+1073403,1st innings,South Africa,Pakistan,29.4,CL Tryon,D van Niekerk,Javeria Khan,0,0,0,NA,0,NA,NA,NA,1
+1073403,1st innings,South Africa,Pakistan,29.5,CL Tryon,D van Niekerk,Javeria Khan,0,0,0,NA,0,NA,NA,NA,1
+1073403,1st innings,South Africa,Pakistan,29.6,CL Tryon,D van Niekerk,Javeria Khan,0,0,0,NA,0,NA,NA,NA,1
+1073403,1st innings,South Africa,Pakistan,30.1,D van Niekerk,CL Tryon,Nashra Sandhu,0,0,0,NA,0,NA,NA,NA,1
+1073403,1st innings,South Africa,Pakistan,30.2,D van Niekerk,CL Tryon,Nashra Sandhu,0,0,0,NA,0,NA,NA,NA,1
+1073403,1st innings,South Africa,Pakistan,30.3,D van Niekerk,CL Tryon,Nashra Sandhu,1,0,1,NA,0,NA,NA,NA,1
+1073403,1st innings,South Africa,Pakistan,30.4,CL Tryon,D van Niekerk,Nashra Sandhu,1,0,1,NA,0,NA,NA,NA,1
+1073403,1st innings,South Africa,Pakistan,30.5,D van Niekerk,CL Tryon,Nashra Sandhu,0,0,0,NA,0,NA,NA,NA,1
+1073403,1st innings,South Africa,Pakistan,30.6,D van Niekerk,CL Tryon,Nashra Sandhu,1,0,1,NA,0,NA,NA,NA,1
+1073403,1st innings,South Africa,Pakistan,31.1,D van Niekerk,CL Tryon,Javeria Khan,0,0,0,NA,0,NA,NA,NA,1
+1073403,1st innings,South Africa,Pakistan,31.2,D van Niekerk,CL Tryon,Javeria Khan,1,0,1,NA,0,NA,NA,NA,1
+1073403,1st innings,South Africa,Pakistan,31.3,CL Tryon,D van Niekerk,Javeria Khan,0,0,0,NA,0,NA,NA,NA,1
+1073403,1st innings,South Africa,Pakistan,31.4,CL Tryon,D van Niekerk,Javeria Khan,0,0,0,NA,0,NA,NA,NA,1
+1073403,1st innings,South Africa,Pakistan,31.5,CL Tryon,D van Niekerk,Javeria Khan,1,0,1,NA,0,NA,NA,NA,1
+1073403,1st innings,South Africa,Pakistan,31.6,D van Niekerk,CL Tryon,Javeria Khan,0,0,0,NA,0,NA,NA,NA,1
+1073403,1st innings,South Africa,Pakistan,32.1,CL Tryon,D van Niekerk,Nashra Sandhu,0,0,0,NA,0,NA,NA,NA,1
+1073403,1st innings,South Africa,Pakistan,32.2,CL Tryon,D van Niekerk,Nashra Sandhu,1,0,1,NA,0,NA,NA,NA,1
+1073403,1st innings,South Africa,Pakistan,32.3,D van Niekerk,CL Tryon,Nashra Sandhu,0,0,0,NA,0,NA,NA,NA,1
+1073403,1st innings,South Africa,Pakistan,32.4,D van Niekerk,CL Tryon,Nashra Sandhu,0,0,0,NA,0,NA,NA,NA,1
+1073403,1st innings,South Africa,Pakistan,32.5,D van Niekerk,CL Tryon,Nashra Sandhu,0,0,0,NA,0,NA,NA,NA,1
+1073403,1st innings,South Africa,Pakistan,32.6,D van Niekerk,CL Tryon,Nashra Sandhu,1,0,1,NA,0,NA,NA,NA,1
+1073403,1st innings,South Africa,Pakistan,33.1,D van Niekerk,CL Tryon,Javeria Khan,0,0,0,NA,0,NA,NA,NA,1
+1073403,1st innings,South Africa,Pakistan,33.2,D van Niekerk,CL Tryon,Javeria Khan,0,0,0,NA,0,NA,NA,NA,1
+1073403,1st innings,South Africa,Pakistan,33.3,D van Niekerk,CL Tryon,Javeria Khan,0,0,0,NA,0,NA,NA,NA,1
+1073403,1st innings,South Africa,Pakistan,33.4,D van Niekerk,CL Tryon,Javeria Khan,0,0,0,NA,0,NA,NA,NA,1
+1073403,1st innings,South Africa,Pakistan,33.5,D van Niekerk,CL Tryon,Javeria Khan,4,0,4,NA,0,NA,NA,NA,1
+1073403,1st innings,South Africa,Pakistan,33.6,D van Niekerk,CL Tryon,Javeria Khan,1,0,1,NA,0,NA,NA,NA,1
+1073403,1st innings,South Africa,Pakistan,34.1,D van Niekerk,CL Tryon,Ghulam Fatima,0,0,0,NA,0,NA,NA,NA,1
+1073403,1st innings,South Africa,Pakistan,34.2,D van Niekerk,CL Tryon,Ghulam Fatima,0,0,0,NA,0,NA,NA,NA,1
+1073403,1st innings,South Africa,Pakistan,34.3,D van Niekerk,CL Tryon,Ghulam Fatima,0,0,0,NA,0,NA,NA,NA,1
+1073403,1st innings,South Africa,Pakistan,34.4,D van Niekerk,CL Tryon,Ghulam Fatima,0,0,0,NA,0,NA,NA,NA,1
+1073403,1st innings,South Africa,Pakistan,34.5,D van Niekerk,CL Tryon,Ghulam Fatima,0,0,0,NA,0,NA,NA,NA,1
+1073403,1st innings,South Africa,Pakistan,34.6,D van Niekerk,CL Tryon,Ghulam Fatima,0,0,0,NA,0,NA,NA,NA,1
+1073403,1st innings,South Africa,Pakistan,35.1,CL Tryon,D van Niekerk,Javeria Khan,0,0,0,NA,0,NA,NA,NA,1
+1073403,1st innings,South Africa,Pakistan,35.2,CL Tryon,D van Niekerk,Javeria Khan,1,0,1,NA,0,NA,NA,NA,1
+1073403,1st innings,South Africa,Pakistan,35.3,D van Niekerk,CL Tryon,Javeria Khan,0,0,0,NA,0,NA,NA,NA,1
+1073403,1st innings,South Africa,Pakistan,35.4,D van Niekerk,CL Tryon,Javeria Khan,1,0,1,NA,0,NA,NA,NA,1
+1073403,1st innings,South Africa,Pakistan,35.5,CL Tryon,D van Niekerk,Javeria Khan,1,0,1,NA,0,NA,NA,NA,1
+1073403,1st innings,South Africa,Pakistan,35.6,D van Niekerk,CL Tryon,Javeria Khan,0,0,0,NA,0,NA,NA,NA,1
+1073403,1st innings,South Africa,Pakistan,36.1,CL Tryon,D van Niekerk,Sana Mir,1,0,1,NA,0,NA,NA,NA,1
+1073403,1st innings,South Africa,Pakistan,36.2,D van Niekerk,CL Tryon,Sana Mir,1,0,1,NA,0,NA,NA,NA,1
+1073403,1st innings,South Africa,Pakistan,36.3,CL Tryon,D van Niekerk,Sana Mir,0,0,0,NA,0,NA,NA,NA,1
+1073403,1st innings,South Africa,Pakistan,36.4,CL Tryon,D van Niekerk,Sana Mir,1,0,1,NA,0,NA,NA,NA,1
+1073403,1st innings,South Africa,Pakistan,36.5,D van Niekerk,CL Tryon,Sana Mir,0,0,0,NA,0,NA,NA,NA,1
+1073403,1st innings,South Africa,Pakistan,36.6,D van Niekerk,CL Tryon,Sana Mir,0,0,0,NA,0,NA,NA,NA,1
+1073403,1st innings,South Africa,Pakistan,37.1,CL Tryon,D van Niekerk,Javeria Khan,1,0,1,NA,0,NA,NA,NA,1
+1073403,1st innings,South Africa,Pakistan,37.2,D van Niekerk,CL Tryon,Javeria Khan,0,0,0,NA,0,NA,NA,NA,1
+1073403,1st innings,South Africa,Pakistan,37.3,D van Niekerk,CL Tryon,Javeria Khan,0,0,0,NA,0,NA,NA,NA,1
+1073403,1st innings,South Africa,Pakistan,37.4,D van Niekerk,CL Tryon,Javeria Khan,1,0,1,NA,0,NA,NA,NA,1
+1073403,1st innings,South Africa,Pakistan,37.5,CL Tryon,D van Niekerk,Javeria Khan,4,0,4,NA,0,NA,NA,NA,1
+1073403,1st innings,South Africa,Pakistan,37.6,CL Tryon,D van Niekerk,Javeria Khan,1,0,1,NA,0,NA,NA,NA,1
+1073403,1st innings,South Africa,Pakistan,38.1,CL Tryon,D van Niekerk,Ghulam Fatima,2,0,2,NA,0,NA,NA,NA,1
+1073403,1st innings,South Africa,Pakistan,38.2,CL Tryon,D van Niekerk,Ghulam Fatima,0,1,1,wides,0,NA,NA,NA,1
+1073403,1st innings,South Africa,Pakistan,38.3,CL Tryon,D van Niekerk,Ghulam Fatima,0,0,0,NA,0,NA,NA,NA,1
+1073403,1st innings,South Africa,Pakistan,38.4,CL Tryon,D van Niekerk,Ghulam Fatima,0,0,0,NA,0,NA,NA,NA,1
+1073403,1st innings,South Africa,Pakistan,38.5,CL Tryon,D van Niekerk,Ghulam Fatima,6,0,6,NA,0,NA,NA,NA,1
+1073403,1st innings,South Africa,Pakistan,38.6,CL Tryon,D van Niekerk,Ghulam Fatima,1,0,1,NA,0,NA,NA,NA,1
+1073403,1st innings,South Africa,Pakistan,38.7,D van Niekerk,CL Tryon,Ghulam Fatima,1,0,1,NA,0,NA,NA,NA,1
+1073403,1st innings,South Africa,Pakistan,39.1,D van Niekerk,CL Tryon,Javeria Khan,0,0,0,NA,0,NA,NA,NA,1
+1073403,1st innings,South Africa,Pakistan,39.2,D van Niekerk,CL Tryon,Javeria Khan,0,0,0,NA,0,NA,NA,NA,1
+1073403,1st innings,South Africa,Pakistan,39.3,D van Niekerk,CL Tryon,Javeria Khan,0,1,1,wides,0,NA,NA,NA,1
+1073403,1st innings,South Africa,Pakistan,39.4,D van Niekerk,CL Tryon,Javeria Khan,1,0,1,NA,0,NA,NA,NA,1
+1073403,1st innings,South Africa,Pakistan,39.5,CL Tryon,D van Niekerk,Javeria Khan,4,0,4,NA,0,NA,NA,NA,1
+1073403,1st innings,South Africa,Pakistan,39.6,CL Tryon,D van Niekerk,Javeria Khan,1,0,1,NA,0,NA,NA,NA,1
+1073403,1st innings,South Africa,Pakistan,39.7,D van Niekerk,CL Tryon,Javeria Khan,0,0,0,NA,0,NA,NA,NA,1
+1073403,1st innings,South Africa,Pakistan,40.1,CL Tryon,D van Niekerk,Nashra Sandhu,1,0,1,NA,0,NA,NA,NA,1
+1073403,1st innings,South Africa,Pakistan,40.2,D van Niekerk,CL Tryon,Nashra Sandhu,1,0,1,NA,0,NA,NA,NA,1
+1073403,1st innings,South Africa,Pakistan,40.3,CL Tryon,D van Niekerk,Nashra Sandhu,1,0,1,NA,0,NA,NA,NA,1
+1073403,1st innings,South Africa,Pakistan,40.4,D van Niekerk,CL Tryon,Nashra Sandhu,1,0,1,NA,0,NA,NA,NA,1
+1073403,1st innings,South Africa,Pakistan,40.5,CL Tryon,D van Niekerk,Nashra Sandhu,6,0,6,NA,0,NA,NA,NA,1
+1073403,1st innings,South Africa,Pakistan,40.6,CL Tryon,D van Niekerk,Nashra Sandhu,1,0,1,NA,0,NA,NA,NA,1
+1073403,1st innings,South Africa,Pakistan,41.1,CL Tryon,D van Niekerk,Sana Mir,0,0,0,NA,0,NA,NA,NA,1
+1073403,1st innings,South Africa,Pakistan,41.2,CL Tryon,D van Niekerk,Sana Mir,2,0,2,NA,0,NA,NA,NA,1
+1073403,1st innings,South Africa,Pakistan,41.3,CL Tryon,D van Niekerk,Sana Mir,1,0,1,NA,0,NA,NA,NA,1
+1073403,1st innings,South Africa,Pakistan,41.4,D van Niekerk,CL Tryon,Sana Mir,0,0,0,NA,0,NA,NA,NA,1
+1073403,1st innings,South Africa,Pakistan,41.5,D van Niekerk,CL Tryon,Sana Mir,4,0,4,NA,0,NA,NA,NA,1
+1073403,1st innings,South Africa,Pakistan,41.6,D van Niekerk,CL Tryon,Sana Mir,1,0,1,NA,0,NA,NA,NA,1
+1073403,1st innings,South Africa,Pakistan,42.1,D van Niekerk,CL Tryon,Ghulam Fatima,0,0,0,NA,0,NA,NA,NA,1
+1073403,1st innings,South Africa,Pakistan,42.2,D van Niekerk,CL Tryon,Ghulam Fatima,1,0,1,NA,0,NA,NA,NA,1
+1073403,1st innings,South Africa,Pakistan,42.3,CL Tryon,D van Niekerk,Ghulam Fatima,6,0,6,NA,0,NA,NA,NA,1
+1073403,1st innings,South Africa,Pakistan,42.4,CL Tryon,D van Niekerk,Ghulam Fatima,0,0,0,NA,0,NA,NA,NA,1
+1073403,1st innings,South Africa,Pakistan,42.5,CL Tryon,D van Niekerk,Ghulam Fatima,0,0,0,NA,0,NA,NA,NA,1
+1073403,1st innings,South Africa,Pakistan,42.6,CL Tryon,D van Niekerk,Ghulam Fatima,0,0,0,NA,0,NA,NA,NA,1
+1073403,1st innings,South Africa,Pakistan,43.1,D van Niekerk,CL Tryon,Bismah Maroof,1,0,1,NA,0,NA,NA,NA,1
+1073403,1st innings,South Africa,Pakistan,43.2,CL Tryon,D van Niekerk,Bismah Maroof,1,0,1,NA,0,NA,NA,NA,1
+1073403,1st innings,South Africa,Pakistan,43.3,D van Niekerk,CL Tryon,Bismah Maroof,1,0,1,NA,0,NA,NA,NA,1
+1073403,1st innings,South Africa,Pakistan,43.4,CL Tryon,D van Niekerk,Bismah Maroof,1,0,1,NA,0,NA,NA,NA,1
+1073403,1st innings,South Africa,Pakistan,43.5,D van Niekerk,CL Tryon,Bismah Maroof,0,0,0,NA,0,NA,NA,NA,1
+1073403,1st innings,South Africa,Pakistan,43.6,D van Niekerk,CL Tryon,Bismah Maroof,1,0,1,NA,0,NA,NA,NA,1
+1073403,1st innings,South Africa,Pakistan,44.1,D van Niekerk,CL Tryon,Nashra Sandhu,0,0,0,NA,0,NA,NA,NA,1
+1073403,1st innings,South Africa,Pakistan,44.2,D van Niekerk,CL Tryon,Nashra Sandhu,2,0,2,NA,0,NA,NA,NA,1
+1073403,1st innings,South Africa,Pakistan,44.3,D van Niekerk,CL Tryon,Nashra Sandhu,0,0,0,NA,1,caught,D van Niekerk,Nahida Khan,1
+1073403,1st innings,South Africa,Pakistan,44.4,CL Tryon,S Luus,Nashra Sandhu,2,0,2,NA,0,NA,NA,NA,1
+1073403,1st innings,South Africa,Pakistan,44.5,CL Tryon,S Luus,Nashra Sandhu,1,0,1,NA,0,NA,NA,NA,1
+1073403,1st innings,South Africa,Pakistan,44.6,S Luus,CL Tryon,Nashra Sandhu,1,0,1,NA,0,NA,NA,NA,1
+1073403,1st innings,South Africa,Pakistan,45.1,S Luus,CL Tryon,Bismah Maroof,0,1,1,wides,0,NA,NA,NA,1
+1073403,1st innings,South Africa,Pakistan,45.2,S Luus,CL Tryon,Bismah Maroof,1,0,1,NA,0,NA,NA,NA,1
+1073403,1st innings,South Africa,Pakistan,45.3,CL Tryon,S Luus,Bismah Maroof,0,0,0,NA,0,NA,NA,NA,1
+1073403,1st innings,South Africa,Pakistan,45.4,CL Tryon,S Luus,Bismah Maroof,4,0,4,NA,0,NA,NA,NA,1
+1073403,1st innings,South Africa,Pakistan,45.5,CL Tryon,S Luus,Bismah Maroof,6,0,6,NA,0,NA,NA,NA,1
+1073403,1st innings,South Africa,Pakistan,45.6,CL Tryon,S Luus,Bismah Maroof,1,0,1,NA,0,NA,NA,NA,1
+1073403,1st innings,South Africa,Pakistan,45.7,S Luus,CL Tryon,Bismah Maroof,1,0,1,NA,0,NA,NA,NA,1
+1073403,1st innings,South Africa,Pakistan,46.1,S Luus,CL Tryon,Nashra Sandhu,0,0,0,NA,0,NA,NA,NA,1
+1073403,1st innings,South Africa,Pakistan,46.2,S Luus,CL Tryon,Nashra Sandhu,1,0,1,NA,0,NA,NA,NA,1
+1073403,1st innings,South Africa,Pakistan,46.3,CL Tryon,S Luus,Nashra Sandhu,0,0,0,NA,1,caught,CL Tryon,Nahida Khan,1
+1073403,1st innings,South Africa,Pakistan,46.4,S Luus,S Ismail,Nashra Sandhu,0,0,0,NA,0,NA,NA,NA,1
+1073403,1st innings,South Africa,Pakistan,46.5,S Luus,S Ismail,Nashra Sandhu,0,1,1,wides,0,NA,NA,NA,1
+1073403,1st innings,South Africa,Pakistan,46.6,S Luus,S Ismail,Nashra Sandhu,2,0,2,NA,0,NA,NA,NA,1
+1073403,1st innings,South Africa,Pakistan,46.7,S Luus,S Ismail,Nashra Sandhu,1,0,1,NA,0,NA,NA,NA,1
+1073403,1st innings,South Africa,Pakistan,47.1,S Luus,S Ismail,Sana Mir,1,0,1,NA,0,NA,NA,NA,1
+1073403,1st innings,South Africa,Pakistan,47.2,S Ismail,S Luus,Sana Mir,1,0,1,NA,0,NA,NA,NA,1
+1073403,1st innings,South Africa,Pakistan,47.3,S Luus,S Ismail,Sana Mir,1,0,1,NA,0,NA,NA,NA,1
+1073403,1st innings,South Africa,Pakistan,47.4,S Ismail,S Luus,Sana Mir,1,0,1,NA,0,NA,NA,NA,1
+1073403,1st innings,South Africa,Pakistan,47.5,S Luus,S Ismail,Sana Mir,1,0,1,NA,0,NA,NA,NA,1
+1073403,1st innings,South Africa,Pakistan,47.6,S Ismail,S Luus,Sana Mir,1,0,1,NA,0,NA,NA,NA,1
+1073403,1st innings,South Africa,Pakistan,48.1,S Ismail,S Luus,Ghulam Fatima,0,0,0,NA,0,NA,NA,NA,1
+1073403,1st innings,South Africa,Pakistan,48.2,S Ismail,S Luus,Ghulam Fatima,2,0,2,NA,0,NA,NA,NA,1
+1073403,1st innings,South Africa,Pakistan,48.3,S Ismail,S Luus,Ghulam Fatima,2,0,2,NA,0,NA,NA,NA,1
+1073403,1st innings,South Africa,Pakistan,48.4,S Ismail,S Luus,Ghulam Fatima,2,0,2,NA,0,NA,NA,NA,1
+1073403,1st innings,South Africa,Pakistan,48.5,S Ismail,S Luus,Ghulam Fatima,1,0,1,NA,0,NA,NA,NA,1
+1073403,1st innings,South Africa,Pakistan,48.6,S Luus,S Ismail,Ghulam Fatima,0,0,0,NA,0,NA,NA,NA,1
+1073403,1st innings,South Africa,Pakistan,49.1,S Ismail,S Luus,Sana Mir,0,0,0,NA,0,NA,NA,NA,1
+1073403,1st innings,South Africa,Pakistan,49.2,S Ismail,S Luus,Sana Mir,1,0,1,NA,0,NA,NA,NA,1
+1073403,1st innings,South Africa,Pakistan,49.3,S Luus,S Ismail,Sana Mir,0,0,0,NA,1,run out,S Ismail,Sana Mir,1
+1073403,1st innings,South Africa,Pakistan,49.4,S Luus,A Khaka,Sana Mir,1,0,1,NA,0,NA,NA,NA,1
+1073403,1st innings,South Africa,Pakistan,49.5,A Khaka,S Luus,Sana Mir,1,0,1,NA,0,NA,NA,NA,1
+1073403,1st innings,South Africa,Pakistan,49.6,S Luus,A Khaka,Sana Mir,1,0,1,NA,1,run out,A Khaka,Sana Mir,1
+1073403,2nd innings,Pakistan,South Africa,0.1,Ayesha Zafar,Nahida Khan,S Ismail,0,0,0,NA,0,NA,NA,NA,0
+1073403,2nd innings,Pakistan,South Africa,0.2,Ayesha Zafar,Nahida Khan,S Ismail,0,0,0,NA,0,NA,NA,NA,0
+1073403,2nd innings,Pakistan,South Africa,0.3,Ayesha Zafar,Nahida Khan,S Ismail,1,0,1,NA,0,NA,NA,NA,0
+1073403,2nd innings,Pakistan,South Africa,0.4,Nahida Khan,Ayesha Zafar,S Ismail,0,0,0,NA,0,NA,NA,NA,0
+1073403,2nd innings,Pakistan,South Africa,0.5,Nahida Khan,Ayesha Zafar,S Ismail,0,0,0,NA,0,NA,NA,NA,0
+1073403,2nd innings,Pakistan,South Africa,0.6,Nahida Khan,Ayesha Zafar,S Ismail,0,0,0,NA,0,NA,NA,NA,0
+1073403,2nd innings,Pakistan,South Africa,1.1,Ayesha Zafar,Nahida Khan,M Kapp,0,0,0,NA,0,NA,NA,NA,0
+1073403,2nd innings,Pakistan,South Africa,1.2,Ayesha Zafar,Nahida Khan,M Kapp,0,0,0,NA,0,NA,NA,NA,0
+1073403,2nd innings,Pakistan,South Africa,1.3,Ayesha Zafar,Nahida Khan,M Kapp,1,0,1,NA,0,NA,NA,NA,0
+1073403,2nd innings,Pakistan,South Africa,1.4,Nahida Khan,Ayesha Zafar,M Kapp,0,0,0,NA,0,NA,NA,NA,0
+1073403,2nd innings,Pakistan,South Africa,1.5,Nahida Khan,Ayesha Zafar,M Kapp,0,0,0,NA,0,NA,NA,NA,0
+1073403,2nd innings,Pakistan,South Africa,1.6,Nahida Khan,Ayesha Zafar,M Kapp,1,0,1,NA,0,NA,NA,NA,0
+1073403,2nd innings,Pakistan,South Africa,2.1,Nahida Khan,Ayesha Zafar,S Ismail,1,0,1,NA,0,NA,NA,NA,0
+1073403,2nd innings,Pakistan,South Africa,2.2,Ayesha Zafar,Nahida Khan,S Ismail,0,0,0,NA,0,NA,NA,NA,0
+1073403,2nd innings,Pakistan,South Africa,2.3,Ayesha Zafar,Nahida Khan,S Ismail,1,0,1,NA,0,NA,NA,NA,0
+1073403,2nd innings,Pakistan,South Africa,2.4,Nahida Khan,Ayesha Zafar,S Ismail,0,0,0,NA,0,NA,NA,NA,0
+1073403,2nd innings,Pakistan,South Africa,2.5,Nahida Khan,Ayesha Zafar,S Ismail,0,0,0,NA,0,NA,NA,NA,0
+1073403,2nd innings,Pakistan,South Africa,2.6,Nahida Khan,Ayesha Zafar,S Ismail,0,0,0,NA,0,NA,NA,NA,0
+1073403,2nd innings,Pakistan,South Africa,3.1,Ayesha Zafar,Nahida Khan,M Kapp,1,0,1,NA,0,NA,NA,NA,0
+1073403,2nd innings,Pakistan,South Africa,3.2,Nahida Khan,Ayesha Zafar,M Kapp,0,0,0,NA,0,NA,NA,NA,0
+1073403,2nd innings,Pakistan,South Africa,3.3,Nahida Khan,Ayesha Zafar,M Kapp,4,0,4,NA,0,NA,NA,NA,0
+1073403,2nd innings,Pakistan,South Africa,3.4,Nahida Khan,Ayesha Zafar,M Kapp,0,0,0,NA,0,NA,NA,NA,0
+1073403,2nd innings,Pakistan,South Africa,3.5,Nahida Khan,Ayesha Zafar,M Kapp,0,0,0,NA,0,NA,NA,NA,0
+1073403,2nd innings,Pakistan,South Africa,3.6,Nahida Khan,Ayesha Zafar,M Kapp,0,0,0,NA,0,NA,NA,NA,0
+1073403,2nd innings,Pakistan,South Africa,4.1,Ayesha Zafar,Nahida Khan,S Ismail,0,0,0,NA,0,NA,NA,NA,0
+1073403,2nd innings,Pakistan,South Africa,4.2,Ayesha Zafar,Nahida Khan,S Ismail,4,0,4,NA,0,NA,NA,NA,0
+1073403,2nd innings,Pakistan,South Africa,4.3,Ayesha Zafar,Nahida Khan,S Ismail,0,0,0,NA,0,NA,NA,NA,0
+1073403,2nd innings,Pakistan,South Africa,4.4,Ayesha Zafar,Nahida Khan,S Ismail,0,0,0,NA,0,NA,NA,NA,0
+1073403,2nd innings,Pakistan,South Africa,4.5,Ayesha Zafar,Nahida Khan,S Ismail,4,0,4,NA,0,NA,NA,NA,0
+1073403,2nd innings,Pakistan,South Africa,4.6,Ayesha Zafar,Nahida Khan,S Ismail,0,0,0,NA,0,NA,NA,NA,0
+1073403,2nd innings,Pakistan,South Africa,5.1,Nahida Khan,Ayesha Zafar,M Kapp,0,0,0,NA,0,NA,NA,NA,0
+1073403,2nd innings,Pakistan,South Africa,5.2,Nahida Khan,Ayesha Zafar,M Kapp,0,0,0,NA,0,NA,NA,NA,0
+1073403,2nd innings,Pakistan,South Africa,5.3,Nahida Khan,Ayesha Zafar,M Kapp,0,0,0,NA,0,NA,NA,NA,0
+1073403,2nd innings,Pakistan,South Africa,5.4,Nahida Khan,Ayesha Zafar,M Kapp,0,0,0,NA,0,NA,NA,NA,0
+1073403,2nd innings,Pakistan,South Africa,5.5,Nahida Khan,Ayesha Zafar,M Kapp,0,0,0,NA,0,NA,NA,NA,0
+1073403,2nd innings,Pakistan,South Africa,5.6,Nahida Khan,Ayesha Zafar,M Kapp,0,0,0,NA,0,NA,NA,NA,0
+1073403,2nd innings,Pakistan,South Africa,6.1,Ayesha Zafar,Nahida Khan,S Ismail,1,0,1,NA,0,NA,NA,NA,0
+1073403,2nd innings,Pakistan,South Africa,6.2,Nahida Khan,Ayesha Zafar,S Ismail,0,0,0,NA,0,NA,NA,NA,0
+1073403,2nd innings,Pakistan,South Africa,6.3,Nahida Khan,Ayesha Zafar,S Ismail,1,0,1,NA,0,NA,NA,NA,0
+1073403,2nd innings,Pakistan,South Africa,6.4,Ayesha Zafar,Nahida Khan,S Ismail,4,0,4,NA,0,NA,NA,NA,0
+1073403,2nd innings,Pakistan,South Africa,6.5,Ayesha Zafar,Nahida Khan,S Ismail,1,0,1,NA,0,NA,NA,NA,0
+1073403,2nd innings,Pakistan,South Africa,6.6,Nahida Khan,Ayesha Zafar,S Ismail,0,0,0,NA,0,NA,NA,NA,0
+1073403,2nd innings,Pakistan,South Africa,7.1,Ayesha Zafar,Nahida Khan,M Kapp,0,0,0,NA,0,NA,NA,NA,0
+1073403,2nd innings,Pakistan,South Africa,7.2,Ayesha Zafar,Nahida Khan,M Kapp,0,0,0,NA,0,NA,NA,NA,0
+1073403,2nd innings,Pakistan,South Africa,7.3,Ayesha Zafar,Nahida Khan,M Kapp,0,0,0,NA,0,NA,NA,NA,0
+1073403,2nd innings,Pakistan,South Africa,7.4,Ayesha Zafar,Nahida Khan,M Kapp,1,0,1,NA,0,NA,NA,NA,0
+1073403,2nd innings,Pakistan,South Africa,7.5,Nahida Khan,Ayesha Zafar,M Kapp,0,0,0,NA,0,NA,NA,NA,0
+1073403,2nd innings,Pakistan,South Africa,7.6,Nahida Khan,Ayesha Zafar,M Kapp,0,0,0,NA,0,NA,NA,NA,0
+1073403,2nd innings,Pakistan,South Africa,8.1,Ayesha Zafar,Nahida Khan,A Khaka,0,0,0,NA,1,caught,Ayesha Zafar,T Chetty,0
+1073403,2nd innings,Pakistan,South Africa,8.2,Javeria Khan,Nahida Khan,A Khaka,0,0,0,NA,0,NA,NA,NA,0
+1073403,2nd innings,Pakistan,South Africa,8.3,Javeria Khan,Nahida Khan,A Khaka,0,1,1,wides,0,NA,NA,NA,0
+1073403,2nd innings,Pakistan,South Africa,8.4,Javeria Khan,Nahida Khan,A Khaka,0,0,0,NA,0,NA,NA,NA,0
+1073403,2nd innings,Pakistan,South Africa,8.5,Javeria Khan,Nahida Khan,A Khaka,4,0,4,NA,0,NA,NA,NA,0
+1073403,2nd innings,Pakistan,South Africa,8.6,Javeria Khan,Nahida Khan,A Khaka,0,0,0,NA,0,NA,NA,NA,0
+1073403,2nd innings,Pakistan,South Africa,8.7,Javeria Khan,Nahida Khan,A Khaka,0,0,0,NA,0,NA,NA,NA,0
+1073403,2nd innings,Pakistan,South Africa,9.1,Nahida Khan,Javeria Khan,MM Letsoalo,0,0,0,NA,0,NA,NA,NA,0
+1073403,2nd innings,Pakistan,South Africa,9.2,Nahida Khan,Javeria Khan,MM Letsoalo,1,0,1,NA,0,NA,NA,NA,0
+1073403,2nd innings,Pakistan,South Africa,9.3,Javeria Khan,Nahida Khan,MM Letsoalo,0,0,0,NA,0,NA,NA,NA,0
+1073403,2nd innings,Pakistan,South Africa,9.4,Javeria Khan,Nahida Khan,MM Letsoalo,0,0,0,NA,0,NA,NA,NA,0
+1073403,2nd innings,Pakistan,South Africa,9.5,Javeria Khan,Nahida Khan,MM Letsoalo,0,0,0,NA,0,NA,NA,NA,0
+1073403,2nd innings,Pakistan,South Africa,9.6,Javeria Khan,Nahida Khan,MM Letsoalo,0,0,0,NA,0,NA,NA,NA,0
+1073403,2nd innings,Pakistan,South Africa,10.1,Nahida Khan,Javeria Khan,A Khaka,0,0,0,NA,0,NA,NA,NA,0
+1073403,2nd innings,Pakistan,South Africa,10.2,Nahida Khan,Javeria Khan,A Khaka,0,0,0,NA,0,NA,NA,NA,0
+1073403,2nd innings,Pakistan,South Africa,10.3,Nahida Khan,Javeria Khan,A Khaka,0,0,0,NA,0,NA,NA,NA,0
+1073403,2nd innings,Pakistan,South Africa,10.4,Nahida Khan,Javeria Khan,A Khaka,4,0,4,NA,0,NA,NA,NA,0
+1073403,2nd innings,Pakistan,South Africa,10.5,Nahida Khan,Javeria Khan,A Khaka,0,0,0,NA,0,NA,NA,NA,0
+1073403,2nd innings,Pakistan,South Africa,10.6,Nahida Khan,Javeria Khan,A Khaka,0,0,0,NA,0,NA,NA,NA,0
+1073403,2nd innings,Pakistan,South Africa,11.1,Javeria Khan,Nahida Khan,MM Letsoalo,0,0,0,NA,0,NA,NA,NA,0
+1073403,2nd innings,Pakistan,South Africa,11.2,Javeria Khan,Nahida Khan,MM Letsoalo,1,0,1,NA,0,NA,NA,NA,0
+1073403,2nd innings,Pakistan,South Africa,11.3,Nahida Khan,Javeria Khan,MM Letsoalo,1,0,1,NA,0,NA,NA,NA,0
+1073403,2nd innings,Pakistan,South Africa,11.4,Javeria Khan,Nahida Khan,MM Letsoalo,0,0,0,NA,0,NA,NA,NA,0
+1073403,2nd innings,Pakistan,South Africa,11.5,Javeria Khan,Nahida Khan,MM Letsoalo,1,0,1,NA,0,NA,NA,NA,0
+1073403,2nd innings,Pakistan,South Africa,11.6,Nahida Khan,Javeria Khan,MM Letsoalo,0,1,1,wides,0,NA,NA,NA,0
+1073403,2nd innings,Pakistan,South Africa,11.7,Nahida Khan,Javeria Khan,MM Letsoalo,0,0,0,NA,0,NA,NA,NA,0
+1073403,2nd innings,Pakistan,South Africa,12.1,Javeria Khan,Nahida Khan,A Khaka,1,0,1,NA,0,NA,NA,NA,0
+1073403,2nd innings,Pakistan,South Africa,12.2,Nahida Khan,Javeria Khan,A Khaka,0,0,0,NA,0,NA,NA,NA,0
+1073403,2nd innings,Pakistan,South Africa,12.3,Nahida Khan,Javeria Khan,A Khaka,0,0,0,NA,0,NA,NA,NA,0
+1073403,2nd innings,Pakistan,South Africa,12.4,Nahida Khan,Javeria Khan,A Khaka,0,0,0,NA,0,NA,NA,NA,0
+1073403,2nd innings,Pakistan,South Africa,12.5,Nahida Khan,Javeria Khan,A Khaka,0,0,0,NA,0,NA,NA,NA,0
+1073403,2nd innings,Pakistan,South Africa,12.6,Nahida Khan,Javeria Khan,A Khaka,0,0,0,NA,0,NA,NA,NA,0
+1073403,2nd innings,Pakistan,South Africa,13.1,Javeria Khan,Nahida Khan,MM Letsoalo,0,0,0,NA,0,NA,NA,NA,0
+1073403,2nd innings,Pakistan,South Africa,13.2,Javeria Khan,Nahida Khan,MM Letsoalo,1,0,1,NA,0,NA,NA,NA,0
+1073403,2nd innings,Pakistan,South Africa,13.3,Nahida Khan,Javeria Khan,MM Letsoalo,0,0,0,NA,0,NA,NA,NA,0
+1073403,2nd innings,Pakistan,South Africa,13.4,Nahida Khan,Javeria Khan,MM Letsoalo,0,0,0,NA,0,NA,NA,NA,0
+1073403,2nd innings,Pakistan,South Africa,13.5,Nahida Khan,Javeria Khan,MM Letsoalo,1,0,1,NA,0,NA,NA,NA,0
+1073403,2nd innings,Pakistan,South Africa,13.6,Javeria Khan,Nahida Khan,MM Letsoalo,0,0,0,NA,0,NA,NA,NA,0
+1073403,2nd innings,Pakistan,South Africa,14.1,Nahida Khan,Javeria Khan,A Khaka,0,0,0,NA,0,NA,NA,NA,0
+1073403,2nd innings,Pakistan,South Africa,14.2,Nahida Khan,Javeria Khan,A Khaka,2,0,2,NA,0,NA,NA,NA,0
+1073403,2nd innings,Pakistan,South Africa,14.3,Nahida Khan,Javeria Khan,A Khaka,0,0,0,NA,0,NA,NA,NA,0
+1073403,2nd innings,Pakistan,South Africa,14.4,Nahida Khan,Javeria Khan,A Khaka,0,0,0,NA,0,NA,NA,NA,0
+1073403,2nd innings,Pakistan,South Africa,14.5,Nahida Khan,Javeria Khan,A Khaka,4,0,4,NA,0,NA,NA,NA,0
+1073403,2nd innings,Pakistan,South Africa,14.6,Nahida Khan,Javeria Khan,A Khaka,1,0,1,NA,0,NA,NA,NA,0
+1073403,2nd innings,Pakistan,South Africa,15.1,Nahida Khan,Javeria Khan,MM Letsoalo,0,0,0,NA,0,NA,NA,NA,0
+1073403,2nd innings,Pakistan,South Africa,15.2,Nahida Khan,Javeria Khan,MM Letsoalo,0,0,0,NA,0,NA,NA,NA,0
+1073403,2nd innings,Pakistan,South Africa,15.3,Nahida Khan,Javeria Khan,MM Letsoalo,2,0,2,NA,0,NA,NA,NA,0
+1073403,2nd innings,Pakistan,South Africa,15.4,Nahida Khan,Javeria Khan,MM Letsoalo,4,0,4,NA,0,NA,NA,NA,0
+1073403,2nd innings,Pakistan,South Africa,15.5,Nahida Khan,Javeria Khan,MM Letsoalo,0,0,0,NA,0,NA,NA,NA,0
+1073403,2nd innings,Pakistan,South Africa,15.6,Nahida Khan,Javeria Khan,MM Letsoalo,2,0,2,NA,0,NA,NA,NA,0
+1073403,2nd innings,Pakistan,South Africa,16.1,Javeria Khan,Nahida Khan,D van Niekerk,0,0,0,NA,0,NA,NA,NA,0
+1073403,2nd innings,Pakistan,South Africa,16.2,Javeria Khan,Nahida Khan,D van Niekerk,0,0,0,NA,1,caught,Javeria Khan,S Ismail,0
+1073403,2nd innings,Pakistan,South Africa,16.3,Bismah Maroof,Nahida Khan,D van Niekerk,0,1,1,wides,0,NA,NA,NA,0
+1073403,2nd innings,Pakistan,South Africa,16.4,Bismah Maroof,Nahida Khan,D van Niekerk,1,0,1,NA,0,NA,NA,NA,0
+1073403,2nd innings,Pakistan,South Africa,16.5,Nahida Khan,Bismah Maroof,D van Niekerk,6,0,6,NA,0,NA,NA,NA,0
+1073403,2nd innings,Pakistan,South Africa,16.6,Nahida Khan,Bismah Maroof,D van Niekerk,0,0,0,NA,1,lbw,Nahida Khan,NA,0
+1073403,2nd innings,Pakistan,South Africa,16.7,Nain Abidi,Bismah Maroof,D van Niekerk,0,0,0,NA,0,NA,NA,NA,0
+1073403,2nd innings,Pakistan,South Africa,17.1,Bismah Maroof,Nain Abidi,S Luus,0,0,0,NA,0,NA,NA,NA,0
+1073403,2nd innings,Pakistan,South Africa,17.2,Bismah Maroof,Nain Abidi,S Luus,0,0,0,NA,0,NA,NA,NA,0
+1073403,2nd innings,Pakistan,South Africa,17.3,Bismah Maroof,Nain Abidi,S Luus,1,0,1,NA,0,NA,NA,NA,0
+1073403,2nd innings,Pakistan,South Africa,17.4,Nain Abidi,Bismah Maroof,S Luus,0,0,0,NA,0,NA,NA,NA,0
+1073403,2nd innings,Pakistan,South Africa,17.5,Nain Abidi,Bismah Maroof,S Luus,0,0,0,NA,0,NA,NA,NA,0
+1073403,2nd innings,Pakistan,South Africa,17.6,Nain Abidi,Bismah Maroof,S Luus,0,0,0,NA,0,NA,NA,NA,0
+1073403,2nd innings,Pakistan,South Africa,18.1,Bismah Maroof,Nain Abidi,D van Niekerk,0,0,0,NA,0,NA,NA,NA,0
+1073403,2nd innings,Pakistan,South Africa,18.2,Bismah Maroof,Nain Abidi,D van Niekerk,0,1,1,legbyes,0,NA,NA,NA,0
+1073403,2nd innings,Pakistan,South Africa,18.3,Nain Abidi,Bismah Maroof,D van Niekerk,1,0,1,NA,0,NA,NA,NA,0
+1073403,2nd innings,Pakistan,South Africa,18.4,Bismah Maroof,Nain Abidi,D van Niekerk,1,0,1,NA,0,NA,NA,NA,0
+1073403,2nd innings,Pakistan,South Africa,18.5,Nain Abidi,Bismah Maroof,D van Niekerk,0,0,0,NA,0,NA,NA,NA,0
+1073403,2nd innings,Pakistan,South Africa,18.6,Nain Abidi,Bismah Maroof,D van Niekerk,1,0,1,NA,0,NA,NA,NA,0
+1073403,2nd innings,Pakistan,South Africa,19.1,Nain Abidi,Bismah Maroof,S Luus,1,0,1,NA,0,NA,NA,NA,0
+1073403,2nd innings,Pakistan,South Africa,19.2,Bismah Maroof,Nain Abidi,S Luus,0,0,0,NA,0,NA,NA,NA,0
+1073403,2nd innings,Pakistan,South Africa,19.3,Bismah Maroof,Nain Abidi,S Luus,0,0,0,NA,0,NA,NA,NA,0
+1073403,2nd innings,Pakistan,South Africa,19.4,Bismah Maroof,Nain Abidi,S Luus,1,0,1,NA,0,NA,NA,NA,0
+1073403,2nd innings,Pakistan,South Africa,19.5,Nain Abidi,Bismah Maroof,S Luus,4,0,4,NA,0,NA,NA,NA,0
+1073403,2nd innings,Pakistan,South Africa,19.6,Nain Abidi,Bismah Maroof,S Luus,1,0,1,NA,0,NA,NA,NA,0
+1073403,2nd innings,Pakistan,South Africa,20.1,Nain Abidi,Bismah Maroof,D van Niekerk,0,0,0,NA,0,NA,NA,NA,0
+1073403,2nd innings,Pakistan,South Africa,20.2,Nain Abidi,Bismah Maroof,D van Niekerk,0,0,0,NA,0,NA,NA,NA,0
+1073403,2nd innings,Pakistan,South Africa,20.3,Nain Abidi,Bismah Maroof,D van Niekerk,0,0,0,NA,0,NA,NA,NA,0
+1073403,2nd innings,Pakistan,South Africa,20.4,Nain Abidi,Bismah Maroof,D van Niekerk,0,0,0,NA,0,NA,NA,NA,0
+1073403,2nd innings,Pakistan,South Africa,20.5,Nain Abidi,Bismah Maroof,D van Niekerk,0,0,0,NA,0,NA,NA,NA,0
+1073403,2nd innings,Pakistan,South Africa,20.6,Nain Abidi,Bismah Maroof,D van Niekerk,1,0,1,NA,0,NA,NA,NA,0
+1073403,2nd innings,Pakistan,South Africa,21.1,Nain Abidi,Bismah Maroof,S Luus,0,0,0,NA,0,NA,NA,NA,0
+1073403,2nd innings,Pakistan,South Africa,21.2,Nain Abidi,Bismah Maroof,S Luus,4,0,4,NA,0,NA,NA,NA,0
+1073403,2nd innings,Pakistan,South Africa,21.3,Nain Abidi,Bismah Maroof,S Luus,0,0,0,NA,1,run out,Bismah Maroof,M du Preez,0
+1073403,2nd innings,Pakistan,South Africa,21.4,Nain Abidi,Aliya Riaz,S Luus,0,0,0,NA,0,NA,NA,NA,0
+1073403,2nd innings,Pakistan,South Africa,21.5,Nain Abidi,Aliya Riaz,S Luus,1,0,1,NA,0,NA,NA,NA,0
+1073403,2nd innings,Pakistan,South Africa,21.6,Aliya Riaz,Nain Abidi,S Luus,0,0,0,NA,0,NA,NA,NA,0
+1073403,2nd innings,Pakistan,South Africa,22.1,Nain Abidi,Aliya Riaz,D van Niekerk,1,0,1,NA,0,NA,NA,NA,0
+1073403,2nd innings,Pakistan,South Africa,22.2,Aliya Riaz,Nain Abidi,D van Niekerk,0,0,0,NA,0,NA,NA,NA,0
+1073403,2nd innings,Pakistan,South Africa,22.3,Aliya Riaz,Nain Abidi,D van Niekerk,0,0,0,NA,0,NA,NA,NA,0
+1073403,2nd innings,Pakistan,South Africa,22.4,Aliya Riaz,Nain Abidi,D van Niekerk,4,1,5,noballs,0,NA,NA,NA,0
+1073403,2nd innings,Pakistan,South Africa,22.5,Aliya Riaz,Nain Abidi,D van Niekerk,0,2,2,byes,0,NA,NA,NA,0
+1073403,2nd innings,Pakistan,South Africa,22.6,Aliya Riaz,Nain Abidi,D van Niekerk,0,0,0,NA,0,NA,NA,NA,0
+1073403,2nd innings,Pakistan,South Africa,22.7,Aliya Riaz,Nain Abidi,D van Niekerk,0,0,0,NA,0,NA,NA,NA,0
+1073403,2nd innings,Pakistan,South Africa,23.1,Nain Abidi,Aliya Riaz,S Luus,0,0,0,NA,0,NA,NA,NA,0
+1073403,2nd innings,Pakistan,South Africa,23.2,Nain Abidi,Aliya Riaz,S Luus,0,0,0,NA,0,NA,NA,NA,0
+1073403,2nd innings,Pakistan,South Africa,23.3,Nain Abidi,Aliya Riaz,S Luus,1,0,1,NA,0,NA,NA,NA,0
+1073403,2nd innings,Pakistan,South Africa,23.4,Aliya Riaz,Nain Abidi,S Luus,0,0,0,NA,0,NA,NA,NA,0
+1073403,2nd innings,Pakistan,South Africa,23.5,Aliya Riaz,Nain Abidi,S Luus,0,0,0,NA,0,NA,NA,NA,0
+1073403,2nd innings,Pakistan,South Africa,23.6,Aliya Riaz,Nain Abidi,S Luus,0,0,0,NA,0,NA,NA,NA,0
+1073403,2nd innings,Pakistan,South Africa,24.1,Nain Abidi,Aliya Riaz,D van Niekerk,0,0,0,NA,0,NA,NA,NA,0
+1073403,2nd innings,Pakistan,South Africa,24.2,Nain Abidi,Aliya Riaz,D van Niekerk,0,0,0,NA,0,NA,NA,NA,0
+1073403,2nd innings,Pakistan,South Africa,24.3,Nain Abidi,Aliya Riaz,D van Niekerk,4,0,4,NA,0,NA,NA,NA,0
+1073403,2nd innings,Pakistan,South Africa,24.4,Nain Abidi,Aliya Riaz,D van Niekerk,0,0,0,NA,0,NA,NA,NA,0
+1073403,2nd innings,Pakistan,South Africa,24.5,Nain Abidi,Aliya Riaz,D van Niekerk,0,0,0,NA,0,NA,NA,NA,0
+1073403,2nd innings,Pakistan,South Africa,24.6,Nain Abidi,Aliya Riaz,D van Niekerk,1,0,1,NA,0,NA,NA,NA,0
+1073403,2nd innings,Pakistan,South Africa,25.1,Nain Abidi,Aliya Riaz,S Luus,0,0,0,NA,0,NA,NA,NA,0
+1073403,2nd innings,Pakistan,South Africa,25.2,Nain Abidi,Aliya Riaz,S Luus,0,0,0,NA,0,NA,NA,NA,0
+1073403,2nd innings,Pakistan,South Africa,25.3,Nain Abidi,Aliya Riaz,S Luus,2,0,2,NA,0,NA,NA,NA,0
+1073403,2nd innings,Pakistan,South Africa,25.4,Nain Abidi,Aliya Riaz,S Luus,0,0,0,NA,0,NA,NA,NA,0
+1073403,2nd innings,Pakistan,South Africa,25.5,Nain Abidi,Aliya Riaz,S Luus,1,0,1,NA,0,NA,NA,NA,0
+1073403,2nd innings,Pakistan,South Africa,25.6,Aliya Riaz,Nain Abidi,S Luus,0,0,0,NA,0,NA,NA,NA,0
+1073403,2nd innings,Pakistan,South Africa,26.1,Nain Abidi,Aliya Riaz,S Ismail,0,0,0,NA,0,NA,NA,NA,0
+1073403,2nd innings,Pakistan,South Africa,26.2,Nain Abidi,Aliya Riaz,S Ismail,0,0,0,NA,0,NA,NA,NA,0
+1073403,2nd innings,Pakistan,South Africa,26.3,Nain Abidi,Aliya Riaz,S Ismail,0,1,1,legbyes,0,NA,NA,NA,0
+1073403,2nd innings,Pakistan,South Africa,26.4,Aliya Riaz,Nain Abidi,S Ismail,1,0,1,NA,0,NA,NA,NA,0
+1073403,2nd innings,Pakistan,South Africa,26.5,Nain Abidi,Aliya Riaz,S Ismail,4,0,4,NA,0,NA,NA,NA,0
+1073403,2nd innings,Pakistan,South Africa,26.6,Nain Abidi,Aliya Riaz,S Ismail,1,0,1,NA,0,NA,NA,NA,0
+1073403,2nd innings,Pakistan,South Africa,27.1,Nain Abidi,Aliya Riaz,S Luus,0,0,0,NA,0,NA,NA,NA,0
+1073403,2nd innings,Pakistan,South Africa,27.2,Nain Abidi,Aliya Riaz,S Luus,0,0,0,NA,0,NA,NA,NA,0
+1073403,2nd innings,Pakistan,South Africa,27.3,Nain Abidi,Aliya Riaz,S Luus,0,0,0,NA,0,NA,NA,NA,0
+1073403,2nd innings,Pakistan,South Africa,27.4,Nain Abidi,Aliya Riaz,S Luus,1,0,1,NA,0,NA,NA,NA,0
+1073403,2nd innings,Pakistan,South Africa,27.5,Aliya Riaz,Nain Abidi,S Luus,0,0,0,NA,0,NA,NA,NA,0
+1073403,2nd innings,Pakistan,South Africa,27.6,Aliya Riaz,Nain Abidi,S Luus,1,0,1,NA,0,NA,NA,NA,0
+1073403,2nd innings,Pakistan,South Africa,28.1,Aliya Riaz,Nain Abidi,MM Letsoalo,0,0,0,NA,0,NA,NA,NA,0
+1073403,2nd innings,Pakistan,South Africa,28.2,Aliya Riaz,Nain Abidi,MM Letsoalo,0,0,0,NA,0,NA,NA,NA,0
+1073403,2nd innings,Pakistan,South Africa,28.3,Aliya Riaz,Nain Abidi,MM Letsoalo,0,0,0,NA,1,caught,Aliya Riaz,A Khaka,0
+1073403,2nd innings,Pakistan,South Africa,28.4,Sana Mir,Nain Abidi,MM Letsoalo,0,0,0,NA,0,NA,NA,NA,0
+1073403,2nd innings,Pakistan,South Africa,28.5,Sana Mir,Nain Abidi,MM Letsoalo,0,0,0,NA,0,NA,NA,NA,0
+1073403,2nd innings,Pakistan,South Africa,28.6,Sana Mir,Nain Abidi,MM Letsoalo,1,0,1,NA,0,NA,NA,NA,0
+1073403,2nd innings,Pakistan,South Africa,29.1,Sana Mir,Nain Abidi,S Luus,0,0,0,NA,0,NA,NA,NA,0
+1073403,2nd innings,Pakistan,South Africa,29.2,Sana Mir,Nain Abidi,S Luus,0,0,0,NA,0,NA,NA,NA,0
+1073403,2nd innings,Pakistan,South Africa,29.3,Sana Mir,Nain Abidi,S Luus,0,0,0,NA,0,NA,NA,NA,0
+1073403,2nd innings,Pakistan,South Africa,29.4,Sana Mir,Nain Abidi,S Luus,0,0,0,NA,0,NA,NA,NA,0
+1073403,2nd innings,Pakistan,South Africa,29.5,Sana Mir,Nain Abidi,S Luus,0,0,0,NA,0,NA,NA,NA,0
+1073403,2nd innings,Pakistan,South Africa,29.6,Sana Mir,Nain Abidi,S Luus,0,0,0,NA,0,NA,NA,NA,0
+1073403,2nd innings,Pakistan,South Africa,30.1,Nain Abidi,Sana Mir,MM Letsoalo,0,0,0,NA,0,NA,NA,NA,0
+1073403,2nd innings,Pakistan,South Africa,30.2,Nain Abidi,Sana Mir,MM Letsoalo,0,0,0,NA,0,NA,NA,NA,0
+1073403,2nd innings,Pakistan,South Africa,30.3,Nain Abidi,Sana Mir,MM Letsoalo,0,0,0,NA,0,NA,NA,NA,0
+1073403,2nd innings,Pakistan,South Africa,30.4,Nain Abidi,Sana Mir,MM Letsoalo,0,0,0,NA,0,NA,NA,NA,0
+1073403,2nd innings,Pakistan,South Africa,30.5,Nain Abidi,Sana Mir,MM Letsoalo,0,0,0,NA,0,NA,NA,NA,0
+1073403,2nd innings,Pakistan,South Africa,30.6,Nain Abidi,Sana Mir,MM Letsoalo,0,0,0,NA,0,NA,NA,NA,0
+1073403,2nd innings,Pakistan,South Africa,31.1,Sana Mir,Nain Abidi,S Luus,2,0,2,NA,0,NA,NA,NA,0
+1073403,2nd innings,Pakistan,South Africa,31.2,Sana Mir,Nain Abidi,S Luus,1,0,1,NA,0,NA,NA,NA,0
+1073403,2nd innings,Pakistan,South Africa,31.3,Nain Abidi,Sana Mir,S Luus,1,0,1,NA,0,NA,NA,NA,0
+1073403,2nd innings,Pakistan,South Africa,31.4,Sana Mir,Nain Abidi,S Luus,0,0,0,NA,0,NA,NA,NA,0
+1073403,2nd innings,Pakistan,South Africa,31.5,Sana Mir,Nain Abidi,S Luus,2,0,2,NA,0,NA,NA,NA,0
+1073403,2nd innings,Pakistan,South Africa,31.6,Sana Mir,Nain Abidi,S Luus,0,0,0,NA,0,NA,NA,NA,0
+1073403,2nd innings,Pakistan,South Africa,32.1,Nain Abidi,Sana Mir,MM Letsoalo,0,0,0,NA,0,NA,NA,NA,0
+1073403,2nd innings,Pakistan,South Africa,32.2,Nain Abidi,Sana Mir,MM Letsoalo,1,0,1,NA,0,NA,NA,NA,0
+1073403,2nd innings,Pakistan,South Africa,32.3,Sana Mir,Nain Abidi,MM Letsoalo,0,0,0,NA,0,NA,NA,NA,0
+1073403,2nd innings,Pakistan,South Africa,32.4,Sana Mir,Nain Abidi,MM Letsoalo,0,0,0,NA,0,NA,NA,NA,0
+1073403,2nd innings,Pakistan,South Africa,32.5,Sana Mir,Nain Abidi,MM Letsoalo,0,0,0,NA,0,NA,NA,NA,0
+1073403,2nd innings,Pakistan,South Africa,32.6,Sana Mir,Nain Abidi,MM Letsoalo,0,0,0,NA,0,NA,NA,NA,0
+1073403,2nd innings,Pakistan,South Africa,33.1,Nain Abidi,Sana Mir,S Luus,0,0,0,NA,0,NA,NA,NA,0
+1073403,2nd innings,Pakistan,South Africa,33.2,Nain Abidi,Sana Mir,S Luus,0,0,0,NA,0,NA,NA,NA,0
+1073403,2nd innings,Pakistan,South Africa,33.3,Nain Abidi,Sana Mir,S Luus,0,0,0,NA,0,NA,NA,NA,0
+1073403,2nd innings,Pakistan,South Africa,33.4,Nain Abidi,Sana Mir,S Luus,4,0,4,NA,0,NA,NA,NA,0
+1073403,2nd innings,Pakistan,South Africa,33.5,Nain Abidi,Sana Mir,S Luus,1,0,1,NA,0,NA,NA,NA,0
+1073403,2nd innings,Pakistan,South Africa,33.6,Sana Mir,Nain Abidi,S Luus,0,0,0,NA,0,NA,NA,NA,0
+1073403,2nd innings,Pakistan,South Africa,34.1,Nain Abidi,Sana Mir,MM Letsoalo,0,0,0,NA,0,NA,NA,NA,0
+1073403,2nd innings,Pakistan,South Africa,34.2,Nain Abidi,Sana Mir,MM Letsoalo,0,0,0,NA,0,NA,NA,NA,0
+1073403,2nd innings,Pakistan,South Africa,34.3,Nain Abidi,Sana Mir,MM Letsoalo,0,0,0,NA,0,NA,NA,NA,0
+1073403,2nd innings,Pakistan,South Africa,34.4,Nain Abidi,Sana Mir,MM Letsoalo,0,0,0,NA,0,NA,NA,NA,0
+1073403,2nd innings,Pakistan,South Africa,34.5,Nain Abidi,Sana Mir,MM Letsoalo,0,0,0,NA,0,NA,NA,NA,0
+1073403,2nd innings,Pakistan,South Africa,34.6,Nain Abidi,Sana Mir,MM Letsoalo,0,0,0,NA,0,NA,NA,NA,0
+1073403,2nd innings,Pakistan,South Africa,35.1,Sana Mir,Nain Abidi,S Luus,0,0,0,NA,0,NA,NA,NA,0
+1073403,2nd innings,Pakistan,South Africa,35.2,Sana Mir,Nain Abidi,S Luus,1,0,1,NA,0,NA,NA,NA,0
+1073403,2nd innings,Pakistan,South Africa,35.3,Nain Abidi,Sana Mir,S Luus,0,0,0,NA,0,NA,NA,NA,0
+1073403,2nd innings,Pakistan,South Africa,35.4,Nain Abidi,Sana Mir,S Luus,1,0,1,NA,0,NA,NA,NA,0
+1073403,2nd innings,Pakistan,South Africa,35.5,Sana Mir,Nain Abidi,S Luus,0,0,0,NA,0,NA,NA,NA,0
+1073403,2nd innings,Pakistan,South Africa,35.6,Sana Mir,Nain Abidi,S Luus,0,0,0,NA,0,NA,NA,NA,0
+1073403,2nd innings,Pakistan,South Africa,36.1,Nain Abidi,Sana Mir,MM Letsoalo,0,0,0,NA,0,NA,NA,NA,0
+1073403,2nd innings,Pakistan,South Africa,36.2,Nain Abidi,Sana Mir,MM Letsoalo,1,0,1,NA,0,NA,NA,NA,0
+1073403,2nd innings,Pakistan,South Africa,36.3,Sana Mir,Nain Abidi,MM Letsoalo,0,0,0,NA,0,NA,NA,NA,0
+1073403,2nd innings,Pakistan,South Africa,36.4,Sana Mir,Nain Abidi,MM Letsoalo,0,0,0,NA,0,NA,NA,NA,0
+1073403,2nd innings,Pakistan,South Africa,36.5,Sana Mir,Nain Abidi,MM Letsoalo,0,0,0,NA,0,NA,NA,NA,0
+1073403,2nd innings,Pakistan,South Africa,36.6,Sana Mir,Nain Abidi,MM Letsoalo,4,0,4,NA,0,NA,NA,NA,0
+1073403,2nd innings,Pakistan,South Africa,37.1,Nain Abidi,Sana Mir,A Khaka,0,0,0,NA,0,NA,NA,NA,0
+1073403,2nd innings,Pakistan,South Africa,37.2,Nain Abidi,Sana Mir,A Khaka,1,0,1,NA,0,NA,NA,NA,0
+1073403,2nd innings,Pakistan,South Africa,37.3,Sana Mir,Nain Abidi,A Khaka,0,0,0,NA,0,NA,NA,NA,0
+1073403,2nd innings,Pakistan,South Africa,37.4,Sana Mir,Nain Abidi,A Khaka,0,0,0,NA,0,NA,NA,NA,0
+1073403,2nd innings,Pakistan,South Africa,37.5,Sana Mir,Nain Abidi,A Khaka,1,0,1,NA,0,NA,NA,NA,0
+1073403,2nd innings,Pakistan,South Africa,37.6,Nain Abidi,Sana Mir,A Khaka,0,3,3,legbyes,0,NA,NA,NA,0
+1073403,2nd innings,Pakistan,South Africa,38.1,Nain Abidi,Sana Mir,D van Niekerk,0,0,0,NA,0,NA,NA,NA,0
+1073403,2nd innings,Pakistan,South Africa,38.2,Nain Abidi,Sana Mir,D van Niekerk,0,0,0,NA,0,NA,NA,NA,0
+1073403,2nd innings,Pakistan,South Africa,38.3,Nain Abidi,Sana Mir,D van Niekerk,6,0,6,NA,0,NA,NA,NA,0
+1073403,2nd innings,Pakistan,South Africa,38.4,Nain Abidi,Sana Mir,D van Niekerk,0,0,0,NA,0,NA,NA,NA,0
+1073403,2nd innings,Pakistan,South Africa,38.5,Nain Abidi,Sana Mir,D van Niekerk,0,0,0,NA,0,NA,NA,NA,0
+1073403,2nd innings,Pakistan,South Africa,38.6,Nain Abidi,Sana Mir,D van Niekerk,1,0,1,NA,0,NA,NA,NA,0
+1073403,2nd innings,Pakistan,South Africa,39.1,Nain Abidi,Sana Mir,A Khaka,0,0,0,NA,0,NA,NA,NA,0
+1073403,2nd innings,Pakistan,South Africa,39.2,Nain Abidi,Sana Mir,A Khaka,0,0,0,NA,0,NA,NA,NA,0
+1073403,2nd innings,Pakistan,South Africa,39.3,Nain Abidi,Sana Mir,A Khaka,0,0,0,NA,0,NA,NA,NA,0
+1073403,2nd innings,Pakistan,South Africa,39.4,Nain Abidi,Sana Mir,A Khaka,0,0,0,NA,0,NA,NA,NA,0
+1073403,2nd innings,Pakistan,South Africa,39.5,Nain Abidi,Sana Mir,A Khaka,0,0,0,NA,0,NA,NA,NA,0
+1073403,2nd innings,Pakistan,South Africa,39.6,Nain Abidi,Sana Mir,A Khaka,0,0,0,NA,0,NA,NA,NA,0
+1073403,2nd innings,Pakistan,South Africa,40.1,Sana Mir,Nain Abidi,D van Niekerk,0,0,0,NA,0,NA,NA,NA,0
+1073403,2nd innings,Pakistan,South Africa,40.2,Sana Mir,Nain Abidi,D van Niekerk,1,0,1,NA,0,NA,NA,NA,0
+1073403,2nd innings,Pakistan,South Africa,40.3,Nain Abidi,Sana Mir,D van Niekerk,4,0,4,NA,0,NA,NA,NA,0
+1073403,2nd innings,Pakistan,South Africa,40.4,Nain Abidi,Sana Mir,D van Niekerk,0,0,0,NA,0,NA,NA,NA,0
+1073403,2nd innings,Pakistan,South Africa,40.5,Nain Abidi,Sana Mir,D van Niekerk,0,0,0,NA,0,NA,NA,NA,0
+1073403,2nd innings,Pakistan,South Africa,40.6,Nain Abidi,Sana Mir,D van Niekerk,0,0,0,NA,0,NA,NA,NA,0
+1073403,2nd innings,Pakistan,South Africa,41.1,Sana Mir,Nain Abidi,A Khaka,0,0,0,NA,0,NA,NA,NA,0
+1073403,2nd innings,Pakistan,South Africa,41.2,Sana Mir,Nain Abidi,A Khaka,0,0,0,NA,0,NA,NA,NA,0
+1073403,2nd innings,Pakistan,South Africa,41.3,Sana Mir,Nain Abidi,A Khaka,4,0,4,NA,0,NA,NA,NA,0
+1073403,2nd innings,Pakistan,South Africa,41.4,Sana Mir,Nain Abidi,A Khaka,0,0,0,NA,0,NA,NA,NA,0
+1073403,2nd innings,Pakistan,South Africa,41.5,Sana Mir,Nain Abidi,A Khaka,0,0,0,NA,0,NA,NA,NA,0
+1073403,2nd innings,Pakistan,South Africa,41.6,Sana Mir,Nain Abidi,A Khaka,0,0,0,NA,0,NA,NA,NA,0
+1073403,2nd innings,Pakistan,South Africa,42.1,Nain Abidi,Sana Mir,S Ismail,0,0,0,NA,0,NA,NA,NA,0
+1073403,2nd innings,Pakistan,South Africa,42.2,Nain Abidi,Sana Mir,S Ismail,0,0,0,NA,0,NA,NA,NA,0
+1073403,2nd innings,Pakistan,South Africa,42.3,Nain Abidi,Sana Mir,S Ismail,0,0,0,NA,0,NA,NA,NA,0
+1073403,2nd innings,Pakistan,South Africa,42.4,Nain Abidi,Sana Mir,S Ismail,1,0,1,NA,0,NA,NA,NA,0
+1073403,2nd innings,Pakistan,South Africa,42.5,Sana Mir,Nain Abidi,S Ismail,1,0,1,NA,0,NA,NA,NA,0
+1073403,2nd innings,Pakistan,South Africa,42.6,Nain Abidi,Sana Mir,S Ismail,0,0,0,NA,0,NA,NA,NA,0
+1073403,2nd innings,Pakistan,South Africa,43.1,Sana Mir,Nain Abidi,M Kapp,0,0,0,NA,0,NA,NA,NA,0
+1073403,2nd innings,Pakistan,South Africa,43.2,Sana Mir,Nain Abidi,M Kapp,0,0,0,NA,0,NA,NA,NA,0
+1073403,2nd innings,Pakistan,South Africa,43.3,Sana Mir,Nain Abidi,M Kapp,0,0,0,NA,0,NA,NA,NA,0
+1073403,2nd innings,Pakistan,South Africa,43.4,Sana Mir,Nain Abidi,M Kapp,2,0,2,NA,0,NA,NA,NA,0
+1073403,2nd innings,Pakistan,South Africa,43.5,Sana Mir,Nain Abidi,M Kapp,1,0,1,NA,0,NA,NA,NA,0
+1073403,2nd innings,Pakistan,South Africa,43.6,Nain Abidi,Sana Mir,M Kapp,1,0,1,NA,0,NA,NA,NA,0
+1073403,2nd innings,Pakistan,South Africa,44.1,Nain Abidi,Sana Mir,S Ismail,1,0,1,NA,0,NA,NA,NA,0
+1073403,2nd innings,Pakistan,South Africa,44.2,Sana Mir,Nain Abidi,S Ismail,4,0,4,NA,0,NA,NA,NA,0
+1073403,2nd innings,Pakistan,South Africa,44.3,Sana Mir,Nain Abidi,S Ismail,1,0,1,NA,0,NA,NA,NA,0
+1073403,2nd innings,Pakistan,South Africa,44.4,Nain Abidi,Sana Mir,S Ismail,0,0,0,NA,0,NA,NA,NA,0
+1073403,2nd innings,Pakistan,South Africa,44.5,Nain Abidi,Sana Mir,S Ismail,1,0,1,NA,0,NA,NA,NA,0
+1073403,2nd innings,Pakistan,South Africa,44.6,Sana Mir,Nain Abidi,S Ismail,1,0,1,NA,0,NA,NA,NA,0
+1073403,2nd innings,Pakistan,South Africa,45.1,Sana Mir,Nain Abidi,M Kapp,1,0,1,NA,0,NA,NA,NA,0
+1073403,2nd innings,Pakistan,South Africa,45.2,Nain Abidi,Sana Mir,M Kapp,0,0,0,NA,0,NA,NA,NA,0
+1073403,2nd innings,Pakistan,South Africa,45.3,Nain Abidi,Sana Mir,M Kapp,1,0,1,NA,0,NA,NA,NA,0
+1073403,2nd innings,Pakistan,South Africa,45.4,Sana Mir,Nain Abidi,M Kapp,0,0,0,NA,0,NA,NA,NA,0
+1073403,2nd innings,Pakistan,South Africa,45.5,Sana Mir,Nain Abidi,M Kapp,0,1,1,legbyes,0,NA,NA,NA,0
+1073403,2nd innings,Pakistan,South Africa,45.6,Nain Abidi,Sana Mir,M Kapp,0,0,0,NA,0,NA,NA,NA,0
+1073403,2nd innings,Pakistan,South Africa,46.1,Sana Mir,Nain Abidi,A Khaka,5,0,5,NA,0,NA,NA,NA,0
+1073403,2nd innings,Pakistan,South Africa,46.2,Nain Abidi,Sana Mir,A Khaka,1,0,1,NA,0,NA,NA,NA,0
+1073403,2nd innings,Pakistan,South Africa,46.3,Sana Mir,Nain Abidi,A Khaka,1,0,1,NA,0,NA,NA,NA,0
+1073403,2nd innings,Pakistan,South Africa,46.4,Nain Abidi,Sana Mir,A Khaka,0,0,0,NA,0,NA,NA,NA,0
+1073403,2nd innings,Pakistan,South Africa,46.5,Nain Abidi,Sana Mir,A Khaka,4,0,4,NA,0,NA,NA,NA,0
+1073403,2nd innings,Pakistan,South Africa,46.6,Nain Abidi,Sana Mir,A Khaka,1,0,1,NA,0,NA,NA,NA,0
+1073403,2nd innings,Pakistan,South Africa,47.1,Nain Abidi,Sana Mir,M Kapp,0,0,0,NA,1,caught,Nain Abidi,D van Niekerk,0
+1073403,2nd innings,Pakistan,South Africa,47.2,Rabiya Shah,Sana Mir,M Kapp,0,1,1,legbyes,0,NA,NA,NA,0
+1073403,2nd innings,Pakistan,South Africa,47.3,Sana Mir,Rabiya Shah,M Kapp,0,0,0,NA,0,NA,NA,NA,0
+1073403,2nd innings,Pakistan,South Africa,47.4,Sana Mir,Rabiya Shah,M Kapp,0,0,0,NA,0,NA,NA,NA,0
+1073403,2nd innings,Pakistan,South Africa,47.5,Sana Mir,Rabiya Shah,M Kapp,1,0,1,NA,0,NA,NA,NA,0
+1073403,2nd innings,Pakistan,South Africa,47.6,Rabiya Shah,Sana Mir,M Kapp,0,0,0,NA,0,NA,NA,NA,0
+1073403,2nd innings,Pakistan,South Africa,48.1,Sana Mir,Rabiya Shah,A Khaka,0,0,0,NA,0,NA,NA,NA,0
+1073403,2nd innings,Pakistan,South Africa,48.2,Sana Mir,Rabiya Shah,A Khaka,1,0,1,NA,0,NA,NA,NA,0
+1073403,2nd innings,Pakistan,South Africa,48.3,Rabiya Shah,Sana Mir,A Khaka,0,0,0,NA,0,NA,NA,NA,0
+1073403,2nd innings,Pakistan,South Africa,48.4,Rabiya Shah,Sana Mir,A Khaka,1,0,1,NA,0,NA,NA,NA,0
+1073403,2nd innings,Pakistan,South Africa,48.5,Sana Mir,Rabiya Shah,A Khaka,2,0,2,NA,0,NA,NA,NA,0
+1073403,2nd innings,Pakistan,South Africa,48.6,Sana Mir,Rabiya Shah,A Khaka,0,0,0,NA,0,NA,NA,NA,0
+1073403,2nd innings,Pakistan,South Africa,49.1,Rabiya Shah,Sana Mir,M Kapp,0,0,0,NA,0,NA,NA,NA,0
+1073403,2nd innings,Pakistan,South Africa,49.2,Rabiya Shah,Sana Mir,M Kapp,0,0,0,NA,0,NA,NA,NA,0
+1073403,2nd innings,Pakistan,South Africa,49.3,Rabiya Shah,Sana Mir,M Kapp,4,0,4,NA,0,NA,NA,NA,0
+1073403,2nd innings,Pakistan,South Africa,49.4,Rabiya Shah,Sana Mir,M Kapp,0,0,0,NA,0,NA,NA,NA,0
+1073403,2nd innings,Pakistan,South Africa,49.5,Rabiya Shah,Sana Mir,M Kapp,0,1,1,wides,0,NA,NA,NA,0
+1073403,2nd innings,Pakistan,South Africa,49.6,Rabiya Shah,Sana Mir,M Kapp,4,0,4,NA,0,NA,NA,NA,0
+1073403,2nd innings,Pakistan,South Africa,49.7,Rabiya Shah,Sana Mir,M Kapp,0,0,0,NA,0,NA,NA,NA,0

@@ -1,0 +1,521 @@
+match_id,innings,team,opponent,ball,batsman,non_striker,bowler,scored_runs,extras,total,extra_type,wicket,wicket_type,player_out,fielders,winner
+648653,1st innings,South Africa,India,0.1,Q de Kock,HM Amla,UT Yadav,0,0,0,NA,0,NA,NA,NA,1
+648653,1st innings,South Africa,India,0.2,Q de Kock,HM Amla,UT Yadav,0,0,0,NA,0,NA,NA,NA,1
+648653,1st innings,South Africa,India,0.3,Q de Kock,HM Amla,UT Yadav,1,0,1,NA,0,NA,NA,NA,1
+648653,1st innings,South Africa,India,0.4,HM Amla,Q de Kock,UT Yadav,1,0,1,NA,0,NA,NA,NA,1
+648653,1st innings,South Africa,India,0.5,Q de Kock,HM Amla,UT Yadav,0,0,0,NA,0,NA,NA,NA,1
+648653,1st innings,South Africa,India,0.6,Q de Kock,HM Amla,UT Yadav,0,0,0,NA,0,NA,NA,NA,1
+648653,1st innings,South Africa,India,1.1,HM Amla,Q de Kock,Mohammed Shami,0,0,0,NA,0,NA,NA,NA,1
+648653,1st innings,South Africa,India,1.2,HM Amla,Q de Kock,Mohammed Shami,0,0,0,NA,0,NA,NA,NA,1
+648653,1st innings,South Africa,India,1.3,HM Amla,Q de Kock,Mohammed Shami,0,1,1,wides,0,NA,NA,NA,1
+648653,1st innings,South Africa,India,1.4,HM Amla,Q de Kock,Mohammed Shami,2,0,2,NA,0,NA,NA,NA,1
+648653,1st innings,South Africa,India,1.5,HM Amla,Q de Kock,Mohammed Shami,1,0,1,NA,0,NA,NA,NA,1
+648653,1st innings,South Africa,India,1.6,Q de Kock,HM Amla,Mohammed Shami,0,1,1,legbyes,0,NA,NA,NA,1
+648653,1st innings,South Africa,India,1.7,HM Amla,Q de Kock,Mohammed Shami,0,0,0,NA,0,NA,NA,NA,1
+648653,1st innings,South Africa,India,2.1,Q de Kock,HM Amla,UT Yadav,0,0,0,NA,0,NA,NA,NA,1
+648653,1st innings,South Africa,India,2.2,Q de Kock,HM Amla,UT Yadav,4,0,4,NA,0,NA,NA,NA,1
+648653,1st innings,South Africa,India,2.3,Q de Kock,HM Amla,UT Yadav,0,0,0,NA,0,NA,NA,NA,1
+648653,1st innings,South Africa,India,2.4,Q de Kock,HM Amla,UT Yadav,0,0,0,NA,0,NA,NA,NA,1
+648653,1st innings,South Africa,India,2.5,Q de Kock,HM Amla,UT Yadav,4,0,4,NA,0,NA,NA,NA,1
+648653,1st innings,South Africa,India,2.6,Q de Kock,HM Amla,UT Yadav,0,0,0,NA,0,NA,NA,NA,1
+648653,1st innings,South Africa,India,3.1,HM Amla,Q de Kock,I Sharma,0,0,0,NA,0,NA,NA,NA,1
+648653,1st innings,South Africa,India,3.2,HM Amla,Q de Kock,I Sharma,1,0,1,NA,0,NA,NA,NA,1
+648653,1st innings,South Africa,India,3.3,Q de Kock,HM Amla,I Sharma,0,0,0,NA,0,NA,NA,NA,1
+648653,1st innings,South Africa,India,3.4,Q de Kock,HM Amla,I Sharma,1,0,1,NA,0,NA,NA,NA,1
+648653,1st innings,South Africa,India,3.5,HM Amla,Q de Kock,I Sharma,1,0,1,NA,0,NA,NA,NA,1
+648653,1st innings,South Africa,India,3.6,Q de Kock,HM Amla,I Sharma,1,0,1,NA,0,NA,NA,NA,1
+648653,1st innings,South Africa,India,4.1,Q de Kock,HM Amla,Mohammed Shami,0,0,0,NA,0,NA,NA,NA,1
+648653,1st innings,South Africa,India,4.2,Q de Kock,HM Amla,Mohammed Shami,2,0,2,NA,0,NA,NA,NA,1
+648653,1st innings,South Africa,India,4.3,Q de Kock,HM Amla,Mohammed Shami,0,0,0,NA,0,NA,NA,NA,1
+648653,1st innings,South Africa,India,4.4,Q de Kock,HM Amla,Mohammed Shami,0,0,0,NA,0,NA,NA,NA,1
+648653,1st innings,South Africa,India,4.5,Q de Kock,HM Amla,Mohammed Shami,0,0,0,NA,0,NA,NA,NA,1
+648653,1st innings,South Africa,India,4.6,Q de Kock,HM Amla,Mohammed Shami,0,0,0,NA,0,NA,NA,NA,1
+648653,1st innings,South Africa,India,5.1,HM Amla,Q de Kock,I Sharma,1,0,1,NA,0,NA,NA,NA,1
+648653,1st innings,South Africa,India,5.2,Q de Kock,HM Amla,I Sharma,1,0,1,NA,0,NA,NA,NA,1
+648653,1st innings,South Africa,India,5.3,HM Amla,Q de Kock,I Sharma,0,0,0,NA,0,NA,NA,NA,1
+648653,1st innings,South Africa,India,5.4,HM Amla,Q de Kock,I Sharma,0,0,0,NA,0,NA,NA,NA,1
+648653,1st innings,South Africa,India,5.5,HM Amla,Q de Kock,I Sharma,0,0,0,NA,0,NA,NA,NA,1
+648653,1st innings,South Africa,India,5.6,HM Amla,Q de Kock,I Sharma,4,0,4,NA,0,NA,NA,NA,1
+648653,1st innings,South Africa,India,6.1,Q de Kock,HM Amla,Mohammed Shami,0,0,0,NA,0,NA,NA,NA,1
+648653,1st innings,South Africa,India,6.2,Q de Kock,HM Amla,Mohammed Shami,0,0,0,NA,0,NA,NA,NA,1
+648653,1st innings,South Africa,India,6.3,Q de Kock,HM Amla,Mohammed Shami,0,1,1,wides,0,NA,NA,NA,1
+648653,1st innings,South Africa,India,6.4,Q de Kock,HM Amla,Mohammed Shami,1,0,1,NA,0,NA,NA,NA,1
+648653,1st innings,South Africa,India,6.5,HM Amla,Q de Kock,Mohammed Shami,2,0,2,NA,0,NA,NA,NA,1
+648653,1st innings,South Africa,India,6.6,HM Amla,Q de Kock,Mohammed Shami,0,0,0,NA,0,NA,NA,NA,1
+648653,1st innings,South Africa,India,6.7,HM Amla,Q de Kock,Mohammed Shami,0,0,0,NA,0,NA,NA,NA,1
+648653,1st innings,South Africa,India,7.1,Q de Kock,HM Amla,I Sharma,4,0,4,NA,0,NA,NA,NA,1
+648653,1st innings,South Africa,India,7.2,Q de Kock,HM Amla,I Sharma,2,0,2,NA,0,NA,NA,NA,1
+648653,1st innings,South Africa,India,7.3,Q de Kock,HM Amla,I Sharma,0,0,0,NA,0,NA,NA,NA,1
+648653,1st innings,South Africa,India,7.4,Q de Kock,HM Amla,I Sharma,0,0,0,NA,0,NA,NA,NA,1
+648653,1st innings,South Africa,India,7.5,Q de Kock,HM Amla,I Sharma,0,0,0,NA,0,NA,NA,NA,1
+648653,1st innings,South Africa,India,7.6,Q de Kock,HM Amla,I Sharma,1,0,1,NA,0,NA,NA,NA,1
+648653,1st innings,South Africa,India,8.1,Q de Kock,HM Amla,Mohammed Shami,4,0,4,NA,0,NA,NA,NA,1
+648653,1st innings,South Africa,India,8.2,Q de Kock,HM Amla,Mohammed Shami,4,0,4,NA,0,NA,NA,NA,1
+648653,1st innings,South Africa,India,8.3,Q de Kock,HM Amla,Mohammed Shami,0,0,0,NA,0,NA,NA,NA,1
+648653,1st innings,South Africa,India,8.4,Q de Kock,HM Amla,Mohammed Shami,1,0,1,NA,0,NA,NA,NA,1
+648653,1st innings,South Africa,India,8.5,HM Amla,Q de Kock,Mohammed Shami,0,0,0,NA,0,NA,NA,NA,1
+648653,1st innings,South Africa,India,8.6,HM Amla,Q de Kock,Mohammed Shami,1,0,1,NA,0,NA,NA,NA,1
+648653,1st innings,South Africa,India,9.1,HM Amla,Q de Kock,I Sharma,0,0,0,NA,0,NA,NA,NA,1
+648653,1st innings,South Africa,India,9.2,HM Amla,Q de Kock,I Sharma,1,0,1,NA,0,NA,NA,NA,1
+648653,1st innings,South Africa,India,9.3,Q de Kock,HM Amla,I Sharma,4,0,4,NA,0,NA,NA,NA,1
+648653,1st innings,South Africa,India,9.4,Q de Kock,HM Amla,I Sharma,0,0,0,NA,0,NA,NA,NA,1
+648653,1st innings,South Africa,India,9.5,Q de Kock,HM Amla,I Sharma,1,0,1,NA,0,NA,NA,NA,1
+648653,1st innings,South Africa,India,9.6,HM Amla,Q de Kock,I Sharma,4,0,4,NA,0,NA,NA,NA,1
+648653,1st innings,South Africa,India,10.1,Q de Kock,HM Amla,R Ashwin,0,0,0,NA,0,NA,NA,NA,1
+648653,1st innings,South Africa,India,10.2,Q de Kock,HM Amla,R Ashwin,0,0,0,NA,0,NA,NA,NA,1
+648653,1st innings,South Africa,India,10.3,Q de Kock,HM Amla,R Ashwin,1,0,1,NA,0,NA,NA,NA,1
+648653,1st innings,South Africa,India,10.4,HM Amla,Q de Kock,R Ashwin,0,0,0,NA,0,NA,NA,NA,1
+648653,1st innings,South Africa,India,10.5,HM Amla,Q de Kock,R Ashwin,2,0,2,NA,0,NA,NA,NA,1
+648653,1st innings,South Africa,India,10.6,HM Amla,Q de Kock,R Ashwin,1,0,1,NA,0,NA,NA,NA,1
+648653,1st innings,South Africa,India,11.1,HM Amla,Q de Kock,SK Raina,0,0,0,NA,0,NA,NA,NA,1
+648653,1st innings,South Africa,India,11.2,HM Amla,Q de Kock,SK Raina,1,0,1,NA,0,NA,NA,NA,1
+648653,1st innings,South Africa,India,11.3,Q de Kock,HM Amla,SK Raina,1,0,1,NA,0,NA,NA,NA,1
+648653,1st innings,South Africa,India,11.4,HM Amla,Q de Kock,SK Raina,0,0,0,NA,0,NA,NA,NA,1
+648653,1st innings,South Africa,India,11.5,HM Amla,Q de Kock,SK Raina,0,0,0,NA,0,NA,NA,NA,1
+648653,1st innings,South Africa,India,11.6,HM Amla,Q de Kock,SK Raina,0,0,0,NA,0,NA,NA,NA,1
+648653,1st innings,South Africa,India,12.1,Q de Kock,HM Amla,R Ashwin,1,0,1,NA,0,NA,NA,NA,1
+648653,1st innings,South Africa,India,12.2,HM Amla,Q de Kock,R Ashwin,1,0,1,NA,0,NA,NA,NA,1
+648653,1st innings,South Africa,India,12.3,Q de Kock,HM Amla,R Ashwin,1,0,1,NA,0,NA,NA,NA,1
+648653,1st innings,South Africa,India,12.4,HM Amla,Q de Kock,R Ashwin,1,0,1,NA,0,NA,NA,NA,1
+648653,1st innings,South Africa,India,12.5,Q de Kock,HM Amla,R Ashwin,1,0,1,NA,0,NA,NA,NA,1
+648653,1st innings,South Africa,India,12.6,HM Amla,Q de Kock,R Ashwin,4,0,4,NA,0,NA,NA,NA,1
+648653,1st innings,South Africa,India,13.1,Q de Kock,HM Amla,SK Raina,0,0,0,NA,0,NA,NA,NA,1
+648653,1st innings,South Africa,India,13.2,Q de Kock,HM Amla,SK Raina,1,0,1,NA,0,NA,NA,NA,1
+648653,1st innings,South Africa,India,13.3,HM Amla,Q de Kock,SK Raina,0,0,0,NA,0,NA,NA,NA,1
+648653,1st innings,South Africa,India,13.4,HM Amla,Q de Kock,SK Raina,0,0,0,NA,0,NA,NA,NA,1
+648653,1st innings,South Africa,India,13.5,HM Amla,Q de Kock,SK Raina,1,0,1,NA,0,NA,NA,NA,1
+648653,1st innings,South Africa,India,13.6,Q de Kock,HM Amla,SK Raina,1,0,1,NA,0,NA,NA,NA,1
+648653,1st innings,South Africa,India,14.1,Q de Kock,HM Amla,R Ashwin,0,0,0,NA,0,NA,NA,NA,1
+648653,1st innings,South Africa,India,14.2,Q de Kock,HM Amla,R Ashwin,1,0,1,NA,0,NA,NA,NA,1
+648653,1st innings,South Africa,India,14.3,HM Amla,Q de Kock,R Ashwin,1,0,1,NA,0,NA,NA,NA,1
+648653,1st innings,South Africa,India,14.4,Q de Kock,HM Amla,R Ashwin,0,0,0,NA,0,NA,NA,NA,1
+648653,1st innings,South Africa,India,14.5,Q de Kock,HM Amla,R Ashwin,1,0,1,NA,0,NA,NA,NA,1
+648653,1st innings,South Africa,India,14.6,HM Amla,Q de Kock,R Ashwin,4,0,4,NA,0,NA,NA,NA,1
+648653,1st innings,South Africa,India,15.1,Q de Kock,HM Amla,SK Raina,1,0,1,NA,0,NA,NA,NA,1
+648653,1st innings,South Africa,India,15.2,HM Amla,Q de Kock,SK Raina,1,0,1,NA,0,NA,NA,NA,1
+648653,1st innings,South Africa,India,15.3,Q de Kock,HM Amla,SK Raina,2,0,2,NA,0,NA,NA,NA,1
+648653,1st innings,South Africa,India,15.4,Q de Kock,HM Amla,SK Raina,0,0,0,NA,0,NA,NA,NA,1
+648653,1st innings,South Africa,India,15.5,Q de Kock,HM Amla,SK Raina,0,0,0,NA,0,NA,NA,NA,1
+648653,1st innings,South Africa,India,15.6,Q de Kock,HM Amla,SK Raina,3,0,3,NA,0,NA,NA,NA,1
+648653,1st innings,South Africa,India,16.1,Q de Kock,HM Amla,R Ashwin,1,0,1,NA,0,NA,NA,NA,1
+648653,1st innings,South Africa,India,16.2,HM Amla,Q de Kock,R Ashwin,1,0,1,NA,0,NA,NA,NA,1
+648653,1st innings,South Africa,India,16.3,Q de Kock,HM Amla,R Ashwin,0,0,0,NA,0,NA,NA,NA,1
+648653,1st innings,South Africa,India,16.4,Q de Kock,HM Amla,R Ashwin,0,0,0,NA,0,NA,NA,NA,1
+648653,1st innings,South Africa,India,16.5,Q de Kock,HM Amla,R Ashwin,0,0,0,NA,0,NA,NA,NA,1
+648653,1st innings,South Africa,India,16.6,Q de Kock,HM Amla,R Ashwin,1,0,1,NA,0,NA,NA,NA,1
+648653,1st innings,South Africa,India,17.1,Q de Kock,HM Amla,SK Raina,1,0,1,NA,0,NA,NA,NA,1
+648653,1st innings,South Africa,India,17.2,HM Amla,Q de Kock,SK Raina,1,0,1,NA,0,NA,NA,NA,1
+648653,1st innings,South Africa,India,17.3,Q de Kock,HM Amla,SK Raina,1,0,1,NA,0,NA,NA,NA,1
+648653,1st innings,South Africa,India,17.4,HM Amla,Q de Kock,SK Raina,0,0,0,NA,0,NA,NA,NA,1
+648653,1st innings,South Africa,India,17.5,HM Amla,Q de Kock,SK Raina,0,0,0,NA,0,NA,NA,NA,1
+648653,1st innings,South Africa,India,17.6,HM Amla,Q de Kock,SK Raina,1,0,1,NA,0,NA,NA,NA,1
+648653,1st innings,South Africa,India,18.1,HM Amla,Q de Kock,V Kohli,0,0,0,NA,0,NA,NA,NA,1
+648653,1st innings,South Africa,India,18.2,HM Amla,Q de Kock,V Kohli,1,0,1,NA,0,NA,NA,NA,1
+648653,1st innings,South Africa,India,18.3,Q de Kock,HM Amla,V Kohli,2,0,2,NA,0,NA,NA,NA,1
+648653,1st innings,South Africa,India,18.4,Q de Kock,HM Amla,V Kohli,0,0,0,NA,0,NA,NA,NA,1
+648653,1st innings,South Africa,India,18.5,Q de Kock,HM Amla,V Kohli,0,0,0,NA,0,NA,NA,NA,1
+648653,1st innings,South Africa,India,18.6,Q de Kock,HM Amla,V Kohli,1,0,1,NA,0,NA,NA,NA,1
+648653,1st innings,South Africa,India,19.1,Q de Kock,HM Amla,SK Raina,2,0,2,NA,0,NA,NA,NA,1
+648653,1st innings,South Africa,India,19.2,Q de Kock,HM Amla,SK Raina,1,0,1,NA,0,NA,NA,NA,1
+648653,1st innings,South Africa,India,19.3,HM Amla,Q de Kock,SK Raina,1,0,1,NA,0,NA,NA,NA,1
+648653,1st innings,South Africa,India,19.4,Q de Kock,HM Amla,SK Raina,0,0,0,NA,0,NA,NA,NA,1
+648653,1st innings,South Africa,India,19.5,Q de Kock,HM Amla,SK Raina,1,0,1,NA,0,NA,NA,NA,1
+648653,1st innings,South Africa,India,19.6,HM Amla,Q de Kock,SK Raina,0,0,0,NA,0,NA,NA,NA,1
+648653,1st innings,South Africa,India,20.1,Q de Kock,HM Amla,V Kohli,2,0,2,NA,0,NA,NA,NA,1
+648653,1st innings,South Africa,India,20.2,Q de Kock,HM Amla,V Kohli,1,0,1,NA,0,NA,NA,NA,1
+648653,1st innings,South Africa,India,20.3,HM Amla,Q de Kock,V Kohli,1,0,1,NA,0,NA,NA,NA,1
+648653,1st innings,South Africa,India,20.4,Q de Kock,HM Amla,V Kohli,1,0,1,NA,0,NA,NA,NA,1
+648653,1st innings,South Africa,India,20.5,HM Amla,Q de Kock,V Kohli,0,0,0,NA,0,NA,NA,NA,1
+648653,1st innings,South Africa,India,20.6,HM Amla,Q de Kock,V Kohli,0,0,0,NA,0,NA,NA,NA,1
+648653,1st innings,South Africa,India,21.1,Q de Kock,HM Amla,SK Raina,1,0,1,NA,0,NA,NA,NA,1
+648653,1st innings,South Africa,India,21.2,HM Amla,Q de Kock,SK Raina,4,0,4,NA,0,NA,NA,NA,1
+648653,1st innings,South Africa,India,21.3,HM Amla,Q de Kock,SK Raina,1,0,1,NA,0,NA,NA,NA,1
+648653,1st innings,South Africa,India,21.4,Q de Kock,HM Amla,SK Raina,4,0,4,NA,0,NA,NA,NA,1
+648653,1st innings,South Africa,India,21.5,Q de Kock,HM Amla,SK Raina,0,0,0,NA,0,NA,NA,NA,1
+648653,1st innings,South Africa,India,21.6,Q de Kock,HM Amla,SK Raina,1,0,1,NA,0,NA,NA,NA,1
+648653,1st innings,South Africa,India,22.1,Q de Kock,HM Amla,V Kohli,1,0,1,NA,0,NA,NA,NA,1
+648653,1st innings,South Africa,India,22.2,HM Amla,Q de Kock,V Kohli,0,0,0,NA,0,NA,NA,NA,1
+648653,1st innings,South Africa,India,22.3,HM Amla,Q de Kock,V Kohli,1,0,1,NA,0,NA,NA,NA,1
+648653,1st innings,South Africa,India,22.4,Q de Kock,HM Amla,V Kohli,4,0,4,NA,0,NA,NA,NA,1
+648653,1st innings,South Africa,India,22.5,Q de Kock,HM Amla,V Kohli,1,0,1,NA,0,NA,NA,NA,1
+648653,1st innings,South Africa,India,22.6,HM Amla,Q de Kock,V Kohli,1,0,1,NA,0,NA,NA,NA,1
+648653,1st innings,South Africa,India,23.1,HM Amla,Q de Kock,R Ashwin,1,0,1,NA,0,NA,NA,NA,1
+648653,1st innings,South Africa,India,23.2,Q de Kock,HM Amla,R Ashwin,1,0,1,NA,0,NA,NA,NA,1
+648653,1st innings,South Africa,India,23.3,HM Amla,Q de Kock,R Ashwin,4,0,4,NA,0,NA,NA,NA,1
+648653,1st innings,South Africa,India,23.4,HM Amla,Q de Kock,R Ashwin,1,0,1,NA,0,NA,NA,NA,1
+648653,1st innings,South Africa,India,23.5,Q de Kock,HM Amla,R Ashwin,0,0,0,NA,0,NA,NA,NA,1
+648653,1st innings,South Africa,India,23.6,Q de Kock,HM Amla,R Ashwin,1,0,1,NA,0,NA,NA,NA,1
+648653,1st innings,South Africa,India,24.1,Q de Kock,HM Amla,RA Jadeja,0,0,0,NA,0,NA,NA,NA,1
+648653,1st innings,South Africa,India,24.2,Q de Kock,HM Amla,RA Jadeja,1,0,1,NA,0,NA,NA,NA,1
+648653,1st innings,South Africa,India,24.3,HM Amla,Q de Kock,RA Jadeja,0,0,0,NA,0,NA,NA,NA,1
+648653,1st innings,South Africa,India,24.4,HM Amla,Q de Kock,RA Jadeja,1,0,1,NA,0,NA,NA,NA,1
+648653,1st innings,South Africa,India,24.5,Q de Kock,HM Amla,RA Jadeja,1,0,1,NA,0,NA,NA,NA,1
+648653,1st innings,South Africa,India,24.6,HM Amla,Q de Kock,RA Jadeja,1,0,1,NA,0,NA,NA,NA,1
+648653,1st innings,South Africa,India,25.1,HM Amla,Q de Kock,R Ashwin,1,0,1,NA,0,NA,NA,NA,1
+648653,1st innings,South Africa,India,25.2,Q de Kock,HM Amla,R Ashwin,1,0,1,NA,0,NA,NA,NA,1
+648653,1st innings,South Africa,India,25.3,HM Amla,Q de Kock,R Ashwin,1,0,1,NA,0,NA,NA,NA,1
+648653,1st innings,South Africa,India,25.4,Q de Kock,HM Amla,R Ashwin,0,0,0,NA,0,NA,NA,NA,1
+648653,1st innings,South Africa,India,25.5,Q de Kock,HM Amla,R Ashwin,1,0,1,NA,0,NA,NA,NA,1
+648653,1st innings,South Africa,India,25.6,HM Amla,Q de Kock,R Ashwin,1,0,1,NA,0,NA,NA,NA,1
+648653,1st innings,South Africa,India,26.1,HM Amla,Q de Kock,RA Jadeja,1,0,1,NA,0,NA,NA,NA,1
+648653,1st innings,South Africa,India,26.2,Q de Kock,HM Amla,RA Jadeja,1,0,1,NA,0,NA,NA,NA,1
+648653,1st innings,South Africa,India,26.3,HM Amla,Q de Kock,RA Jadeja,0,0,0,NA,0,NA,NA,NA,1
+648653,1st innings,South Africa,India,26.4,HM Amla,Q de Kock,RA Jadeja,1,0,1,NA,0,NA,NA,NA,1
+648653,1st innings,South Africa,India,26.5,Q de Kock,HM Amla,RA Jadeja,1,0,1,NA,0,NA,NA,NA,1
+648653,1st innings,South Africa,India,26.6,HM Amla,Q de Kock,RA Jadeja,0,0,0,NA,0,NA,NA,NA,1
+648653,1st innings,South Africa,India,27.1,Q de Kock,HM Amla,R Ashwin,1,0,1,NA,0,NA,NA,NA,1
+648653,1st innings,South Africa,India,27.2,HM Amla,Q de Kock,R Ashwin,0,0,0,NA,0,NA,NA,NA,1
+648653,1st innings,South Africa,India,27.3,HM Amla,Q de Kock,R Ashwin,0,0,0,NA,0,NA,NA,NA,1
+648653,1st innings,South Africa,India,27.4,HM Amla,Q de Kock,R Ashwin,0,0,0,NA,0,NA,NA,NA,1
+648653,1st innings,South Africa,India,27.5,HM Amla,Q de Kock,R Ashwin,0,1,1,wides,0,NA,NA,NA,1
+648653,1st innings,South Africa,India,27.6,HM Amla,Q de Kock,R Ashwin,0,0,0,NA,0,NA,NA,NA,1
+648653,1st innings,South Africa,India,27.7,HM Amla,Q de Kock,R Ashwin,1,0,1,NA,0,NA,NA,NA,1
+648653,1st innings,South Africa,India,28.1,HM Amla,Q de Kock,RA Jadeja,0,0,0,NA,0,NA,NA,NA,1
+648653,1st innings,South Africa,India,28.2,HM Amla,Q de Kock,RA Jadeja,1,0,1,NA,0,NA,NA,NA,1
+648653,1st innings,South Africa,India,28.3,Q de Kock,HM Amla,RA Jadeja,0,0,0,NA,0,NA,NA,NA,1
+648653,1st innings,South Africa,India,28.4,Q de Kock,HM Amla,RA Jadeja,1,0,1,NA,0,NA,NA,NA,1
+648653,1st innings,South Africa,India,28.5,HM Amla,Q de Kock,RA Jadeja,4,0,4,NA,0,NA,NA,NA,1
+648653,1st innings,South Africa,India,28.6,HM Amla,Q de Kock,RA Jadeja,0,0,0,NA,0,NA,NA,NA,1
+648653,1st innings,South Africa,India,29.1,Q de Kock,HM Amla,R Ashwin,1,0,1,NA,0,NA,NA,NA,1
+648653,1st innings,South Africa,India,29.2,HM Amla,Q de Kock,R Ashwin,1,0,1,NA,0,NA,NA,NA,1
+648653,1st innings,South Africa,India,29.3,Q de Kock,HM Amla,R Ashwin,0,0,0,NA,0,NA,NA,NA,1
+648653,1st innings,South Africa,India,29.4,Q de Kock,HM Amla,R Ashwin,1,0,1,NA,0,NA,NA,NA,1
+648653,1st innings,South Africa,India,29.5,HM Amla,Q de Kock,R Ashwin,1,0,1,NA,0,NA,NA,NA,1
+648653,1st innings,South Africa,India,29.6,Q de Kock,HM Amla,R Ashwin,1,0,1,NA,0,NA,NA,NA,1
+648653,1st innings,South Africa,India,30.1,Q de Kock,HM Amla,RA Jadeja,1,0,1,NA,0,NA,NA,NA,1
+648653,1st innings,South Africa,India,30.2,HM Amla,Q de Kock,RA Jadeja,2,0,2,NA,0,NA,NA,NA,1
+648653,1st innings,South Africa,India,30.3,HM Amla,Q de Kock,RA Jadeja,1,0,1,NA,0,NA,NA,NA,1
+648653,1st innings,South Africa,India,30.4,Q de Kock,HM Amla,RA Jadeja,0,0,0,NA,0,NA,NA,NA,1
+648653,1st innings,South Africa,India,30.5,Q de Kock,HM Amla,RA Jadeja,1,0,1,NA,0,NA,NA,NA,1
+648653,1st innings,South Africa,India,30.6,HM Amla,Q de Kock,RA Jadeja,1,0,1,NA,0,NA,NA,NA,1
+648653,1st innings,South Africa,India,31.1,HM Amla,Q de Kock,I Sharma,0,0,0,NA,0,NA,NA,NA,1
+648653,1st innings,South Africa,India,31.2,HM Amla,Q de Kock,I Sharma,1,0,1,NA,0,NA,NA,NA,1
+648653,1st innings,South Africa,India,31.3,Q de Kock,HM Amla,I Sharma,0,0,0,NA,0,NA,NA,NA,1
+648653,1st innings,South Africa,India,31.4,Q de Kock,HM Amla,I Sharma,0,0,0,NA,0,NA,NA,NA,1
+648653,1st innings,South Africa,India,31.5,Q de Kock,HM Amla,I Sharma,0,0,0,NA,0,NA,NA,NA,1
+648653,1st innings,South Africa,India,31.6,Q de Kock,HM Amla,I Sharma,1,0,1,NA,0,NA,NA,NA,1
+648653,1st innings,South Africa,India,32.1,Q de Kock,HM Amla,RA Jadeja,1,0,1,NA,0,NA,NA,NA,1
+648653,1st innings,South Africa,India,32.2,HM Amla,Q de Kock,RA Jadeja,1,0,1,NA,0,NA,NA,NA,1
+648653,1st innings,South Africa,India,32.3,Q de Kock,HM Amla,RA Jadeja,1,0,1,NA,0,NA,NA,NA,1
+648653,1st innings,South Africa,India,32.4,HM Amla,Q de Kock,RA Jadeja,1,0,1,NA,0,NA,NA,NA,1
+648653,1st innings,South Africa,India,32.5,Q de Kock,HM Amla,RA Jadeja,2,0,2,NA,0,NA,NA,NA,1
+648653,1st innings,South Africa,India,32.6,Q de Kock,HM Amla,RA Jadeja,1,0,1,NA,0,NA,NA,NA,1
+648653,1st innings,South Africa,India,33.1,Q de Kock,HM Amla,I Sharma,1,0,1,NA,0,NA,NA,NA,1
+648653,1st innings,South Africa,India,33.2,HM Amla,Q de Kock,I Sharma,0,0,0,NA,0,NA,NA,NA,1
+648653,1st innings,South Africa,India,33.3,HM Amla,Q de Kock,I Sharma,1,0,1,NA,0,NA,NA,NA,1
+648653,1st innings,South Africa,India,33.4,Q de Kock,HM Amla,I Sharma,0,0,0,NA,0,NA,NA,NA,1
+648653,1st innings,South Africa,India,33.5,Q de Kock,HM Amla,I Sharma,1,0,1,NA,0,NA,NA,NA,1
+648653,1st innings,South Africa,India,33.6,HM Amla,Q de Kock,I Sharma,0,0,0,NA,0,NA,NA,NA,1
+648653,1st innings,South Africa,India,34.1,Q de Kock,HM Amla,Mohammed Shami,0,1,1,byes,0,NA,NA,NA,1
+648653,1st innings,South Africa,India,34.2,HM Amla,Q de Kock,Mohammed Shami,4,0,4,NA,0,NA,NA,NA,1
+648653,1st innings,South Africa,India,34.3,HM Amla,Q de Kock,Mohammed Shami,0,1,1,legbyes,0,NA,NA,NA,1
+648653,1st innings,South Africa,India,34.4,Q de Kock,HM Amla,Mohammed Shami,4,0,4,NA,0,NA,NA,NA,1
+648653,1st innings,South Africa,India,34.5,Q de Kock,HM Amla,Mohammed Shami,1,0,1,NA,0,NA,NA,NA,1
+648653,1st innings,South Africa,India,34.6,HM Amla,Q de Kock,Mohammed Shami,0,0,0,NA,0,NA,NA,NA,1
+648653,1st innings,South Africa,India,35.1,Q de Kock,HM Amla,R Ashwin,0,0,0,NA,1,caught,Q de Kock,RG Sharma,1
+648653,1st innings,South Africa,India,35.2,AB de Villiers,HM Amla,R Ashwin,0,0,0,NA,0,NA,NA,NA,1
+648653,1st innings,South Africa,India,35.3,AB de Villiers,HM Amla,R Ashwin,1,0,1,NA,0,NA,NA,NA,1
+648653,1st innings,South Africa,India,35.4,HM Amla,AB de Villiers,R Ashwin,0,0,0,NA,0,NA,NA,NA,1
+648653,1st innings,South Africa,India,35.5,HM Amla,AB de Villiers,R Ashwin,1,0,1,NA,0,NA,NA,NA,1
+648653,1st innings,South Africa,India,35.6,AB de Villiers,HM Amla,R Ashwin,2,0,2,NA,0,NA,NA,NA,1
+648653,1st innings,South Africa,India,36.1,HM Amla,AB de Villiers,RA Jadeja,1,0,1,NA,0,NA,NA,NA,1
+648653,1st innings,South Africa,India,36.2,AB de Villiers,HM Amla,RA Jadeja,0,0,0,NA,1,stumped,AB de Villiers,MS Dhoni,1
+648653,1st innings,South Africa,India,36.3,JP Duminy,HM Amla,RA Jadeja,1,0,1,NA,0,NA,NA,NA,1
+648653,1st innings,South Africa,India,36.4,HM Amla,JP Duminy,RA Jadeja,0,0,0,NA,0,NA,NA,NA,1
+648653,1st innings,South Africa,India,36.5,HM Amla,JP Duminy,RA Jadeja,0,0,0,NA,0,NA,NA,NA,1
+648653,1st innings,South Africa,India,36.6,HM Amla,JP Duminy,RA Jadeja,1,0,1,NA,0,NA,NA,NA,1
+648653,1st innings,South Africa,India,37.1,HM Amla,JP Duminy,UT Yadav,1,0,1,NA,0,NA,NA,NA,1
+648653,1st innings,South Africa,India,37.2,JP Duminy,HM Amla,UT Yadav,1,0,1,NA,0,NA,NA,NA,1
+648653,1st innings,South Africa,India,37.3,HM Amla,JP Duminy,UT Yadav,1,0,1,NA,0,NA,NA,NA,1
+648653,1st innings,South Africa,India,37.4,JP Duminy,HM Amla,UT Yadav,2,0,2,NA,0,NA,NA,NA,1
+648653,1st innings,South Africa,India,37.5,JP Duminy,HM Amla,UT Yadav,0,0,0,NA,0,NA,NA,NA,1
+648653,1st innings,South Africa,India,37.6,JP Duminy,HM Amla,UT Yadav,1,0,1,NA,0,NA,NA,NA,1
+648653,1st innings,South Africa,India,38.1,JP Duminy,HM Amla,RA Jadeja,0,0,0,NA,0,NA,NA,NA,1
+648653,1st innings,South Africa,India,38.2,JP Duminy,HM Amla,RA Jadeja,0,0,0,NA,0,NA,NA,NA,1
+648653,1st innings,South Africa,India,38.3,JP Duminy,HM Amla,RA Jadeja,1,0,1,NA,0,NA,NA,NA,1
+648653,1st innings,South Africa,India,38.4,HM Amla,JP Duminy,RA Jadeja,1,0,1,NA,0,NA,NA,NA,1
+648653,1st innings,South Africa,India,38.5,JP Duminy,HM Amla,RA Jadeja,1,0,1,NA,0,NA,NA,NA,1
+648653,1st innings,South Africa,India,38.6,HM Amla,JP Duminy,RA Jadeja,0,0,0,NA,0,NA,NA,NA,1
+648653,1st innings,South Africa,India,39.1,JP Duminy,HM Amla,UT Yadav,1,0,1,NA,0,NA,NA,NA,1
+648653,1st innings,South Africa,India,39.2,HM Amla,JP Duminy,UT Yadav,2,0,2,NA,0,NA,NA,NA,1
+648653,1st innings,South Africa,India,39.3,HM Amla,JP Duminy,UT Yadav,1,0,1,NA,0,NA,NA,NA,1
+648653,1st innings,South Africa,India,39.4,JP Duminy,HM Amla,UT Yadav,0,0,0,NA,0,NA,NA,NA,1
+648653,1st innings,South Africa,India,39.5,JP Duminy,HM Amla,UT Yadav,1,0,1,NA,0,NA,NA,NA,1
+648653,1st innings,South Africa,India,39.6,HM Amla,JP Duminy,UT Yadav,1,0,1,NA,0,NA,NA,NA,1
+648653,1st innings,South Africa,India,40.1,HM Amla,JP Duminy,RA Jadeja,1,0,1,NA,0,NA,NA,NA,1
+648653,1st innings,South Africa,India,40.2,JP Duminy,HM Amla,RA Jadeja,1,0,1,NA,0,NA,NA,NA,1
+648653,1st innings,South Africa,India,40.3,HM Amla,JP Duminy,RA Jadeja,1,0,1,NA,0,NA,NA,NA,1
+648653,1st innings,South Africa,India,40.4,JP Duminy,HM Amla,RA Jadeja,0,0,0,NA,0,NA,NA,NA,1
+648653,1st innings,South Africa,India,40.5,JP Duminy,HM Amla,RA Jadeja,0,0,0,NA,0,NA,NA,NA,1
+648653,1st innings,South Africa,India,40.6,JP Duminy,HM Amla,RA Jadeja,0,0,0,NA,0,NA,NA,NA,1
+648653,1st innings,South Africa,India,41.1,HM Amla,JP Duminy,UT Yadav,0,0,0,NA,0,NA,NA,NA,1
+648653,1st innings,South Africa,India,41.2,HM Amla,JP Duminy,UT Yadav,1,0,1,NA,0,NA,NA,NA,1
+648653,1st innings,South Africa,India,41.3,JP Duminy,HM Amla,UT Yadav,0,0,0,NA,0,NA,NA,NA,1
+648653,1st innings,South Africa,India,41.4,JP Duminy,HM Amla,UT Yadav,1,0,1,NA,0,NA,NA,NA,1
+648653,1st innings,South Africa,India,41.5,HM Amla,JP Duminy,UT Yadav,0,0,0,NA,0,NA,NA,NA,1
+648653,1st innings,South Africa,India,41.6,HM Amla,JP Duminy,UT Yadav,1,0,1,NA,0,NA,NA,NA,1
+648653,1st innings,South Africa,India,42.1,HM Amla,JP Duminy,RA Jadeja,1,0,1,NA,0,NA,NA,NA,1
+648653,1st innings,South Africa,India,42.2,JP Duminy,HM Amla,RA Jadeja,1,0,1,NA,0,NA,NA,NA,1
+648653,1st innings,South Africa,India,42.3,HM Amla,JP Duminy,RA Jadeja,1,0,1,NA,0,NA,NA,NA,1
+648653,1st innings,South Africa,India,42.4,JP Duminy,HM Amla,RA Jadeja,4,0,4,NA,0,NA,NA,NA,1
+648653,1st innings,South Africa,India,42.5,JP Duminy,HM Amla,RA Jadeja,1,0,1,NA,0,NA,NA,NA,1
+648653,1st innings,South Africa,India,42.6,HM Amla,JP Duminy,RA Jadeja,1,0,1,NA,0,NA,NA,NA,1
+648653,1st innings,South Africa,India,43.1,HM Amla,JP Duminy,Mohammed Shami,1,0,1,NA,0,NA,NA,NA,1
+648653,1st innings,South Africa,India,43.2,JP Duminy,HM Amla,Mohammed Shami,1,0,1,NA,0,NA,NA,NA,1
+648653,1st innings,South Africa,India,43.3,HM Amla,JP Duminy,Mohammed Shami,0,0,0,NA,1,caught,HM Amla,MS Dhoni,1
+648653,1st innings,South Africa,India,43.4,DA Miller,JP Duminy,Mohammed Shami,0,0,0,NA,0,NA,NA,NA,1
+648653,1st innings,South Africa,India,43.5,DA Miller,JP Duminy,Mohammed Shami,0,1,1,wides,0,NA,NA,NA,1
+648653,1st innings,South Africa,India,43.6,DA Miller,JP Duminy,Mohammed Shami,0,0,0,NA,0,NA,NA,NA,1
+648653,1st innings,South Africa,India,43.7,DA Miller,JP Duminy,Mohammed Shami,0,0,0,NA,1,lbw,DA Miller,NA,1
+648653,1st innings,South Africa,India,44.1,JP Duminy,JH Kallis,RA Jadeja,0,1,1,wides,0,NA,NA,NA,1
+648653,1st innings,South Africa,India,44.2,JP Duminy,JH Kallis,RA Jadeja,0,0,0,NA,0,NA,NA,NA,1
+648653,1st innings,South Africa,India,44.3,JP Duminy,JH Kallis,RA Jadeja,0,0,0,NA,0,NA,NA,NA,1
+648653,1st innings,South Africa,India,44.4,JP Duminy,JH Kallis,RA Jadeja,1,0,1,NA,0,NA,NA,NA,1
+648653,1st innings,South Africa,India,44.5,JH Kallis,JP Duminy,RA Jadeja,1,0,1,NA,0,NA,NA,NA,1
+648653,1st innings,South Africa,India,44.6,JP Duminy,JH Kallis,RA Jadeja,1,0,1,NA,0,NA,NA,NA,1
+648653,1st innings,South Africa,India,44.7,JH Kallis,JP Duminy,RA Jadeja,0,0,0,NA,0,NA,NA,NA,1
+648653,1st innings,South Africa,India,45.1,JP Duminy,JH Kallis,Mohammed Shami,1,0,1,NA,0,NA,NA,NA,1
+648653,1st innings,South Africa,India,45.2,JH Kallis,JP Duminy,Mohammed Shami,0,1,1,wides,0,NA,NA,NA,1
+648653,1st innings,South Africa,India,45.3,JH Kallis,JP Duminy,Mohammed Shami,0,0,0,NA,0,NA,NA,NA,1
+648653,1st innings,South Africa,India,45.4,JH Kallis,JP Duminy,Mohammed Shami,0,0,0,NA,0,NA,NA,NA,1
+648653,1st innings,South Africa,India,45.5,JH Kallis,JP Duminy,Mohammed Shami,0,0,0,NA,0,NA,NA,NA,1
+648653,1st innings,South Africa,India,45.6,JH Kallis,JP Duminy,Mohammed Shami,1,0,1,NA,0,NA,NA,NA,1
+648653,1st innings,South Africa,India,45.7,JP Duminy,JH Kallis,Mohammed Shami,4,0,4,NA,0,NA,NA,NA,1
+648653,1st innings,South Africa,India,46.1,JH Kallis,JP Duminy,I Sharma,2,0,2,NA,0,NA,NA,NA,1
+648653,1st innings,South Africa,India,46.2,JH Kallis,JP Duminy,I Sharma,1,0,1,NA,0,NA,NA,NA,1
+648653,1st innings,South Africa,India,46.3,JP Duminy,JH Kallis,I Sharma,1,0,1,NA,1,run out,JP Duminy,UT Yadav,1
+648653,1st innings,South Africa,India,46.4,R McLaren,JH Kallis,I Sharma,1,0,1,NA,0,NA,NA,NA,1
+648653,1st innings,South Africa,India,46.5,JH Kallis,R McLaren,I Sharma,1,0,1,NA,0,NA,NA,NA,1
+648653,1st innings,South Africa,India,46.6,R McLaren,JH Kallis,I Sharma,0,0,0,NA,0,NA,NA,NA,1
+648653,1st innings,South Africa,India,47.1,JH Kallis,R McLaren,Mohammed Shami,0,0,0,NA,0,NA,NA,NA,1
+648653,1st innings,South Africa,India,47.2,JH Kallis,R McLaren,Mohammed Shami,0,0,0,NA,0,NA,NA,NA,1
+648653,1st innings,South Africa,India,47.3,JH Kallis,R McLaren,Mohammed Shami,4,0,4,NA,0,NA,NA,NA,1
+648653,1st innings,South Africa,India,47.4,JH Kallis,R McLaren,Mohammed Shami,0,0,0,NA,1,bowled,JH Kallis,NA,1
+648653,1st innings,South Africa,India,47.5,VD Philander,R McLaren,Mohammed Shami,1,0,1,NA,0,NA,NA,NA,1
+648653,1st innings,South Africa,India,47.6,R McLaren,VD Philander,Mohammed Shami,4,0,4,NA,0,NA,NA,NA,1
+648653,1st innings,South Africa,India,48.1,VD Philander,R McLaren,UT Yadav,1,0,1,NA,0,NA,NA,NA,1
+648653,1st innings,South Africa,India,48.2,R McLaren,VD Philander,UT Yadav,6,0,6,NA,0,NA,NA,NA,1
+648653,1st innings,South Africa,India,48.3,R McLaren,VD Philander,UT Yadav,1,0,1,NA,0,NA,NA,NA,1
+648653,1st innings,South Africa,India,48.4,VD Philander,R McLaren,UT Yadav,4,0,4,NA,0,NA,NA,NA,1
+648653,1st innings,South Africa,India,48.5,VD Philander,R McLaren,UT Yadav,4,0,4,NA,0,NA,NA,NA,1
+648653,1st innings,South Africa,India,48.6,VD Philander,R McLaren,UT Yadav,4,0,4,NA,0,NA,NA,NA,1
+648653,2nd innings,India,South Africa,0.1,RG Sharma,S Dhawan,DW Steyn,2,0,2,NA,0,NA,NA,NA,0
+648653,2nd innings,India,South Africa,0.2,RG Sharma,S Dhawan,DW Steyn,2,0,2,NA,0,NA,NA,NA,0
+648653,2nd innings,India,South Africa,0.3,RG Sharma,S Dhawan,DW Steyn,0,0,0,NA,0,NA,NA,NA,0
+648653,2nd innings,India,South Africa,0.4,RG Sharma,S Dhawan,DW Steyn,0,0,0,NA,0,NA,NA,NA,0
+648653,2nd innings,India,South Africa,0.5,RG Sharma,S Dhawan,DW Steyn,0,0,0,NA,0,NA,NA,NA,0
+648653,2nd innings,India,South Africa,0.6,RG Sharma,S Dhawan,DW Steyn,1,0,1,NA,0,NA,NA,NA,0
+648653,2nd innings,India,South Africa,1.1,RG Sharma,S Dhawan,LL Tsotsobe,0,1,1,wides,0,NA,NA,NA,0
+648653,2nd innings,India,South Africa,1.2,RG Sharma,S Dhawan,LL Tsotsobe,0,0,0,NA,0,NA,NA,NA,0
+648653,2nd innings,India,South Africa,1.3,RG Sharma,S Dhawan,LL Tsotsobe,0,0,0,NA,0,NA,NA,NA,0
+648653,2nd innings,India,South Africa,1.4,RG Sharma,S Dhawan,LL Tsotsobe,0,0,0,NA,0,NA,NA,NA,0
+648653,2nd innings,India,South Africa,1.5,RG Sharma,S Dhawan,LL Tsotsobe,4,0,4,NA,0,NA,NA,NA,0
+648653,2nd innings,India,South Africa,1.6,RG Sharma,S Dhawan,LL Tsotsobe,0,0,0,NA,0,NA,NA,NA,0
+648653,2nd innings,India,South Africa,1.7,RG Sharma,S Dhawan,LL Tsotsobe,0,0,0,NA,0,NA,NA,NA,0
+648653,2nd innings,India,South Africa,2.1,S Dhawan,RG Sharma,DW Steyn,0,0,0,NA,0,NA,NA,NA,0
+648653,2nd innings,India,South Africa,2.2,S Dhawan,RG Sharma,DW Steyn,0,0,0,NA,1,caught,S Dhawan,JP Duminy,0
+648653,2nd innings,India,South Africa,2.3,V Kohli,RG Sharma,DW Steyn,0,1,1,wides,0,NA,NA,NA,0
+648653,2nd innings,India,South Africa,2.4,V Kohli,RG Sharma,DW Steyn,0,0,0,NA,0,NA,NA,NA,0
+648653,2nd innings,India,South Africa,2.5,V Kohli,RG Sharma,DW Steyn,0,0,0,NA,0,NA,NA,NA,0
+648653,2nd innings,India,South Africa,2.6,V Kohli,RG Sharma,DW Steyn,0,4,4,byes,0,NA,NA,NA,0
+648653,2nd innings,India,South Africa,2.7,V Kohli,RG Sharma,DW Steyn,0,0,0,NA,0,NA,NA,NA,0
+648653,2nd innings,India,South Africa,3.1,RG Sharma,V Kohli,LL Tsotsobe,0,0,0,NA,0,NA,NA,NA,0
+648653,2nd innings,India,South Africa,3.2,RG Sharma,V Kohli,LL Tsotsobe,0,0,0,NA,0,NA,NA,NA,0
+648653,2nd innings,India,South Africa,3.3,RG Sharma,V Kohli,LL Tsotsobe,0,0,0,NA,0,NA,NA,NA,0
+648653,2nd innings,India,South Africa,3.4,RG Sharma,V Kohli,LL Tsotsobe,1,0,1,NA,0,NA,NA,NA,0
+648653,2nd innings,India,South Africa,3.5,V Kohli,RG Sharma,LL Tsotsobe,0,0,0,NA,1,caught,V Kohli,Q de Kock,0
+648653,2nd innings,India,South Africa,3.6,AM Rahane,RG Sharma,LL Tsotsobe,0,0,0,NA,0,NA,NA,NA,0
+648653,2nd innings,India,South Africa,4.1,RG Sharma,AM Rahane,DW Steyn,0,0,0,NA,0,NA,NA,NA,0
+648653,2nd innings,India,South Africa,4.2,RG Sharma,AM Rahane,DW Steyn,0,0,0,NA,0,NA,NA,NA,0
+648653,2nd innings,India,South Africa,4.3,RG Sharma,AM Rahane,DW Steyn,1,0,1,NA,0,NA,NA,NA,0
+648653,2nd innings,India,South Africa,4.4,AM Rahane,RG Sharma,DW Steyn,0,0,0,NA,0,NA,NA,NA,0
+648653,2nd innings,India,South Africa,4.5,AM Rahane,RG Sharma,DW Steyn,0,0,0,NA,0,NA,NA,NA,0
+648653,2nd innings,India,South Africa,4.6,AM Rahane,RG Sharma,DW Steyn,0,0,0,NA,0,NA,NA,NA,0
+648653,2nd innings,India,South Africa,5.1,RG Sharma,AM Rahane,LL Tsotsobe,1,0,1,NA,0,NA,NA,NA,0
+648653,2nd innings,India,South Africa,5.2,AM Rahane,RG Sharma,LL Tsotsobe,0,0,0,NA,0,NA,NA,NA,0
+648653,2nd innings,India,South Africa,5.3,AM Rahane,RG Sharma,LL Tsotsobe,0,0,0,NA,0,NA,NA,NA,0
+648653,2nd innings,India,South Africa,5.4,AM Rahane,RG Sharma,LL Tsotsobe,0,0,0,NA,0,NA,NA,NA,0
+648653,2nd innings,India,South Africa,5.5,AM Rahane,RG Sharma,LL Tsotsobe,1,0,1,NA,0,NA,NA,NA,0
+648653,2nd innings,India,South Africa,5.6,RG Sharma,AM Rahane,LL Tsotsobe,2,0,2,NA,0,NA,NA,NA,0
+648653,2nd innings,India,South Africa,6.1,AM Rahane,RG Sharma,DW Steyn,0,0,0,NA,0,NA,NA,NA,0
+648653,2nd innings,India,South Africa,6.2,AM Rahane,RG Sharma,DW Steyn,0,0,0,NA,0,NA,NA,NA,0
+648653,2nd innings,India,South Africa,6.3,AM Rahane,RG Sharma,DW Steyn,1,0,1,NA,0,NA,NA,NA,0
+648653,2nd innings,India,South Africa,6.4,RG Sharma,AM Rahane,DW Steyn,1,0,1,NA,0,NA,NA,NA,0
+648653,2nd innings,India,South Africa,6.5,AM Rahane,RG Sharma,DW Steyn,2,0,2,NA,0,NA,NA,NA,0
+648653,2nd innings,India,South Africa,6.6,AM Rahane,RG Sharma,DW Steyn,0,0,0,NA,0,NA,NA,NA,0
+648653,2nd innings,India,South Africa,7.1,RG Sharma,AM Rahane,LL Tsotsobe,0,0,0,NA,0,NA,NA,NA,0
+648653,2nd innings,India,South Africa,7.2,RG Sharma,AM Rahane,LL Tsotsobe,4,0,4,NA,0,NA,NA,NA,0
+648653,2nd innings,India,South Africa,7.3,RG Sharma,AM Rahane,LL Tsotsobe,0,0,0,NA,0,NA,NA,NA,0
+648653,2nd innings,India,South Africa,7.4,RG Sharma,AM Rahane,LL Tsotsobe,0,0,0,NA,1,caught,RG Sharma,HM Amla,0
+648653,2nd innings,India,South Africa,7.5,SK Raina,AM Rahane,LL Tsotsobe,0,0,0,NA,0,NA,NA,NA,0
+648653,2nd innings,India,South Africa,7.6,SK Raina,AM Rahane,LL Tsotsobe,0,1,1,wides,0,NA,NA,NA,0
+648653,2nd innings,India,South Africa,7.7,SK Raina,AM Rahane,LL Tsotsobe,0,0,0,NA,0,NA,NA,NA,0
+648653,2nd innings,India,South Africa,8.1,AM Rahane,SK Raina,M Morkel,4,0,4,NA,0,NA,NA,NA,0
+648653,2nd innings,India,South Africa,8.2,AM Rahane,SK Raina,M Morkel,0,0,0,NA,0,NA,NA,NA,0
+648653,2nd innings,India,South Africa,8.3,AM Rahane,SK Raina,M Morkel,0,0,0,NA,0,NA,NA,NA,0
+648653,2nd innings,India,South Africa,8.4,AM Rahane,SK Raina,M Morkel,0,0,0,NA,1,caught,AM Rahane,Q de Kock,0
+648653,2nd innings,India,South Africa,8.5,MS Dhoni,SK Raina,M Morkel,1,0,1,NA,0,NA,NA,NA,0
+648653,2nd innings,India,South Africa,8.6,SK Raina,MS Dhoni,M Morkel,0,0,0,NA,0,NA,NA,NA,0
+648653,2nd innings,India,South Africa,9.1,MS Dhoni,SK Raina,VD Philander,0,0,0,NA,0,NA,NA,NA,0
+648653,2nd innings,India,South Africa,9.2,MS Dhoni,SK Raina,VD Philander,0,0,0,NA,0,NA,NA,NA,0
+648653,2nd innings,India,South Africa,9.3,MS Dhoni,SK Raina,VD Philander,0,0,0,NA,0,NA,NA,NA,0
+648653,2nd innings,India,South Africa,9.4,MS Dhoni,SK Raina,VD Philander,0,0,0,NA,0,NA,NA,NA,0
+648653,2nd innings,India,South Africa,9.5,MS Dhoni,SK Raina,VD Philander,0,0,0,NA,0,NA,NA,NA,0
+648653,2nd innings,India,South Africa,9.6,MS Dhoni,SK Raina,VD Philander,0,0,0,NA,0,NA,NA,NA,0
+648653,2nd innings,India,South Africa,10.1,SK Raina,MS Dhoni,M Morkel,2,0,2,NA,0,NA,NA,NA,0
+648653,2nd innings,India,South Africa,10.2,SK Raina,MS Dhoni,M Morkel,0,0,0,NA,0,NA,NA,NA,0
+648653,2nd innings,India,South Africa,10.3,SK Raina,MS Dhoni,M Morkel,0,1,1,wides,0,NA,NA,NA,0
+648653,2nd innings,India,South Africa,10.4,SK Raina,MS Dhoni,M Morkel,0,0,0,NA,0,NA,NA,NA,0
+648653,2nd innings,India,South Africa,10.5,SK Raina,MS Dhoni,M Morkel,1,0,1,NA,0,NA,NA,NA,0
+648653,2nd innings,India,South Africa,10.6,MS Dhoni,SK Raina,M Morkel,0,0,0,NA,0,NA,NA,NA,0
+648653,2nd innings,India,South Africa,10.7,MS Dhoni,SK Raina,M Morkel,0,0,0,NA,0,NA,NA,NA,0
+648653,2nd innings,India,South Africa,11.1,SK Raina,MS Dhoni,VD Philander,1,0,1,NA,0,NA,NA,NA,0
+648653,2nd innings,India,South Africa,11.2,MS Dhoni,SK Raina,VD Philander,1,0,1,NA,0,NA,NA,NA,0
+648653,2nd innings,India,South Africa,11.3,SK Raina,MS Dhoni,VD Philander,0,0,0,NA,0,NA,NA,NA,0
+648653,2nd innings,India,South Africa,11.4,SK Raina,MS Dhoni,VD Philander,1,0,1,NA,0,NA,NA,NA,0
+648653,2nd innings,India,South Africa,11.5,MS Dhoni,SK Raina,VD Philander,1,0,1,NA,0,NA,NA,NA,0
+648653,2nd innings,India,South Africa,11.6,SK Raina,MS Dhoni,VD Philander,0,0,0,NA,0,NA,NA,NA,0
+648653,2nd innings,India,South Africa,12.1,MS Dhoni,SK Raina,JP Duminy,0,0,0,NA,0,NA,NA,NA,0
+648653,2nd innings,India,South Africa,12.2,MS Dhoni,SK Raina,JP Duminy,1,0,1,NA,0,NA,NA,NA,0
+648653,2nd innings,India,South Africa,12.3,SK Raina,MS Dhoni,JP Duminy,0,0,0,NA,0,NA,NA,NA,0
+648653,2nd innings,India,South Africa,12.4,SK Raina,MS Dhoni,JP Duminy,0,0,0,NA,0,NA,NA,NA,0
+648653,2nd innings,India,South Africa,12.5,SK Raina,MS Dhoni,JP Duminy,1,0,1,NA,0,NA,NA,NA,0
+648653,2nd innings,India,South Africa,12.6,MS Dhoni,SK Raina,JP Duminy,1,0,1,NA,0,NA,NA,NA,0
+648653,2nd innings,India,South Africa,13.1,MS Dhoni,SK Raina,VD Philander,1,0,1,NA,0,NA,NA,NA,0
+648653,2nd innings,India,South Africa,13.2,SK Raina,MS Dhoni,VD Philander,1,0,1,NA,0,NA,NA,NA,0
+648653,2nd innings,India,South Africa,13.3,MS Dhoni,SK Raina,VD Philander,1,0,1,NA,0,NA,NA,NA,0
+648653,2nd innings,India,South Africa,13.4,SK Raina,MS Dhoni,VD Philander,1,0,1,NA,0,NA,NA,NA,0
+648653,2nd innings,India,South Africa,13.5,MS Dhoni,SK Raina,VD Philander,0,0,0,NA,0,NA,NA,NA,0
+648653,2nd innings,India,South Africa,13.6,MS Dhoni,SK Raina,VD Philander,1,0,1,NA,0,NA,NA,NA,0
+648653,2nd innings,India,South Africa,14.1,MS Dhoni,SK Raina,JP Duminy,0,0,0,NA,0,NA,NA,NA,0
+648653,2nd innings,India,South Africa,14.2,MS Dhoni,SK Raina,JP Duminy,1,0,1,NA,0,NA,NA,NA,0
+648653,2nd innings,India,South Africa,14.3,SK Raina,MS Dhoni,JP Duminy,0,0,0,NA,0,NA,NA,NA,0
+648653,2nd innings,India,South Africa,14.4,SK Raina,MS Dhoni,JP Duminy,1,0,1,NA,0,NA,NA,NA,0
+648653,2nd innings,India,South Africa,14.5,MS Dhoni,SK Raina,JP Duminy,0,0,0,NA,0,NA,NA,NA,0
+648653,2nd innings,India,South Africa,14.6,MS Dhoni,SK Raina,JP Duminy,1,0,1,NA,0,NA,NA,NA,0
+648653,2nd innings,India,South Africa,15.1,MS Dhoni,SK Raina,VD Philander,1,0,1,NA,0,NA,NA,NA,0
+648653,2nd innings,India,South Africa,15.2,SK Raina,MS Dhoni,VD Philander,0,0,0,NA,0,NA,NA,NA,0
+648653,2nd innings,India,South Africa,15.3,SK Raina,MS Dhoni,VD Philander,0,0,0,NA,0,NA,NA,NA,0
+648653,2nd innings,India,South Africa,15.4,SK Raina,MS Dhoni,VD Philander,1,0,1,NA,0,NA,NA,NA,0
+648653,2nd innings,India,South Africa,15.5,MS Dhoni,SK Raina,VD Philander,1,0,1,NA,0,NA,NA,NA,0
+648653,2nd innings,India,South Africa,15.6,SK Raina,MS Dhoni,VD Philander,1,0,1,NA,0,NA,NA,NA,0
+648653,2nd innings,India,South Africa,16.1,SK Raina,MS Dhoni,JP Duminy,0,0,0,NA,0,NA,NA,NA,0
+648653,2nd innings,India,South Africa,16.2,SK Raina,MS Dhoni,JP Duminy,0,0,0,NA,0,NA,NA,NA,0
+648653,2nd innings,India,South Africa,16.3,SK Raina,MS Dhoni,JP Duminy,0,0,0,NA,0,NA,NA,NA,0
+648653,2nd innings,India,South Africa,16.4,SK Raina,MS Dhoni,JP Duminy,1,0,1,NA,0,NA,NA,NA,0
+648653,2nd innings,India,South Africa,16.5,MS Dhoni,SK Raina,JP Duminy,1,0,1,NA,0,NA,NA,NA,0
+648653,2nd innings,India,South Africa,16.6,SK Raina,MS Dhoni,JP Duminy,0,0,0,NA,0,NA,NA,NA,0
+648653,2nd innings,India,South Africa,17.1,MS Dhoni,SK Raina,VD Philander,1,0,1,NA,0,NA,NA,NA,0
+648653,2nd innings,India,South Africa,17.2,SK Raina,MS Dhoni,VD Philander,0,0,0,NA,0,NA,NA,NA,0
+648653,2nd innings,India,South Africa,17.3,SK Raina,MS Dhoni,VD Philander,2,0,2,NA,0,NA,NA,NA,0
+648653,2nd innings,India,South Africa,17.4,SK Raina,MS Dhoni,VD Philander,0,0,0,NA,0,NA,NA,NA,0
+648653,2nd innings,India,South Africa,17.5,SK Raina,MS Dhoni,VD Philander,0,0,0,NA,0,NA,NA,NA,0
+648653,2nd innings,India,South Africa,17.6,SK Raina,MS Dhoni,VD Philander,0,0,0,NA,0,NA,NA,NA,0
+648653,2nd innings,India,South Africa,18.1,MS Dhoni,SK Raina,JP Duminy,1,0,1,NA,0,NA,NA,NA,0
+648653,2nd innings,India,South Africa,18.2,SK Raina,MS Dhoni,JP Duminy,0,0,0,NA,0,NA,NA,NA,0
+648653,2nd innings,India,South Africa,18.3,SK Raina,MS Dhoni,JP Duminy,4,0,4,NA,0,NA,NA,NA,0
+648653,2nd innings,India,South Africa,18.4,SK Raina,MS Dhoni,JP Duminy,1,0,1,NA,0,NA,NA,NA,0
+648653,2nd innings,India,South Africa,18.5,MS Dhoni,SK Raina,JP Duminy,1,0,1,NA,0,NA,NA,NA,0
+648653,2nd innings,India,South Africa,18.6,SK Raina,MS Dhoni,JP Duminy,0,0,0,NA,0,NA,NA,NA,0
+648653,2nd innings,India,South Africa,19.1,MS Dhoni,SK Raina,VD Philander,2,0,2,NA,0,NA,NA,NA,0
+648653,2nd innings,India,South Africa,19.2,MS Dhoni,SK Raina,VD Philander,1,0,1,NA,0,NA,NA,NA,0
+648653,2nd innings,India,South Africa,19.3,SK Raina,MS Dhoni,VD Philander,0,0,0,NA,0,NA,NA,NA,0
+648653,2nd innings,India,South Africa,19.4,SK Raina,MS Dhoni,VD Philander,1,0,1,NA,0,NA,NA,NA,0
+648653,2nd innings,India,South Africa,19.5,MS Dhoni,SK Raina,VD Philander,0,0,0,NA,1,caught,MS Dhoni,Q de Kock,0
+648653,2nd innings,India,South Africa,19.6,RA Jadeja,SK Raina,VD Philander,0,0,0,NA,0,NA,NA,NA,0
+648653,2nd innings,India,South Africa,20.1,SK Raina,RA Jadeja,M Morkel,2,0,2,NA,0,NA,NA,NA,0
+648653,2nd innings,India,South Africa,20.2,SK Raina,RA Jadeja,M Morkel,4,0,4,NA,0,NA,NA,NA,0
+648653,2nd innings,India,South Africa,20.3,SK Raina,RA Jadeja,M Morkel,2,0,2,NA,0,NA,NA,NA,0
+648653,2nd innings,India,South Africa,20.4,SK Raina,RA Jadeja,M Morkel,0,1,1,legbyes,0,NA,NA,NA,0
+648653,2nd innings,India,South Africa,20.5,RA Jadeja,SK Raina,M Morkel,0,0,0,NA,0,NA,NA,NA,0
+648653,2nd innings,India,South Africa,20.6,RA Jadeja,SK Raina,M Morkel,0,0,0,NA,0,NA,NA,NA,0
+648653,2nd innings,India,South Africa,21.1,SK Raina,RA Jadeja,R McLaren,0,1,1,wides,0,NA,NA,NA,0
+648653,2nd innings,India,South Africa,21.2,SK Raina,RA Jadeja,R McLaren,1,0,1,NA,0,NA,NA,NA,0
+648653,2nd innings,India,South Africa,21.3,RA Jadeja,SK Raina,R McLaren,1,0,1,NA,0,NA,NA,NA,0
+648653,2nd innings,India,South Africa,21.4,SK Raina,RA Jadeja,R McLaren,4,0,4,NA,0,NA,NA,NA,0
+648653,2nd innings,India,South Africa,21.5,SK Raina,RA Jadeja,R McLaren,0,0,0,NA,0,NA,NA,NA,0
+648653,2nd innings,India,South Africa,21.6,SK Raina,RA Jadeja,R McLaren,1,0,1,NA,0,NA,NA,NA,0
+648653,2nd innings,India,South Africa,21.7,RA Jadeja,SK Raina,R McLaren,0,0,0,NA,0,NA,NA,NA,0
+648653,2nd innings,India,South Africa,22.1,SK Raina,RA Jadeja,M Morkel,1,0,1,NA,0,NA,NA,NA,0
+648653,2nd innings,India,South Africa,22.2,RA Jadeja,SK Raina,M Morkel,1,0,1,NA,0,NA,NA,NA,0
+648653,2nd innings,India,South Africa,22.3,SK Raina,RA Jadeja,M Morkel,0,0,0,NA,0,NA,NA,NA,0
+648653,2nd innings,India,South Africa,22.4,SK Raina,RA Jadeja,M Morkel,1,0,1,NA,0,NA,NA,NA,0
+648653,2nd innings,India,South Africa,22.5,RA Jadeja,SK Raina,M Morkel,1,0,1,NA,0,NA,NA,NA,0
+648653,2nd innings,India,South Africa,22.6,SK Raina,RA Jadeja,M Morkel,0,0,0,NA,1,caught,SK Raina,DA Miller,0
+648653,2nd innings,India,South Africa,23.1,RA Jadeja,R Ashwin,R McLaren,1,0,1,NA,0,NA,NA,NA,0
+648653,2nd innings,India,South Africa,23.2,R Ashwin,RA Jadeja,R McLaren,1,0,1,NA,0,NA,NA,NA,0
+648653,2nd innings,India,South Africa,23.3,RA Jadeja,R Ashwin,R McLaren,0,1,1,wides,0,NA,NA,NA,0
+648653,2nd innings,India,South Africa,23.4,RA Jadeja,R Ashwin,R McLaren,0,0,0,NA,0,NA,NA,NA,0
+648653,2nd innings,India,South Africa,23.5,RA Jadeja,R Ashwin,R McLaren,1,0,1,NA,0,NA,NA,NA,0
+648653,2nd innings,India,South Africa,23.6,R Ashwin,RA Jadeja,R McLaren,1,0,1,NA,0,NA,NA,NA,0
+648653,2nd innings,India,South Africa,23.7,RA Jadeja,R Ashwin,R McLaren,0,0,0,NA,0,NA,NA,NA,0
+648653,2nd innings,India,South Africa,24.1,R Ashwin,RA Jadeja,M Morkel,1,0,1,NA,0,NA,NA,NA,0
+648653,2nd innings,India,South Africa,24.2,RA Jadeja,R Ashwin,M Morkel,0,0,0,NA,0,NA,NA,NA,0
+648653,2nd innings,India,South Africa,24.3,RA Jadeja,R Ashwin,M Morkel,6,0,6,NA,0,NA,NA,NA,0
+648653,2nd innings,India,South Africa,24.4,RA Jadeja,R Ashwin,M Morkel,0,0,0,NA,0,NA,NA,NA,0
+648653,2nd innings,India,South Africa,24.5,RA Jadeja,R Ashwin,M Morkel,1,0,1,NA,0,NA,NA,NA,0
+648653,2nd innings,India,South Africa,24.6,R Ashwin,RA Jadeja,M Morkel,0,0,0,NA,0,NA,NA,NA,0
+648653,2nd innings,India,South Africa,25.1,RA Jadeja,R Ashwin,R McLaren,0,0,0,NA,0,NA,NA,NA,0
+648653,2nd innings,India,South Africa,25.2,RA Jadeja,R Ashwin,R McLaren,1,0,1,NA,0,NA,NA,NA,0
+648653,2nd innings,India,South Africa,25.3,R Ashwin,RA Jadeja,R McLaren,1,0,1,NA,0,NA,NA,NA,0
+648653,2nd innings,India,South Africa,25.4,RA Jadeja,R Ashwin,R McLaren,4,0,4,NA,0,NA,NA,NA,0
+648653,2nd innings,India,South Africa,25.5,RA Jadeja,R Ashwin,R McLaren,1,0,1,NA,0,NA,NA,NA,0
+648653,2nd innings,India,South Africa,25.6,R Ashwin,RA Jadeja,R McLaren,0,0,0,NA,0,NA,NA,NA,0
+648653,2nd innings,India,South Africa,26.1,RA Jadeja,R Ashwin,M Morkel,0,1,1,noballs,0,NA,NA,NA,0
+648653,2nd innings,India,South Africa,26.2,RA Jadeja,R Ashwin,M Morkel,0,0,0,NA,0,NA,NA,NA,0
+648653,2nd innings,India,South Africa,26.3,RA Jadeja,R Ashwin,M Morkel,0,0,0,NA,0,NA,NA,NA,0
+648653,2nd innings,India,South Africa,26.4,RA Jadeja,R Ashwin,M Morkel,1,0,1,NA,0,NA,NA,NA,0
+648653,2nd innings,India,South Africa,26.5,R Ashwin,RA Jadeja,M Morkel,1,0,1,NA,0,NA,NA,NA,0
+648653,2nd innings,India,South Africa,26.6,RA Jadeja,R Ashwin,M Morkel,0,1,1,wides,0,NA,NA,NA,0
+648653,2nd innings,India,South Africa,26.7,RA Jadeja,R Ashwin,M Morkel,1,0,1,NA,0,NA,NA,NA,0
+648653,2nd innings,India,South Africa,26.8,R Ashwin,RA Jadeja,M Morkel,0,0,0,NA,0,NA,NA,NA,0
+648653,2nd innings,India,South Africa,27.1,RA Jadeja,R Ashwin,R McLaren,1,0,1,NA,0,NA,NA,NA,0
+648653,2nd innings,India,South Africa,27.2,R Ashwin,RA Jadeja,R McLaren,0,0,0,NA,0,NA,NA,NA,0
+648653,2nd innings,India,South Africa,27.3,R Ashwin,RA Jadeja,R McLaren,0,0,0,NA,0,NA,NA,NA,0
+648653,2nd innings,India,South Africa,27.4,R Ashwin,RA Jadeja,R McLaren,0,1,1,wides,0,NA,NA,NA,0
+648653,2nd innings,India,South Africa,27.5,R Ashwin,RA Jadeja,R McLaren,0,0,0,NA,0,NA,NA,NA,0
+648653,2nd innings,India,South Africa,27.6,R Ashwin,RA Jadeja,R McLaren,2,0,2,NA,0,NA,NA,NA,0
+648653,2nd innings,India,South Africa,27.7,R Ashwin,RA Jadeja,R McLaren,1,0,1,NA,0,NA,NA,NA,0
+648653,2nd innings,India,South Africa,28.1,R Ashwin,RA Jadeja,DW Steyn,0,0,0,NA,0,NA,NA,NA,0
+648653,2nd innings,India,South Africa,28.2,R Ashwin,RA Jadeja,DW Steyn,4,0,4,NA,0,NA,NA,NA,0
+648653,2nd innings,India,South Africa,28.3,R Ashwin,RA Jadeja,DW Steyn,0,0,0,NA,0,NA,NA,NA,0
+648653,2nd innings,India,South Africa,28.4,R Ashwin,RA Jadeja,DW Steyn,1,0,1,NA,0,NA,NA,NA,0
+648653,2nd innings,India,South Africa,28.5,RA Jadeja,R Ashwin,DW Steyn,0,0,0,NA,0,NA,NA,NA,0
+648653,2nd innings,India,South Africa,28.6,RA Jadeja,R Ashwin,DW Steyn,0,0,0,NA,0,NA,NA,NA,0
+648653,2nd innings,India,South Africa,29.1,R Ashwin,RA Jadeja,LL Tsotsobe,0,0,0,NA,0,NA,NA,NA,0
+648653,2nd innings,India,South Africa,29.2,R Ashwin,RA Jadeja,LL Tsotsobe,1,0,1,NA,0,NA,NA,NA,0
+648653,2nd innings,India,South Africa,29.3,RA Jadeja,R Ashwin,LL Tsotsobe,1,0,1,NA,0,NA,NA,NA,0
+648653,2nd innings,India,South Africa,29.4,R Ashwin,RA Jadeja,LL Tsotsobe,0,0,0,NA,0,NA,NA,NA,0
+648653,2nd innings,India,South Africa,29.5,R Ashwin,RA Jadeja,LL Tsotsobe,1,0,1,NA,0,NA,NA,NA,0
+648653,2nd innings,India,South Africa,29.6,RA Jadeja,R Ashwin,LL Tsotsobe,0,0,0,NA,0,NA,NA,NA,0
+648653,2nd innings,India,South Africa,30.1,R Ashwin,RA Jadeja,DW Steyn,0,0,0,NA,0,NA,NA,NA,0
+648653,2nd innings,India,South Africa,30.2,R Ashwin,RA Jadeja,DW Steyn,0,0,0,NA,0,NA,NA,NA,0
+648653,2nd innings,India,South Africa,30.3,R Ashwin,RA Jadeja,DW Steyn,0,0,0,NA,0,NA,NA,NA,0
+648653,2nd innings,India,South Africa,30.4,R Ashwin,RA Jadeja,DW Steyn,0,0,0,NA,0,NA,NA,NA,0
+648653,2nd innings,India,South Africa,30.5,R Ashwin,RA Jadeja,DW Steyn,0,0,0,NA,1,caught,R Ashwin,Q de Kock,0
+648653,2nd innings,India,South Africa,30.6,Mohammed Shami,RA Jadeja,DW Steyn,1,0,1,NA,0,NA,NA,NA,0
+648653,2nd innings,India,South Africa,31.1,Mohammed Shami,RA Jadeja,LL Tsotsobe,1,0,1,NA,0,NA,NA,NA,0
+648653,2nd innings,India,South Africa,31.2,RA Jadeja,Mohammed Shami,LL Tsotsobe,1,0,1,NA,0,NA,NA,NA,0
+648653,2nd innings,India,South Africa,31.3,Mohammed Shami,RA Jadeja,LL Tsotsobe,0,0,0,NA,0,NA,NA,NA,0
+648653,2nd innings,India,South Africa,31.4,Mohammed Shami,RA Jadeja,LL Tsotsobe,0,0,0,NA,0,NA,NA,NA,0
+648653,2nd innings,India,South Africa,31.5,Mohammed Shami,RA Jadeja,LL Tsotsobe,2,0,2,NA,0,NA,NA,NA,0
+648653,2nd innings,India,South Africa,31.6,Mohammed Shami,RA Jadeja,LL Tsotsobe,1,0,1,NA,0,NA,NA,NA,0
+648653,2nd innings,India,South Africa,32.1,Mohammed Shami,RA Jadeja,JP Duminy,1,0,1,NA,0,NA,NA,NA,0
+648653,2nd innings,India,South Africa,32.2,RA Jadeja,Mohammed Shami,JP Duminy,1,0,1,NA,0,NA,NA,NA,0
+648653,2nd innings,India,South Africa,32.3,Mohammed Shami,RA Jadeja,JP Duminy,0,0,0,NA,0,NA,NA,NA,0
+648653,2nd innings,India,South Africa,32.4,Mohammed Shami,RA Jadeja,JP Duminy,1,0,1,NA,0,NA,NA,NA,0
+648653,2nd innings,India,South Africa,32.5,RA Jadeja,Mohammed Shami,JP Duminy,2,0,2,NA,0,NA,NA,NA,0
+648653,2nd innings,India,South Africa,32.6,RA Jadeja,Mohammed Shami,JP Duminy,0,0,0,NA,0,NA,NA,NA,0
+648653,2nd innings,India,South Africa,33.1,Mohammed Shami,RA Jadeja,LL Tsotsobe,1,0,1,NA,0,NA,NA,NA,0
+648653,2nd innings,India,South Africa,33.2,RA Jadeja,Mohammed Shami,LL Tsotsobe,0,0,0,NA,1,caught,RA Jadeja,AB de Villiers,0
+648653,2nd innings,India,South Africa,33.3,UT Yadav,Mohammed Shami,LL Tsotsobe,1,0,1,NA,0,NA,NA,NA,0
+648653,2nd innings,India,South Africa,33.4,Mohammed Shami,UT Yadav,LL Tsotsobe,0,0,0,NA,0,NA,NA,NA,0
+648653,2nd innings,India,South Africa,33.5,Mohammed Shami,UT Yadav,LL Tsotsobe,0,0,0,NA,0,NA,NA,NA,0
+648653,2nd innings,India,South Africa,33.6,Mohammed Shami,UT Yadav,LL Tsotsobe,0,0,0,NA,0,NA,NA,NA,0
+648653,2nd innings,India,South Africa,34.1,UT Yadav,Mohammed Shami,DW Steyn,0,0,0,NA,0,NA,NA,NA,0
+648653,2nd innings,India,South Africa,34.2,UT Yadav,Mohammed Shami,DW Steyn,0,0,0,NA,0,NA,NA,NA,0
+648653,2nd innings,India,South Africa,34.3,UT Yadav,Mohammed Shami,DW Steyn,0,0,0,NA,0,NA,NA,NA,0
+648653,2nd innings,India,South Africa,34.4,UT Yadav,Mohammed Shami,DW Steyn,0,0,0,NA,1,bowled,UT Yadav,NA,0
+648653,2nd innings,India,South Africa,34.5,I Sharma,Mohammed Shami,DW Steyn,0,0,0,NA,0,NA,NA,NA,0
+648653,2nd innings,India,South Africa,34.6,I Sharma,Mohammed Shami,DW Steyn,0,0,0,NA,0,NA,NA,NA,0
+648653,2nd innings,India,South Africa,35.1,Mohammed Shami,I Sharma,LL Tsotsobe,0,0,0,NA,1,bowled,Mohammed Shami,NA,0

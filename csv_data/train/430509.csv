@@ -1,0 +1,520 @@
+match_id,innings,team,opponent,ball,batsman,non_striker,bowler,scored_runs,extras,total,extra_type,wicket,wicket_type,player_out,fielders,winner
+430509,1st innings,South Africa,Zimbabwe,0.1,GC Smith,JH Kallis,CB Mpofu,0,0,0,NA,0,NA,NA,NA,1
+430509,1st innings,South Africa,Zimbabwe,0.2,GC Smith,JH Kallis,CB Mpofu,1,0,1,NA,0,NA,NA,NA,1
+430509,1st innings,South Africa,Zimbabwe,0.3,JH Kallis,GC Smith,CB Mpofu,0,0,0,NA,0,NA,NA,NA,1
+430509,1st innings,South Africa,Zimbabwe,0.4,JH Kallis,GC Smith,CB Mpofu,0,0,0,NA,0,NA,NA,NA,1
+430509,1st innings,South Africa,Zimbabwe,0.5,JH Kallis,GC Smith,CB Mpofu,0,0,0,NA,0,NA,NA,NA,1
+430509,1st innings,South Africa,Zimbabwe,0.6,JH Kallis,GC Smith,CB Mpofu,0,0,0,NA,0,NA,NA,NA,1
+430509,1st innings,South Africa,Zimbabwe,1.1,GC Smith,JH Kallis,KM Jarvis,1,0,1,NA,0,NA,NA,NA,1
+430509,1st innings,South Africa,Zimbabwe,1.2,JH Kallis,GC Smith,KM Jarvis,6,0,6,NA,0,NA,NA,NA,1
+430509,1st innings,South Africa,Zimbabwe,1.3,JH Kallis,GC Smith,KM Jarvis,0,0,0,NA,0,NA,NA,NA,1
+430509,1st innings,South Africa,Zimbabwe,1.4,JH Kallis,GC Smith,KM Jarvis,0,0,0,NA,0,NA,NA,NA,1
+430509,1st innings,South Africa,Zimbabwe,1.5,JH Kallis,GC Smith,KM Jarvis,0,0,0,NA,0,NA,NA,NA,1
+430509,1st innings,South Africa,Zimbabwe,1.6,JH Kallis,GC Smith,KM Jarvis,0,0,0,NA,0,NA,NA,NA,1
+430509,1st innings,South Africa,Zimbabwe,2.1,GC Smith,JH Kallis,CB Mpofu,1,0,1,NA,0,NA,NA,NA,1
+430509,1st innings,South Africa,Zimbabwe,2.2,JH Kallis,GC Smith,CB Mpofu,0,0,0,NA,0,NA,NA,NA,1
+430509,1st innings,South Africa,Zimbabwe,2.3,JH Kallis,GC Smith,CB Mpofu,0,0,0,NA,0,NA,NA,NA,1
+430509,1st innings,South Africa,Zimbabwe,2.4,JH Kallis,GC Smith,CB Mpofu,0,0,0,NA,0,NA,NA,NA,1
+430509,1st innings,South Africa,Zimbabwe,2.5,JH Kallis,GC Smith,CB Mpofu,0,1,1,wides,0,NA,NA,NA,1
+430509,1st innings,South Africa,Zimbabwe,2.6,JH Kallis,GC Smith,CB Mpofu,4,0,4,NA,0,NA,NA,NA,1
+430509,1st innings,South Africa,Zimbabwe,2.7,JH Kallis,GC Smith,CB Mpofu,4,0,4,NA,0,NA,NA,NA,1
+430509,1st innings,South Africa,Zimbabwe,3.1,GC Smith,JH Kallis,KM Jarvis,1,0,1,NA,0,NA,NA,NA,1
+430509,1st innings,South Africa,Zimbabwe,3.2,JH Kallis,GC Smith,KM Jarvis,0,0,0,NA,0,NA,NA,NA,1
+430509,1st innings,South Africa,Zimbabwe,3.3,JH Kallis,GC Smith,KM Jarvis,0,0,0,NA,0,NA,NA,NA,1
+430509,1st innings,South Africa,Zimbabwe,3.4,JH Kallis,GC Smith,KM Jarvis,0,1,1,wides,0,NA,NA,NA,1
+430509,1st innings,South Africa,Zimbabwe,3.5,JH Kallis,GC Smith,KM Jarvis,0,0,0,NA,0,NA,NA,NA,1
+430509,1st innings,South Africa,Zimbabwe,3.6,JH Kallis,GC Smith,KM Jarvis,1,0,1,NA,0,NA,NA,NA,1
+430509,1st innings,South Africa,Zimbabwe,3.7,GC Smith,JH Kallis,KM Jarvis,0,0,0,NA,0,NA,NA,NA,1
+430509,1st innings,South Africa,Zimbabwe,4.1,JH Kallis,GC Smith,CB Mpofu,1,0,1,NA,0,NA,NA,NA,1
+430509,1st innings,South Africa,Zimbabwe,4.2,GC Smith,JH Kallis,CB Mpofu,0,0,0,NA,0,NA,NA,NA,1
+430509,1st innings,South Africa,Zimbabwe,4.3,GC Smith,JH Kallis,CB Mpofu,0,0,0,NA,0,NA,NA,NA,1
+430509,1st innings,South Africa,Zimbabwe,4.4,GC Smith,JH Kallis,CB Mpofu,0,0,0,NA,0,NA,NA,NA,1
+430509,1st innings,South Africa,Zimbabwe,4.5,GC Smith,JH Kallis,CB Mpofu,1,0,1,NA,0,NA,NA,NA,1
+430509,1st innings,South Africa,Zimbabwe,4.6,JH Kallis,GC Smith,CB Mpofu,1,0,1,NA,0,NA,NA,NA,1
+430509,1st innings,South Africa,Zimbabwe,5.1,JH Kallis,GC Smith,KM Jarvis,0,0,0,NA,0,NA,NA,NA,1
+430509,1st innings,South Africa,Zimbabwe,5.2,JH Kallis,GC Smith,KM Jarvis,0,0,0,NA,0,NA,NA,NA,1
+430509,1st innings,South Africa,Zimbabwe,5.3,JH Kallis,GC Smith,KM Jarvis,0,0,0,NA,0,NA,NA,NA,1
+430509,1st innings,South Africa,Zimbabwe,5.4,JH Kallis,GC Smith,KM Jarvis,4,0,4,NA,0,NA,NA,NA,1
+430509,1st innings,South Africa,Zimbabwe,5.5,JH Kallis,GC Smith,KM Jarvis,0,0,0,NA,0,NA,NA,NA,1
+430509,1st innings,South Africa,Zimbabwe,5.6,JH Kallis,GC Smith,KM Jarvis,0,1,1,wides,0,NA,NA,NA,1
+430509,1st innings,South Africa,Zimbabwe,5.7,JH Kallis,GC Smith,KM Jarvis,0,0,0,NA,0,NA,NA,NA,1
+430509,1st innings,South Africa,Zimbabwe,6.1,GC Smith,JH Kallis,CB Mpofu,0,0,0,NA,0,NA,NA,NA,1
+430509,1st innings,South Africa,Zimbabwe,6.2,GC Smith,JH Kallis,CB Mpofu,4,0,4,NA,0,NA,NA,NA,1
+430509,1st innings,South Africa,Zimbabwe,6.3,GC Smith,JH Kallis,CB Mpofu,2,0,2,NA,0,NA,NA,NA,1
+430509,1st innings,South Africa,Zimbabwe,6.4,GC Smith,JH Kallis,CB Mpofu,0,0,0,NA,0,NA,NA,NA,1
+430509,1st innings,South Africa,Zimbabwe,6.5,GC Smith,JH Kallis,CB Mpofu,1,0,1,NA,0,NA,NA,NA,1
+430509,1st innings,South Africa,Zimbabwe,6.6,JH Kallis,GC Smith,CB Mpofu,0,0,0,NA,0,NA,NA,NA,1
+430509,1st innings,South Africa,Zimbabwe,7.1,GC Smith,JH Kallis,KM Jarvis,0,3,3,wides,0,NA,NA,NA,1
+430509,1st innings,South Africa,Zimbabwe,7.2,GC Smith,JH Kallis,KM Jarvis,0,0,0,NA,0,NA,NA,NA,1
+430509,1st innings,South Africa,Zimbabwe,7.3,GC Smith,JH Kallis,KM Jarvis,4,0,4,NA,0,NA,NA,NA,1
+430509,1st innings,South Africa,Zimbabwe,7.4,GC Smith,JH Kallis,KM Jarvis,0,0,0,NA,0,NA,NA,NA,1
+430509,1st innings,South Africa,Zimbabwe,7.5,GC Smith,JH Kallis,KM Jarvis,0,0,0,NA,0,NA,NA,NA,1
+430509,1st innings,South Africa,Zimbabwe,7.6,GC Smith,JH Kallis,KM Jarvis,4,0,4,NA,0,NA,NA,NA,1
+430509,1st innings,South Africa,Zimbabwe,7.7,GC Smith,JH Kallis,KM Jarvis,4,0,4,NA,0,NA,NA,NA,1
+430509,1st innings,South Africa,Zimbabwe,8.1,JH Kallis,GC Smith,CB Mpofu,1,0,1,NA,0,NA,NA,NA,1
+430509,1st innings,South Africa,Zimbabwe,8.2,GC Smith,JH Kallis,CB Mpofu,1,0,1,NA,0,NA,NA,NA,1
+430509,1st innings,South Africa,Zimbabwe,8.3,JH Kallis,GC Smith,CB Mpofu,4,0,4,NA,0,NA,NA,NA,1
+430509,1st innings,South Africa,Zimbabwe,8.4,JH Kallis,GC Smith,CB Mpofu,1,0,1,NA,0,NA,NA,NA,1
+430509,1st innings,South Africa,Zimbabwe,8.5,GC Smith,JH Kallis,CB Mpofu,0,0,0,NA,0,NA,NA,NA,1
+430509,1st innings,South Africa,Zimbabwe,8.6,GC Smith,JH Kallis,CB Mpofu,0,1,1,wides,0,NA,NA,NA,1
+430509,1st innings,South Africa,Zimbabwe,8.7,GC Smith,JH Kallis,CB Mpofu,1,0,1,NA,0,NA,NA,NA,1
+430509,1st innings,South Africa,Zimbabwe,9.1,GC Smith,JH Kallis,KM Jarvis,0,0,0,NA,0,NA,NA,NA,1
+430509,1st innings,South Africa,Zimbabwe,9.2,GC Smith,JH Kallis,KM Jarvis,1,0,1,NA,0,NA,NA,NA,1
+430509,1st innings,South Africa,Zimbabwe,9.3,JH Kallis,GC Smith,KM Jarvis,1,0,1,NA,0,NA,NA,NA,1
+430509,1st innings,South Africa,Zimbabwe,9.4,GC Smith,JH Kallis,KM Jarvis,0,0,0,NA,0,NA,NA,NA,1
+430509,1st innings,South Africa,Zimbabwe,9.5,GC Smith,JH Kallis,KM Jarvis,0,0,0,NA,0,NA,NA,NA,1
+430509,1st innings,South Africa,Zimbabwe,9.6,GC Smith,JH Kallis,KM Jarvis,4,0,4,NA,0,NA,NA,NA,1
+430509,1st innings,South Africa,Zimbabwe,10.1,JH Kallis,GC Smith,CB Mpofu,0,0,0,NA,0,NA,NA,NA,1
+430509,1st innings,South Africa,Zimbabwe,10.2,JH Kallis,GC Smith,CB Mpofu,0,0,0,NA,0,NA,NA,NA,1
+430509,1st innings,South Africa,Zimbabwe,10.3,JH Kallis,GC Smith,CB Mpofu,0,0,0,NA,0,NA,NA,NA,1
+430509,1st innings,South Africa,Zimbabwe,10.4,JH Kallis,GC Smith,CB Mpofu,0,0,0,NA,0,NA,NA,NA,1
+430509,1st innings,South Africa,Zimbabwe,10.5,JH Kallis,GC Smith,CB Mpofu,0,0,0,NA,0,NA,NA,NA,1
+430509,1st innings,South Africa,Zimbabwe,10.6,JH Kallis,GC Smith,CB Mpofu,1,0,1,NA,0,NA,NA,NA,1
+430509,1st innings,South Africa,Zimbabwe,11.1,JH Kallis,GC Smith,P Utseya,0,0,0,NA,0,NA,NA,NA,1
+430509,1st innings,South Africa,Zimbabwe,11.2,JH Kallis,GC Smith,P Utseya,0,0,0,NA,0,NA,NA,NA,1
+430509,1st innings,South Africa,Zimbabwe,11.3,JH Kallis,GC Smith,P Utseya,0,0,0,NA,0,NA,NA,NA,1
+430509,1st innings,South Africa,Zimbabwe,11.4,JH Kallis,GC Smith,P Utseya,1,0,1,NA,0,NA,NA,NA,1
+430509,1st innings,South Africa,Zimbabwe,11.5,GC Smith,JH Kallis,P Utseya,0,1,1,legbyes,0,NA,NA,NA,1
+430509,1st innings,South Africa,Zimbabwe,11.6,JH Kallis,GC Smith,P Utseya,0,0,0,NA,0,NA,NA,NA,1
+430509,1st innings,South Africa,Zimbabwe,12.1,GC Smith,JH Kallis,KM Jarvis,2,0,2,NA,0,NA,NA,NA,1
+430509,1st innings,South Africa,Zimbabwe,12.2,GC Smith,JH Kallis,KM Jarvis,0,0,0,NA,0,NA,NA,NA,1
+430509,1st innings,South Africa,Zimbabwe,12.3,GC Smith,JH Kallis,KM Jarvis,1,0,1,NA,0,NA,NA,NA,1
+430509,1st innings,South Africa,Zimbabwe,12.4,JH Kallis,GC Smith,KM Jarvis,0,0,0,NA,0,NA,NA,NA,1
+430509,1st innings,South Africa,Zimbabwe,12.5,JH Kallis,GC Smith,KM Jarvis,1,0,1,NA,0,NA,NA,NA,1
+430509,1st innings,South Africa,Zimbabwe,12.6,GC Smith,JH Kallis,KM Jarvis,4,0,4,NA,0,NA,NA,NA,1
+430509,1st innings,South Africa,Zimbabwe,13.1,JH Kallis,GC Smith,P Utseya,0,0,0,NA,0,NA,NA,NA,1
+430509,1st innings,South Africa,Zimbabwe,13.2,JH Kallis,GC Smith,P Utseya,1,0,1,NA,0,NA,NA,NA,1
+430509,1st innings,South Africa,Zimbabwe,13.3,GC Smith,JH Kallis,P Utseya,6,0,6,NA,0,NA,NA,NA,1
+430509,1st innings,South Africa,Zimbabwe,13.4,GC Smith,JH Kallis,P Utseya,0,0,0,NA,0,NA,NA,NA,1
+430509,1st innings,South Africa,Zimbabwe,13.5,GC Smith,JH Kallis,P Utseya,1,0,1,NA,0,NA,NA,NA,1
+430509,1st innings,South Africa,Zimbabwe,13.6,JH Kallis,GC Smith,P Utseya,1,0,1,NA,0,NA,NA,NA,1
+430509,1st innings,South Africa,Zimbabwe,14.1,JH Kallis,GC Smith,RW Price,0,0,0,NA,0,NA,NA,NA,1
+430509,1st innings,South Africa,Zimbabwe,14.2,JH Kallis,GC Smith,RW Price,0,0,0,NA,0,NA,NA,NA,1
+430509,1st innings,South Africa,Zimbabwe,14.3,JH Kallis,GC Smith,RW Price,0,0,0,NA,0,NA,NA,NA,1
+430509,1st innings,South Africa,Zimbabwe,14.4,JH Kallis,GC Smith,RW Price,1,0,1,NA,0,NA,NA,NA,1
+430509,1st innings,South Africa,Zimbabwe,14.5,GC Smith,JH Kallis,RW Price,4,0,4,NA,0,NA,NA,NA,1
+430509,1st innings,South Africa,Zimbabwe,14.6,GC Smith,JH Kallis,RW Price,1,0,1,NA,0,NA,NA,NA,1
+430509,1st innings,South Africa,Zimbabwe,15.1,GC Smith,JH Kallis,P Utseya,0,1,1,legbyes,0,NA,NA,NA,1
+430509,1st innings,South Africa,Zimbabwe,15.2,JH Kallis,GC Smith,P Utseya,4,0,4,NA,0,NA,NA,NA,1
+430509,1st innings,South Africa,Zimbabwe,15.3,JH Kallis,GC Smith,P Utseya,1,0,1,NA,0,NA,NA,NA,1
+430509,1st innings,South Africa,Zimbabwe,15.4,GC Smith,JH Kallis,P Utseya,1,0,1,NA,0,NA,NA,NA,1
+430509,1st innings,South Africa,Zimbabwe,15.5,JH Kallis,GC Smith,P Utseya,1,0,1,NA,0,NA,NA,NA,1
+430509,1st innings,South Africa,Zimbabwe,15.6,GC Smith,JH Kallis,P Utseya,1,0,1,NA,0,NA,NA,NA,1
+430509,1st innings,South Africa,Zimbabwe,16.1,GC Smith,JH Kallis,RW Price,0,0,0,NA,0,NA,NA,NA,1
+430509,1st innings,South Africa,Zimbabwe,16.2,GC Smith,JH Kallis,RW Price,1,0,1,NA,0,NA,NA,NA,1
+430509,1st innings,South Africa,Zimbabwe,16.3,JH Kallis,GC Smith,RW Price,0,0,0,NA,0,NA,NA,NA,1
+430509,1st innings,South Africa,Zimbabwe,16.4,JH Kallis,GC Smith,RW Price,6,0,6,NA,0,NA,NA,NA,1
+430509,1st innings,South Africa,Zimbabwe,16.5,JH Kallis,GC Smith,RW Price,0,0,0,NA,0,NA,NA,NA,1
+430509,1st innings,South Africa,Zimbabwe,16.6,JH Kallis,GC Smith,RW Price,0,0,0,NA,0,NA,NA,NA,1
+430509,1st innings,South Africa,Zimbabwe,17.1,GC Smith,JH Kallis,P Utseya,0,0,0,NA,0,NA,NA,NA,1
+430509,1st innings,South Africa,Zimbabwe,17.2,GC Smith,JH Kallis,P Utseya,0,0,0,NA,1,stumped,GC Smith,T Taibu,1
+430509,1st innings,South Africa,Zimbabwe,17.3,AB de Villiers,JH Kallis,P Utseya,1,0,1,NA,0,NA,NA,NA,1
+430509,1st innings,South Africa,Zimbabwe,17.4,JH Kallis,AB de Villiers,P Utseya,1,0,1,NA,0,NA,NA,NA,1
+430509,1st innings,South Africa,Zimbabwe,17.5,AB de Villiers,JH Kallis,P Utseya,0,0,0,NA,0,NA,NA,NA,1
+430509,1st innings,South Africa,Zimbabwe,17.6,AB de Villiers,JH Kallis,P Utseya,1,0,1,NA,0,NA,NA,NA,1
+430509,1st innings,South Africa,Zimbabwe,18.1,AB de Villiers,JH Kallis,RW Price,1,0,1,NA,0,NA,NA,NA,1
+430509,1st innings,South Africa,Zimbabwe,18.2,JH Kallis,AB de Villiers,RW Price,0,0,0,NA,0,NA,NA,NA,1
+430509,1st innings,South Africa,Zimbabwe,18.3,JH Kallis,AB de Villiers,RW Price,0,0,0,NA,0,NA,NA,NA,1
+430509,1st innings,South Africa,Zimbabwe,18.4,JH Kallis,AB de Villiers,RW Price,4,0,4,NA,0,NA,NA,NA,1
+430509,1st innings,South Africa,Zimbabwe,18.5,JH Kallis,AB de Villiers,RW Price,1,0,1,NA,0,NA,NA,NA,1
+430509,1st innings,South Africa,Zimbabwe,18.6,AB de Villiers,JH Kallis,RW Price,1,0,1,NA,0,NA,NA,NA,1
+430509,1st innings,South Africa,Zimbabwe,19.1,AB de Villiers,JH Kallis,P Utseya,0,0,0,NA,0,NA,NA,NA,1
+430509,1st innings,South Africa,Zimbabwe,19.2,AB de Villiers,JH Kallis,P Utseya,0,0,0,NA,0,NA,NA,NA,1
+430509,1st innings,South Africa,Zimbabwe,19.3,AB de Villiers,JH Kallis,P Utseya,1,0,1,NA,0,NA,NA,NA,1
+430509,1st innings,South Africa,Zimbabwe,19.4,JH Kallis,AB de Villiers,P Utseya,1,0,1,NA,0,NA,NA,NA,1
+430509,1st innings,South Africa,Zimbabwe,19.5,AB de Villiers,JH Kallis,P Utseya,0,0,0,NA,0,NA,NA,NA,1
+430509,1st innings,South Africa,Zimbabwe,19.6,AB de Villiers,JH Kallis,P Utseya,0,0,0,NA,0,NA,NA,NA,1
+430509,1st innings,South Africa,Zimbabwe,20.1,JH Kallis,AB de Villiers,RW Price,1,0,1,NA,0,NA,NA,NA,1
+430509,1st innings,South Africa,Zimbabwe,20.2,AB de Villiers,JH Kallis,RW Price,0,0,0,NA,1,bowled,AB de Villiers,NA,1
+430509,1st innings,South Africa,Zimbabwe,20.3,JP Duminy,JH Kallis,RW Price,0,0,0,NA,0,NA,NA,NA,1
+430509,1st innings,South Africa,Zimbabwe,20.4,JP Duminy,JH Kallis,RW Price,0,0,0,NA,0,NA,NA,NA,1
+430509,1st innings,South Africa,Zimbabwe,20.5,JP Duminy,JH Kallis,RW Price,0,0,0,NA,0,NA,NA,NA,1
+430509,1st innings,South Africa,Zimbabwe,20.6,JP Duminy,JH Kallis,RW Price,0,0,0,NA,0,NA,NA,NA,1
+430509,1st innings,South Africa,Zimbabwe,21.1,JH Kallis,JP Duminy,P Utseya,1,0,1,NA,0,NA,NA,NA,1
+430509,1st innings,South Africa,Zimbabwe,21.2,JP Duminy,JH Kallis,P Utseya,0,0,0,NA,0,NA,NA,NA,1
+430509,1st innings,South Africa,Zimbabwe,21.3,JP Duminy,JH Kallis,P Utseya,0,0,0,NA,0,NA,NA,NA,1
+430509,1st innings,South Africa,Zimbabwe,21.4,JP Duminy,JH Kallis,P Utseya,2,0,2,NA,0,NA,NA,NA,1
+430509,1st innings,South Africa,Zimbabwe,21.5,JP Duminy,JH Kallis,P Utseya,0,0,0,NA,0,NA,NA,NA,1
+430509,1st innings,South Africa,Zimbabwe,21.6,JP Duminy,JH Kallis,P Utseya,0,0,0,NA,0,NA,NA,NA,1
+430509,1st innings,South Africa,Zimbabwe,22.1,JH Kallis,JP Duminy,RW Price,0,0,0,NA,0,NA,NA,NA,1
+430509,1st innings,South Africa,Zimbabwe,22.2,JH Kallis,JP Duminy,RW Price,0,0,0,NA,0,NA,NA,NA,1
+430509,1st innings,South Africa,Zimbabwe,22.3,JH Kallis,JP Duminy,RW Price,0,0,0,NA,0,NA,NA,NA,1
+430509,1st innings,South Africa,Zimbabwe,22.4,JH Kallis,JP Duminy,RW Price,1,0,1,NA,0,NA,NA,NA,1
+430509,1st innings,South Africa,Zimbabwe,22.5,JP Duminy,JH Kallis,RW Price,1,0,1,NA,0,NA,NA,NA,1
+430509,1st innings,South Africa,Zimbabwe,22.6,JH Kallis,JP Duminy,RW Price,1,0,1,NA,0,NA,NA,NA,1
+430509,1st innings,South Africa,Zimbabwe,23.1,JH Kallis,JP Duminy,AG Cremer,0,0,0,NA,0,NA,NA,NA,1
+430509,1st innings,South Africa,Zimbabwe,23.2,JH Kallis,JP Duminy,AG Cremer,0,0,0,NA,0,NA,NA,NA,1
+430509,1st innings,South Africa,Zimbabwe,23.3,JH Kallis,JP Duminy,AG Cremer,0,0,0,NA,0,NA,NA,NA,1
+430509,1st innings,South Africa,Zimbabwe,23.4,JH Kallis,JP Duminy,AG Cremer,4,0,4,NA,0,NA,NA,NA,1
+430509,1st innings,South Africa,Zimbabwe,23.5,JH Kallis,JP Duminy,AG Cremer,0,0,0,NA,0,NA,NA,NA,1
+430509,1st innings,South Africa,Zimbabwe,23.6,JH Kallis,JP Duminy,AG Cremer,0,0,0,NA,0,NA,NA,NA,1
+430509,1st innings,South Africa,Zimbabwe,24.1,JP Duminy,JH Kallis,RW Price,1,0,1,NA,0,NA,NA,NA,1
+430509,1st innings,South Africa,Zimbabwe,24.2,JH Kallis,JP Duminy,RW Price,1,0,1,NA,0,NA,NA,NA,1
+430509,1st innings,South Africa,Zimbabwe,24.3,JP Duminy,JH Kallis,RW Price,0,0,0,NA,0,NA,NA,NA,1
+430509,1st innings,South Africa,Zimbabwe,24.4,JP Duminy,JH Kallis,RW Price,1,0,1,NA,0,NA,NA,NA,1
+430509,1st innings,South Africa,Zimbabwe,24.5,JH Kallis,JP Duminy,RW Price,1,0,1,NA,0,NA,NA,NA,1
+430509,1st innings,South Africa,Zimbabwe,24.6,JP Duminy,JH Kallis,RW Price,0,0,0,NA,0,NA,NA,NA,1
+430509,1st innings,South Africa,Zimbabwe,25.1,JH Kallis,JP Duminy,AG Cremer,1,0,1,NA,0,NA,NA,NA,1
+430509,1st innings,South Africa,Zimbabwe,25.2,JP Duminy,JH Kallis,AG Cremer,2,0,2,NA,0,NA,NA,NA,1
+430509,1st innings,South Africa,Zimbabwe,25.3,JP Duminy,JH Kallis,AG Cremer,1,0,1,NA,0,NA,NA,NA,1
+430509,1st innings,South Africa,Zimbabwe,25.4,JH Kallis,JP Duminy,AG Cremer,1,0,1,NA,0,NA,NA,NA,1
+430509,1st innings,South Africa,Zimbabwe,25.5,JP Duminy,JH Kallis,AG Cremer,0,0,0,NA,0,NA,NA,NA,1
+430509,1st innings,South Africa,Zimbabwe,25.6,JP Duminy,JH Kallis,AG Cremer,0,0,0,NA,0,NA,NA,NA,1
+430509,1st innings,South Africa,Zimbabwe,26.1,JH Kallis,JP Duminy,RW Price,1,0,1,NA,0,NA,NA,NA,1
+430509,1st innings,South Africa,Zimbabwe,26.2,JP Duminy,JH Kallis,RW Price,1,0,1,NA,0,NA,NA,NA,1
+430509,1st innings,South Africa,Zimbabwe,26.3,JH Kallis,JP Duminy,RW Price,1,0,1,NA,0,NA,NA,NA,1
+430509,1st innings,South Africa,Zimbabwe,26.4,JP Duminy,JH Kallis,RW Price,1,0,1,NA,0,NA,NA,NA,1
+430509,1st innings,South Africa,Zimbabwe,26.5,JH Kallis,JP Duminy,RW Price,1,0,1,NA,0,NA,NA,NA,1
+430509,1st innings,South Africa,Zimbabwe,26.6,JP Duminy,JH Kallis,RW Price,2,0,2,NA,0,NA,NA,NA,1
+430509,1st innings,South Africa,Zimbabwe,27.1,JH Kallis,JP Duminy,AG Cremer,1,0,1,NA,0,NA,NA,NA,1
+430509,1st innings,South Africa,Zimbabwe,27.2,JP Duminy,JH Kallis,AG Cremer,4,0,4,NA,0,NA,NA,NA,1
+430509,1st innings,South Africa,Zimbabwe,27.3,JP Duminy,JH Kallis,AG Cremer,6,0,6,NA,0,NA,NA,NA,1
+430509,1st innings,South Africa,Zimbabwe,27.4,JP Duminy,JH Kallis,AG Cremer,1,0,1,NA,0,NA,NA,NA,1
+430509,1st innings,South Africa,Zimbabwe,27.5,JH Kallis,JP Duminy,AG Cremer,0,0,0,NA,0,NA,NA,NA,1
+430509,1st innings,South Africa,Zimbabwe,27.6,JH Kallis,JP Duminy,AG Cremer,0,0,0,NA,0,NA,NA,NA,1
+430509,1st innings,South Africa,Zimbabwe,28.1,JP Duminy,JH Kallis,KM Jarvis,0,1,1,legbyes,0,NA,NA,NA,1
+430509,1st innings,South Africa,Zimbabwe,28.2,JH Kallis,JP Duminy,KM Jarvis,0,0,0,NA,0,NA,NA,NA,1
+430509,1st innings,South Africa,Zimbabwe,28.3,JH Kallis,JP Duminy,KM Jarvis,0,0,0,NA,0,NA,NA,NA,1
+430509,1st innings,South Africa,Zimbabwe,28.4,JH Kallis,JP Duminy,KM Jarvis,0,0,0,NA,0,NA,NA,NA,1
+430509,1st innings,South Africa,Zimbabwe,28.5,JH Kallis,JP Duminy,KM Jarvis,2,0,2,NA,0,NA,NA,NA,1
+430509,1st innings,South Africa,Zimbabwe,28.6,JH Kallis,JP Duminy,KM Jarvis,4,0,4,NA,0,NA,NA,NA,1
+430509,1st innings,South Africa,Zimbabwe,29.1,JP Duminy,JH Kallis,E Chigumbura,1,0,1,NA,0,NA,NA,NA,1
+430509,1st innings,South Africa,Zimbabwe,29.2,JH Kallis,JP Duminy,E Chigumbura,1,0,1,NA,0,NA,NA,NA,1
+430509,1st innings,South Africa,Zimbabwe,29.3,JP Duminy,JH Kallis,E Chigumbura,1,0,1,NA,0,NA,NA,NA,1
+430509,1st innings,South Africa,Zimbabwe,29.4,JH Kallis,JP Duminy,E Chigumbura,1,0,1,NA,0,NA,NA,NA,1
+430509,1st innings,South Africa,Zimbabwe,29.5,JP Duminy,JH Kallis,E Chigumbura,2,0,2,NA,0,NA,NA,NA,1
+430509,1st innings,South Africa,Zimbabwe,29.6,JP Duminy,JH Kallis,E Chigumbura,1,0,1,NA,0,NA,NA,NA,1
+430509,1st innings,South Africa,Zimbabwe,30.1,JP Duminy,JH Kallis,AG Cremer,4,0,4,NA,0,NA,NA,NA,1
+430509,1st innings,South Africa,Zimbabwe,30.2,JP Duminy,JH Kallis,AG Cremer,1,0,1,NA,0,NA,NA,NA,1
+430509,1st innings,South Africa,Zimbabwe,30.3,JH Kallis,JP Duminy,AG Cremer,1,0,1,NA,0,NA,NA,NA,1
+430509,1st innings,South Africa,Zimbabwe,30.4,JP Duminy,JH Kallis,AG Cremer,0,4,4,wides,0,NA,NA,NA,1
+430509,1st innings,South Africa,Zimbabwe,30.5,JH Kallis,JP Duminy,AG Cremer,0,0,0,NA,0,NA,NA,NA,1
+430509,1st innings,South Africa,Zimbabwe,30.6,JH Kallis,JP Duminy,AG Cremer,0,0,0,NA,0,NA,NA,NA,1
+430509,1st innings,South Africa,Zimbabwe,30.7,JH Kallis,JP Duminy,AG Cremer,0,0,0,NA,0,NA,NA,NA,1
+430509,1st innings,South Africa,Zimbabwe,31.1,JP Duminy,JH Kallis,P Utseya,0,0,0,NA,0,NA,NA,NA,1
+430509,1st innings,South Africa,Zimbabwe,31.2,JP Duminy,JH Kallis,P Utseya,1,0,1,NA,0,NA,NA,NA,1
+430509,1st innings,South Africa,Zimbabwe,31.3,JH Kallis,JP Duminy,P Utseya,1,0,1,NA,0,NA,NA,NA,1
+430509,1st innings,South Africa,Zimbabwe,31.4,JP Duminy,JH Kallis,P Utseya,1,0,1,NA,0,NA,NA,NA,1
+430509,1st innings,South Africa,Zimbabwe,31.5,JH Kallis,JP Duminy,P Utseya,1,0,1,NA,0,NA,NA,NA,1
+430509,1st innings,South Africa,Zimbabwe,31.6,JP Duminy,JH Kallis,P Utseya,1,0,1,NA,0,NA,NA,NA,1
+430509,1st innings,South Africa,Zimbabwe,32.1,JP Duminy,JH Kallis,E Chigumbura,1,0,1,NA,0,NA,NA,NA,1
+430509,1st innings,South Africa,Zimbabwe,32.2,JH Kallis,JP Duminy,E Chigumbura,0,1,1,legbyes,0,NA,NA,NA,1
+430509,1st innings,South Africa,Zimbabwe,32.3,JP Duminy,JH Kallis,E Chigumbura,1,0,1,NA,0,NA,NA,NA,1
+430509,1st innings,South Africa,Zimbabwe,32.4,JH Kallis,JP Duminy,E Chigumbura,0,0,0,NA,0,NA,NA,NA,1
+430509,1st innings,South Africa,Zimbabwe,32.5,JH Kallis,JP Duminy,E Chigumbura,1,0,1,NA,0,NA,NA,NA,1
+430509,1st innings,South Africa,Zimbabwe,32.6,JP Duminy,JH Kallis,E Chigumbura,0,1,1,wides,0,NA,NA,NA,1
+430509,1st innings,South Africa,Zimbabwe,32.7,JP Duminy,JH Kallis,E Chigumbura,1,0,1,NA,0,NA,NA,NA,1
+430509,1st innings,South Africa,Zimbabwe,33.1,JP Duminy,JH Kallis,P Utseya,4,0,4,NA,0,NA,NA,NA,1
+430509,1st innings,South Africa,Zimbabwe,33.2,JP Duminy,JH Kallis,P Utseya,1,0,1,NA,0,NA,NA,NA,1
+430509,1st innings,South Africa,Zimbabwe,33.3,JH Kallis,JP Duminy,P Utseya,0,0,0,NA,0,NA,NA,NA,1
+430509,1st innings,South Africa,Zimbabwe,33.4,JH Kallis,JP Duminy,P Utseya,0,0,0,NA,1,caught,JH Kallis,E Chigumbura,1
+430509,1st innings,South Africa,Zimbabwe,33.5,AN Petersen,JP Duminy,P Utseya,0,0,0,NA,0,NA,NA,NA,1
+430509,1st innings,South Africa,Zimbabwe,33.6,AN Petersen,JP Duminy,P Utseya,0,0,0,NA,0,NA,NA,NA,1
+430509,1st innings,South Africa,Zimbabwe,34.1,JP Duminy,AN Petersen,AG Cremer,0,0,0,NA,0,NA,NA,NA,1
+430509,1st innings,South Africa,Zimbabwe,34.2,JP Duminy,AN Petersen,AG Cremer,1,0,1,NA,0,NA,NA,NA,1
+430509,1st innings,South Africa,Zimbabwe,34.3,AN Petersen,JP Duminy,AG Cremer,1,0,1,NA,0,NA,NA,NA,1
+430509,1st innings,South Africa,Zimbabwe,34.4,JP Duminy,AN Petersen,AG Cremer,0,0,0,NA,0,NA,NA,NA,1
+430509,1st innings,South Africa,Zimbabwe,34.5,JP Duminy,AN Petersen,AG Cremer,0,0,0,NA,0,NA,NA,NA,1
+430509,1st innings,South Africa,Zimbabwe,34.6,JP Duminy,AN Petersen,AG Cremer,1,0,1,NA,0,NA,NA,NA,1
+430509,1st innings,South Africa,Zimbabwe,35.1,JP Duminy,AN Petersen,E Chigumbura,1,0,1,NA,0,NA,NA,NA,1
+430509,1st innings,South Africa,Zimbabwe,35.2,AN Petersen,JP Duminy,E Chigumbura,0,1,1,wides,0,NA,NA,NA,1
+430509,1st innings,South Africa,Zimbabwe,35.3,AN Petersen,JP Duminy,E Chigumbura,1,0,1,NA,0,NA,NA,NA,1
+430509,1st innings,South Africa,Zimbabwe,35.4,JP Duminy,AN Petersen,E Chigumbura,1,0,1,NA,0,NA,NA,NA,1
+430509,1st innings,South Africa,Zimbabwe,35.5,AN Petersen,JP Duminy,E Chigumbura,0,0,0,NA,0,NA,NA,NA,1
+430509,1st innings,South Africa,Zimbabwe,35.6,AN Petersen,JP Duminy,E Chigumbura,1,0,1,NA,0,NA,NA,NA,1
+430509,1st innings,South Africa,Zimbabwe,35.7,JP Duminy,AN Petersen,E Chigumbura,1,0,1,NA,0,NA,NA,NA,1
+430509,1st innings,South Africa,Zimbabwe,36.1,JP Duminy,AN Petersen,AG Cremer,4,0,4,NA,0,NA,NA,NA,1
+430509,1st innings,South Africa,Zimbabwe,36.2,JP Duminy,AN Petersen,AG Cremer,1,0,1,NA,0,NA,NA,NA,1
+430509,1st innings,South Africa,Zimbabwe,36.3,AN Petersen,JP Duminy,AG Cremer,1,0,1,NA,0,NA,NA,NA,1
+430509,1st innings,South Africa,Zimbabwe,36.4,JP Duminy,AN Petersen,AG Cremer,1,0,1,NA,0,NA,NA,NA,1
+430509,1st innings,South Africa,Zimbabwe,36.5,AN Petersen,JP Duminy,AG Cremer,0,0,0,NA,0,NA,NA,NA,1
+430509,1st innings,South Africa,Zimbabwe,36.6,AN Petersen,JP Duminy,AG Cremer,0,0,0,NA,0,NA,NA,NA,1
+430509,1st innings,South Africa,Zimbabwe,37.1,JP Duminy,AN Petersen,E Chigumbura,1,0,1,NA,0,NA,NA,NA,1
+430509,1st innings,South Africa,Zimbabwe,37.2,AN Petersen,JP Duminy,E Chigumbura,1,0,1,NA,0,NA,NA,NA,1
+430509,1st innings,South Africa,Zimbabwe,37.3,JP Duminy,AN Petersen,E Chigumbura,4,0,4,NA,0,NA,NA,NA,1
+430509,1st innings,South Africa,Zimbabwe,37.4,JP Duminy,AN Petersen,E Chigumbura,1,0,1,NA,0,NA,NA,NA,1
+430509,1st innings,South Africa,Zimbabwe,37.5,AN Petersen,JP Duminy,E Chigumbura,1,0,1,NA,0,NA,NA,NA,1
+430509,1st innings,South Africa,Zimbabwe,37.6,JP Duminy,AN Petersen,E Chigumbura,1,0,1,NA,0,NA,NA,NA,1
+430509,1st innings,South Africa,Zimbabwe,38.1,JP Duminy,AN Petersen,CB Mpofu,0,5,5,wides,0,NA,NA,NA,1
+430509,1st innings,South Africa,Zimbabwe,38.2,JP Duminy,AN Petersen,CB Mpofu,1,0,1,NA,0,NA,NA,NA,1
+430509,1st innings,South Africa,Zimbabwe,38.3,AN Petersen,JP Duminy,CB Mpofu,0,0,0,NA,0,NA,NA,NA,1
+430509,1st innings,South Africa,Zimbabwe,38.4,AN Petersen,JP Duminy,CB Mpofu,4,0,4,NA,0,NA,NA,NA,1
+430509,1st innings,South Africa,Zimbabwe,38.5,AN Petersen,JP Duminy,CB Mpofu,0,0,0,NA,0,NA,NA,NA,1
+430509,1st innings,South Africa,Zimbabwe,38.6,AN Petersen,JP Duminy,CB Mpofu,1,0,1,NA,0,NA,NA,NA,1
+430509,1st innings,South Africa,Zimbabwe,38.7,JP Duminy,AN Petersen,CB Mpofu,1,0,1,NA,0,NA,NA,NA,1
+430509,1st innings,South Africa,Zimbabwe,39.1,JP Duminy,AN Petersen,KM Jarvis,1,0,1,NA,0,NA,NA,NA,1
+430509,1st innings,South Africa,Zimbabwe,39.2,AN Petersen,JP Duminy,KM Jarvis,1,0,1,NA,0,NA,NA,NA,1
+430509,1st innings,South Africa,Zimbabwe,39.3,JP Duminy,AN Petersen,KM Jarvis,0,0,0,NA,0,NA,NA,NA,1
+430509,1st innings,South Africa,Zimbabwe,39.4,JP Duminy,AN Petersen,KM Jarvis,1,0,1,NA,0,NA,NA,NA,1
+430509,1st innings,South Africa,Zimbabwe,39.5,AN Petersen,JP Duminy,KM Jarvis,1,0,1,NA,0,NA,NA,NA,1
+430509,1st innings,South Africa,Zimbabwe,39.6,JP Duminy,AN Petersen,KM Jarvis,0,0,0,NA,0,NA,NA,NA,1
+430509,1st innings,South Africa,Zimbabwe,40.1,AN Petersen,JP Duminy,RW Price,0,0,0,NA,1,lbw,AN Petersen,NA,1
+430509,1st innings,South Africa,Zimbabwe,40.2,JA Morkel,JP Duminy,RW Price,0,0,0,NA,0,NA,NA,NA,1
+430509,1st innings,South Africa,Zimbabwe,40.3,JA Morkel,JP Duminy,RW Price,0,0,0,NA,0,NA,NA,NA,1
+430509,1st innings,South Africa,Zimbabwe,40.4,JA Morkel,JP Duminy,RW Price,1,0,1,NA,0,NA,NA,NA,1
+430509,1st innings,South Africa,Zimbabwe,40.5,JP Duminy,JA Morkel,RW Price,1,0,1,NA,0,NA,NA,NA,1
+430509,1st innings,South Africa,Zimbabwe,40.6,JA Morkel,JP Duminy,RW Price,0,0,0,NA,0,NA,NA,NA,1
+430509,1st innings,South Africa,Zimbabwe,41.1,JP Duminy,JA Morkel,KM Jarvis,1,0,1,NA,0,NA,NA,NA,1
+430509,1st innings,South Africa,Zimbabwe,41.2,JA Morkel,JP Duminy,KM Jarvis,1,0,1,NA,0,NA,NA,NA,1
+430509,1st innings,South Africa,Zimbabwe,41.3,JP Duminy,JA Morkel,KM Jarvis,0,0,0,NA,0,NA,NA,NA,1
+430509,1st innings,South Africa,Zimbabwe,41.4,JP Duminy,JA Morkel,KM Jarvis,1,0,1,NA,0,NA,NA,NA,1
+430509,1st innings,South Africa,Zimbabwe,41.5,JA Morkel,JP Duminy,KM Jarvis,0,1,1,wides,0,NA,NA,NA,1
+430509,1st innings,South Africa,Zimbabwe,41.6,JA Morkel,JP Duminy,KM Jarvis,1,0,1,NA,0,NA,NA,NA,1
+430509,1st innings,South Africa,Zimbabwe,41.7,JP Duminy,JA Morkel,KM Jarvis,1,0,1,NA,0,NA,NA,NA,1
+430509,1st innings,South Africa,Zimbabwe,42.1,JP Duminy,JA Morkel,P Utseya,6,0,6,NA,0,NA,NA,NA,1
+430509,1st innings,South Africa,Zimbabwe,42.2,JP Duminy,JA Morkel,P Utseya,0,0,0,NA,0,NA,NA,NA,1
+430509,1st innings,South Africa,Zimbabwe,42.3,JP Duminy,JA Morkel,P Utseya,1,0,1,NA,0,NA,NA,NA,1
+430509,1st innings,South Africa,Zimbabwe,42.4,JA Morkel,JP Duminy,P Utseya,0,0,0,NA,0,NA,NA,NA,1
+430509,1st innings,South Africa,Zimbabwe,42.5,JA Morkel,JP Duminy,P Utseya,1,0,1,NA,0,NA,NA,NA,1
+430509,1st innings,South Africa,Zimbabwe,42.6,JP Duminy,JA Morkel,P Utseya,4,0,4,NA,0,NA,NA,NA,1
+430509,1st innings,South Africa,Zimbabwe,43.1,JA Morkel,JP Duminy,CB Mpofu,3,0,3,NA,0,NA,NA,NA,1
+430509,1st innings,South Africa,Zimbabwe,43.2,JP Duminy,JA Morkel,CB Mpofu,1,0,1,NA,0,NA,NA,NA,1
+430509,1st innings,South Africa,Zimbabwe,43.3,JA Morkel,JP Duminy,CB Mpofu,1,0,1,NA,0,NA,NA,NA,1
+430509,1st innings,South Africa,Zimbabwe,43.4,JP Duminy,JA Morkel,CB Mpofu,1,0,1,NA,0,NA,NA,NA,1
+430509,1st innings,South Africa,Zimbabwe,43.5,JA Morkel,JP Duminy,CB Mpofu,4,0,4,NA,0,NA,NA,NA,1
+430509,1st innings,South Africa,Zimbabwe,43.6,JA Morkel,JP Duminy,CB Mpofu,1,0,1,NA,0,NA,NA,NA,1
+430509,1st innings,South Africa,Zimbabwe,44.1,JA Morkel,JP Duminy,RW Price,1,0,1,NA,0,NA,NA,NA,1
+430509,1st innings,South Africa,Zimbabwe,44.2,JP Duminy,JA Morkel,RW Price,1,0,1,NA,0,NA,NA,NA,1
+430509,1st innings,South Africa,Zimbabwe,44.3,JA Morkel,JP Duminy,RW Price,0,0,0,NA,1,caught,JA Morkel,H Masakadza,1
+430509,1st innings,South Africa,Zimbabwe,44.4,JP Duminy,MV Boucher,RW Price,1,0,1,NA,0,NA,NA,NA,1
+430509,1st innings,South Africa,Zimbabwe,44.5,MV Boucher,JP Duminy,RW Price,4,0,4,NA,0,NA,NA,NA,1
+430509,1st innings,South Africa,Zimbabwe,44.6,MV Boucher,JP Duminy,RW Price,1,0,1,NA,0,NA,NA,NA,1
+430509,1st innings,South Africa,Zimbabwe,45.1,MV Boucher,JP Duminy,P Utseya,0,0,0,NA,0,NA,NA,NA,1
+430509,1st innings,South Africa,Zimbabwe,45.2,MV Boucher,JP Duminy,P Utseya,0,0,0,NA,0,NA,NA,NA,1
+430509,1st innings,South Africa,Zimbabwe,45.3,MV Boucher,JP Duminy,P Utseya,1,0,1,NA,0,NA,NA,NA,1
+430509,1st innings,South Africa,Zimbabwe,45.4,JP Duminy,MV Boucher,P Utseya,2,0,2,NA,0,NA,NA,NA,1
+430509,1st innings,South Africa,Zimbabwe,45.5,JP Duminy,MV Boucher,P Utseya,1,0,1,NA,0,NA,NA,NA,1
+430509,1st innings,South Africa,Zimbabwe,45.6,MV Boucher,JP Duminy,P Utseya,1,0,1,NA,0,NA,NA,NA,1
+430509,1st innings,South Africa,Zimbabwe,46.1,MV Boucher,JP Duminy,RW Price,0,0,0,NA,0,NA,NA,NA,1
+430509,1st innings,South Africa,Zimbabwe,46.2,MV Boucher,JP Duminy,RW Price,6,0,6,NA,0,NA,NA,NA,1
+430509,1st innings,South Africa,Zimbabwe,46.3,MV Boucher,JP Duminy,RW Price,2,0,2,NA,0,NA,NA,NA,1
+430509,1st innings,South Africa,Zimbabwe,46.4,MV Boucher,JP Duminy,RW Price,1,0,1,NA,0,NA,NA,NA,1
+430509,1st innings,South Africa,Zimbabwe,46.5,JP Duminy,MV Boucher,RW Price,1,0,1,NA,0,NA,NA,NA,1
+430509,1st innings,South Africa,Zimbabwe,46.6,MV Boucher,JP Duminy,RW Price,0,0,0,NA,0,NA,NA,NA,1
+430509,1st innings,South Africa,Zimbabwe,47.1,JP Duminy,MV Boucher,CB Mpofu,4,0,4,NA,0,NA,NA,NA,1
+430509,1st innings,South Africa,Zimbabwe,47.2,JP Duminy,MV Boucher,CB Mpofu,1,0,1,NA,0,NA,NA,NA,1
+430509,1st innings,South Africa,Zimbabwe,47.3,MV Boucher,JP Duminy,CB Mpofu,1,0,1,NA,0,NA,NA,NA,1
+430509,1st innings,South Africa,Zimbabwe,47.4,JP Duminy,MV Boucher,CB Mpofu,4,0,4,NA,0,NA,NA,NA,1
+430509,1st innings,South Africa,Zimbabwe,47.5,JP Duminy,MV Boucher,CB Mpofu,1,0,1,NA,0,NA,NA,NA,1
+430509,1st innings,South Africa,Zimbabwe,47.6,MV Boucher,JP Duminy,CB Mpofu,0,0,0,NA,0,NA,NA,NA,1
+430509,1st innings,South Africa,Zimbabwe,48.1,JP Duminy,MV Boucher,KM Jarvis,2,0,2,NA,0,NA,NA,NA,1
+430509,1st innings,South Africa,Zimbabwe,48.2,JP Duminy,MV Boucher,KM Jarvis,4,0,4,NA,0,NA,NA,NA,1
+430509,1st innings,South Africa,Zimbabwe,48.3,JP Duminy,MV Boucher,KM Jarvis,1,0,1,NA,0,NA,NA,NA,1
+430509,1st innings,South Africa,Zimbabwe,48.4,MV Boucher,JP Duminy,KM Jarvis,6,0,6,NA,0,NA,NA,NA,1
+430509,1st innings,South Africa,Zimbabwe,48.5,MV Boucher,JP Duminy,KM Jarvis,2,0,2,NA,0,NA,NA,NA,1
+430509,1st innings,South Africa,Zimbabwe,48.6,MV Boucher,JP Duminy,KM Jarvis,1,0,1,NA,0,NA,NA,NA,1
+430509,1st innings,South Africa,Zimbabwe,49.1,MV Boucher,JP Duminy,CB Mpofu,4,0,4,NA,0,NA,NA,NA,1
+430509,1st innings,South Africa,Zimbabwe,49.2,MV Boucher,JP Duminy,CB Mpofu,1,0,1,NA,0,NA,NA,NA,1
+430509,1st innings,South Africa,Zimbabwe,49.3,JP Duminy,MV Boucher,CB Mpofu,2,0,2,NA,0,NA,NA,NA,1
+430509,1st innings,South Africa,Zimbabwe,49.4,JP Duminy,MV Boucher,CB Mpofu,2,0,2,NA,0,NA,NA,NA,1
+430509,1st innings,South Africa,Zimbabwe,49.5,JP Duminy,MV Boucher,CB Mpofu,1,0,1,NA,0,NA,NA,NA,1
+430509,1st innings,South Africa,Zimbabwe,49.6,MV Boucher,JP Duminy,CB Mpofu,0,0,0,NA,0,NA,NA,NA,1
+430509,2nd innings,Zimbabwe,South Africa,0.1,H Masakadza,BRM Taylor,CK Langeveldt,0,0,0,NA,0,NA,NA,NA,0
+430509,2nd innings,Zimbabwe,South Africa,0.2,H Masakadza,BRM Taylor,CK Langeveldt,0,0,0,NA,0,NA,NA,NA,0
+430509,2nd innings,Zimbabwe,South Africa,0.3,H Masakadza,BRM Taylor,CK Langeveldt,0,0,0,NA,0,NA,NA,NA,0
+430509,2nd innings,Zimbabwe,South Africa,0.4,H Masakadza,BRM Taylor,CK Langeveldt,0,0,0,NA,0,NA,NA,NA,0
+430509,2nd innings,Zimbabwe,South Africa,0.5,H Masakadza,BRM Taylor,CK Langeveldt,0,0,0,NA,0,NA,NA,NA,0
+430509,2nd innings,Zimbabwe,South Africa,0.6,H Masakadza,BRM Taylor,CK Langeveldt,0,0,0,NA,0,NA,NA,NA,0
+430509,2nd innings,Zimbabwe,South Africa,1.1,BRM Taylor,H Masakadza,LL Tsotsobe,0,0,0,NA,0,NA,NA,NA,0
+430509,2nd innings,Zimbabwe,South Africa,1.2,BRM Taylor,H Masakadza,LL Tsotsobe,0,0,0,NA,0,NA,NA,NA,0
+430509,2nd innings,Zimbabwe,South Africa,1.3,BRM Taylor,H Masakadza,LL Tsotsobe,0,0,0,NA,0,NA,NA,NA,0
+430509,2nd innings,Zimbabwe,South Africa,1.4,BRM Taylor,H Masakadza,LL Tsotsobe,0,0,0,NA,0,NA,NA,NA,0
+430509,2nd innings,Zimbabwe,South Africa,1.5,BRM Taylor,H Masakadza,LL Tsotsobe,0,0,0,NA,0,NA,NA,NA,0
+430509,2nd innings,Zimbabwe,South Africa,1.6,BRM Taylor,H Masakadza,LL Tsotsobe,0,0,0,NA,0,NA,NA,NA,0
+430509,2nd innings,Zimbabwe,South Africa,2.1,H Masakadza,BRM Taylor,CK Langeveldt,0,0,0,NA,1,caught,H Masakadza,JH Kallis,0
+430509,2nd innings,Zimbabwe,South Africa,2.2,T Taibu,BRM Taylor,CK Langeveldt,4,0,4,NA,0,NA,NA,NA,0
+430509,2nd innings,Zimbabwe,South Africa,2.3,T Taibu,BRM Taylor,CK Langeveldt,4,0,4,NA,0,NA,NA,NA,0
+430509,2nd innings,Zimbabwe,South Africa,2.4,T Taibu,BRM Taylor,CK Langeveldt,0,0,0,NA,0,NA,NA,NA,0
+430509,2nd innings,Zimbabwe,South Africa,2.5,T Taibu,BRM Taylor,CK Langeveldt,0,0,0,NA,0,NA,NA,NA,0
+430509,2nd innings,Zimbabwe,South Africa,2.6,T Taibu,BRM Taylor,CK Langeveldt,0,0,0,NA,0,NA,NA,NA,0
+430509,2nd innings,Zimbabwe,South Africa,3.1,BRM Taylor,T Taibu,LL Tsotsobe,0,0,0,NA,0,NA,NA,NA,0
+430509,2nd innings,Zimbabwe,South Africa,3.2,BRM Taylor,T Taibu,LL Tsotsobe,0,0,0,NA,0,NA,NA,NA,0
+430509,2nd innings,Zimbabwe,South Africa,3.3,BRM Taylor,T Taibu,LL Tsotsobe,0,0,0,NA,1,caught,BRM Taylor,JH Kallis,0
+430509,2nd innings,Zimbabwe,South Africa,3.4,S Matsikenyeri,T Taibu,LL Tsotsobe,0,0,0,NA,0,NA,NA,NA,0
+430509,2nd innings,Zimbabwe,South Africa,3.5,S Matsikenyeri,T Taibu,LL Tsotsobe,0,0,0,NA,0,NA,NA,NA,0
+430509,2nd innings,Zimbabwe,South Africa,3.6,S Matsikenyeri,T Taibu,LL Tsotsobe,0,0,0,NA,0,NA,NA,NA,0
+430509,2nd innings,Zimbabwe,South Africa,4.1,T Taibu,S Matsikenyeri,CK Langeveldt,1,0,1,NA,0,NA,NA,NA,0
+430509,2nd innings,Zimbabwe,South Africa,4.2,S Matsikenyeri,T Taibu,CK Langeveldt,0,1,1,legbyes,0,NA,NA,NA,0
+430509,2nd innings,Zimbabwe,South Africa,4.3,T Taibu,S Matsikenyeri,CK Langeveldt,0,0,0,NA,0,NA,NA,NA,0
+430509,2nd innings,Zimbabwe,South Africa,4.4,T Taibu,S Matsikenyeri,CK Langeveldt,0,0,0,NA,0,NA,NA,NA,0
+430509,2nd innings,Zimbabwe,South Africa,4.5,T Taibu,S Matsikenyeri,CK Langeveldt,0,0,0,NA,0,NA,NA,NA,0
+430509,2nd innings,Zimbabwe,South Africa,4.6,T Taibu,S Matsikenyeri,CK Langeveldt,2,0,2,NA,0,NA,NA,NA,0
+430509,2nd innings,Zimbabwe,South Africa,5.1,S Matsikenyeri,T Taibu,LL Tsotsobe,1,0,1,NA,0,NA,NA,NA,0
+430509,2nd innings,Zimbabwe,South Africa,5.2,T Taibu,S Matsikenyeri,LL Tsotsobe,0,0,0,NA,0,NA,NA,NA,0
+430509,2nd innings,Zimbabwe,South Africa,5.3,T Taibu,S Matsikenyeri,LL Tsotsobe,0,1,1,wides,0,NA,NA,NA,0
+430509,2nd innings,Zimbabwe,South Africa,5.4,T Taibu,S Matsikenyeri,LL Tsotsobe,0,0,0,NA,0,NA,NA,NA,0
+430509,2nd innings,Zimbabwe,South Africa,5.5,T Taibu,S Matsikenyeri,LL Tsotsobe,3,0,3,NA,0,NA,NA,NA,0
+430509,2nd innings,Zimbabwe,South Africa,5.6,S Matsikenyeri,T Taibu,LL Tsotsobe,0,0,0,NA,0,NA,NA,NA,0
+430509,2nd innings,Zimbabwe,South Africa,5.7,S Matsikenyeri,T Taibu,LL Tsotsobe,1,0,1,NA,0,NA,NA,NA,0
+430509,2nd innings,Zimbabwe,South Africa,6.1,S Matsikenyeri,T Taibu,CK Langeveldt,4,0,4,NA,0,NA,NA,NA,0
+430509,2nd innings,Zimbabwe,South Africa,6.2,S Matsikenyeri,T Taibu,CK Langeveldt,0,0,0,NA,0,NA,NA,NA,0
+430509,2nd innings,Zimbabwe,South Africa,6.3,S Matsikenyeri,T Taibu,CK Langeveldt,0,1,1,wides,0,NA,NA,NA,0
+430509,2nd innings,Zimbabwe,South Africa,6.4,S Matsikenyeri,T Taibu,CK Langeveldt,0,0,0,NA,0,NA,NA,NA,0
+430509,2nd innings,Zimbabwe,South Africa,6.5,S Matsikenyeri,T Taibu,CK Langeveldt,2,0,2,NA,0,NA,NA,NA,0
+430509,2nd innings,Zimbabwe,South Africa,6.6,S Matsikenyeri,T Taibu,CK Langeveldt,0,0,0,NA,0,NA,NA,NA,0
+430509,2nd innings,Zimbabwe,South Africa,6.7,S Matsikenyeri,T Taibu,CK Langeveldt,4,0,4,NA,0,NA,NA,NA,0
+430509,2nd innings,Zimbabwe,South Africa,7.1,T Taibu,S Matsikenyeri,LL Tsotsobe,2,0,2,NA,0,NA,NA,NA,0
+430509,2nd innings,Zimbabwe,South Africa,7.2,T Taibu,S Matsikenyeri,LL Tsotsobe,0,0,0,NA,0,NA,NA,NA,0
+430509,2nd innings,Zimbabwe,South Africa,7.3,T Taibu,S Matsikenyeri,LL Tsotsobe,0,0,0,NA,0,NA,NA,NA,0
+430509,2nd innings,Zimbabwe,South Africa,7.4,T Taibu,S Matsikenyeri,LL Tsotsobe,0,0,0,NA,0,NA,NA,NA,0
+430509,2nd innings,Zimbabwe,South Africa,7.5,T Taibu,S Matsikenyeri,LL Tsotsobe,0,0,0,NA,0,NA,NA,NA,0
+430509,2nd innings,Zimbabwe,South Africa,7.6,T Taibu,S Matsikenyeri,LL Tsotsobe,2,0,2,NA,0,NA,NA,NA,0
+430509,2nd innings,Zimbabwe,South Africa,8.1,S Matsikenyeri,T Taibu,R McLaren,1,0,1,NA,0,NA,NA,NA,0
+430509,2nd innings,Zimbabwe,South Africa,8.2,T Taibu,S Matsikenyeri,R McLaren,1,0,1,NA,0,NA,NA,NA,0
+430509,2nd innings,Zimbabwe,South Africa,8.3,S Matsikenyeri,T Taibu,R McLaren,0,0,0,NA,0,NA,NA,NA,0
+430509,2nd innings,Zimbabwe,South Africa,8.4,S Matsikenyeri,T Taibu,R McLaren,0,0,0,NA,0,NA,NA,NA,0
+430509,2nd innings,Zimbabwe,South Africa,8.5,S Matsikenyeri,T Taibu,R McLaren,0,0,0,NA,0,NA,NA,NA,0
+430509,2nd innings,Zimbabwe,South Africa,8.6,S Matsikenyeri,T Taibu,R McLaren,0,0,0,NA,0,NA,NA,NA,0
+430509,2nd innings,Zimbabwe,South Africa,9.1,T Taibu,S Matsikenyeri,LL Tsotsobe,0,0,0,NA,0,NA,NA,NA,0
+430509,2nd innings,Zimbabwe,South Africa,9.2,T Taibu,S Matsikenyeri,LL Tsotsobe,0,0,0,NA,0,NA,NA,NA,0
+430509,2nd innings,Zimbabwe,South Africa,9.3,T Taibu,S Matsikenyeri,LL Tsotsobe,4,0,4,NA,0,NA,NA,NA,0
+430509,2nd innings,Zimbabwe,South Africa,9.4,T Taibu,S Matsikenyeri,LL Tsotsobe,0,0,0,NA,0,NA,NA,NA,0
+430509,2nd innings,Zimbabwe,South Africa,9.5,T Taibu,S Matsikenyeri,LL Tsotsobe,0,0,0,NA,0,NA,NA,NA,0
+430509,2nd innings,Zimbabwe,South Africa,9.6,T Taibu,S Matsikenyeri,LL Tsotsobe,1,0,1,NA,0,NA,NA,NA,0
+430509,2nd innings,Zimbabwe,South Africa,10.1,T Taibu,S Matsikenyeri,R McLaren,0,0,0,NA,0,NA,NA,NA,0
+430509,2nd innings,Zimbabwe,South Africa,10.2,T Taibu,S Matsikenyeri,R McLaren,0,0,0,NA,0,NA,NA,NA,0
+430509,2nd innings,Zimbabwe,South Africa,10.3,T Taibu,S Matsikenyeri,R McLaren,0,0,0,NA,0,NA,NA,NA,0
+430509,2nd innings,Zimbabwe,South Africa,10.4,T Taibu,S Matsikenyeri,R McLaren,0,0,0,NA,0,NA,NA,NA,0
+430509,2nd innings,Zimbabwe,South Africa,10.5,T Taibu,S Matsikenyeri,R McLaren,0,0,0,NA,0,NA,NA,NA,0
+430509,2nd innings,Zimbabwe,South Africa,10.6,T Taibu,S Matsikenyeri,R McLaren,0,0,0,NA,0,NA,NA,NA,0
+430509,2nd innings,Zimbabwe,South Africa,11.1,S Matsikenyeri,T Taibu,JA Morkel,0,0,0,NA,0,NA,NA,NA,0
+430509,2nd innings,Zimbabwe,South Africa,11.2,S Matsikenyeri,T Taibu,JA Morkel,0,0,0,NA,1,caught,S Matsikenyeri,MV Boucher,0
+430509,2nd innings,Zimbabwe,South Africa,11.3,E Chigumbura,T Taibu,JA Morkel,4,0,4,NA,0,NA,NA,NA,0
+430509,2nd innings,Zimbabwe,South Africa,11.4,E Chigumbura,T Taibu,JA Morkel,0,0,0,NA,1,caught,E Chigumbura,GC Smith,0
+430509,2nd innings,Zimbabwe,South Africa,11.5,CK Coventry,T Taibu,JA Morkel,1,0,1,NA,0,NA,NA,NA,0
+430509,2nd innings,Zimbabwe,South Africa,11.6,T Taibu,CK Coventry,JA Morkel,0,0,0,NA,0,NA,NA,NA,0
+430509,2nd innings,Zimbabwe,South Africa,12.1,CK Coventry,T Taibu,R McLaren,0,0,0,NA,0,NA,NA,NA,0
+430509,2nd innings,Zimbabwe,South Africa,12.2,CK Coventry,T Taibu,R McLaren,0,0,0,NA,0,NA,NA,NA,0
+430509,2nd innings,Zimbabwe,South Africa,12.3,CK Coventry,T Taibu,R McLaren,0,0,0,NA,0,NA,NA,NA,0
+430509,2nd innings,Zimbabwe,South Africa,12.4,CK Coventry,T Taibu,R McLaren,0,0,0,NA,0,NA,NA,NA,0
+430509,2nd innings,Zimbabwe,South Africa,12.5,CK Coventry,T Taibu,R McLaren,0,0,0,NA,0,NA,NA,NA,0
+430509,2nd innings,Zimbabwe,South Africa,12.6,CK Coventry,T Taibu,R McLaren,0,0,0,NA,0,NA,NA,NA,0
+430509,2nd innings,Zimbabwe,South Africa,13.1,T Taibu,CK Coventry,JA Morkel,0,0,0,NA,0,NA,NA,NA,0
+430509,2nd innings,Zimbabwe,South Africa,13.2,T Taibu,CK Coventry,JA Morkel,0,0,0,NA,0,NA,NA,NA,0
+430509,2nd innings,Zimbabwe,South Africa,13.3,T Taibu,CK Coventry,JA Morkel,0,0,0,NA,0,NA,NA,NA,0
+430509,2nd innings,Zimbabwe,South Africa,13.4,T Taibu,CK Coventry,JA Morkel,0,0,0,NA,0,NA,NA,NA,0
+430509,2nd innings,Zimbabwe,South Africa,13.5,T Taibu,CK Coventry,JA Morkel,0,0,0,NA,0,NA,NA,NA,0
+430509,2nd innings,Zimbabwe,South Africa,13.6,T Taibu,CK Coventry,JA Morkel,0,0,0,NA,0,NA,NA,NA,0
+430509,2nd innings,Zimbabwe,South Africa,14.1,CK Coventry,T Taibu,R McLaren,0,0,0,NA,0,NA,NA,NA,0
+430509,2nd innings,Zimbabwe,South Africa,14.2,CK Coventry,T Taibu,R McLaren,0,0,0,NA,0,NA,NA,NA,0
+430509,2nd innings,Zimbabwe,South Africa,14.3,CK Coventry,T Taibu,R McLaren,0,0,0,NA,0,NA,NA,NA,0
+430509,2nd innings,Zimbabwe,South Africa,14.4,CK Coventry,T Taibu,R McLaren,0,0,0,NA,0,NA,NA,NA,0
+430509,2nd innings,Zimbabwe,South Africa,14.5,CK Coventry,T Taibu,R McLaren,0,0,0,NA,0,NA,NA,NA,0
+430509,2nd innings,Zimbabwe,South Africa,14.6,CK Coventry,T Taibu,R McLaren,4,0,4,NA,0,NA,NA,NA,0
+430509,2nd innings,Zimbabwe,South Africa,15.1,T Taibu,CK Coventry,JA Morkel,0,0,0,NA,0,NA,NA,NA,0
+430509,2nd innings,Zimbabwe,South Africa,15.2,T Taibu,CK Coventry,JA Morkel,1,0,1,NA,0,NA,NA,NA,0
+430509,2nd innings,Zimbabwe,South Africa,15.3,CK Coventry,T Taibu,JA Morkel,2,0,2,NA,0,NA,NA,NA,0
+430509,2nd innings,Zimbabwe,South Africa,15.4,CK Coventry,T Taibu,JA Morkel,0,0,0,NA,0,NA,NA,NA,0
+430509,2nd innings,Zimbabwe,South Africa,15.5,CK Coventry,T Taibu,JA Morkel,0,0,0,NA,0,NA,NA,NA,0
+430509,2nd innings,Zimbabwe,South Africa,15.6,CK Coventry,T Taibu,JA Morkel,0,0,0,NA,0,NA,NA,NA,0
+430509,2nd innings,Zimbabwe,South Africa,16.1,T Taibu,CK Coventry,R McLaren,0,0,0,NA,0,NA,NA,NA,0
+430509,2nd innings,Zimbabwe,South Africa,16.2,T Taibu,CK Coventry,R McLaren,0,0,0,NA,0,NA,NA,NA,0
+430509,2nd innings,Zimbabwe,South Africa,16.3,T Taibu,CK Coventry,R McLaren,0,0,0,NA,0,NA,NA,NA,0
+430509,2nd innings,Zimbabwe,South Africa,16.4,T Taibu,CK Coventry,R McLaren,4,0,4,NA,0,NA,NA,NA,0
+430509,2nd innings,Zimbabwe,South Africa,16.5,T Taibu,CK Coventry,R McLaren,0,0,0,NA,0,NA,NA,NA,0
+430509,2nd innings,Zimbabwe,South Africa,16.6,T Taibu,CK Coventry,R McLaren,0,0,0,NA,0,NA,NA,NA,0
+430509,2nd innings,Zimbabwe,South Africa,17.1,CK Coventry,T Taibu,JA Morkel,1,0,1,NA,0,NA,NA,NA,0
+430509,2nd innings,Zimbabwe,South Africa,17.2,T Taibu,CK Coventry,JA Morkel,1,0,1,NA,0,NA,NA,NA,0
+430509,2nd innings,Zimbabwe,South Africa,17.3,CK Coventry,T Taibu,JA Morkel,1,0,1,NA,0,NA,NA,NA,0
+430509,2nd innings,Zimbabwe,South Africa,17.4,T Taibu,CK Coventry,JA Morkel,0,0,0,NA,0,NA,NA,NA,0
+430509,2nd innings,Zimbabwe,South Africa,17.5,T Taibu,CK Coventry,JA Morkel,1,0,1,NA,0,NA,NA,NA,0
+430509,2nd innings,Zimbabwe,South Africa,17.6,CK Coventry,T Taibu,JA Morkel,0,0,0,NA,0,NA,NA,NA,0
+430509,2nd innings,Zimbabwe,South Africa,18.1,T Taibu,CK Coventry,RE van der Merwe,1,0,1,NA,0,NA,NA,NA,0
+430509,2nd innings,Zimbabwe,South Africa,18.2,CK Coventry,T Taibu,RE van der Merwe,0,0,0,NA,0,NA,NA,NA,0
+430509,2nd innings,Zimbabwe,South Africa,18.3,CK Coventry,T Taibu,RE van der Merwe,0,0,0,NA,0,NA,NA,NA,0
+430509,2nd innings,Zimbabwe,South Africa,18.4,CK Coventry,T Taibu,RE van der Merwe,0,0,0,NA,0,NA,NA,NA,0
+430509,2nd innings,Zimbabwe,South Africa,18.5,CK Coventry,T Taibu,RE van der Merwe,0,0,0,NA,0,NA,NA,NA,0
+430509,2nd innings,Zimbabwe,South Africa,18.6,CK Coventry,T Taibu,RE van der Merwe,1,0,1,NA,0,NA,NA,NA,0
+430509,2nd innings,Zimbabwe,South Africa,19.1,CK Coventry,T Taibu,JA Morkel,0,0,0,NA,1,caught,CK Coventry,AB de Villiers,0
+430509,2nd innings,Zimbabwe,South Africa,19.2,P Utseya,T Taibu,JA Morkel,0,0,0,NA,0,NA,NA,NA,0
+430509,2nd innings,Zimbabwe,South Africa,19.3,P Utseya,T Taibu,JA Morkel,0,0,0,NA,0,NA,NA,NA,0
+430509,2nd innings,Zimbabwe,South Africa,19.4,P Utseya,T Taibu,JA Morkel,0,0,0,NA,0,NA,NA,NA,0
+430509,2nd innings,Zimbabwe,South Africa,19.5,P Utseya,T Taibu,JA Morkel,0,0,0,NA,0,NA,NA,NA,0
+430509,2nd innings,Zimbabwe,South Africa,19.6,P Utseya,T Taibu,JA Morkel,0,0,0,NA,0,NA,NA,NA,0
+430509,2nd innings,Zimbabwe,South Africa,20.1,T Taibu,P Utseya,RE van der Merwe,0,0,0,NA,0,NA,NA,NA,0
+430509,2nd innings,Zimbabwe,South Africa,20.2,T Taibu,P Utseya,RE van der Merwe,1,0,1,NA,0,NA,NA,NA,0
+430509,2nd innings,Zimbabwe,South Africa,20.3,P Utseya,T Taibu,RE van der Merwe,0,0,0,NA,0,NA,NA,NA,0
+430509,2nd innings,Zimbabwe,South Africa,20.4,P Utseya,T Taibu,RE van der Merwe,0,0,0,NA,0,NA,NA,NA,0
+430509,2nd innings,Zimbabwe,South Africa,20.5,P Utseya,T Taibu,RE van der Merwe,1,0,1,NA,0,NA,NA,NA,0
+430509,2nd innings,Zimbabwe,South Africa,20.6,T Taibu,P Utseya,RE van der Merwe,0,0,0,NA,0,NA,NA,NA,0
+430509,2nd innings,Zimbabwe,South Africa,21.1,P Utseya,T Taibu,JA Morkel,0,0,0,NA,0,NA,NA,NA,0
+430509,2nd innings,Zimbabwe,South Africa,21.2,P Utseya,T Taibu,JA Morkel,0,1,1,legbyes,0,NA,NA,NA,0
+430509,2nd innings,Zimbabwe,South Africa,21.3,T Taibu,P Utseya,JA Morkel,0,0,0,NA,0,NA,NA,NA,0
+430509,2nd innings,Zimbabwe,South Africa,21.4,T Taibu,P Utseya,JA Morkel,4,0,4,NA,0,NA,NA,NA,0
+430509,2nd innings,Zimbabwe,South Africa,21.5,T Taibu,P Utseya,JA Morkel,0,0,0,NA,0,NA,NA,NA,0
+430509,2nd innings,Zimbabwe,South Africa,21.6,T Taibu,P Utseya,JA Morkel,4,0,4,NA,0,NA,NA,NA,0
+430509,2nd innings,Zimbabwe,South Africa,22.1,P Utseya,T Taibu,RE van der Merwe,0,0,0,NA,0,NA,NA,NA,0
+430509,2nd innings,Zimbabwe,South Africa,22.2,P Utseya,T Taibu,RE van der Merwe,0,0,0,NA,0,NA,NA,NA,0
+430509,2nd innings,Zimbabwe,South Africa,22.3,P Utseya,T Taibu,RE van der Merwe,0,0,0,NA,0,NA,NA,NA,0
+430509,2nd innings,Zimbabwe,South Africa,22.4,P Utseya,T Taibu,RE van der Merwe,0,0,0,NA,1,lbw,P Utseya,NA,0
+430509,2nd innings,Zimbabwe,South Africa,22.5,AG Cremer,T Taibu,RE van der Merwe,1,0,1,NA,0,NA,NA,NA,0
+430509,2nd innings,Zimbabwe,South Africa,22.6,T Taibu,AG Cremer,RE van der Merwe,1,0,1,NA,0,NA,NA,NA,0
+430509,2nd innings,Zimbabwe,South Africa,23.1,T Taibu,AG Cremer,CK Langeveldt,1,0,1,NA,0,NA,NA,NA,0
+430509,2nd innings,Zimbabwe,South Africa,23.2,AG Cremer,T Taibu,CK Langeveldt,0,0,0,NA,0,NA,NA,NA,0
+430509,2nd innings,Zimbabwe,South Africa,23.3,AG Cremer,T Taibu,CK Langeveldt,1,0,1,NA,0,NA,NA,NA,0
+430509,2nd innings,Zimbabwe,South Africa,23.4,T Taibu,AG Cremer,CK Langeveldt,1,0,1,NA,0,NA,NA,NA,0
+430509,2nd innings,Zimbabwe,South Africa,23.5,AG Cremer,T Taibu,CK Langeveldt,0,0,0,NA,0,NA,NA,NA,0
+430509,2nd innings,Zimbabwe,South Africa,23.6,AG Cremer,T Taibu,CK Langeveldt,0,0,0,NA,0,NA,NA,NA,0
+430509,2nd innings,Zimbabwe,South Africa,24.1,T Taibu,AG Cremer,RE van der Merwe,1,0,1,NA,0,NA,NA,NA,0
+430509,2nd innings,Zimbabwe,South Africa,24.2,AG Cremer,T Taibu,RE van der Merwe,1,0,1,NA,0,NA,NA,NA,0
+430509,2nd innings,Zimbabwe,South Africa,24.3,T Taibu,AG Cremer,RE van der Merwe,1,0,1,NA,0,NA,NA,NA,0
+430509,2nd innings,Zimbabwe,South Africa,24.4,AG Cremer,T Taibu,RE van der Merwe,0,0,0,NA,0,NA,NA,NA,0
+430509,2nd innings,Zimbabwe,South Africa,24.5,AG Cremer,T Taibu,RE van der Merwe,4,0,4,NA,0,NA,NA,NA,0
+430509,2nd innings,Zimbabwe,South Africa,24.6,AG Cremer,T Taibu,RE van der Merwe,1,0,1,NA,0,NA,NA,NA,0
+430509,2nd innings,Zimbabwe,South Africa,25.1,AG Cremer,T Taibu,CK Langeveldt,0,0,0,NA,0,NA,NA,NA,0
+430509,2nd innings,Zimbabwe,South Africa,25.2,AG Cremer,T Taibu,CK Langeveldt,3,0,3,NA,0,NA,NA,NA,0
+430509,2nd innings,Zimbabwe,South Africa,25.3,T Taibu,AG Cremer,CK Langeveldt,1,0,1,NA,0,NA,NA,NA,0
+430509,2nd innings,Zimbabwe,South Africa,25.4,AG Cremer,T Taibu,CK Langeveldt,0,0,0,NA,0,NA,NA,NA,0
+430509,2nd innings,Zimbabwe,South Africa,25.5,AG Cremer,T Taibu,CK Langeveldt,0,0,0,NA,0,NA,NA,NA,0
+430509,2nd innings,Zimbabwe,South Africa,25.6,AG Cremer,T Taibu,CK Langeveldt,0,0,0,NA,1,caught and bowled,AG Cremer,NA,0
+430509,2nd innings,Zimbabwe,South Africa,26.1,T Taibu,RW Price,RE van der Merwe,0,0,0,NA,0,NA,NA,NA,0
+430509,2nd innings,Zimbabwe,South Africa,26.2,T Taibu,RW Price,RE van der Merwe,0,0,0,NA,0,NA,NA,NA,0
+430509,2nd innings,Zimbabwe,South Africa,26.3,T Taibu,RW Price,RE van der Merwe,0,0,0,NA,0,NA,NA,NA,0
+430509,2nd innings,Zimbabwe,South Africa,26.4,T Taibu,RW Price,RE van der Merwe,4,0,4,NA,0,NA,NA,NA,0
+430509,2nd innings,Zimbabwe,South Africa,26.5,T Taibu,RW Price,RE van der Merwe,1,0,1,NA,0,NA,NA,NA,0
+430509,2nd innings,Zimbabwe,South Africa,26.6,RW Price,T Taibu,RE van der Merwe,0,0,0,NA,0,NA,NA,NA,0
+430509,2nd innings,Zimbabwe,South Africa,27.1,T Taibu,RW Price,CK Langeveldt,0,0,0,NA,0,NA,NA,NA,0
+430509,2nd innings,Zimbabwe,South Africa,27.2,T Taibu,RW Price,CK Langeveldt,0,0,0,NA,1,caught,T Taibu,MV Boucher,0
+430509,2nd innings,Zimbabwe,South Africa,27.3,KM Jarvis,RW Price,CK Langeveldt,0,0,0,NA,0,NA,NA,NA,0
+430509,2nd innings,Zimbabwe,South Africa,27.4,KM Jarvis,RW Price,CK Langeveldt,0,0,0,NA,0,NA,NA,NA,0
+430509,2nd innings,Zimbabwe,South Africa,27.5,KM Jarvis,RW Price,CK Langeveldt,0,0,0,NA,0,NA,NA,NA,0
+430509,2nd innings,Zimbabwe,South Africa,27.6,KM Jarvis,RW Price,CK Langeveldt,0,0,0,NA,0,NA,NA,NA,0
+430509,2nd innings,Zimbabwe,South Africa,28.1,RW Price,KM Jarvis,RE van der Merwe,0,0,0,NA,0,NA,NA,NA,0
+430509,2nd innings,Zimbabwe,South Africa,28.2,RW Price,KM Jarvis,RE van der Merwe,0,0,0,NA,0,NA,NA,NA,0
+430509,2nd innings,Zimbabwe,South Africa,28.3,RW Price,KM Jarvis,RE van der Merwe,0,0,0,NA,0,NA,NA,NA,0
+430509,2nd innings,Zimbabwe,South Africa,28.4,RW Price,KM Jarvis,RE van der Merwe,0,0,0,NA,0,NA,NA,NA,0
+430509,2nd innings,Zimbabwe,South Africa,28.5,RW Price,KM Jarvis,RE van der Merwe,0,0,0,NA,0,NA,NA,NA,0
+430509,2nd innings,Zimbabwe,South Africa,28.6,RW Price,KM Jarvis,RE van der Merwe,1,0,1,NA,0,NA,NA,NA,0
+430509,2nd innings,Zimbabwe,South Africa,29.1,RW Price,KM Jarvis,CK Langeveldt,0,0,0,NA,0,NA,NA,NA,0
+430509,2nd innings,Zimbabwe,South Africa,29.2,RW Price,KM Jarvis,CK Langeveldt,6,0,6,NA,0,NA,NA,NA,0
+430509,2nd innings,Zimbabwe,South Africa,29.3,RW Price,KM Jarvis,CK Langeveldt,1,0,1,NA,0,NA,NA,NA,0
+430509,2nd innings,Zimbabwe,South Africa,29.4,RW Price,KM Jarvis,CK Langeveldt,0,0,0,NA,0,NA,NA,NA,0
+430509,2nd innings,Zimbabwe,South Africa,29.5,RW Price,KM Jarvis,CK Langeveldt,0,0,0,NA,0,NA,NA,NA,0
+430509,2nd innings,Zimbabwe,South Africa,29.6,RW Price,KM Jarvis,CK Langeveldt,0,0,0,NA,0,NA,NA,NA,0
+430509,2nd innings,Zimbabwe,South Africa,30.1,KM Jarvis,RW Price,RE van der Merwe,0,0,0,NA,0,NA,NA,NA,0
+430509,2nd innings,Zimbabwe,South Africa,30.2,KM Jarvis,RW Price,RE van der Merwe,4,0,4,NA,0,NA,NA,NA,0
+430509,2nd innings,Zimbabwe,South Africa,30.3,KM Jarvis,RW Price,RE van der Merwe,0,0,0,NA,0,NA,NA,NA,0
+430509,2nd innings,Zimbabwe,South Africa,30.4,KM Jarvis,RW Price,RE van der Merwe,0,0,0,NA,0,NA,NA,NA,0
+430509,2nd innings,Zimbabwe,South Africa,30.5,KM Jarvis,RW Price,RE van der Merwe,0,0,0,NA,0,NA,NA,NA,0
+430509,2nd innings,Zimbabwe,South Africa,30.6,KM Jarvis,RW Price,RE van der Merwe,0,1,1,legbyes,0,NA,NA,NA,0
+430509,2nd innings,Zimbabwe,South Africa,31.1,KM Jarvis,RW Price,LL Tsotsobe,0,0,0,NA,0,NA,NA,NA,0
+430509,2nd innings,Zimbabwe,South Africa,31.2,KM Jarvis,RW Price,LL Tsotsobe,0,0,0,NA,0,NA,NA,NA,0
+430509,2nd innings,Zimbabwe,South Africa,31.3,KM Jarvis,RW Price,LL Tsotsobe,0,0,0,NA,0,NA,NA,NA,0
+430509,2nd innings,Zimbabwe,South Africa,31.4,KM Jarvis,RW Price,LL Tsotsobe,1,0,1,NA,0,NA,NA,NA,0
+430509,2nd innings,Zimbabwe,South Africa,31.5,RW Price,KM Jarvis,LL Tsotsobe,1,0,1,NA,0,NA,NA,NA,0
+430509,2nd innings,Zimbabwe,South Africa,31.6,KM Jarvis,RW Price,LL Tsotsobe,1,0,1,NA,0,NA,NA,NA,0
+430509,2nd innings,Zimbabwe,South Africa,32.1,KM Jarvis,RW Price,RE van der Merwe,0,0,0,NA,0,NA,NA,NA,0
+430509,2nd innings,Zimbabwe,South Africa,32.2,KM Jarvis,RW Price,RE van der Merwe,1,0,1,NA,0,NA,NA,NA,0
+430509,2nd innings,Zimbabwe,South Africa,32.3,RW Price,KM Jarvis,RE van der Merwe,0,0,0,NA,0,NA,NA,NA,0
+430509,2nd innings,Zimbabwe,South Africa,32.4,RW Price,KM Jarvis,RE van der Merwe,0,0,0,NA,1,bowled,RW Price,NA,0
+430509,2nd innings,Zimbabwe,South Africa,32.5,CB Mpofu,KM Jarvis,RE van der Merwe,0,0,0,NA,0,NA,NA,NA,0
+430509,2nd innings,Zimbabwe,South Africa,32.6,CB Mpofu,KM Jarvis,RE van der Merwe,0,0,0,NA,0,NA,NA,NA,0
+430509,2nd innings,Zimbabwe,South Africa,33.1,KM Jarvis,CB Mpofu,LL Tsotsobe,0,0,0,NA,0,NA,NA,NA,0
+430509,2nd innings,Zimbabwe,South Africa,33.2,KM Jarvis,CB Mpofu,LL Tsotsobe,4,0,4,NA,0,NA,NA,NA,0
+430509,2nd innings,Zimbabwe,South Africa,33.3,KM Jarvis,CB Mpofu,LL Tsotsobe,0,0,0,NA,0,NA,NA,NA,0
+430509,2nd innings,Zimbabwe,South Africa,33.4,KM Jarvis,CB Mpofu,LL Tsotsobe,0,0,0,NA,0,NA,NA,NA,0
+430509,2nd innings,Zimbabwe,South Africa,33.5,KM Jarvis,CB Mpofu,LL Tsotsobe,0,0,0,NA,0,NA,NA,NA,0
+430509,2nd innings,Zimbabwe,South Africa,33.6,KM Jarvis,CB Mpofu,LL Tsotsobe,1,0,1,NA,0,NA,NA,NA,0
+430509,2nd innings,Zimbabwe,South Africa,34.1,KM Jarvis,CB Mpofu,RE van der Merwe,1,0,1,NA,0,NA,NA,NA,0
+430509,2nd innings,Zimbabwe,South Africa,34.2,CB Mpofu,KM Jarvis,RE van der Merwe,1,0,1,NA,0,NA,NA,NA,0
+430509,2nd innings,Zimbabwe,South Africa,34.3,KM Jarvis,CB Mpofu,RE van der Merwe,0,0,0,NA,1,caught,KM Jarvis,R McLaren,0

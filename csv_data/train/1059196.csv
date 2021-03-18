@@ -1,0 +1,512 @@
+match_id,innings,team,opponent,ball,batsman,non_striker,bowler,scored_runs,extras,total,extra_type,wicket,wicket_type,player_out,fielders,winner
+1059196,1st innings,England,Sri Lanka,0.1,AE Jones,TT Beaumont,WGAKK Kulasuriya,4,0,4,NA,0,NA,NA,NA,1
+1059196,1st innings,England,Sri Lanka,0.2,AE Jones,TT Beaumont,WGAKK Kulasuriya,0,0,0,NA,0,NA,NA,NA,1
+1059196,1st innings,England,Sri Lanka,0.3,AE Jones,TT Beaumont,WGAKK Kulasuriya,0,0,0,NA,0,NA,NA,NA,1
+1059196,1st innings,England,Sri Lanka,0.4,AE Jones,TT Beaumont,WGAKK Kulasuriya,4,0,4,NA,0,NA,NA,NA,1
+1059196,1st innings,England,Sri Lanka,0.5,AE Jones,TT Beaumont,WGAKK Kulasuriya,0,0,0,NA,0,NA,NA,NA,1
+1059196,1st innings,England,Sri Lanka,0.6,AE Jones,TT Beaumont,WGAKK Kulasuriya,0,0,0,NA,0,NA,NA,NA,1
+1059196,1st innings,England,Sri Lanka,1.1,TT Beaumont,AE Jones,NND de Silva,0,0,0,NA,0,NA,NA,NA,1
+1059196,1st innings,England,Sri Lanka,1.2,TT Beaumont,AE Jones,NND de Silva,0,0,0,NA,1,caught,TT Beaumont,PM Weerakkody,1
+1059196,1st innings,England,Sri Lanka,1.3,HC Knight,AE Jones,NND de Silva,1,0,1,NA,0,NA,NA,NA,1
+1059196,1st innings,England,Sri Lanka,1.4,AE Jones,HC Knight,NND de Silva,1,0,1,NA,0,NA,NA,NA,1
+1059196,1st innings,England,Sri Lanka,1.5,HC Knight,AE Jones,NND de Silva,0,0,0,NA,0,NA,NA,NA,1
+1059196,1st innings,England,Sri Lanka,1.6,HC Knight,AE Jones,NND de Silva,0,0,0,NA,0,NA,NA,NA,1
+1059196,1st innings,England,Sri Lanka,2.1,AE Jones,HC Knight,WGAKK Kulasuriya,0,0,0,NA,0,NA,NA,NA,1
+1059196,1st innings,England,Sri Lanka,2.2,AE Jones,HC Knight,WGAKK Kulasuriya,0,0,0,NA,0,NA,NA,NA,1
+1059196,1st innings,England,Sri Lanka,2.3,AE Jones,HC Knight,WGAKK Kulasuriya,0,0,0,NA,0,NA,NA,NA,1
+1059196,1st innings,England,Sri Lanka,2.4,AE Jones,HC Knight,WGAKK Kulasuriya,0,0,0,NA,0,NA,NA,NA,1
+1059196,1st innings,England,Sri Lanka,2.5,AE Jones,HC Knight,WGAKK Kulasuriya,1,0,1,NA,0,NA,NA,NA,1
+1059196,1st innings,England,Sri Lanka,2.6,HC Knight,AE Jones,WGAKK Kulasuriya,0,0,0,NA,0,NA,NA,NA,1
+1059196,1st innings,England,Sri Lanka,3.1,AE Jones,HC Knight,NND de Silva,0,0,0,NA,0,NA,NA,NA,1
+1059196,1st innings,England,Sri Lanka,3.2,AE Jones,HC Knight,NND de Silva,1,0,1,NA,0,NA,NA,NA,1
+1059196,1st innings,England,Sri Lanka,3.3,HC Knight,AE Jones,NND de Silva,0,0,0,NA,0,NA,NA,NA,1
+1059196,1st innings,England,Sri Lanka,3.4,HC Knight,AE Jones,NND de Silva,0,0,0,NA,0,NA,NA,NA,1
+1059196,1st innings,England,Sri Lanka,3.5,HC Knight,AE Jones,NND de Silva,1,0,1,NA,0,NA,NA,NA,1
+1059196,1st innings,England,Sri Lanka,3.6,AE Jones,HC Knight,NND de Silva,1,0,1,NA,0,NA,NA,NA,1
+1059196,1st innings,England,Sri Lanka,4.1,AE Jones,HC Knight,WGAKK Kulasuriya,0,0,0,NA,0,NA,NA,NA,1
+1059196,1st innings,England,Sri Lanka,4.2,AE Jones,HC Knight,WGAKK Kulasuriya,4,0,4,NA,0,NA,NA,NA,1
+1059196,1st innings,England,Sri Lanka,4.3,AE Jones,HC Knight,WGAKK Kulasuriya,0,1,1,wides,0,NA,NA,NA,1
+1059196,1st innings,England,Sri Lanka,4.4,AE Jones,HC Knight,WGAKK Kulasuriya,0,0,0,NA,0,NA,NA,NA,1
+1059196,1st innings,England,Sri Lanka,4.5,AE Jones,HC Knight,WGAKK Kulasuriya,0,0,0,NA,0,NA,NA,NA,1
+1059196,1st innings,England,Sri Lanka,4.6,AE Jones,HC Knight,WGAKK Kulasuriya,1,0,1,NA,0,NA,NA,NA,1
+1059196,1st innings,England,Sri Lanka,4.7,HC Knight,AE Jones,WGAKK Kulasuriya,1,0,1,NA,0,NA,NA,NA,1
+1059196,1st innings,England,Sri Lanka,5.1,HC Knight,AE Jones,NND de Silva,2,0,2,NA,0,NA,NA,NA,1
+1059196,1st innings,England,Sri Lanka,5.2,HC Knight,AE Jones,NND de Silva,0,0,0,NA,0,NA,NA,NA,1
+1059196,1st innings,England,Sri Lanka,5.3,HC Knight,AE Jones,NND de Silva,2,0,2,NA,0,NA,NA,NA,1
+1059196,1st innings,England,Sri Lanka,5.4,HC Knight,AE Jones,NND de Silva,0,0,0,NA,0,NA,NA,NA,1
+1059196,1st innings,England,Sri Lanka,5.5,HC Knight,AE Jones,NND de Silva,0,0,0,NA,0,NA,NA,NA,1
+1059196,1st innings,England,Sri Lanka,5.6,HC Knight,AE Jones,NND de Silva,0,0,0,NA,0,NA,NA,NA,1
+1059196,1st innings,England,Sri Lanka,6.1,AE Jones,HC Knight,SIP Fernando,1,0,1,NA,0,NA,NA,NA,1
+1059196,1st innings,England,Sri Lanka,6.2,HC Knight,AE Jones,SIP Fernando,0,0,0,NA,0,NA,NA,NA,1
+1059196,1st innings,England,Sri Lanka,6.3,HC Knight,AE Jones,SIP Fernando,0,0,0,NA,0,NA,NA,NA,1
+1059196,1st innings,England,Sri Lanka,6.4,HC Knight,AE Jones,SIP Fernando,1,0,1,NA,0,NA,NA,NA,1
+1059196,1st innings,England,Sri Lanka,6.5,AE Jones,HC Knight,SIP Fernando,0,0,0,NA,0,NA,NA,NA,1
+1059196,1st innings,England,Sri Lanka,6.6,AE Jones,HC Knight,SIP Fernando,0,0,0,NA,0,NA,NA,NA,1
+1059196,1st innings,England,Sri Lanka,7.1,HC Knight,AE Jones,NND de Silva,0,0,0,NA,0,NA,NA,NA,1
+1059196,1st innings,England,Sri Lanka,7.2,HC Knight,AE Jones,NND de Silva,1,0,1,NA,0,NA,NA,NA,1
+1059196,1st innings,England,Sri Lanka,7.3,AE Jones,HC Knight,NND de Silva,0,0,0,NA,0,NA,NA,NA,1
+1059196,1st innings,England,Sri Lanka,7.4,AE Jones,HC Knight,NND de Silva,4,0,4,NA,0,NA,NA,NA,1
+1059196,1st innings,England,Sri Lanka,7.5,AE Jones,HC Knight,NND de Silva,0,0,0,NA,0,NA,NA,NA,1
+1059196,1st innings,England,Sri Lanka,7.6,AE Jones,HC Knight,NND de Silva,4,0,4,NA,0,NA,NA,NA,1
+1059196,1st innings,England,Sri Lanka,8.1,HC Knight,AE Jones,SIP Fernando,2,0,2,NA,0,NA,NA,NA,1
+1059196,1st innings,England,Sri Lanka,8.2,HC Knight,AE Jones,SIP Fernando,0,0,0,NA,0,NA,NA,NA,1
+1059196,1st innings,England,Sri Lanka,8.3,HC Knight,AE Jones,SIP Fernando,0,0,0,NA,1,stumped,HC Knight,PM Weerakkody,1
+1059196,1st innings,England,Sri Lanka,8.4,NR Sciver,AE Jones,SIP Fernando,0,0,0,NA,0,NA,NA,NA,1
+1059196,1st innings,England,Sri Lanka,8.5,NR Sciver,AE Jones,SIP Fernando,0,0,0,NA,0,NA,NA,NA,1
+1059196,1st innings,England,Sri Lanka,8.6,NR Sciver,AE Jones,SIP Fernando,0,0,0,NA,0,NA,NA,NA,1
+1059196,1st innings,England,Sri Lanka,9.1,AE Jones,NR Sciver,NND de Silva,0,0,0,NA,0,NA,NA,NA,1
+1059196,1st innings,England,Sri Lanka,9.2,AE Jones,NR Sciver,NND de Silva,0,0,0,NA,0,NA,NA,NA,1
+1059196,1st innings,England,Sri Lanka,9.3,AE Jones,NR Sciver,NND de Silva,0,0,0,NA,0,NA,NA,NA,1
+1059196,1st innings,England,Sri Lanka,9.4,AE Jones,NR Sciver,NND de Silva,0,0,0,NA,0,NA,NA,NA,1
+1059196,1st innings,England,Sri Lanka,9.5,AE Jones,NR Sciver,NND de Silva,1,0,1,NA,0,NA,NA,NA,1
+1059196,1st innings,England,Sri Lanka,9.6,NR Sciver,AE Jones,NND de Silva,0,2,2,wides,0,NA,NA,NA,1
+1059196,1st innings,England,Sri Lanka,9.7,AE Jones,NR Sciver,NND de Silva,0,0,0,NA,0,NA,NA,NA,1
+1059196,1st innings,England,Sri Lanka,10.1,NR Sciver,AE Jones,SIP Fernando,0,0,0,NA,0,NA,NA,NA,1
+1059196,1st innings,England,Sri Lanka,10.2,NR Sciver,AE Jones,SIP Fernando,1,0,1,NA,0,NA,NA,NA,1
+1059196,1st innings,England,Sri Lanka,10.3,AE Jones,NR Sciver,SIP Fernando,0,0,0,NA,0,NA,NA,NA,1
+1059196,1st innings,England,Sri Lanka,10.4,AE Jones,NR Sciver,SIP Fernando,0,0,0,NA,0,NA,NA,NA,1
+1059196,1st innings,England,Sri Lanka,10.5,AE Jones,NR Sciver,SIP Fernando,0,0,0,NA,0,NA,NA,NA,1
+1059196,1st innings,England,Sri Lanka,10.6,AE Jones,NR Sciver,SIP Fernando,1,0,1,NA,0,NA,NA,NA,1
+1059196,1st innings,England,Sri Lanka,11.1,AE Jones,NR Sciver,I Ranaweera,0,0,0,NA,0,NA,NA,NA,1
+1059196,1st innings,England,Sri Lanka,11.2,AE Jones,NR Sciver,I Ranaweera,0,0,0,NA,1,bowled,AE Jones,NA,1
+1059196,1st innings,England,Sri Lanka,11.3,DN Wyatt,NR Sciver,I Ranaweera,0,0,0,NA,0,NA,NA,NA,1
+1059196,1st innings,England,Sri Lanka,11.4,DN Wyatt,NR Sciver,I Ranaweera,0,0,0,NA,1,bowled,DN Wyatt,NA,1
+1059196,1st innings,England,Sri Lanka,11.5,FC Wilson,NR Sciver,I Ranaweera,0,0,0,NA,0,NA,NA,NA,1
+1059196,1st innings,England,Sri Lanka,11.6,FC Wilson,NR Sciver,I Ranaweera,0,0,0,NA,0,NA,NA,NA,1
+1059196,1st innings,England,Sri Lanka,12.1,NR Sciver,FC Wilson,SIP Fernando,0,0,0,NA,0,NA,NA,NA,1
+1059196,1st innings,England,Sri Lanka,12.2,NR Sciver,FC Wilson,SIP Fernando,0,0,0,NA,0,NA,NA,NA,1
+1059196,1st innings,England,Sri Lanka,12.3,NR Sciver,FC Wilson,SIP Fernando,1,0,1,NA,0,NA,NA,NA,1
+1059196,1st innings,England,Sri Lanka,12.4,FC Wilson,NR Sciver,SIP Fernando,0,0,0,NA,1,caught,FC Wilson,PM Weerakkody,1
+1059196,1st innings,England,Sri Lanka,12.5,GA Elwiss,NR Sciver,SIP Fernando,0,0,0,NA,0,NA,NA,NA,1
+1059196,1st innings,England,Sri Lanka,12.6,GA Elwiss,NR Sciver,SIP Fernando,0,0,0,NA,0,NA,NA,NA,1
+1059196,1st innings,England,Sri Lanka,13.1,NR Sciver,GA Elwiss,I Ranaweera,0,0,0,NA,0,NA,NA,NA,1
+1059196,1st innings,England,Sri Lanka,13.2,NR Sciver,GA Elwiss,I Ranaweera,0,0,0,NA,0,NA,NA,NA,1
+1059196,1st innings,England,Sri Lanka,13.3,NR Sciver,GA Elwiss,I Ranaweera,4,0,4,NA,0,NA,NA,NA,1
+1059196,1st innings,England,Sri Lanka,13.4,NR Sciver,GA Elwiss,I Ranaweera,0,0,0,NA,0,NA,NA,NA,1
+1059196,1st innings,England,Sri Lanka,13.5,NR Sciver,GA Elwiss,I Ranaweera,0,0,0,NA,0,NA,NA,NA,1
+1059196,1st innings,England,Sri Lanka,13.6,NR Sciver,GA Elwiss,I Ranaweera,4,0,4,NA,0,NA,NA,NA,1
+1059196,1st innings,England,Sri Lanka,14.1,GA Elwiss,NR Sciver,SIP Fernando,0,0,0,NA,0,NA,NA,NA,1
+1059196,1st innings,England,Sri Lanka,14.2,GA Elwiss,NR Sciver,SIP Fernando,0,0,0,NA,0,NA,NA,NA,1
+1059196,1st innings,England,Sri Lanka,14.3,GA Elwiss,NR Sciver,SIP Fernando,1,0,1,NA,0,NA,NA,NA,1
+1059196,1st innings,England,Sri Lanka,14.4,NR Sciver,GA Elwiss,SIP Fernando,0,0,0,NA,0,NA,NA,NA,1
+1059196,1st innings,England,Sri Lanka,14.5,NR Sciver,GA Elwiss,SIP Fernando,0,0,0,NA,0,NA,NA,NA,1
+1059196,1st innings,England,Sri Lanka,14.6,NR Sciver,GA Elwiss,SIP Fernando,0,0,0,NA,0,NA,NA,NA,1
+1059196,1st innings,England,Sri Lanka,15.1,GA Elwiss,NR Sciver,I Ranaweera,0,0,0,NA,0,NA,NA,NA,1
+1059196,1st innings,England,Sri Lanka,15.2,GA Elwiss,NR Sciver,I Ranaweera,0,0,0,NA,0,NA,NA,NA,1
+1059196,1st innings,England,Sri Lanka,15.3,GA Elwiss,NR Sciver,I Ranaweera,4,0,4,NA,0,NA,NA,NA,1
+1059196,1st innings,England,Sri Lanka,15.4,GA Elwiss,NR Sciver,I Ranaweera,1,0,1,NA,0,NA,NA,NA,1
+1059196,1st innings,England,Sri Lanka,15.5,NR Sciver,GA Elwiss,I Ranaweera,0,0,0,NA,0,NA,NA,NA,1
+1059196,1st innings,England,Sri Lanka,15.6,NR Sciver,GA Elwiss,I Ranaweera,0,0,0,NA,0,NA,NA,NA,1
+1059196,1st innings,England,Sri Lanka,16.1,GA Elwiss,NR Sciver,SIP Fernando,0,0,0,NA,1,stumped,GA Elwiss,PM Weerakkody,1
+1059196,1st innings,England,Sri Lanka,16.2,D Hazell,NR Sciver,SIP Fernando,0,0,0,NA,0,NA,NA,NA,1
+1059196,1st innings,England,Sri Lanka,16.3,D Hazell,NR Sciver,SIP Fernando,0,0,0,NA,0,NA,NA,NA,1
+1059196,1st innings,England,Sri Lanka,16.4,D Hazell,NR Sciver,SIP Fernando,0,0,0,NA,0,NA,NA,NA,1
+1059196,1st innings,England,Sri Lanka,16.5,D Hazell,NR Sciver,SIP Fernando,0,0,0,NA,0,NA,NA,NA,1
+1059196,1st innings,England,Sri Lanka,16.6,D Hazell,NR Sciver,SIP Fernando,0,0,0,NA,0,NA,NA,NA,1
+1059196,1st innings,England,Sri Lanka,17.1,NR Sciver,D Hazell,I Ranaweera,0,0,0,NA,0,NA,NA,NA,1
+1059196,1st innings,England,Sri Lanka,17.2,NR Sciver,D Hazell,I Ranaweera,0,0,0,NA,0,NA,NA,NA,1
+1059196,1st innings,England,Sri Lanka,17.3,NR Sciver,D Hazell,I Ranaweera,4,0,4,NA,0,NA,NA,NA,1
+1059196,1st innings,England,Sri Lanka,17.4,NR Sciver,D Hazell,I Ranaweera,0,0,0,NA,0,NA,NA,NA,1
+1059196,1st innings,England,Sri Lanka,17.5,NR Sciver,D Hazell,I Ranaweera,1,0,1,NA,0,NA,NA,NA,1
+1059196,1st innings,England,Sri Lanka,17.6,D Hazell,NR Sciver,I Ranaweera,0,0,0,NA,0,NA,NA,NA,1
+1059196,1st innings,England,Sri Lanka,18.1,NR Sciver,D Hazell,SIP Fernando,1,0,1,NA,0,NA,NA,NA,1
+1059196,1st innings,England,Sri Lanka,18.2,D Hazell,NR Sciver,SIP Fernando,1,0,1,NA,0,NA,NA,NA,1
+1059196,1st innings,England,Sri Lanka,18.3,NR Sciver,D Hazell,SIP Fernando,0,0,0,NA,0,NA,NA,NA,1
+1059196,1st innings,England,Sri Lanka,18.4,NR Sciver,D Hazell,SIP Fernando,0,0,0,NA,0,NA,NA,NA,1
+1059196,1st innings,England,Sri Lanka,18.5,NR Sciver,D Hazell,SIP Fernando,1,0,1,NA,0,NA,NA,NA,1
+1059196,1st innings,England,Sri Lanka,18.6,D Hazell,NR Sciver,SIP Fernando,0,1,1,wides,0,NA,NA,NA,1
+1059196,1st innings,England,Sri Lanka,18.7,D Hazell,NR Sciver,SIP Fernando,2,0,2,NA,0,NA,NA,NA,1
+1059196,1st innings,England,Sri Lanka,19.1,NR Sciver,D Hazell,I Ranaweera,4,0,4,NA,0,NA,NA,NA,1
+1059196,1st innings,England,Sri Lanka,19.2,NR Sciver,D Hazell,I Ranaweera,1,0,1,NA,0,NA,NA,NA,1
+1059196,1st innings,England,Sri Lanka,19.3,D Hazell,NR Sciver,I Ranaweera,0,0,0,NA,0,NA,NA,NA,1
+1059196,1st innings,England,Sri Lanka,19.4,D Hazell,NR Sciver,I Ranaweera,0,0,0,NA,0,NA,NA,NA,1
+1059196,1st innings,England,Sri Lanka,19.5,D Hazell,NR Sciver,I Ranaweera,0,0,0,NA,0,NA,NA,NA,1
+1059196,1st innings,England,Sri Lanka,19.6,D Hazell,NR Sciver,I Ranaweera,6,0,6,NA,0,NA,NA,NA,1
+1059196,1st innings,England,Sri Lanka,20.1,NR Sciver,D Hazell,AC Jayangani,0,0,0,NA,0,NA,NA,NA,1
+1059196,1st innings,England,Sri Lanka,20.2,NR Sciver,D Hazell,AC Jayangani,0,0,0,NA,0,NA,NA,NA,1
+1059196,1st innings,England,Sri Lanka,20.3,NR Sciver,D Hazell,AC Jayangani,2,0,2,NA,0,NA,NA,NA,1
+1059196,1st innings,England,Sri Lanka,20.4,NR Sciver,D Hazell,AC Jayangani,0,0,0,NA,0,NA,NA,NA,1
+1059196,1st innings,England,Sri Lanka,20.5,NR Sciver,D Hazell,AC Jayangani,1,0,1,NA,0,NA,NA,NA,1
+1059196,1st innings,England,Sri Lanka,20.6,D Hazell,NR Sciver,AC Jayangani,1,0,1,NA,0,NA,NA,NA,1
+1059196,1st innings,England,Sri Lanka,21.1,D Hazell,NR Sciver,WGAKK Kulasuriya,2,0,2,NA,0,NA,NA,NA,1
+1059196,1st innings,England,Sri Lanka,21.2,D Hazell,NR Sciver,WGAKK Kulasuriya,0,0,0,NA,0,NA,NA,NA,1
+1059196,1st innings,England,Sri Lanka,21.3,D Hazell,NR Sciver,WGAKK Kulasuriya,0,0,0,NA,0,NA,NA,NA,1
+1059196,1st innings,England,Sri Lanka,21.4,D Hazell,NR Sciver,WGAKK Kulasuriya,0,0,0,NA,0,NA,NA,NA,1
+1059196,1st innings,England,Sri Lanka,21.5,D Hazell,NR Sciver,WGAKK Kulasuriya,1,0,1,NA,0,NA,NA,NA,1
+1059196,1st innings,England,Sri Lanka,21.6,NR Sciver,D Hazell,WGAKK Kulasuriya,1,0,1,NA,0,NA,NA,NA,1
+1059196,1st innings,England,Sri Lanka,22.1,NR Sciver,D Hazell,AC Jayangani,1,0,1,NA,0,NA,NA,NA,1
+1059196,1st innings,England,Sri Lanka,22.2,D Hazell,NR Sciver,AC Jayangani,4,0,4,NA,0,NA,NA,NA,1
+1059196,1st innings,England,Sri Lanka,22.3,D Hazell,NR Sciver,AC Jayangani,1,0,1,NA,0,NA,NA,NA,1
+1059196,1st innings,England,Sri Lanka,22.4,NR Sciver,D Hazell,AC Jayangani,0,0,0,NA,0,NA,NA,NA,1
+1059196,1st innings,England,Sri Lanka,22.5,NR Sciver,D Hazell,AC Jayangani,0,1,1,wides,0,NA,NA,NA,1
+1059196,1st innings,England,Sri Lanka,22.6,NR Sciver,D Hazell,AC Jayangani,0,0,0,NA,0,NA,NA,NA,1
+1059196,1st innings,England,Sri Lanka,22.7,NR Sciver,D Hazell,AC Jayangani,1,0,1,NA,0,NA,NA,NA,1
+1059196,1st innings,England,Sri Lanka,23.1,NR Sciver,D Hazell,WGAKK Kulasuriya,4,0,4,NA,0,NA,NA,NA,1
+1059196,1st innings,England,Sri Lanka,23.2,NR Sciver,D Hazell,WGAKK Kulasuriya,2,0,2,NA,0,NA,NA,NA,1
+1059196,1st innings,England,Sri Lanka,23.3,NR Sciver,D Hazell,WGAKK Kulasuriya,0,0,0,NA,0,NA,NA,NA,1
+1059196,1st innings,England,Sri Lanka,23.4,NR Sciver,D Hazell,WGAKK Kulasuriya,0,0,0,NA,0,NA,NA,NA,1
+1059196,1st innings,England,Sri Lanka,23.5,NR Sciver,D Hazell,WGAKK Kulasuriya,1,0,1,NA,0,NA,NA,NA,1
+1059196,1st innings,England,Sri Lanka,23.6,D Hazell,NR Sciver,WGAKK Kulasuriya,0,1,1,wides,0,NA,NA,NA,1
+1059196,1st innings,England,Sri Lanka,23.7,D Hazell,NR Sciver,WGAKK Kulasuriya,1,0,1,NA,0,NA,NA,NA,1
+1059196,1st innings,England,Sri Lanka,24.1,D Hazell,NR Sciver,I Ranaweera,2,0,2,NA,0,NA,NA,NA,1
+1059196,1st innings,England,Sri Lanka,24.2,D Hazell,NR Sciver,I Ranaweera,0,0,0,NA,0,NA,NA,NA,1
+1059196,1st innings,England,Sri Lanka,24.3,D Hazell,NR Sciver,I Ranaweera,1,0,1,NA,0,NA,NA,NA,1
+1059196,1st innings,England,Sri Lanka,24.4,NR Sciver,D Hazell,I Ranaweera,1,0,1,NA,0,NA,NA,NA,1
+1059196,1st innings,England,Sri Lanka,24.5,D Hazell,NR Sciver,I Ranaweera,0,0,0,NA,0,NA,NA,NA,1
+1059196,1st innings,England,Sri Lanka,24.6,D Hazell,NR Sciver,I Ranaweera,0,0,0,NA,0,NA,NA,NA,1
+1059196,1st innings,England,Sri Lanka,25.1,NR Sciver,D Hazell,NND de Silva,4,0,4,NA,0,NA,NA,NA,1
+1059196,1st innings,England,Sri Lanka,25.2,NR Sciver,D Hazell,NND de Silva,4,1,5,noballs,0,NA,NA,NA,1
+1059196,1st innings,England,Sri Lanka,25.3,NR Sciver,D Hazell,NND de Silva,6,0,6,NA,0,NA,NA,NA,1
+1059196,1st innings,England,Sri Lanka,25.4,NR Sciver,D Hazell,NND de Silva,0,1,1,legbyes,0,NA,NA,NA,1
+1059196,1st innings,England,Sri Lanka,25.5,D Hazell,NR Sciver,NND de Silva,0,2,2,wides,0,NA,NA,NA,1
+1059196,1st innings,England,Sri Lanka,25.6,NR Sciver,D Hazell,NND de Silva,6,0,6,NA,0,NA,NA,NA,1
+1059196,1st innings,England,Sri Lanka,25.7,NR Sciver,D Hazell,NND de Silva,0,0,0,NA,0,NA,NA,NA,1
+1059196,1st innings,England,Sri Lanka,25.8,NR Sciver,D Hazell,NND de Silva,0,0,0,NA,0,NA,NA,NA,1
+1059196,1st innings,England,Sri Lanka,26.1,D Hazell,NR Sciver,SIP Fernando,0,1,1,wides,0,NA,NA,NA,1
+1059196,1st innings,England,Sri Lanka,26.2,D Hazell,NR Sciver,SIP Fernando,1,0,1,NA,0,NA,NA,NA,1
+1059196,1st innings,England,Sri Lanka,26.3,NR Sciver,D Hazell,SIP Fernando,0,0,0,NA,0,NA,NA,NA,1
+1059196,1st innings,England,Sri Lanka,26.4,NR Sciver,D Hazell,SIP Fernando,0,0,0,NA,0,NA,NA,NA,1
+1059196,1st innings,England,Sri Lanka,26.5,NR Sciver,D Hazell,SIP Fernando,4,0,4,NA,0,NA,NA,NA,1
+1059196,1st innings,England,Sri Lanka,26.6,NR Sciver,D Hazell,SIP Fernando,0,0,0,NA,0,NA,NA,NA,1
+1059196,1st innings,England,Sri Lanka,26.7,NR Sciver,D Hazell,SIP Fernando,1,0,1,NA,0,NA,NA,NA,1
+1059196,1st innings,England,Sri Lanka,27.1,NR Sciver,D Hazell,AC Jayangani,1,0,1,NA,0,NA,NA,NA,1
+1059196,1st innings,England,Sri Lanka,27.2,D Hazell,NR Sciver,AC Jayangani,1,0,1,NA,0,NA,NA,NA,1
+1059196,1st innings,England,Sri Lanka,27.3,NR Sciver,D Hazell,AC Jayangani,0,0,0,NA,0,NA,NA,NA,1
+1059196,1st innings,England,Sri Lanka,27.4,NR Sciver,D Hazell,AC Jayangani,4,0,4,NA,0,NA,NA,NA,1
+1059196,1st innings,England,Sri Lanka,27.5,NR Sciver,D Hazell,AC Jayangani,1,0,1,NA,0,NA,NA,NA,1
+1059196,1st innings,England,Sri Lanka,27.6,D Hazell,NR Sciver,AC Jayangani,0,0,0,NA,0,NA,NA,NA,1
+1059196,1st innings,England,Sri Lanka,28.1,NR Sciver,D Hazell,SIP Fernando,0,0,0,NA,0,NA,NA,NA,1
+1059196,1st innings,England,Sri Lanka,28.2,NR Sciver,D Hazell,SIP Fernando,1,0,1,NA,0,NA,NA,NA,1
+1059196,1st innings,England,Sri Lanka,28.3,D Hazell,NR Sciver,SIP Fernando,1,0,1,NA,0,NA,NA,NA,1
+1059196,1st innings,England,Sri Lanka,28.4,NR Sciver,D Hazell,SIP Fernando,0,0,0,NA,0,NA,NA,NA,1
+1059196,1st innings,England,Sri Lanka,28.5,NR Sciver,D Hazell,SIP Fernando,1,0,1,NA,0,NA,NA,NA,1
+1059196,1st innings,England,Sri Lanka,28.6,D Hazell,NR Sciver,SIP Fernando,1,0,1,NA,0,NA,NA,NA,1
+1059196,1st innings,England,Sri Lanka,29.1,D Hazell,NR Sciver,AC Jayangani,1,0,1,NA,0,NA,NA,NA,1
+1059196,1st innings,England,Sri Lanka,29.2,NR Sciver,D Hazell,AC Jayangani,0,0,0,NA,0,NA,NA,NA,1
+1059196,1st innings,England,Sri Lanka,29.3,NR Sciver,D Hazell,AC Jayangani,1,0,1,NA,0,NA,NA,NA,1
+1059196,1st innings,England,Sri Lanka,29.4,D Hazell,NR Sciver,AC Jayangani,0,0,0,NA,0,NA,NA,NA,1
+1059196,1st innings,England,Sri Lanka,29.5,D Hazell,NR Sciver,AC Jayangani,1,0,1,NA,0,NA,NA,NA,1
+1059196,1st innings,England,Sri Lanka,29.6,NR Sciver,D Hazell,AC Jayangani,0,0,0,NA,0,NA,NA,NA,1
+1059196,1st innings,England,Sri Lanka,30.1,D Hazell,NR Sciver,H Karunaratne,0,0,0,NA,0,NA,NA,NA,1
+1059196,1st innings,England,Sri Lanka,30.2,D Hazell,NR Sciver,H Karunaratne,1,0,1,NA,0,NA,NA,NA,1
+1059196,1st innings,England,Sri Lanka,30.3,NR Sciver,D Hazell,H Karunaratne,2,0,2,NA,0,NA,NA,NA,1
+1059196,1st innings,England,Sri Lanka,30.4,NR Sciver,D Hazell,H Karunaratne,0,0,0,NA,0,NA,NA,NA,1
+1059196,1st innings,England,Sri Lanka,30.5,NR Sciver,D Hazell,H Karunaratne,4,0,4,NA,0,NA,NA,NA,1
+1059196,1st innings,England,Sri Lanka,30.6,NR Sciver,D Hazell,H Karunaratne,1,0,1,NA,0,NA,NA,NA,1
+1059196,1st innings,England,Sri Lanka,31.1,NR Sciver,D Hazell,AC Jayangani,0,0,0,NA,1,bowled,NR Sciver,NA,1
+1059196,1st innings,England,Sri Lanka,31.2,LA Marsh,D Hazell,AC Jayangani,0,0,0,NA,0,NA,NA,NA,1
+1059196,1st innings,England,Sri Lanka,31.3,LA Marsh,D Hazell,AC Jayangani,0,0,0,NA,0,NA,NA,NA,1
+1059196,1st innings,England,Sri Lanka,31.4,LA Marsh,D Hazell,AC Jayangani,0,0,0,NA,0,NA,NA,NA,1
+1059196,1st innings,England,Sri Lanka,31.5,LA Marsh,D Hazell,AC Jayangani,0,0,0,NA,0,NA,NA,NA,1
+1059196,1st innings,England,Sri Lanka,31.6,LA Marsh,D Hazell,AC Jayangani,0,0,0,NA,0,NA,NA,NA,1
+1059196,1st innings,England,Sri Lanka,32.1,D Hazell,LA Marsh,I Ranaweera,0,0,0,NA,0,NA,NA,NA,1
+1059196,1st innings,England,Sri Lanka,32.2,D Hazell,LA Marsh,I Ranaweera,0,0,0,NA,0,NA,NA,NA,1
+1059196,1st innings,England,Sri Lanka,32.3,D Hazell,LA Marsh,I Ranaweera,2,0,2,NA,0,NA,NA,NA,1
+1059196,1st innings,England,Sri Lanka,32.4,D Hazell,LA Marsh,I Ranaweera,0,0,0,NA,0,NA,NA,NA,1
+1059196,1st innings,England,Sri Lanka,32.5,D Hazell,LA Marsh,I Ranaweera,0,0,0,NA,0,NA,NA,NA,1
+1059196,1st innings,England,Sri Lanka,32.6,D Hazell,LA Marsh,I Ranaweera,2,0,2,NA,0,NA,NA,NA,1
+1059196,1st innings,England,Sri Lanka,33.1,LA Marsh,D Hazell,AC Jayangani,1,0,1,NA,0,NA,NA,NA,1
+1059196,1st innings,England,Sri Lanka,33.2,D Hazell,LA Marsh,AC Jayangani,1,0,1,NA,0,NA,NA,NA,1
+1059196,1st innings,England,Sri Lanka,33.3,LA Marsh,D Hazell,AC Jayangani,0,0,0,NA,0,NA,NA,NA,1
+1059196,1st innings,England,Sri Lanka,33.4,LA Marsh,D Hazell,AC Jayangani,1,0,1,NA,0,NA,NA,NA,1
+1059196,1st innings,England,Sri Lanka,33.5,D Hazell,LA Marsh,AC Jayangani,1,0,1,NA,0,NA,NA,NA,1
+1059196,1st innings,England,Sri Lanka,33.6,LA Marsh,D Hazell,AC Jayangani,1,0,1,NA,0,NA,NA,NA,1
+1059196,1st innings,England,Sri Lanka,34.1,LA Marsh,D Hazell,I Ranaweera,0,0,0,NA,0,NA,NA,NA,1
+1059196,1st innings,England,Sri Lanka,34.2,LA Marsh,D Hazell,I Ranaweera,0,0,0,NA,0,NA,NA,NA,1
+1059196,1st innings,England,Sri Lanka,34.3,LA Marsh,D Hazell,I Ranaweera,0,0,0,NA,0,NA,NA,NA,1
+1059196,1st innings,England,Sri Lanka,34.4,LA Marsh,D Hazell,I Ranaweera,0,0,0,NA,0,NA,NA,NA,1
+1059196,1st innings,England,Sri Lanka,34.5,LA Marsh,D Hazell,I Ranaweera,0,0,0,NA,0,NA,NA,NA,1
+1059196,1st innings,England,Sri Lanka,34.6,LA Marsh,D Hazell,I Ranaweera,0,0,0,NA,0,NA,NA,NA,1
+1059196,1st innings,England,Sri Lanka,35.1,D Hazell,LA Marsh,AC Jayangani,1,0,1,NA,0,NA,NA,NA,1
+1059196,1st innings,England,Sri Lanka,35.2,LA Marsh,D Hazell,AC Jayangani,0,0,0,NA,0,NA,NA,NA,1
+1059196,1st innings,England,Sri Lanka,35.3,LA Marsh,D Hazell,AC Jayangani,0,0,0,NA,0,NA,NA,NA,1
+1059196,1st innings,England,Sri Lanka,35.4,LA Marsh,D Hazell,AC Jayangani,0,0,0,NA,0,NA,NA,NA,1
+1059196,1st innings,England,Sri Lanka,35.5,LA Marsh,D Hazell,AC Jayangani,1,0,1,NA,0,NA,NA,NA,1
+1059196,1st innings,England,Sri Lanka,35.6,D Hazell,LA Marsh,AC Jayangani,0,0,0,NA,0,NA,NA,NA,1
+1059196,1st innings,England,Sri Lanka,36.1,LA Marsh,D Hazell,H Karunaratne,0,0,0,NA,0,NA,NA,NA,1
+1059196,1st innings,England,Sri Lanka,36.2,LA Marsh,D Hazell,H Karunaratne,1,0,1,NA,0,NA,NA,NA,1
+1059196,1st innings,England,Sri Lanka,36.3,D Hazell,LA Marsh,H Karunaratne,1,0,1,NA,0,NA,NA,NA,1
+1059196,1st innings,England,Sri Lanka,36.4,LA Marsh,D Hazell,H Karunaratne,0,0,0,NA,0,NA,NA,NA,1
+1059196,1st innings,England,Sri Lanka,36.5,LA Marsh,D Hazell,H Karunaratne,1,0,1,NA,0,NA,NA,NA,1
+1059196,1st innings,England,Sri Lanka,36.6,D Hazell,LA Marsh,H Karunaratne,2,0,2,NA,0,NA,NA,NA,1
+1059196,1st innings,England,Sri Lanka,37.1,LA Marsh,D Hazell,AC Jayangani,0,0,0,NA,0,NA,NA,NA,1
+1059196,1st innings,England,Sri Lanka,37.2,LA Marsh,D Hazell,AC Jayangani,0,0,0,NA,0,NA,NA,NA,1
+1059196,1st innings,England,Sri Lanka,37.3,LA Marsh,D Hazell,AC Jayangani,0,0,0,NA,0,NA,NA,NA,1
+1059196,1st innings,England,Sri Lanka,37.4,LA Marsh,D Hazell,AC Jayangani,1,0,1,NA,0,NA,NA,NA,1
+1059196,1st innings,England,Sri Lanka,37.5,D Hazell,LA Marsh,AC Jayangani,1,0,1,NA,0,NA,NA,NA,1
+1059196,1st innings,England,Sri Lanka,37.6,LA Marsh,D Hazell,AC Jayangani,4,0,4,NA,0,NA,NA,NA,1
+1059196,1st innings,England,Sri Lanka,38.1,D Hazell,LA Marsh,H Karunaratne,0,1,1,wides,0,NA,NA,NA,1
+1059196,1st innings,England,Sri Lanka,38.2,D Hazell,LA Marsh,H Karunaratne,0,0,0,NA,0,NA,NA,NA,1
+1059196,1st innings,England,Sri Lanka,38.3,D Hazell,LA Marsh,H Karunaratne,0,0,0,NA,0,NA,NA,NA,1
+1059196,1st innings,England,Sri Lanka,38.4,D Hazell,LA Marsh,H Karunaratne,0,0,0,NA,0,NA,NA,NA,1
+1059196,1st innings,England,Sri Lanka,38.5,D Hazell,LA Marsh,H Karunaratne,0,1,1,legbyes,0,NA,NA,NA,1
+1059196,1st innings,England,Sri Lanka,38.6,LA Marsh,D Hazell,H Karunaratne,0,0,0,NA,0,NA,NA,NA,1
+1059196,1st innings,England,Sri Lanka,38.7,LA Marsh,D Hazell,H Karunaratne,1,0,1,NA,0,NA,NA,NA,1
+1059196,1st innings,England,Sri Lanka,39.1,LA Marsh,D Hazell,AC Jayangani,1,0,1,NA,0,NA,NA,NA,1
+1059196,1st innings,England,Sri Lanka,39.2,D Hazell,LA Marsh,AC Jayangani,0,0,0,NA,0,NA,NA,NA,1
+1059196,1st innings,England,Sri Lanka,39.3,D Hazell,LA Marsh,AC Jayangani,2,0,2,NA,0,NA,NA,NA,1
+1059196,1st innings,England,Sri Lanka,39.4,D Hazell,LA Marsh,AC Jayangani,0,0,0,NA,0,NA,NA,NA,1
+1059196,1st innings,England,Sri Lanka,39.5,D Hazell,LA Marsh,AC Jayangani,1,0,1,NA,0,NA,NA,NA,1
+1059196,1st innings,England,Sri Lanka,39.6,LA Marsh,D Hazell,AC Jayangani,1,0,1,NA,0,NA,NA,NA,1
+1059196,1st innings,England,Sri Lanka,40.1,LA Marsh,D Hazell,H Karunaratne,1,0,1,NA,0,NA,NA,NA,1
+1059196,1st innings,England,Sri Lanka,40.2,D Hazell,LA Marsh,H Karunaratne,0,2,2,wides,0,NA,NA,NA,1
+1059196,1st innings,England,Sri Lanka,40.3,LA Marsh,D Hazell,H Karunaratne,1,0,1,NA,0,NA,NA,NA,1
+1059196,1st innings,England,Sri Lanka,40.4,D Hazell,LA Marsh,H Karunaratne,1,0,1,NA,0,NA,NA,NA,1
+1059196,1st innings,England,Sri Lanka,40.5,LA Marsh,D Hazell,H Karunaratne,1,0,1,NA,0,NA,NA,NA,1
+1059196,1st innings,England,Sri Lanka,40.6,D Hazell,LA Marsh,H Karunaratne,0,0,0,NA,0,NA,NA,NA,1
+1059196,1st innings,England,Sri Lanka,40.7,D Hazell,LA Marsh,H Karunaratne,0,0,0,NA,0,NA,NA,NA,1
+1059196,1st innings,England,Sri Lanka,41.1,LA Marsh,D Hazell,AC Jayangani,0,0,0,NA,0,NA,NA,NA,1
+1059196,1st innings,England,Sri Lanka,41.2,LA Marsh,D Hazell,AC Jayangani,1,0,1,NA,0,NA,NA,NA,1
+1059196,1st innings,England,Sri Lanka,41.3,D Hazell,LA Marsh,AC Jayangani,1,0,1,NA,0,NA,NA,NA,1
+1059196,1st innings,England,Sri Lanka,41.4,LA Marsh,D Hazell,AC Jayangani,4,0,4,NA,0,NA,NA,NA,1
+1059196,1st innings,England,Sri Lanka,41.5,LA Marsh,D Hazell,AC Jayangani,0,0,0,NA,0,NA,NA,NA,1
+1059196,1st innings,England,Sri Lanka,41.6,LA Marsh,D Hazell,AC Jayangani,1,0,1,NA,0,NA,NA,NA,1
+1059196,1st innings,England,Sri Lanka,42.1,LA Marsh,D Hazell,I Ranaweera,0,0,0,NA,0,NA,NA,NA,1
+1059196,1st innings,England,Sri Lanka,42.2,LA Marsh,D Hazell,I Ranaweera,1,0,1,NA,0,NA,NA,NA,1
+1059196,1st innings,England,Sri Lanka,42.3,D Hazell,LA Marsh,I Ranaweera,0,0,0,NA,0,NA,NA,NA,1
+1059196,1st innings,England,Sri Lanka,42.4,D Hazell,LA Marsh,I Ranaweera,0,0,0,NA,0,NA,NA,NA,1
+1059196,1st innings,England,Sri Lanka,42.5,D Hazell,LA Marsh,I Ranaweera,0,0,0,NA,1,lbw,D Hazell,NA,1
+1059196,1st innings,England,Sri Lanka,42.6,BA Langston,LA Marsh,I Ranaweera,0,0,0,NA,0,NA,NA,NA,1
+1059196,1st innings,England,Sri Lanka,43.1,LA Marsh,BA Langston,H Karunaratne,0,0,0,NA,0,NA,NA,NA,1
+1059196,1st innings,England,Sri Lanka,43.2,LA Marsh,BA Langston,H Karunaratne,1,0,1,NA,0,NA,NA,NA,1
+1059196,1st innings,England,Sri Lanka,43.3,BA Langston,LA Marsh,H Karunaratne,0,1,1,wides,0,NA,NA,NA,1
+1059196,1st innings,England,Sri Lanka,43.4,BA Langston,LA Marsh,H Karunaratne,1,0,1,NA,0,NA,NA,NA,1
+1059196,1st innings,England,Sri Lanka,43.5,LA Marsh,BA Langston,H Karunaratne,0,0,0,NA,0,NA,NA,NA,1
+1059196,1st innings,England,Sri Lanka,43.6,LA Marsh,BA Langston,H Karunaratne,1,0,1,NA,0,NA,NA,NA,1
+1059196,1st innings,England,Sri Lanka,43.7,BA Langston,LA Marsh,H Karunaratne,0,0,0,NA,0,NA,NA,NA,1
+1059196,1st innings,England,Sri Lanka,44.1,LA Marsh,BA Langston,I Ranaweera,0,0,0,NA,0,NA,NA,NA,1
+1059196,1st innings,England,Sri Lanka,44.2,LA Marsh,BA Langston,I Ranaweera,0,0,0,NA,0,NA,NA,NA,1
+1059196,1st innings,England,Sri Lanka,44.3,LA Marsh,BA Langston,I Ranaweera,0,0,0,NA,0,NA,NA,NA,1
+1059196,1st innings,England,Sri Lanka,44.4,LA Marsh,BA Langston,I Ranaweera,0,0,0,NA,0,NA,NA,NA,1
+1059196,1st innings,England,Sri Lanka,44.5,LA Marsh,BA Langston,I Ranaweera,0,0,0,NA,0,NA,NA,NA,1
+1059196,1st innings,England,Sri Lanka,44.6,LA Marsh,BA Langston,I Ranaweera,0,0,0,NA,0,NA,NA,NA,1
+1059196,1st innings,England,Sri Lanka,45.1,BA Langston,LA Marsh,H Karunaratne,1,0,1,NA,0,NA,NA,NA,1
+1059196,1st innings,England,Sri Lanka,45.2,LA Marsh,BA Langston,H Karunaratne,1,0,1,NA,0,NA,NA,NA,1
+1059196,1st innings,England,Sri Lanka,45.3,BA Langston,LA Marsh,H Karunaratne,1,0,1,NA,0,NA,NA,NA,1
+1059196,1st innings,England,Sri Lanka,45.4,LA Marsh,BA Langston,H Karunaratne,0,0,0,NA,0,NA,NA,NA,1
+1059196,1st innings,England,Sri Lanka,45.5,LA Marsh,BA Langston,H Karunaratne,0,0,0,NA,0,NA,NA,NA,1
+1059196,1st innings,England,Sri Lanka,45.6,LA Marsh,BA Langston,H Karunaratne,0,0,0,NA,0,NA,NA,NA,1
+1059196,1st innings,England,Sri Lanka,46.1,BA Langston,LA Marsh,SIP Fernando,0,0,0,NA,0,NA,NA,NA,1
+1059196,1st innings,England,Sri Lanka,46.2,BA Langston,LA Marsh,SIP Fernando,0,0,0,NA,0,NA,NA,NA,1
+1059196,1st innings,England,Sri Lanka,46.3,BA Langston,LA Marsh,SIP Fernando,0,0,0,NA,0,NA,NA,NA,1
+1059196,1st innings,England,Sri Lanka,46.4,BA Langston,LA Marsh,SIP Fernando,1,0,1,NA,0,NA,NA,NA,1
+1059196,1st innings,England,Sri Lanka,46.5,LA Marsh,BA Langston,SIP Fernando,1,0,1,NA,0,NA,NA,NA,1
+1059196,1st innings,England,Sri Lanka,46.6,BA Langston,LA Marsh,SIP Fernando,1,0,1,NA,0,NA,NA,NA,1
+1059196,1st innings,England,Sri Lanka,47.1,BA Langston,LA Marsh,H Karunaratne,1,0,1,NA,0,NA,NA,NA,1
+1059196,1st innings,England,Sri Lanka,47.2,LA Marsh,BA Langston,H Karunaratne,1,0,1,NA,0,NA,NA,NA,1
+1059196,1st innings,England,Sri Lanka,47.3,BA Langston,LA Marsh,H Karunaratne,1,0,1,NA,0,NA,NA,NA,1
+1059196,1st innings,England,Sri Lanka,47.4,LA Marsh,BA Langston,H Karunaratne,1,0,1,NA,0,NA,NA,NA,1
+1059196,1st innings,England,Sri Lanka,47.5,BA Langston,LA Marsh,H Karunaratne,0,0,0,NA,0,NA,NA,NA,1
+1059196,1st innings,England,Sri Lanka,47.6,BA Langston,LA Marsh,H Karunaratne,1,0,1,NA,0,NA,NA,NA,1
+1059196,1st innings,England,Sri Lanka,48.1,BA Langston,LA Marsh,WGAKK Kulasuriya,1,0,1,NA,0,NA,NA,NA,1
+1059196,1st innings,England,Sri Lanka,48.2,LA Marsh,BA Langston,WGAKK Kulasuriya,4,0,4,NA,0,NA,NA,NA,1
+1059196,1st innings,England,Sri Lanka,48.3,LA Marsh,BA Langston,WGAKK Kulasuriya,0,0,0,NA,0,NA,NA,NA,1
+1059196,1st innings,England,Sri Lanka,48.4,LA Marsh,BA Langston,WGAKK Kulasuriya,1,0,1,NA,0,NA,NA,NA,1
+1059196,1st innings,England,Sri Lanka,48.5,BA Langston,LA Marsh,WGAKK Kulasuriya,4,0,4,NA,0,NA,NA,NA,1
+1059196,1st innings,England,Sri Lanka,48.6,BA Langston,LA Marsh,WGAKK Kulasuriya,1,0,1,NA,0,NA,NA,NA,1
+1059196,1st innings,England,Sri Lanka,49.1,BA Langston,LA Marsh,H Karunaratne,0,0,0,NA,0,NA,NA,NA,1
+1059196,1st innings,England,Sri Lanka,49.2,BA Langston,LA Marsh,H Karunaratne,2,0,2,NA,0,NA,NA,NA,1
+1059196,1st innings,England,Sri Lanka,49.3,BA Langston,LA Marsh,H Karunaratne,4,0,4,NA,0,NA,NA,NA,1
+1059196,1st innings,England,Sri Lanka,49.4,BA Langston,LA Marsh,H Karunaratne,1,0,1,NA,0,NA,NA,NA,1
+1059196,1st innings,England,Sri Lanka,49.5,LA Marsh,BA Langston,H Karunaratne,1,0,1,NA,1,run out,BA Langston,H Karunaratne,1
+1059196,1st innings,England,Sri Lanka,49.6,LA Marsh,A Hartley,H Karunaratne,0,0,0,NA,0,NA,NA,NA,1
+1059196,2nd innings,Sri Lanka,England,0.1,MDN Hansika,AC Jayangani,BA Langston,0,0,0,NA,0,NA,NA,NA,0
+1059196,2nd innings,Sri Lanka,England,0.2,MDN Hansika,AC Jayangani,BA Langston,0,0,0,NA,0,NA,NA,NA,0
+1059196,2nd innings,Sri Lanka,England,0.3,MDN Hansika,AC Jayangani,BA Langston,1,0,1,NA,0,NA,NA,NA,0
+1059196,2nd innings,Sri Lanka,England,0.4,AC Jayangani,MDN Hansika,BA Langston,0,0,0,NA,0,NA,NA,NA,0
+1059196,2nd innings,Sri Lanka,England,0.5,AC Jayangani,MDN Hansika,BA Langston,0,0,0,NA,0,NA,NA,NA,0
+1059196,2nd innings,Sri Lanka,England,0.6,AC Jayangani,MDN Hansika,BA Langston,0,0,0,NA,0,NA,NA,NA,0
+1059196,2nd innings,Sri Lanka,England,1.1,MDN Hansika,AC Jayangani,NR Sciver,0,0,0,NA,0,NA,NA,NA,0
+1059196,2nd innings,Sri Lanka,England,1.2,MDN Hansika,AC Jayangani,NR Sciver,0,0,0,NA,0,NA,NA,NA,0
+1059196,2nd innings,Sri Lanka,England,1.3,MDN Hansika,AC Jayangani,NR Sciver,0,0,0,NA,0,NA,NA,NA,0
+1059196,2nd innings,Sri Lanka,England,1.4,MDN Hansika,AC Jayangani,NR Sciver,1,0,1,NA,0,NA,NA,NA,0
+1059196,2nd innings,Sri Lanka,England,1.5,AC Jayangani,MDN Hansika,NR Sciver,0,0,0,NA,0,NA,NA,NA,0
+1059196,2nd innings,Sri Lanka,England,1.6,AC Jayangani,MDN Hansika,NR Sciver,1,0,1,NA,0,NA,NA,NA,0
+1059196,2nd innings,Sri Lanka,England,2.1,AC Jayangani,MDN Hansika,BA Langston,2,0,2,NA,0,NA,NA,NA,0
+1059196,2nd innings,Sri Lanka,England,2.2,AC Jayangani,MDN Hansika,BA Langston,0,0,0,NA,0,NA,NA,NA,0
+1059196,2nd innings,Sri Lanka,England,2.3,AC Jayangani,MDN Hansika,BA Langston,0,0,0,NA,0,NA,NA,NA,0
+1059196,2nd innings,Sri Lanka,England,2.4,AC Jayangani,MDN Hansika,BA Langston,0,0,0,NA,0,NA,NA,NA,0
+1059196,2nd innings,Sri Lanka,England,2.5,AC Jayangani,MDN Hansika,BA Langston,0,0,0,NA,0,NA,NA,NA,0
+1059196,2nd innings,Sri Lanka,England,2.6,AC Jayangani,MDN Hansika,BA Langston,0,0,0,NA,0,NA,NA,NA,0
+1059196,2nd innings,Sri Lanka,England,3.1,MDN Hansika,AC Jayangani,NR Sciver,0,0,0,NA,0,NA,NA,NA,0
+1059196,2nd innings,Sri Lanka,England,3.2,MDN Hansika,AC Jayangani,NR Sciver,1,0,1,NA,0,NA,NA,NA,0
+1059196,2nd innings,Sri Lanka,England,3.3,AC Jayangani,MDN Hansika,NR Sciver,1,0,1,NA,0,NA,NA,NA,0
+1059196,2nd innings,Sri Lanka,England,3.4,MDN Hansika,AC Jayangani,NR Sciver,1,0,1,NA,0,NA,NA,NA,0
+1059196,2nd innings,Sri Lanka,England,3.5,AC Jayangani,MDN Hansika,NR Sciver,0,0,0,NA,0,NA,NA,NA,0
+1059196,2nd innings,Sri Lanka,England,3.6,AC Jayangani,MDN Hansika,NR Sciver,0,0,0,NA,0,NA,NA,NA,0
+1059196,2nd innings,Sri Lanka,England,4.1,MDN Hansika,AC Jayangani,BA Langston,0,1,1,legbyes,0,NA,NA,NA,0
+1059196,2nd innings,Sri Lanka,England,4.2,AC Jayangani,MDN Hansika,BA Langston,2,0,2,NA,0,NA,NA,NA,0
+1059196,2nd innings,Sri Lanka,England,4.3,AC Jayangani,MDN Hansika,BA Langston,4,0,4,NA,0,NA,NA,NA,0
+1059196,2nd innings,Sri Lanka,England,4.4,AC Jayangani,MDN Hansika,BA Langston,0,0,0,NA,0,NA,NA,NA,0
+1059196,2nd innings,Sri Lanka,England,4.5,AC Jayangani,MDN Hansika,BA Langston,0,0,0,NA,0,NA,NA,NA,0
+1059196,2nd innings,Sri Lanka,England,4.6,AC Jayangani,MDN Hansika,BA Langston,0,0,0,NA,0,NA,NA,NA,0
+1059196,2nd innings,Sri Lanka,England,5.1,MDN Hansika,AC Jayangani,NR Sciver,0,0,0,NA,0,NA,NA,NA,0
+1059196,2nd innings,Sri Lanka,England,5.2,MDN Hansika,AC Jayangani,NR Sciver,1,0,1,NA,0,NA,NA,NA,0
+1059196,2nd innings,Sri Lanka,England,5.3,AC Jayangani,MDN Hansika,NR Sciver,0,0,0,NA,0,NA,NA,NA,0
+1059196,2nd innings,Sri Lanka,England,5.4,AC Jayangani,MDN Hansika,NR Sciver,1,0,1,NA,0,NA,NA,NA,0
+1059196,2nd innings,Sri Lanka,England,5.5,MDN Hansika,AC Jayangani,NR Sciver,1,0,1,NA,0,NA,NA,NA,0
+1059196,2nd innings,Sri Lanka,England,5.6,AC Jayangani,MDN Hansika,NR Sciver,0,0,0,NA,1,caught,AC Jayangani,AE Jones,0
+1059196,2nd innings,Sri Lanka,England,6.1,MDN Hansika,GWHM Perera,BA Langston,0,0,0,NA,0,NA,NA,NA,0
+1059196,2nd innings,Sri Lanka,England,6.2,MDN Hansika,GWHM Perera,BA Langston,0,1,1,legbyes,0,NA,NA,NA,0
+1059196,2nd innings,Sri Lanka,England,6.3,GWHM Perera,MDN Hansika,BA Langston,1,0,1,NA,0,NA,NA,NA,0
+1059196,2nd innings,Sri Lanka,England,6.4,MDN Hansika,GWHM Perera,BA Langston,0,0,0,NA,0,NA,NA,NA,0
+1059196,2nd innings,Sri Lanka,England,6.5,MDN Hansika,GWHM Perera,BA Langston,0,0,0,NA,0,NA,NA,NA,0
+1059196,2nd innings,Sri Lanka,England,6.6,MDN Hansika,GWHM Perera,BA Langston,0,0,0,NA,0,NA,NA,NA,0
+1059196,2nd innings,Sri Lanka,England,7.1,GWHM Perera,MDN Hansika,NR Sciver,0,0,0,NA,0,NA,NA,NA,0
+1059196,2nd innings,Sri Lanka,England,7.2,GWHM Perera,MDN Hansika,NR Sciver,0,0,0,NA,0,NA,NA,NA,0
+1059196,2nd innings,Sri Lanka,England,7.3,GWHM Perera,MDN Hansika,NR Sciver,0,0,0,NA,0,NA,NA,NA,0
+1059196,2nd innings,Sri Lanka,England,7.4,GWHM Perera,MDN Hansika,NR Sciver,1,0,1,NA,0,NA,NA,NA,0
+1059196,2nd innings,Sri Lanka,England,7.5,MDN Hansika,GWHM Perera,NR Sciver,0,0,0,NA,0,NA,NA,NA,0
+1059196,2nd innings,Sri Lanka,England,7.6,MDN Hansika,GWHM Perera,NR Sciver,0,0,0,NA,1,caught,MDN Hansika,D Hazell,0
+1059196,2nd innings,Sri Lanka,England,8.1,HML Madushani,GWHM Perera,D Hazell,0,0,0,NA,0,NA,NA,NA,0
+1059196,2nd innings,Sri Lanka,England,8.2,HML Madushani,GWHM Perera,D Hazell,0,0,0,NA,0,NA,NA,NA,0
+1059196,2nd innings,Sri Lanka,England,8.3,HML Madushani,GWHM Perera,D Hazell,0,0,0,NA,0,NA,NA,NA,0
+1059196,2nd innings,Sri Lanka,England,8.4,HML Madushani,GWHM Perera,D Hazell,0,0,0,NA,0,NA,NA,NA,0
+1059196,2nd innings,Sri Lanka,England,8.5,HML Madushani,GWHM Perera,D Hazell,0,0,0,NA,0,NA,NA,NA,0
+1059196,2nd innings,Sri Lanka,England,8.6,HML Madushani,GWHM Perera,D Hazell,2,0,2,NA,0,NA,NA,NA,0
+1059196,2nd innings,Sri Lanka,England,9.1,GWHM Perera,HML Madushani,NR Sciver,0,0,0,NA,0,NA,NA,NA,0
+1059196,2nd innings,Sri Lanka,England,9.2,GWHM Perera,HML Madushani,NR Sciver,0,0,0,NA,0,NA,NA,NA,0
+1059196,2nd innings,Sri Lanka,England,9.3,GWHM Perera,HML Madushani,NR Sciver,0,0,0,NA,0,NA,NA,NA,0
+1059196,2nd innings,Sri Lanka,England,9.4,GWHM Perera,HML Madushani,NR Sciver,0,0,0,NA,0,NA,NA,NA,0
+1059196,2nd innings,Sri Lanka,England,9.5,GWHM Perera,HML Madushani,NR Sciver,0,0,0,NA,0,NA,NA,NA,0
+1059196,2nd innings,Sri Lanka,England,9.6,GWHM Perera,HML Madushani,NR Sciver,0,0,0,NA,0,NA,NA,NA,0
+1059196,2nd innings,Sri Lanka,England,10.1,HML Madushani,GWHM Perera,D Hazell,0,0,0,NA,0,NA,NA,NA,0
+1059196,2nd innings,Sri Lanka,England,10.2,HML Madushani,GWHM Perera,D Hazell,1,0,1,NA,0,NA,NA,NA,0
+1059196,2nd innings,Sri Lanka,England,10.3,GWHM Perera,HML Madushani,D Hazell,0,0,0,NA,0,NA,NA,NA,0
+1059196,2nd innings,Sri Lanka,England,10.4,GWHM Perera,HML Madushani,D Hazell,0,0,0,NA,0,NA,NA,NA,0
+1059196,2nd innings,Sri Lanka,England,10.5,GWHM Perera,HML Madushani,D Hazell,0,0,0,NA,0,NA,NA,NA,0
+1059196,2nd innings,Sri Lanka,England,10.6,GWHM Perera,HML Madushani,D Hazell,0,0,0,NA,0,NA,NA,NA,0
+1059196,2nd innings,Sri Lanka,England,11.1,HML Madushani,GWHM Perera,LA Marsh,0,0,0,NA,0,NA,NA,NA,0
+1059196,2nd innings,Sri Lanka,England,11.2,HML Madushani,GWHM Perera,LA Marsh,0,0,0,NA,1,caught,HML Madushani,AE Jones,0
+1059196,2nd innings,Sri Lanka,England,11.3,PM Weerakkody,GWHM Perera,LA Marsh,0,0,0,NA,0,NA,NA,NA,0
+1059196,2nd innings,Sri Lanka,England,11.4,PM Weerakkody,GWHM Perera,LA Marsh,0,0,0,NA,0,NA,NA,NA,0
+1059196,2nd innings,Sri Lanka,England,11.5,PM Weerakkody,GWHM Perera,LA Marsh,1,0,1,NA,0,NA,NA,NA,0
+1059196,2nd innings,Sri Lanka,England,11.6,GWHM Perera,PM Weerakkody,LA Marsh,0,0,0,NA,0,NA,NA,NA,0
+1059196,2nd innings,Sri Lanka,England,12.1,PM Weerakkody,GWHM Perera,D Hazell,1,0,1,NA,0,NA,NA,NA,0
+1059196,2nd innings,Sri Lanka,England,12.2,GWHM Perera,PM Weerakkody,D Hazell,4,0,4,NA,0,NA,NA,NA,0
+1059196,2nd innings,Sri Lanka,England,12.3,GWHM Perera,PM Weerakkody,D Hazell,0,0,0,NA,1,bowled,GWHM Perera,NA,0
+1059196,2nd innings,Sri Lanka,England,12.4,MAA Sanjeewani,PM Weerakkody,D Hazell,0,0,0,NA,0,NA,NA,NA,0
+1059196,2nd innings,Sri Lanka,England,12.5,MAA Sanjeewani,PM Weerakkody,D Hazell,0,0,0,NA,0,NA,NA,NA,0
+1059196,2nd innings,Sri Lanka,England,12.6,MAA Sanjeewani,PM Weerakkody,D Hazell,0,0,0,NA,0,NA,NA,NA,0
+1059196,2nd innings,Sri Lanka,England,13.1,PM Weerakkody,MAA Sanjeewani,LA Marsh,0,0,0,NA,0,NA,NA,NA,0
+1059196,2nd innings,Sri Lanka,England,13.2,PM Weerakkody,MAA Sanjeewani,LA Marsh,2,0,2,NA,0,NA,NA,NA,0
+1059196,2nd innings,Sri Lanka,England,13.3,PM Weerakkody,MAA Sanjeewani,LA Marsh,0,0,0,NA,0,NA,NA,NA,0
+1059196,2nd innings,Sri Lanka,England,13.4,PM Weerakkody,MAA Sanjeewani,LA Marsh,0,0,0,NA,0,NA,NA,NA,0
+1059196,2nd innings,Sri Lanka,England,13.5,PM Weerakkody,MAA Sanjeewani,LA Marsh,0,0,0,NA,0,NA,NA,NA,0
+1059196,2nd innings,Sri Lanka,England,13.6,PM Weerakkody,MAA Sanjeewani,LA Marsh,0,0,0,NA,0,NA,NA,NA,0
+1059196,2nd innings,Sri Lanka,England,14.1,MAA Sanjeewani,PM Weerakkody,D Hazell,0,0,0,NA,0,NA,NA,NA,0
+1059196,2nd innings,Sri Lanka,England,14.2,MAA Sanjeewani,PM Weerakkody,D Hazell,0,0,0,NA,0,NA,NA,NA,0
+1059196,2nd innings,Sri Lanka,England,14.3,MAA Sanjeewani,PM Weerakkody,D Hazell,0,0,0,NA,0,NA,NA,NA,0
+1059196,2nd innings,Sri Lanka,England,14.4,MAA Sanjeewani,PM Weerakkody,D Hazell,4,0,4,NA,0,NA,NA,NA,0
+1059196,2nd innings,Sri Lanka,England,14.5,MAA Sanjeewani,PM Weerakkody,D Hazell,0,1,1,wides,0,NA,NA,NA,0
+1059196,2nd innings,Sri Lanka,England,14.6,MAA Sanjeewani,PM Weerakkody,D Hazell,0,0,0,NA,0,NA,NA,NA,0
+1059196,2nd innings,Sri Lanka,England,14.7,MAA Sanjeewani,PM Weerakkody,D Hazell,0,0,0,NA,0,NA,NA,NA,0
+1059196,2nd innings,Sri Lanka,England,15.1,PM Weerakkody,MAA Sanjeewani,LA Marsh,0,0,0,NA,0,NA,NA,NA,0
+1059196,2nd innings,Sri Lanka,England,15.2,PM Weerakkody,MAA Sanjeewani,LA Marsh,0,0,0,NA,0,NA,NA,NA,0
+1059196,2nd innings,Sri Lanka,England,15.3,PM Weerakkody,MAA Sanjeewani,LA Marsh,0,0,0,NA,0,NA,NA,NA,0
+1059196,2nd innings,Sri Lanka,England,15.4,PM Weerakkody,MAA Sanjeewani,LA Marsh,4,0,4,NA,0,NA,NA,NA,0
+1059196,2nd innings,Sri Lanka,England,15.5,PM Weerakkody,MAA Sanjeewani,LA Marsh,0,0,0,NA,0,NA,NA,NA,0
+1059196,2nd innings,Sri Lanka,England,15.6,PM Weerakkody,MAA Sanjeewani,LA Marsh,0,0,0,NA,0,NA,NA,NA,0
+1059196,2nd innings,Sri Lanka,England,16.1,MAA Sanjeewani,PM Weerakkody,D Hazell,0,0,0,NA,0,NA,NA,NA,0
+1059196,2nd innings,Sri Lanka,England,16.2,MAA Sanjeewani,PM Weerakkody,D Hazell,0,0,0,NA,0,NA,NA,NA,0
+1059196,2nd innings,Sri Lanka,England,16.3,MAA Sanjeewani,PM Weerakkody,D Hazell,0,0,0,NA,0,NA,NA,NA,0
+1059196,2nd innings,Sri Lanka,England,16.4,MAA Sanjeewani,PM Weerakkody,D Hazell,1,0,1,NA,0,NA,NA,NA,0
+1059196,2nd innings,Sri Lanka,England,16.5,PM Weerakkody,MAA Sanjeewani,D Hazell,0,0,0,NA,0,NA,NA,NA,0
+1059196,2nd innings,Sri Lanka,England,16.6,PM Weerakkody,MAA Sanjeewani,D Hazell,0,0,0,NA,0,NA,NA,NA,0
+1059196,2nd innings,Sri Lanka,England,17.1,MAA Sanjeewani,PM Weerakkody,LA Marsh,0,0,0,NA,0,NA,NA,NA,0
+1059196,2nd innings,Sri Lanka,England,17.2,MAA Sanjeewani,PM Weerakkody,LA Marsh,0,0,0,NA,1,caught,MAA Sanjeewani,AE Jones,0
+1059196,2nd innings,Sri Lanka,England,17.3,H Karunaratne,PM Weerakkody,LA Marsh,4,0,4,NA,0,NA,NA,NA,0
+1059196,2nd innings,Sri Lanka,England,17.4,H Karunaratne,PM Weerakkody,LA Marsh,0,0,0,NA,0,NA,NA,NA,0
+1059196,2nd innings,Sri Lanka,England,17.5,H Karunaratne,PM Weerakkody,LA Marsh,0,0,0,NA,0,NA,NA,NA,0
+1059196,2nd innings,Sri Lanka,England,17.6,H Karunaratne,PM Weerakkody,LA Marsh,0,0,0,NA,0,NA,NA,NA,0
+1059196,2nd innings,Sri Lanka,England,18.1,PM Weerakkody,H Karunaratne,D Hazell,0,0,0,NA,0,NA,NA,NA,0
+1059196,2nd innings,Sri Lanka,England,18.2,PM Weerakkody,H Karunaratne,D Hazell,0,0,0,NA,0,NA,NA,NA,0
+1059196,2nd innings,Sri Lanka,England,18.3,PM Weerakkody,H Karunaratne,D Hazell,1,0,1,NA,0,NA,NA,NA,0
+1059196,2nd innings,Sri Lanka,England,18.4,H Karunaratne,PM Weerakkody,D Hazell,0,0,0,NA,0,NA,NA,NA,0
+1059196,2nd innings,Sri Lanka,England,18.5,H Karunaratne,PM Weerakkody,D Hazell,0,0,0,NA,1,caught and bowled,H Karunaratne,NA,0
+1059196,2nd innings,Sri Lanka,England,18.6,NND de Silva,PM Weerakkody,D Hazell,0,0,0,NA,0,NA,NA,NA,0
+1059196,2nd innings,Sri Lanka,England,19.1,PM Weerakkody,NND de Silva,LA Marsh,0,0,0,NA,0,NA,NA,NA,0
+1059196,2nd innings,Sri Lanka,England,19.2,PM Weerakkody,NND de Silva,LA Marsh,0,0,0,NA,0,NA,NA,NA,0
+1059196,2nd innings,Sri Lanka,England,19.3,PM Weerakkody,NND de Silva,LA Marsh,0,0,0,NA,0,NA,NA,NA,0
+1059196,2nd innings,Sri Lanka,England,19.4,PM Weerakkody,NND de Silva,LA Marsh,2,0,2,NA,0,NA,NA,NA,0
+1059196,2nd innings,Sri Lanka,England,19.5,PM Weerakkody,NND de Silva,LA Marsh,0,0,0,NA,0,NA,NA,NA,0
+1059196,2nd innings,Sri Lanka,England,19.6,PM Weerakkody,NND de Silva,LA Marsh,1,0,1,NA,0,NA,NA,NA,0
+1059196,2nd innings,Sri Lanka,England,20.1,PM Weerakkody,NND de Silva,D Hazell,0,0,0,NA,0,NA,NA,NA,0
+1059196,2nd innings,Sri Lanka,England,20.2,PM Weerakkody,NND de Silva,D Hazell,4,0,4,NA,0,NA,NA,NA,0
+1059196,2nd innings,Sri Lanka,England,20.3,PM Weerakkody,NND de Silva,D Hazell,0,0,0,NA,0,NA,NA,NA,0
+1059196,2nd innings,Sri Lanka,England,20.4,PM Weerakkody,NND de Silva,D Hazell,0,0,0,NA,0,NA,NA,NA,0
+1059196,2nd innings,Sri Lanka,England,20.5,PM Weerakkody,NND de Silva,D Hazell,0,0,0,NA,0,NA,NA,NA,0
+1059196,2nd innings,Sri Lanka,England,20.6,PM Weerakkody,NND de Silva,D Hazell,1,0,1,NA,0,NA,NA,NA,0
+1059196,2nd innings,Sri Lanka,England,21.1,PM Weerakkody,NND de Silva,LA Marsh,0,0,0,NA,0,NA,NA,NA,0
+1059196,2nd innings,Sri Lanka,England,21.2,PM Weerakkody,NND de Silva,LA Marsh,0,0,0,NA,0,NA,NA,NA,0
+1059196,2nd innings,Sri Lanka,England,21.3,PM Weerakkody,NND de Silva,LA Marsh,0,0,0,NA,0,NA,NA,NA,0
+1059196,2nd innings,Sri Lanka,England,21.4,PM Weerakkody,NND de Silva,LA Marsh,0,0,0,NA,0,NA,NA,NA,0
+1059196,2nd innings,Sri Lanka,England,21.5,PM Weerakkody,NND de Silva,LA Marsh,0,0,0,NA,0,NA,NA,NA,0
+1059196,2nd innings,Sri Lanka,England,21.6,PM Weerakkody,NND de Silva,LA Marsh,1,0,1,NA,0,NA,NA,NA,0
+1059196,2nd innings,Sri Lanka,England,22.1,PM Weerakkody,NND de Silva,A Hartley,0,0,0,NA,0,NA,NA,NA,0
+1059196,2nd innings,Sri Lanka,England,22.2,PM Weerakkody,NND de Silva,A Hartley,0,0,0,NA,0,NA,NA,NA,0
+1059196,2nd innings,Sri Lanka,England,22.3,PM Weerakkody,NND de Silva,A Hartley,0,0,0,NA,0,NA,NA,NA,0
+1059196,2nd innings,Sri Lanka,England,22.4,PM Weerakkody,NND de Silva,A Hartley,0,0,0,NA,0,NA,NA,NA,0
+1059196,2nd innings,Sri Lanka,England,22.5,PM Weerakkody,NND de Silva,A Hartley,0,2,2,byes,0,NA,NA,NA,0
+1059196,2nd innings,Sri Lanka,England,22.6,PM Weerakkody,NND de Silva,A Hartley,4,0,4,NA,0,NA,NA,NA,0
+1059196,2nd innings,Sri Lanka,England,23.1,NND de Silva,PM Weerakkody,LA Marsh,0,0,0,NA,0,NA,NA,NA,0
+1059196,2nd innings,Sri Lanka,England,23.2,NND de Silva,PM Weerakkody,LA Marsh,0,0,0,NA,0,NA,NA,NA,0
+1059196,2nd innings,Sri Lanka,England,23.3,NND de Silva,PM Weerakkody,LA Marsh,0,0,0,NA,0,NA,NA,NA,0
+1059196,2nd innings,Sri Lanka,England,23.4,NND de Silva,PM Weerakkody,LA Marsh,0,0,0,NA,0,NA,NA,NA,0
+1059196,2nd innings,Sri Lanka,England,23.5,NND de Silva,PM Weerakkody,LA Marsh,0,0,0,NA,0,NA,NA,NA,0
+1059196,2nd innings,Sri Lanka,England,23.6,NND de Silva,PM Weerakkody,LA Marsh,0,0,0,NA,0,NA,NA,NA,0
+1059196,2nd innings,Sri Lanka,England,24.1,PM Weerakkody,NND de Silva,A Hartley,1,0,1,NA,0,NA,NA,NA,0
+1059196,2nd innings,Sri Lanka,England,24.2,NND de Silva,PM Weerakkody,A Hartley,0,0,0,NA,0,NA,NA,NA,0
+1059196,2nd innings,Sri Lanka,England,24.3,NND de Silva,PM Weerakkody,A Hartley,0,0,0,NA,0,NA,NA,NA,0
+1059196,2nd innings,Sri Lanka,England,24.4,NND de Silva,PM Weerakkody,A Hartley,0,0,0,NA,0,NA,NA,NA,0
+1059196,2nd innings,Sri Lanka,England,24.5,NND de Silva,PM Weerakkody,A Hartley,4,0,4,NA,0,NA,NA,NA,0
+1059196,2nd innings,Sri Lanka,England,24.6,NND de Silva,PM Weerakkody,A Hartley,0,0,0,NA,0,NA,NA,NA,0
+1059196,2nd innings,Sri Lanka,England,25.1,PM Weerakkody,NND de Silva,LA Marsh,0,0,0,NA,0,NA,NA,NA,0
+1059196,2nd innings,Sri Lanka,England,25.2,PM Weerakkody,NND de Silva,LA Marsh,2,0,2,NA,0,NA,NA,NA,0
+1059196,2nd innings,Sri Lanka,England,25.3,PM Weerakkody,NND de Silva,LA Marsh,1,0,1,NA,0,NA,NA,NA,0
+1059196,2nd innings,Sri Lanka,England,25.4,NND de Silva,PM Weerakkody,LA Marsh,1,0,1,NA,0,NA,NA,NA,0
+1059196,2nd innings,Sri Lanka,England,25.5,PM Weerakkody,NND de Silva,LA Marsh,1,0,1,NA,0,NA,NA,NA,0
+1059196,2nd innings,Sri Lanka,England,25.6,NND de Silva,PM Weerakkody,LA Marsh,0,0,0,NA,0,NA,NA,NA,0
+1059196,2nd innings,Sri Lanka,England,26.1,PM Weerakkody,NND de Silva,A Hartley,1,0,1,NA,0,NA,NA,NA,0
+1059196,2nd innings,Sri Lanka,England,26.2,NND de Silva,PM Weerakkody,A Hartley,0,0,0,NA,0,NA,NA,NA,0
+1059196,2nd innings,Sri Lanka,England,26.3,NND de Silva,PM Weerakkody,A Hartley,0,0,0,NA,0,NA,NA,NA,0
+1059196,2nd innings,Sri Lanka,England,26.4,NND de Silva,PM Weerakkody,A Hartley,0,0,0,NA,0,NA,NA,NA,0
+1059196,2nd innings,Sri Lanka,England,26.5,NND de Silva,PM Weerakkody,A Hartley,0,0,0,NA,0,NA,NA,NA,0
+1059196,2nd innings,Sri Lanka,England,26.6,NND de Silva,PM Weerakkody,A Hartley,0,0,0,NA,0,NA,NA,NA,0
+1059196,2nd innings,Sri Lanka,England,27.1,PM Weerakkody,NND de Silva,LA Marsh,0,0,0,NA,0,NA,NA,NA,0
+1059196,2nd innings,Sri Lanka,England,27.2,PM Weerakkody,NND de Silva,LA Marsh,0,0,0,NA,0,NA,NA,NA,0
+1059196,2nd innings,Sri Lanka,England,27.3,PM Weerakkody,NND de Silva,LA Marsh,0,0,0,NA,0,NA,NA,NA,0
+1059196,2nd innings,Sri Lanka,England,27.4,PM Weerakkody,NND de Silva,LA Marsh,0,0,0,NA,0,NA,NA,NA,0
+1059196,2nd innings,Sri Lanka,England,27.5,PM Weerakkody,NND de Silva,LA Marsh,0,0,0,NA,0,NA,NA,NA,0
+1059196,2nd innings,Sri Lanka,England,27.6,PM Weerakkody,NND de Silva,LA Marsh,0,0,0,NA,0,NA,NA,NA,0
+1059196,2nd innings,Sri Lanka,England,28.1,NND de Silva,PM Weerakkody,A Hartley,0,0,0,NA,0,NA,NA,NA,0
+1059196,2nd innings,Sri Lanka,England,28.2,NND de Silva,PM Weerakkody,A Hartley,0,0,0,NA,0,NA,NA,NA,0
+1059196,2nd innings,Sri Lanka,England,28.3,NND de Silva,PM Weerakkody,A Hartley,1,0,1,NA,0,NA,NA,NA,0
+1059196,2nd innings,Sri Lanka,England,28.4,PM Weerakkody,NND de Silva,A Hartley,0,0,0,NA,0,NA,NA,NA,0
+1059196,2nd innings,Sri Lanka,England,28.5,PM Weerakkody,NND de Silva,A Hartley,0,0,0,NA,0,NA,NA,NA,0
+1059196,2nd innings,Sri Lanka,England,28.6,PM Weerakkody,NND de Silva,A Hartley,1,0,1,NA,0,NA,NA,NA,0
+1059196,2nd innings,Sri Lanka,England,29.1,PM Weerakkody,NND de Silva,LA Marsh,1,0,1,NA,0,NA,NA,NA,0
+1059196,2nd innings,Sri Lanka,England,29.2,NND de Silva,PM Weerakkody,LA Marsh,0,0,0,NA,0,NA,NA,NA,0
+1059196,2nd innings,Sri Lanka,England,29.3,NND de Silva,PM Weerakkody,LA Marsh,0,0,0,NA,1,caught,NND de Silva,NR Sciver,0
+1059196,2nd innings,Sri Lanka,England,29.4,I Ranaweera,PM Weerakkody,LA Marsh,0,0,0,NA,1,lbw,I Ranaweera,NA,0
+1059196,2nd innings,Sri Lanka,England,29.5,WGAKK Kulasuriya,PM Weerakkody,LA Marsh,0,0,0,NA,0,NA,NA,NA,0
+1059196,2nd innings,Sri Lanka,England,29.6,WGAKK Kulasuriya,PM Weerakkody,LA Marsh,0,0,0,NA,0,NA,NA,NA,0
+1059196,2nd innings,Sri Lanka,England,30.1,PM Weerakkody,WGAKK Kulasuriya,A Hartley,0,0,0,NA,0,NA,NA,NA,0
+1059196,2nd innings,Sri Lanka,England,30.2,PM Weerakkody,WGAKK Kulasuriya,A Hartley,1,0,1,NA,0,NA,NA,NA,0
+1059196,2nd innings,Sri Lanka,England,30.3,WGAKK Kulasuriya,PM Weerakkody,A Hartley,0,0,0,NA,0,NA,NA,NA,0
+1059196,2nd innings,Sri Lanka,England,30.4,WGAKK Kulasuriya,PM Weerakkody,A Hartley,0,0,0,NA,0,NA,NA,NA,0
+1059196,2nd innings,Sri Lanka,England,30.5,WGAKK Kulasuriya,PM Weerakkody,A Hartley,0,0,0,NA,0,NA,NA,NA,0
+1059196,2nd innings,Sri Lanka,England,30.6,WGAKK Kulasuriya,PM Weerakkody,A Hartley,0,0,0,NA,0,NA,NA,NA,0
+1059196,2nd innings,Sri Lanka,England,31.1,PM Weerakkody,WGAKK Kulasuriya,D Hazell,0,0,0,NA,0,NA,NA,NA,0
+1059196,2nd innings,Sri Lanka,England,31.2,PM Weerakkody,WGAKK Kulasuriya,D Hazell,0,0,0,NA,0,NA,NA,NA,0
+1059196,2nd innings,Sri Lanka,England,31.3,PM Weerakkody,WGAKK Kulasuriya,D Hazell,1,0,1,NA,0,NA,NA,NA,0
+1059196,2nd innings,Sri Lanka,England,31.4,WGAKK Kulasuriya,PM Weerakkody,D Hazell,0,0,0,NA,0,NA,NA,NA,0
+1059196,2nd innings,Sri Lanka,England,31.5,WGAKK Kulasuriya,PM Weerakkody,D Hazell,0,0,0,NA,0,NA,NA,NA,0
+1059196,2nd innings,Sri Lanka,England,31.6,WGAKK Kulasuriya,PM Weerakkody,D Hazell,0,0,0,NA,0,NA,NA,NA,0
+1059196,2nd innings,Sri Lanka,England,32.1,PM Weerakkody,WGAKK Kulasuriya,A Hartley,0,0,0,NA,1,lbw,PM Weerakkody,NA,0
+1059196,2nd innings,Sri Lanka,England,32.2,SIP Fernando,WGAKK Kulasuriya,A Hartley,0,0,0,NA,0,NA,NA,NA,0
+1059196,2nd innings,Sri Lanka,England,32.3,SIP Fernando,WGAKK Kulasuriya,A Hartley,0,0,0,NA,0,NA,NA,NA,0
+1059196,2nd innings,Sri Lanka,England,32.4,SIP Fernando,WGAKK Kulasuriya,A Hartley,0,0,0,NA,0,NA,NA,NA,0
+1059196,2nd innings,Sri Lanka,England,32.5,SIP Fernando,WGAKK Kulasuriya,A Hartley,0,0,0,NA,0,NA,NA,NA,0
+1059196,2nd innings,Sri Lanka,England,32.6,SIP Fernando,WGAKK Kulasuriya,A Hartley,0,0,0,NA,0,NA,NA,NA,0
+1059196,2nd innings,Sri Lanka,England,33.1,WGAKK Kulasuriya,SIP Fernando,D Hazell,0,0,0,NA,1,bowled,WGAKK Kulasuriya,NA,0

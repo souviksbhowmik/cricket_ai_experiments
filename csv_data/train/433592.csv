@@ -1,0 +1,498 @@
+match_id,innings,team,opponent,ball,batsman,non_striker,bowler,scored_runs,extras,total,extra_type,wicket,wicket_type,player_out,fielders,winner
+433592,1st innings,Canada,Australia,0.1,H Patel,JM Davison,SW Tait,0,0,0,NA,0,NA,NA,NA,0
+433592,1st innings,Canada,Australia,0.2,H Patel,JM Davison,SW Tait,0,0,0,NA,0,NA,NA,NA,0
+433592,1st innings,Canada,Australia,0.3,H Patel,JM Davison,SW Tait,1,0,1,NA,0,NA,NA,NA,0
+433592,1st innings,Canada,Australia,0.4,JM Davison,H Patel,SW Tait,0,1,1,noballs,0,NA,NA,NA,0
+433592,1st innings,Canada,Australia,0.5,JM Davison,H Patel,SW Tait,0,0,0,NA,0,NA,NA,NA,0
+433592,1st innings,Canada,Australia,0.6,JM Davison,H Patel,SW Tait,4,0,4,NA,0,NA,NA,NA,0
+433592,1st innings,Canada,Australia,0.7,JM Davison,H Patel,SW Tait,0,0,0,NA,0,NA,NA,NA,0
+433592,1st innings,Canada,Australia,1.1,H Patel,JM Davison,B Lee,4,0,4,NA,0,NA,NA,NA,0
+433592,1st innings,Canada,Australia,1.2,H Patel,JM Davison,B Lee,0,0,0,NA,0,NA,NA,NA,0
+433592,1st innings,Canada,Australia,1.3,H Patel,JM Davison,B Lee,4,0,4,NA,0,NA,NA,NA,0
+433592,1st innings,Canada,Australia,1.4,H Patel,JM Davison,B Lee,2,0,2,NA,0,NA,NA,NA,0
+433592,1st innings,Canada,Australia,1.5,H Patel,JM Davison,B Lee,4,0,4,NA,0,NA,NA,NA,0
+433592,1st innings,Canada,Australia,1.6,H Patel,JM Davison,B Lee,2,0,2,NA,0,NA,NA,NA,0
+433592,1st innings,Canada,Australia,2.1,JM Davison,H Patel,SW Tait,1,0,1,NA,0,NA,NA,NA,0
+433592,1st innings,Canada,Australia,2.2,H Patel,JM Davison,SW Tait,6,0,6,NA,0,NA,NA,NA,0
+433592,1st innings,Canada,Australia,2.3,H Patel,JM Davison,SW Tait,0,1,1,wides,0,NA,NA,NA,0
+433592,1st innings,Canada,Australia,2.4,H Patel,JM Davison,SW Tait,0,1,1,wides,0,NA,NA,NA,0
+433592,1st innings,Canada,Australia,2.5,H Patel,JM Davison,SW Tait,1,0,1,NA,0,NA,NA,NA,0
+433592,1st innings,Canada,Australia,2.6,JM Davison,H Patel,SW Tait,0,0,0,NA,0,NA,NA,NA,0
+433592,1st innings,Canada,Australia,2.7,JM Davison,H Patel,SW Tait,1,0,1,NA,0,NA,NA,NA,0
+433592,1st innings,Canada,Australia,2.8,H Patel,JM Davison,SW Tait,0,0,0,NA,0,NA,NA,NA,0
+433592,1st innings,Canada,Australia,3.1,JM Davison,H Patel,B Lee,0,0,0,NA,0,NA,NA,NA,0
+433592,1st innings,Canada,Australia,3.2,JM Davison,H Patel,B Lee,0,0,0,NA,0,NA,NA,NA,0
+433592,1st innings,Canada,Australia,3.3,JM Davison,H Patel,B Lee,4,0,4,NA,0,NA,NA,NA,0
+433592,1st innings,Canada,Australia,3.4,JM Davison,H Patel,B Lee,4,0,4,NA,0,NA,NA,NA,0
+433592,1st innings,Canada,Australia,3.5,JM Davison,H Patel,B Lee,0,0,0,NA,1,caught,JM Davison,BJ Haddin,0
+433592,1st innings,Canada,Australia,3.6,ZE Surkari,H Patel,B Lee,0,0,0,NA,0,NA,NA,NA,0
+433592,1st innings,Canada,Australia,4.1,H Patel,ZE Surkari,MG Johnson,2,0,2,NA,0,NA,NA,NA,0
+433592,1st innings,Canada,Australia,4.2,H Patel,ZE Surkari,MG Johnson,4,0,4,NA,0,NA,NA,NA,0
+433592,1st innings,Canada,Australia,4.3,H Patel,ZE Surkari,MG Johnson,0,0,0,NA,0,NA,NA,NA,0
+433592,1st innings,Canada,Australia,4.4,H Patel,ZE Surkari,MG Johnson,6,0,6,NA,0,NA,NA,NA,0
+433592,1st innings,Canada,Australia,4.5,H Patel,ZE Surkari,MG Johnson,0,1,1,legbyes,0,NA,NA,NA,0
+433592,1st innings,Canada,Australia,4.6,ZE Surkari,H Patel,MG Johnson,0,0,0,NA,0,NA,NA,NA,0
+433592,1st innings,Canada,Australia,5.1,H Patel,ZE Surkari,B Lee,0,0,0,NA,0,NA,NA,NA,0
+433592,1st innings,Canada,Australia,5.2,H Patel,ZE Surkari,B Lee,0,0,0,NA,0,NA,NA,NA,0
+433592,1st innings,Canada,Australia,5.3,H Patel,ZE Surkari,B Lee,0,1,1,wides,0,NA,NA,NA,0
+433592,1st innings,Canada,Australia,5.4,H Patel,ZE Surkari,B Lee,0,0,0,NA,0,NA,NA,NA,0
+433592,1st innings,Canada,Australia,5.5,H Patel,ZE Surkari,B Lee,0,0,0,NA,0,NA,NA,NA,0
+433592,1st innings,Canada,Australia,5.6,H Patel,ZE Surkari,B Lee,0,1,1,wides,0,NA,NA,NA,0
+433592,1st innings,Canada,Australia,5.7,H Patel,ZE Surkari,B Lee,0,0,0,NA,0,NA,NA,NA,0
+433592,1st innings,Canada,Australia,5.8,H Patel,ZE Surkari,B Lee,6,0,6,NA,0,NA,NA,NA,0
+433592,1st innings,Canada,Australia,6.1,ZE Surkari,H Patel,MG Johnson,0,0,0,NA,0,NA,NA,NA,0
+433592,1st innings,Canada,Australia,6.2,ZE Surkari,H Patel,MG Johnson,0,0,0,NA,0,NA,NA,NA,0
+433592,1st innings,Canada,Australia,6.3,ZE Surkari,H Patel,MG Johnson,1,0,1,NA,0,NA,NA,NA,0
+433592,1st innings,Canada,Australia,6.4,H Patel,ZE Surkari,MG Johnson,0,0,0,NA,0,NA,NA,NA,0
+433592,1st innings,Canada,Australia,6.5,H Patel,ZE Surkari,MG Johnson,1,0,1,NA,0,NA,NA,NA,0
+433592,1st innings,Canada,Australia,6.6,ZE Surkari,H Patel,MG Johnson,0,0,0,NA,0,NA,NA,NA,0
+433592,1st innings,Canada,Australia,7.1,H Patel,ZE Surkari,SR Watson,0,0,0,NA,0,NA,NA,NA,0
+433592,1st innings,Canada,Australia,7.2,H Patel,ZE Surkari,SR Watson,0,0,0,NA,0,NA,NA,NA,0
+433592,1st innings,Canada,Australia,7.3,H Patel,ZE Surkari,SR Watson,0,0,0,NA,0,NA,NA,NA,0
+433592,1st innings,Canada,Australia,7.4,H Patel,ZE Surkari,SR Watson,0,0,0,NA,0,NA,NA,NA,0
+433592,1st innings,Canada,Australia,7.5,H Patel,ZE Surkari,SR Watson,0,0,0,NA,0,NA,NA,NA,0
+433592,1st innings,Canada,Australia,7.6,H Patel,ZE Surkari,SR Watson,1,0,1,NA,0,NA,NA,NA,0
+433592,1st innings,Canada,Australia,8.1,H Patel,ZE Surkari,MG Johnson,0,0,0,NA,0,NA,NA,NA,0
+433592,1st innings,Canada,Australia,8.2,H Patel,ZE Surkari,MG Johnson,0,1,1,legbyes,0,NA,NA,NA,0
+433592,1st innings,Canada,Australia,8.3,ZE Surkari,H Patel,MG Johnson,0,0,0,NA,0,NA,NA,NA,0
+433592,1st innings,Canada,Australia,8.4,ZE Surkari,H Patel,MG Johnson,1,0,1,NA,0,NA,NA,NA,0
+433592,1st innings,Canada,Australia,8.5,H Patel,ZE Surkari,MG Johnson,4,0,4,NA,0,NA,NA,NA,0
+433592,1st innings,Canada,Australia,8.6,H Patel,ZE Surkari,MG Johnson,1,0,1,NA,0,NA,NA,NA,0
+433592,1st innings,Canada,Australia,9.1,H Patel,ZE Surkari,SR Watson,0,0,0,NA,0,NA,NA,NA,0
+433592,1st innings,Canada,Australia,9.2,H Patel,ZE Surkari,SR Watson,1,0,1,NA,0,NA,NA,NA,0
+433592,1st innings,Canada,Australia,9.3,ZE Surkari,H Patel,SR Watson,4,0,4,NA,0,NA,NA,NA,0
+433592,1st innings,Canada,Australia,9.4,ZE Surkari,H Patel,SR Watson,0,0,0,NA,0,NA,NA,NA,0
+433592,1st innings,Canada,Australia,9.5,ZE Surkari,H Patel,SR Watson,0,0,0,NA,0,NA,NA,NA,0
+433592,1st innings,Canada,Australia,9.6,ZE Surkari,H Patel,SR Watson,0,0,0,NA,0,NA,NA,NA,0
+433592,1st innings,Canada,Australia,10.1,H Patel,ZE Surkari,SW Tait,2,0,2,NA,0,NA,NA,NA,0
+433592,1st innings,Canada,Australia,10.2,H Patel,ZE Surkari,SW Tait,0,0,0,NA,0,NA,NA,NA,0
+433592,1st innings,Canada,Australia,10.3,H Patel,ZE Surkari,SW Tait,0,0,0,NA,0,NA,NA,NA,0
+433592,1st innings,Canada,Australia,10.4,H Patel,ZE Surkari,SW Tait,1,0,1,NA,0,NA,NA,NA,0
+433592,1st innings,Canada,Australia,10.5,ZE Surkari,H Patel,SW Tait,0,1,1,legbyes,0,NA,NA,NA,0
+433592,1st innings,Canada,Australia,10.6,H Patel,ZE Surkari,SW Tait,1,0,1,NA,0,NA,NA,NA,0
+433592,1st innings,Canada,Australia,11.1,H Patel,ZE Surkari,SR Watson,0,0,0,NA,0,NA,NA,NA,0
+433592,1st innings,Canada,Australia,11.2,H Patel,ZE Surkari,SR Watson,0,0,0,NA,0,NA,NA,NA,0
+433592,1st innings,Canada,Australia,11.3,H Patel,ZE Surkari,SR Watson,0,0,0,NA,1,caught,H Patel,MG Johnson,0
+433592,1st innings,Canada,Australia,11.4,ZE Surkari,A Bagai,SR Watson,0,0,0,NA,0,NA,NA,NA,0
+433592,1st innings,Canada,Australia,11.5,ZE Surkari,A Bagai,SR Watson,0,0,0,NA,0,NA,NA,NA,0
+433592,1st innings,Canada,Australia,11.6,ZE Surkari,A Bagai,SR Watson,2,0,2,NA,0,NA,NA,NA,0
+433592,1st innings,Canada,Australia,12.1,A Bagai,ZE Surkari,SW Tait,0,0,0,NA,0,NA,NA,NA,0
+433592,1st innings,Canada,Australia,12.2,A Bagai,ZE Surkari,SW Tait,0,0,0,NA,0,NA,NA,NA,0
+433592,1st innings,Canada,Australia,12.3,A Bagai,ZE Surkari,SW Tait,0,0,0,NA,0,NA,NA,NA,0
+433592,1st innings,Canada,Australia,12.4,A Bagai,ZE Surkari,SW Tait,0,0,0,NA,0,NA,NA,NA,0
+433592,1st innings,Canada,Australia,12.5,A Bagai,ZE Surkari,SW Tait,0,0,0,NA,0,NA,NA,NA,0
+433592,1st innings,Canada,Australia,12.6,A Bagai,ZE Surkari,SW Tait,0,0,0,NA,0,NA,NA,NA,0
+433592,1st innings,Canada,Australia,13.1,ZE Surkari,A Bagai,SR Watson,1,0,1,NA,0,NA,NA,NA,0
+433592,1st innings,Canada,Australia,13.2,A Bagai,ZE Surkari,SR Watson,4,0,4,NA,0,NA,NA,NA,0
+433592,1st innings,Canada,Australia,13.3,A Bagai,ZE Surkari,SR Watson,0,0,0,NA,0,NA,NA,NA,0
+433592,1st innings,Canada,Australia,13.4,A Bagai,ZE Surkari,SR Watson,0,0,0,NA,0,NA,NA,NA,0
+433592,1st innings,Canada,Australia,13.5,A Bagai,ZE Surkari,SR Watson,0,0,0,NA,0,NA,NA,NA,0
+433592,1st innings,Canada,Australia,13.6,A Bagai,ZE Surkari,SR Watson,0,0,0,NA,0,NA,NA,NA,0
+433592,1st innings,Canada,Australia,14.1,ZE Surkari,A Bagai,MG Johnson,1,0,1,NA,0,NA,NA,NA,0
+433592,1st innings,Canada,Australia,14.2,A Bagai,ZE Surkari,MG Johnson,0,0,0,NA,0,NA,NA,NA,0
+433592,1st innings,Canada,Australia,14.3,A Bagai,ZE Surkari,MG Johnson,0,0,0,NA,0,NA,NA,NA,0
+433592,1st innings,Canada,Australia,14.4,A Bagai,ZE Surkari,MG Johnson,0,0,0,NA,0,NA,NA,NA,0
+433592,1st innings,Canada,Australia,14.5,A Bagai,ZE Surkari,MG Johnson,4,0,4,NA,0,NA,NA,NA,0
+433592,1st innings,Canada,Australia,14.6,A Bagai,ZE Surkari,MG Johnson,1,0,1,NA,0,NA,NA,NA,0
+433592,1st innings,Canada,Australia,15.1,A Bagai,ZE Surkari,B Lee,0,0,0,NA,0,NA,NA,NA,0
+433592,1st innings,Canada,Australia,15.2,A Bagai,ZE Surkari,B Lee,0,0,0,NA,0,NA,NA,NA,0
+433592,1st innings,Canada,Australia,15.3,A Bagai,ZE Surkari,B Lee,4,0,4,NA,0,NA,NA,NA,0
+433592,1st innings,Canada,Australia,15.4,A Bagai,ZE Surkari,B Lee,0,0,0,NA,0,NA,NA,NA,0
+433592,1st innings,Canada,Australia,15.5,A Bagai,ZE Surkari,B Lee,0,0,0,NA,0,NA,NA,NA,0
+433592,1st innings,Canada,Australia,15.6,A Bagai,ZE Surkari,B Lee,0,0,0,NA,0,NA,NA,NA,0
+433592,1st innings,Canada,Australia,16.1,ZE Surkari,A Bagai,MG Johnson,2,0,2,NA,0,NA,NA,NA,0
+433592,1st innings,Canada,Australia,16.2,ZE Surkari,A Bagai,MG Johnson,0,0,0,NA,0,NA,NA,NA,0
+433592,1st innings,Canada,Australia,16.3,ZE Surkari,A Bagai,MG Johnson,0,0,0,NA,0,NA,NA,NA,0
+433592,1st innings,Canada,Australia,16.4,ZE Surkari,A Bagai,MG Johnson,0,0,0,NA,0,NA,NA,NA,0
+433592,1st innings,Canada,Australia,16.5,ZE Surkari,A Bagai,MG Johnson,0,0,0,NA,0,NA,NA,NA,0
+433592,1st innings,Canada,Australia,16.6,ZE Surkari,A Bagai,MG Johnson,0,1,1,wides,0,NA,NA,NA,0
+433592,1st innings,Canada,Australia,16.7,ZE Surkari,A Bagai,MG Johnson,0,0,0,NA,0,NA,NA,NA,0
+433592,1st innings,Canada,Australia,17.1,A Bagai,ZE Surkari,JJ Krejza,1,0,1,NA,0,NA,NA,NA,0
+433592,1st innings,Canada,Australia,17.2,ZE Surkari,A Bagai,JJ Krejza,1,0,1,NA,0,NA,NA,NA,0
+433592,1st innings,Canada,Australia,17.3,A Bagai,ZE Surkari,JJ Krejza,0,1,1,wides,0,NA,NA,NA,0
+433592,1st innings,Canada,Australia,17.4,A Bagai,ZE Surkari,JJ Krejza,1,0,1,NA,0,NA,NA,NA,0
+433592,1st innings,Canada,Australia,17.5,ZE Surkari,A Bagai,JJ Krejza,2,0,2,NA,0,NA,NA,NA,0
+433592,1st innings,Canada,Australia,17.6,ZE Surkari,A Bagai,JJ Krejza,0,0,0,NA,0,NA,NA,NA,0
+433592,1st innings,Canada,Australia,17.7,ZE Surkari,A Bagai,JJ Krejza,1,0,1,NA,0,NA,NA,NA,0
+433592,1st innings,Canada,Australia,18.1,ZE Surkari,A Bagai,MG Johnson,0,0,0,NA,0,NA,NA,NA,0
+433592,1st innings,Canada,Australia,18.2,ZE Surkari,A Bagai,MG Johnson,0,0,0,NA,0,NA,NA,NA,0
+433592,1st innings,Canada,Australia,18.3,ZE Surkari,A Bagai,MG Johnson,1,0,1,NA,0,NA,NA,NA,0
+433592,1st innings,Canada,Australia,18.4,A Bagai,ZE Surkari,MG Johnson,0,0,0,NA,0,NA,NA,NA,0
+433592,1st innings,Canada,Australia,18.5,A Bagai,ZE Surkari,MG Johnson,0,0,0,NA,0,NA,NA,NA,0
+433592,1st innings,Canada,Australia,18.6,A Bagai,ZE Surkari,MG Johnson,0,0,0,NA,0,NA,NA,NA,0
+433592,1st innings,Canada,Australia,19.1,ZE Surkari,A Bagai,JJ Krejza,0,0,0,NA,0,NA,NA,NA,0
+433592,1st innings,Canada,Australia,19.2,ZE Surkari,A Bagai,JJ Krejza,0,0,0,NA,0,NA,NA,NA,0
+433592,1st innings,Canada,Australia,19.3,ZE Surkari,A Bagai,JJ Krejza,1,0,1,NA,0,NA,NA,NA,0
+433592,1st innings,Canada,Australia,19.4,A Bagai,ZE Surkari,JJ Krejza,1,0,1,NA,0,NA,NA,NA,0
+433592,1st innings,Canada,Australia,19.5,ZE Surkari,A Bagai,JJ Krejza,0,0,0,NA,0,NA,NA,NA,0
+433592,1st innings,Canada,Australia,19.6,ZE Surkari,A Bagai,JJ Krejza,1,0,1,NA,0,NA,NA,NA,0
+433592,1st innings,Canada,Australia,20.1,ZE Surkari,A Bagai,MG Johnson,0,0,0,NA,0,NA,NA,NA,0
+433592,1st innings,Canada,Australia,20.2,ZE Surkari,A Bagai,MG Johnson,1,0,1,NA,0,NA,NA,NA,0
+433592,1st innings,Canada,Australia,20.3,A Bagai,ZE Surkari,MG Johnson,0,0,0,NA,0,NA,NA,NA,0
+433592,1st innings,Canada,Australia,20.4,A Bagai,ZE Surkari,MG Johnson,1,0,1,NA,0,NA,NA,NA,0
+433592,1st innings,Canada,Australia,20.5,ZE Surkari,A Bagai,MG Johnson,0,0,0,NA,0,NA,NA,NA,0
+433592,1st innings,Canada,Australia,20.6,ZE Surkari,A Bagai,MG Johnson,0,0,0,NA,0,NA,NA,NA,0
+433592,1st innings,Canada,Australia,21.1,A Bagai,ZE Surkari,JJ Krejza,1,0,1,NA,0,NA,NA,NA,0
+433592,1st innings,Canada,Australia,21.2,ZE Surkari,A Bagai,JJ Krejza,1,0,1,NA,0,NA,NA,NA,0
+433592,1st innings,Canada,Australia,21.3,A Bagai,ZE Surkari,JJ Krejza,0,1,1,legbyes,0,NA,NA,NA,0
+433592,1st innings,Canada,Australia,21.4,ZE Surkari,A Bagai,JJ Krejza,1,0,1,NA,0,NA,NA,NA,0
+433592,1st innings,Canada,Australia,21.5,A Bagai,ZE Surkari,JJ Krejza,0,0,0,NA,0,NA,NA,NA,0
+433592,1st innings,Canada,Australia,21.6,A Bagai,ZE Surkari,JJ Krejza,1,0,1,NA,0,NA,NA,NA,0
+433592,1st innings,Canada,Australia,22.1,A Bagai,ZE Surkari,SR Watson,0,0,0,NA,0,NA,NA,NA,0
+433592,1st innings,Canada,Australia,22.2,A Bagai,ZE Surkari,SR Watson,0,0,0,NA,0,NA,NA,NA,0
+433592,1st innings,Canada,Australia,22.3,A Bagai,ZE Surkari,SR Watson,4,0,4,NA,0,NA,NA,NA,0
+433592,1st innings,Canada,Australia,22.4,A Bagai,ZE Surkari,SR Watson,0,0,0,NA,0,NA,NA,NA,0
+433592,1st innings,Canada,Australia,22.5,A Bagai,ZE Surkari,SR Watson,4,0,4,NA,0,NA,NA,NA,0
+433592,1st innings,Canada,Australia,22.6,A Bagai,ZE Surkari,SR Watson,0,0,0,NA,0,NA,NA,NA,0
+433592,1st innings,Canada,Australia,23.1,ZE Surkari,A Bagai,JJ Krejza,1,0,1,NA,0,NA,NA,NA,0
+433592,1st innings,Canada,Australia,23.2,A Bagai,ZE Surkari,JJ Krejza,0,0,0,NA,0,NA,NA,NA,0
+433592,1st innings,Canada,Australia,23.3,A Bagai,ZE Surkari,JJ Krejza,0,0,0,NA,0,NA,NA,NA,0
+433592,1st innings,Canada,Australia,23.4,A Bagai,ZE Surkari,JJ Krejza,1,0,1,NA,0,NA,NA,NA,0
+433592,1st innings,Canada,Australia,23.5,ZE Surkari,A Bagai,JJ Krejza,0,0,0,NA,0,NA,NA,NA,0
+433592,1st innings,Canada,Australia,23.6,ZE Surkari,A Bagai,JJ Krejza,0,0,0,NA,0,NA,NA,NA,0
+433592,1st innings,Canada,Australia,24.1,A Bagai,ZE Surkari,SR Watson,0,0,0,NA,0,NA,NA,NA,0
+433592,1st innings,Canada,Australia,24.2,A Bagai,ZE Surkari,SR Watson,0,0,0,NA,0,NA,NA,NA,0
+433592,1st innings,Canada,Australia,24.3,A Bagai,ZE Surkari,SR Watson,1,0,1,NA,0,NA,NA,NA,0
+433592,1st innings,Canada,Australia,24.4,ZE Surkari,A Bagai,SR Watson,0,0,0,NA,0,NA,NA,NA,0
+433592,1st innings,Canada,Australia,24.5,ZE Surkari,A Bagai,SR Watson,0,0,0,NA,0,NA,NA,NA,0
+433592,1st innings,Canada,Australia,24.6,ZE Surkari,A Bagai,SR Watson,0,0,0,NA,0,NA,NA,NA,0
+433592,1st innings,Canada,Australia,25.1,A Bagai,ZE Surkari,JJ Krejza,1,0,1,NA,0,NA,NA,NA,0
+433592,1st innings,Canada,Australia,25.2,ZE Surkari,A Bagai,JJ Krejza,0,0,0,NA,0,NA,NA,NA,0
+433592,1st innings,Canada,Australia,25.3,ZE Surkari,A Bagai,JJ Krejza,1,0,1,NA,0,NA,NA,NA,0
+433592,1st innings,Canada,Australia,25.4,A Bagai,ZE Surkari,JJ Krejza,1,0,1,NA,0,NA,NA,NA,0
+433592,1st innings,Canada,Australia,25.5,ZE Surkari,A Bagai,JJ Krejza,4,0,4,NA,0,NA,NA,NA,0
+433592,1st innings,Canada,Australia,25.6,ZE Surkari,A Bagai,JJ Krejza,0,0,0,NA,0,NA,NA,NA,0
+433592,1st innings,Canada,Australia,26.1,A Bagai,ZE Surkari,SW Tait,4,0,4,NA,0,NA,NA,NA,0
+433592,1st innings,Canada,Australia,26.2,A Bagai,ZE Surkari,SW Tait,1,0,1,NA,0,NA,NA,NA,0
+433592,1st innings,Canada,Australia,26.3,ZE Surkari,A Bagai,SW Tait,0,0,0,NA,0,NA,NA,NA,0
+433592,1st innings,Canada,Australia,26.4,ZE Surkari,A Bagai,SW Tait,0,1,1,wides,0,NA,NA,NA,0
+433592,1st innings,Canada,Australia,26.5,ZE Surkari,A Bagai,SW Tait,1,0,1,NA,0,NA,NA,NA,0
+433592,1st innings,Canada,Australia,26.6,A Bagai,ZE Surkari,SW Tait,0,1,1,wides,0,NA,NA,NA,0
+433592,1st innings,Canada,Australia,26.7,A Bagai,ZE Surkari,SW Tait,0,0,0,NA,0,NA,NA,NA,0
+433592,1st innings,Canada,Australia,26.8,A Bagai,ZE Surkari,SW Tait,0,0,0,NA,0,NA,NA,NA,0
+433592,1st innings,Canada,Australia,27.1,ZE Surkari,A Bagai,JJ Krejza,0,0,0,NA,0,NA,NA,NA,0
+433592,1st innings,Canada,Australia,27.2,ZE Surkari,A Bagai,JJ Krejza,1,0,1,NA,0,NA,NA,NA,0
+433592,1st innings,Canada,Australia,27.3,A Bagai,ZE Surkari,JJ Krejza,1,0,1,NA,0,NA,NA,NA,0
+433592,1st innings,Canada,Australia,27.4,ZE Surkari,A Bagai,JJ Krejza,0,0,0,NA,0,NA,NA,NA,0
+433592,1st innings,Canada,Australia,27.5,ZE Surkari,A Bagai,JJ Krejza,0,0,0,NA,0,NA,NA,NA,0
+433592,1st innings,Canada,Australia,27.6,ZE Surkari,A Bagai,JJ Krejza,0,0,0,NA,0,NA,NA,NA,0
+433592,1st innings,Canada,Australia,28.1,A Bagai,ZE Surkari,SW Tait,2,0,2,NA,0,NA,NA,NA,0
+433592,1st innings,Canada,Australia,28.2,A Bagai,ZE Surkari,SW Tait,0,0,0,NA,1,caught,A Bagai,BJ Haddin,0
+433592,1st innings,Canada,Australia,28.3,AS Hansra,ZE Surkari,SW Tait,1,0,1,NA,0,NA,NA,NA,0
+433592,1st innings,Canada,Australia,28.4,ZE Surkari,AS Hansra,SW Tait,0,0,0,NA,0,NA,NA,NA,0
+433592,1st innings,Canada,Australia,28.5,ZE Surkari,AS Hansra,SW Tait,0,0,0,NA,0,NA,NA,NA,0
+433592,1st innings,Canada,Australia,28.6,ZE Surkari,AS Hansra,SW Tait,0,0,0,NA,0,NA,NA,NA,0
+433592,1st innings,Canada,Australia,29.1,AS Hansra,ZE Surkari,JJ Krejza,1,0,1,NA,0,NA,NA,NA,0
+433592,1st innings,Canada,Australia,29.2,ZE Surkari,AS Hansra,JJ Krejza,1,0,1,NA,0,NA,NA,NA,0
+433592,1st innings,Canada,Australia,29.3,AS Hansra,ZE Surkari,JJ Krejza,1,0,1,NA,0,NA,NA,NA,0
+433592,1st innings,Canada,Australia,29.4,ZE Surkari,AS Hansra,JJ Krejza,2,0,2,NA,0,NA,NA,NA,0
+433592,1st innings,Canada,Australia,29.5,ZE Surkari,AS Hansra,JJ Krejza,1,0,1,NA,0,NA,NA,NA,0
+433592,1st innings,Canada,Australia,29.6,AS Hansra,ZE Surkari,JJ Krejza,0,0,0,NA,1,caught,AS Hansra,B Lee,0
+433592,1st innings,Canada,Australia,30.1,ZE Surkari,Rizwan Cheema,SW Tait,0,0,0,NA,0,NA,NA,NA,0
+433592,1st innings,Canada,Australia,30.2,ZE Surkari,Rizwan Cheema,SW Tait,0,0,0,NA,0,NA,NA,NA,0
+433592,1st innings,Canada,Australia,30.3,ZE Surkari,Rizwan Cheema,SW Tait,0,0,0,NA,0,NA,NA,NA,0
+433592,1st innings,Canada,Australia,30.4,ZE Surkari,Rizwan Cheema,SW Tait,0,0,0,NA,1,bowled,ZE Surkari,NA,0
+433592,1st innings,Canada,Australia,30.5,NR Kumar,Rizwan Cheema,SW Tait,0,0,0,NA,0,NA,NA,NA,0
+433592,1st innings,Canada,Australia,30.6,NR Kumar,Rizwan Cheema,SW Tait,1,0,1,NA,0,NA,NA,NA,0
+433592,1st innings,Canada,Australia,31.1,NR Kumar,Rizwan Cheema,B Lee,1,0,1,NA,0,NA,NA,NA,0
+433592,1st innings,Canada,Australia,31.2,Rizwan Cheema,NR Kumar,B Lee,2,0,2,NA,0,NA,NA,NA,0
+433592,1st innings,Canada,Australia,31.3,Rizwan Cheema,NR Kumar,B Lee,0,0,0,NA,1,bowled,Rizwan Cheema,NA,0
+433592,1st innings,Canada,Australia,31.4,K Whatham,NR Kumar,B Lee,0,0,0,NA,0,NA,NA,NA,0
+433592,1st innings,Canada,Australia,31.5,K Whatham,NR Kumar,B Lee,0,0,0,NA,0,NA,NA,NA,0
+433592,1st innings,Canada,Australia,31.6,K Whatham,NR Kumar,B Lee,0,0,0,NA,0,NA,NA,NA,0
+433592,1st innings,Canada,Australia,32.1,NR Kumar,K Whatham,SW Tait,1,0,1,NA,0,NA,NA,NA,0
+433592,1st innings,Canada,Australia,32.2,K Whatham,NR Kumar,SW Tait,0,0,0,NA,0,NA,NA,NA,0
+433592,1st innings,Canada,Australia,32.3,K Whatham,NR Kumar,SW Tait,0,0,0,NA,0,NA,NA,NA,0
+433592,1st innings,Canada,Australia,32.4,K Whatham,NR Kumar,SW Tait,0,0,0,NA,0,NA,NA,NA,0
+433592,1st innings,Canada,Australia,32.5,K Whatham,NR Kumar,SW Tait,0,0,0,NA,0,NA,NA,NA,0
+433592,1st innings,Canada,Australia,32.6,K Whatham,NR Kumar,SW Tait,0,0,0,NA,0,NA,NA,NA,0
+433592,1st innings,Canada,Australia,33.1,NR Kumar,K Whatham,B Lee,0,0,0,NA,0,NA,NA,NA,0
+433592,1st innings,Canada,Australia,33.2,NR Kumar,K Whatham,B Lee,0,0,0,NA,0,NA,NA,NA,0
+433592,1st innings,Canada,Australia,33.3,NR Kumar,K Whatham,B Lee,2,0,2,NA,0,NA,NA,NA,0
+433592,1st innings,Canada,Australia,33.4,NR Kumar,K Whatham,B Lee,0,0,0,NA,0,NA,NA,NA,0
+433592,1st innings,Canada,Australia,33.5,NR Kumar,K Whatham,B Lee,0,0,0,NA,0,NA,NA,NA,0
+433592,1st innings,Canada,Australia,33.6,NR Kumar,K Whatham,B Lee,0,0,0,NA,0,NA,NA,NA,0
+433592,1st innings,Canada,Australia,34.1,K Whatham,NR Kumar,MG Johnson,0,0,0,NA,0,NA,NA,NA,0
+433592,1st innings,Canada,Australia,34.2,K Whatham,NR Kumar,MG Johnson,0,1,1,wides,0,NA,NA,NA,0
+433592,1st innings,Canada,Australia,34.3,K Whatham,NR Kumar,MG Johnson,0,0,0,NA,0,NA,NA,NA,0
+433592,1st innings,Canada,Australia,34.4,K Whatham,NR Kumar,MG Johnson,0,0,0,NA,0,NA,NA,NA,0
+433592,1st innings,Canada,Australia,34.5,K Whatham,NR Kumar,MG Johnson,0,0,0,NA,0,NA,NA,NA,0
+433592,1st innings,Canada,Australia,34.6,K Whatham,NR Kumar,MG Johnson,0,0,0,NA,0,NA,NA,NA,0
+433592,1st innings,Canada,Australia,34.7,K Whatham,NR Kumar,MG Johnson,0,0,0,NA,0,NA,NA,NA,0
+433592,1st innings,Canada,Australia,35.1,NR Kumar,K Whatham,B Lee,1,0,1,NA,0,NA,NA,NA,0
+433592,1st innings,Canada,Australia,35.2,K Whatham,NR Kumar,B Lee,1,0,1,NA,0,NA,NA,NA,0
+433592,1st innings,Canada,Australia,35.3,NR Kumar,K Whatham,B Lee,0,0,0,NA,0,NA,NA,NA,0
+433592,1st innings,Canada,Australia,35.4,NR Kumar,K Whatham,B Lee,0,0,0,NA,0,NA,NA,NA,0
+433592,1st innings,Canada,Australia,35.5,NR Kumar,K Whatham,B Lee,0,0,0,NA,0,NA,NA,NA,0
+433592,1st innings,Canada,Australia,35.6,NR Kumar,K Whatham,B Lee,1,0,1,NA,0,NA,NA,NA,0
+433592,1st innings,Canada,Australia,36.1,NR Kumar,K Whatham,MG Johnson,0,0,0,NA,0,NA,NA,NA,0
+433592,1st innings,Canada,Australia,36.2,NR Kumar,K Whatham,MG Johnson,0,1,1,wides,0,NA,NA,NA,0
+433592,1st innings,Canada,Australia,36.3,NR Kumar,K Whatham,MG Johnson,0,0,0,NA,0,NA,NA,NA,0
+433592,1st innings,Canada,Australia,36.4,NR Kumar,K Whatham,MG Johnson,0,0,0,NA,1,caught,NR Kumar,SW Tait,0
+433592,1st innings,Canada,Australia,36.5,HS Baidwan,K Whatham,MG Johnson,0,0,0,NA,0,NA,NA,NA,0
+433592,1st innings,Canada,Australia,36.6,HS Baidwan,K Whatham,MG Johnson,4,0,4,NA,0,NA,NA,NA,0
+433592,1st innings,Canada,Australia,36.7,HS Baidwan,K Whatham,MG Johnson,0,0,0,NA,0,NA,NA,NA,0
+433592,1st innings,Canada,Australia,37.1,K Whatham,HS Baidwan,JJ Krejza,0,0,0,NA,0,NA,NA,NA,0
+433592,1st innings,Canada,Australia,37.2,K Whatham,HS Baidwan,JJ Krejza,1,0,1,NA,0,NA,NA,NA,0
+433592,1st innings,Canada,Australia,37.3,HS Baidwan,K Whatham,JJ Krejza,1,0,1,NA,0,NA,NA,NA,0
+433592,1st innings,Canada,Australia,37.4,K Whatham,HS Baidwan,JJ Krejza,0,0,0,NA,0,NA,NA,NA,0
+433592,1st innings,Canada,Australia,37.5,K Whatham,HS Baidwan,JJ Krejza,0,1,1,wides,0,NA,NA,NA,0
+433592,1st innings,Canada,Australia,37.6,K Whatham,HS Baidwan,JJ Krejza,0,0,0,NA,0,NA,NA,NA,0
+433592,1st innings,Canada,Australia,37.7,K Whatham,HS Baidwan,JJ Krejza,0,0,0,NA,0,NA,NA,NA,0
+433592,1st innings,Canada,Australia,38.1,HS Baidwan,K Whatham,MG Johnson,0,0,0,NA,0,NA,NA,NA,0
+433592,1st innings,Canada,Australia,38.2,HS Baidwan,K Whatham,MG Johnson,1,0,1,NA,0,NA,NA,NA,0
+433592,1st innings,Canada,Australia,38.3,K Whatham,HS Baidwan,MG Johnson,0,0,0,NA,0,NA,NA,NA,0
+433592,1st innings,Canada,Australia,38.4,K Whatham,HS Baidwan,MG Johnson,0,0,0,NA,0,NA,NA,NA,0
+433592,1st innings,Canada,Australia,38.5,K Whatham,HS Baidwan,MG Johnson,0,0,0,NA,0,NA,NA,NA,0
+433592,1st innings,Canada,Australia,38.6,K Whatham,HS Baidwan,MG Johnson,4,0,4,NA,0,NA,NA,NA,0
+433592,1st innings,Canada,Australia,39.1,HS Baidwan,K Whatham,JJ Krejza,1,0,1,NA,0,NA,NA,NA,0
+433592,1st innings,Canada,Australia,39.2,K Whatham,HS Baidwan,JJ Krejza,1,0,1,NA,0,NA,NA,NA,0
+433592,1st innings,Canada,Australia,39.3,HS Baidwan,K Whatham,JJ Krejza,1,0,1,NA,0,NA,NA,NA,0
+433592,1st innings,Canada,Australia,39.4,K Whatham,HS Baidwan,JJ Krejza,0,0,0,NA,0,NA,NA,NA,0
+433592,1st innings,Canada,Australia,39.5,K Whatham,HS Baidwan,JJ Krejza,0,0,0,NA,0,NA,NA,NA,0
+433592,1st innings,Canada,Australia,39.6,K Whatham,HS Baidwan,JJ Krejza,1,0,1,NA,0,NA,NA,NA,0
+433592,1st innings,Canada,Australia,40.1,K Whatham,HS Baidwan,SPD Smith,0,0,0,NA,0,NA,NA,NA,0
+433592,1st innings,Canada,Australia,40.2,K Whatham,HS Baidwan,SPD Smith,1,0,1,NA,0,NA,NA,NA,0
+433592,1st innings,Canada,Australia,40.3,HS Baidwan,K Whatham,SPD Smith,0,0,0,NA,0,NA,NA,NA,0
+433592,1st innings,Canada,Australia,40.4,HS Baidwan,K Whatham,SPD Smith,4,0,4,NA,0,NA,NA,NA,0
+433592,1st innings,Canada,Australia,40.5,HS Baidwan,K Whatham,SPD Smith,0,0,0,NA,0,NA,NA,NA,0
+433592,1st innings,Canada,Australia,40.6,HS Baidwan,K Whatham,SPD Smith,1,0,1,NA,0,NA,NA,NA,0
+433592,1st innings,Canada,Australia,41.1,HS Baidwan,K Whatham,JJ Krejza,4,0,4,NA,0,NA,NA,NA,0
+433592,1st innings,Canada,Australia,41.2,HS Baidwan,K Whatham,JJ Krejza,0,0,0,NA,1,caught,HS Baidwan,RT Ponting,0
+433592,1st innings,Canada,Australia,41.3,K Whatham,WD Balaji Rao,JJ Krejza,1,0,1,NA,0,NA,NA,NA,0
+433592,1st innings,Canada,Australia,41.4,WD Balaji Rao,K Whatham,JJ Krejza,0,0,0,NA,0,NA,NA,NA,0
+433592,1st innings,Canada,Australia,41.5,WD Balaji Rao,K Whatham,JJ Krejza,0,0,0,NA,0,NA,NA,NA,0
+433592,1st innings,Canada,Australia,41.6,WD Balaji Rao,K Whatham,JJ Krejza,1,0,1,NA,0,NA,NA,NA,0
+433592,1st innings,Canada,Australia,42.1,WD Balaji Rao,K Whatham,SPD Smith,2,0,2,NA,0,NA,NA,NA,0
+433592,1st innings,Canada,Australia,42.2,WD Balaji Rao,K Whatham,SPD Smith,1,0,1,NA,0,NA,NA,NA,0
+433592,1st innings,Canada,Australia,42.3,K Whatham,WD Balaji Rao,SPD Smith,1,0,1,NA,0,NA,NA,NA,0
+433592,1st innings,Canada,Australia,42.4,WD Balaji Rao,K Whatham,SPD Smith,0,0,0,NA,0,NA,NA,NA,0
+433592,1st innings,Canada,Australia,42.5,WD Balaji Rao,K Whatham,SPD Smith,1,0,1,NA,0,NA,NA,NA,0
+433592,1st innings,Canada,Australia,42.6,K Whatham,WD Balaji Rao,SPD Smith,1,0,1,NA,0,NA,NA,NA,0
+433592,1st innings,Canada,Australia,43.1,K Whatham,WD Balaji Rao,B Lee,1,0,1,NA,0,NA,NA,NA,0
+433592,1st innings,Canada,Australia,43.2,WD Balaji Rao,K Whatham,B Lee,0,0,0,NA,0,NA,NA,NA,0
+433592,1st innings,Canada,Australia,43.3,WD Balaji Rao,K Whatham,B Lee,0,0,0,NA,0,NA,NA,NA,0
+433592,1st innings,Canada,Australia,43.4,WD Balaji Rao,K Whatham,B Lee,0,0,0,NA,0,NA,NA,NA,0
+433592,1st innings,Canada,Australia,43.5,WD Balaji Rao,K Whatham,B Lee,0,0,0,NA,0,NA,NA,NA,0
+433592,1st innings,Canada,Australia,43.6,WD Balaji Rao,K Whatham,B Lee,0,0,0,NA,1,bowled,WD Balaji Rao,NA,0
+433592,1st innings,Canada,Australia,44.1,K Whatham,H Osinde,SPD Smith,0,0,0,NA,0,NA,NA,NA,0
+433592,1st innings,Canada,Australia,44.2,K Whatham,H Osinde,SPD Smith,0,0,0,NA,0,NA,NA,NA,0
+433592,1st innings,Canada,Australia,44.3,K Whatham,H Osinde,SPD Smith,1,0,1,NA,0,NA,NA,NA,0
+433592,1st innings,Canada,Australia,44.4,H Osinde,K Whatham,SPD Smith,1,0,1,NA,0,NA,NA,NA,0
+433592,1st innings,Canada,Australia,44.5,K Whatham,H Osinde,SPD Smith,0,0,0,NA,0,NA,NA,NA,0
+433592,1st innings,Canada,Australia,44.6,K Whatham,H Osinde,SPD Smith,4,0,4,NA,0,NA,NA,NA,0
+433592,1st innings,Canada,Australia,45.1,H Osinde,K Whatham,B Lee,0,0,0,NA,0,NA,NA,NA,0
+433592,1st innings,Canada,Australia,45.2,H Osinde,K Whatham,B Lee,1,0,1,NA,0,NA,NA,NA,0
+433592,1st innings,Canada,Australia,45.3,K Whatham,H Osinde,B Lee,0,0,0,NA,0,NA,NA,NA,0
+433592,1st innings,Canada,Australia,45.4,K Whatham,H Osinde,B Lee,0,0,0,NA,1,bowled,K Whatham,NA,0
+433592,2nd innings,Australia,Canada,0.1,SR Watson,BJ Haddin,H Osinde,0,0,0,NA,0,NA,NA,NA,1
+433592,2nd innings,Australia,Canada,0.2,SR Watson,BJ Haddin,H Osinde,0,0,0,NA,0,NA,NA,NA,1
+433592,2nd innings,Australia,Canada,0.3,SR Watson,BJ Haddin,H Osinde,0,0,0,NA,0,NA,NA,NA,1
+433592,2nd innings,Australia,Canada,0.4,SR Watson,BJ Haddin,H Osinde,1,0,1,NA,0,NA,NA,NA,1
+433592,2nd innings,Australia,Canada,0.5,BJ Haddin,SR Watson,H Osinde,0,0,0,NA,0,NA,NA,NA,1
+433592,2nd innings,Australia,Canada,0.6,BJ Haddin,SR Watson,H Osinde,0,0,0,NA,0,NA,NA,NA,1
+433592,2nd innings,Australia,Canada,1.1,SR Watson,BJ Haddin,HS Baidwan,0,0,0,NA,0,NA,NA,NA,1
+433592,2nd innings,Australia,Canada,1.2,SR Watson,BJ Haddin,HS Baidwan,1,0,1,NA,0,NA,NA,NA,1
+433592,2nd innings,Australia,Canada,1.3,BJ Haddin,SR Watson,HS Baidwan,1,0,1,NA,0,NA,NA,NA,1
+433592,2nd innings,Australia,Canada,1.4,SR Watson,BJ Haddin,HS Baidwan,0,0,0,NA,0,NA,NA,NA,1
+433592,2nd innings,Australia,Canada,1.5,SR Watson,BJ Haddin,HS Baidwan,2,0,2,NA,0,NA,NA,NA,1
+433592,2nd innings,Australia,Canada,1.6,SR Watson,BJ Haddin,HS Baidwan,0,0,0,NA,0,NA,NA,NA,1
+433592,2nd innings,Australia,Canada,2.1,BJ Haddin,SR Watson,H Osinde,0,0,0,NA,0,NA,NA,NA,1
+433592,2nd innings,Australia,Canada,2.2,BJ Haddin,SR Watson,H Osinde,0,0,0,NA,0,NA,NA,NA,1
+433592,2nd innings,Australia,Canada,2.3,BJ Haddin,SR Watson,H Osinde,4,0,4,NA,0,NA,NA,NA,1
+433592,2nd innings,Australia,Canada,2.4,BJ Haddin,SR Watson,H Osinde,0,0,0,NA,0,NA,NA,NA,1
+433592,2nd innings,Australia,Canada,2.5,BJ Haddin,SR Watson,H Osinde,1,0,1,NA,0,NA,NA,NA,1
+433592,2nd innings,Australia,Canada,2.6,SR Watson,BJ Haddin,H Osinde,0,0,0,NA,0,NA,NA,NA,1
+433592,2nd innings,Australia,Canada,3.1,BJ Haddin,SR Watson,HS Baidwan,4,0,4,NA,0,NA,NA,NA,1
+433592,2nd innings,Australia,Canada,3.2,BJ Haddin,SR Watson,HS Baidwan,0,0,0,NA,0,NA,NA,NA,1
+433592,2nd innings,Australia,Canada,3.3,BJ Haddin,SR Watson,HS Baidwan,0,0,0,NA,0,NA,NA,NA,1
+433592,2nd innings,Australia,Canada,3.4,BJ Haddin,SR Watson,HS Baidwan,4,0,4,NA,0,NA,NA,NA,1
+433592,2nd innings,Australia,Canada,3.5,BJ Haddin,SR Watson,HS Baidwan,0,0,0,NA,0,NA,NA,NA,1
+433592,2nd innings,Australia,Canada,3.6,BJ Haddin,SR Watson,HS Baidwan,1,0,1,NA,0,NA,NA,NA,1
+433592,2nd innings,Australia,Canada,4.1,BJ Haddin,SR Watson,H Osinde,0,0,0,NA,0,NA,NA,NA,1
+433592,2nd innings,Australia,Canada,4.2,BJ Haddin,SR Watson,H Osinde,0,0,0,NA,0,NA,NA,NA,1
+433592,2nd innings,Australia,Canada,4.3,BJ Haddin,SR Watson,H Osinde,0,0,0,NA,0,NA,NA,NA,1
+433592,2nd innings,Australia,Canada,4.4,BJ Haddin,SR Watson,H Osinde,0,0,0,NA,0,NA,NA,NA,1
+433592,2nd innings,Australia,Canada,4.5,BJ Haddin,SR Watson,H Osinde,0,0,0,NA,0,NA,NA,NA,1
+433592,2nd innings,Australia,Canada,4.6,BJ Haddin,SR Watson,H Osinde,4,0,4,NA,0,NA,NA,NA,1
+433592,2nd innings,Australia,Canada,5.1,SR Watson,BJ Haddin,HS Baidwan,0,0,0,NA,0,NA,NA,NA,1
+433592,2nd innings,Australia,Canada,5.2,SR Watson,BJ Haddin,HS Baidwan,0,0,0,NA,0,NA,NA,NA,1
+433592,2nd innings,Australia,Canada,5.3,SR Watson,BJ Haddin,HS Baidwan,0,0,0,NA,0,NA,NA,NA,1
+433592,2nd innings,Australia,Canada,5.4,SR Watson,BJ Haddin,HS Baidwan,4,0,4,NA,0,NA,NA,NA,1
+433592,2nd innings,Australia,Canada,5.5,SR Watson,BJ Haddin,HS Baidwan,1,0,1,NA,0,NA,NA,NA,1
+433592,2nd innings,Australia,Canada,5.6,BJ Haddin,SR Watson,HS Baidwan,0,0,0,NA,0,NA,NA,NA,1
+433592,2nd innings,Australia,Canada,6.1,SR Watson,BJ Haddin,H Osinde,0,0,0,NA,0,NA,NA,NA,1
+433592,2nd innings,Australia,Canada,6.2,SR Watson,BJ Haddin,H Osinde,1,0,1,NA,0,NA,NA,NA,1
+433592,2nd innings,Australia,Canada,6.3,BJ Haddin,SR Watson,H Osinde,0,0,0,NA,0,NA,NA,NA,1
+433592,2nd innings,Australia,Canada,6.4,BJ Haddin,SR Watson,H Osinde,4,0,4,NA,0,NA,NA,NA,1
+433592,2nd innings,Australia,Canada,6.5,BJ Haddin,SR Watson,H Osinde,0,0,0,NA,0,NA,NA,NA,1
+433592,2nd innings,Australia,Canada,6.6,BJ Haddin,SR Watson,H Osinde,0,0,0,NA,0,NA,NA,NA,1
+433592,2nd innings,Australia,Canada,7.1,SR Watson,BJ Haddin,HS Baidwan,0,0,0,NA,0,NA,NA,NA,1
+433592,2nd innings,Australia,Canada,7.2,SR Watson,BJ Haddin,HS Baidwan,4,0,4,NA,0,NA,NA,NA,1
+433592,2nd innings,Australia,Canada,7.3,SR Watson,BJ Haddin,HS Baidwan,1,0,1,NA,0,NA,NA,NA,1
+433592,2nd innings,Australia,Canada,7.4,BJ Haddin,SR Watson,HS Baidwan,0,0,0,NA,0,NA,NA,NA,1
+433592,2nd innings,Australia,Canada,7.5,BJ Haddin,SR Watson,HS Baidwan,0,0,0,NA,0,NA,NA,NA,1
+433592,2nd innings,Australia,Canada,7.6,BJ Haddin,SR Watson,HS Baidwan,0,0,0,NA,0,NA,NA,NA,1
+433592,2nd innings,Australia,Canada,8.1,SR Watson,BJ Haddin,H Osinde,2,0,2,NA,0,NA,NA,NA,1
+433592,2nd innings,Australia,Canada,8.2,SR Watson,BJ Haddin,H Osinde,0,0,0,NA,0,NA,NA,NA,1
+433592,2nd innings,Australia,Canada,8.3,SR Watson,BJ Haddin,H Osinde,0,0,0,NA,0,NA,NA,NA,1
+433592,2nd innings,Australia,Canada,8.4,SR Watson,BJ Haddin,H Osinde,1,0,1,NA,0,NA,NA,NA,1
+433592,2nd innings,Australia,Canada,8.5,BJ Haddin,SR Watson,H Osinde,0,0,0,NA,0,NA,NA,NA,1
+433592,2nd innings,Australia,Canada,8.6,BJ Haddin,SR Watson,H Osinde,0,0,0,NA,0,NA,NA,NA,1
+433592,2nd innings,Australia,Canada,9.1,SR Watson,BJ Haddin,HS Baidwan,0,0,0,NA,0,NA,NA,NA,1
+433592,2nd innings,Australia,Canada,9.2,SR Watson,BJ Haddin,HS Baidwan,0,0,0,NA,0,NA,NA,NA,1
+433592,2nd innings,Australia,Canada,9.3,SR Watson,BJ Haddin,HS Baidwan,0,0,0,NA,0,NA,NA,NA,1
+433592,2nd innings,Australia,Canada,9.4,SR Watson,BJ Haddin,HS Baidwan,0,0,0,NA,0,NA,NA,NA,1
+433592,2nd innings,Australia,Canada,9.5,SR Watson,BJ Haddin,HS Baidwan,0,0,0,NA,0,NA,NA,NA,1
+433592,2nd innings,Australia,Canada,9.6,SR Watson,BJ Haddin,HS Baidwan,0,0,0,NA,0,NA,NA,NA,1
+433592,2nd innings,Australia,Canada,10.1,BJ Haddin,SR Watson,H Osinde,1,0,1,NA,0,NA,NA,NA,1
+433592,2nd innings,Australia,Canada,10.2,SR Watson,BJ Haddin,H Osinde,0,0,0,NA,0,NA,NA,NA,1
+433592,2nd innings,Australia,Canada,10.3,SR Watson,BJ Haddin,H Osinde,0,0,0,NA,0,NA,NA,NA,1
+433592,2nd innings,Australia,Canada,10.4,SR Watson,BJ Haddin,H Osinde,4,0,4,NA,0,NA,NA,NA,1
+433592,2nd innings,Australia,Canada,10.5,SR Watson,BJ Haddin,H Osinde,0,0,0,NA,0,NA,NA,NA,1
+433592,2nd innings,Australia,Canada,10.6,SR Watson,BJ Haddin,H Osinde,1,0,1,NA,0,NA,NA,NA,1
+433592,2nd innings,Australia,Canada,11.1,SR Watson,BJ Haddin,WD Balaji Rao,1,0,1,NA,0,NA,NA,NA,1
+433592,2nd innings,Australia,Canada,11.2,BJ Haddin,SR Watson,WD Balaji Rao,1,0,1,NA,0,NA,NA,NA,1
+433592,2nd innings,Australia,Canada,11.3,SR Watson,BJ Haddin,WD Balaji Rao,0,0,0,NA,0,NA,NA,NA,1
+433592,2nd innings,Australia,Canada,11.4,SR Watson,BJ Haddin,WD Balaji Rao,0,0,0,NA,0,NA,NA,NA,1
+433592,2nd innings,Australia,Canada,11.5,SR Watson,BJ Haddin,WD Balaji Rao,0,0,0,NA,0,NA,NA,NA,1
+433592,2nd innings,Australia,Canada,11.6,SR Watson,BJ Haddin,WD Balaji Rao,4,0,4,NA,0,NA,NA,NA,1
+433592,2nd innings,Australia,Canada,12.1,BJ Haddin,SR Watson,Rizwan Cheema,1,0,1,NA,0,NA,NA,NA,1
+433592,2nd innings,Australia,Canada,12.2,SR Watson,BJ Haddin,Rizwan Cheema,0,0,0,NA,0,NA,NA,NA,1
+433592,2nd innings,Australia,Canada,12.3,SR Watson,BJ Haddin,Rizwan Cheema,1,0,1,NA,0,NA,NA,NA,1
+433592,2nd innings,Australia,Canada,12.4,BJ Haddin,SR Watson,Rizwan Cheema,1,0,1,NA,0,NA,NA,NA,1
+433592,2nd innings,Australia,Canada,12.5,SR Watson,BJ Haddin,Rizwan Cheema,0,0,0,NA,0,NA,NA,NA,1
+433592,2nd innings,Australia,Canada,12.6,SR Watson,BJ Haddin,Rizwan Cheema,1,0,1,NA,0,NA,NA,NA,1
+433592,2nd innings,Australia,Canada,13.1,SR Watson,BJ Haddin,WD Balaji Rao,1,0,1,NA,0,NA,NA,NA,1
+433592,2nd innings,Australia,Canada,13.2,BJ Haddin,SR Watson,WD Balaji Rao,0,0,0,NA,0,NA,NA,NA,1
+433592,2nd innings,Australia,Canada,13.3,BJ Haddin,SR Watson,WD Balaji Rao,0,0,0,NA,0,NA,NA,NA,1
+433592,2nd innings,Australia,Canada,13.4,BJ Haddin,SR Watson,WD Balaji Rao,1,0,1,NA,0,NA,NA,NA,1
+433592,2nd innings,Australia,Canada,13.5,SR Watson,BJ Haddin,WD Balaji Rao,1,0,1,NA,0,NA,NA,NA,1
+433592,2nd innings,Australia,Canada,13.6,BJ Haddin,SR Watson,WD Balaji Rao,1,0,1,NA,0,NA,NA,NA,1
+433592,2nd innings,Australia,Canada,14.1,BJ Haddin,SR Watson,Rizwan Cheema,0,0,0,NA,0,NA,NA,NA,1
+433592,2nd innings,Australia,Canada,14.2,BJ Haddin,SR Watson,Rizwan Cheema,0,0,0,NA,0,NA,NA,NA,1
+433592,2nd innings,Australia,Canada,14.3,BJ Haddin,SR Watson,Rizwan Cheema,1,0,1,NA,0,NA,NA,NA,1
+433592,2nd innings,Australia,Canada,14.4,SR Watson,BJ Haddin,Rizwan Cheema,0,0,0,NA,0,NA,NA,NA,1
+433592,2nd innings,Australia,Canada,14.5,SR Watson,BJ Haddin,Rizwan Cheema,4,0,4,NA,0,NA,NA,NA,1
+433592,2nd innings,Australia,Canada,14.6,SR Watson,BJ Haddin,Rizwan Cheema,1,0,1,NA,0,NA,NA,NA,1
+433592,2nd innings,Australia,Canada,15.1,SR Watson,BJ Haddin,WD Balaji Rao,1,0,1,NA,0,NA,NA,NA,1
+433592,2nd innings,Australia,Canada,15.2,BJ Haddin,SR Watson,WD Balaji Rao,0,0,0,NA,0,NA,NA,NA,1
+433592,2nd innings,Australia,Canada,15.3,BJ Haddin,SR Watson,WD Balaji Rao,1,0,1,NA,0,NA,NA,NA,1
+433592,2nd innings,Australia,Canada,15.4,SR Watson,BJ Haddin,WD Balaji Rao,1,0,1,NA,0,NA,NA,NA,1
+433592,2nd innings,Australia,Canada,15.5,BJ Haddin,SR Watson,WD Balaji Rao,0,0,0,NA,0,NA,NA,NA,1
+433592,2nd innings,Australia,Canada,15.6,BJ Haddin,SR Watson,WD Balaji Rao,2,0,2,NA,0,NA,NA,NA,1
+433592,2nd innings,Australia,Canada,16.1,SR Watson,BJ Haddin,JM Davison,1,0,1,NA,0,NA,NA,NA,1
+433592,2nd innings,Australia,Canada,16.2,BJ Haddin,SR Watson,JM Davison,0,0,0,NA,0,NA,NA,NA,1
+433592,2nd innings,Australia,Canada,16.3,BJ Haddin,SR Watson,JM Davison,1,0,1,NA,0,NA,NA,NA,1
+433592,2nd innings,Australia,Canada,16.4,SR Watson,BJ Haddin,JM Davison,1,0,1,NA,0,NA,NA,NA,1
+433592,2nd innings,Australia,Canada,16.5,BJ Haddin,SR Watson,JM Davison,1,0,1,NA,0,NA,NA,NA,1
+433592,2nd innings,Australia,Canada,16.6,SR Watson,BJ Haddin,JM Davison,1,0,1,NA,0,NA,NA,NA,1
+433592,2nd innings,Australia,Canada,17.1,SR Watson,BJ Haddin,WD Balaji Rao,0,0,0,NA,0,NA,NA,NA,1
+433592,2nd innings,Australia,Canada,17.2,SR Watson,BJ Haddin,WD Balaji Rao,0,0,0,NA,0,NA,NA,NA,1
+433592,2nd innings,Australia,Canada,17.3,SR Watson,BJ Haddin,WD Balaji Rao,0,1,1,legbyes,0,NA,NA,NA,1
+433592,2nd innings,Australia,Canada,17.4,BJ Haddin,SR Watson,WD Balaji Rao,0,0,0,NA,0,NA,NA,NA,1
+433592,2nd innings,Australia,Canada,17.5,BJ Haddin,SR Watson,WD Balaji Rao,0,0,0,NA,0,NA,NA,NA,1
+433592,2nd innings,Australia,Canada,17.6,BJ Haddin,SR Watson,WD Balaji Rao,1,0,1,NA,0,NA,NA,NA,1
+433592,2nd innings,Australia,Canada,18.1,BJ Haddin,SR Watson,JM Davison,0,0,0,NA,0,NA,NA,NA,1
+433592,2nd innings,Australia,Canada,18.2,BJ Haddin,SR Watson,JM Davison,1,0,1,NA,0,NA,NA,NA,1
+433592,2nd innings,Australia,Canada,18.3,SR Watson,BJ Haddin,JM Davison,0,0,0,NA,0,NA,NA,NA,1
+433592,2nd innings,Australia,Canada,18.4,SR Watson,BJ Haddin,JM Davison,0,0,0,NA,0,NA,NA,NA,1
+433592,2nd innings,Australia,Canada,18.5,SR Watson,BJ Haddin,JM Davison,0,0,0,NA,0,NA,NA,NA,1
+433592,2nd innings,Australia,Canada,18.6,SR Watson,BJ Haddin,JM Davison,1,0,1,NA,0,NA,NA,NA,1
+433592,2nd innings,Australia,Canada,19.1,SR Watson,BJ Haddin,WD Balaji Rao,1,0,1,NA,0,NA,NA,NA,1
+433592,2nd innings,Australia,Canada,19.2,BJ Haddin,SR Watson,WD Balaji Rao,0,0,0,NA,0,NA,NA,NA,1
+433592,2nd innings,Australia,Canada,19.3,BJ Haddin,SR Watson,WD Balaji Rao,0,0,0,NA,0,NA,NA,NA,1
+433592,2nd innings,Australia,Canada,19.4,BJ Haddin,SR Watson,WD Balaji Rao,0,0,0,NA,0,NA,NA,NA,1
+433592,2nd innings,Australia,Canada,19.5,BJ Haddin,SR Watson,WD Balaji Rao,6,0,6,NA,0,NA,NA,NA,1
+433592,2nd innings,Australia,Canada,19.6,BJ Haddin,SR Watson,WD Balaji Rao,2,0,2,NA,0,NA,NA,NA,1
+433592,2nd innings,Australia,Canada,20.1,SR Watson,BJ Haddin,HS Baidwan,2,0,2,NA,0,NA,NA,NA,1
+433592,2nd innings,Australia,Canada,20.2,SR Watson,BJ Haddin,HS Baidwan,0,0,0,NA,0,NA,NA,NA,1
+433592,2nd innings,Australia,Canada,20.3,SR Watson,BJ Haddin,HS Baidwan,0,0,0,NA,0,NA,NA,NA,1
+433592,2nd innings,Australia,Canada,20.4,SR Watson,BJ Haddin,HS Baidwan,1,0,1,NA,0,NA,NA,NA,1
+433592,2nd innings,Australia,Canada,20.5,BJ Haddin,SR Watson,HS Baidwan,0,0,0,NA,0,NA,NA,NA,1
+433592,2nd innings,Australia,Canada,20.6,BJ Haddin,SR Watson,HS Baidwan,1,0,1,NA,0,NA,NA,NA,1
+433592,2nd innings,Australia,Canada,21.1,BJ Haddin,SR Watson,H Osinde,2,0,2,NA,0,NA,NA,NA,1
+433592,2nd innings,Australia,Canada,21.2,BJ Haddin,SR Watson,H Osinde,1,0,1,NA,0,NA,NA,NA,1
+433592,2nd innings,Australia,Canada,21.3,SR Watson,BJ Haddin,H Osinde,0,0,0,NA,0,NA,NA,NA,1
+433592,2nd innings,Australia,Canada,21.4,SR Watson,BJ Haddin,H Osinde,1,0,1,NA,0,NA,NA,NA,1
+433592,2nd innings,Australia,Canada,21.5,BJ Haddin,SR Watson,H Osinde,4,0,4,NA,0,NA,NA,NA,1
+433592,2nd innings,Australia,Canada,21.6,BJ Haddin,SR Watson,H Osinde,4,0,4,NA,0,NA,NA,NA,1
+433592,2nd innings,Australia,Canada,22.1,SR Watson,BJ Haddin,HS Baidwan,1,0,1,NA,0,NA,NA,NA,1
+433592,2nd innings,Australia,Canada,22.2,BJ Haddin,SR Watson,HS Baidwan,1,0,1,NA,0,NA,NA,NA,1
+433592,2nd innings,Australia,Canada,22.3,SR Watson,BJ Haddin,HS Baidwan,0,0,0,NA,0,NA,NA,NA,1
+433592,2nd innings,Australia,Canada,22.4,SR Watson,BJ Haddin,HS Baidwan,1,0,1,NA,0,NA,NA,NA,1
+433592,2nd innings,Australia,Canada,22.5,BJ Haddin,SR Watson,HS Baidwan,1,0,1,NA,0,NA,NA,NA,1
+433592,2nd innings,Australia,Canada,22.6,SR Watson,BJ Haddin,HS Baidwan,4,0,4,NA,0,NA,NA,NA,1
+433592,2nd innings,Australia,Canada,23.1,BJ Haddin,SR Watson,Rizwan Cheema,4,0,4,NA,0,NA,NA,NA,1
+433592,2nd innings,Australia,Canada,23.2,BJ Haddin,SR Watson,Rizwan Cheema,0,0,0,NA,0,NA,NA,NA,1
+433592,2nd innings,Australia,Canada,23.3,BJ Haddin,SR Watson,Rizwan Cheema,0,0,0,NA,0,NA,NA,NA,1
+433592,2nd innings,Australia,Canada,23.4,BJ Haddin,SR Watson,Rizwan Cheema,4,0,4,NA,0,NA,NA,NA,1
+433592,2nd innings,Australia,Canada,23.5,BJ Haddin,SR Watson,Rizwan Cheema,4,0,4,NA,0,NA,NA,NA,1
+433592,2nd innings,Australia,Canada,23.6,BJ Haddin,SR Watson,Rizwan Cheema,1,0,1,NA,0,NA,NA,NA,1
+433592,2nd innings,Australia,Canada,24.1,BJ Haddin,SR Watson,HS Baidwan,1,0,1,NA,0,NA,NA,NA,1
+433592,2nd innings,Australia,Canada,24.2,SR Watson,BJ Haddin,HS Baidwan,1,0,1,NA,0,NA,NA,NA,1
+433592,2nd innings,Australia,Canada,24.3,BJ Haddin,SR Watson,HS Baidwan,0,0,0,NA,0,NA,NA,NA,1
+433592,2nd innings,Australia,Canada,24.4,BJ Haddin,SR Watson,HS Baidwan,1,0,1,NA,0,NA,NA,NA,1
+433592,2nd innings,Australia,Canada,24.5,SR Watson,BJ Haddin,HS Baidwan,1,0,1,NA,0,NA,NA,NA,1
+433592,2nd innings,Australia,Canada,24.6,BJ Haddin,SR Watson,HS Baidwan,0,0,0,NA,0,NA,NA,NA,1
+433592,2nd innings,Australia,Canada,25.1,SR Watson,BJ Haddin,WD Balaji Rao,0,0,0,NA,0,NA,NA,NA,1
+433592,2nd innings,Australia,Canada,25.2,SR Watson,BJ Haddin,WD Balaji Rao,6,0,6,NA,0,NA,NA,NA,1
+433592,2nd innings,Australia,Canada,25.3,SR Watson,BJ Haddin,WD Balaji Rao,0,0,0,NA,0,NA,NA,NA,1
+433592,2nd innings,Australia,Canada,25.4,SR Watson,BJ Haddin,WD Balaji Rao,0,0,0,NA,0,NA,NA,NA,1
+433592,2nd innings,Australia,Canada,25.5,SR Watson,BJ Haddin,WD Balaji Rao,0,0,0,NA,0,NA,NA,NA,1
+433592,2nd innings,Australia,Canada,25.6,SR Watson,BJ Haddin,WD Balaji Rao,6,0,6,NA,0,NA,NA,NA,1
+433592,2nd innings,Australia,Canada,26.1,BJ Haddin,SR Watson,JM Davison,1,0,1,NA,0,NA,NA,NA,1
+433592,2nd innings,Australia,Canada,26.2,SR Watson,BJ Haddin,JM Davison,1,0,1,NA,0,NA,NA,NA,1
+433592,2nd innings,Australia,Canada,26.3,BJ Haddin,SR Watson,JM Davison,1,0,1,NA,0,NA,NA,NA,1
+433592,2nd innings,Australia,Canada,26.4,SR Watson,BJ Haddin,JM Davison,0,0,0,NA,0,NA,NA,NA,1
+433592,2nd innings,Australia,Canada,26.5,SR Watson,BJ Haddin,JM Davison,0,0,0,NA,0,NA,NA,NA,1
+433592,2nd innings,Australia,Canada,26.6,SR Watson,BJ Haddin,JM Davison,6,0,6,NA,0,NA,NA,NA,1
+433592,2nd innings,Australia,Canada,27.1,BJ Haddin,SR Watson,H Patel,0,0,0,NA,0,NA,NA,NA,1
+433592,2nd innings,Australia,Canada,27.2,BJ Haddin,SR Watson,H Patel,1,0,1,NA,0,NA,NA,NA,1
+433592,2nd innings,Australia,Canada,27.3,SR Watson,BJ Haddin,H Patel,6,0,6,NA,0,NA,NA,NA,1
+433592,2nd innings,Australia,Canada,27.4,SR Watson,BJ Haddin,H Patel,4,0,4,NA,0,NA,NA,NA,1
+433592,2nd innings,Australia,Canada,27.5,SR Watson,BJ Haddin,H Patel,4,0,4,NA,0,NA,NA,NA,1
+433592,2nd innings,Australia,Canada,27.6,SR Watson,BJ Haddin,H Patel,4,0,4,NA,0,NA,NA,NA,1
+433592,2nd innings,Australia,Canada,28.1,BJ Haddin,SR Watson,JM Davison,4,0,4,NA,0,NA,NA,NA,1
+433592,2nd innings,Australia,Canada,28.2,BJ Haddin,SR Watson,JM Davison,6,0,6,NA,0,NA,NA,NA,1
+433592,2nd innings,Australia,Canada,28.3,BJ Haddin,SR Watson,JM Davison,1,0,1,NA,0,NA,NA,NA,1
+433592,2nd innings,Australia,Canada,28.4,SR Watson,BJ Haddin,JM Davison,1,0,1,NA,0,NA,NA,NA,1
+433592,2nd innings,Australia,Canada,28.5,BJ Haddin,SR Watson,JM Davison,0,0,0,NA,1,caught,BJ Haddin,A Bagai,1
+433592,2nd innings,Australia,Canada,28.6,RT Ponting,SR Watson,JM Davison,1,0,1,NA,0,NA,NA,NA,1
+433592,2nd innings,Australia,Canada,29.1,RT Ponting,SR Watson,HS Baidwan,0,0,0,NA,0,NA,NA,NA,1
+433592,2nd innings,Australia,Canada,29.2,RT Ponting,SR Watson,HS Baidwan,1,0,1,NA,0,NA,NA,NA,1
+433592,2nd innings,Australia,Canada,29.3,SR Watson,RT Ponting,HS Baidwan,0,0,0,NA,1,caught,SR Watson,H Osinde,1
+433592,2nd innings,Australia,Canada,29.4,RT Ponting,MJ Clarke,HS Baidwan,0,0,0,NA,0,NA,NA,NA,1
+433592,2nd innings,Australia,Canada,29.5,RT Ponting,MJ Clarke,HS Baidwan,0,0,0,NA,0,NA,NA,NA,1
+433592,2nd innings,Australia,Canada,29.6,RT Ponting,MJ Clarke,HS Baidwan,0,0,0,NA,0,NA,NA,NA,1
+433592,2nd innings,Australia,Canada,30.1,MJ Clarke,RT Ponting,H Osinde,4,0,4,NA,0,NA,NA,NA,1
+433592,2nd innings,Australia,Canada,30.2,MJ Clarke,RT Ponting,H Osinde,0,0,0,NA,0,NA,NA,NA,1
+433592,2nd innings,Australia,Canada,30.3,MJ Clarke,RT Ponting,H Osinde,0,0,0,NA,0,NA,NA,NA,1
+433592,2nd innings,Australia,Canada,30.4,MJ Clarke,RT Ponting,H Osinde,0,0,0,NA,0,NA,NA,NA,1
+433592,2nd innings,Australia,Canada,30.5,MJ Clarke,RT Ponting,H Osinde,4,0,4,NA,0,NA,NA,NA,1
+433592,2nd innings,Australia,Canada,30.6,MJ Clarke,RT Ponting,H Osinde,0,0,0,NA,0,NA,NA,NA,1
+433592,2nd innings,Australia,Canada,31.1,RT Ponting,MJ Clarke,HS Baidwan,0,0,0,NA,0,NA,NA,NA,1
+433592,2nd innings,Australia,Canada,31.2,RT Ponting,MJ Clarke,HS Baidwan,1,0,1,NA,0,NA,NA,NA,1
+433592,2nd innings,Australia,Canada,31.3,MJ Clarke,RT Ponting,HS Baidwan,0,0,0,NA,0,NA,NA,NA,1
+433592,2nd innings,Australia,Canada,31.4,MJ Clarke,RT Ponting,HS Baidwan,0,0,0,NA,0,NA,NA,NA,1
+433592,2nd innings,Australia,Canada,31.5,MJ Clarke,RT Ponting,HS Baidwan,0,0,0,NA,0,NA,NA,NA,1
+433592,2nd innings,Australia,Canada,31.6,MJ Clarke,RT Ponting,HS Baidwan,0,0,0,NA,0,NA,NA,NA,1
+433592,2nd innings,Australia,Canada,32.1,RT Ponting,MJ Clarke,H Osinde,0,0,0,NA,0,NA,NA,NA,1
+433592,2nd innings,Australia,Canada,32.2,RT Ponting,MJ Clarke,H Osinde,1,0,1,NA,0,NA,NA,NA,1
+433592,2nd innings,Australia,Canada,32.3,MJ Clarke,RT Ponting,H Osinde,0,0,0,NA,0,NA,NA,NA,1
+433592,2nd innings,Australia,Canada,32.4,MJ Clarke,RT Ponting,H Osinde,1,0,1,NA,0,NA,NA,NA,1
+433592,2nd innings,Australia,Canada,32.5,RT Ponting,MJ Clarke,H Osinde,1,0,1,NA,0,NA,NA,NA,1
+433592,2nd innings,Australia,Canada,32.6,MJ Clarke,RT Ponting,H Osinde,0,1,1,wides,0,NA,NA,NA,1
+433592,2nd innings,Australia,Canada,32.7,MJ Clarke,RT Ponting,H Osinde,0,0,0,NA,0,NA,NA,NA,1
+433592,2nd innings,Australia,Canada,33.1,RT Ponting,MJ Clarke,WD Balaji Rao,1,0,1,NA,0,NA,NA,NA,1
+433592,2nd innings,Australia,Canada,33.2,MJ Clarke,RT Ponting,WD Balaji Rao,2,0,2,NA,0,NA,NA,NA,1
+433592,2nd innings,Australia,Canada,33.3,MJ Clarke,RT Ponting,WD Balaji Rao,0,0,0,NA,0,NA,NA,NA,1
+433592,2nd innings,Australia,Canada,33.4,MJ Clarke,RT Ponting,WD Balaji Rao,4,0,4,NA,0,NA,NA,NA,1
+433592,2nd innings,Australia,Canada,33.5,MJ Clarke,RT Ponting,WD Balaji Rao,1,0,1,NA,0,NA,NA,NA,1
+433592,2nd innings,Australia,Canada,33.6,RT Ponting,MJ Clarke,WD Balaji Rao,1,0,1,NA,0,NA,NA,NA,1
+433592,2nd innings,Australia,Canada,34.1,RT Ponting,MJ Clarke,H Osinde,0,0,0,NA,0,NA,NA,NA,1
+433592,2nd innings,Australia,Canada,34.2,RT Ponting,MJ Clarke,H Osinde,0,0,0,NA,1,caught,RT Ponting,JM Davison,1
+433592,2nd innings,Australia,Canada,34.3,CL White,MJ Clarke,H Osinde,0,0,0,NA,0,NA,NA,NA,1
+433592,2nd innings,Australia,Canada,34.4,CL White,MJ Clarke,H Osinde,0,0,0,NA,0,NA,NA,NA,1
+433592,2nd innings,Australia,Canada,34.5,CL White,MJ Clarke,H Osinde,4,0,4,NA,0,NA,NA,NA,1
+433592,2nd innings,Australia,Canada,34.6,CL White,MJ Clarke,H Osinde,0,1,1,wides,0,NA,NA,NA,1

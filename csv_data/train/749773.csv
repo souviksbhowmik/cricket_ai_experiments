@@ -1,0 +1,594 @@
+match_id,innings,team,opponent,ball,batsman,non_striker,bowler,scored_runs,extras,total,extra_type,wicket,wicket_type,player_out,fielders,winner
+749773,1st innings,South Africa,New Zealand,0.1,HM Amla,Q de Kock,TA Boult,0,1,1,wides,0,NA,NA,NA,1
+749773,1st innings,South Africa,New Zealand,0.2,HM Amla,Q de Kock,TA Boult,0,0,0,NA,0,NA,NA,NA,1
+749773,1st innings,South Africa,New Zealand,0.3,HM Amla,Q de Kock,TA Boult,3,0,3,NA,0,NA,NA,NA,1
+749773,1st innings,South Africa,New Zealand,0.4,Q de Kock,HM Amla,TA Boult,0,1,1,wides,0,NA,NA,NA,1
+749773,1st innings,South Africa,New Zealand,0.5,Q de Kock,HM Amla,TA Boult,0,0,0,NA,0,NA,NA,NA,1
+749773,1st innings,South Africa,New Zealand,0.6,Q de Kock,HM Amla,TA Boult,0,0,0,NA,0,NA,NA,NA,1
+749773,1st innings,South Africa,New Zealand,0.7,Q de Kock,HM Amla,TA Boult,2,0,2,NA,0,NA,NA,NA,1
+749773,1st innings,South Africa,New Zealand,0.8,Q de Kock,HM Amla,TA Boult,2,0,2,NA,0,NA,NA,NA,1
+749773,1st innings,South Africa,New Zealand,1.1,HM Amla,Q de Kock,TG Southee,0,0,0,NA,0,NA,NA,NA,1
+749773,1st innings,South Africa,New Zealand,1.2,HM Amla,Q de Kock,TG Southee,0,0,0,NA,0,NA,NA,NA,1
+749773,1st innings,South Africa,New Zealand,1.3,HM Amla,Q de Kock,TG Southee,0,0,0,NA,0,NA,NA,NA,1
+749773,1st innings,South Africa,New Zealand,1.4,HM Amla,Q de Kock,TG Southee,0,0,0,NA,0,NA,NA,NA,1
+749773,1st innings,South Africa,New Zealand,1.5,HM Amla,Q de Kock,TG Southee,0,0,0,NA,0,NA,NA,NA,1
+749773,1st innings,South Africa,New Zealand,1.6,HM Amla,Q de Kock,TG Southee,0,0,0,NA,0,NA,NA,NA,1
+749773,1st innings,South Africa,New Zealand,2.1,Q de Kock,HM Amla,TA Boult,0,0,0,NA,0,NA,NA,NA,1
+749773,1st innings,South Africa,New Zealand,2.2,Q de Kock,HM Amla,TA Boult,1,0,1,NA,0,NA,NA,NA,1
+749773,1st innings,South Africa,New Zealand,2.3,HM Amla,Q de Kock,TA Boult,0,0,0,NA,0,NA,NA,NA,1
+749773,1st innings,South Africa,New Zealand,2.4,HM Amla,Q de Kock,TA Boult,0,0,0,NA,0,NA,NA,NA,1
+749773,1st innings,South Africa,New Zealand,2.5,HM Amla,Q de Kock,TA Boult,0,0,0,NA,0,NA,NA,NA,1
+749773,1st innings,South Africa,New Zealand,2.6,HM Amla,Q de Kock,TA Boult,0,0,0,NA,0,NA,NA,NA,1
+749773,1st innings,South Africa,New Zealand,3.1,Q de Kock,HM Amla,TG Southee,1,0,1,NA,0,NA,NA,NA,1
+749773,1st innings,South Africa,New Zealand,3.2,HM Amla,Q de Kock,TG Southee,0,0,0,NA,0,NA,NA,NA,1
+749773,1st innings,South Africa,New Zealand,3.3,HM Amla,Q de Kock,TG Southee,1,0,1,NA,0,NA,NA,NA,1
+749773,1st innings,South Africa,New Zealand,3.4,Q de Kock,HM Amla,TG Southee,0,0,0,NA,0,NA,NA,NA,1
+749773,1st innings,South Africa,New Zealand,3.5,Q de Kock,HM Amla,TG Southee,1,0,1,NA,0,NA,NA,NA,1
+749773,1st innings,South Africa,New Zealand,3.6,HM Amla,Q de Kock,TG Southee,0,0,0,NA,0,NA,NA,NA,1
+749773,1st innings,South Africa,New Zealand,4.1,Q de Kock,HM Amla,TA Boult,0,0,0,NA,0,NA,NA,NA,1
+749773,1st innings,South Africa,New Zealand,4.2,Q de Kock,HM Amla,TA Boult,0,0,0,NA,0,NA,NA,NA,1
+749773,1st innings,South Africa,New Zealand,4.3,Q de Kock,HM Amla,TA Boult,0,0,0,NA,0,NA,NA,NA,1
+749773,1st innings,South Africa,New Zealand,4.4,Q de Kock,HM Amla,TA Boult,0,0,0,NA,0,NA,NA,NA,1
+749773,1st innings,South Africa,New Zealand,4.5,Q de Kock,HM Amla,TA Boult,2,0,2,NA,0,NA,NA,NA,1
+749773,1st innings,South Africa,New Zealand,4.6,Q de Kock,HM Amla,TA Boult,0,0,0,NA,0,NA,NA,NA,1
+749773,1st innings,South Africa,New Zealand,5.1,HM Amla,Q de Kock,TG Southee,4,0,4,NA,0,NA,NA,NA,1
+749773,1st innings,South Africa,New Zealand,5.2,HM Amla,Q de Kock,TG Southee,0,0,0,NA,0,NA,NA,NA,1
+749773,1st innings,South Africa,New Zealand,5.3,HM Amla,Q de Kock,TG Southee,3,0,3,NA,0,NA,NA,NA,1
+749773,1st innings,South Africa,New Zealand,5.4,Q de Kock,HM Amla,TG Southee,0,0,0,NA,0,NA,NA,NA,1
+749773,1st innings,South Africa,New Zealand,5.5,Q de Kock,HM Amla,TG Southee,4,0,4,NA,0,NA,NA,NA,1
+749773,1st innings,South Africa,New Zealand,5.6,Q de Kock,HM Amla,TG Southee,0,0,0,NA,0,NA,NA,NA,1
+749773,1st innings,South Africa,New Zealand,6.1,HM Amla,Q de Kock,TA Boult,0,0,0,NA,0,NA,NA,NA,1
+749773,1st innings,South Africa,New Zealand,6.2,HM Amla,Q de Kock,TA Boult,1,0,1,NA,0,NA,NA,NA,1
+749773,1st innings,South Africa,New Zealand,6.3,Q de Kock,HM Amla,TA Boult,0,0,0,NA,0,NA,NA,NA,1
+749773,1st innings,South Africa,New Zealand,6.4,Q de Kock,HM Amla,TA Boult,0,0,0,NA,0,NA,NA,NA,1
+749773,1st innings,South Africa,New Zealand,6.5,Q de Kock,HM Amla,TA Boult,4,0,4,NA,0,NA,NA,NA,1
+749773,1st innings,South Africa,New Zealand,6.6,Q de Kock,HM Amla,TA Boult,0,0,0,NA,0,NA,NA,NA,1
+749773,1st innings,South Africa,New Zealand,7.1,HM Amla,Q de Kock,TG Southee,0,0,0,NA,0,NA,NA,NA,1
+749773,1st innings,South Africa,New Zealand,7.2,HM Amla,Q de Kock,TG Southee,0,0,0,NA,0,NA,NA,NA,1
+749773,1st innings,South Africa,New Zealand,7.3,HM Amla,Q de Kock,TG Southee,0,0,0,NA,0,NA,NA,NA,1
+749773,1st innings,South Africa,New Zealand,7.4,HM Amla,Q de Kock,TG Southee,0,0,0,NA,0,NA,NA,NA,1
+749773,1st innings,South Africa,New Zealand,7.5,HM Amla,Q de Kock,TG Southee,2,0,2,NA,0,NA,NA,NA,1
+749773,1st innings,South Africa,New Zealand,7.6,HM Amla,Q de Kock,TG Southee,0,0,0,NA,0,NA,NA,NA,1
+749773,1st innings,South Africa,New Zealand,8.1,Q de Kock,HM Amla,MJ McClenaghan,0,0,0,NA,0,NA,NA,NA,1
+749773,1st innings,South Africa,New Zealand,8.2,Q de Kock,HM Amla,MJ McClenaghan,0,0,0,NA,0,NA,NA,NA,1
+749773,1st innings,South Africa,New Zealand,8.3,Q de Kock,HM Amla,MJ McClenaghan,1,0,1,NA,0,NA,NA,NA,1
+749773,1st innings,South Africa,New Zealand,8.4,HM Amla,Q de Kock,MJ McClenaghan,0,0,0,NA,0,NA,NA,NA,1
+749773,1st innings,South Africa,New Zealand,8.5,HM Amla,Q de Kock,MJ McClenaghan,0,0,0,NA,0,NA,NA,NA,1
+749773,1st innings,South Africa,New Zealand,8.6,HM Amla,Q de Kock,MJ McClenaghan,1,0,1,NA,0,NA,NA,NA,1
+749773,1st innings,South Africa,New Zealand,9.1,HM Amla,Q de Kock,TG Southee,4,0,4,NA,0,NA,NA,NA,1
+749773,1st innings,South Africa,New Zealand,9.2,HM Amla,Q de Kock,TG Southee,1,0,1,NA,0,NA,NA,NA,1
+749773,1st innings,South Africa,New Zealand,9.3,Q de Kock,HM Amla,TG Southee,1,0,1,NA,0,NA,NA,NA,1
+749773,1st innings,South Africa,New Zealand,9.4,HM Amla,Q de Kock,TG Southee,0,0,0,NA,0,NA,NA,NA,1
+749773,1st innings,South Africa,New Zealand,9.5,HM Amla,Q de Kock,TG Southee,0,0,0,NA,0,NA,NA,NA,1
+749773,1st innings,South Africa,New Zealand,9.6,HM Amla,Q de Kock,TG Southee,0,0,0,NA,0,NA,NA,NA,1
+749773,1st innings,South Africa,New Zealand,10.1,Q de Kock,HM Amla,MJ McClenaghan,4,0,4,NA,0,NA,NA,NA,1
+749773,1st innings,South Africa,New Zealand,10.2,Q de Kock,HM Amla,MJ McClenaghan,0,0,0,NA,0,NA,NA,NA,1
+749773,1st innings,South Africa,New Zealand,10.3,Q de Kock,HM Amla,MJ McClenaghan,1,0,1,NA,0,NA,NA,NA,1
+749773,1st innings,South Africa,New Zealand,10.4,HM Amla,Q de Kock,MJ McClenaghan,0,0,0,NA,0,NA,NA,NA,1
+749773,1st innings,South Africa,New Zealand,10.5,HM Amla,Q de Kock,MJ McClenaghan,0,0,0,NA,0,NA,NA,NA,1
+749773,1st innings,South Africa,New Zealand,10.6,HM Amla,Q de Kock,MJ McClenaghan,1,0,1,NA,0,NA,NA,NA,1
+749773,1st innings,South Africa,New Zealand,11.1,HM Amla,Q de Kock,CJ Anderson,0,0,0,NA,0,NA,NA,NA,1
+749773,1st innings,South Africa,New Zealand,11.2,HM Amla,Q de Kock,CJ Anderson,4,0,4,NA,0,NA,NA,NA,1
+749773,1st innings,South Africa,New Zealand,11.3,HM Amla,Q de Kock,CJ Anderson,0,0,0,NA,0,NA,NA,NA,1
+749773,1st innings,South Africa,New Zealand,11.4,HM Amla,Q de Kock,CJ Anderson,1,0,1,NA,0,NA,NA,NA,1
+749773,1st innings,South Africa,New Zealand,11.5,Q de Kock,HM Amla,CJ Anderson,1,0,1,NA,0,NA,NA,NA,1
+749773,1st innings,South Africa,New Zealand,11.6,HM Amla,Q de Kock,CJ Anderson,0,0,0,NA,0,NA,NA,NA,1
+749773,1st innings,South Africa,New Zealand,12.1,Q de Kock,HM Amla,MJ McClenaghan,0,1,1,noballs,0,NA,NA,NA,1
+749773,1st innings,South Africa,New Zealand,12.2,Q de Kock,HM Amla,MJ McClenaghan,1,0,1,NA,0,NA,NA,NA,1
+749773,1st innings,South Africa,New Zealand,12.3,HM Amla,Q de Kock,MJ McClenaghan,1,0,1,NA,0,NA,NA,NA,1
+749773,1st innings,South Africa,New Zealand,12.4,Q de Kock,HM Amla,MJ McClenaghan,0,0,0,NA,1,bowled,Q de Kock,NA,1
+749773,1st innings,South Africa,New Zealand,12.5,F du Plessis,HM Amla,MJ McClenaghan,1,0,1,NA,0,NA,NA,NA,1
+749773,1st innings,South Africa,New Zealand,12.6,HM Amla,F du Plessis,MJ McClenaghan,0,0,0,NA,0,NA,NA,NA,1
+749773,1st innings,South Africa,New Zealand,12.7,HM Amla,F du Plessis,MJ McClenaghan,0,1,1,wides,0,NA,NA,NA,1
+749773,1st innings,South Africa,New Zealand,12.8,HM Amla,F du Plessis,MJ McClenaghan,0,0,0,NA,0,NA,NA,NA,1
+749773,1st innings,South Africa,New Zealand,13.1,F du Plessis,HM Amla,TA Boult,0,0,0,NA,0,NA,NA,NA,1
+749773,1st innings,South Africa,New Zealand,13.2,F du Plessis,HM Amla,TA Boult,0,0,0,NA,0,NA,NA,NA,1
+749773,1st innings,South Africa,New Zealand,13.3,F du Plessis,HM Amla,TA Boult,0,0,0,NA,0,NA,NA,NA,1
+749773,1st innings,South Africa,New Zealand,13.4,F du Plessis,HM Amla,TA Boult,2,0,2,NA,0,NA,NA,NA,1
+749773,1st innings,South Africa,New Zealand,13.5,F du Plessis,HM Amla,TA Boult,0,0,0,NA,0,NA,NA,NA,1
+749773,1st innings,South Africa,New Zealand,13.6,F du Plessis,HM Amla,TA Boult,4,0,4,NA,0,NA,NA,NA,1
+749773,1st innings,South Africa,New Zealand,14.1,HM Amla,F du Plessis,MJ McClenaghan,2,0,2,NA,0,NA,NA,NA,1
+749773,1st innings,South Africa,New Zealand,14.2,HM Amla,F du Plessis,MJ McClenaghan,1,0,1,NA,0,NA,NA,NA,1
+749773,1st innings,South Africa,New Zealand,14.3,F du Plessis,HM Amla,MJ McClenaghan,3,0,3,NA,0,NA,NA,NA,1
+749773,1st innings,South Africa,New Zealand,14.4,HM Amla,F du Plessis,MJ McClenaghan,1,0,1,NA,0,NA,NA,NA,1
+749773,1st innings,South Africa,New Zealand,14.5,F du Plessis,HM Amla,MJ McClenaghan,0,0,0,NA,0,NA,NA,NA,1
+749773,1st innings,South Africa,New Zealand,14.6,F du Plessis,HM Amla,MJ McClenaghan,0,0,0,NA,0,NA,NA,NA,1
+749773,1st innings,South Africa,New Zealand,15.1,HM Amla,F du Plessis,TA Boult,0,0,0,NA,0,NA,NA,NA,1
+749773,1st innings,South Africa,New Zealand,15.2,HM Amla,F du Plessis,TA Boult,4,0,4,NA,0,NA,NA,NA,1
+749773,1st innings,South Africa,New Zealand,15.3,HM Amla,F du Plessis,TA Boult,4,0,4,NA,0,NA,NA,NA,1
+749773,1st innings,South Africa,New Zealand,15.4,HM Amla,F du Plessis,TA Boult,0,0,0,NA,0,NA,NA,NA,1
+749773,1st innings,South Africa,New Zealand,15.5,HM Amla,F du Plessis,TA Boult,1,0,1,NA,0,NA,NA,NA,1
+749773,1st innings,South Africa,New Zealand,15.6,F du Plessis,HM Amla,TA Boult,1,0,1,NA,0,NA,NA,NA,1
+749773,1st innings,South Africa,New Zealand,16.1,F du Plessis,HM Amla,DL Vettori,0,0,0,NA,0,NA,NA,NA,1
+749773,1st innings,South Africa,New Zealand,16.2,F du Plessis,HM Amla,DL Vettori,1,0,1,NA,0,NA,NA,NA,1
+749773,1st innings,South Africa,New Zealand,16.3,HM Amla,F du Plessis,DL Vettori,0,0,0,NA,0,NA,NA,NA,1
+749773,1st innings,South Africa,New Zealand,16.4,HM Amla,F du Plessis,DL Vettori,0,0,0,NA,0,NA,NA,NA,1
+749773,1st innings,South Africa,New Zealand,16.5,HM Amla,F du Plessis,DL Vettori,0,0,0,NA,0,NA,NA,NA,1
+749773,1st innings,South Africa,New Zealand,16.6,HM Amla,F du Plessis,DL Vettori,0,0,0,NA,0,NA,NA,NA,1
+749773,1st innings,South Africa,New Zealand,17.1,F du Plessis,HM Amla,JDS Neesham,1,0,1,NA,0,NA,NA,NA,1
+749773,1st innings,South Africa,New Zealand,17.2,HM Amla,F du Plessis,JDS Neesham,1,0,1,NA,0,NA,NA,NA,1
+749773,1st innings,South Africa,New Zealand,17.3,F du Plessis,HM Amla,JDS Neesham,0,0,0,NA,0,NA,NA,NA,1
+749773,1st innings,South Africa,New Zealand,17.4,F du Plessis,HM Amla,JDS Neesham,0,0,0,NA,0,NA,NA,NA,1
+749773,1st innings,South Africa,New Zealand,17.5,F du Plessis,HM Amla,JDS Neesham,3,0,3,NA,0,NA,NA,NA,1
+749773,1st innings,South Africa,New Zealand,17.6,HM Amla,F du Plessis,JDS Neesham,1,0,1,NA,0,NA,NA,NA,1
+749773,1st innings,South Africa,New Zealand,18.1,HM Amla,F du Plessis,DL Vettori,0,0,0,NA,0,NA,NA,NA,1
+749773,1st innings,South Africa,New Zealand,18.2,HM Amla,F du Plessis,DL Vettori,0,0,0,NA,0,NA,NA,NA,1
+749773,1st innings,South Africa,New Zealand,18.3,HM Amla,F du Plessis,DL Vettori,0,0,0,NA,0,NA,NA,NA,1
+749773,1st innings,South Africa,New Zealand,18.4,HM Amla,F du Plessis,DL Vettori,0,0,0,NA,0,NA,NA,NA,1
+749773,1st innings,South Africa,New Zealand,18.5,HM Amla,F du Plessis,DL Vettori,4,0,4,NA,0,NA,NA,NA,1
+749773,1st innings,South Africa,New Zealand,18.6,HM Amla,F du Plessis,DL Vettori,1,0,1,NA,0,NA,NA,NA,1
+749773,1st innings,South Africa,New Zealand,19.1,HM Amla,F du Plessis,JDS Neesham,0,0,0,NA,0,NA,NA,NA,1
+749773,1st innings,South Africa,New Zealand,19.2,HM Amla,F du Plessis,JDS Neesham,1,0,1,NA,0,NA,NA,NA,1
+749773,1st innings,South Africa,New Zealand,19.3,F du Plessis,HM Amla,JDS Neesham,6,0,6,NA,0,NA,NA,NA,1
+749773,1st innings,South Africa,New Zealand,19.4,F du Plessis,HM Amla,JDS Neesham,4,0,4,NA,0,NA,NA,NA,1
+749773,1st innings,South Africa,New Zealand,19.5,F du Plessis,HM Amla,JDS Neesham,0,0,0,NA,0,NA,NA,NA,1
+749773,1st innings,South Africa,New Zealand,19.6,F du Plessis,HM Amla,JDS Neesham,1,0,1,NA,0,NA,NA,NA,1
+749773,1st innings,South Africa,New Zealand,20.1,F du Plessis,HM Amla,DL Vettori,1,0,1,NA,0,NA,NA,NA,1
+749773,1st innings,South Africa,New Zealand,20.2,HM Amla,F du Plessis,DL Vettori,1,0,1,NA,0,NA,NA,NA,1
+749773,1st innings,South Africa,New Zealand,20.3,F du Plessis,HM Amla,DL Vettori,0,0,0,NA,0,NA,NA,NA,1
+749773,1st innings,South Africa,New Zealand,20.4,F du Plessis,HM Amla,DL Vettori,0,0,0,NA,0,NA,NA,NA,1
+749773,1st innings,South Africa,New Zealand,20.5,F du Plessis,HM Amla,DL Vettori,0,0,0,NA,0,NA,NA,NA,1
+749773,1st innings,South Africa,New Zealand,20.6,F du Plessis,HM Amla,DL Vettori,1,0,1,NA,0,NA,NA,NA,1
+749773,1st innings,South Africa,New Zealand,21.1,F du Plessis,HM Amla,TG Southee,0,0,0,NA,0,NA,NA,NA,1
+749773,1st innings,South Africa,New Zealand,21.2,F du Plessis,HM Amla,TG Southee,0,0,0,NA,0,NA,NA,NA,1
+749773,1st innings,South Africa,New Zealand,21.3,F du Plessis,HM Amla,TG Southee,2,0,2,NA,0,NA,NA,NA,1
+749773,1st innings,South Africa,New Zealand,21.4,F du Plessis,HM Amla,TG Southee,0,0,0,NA,0,NA,NA,NA,1
+749773,1st innings,South Africa,New Zealand,21.5,F du Plessis,HM Amla,TG Southee,1,0,1,NA,0,NA,NA,NA,1
+749773,1st innings,South Africa,New Zealand,21.6,HM Amla,F du Plessis,TG Southee,4,0,4,NA,0,NA,NA,NA,1
+749773,1st innings,South Africa,New Zealand,22.1,F du Plessis,HM Amla,DL Vettori,1,0,1,NA,0,NA,NA,NA,1
+749773,1st innings,South Africa,New Zealand,22.2,HM Amla,F du Plessis,DL Vettori,1,0,1,NA,0,NA,NA,NA,1
+749773,1st innings,South Africa,New Zealand,22.3,F du Plessis,HM Amla,DL Vettori,2,0,2,NA,0,NA,NA,NA,1
+749773,1st innings,South Africa,New Zealand,22.4,F du Plessis,HM Amla,DL Vettori,0,0,0,NA,0,NA,NA,NA,1
+749773,1st innings,South Africa,New Zealand,22.5,F du Plessis,HM Amla,DL Vettori,0,0,0,NA,0,NA,NA,NA,1
+749773,1st innings,South Africa,New Zealand,22.6,F du Plessis,HM Amla,DL Vettori,0,0,0,NA,0,NA,NA,NA,1
+749773,1st innings,South Africa,New Zealand,23.1,HM Amla,F du Plessis,TG Southee,1,0,1,NA,0,NA,NA,NA,1
+749773,1st innings,South Africa,New Zealand,23.2,F du Plessis,HM Amla,TG Southee,1,0,1,NA,0,NA,NA,NA,1
+749773,1st innings,South Africa,New Zealand,23.3,HM Amla,F du Plessis,TG Southee,0,0,0,NA,0,NA,NA,NA,1
+749773,1st innings,South Africa,New Zealand,23.4,HM Amla,F du Plessis,TG Southee,1,0,1,NA,0,NA,NA,NA,1
+749773,1st innings,South Africa,New Zealand,23.5,F du Plessis,HM Amla,TG Southee,1,0,1,NA,0,NA,NA,NA,1
+749773,1st innings,South Africa,New Zealand,23.6,HM Amla,F du Plessis,TG Southee,0,0,0,NA,0,NA,NA,NA,1
+749773,1st innings,South Africa,New Zealand,24.1,F du Plessis,HM Amla,DL Vettori,1,0,1,NA,0,NA,NA,NA,1
+749773,1st innings,South Africa,New Zealand,24.2,HM Amla,F du Plessis,DL Vettori,1,0,1,NA,0,NA,NA,NA,1
+749773,1st innings,South Africa,New Zealand,24.3,F du Plessis,HM Amla,DL Vettori,0,0,0,NA,0,NA,NA,NA,1
+749773,1st innings,South Africa,New Zealand,24.4,F du Plessis,HM Amla,DL Vettori,1,0,1,NA,0,NA,NA,NA,1
+749773,1st innings,South Africa,New Zealand,24.5,HM Amla,F du Plessis,DL Vettori,1,0,1,NA,0,NA,NA,NA,1
+749773,1st innings,South Africa,New Zealand,24.6,F du Plessis,HM Amla,DL Vettori,0,0,0,NA,0,NA,NA,NA,1
+749773,1st innings,South Africa,New Zealand,25.1,HM Amla,F du Plessis,MJ McClenaghan,0,0,0,NA,0,NA,NA,NA,1
+749773,1st innings,South Africa,New Zealand,25.2,HM Amla,F du Plessis,MJ McClenaghan,1,0,1,NA,0,NA,NA,NA,1
+749773,1st innings,South Africa,New Zealand,25.3,F du Plessis,HM Amla,MJ McClenaghan,0,0,0,NA,0,NA,NA,NA,1
+749773,1st innings,South Africa,New Zealand,25.4,F du Plessis,HM Amla,MJ McClenaghan,1,0,1,NA,0,NA,NA,NA,1
+749773,1st innings,South Africa,New Zealand,25.5,HM Amla,F du Plessis,MJ McClenaghan,0,0,0,NA,0,NA,NA,NA,1
+749773,1st innings,South Africa,New Zealand,25.6,HM Amla,F du Plessis,MJ McClenaghan,1,1,2,noballs,0,NA,NA,NA,1
+749773,1st innings,South Africa,New Zealand,25.7,F du Plessis,HM Amla,MJ McClenaghan,2,0,2,NA,0,NA,NA,NA,1
+749773,1st innings,South Africa,New Zealand,26.1,HM Amla,F du Plessis,DL Vettori,0,0,0,NA,0,NA,NA,NA,1
+749773,1st innings,South Africa,New Zealand,26.2,HM Amla,F du Plessis,DL Vettori,0,0,0,NA,0,NA,NA,NA,1
+749773,1st innings,South Africa,New Zealand,26.3,HM Amla,F du Plessis,DL Vettori,1,0,1,NA,0,NA,NA,NA,1
+749773,1st innings,South Africa,New Zealand,26.4,F du Plessis,HM Amla,DL Vettori,0,0,0,NA,0,NA,NA,NA,1
+749773,1st innings,South Africa,New Zealand,26.5,F du Plessis,HM Amla,DL Vettori,0,0,0,NA,0,NA,NA,NA,1
+749773,1st innings,South Africa,New Zealand,26.6,F du Plessis,HM Amla,DL Vettori,1,0,1,NA,0,NA,NA,NA,1
+749773,1st innings,South Africa,New Zealand,27.1,F du Plessis,HM Amla,MJ McClenaghan,4,0,4,NA,0,NA,NA,NA,1
+749773,1st innings,South Africa,New Zealand,27.2,F du Plessis,HM Amla,MJ McClenaghan,0,0,0,NA,0,NA,NA,NA,1
+749773,1st innings,South Africa,New Zealand,27.3,F du Plessis,HM Amla,MJ McClenaghan,2,0,2,NA,0,NA,NA,NA,1
+749773,1st innings,South Africa,New Zealand,27.4,F du Plessis,HM Amla,MJ McClenaghan,1,0,1,NA,0,NA,NA,NA,1
+749773,1st innings,South Africa,New Zealand,27.5,HM Amla,F du Plessis,MJ McClenaghan,0,0,0,NA,0,NA,NA,NA,1
+749773,1st innings,South Africa,New Zealand,27.6,HM Amla,F du Plessis,MJ McClenaghan,0,0,0,NA,0,NA,NA,NA,1
+749773,1st innings,South Africa,New Zealand,28.1,F du Plessis,HM Amla,DL Vettori,0,0,0,NA,0,NA,NA,NA,1
+749773,1st innings,South Africa,New Zealand,28.2,F du Plessis,HM Amla,DL Vettori,0,0,0,NA,0,NA,NA,NA,1
+749773,1st innings,South Africa,New Zealand,28.3,F du Plessis,HM Amla,DL Vettori,0,0,0,NA,0,NA,NA,NA,1
+749773,1st innings,South Africa,New Zealand,28.4,F du Plessis,HM Amla,DL Vettori,1,0,1,NA,0,NA,NA,NA,1
+749773,1st innings,South Africa,New Zealand,28.5,HM Amla,F du Plessis,DL Vettori,1,0,1,NA,0,NA,NA,NA,1
+749773,1st innings,South Africa,New Zealand,28.6,F du Plessis,HM Amla,DL Vettori,1,0,1,NA,0,NA,NA,NA,1
+749773,1st innings,South Africa,New Zealand,29.1,F du Plessis,HM Amla,CJ Anderson,1,0,1,NA,0,NA,NA,NA,1
+749773,1st innings,South Africa,New Zealand,29.2,HM Amla,F du Plessis,CJ Anderson,1,0,1,NA,0,NA,NA,NA,1
+749773,1st innings,South Africa,New Zealand,29.3,F du Plessis,HM Amla,CJ Anderson,6,0,6,NA,0,NA,NA,NA,1
+749773,1st innings,South Africa,New Zealand,29.4,F du Plessis,HM Amla,CJ Anderson,1,0,1,NA,0,NA,NA,NA,1
+749773,1st innings,South Africa,New Zealand,29.5,HM Amla,F du Plessis,CJ Anderson,1,0,1,NA,0,NA,NA,NA,1
+749773,1st innings,South Africa,New Zealand,29.6,F du Plessis,HM Amla,CJ Anderson,1,0,1,NA,0,NA,NA,NA,1
+749773,1st innings,South Africa,New Zealand,30.1,F du Plessis,HM Amla,DL Vettori,0,0,0,NA,0,NA,NA,NA,1
+749773,1st innings,South Africa,New Zealand,30.2,F du Plessis,HM Amla,DL Vettori,0,0,0,NA,0,NA,NA,NA,1
+749773,1st innings,South Africa,New Zealand,30.3,F du Plessis,HM Amla,DL Vettori,0,0,0,NA,0,NA,NA,NA,1
+749773,1st innings,South Africa,New Zealand,30.4,F du Plessis,HM Amla,DL Vettori,1,0,1,NA,0,NA,NA,NA,1
+749773,1st innings,South Africa,New Zealand,30.5,HM Amla,F du Plessis,DL Vettori,1,0,1,NA,0,NA,NA,NA,1
+749773,1st innings,South Africa,New Zealand,30.6,F du Plessis,HM Amla,DL Vettori,1,0,1,NA,0,NA,NA,NA,1
+749773,1st innings,South Africa,New Zealand,31.1,F du Plessis,HM Amla,MJ Guptill,1,0,1,NA,0,NA,NA,NA,1
+749773,1st innings,South Africa,New Zealand,31.2,HM Amla,F du Plessis,MJ Guptill,1,0,1,NA,0,NA,NA,NA,1
+749773,1st innings,South Africa,New Zealand,31.3,F du Plessis,HM Amla,MJ Guptill,1,0,1,NA,0,NA,NA,NA,1
+749773,1st innings,South Africa,New Zealand,31.4,HM Amla,F du Plessis,MJ Guptill,1,0,1,NA,0,NA,NA,NA,1
+749773,1st innings,South Africa,New Zealand,31.5,F du Plessis,HM Amla,MJ Guptill,0,0,0,NA,0,NA,NA,NA,1
+749773,1st innings,South Africa,New Zealand,31.6,F du Plessis,HM Amla,MJ Guptill,1,0,1,NA,0,NA,NA,NA,1
+749773,1st innings,South Africa,New Zealand,32.1,F du Plessis,HM Amla,DL Vettori,0,0,0,NA,0,NA,NA,NA,1
+749773,1st innings,South Africa,New Zealand,32.2,F du Plessis,HM Amla,DL Vettori,1,0,1,NA,0,NA,NA,NA,1
+749773,1st innings,South Africa,New Zealand,32.3,HM Amla,F du Plessis,DL Vettori,0,0,0,NA,0,NA,NA,NA,1
+749773,1st innings,South Africa,New Zealand,32.4,HM Amla,F du Plessis,DL Vettori,4,0,4,NA,0,NA,NA,NA,1
+749773,1st innings,South Africa,New Zealand,32.5,HM Amla,F du Plessis,DL Vettori,0,0,0,NA,0,NA,NA,NA,1
+749773,1st innings,South Africa,New Zealand,32.6,HM Amla,F du Plessis,DL Vettori,0,0,0,NA,0,NA,NA,NA,1
+749773,1st innings,South Africa,New Zealand,33.1,F du Plessis,HM Amla,JDS Neesham,0,0,0,NA,1,caught,F du Plessis,L Ronchi,1
+749773,1st innings,South Africa,New Zealand,33.2,AB de Villiers,HM Amla,JDS Neesham,1,0,1,NA,0,NA,NA,NA,1
+749773,1st innings,South Africa,New Zealand,33.3,HM Amla,AB de Villiers,JDS Neesham,1,0,1,NA,0,NA,NA,NA,1
+749773,1st innings,South Africa,New Zealand,33.4,AB de Villiers,HM Amla,JDS Neesham,1,0,1,NA,0,NA,NA,NA,1
+749773,1st innings,South Africa,New Zealand,33.5,HM Amla,AB de Villiers,JDS Neesham,0,0,0,NA,0,NA,NA,NA,1
+749773,1st innings,South Africa,New Zealand,33.6,HM Amla,AB de Villiers,JDS Neesham,1,0,1,NA,0,NA,NA,NA,1
+749773,1st innings,South Africa,New Zealand,34.1,HM Amla,AB de Villiers,DL Vettori,1,0,1,NA,0,NA,NA,NA,1
+749773,1st innings,South Africa,New Zealand,34.2,AB de Villiers,HM Amla,DL Vettori,4,0,4,NA,0,NA,NA,NA,1
+749773,1st innings,South Africa,New Zealand,34.3,AB de Villiers,HM Amla,DL Vettori,1,0,1,NA,0,NA,NA,NA,1
+749773,1st innings,South Africa,New Zealand,34.4,HM Amla,AB de Villiers,DL Vettori,4,0,4,NA,0,NA,NA,NA,1
+749773,1st innings,South Africa,New Zealand,34.5,HM Amla,AB de Villiers,DL Vettori,1,0,1,NA,0,NA,NA,NA,1
+749773,1st innings,South Africa,New Zealand,34.6,AB de Villiers,HM Amla,DL Vettori,0,0,0,NA,0,NA,NA,NA,1
+749773,1st innings,South Africa,New Zealand,35.1,HM Amla,AB de Villiers,CJ Anderson,0,0,0,NA,0,NA,NA,NA,1
+749773,1st innings,South Africa,New Zealand,35.2,HM Amla,AB de Villiers,CJ Anderson,1,0,1,NA,0,NA,NA,NA,1
+749773,1st innings,South Africa,New Zealand,35.3,AB de Villiers,HM Amla,CJ Anderson,4,0,4,NA,0,NA,NA,NA,1
+749773,1st innings,South Africa,New Zealand,35.4,AB de Villiers,HM Amla,CJ Anderson,6,0,6,NA,0,NA,NA,NA,1
+749773,1st innings,South Africa,New Zealand,35.5,AB de Villiers,HM Amla,CJ Anderson,1,0,1,NA,0,NA,NA,NA,1
+749773,1st innings,South Africa,New Zealand,35.6,HM Amla,AB de Villiers,CJ Anderson,1,0,1,NA,0,NA,NA,NA,1
+749773,1st innings,South Africa,New Zealand,36.1,HM Amla,AB de Villiers,MJ McClenaghan,0,0,0,NA,0,NA,NA,NA,1
+749773,1st innings,South Africa,New Zealand,36.2,HM Amla,AB de Villiers,MJ McClenaghan,1,0,1,NA,0,NA,NA,NA,1
+749773,1st innings,South Africa,New Zealand,36.3,AB de Villiers,HM Amla,MJ McClenaghan,0,0,0,NA,0,NA,NA,NA,1
+749773,1st innings,South Africa,New Zealand,36.4,AB de Villiers,HM Amla,MJ McClenaghan,1,0,1,NA,0,NA,NA,NA,1
+749773,1st innings,South Africa,New Zealand,36.5,HM Amla,AB de Villiers,MJ McClenaghan,0,0,0,NA,0,NA,NA,NA,1
+749773,1st innings,South Africa,New Zealand,36.6,HM Amla,AB de Villiers,MJ McClenaghan,0,0,0,NA,0,NA,NA,NA,1
+749773,1st innings,South Africa,New Zealand,37.1,AB de Villiers,HM Amla,JDS Neesham,1,0,1,NA,0,NA,NA,NA,1
+749773,1st innings,South Africa,New Zealand,37.2,HM Amla,AB de Villiers,JDS Neesham,4,0,4,NA,0,NA,NA,NA,1
+749773,1st innings,South Africa,New Zealand,37.3,HM Amla,AB de Villiers,JDS Neesham,0,0,0,NA,0,NA,NA,NA,1
+749773,1st innings,South Africa,New Zealand,37.4,HM Amla,AB de Villiers,JDS Neesham,4,0,4,NA,0,NA,NA,NA,1
+749773,1st innings,South Africa,New Zealand,37.5,HM Amla,AB de Villiers,JDS Neesham,0,0,0,NA,0,NA,NA,NA,1
+749773,1st innings,South Africa,New Zealand,37.6,HM Amla,AB de Villiers,JDS Neesham,1,0,1,NA,0,NA,NA,NA,1
+749773,1st innings,South Africa,New Zealand,38.1,HM Amla,AB de Villiers,MJ McClenaghan,0,0,0,NA,0,NA,NA,NA,1
+749773,1st innings,South Africa,New Zealand,38.2,HM Amla,AB de Villiers,MJ McClenaghan,1,0,1,NA,0,NA,NA,NA,1
+749773,1st innings,South Africa,New Zealand,38.3,AB de Villiers,HM Amla,MJ McClenaghan,4,0,4,NA,0,NA,NA,NA,1
+749773,1st innings,South Africa,New Zealand,38.4,AB de Villiers,HM Amla,MJ McClenaghan,0,0,0,NA,0,NA,NA,NA,1
+749773,1st innings,South Africa,New Zealand,38.5,AB de Villiers,HM Amla,MJ McClenaghan,0,0,0,NA,0,NA,NA,NA,1
+749773,1st innings,South Africa,New Zealand,38.6,AB de Villiers,HM Amla,MJ McClenaghan,1,0,1,NA,0,NA,NA,NA,1
+749773,1st innings,South Africa,New Zealand,39.1,AB de Villiers,HM Amla,TA Boult,1,0,1,NA,0,NA,NA,NA,1
+749773,1st innings,South Africa,New Zealand,39.2,HM Amla,AB de Villiers,TA Boult,0,0,0,NA,0,NA,NA,NA,1
+749773,1st innings,South Africa,New Zealand,39.3,HM Amla,AB de Villiers,TA Boult,1,0,1,NA,0,NA,NA,NA,1
+749773,1st innings,South Africa,New Zealand,39.4,AB de Villiers,HM Amla,TA Boult,1,0,1,NA,0,NA,NA,NA,1
+749773,1st innings,South Africa,New Zealand,39.5,HM Amla,AB de Villiers,TA Boult,0,0,0,NA,0,NA,NA,NA,1
+749773,1st innings,South Africa,New Zealand,39.6,HM Amla,AB de Villiers,TA Boult,1,0,1,NA,0,NA,NA,NA,1
+749773,1st innings,South Africa,New Zealand,40.1,HM Amla,AB de Villiers,TG Southee,1,0,1,NA,0,NA,NA,NA,1
+749773,1st innings,South Africa,New Zealand,40.2,AB de Villiers,HM Amla,TG Southee,0,0,0,NA,0,NA,NA,NA,1
+749773,1st innings,South Africa,New Zealand,40.3,AB de Villiers,HM Amla,TG Southee,4,0,4,NA,0,NA,NA,NA,1
+749773,1st innings,South Africa,New Zealand,40.4,AB de Villiers,HM Amla,TG Southee,0,0,0,NA,0,NA,NA,NA,1
+749773,1st innings,South Africa,New Zealand,40.5,AB de Villiers,HM Amla,TG Southee,0,0,0,NA,0,NA,NA,NA,1
+749773,1st innings,South Africa,New Zealand,40.6,AB de Villiers,HM Amla,TG Southee,1,0,1,NA,0,NA,NA,NA,1
+749773,1st innings,South Africa,New Zealand,41.1,AB de Villiers,HM Amla,TA Boult,1,0,1,NA,0,NA,NA,NA,1
+749773,1st innings,South Africa,New Zealand,41.2,HM Amla,AB de Villiers,TA Boult,0,0,0,NA,0,NA,NA,NA,1
+749773,1st innings,South Africa,New Zealand,41.3,HM Amla,AB de Villiers,TA Boult,2,0,2,NA,0,NA,NA,NA,1
+749773,1st innings,South Africa,New Zealand,41.4,HM Amla,AB de Villiers,TA Boult,0,0,0,NA,0,NA,NA,NA,1
+749773,1st innings,South Africa,New Zealand,41.5,HM Amla,AB de Villiers,TA Boult,0,0,0,NA,0,NA,NA,NA,1
+749773,1st innings,South Africa,New Zealand,41.6,HM Amla,AB de Villiers,TA Boult,0,1,1,wides,0,NA,NA,NA,1
+749773,1st innings,South Africa,New Zealand,41.7,HM Amla,AB de Villiers,TA Boult,1,0,1,NA,0,NA,NA,NA,1
+749773,1st innings,South Africa,New Zealand,42.1,HM Amla,AB de Villiers,TG Southee,1,0,1,NA,0,NA,NA,NA,1
+749773,1st innings,South Africa,New Zealand,42.2,AB de Villiers,HM Amla,TG Southee,4,0,4,NA,0,NA,NA,NA,1
+749773,1st innings,South Africa,New Zealand,42.3,AB de Villiers,HM Amla,TG Southee,0,0,0,NA,1,caught,AB de Villiers,L Ronchi,1
+749773,1st innings,South Africa,New Zealand,42.4,HM Amla,JP Duminy,TG Southee,1,0,1,NA,0,NA,NA,NA,1
+749773,1st innings,South Africa,New Zealand,42.5,JP Duminy,HM Amla,TG Southee,1,0,1,NA,0,NA,NA,NA,1
+749773,1st innings,South Africa,New Zealand,42.6,HM Amla,JP Duminy,TG Southee,1,0,1,NA,0,NA,NA,NA,1
+749773,1st innings,South Africa,New Zealand,43.1,HM Amla,JP Duminy,TA Boult,4,0,4,NA,0,NA,NA,NA,1
+749773,1st innings,South Africa,New Zealand,43.2,HM Amla,JP Duminy,TA Boult,4,0,4,NA,0,NA,NA,NA,1
+749773,1st innings,South Africa,New Zealand,43.3,HM Amla,JP Duminy,TA Boult,4,0,4,NA,0,NA,NA,NA,1
+749773,1st innings,South Africa,New Zealand,43.4,HM Amla,JP Duminy,TA Boult,4,0,4,NA,0,NA,NA,NA,1
+749773,1st innings,South Africa,New Zealand,43.5,HM Amla,JP Duminy,TA Boult,2,0,2,NA,0,NA,NA,NA,1
+749773,1st innings,South Africa,New Zealand,43.6,HM Amla,JP Duminy,TA Boult,0,0,0,NA,0,NA,NA,NA,1
+749773,1st innings,South Africa,New Zealand,44.1,JP Duminy,HM Amla,TG Southee,1,0,1,NA,0,NA,NA,NA,1
+749773,1st innings,South Africa,New Zealand,44.2,HM Amla,JP Duminy,TG Southee,0,0,0,NA,1,bowled,HM Amla,NA,1
+749773,1st innings,South Africa,New Zealand,44.3,DA Miller,JP Duminy,TG Southee,0,0,0,NA,0,NA,NA,NA,1
+749773,1st innings,South Africa,New Zealand,44.4,DA Miller,JP Duminy,TG Southee,1,0,1,NA,0,NA,NA,NA,1
+749773,1st innings,South Africa,New Zealand,44.5,JP Duminy,DA Miller,TG Southee,1,0,1,NA,0,NA,NA,NA,1
+749773,1st innings,South Africa,New Zealand,44.6,DA Miller,JP Duminy,TG Southee,0,0,0,NA,0,NA,NA,NA,1
+749773,1st innings,South Africa,New Zealand,45.1,JP Duminy,DA Miller,MJ Guptill,0,0,0,NA,0,NA,NA,NA,1
+749773,1st innings,South Africa,New Zealand,45.2,JP Duminy,DA Miller,MJ Guptill,1,0,1,NA,0,NA,NA,NA,1
+749773,1st innings,South Africa,New Zealand,45.3,DA Miller,JP Duminy,MJ Guptill,1,0,1,NA,0,NA,NA,NA,1
+749773,1st innings,South Africa,New Zealand,45.4,JP Duminy,DA Miller,MJ Guptill,1,0,1,NA,0,NA,NA,NA,1
+749773,1st innings,South Africa,New Zealand,45.5,DA Miller,JP Duminy,MJ Guptill,1,0,1,NA,0,NA,NA,NA,1
+749773,1st innings,South Africa,New Zealand,45.6,JP Duminy,DA Miller,MJ Guptill,1,0,1,NA,0,NA,NA,NA,1
+749773,1st innings,South Africa,New Zealand,46.1,JP Duminy,DA Miller,MJ McClenaghan,0,0,0,NA,0,NA,NA,NA,1
+749773,1st innings,South Africa,New Zealand,46.2,JP Duminy,DA Miller,MJ McClenaghan,0,0,0,NA,0,NA,NA,NA,1
+749773,1st innings,South Africa,New Zealand,46.3,JP Duminy,DA Miller,MJ McClenaghan,1,0,1,NA,0,NA,NA,NA,1
+749773,1st innings,South Africa,New Zealand,46.4,DA Miller,JP Duminy,MJ McClenaghan,1,0,1,NA,0,NA,NA,NA,1
+749773,1st innings,South Africa,New Zealand,46.5,JP Duminy,DA Miller,MJ McClenaghan,2,0,2,NA,0,NA,NA,NA,1
+749773,1st innings,South Africa,New Zealand,46.6,JP Duminy,DA Miller,MJ McClenaghan,1,0,1,NA,0,NA,NA,NA,1
+749773,1st innings,South Africa,New Zealand,47.1,JP Duminy,DA Miller,TA Boult,4,0,4,NA,0,NA,NA,NA,1
+749773,1st innings,South Africa,New Zealand,47.2,JP Duminy,DA Miller,TA Boult,4,0,4,NA,0,NA,NA,NA,1
+749773,1st innings,South Africa,New Zealand,47.3,JP Duminy,DA Miller,TA Boult,1,0,1,NA,0,NA,NA,NA,1
+749773,1st innings,South Africa,New Zealand,47.4,DA Miller,JP Duminy,TA Boult,1,0,1,NA,0,NA,NA,NA,1
+749773,1st innings,South Africa,New Zealand,47.5,JP Duminy,DA Miller,TA Boult,0,0,0,NA,1,lbw,JP Duminy,NA,1
+749773,1st innings,South Africa,New Zealand,47.6,RR Rossouw,DA Miller,TA Boult,0,0,0,NA,1,caught,RR Rossouw,MJ Guptill,1
+749773,1st innings,South Africa,New Zealand,48.1,DA Miller,VD Philander,MJ McClenaghan,1,0,1,NA,0,NA,NA,NA,1
+749773,1st innings,South Africa,New Zealand,48.2,VD Philander,DA Miller,MJ McClenaghan,0,0,0,NA,0,NA,NA,NA,1
+749773,1st innings,South Africa,New Zealand,48.3,VD Philander,DA Miller,MJ McClenaghan,1,0,1,NA,0,NA,NA,NA,1
+749773,1st innings,South Africa,New Zealand,48.4,DA Miller,VD Philander,MJ McClenaghan,1,0,1,NA,0,NA,NA,NA,1
+749773,1st innings,South Africa,New Zealand,48.5,VD Philander,DA Miller,MJ McClenaghan,0,0,0,NA,0,NA,NA,NA,1
+749773,1st innings,South Africa,New Zealand,48.6,VD Philander,DA Miller,MJ McClenaghan,0,0,0,NA,1,caught,VD Philander,DG Brownlie,1
+749773,1st innings,South Africa,New Zealand,49.1,DW Steyn,DA Miller,CJ Anderson,0,0,0,NA,0,NA,NA,NA,1
+749773,1st innings,South Africa,New Zealand,49.2,DW Steyn,DA Miller,CJ Anderson,0,0,0,NA,1,caught,DW Steyn,L Ronchi,1
+749773,1st innings,South Africa,New Zealand,49.3,DA Miller,M Morkel,CJ Anderson,0,0,0,NA,1,bowled,DA Miller,NA,1
+749773,1st innings,South Africa,New Zealand,49.4,Imran Tahir,M Morkel,CJ Anderson,0,0,0,NA,0,NA,NA,NA,1
+749773,1st innings,South Africa,New Zealand,49.5,Imran Tahir,M Morkel,CJ Anderson,0,0,0,NA,0,NA,NA,NA,1
+749773,1st innings,South Africa,New Zealand,49.6,Imran Tahir,M Morkel,CJ Anderson,0,0,0,NA,0,NA,NA,NA,1
+749773,2nd innings,New Zealand,South Africa,0.1,MJ Guptill,JDS Neesham,DW Steyn,0,0,0,NA,0,NA,NA,NA,0
+749773,2nd innings,New Zealand,South Africa,0.2,MJ Guptill,JDS Neesham,DW Steyn,0,0,0,NA,0,NA,NA,NA,0
+749773,2nd innings,New Zealand,South Africa,0.3,MJ Guptill,JDS Neesham,DW Steyn,1,0,1,NA,0,NA,NA,NA,0
+749773,2nd innings,New Zealand,South Africa,0.4,JDS Neesham,MJ Guptill,DW Steyn,0,0,0,NA,0,NA,NA,NA,0
+749773,2nd innings,New Zealand,South Africa,0.5,JDS Neesham,MJ Guptill,DW Steyn,0,1,1,wides,0,NA,NA,NA,0
+749773,2nd innings,New Zealand,South Africa,0.6,JDS Neesham,MJ Guptill,DW Steyn,0,0,0,NA,0,NA,NA,NA,0
+749773,2nd innings,New Zealand,South Africa,0.7,JDS Neesham,MJ Guptill,DW Steyn,0,0,0,NA,0,NA,NA,NA,0
+749773,2nd innings,New Zealand,South Africa,1.1,MJ Guptill,JDS Neesham,VD Philander,2,0,2,NA,0,NA,NA,NA,0
+749773,2nd innings,New Zealand,South Africa,1.2,MJ Guptill,JDS Neesham,VD Philander,0,0,0,NA,0,NA,NA,NA,0
+749773,2nd innings,New Zealand,South Africa,1.3,MJ Guptill,JDS Neesham,VD Philander,0,0,0,NA,0,NA,NA,NA,0
+749773,2nd innings,New Zealand,South Africa,1.4,MJ Guptill,JDS Neesham,VD Philander,0,0,0,NA,0,NA,NA,NA,0
+749773,2nd innings,New Zealand,South Africa,1.5,MJ Guptill,JDS Neesham,VD Philander,0,0,0,NA,0,NA,NA,NA,0
+749773,2nd innings,New Zealand,South Africa,1.6,MJ Guptill,JDS Neesham,VD Philander,1,0,1,NA,0,NA,NA,NA,0
+749773,2nd innings,New Zealand,South Africa,2.1,MJ Guptill,JDS Neesham,DW Steyn,0,0,0,NA,0,NA,NA,NA,0
+749773,2nd innings,New Zealand,South Africa,2.2,MJ Guptill,JDS Neesham,DW Steyn,0,1,1,legbyes,0,NA,NA,NA,0
+749773,2nd innings,New Zealand,South Africa,2.3,JDS Neesham,MJ Guptill,DW Steyn,0,0,0,NA,0,NA,NA,NA,0
+749773,2nd innings,New Zealand,South Africa,2.4,JDS Neesham,MJ Guptill,DW Steyn,0,0,0,NA,0,NA,NA,NA,0
+749773,2nd innings,New Zealand,South Africa,2.5,JDS Neesham,MJ Guptill,DW Steyn,0,0,0,NA,0,NA,NA,NA,0
+749773,2nd innings,New Zealand,South Africa,2.6,JDS Neesham,MJ Guptill,DW Steyn,0,0,0,NA,0,NA,NA,NA,0
+749773,2nd innings,New Zealand,South Africa,3.1,MJ Guptill,JDS Neesham,VD Philander,0,0,0,NA,0,NA,NA,NA,0
+749773,2nd innings,New Zealand,South Africa,3.2,MJ Guptill,JDS Neesham,VD Philander,1,0,1,NA,0,NA,NA,NA,0
+749773,2nd innings,New Zealand,South Africa,3.3,JDS Neesham,MJ Guptill,VD Philander,1,0,1,NA,0,NA,NA,NA,0
+749773,2nd innings,New Zealand,South Africa,3.4,MJ Guptill,JDS Neesham,VD Philander,0,0,0,NA,0,NA,NA,NA,0
+749773,2nd innings,New Zealand,South Africa,3.5,MJ Guptill,JDS Neesham,VD Philander,2,0,2,NA,0,NA,NA,NA,0
+749773,2nd innings,New Zealand,South Africa,3.6,MJ Guptill,JDS Neesham,VD Philander,0,0,0,NA,0,NA,NA,NA,0
+749773,2nd innings,New Zealand,South Africa,4.1,JDS Neesham,MJ Guptill,DW Steyn,0,0,0,NA,0,NA,NA,NA,0
+749773,2nd innings,New Zealand,South Africa,4.2,JDS Neesham,MJ Guptill,DW Steyn,0,0,0,NA,0,NA,NA,NA,0
+749773,2nd innings,New Zealand,South Africa,4.3,JDS Neesham,MJ Guptill,DW Steyn,3,0,3,NA,0,NA,NA,NA,0
+749773,2nd innings,New Zealand,South Africa,4.4,MJ Guptill,JDS Neesham,DW Steyn,4,0,4,NA,0,NA,NA,NA,0
+749773,2nd innings,New Zealand,South Africa,4.5,MJ Guptill,JDS Neesham,DW Steyn,0,0,0,NA,0,NA,NA,NA,0
+749773,2nd innings,New Zealand,South Africa,4.6,MJ Guptill,JDS Neesham,DW Steyn,0,0,0,NA,0,NA,NA,NA,0
+749773,2nd innings,New Zealand,South Africa,5.1,JDS Neesham,MJ Guptill,VD Philander,0,0,0,NA,0,NA,NA,NA,0
+749773,2nd innings,New Zealand,South Africa,5.2,JDS Neesham,MJ Guptill,VD Philander,1,0,1,NA,0,NA,NA,NA,0
+749773,2nd innings,New Zealand,South Africa,5.3,MJ Guptill,JDS Neesham,VD Philander,0,0,0,NA,0,NA,NA,NA,0
+749773,2nd innings,New Zealand,South Africa,5.4,MJ Guptill,JDS Neesham,VD Philander,0,0,0,NA,0,NA,NA,NA,0
+749773,2nd innings,New Zealand,South Africa,5.5,MJ Guptill,JDS Neesham,VD Philander,0,0,0,NA,0,NA,NA,NA,0
+749773,2nd innings,New Zealand,South Africa,5.6,MJ Guptill,JDS Neesham,VD Philander,0,0,0,NA,0,NA,NA,NA,0
+749773,2nd innings,New Zealand,South Africa,6.1,JDS Neesham,MJ Guptill,M Morkel,4,0,4,NA,0,NA,NA,NA,0
+749773,2nd innings,New Zealand,South Africa,6.2,JDS Neesham,MJ Guptill,M Morkel,0,0,0,NA,0,NA,NA,NA,0
+749773,2nd innings,New Zealand,South Africa,6.3,JDS Neesham,MJ Guptill,M Morkel,1,0,1,NA,0,NA,NA,NA,0
+749773,2nd innings,New Zealand,South Africa,6.4,MJ Guptill,JDS Neesham,M Morkel,0,0,0,NA,0,NA,NA,NA,0
+749773,2nd innings,New Zealand,South Africa,6.5,MJ Guptill,JDS Neesham,M Morkel,0,1,1,wides,0,NA,NA,NA,0
+749773,2nd innings,New Zealand,South Africa,6.6,MJ Guptill,JDS Neesham,M Morkel,0,1,1,legbyes,0,NA,NA,NA,0
+749773,2nd innings,New Zealand,South Africa,6.7,JDS Neesham,MJ Guptill,M Morkel,0,0,0,NA,0,NA,NA,NA,0
+749773,2nd innings,New Zealand,South Africa,7.1,MJ Guptill,JDS Neesham,VD Philander,0,0,0,NA,0,NA,NA,NA,0
+749773,2nd innings,New Zealand,South Africa,7.2,MJ Guptill,JDS Neesham,VD Philander,0,0,0,NA,0,NA,NA,NA,0
+749773,2nd innings,New Zealand,South Africa,7.3,MJ Guptill,JDS Neesham,VD Philander,0,0,0,NA,0,NA,NA,NA,0
+749773,2nd innings,New Zealand,South Africa,7.4,MJ Guptill,JDS Neesham,VD Philander,0,0,0,NA,1,caught,MJ Guptill,RR Rossouw,0
+749773,2nd innings,New Zealand,South Africa,7.5,DG Brownlie,JDS Neesham,VD Philander,0,0,0,NA,0,NA,NA,NA,0
+749773,2nd innings,New Zealand,South Africa,7.6,DG Brownlie,JDS Neesham,VD Philander,4,0,4,NA,0,NA,NA,NA,0
+749773,2nd innings,New Zealand,South Africa,8.1,JDS Neesham,DG Brownlie,M Morkel,0,0,0,NA,1,bowled,JDS Neesham,NA,0
+749773,2nd innings,New Zealand,South Africa,8.2,TWM Latham,DG Brownlie,M Morkel,0,0,0,NA,0,NA,NA,NA,0
+749773,2nd innings,New Zealand,South Africa,8.3,TWM Latham,DG Brownlie,M Morkel,0,0,0,NA,0,NA,NA,NA,0
+749773,2nd innings,New Zealand,South Africa,8.4,TWM Latham,DG Brownlie,M Morkel,0,0,0,NA,0,NA,NA,NA,0
+749773,2nd innings,New Zealand,South Africa,8.5,TWM Latham,DG Brownlie,M Morkel,0,0,0,NA,0,NA,NA,NA,0
+749773,2nd innings,New Zealand,South Africa,8.6,TWM Latham,DG Brownlie,M Morkel,0,0,0,NA,0,NA,NA,NA,0
+749773,2nd innings,New Zealand,South Africa,9.1,DG Brownlie,TWM Latham,VD Philander,0,0,0,NA,0,NA,NA,NA,0
+749773,2nd innings,New Zealand,South Africa,9.2,DG Brownlie,TWM Latham,VD Philander,4,0,4,NA,0,NA,NA,NA,0
+749773,2nd innings,New Zealand,South Africa,9.3,DG Brownlie,TWM Latham,VD Philander,0,0,0,NA,0,NA,NA,NA,0
+749773,2nd innings,New Zealand,South Africa,9.4,DG Brownlie,TWM Latham,VD Philander,0,0,0,NA,0,NA,NA,NA,0
+749773,2nd innings,New Zealand,South Africa,9.5,DG Brownlie,TWM Latham,VD Philander,0,0,0,NA,0,NA,NA,NA,0
+749773,2nd innings,New Zealand,South Africa,9.6,DG Brownlie,TWM Latham,VD Philander,0,0,0,NA,0,NA,NA,NA,0
+749773,2nd innings,New Zealand,South Africa,10.1,TWM Latham,DG Brownlie,M Morkel,0,0,0,NA,0,NA,NA,NA,0
+749773,2nd innings,New Zealand,South Africa,10.2,TWM Latham,DG Brownlie,M Morkel,1,0,1,NA,0,NA,NA,NA,0
+749773,2nd innings,New Zealand,South Africa,10.3,DG Brownlie,TWM Latham,M Morkel,0,0,0,NA,0,NA,NA,NA,0
+749773,2nd innings,New Zealand,South Africa,10.4,DG Brownlie,TWM Latham,M Morkel,4,0,4,NA,0,NA,NA,NA,0
+749773,2nd innings,New Zealand,South Africa,10.5,DG Brownlie,TWM Latham,M Morkel,0,0,0,NA,0,NA,NA,NA,0
+749773,2nd innings,New Zealand,South Africa,10.6,DG Brownlie,TWM Latham,M Morkel,0,0,0,NA,0,NA,NA,NA,0
+749773,2nd innings,New Zealand,South Africa,11.1,TWM Latham,DG Brownlie,JP Duminy,2,0,2,NA,0,NA,NA,NA,0
+749773,2nd innings,New Zealand,South Africa,11.2,TWM Latham,DG Brownlie,JP Duminy,4,0,4,NA,0,NA,NA,NA,0
+749773,2nd innings,New Zealand,South Africa,11.3,TWM Latham,DG Brownlie,JP Duminy,0,1,1,wides,0,NA,NA,NA,0
+749773,2nd innings,New Zealand,South Africa,11.4,TWM Latham,DG Brownlie,JP Duminy,0,0,0,NA,0,NA,NA,NA,0
+749773,2nd innings,New Zealand,South Africa,11.5,TWM Latham,DG Brownlie,JP Duminy,1,0,1,NA,0,NA,NA,NA,0
+749773,2nd innings,New Zealand,South Africa,11.6,DG Brownlie,TWM Latham,JP Duminy,1,0,1,NA,0,NA,NA,NA,0
+749773,2nd innings,New Zealand,South Africa,11.7,TWM Latham,DG Brownlie,JP Duminy,1,0,1,NA,0,NA,NA,NA,0
+749773,2nd innings,New Zealand,South Africa,12.1,TWM Latham,DG Brownlie,M Morkel,0,0,0,NA,0,NA,NA,NA,0
+749773,2nd innings,New Zealand,South Africa,12.2,TWM Latham,DG Brownlie,M Morkel,0,1,1,wides,0,NA,NA,NA,0
+749773,2nd innings,New Zealand,South Africa,12.3,TWM Latham,DG Brownlie,M Morkel,0,0,0,NA,0,NA,NA,NA,0
+749773,2nd innings,New Zealand,South Africa,12.4,TWM Latham,DG Brownlie,M Morkel,0,0,0,NA,0,NA,NA,NA,0
+749773,2nd innings,New Zealand,South Africa,12.5,TWM Latham,DG Brownlie,M Morkel,0,0,0,NA,0,NA,NA,NA,0
+749773,2nd innings,New Zealand,South Africa,12.6,TWM Latham,DG Brownlie,M Morkel,0,0,0,NA,0,NA,NA,NA,0
+749773,2nd innings,New Zealand,South Africa,12.7,TWM Latham,DG Brownlie,M Morkel,0,0,0,NA,0,NA,NA,NA,0
+749773,2nd innings,New Zealand,South Africa,13.1,DG Brownlie,TWM Latham,JP Duminy,0,0,0,NA,0,NA,NA,NA,0
+749773,2nd innings,New Zealand,South Africa,13.2,DG Brownlie,TWM Latham,JP Duminy,0,0,0,NA,0,NA,NA,NA,0
+749773,2nd innings,New Zealand,South Africa,13.3,DG Brownlie,TWM Latham,JP Duminy,1,0,1,NA,0,NA,NA,NA,0
+749773,2nd innings,New Zealand,South Africa,13.4,TWM Latham,DG Brownlie,JP Duminy,0,0,0,NA,0,NA,NA,NA,0
+749773,2nd innings,New Zealand,South Africa,13.5,TWM Latham,DG Brownlie,JP Duminy,0,0,0,NA,0,NA,NA,NA,0
+749773,2nd innings,New Zealand,South Africa,13.6,TWM Latham,DG Brownlie,JP Duminy,4,0,4,NA,0,NA,NA,NA,0
+749773,2nd innings,New Zealand,South Africa,14.1,DG Brownlie,TWM Latham,AB de Villiers,0,0,0,NA,0,NA,NA,NA,0
+749773,2nd innings,New Zealand,South Africa,14.2,DG Brownlie,TWM Latham,AB de Villiers,0,0,0,NA,0,NA,NA,NA,0
+749773,2nd innings,New Zealand,South Africa,14.3,DG Brownlie,TWM Latham,AB de Villiers,0,0,0,NA,0,NA,NA,NA,0
+749773,2nd innings,New Zealand,South Africa,14.4,DG Brownlie,TWM Latham,AB de Villiers,0,0,0,NA,0,NA,NA,NA,0
+749773,2nd innings,New Zealand,South Africa,14.5,DG Brownlie,TWM Latham,AB de Villiers,1,0,1,NA,0,NA,NA,NA,0
+749773,2nd innings,New Zealand,South Africa,14.6,TWM Latham,DG Brownlie,AB de Villiers,0,0,0,NA,0,NA,NA,NA,0
+749773,2nd innings,New Zealand,South Africa,15.1,DG Brownlie,TWM Latham,JP Duminy,0,0,0,NA,0,NA,NA,NA,0
+749773,2nd innings,New Zealand,South Africa,15.2,DG Brownlie,TWM Latham,JP Duminy,1,0,1,NA,0,NA,NA,NA,0
+749773,2nd innings,New Zealand,South Africa,15.3,TWM Latham,DG Brownlie,JP Duminy,1,0,1,NA,0,NA,NA,NA,0
+749773,2nd innings,New Zealand,South Africa,15.4,DG Brownlie,TWM Latham,JP Duminy,1,0,1,NA,0,NA,NA,NA,0
+749773,2nd innings,New Zealand,South Africa,15.5,TWM Latham,DG Brownlie,JP Duminy,0,0,0,NA,0,NA,NA,NA,0
+749773,2nd innings,New Zealand,South Africa,15.6,TWM Latham,DG Brownlie,JP Duminy,1,0,1,NA,0,NA,NA,NA,0
+749773,2nd innings,New Zealand,South Africa,16.1,TWM Latham,DG Brownlie,AB de Villiers,1,0,1,NA,0,NA,NA,NA,0
+749773,2nd innings,New Zealand,South Africa,16.2,DG Brownlie,TWM Latham,AB de Villiers,1,0,1,NA,0,NA,NA,NA,0
+749773,2nd innings,New Zealand,South Africa,16.3,TWM Latham,DG Brownlie,AB de Villiers,0,0,0,NA,0,NA,NA,NA,0
+749773,2nd innings,New Zealand,South Africa,16.4,TWM Latham,DG Brownlie,AB de Villiers,0,0,0,NA,1,caught,TWM Latham,HM Amla,0
+749773,2nd innings,New Zealand,South Africa,16.5,BB McCullum,DG Brownlie,AB de Villiers,0,0,0,NA,0,NA,NA,NA,0
+749773,2nd innings,New Zealand,South Africa,16.6,BB McCullum,DG Brownlie,AB de Villiers,1,0,1,NA,0,NA,NA,NA,0
+749773,2nd innings,New Zealand,South Africa,17.1,BB McCullum,DG Brownlie,DW Steyn,1,0,1,NA,0,NA,NA,NA,0
+749773,2nd innings,New Zealand,South Africa,17.2,DG Brownlie,BB McCullum,DW Steyn,2,0,2,NA,0,NA,NA,NA,0
+749773,2nd innings,New Zealand,South Africa,17.3,DG Brownlie,BB McCullum,DW Steyn,0,0,0,NA,0,NA,NA,NA,0
+749773,2nd innings,New Zealand,South Africa,17.4,DG Brownlie,BB McCullum,DW Steyn,0,0,0,NA,1,bowled,DG Brownlie,NA,0
+749773,2nd innings,New Zealand,South Africa,17.5,CJ Anderson,BB McCullum,DW Steyn,0,0,0,NA,0,NA,NA,NA,0
+749773,2nd innings,New Zealand,South Africa,17.6,CJ Anderson,BB McCullum,DW Steyn,0,0,0,NA,0,NA,NA,NA,0
+749773,2nd innings,New Zealand,South Africa,18.1,BB McCullum,CJ Anderson,Imran Tahir,1,0,1,NA,0,NA,NA,NA,0
+749773,2nd innings,New Zealand,South Africa,18.2,CJ Anderson,BB McCullum,Imran Tahir,1,0,1,NA,0,NA,NA,NA,0
+749773,2nd innings,New Zealand,South Africa,18.3,BB McCullum,CJ Anderson,Imran Tahir,0,0,0,NA,0,NA,NA,NA,0
+749773,2nd innings,New Zealand,South Africa,18.4,BB McCullum,CJ Anderson,Imran Tahir,0,0,0,NA,0,NA,NA,NA,0
+749773,2nd innings,New Zealand,South Africa,18.5,BB McCullum,CJ Anderson,Imran Tahir,0,0,0,NA,0,NA,NA,NA,0
+749773,2nd innings,New Zealand,South Africa,18.6,BB McCullum,CJ Anderson,Imran Tahir,1,0,1,NA,0,NA,NA,NA,0
+749773,2nd innings,New Zealand,South Africa,19.1,BB McCullum,CJ Anderson,DW Steyn,0,0,0,NA,0,NA,NA,NA,0
+749773,2nd innings,New Zealand,South Africa,19.2,BB McCullum,CJ Anderson,DW Steyn,1,0,1,NA,0,NA,NA,NA,0
+749773,2nd innings,New Zealand,South Africa,19.3,CJ Anderson,BB McCullum,DW Steyn,0,0,0,NA,1,caught,CJ Anderson,DA Miller,0
+749773,2nd innings,New Zealand,South Africa,19.4,L Ronchi,BB McCullum,DW Steyn,0,0,0,NA,0,NA,NA,NA,0
+749773,2nd innings,New Zealand,South Africa,19.5,L Ronchi,BB McCullum,DW Steyn,1,0,1,NA,0,NA,NA,NA,0
+749773,2nd innings,New Zealand,South Africa,19.6,BB McCullum,L Ronchi,DW Steyn,1,0,1,NA,0,NA,NA,NA,0
+749773,2nd innings,New Zealand,South Africa,20.1,BB McCullum,L Ronchi,Imran Tahir,0,0,0,NA,0,NA,NA,NA,0
+749773,2nd innings,New Zealand,South Africa,20.2,BB McCullum,L Ronchi,Imran Tahir,0,0,0,NA,0,NA,NA,NA,0
+749773,2nd innings,New Zealand,South Africa,20.3,BB McCullum,L Ronchi,Imran Tahir,0,0,0,NA,0,NA,NA,NA,0
+749773,2nd innings,New Zealand,South Africa,20.4,BB McCullum,L Ronchi,Imran Tahir,3,0,3,NA,0,NA,NA,NA,0
+749773,2nd innings,New Zealand,South Africa,20.5,L Ronchi,BB McCullum,Imran Tahir,0,0,0,NA,0,NA,NA,NA,0
+749773,2nd innings,New Zealand,South Africa,20.6,L Ronchi,BB McCullum,Imran Tahir,1,0,1,NA,0,NA,NA,NA,0
+749773,2nd innings,New Zealand,South Africa,21.1,L Ronchi,BB McCullum,VD Philander,1,1,2,noballs,0,NA,NA,NA,0
+749773,2nd innings,New Zealand,South Africa,21.2,BB McCullum,L Ronchi,VD Philander,0,0,0,NA,0,NA,NA,NA,0
+749773,2nd innings,New Zealand,South Africa,21.3,BB McCullum,L Ronchi,VD Philander,2,0,2,NA,0,NA,NA,NA,0
+749773,2nd innings,New Zealand,South Africa,21.4,BB McCullum,L Ronchi,VD Philander,0,0,0,NA,0,NA,NA,NA,0
+749773,2nd innings,New Zealand,South Africa,21.5,BB McCullum,L Ronchi,VD Philander,0,0,0,NA,0,NA,NA,NA,0
+749773,2nd innings,New Zealand,South Africa,21.6,BB McCullum,L Ronchi,VD Philander,0,0,0,NA,0,NA,NA,NA,0
+749773,2nd innings,New Zealand,South Africa,21.7,BB McCullum,L Ronchi,VD Philander,0,0,0,NA,0,NA,NA,NA,0
+749773,2nd innings,New Zealand,South Africa,22.1,L Ronchi,BB McCullum,Imran Tahir,4,0,4,NA,0,NA,NA,NA,0
+749773,2nd innings,New Zealand,South Africa,22.2,L Ronchi,BB McCullum,Imran Tahir,0,0,0,NA,0,NA,NA,NA,0
+749773,2nd innings,New Zealand,South Africa,22.3,L Ronchi,BB McCullum,Imran Tahir,0,0,0,NA,0,NA,NA,NA,0
+749773,2nd innings,New Zealand,South Africa,22.4,L Ronchi,BB McCullum,Imran Tahir,1,0,1,NA,0,NA,NA,NA,0
+749773,2nd innings,New Zealand,South Africa,22.5,BB McCullum,L Ronchi,Imran Tahir,0,0,0,NA,0,NA,NA,NA,0
+749773,2nd innings,New Zealand,South Africa,22.6,BB McCullum,L Ronchi,Imran Tahir,0,0,0,NA,0,NA,NA,NA,0
+749773,2nd innings,New Zealand,South Africa,23.1,L Ronchi,BB McCullum,VD Philander,4,0,4,NA,0,NA,NA,NA,0
+749773,2nd innings,New Zealand,South Africa,23.2,L Ronchi,BB McCullum,VD Philander,0,0,0,NA,0,NA,NA,NA,0
+749773,2nd innings,New Zealand,South Africa,23.3,L Ronchi,BB McCullum,VD Philander,0,0,0,NA,0,NA,NA,NA,0
+749773,2nd innings,New Zealand,South Africa,23.4,L Ronchi,BB McCullum,VD Philander,1,0,1,NA,0,NA,NA,NA,0
+749773,2nd innings,New Zealand,South Africa,23.5,BB McCullum,L Ronchi,VD Philander,1,0,1,NA,0,NA,NA,NA,0
+749773,2nd innings,New Zealand,South Africa,23.6,L Ronchi,BB McCullum,VD Philander,0,0,0,NA,0,NA,NA,NA,0
+749773,2nd innings,New Zealand,South Africa,24.1,BB McCullum,L Ronchi,Imran Tahir,0,0,0,NA,1,lbw,BB McCullum,NA,0
+749773,2nd innings,New Zealand,South Africa,24.2,DL Vettori,L Ronchi,Imran Tahir,0,0,0,NA,0,NA,NA,NA,0
+749773,2nd innings,New Zealand,South Africa,24.3,DL Vettori,L Ronchi,Imran Tahir,1,0,1,NA,0,NA,NA,NA,0
+749773,2nd innings,New Zealand,South Africa,24.4,L Ronchi,DL Vettori,Imran Tahir,2,0,2,NA,0,NA,NA,NA,0
+749773,2nd innings,New Zealand,South Africa,24.5,L Ronchi,DL Vettori,Imran Tahir,0,0,0,NA,0,NA,NA,NA,0
+749773,2nd innings,New Zealand,South Africa,24.6,L Ronchi,DL Vettori,Imran Tahir,1,0,1,NA,0,NA,NA,NA,0
+749773,2nd innings,New Zealand,South Africa,25.1,L Ronchi,DL Vettori,JP Duminy,0,0,0,NA,0,NA,NA,NA,0
+749773,2nd innings,New Zealand,South Africa,25.2,L Ronchi,DL Vettori,JP Duminy,0,0,0,NA,0,NA,NA,NA,0
+749773,2nd innings,New Zealand,South Africa,25.3,L Ronchi,DL Vettori,JP Duminy,1,0,1,NA,0,NA,NA,NA,0
+749773,2nd innings,New Zealand,South Africa,25.4,DL Vettori,L Ronchi,JP Duminy,0,0,0,NA,0,NA,NA,NA,0
+749773,2nd innings,New Zealand,South Africa,25.5,DL Vettori,L Ronchi,JP Duminy,0,0,0,NA,1,bowled,DL Vettori,NA,0
+749773,2nd innings,New Zealand,South Africa,25.6,TG Southee,L Ronchi,JP Duminy,0,0,0,NA,0,NA,NA,NA,0
+749773,2nd innings,New Zealand,South Africa,26.1,L Ronchi,TG Southee,Imran Tahir,0,0,0,NA,0,NA,NA,NA,0
+749773,2nd innings,New Zealand,South Africa,26.2,L Ronchi,TG Southee,Imran Tahir,0,0,0,NA,0,NA,NA,NA,0
+749773,2nd innings,New Zealand,South Africa,26.3,L Ronchi,TG Southee,Imran Tahir,0,0,0,NA,0,NA,NA,NA,0
+749773,2nd innings,New Zealand,South Africa,26.4,L Ronchi,TG Southee,Imran Tahir,0,0,0,NA,0,NA,NA,NA,0
+749773,2nd innings,New Zealand,South Africa,26.5,L Ronchi,TG Southee,Imran Tahir,0,0,0,NA,0,NA,NA,NA,0
+749773,2nd innings,New Zealand,South Africa,26.6,L Ronchi,TG Southee,Imran Tahir,2,0,2,NA,0,NA,NA,NA,0
+749773,2nd innings,New Zealand,South Africa,27.1,TG Southee,L Ronchi,JP Duminy,0,0,0,NA,0,NA,NA,NA,0
+749773,2nd innings,New Zealand,South Africa,27.2,TG Southee,L Ronchi,JP Duminy,4,0,4,NA,0,NA,NA,NA,0
+749773,2nd innings,New Zealand,South Africa,27.3,TG Southee,L Ronchi,JP Duminy,1,0,1,NA,0,NA,NA,NA,0
+749773,2nd innings,New Zealand,South Africa,27.4,L Ronchi,TG Southee,JP Duminy,0,0,0,NA,0,NA,NA,NA,0
+749773,2nd innings,New Zealand,South Africa,27.5,L Ronchi,TG Southee,JP Duminy,0,0,0,NA,0,NA,NA,NA,0
+749773,2nd innings,New Zealand,South Africa,27.6,L Ronchi,TG Southee,JP Duminy,1,0,1,NA,0,NA,NA,NA,0
+749773,2nd innings,New Zealand,South Africa,28.1,L Ronchi,TG Southee,Imran Tahir,1,0,1,NA,0,NA,NA,NA,0
+749773,2nd innings,New Zealand,South Africa,28.2,TG Southee,L Ronchi,Imran Tahir,0,0,0,NA,1,bowled,TG Southee,NA,0
+749773,2nd innings,New Zealand,South Africa,28.3,TA Boult,L Ronchi,Imran Tahir,0,0,0,NA,0,NA,NA,NA,0
+749773,2nd innings,New Zealand,South Africa,28.4,TA Boult,L Ronchi,Imran Tahir,0,0,0,NA,0,NA,NA,NA,0
+749773,2nd innings,New Zealand,South Africa,28.5,TA Boult,L Ronchi,Imran Tahir,4,0,4,NA,0,NA,NA,NA,0
+749773,2nd innings,New Zealand,South Africa,28.6,TA Boult,L Ronchi,Imran Tahir,0,1,1,wides,0,NA,NA,NA,0
+749773,2nd innings,New Zealand,South Africa,28.7,TA Boult,L Ronchi,Imran Tahir,0,0,0,NA,0,NA,NA,NA,0
+749773,2nd innings,New Zealand,South Africa,29.1,L Ronchi,TA Boult,M Morkel,2,0,2,NA,0,NA,NA,NA,0
+749773,2nd innings,New Zealand,South Africa,29.2,L Ronchi,TA Boult,M Morkel,0,0,0,NA,0,NA,NA,NA,0
+749773,2nd innings,New Zealand,South Africa,29.3,L Ronchi,TA Boult,M Morkel,4,0,4,NA,0,NA,NA,NA,0
+749773,2nd innings,New Zealand,South Africa,29.4,L Ronchi,TA Boult,M Morkel,6,0,6,NA,0,NA,NA,NA,0
+749773,2nd innings,New Zealand,South Africa,29.5,L Ronchi,TA Boult,M Morkel,1,0,1,NA,0,NA,NA,NA,0
+749773,2nd innings,New Zealand,South Africa,29.6,TA Boult,L Ronchi,M Morkel,0,0,0,NA,0,NA,NA,NA,0
+749773,2nd innings,New Zealand,South Africa,30.1,L Ronchi,TA Boult,AB de Villiers,0,0,0,NA,0,NA,NA,NA,0
+749773,2nd innings,New Zealand,South Africa,30.2,L Ronchi,TA Boult,AB de Villiers,1,0,1,NA,0,NA,NA,NA,0
+749773,2nd innings,New Zealand,South Africa,30.3,TA Boult,L Ronchi,AB de Villiers,1,0,1,NA,0,NA,NA,NA,0
+749773,2nd innings,New Zealand,South Africa,30.4,L Ronchi,TA Boult,AB de Villiers,1,0,1,NA,0,NA,NA,NA,0
+749773,2nd innings,New Zealand,South Africa,30.5,TA Boult,L Ronchi,AB de Villiers,0,0,0,NA,0,NA,NA,NA,0
+749773,2nd innings,New Zealand,South Africa,30.6,TA Boult,L Ronchi,AB de Villiers,0,0,0,NA,0,NA,NA,NA,0
+749773,2nd innings,New Zealand,South Africa,31.1,L Ronchi,TA Boult,M Morkel,0,0,0,NA,0,NA,NA,NA,0
+749773,2nd innings,New Zealand,South Africa,31.2,L Ronchi,TA Boult,M Morkel,0,0,0,NA,0,NA,NA,NA,0
+749773,2nd innings,New Zealand,South Africa,31.3,L Ronchi,TA Boult,M Morkel,0,0,0,NA,0,NA,NA,NA,0
+749773,2nd innings,New Zealand,South Africa,31.4,L Ronchi,TA Boult,M Morkel,0,0,0,NA,0,NA,NA,NA,0
+749773,2nd innings,New Zealand,South Africa,31.5,L Ronchi,TA Boult,M Morkel,1,0,1,NA,0,NA,NA,NA,0
+749773,2nd innings,New Zealand,South Africa,31.6,TA Boult,L Ronchi,M Morkel,0,0,0,NA,0,NA,NA,NA,0
+749773,2nd innings,New Zealand,South Africa,32.1,L Ronchi,TA Boult,AB de Villiers,1,0,1,NA,0,NA,NA,NA,0
+749773,2nd innings,New Zealand,South Africa,32.2,TA Boult,L Ronchi,AB de Villiers,0,0,0,NA,0,NA,NA,NA,0
+749773,2nd innings,New Zealand,South Africa,32.3,TA Boult,L Ronchi,AB de Villiers,0,1,1,wides,0,NA,NA,NA,0
+749773,2nd innings,New Zealand,South Africa,32.4,TA Boult,L Ronchi,AB de Villiers,4,0,4,NA,0,NA,NA,NA,0
+749773,2nd innings,New Zealand,South Africa,32.5,TA Boult,L Ronchi,AB de Villiers,1,0,1,NA,0,NA,NA,NA,0
+749773,2nd innings,New Zealand,South Africa,32.6,L Ronchi,TA Boult,AB de Villiers,1,0,1,NA,0,NA,NA,NA,0
+749773,2nd innings,New Zealand,South Africa,32.7,TA Boult,L Ronchi,AB de Villiers,0,0,0,NA,1,bowled,TA Boult,NA,0
+749773,2nd innings,New Zealand,South Africa,33.1,L Ronchi,MJ McClenaghan,M Morkel,1,0,1,NA,0,NA,NA,NA,0
+749773,2nd innings,New Zealand,South Africa,33.2,MJ McClenaghan,L Ronchi,M Morkel,1,0,1,NA,0,NA,NA,NA,0
+749773,2nd innings,New Zealand,South Africa,33.3,L Ronchi,MJ McClenaghan,M Morkel,0,0,0,NA,0,NA,NA,NA,0
+749773,2nd innings,New Zealand,South Africa,33.4,L Ronchi,MJ McClenaghan,M Morkel,1,0,1,NA,0,NA,NA,NA,0
+749773,2nd innings,New Zealand,South Africa,33.5,MJ McClenaghan,L Ronchi,M Morkel,0,0,0,NA,0,NA,NA,NA,0
+749773,2nd innings,New Zealand,South Africa,33.6,MJ McClenaghan,L Ronchi,M Morkel,1,0,1,NA,0,NA,NA,NA,0
+749773,2nd innings,New Zealand,South Africa,34.1,MJ McClenaghan,L Ronchi,Imran Tahir,0,0,0,NA,0,NA,NA,NA,0
+749773,2nd innings,New Zealand,South Africa,34.2,MJ McClenaghan,L Ronchi,Imran Tahir,0,0,0,NA,0,NA,NA,NA,0
+749773,2nd innings,New Zealand,South Africa,34.3,MJ McClenaghan,L Ronchi,Imran Tahir,0,0,0,NA,0,NA,NA,NA,0
+749773,2nd innings,New Zealand,South Africa,34.4,MJ McClenaghan,L Ronchi,Imran Tahir,0,0,0,NA,0,NA,NA,NA,0
+749773,2nd innings,New Zealand,South Africa,34.5,MJ McClenaghan,L Ronchi,Imran Tahir,1,0,1,NA,0,NA,NA,NA,0
+749773,2nd innings,New Zealand,South Africa,34.6,L Ronchi,MJ McClenaghan,Imran Tahir,1,0,1,NA,0,NA,NA,NA,0
+749773,2nd innings,New Zealand,South Africa,35.1,L Ronchi,MJ McClenaghan,DW Steyn,0,0,0,NA,0,NA,NA,NA,0
+749773,2nd innings,New Zealand,South Africa,35.2,L Ronchi,MJ McClenaghan,DW Steyn,0,0,0,NA,0,NA,NA,NA,0
+749773,2nd innings,New Zealand,South Africa,35.3,L Ronchi,MJ McClenaghan,DW Steyn,0,0,0,NA,0,NA,NA,NA,0
+749773,2nd innings,New Zealand,South Africa,35.4,L Ronchi,MJ McClenaghan,DW Steyn,0,0,0,NA,0,NA,NA,NA,0
+749773,2nd innings,New Zealand,South Africa,35.5,L Ronchi,MJ McClenaghan,DW Steyn,2,0,2,NA,0,NA,NA,NA,0
+749773,2nd innings,New Zealand,South Africa,35.6,L Ronchi,MJ McClenaghan,DW Steyn,1,0,1,NA,0,NA,NA,NA,0
+749773,2nd innings,New Zealand,South Africa,36.1,L Ronchi,MJ McClenaghan,Imran Tahir,1,0,1,NA,0,NA,NA,NA,0
+749773,2nd innings,New Zealand,South Africa,36.2,MJ McClenaghan,L Ronchi,Imran Tahir,0,0,0,NA,0,NA,NA,NA,0
+749773,2nd innings,New Zealand,South Africa,36.3,MJ McClenaghan,L Ronchi,Imran Tahir,0,0,0,NA,0,NA,NA,NA,0
+749773,2nd innings,New Zealand,South Africa,36.4,MJ McClenaghan,L Ronchi,Imran Tahir,1,0,1,NA,0,NA,NA,NA,0
+749773,2nd innings,New Zealand,South Africa,36.5,L Ronchi,MJ McClenaghan,Imran Tahir,4,0,4,NA,0,NA,NA,NA,0
+749773,2nd innings,New Zealand,South Africa,36.6,L Ronchi,MJ McClenaghan,Imran Tahir,0,0,0,NA,0,NA,NA,NA,0
+749773,2nd innings,New Zealand,South Africa,37.1,MJ McClenaghan,L Ronchi,DW Steyn,0,0,0,NA,0,NA,NA,NA,0
+749773,2nd innings,New Zealand,South Africa,37.2,MJ McClenaghan,L Ronchi,DW Steyn,1,0,1,NA,0,NA,NA,NA,0
+749773,2nd innings,New Zealand,South Africa,37.3,L Ronchi,MJ McClenaghan,DW Steyn,4,0,4,NA,0,NA,NA,NA,0
+749773,2nd innings,New Zealand,South Africa,37.4,L Ronchi,MJ McClenaghan,DW Steyn,0,0,0,NA,0,NA,NA,NA,0
+749773,2nd innings,New Zealand,South Africa,37.5,L Ronchi,MJ McClenaghan,DW Steyn,1,0,1,NA,0,NA,NA,NA,0
+749773,2nd innings,New Zealand,South Africa,37.6,MJ McClenaghan,L Ronchi,DW Steyn,0,0,0,NA,0,NA,NA,NA,0
+749773,2nd innings,New Zealand,South Africa,38.1,L Ronchi,MJ McClenaghan,AB de Villiers,0,0,0,NA,0,NA,NA,NA,0
+749773,2nd innings,New Zealand,South Africa,38.2,L Ronchi,MJ McClenaghan,AB de Villiers,1,0,1,NA,0,NA,NA,NA,0
+749773,2nd innings,New Zealand,South Africa,38.3,MJ McClenaghan,L Ronchi,AB de Villiers,0,0,0,NA,0,NA,NA,NA,0
+749773,2nd innings,New Zealand,South Africa,38.4,MJ McClenaghan,L Ronchi,AB de Villiers,0,0,0,NA,0,NA,NA,NA,0
+749773,2nd innings,New Zealand,South Africa,38.5,MJ McClenaghan,L Ronchi,AB de Villiers,2,0,2,NA,0,NA,NA,NA,0
+749773,2nd innings,New Zealand,South Africa,38.6,MJ McClenaghan,L Ronchi,AB de Villiers,1,0,1,NA,0,NA,NA,NA,0
+749773,2nd innings,New Zealand,South Africa,39.1,MJ McClenaghan,L Ronchi,DW Steyn,0,0,0,NA,0,NA,NA,NA,0
+749773,2nd innings,New Zealand,South Africa,39.2,MJ McClenaghan,L Ronchi,DW Steyn,1,0,1,NA,0,NA,NA,NA,0
+749773,2nd innings,New Zealand,South Africa,39.3,L Ronchi,MJ McClenaghan,DW Steyn,2,0,2,NA,0,NA,NA,NA,0
+749773,2nd innings,New Zealand,South Africa,39.4,L Ronchi,MJ McClenaghan,DW Steyn,0,0,0,NA,0,NA,NA,NA,0
+749773,2nd innings,New Zealand,South Africa,39.5,L Ronchi,MJ McClenaghan,DW Steyn,1,0,1,NA,0,NA,NA,NA,0
+749773,2nd innings,New Zealand,South Africa,39.6,MJ McClenaghan,L Ronchi,DW Steyn,0,0,0,NA,0,NA,NA,NA,0
+749773,2nd innings,New Zealand,South Africa,40.1,L Ronchi,MJ McClenaghan,AB de Villiers,2,0,2,NA,0,NA,NA,NA,0
+749773,2nd innings,New Zealand,South Africa,40.2,L Ronchi,MJ McClenaghan,AB de Villiers,4,0,4,NA,0,NA,NA,NA,0
+749773,2nd innings,New Zealand,South Africa,40.3,L Ronchi,MJ McClenaghan,AB de Villiers,0,0,0,NA,0,NA,NA,NA,0
+749773,2nd innings,New Zealand,South Africa,40.4,L Ronchi,MJ McClenaghan,AB de Villiers,0,0,0,NA,0,NA,NA,NA,0
+749773,2nd innings,New Zealand,South Africa,40.5,L Ronchi,MJ McClenaghan,AB de Villiers,1,0,1,NA,0,NA,NA,NA,0
+749773,2nd innings,New Zealand,South Africa,40.6,MJ McClenaghan,L Ronchi,AB de Villiers,0,1,1,wides,0,NA,NA,NA,0
+749773,2nd innings,New Zealand,South Africa,40.7,MJ McClenaghan,L Ronchi,AB de Villiers,1,0,1,NA,0,NA,NA,NA,0
+749773,2nd innings,New Zealand,South Africa,41.1,MJ McClenaghan,L Ronchi,JP Duminy,1,0,1,NA,0,NA,NA,NA,0
+749773,2nd innings,New Zealand,South Africa,41.2,L Ronchi,MJ McClenaghan,JP Duminy,0,0,0,NA,0,NA,NA,NA,0
+749773,2nd innings,New Zealand,South Africa,41.3,L Ronchi,MJ McClenaghan,JP Duminy,0,0,0,NA,0,NA,NA,NA,0
+749773,2nd innings,New Zealand,South Africa,41.4,L Ronchi,MJ McClenaghan,JP Duminy,0,0,0,NA,0,NA,NA,NA,0
+749773,2nd innings,New Zealand,South Africa,41.5,L Ronchi,MJ McClenaghan,JP Duminy,1,0,1,NA,0,NA,NA,NA,0
+749773,2nd innings,New Zealand,South Africa,41.6,MJ McClenaghan,L Ronchi,JP Duminy,3,0,3,NA,0,NA,NA,NA,0
+749773,2nd innings,New Zealand,South Africa,42.1,MJ McClenaghan,L Ronchi,M Morkel,0,0,0,NA,0,NA,NA,NA,0
+749773,2nd innings,New Zealand,South Africa,42.2,MJ McClenaghan,L Ronchi,M Morkel,1,0,1,NA,0,NA,NA,NA,0
+749773,2nd innings,New Zealand,South Africa,42.3,L Ronchi,MJ McClenaghan,M Morkel,1,0,1,NA,0,NA,NA,NA,0
+749773,2nd innings,New Zealand,South Africa,42.4,MJ McClenaghan,L Ronchi,M Morkel,0,0,0,NA,0,NA,NA,NA,0
+749773,2nd innings,New Zealand,South Africa,42.5,MJ McClenaghan,L Ronchi,M Morkel,0,0,0,NA,0,NA,NA,NA,0
+749773,2nd innings,New Zealand,South Africa,42.6,MJ McClenaghan,L Ronchi,M Morkel,0,0,0,NA,0,NA,NA,NA,0
+749773,2nd innings,New Zealand,South Africa,43.1,L Ronchi,MJ McClenaghan,JP Duminy,2,0,2,NA,0,NA,NA,NA,0
+749773,2nd innings,New Zealand,South Africa,43.2,L Ronchi,MJ McClenaghan,JP Duminy,3,0,3,NA,0,NA,NA,NA,0
+749773,2nd innings,New Zealand,South Africa,43.3,MJ McClenaghan,L Ronchi,JP Duminy,0,0,0,NA,0,NA,NA,NA,0
+749773,2nd innings,New Zealand,South Africa,43.4,MJ McClenaghan,L Ronchi,JP Duminy,4,0,4,NA,0,NA,NA,NA,0
+749773,2nd innings,New Zealand,South Africa,43.5,MJ McClenaghan,L Ronchi,JP Duminy,0,0,0,NA,0,NA,NA,NA,0
+749773,2nd innings,New Zealand,South Africa,43.6,MJ McClenaghan,L Ronchi,JP Duminy,1,0,1,NA,0,NA,NA,NA,0
+749773,2nd innings,New Zealand,South Africa,44.1,MJ McClenaghan,L Ronchi,M Morkel,4,0,4,NA,0,NA,NA,NA,0
+749773,2nd innings,New Zealand,South Africa,44.2,MJ McClenaghan,L Ronchi,M Morkel,4,0,4,NA,0,NA,NA,NA,0
+749773,2nd innings,New Zealand,South Africa,44.3,MJ McClenaghan,L Ronchi,M Morkel,0,0,0,NA,0,NA,NA,NA,0
+749773,2nd innings,New Zealand,South Africa,44.4,MJ McClenaghan,L Ronchi,M Morkel,0,0,0,NA,0,NA,NA,NA,0
+749773,2nd innings,New Zealand,South Africa,44.5,MJ McClenaghan,L Ronchi,M Morkel,4,0,4,NA,0,NA,NA,NA,0
+749773,2nd innings,New Zealand,South Africa,44.6,MJ McClenaghan,L Ronchi,M Morkel,0,0,0,NA,0,NA,NA,NA,0
+749773,2nd innings,New Zealand,South Africa,45.1,L Ronchi,MJ McClenaghan,DW Steyn,0,0,0,NA,0,NA,NA,NA,0
+749773,2nd innings,New Zealand,South Africa,45.2,L Ronchi,MJ McClenaghan,DW Steyn,4,0,4,NA,0,NA,NA,NA,0
+749773,2nd innings,New Zealand,South Africa,45.3,L Ronchi,MJ McClenaghan,DW Steyn,1,0,1,NA,0,NA,NA,NA,0
+749773,2nd innings,New Zealand,South Africa,45.4,MJ McClenaghan,L Ronchi,DW Steyn,0,1,1,legbyes,0,NA,NA,NA,0
+749773,2nd innings,New Zealand,South Africa,45.5,L Ronchi,MJ McClenaghan,DW Steyn,1,0,1,NA,0,NA,NA,NA,0
+749773,2nd innings,New Zealand,South Africa,45.6,MJ McClenaghan,L Ronchi,DW Steyn,1,0,1,NA,0,NA,NA,NA,0
+749773,2nd innings,New Zealand,South Africa,46.1,MJ McClenaghan,L Ronchi,VD Philander,0,0,0,NA,0,NA,NA,NA,0
+749773,2nd innings,New Zealand,South Africa,46.2,MJ McClenaghan,L Ronchi,VD Philander,1,0,1,NA,0,NA,NA,NA,0
+749773,2nd innings,New Zealand,South Africa,46.3,L Ronchi,MJ McClenaghan,VD Philander,0,0,0,NA,1,caught,L Ronchi,F du Plessis,0

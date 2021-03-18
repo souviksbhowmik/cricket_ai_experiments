@@ -1,0 +1,570 @@
+match_id,innings,team,opponent,ball,batsman,non_striker,bowler,scored_runs,extras,total,extra_type,wicket,wicket_type,player_out,fielders,winner
+589310,1st innings,India,Pakistan,0.1,G Gambhir,AM Rahane,Mohammad Irfan,0,0,0,NA,0,NA,NA,NA,1
+589310,1st innings,India,Pakistan,0.2,G Gambhir,AM Rahane,Mohammad Irfan,0,0,0,NA,0,NA,NA,NA,1
+589310,1st innings,India,Pakistan,0.3,G Gambhir,AM Rahane,Mohammad Irfan,0,0,0,NA,0,NA,NA,NA,1
+589310,1st innings,India,Pakistan,0.4,G Gambhir,AM Rahane,Mohammad Irfan,1,0,1,NA,0,NA,NA,NA,1
+589310,1st innings,India,Pakistan,0.5,AM Rahane,G Gambhir,Mohammad Irfan,0,0,0,NA,0,NA,NA,NA,1
+589310,1st innings,India,Pakistan,0.6,AM Rahane,G Gambhir,Mohammad Irfan,0,0,0,NA,0,NA,NA,NA,1
+589310,1st innings,India,Pakistan,1.1,G Gambhir,AM Rahane,Junaid Khan,0,0,0,NA,0,NA,NA,NA,1
+589310,1st innings,India,Pakistan,1.2,G Gambhir,AM Rahane,Junaid Khan,3,0,3,NA,0,NA,NA,NA,1
+589310,1st innings,India,Pakistan,1.3,AM Rahane,G Gambhir,Junaid Khan,0,0,0,NA,0,NA,NA,NA,1
+589310,1st innings,India,Pakistan,1.4,AM Rahane,G Gambhir,Junaid Khan,0,2,2,legbyes,0,NA,NA,NA,1
+589310,1st innings,India,Pakistan,1.5,AM Rahane,G Gambhir,Junaid Khan,0,0,0,NA,0,NA,NA,NA,1
+589310,1st innings,India,Pakistan,1.6,AM Rahane,G Gambhir,Junaid Khan,0,0,0,NA,0,NA,NA,NA,1
+589310,1st innings,India,Pakistan,2.1,G Gambhir,AM Rahane,Mohammad Irfan,0,0,0,NA,0,NA,NA,NA,1
+589310,1st innings,India,Pakistan,2.2,G Gambhir,AM Rahane,Mohammad Irfan,4,0,4,NA,0,NA,NA,NA,1
+589310,1st innings,India,Pakistan,2.3,G Gambhir,AM Rahane,Mohammad Irfan,0,0,0,NA,0,NA,NA,NA,1
+589310,1st innings,India,Pakistan,2.4,G Gambhir,AM Rahane,Mohammad Irfan,1,0,1,NA,0,NA,NA,NA,1
+589310,1st innings,India,Pakistan,2.5,AM Rahane,G Gambhir,Mohammad Irfan,0,0,0,NA,0,NA,NA,NA,1
+589310,1st innings,India,Pakistan,2.6,AM Rahane,G Gambhir,Mohammad Irfan,4,0,4,NA,0,NA,NA,NA,1
+589310,1st innings,India,Pakistan,3.1,G Gambhir,AM Rahane,Junaid Khan,0,0,0,NA,0,NA,NA,NA,1
+589310,1st innings,India,Pakistan,3.2,G Gambhir,AM Rahane,Junaid Khan,0,0,0,NA,0,NA,NA,NA,1
+589310,1st innings,India,Pakistan,3.3,G Gambhir,AM Rahane,Junaid Khan,0,0,0,NA,0,NA,NA,NA,1
+589310,1st innings,India,Pakistan,3.4,G Gambhir,AM Rahane,Junaid Khan,2,0,2,NA,0,NA,NA,NA,1
+589310,1st innings,India,Pakistan,3.5,G Gambhir,AM Rahane,Junaid Khan,1,0,1,NA,0,NA,NA,NA,1
+589310,1st innings,India,Pakistan,3.6,AM Rahane,G Gambhir,Junaid Khan,0,0,0,NA,0,NA,NA,NA,1
+589310,1st innings,India,Pakistan,4.1,G Gambhir,AM Rahane,Mohammad Irfan,1,0,1,NA,0,NA,NA,NA,1
+589310,1st innings,India,Pakistan,4.2,AM Rahane,G Gambhir,Mohammad Irfan,0,0,0,NA,0,NA,NA,NA,1
+589310,1st innings,India,Pakistan,4.3,AM Rahane,G Gambhir,Mohammad Irfan,0,0,0,NA,1,caught,AM Rahane,Kamran Akmal,1
+589310,1st innings,India,Pakistan,4.4,V Kohli,G Gambhir,Mohammad Irfan,4,0,4,NA,0,NA,NA,NA,1
+589310,1st innings,India,Pakistan,4.5,V Kohli,G Gambhir,Mohammad Irfan,0,0,0,NA,0,NA,NA,NA,1
+589310,1st innings,India,Pakistan,4.6,V Kohli,G Gambhir,Mohammad Irfan,1,0,1,NA,0,NA,NA,NA,1
+589310,1st innings,India,Pakistan,5.1,V Kohli,G Gambhir,Junaid Khan,0,0,0,NA,0,NA,NA,NA,1
+589310,1st innings,India,Pakistan,5.2,V Kohli,G Gambhir,Junaid Khan,0,0,0,NA,0,NA,NA,NA,1
+589310,1st innings,India,Pakistan,5.3,V Kohli,G Gambhir,Junaid Khan,0,0,0,NA,0,NA,NA,NA,1
+589310,1st innings,India,Pakistan,5.4,V Kohli,G Gambhir,Junaid Khan,0,0,0,NA,0,NA,NA,NA,1
+589310,1st innings,India,Pakistan,5.5,V Kohli,G Gambhir,Junaid Khan,0,1,1,wides,0,NA,NA,NA,1
+589310,1st innings,India,Pakistan,5.6,V Kohli,G Gambhir,Junaid Khan,0,0,0,NA,0,NA,NA,NA,1
+589310,1st innings,India,Pakistan,5.7,V Kohli,G Gambhir,Junaid Khan,0,0,0,NA,0,NA,NA,NA,1
+589310,1st innings,India,Pakistan,6.1,G Gambhir,V Kohli,Mohammad Irfan,0,0,0,NA,0,NA,NA,NA,1
+589310,1st innings,India,Pakistan,6.2,G Gambhir,V Kohli,Mohammad Irfan,0,0,0,NA,0,NA,NA,NA,1
+589310,1st innings,India,Pakistan,6.3,G Gambhir,V Kohli,Mohammad Irfan,0,0,0,NA,0,NA,NA,NA,1
+589310,1st innings,India,Pakistan,6.4,G Gambhir,V Kohli,Mohammad Irfan,0,0,0,NA,0,NA,NA,NA,1
+589310,1st innings,India,Pakistan,6.5,G Gambhir,V Kohli,Mohammad Irfan,0,0,0,NA,0,NA,NA,NA,1
+589310,1st innings,India,Pakistan,6.6,G Gambhir,V Kohli,Mohammad Irfan,0,0,0,NA,0,NA,NA,NA,1
+589310,1st innings,India,Pakistan,7.1,V Kohli,G Gambhir,Junaid Khan,0,0,0,NA,0,NA,NA,NA,1
+589310,1st innings,India,Pakistan,7.2,V Kohli,G Gambhir,Junaid Khan,0,0,0,NA,0,NA,NA,NA,1
+589310,1st innings,India,Pakistan,7.3,V Kohli,G Gambhir,Junaid Khan,1,0,1,NA,0,NA,NA,NA,1
+589310,1st innings,India,Pakistan,7.4,G Gambhir,V Kohli,Junaid Khan,2,0,2,NA,0,NA,NA,NA,1
+589310,1st innings,India,Pakistan,7.5,G Gambhir,V Kohli,Junaid Khan,0,0,0,NA,0,NA,NA,NA,1
+589310,1st innings,India,Pakistan,7.6,G Gambhir,V Kohli,Junaid Khan,0,0,0,NA,0,NA,NA,NA,1
+589310,1st innings,India,Pakistan,8.1,V Kohli,G Gambhir,Mohammad Irfan,0,0,0,NA,0,NA,NA,NA,1
+589310,1st innings,India,Pakistan,8.2,V Kohli,G Gambhir,Mohammad Irfan,1,0,1,NA,0,NA,NA,NA,1
+589310,1st innings,India,Pakistan,8.3,G Gambhir,V Kohli,Mohammad Irfan,0,0,0,NA,0,NA,NA,NA,1
+589310,1st innings,India,Pakistan,8.4,G Gambhir,V Kohli,Mohammad Irfan,0,0,0,NA,1,caught,G Gambhir,Umar Akmal,1
+589310,1st innings,India,Pakistan,8.5,Yuvraj Singh,V Kohli,Mohammad Irfan,4,0,4,NA,0,NA,NA,NA,1
+589310,1st innings,India,Pakistan,8.6,Yuvraj Singh,V Kohli,Mohammad Irfan,4,0,4,NA,0,NA,NA,NA,1
+589310,1st innings,India,Pakistan,9.1,V Kohli,Yuvraj Singh,Junaid Khan,0,0,0,NA,0,NA,NA,NA,1
+589310,1st innings,India,Pakistan,9.2,V Kohli,Yuvraj Singh,Junaid Khan,0,0,0,NA,0,NA,NA,NA,1
+589310,1st innings,India,Pakistan,9.3,V Kohli,Yuvraj Singh,Junaid Khan,0,0,0,NA,1,caught,V Kohli,Younis Khan,1
+589310,1st innings,India,Pakistan,9.4,SK Raina,Yuvraj Singh,Junaid Khan,0,0,0,NA,0,NA,NA,NA,1
+589310,1st innings,India,Pakistan,9.5,SK Raina,Yuvraj Singh,Junaid Khan,0,1,1,wides,0,NA,NA,NA,1
+589310,1st innings,India,Pakistan,9.6,SK Raina,Yuvraj Singh,Junaid Khan,0,0,0,NA,0,NA,NA,NA,1
+589310,1st innings,India,Pakistan,9.7,SK Raina,Yuvraj Singh,Junaid Khan,0,0,0,NA,0,NA,NA,NA,1
+589310,1st innings,India,Pakistan,10.1,Yuvraj Singh,SK Raina,Mohammad Irfan,1,0,1,NA,0,NA,NA,NA,1
+589310,1st innings,India,Pakistan,10.2,SK Raina,Yuvraj Singh,Mohammad Irfan,0,0,0,NA,0,NA,NA,NA,1
+589310,1st innings,India,Pakistan,10.3,SK Raina,Yuvraj Singh,Mohammad Irfan,1,0,1,NA,0,NA,NA,NA,1
+589310,1st innings,India,Pakistan,10.4,Yuvraj Singh,SK Raina,Mohammad Irfan,0,0,0,NA,0,NA,NA,NA,1
+589310,1st innings,India,Pakistan,10.5,Yuvraj Singh,SK Raina,Mohammad Irfan,0,0,0,NA,0,NA,NA,NA,1
+589310,1st innings,India,Pakistan,10.6,Yuvraj Singh,SK Raina,Mohammad Irfan,0,0,0,NA,0,NA,NA,NA,1
+589310,1st innings,India,Pakistan,11.1,SK Raina,Yuvraj Singh,Junaid Khan,0,0,0,NA,0,NA,NA,NA,1
+589310,1st innings,India,Pakistan,11.2,SK Raina,Yuvraj Singh,Junaid Khan,0,0,0,NA,0,NA,NA,NA,1
+589310,1st innings,India,Pakistan,11.3,SK Raina,Yuvraj Singh,Junaid Khan,0,0,0,NA,0,NA,NA,NA,1
+589310,1st innings,India,Pakistan,11.4,SK Raina,Yuvraj Singh,Junaid Khan,0,1,1,legbyes,0,NA,NA,NA,1
+589310,1st innings,India,Pakistan,11.5,Yuvraj Singh,SK Raina,Junaid Khan,1,0,1,NA,0,NA,NA,NA,1
+589310,1st innings,India,Pakistan,11.6,SK Raina,Yuvraj Singh,Junaid Khan,0,0,0,NA,0,NA,NA,NA,1
+589310,1st innings,India,Pakistan,12.1,Yuvraj Singh,SK Raina,Mohammad Irfan,1,0,1,NA,0,NA,NA,NA,1
+589310,1st innings,India,Pakistan,12.2,SK Raina,Yuvraj Singh,Mohammad Irfan,0,0,0,NA,0,NA,NA,NA,1
+589310,1st innings,India,Pakistan,12.3,SK Raina,Yuvraj Singh,Mohammad Irfan,0,0,0,NA,0,NA,NA,NA,1
+589310,1st innings,India,Pakistan,12.4,SK Raina,Yuvraj Singh,Mohammad Irfan,0,0,0,NA,0,NA,NA,NA,1
+589310,1st innings,India,Pakistan,12.5,SK Raina,Yuvraj Singh,Mohammad Irfan,0,0,0,NA,0,NA,NA,NA,1
+589310,1st innings,India,Pakistan,12.6,SK Raina,Yuvraj Singh,Mohammad Irfan,0,0,0,NA,0,NA,NA,NA,1
+589310,1st innings,India,Pakistan,13.1,Yuvraj Singh,SK Raina,Junaid Khan,0,0,0,NA,0,NA,NA,NA,1
+589310,1st innings,India,Pakistan,13.2,Yuvraj Singh,SK Raina,Junaid Khan,0,0,0,NA,0,NA,NA,NA,1
+589310,1st innings,India,Pakistan,13.3,Yuvraj Singh,SK Raina,Junaid Khan,0,0,0,NA,0,NA,NA,NA,1
+589310,1st innings,India,Pakistan,13.4,Yuvraj Singh,SK Raina,Junaid Khan,0,0,0,NA,0,NA,NA,NA,1
+589310,1st innings,India,Pakistan,13.5,Yuvraj Singh,SK Raina,Junaid Khan,0,0,0,NA,0,NA,NA,NA,1
+589310,1st innings,India,Pakistan,13.6,Yuvraj Singh,SK Raina,Junaid Khan,0,0,0,NA,0,NA,NA,NA,1
+589310,1st innings,India,Pakistan,14.1,SK Raina,Yuvraj Singh,Umar Gul,1,0,1,NA,0,NA,NA,NA,1
+589310,1st innings,India,Pakistan,14.2,Yuvraj Singh,SK Raina,Umar Gul,4,0,4,NA,0,NA,NA,NA,1
+589310,1st innings,India,Pakistan,14.3,Yuvraj Singh,SK Raina,Umar Gul,0,1,1,wides,0,NA,NA,NA,1
+589310,1st innings,India,Pakistan,14.4,Yuvraj Singh,SK Raina,Umar Gul,4,0,4,NA,0,NA,NA,NA,1
+589310,1st innings,India,Pakistan,14.5,Yuvraj Singh,SK Raina,Umar Gul,0,0,0,NA,0,NA,NA,NA,1
+589310,1st innings,India,Pakistan,14.6,Yuvraj Singh,SK Raina,Umar Gul,2,0,2,NA,0,NA,NA,NA,1
+589310,1st innings,India,Pakistan,14.7,Yuvraj Singh,SK Raina,Umar Gul,1,1,2,noballs,0,NA,NA,NA,1
+589310,1st innings,India,Pakistan,14.8,SK Raina,Yuvraj Singh,Umar Gul,4,0,4,NA,0,NA,NA,NA,1
+589310,1st innings,India,Pakistan,15.1,Yuvraj Singh,SK Raina,Mohammad Hafeez,1,0,1,NA,0,NA,NA,NA,1
+589310,1st innings,India,Pakistan,15.2,SK Raina,Yuvraj Singh,Mohammad Hafeez,1,0,1,NA,0,NA,NA,NA,1
+589310,1st innings,India,Pakistan,15.3,Yuvraj Singh,SK Raina,Mohammad Hafeez,0,0,0,NA,0,NA,NA,NA,1
+589310,1st innings,India,Pakistan,15.4,Yuvraj Singh,SK Raina,Mohammad Hafeez,0,0,0,NA,0,NA,NA,NA,1
+589310,1st innings,India,Pakistan,15.5,Yuvraj Singh,SK Raina,Mohammad Hafeez,0,0,0,NA,1,bowled,Yuvraj Singh,NA,1
+589310,1st innings,India,Pakistan,15.6,MS Dhoni,SK Raina,Mohammad Hafeez,0,0,0,NA,0,NA,NA,NA,1
+589310,1st innings,India,Pakistan,16.1,SK Raina,MS Dhoni,Umar Gul,0,0,0,NA,0,NA,NA,NA,1
+589310,1st innings,India,Pakistan,16.2,SK Raina,MS Dhoni,Umar Gul,0,0,0,NA,0,NA,NA,NA,1
+589310,1st innings,India,Pakistan,16.3,SK Raina,MS Dhoni,Umar Gul,0,0,0,NA,0,NA,NA,NA,1
+589310,1st innings,India,Pakistan,16.4,SK Raina,MS Dhoni,Umar Gul,0,0,0,NA,0,NA,NA,NA,1
+589310,1st innings,India,Pakistan,16.5,SK Raina,MS Dhoni,Umar Gul,0,0,0,NA,0,NA,NA,NA,1
+589310,1st innings,India,Pakistan,16.6,SK Raina,MS Dhoni,Umar Gul,0,0,0,NA,0,NA,NA,NA,1
+589310,1st innings,India,Pakistan,17.1,MS Dhoni,SK Raina,Mohammad Hafeez,0,0,0,NA,0,NA,NA,NA,1
+589310,1st innings,India,Pakistan,17.2,MS Dhoni,SK Raina,Mohammad Hafeez,0,0,0,NA,0,NA,NA,NA,1
+589310,1st innings,India,Pakistan,17.3,MS Dhoni,SK Raina,Mohammad Hafeez,0,0,0,NA,0,NA,NA,NA,1
+589310,1st innings,India,Pakistan,17.4,MS Dhoni,SK Raina,Mohammad Hafeez,0,0,0,NA,0,NA,NA,NA,1
+589310,1st innings,India,Pakistan,17.5,MS Dhoni,SK Raina,Mohammad Hafeez,1,0,1,NA,0,NA,NA,NA,1
+589310,1st innings,India,Pakistan,17.6,SK Raina,MS Dhoni,Mohammad Hafeez,0,0,0,NA,0,NA,NA,NA,1
+589310,1st innings,India,Pakistan,18.1,MS Dhoni,SK Raina,Umar Gul,1,0,1,NA,0,NA,NA,NA,1
+589310,1st innings,India,Pakistan,18.2,SK Raina,MS Dhoni,Umar Gul,0,0,0,NA,0,NA,NA,NA,1
+589310,1st innings,India,Pakistan,18.3,SK Raina,MS Dhoni,Umar Gul,0,0,0,NA,0,NA,NA,NA,1
+589310,1st innings,India,Pakistan,18.4,SK Raina,MS Dhoni,Umar Gul,0,0,0,NA,0,NA,NA,NA,1
+589310,1st innings,India,Pakistan,18.5,SK Raina,MS Dhoni,Umar Gul,1,0,1,NA,0,NA,NA,NA,1
+589310,1st innings,India,Pakistan,18.6,MS Dhoni,SK Raina,Umar Gul,1,0,1,NA,0,NA,NA,NA,1
+589310,1st innings,India,Pakistan,19.1,MS Dhoni,SK Raina,Mohammad Hafeez,1,0,1,NA,0,NA,NA,NA,1
+589310,1st innings,India,Pakistan,19.2,SK Raina,MS Dhoni,Mohammad Hafeez,0,0,0,NA,0,NA,NA,NA,1
+589310,1st innings,India,Pakistan,19.3,SK Raina,MS Dhoni,Mohammad Hafeez,6,0,6,NA,0,NA,NA,NA,1
+589310,1st innings,India,Pakistan,19.4,SK Raina,MS Dhoni,Mohammad Hafeez,0,0,0,NA,0,NA,NA,NA,1
+589310,1st innings,India,Pakistan,19.5,SK Raina,MS Dhoni,Mohammad Hafeez,0,0,0,NA,0,NA,NA,NA,1
+589310,1st innings,India,Pakistan,19.6,SK Raina,MS Dhoni,Mohammad Hafeez,1,0,1,NA,0,NA,NA,NA,1
+589310,1st innings,India,Pakistan,20.1,SK Raina,MS Dhoni,Umar Gul,1,0,1,NA,0,NA,NA,NA,1
+589310,1st innings,India,Pakistan,20.2,MS Dhoni,SK Raina,Umar Gul,1,0,1,NA,0,NA,NA,NA,1
+589310,1st innings,India,Pakistan,20.3,SK Raina,MS Dhoni,Umar Gul,1,0,1,NA,0,NA,NA,NA,1
+589310,1st innings,India,Pakistan,20.4,MS Dhoni,SK Raina,Umar Gul,1,0,1,NA,0,NA,NA,NA,1
+589310,1st innings,India,Pakistan,20.5,SK Raina,MS Dhoni,Umar Gul,4,0,4,NA,0,NA,NA,NA,1
+589310,1st innings,India,Pakistan,20.6,SK Raina,MS Dhoni,Umar Gul,1,0,1,NA,0,NA,NA,NA,1
+589310,1st innings,India,Pakistan,21.1,SK Raina,MS Dhoni,Mohammad Hafeez,1,0,1,NA,0,NA,NA,NA,1
+589310,1st innings,India,Pakistan,21.2,MS Dhoni,SK Raina,Mohammad Hafeez,0,0,0,NA,0,NA,NA,NA,1
+589310,1st innings,India,Pakistan,21.3,MS Dhoni,SK Raina,Mohammad Hafeez,0,0,0,NA,0,NA,NA,NA,1
+589310,1st innings,India,Pakistan,21.4,MS Dhoni,SK Raina,Mohammad Hafeez,0,0,0,NA,0,NA,NA,NA,1
+589310,1st innings,India,Pakistan,21.5,MS Dhoni,SK Raina,Mohammad Hafeez,1,0,1,NA,0,NA,NA,NA,1
+589310,1st innings,India,Pakistan,21.6,SK Raina,MS Dhoni,Mohammad Hafeez,1,0,1,NA,0,NA,NA,NA,1
+589310,1st innings,India,Pakistan,22.1,SK Raina,MS Dhoni,Saeed Ajmal,0,0,0,NA,0,NA,NA,NA,1
+589310,1st innings,India,Pakistan,22.2,SK Raina,MS Dhoni,Saeed Ajmal,1,0,1,NA,0,NA,NA,NA,1
+589310,1st innings,India,Pakistan,22.3,MS Dhoni,SK Raina,Saeed Ajmal,0,0,0,NA,0,NA,NA,NA,1
+589310,1st innings,India,Pakistan,22.4,MS Dhoni,SK Raina,Saeed Ajmal,1,0,1,NA,0,NA,NA,NA,1
+589310,1st innings,India,Pakistan,22.5,SK Raina,MS Dhoni,Saeed Ajmal,1,0,1,NA,0,NA,NA,NA,1
+589310,1st innings,India,Pakistan,22.6,MS Dhoni,SK Raina,Saeed Ajmal,0,0,0,NA,0,NA,NA,NA,1
+589310,1st innings,India,Pakistan,23.1,SK Raina,MS Dhoni,Mohammad Hafeez,1,0,1,NA,0,NA,NA,NA,1
+589310,1st innings,India,Pakistan,23.2,MS Dhoni,SK Raina,Mohammad Hafeez,0,0,0,NA,0,NA,NA,NA,1
+589310,1st innings,India,Pakistan,23.3,MS Dhoni,SK Raina,Mohammad Hafeez,0,0,0,NA,0,NA,NA,NA,1
+589310,1st innings,India,Pakistan,23.4,MS Dhoni,SK Raina,Mohammad Hafeez,1,0,1,NA,0,NA,NA,NA,1
+589310,1st innings,India,Pakistan,23.5,SK Raina,MS Dhoni,Mohammad Hafeez,0,0,0,NA,0,NA,NA,NA,1
+589310,1st innings,India,Pakistan,23.6,SK Raina,MS Dhoni,Mohammad Hafeez,0,0,0,NA,0,NA,NA,NA,1
+589310,1st innings,India,Pakistan,24.1,MS Dhoni,SK Raina,Saeed Ajmal,0,0,0,NA,0,NA,NA,NA,1
+589310,1st innings,India,Pakistan,24.2,MS Dhoni,SK Raina,Saeed Ajmal,0,1,1,wides,0,NA,NA,NA,1
+589310,1st innings,India,Pakistan,24.3,MS Dhoni,SK Raina,Saeed Ajmal,0,1,1,legbyes,0,NA,NA,NA,1
+589310,1st innings,India,Pakistan,24.4,SK Raina,MS Dhoni,Saeed Ajmal,0,0,0,NA,0,NA,NA,NA,1
+589310,1st innings,India,Pakistan,24.5,SK Raina,MS Dhoni,Saeed Ajmal,1,0,1,NA,0,NA,NA,NA,1
+589310,1st innings,India,Pakistan,24.6,MS Dhoni,SK Raina,Saeed Ajmal,0,0,0,NA,0,NA,NA,NA,1
+589310,1st innings,India,Pakistan,24.7,MS Dhoni,SK Raina,Saeed Ajmal,0,0,0,NA,0,NA,NA,NA,1
+589310,1st innings,India,Pakistan,25.1,SK Raina,MS Dhoni,Mohammad Hafeez,0,0,0,NA,0,NA,NA,NA,1
+589310,1st innings,India,Pakistan,25.2,SK Raina,MS Dhoni,Mohammad Hafeez,1,0,1,NA,0,NA,NA,NA,1
+589310,1st innings,India,Pakistan,25.3,MS Dhoni,SK Raina,Mohammad Hafeez,0,0,0,NA,0,NA,NA,NA,1
+589310,1st innings,India,Pakistan,25.4,MS Dhoni,SK Raina,Mohammad Hafeez,0,0,0,NA,0,NA,NA,NA,1
+589310,1st innings,India,Pakistan,25.5,MS Dhoni,SK Raina,Mohammad Hafeez,0,0,0,NA,0,NA,NA,NA,1
+589310,1st innings,India,Pakistan,25.6,MS Dhoni,SK Raina,Mohammad Hafeez,0,0,0,NA,0,NA,NA,NA,1
+589310,1st innings,India,Pakistan,26.1,SK Raina,MS Dhoni,Saeed Ajmal,0,0,0,NA,0,NA,NA,NA,1
+589310,1st innings,India,Pakistan,26.2,SK Raina,MS Dhoni,Saeed Ajmal,0,0,0,NA,0,NA,NA,NA,1
+589310,1st innings,India,Pakistan,26.3,SK Raina,MS Dhoni,Saeed Ajmal,1,0,1,NA,0,NA,NA,NA,1
+589310,1st innings,India,Pakistan,26.4,MS Dhoni,SK Raina,Saeed Ajmal,0,0,0,NA,0,NA,NA,NA,1
+589310,1st innings,India,Pakistan,26.5,MS Dhoni,SK Raina,Saeed Ajmal,0,0,0,NA,0,NA,NA,NA,1
+589310,1st innings,India,Pakistan,26.6,MS Dhoni,SK Raina,Saeed Ajmal,0,0,0,NA,0,NA,NA,NA,1
+589310,1st innings,India,Pakistan,27.1,SK Raina,MS Dhoni,Mohammad Hafeez,0,0,0,NA,0,NA,NA,NA,1
+589310,1st innings,India,Pakistan,27.2,SK Raina,MS Dhoni,Mohammad Hafeez,0,0,0,NA,0,NA,NA,NA,1
+589310,1st innings,India,Pakistan,27.3,SK Raina,MS Dhoni,Mohammad Hafeez,1,0,1,NA,0,NA,NA,NA,1
+589310,1st innings,India,Pakistan,27.4,MS Dhoni,SK Raina,Mohammad Hafeez,0,1,1,wides,0,NA,NA,NA,1
+589310,1st innings,India,Pakistan,27.5,MS Dhoni,SK Raina,Mohammad Hafeez,6,0,6,NA,0,NA,NA,NA,1
+589310,1st innings,India,Pakistan,27.6,MS Dhoni,SK Raina,Mohammad Hafeez,6,0,6,NA,0,NA,NA,NA,1
+589310,1st innings,India,Pakistan,27.7,MS Dhoni,SK Raina,Mohammad Hafeez,0,0,0,NA,0,NA,NA,NA,1
+589310,1st innings,India,Pakistan,28.1,SK Raina,MS Dhoni,Saeed Ajmal,0,0,0,NA,0,NA,NA,NA,1
+589310,1st innings,India,Pakistan,28.2,SK Raina,MS Dhoni,Saeed Ajmal,0,0,0,NA,0,NA,NA,NA,1
+589310,1st innings,India,Pakistan,28.3,SK Raina,MS Dhoni,Saeed Ajmal,0,0,0,NA,0,NA,NA,NA,1
+589310,1st innings,India,Pakistan,28.4,SK Raina,MS Dhoni,Saeed Ajmal,0,0,0,NA,1,lbw,SK Raina,NA,1
+589310,1st innings,India,Pakistan,28.5,R Ashwin,MS Dhoni,Saeed Ajmal,0,0,0,NA,1,lbw,R Ashwin,NA,1
+589310,1st innings,India,Pakistan,28.6,RA Jadeja,MS Dhoni,Saeed Ajmal,0,0,0,NA,0,NA,NA,NA,1
+589310,1st innings,India,Pakistan,29.1,MS Dhoni,RA Jadeja,Mohammad Hafeez,6,0,6,NA,0,NA,NA,NA,1
+589310,1st innings,India,Pakistan,29.2,MS Dhoni,RA Jadeja,Mohammad Hafeez,1,0,1,NA,0,NA,NA,NA,1
+589310,1st innings,India,Pakistan,29.3,RA Jadeja,MS Dhoni,Mohammad Hafeez,0,0,0,NA,0,NA,NA,NA,1
+589310,1st innings,India,Pakistan,29.4,RA Jadeja,MS Dhoni,Mohammad Hafeez,0,0,0,NA,0,NA,NA,NA,1
+589310,1st innings,India,Pakistan,29.5,RA Jadeja,MS Dhoni,Mohammad Hafeez,0,0,0,NA,0,NA,NA,NA,1
+589310,1st innings,India,Pakistan,29.6,RA Jadeja,MS Dhoni,Mohammad Hafeez,0,0,0,NA,0,NA,NA,NA,1
+589310,1st innings,India,Pakistan,30.1,MS Dhoni,RA Jadeja,Saeed Ajmal,0,0,0,NA,0,NA,NA,NA,1
+589310,1st innings,India,Pakistan,30.2,MS Dhoni,RA Jadeja,Saeed Ajmal,0,0,0,NA,0,NA,NA,NA,1
+589310,1st innings,India,Pakistan,30.3,MS Dhoni,RA Jadeja,Saeed Ajmal,0,0,0,NA,0,NA,NA,NA,1
+589310,1st innings,India,Pakistan,30.4,MS Dhoni,RA Jadeja,Saeed Ajmal,0,0,0,NA,0,NA,NA,NA,1
+589310,1st innings,India,Pakistan,30.5,MS Dhoni,RA Jadeja,Saeed Ajmal,1,0,1,NA,0,NA,NA,NA,1
+589310,1st innings,India,Pakistan,30.6,RA Jadeja,MS Dhoni,Saeed Ajmal,0,0,0,NA,0,NA,NA,NA,1
+589310,1st innings,India,Pakistan,31.1,MS Dhoni,RA Jadeja,Mohammad Hafeez,0,0,0,NA,0,NA,NA,NA,1
+589310,1st innings,India,Pakistan,31.2,MS Dhoni,RA Jadeja,Mohammad Hafeez,0,1,1,wides,0,NA,NA,NA,1
+589310,1st innings,India,Pakistan,31.3,MS Dhoni,RA Jadeja,Mohammad Hafeez,0,0,0,NA,0,NA,NA,NA,1
+589310,1st innings,India,Pakistan,31.4,MS Dhoni,RA Jadeja,Mohammad Hafeez,0,0,0,NA,0,NA,NA,NA,1
+589310,1st innings,India,Pakistan,31.5,MS Dhoni,RA Jadeja,Mohammad Hafeez,1,0,1,NA,0,NA,NA,NA,1
+589310,1st innings,India,Pakistan,31.6,RA Jadeja,MS Dhoni,Mohammad Hafeez,1,0,1,NA,0,NA,NA,NA,1
+589310,1st innings,India,Pakistan,31.7,MS Dhoni,RA Jadeja,Mohammad Hafeez,1,0,1,NA,0,NA,NA,NA,1
+589310,1st innings,India,Pakistan,32.1,MS Dhoni,RA Jadeja,Umar Gul,0,0,0,NA,0,NA,NA,NA,1
+589310,1st innings,India,Pakistan,32.2,MS Dhoni,RA Jadeja,Umar Gul,0,0,0,NA,0,NA,NA,NA,1
+589310,1st innings,India,Pakistan,32.3,MS Dhoni,RA Jadeja,Umar Gul,0,0,0,NA,0,NA,NA,NA,1
+589310,1st innings,India,Pakistan,32.4,MS Dhoni,RA Jadeja,Umar Gul,1,0,1,NA,0,NA,NA,NA,1
+589310,1st innings,India,Pakistan,32.5,RA Jadeja,MS Dhoni,Umar Gul,0,0,0,NA,0,NA,NA,NA,1
+589310,1st innings,India,Pakistan,32.6,RA Jadeja,MS Dhoni,Umar Gul,1,0,1,NA,0,NA,NA,NA,1
+589310,1st innings,India,Pakistan,33.1,RA Jadeja,MS Dhoni,Mohammad Hafeez,2,0,2,NA,0,NA,NA,NA,1
+589310,1st innings,India,Pakistan,33.2,RA Jadeja,MS Dhoni,Mohammad Hafeez,0,0,0,NA,0,NA,NA,NA,1
+589310,1st innings,India,Pakistan,33.3,RA Jadeja,MS Dhoni,Mohammad Hafeez,0,0,0,NA,0,NA,NA,NA,1
+589310,1st innings,India,Pakistan,33.4,RA Jadeja,MS Dhoni,Mohammad Hafeez,0,0,0,NA,0,NA,NA,NA,1
+589310,1st innings,India,Pakistan,33.5,RA Jadeja,MS Dhoni,Mohammad Hafeez,0,0,0,NA,0,NA,NA,NA,1
+589310,1st innings,India,Pakistan,33.6,RA Jadeja,MS Dhoni,Mohammad Hafeez,0,0,0,NA,0,NA,NA,NA,1
+589310,1st innings,India,Pakistan,34.1,MS Dhoni,RA Jadeja,Umar Gul,0,0,0,NA,0,NA,NA,NA,1
+589310,1st innings,India,Pakistan,34.2,MS Dhoni,RA Jadeja,Umar Gul,4,0,4,NA,0,NA,NA,NA,1
+589310,1st innings,India,Pakistan,34.3,MS Dhoni,RA Jadeja,Umar Gul,0,0,0,NA,0,NA,NA,NA,1
+589310,1st innings,India,Pakistan,34.4,MS Dhoni,RA Jadeja,Umar Gul,0,0,0,NA,1,caught,MS Dhoni,Umar Akmal,1
+589310,1st innings,India,Pakistan,34.5,B Kumar,RA Jadeja,Umar Gul,0,0,0,NA,0,NA,NA,NA,1
+589310,1st innings,India,Pakistan,34.6,B Kumar,RA Jadeja,Umar Gul,0,0,0,NA,0,NA,NA,NA,1
+589310,1st innings,India,Pakistan,35.1,RA Jadeja,B Kumar,Saeed Ajmal,0,0,0,NA,0,NA,NA,NA,1
+589310,1st innings,India,Pakistan,35.2,RA Jadeja,B Kumar,Saeed Ajmal,0,0,0,NA,0,NA,NA,NA,1
+589310,1st innings,India,Pakistan,35.3,RA Jadeja,B Kumar,Saeed Ajmal,0,0,0,NA,0,NA,NA,NA,1
+589310,1st innings,India,Pakistan,35.4,RA Jadeja,B Kumar,Saeed Ajmal,2,0,2,NA,0,NA,NA,NA,1
+589310,1st innings,India,Pakistan,35.5,RA Jadeja,B Kumar,Saeed Ajmal,0,0,0,NA,0,NA,NA,NA,1
+589310,1st innings,India,Pakistan,35.6,RA Jadeja,B Kumar,Saeed Ajmal,0,0,0,NA,0,NA,NA,NA,1
+589310,1st innings,India,Pakistan,36.1,B Kumar,RA Jadeja,Umar Gul,0,0,0,NA,0,NA,NA,NA,1
+589310,1st innings,India,Pakistan,36.2,B Kumar,RA Jadeja,Umar Gul,0,0,0,NA,0,NA,NA,NA,1
+589310,1st innings,India,Pakistan,36.3,B Kumar,RA Jadeja,Umar Gul,0,0,0,NA,0,NA,NA,NA,1
+589310,1st innings,India,Pakistan,36.4,B Kumar,RA Jadeja,Umar Gul,0,5,5,penalty,0,NA,NA,NA,1
+589310,1st innings,India,Pakistan,36.5,B Kumar,RA Jadeja,Umar Gul,1,0,1,NA,0,NA,NA,NA,1
+589310,1st innings,India,Pakistan,36.6,RA Jadeja,B Kumar,Umar Gul,0,0,0,NA,0,NA,NA,NA,1
+589310,1st innings,India,Pakistan,37.1,B Kumar,RA Jadeja,Saeed Ajmal,1,0,1,NA,0,NA,NA,NA,1
+589310,1st innings,India,Pakistan,37.2,RA Jadeja,B Kumar,Saeed Ajmal,0,0,0,NA,0,NA,NA,NA,1
+589310,1st innings,India,Pakistan,37.3,RA Jadeja,B Kumar,Saeed Ajmal,1,0,1,NA,0,NA,NA,NA,1
+589310,1st innings,India,Pakistan,37.4,B Kumar,RA Jadeja,Saeed Ajmal,0,0,0,NA,0,NA,NA,NA,1
+589310,1st innings,India,Pakistan,37.5,B Kumar,RA Jadeja,Saeed Ajmal,0,0,0,NA,1,lbw,B Kumar,NA,1
+589310,1st innings,India,Pakistan,37.6,I Sharma,RA Jadeja,Saeed Ajmal,0,0,0,NA,0,NA,NA,NA,1
+589310,1st innings,India,Pakistan,38.1,RA Jadeja,I Sharma,Umar Gul,6,0,6,NA,0,NA,NA,NA,1
+589310,1st innings,India,Pakistan,38.2,RA Jadeja,I Sharma,Umar Gul,0,1,1,wides,0,NA,NA,NA,1
+589310,1st innings,India,Pakistan,38.3,RA Jadeja,I Sharma,Umar Gul,1,0,1,NA,0,NA,NA,NA,1
+589310,1st innings,India,Pakistan,38.4,I Sharma,RA Jadeja,Umar Gul,0,0,0,NA,0,NA,NA,NA,1
+589310,1st innings,India,Pakistan,38.5,I Sharma,RA Jadeja,Umar Gul,0,0,0,NA,0,NA,NA,NA,1
+589310,1st innings,India,Pakistan,38.6,I Sharma,RA Jadeja,Umar Gul,0,0,0,NA,0,NA,NA,NA,1
+589310,1st innings,India,Pakistan,38.7,I Sharma,RA Jadeja,Umar Gul,0,0,0,NA,0,NA,NA,NA,1
+589310,1st innings,India,Pakistan,39.1,RA Jadeja,I Sharma,Saeed Ajmal,1,0,1,NA,0,NA,NA,NA,1
+589310,1st innings,India,Pakistan,39.2,I Sharma,RA Jadeja,Saeed Ajmal,0,0,0,NA,0,NA,NA,NA,1
+589310,1st innings,India,Pakistan,39.3,I Sharma,RA Jadeja,Saeed Ajmal,0,0,0,NA,0,NA,NA,NA,1
+589310,1st innings,India,Pakistan,39.4,I Sharma,RA Jadeja,Saeed Ajmal,0,0,0,NA,0,NA,NA,NA,1
+589310,1st innings,India,Pakistan,39.5,I Sharma,RA Jadeja,Saeed Ajmal,0,0,0,NA,0,NA,NA,NA,1
+589310,1st innings,India,Pakistan,39.6,I Sharma,RA Jadeja,Saeed Ajmal,0,0,0,NA,0,NA,NA,NA,1
+589310,1st innings,India,Pakistan,40.1,RA Jadeja,I Sharma,Junaid Khan,0,0,0,NA,0,NA,NA,NA,1
+589310,1st innings,India,Pakistan,40.2,RA Jadeja,I Sharma,Junaid Khan,0,0,0,NA,0,NA,NA,NA,1
+589310,1st innings,India,Pakistan,40.3,RA Jadeja,I Sharma,Junaid Khan,2,0,2,NA,0,NA,NA,NA,1
+589310,1st innings,India,Pakistan,40.4,RA Jadeja,I Sharma,Junaid Khan,2,0,2,NA,0,NA,NA,NA,1
+589310,1st innings,India,Pakistan,40.5,RA Jadeja,I Sharma,Junaid Khan,0,0,0,NA,0,NA,NA,NA,1
+589310,1st innings,India,Pakistan,40.6,RA Jadeja,I Sharma,Junaid Khan,0,0,0,NA,0,NA,NA,NA,1
+589310,1st innings,India,Pakistan,41.1,I Sharma,RA Jadeja,Saeed Ajmal,4,0,4,NA,0,NA,NA,NA,1
+589310,1st innings,India,Pakistan,41.2,I Sharma,RA Jadeja,Saeed Ajmal,0,0,0,NA,0,NA,NA,NA,1
+589310,1st innings,India,Pakistan,41.3,I Sharma,RA Jadeja,Saeed Ajmal,0,0,0,NA,0,NA,NA,NA,1
+589310,1st innings,India,Pakistan,41.4,I Sharma,RA Jadeja,Saeed Ajmal,1,0,1,NA,0,NA,NA,NA,1
+589310,1st innings,India,Pakistan,41.5,RA Jadeja,I Sharma,Saeed Ajmal,1,0,1,NA,0,NA,NA,NA,1
+589310,1st innings,India,Pakistan,41.6,I Sharma,RA Jadeja,Saeed Ajmal,0,0,0,NA,1,caught and bowled,I Sharma,NA,1
+589310,1st innings,India,Pakistan,42.1,RA Jadeja,Mohammed Shami,Junaid Khan,1,0,1,NA,0,NA,NA,NA,1
+589310,1st innings,India,Pakistan,42.2,Mohammed Shami,RA Jadeja,Junaid Khan,0,0,0,NA,0,NA,NA,NA,1
+589310,1st innings,India,Pakistan,42.3,Mohammed Shami,RA Jadeja,Junaid Khan,0,0,0,NA,0,NA,NA,NA,1
+589310,1st innings,India,Pakistan,42.4,Mohammed Shami,RA Jadeja,Junaid Khan,0,0,0,NA,0,NA,NA,NA,1
+589310,1st innings,India,Pakistan,42.5,Mohammed Shami,RA Jadeja,Junaid Khan,0,0,0,NA,0,NA,NA,NA,1
+589310,1st innings,India,Pakistan,42.6,Mohammed Shami,RA Jadeja,Junaid Khan,0,0,0,NA,0,NA,NA,NA,1
+589310,1st innings,India,Pakistan,43.1,RA Jadeja,Mohammed Shami,Saeed Ajmal,6,0,6,NA,0,NA,NA,NA,1
+589310,1st innings,India,Pakistan,43.2,RA Jadeja,Mohammed Shami,Saeed Ajmal,0,0,0,NA,0,NA,NA,NA,1
+589310,1st innings,India,Pakistan,43.3,RA Jadeja,Mohammed Shami,Saeed Ajmal,0,0,0,NA,0,NA,NA,NA,1
+589310,1st innings,India,Pakistan,43.4,RA Jadeja,Mohammed Shami,Saeed Ajmal,0,0,0,NA,1,caught,RA Jadeja,Umar Akmal,1
+589310,2nd innings,Pakistan,India,0.1,Nasir Jamshed,Kamran Akmal,B Kumar,0,0,0,NA,0,NA,NA,NA,0
+589310,2nd innings,Pakistan,India,0.2,Nasir Jamshed,Kamran Akmal,B Kumar,0,0,0,NA,0,NA,NA,NA,0
+589310,2nd innings,Pakistan,India,0.3,Nasir Jamshed,Kamran Akmal,B Kumar,2,0,2,NA,0,NA,NA,NA,0
+589310,2nd innings,Pakistan,India,0.4,Nasir Jamshed,Kamran Akmal,B Kumar,1,0,1,NA,0,NA,NA,NA,0
+589310,2nd innings,Pakistan,India,0.5,Kamran Akmal,Nasir Jamshed,B Kumar,0,0,0,NA,0,NA,NA,NA,0
+589310,2nd innings,Pakistan,India,0.6,Kamran Akmal,Nasir Jamshed,B Kumar,0,0,0,NA,0,NA,NA,NA,0
+589310,2nd innings,Pakistan,India,1.1,Nasir Jamshed,Kamran Akmal,Mohammed Shami,0,0,0,NA,0,NA,NA,NA,0
+589310,2nd innings,Pakistan,India,1.2,Nasir Jamshed,Kamran Akmal,Mohammed Shami,0,0,0,NA,0,NA,NA,NA,0
+589310,2nd innings,Pakistan,India,1.3,Nasir Jamshed,Kamran Akmal,Mohammed Shami,0,0,0,NA,0,NA,NA,NA,0
+589310,2nd innings,Pakistan,India,1.4,Nasir Jamshed,Kamran Akmal,Mohammed Shami,0,0,0,NA,0,NA,NA,NA,0
+589310,2nd innings,Pakistan,India,1.5,Nasir Jamshed,Kamran Akmal,Mohammed Shami,0,0,0,NA,0,NA,NA,NA,0
+589310,2nd innings,Pakistan,India,1.6,Nasir Jamshed,Kamran Akmal,Mohammed Shami,0,0,0,NA,0,NA,NA,NA,0
+589310,2nd innings,Pakistan,India,2.1,Kamran Akmal,Nasir Jamshed,B Kumar,0,0,0,NA,1,lbw,Kamran Akmal,NA,0
+589310,2nd innings,Pakistan,India,2.2,Younis Khan,Nasir Jamshed,B Kumar,0,0,0,NA,0,NA,NA,NA,0
+589310,2nd innings,Pakistan,India,2.3,Younis Khan,Nasir Jamshed,B Kumar,0,0,0,NA,0,NA,NA,NA,0
+589310,2nd innings,Pakistan,India,2.4,Younis Khan,Nasir Jamshed,B Kumar,0,1,1,wides,0,NA,NA,NA,0
+589310,2nd innings,Pakistan,India,2.5,Younis Khan,Nasir Jamshed,B Kumar,0,0,0,NA,0,NA,NA,NA,0
+589310,2nd innings,Pakistan,India,2.6,Younis Khan,Nasir Jamshed,B Kumar,4,0,4,NA,0,NA,NA,NA,0
+589310,2nd innings,Pakistan,India,2.7,Younis Khan,Nasir Jamshed,B Kumar,0,0,0,NA,0,NA,NA,NA,0
+589310,2nd innings,Pakistan,India,3.1,Nasir Jamshed,Younis Khan,Mohammed Shami,0,0,0,NA,0,NA,NA,NA,0
+589310,2nd innings,Pakistan,India,3.2,Nasir Jamshed,Younis Khan,Mohammed Shami,0,0,0,NA,0,NA,NA,NA,0
+589310,2nd innings,Pakistan,India,3.3,Nasir Jamshed,Younis Khan,Mohammed Shami,0,0,0,NA,0,NA,NA,NA,0
+589310,2nd innings,Pakistan,India,3.4,Nasir Jamshed,Younis Khan,Mohammed Shami,0,0,0,NA,0,NA,NA,NA,0
+589310,2nd innings,Pakistan,India,3.5,Nasir Jamshed,Younis Khan,Mohammed Shami,0,0,0,NA,0,NA,NA,NA,0
+589310,2nd innings,Pakistan,India,3.6,Nasir Jamshed,Younis Khan,Mohammed Shami,0,0,0,NA,0,NA,NA,NA,0
+589310,2nd innings,Pakistan,India,4.1,Younis Khan,Nasir Jamshed,B Kumar,0,0,0,NA,0,NA,NA,NA,0
+589310,2nd innings,Pakistan,India,4.2,Younis Khan,Nasir Jamshed,B Kumar,0,0,0,NA,0,NA,NA,NA,0
+589310,2nd innings,Pakistan,India,4.3,Younis Khan,Nasir Jamshed,B Kumar,0,0,0,NA,0,NA,NA,NA,0
+589310,2nd innings,Pakistan,India,4.4,Younis Khan,Nasir Jamshed,B Kumar,1,0,1,NA,0,NA,NA,NA,0
+589310,2nd innings,Pakistan,India,4.5,Nasir Jamshed,Younis Khan,B Kumar,0,0,0,NA,0,NA,NA,NA,0
+589310,2nd innings,Pakistan,India,4.6,Nasir Jamshed,Younis Khan,B Kumar,0,0,0,NA,0,NA,NA,NA,0
+589310,2nd innings,Pakistan,India,5.1,Younis Khan,Nasir Jamshed,Mohammed Shami,1,0,1,NA,0,NA,NA,NA,0
+589310,2nd innings,Pakistan,India,5.2,Nasir Jamshed,Younis Khan,Mohammed Shami,0,0,0,NA,0,NA,NA,NA,0
+589310,2nd innings,Pakistan,India,5.3,Nasir Jamshed,Younis Khan,Mohammed Shami,0,0,0,NA,0,NA,NA,NA,0
+589310,2nd innings,Pakistan,India,5.4,Nasir Jamshed,Younis Khan,Mohammed Shami,0,0,0,NA,0,NA,NA,NA,0
+589310,2nd innings,Pakistan,India,5.5,Nasir Jamshed,Younis Khan,Mohammed Shami,4,0,4,NA,0,NA,NA,NA,0
+589310,2nd innings,Pakistan,India,5.6,Nasir Jamshed,Younis Khan,Mohammed Shami,0,0,0,NA,0,NA,NA,NA,0
+589310,2nd innings,Pakistan,India,6.1,Younis Khan,Nasir Jamshed,B Kumar,0,0,0,NA,0,NA,NA,NA,0
+589310,2nd innings,Pakistan,India,6.2,Younis Khan,Nasir Jamshed,B Kumar,0,0,0,NA,0,NA,NA,NA,0
+589310,2nd innings,Pakistan,India,6.3,Younis Khan,Nasir Jamshed,B Kumar,0,0,0,NA,0,NA,NA,NA,0
+589310,2nd innings,Pakistan,India,6.4,Younis Khan,Nasir Jamshed,B Kumar,0,0,0,NA,0,NA,NA,NA,0
+589310,2nd innings,Pakistan,India,6.5,Younis Khan,Nasir Jamshed,B Kumar,0,0,0,NA,1,bowled,Younis Khan,NA,0
+589310,2nd innings,Pakistan,India,6.6,Misbah-ul-Haq,Nasir Jamshed,B Kumar,0,0,0,NA,0,NA,NA,NA,0
+589310,2nd innings,Pakistan,India,7.1,Nasir Jamshed,Misbah-ul-Haq,Mohammed Shami,0,0,0,NA,0,NA,NA,NA,0
+589310,2nd innings,Pakistan,India,7.2,Nasir Jamshed,Misbah-ul-Haq,Mohammed Shami,0,0,0,NA,0,NA,NA,NA,0
+589310,2nd innings,Pakistan,India,7.3,Nasir Jamshed,Misbah-ul-Haq,Mohammed Shami,0,0,0,NA,0,NA,NA,NA,0
+589310,2nd innings,Pakistan,India,7.4,Nasir Jamshed,Misbah-ul-Haq,Mohammed Shami,0,0,0,NA,0,NA,NA,NA,0
+589310,2nd innings,Pakistan,India,7.5,Nasir Jamshed,Misbah-ul-Haq,Mohammed Shami,0,0,0,NA,0,NA,NA,NA,0
+589310,2nd innings,Pakistan,India,7.6,Nasir Jamshed,Misbah-ul-Haq,Mohammed Shami,0,0,0,NA,0,NA,NA,NA,0
+589310,2nd innings,Pakistan,India,8.1,Misbah-ul-Haq,Nasir Jamshed,B Kumar,0,0,0,NA,0,NA,NA,NA,0
+589310,2nd innings,Pakistan,India,8.2,Misbah-ul-Haq,Nasir Jamshed,B Kumar,0,0,0,NA,0,NA,NA,NA,0
+589310,2nd innings,Pakistan,India,8.3,Misbah-ul-Haq,Nasir Jamshed,B Kumar,0,0,0,NA,0,NA,NA,NA,0
+589310,2nd innings,Pakistan,India,8.4,Misbah-ul-Haq,Nasir Jamshed,B Kumar,1,0,1,NA,0,NA,NA,NA,0
+589310,2nd innings,Pakistan,India,8.5,Nasir Jamshed,Misbah-ul-Haq,B Kumar,0,0,0,NA,0,NA,NA,NA,0
+589310,2nd innings,Pakistan,India,8.6,Nasir Jamshed,Misbah-ul-Haq,B Kumar,0,0,0,NA,0,NA,NA,NA,0
+589310,2nd innings,Pakistan,India,9.1,Misbah-ul-Haq,Nasir Jamshed,Mohammed Shami,0,0,0,NA,0,NA,NA,NA,0
+589310,2nd innings,Pakistan,India,9.2,Misbah-ul-Haq,Nasir Jamshed,Mohammed Shami,1,0,1,NA,0,NA,NA,NA,0
+589310,2nd innings,Pakistan,India,9.3,Nasir Jamshed,Misbah-ul-Haq,Mohammed Shami,0,0,0,NA,0,NA,NA,NA,0
+589310,2nd innings,Pakistan,India,9.4,Nasir Jamshed,Misbah-ul-Haq,Mohammed Shami,4,0,4,NA,0,NA,NA,NA,0
+589310,2nd innings,Pakistan,India,9.5,Nasir Jamshed,Misbah-ul-Haq,Mohammed Shami,2,0,2,NA,0,NA,NA,NA,0
+589310,2nd innings,Pakistan,India,9.6,Nasir Jamshed,Misbah-ul-Haq,Mohammed Shami,0,0,0,NA,0,NA,NA,NA,0
+589310,2nd innings,Pakistan,India,10.1,Misbah-ul-Haq,Nasir Jamshed,B Kumar,0,0,0,NA,0,NA,NA,NA,0
+589310,2nd innings,Pakistan,India,10.2,Misbah-ul-Haq,Nasir Jamshed,B Kumar,0,0,0,NA,0,NA,NA,NA,0
+589310,2nd innings,Pakistan,India,10.3,Misbah-ul-Haq,Nasir Jamshed,B Kumar,0,0,0,NA,0,NA,NA,NA,0
+589310,2nd innings,Pakistan,India,10.4,Misbah-ul-Haq,Nasir Jamshed,B Kumar,0,0,0,NA,0,NA,NA,NA,0
+589310,2nd innings,Pakistan,India,10.5,Misbah-ul-Haq,Nasir Jamshed,B Kumar,0,0,0,NA,0,NA,NA,NA,0
+589310,2nd innings,Pakistan,India,10.6,Misbah-ul-Haq,Nasir Jamshed,B Kumar,0,0,0,NA,0,NA,NA,NA,0
+589310,2nd innings,Pakistan,India,11.1,Nasir Jamshed,Misbah-ul-Haq,I Sharma,0,0,0,NA,0,NA,NA,NA,0
+589310,2nd innings,Pakistan,India,11.2,Nasir Jamshed,Misbah-ul-Haq,I Sharma,1,0,1,NA,0,NA,NA,NA,0
+589310,2nd innings,Pakistan,India,11.3,Misbah-ul-Haq,Nasir Jamshed,I Sharma,0,0,0,NA,0,NA,NA,NA,0
+589310,2nd innings,Pakistan,India,11.4,Misbah-ul-Haq,Nasir Jamshed,I Sharma,0,0,0,NA,0,NA,NA,NA,0
+589310,2nd innings,Pakistan,India,11.5,Misbah-ul-Haq,Nasir Jamshed,I Sharma,1,0,1,NA,0,NA,NA,NA,0
+589310,2nd innings,Pakistan,India,11.6,Nasir Jamshed,Misbah-ul-Haq,I Sharma,0,0,0,NA,0,NA,NA,NA,0
+589310,2nd innings,Pakistan,India,12.1,Misbah-ul-Haq,Nasir Jamshed,B Kumar,0,0,0,NA,0,NA,NA,NA,0
+589310,2nd innings,Pakistan,India,12.2,Misbah-ul-Haq,Nasir Jamshed,B Kumar,4,0,4,NA,0,NA,NA,NA,0
+589310,2nd innings,Pakistan,India,12.3,Misbah-ul-Haq,Nasir Jamshed,B Kumar,0,0,0,NA,0,NA,NA,NA,0
+589310,2nd innings,Pakistan,India,12.4,Misbah-ul-Haq,Nasir Jamshed,B Kumar,0,0,0,NA,0,NA,NA,NA,0
+589310,2nd innings,Pakistan,India,12.5,Misbah-ul-Haq,Nasir Jamshed,B Kumar,0,0,0,NA,0,NA,NA,NA,0
+589310,2nd innings,Pakistan,India,12.6,Misbah-ul-Haq,Nasir Jamshed,B Kumar,0,0,0,NA,0,NA,NA,NA,0
+589310,2nd innings,Pakistan,India,13.1,Nasir Jamshed,Misbah-ul-Haq,I Sharma,1,0,1,NA,0,NA,NA,NA,0
+589310,2nd innings,Pakistan,India,13.2,Misbah-ul-Haq,Nasir Jamshed,I Sharma,0,0,0,NA,0,NA,NA,NA,0
+589310,2nd innings,Pakistan,India,13.3,Misbah-ul-Haq,Nasir Jamshed,I Sharma,0,0,0,NA,0,NA,NA,NA,0
+589310,2nd innings,Pakistan,India,13.4,Misbah-ul-Haq,Nasir Jamshed,I Sharma,0,0,0,NA,0,NA,NA,NA,0
+589310,2nd innings,Pakistan,India,13.5,Misbah-ul-Haq,Nasir Jamshed,I Sharma,0,0,0,NA,0,NA,NA,NA,0
+589310,2nd innings,Pakistan,India,13.6,Misbah-ul-Haq,Nasir Jamshed,I Sharma,0,0,0,NA,0,NA,NA,NA,0
+589310,2nd innings,Pakistan,India,14.1,Nasir Jamshed,Misbah-ul-Haq,B Kumar,2,0,2,NA,0,NA,NA,NA,0
+589310,2nd innings,Pakistan,India,14.2,Nasir Jamshed,Misbah-ul-Haq,B Kumar,1,0,1,NA,0,NA,NA,NA,0
+589310,2nd innings,Pakistan,India,14.3,Misbah-ul-Haq,Nasir Jamshed,B Kumar,0,0,0,NA,0,NA,NA,NA,0
+589310,2nd innings,Pakistan,India,14.4,Misbah-ul-Haq,Nasir Jamshed,B Kumar,1,0,1,NA,0,NA,NA,NA,0
+589310,2nd innings,Pakistan,India,14.5,Nasir Jamshed,Misbah-ul-Haq,B Kumar,0,0,0,NA,0,NA,NA,NA,0
+589310,2nd innings,Pakistan,India,14.6,Nasir Jamshed,Misbah-ul-Haq,B Kumar,4,0,4,NA,0,NA,NA,NA,0
+589310,2nd innings,Pakistan,India,15.1,Misbah-ul-Haq,Nasir Jamshed,I Sharma,4,0,4,NA,0,NA,NA,NA,0
+589310,2nd innings,Pakistan,India,15.2,Misbah-ul-Haq,Nasir Jamshed,I Sharma,0,0,0,NA,0,NA,NA,NA,0
+589310,2nd innings,Pakistan,India,15.3,Misbah-ul-Haq,Nasir Jamshed,I Sharma,1,0,1,NA,0,NA,NA,NA,0
+589310,2nd innings,Pakistan,India,15.4,Nasir Jamshed,Misbah-ul-Haq,I Sharma,0,0,0,NA,0,NA,NA,NA,0
+589310,2nd innings,Pakistan,India,15.5,Nasir Jamshed,Misbah-ul-Haq,I Sharma,0,0,0,NA,0,NA,NA,NA,0
+589310,2nd innings,Pakistan,India,15.6,Nasir Jamshed,Misbah-ul-Haq,I Sharma,1,0,1,NA,0,NA,NA,NA,0
+589310,2nd innings,Pakistan,India,16.1,Nasir Jamshed,Misbah-ul-Haq,B Kumar,1,0,1,NA,0,NA,NA,NA,0
+589310,2nd innings,Pakistan,India,16.2,Misbah-ul-Haq,Nasir Jamshed,B Kumar,0,0,0,NA,0,NA,NA,NA,0
+589310,2nd innings,Pakistan,India,16.3,Misbah-ul-Haq,Nasir Jamshed,B Kumar,0,0,0,NA,0,NA,NA,NA,0
+589310,2nd innings,Pakistan,India,16.4,Misbah-ul-Haq,Nasir Jamshed,B Kumar,0,0,0,NA,0,NA,NA,NA,0
+589310,2nd innings,Pakistan,India,16.5,Misbah-ul-Haq,Nasir Jamshed,B Kumar,4,0,4,NA,0,NA,NA,NA,0
+589310,2nd innings,Pakistan,India,16.6,Misbah-ul-Haq,Nasir Jamshed,B Kumar,0,0,0,NA,0,NA,NA,NA,0
+589310,2nd innings,Pakistan,India,17.1,Nasir Jamshed,Misbah-ul-Haq,I Sharma,0,0,0,NA,0,NA,NA,NA,0
+589310,2nd innings,Pakistan,India,17.2,Nasir Jamshed,Misbah-ul-Haq,I Sharma,1,0,1,NA,0,NA,NA,NA,0
+589310,2nd innings,Pakistan,India,17.3,Misbah-ul-Haq,Nasir Jamshed,I Sharma,0,0,0,NA,0,NA,NA,NA,0
+589310,2nd innings,Pakistan,India,17.4,Misbah-ul-Haq,Nasir Jamshed,I Sharma,1,0,1,NA,0,NA,NA,NA,0
+589310,2nd innings,Pakistan,India,17.5,Nasir Jamshed,Misbah-ul-Haq,I Sharma,0,0,0,NA,0,NA,NA,NA,0
+589310,2nd innings,Pakistan,India,17.6,Nasir Jamshed,Misbah-ul-Haq,I Sharma,1,0,1,NA,0,NA,NA,NA,0
+589310,2nd innings,Pakistan,India,18.1,Nasir Jamshed,Misbah-ul-Haq,B Kumar,0,0,0,NA,0,NA,NA,NA,0
+589310,2nd innings,Pakistan,India,18.2,Nasir Jamshed,Misbah-ul-Haq,B Kumar,0,0,0,NA,0,NA,NA,NA,0
+589310,2nd innings,Pakistan,India,18.3,Nasir Jamshed,Misbah-ul-Haq,B Kumar,0,0,0,NA,0,NA,NA,NA,0
+589310,2nd innings,Pakistan,India,18.4,Nasir Jamshed,Misbah-ul-Haq,B Kumar,0,0,0,NA,0,NA,NA,NA,0
+589310,2nd innings,Pakistan,India,18.5,Nasir Jamshed,Misbah-ul-Haq,B Kumar,4,0,4,NA,0,NA,NA,NA,0
+589310,2nd innings,Pakistan,India,18.6,Nasir Jamshed,Misbah-ul-Haq,B Kumar,0,0,0,NA,0,NA,NA,NA,0
+589310,2nd innings,Pakistan,India,19.1,Misbah-ul-Haq,Nasir Jamshed,I Sharma,1,0,1,NA,0,NA,NA,NA,0
+589310,2nd innings,Pakistan,India,19.2,Nasir Jamshed,Misbah-ul-Haq,I Sharma,0,0,0,NA,0,NA,NA,NA,0
+589310,2nd innings,Pakistan,India,19.3,Nasir Jamshed,Misbah-ul-Haq,I Sharma,0,0,0,NA,0,NA,NA,NA,0
+589310,2nd innings,Pakistan,India,19.4,Nasir Jamshed,Misbah-ul-Haq,I Sharma,0,0,0,NA,0,NA,NA,NA,0
+589310,2nd innings,Pakistan,India,19.5,Nasir Jamshed,Misbah-ul-Haq,I Sharma,0,0,0,NA,0,NA,NA,NA,0
+589310,2nd innings,Pakistan,India,19.6,Nasir Jamshed,Misbah-ul-Haq,I Sharma,0,0,0,NA,0,NA,NA,NA,0
+589310,2nd innings,Pakistan,India,20.1,Misbah-ul-Haq,Nasir Jamshed,R Ashwin,1,0,1,NA,0,NA,NA,NA,0
+589310,2nd innings,Pakistan,India,20.2,Nasir Jamshed,Misbah-ul-Haq,R Ashwin,4,0,4,NA,0,NA,NA,NA,0
+589310,2nd innings,Pakistan,India,20.3,Nasir Jamshed,Misbah-ul-Haq,R Ashwin,0,0,0,NA,1,lbw,Nasir Jamshed,NA,0
+589310,2nd innings,Pakistan,India,20.4,Umar Akmal,Misbah-ul-Haq,R Ashwin,0,5,5,wides,0,NA,NA,NA,0
+589310,2nd innings,Pakistan,India,20.5,Umar Akmal,Misbah-ul-Haq,R Ashwin,1,0,1,NA,0,NA,NA,NA,0
+589310,2nd innings,Pakistan,India,20.6,Misbah-ul-Haq,Umar Akmal,R Ashwin,1,0,1,NA,0,NA,NA,NA,0
+589310,2nd innings,Pakistan,India,20.7,Umar Akmal,Misbah-ul-Haq,R Ashwin,0,0,0,NA,0,NA,NA,NA,0
+589310,2nd innings,Pakistan,India,21.1,Misbah-ul-Haq,Umar Akmal,I Sharma,4,0,4,NA,0,NA,NA,NA,0
+589310,2nd innings,Pakistan,India,21.2,Misbah-ul-Haq,Umar Akmal,I Sharma,0,0,0,NA,0,NA,NA,NA,0
+589310,2nd innings,Pakistan,India,21.3,Misbah-ul-Haq,Umar Akmal,I Sharma,0,0,0,NA,0,NA,NA,NA,0
+589310,2nd innings,Pakistan,India,21.4,Misbah-ul-Haq,Umar Akmal,I Sharma,0,0,0,NA,0,NA,NA,NA,0
+589310,2nd innings,Pakistan,India,21.5,Misbah-ul-Haq,Umar Akmal,I Sharma,0,0,0,NA,0,NA,NA,NA,0
+589310,2nd innings,Pakistan,India,21.6,Misbah-ul-Haq,Umar Akmal,I Sharma,0,0,0,NA,0,NA,NA,NA,0
+589310,2nd innings,Pakistan,India,22.1,Umar Akmal,Misbah-ul-Haq,R Ashwin,0,0,0,NA,0,NA,NA,NA,0
+589310,2nd innings,Pakistan,India,22.2,Umar Akmal,Misbah-ul-Haq,R Ashwin,0,0,0,NA,0,NA,NA,NA,0
+589310,2nd innings,Pakistan,India,22.3,Umar Akmal,Misbah-ul-Haq,R Ashwin,0,0,0,NA,0,NA,NA,NA,0
+589310,2nd innings,Pakistan,India,22.4,Umar Akmal,Misbah-ul-Haq,R Ashwin,0,0,0,NA,0,NA,NA,NA,0
+589310,2nd innings,Pakistan,India,22.5,Umar Akmal,Misbah-ul-Haq,R Ashwin,1,0,1,NA,0,NA,NA,NA,0
+589310,2nd innings,Pakistan,India,22.6,Misbah-ul-Haq,Umar Akmal,R Ashwin,1,0,1,NA,0,NA,NA,NA,0
+589310,2nd innings,Pakistan,India,23.1,Misbah-ul-Haq,Umar Akmal,RA Jadeja,0,0,0,NA,0,NA,NA,NA,0
+589310,2nd innings,Pakistan,India,23.2,Misbah-ul-Haq,Umar Akmal,RA Jadeja,1,0,1,NA,0,NA,NA,NA,0
+589310,2nd innings,Pakistan,India,23.3,Umar Akmal,Misbah-ul-Haq,RA Jadeja,0,0,0,NA,0,NA,NA,NA,0
+589310,2nd innings,Pakistan,India,23.4,Umar Akmal,Misbah-ul-Haq,RA Jadeja,0,0,0,NA,0,NA,NA,NA,0
+589310,2nd innings,Pakistan,India,23.5,Umar Akmal,Misbah-ul-Haq,RA Jadeja,1,0,1,NA,0,NA,NA,NA,0
+589310,2nd innings,Pakistan,India,23.6,Misbah-ul-Haq,Umar Akmal,RA Jadeja,0,0,0,NA,0,NA,NA,NA,0
+589310,2nd innings,Pakistan,India,24.1,Umar Akmal,Misbah-ul-Haq,R Ashwin,0,0,0,NA,0,NA,NA,NA,0
+589310,2nd innings,Pakistan,India,24.2,Umar Akmal,Misbah-ul-Haq,R Ashwin,1,0,1,NA,0,NA,NA,NA,0
+589310,2nd innings,Pakistan,India,24.3,Misbah-ul-Haq,Umar Akmal,R Ashwin,1,0,1,NA,0,NA,NA,NA,0
+589310,2nd innings,Pakistan,India,24.4,Umar Akmal,Misbah-ul-Haq,R Ashwin,1,0,1,NA,0,NA,NA,NA,0
+589310,2nd innings,Pakistan,India,24.5,Misbah-ul-Haq,Umar Akmal,R Ashwin,0,5,5,wides,0,NA,NA,NA,0
+589310,2nd innings,Pakistan,India,24.6,Misbah-ul-Haq,Umar Akmal,R Ashwin,1,0,1,NA,0,NA,NA,NA,0
+589310,2nd innings,Pakistan,India,24.7,Umar Akmal,Misbah-ul-Haq,R Ashwin,0,0,0,NA,0,NA,NA,NA,0
+589310,2nd innings,Pakistan,India,25.1,Misbah-ul-Haq,Umar Akmal,RA Jadeja,0,0,0,NA,0,NA,NA,NA,0
+589310,2nd innings,Pakistan,India,25.2,Misbah-ul-Haq,Umar Akmal,RA Jadeja,1,0,1,NA,0,NA,NA,NA,0
+589310,2nd innings,Pakistan,India,25.3,Umar Akmal,Misbah-ul-Haq,RA Jadeja,0,0,0,NA,0,NA,NA,NA,0
+589310,2nd innings,Pakistan,India,25.4,Umar Akmal,Misbah-ul-Haq,RA Jadeja,1,0,1,NA,0,NA,NA,NA,0
+589310,2nd innings,Pakistan,India,25.5,Misbah-ul-Haq,Umar Akmal,RA Jadeja,0,0,0,NA,0,NA,NA,NA,0
+589310,2nd innings,Pakistan,India,25.6,Misbah-ul-Haq,Umar Akmal,RA Jadeja,0,0,0,NA,0,NA,NA,NA,0
+589310,2nd innings,Pakistan,India,26.1,Umar Akmal,Misbah-ul-Haq,R Ashwin,0,0,0,NA,0,NA,NA,NA,0
+589310,2nd innings,Pakistan,India,26.2,Umar Akmal,Misbah-ul-Haq,R Ashwin,0,0,0,NA,0,NA,NA,NA,0
+589310,2nd innings,Pakistan,India,26.3,Umar Akmal,Misbah-ul-Haq,R Ashwin,1,0,1,NA,0,NA,NA,NA,0
+589310,2nd innings,Pakistan,India,26.4,Misbah-ul-Haq,Umar Akmal,R Ashwin,0,0,0,NA,0,NA,NA,NA,0
+589310,2nd innings,Pakistan,India,26.5,Misbah-ul-Haq,Umar Akmal,R Ashwin,0,0,0,NA,0,NA,NA,NA,0
+589310,2nd innings,Pakistan,India,26.6,Misbah-ul-Haq,Umar Akmal,R Ashwin,0,1,1,wides,0,NA,NA,NA,0
+589310,2nd innings,Pakistan,India,26.7,Misbah-ul-Haq,Umar Akmal,R Ashwin,1,0,1,NA,0,NA,NA,NA,0
+589310,2nd innings,Pakistan,India,27.1,Misbah-ul-Haq,Umar Akmal,RA Jadeja,0,0,0,NA,0,NA,NA,NA,0
+589310,2nd innings,Pakistan,India,27.2,Misbah-ul-Haq,Umar Akmal,RA Jadeja,0,0,0,NA,0,NA,NA,NA,0
+589310,2nd innings,Pakistan,India,27.3,Misbah-ul-Haq,Umar Akmal,RA Jadeja,1,0,1,NA,0,NA,NA,NA,0
+589310,2nd innings,Pakistan,India,27.4,Umar Akmal,Misbah-ul-Haq,RA Jadeja,0,0,0,NA,0,NA,NA,NA,0
+589310,2nd innings,Pakistan,India,27.5,Umar Akmal,Misbah-ul-Haq,RA Jadeja,0,0,0,NA,0,NA,NA,NA,0
+589310,2nd innings,Pakistan,India,27.6,Umar Akmal,Misbah-ul-Haq,RA Jadeja,4,0,4,NA,0,NA,NA,NA,0
+589310,2nd innings,Pakistan,India,28.1,Misbah-ul-Haq,Umar Akmal,R Ashwin,0,0,0,NA,0,NA,NA,NA,0
+589310,2nd innings,Pakistan,India,28.2,Misbah-ul-Haq,Umar Akmal,R Ashwin,1,0,1,NA,0,NA,NA,NA,0
+589310,2nd innings,Pakistan,India,28.3,Umar Akmal,Misbah-ul-Haq,R Ashwin,0,0,0,NA,0,NA,NA,NA,0
+589310,2nd innings,Pakistan,India,28.4,Umar Akmal,Misbah-ul-Haq,R Ashwin,0,0,0,NA,0,NA,NA,NA,0
+589310,2nd innings,Pakistan,India,28.5,Umar Akmal,Misbah-ul-Haq,R Ashwin,0,0,0,NA,0,NA,NA,NA,0
+589310,2nd innings,Pakistan,India,28.6,Umar Akmal,Misbah-ul-Haq,R Ashwin,0,0,0,NA,0,NA,NA,NA,0
+589310,2nd innings,Pakistan,India,29.1,Misbah-ul-Haq,Umar Akmal,RA Jadeja,0,0,0,NA,0,NA,NA,NA,0
+589310,2nd innings,Pakistan,India,29.2,Misbah-ul-Haq,Umar Akmal,RA Jadeja,0,0,0,NA,0,NA,NA,NA,0
+589310,2nd innings,Pakistan,India,29.3,Misbah-ul-Haq,Umar Akmal,RA Jadeja,1,0,1,NA,0,NA,NA,NA,0
+589310,2nd innings,Pakistan,India,29.4,Umar Akmal,Misbah-ul-Haq,RA Jadeja,0,0,0,NA,0,NA,NA,NA,0
+589310,2nd innings,Pakistan,India,29.5,Umar Akmal,Misbah-ul-Haq,RA Jadeja,0,0,0,NA,0,NA,NA,NA,0
+589310,2nd innings,Pakistan,India,29.6,Umar Akmal,Misbah-ul-Haq,RA Jadeja,0,0,0,NA,0,NA,NA,NA,0
+589310,2nd innings,Pakistan,India,30.1,Misbah-ul-Haq,Umar Akmal,R Ashwin,1,0,1,NA,0,NA,NA,NA,0
+589310,2nd innings,Pakistan,India,30.2,Umar Akmal,Misbah-ul-Haq,R Ashwin,1,0,1,NA,0,NA,NA,NA,0
+589310,2nd innings,Pakistan,India,30.3,Misbah-ul-Haq,Umar Akmal,R Ashwin,1,0,1,NA,0,NA,NA,NA,0
+589310,2nd innings,Pakistan,India,30.4,Umar Akmal,Misbah-ul-Haq,R Ashwin,2,0,2,NA,0,NA,NA,NA,0
+589310,2nd innings,Pakistan,India,30.5,Umar Akmal,Misbah-ul-Haq,R Ashwin,0,0,0,NA,0,NA,NA,NA,0
+589310,2nd innings,Pakistan,India,30.6,Umar Akmal,Misbah-ul-Haq,R Ashwin,0,0,0,NA,0,NA,NA,NA,0
+589310,2nd innings,Pakistan,India,31.1,Misbah-ul-Haq,Umar Akmal,RA Jadeja,0,0,0,NA,0,NA,NA,NA,0
+589310,2nd innings,Pakistan,India,31.2,Misbah-ul-Haq,Umar Akmal,RA Jadeja,0,0,0,NA,0,NA,NA,NA,0
+589310,2nd innings,Pakistan,India,31.3,Misbah-ul-Haq,Umar Akmal,RA Jadeja,0,0,0,NA,0,NA,NA,NA,0
+589310,2nd innings,Pakistan,India,31.4,Misbah-ul-Haq,Umar Akmal,RA Jadeja,0,0,0,NA,0,NA,NA,NA,0
+589310,2nd innings,Pakistan,India,31.5,Misbah-ul-Haq,Umar Akmal,RA Jadeja,0,0,0,NA,0,NA,NA,NA,0
+589310,2nd innings,Pakistan,India,31.6,Misbah-ul-Haq,Umar Akmal,RA Jadeja,0,0,0,NA,0,NA,NA,NA,0
+589310,2nd innings,Pakistan,India,32.1,Umar Akmal,Misbah-ul-Haq,R Ashwin,4,0,4,NA,0,NA,NA,NA,0
+589310,2nd innings,Pakistan,India,32.2,Umar Akmal,Misbah-ul-Haq,R Ashwin,0,0,0,NA,0,NA,NA,NA,0
+589310,2nd innings,Pakistan,India,32.3,Umar Akmal,Misbah-ul-Haq,R Ashwin,0,0,0,NA,0,NA,NA,NA,0
+589310,2nd innings,Pakistan,India,32.4,Umar Akmal,Misbah-ul-Haq,R Ashwin,4,0,4,NA,0,NA,NA,NA,0
+589310,2nd innings,Pakistan,India,32.5,Umar Akmal,Misbah-ul-Haq,R Ashwin,0,0,0,NA,0,NA,NA,NA,0
+589310,2nd innings,Pakistan,India,32.6,Umar Akmal,Misbah-ul-Haq,R Ashwin,0,0,0,NA,0,NA,NA,NA,0
+589310,2nd innings,Pakistan,India,33.1,Misbah-ul-Haq,Umar Akmal,RA Jadeja,0,0,0,NA,0,NA,NA,NA,0
+589310,2nd innings,Pakistan,India,33.2,Misbah-ul-Haq,Umar Akmal,RA Jadeja,0,0,0,NA,0,NA,NA,NA,0
+589310,2nd innings,Pakistan,India,33.3,Misbah-ul-Haq,Umar Akmal,RA Jadeja,2,0,2,NA,0,NA,NA,NA,0
+589310,2nd innings,Pakistan,India,33.4,Misbah-ul-Haq,Umar Akmal,RA Jadeja,1,0,1,NA,0,NA,NA,NA,0
+589310,2nd innings,Pakistan,India,33.5,Umar Akmal,Misbah-ul-Haq,RA Jadeja,0,0,0,NA,0,NA,NA,NA,0
+589310,2nd innings,Pakistan,India,33.6,Umar Akmal,Misbah-ul-Haq,RA Jadeja,0,0,0,NA,0,NA,NA,NA,0
+589310,2nd innings,Pakistan,India,34.1,Misbah-ul-Haq,Umar Akmal,R Ashwin,0,0,0,NA,1,caught,Misbah-ul-Haq,AM Rahane,0
+589310,2nd innings,Pakistan,India,34.2,Shoaib Malik,Umar Akmal,R Ashwin,0,0,0,NA,0,NA,NA,NA,0
+589310,2nd innings,Pakistan,India,34.3,Shoaib Malik,Umar Akmal,R Ashwin,0,0,0,NA,0,NA,NA,NA,0
+589310,2nd innings,Pakistan,India,34.4,Shoaib Malik,Umar Akmal,R Ashwin,0,0,0,NA,0,NA,NA,NA,0
+589310,2nd innings,Pakistan,India,34.5,Shoaib Malik,Umar Akmal,R Ashwin,0,0,0,NA,0,NA,NA,NA,0
+589310,2nd innings,Pakistan,India,34.6,Shoaib Malik,Umar Akmal,R Ashwin,0,0,0,NA,0,NA,NA,NA,0
+589310,2nd innings,Pakistan,India,35.1,Umar Akmal,Shoaib Malik,RA Jadeja,1,0,1,NA,0,NA,NA,NA,0
+589310,2nd innings,Pakistan,India,35.2,Shoaib Malik,Umar Akmal,RA Jadeja,0,0,0,NA,0,NA,NA,NA,0
+589310,2nd innings,Pakistan,India,35.3,Shoaib Malik,Umar Akmal,RA Jadeja,0,0,0,NA,0,NA,NA,NA,0
+589310,2nd innings,Pakistan,India,35.4,Shoaib Malik,Umar Akmal,RA Jadeja,0,0,0,NA,0,NA,NA,NA,0
+589310,2nd innings,Pakistan,India,35.5,Shoaib Malik,Umar Akmal,RA Jadeja,0,0,0,NA,0,NA,NA,NA,0
+589310,2nd innings,Pakistan,India,35.6,Shoaib Malik,Umar Akmal,RA Jadeja,1,0,1,NA,0,NA,NA,NA,0
+589310,2nd innings,Pakistan,India,36.1,Shoaib Malik,Umar Akmal,I Sharma,4,0,4,NA,0,NA,NA,NA,0
+589310,2nd innings,Pakistan,India,36.2,Shoaib Malik,Umar Akmal,I Sharma,0,0,0,NA,0,NA,NA,NA,0
+589310,2nd innings,Pakistan,India,36.3,Shoaib Malik,Umar Akmal,I Sharma,0,0,0,NA,1,lbw,Shoaib Malik,NA,0
+589310,2nd innings,Pakistan,India,36.4,Mohammad Hafeez,Umar Akmal,I Sharma,0,0,0,NA,0,NA,NA,NA,0
+589310,2nd innings,Pakistan,India,36.5,Mohammad Hafeez,Umar Akmal,I Sharma,1,0,1,NA,0,NA,NA,NA,0
+589310,2nd innings,Pakistan,India,36.6,Umar Akmal,Mohammad Hafeez,I Sharma,0,0,0,NA,0,NA,NA,NA,0
+589310,2nd innings,Pakistan,India,37.1,Mohammad Hafeez,Umar Akmal,RA Jadeja,0,0,0,NA,0,NA,NA,NA,0
+589310,2nd innings,Pakistan,India,37.2,Mohammad Hafeez,Umar Akmal,RA Jadeja,0,0,0,NA,0,NA,NA,NA,0
+589310,2nd innings,Pakistan,India,37.3,Mohammad Hafeez,Umar Akmal,RA Jadeja,1,0,1,NA,0,NA,NA,NA,0
+589310,2nd innings,Pakistan,India,37.4,Umar Akmal,Mohammad Hafeez,RA Jadeja,0,0,0,NA,0,NA,NA,NA,0
+589310,2nd innings,Pakistan,India,37.5,Umar Akmal,Mohammad Hafeez,RA Jadeja,2,0,2,NA,0,NA,NA,NA,0
+589310,2nd innings,Pakistan,India,37.6,Umar Akmal,Mohammad Hafeez,RA Jadeja,0,0,0,NA,0,NA,NA,NA,0
+589310,2nd innings,Pakistan,India,38.1,Mohammad Hafeez,Umar Akmal,I Sharma,0,0,0,NA,0,NA,NA,NA,0
+589310,2nd innings,Pakistan,India,38.2,Mohammad Hafeez,Umar Akmal,I Sharma,0,0,0,NA,0,NA,NA,NA,0
+589310,2nd innings,Pakistan,India,38.3,Mohammad Hafeez,Umar Akmal,I Sharma,1,0,1,NA,0,NA,NA,NA,0
+589310,2nd innings,Pakistan,India,38.4,Umar Akmal,Mohammad Hafeez,I Sharma,0,0,0,NA,0,NA,NA,NA,0
+589310,2nd innings,Pakistan,India,38.5,Umar Akmal,Mohammad Hafeez,I Sharma,0,0,0,NA,0,NA,NA,NA,0
+589310,2nd innings,Pakistan,India,38.6,Umar Akmal,Mohammad Hafeez,I Sharma,0,0,0,NA,0,NA,NA,NA,0
+589310,2nd innings,Pakistan,India,39.1,Mohammad Hafeez,Umar Akmal,RA Jadeja,1,0,1,NA,0,NA,NA,NA,0
+589310,2nd innings,Pakistan,India,39.2,Umar Akmal,Mohammad Hafeez,RA Jadeja,0,0,0,NA,1,stumped,Umar Akmal,MS Dhoni,0
+589310,2nd innings,Pakistan,India,39.3,Umar Gul,Mohammad Hafeez,RA Jadeja,0,0,0,NA,0,NA,NA,NA,0
+589310,2nd innings,Pakistan,India,39.4,Umar Gul,Mohammad Hafeez,RA Jadeja,0,0,0,NA,0,NA,NA,NA,0
+589310,2nd innings,Pakistan,India,39.5,Umar Gul,Mohammad Hafeez,RA Jadeja,0,0,0,NA,0,NA,NA,NA,0
+589310,2nd innings,Pakistan,India,39.6,Umar Gul,Mohammad Hafeez,RA Jadeja,0,0,0,NA,0,NA,NA,NA,0
+589310,2nd innings,Pakistan,India,40.1,Mohammad Hafeez,Umar Gul,Mohammed Shami,1,0,1,NA,0,NA,NA,NA,0
+589310,2nd innings,Pakistan,India,40.2,Umar Gul,Mohammad Hafeez,Mohammed Shami,0,0,0,NA,0,NA,NA,NA,0
+589310,2nd innings,Pakistan,India,40.3,Umar Gul,Mohammad Hafeez,Mohammed Shami,0,0,0,NA,0,NA,NA,NA,0
+589310,2nd innings,Pakistan,India,40.4,Umar Gul,Mohammad Hafeez,Mohammed Shami,0,0,0,NA,0,NA,NA,NA,0
+589310,2nd innings,Pakistan,India,40.5,Umar Gul,Mohammad Hafeez,Mohammed Shami,4,0,4,NA,0,NA,NA,NA,0
+589310,2nd innings,Pakistan,India,40.6,Umar Gul,Mohammad Hafeez,Mohammed Shami,0,0,0,NA,0,NA,NA,NA,0
+589310,2nd innings,Pakistan,India,41.1,Mohammad Hafeez,Umar Gul,R Ashwin,1,0,1,NA,0,NA,NA,NA,0
+589310,2nd innings,Pakistan,India,41.2,Umar Gul,Mohammad Hafeez,R Ashwin,1,0,1,NA,0,NA,NA,NA,0
+589310,2nd innings,Pakistan,India,41.3,Mohammad Hafeez,Umar Gul,R Ashwin,1,0,1,NA,0,NA,NA,NA,0
+589310,2nd innings,Pakistan,India,41.4,Umar Gul,Mohammad Hafeez,R Ashwin,1,0,1,NA,0,NA,NA,NA,0
+589310,2nd innings,Pakistan,India,41.5,Mohammad Hafeez,Umar Gul,R Ashwin,0,0,0,NA,0,NA,NA,NA,0
+589310,2nd innings,Pakistan,India,41.6,Mohammad Hafeez,Umar Gul,R Ashwin,0,0,0,NA,0,NA,NA,NA,0
+589310,2nd innings,Pakistan,India,42.1,Umar Gul,Mohammad Hafeez,Mohammed Shami,0,0,0,NA,0,NA,NA,NA,0
+589310,2nd innings,Pakistan,India,42.2,Umar Gul,Mohammad Hafeez,Mohammed Shami,0,0,0,NA,0,NA,NA,NA,0
+589310,2nd innings,Pakistan,India,42.3,Umar Gul,Mohammad Hafeez,Mohammed Shami,0,0,0,NA,0,NA,NA,NA,0
+589310,2nd innings,Pakistan,India,42.4,Umar Gul,Mohammad Hafeez,Mohammed Shami,4,0,4,NA,0,NA,NA,NA,0
+589310,2nd innings,Pakistan,India,42.5,Umar Gul,Mohammad Hafeez,Mohammed Shami,0,0,0,NA,0,NA,NA,NA,0
+589310,2nd innings,Pakistan,India,42.6,Umar Gul,Mohammad Hafeez,Mohammed Shami,0,0,0,NA,0,NA,NA,NA,0
+589310,2nd innings,Pakistan,India,43.1,Mohammad Hafeez,Umar Gul,R Ashwin,1,0,1,NA,0,NA,NA,NA,0
+589310,2nd innings,Pakistan,India,43.2,Umar Gul,Mohammad Hafeez,R Ashwin,0,0,0,NA,0,NA,NA,NA,0
+589310,2nd innings,Pakistan,India,43.3,Umar Gul,Mohammad Hafeez,R Ashwin,1,0,1,NA,0,NA,NA,NA,0
+589310,2nd innings,Pakistan,India,43.4,Mohammad Hafeez,Umar Gul,R Ashwin,1,0,1,NA,0,NA,NA,NA,0
+589310,2nd innings,Pakistan,India,43.5,Umar Gul,Mohammad Hafeez,R Ashwin,0,0,0,NA,0,NA,NA,NA,0
+589310,2nd innings,Pakistan,India,43.6,Umar Gul,Mohammad Hafeez,R Ashwin,0,0,0,NA,0,NA,NA,NA,0
+589310,2nd innings,Pakistan,India,44.1,Mohammad Hafeez,Umar Gul,Mohammed Shami,0,0,0,NA,0,NA,NA,NA,0
+589310,2nd innings,Pakistan,India,44.2,Mohammad Hafeez,Umar Gul,Mohammed Shami,2,0,2,NA,0,NA,NA,NA,0
+589310,2nd innings,Pakistan,India,44.3,Mohammad Hafeez,Umar Gul,Mohammed Shami,0,0,0,NA,0,NA,NA,NA,0
+589310,2nd innings,Pakistan,India,44.4,Mohammad Hafeez,Umar Gul,Mohammed Shami,0,0,0,NA,0,NA,NA,NA,0
+589310,2nd innings,Pakistan,India,44.5,Mohammad Hafeez,Umar Gul,Mohammed Shami,0,0,0,NA,0,NA,NA,NA,0
+589310,2nd innings,Pakistan,India,44.6,Mohammad Hafeez,Umar Gul,Mohammed Shami,0,0,0,NA,0,NA,NA,NA,0
+589310,2nd innings,Pakistan,India,45.1,Umar Gul,Mohammad Hafeez,RA Jadeja,0,0,0,NA,0,NA,NA,NA,0
+589310,2nd innings,Pakistan,India,45.2,Umar Gul,Mohammad Hafeez,RA Jadeja,0,0,0,NA,0,NA,NA,NA,0
+589310,2nd innings,Pakistan,India,45.3,Umar Gul,Mohammad Hafeez,RA Jadeja,0,0,0,NA,0,NA,NA,NA,0
+589310,2nd innings,Pakistan,India,45.4,Umar Gul,Mohammad Hafeez,RA Jadeja,0,0,0,NA,0,NA,NA,NA,0
+589310,2nd innings,Pakistan,India,45.5,Umar Gul,Mohammad Hafeez,RA Jadeja,0,1,1,legbyes,0,NA,NA,NA,0
+589310,2nd innings,Pakistan,India,45.6,Mohammad Hafeez,Umar Gul,RA Jadeja,0,0,0,NA,0,NA,NA,NA,0
+589310,2nd innings,Pakistan,India,46.1,Umar Gul,Mohammad Hafeez,I Sharma,0,0,0,NA,0,NA,NA,NA,0
+589310,2nd innings,Pakistan,India,46.2,Umar Gul,Mohammad Hafeez,I Sharma,0,0,0,NA,1,caught,Umar Gul,RA Jadeja,0
+589310,2nd innings,Pakistan,India,46.3,Saeed Ajmal,Mohammad Hafeez,I Sharma,0,0,0,NA,0,NA,NA,NA,0
+589310,2nd innings,Pakistan,India,46.4,Saeed Ajmal,Mohammad Hafeez,I Sharma,1,0,1,NA,0,NA,NA,NA,0
+589310,2nd innings,Pakistan,India,46.5,Mohammad Hafeez,Saeed Ajmal,I Sharma,0,0,0,NA,0,NA,NA,NA,0
+589310,2nd innings,Pakistan,India,46.6,Mohammad Hafeez,Saeed Ajmal,I Sharma,0,0,0,NA,0,NA,NA,NA,0
+589310,2nd innings,Pakistan,India,47.1,Saeed Ajmal,Mohammad Hafeez,Mohammed Shami,0,0,0,NA,0,NA,NA,NA,0
+589310,2nd innings,Pakistan,India,47.2,Saeed Ajmal,Mohammad Hafeez,Mohammed Shami,0,0,0,NA,1,caught,Saeed Ajmal,MS Dhoni,0
+589310,2nd innings,Pakistan,India,47.3,Junaid Khan,Mohammad Hafeez,Mohammed Shami,0,0,0,NA,1,run out,Junaid Khan,SK Raina,0
+589310,2nd innings,Pakistan,India,47.4,Mohammad Irfan,Mohammad Hafeez,Mohammed Shami,0,0,0,NA,0,NA,NA,NA,0
+589310,2nd innings,Pakistan,India,47.5,Mohammad Irfan,Mohammad Hafeez,Mohammed Shami,0,0,0,NA,0,NA,NA,NA,0
+589310,2nd innings,Pakistan,India,47.6,Mohammad Irfan,Mohammad Hafeez,Mohammed Shami,0,0,0,NA,0,NA,NA,NA,0
+589310,2nd innings,Pakistan,India,48.1,Mohammad Hafeez,Mohammad Irfan,I Sharma,0,0,0,NA,0,NA,NA,NA,0
+589310,2nd innings,Pakistan,India,48.2,Mohammad Hafeez,Mohammad Irfan,I Sharma,0,1,1,wides,0,NA,NA,NA,0
+589310,2nd innings,Pakistan,India,48.3,Mohammad Hafeez,Mohammad Irfan,I Sharma,4,0,4,NA,0,NA,NA,NA,0
+589310,2nd innings,Pakistan,India,48.4,Mohammad Hafeez,Mohammad Irfan,I Sharma,2,0,2,NA,0,NA,NA,NA,0
+589310,2nd innings,Pakistan,India,48.5,Mohammad Hafeez,Mohammad Irfan,I Sharma,4,0,4,NA,0,NA,NA,NA,0
+589310,2nd innings,Pakistan,India,48.6,Mohammad Hafeez,Mohammad Irfan,I Sharma,0,1,1,noballs,0,NA,NA,NA,0
+589310,2nd innings,Pakistan,India,48.7,Mohammad Hafeez,Mohammad Irfan,I Sharma,0,0,0,NA,1,caught,Mohammad Hafeez,Yuvraj Singh,0

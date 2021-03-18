@@ -1,0 +1,584 @@
+match_id,innings,team,opponent,ball,batsman,non_striker,bowler,scored_runs,extras,total,extra_type,wicket,wicket_type,player_out,fielders,winner
+656485,1st innings,India,Bangladesh,0.1,RG Sharma,S Dhawan,Mashrafe Mortaza,4,0,4,NA,0,NA,NA,NA,1
+656485,1st innings,India,Bangladesh,0.2,RG Sharma,S Dhawan,Mashrafe Mortaza,0,0,0,NA,0,NA,NA,NA,1
+656485,1st innings,India,Bangladesh,0.3,RG Sharma,S Dhawan,Mashrafe Mortaza,0,0,0,NA,0,NA,NA,NA,1
+656485,1st innings,India,Bangladesh,0.4,RG Sharma,S Dhawan,Mashrafe Mortaza,0,0,0,NA,0,NA,NA,NA,1
+656485,1st innings,India,Bangladesh,0.5,RG Sharma,S Dhawan,Mashrafe Mortaza,0,4,4,legbyes,0,NA,NA,NA,1
+656485,1st innings,India,Bangladesh,0.6,RG Sharma,S Dhawan,Mashrafe Mortaza,0,0,0,NA,0,NA,NA,NA,1
+656485,1st innings,India,Bangladesh,1.1,S Dhawan,RG Sharma,Taskin Ahmed,0,0,0,NA,0,NA,NA,NA,1
+656485,1st innings,India,Bangladesh,1.2,S Dhawan,RG Sharma,Taskin Ahmed,0,0,0,NA,0,NA,NA,NA,1
+656485,1st innings,India,Bangladesh,1.3,S Dhawan,RG Sharma,Taskin Ahmed,0,0,0,NA,0,NA,NA,NA,1
+656485,1st innings,India,Bangladesh,1.4,S Dhawan,RG Sharma,Taskin Ahmed,0,0,0,NA,0,NA,NA,NA,1
+656485,1st innings,India,Bangladesh,1.5,S Dhawan,RG Sharma,Taskin Ahmed,0,0,0,NA,0,NA,NA,NA,1
+656485,1st innings,India,Bangladesh,1.6,S Dhawan,RG Sharma,Taskin Ahmed,4,0,4,NA,0,NA,NA,NA,1
+656485,1st innings,India,Bangladesh,2.1,RG Sharma,S Dhawan,Mashrafe Mortaza,4,0,4,NA,0,NA,NA,NA,1
+656485,1st innings,India,Bangladesh,2.2,RG Sharma,S Dhawan,Mashrafe Mortaza,0,0,0,NA,0,NA,NA,NA,1
+656485,1st innings,India,Bangladesh,2.3,RG Sharma,S Dhawan,Mashrafe Mortaza,0,0,0,NA,0,NA,NA,NA,1
+656485,1st innings,India,Bangladesh,2.4,RG Sharma,S Dhawan,Mashrafe Mortaza,0,0,0,NA,0,NA,NA,NA,1
+656485,1st innings,India,Bangladesh,2.5,RG Sharma,S Dhawan,Mashrafe Mortaza,0,0,0,NA,0,NA,NA,NA,1
+656485,1st innings,India,Bangladesh,2.6,RG Sharma,S Dhawan,Mashrafe Mortaza,1,0,1,NA,0,NA,NA,NA,1
+656485,1st innings,India,Bangladesh,3.1,RG Sharma,S Dhawan,Taskin Ahmed,0,0,0,NA,0,NA,NA,NA,1
+656485,1st innings,India,Bangladesh,3.2,RG Sharma,S Dhawan,Taskin Ahmed,4,0,4,NA,0,NA,NA,NA,1
+656485,1st innings,India,Bangladesh,3.3,RG Sharma,S Dhawan,Taskin Ahmed,0,0,0,NA,0,NA,NA,NA,1
+656485,1st innings,India,Bangladesh,3.4,RG Sharma,S Dhawan,Taskin Ahmed,0,0,0,NA,0,NA,NA,NA,1
+656485,1st innings,India,Bangladesh,3.5,RG Sharma,S Dhawan,Taskin Ahmed,2,0,2,NA,0,NA,NA,NA,1
+656485,1st innings,India,Bangladesh,3.6,RG Sharma,S Dhawan,Taskin Ahmed,0,0,0,NA,0,NA,NA,NA,1
+656485,1st innings,India,Bangladesh,4.1,S Dhawan,RG Sharma,Mashrafe Mortaza,0,0,0,NA,0,NA,NA,NA,1
+656485,1st innings,India,Bangladesh,4.2,S Dhawan,RG Sharma,Mashrafe Mortaza,0,0,0,NA,0,NA,NA,NA,1
+656485,1st innings,India,Bangladesh,4.3,S Dhawan,RG Sharma,Mashrafe Mortaza,0,1,1,legbyes,0,NA,NA,NA,1
+656485,1st innings,India,Bangladesh,4.4,RG Sharma,S Dhawan,Mashrafe Mortaza,0,0,0,NA,0,NA,NA,NA,1
+656485,1st innings,India,Bangladesh,4.5,RG Sharma,S Dhawan,Mashrafe Mortaza,1,0,1,NA,0,NA,NA,NA,1
+656485,1st innings,India,Bangladesh,4.6,S Dhawan,RG Sharma,Mashrafe Mortaza,1,0,1,NA,0,NA,NA,NA,1
+656485,1st innings,India,Bangladesh,5.1,S Dhawan,RG Sharma,Nasir Hossain,1,0,1,NA,0,NA,NA,NA,1
+656485,1st innings,India,Bangladesh,5.2,RG Sharma,S Dhawan,Nasir Hossain,0,0,0,NA,0,NA,NA,NA,1
+656485,1st innings,India,Bangladesh,5.3,RG Sharma,S Dhawan,Nasir Hossain,0,0,0,NA,0,NA,NA,NA,1
+656485,1st innings,India,Bangladesh,5.4,RG Sharma,S Dhawan,Nasir Hossain,0,0,0,NA,0,NA,NA,NA,1
+656485,1st innings,India,Bangladesh,5.5,RG Sharma,S Dhawan,Nasir Hossain,1,0,1,NA,0,NA,NA,NA,1
+656485,1st innings,India,Bangladesh,5.6,S Dhawan,RG Sharma,Nasir Hossain,0,0,0,NA,0,NA,NA,NA,1
+656485,1st innings,India,Bangladesh,6.1,RG Sharma,S Dhawan,Mashrafe Mortaza,0,0,0,NA,0,NA,NA,NA,1
+656485,1st innings,India,Bangladesh,6.2,RG Sharma,S Dhawan,Mashrafe Mortaza,1,0,1,NA,0,NA,NA,NA,1
+656485,1st innings,India,Bangladesh,6.3,S Dhawan,RG Sharma,Mashrafe Mortaza,4,0,4,NA,0,NA,NA,NA,1
+656485,1st innings,India,Bangladesh,6.4,S Dhawan,RG Sharma,Mashrafe Mortaza,0,0,0,NA,0,NA,NA,NA,1
+656485,1st innings,India,Bangladesh,6.5,S Dhawan,RG Sharma,Mashrafe Mortaza,2,0,2,NA,0,NA,NA,NA,1
+656485,1st innings,India,Bangladesh,6.6,S Dhawan,RG Sharma,Mashrafe Mortaza,1,0,1,NA,0,NA,NA,NA,1
+656485,1st innings,India,Bangladesh,7.1,S Dhawan,RG Sharma,Nasir Hossain,0,0,0,NA,0,NA,NA,NA,1
+656485,1st innings,India,Bangladesh,7.2,S Dhawan,RG Sharma,Nasir Hossain,0,0,0,NA,0,NA,NA,NA,1
+656485,1st innings,India,Bangladesh,7.3,S Dhawan,RG Sharma,Nasir Hossain,0,0,0,NA,0,NA,NA,NA,1
+656485,1st innings,India,Bangladesh,7.4,S Dhawan,RG Sharma,Nasir Hossain,1,0,1,NA,0,NA,NA,NA,1
+656485,1st innings,India,Bangladesh,7.5,RG Sharma,S Dhawan,Nasir Hossain,0,0,0,NA,0,NA,NA,NA,1
+656485,1st innings,India,Bangladesh,7.6,RG Sharma,S Dhawan,Nasir Hossain,4,0,4,NA,0,NA,NA,NA,1
+656485,1st innings,India,Bangladesh,8.1,S Dhawan,RG Sharma,Mashrafe Mortaza,2,0,2,NA,0,NA,NA,NA,1
+656485,1st innings,India,Bangladesh,8.2,S Dhawan,RG Sharma,Mashrafe Mortaza,4,0,4,NA,0,NA,NA,NA,1
+656485,1st innings,India,Bangladesh,8.3,S Dhawan,RG Sharma,Mashrafe Mortaza,0,0,0,NA,0,NA,NA,NA,1
+656485,1st innings,India,Bangladesh,8.4,S Dhawan,RG Sharma,Mashrafe Mortaza,0,0,0,NA,0,NA,NA,NA,1
+656485,1st innings,India,Bangladesh,8.5,S Dhawan,RG Sharma,Mashrafe Mortaza,0,0,0,NA,0,NA,NA,NA,1
+656485,1st innings,India,Bangladesh,8.6,S Dhawan,RG Sharma,Mashrafe Mortaza,0,0,0,NA,0,NA,NA,NA,1
+656485,1st innings,India,Bangladesh,9.1,RG Sharma,S Dhawan,Nasir Hossain,1,0,1,NA,0,NA,NA,NA,1
+656485,1st innings,India,Bangladesh,9.2,S Dhawan,RG Sharma,Nasir Hossain,1,0,1,NA,0,NA,NA,NA,1
+656485,1st innings,India,Bangladesh,9.3,RG Sharma,S Dhawan,Nasir Hossain,1,0,1,NA,0,NA,NA,NA,1
+656485,1st innings,India,Bangladesh,9.4,S Dhawan,RG Sharma,Nasir Hossain,0,0,0,NA,0,NA,NA,NA,1
+656485,1st innings,India,Bangladesh,9.5,S Dhawan,RG Sharma,Nasir Hossain,1,0,1,NA,0,NA,NA,NA,1
+656485,1st innings,India,Bangladesh,9.6,RG Sharma,S Dhawan,Nasir Hossain,0,0,0,NA,0,NA,NA,NA,1
+656485,1st innings,India,Bangladesh,10.1,S Dhawan,RG Sharma,Mahmudullah,0,0,0,NA,0,NA,NA,NA,1
+656485,1st innings,India,Bangladesh,10.2,S Dhawan,RG Sharma,Mahmudullah,0,0,0,NA,0,NA,NA,NA,1
+656485,1st innings,India,Bangladesh,10.3,S Dhawan,RG Sharma,Mahmudullah,1,0,1,NA,0,NA,NA,NA,1
+656485,1st innings,India,Bangladesh,10.4,RG Sharma,S Dhawan,Mahmudullah,0,0,0,NA,0,NA,NA,NA,1
+656485,1st innings,India,Bangladesh,10.5,RG Sharma,S Dhawan,Mahmudullah,2,0,2,NA,0,NA,NA,NA,1
+656485,1st innings,India,Bangladesh,10.6,RG Sharma,S Dhawan,Mahmudullah,1,0,1,NA,0,NA,NA,NA,1
+656485,1st innings,India,Bangladesh,11.1,RG Sharma,S Dhawan,Rubel Hossain,0,0,0,NA,0,NA,NA,NA,1
+656485,1st innings,India,Bangladesh,11.2,RG Sharma,S Dhawan,Rubel Hossain,0,0,0,NA,0,NA,NA,NA,1
+656485,1st innings,India,Bangladesh,11.3,RG Sharma,S Dhawan,Rubel Hossain,0,0,0,NA,0,NA,NA,NA,1
+656485,1st innings,India,Bangladesh,11.4,RG Sharma,S Dhawan,Rubel Hossain,1,0,1,NA,0,NA,NA,NA,1
+656485,1st innings,India,Bangladesh,11.5,S Dhawan,RG Sharma,Rubel Hossain,0,0,0,NA,0,NA,NA,NA,1
+656485,1st innings,India,Bangladesh,11.6,S Dhawan,RG Sharma,Rubel Hossain,0,0,0,NA,0,NA,NA,NA,1
+656485,1st innings,India,Bangladesh,12.1,RG Sharma,S Dhawan,Nasir Hossain,0,0,0,NA,0,NA,NA,NA,1
+656485,1st innings,India,Bangladesh,12.2,RG Sharma,S Dhawan,Nasir Hossain,1,0,1,NA,0,NA,NA,NA,1
+656485,1st innings,India,Bangladesh,12.3,S Dhawan,RG Sharma,Nasir Hossain,1,0,1,NA,0,NA,NA,NA,1
+656485,1st innings,India,Bangladesh,12.4,RG Sharma,S Dhawan,Nasir Hossain,0,0,0,NA,0,NA,NA,NA,1
+656485,1st innings,India,Bangladesh,12.5,RG Sharma,S Dhawan,Nasir Hossain,1,0,1,NA,0,NA,NA,NA,1
+656485,1st innings,India,Bangladesh,12.6,S Dhawan,RG Sharma,Nasir Hossain,0,0,0,NA,0,NA,NA,NA,1
+656485,1st innings,India,Bangladesh,13.1,RG Sharma,S Dhawan,Rubel Hossain,0,0,0,NA,0,NA,NA,NA,1
+656485,1st innings,India,Bangladesh,13.2,RG Sharma,S Dhawan,Rubel Hossain,1,0,1,NA,0,NA,NA,NA,1
+656485,1st innings,India,Bangladesh,13.3,S Dhawan,RG Sharma,Rubel Hossain,1,0,1,NA,0,NA,NA,NA,1
+656485,1st innings,India,Bangladesh,13.4,RG Sharma,S Dhawan,Rubel Hossain,1,0,1,NA,0,NA,NA,NA,1
+656485,1st innings,India,Bangladesh,13.5,S Dhawan,RG Sharma,Rubel Hossain,0,0,0,NA,0,NA,NA,NA,1
+656485,1st innings,India,Bangladesh,13.6,S Dhawan,RG Sharma,Rubel Hossain,1,0,1,NA,0,NA,NA,NA,1
+656485,1st innings,India,Bangladesh,14.1,S Dhawan,RG Sharma,Nasir Hossain,0,0,0,NA,0,NA,NA,NA,1
+656485,1st innings,India,Bangladesh,14.2,S Dhawan,RG Sharma,Nasir Hossain,0,0,0,NA,0,NA,NA,NA,1
+656485,1st innings,India,Bangladesh,14.3,S Dhawan,RG Sharma,Nasir Hossain,0,0,0,NA,0,NA,NA,NA,1
+656485,1st innings,India,Bangladesh,14.4,S Dhawan,RG Sharma,Nasir Hossain,1,0,1,NA,0,NA,NA,NA,1
+656485,1st innings,India,Bangladesh,14.5,RG Sharma,S Dhawan,Nasir Hossain,0,0,0,NA,0,NA,NA,NA,1
+656485,1st innings,India,Bangladesh,14.6,RG Sharma,S Dhawan,Nasir Hossain,6,0,6,NA,0,NA,NA,NA,1
+656485,1st innings,India,Bangladesh,15.1,S Dhawan,RG Sharma,Rubel Hossain,0,0,0,NA,0,NA,NA,NA,1
+656485,1st innings,India,Bangladesh,15.2,S Dhawan,RG Sharma,Rubel Hossain,0,0,0,NA,0,NA,NA,NA,1
+656485,1st innings,India,Bangladesh,15.3,S Dhawan,RG Sharma,Rubel Hossain,0,0,0,NA,0,NA,NA,NA,1
+656485,1st innings,India,Bangladesh,15.4,S Dhawan,RG Sharma,Rubel Hossain,0,0,0,NA,0,NA,NA,NA,1
+656485,1st innings,India,Bangladesh,15.5,S Dhawan,RG Sharma,Rubel Hossain,1,0,1,NA,0,NA,NA,NA,1
+656485,1st innings,India,Bangladesh,15.6,RG Sharma,S Dhawan,Rubel Hossain,1,0,1,NA,0,NA,NA,NA,1
+656485,1st innings,India,Bangladesh,16.1,RG Sharma,S Dhawan,Shakib Al Hasan,1,0,1,NA,0,NA,NA,NA,1
+656485,1st innings,India,Bangladesh,16.2,S Dhawan,RG Sharma,Shakib Al Hasan,2,0,2,NA,0,NA,NA,NA,1
+656485,1st innings,India,Bangladesh,16.3,S Dhawan,RG Sharma,Shakib Al Hasan,0,0,0,NA,1,stumped,S Dhawan,Mushfiqur Rahim,1
+656485,1st innings,India,Bangladesh,16.4,V Kohli,RG Sharma,Shakib Al Hasan,2,0,2,NA,0,NA,NA,NA,1
+656485,1st innings,India,Bangladesh,16.5,V Kohli,RG Sharma,Shakib Al Hasan,0,0,0,NA,0,NA,NA,NA,1
+656485,1st innings,India,Bangladesh,16.6,V Kohli,RG Sharma,Shakib Al Hasan,1,0,1,NA,0,NA,NA,NA,1
+656485,1st innings,India,Bangladesh,17.1,V Kohli,RG Sharma,Rubel Hossain,0,1,1,wides,0,NA,NA,NA,1
+656485,1st innings,India,Bangladesh,17.2,V Kohli,RG Sharma,Rubel Hossain,0,0,0,NA,0,NA,NA,NA,1
+656485,1st innings,India,Bangladesh,17.3,V Kohli,RG Sharma,Rubel Hossain,0,0,0,NA,0,NA,NA,NA,1
+656485,1st innings,India,Bangladesh,17.4,V Kohli,RG Sharma,Rubel Hossain,0,0,0,NA,0,NA,NA,NA,1
+656485,1st innings,India,Bangladesh,17.5,V Kohli,RG Sharma,Rubel Hossain,0,0,0,NA,0,NA,NA,NA,1
+656485,1st innings,India,Bangladesh,17.6,V Kohli,RG Sharma,Rubel Hossain,0,0,0,NA,1,caught,V Kohli,Mushfiqur Rahim,1
+656485,1st innings,India,Bangladesh,17.7,AM Rahane,RG Sharma,Rubel Hossain,0,0,0,NA,0,NA,NA,NA,1
+656485,1st innings,India,Bangladesh,18.1,RG Sharma,AM Rahane,Shakib Al Hasan,1,0,1,NA,0,NA,NA,NA,1
+656485,1st innings,India,Bangladesh,18.2,AM Rahane,RG Sharma,Shakib Al Hasan,0,0,0,NA,0,NA,NA,NA,1
+656485,1st innings,India,Bangladesh,18.3,AM Rahane,RG Sharma,Shakib Al Hasan,0,0,0,NA,0,NA,NA,NA,1
+656485,1st innings,India,Bangladesh,18.4,AM Rahane,RG Sharma,Shakib Al Hasan,1,0,1,NA,0,NA,NA,NA,1
+656485,1st innings,India,Bangladesh,18.5,RG Sharma,AM Rahane,Shakib Al Hasan,0,0,0,NA,0,NA,NA,NA,1
+656485,1st innings,India,Bangladesh,18.6,RG Sharma,AM Rahane,Shakib Al Hasan,0,0,0,NA,0,NA,NA,NA,1
+656485,1st innings,India,Bangladesh,19.1,AM Rahane,RG Sharma,Rubel Hossain,0,0,0,NA,0,NA,NA,NA,1
+656485,1st innings,India,Bangladesh,19.2,AM Rahane,RG Sharma,Rubel Hossain,0,0,0,NA,0,NA,NA,NA,1
+656485,1st innings,India,Bangladesh,19.3,AM Rahane,RG Sharma,Rubel Hossain,1,0,1,NA,0,NA,NA,NA,1
+656485,1st innings,India,Bangladesh,19.4,RG Sharma,AM Rahane,Rubel Hossain,1,0,1,NA,0,NA,NA,NA,1
+656485,1st innings,India,Bangladesh,19.5,AM Rahane,RG Sharma,Rubel Hossain,0,0,0,NA,0,NA,NA,NA,1
+656485,1st innings,India,Bangladesh,19.6,AM Rahane,RG Sharma,Rubel Hossain,1,0,1,NA,0,NA,NA,NA,1
+656485,1st innings,India,Bangladesh,20.1,AM Rahane,RG Sharma,Shakib Al Hasan,0,0,0,NA,0,NA,NA,NA,1
+656485,1st innings,India,Bangladesh,20.2,AM Rahane,RG Sharma,Shakib Al Hasan,0,0,0,NA,0,NA,NA,NA,1
+656485,1st innings,India,Bangladesh,20.3,AM Rahane,RG Sharma,Shakib Al Hasan,1,0,1,NA,0,NA,NA,NA,1
+656485,1st innings,India,Bangladesh,20.4,RG Sharma,AM Rahane,Shakib Al Hasan,0,0,0,NA,0,NA,NA,NA,1
+656485,1st innings,India,Bangladesh,20.5,RG Sharma,AM Rahane,Shakib Al Hasan,0,0,0,NA,0,NA,NA,NA,1
+656485,1st innings,India,Bangladesh,20.6,RG Sharma,AM Rahane,Shakib Al Hasan,1,0,1,NA,0,NA,NA,NA,1
+656485,1st innings,India,Bangladesh,21.1,RG Sharma,AM Rahane,Rubel Hossain,1,0,1,NA,0,NA,NA,NA,1
+656485,1st innings,India,Bangladesh,21.2,AM Rahane,RG Sharma,Rubel Hossain,0,0,0,NA,0,NA,NA,NA,1
+656485,1st innings,India,Bangladesh,21.3,AM Rahane,RG Sharma,Rubel Hossain,0,0,0,NA,0,NA,NA,NA,1
+656485,1st innings,India,Bangladesh,21.4,AM Rahane,RG Sharma,Rubel Hossain,1,0,1,NA,0,NA,NA,NA,1
+656485,1st innings,India,Bangladesh,21.5,RG Sharma,AM Rahane,Rubel Hossain,0,0,0,NA,0,NA,NA,NA,1
+656485,1st innings,India,Bangladesh,21.6,RG Sharma,AM Rahane,Rubel Hossain,1,0,1,NA,0,NA,NA,NA,1
+656485,1st innings,India,Bangladesh,22.1,RG Sharma,AM Rahane,Shakib Al Hasan,1,0,1,NA,0,NA,NA,NA,1
+656485,1st innings,India,Bangladesh,22.2,AM Rahane,RG Sharma,Shakib Al Hasan,2,0,2,NA,0,NA,NA,NA,1
+656485,1st innings,India,Bangladesh,22.3,AM Rahane,RG Sharma,Shakib Al Hasan,1,0,1,NA,0,NA,NA,NA,1
+656485,1st innings,India,Bangladesh,22.4,RG Sharma,AM Rahane,Shakib Al Hasan,1,0,1,NA,0,NA,NA,NA,1
+656485,1st innings,India,Bangladesh,22.5,AM Rahane,RG Sharma,Shakib Al Hasan,0,0,0,NA,0,NA,NA,NA,1
+656485,1st innings,India,Bangladesh,22.6,AM Rahane,RG Sharma,Shakib Al Hasan,1,0,1,NA,0,NA,NA,NA,1
+656485,1st innings,India,Bangladesh,23.1,AM Rahane,RG Sharma,Taskin Ahmed,0,0,0,NA,0,NA,NA,NA,1
+656485,1st innings,India,Bangladesh,23.2,AM Rahane,RG Sharma,Taskin Ahmed,0,0,0,NA,0,NA,NA,NA,1
+656485,1st innings,India,Bangladesh,23.3,AM Rahane,RG Sharma,Taskin Ahmed,0,0,0,NA,0,NA,NA,NA,1
+656485,1st innings,India,Bangladesh,23.4,AM Rahane,RG Sharma,Taskin Ahmed,1,0,1,NA,0,NA,NA,NA,1
+656485,1st innings,India,Bangladesh,23.5,RG Sharma,AM Rahane,Taskin Ahmed,0,0,0,NA,0,NA,NA,NA,1
+656485,1st innings,India,Bangladesh,23.6,RG Sharma,AM Rahane,Taskin Ahmed,0,0,0,NA,0,NA,NA,NA,1
+656485,1st innings,India,Bangladesh,24.1,AM Rahane,RG Sharma,Shakib Al Hasan,0,1,1,legbyes,0,NA,NA,NA,1
+656485,1st innings,India,Bangladesh,24.2,RG Sharma,AM Rahane,Shakib Al Hasan,1,0,1,NA,0,NA,NA,NA,1
+656485,1st innings,India,Bangladesh,24.3,AM Rahane,RG Sharma,Shakib Al Hasan,1,0,1,NA,0,NA,NA,NA,1
+656485,1st innings,India,Bangladesh,24.4,RG Sharma,AM Rahane,Shakib Al Hasan,0,0,0,NA,0,NA,NA,NA,1
+656485,1st innings,India,Bangladesh,24.5,RG Sharma,AM Rahane,Shakib Al Hasan,0,0,0,NA,0,NA,NA,NA,1
+656485,1st innings,India,Bangladesh,24.6,RG Sharma,AM Rahane,Shakib Al Hasan,0,0,0,NA,0,NA,NA,NA,1
+656485,1st innings,India,Bangladesh,25.1,AM Rahane,RG Sharma,Taskin Ahmed,0,0,0,NA,0,NA,NA,NA,1
+656485,1st innings,India,Bangladesh,25.2,AM Rahane,RG Sharma,Taskin Ahmed,0,0,0,NA,0,NA,NA,NA,1
+656485,1st innings,India,Bangladesh,25.3,AM Rahane,RG Sharma,Taskin Ahmed,0,0,0,NA,0,NA,NA,NA,1
+656485,1st innings,India,Bangladesh,25.4,AM Rahane,RG Sharma,Taskin Ahmed,0,0,0,NA,0,NA,NA,NA,1
+656485,1st innings,India,Bangladesh,25.5,AM Rahane,RG Sharma,Taskin Ahmed,2,0,2,NA,0,NA,NA,NA,1
+656485,1st innings,India,Bangladesh,25.6,AM Rahane,RG Sharma,Taskin Ahmed,4,0,4,NA,0,NA,NA,NA,1
+656485,1st innings,India,Bangladesh,26.1,RG Sharma,AM Rahane,Shakib Al Hasan,0,0,0,NA,0,NA,NA,NA,1
+656485,1st innings,India,Bangladesh,26.2,RG Sharma,AM Rahane,Shakib Al Hasan,1,0,1,NA,0,NA,NA,NA,1
+656485,1st innings,India,Bangladesh,26.3,AM Rahane,RG Sharma,Shakib Al Hasan,1,0,1,NA,0,NA,NA,NA,1
+656485,1st innings,India,Bangladesh,26.4,RG Sharma,AM Rahane,Shakib Al Hasan,1,0,1,NA,0,NA,NA,NA,1
+656485,1st innings,India,Bangladesh,26.5,AM Rahane,RG Sharma,Shakib Al Hasan,0,0,0,NA,0,NA,NA,NA,1
+656485,1st innings,India,Bangladesh,26.6,AM Rahane,RG Sharma,Shakib Al Hasan,0,0,0,NA,0,NA,NA,NA,1
+656485,1st innings,India,Bangladesh,27.1,RG Sharma,AM Rahane,Taskin Ahmed,4,0,4,NA,0,NA,NA,NA,1
+656485,1st innings,India,Bangladesh,27.2,RG Sharma,AM Rahane,Taskin Ahmed,1,0,1,NA,0,NA,NA,NA,1
+656485,1st innings,India,Bangladesh,27.3,AM Rahane,RG Sharma,Taskin Ahmed,0,0,0,NA,0,NA,NA,NA,1
+656485,1st innings,India,Bangladesh,27.4,AM Rahane,RG Sharma,Taskin Ahmed,1,0,1,NA,0,NA,NA,NA,1
+656485,1st innings,India,Bangladesh,27.5,RG Sharma,AM Rahane,Taskin Ahmed,1,0,1,NA,0,NA,NA,NA,1
+656485,1st innings,India,Bangladesh,27.6,AM Rahane,RG Sharma,Taskin Ahmed,0,0,0,NA,1,caught,AM Rahane,Shakib Al Hasan,1
+656485,1st innings,India,Bangladesh,28.1,SK Raina,RG Sharma,Nasir Hossain,0,0,0,NA,0,NA,NA,NA,1
+656485,1st innings,India,Bangladesh,28.2,SK Raina,RG Sharma,Nasir Hossain,0,0,0,NA,0,NA,NA,NA,1
+656485,1st innings,India,Bangladesh,28.3,SK Raina,RG Sharma,Nasir Hossain,0,0,0,NA,0,NA,NA,NA,1
+656485,1st innings,India,Bangladesh,28.4,SK Raina,RG Sharma,Nasir Hossain,0,4,4,byes,0,NA,NA,NA,1
+656485,1st innings,India,Bangladesh,28.5,SK Raina,RG Sharma,Nasir Hossain,1,0,1,NA,0,NA,NA,NA,1
+656485,1st innings,India,Bangladesh,28.6,RG Sharma,SK Raina,Nasir Hossain,0,0,0,NA,0,NA,NA,NA,1
+656485,1st innings,India,Bangladesh,29.1,SK Raina,RG Sharma,Taskin Ahmed,0,0,0,NA,0,NA,NA,NA,1
+656485,1st innings,India,Bangladesh,29.2,SK Raina,RG Sharma,Taskin Ahmed,1,0,1,NA,0,NA,NA,NA,1
+656485,1st innings,India,Bangladesh,29.3,RG Sharma,SK Raina,Taskin Ahmed,0,0,0,NA,0,NA,NA,NA,1
+656485,1st innings,India,Bangladesh,29.4,RG Sharma,SK Raina,Taskin Ahmed,0,0,0,NA,0,NA,NA,NA,1
+656485,1st innings,India,Bangladesh,29.5,RG Sharma,SK Raina,Taskin Ahmed,1,0,1,NA,0,NA,NA,NA,1
+656485,1st innings,India,Bangladesh,29.6,SK Raina,RG Sharma,Taskin Ahmed,4,0,4,NA,0,NA,NA,NA,1
+656485,1st innings,India,Bangladesh,30.1,RG Sharma,SK Raina,Nasir Hossain,1,0,1,NA,0,NA,NA,NA,1
+656485,1st innings,India,Bangladesh,30.2,SK Raina,RG Sharma,Nasir Hossain,0,0,0,NA,0,NA,NA,NA,1
+656485,1st innings,India,Bangladesh,30.3,SK Raina,RG Sharma,Nasir Hossain,1,0,1,NA,0,NA,NA,NA,1
+656485,1st innings,India,Bangladesh,30.4,RG Sharma,SK Raina,Nasir Hossain,0,1,1,wides,0,NA,NA,NA,1
+656485,1st innings,India,Bangladesh,30.5,RG Sharma,SK Raina,Nasir Hossain,1,0,1,NA,0,NA,NA,NA,1
+656485,1st innings,India,Bangladesh,30.6,SK Raina,RG Sharma,Nasir Hossain,1,0,1,NA,0,NA,NA,NA,1
+656485,1st innings,India,Bangladesh,30.7,RG Sharma,SK Raina,Nasir Hossain,1,0,1,NA,0,NA,NA,NA,1
+656485,1st innings,India,Bangladesh,31.1,RG Sharma,SK Raina,Mashrafe Mortaza,4,0,4,NA,0,NA,NA,NA,1
+656485,1st innings,India,Bangladesh,31.2,RG Sharma,SK Raina,Mashrafe Mortaza,3,0,3,NA,0,NA,NA,NA,1
+656485,1st innings,India,Bangladesh,31.3,SK Raina,RG Sharma,Mashrafe Mortaza,0,1,1,legbyes,0,NA,NA,NA,1
+656485,1st innings,India,Bangladesh,31.4,RG Sharma,SK Raina,Mashrafe Mortaza,2,0,2,NA,0,NA,NA,NA,1
+656485,1st innings,India,Bangladesh,31.5,RG Sharma,SK Raina,Mashrafe Mortaza,0,0,0,NA,0,NA,NA,NA,1
+656485,1st innings,India,Bangladesh,31.6,RG Sharma,SK Raina,Mashrafe Mortaza,1,0,1,NA,0,NA,NA,NA,1
+656485,1st innings,India,Bangladesh,32.1,RG Sharma,SK Raina,Nasir Hossain,1,0,1,NA,0,NA,NA,NA,1
+656485,1st innings,India,Bangladesh,32.2,SK Raina,RG Sharma,Nasir Hossain,0,0,0,NA,0,NA,NA,NA,1
+656485,1st innings,India,Bangladesh,32.3,SK Raina,RG Sharma,Nasir Hossain,0,0,0,NA,0,NA,NA,NA,1
+656485,1st innings,India,Bangladesh,32.4,SK Raina,RG Sharma,Nasir Hossain,1,0,1,NA,0,NA,NA,NA,1
+656485,1st innings,India,Bangladesh,32.5,RG Sharma,SK Raina,Nasir Hossain,1,0,1,NA,0,NA,NA,NA,1
+656485,1st innings,India,Bangladesh,32.6,SK Raina,RG Sharma,Nasir Hossain,1,0,1,NA,0,NA,NA,NA,1
+656485,1st innings,India,Bangladesh,33.1,SK Raina,RG Sharma,Mashrafe Mortaza,0,0,0,NA,0,NA,NA,NA,1
+656485,1st innings,India,Bangladesh,33.2,SK Raina,RG Sharma,Mashrafe Mortaza,0,0,0,NA,0,NA,NA,NA,1
+656485,1st innings,India,Bangladesh,33.3,SK Raina,RG Sharma,Mashrafe Mortaza,0,0,0,NA,0,NA,NA,NA,1
+656485,1st innings,India,Bangladesh,33.4,SK Raina,RG Sharma,Mashrafe Mortaza,1,0,1,NA,0,NA,NA,NA,1
+656485,1st innings,India,Bangladesh,33.5,RG Sharma,SK Raina,Mashrafe Mortaza,4,0,4,NA,0,NA,NA,NA,1
+656485,1st innings,India,Bangladesh,33.6,RG Sharma,SK Raina,Mashrafe Mortaza,0,0,0,NA,0,NA,NA,NA,1
+656485,1st innings,India,Bangladesh,34.1,SK Raina,RG Sharma,Nasir Hossain,0,0,0,NA,0,NA,NA,NA,1
+656485,1st innings,India,Bangladesh,34.2,SK Raina,RG Sharma,Nasir Hossain,0,0,0,NA,0,NA,NA,NA,1
+656485,1st innings,India,Bangladesh,34.3,SK Raina,RG Sharma,Nasir Hossain,1,0,1,NA,0,NA,NA,NA,1
+656485,1st innings,India,Bangladesh,34.4,RG Sharma,SK Raina,Nasir Hossain,1,0,1,NA,0,NA,NA,NA,1
+656485,1st innings,India,Bangladesh,34.5,SK Raina,RG Sharma,Nasir Hossain,0,0,0,NA,0,NA,NA,NA,1
+656485,1st innings,India,Bangladesh,34.6,SK Raina,RG Sharma,Nasir Hossain,1,0,1,NA,0,NA,NA,NA,1
+656485,1st innings,India,Bangladesh,35.1,SK Raina,RG Sharma,Mashrafe Mortaza,4,0,4,NA,0,NA,NA,NA,1
+656485,1st innings,India,Bangladesh,35.2,SK Raina,RG Sharma,Mashrafe Mortaza,0,0,0,NA,0,NA,NA,NA,1
+656485,1st innings,India,Bangladesh,35.3,SK Raina,RG Sharma,Mashrafe Mortaza,4,0,4,NA,0,NA,NA,NA,1
+656485,1st innings,India,Bangladesh,35.4,SK Raina,RG Sharma,Mashrafe Mortaza,0,0,0,NA,0,NA,NA,NA,1
+656485,1st innings,India,Bangladesh,35.5,SK Raina,RG Sharma,Mashrafe Mortaza,1,0,1,NA,0,NA,NA,NA,1
+656485,1st innings,India,Bangladesh,35.6,RG Sharma,SK Raina,Mashrafe Mortaza,0,0,0,NA,0,NA,NA,NA,1
+656485,1st innings,India,Bangladesh,36.1,SK Raina,RG Sharma,Shakib Al Hasan,6,0,6,NA,0,NA,NA,NA,1
+656485,1st innings,India,Bangladesh,36.2,SK Raina,RG Sharma,Shakib Al Hasan,0,0,0,NA,0,NA,NA,NA,1
+656485,1st innings,India,Bangladesh,36.3,SK Raina,RG Sharma,Shakib Al Hasan,1,0,1,NA,0,NA,NA,NA,1
+656485,1st innings,India,Bangladesh,36.4,RG Sharma,SK Raina,Shakib Al Hasan,0,0,0,NA,0,NA,NA,NA,1
+656485,1st innings,India,Bangladesh,36.5,RG Sharma,SK Raina,Shakib Al Hasan,0,0,0,NA,0,NA,NA,NA,1
+656485,1st innings,India,Bangladesh,36.6,RG Sharma,SK Raina,Shakib Al Hasan,4,0,4,NA,0,NA,NA,NA,1
+656485,1st innings,India,Bangladesh,37.1,SK Raina,RG Sharma,Rubel Hossain,1,0,1,NA,0,NA,NA,NA,1
+656485,1st innings,India,Bangladesh,37.2,RG Sharma,SK Raina,Rubel Hossain,1,0,1,NA,0,NA,NA,NA,1
+656485,1st innings,India,Bangladesh,37.3,SK Raina,RG Sharma,Rubel Hossain,4,0,4,NA,0,NA,NA,NA,1
+656485,1st innings,India,Bangladesh,37.4,SK Raina,RG Sharma,Rubel Hossain,1,0,1,NA,0,NA,NA,NA,1
+656485,1st innings,India,Bangladesh,37.5,RG Sharma,SK Raina,Rubel Hossain,1,0,1,NA,0,NA,NA,NA,1
+656485,1st innings,India,Bangladesh,37.6,SK Raina,RG Sharma,Rubel Hossain,1,0,1,NA,0,NA,NA,NA,1
+656485,1st innings,India,Bangladesh,38.1,SK Raina,RG Sharma,Taskin Ahmed,2,0,2,NA,0,NA,NA,NA,1
+656485,1st innings,India,Bangladesh,38.2,SK Raina,RG Sharma,Taskin Ahmed,1,0,1,NA,0,NA,NA,NA,1
+656485,1st innings,India,Bangladesh,38.3,RG Sharma,SK Raina,Taskin Ahmed,4,0,4,NA,0,NA,NA,NA,1
+656485,1st innings,India,Bangladesh,38.4,RG Sharma,SK Raina,Taskin Ahmed,1,0,1,NA,0,NA,NA,NA,1
+656485,1st innings,India,Bangladesh,38.5,SK Raina,RG Sharma,Taskin Ahmed,1,0,1,NA,0,NA,NA,NA,1
+656485,1st innings,India,Bangladesh,38.6,RG Sharma,SK Raina,Taskin Ahmed,1,0,1,NA,0,NA,NA,NA,1
+656485,1st innings,India,Bangladesh,39.1,RG Sharma,SK Raina,Rubel Hossain,1,0,1,NA,0,NA,NA,NA,1
+656485,1st innings,India,Bangladesh,39.2,SK Raina,RG Sharma,Rubel Hossain,1,0,1,NA,0,NA,NA,NA,1
+656485,1st innings,India,Bangladesh,39.3,RG Sharma,SK Raina,Rubel Hossain,0,0,0,NA,0,NA,NA,NA,1
+656485,1st innings,India,Bangladesh,39.4,RG Sharma,SK Raina,Rubel Hossain,1,1,2,noballs,0,NA,NA,NA,1
+656485,1st innings,India,Bangladesh,39.5,SK Raina,RG Sharma,Rubel Hossain,2,0,2,NA,0,NA,NA,NA,1
+656485,1st innings,India,Bangladesh,39.6,SK Raina,RG Sharma,Rubel Hossain,4,0,4,NA,0,NA,NA,NA,1
+656485,1st innings,India,Bangladesh,39.7,SK Raina,RG Sharma,Rubel Hossain,1,0,1,NA,0,NA,NA,NA,1
+656485,1st innings,India,Bangladesh,40.1,SK Raina,RG Sharma,Shakib Al Hasan,1,0,1,NA,0,NA,NA,NA,1
+656485,1st innings,India,Bangladesh,40.2,RG Sharma,SK Raina,Shakib Al Hasan,1,0,1,NA,0,NA,NA,NA,1
+656485,1st innings,India,Bangladesh,40.3,SK Raina,RG Sharma,Shakib Al Hasan,1,0,1,NA,0,NA,NA,NA,1
+656485,1st innings,India,Bangladesh,40.4,RG Sharma,SK Raina,Shakib Al Hasan,4,0,4,NA,0,NA,NA,NA,1
+656485,1st innings,India,Bangladesh,40.5,RG Sharma,SK Raina,Shakib Al Hasan,1,0,1,NA,0,NA,NA,NA,1
+656485,1st innings,India,Bangladesh,40.6,SK Raina,RG Sharma,Shakib Al Hasan,4,0,4,NA,0,NA,NA,NA,1
+656485,1st innings,India,Bangladesh,41.1,RG Sharma,SK Raina,Mashrafe Mortaza,1,0,1,NA,0,NA,NA,NA,1
+656485,1st innings,India,Bangladesh,41.2,SK Raina,RG Sharma,Mashrafe Mortaza,4,0,4,NA,0,NA,NA,NA,1
+656485,1st innings,India,Bangladesh,41.3,SK Raina,RG Sharma,Mashrafe Mortaza,1,0,1,NA,0,NA,NA,NA,1
+656485,1st innings,India,Bangladesh,41.4,RG Sharma,SK Raina,Mashrafe Mortaza,1,0,1,NA,0,NA,NA,NA,1
+656485,1st innings,India,Bangladesh,41.5,SK Raina,RG Sharma,Mashrafe Mortaza,1,0,1,NA,0,NA,NA,NA,1
+656485,1st innings,India,Bangladesh,41.6,RG Sharma,SK Raina,Mashrafe Mortaza,2,1,3,noballs,0,NA,NA,NA,1
+656485,1st innings,India,Bangladesh,41.7,RG Sharma,SK Raina,Mashrafe Mortaza,1,0,1,NA,0,NA,NA,NA,1
+656485,1st innings,India,Bangladesh,42.1,RG Sharma,SK Raina,Shakib Al Hasan,0,0,0,NA,0,NA,NA,NA,1
+656485,1st innings,India,Bangladesh,42.2,RG Sharma,SK Raina,Shakib Al Hasan,1,0,1,NA,0,NA,NA,NA,1
+656485,1st innings,India,Bangladesh,42.3,SK Raina,RG Sharma,Shakib Al Hasan,0,0,0,NA,0,NA,NA,NA,1
+656485,1st innings,India,Bangladesh,42.4,SK Raina,RG Sharma,Shakib Al Hasan,1,0,1,NA,0,NA,NA,NA,1
+656485,1st innings,India,Bangladesh,42.5,RG Sharma,SK Raina,Shakib Al Hasan,1,0,1,NA,0,NA,NA,NA,1
+656485,1st innings,India,Bangladesh,42.6,SK Raina,RG Sharma,Shakib Al Hasan,1,0,1,NA,0,NA,NA,NA,1
+656485,1st innings,India,Bangladesh,43.1,SK Raina,RG Sharma,Mashrafe Mortaza,1,0,1,NA,0,NA,NA,NA,1
+656485,1st innings,India,Bangladesh,43.2,RG Sharma,SK Raina,Mashrafe Mortaza,1,0,1,NA,0,NA,NA,NA,1
+656485,1st innings,India,Bangladesh,43.3,SK Raina,RG Sharma,Mashrafe Mortaza,2,0,2,NA,0,NA,NA,NA,1
+656485,1st innings,India,Bangladesh,43.4,SK Raina,RG Sharma,Mashrafe Mortaza,0,0,0,NA,0,NA,NA,NA,1
+656485,1st innings,India,Bangladesh,43.5,SK Raina,RG Sharma,Mashrafe Mortaza,0,0,0,NA,1,caught,SK Raina,Mushfiqur Rahim,1
+656485,1st innings,India,Bangladesh,43.6,RG Sharma,MS Dhoni,Mashrafe Mortaza,4,0,4,NA,0,NA,NA,NA,1
+656485,1st innings,India,Bangladesh,44.1,MS Dhoni,RG Sharma,Taskin Ahmed,0,0,0,NA,0,NA,NA,NA,1
+656485,1st innings,India,Bangladesh,44.2,MS Dhoni,RG Sharma,Taskin Ahmed,0,0,0,NA,0,NA,NA,NA,1
+656485,1st innings,India,Bangladesh,44.3,MS Dhoni,RG Sharma,Taskin Ahmed,1,0,1,NA,0,NA,NA,NA,1
+656485,1st innings,India,Bangladesh,44.4,RG Sharma,MS Dhoni,Taskin Ahmed,2,0,2,NA,0,NA,NA,NA,1
+656485,1st innings,India,Bangladesh,44.5,RG Sharma,MS Dhoni,Taskin Ahmed,1,0,1,NA,0,NA,NA,NA,1
+656485,1st innings,India,Bangladesh,44.6,MS Dhoni,RG Sharma,Taskin Ahmed,0,0,0,NA,0,NA,NA,NA,1
+656485,1st innings,India,Bangladesh,45.1,RG Sharma,MS Dhoni,Rubel Hossain,0,0,0,NA,0,NA,NA,NA,1
+656485,1st innings,India,Bangladesh,45.2,RG Sharma,MS Dhoni,Rubel Hossain,6,0,6,NA,0,NA,NA,NA,1
+656485,1st innings,India,Bangladesh,45.3,RG Sharma,MS Dhoni,Rubel Hossain,4,0,4,NA,0,NA,NA,NA,1
+656485,1st innings,India,Bangladesh,45.4,RG Sharma,MS Dhoni,Rubel Hossain,1,0,1,NA,0,NA,NA,NA,1
+656485,1st innings,India,Bangladesh,45.5,MS Dhoni,RG Sharma,Rubel Hossain,1,0,1,NA,0,NA,NA,NA,1
+656485,1st innings,India,Bangladesh,45.6,RG Sharma,MS Dhoni,Rubel Hossain,4,0,4,NA,0,NA,NA,NA,1
+656485,1st innings,India,Bangladesh,46.1,MS Dhoni,RG Sharma,Taskin Ahmed,1,0,1,NA,0,NA,NA,NA,1
+656485,1st innings,India,Bangladesh,46.2,RG Sharma,MS Dhoni,Taskin Ahmed,0,0,0,NA,0,NA,NA,NA,1
+656485,1st innings,India,Bangladesh,46.3,RG Sharma,MS Dhoni,Taskin Ahmed,0,1,1,wides,0,NA,NA,NA,1
+656485,1st innings,India,Bangladesh,46.4,RG Sharma,MS Dhoni,Taskin Ahmed,6,0,6,NA,0,NA,NA,NA,1
+656485,1st innings,India,Bangladesh,46.5,RG Sharma,MS Dhoni,Taskin Ahmed,4,0,4,NA,0,NA,NA,NA,1
+656485,1st innings,India,Bangladesh,46.6,RG Sharma,MS Dhoni,Taskin Ahmed,0,0,0,NA,0,NA,NA,NA,1
+656485,1st innings,India,Bangladesh,46.7,RG Sharma,MS Dhoni,Taskin Ahmed,0,0,0,NA,1,bowled,RG Sharma,NA,1
+656485,1st innings,India,Bangladesh,47.1,MS Dhoni,RA Jadeja,Shakib Al Hasan,0,0,0,NA,0,NA,NA,NA,1
+656485,1st innings,India,Bangladesh,47.2,MS Dhoni,RA Jadeja,Shakib Al Hasan,0,0,0,NA,0,NA,NA,NA,1
+656485,1st innings,India,Bangladesh,47.3,MS Dhoni,RA Jadeja,Shakib Al Hasan,1,0,1,NA,0,NA,NA,NA,1
+656485,1st innings,India,Bangladesh,47.4,RA Jadeja,MS Dhoni,Shakib Al Hasan,4,0,4,NA,0,NA,NA,NA,1
+656485,1st innings,India,Bangladesh,47.5,RA Jadeja,MS Dhoni,Shakib Al Hasan,4,0,4,NA,0,NA,NA,NA,1
+656485,1st innings,India,Bangladesh,47.6,RA Jadeja,MS Dhoni,Shakib Al Hasan,1,0,1,NA,0,NA,NA,NA,1
+656485,1st innings,India,Bangladesh,48.1,RA Jadeja,MS Dhoni,Taskin Ahmed,2,0,2,NA,0,NA,NA,NA,1
+656485,1st innings,India,Bangladesh,48.2,RA Jadeja,MS Dhoni,Taskin Ahmed,4,0,4,NA,0,NA,NA,NA,1
+656485,1st innings,India,Bangladesh,48.3,RA Jadeja,MS Dhoni,Taskin Ahmed,4,0,4,NA,0,NA,NA,NA,1
+656485,1st innings,India,Bangladesh,48.4,RA Jadeja,MS Dhoni,Taskin Ahmed,1,0,1,NA,0,NA,NA,NA,1
+656485,1st innings,India,Bangladesh,48.5,MS Dhoni,RA Jadeja,Taskin Ahmed,2,0,2,NA,0,NA,NA,NA,1
+656485,1st innings,India,Bangladesh,48.6,MS Dhoni,RA Jadeja,Taskin Ahmed,0,0,0,NA,1,caught,MS Dhoni,Nasir Hossain,1
+656485,1st innings,India,Bangladesh,49.1,R Ashwin,RA Jadeja,Rubel Hossain,1,0,1,NA,0,NA,NA,NA,1
+656485,1st innings,India,Bangladesh,49.2,RA Jadeja,R Ashwin,Rubel Hossain,1,0,1,NA,0,NA,NA,NA,1
+656485,1st innings,India,Bangladesh,49.3,R Ashwin,RA Jadeja,Rubel Hossain,1,0,1,NA,0,NA,NA,NA,1
+656485,1st innings,India,Bangladesh,49.4,RA Jadeja,R Ashwin,Rubel Hossain,1,0,1,NA,0,NA,NA,NA,1
+656485,1st innings,India,Bangladesh,49.5,R Ashwin,RA Jadeja,Rubel Hossain,1,0,1,NA,0,NA,NA,NA,1
+656485,1st innings,India,Bangladesh,49.6,RA Jadeja,R Ashwin,Rubel Hossain,1,0,1,NA,0,NA,NA,NA,1
+656485,2nd innings,Bangladesh,India,0.1,Tamim Iqbal,Imrul Kayes,UT Yadav,0,0,0,NA,0,NA,NA,NA,0
+656485,2nd innings,Bangladesh,India,0.2,Tamim Iqbal,Imrul Kayes,UT Yadav,2,0,2,NA,0,NA,NA,NA,0
+656485,2nd innings,Bangladesh,India,0.3,Tamim Iqbal,Imrul Kayes,UT Yadav,0,0,0,NA,0,NA,NA,NA,0
+656485,2nd innings,Bangladesh,India,0.4,Tamim Iqbal,Imrul Kayes,UT Yadav,0,0,0,NA,0,NA,NA,NA,0
+656485,2nd innings,Bangladesh,India,0.5,Tamim Iqbal,Imrul Kayes,UT Yadav,1,0,1,NA,0,NA,NA,NA,0
+656485,2nd innings,Bangladesh,India,0.6,Imrul Kayes,Tamim Iqbal,UT Yadav,0,0,0,NA,0,NA,NA,NA,0
+656485,2nd innings,Bangladesh,India,1.1,Tamim Iqbal,Imrul Kayes,Mohammed Shami,0,0,0,NA,0,NA,NA,NA,0
+656485,2nd innings,Bangladesh,India,1.2,Tamim Iqbal,Imrul Kayes,Mohammed Shami,0,1,1,wides,0,NA,NA,NA,0
+656485,2nd innings,Bangladesh,India,1.3,Tamim Iqbal,Imrul Kayes,Mohammed Shami,0,1,1,wides,0,NA,NA,NA,0
+656485,2nd innings,Bangladesh,India,1.4,Tamim Iqbal,Imrul Kayes,Mohammed Shami,0,0,0,NA,0,NA,NA,NA,0
+656485,2nd innings,Bangladesh,India,1.5,Tamim Iqbal,Imrul Kayes,Mohammed Shami,2,0,2,NA,0,NA,NA,NA,0
+656485,2nd innings,Bangladesh,India,1.6,Tamim Iqbal,Imrul Kayes,Mohammed Shami,0,0,0,NA,0,NA,NA,NA,0
+656485,2nd innings,Bangladesh,India,1.7,Tamim Iqbal,Imrul Kayes,Mohammed Shami,0,0,0,NA,0,NA,NA,NA,0
+656485,2nd innings,Bangladesh,India,1.8,Tamim Iqbal,Imrul Kayes,Mohammed Shami,0,0,0,NA,0,NA,NA,NA,0
+656485,2nd innings,Bangladesh,India,2.1,Imrul Kayes,Tamim Iqbal,UT Yadav,0,0,0,NA,0,NA,NA,NA,0
+656485,2nd innings,Bangladesh,India,2.2,Imrul Kayes,Tamim Iqbal,UT Yadav,0,0,0,NA,0,NA,NA,NA,0
+656485,2nd innings,Bangladesh,India,2.3,Imrul Kayes,Tamim Iqbal,UT Yadav,0,0,0,NA,0,NA,NA,NA,0
+656485,2nd innings,Bangladesh,India,2.4,Imrul Kayes,Tamim Iqbal,UT Yadav,0,0,0,NA,0,NA,NA,NA,0
+656485,2nd innings,Bangladesh,India,2.5,Imrul Kayes,Tamim Iqbal,UT Yadav,0,0,0,NA,0,NA,NA,NA,0
+656485,2nd innings,Bangladesh,India,2.6,Imrul Kayes,Tamim Iqbal,UT Yadav,0,0,0,NA,0,NA,NA,NA,0
+656485,2nd innings,Bangladesh,India,3.1,Tamim Iqbal,Imrul Kayes,Mohammed Shami,0,1,1,wides,0,NA,NA,NA,0
+656485,2nd innings,Bangladesh,India,3.2,Tamim Iqbal,Imrul Kayes,Mohammed Shami,0,0,0,NA,0,NA,NA,NA,0
+656485,2nd innings,Bangladesh,India,3.3,Tamim Iqbal,Imrul Kayes,Mohammed Shami,4,0,4,NA,0,NA,NA,NA,0
+656485,2nd innings,Bangladesh,India,3.4,Tamim Iqbal,Imrul Kayes,Mohammed Shami,0,0,0,NA,0,NA,NA,NA,0
+656485,2nd innings,Bangladesh,India,3.5,Tamim Iqbal,Imrul Kayes,Mohammed Shami,4,0,4,NA,0,NA,NA,NA,0
+656485,2nd innings,Bangladesh,India,3.6,Tamim Iqbal,Imrul Kayes,Mohammed Shami,4,0,4,NA,0,NA,NA,NA,0
+656485,2nd innings,Bangladesh,India,3.7,Tamim Iqbal,Imrul Kayes,Mohammed Shami,0,0,0,NA,0,NA,NA,NA,0
+656485,2nd innings,Bangladesh,India,4.1,Imrul Kayes,Tamim Iqbal,UT Yadav,0,0,0,NA,0,NA,NA,NA,0
+656485,2nd innings,Bangladesh,India,4.2,Imrul Kayes,Tamim Iqbal,UT Yadav,0,0,0,NA,0,NA,NA,NA,0
+656485,2nd innings,Bangladesh,India,4.3,Imrul Kayes,Tamim Iqbal,UT Yadav,3,0,3,NA,0,NA,NA,NA,0
+656485,2nd innings,Bangladesh,India,4.4,Tamim Iqbal,Imrul Kayes,UT Yadav,0,0,0,NA,0,NA,NA,NA,0
+656485,2nd innings,Bangladesh,India,4.5,Tamim Iqbal,Imrul Kayes,UT Yadav,0,0,0,NA,0,NA,NA,NA,0
+656485,2nd innings,Bangladesh,India,4.6,Tamim Iqbal,Imrul Kayes,UT Yadav,0,0,0,NA,0,NA,NA,NA,0
+656485,2nd innings,Bangladesh,India,5.1,Imrul Kayes,Tamim Iqbal,MM Sharma,0,0,0,NA,0,NA,NA,NA,0
+656485,2nd innings,Bangladesh,India,5.2,Imrul Kayes,Tamim Iqbal,MM Sharma,1,0,1,NA,0,NA,NA,NA,0
+656485,2nd innings,Bangladesh,India,5.3,Tamim Iqbal,Imrul Kayes,MM Sharma,4,0,4,NA,0,NA,NA,NA,0
+656485,2nd innings,Bangladesh,India,5.4,Tamim Iqbal,Imrul Kayes,MM Sharma,2,0,2,NA,0,NA,NA,NA,0
+656485,2nd innings,Bangladesh,India,5.5,Tamim Iqbal,Imrul Kayes,MM Sharma,1,0,1,NA,0,NA,NA,NA,0
+656485,2nd innings,Bangladesh,India,5.6,Imrul Kayes,Tamim Iqbal,MM Sharma,0,0,0,NA,0,NA,NA,NA,0
+656485,2nd innings,Bangladesh,India,6.1,Tamim Iqbal,Imrul Kayes,UT Yadav,1,0,1,NA,0,NA,NA,NA,0
+656485,2nd innings,Bangladesh,India,6.2,Imrul Kayes,Tamim Iqbal,UT Yadav,1,0,1,NA,0,NA,NA,NA,0
+656485,2nd innings,Bangladesh,India,6.3,Tamim Iqbal,Imrul Kayes,UT Yadav,0,0,0,NA,1,caught,Tamim Iqbal,MS Dhoni,0
+656485,2nd innings,Bangladesh,India,6.4,Soumya Sarkar,Imrul Kayes,UT Yadav,0,0,0,NA,1,run out,Imrul Kayes,RA Jadeja,0
+656485,2nd innings,Bangladesh,India,6.5,Soumya Sarkar,Mahmudullah,UT Yadav,0,0,0,NA,0,NA,NA,NA,0
+656485,2nd innings,Bangladesh,India,6.6,Soumya Sarkar,Mahmudullah,UT Yadav,0,0,0,NA,0,NA,NA,NA,0
+656485,2nd innings,Bangladesh,India,7.1,Mahmudullah,Soumya Sarkar,MM Sharma,0,0,0,NA,0,NA,NA,NA,0
+656485,2nd innings,Bangladesh,India,7.2,Mahmudullah,Soumya Sarkar,MM Sharma,0,0,0,NA,0,NA,NA,NA,0
+656485,2nd innings,Bangladesh,India,7.3,Mahmudullah,Soumya Sarkar,MM Sharma,0,0,0,NA,0,NA,NA,NA,0
+656485,2nd innings,Bangladesh,India,7.4,Mahmudullah,Soumya Sarkar,MM Sharma,0,0,0,NA,0,NA,NA,NA,0
+656485,2nd innings,Bangladesh,India,7.5,Mahmudullah,Soumya Sarkar,MM Sharma,0,1,1,wides,0,NA,NA,NA,0
+656485,2nd innings,Bangladesh,India,7.6,Mahmudullah,Soumya Sarkar,MM Sharma,4,0,4,NA,0,NA,NA,NA,0
+656485,2nd innings,Bangladesh,India,7.7,Mahmudullah,Soumya Sarkar,MM Sharma,0,0,0,NA,0,NA,NA,NA,0
+656485,2nd innings,Bangladesh,India,8.1,Soumya Sarkar,Mahmudullah,UT Yadav,0,0,0,NA,0,NA,NA,NA,0
+656485,2nd innings,Bangladesh,India,8.2,Soumya Sarkar,Mahmudullah,UT Yadav,0,0,0,NA,0,NA,NA,NA,0
+656485,2nd innings,Bangladesh,India,8.3,Soumya Sarkar,Mahmudullah,UT Yadav,0,0,0,NA,0,NA,NA,NA,0
+656485,2nd innings,Bangladesh,India,8.4,Soumya Sarkar,Mahmudullah,UT Yadav,1,0,1,NA,0,NA,NA,NA,0
+656485,2nd innings,Bangladesh,India,8.5,Mahmudullah,Soumya Sarkar,UT Yadav,0,0,0,NA,0,NA,NA,NA,0
+656485,2nd innings,Bangladesh,India,8.6,Mahmudullah,Soumya Sarkar,UT Yadav,0,0,0,NA,0,NA,NA,NA,0
+656485,2nd innings,Bangladesh,India,9.1,Soumya Sarkar,Mahmudullah,MM Sharma,4,0,4,NA,0,NA,NA,NA,0
+656485,2nd innings,Bangladesh,India,9.2,Soumya Sarkar,Mahmudullah,MM Sharma,0,0,0,NA,0,NA,NA,NA,0
+656485,2nd innings,Bangladesh,India,9.3,Soumya Sarkar,Mahmudullah,MM Sharma,0,0,0,NA,0,NA,NA,NA,0
+656485,2nd innings,Bangladesh,India,9.4,Soumya Sarkar,Mahmudullah,MM Sharma,0,0,0,NA,0,NA,NA,NA,0
+656485,2nd innings,Bangladesh,India,9.5,Soumya Sarkar,Mahmudullah,MM Sharma,0,0,0,NA,0,NA,NA,NA,0
+656485,2nd innings,Bangladesh,India,9.6,Soumya Sarkar,Mahmudullah,MM Sharma,1,0,1,NA,0,NA,NA,NA,0
+656485,2nd innings,Bangladesh,India,10.1,Soumya Sarkar,Mahmudullah,R Ashwin,0,0,0,NA,0,NA,NA,NA,0
+656485,2nd innings,Bangladesh,India,10.2,Soumya Sarkar,Mahmudullah,R Ashwin,0,0,0,NA,0,NA,NA,NA,0
+656485,2nd innings,Bangladesh,India,10.3,Soumya Sarkar,Mahmudullah,R Ashwin,0,0,0,NA,0,NA,NA,NA,0
+656485,2nd innings,Bangladesh,India,10.4,Soumya Sarkar,Mahmudullah,R Ashwin,1,0,1,NA,0,NA,NA,NA,0
+656485,2nd innings,Bangladesh,India,10.5,Mahmudullah,Soumya Sarkar,R Ashwin,1,0,1,NA,0,NA,NA,NA,0
+656485,2nd innings,Bangladesh,India,10.6,Soumya Sarkar,Mahmudullah,R Ashwin,0,0,0,NA,0,NA,NA,NA,0
+656485,2nd innings,Bangladesh,India,11.1,Mahmudullah,Soumya Sarkar,SK Raina,0,0,0,NA,0,NA,NA,NA,0
+656485,2nd innings,Bangladesh,India,11.2,Mahmudullah,Soumya Sarkar,SK Raina,0,0,0,NA,0,NA,NA,NA,0
+656485,2nd innings,Bangladesh,India,11.3,Mahmudullah,Soumya Sarkar,SK Raina,0,0,0,NA,0,NA,NA,NA,0
+656485,2nd innings,Bangladesh,India,11.4,Mahmudullah,Soumya Sarkar,SK Raina,0,0,0,NA,0,NA,NA,NA,0
+656485,2nd innings,Bangladesh,India,11.5,Mahmudullah,Soumya Sarkar,SK Raina,0,0,0,NA,0,NA,NA,NA,0
+656485,2nd innings,Bangladesh,India,11.6,Mahmudullah,Soumya Sarkar,SK Raina,0,0,0,NA,0,NA,NA,NA,0
+656485,2nd innings,Bangladesh,India,12.1,Soumya Sarkar,Mahmudullah,MM Sharma,1,0,1,NA,0,NA,NA,NA,0
+656485,2nd innings,Bangladesh,India,12.2,Mahmudullah,Soumya Sarkar,MM Sharma,0,0,0,NA,0,NA,NA,NA,0
+656485,2nd innings,Bangladesh,India,12.3,Mahmudullah,Soumya Sarkar,MM Sharma,4,0,4,NA,0,NA,NA,NA,0
+656485,2nd innings,Bangladesh,India,12.4,Mahmudullah,Soumya Sarkar,MM Sharma,1,0,1,NA,0,NA,NA,NA,0
+656485,2nd innings,Bangladesh,India,12.5,Soumya Sarkar,Mahmudullah,MM Sharma,1,0,1,NA,0,NA,NA,NA,0
+656485,2nd innings,Bangladesh,India,12.6,Mahmudullah,Soumya Sarkar,MM Sharma,1,0,1,NA,0,NA,NA,NA,0
+656485,2nd innings,Bangladesh,India,13.1,Mahmudullah,Soumya Sarkar,SK Raina,2,0,2,NA,0,NA,NA,NA,0
+656485,2nd innings,Bangladesh,India,13.2,Mahmudullah,Soumya Sarkar,SK Raina,1,0,1,NA,0,NA,NA,NA,0
+656485,2nd innings,Bangladesh,India,13.3,Soumya Sarkar,Mahmudullah,SK Raina,1,0,1,NA,0,NA,NA,NA,0
+656485,2nd innings,Bangladesh,India,13.4,Mahmudullah,Soumya Sarkar,SK Raina,2,0,2,NA,0,NA,NA,NA,0
+656485,2nd innings,Bangladesh,India,13.5,Mahmudullah,Soumya Sarkar,SK Raina,1,0,1,NA,0,NA,NA,NA,0
+656485,2nd innings,Bangladesh,India,13.6,Soumya Sarkar,Mahmudullah,SK Raina,0,0,0,NA,0,NA,NA,NA,0
+656485,2nd innings,Bangladesh,India,14.1,Mahmudullah,Soumya Sarkar,MM Sharma,1,0,1,NA,0,NA,NA,NA,0
+656485,2nd innings,Bangladesh,India,14.2,Soumya Sarkar,Mahmudullah,MM Sharma,0,0,0,NA,0,NA,NA,NA,0
+656485,2nd innings,Bangladesh,India,14.3,Soumya Sarkar,Mahmudullah,MM Sharma,0,0,0,NA,0,NA,NA,NA,0
+656485,2nd innings,Bangladesh,India,14.4,Soumya Sarkar,Mahmudullah,MM Sharma,0,0,0,NA,0,NA,NA,NA,0
+656485,2nd innings,Bangladesh,India,14.5,Soumya Sarkar,Mahmudullah,MM Sharma,1,0,1,NA,0,NA,NA,NA,0
+656485,2nd innings,Bangladesh,India,14.6,Mahmudullah,Soumya Sarkar,MM Sharma,0,0,0,NA,0,NA,NA,NA,0
+656485,2nd innings,Bangladesh,India,15.1,Soumya Sarkar,Mahmudullah,SK Raina,1,0,1,NA,0,NA,NA,NA,0
+656485,2nd innings,Bangladesh,India,15.2,Mahmudullah,Soumya Sarkar,SK Raina,1,0,1,NA,0,NA,NA,NA,0
+656485,2nd innings,Bangladesh,India,15.3,Soumya Sarkar,Mahmudullah,SK Raina,4,0,4,NA,0,NA,NA,NA,0
+656485,2nd innings,Bangladesh,India,15.4,Soumya Sarkar,Mahmudullah,SK Raina,1,0,1,NA,0,NA,NA,NA,0
+656485,2nd innings,Bangladesh,India,15.5,Mahmudullah,Soumya Sarkar,SK Raina,1,0,1,NA,0,NA,NA,NA,0
+656485,2nd innings,Bangladesh,India,15.6,Soumya Sarkar,Mahmudullah,SK Raina,0,0,0,NA,0,NA,NA,NA,0
+656485,2nd innings,Bangladesh,India,16.1,Mahmudullah,Soumya Sarkar,Mohammed Shami,1,0,1,NA,0,NA,NA,NA,0
+656485,2nd innings,Bangladesh,India,16.2,Soumya Sarkar,Mahmudullah,Mohammed Shami,0,0,0,NA,0,NA,NA,NA,0
+656485,2nd innings,Bangladesh,India,16.3,Soumya Sarkar,Mahmudullah,Mohammed Shami,1,0,1,NA,0,NA,NA,NA,0
+656485,2nd innings,Bangladesh,India,16.4,Mahmudullah,Soumya Sarkar,Mohammed Shami,0,0,0,NA,0,NA,NA,NA,0
+656485,2nd innings,Bangladesh,India,16.5,Mahmudullah,Soumya Sarkar,Mohammed Shami,0,0,0,NA,0,NA,NA,NA,0
+656485,2nd innings,Bangladesh,India,16.6,Mahmudullah,Soumya Sarkar,Mohammed Shami,0,0,0,NA,1,caught,Mahmudullah,S Dhawan,0
+656485,2nd innings,Bangladesh,India,17.1,Shakib Al Hasan,Soumya Sarkar,R Ashwin,0,0,0,NA,0,NA,NA,NA,0
+656485,2nd innings,Bangladesh,India,17.2,Shakib Al Hasan,Soumya Sarkar,R Ashwin,0,0,0,NA,0,NA,NA,NA,0
+656485,2nd innings,Bangladesh,India,17.3,Shakib Al Hasan,Soumya Sarkar,R Ashwin,1,0,1,NA,0,NA,NA,NA,0
+656485,2nd innings,Bangladesh,India,17.4,Soumya Sarkar,Shakib Al Hasan,R Ashwin,0,0,0,NA,0,NA,NA,NA,0
+656485,2nd innings,Bangladesh,India,17.5,Soumya Sarkar,Shakib Al Hasan,R Ashwin,0,0,0,NA,0,NA,NA,NA,0
+656485,2nd innings,Bangladesh,India,17.6,Soumya Sarkar,Shakib Al Hasan,R Ashwin,6,0,6,NA,0,NA,NA,NA,0
+656485,2nd innings,Bangladesh,India,18.1,Shakib Al Hasan,Soumya Sarkar,Mohammed Shami,0,0,0,NA,0,NA,NA,NA,0
+656485,2nd innings,Bangladesh,India,18.2,Shakib Al Hasan,Soumya Sarkar,Mohammed Shami,2,0,2,NA,0,NA,NA,NA,0
+656485,2nd innings,Bangladesh,India,18.3,Shakib Al Hasan,Soumya Sarkar,Mohammed Shami,0,0,0,NA,0,NA,NA,NA,0
+656485,2nd innings,Bangladesh,India,18.4,Shakib Al Hasan,Soumya Sarkar,Mohammed Shami,1,0,1,NA,0,NA,NA,NA,0
+656485,2nd innings,Bangladesh,India,18.5,Soumya Sarkar,Shakib Al Hasan,Mohammed Shami,0,0,0,NA,0,NA,NA,NA,0
+656485,2nd innings,Bangladesh,India,18.6,Soumya Sarkar,Shakib Al Hasan,Mohammed Shami,0,0,0,NA,0,NA,NA,NA,0
+656485,2nd innings,Bangladesh,India,19.1,Shakib Al Hasan,Soumya Sarkar,R Ashwin,0,0,0,NA,0,NA,NA,NA,0
+656485,2nd innings,Bangladesh,India,19.2,Shakib Al Hasan,Soumya Sarkar,R Ashwin,0,0,0,NA,0,NA,NA,NA,0
+656485,2nd innings,Bangladesh,India,19.3,Shakib Al Hasan,Soumya Sarkar,R Ashwin,0,1,1,wides,0,NA,NA,NA,0
+656485,2nd innings,Bangladesh,India,19.4,Shakib Al Hasan,Soumya Sarkar,R Ashwin,1,0,1,NA,0,NA,NA,NA,0
+656485,2nd innings,Bangladesh,India,19.5,Soumya Sarkar,Shakib Al Hasan,R Ashwin,0,0,0,NA,0,NA,NA,NA,0
+656485,2nd innings,Bangladesh,India,19.6,Soumya Sarkar,Shakib Al Hasan,R Ashwin,1,0,1,NA,0,NA,NA,NA,0
+656485,2nd innings,Bangladesh,India,19.7,Shakib Al Hasan,Soumya Sarkar,R Ashwin,0,0,0,NA,0,NA,NA,NA,0
+656485,2nd innings,Bangladesh,India,20.1,Soumya Sarkar,Shakib Al Hasan,Mohammed Shami,0,0,0,NA,0,NA,NA,NA,0
+656485,2nd innings,Bangladesh,India,20.2,Soumya Sarkar,Shakib Al Hasan,Mohammed Shami,0,0,0,NA,0,NA,NA,NA,0
+656485,2nd innings,Bangladesh,India,20.3,Soumya Sarkar,Shakib Al Hasan,Mohammed Shami,4,0,4,NA,0,NA,NA,NA,0
+656485,2nd innings,Bangladesh,India,20.4,Soumya Sarkar,Shakib Al Hasan,Mohammed Shami,0,0,0,NA,1,caught,Soumya Sarkar,MS Dhoni,0
+656485,2nd innings,Bangladesh,India,20.5,Mushfiqur Rahim,Shakib Al Hasan,Mohammed Shami,0,0,0,NA,0,NA,NA,NA,0
+656485,2nd innings,Bangladesh,India,20.6,Mushfiqur Rahim,Shakib Al Hasan,Mohammed Shami,0,0,0,NA,0,NA,NA,NA,0
+656485,2nd innings,Bangladesh,India,21.1,Shakib Al Hasan,Mushfiqur Rahim,R Ashwin,0,0,0,NA,0,NA,NA,NA,0
+656485,2nd innings,Bangladesh,India,21.2,Shakib Al Hasan,Mushfiqur Rahim,R Ashwin,0,0,0,NA,0,NA,NA,NA,0
+656485,2nd innings,Bangladesh,India,21.3,Shakib Al Hasan,Mushfiqur Rahim,R Ashwin,0,0,0,NA,0,NA,NA,NA,0
+656485,2nd innings,Bangladesh,India,21.4,Shakib Al Hasan,Mushfiqur Rahim,R Ashwin,0,0,0,NA,0,NA,NA,NA,0
+656485,2nd innings,Bangladesh,India,21.5,Shakib Al Hasan,Mushfiqur Rahim,R Ashwin,0,0,0,NA,0,NA,NA,NA,0
+656485,2nd innings,Bangladesh,India,21.6,Shakib Al Hasan,Mushfiqur Rahim,R Ashwin,0,0,0,NA,0,NA,NA,NA,0
+656485,2nd innings,Bangladesh,India,22.1,Mushfiqur Rahim,Shakib Al Hasan,Mohammed Shami,0,0,0,NA,0,NA,NA,NA,0
+656485,2nd innings,Bangladesh,India,22.2,Mushfiqur Rahim,Shakib Al Hasan,Mohammed Shami,0,0,0,NA,0,NA,NA,NA,0
+656485,2nd innings,Bangladesh,India,22.3,Mushfiqur Rahim,Shakib Al Hasan,Mohammed Shami,0,0,0,NA,0,NA,NA,NA,0
+656485,2nd innings,Bangladesh,India,22.4,Mushfiqur Rahim,Shakib Al Hasan,Mohammed Shami,0,0,0,NA,0,NA,NA,NA,0
+656485,2nd innings,Bangladesh,India,22.5,Mushfiqur Rahim,Shakib Al Hasan,Mohammed Shami,0,0,0,NA,0,NA,NA,NA,0
+656485,2nd innings,Bangladesh,India,22.6,Mushfiqur Rahim,Shakib Al Hasan,Mohammed Shami,0,0,0,NA,0,NA,NA,NA,0
+656485,2nd innings,Bangladesh,India,23.1,Shakib Al Hasan,Mushfiqur Rahim,R Ashwin,0,0,0,NA,0,NA,NA,NA,0
+656485,2nd innings,Bangladesh,India,23.2,Shakib Al Hasan,Mushfiqur Rahim,R Ashwin,0,0,0,NA,0,NA,NA,NA,0
+656485,2nd innings,Bangladesh,India,23.3,Shakib Al Hasan,Mushfiqur Rahim,R Ashwin,1,0,1,NA,0,NA,NA,NA,0
+656485,2nd innings,Bangladesh,India,23.4,Mushfiqur Rahim,Shakib Al Hasan,R Ashwin,0,0,0,NA,0,NA,NA,NA,0
+656485,2nd innings,Bangladesh,India,23.5,Mushfiqur Rahim,Shakib Al Hasan,R Ashwin,0,0,0,NA,0,NA,NA,NA,0
+656485,2nd innings,Bangladesh,India,23.6,Mushfiqur Rahim,Shakib Al Hasan,R Ashwin,0,0,0,NA,0,NA,NA,NA,0
+656485,2nd innings,Bangladesh,India,24.1,Shakib Al Hasan,Mushfiqur Rahim,RA Jadeja,0,0,0,NA,0,NA,NA,NA,0
+656485,2nd innings,Bangladesh,India,24.2,Shakib Al Hasan,Mushfiqur Rahim,RA Jadeja,0,1,1,wides,0,NA,NA,NA,0
+656485,2nd innings,Bangladesh,India,24.3,Shakib Al Hasan,Mushfiqur Rahim,RA Jadeja,1,0,1,NA,0,NA,NA,NA,0
+656485,2nd innings,Bangladesh,India,24.4,Mushfiqur Rahim,Shakib Al Hasan,RA Jadeja,0,0,0,NA,0,NA,NA,NA,0
+656485,2nd innings,Bangladesh,India,24.5,Mushfiqur Rahim,Shakib Al Hasan,RA Jadeja,1,0,1,NA,0,NA,NA,NA,0
+656485,2nd innings,Bangladesh,India,24.6,Shakib Al Hasan,Mushfiqur Rahim,RA Jadeja,1,0,1,NA,0,NA,NA,NA,0
+656485,2nd innings,Bangladesh,India,24.7,Mushfiqur Rahim,Shakib Al Hasan,RA Jadeja,0,0,0,NA,0,NA,NA,NA,0
+656485,2nd innings,Bangladesh,India,25.1,Shakib Al Hasan,Mushfiqur Rahim,R Ashwin,1,0,1,NA,0,NA,NA,NA,0
+656485,2nd innings,Bangladesh,India,25.2,Mushfiqur Rahim,Shakib Al Hasan,R Ashwin,0,0,0,NA,0,NA,NA,NA,0
+656485,2nd innings,Bangladesh,India,25.3,Mushfiqur Rahim,Shakib Al Hasan,R Ashwin,2,0,2,NA,0,NA,NA,NA,0
+656485,2nd innings,Bangladesh,India,25.4,Mushfiqur Rahim,Shakib Al Hasan,R Ashwin,2,0,2,NA,0,NA,NA,NA,0
+656485,2nd innings,Bangladesh,India,25.5,Mushfiqur Rahim,Shakib Al Hasan,R Ashwin,0,0,0,NA,0,NA,NA,NA,0
+656485,2nd innings,Bangladesh,India,25.6,Mushfiqur Rahim,Shakib Al Hasan,R Ashwin,0,0,0,NA,0,NA,NA,NA,0
+656485,2nd innings,Bangladesh,India,26.1,Shakib Al Hasan,Mushfiqur Rahim,RA Jadeja,1,0,1,NA,0,NA,NA,NA,0
+656485,2nd innings,Bangladesh,India,26.2,Mushfiqur Rahim,Shakib Al Hasan,RA Jadeja,0,0,0,NA,0,NA,NA,NA,0
+656485,2nd innings,Bangladesh,India,26.3,Mushfiqur Rahim,Shakib Al Hasan,RA Jadeja,1,0,1,NA,0,NA,NA,NA,0
+656485,2nd innings,Bangladesh,India,26.4,Shakib Al Hasan,Mushfiqur Rahim,RA Jadeja,0,0,0,NA,0,NA,NA,NA,0
+656485,2nd innings,Bangladesh,India,26.5,Shakib Al Hasan,Mushfiqur Rahim,RA Jadeja,0,0,0,NA,0,NA,NA,NA,0
+656485,2nd innings,Bangladesh,India,26.6,Shakib Al Hasan,Mushfiqur Rahim,RA Jadeja,0,0,0,NA,0,NA,NA,NA,0
+656485,2nd innings,Bangladesh,India,27.1,Mushfiqur Rahim,Shakib Al Hasan,R Ashwin,0,0,0,NA,0,NA,NA,NA,0
+656485,2nd innings,Bangladesh,India,27.2,Mushfiqur Rahim,Shakib Al Hasan,R Ashwin,1,0,1,NA,0,NA,NA,NA,0
+656485,2nd innings,Bangladesh,India,27.3,Shakib Al Hasan,Mushfiqur Rahim,R Ashwin,0,0,0,NA,0,NA,NA,NA,0
+656485,2nd innings,Bangladesh,India,27.4,Shakib Al Hasan,Mushfiqur Rahim,R Ashwin,0,0,0,NA,0,NA,NA,NA,0
+656485,2nd innings,Bangladesh,India,27.5,Shakib Al Hasan,Mushfiqur Rahim,R Ashwin,0,0,0,NA,0,NA,NA,NA,0
+656485,2nd innings,Bangladesh,India,27.6,Shakib Al Hasan,Mushfiqur Rahim,R Ashwin,0,1,1,legbyes,0,NA,NA,NA,0
+656485,2nd innings,Bangladesh,India,28.1,Shakib Al Hasan,Mushfiqur Rahim,RA Jadeja,0,0,0,NA,0,NA,NA,NA,0
+656485,2nd innings,Bangladesh,India,28.2,Shakib Al Hasan,Mushfiqur Rahim,RA Jadeja,0,0,0,NA,1,caught,Shakib Al Hasan,Mohammed Shami,0
+656485,2nd innings,Bangladesh,India,28.3,Sabbir Rahman,Mushfiqur Rahim,RA Jadeja,0,0,0,NA,0,NA,NA,NA,0
+656485,2nd innings,Bangladesh,India,28.4,Sabbir Rahman,Mushfiqur Rahim,RA Jadeja,0,0,0,NA,0,NA,NA,NA,0
+656485,2nd innings,Bangladesh,India,28.5,Sabbir Rahman,Mushfiqur Rahim,RA Jadeja,1,0,1,NA,0,NA,NA,NA,0
+656485,2nd innings,Bangladesh,India,28.6,Mushfiqur Rahim,Sabbir Rahman,RA Jadeja,0,0,0,NA,0,NA,NA,NA,0
+656485,2nd innings,Bangladesh,India,29.1,Sabbir Rahman,Mushfiqur Rahim,R Ashwin,0,0,0,NA,0,NA,NA,NA,0
+656485,2nd innings,Bangladesh,India,29.2,Sabbir Rahman,Mushfiqur Rahim,R Ashwin,0,0,0,NA,0,NA,NA,NA,0
+656485,2nd innings,Bangladesh,India,29.3,Sabbir Rahman,Mushfiqur Rahim,R Ashwin,2,0,2,NA,0,NA,NA,NA,0
+656485,2nd innings,Bangladesh,India,29.4,Sabbir Rahman,Mushfiqur Rahim,R Ashwin,0,0,0,NA,0,NA,NA,NA,0
+656485,2nd innings,Bangladesh,India,29.5,Sabbir Rahman,Mushfiqur Rahim,R Ashwin,0,0,0,NA,0,NA,NA,NA,0
+656485,2nd innings,Bangladesh,India,29.6,Sabbir Rahman,Mushfiqur Rahim,R Ashwin,0,0,0,NA,0,NA,NA,NA,0
+656485,2nd innings,Bangladesh,India,30.1,Mushfiqur Rahim,Sabbir Rahman,RA Jadeja,1,0,1,NA,0,NA,NA,NA,0
+656485,2nd innings,Bangladesh,India,30.2,Sabbir Rahman,Mushfiqur Rahim,RA Jadeja,1,0,1,NA,0,NA,NA,NA,0
+656485,2nd innings,Bangladesh,India,30.3,Mushfiqur Rahim,Sabbir Rahman,RA Jadeja,4,0,4,NA,0,NA,NA,NA,0
+656485,2nd innings,Bangladesh,India,30.4,Mushfiqur Rahim,Sabbir Rahman,RA Jadeja,0,0,0,NA,0,NA,NA,NA,0
+656485,2nd innings,Bangladesh,India,30.5,Mushfiqur Rahim,Sabbir Rahman,RA Jadeja,0,0,0,NA,0,NA,NA,NA,0
+656485,2nd innings,Bangladesh,India,30.6,Mushfiqur Rahim,Sabbir Rahman,RA Jadeja,1,0,1,NA,0,NA,NA,NA,0
+656485,2nd innings,Bangladesh,India,31.1,Mushfiqur Rahim,Sabbir Rahman,R Ashwin,1,0,1,NA,0,NA,NA,NA,0
+656485,2nd innings,Bangladesh,India,31.2,Sabbir Rahman,Mushfiqur Rahim,R Ashwin,1,0,1,NA,0,NA,NA,NA,0
+656485,2nd innings,Bangladesh,India,31.3,Mushfiqur Rahim,Sabbir Rahman,R Ashwin,1,0,1,NA,0,NA,NA,NA,0
+656485,2nd innings,Bangladesh,India,31.4,Sabbir Rahman,Mushfiqur Rahim,R Ashwin,1,0,1,NA,0,NA,NA,NA,0
+656485,2nd innings,Bangladesh,India,31.5,Mushfiqur Rahim,Sabbir Rahman,R Ashwin,1,0,1,NA,0,NA,NA,NA,0
+656485,2nd innings,Bangladesh,India,31.6,Sabbir Rahman,Mushfiqur Rahim,R Ashwin,0,0,0,NA,0,NA,NA,NA,0
+656485,2nd innings,Bangladesh,India,32.1,Mushfiqur Rahim,Sabbir Rahman,RA Jadeja,0,0,0,NA,0,NA,NA,NA,0
+656485,2nd innings,Bangladesh,India,32.2,Mushfiqur Rahim,Sabbir Rahman,RA Jadeja,1,0,1,NA,0,NA,NA,NA,0
+656485,2nd innings,Bangladesh,India,32.3,Sabbir Rahman,Mushfiqur Rahim,RA Jadeja,1,0,1,NA,0,NA,NA,NA,0
+656485,2nd innings,Bangladesh,India,32.4,Mushfiqur Rahim,Sabbir Rahman,RA Jadeja,2,0,2,NA,0,NA,NA,NA,0
+656485,2nd innings,Bangladesh,India,32.5,Mushfiqur Rahim,Sabbir Rahman,RA Jadeja,4,0,4,NA,0,NA,NA,NA,0
+656485,2nd innings,Bangladesh,India,32.6,Mushfiqur Rahim,Sabbir Rahman,RA Jadeja,0,0,0,NA,0,NA,NA,NA,0
+656485,2nd innings,Bangladesh,India,33.1,Sabbir Rahman,Mushfiqur Rahim,UT Yadav,0,0,0,NA,0,NA,NA,NA,0
+656485,2nd innings,Bangladesh,India,33.2,Sabbir Rahman,Mushfiqur Rahim,UT Yadav,1,0,1,NA,0,NA,NA,NA,0
+656485,2nd innings,Bangladesh,India,33.3,Mushfiqur Rahim,Sabbir Rahman,UT Yadav,1,0,1,NA,0,NA,NA,NA,0
+656485,2nd innings,Bangladesh,India,33.4,Sabbir Rahman,Mushfiqur Rahim,UT Yadav,0,1,1,wides,0,NA,NA,NA,0
+656485,2nd innings,Bangladesh,India,33.5,Sabbir Rahman,Mushfiqur Rahim,UT Yadav,2,0,2,NA,0,NA,NA,NA,0
+656485,2nd innings,Bangladesh,India,33.6,Sabbir Rahman,Mushfiqur Rahim,UT Yadav,1,0,1,NA,0,NA,NA,NA,0
+656485,2nd innings,Bangladesh,India,33.7,Mushfiqur Rahim,Sabbir Rahman,UT Yadav,0,0,0,NA,0,NA,NA,NA,0
+656485,2nd innings,Bangladesh,India,34.1,Sabbir Rahman,Mushfiqur Rahim,RA Jadeja,1,0,1,NA,0,NA,NA,NA,0
+656485,2nd innings,Bangladesh,India,34.2,Mushfiqur Rahim,Sabbir Rahman,RA Jadeja,1,0,1,NA,0,NA,NA,NA,0
+656485,2nd innings,Bangladesh,India,34.3,Sabbir Rahman,Mushfiqur Rahim,RA Jadeja,1,0,1,NA,0,NA,NA,NA,0
+656485,2nd innings,Bangladesh,India,34.4,Mushfiqur Rahim,Sabbir Rahman,RA Jadeja,1,0,1,NA,0,NA,NA,NA,0
+656485,2nd innings,Bangladesh,India,34.5,Sabbir Rahman,Mushfiqur Rahim,RA Jadeja,1,0,1,NA,0,NA,NA,NA,0
+656485,2nd innings,Bangladesh,India,34.6,Mushfiqur Rahim,Sabbir Rahman,RA Jadeja,1,0,1,NA,0,NA,NA,NA,0
+656485,2nd innings,Bangladesh,India,35.1,Mushfiqur Rahim,Sabbir Rahman,UT Yadav,0,0,0,NA,1,caught,Mushfiqur Rahim,MS Dhoni,0
+656485,2nd innings,Bangladesh,India,35.2,Nasir Hossain,Sabbir Rahman,UT Yadav,0,0,0,NA,0,NA,NA,NA,0
+656485,2nd innings,Bangladesh,India,35.3,Nasir Hossain,Sabbir Rahman,UT Yadav,4,0,4,NA,0,NA,NA,NA,0
+656485,2nd innings,Bangladesh,India,35.4,Nasir Hossain,Sabbir Rahman,UT Yadav,1,0,1,NA,0,NA,NA,NA,0
+656485,2nd innings,Bangladesh,India,35.5,Sabbir Rahman,Nasir Hossain,UT Yadav,4,0,4,NA,0,NA,NA,NA,0
+656485,2nd innings,Bangladesh,India,35.6,Sabbir Rahman,Nasir Hossain,UT Yadav,4,0,4,NA,0,NA,NA,NA,0
+656485,2nd innings,Bangladesh,India,36.1,Nasir Hossain,Sabbir Rahman,Mohammed Shami,0,1,1,wides,0,NA,NA,NA,0
+656485,2nd innings,Bangladesh,India,36.2,Nasir Hossain,Sabbir Rahman,Mohammed Shami,1,0,1,NA,0,NA,NA,NA,0
+656485,2nd innings,Bangladesh,India,36.3,Sabbir Rahman,Nasir Hossain,Mohammed Shami,1,0,1,NA,0,NA,NA,NA,0
+656485,2nd innings,Bangladesh,India,36.4,Nasir Hossain,Sabbir Rahman,Mohammed Shami,0,0,0,NA,0,NA,NA,NA,0
+656485,2nd innings,Bangladesh,India,36.5,Nasir Hossain,Sabbir Rahman,Mohammed Shami,0,0,0,NA,0,NA,NA,NA,0
+656485,2nd innings,Bangladesh,India,36.6,Nasir Hossain,Sabbir Rahman,Mohammed Shami,4,0,4,NA,0,NA,NA,NA,0
+656485,2nd innings,Bangladesh,India,36.7,Nasir Hossain,Sabbir Rahman,Mohammed Shami,0,0,0,NA,0,NA,NA,NA,0
+656485,2nd innings,Bangladesh,India,37.1,Sabbir Rahman,Nasir Hossain,UT Yadav,0,0,0,NA,0,NA,NA,NA,0
+656485,2nd innings,Bangladesh,India,37.2,Sabbir Rahman,Nasir Hossain,UT Yadav,1,0,1,NA,0,NA,NA,NA,0
+656485,2nd innings,Bangladesh,India,37.3,Nasir Hossain,Sabbir Rahman,UT Yadav,0,0,0,NA,0,NA,NA,NA,0
+656485,2nd innings,Bangladesh,India,37.4,Nasir Hossain,Sabbir Rahman,UT Yadav,0,0,0,NA,0,NA,NA,NA,0
+656485,2nd innings,Bangladesh,India,37.5,Nasir Hossain,Sabbir Rahman,UT Yadav,1,0,1,NA,0,NA,NA,NA,0
+656485,2nd innings,Bangladesh,India,37.6,Sabbir Rahman,Nasir Hossain,UT Yadav,0,0,0,NA,0,NA,NA,NA,0
+656485,2nd innings,Bangladesh,India,38.1,Nasir Hossain,Sabbir Rahman,Mohammed Shami,0,0,0,NA,0,NA,NA,NA,0
+656485,2nd innings,Bangladesh,India,38.2,Nasir Hossain,Sabbir Rahman,Mohammed Shami,0,0,0,NA,0,NA,NA,NA,0
+656485,2nd innings,Bangladesh,India,38.3,Nasir Hossain,Sabbir Rahman,Mohammed Shami,3,0,3,NA,0,NA,NA,NA,0
+656485,2nd innings,Bangladesh,India,38.4,Sabbir Rahman,Nasir Hossain,Mohammed Shami,0,0,0,NA,0,NA,NA,NA,0
+656485,2nd innings,Bangladesh,India,38.5,Sabbir Rahman,Nasir Hossain,Mohammed Shami,0,0,0,NA,0,NA,NA,NA,0
+656485,2nd innings,Bangladesh,India,38.6,Sabbir Rahman,Nasir Hossain,Mohammed Shami,1,0,1,NA,0,NA,NA,NA,0
+656485,2nd innings,Bangladesh,India,39.1,Sabbir Rahman,Nasir Hossain,R Ashwin,1,0,1,NA,0,NA,NA,NA,0
+656485,2nd innings,Bangladesh,India,39.2,Nasir Hossain,Sabbir Rahman,R Ashwin,1,0,1,NA,0,NA,NA,NA,0
+656485,2nd innings,Bangladesh,India,39.3,Sabbir Rahman,Nasir Hossain,R Ashwin,0,0,0,NA,0,NA,NA,NA,0
+656485,2nd innings,Bangladesh,India,39.4,Sabbir Rahman,Nasir Hossain,R Ashwin,1,0,1,NA,0,NA,NA,NA,0
+656485,2nd innings,Bangladesh,India,39.5,Nasir Hossain,Sabbir Rahman,R Ashwin,0,0,0,NA,0,NA,NA,NA,0
+656485,2nd innings,Bangladesh,India,39.6,Nasir Hossain,Sabbir Rahman,R Ashwin,1,0,1,NA,0,NA,NA,NA,0
+656485,2nd innings,Bangladesh,India,40.1,Nasir Hossain,Sabbir Rahman,RA Jadeja,4,0,4,NA,0,NA,NA,NA,0
+656485,2nd innings,Bangladesh,India,40.2,Nasir Hossain,Sabbir Rahman,RA Jadeja,0,0,0,NA,0,NA,NA,NA,0
+656485,2nd innings,Bangladesh,India,40.3,Nasir Hossain,Sabbir Rahman,RA Jadeja,0,0,0,NA,0,NA,NA,NA,0
+656485,2nd innings,Bangladesh,India,40.4,Nasir Hossain,Sabbir Rahman,RA Jadeja,0,0,0,NA,0,NA,NA,NA,0
+656485,2nd innings,Bangladesh,India,40.5,Nasir Hossain,Sabbir Rahman,RA Jadeja,0,0,0,NA,0,NA,NA,NA,0
+656485,2nd innings,Bangladesh,India,40.6,Nasir Hossain,Sabbir Rahman,RA Jadeja,1,0,1,NA,0,NA,NA,NA,0
+656485,2nd innings,Bangladesh,India,41.1,Nasir Hossain,Sabbir Rahman,MM Sharma,0,0,0,NA,0,NA,NA,NA,0
+656485,2nd innings,Bangladesh,India,41.2,Nasir Hossain,Sabbir Rahman,MM Sharma,4,0,4,NA,0,NA,NA,NA,0
+656485,2nd innings,Bangladesh,India,41.3,Nasir Hossain,Sabbir Rahman,MM Sharma,0,0,0,NA,0,NA,NA,NA,0
+656485,2nd innings,Bangladesh,India,41.4,Nasir Hossain,Sabbir Rahman,MM Sharma,0,0,0,NA,0,NA,NA,NA,0
+656485,2nd innings,Bangladesh,India,41.5,Nasir Hossain,Sabbir Rahman,MM Sharma,0,0,0,NA,0,NA,NA,NA,0
+656485,2nd innings,Bangladesh,India,41.6,Nasir Hossain,Sabbir Rahman,MM Sharma,1,0,1,NA,0,NA,NA,NA,0
+656485,2nd innings,Bangladesh,India,42.1,Nasir Hossain,Sabbir Rahman,RA Jadeja,1,0,1,NA,0,NA,NA,NA,0
+656485,2nd innings,Bangladesh,India,42.2,Sabbir Rahman,Nasir Hossain,RA Jadeja,0,1,1,byes,0,NA,NA,NA,0
+656485,2nd innings,Bangladesh,India,42.3,Nasir Hossain,Sabbir Rahman,RA Jadeja,0,0,0,NA,0,NA,NA,NA,0
+656485,2nd innings,Bangladesh,India,42.4,Nasir Hossain,Sabbir Rahman,RA Jadeja,4,0,4,NA,0,NA,NA,NA,0
+656485,2nd innings,Bangladesh,India,42.5,Nasir Hossain,Sabbir Rahman,RA Jadeja,4,0,4,NA,0,NA,NA,NA,0
+656485,2nd innings,Bangladesh,India,42.6,Nasir Hossain,Sabbir Rahman,RA Jadeja,0,0,0,NA,1,caught,Nasir Hossain,R Ashwin,0
+656485,2nd innings,Bangladesh,India,43.1,Sabbir Rahman,Mashrafe Mortaza,MM Sharma,1,0,1,NA,0,NA,NA,NA,0
+656485,2nd innings,Bangladesh,India,43.2,Mashrafe Mortaza,Sabbir Rahman,MM Sharma,1,0,1,NA,0,NA,NA,NA,0
+656485,2nd innings,Bangladesh,India,43.3,Sabbir Rahman,Mashrafe Mortaza,MM Sharma,0,0,0,NA,0,NA,NA,NA,0
+656485,2nd innings,Bangladesh,India,43.4,Sabbir Rahman,Mashrafe Mortaza,MM Sharma,1,0,1,NA,0,NA,NA,NA,0
+656485,2nd innings,Bangladesh,India,43.5,Mashrafe Mortaza,Sabbir Rahman,MM Sharma,0,0,0,NA,0,NA,NA,NA,0
+656485,2nd innings,Bangladesh,India,43.6,Mashrafe Mortaza,Sabbir Rahman,MM Sharma,0,0,0,NA,1,caught,Mashrafe Mortaza,MS Dhoni,0
+656485,2nd innings,Bangladesh,India,44.1,Sabbir Rahman,Rubel Hossain,UT Yadav,1,0,1,NA,0,NA,NA,NA,0
+656485,2nd innings,Bangladesh,India,44.2,Rubel Hossain,Sabbir Rahman,UT Yadav,0,0,0,NA,0,NA,NA,NA,0
+656485,2nd innings,Bangladesh,India,44.3,Rubel Hossain,Sabbir Rahman,UT Yadav,0,0,0,NA,0,NA,NA,NA,0
+656485,2nd innings,Bangladesh,India,44.4,Rubel Hossain,Sabbir Rahman,UT Yadav,0,0,0,NA,1,caught,Rubel Hossain,R Ashwin,0
+656485,2nd innings,Bangladesh,India,44.5,Sabbir Rahman,Taskin Ahmed,UT Yadav,0,0,0,NA,0,NA,NA,NA,0
+656485,2nd innings,Bangladesh,India,44.6,Sabbir Rahman,Taskin Ahmed,UT Yadav,0,0,0,NA,1,caught,Sabbir Rahman,Mohammed Shami,0

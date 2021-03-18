@@ -1,0 +1,589 @@
+match_id,innings,team,opponent,ball,batsman,non_striker,bowler,scored_runs,extras,total,extra_type,wicket,wicket_type,player_out,fielders,winner
+1120091,1st innings,New Zealand,India,0.1,MJ Guptill,C Munro,B Kumar,0,0,0,NA,0,NA,NA,NA,0
+1120091,1st innings,New Zealand,India,0.2,MJ Guptill,C Munro,B Kumar,1,0,1,NA,0,NA,NA,NA,0
+1120091,1st innings,New Zealand,India,0.3,C Munro,MJ Guptill,B Kumar,0,0,0,NA,0,NA,NA,NA,0
+1120091,1st innings,New Zealand,India,0.4,C Munro,MJ Guptill,B Kumar,0,0,0,NA,0,NA,NA,NA,0
+1120091,1st innings,New Zealand,India,0.5,C Munro,MJ Guptill,B Kumar,1,0,1,NA,0,NA,NA,NA,0
+1120091,1st innings,New Zealand,India,0.6,MJ Guptill,C Munro,B Kumar,0,0,0,NA,0,NA,NA,NA,0
+1120091,1st innings,New Zealand,India,1.1,C Munro,MJ Guptill,JJ Bumrah,0,1,1,legbyes,0,NA,NA,NA,0
+1120091,1st innings,New Zealand,India,1.2,MJ Guptill,C Munro,JJ Bumrah,2,0,2,NA,0,NA,NA,NA,0
+1120091,1st innings,New Zealand,India,1.3,MJ Guptill,C Munro,JJ Bumrah,4,0,4,NA,0,NA,NA,NA,0
+1120091,1st innings,New Zealand,India,1.4,MJ Guptill,C Munro,JJ Bumrah,4,0,4,NA,0,NA,NA,NA,0
+1120091,1st innings,New Zealand,India,1.5,MJ Guptill,C Munro,JJ Bumrah,0,0,0,NA,0,NA,NA,NA,0
+1120091,1st innings,New Zealand,India,1.6,MJ Guptill,C Munro,JJ Bumrah,0,0,0,NA,0,NA,NA,NA,0
+1120091,1st innings,New Zealand,India,2.1,C Munro,MJ Guptill,B Kumar,0,0,0,NA,0,NA,NA,NA,0
+1120091,1st innings,New Zealand,India,2.2,C Munro,MJ Guptill,B Kumar,6,0,6,NA,0,NA,NA,NA,0
+1120091,1st innings,New Zealand,India,2.3,C Munro,MJ Guptill,B Kumar,1,0,1,NA,0,NA,NA,NA,0
+1120091,1st innings,New Zealand,India,2.4,MJ Guptill,C Munro,B Kumar,0,0,0,NA,1,caught,MJ Guptill,MS Dhoni,0
+1120091,1st innings,New Zealand,India,2.5,KS Williamson,C Munro,B Kumar,0,0,0,NA,0,NA,NA,NA,0
+1120091,1st innings,New Zealand,India,2.6,KS Williamson,C Munro,B Kumar,1,0,1,NA,0,NA,NA,NA,0
+1120091,1st innings,New Zealand,India,3.1,KS Williamson,C Munro,JJ Bumrah,0,0,0,NA,0,NA,NA,NA,0
+1120091,1st innings,New Zealand,India,3.2,KS Williamson,C Munro,JJ Bumrah,0,0,0,NA,0,NA,NA,NA,0
+1120091,1st innings,New Zealand,India,3.3,KS Williamson,C Munro,JJ Bumrah,0,0,0,NA,0,NA,NA,NA,0
+1120091,1st innings,New Zealand,India,3.4,KS Williamson,C Munro,JJ Bumrah,0,0,0,NA,0,NA,NA,NA,0
+1120091,1st innings,New Zealand,India,3.5,KS Williamson,C Munro,JJ Bumrah,0,0,0,NA,0,NA,NA,NA,0
+1120091,1st innings,New Zealand,India,3.6,KS Williamson,C Munro,JJ Bumrah,0,0,0,NA,0,NA,NA,NA,0
+1120091,1st innings,New Zealand,India,4.1,C Munro,KS Williamson,B Kumar,1,0,1,NA,0,NA,NA,NA,0
+1120091,1st innings,New Zealand,India,4.2,KS Williamson,C Munro,B Kumar,0,0,0,NA,0,NA,NA,NA,0
+1120091,1st innings,New Zealand,India,4.3,KS Williamson,C Munro,B Kumar,0,0,0,NA,0,NA,NA,NA,0
+1120091,1st innings,New Zealand,India,4.4,KS Williamson,C Munro,B Kumar,0,0,0,NA,0,NA,NA,NA,0
+1120091,1st innings,New Zealand,India,4.5,KS Williamson,C Munro,B Kumar,0,0,0,NA,0,NA,NA,NA,0
+1120091,1st innings,New Zealand,India,4.6,KS Williamson,C Munro,B Kumar,2,0,2,NA,0,NA,NA,NA,0
+1120091,1st innings,New Zealand,India,5.1,C Munro,KS Williamson,JJ Bumrah,0,0,0,NA,0,NA,NA,NA,0
+1120091,1st innings,New Zealand,India,5.2,C Munro,KS Williamson,JJ Bumrah,0,0,0,NA,0,NA,NA,NA,0
+1120091,1st innings,New Zealand,India,5.3,C Munro,KS Williamson,JJ Bumrah,1,0,1,NA,0,NA,NA,NA,0
+1120091,1st innings,New Zealand,India,5.4,KS Williamson,C Munro,JJ Bumrah,0,0,0,NA,1,lbw,KS Williamson,NA,0
+1120091,1st innings,New Zealand,India,5.5,LRPL Taylor,C Munro,JJ Bumrah,1,0,1,NA,0,NA,NA,NA,0
+1120091,1st innings,New Zealand,India,5.6,C Munro,LRPL Taylor,JJ Bumrah,0,0,0,NA,0,NA,NA,NA,0
+1120091,1st innings,New Zealand,India,6.1,LRPL Taylor,C Munro,B Kumar,1,0,1,NA,0,NA,NA,NA,0
+1120091,1st innings,New Zealand,India,6.2,C Munro,LRPL Taylor,B Kumar,0,0,0,NA,0,NA,NA,NA,0
+1120091,1st innings,New Zealand,India,6.3,C Munro,LRPL Taylor,B Kumar,0,0,0,NA,0,NA,NA,NA,0
+1120091,1st innings,New Zealand,India,6.4,C Munro,LRPL Taylor,B Kumar,0,0,0,NA,0,NA,NA,NA,0
+1120091,1st innings,New Zealand,India,6.5,C Munro,LRPL Taylor,B Kumar,0,0,0,NA,0,NA,NA,NA,0
+1120091,1st innings,New Zealand,India,6.6,C Munro,LRPL Taylor,B Kumar,0,0,0,NA,1,bowled,C Munro,NA,0
+1120091,1st innings,New Zealand,India,7.1,LRPL Taylor,TWM Latham,JJ Bumrah,0,0,0,NA,0,NA,NA,NA,0
+1120091,1st innings,New Zealand,India,7.2,LRPL Taylor,TWM Latham,JJ Bumrah,0,0,0,NA,0,NA,NA,NA,0
+1120091,1st innings,New Zealand,India,7.3,LRPL Taylor,TWM Latham,JJ Bumrah,0,0,0,NA,0,NA,NA,NA,0
+1120091,1st innings,New Zealand,India,7.4,LRPL Taylor,TWM Latham,JJ Bumrah,0,0,0,NA,0,NA,NA,NA,0
+1120091,1st innings,New Zealand,India,7.5,LRPL Taylor,TWM Latham,JJ Bumrah,0,0,0,NA,0,NA,NA,NA,0
+1120091,1st innings,New Zealand,India,7.6,LRPL Taylor,TWM Latham,JJ Bumrah,0,0,0,NA,0,NA,NA,NA,0
+1120091,1st innings,New Zealand,India,8.1,TWM Latham,LRPL Taylor,B Kumar,0,0,0,NA,0,NA,NA,NA,0
+1120091,1st innings,New Zealand,India,8.2,TWM Latham,LRPL Taylor,B Kumar,0,0,0,NA,0,NA,NA,NA,0
+1120091,1st innings,New Zealand,India,8.3,TWM Latham,LRPL Taylor,B Kumar,4,0,4,NA,0,NA,NA,NA,0
+1120091,1st innings,New Zealand,India,8.4,TWM Latham,LRPL Taylor,B Kumar,0,0,0,NA,0,NA,NA,NA,0
+1120091,1st innings,New Zealand,India,8.5,TWM Latham,LRPL Taylor,B Kumar,0,0,0,NA,0,NA,NA,NA,0
+1120091,1st innings,New Zealand,India,8.6,TWM Latham,LRPL Taylor,B Kumar,0,0,0,NA,0,NA,NA,NA,0
+1120091,1st innings,New Zealand,India,9.1,LRPL Taylor,TWM Latham,JJ Bumrah,0,0,0,NA,0,NA,NA,NA,0
+1120091,1st innings,New Zealand,India,9.2,LRPL Taylor,TWM Latham,JJ Bumrah,0,0,0,NA,0,NA,NA,NA,0
+1120091,1st innings,New Zealand,India,9.3,LRPL Taylor,TWM Latham,JJ Bumrah,2,0,2,NA,0,NA,NA,NA,0
+1120091,1st innings,New Zealand,India,9.4,LRPL Taylor,TWM Latham,JJ Bumrah,0,0,0,NA,0,NA,NA,NA,0
+1120091,1st innings,New Zealand,India,9.5,LRPL Taylor,TWM Latham,JJ Bumrah,0,0,0,NA,0,NA,NA,NA,0
+1120091,1st innings,New Zealand,India,9.6,LRPL Taylor,TWM Latham,JJ Bumrah,2,0,2,NA,0,NA,NA,NA,0
+1120091,1st innings,New Zealand,India,10.1,TWM Latham,LRPL Taylor,KM Jadhav,0,0,0,NA,0,NA,NA,NA,0
+1120091,1st innings,New Zealand,India,10.2,TWM Latham,LRPL Taylor,KM Jadhav,0,0,0,NA,0,NA,NA,NA,0
+1120091,1st innings,New Zealand,India,10.3,TWM Latham,LRPL Taylor,KM Jadhav,0,0,0,NA,0,NA,NA,NA,0
+1120091,1st innings,New Zealand,India,10.4,TWM Latham,LRPL Taylor,KM Jadhav,0,0,0,NA,0,NA,NA,NA,0
+1120091,1st innings,New Zealand,India,10.5,TWM Latham,LRPL Taylor,KM Jadhav,1,0,1,NA,0,NA,NA,NA,0
+1120091,1st innings,New Zealand,India,10.6,LRPL Taylor,TWM Latham,KM Jadhav,0,0,0,NA,0,NA,NA,NA,0
+1120091,1st innings,New Zealand,India,11.1,TWM Latham,LRPL Taylor,HH Pandya,0,0,0,NA,0,NA,NA,NA,0
+1120091,1st innings,New Zealand,India,11.2,TWM Latham,LRPL Taylor,HH Pandya,1,0,1,NA,0,NA,NA,NA,0
+1120091,1st innings,New Zealand,India,11.3,LRPL Taylor,TWM Latham,HH Pandya,0,0,0,NA,0,NA,NA,NA,0
+1120091,1st innings,New Zealand,India,11.4,LRPL Taylor,TWM Latham,HH Pandya,4,0,4,NA,0,NA,NA,NA,0
+1120091,1st innings,New Zealand,India,11.5,LRPL Taylor,TWM Latham,HH Pandya,0,0,0,NA,0,NA,NA,NA,0
+1120091,1st innings,New Zealand,India,11.6,LRPL Taylor,TWM Latham,HH Pandya,1,0,1,NA,0,NA,NA,NA,0
+1120091,1st innings,New Zealand,India,12.1,LRPL Taylor,TWM Latham,KM Jadhav,1,0,1,NA,0,NA,NA,NA,0
+1120091,1st innings,New Zealand,India,12.2,TWM Latham,LRPL Taylor,KM Jadhav,1,0,1,NA,0,NA,NA,NA,0
+1120091,1st innings,New Zealand,India,12.3,LRPL Taylor,TWM Latham,KM Jadhav,0,0,0,NA,0,NA,NA,NA,0
+1120091,1st innings,New Zealand,India,12.4,LRPL Taylor,TWM Latham,KM Jadhav,0,0,0,NA,0,NA,NA,NA,0
+1120091,1st innings,New Zealand,India,12.5,LRPL Taylor,TWM Latham,KM Jadhav,0,0,0,NA,0,NA,NA,NA,0
+1120091,1st innings,New Zealand,India,12.6,LRPL Taylor,TWM Latham,KM Jadhav,2,0,2,NA,0,NA,NA,NA,0
+1120091,1st innings,New Zealand,India,13.1,TWM Latham,LRPL Taylor,HH Pandya,1,0,1,NA,0,NA,NA,NA,0
+1120091,1st innings,New Zealand,India,13.2,LRPL Taylor,TWM Latham,HH Pandya,1,0,1,NA,0,NA,NA,NA,0
+1120091,1st innings,New Zealand,India,13.3,TWM Latham,LRPL Taylor,HH Pandya,0,0,0,NA,0,NA,NA,NA,0
+1120091,1st innings,New Zealand,India,13.4,TWM Latham,LRPL Taylor,HH Pandya,1,0,1,NA,0,NA,NA,NA,0
+1120091,1st innings,New Zealand,India,13.5,LRPL Taylor,TWM Latham,HH Pandya,1,0,1,NA,0,NA,NA,NA,0
+1120091,1st innings,New Zealand,India,13.6,TWM Latham,LRPL Taylor,HH Pandya,1,0,1,NA,0,NA,NA,NA,0
+1120091,1st innings,New Zealand,India,14.1,TWM Latham,LRPL Taylor,KM Jadhav,0,0,0,NA,0,NA,NA,NA,0
+1120091,1st innings,New Zealand,India,14.2,TWM Latham,LRPL Taylor,KM Jadhav,0,0,0,NA,0,NA,NA,NA,0
+1120091,1st innings,New Zealand,India,14.3,TWM Latham,LRPL Taylor,KM Jadhav,0,0,0,NA,0,NA,NA,NA,0
+1120091,1st innings,New Zealand,India,14.4,TWM Latham,LRPL Taylor,KM Jadhav,1,0,1,NA,0,NA,NA,NA,0
+1120091,1st innings,New Zealand,India,14.5,LRPL Taylor,TWM Latham,KM Jadhav,1,0,1,NA,0,NA,NA,NA,0
+1120091,1st innings,New Zealand,India,14.6,TWM Latham,LRPL Taylor,KM Jadhav,0,0,0,NA,0,NA,NA,NA,0
+1120091,1st innings,New Zealand,India,15.1,LRPL Taylor,TWM Latham,HH Pandya,0,0,0,NA,0,NA,NA,NA,0
+1120091,1st innings,New Zealand,India,15.2,LRPL Taylor,TWM Latham,HH Pandya,0,1,1,wides,0,NA,NA,NA,0
+1120091,1st innings,New Zealand,India,15.3,LRPL Taylor,TWM Latham,HH Pandya,0,0,0,NA,0,NA,NA,NA,0
+1120091,1st innings,New Zealand,India,15.4,LRPL Taylor,TWM Latham,HH Pandya,0,0,0,NA,0,NA,NA,NA,0
+1120091,1st innings,New Zealand,India,15.5,LRPL Taylor,TWM Latham,HH Pandya,4,0,4,NA,0,NA,NA,NA,0
+1120091,1st innings,New Zealand,India,15.6,LRPL Taylor,TWM Latham,HH Pandya,0,0,0,NA,0,NA,NA,NA,0
+1120091,1st innings,New Zealand,India,15.7,LRPL Taylor,TWM Latham,HH Pandya,0,0,0,NA,1,caught,LRPL Taylor,MS Dhoni,0
+1120091,1st innings,New Zealand,India,16.1,TWM Latham,HM Nicholls,KM Jadhav,1,0,1,NA,0,NA,NA,NA,0
+1120091,1st innings,New Zealand,India,16.2,HM Nicholls,TWM Latham,KM Jadhav,0,0,0,NA,0,NA,NA,NA,0
+1120091,1st innings,New Zealand,India,16.3,HM Nicholls,TWM Latham,KM Jadhav,0,0,0,NA,0,NA,NA,NA,0
+1120091,1st innings,New Zealand,India,16.4,HM Nicholls,TWM Latham,KM Jadhav,0,0,0,NA,0,NA,NA,NA,0
+1120091,1st innings,New Zealand,India,16.5,HM Nicholls,TWM Latham,KM Jadhav,4,0,4,NA,0,NA,NA,NA,0
+1120091,1st innings,New Zealand,India,16.6,HM Nicholls,TWM Latham,KM Jadhav,0,0,0,NA,0,NA,NA,NA,0
+1120091,1st innings,New Zealand,India,17.1,TWM Latham,HM Nicholls,HH Pandya,0,0,0,NA,0,NA,NA,NA,0
+1120091,1st innings,New Zealand,India,17.2,TWM Latham,HM Nicholls,HH Pandya,4,0,4,NA,0,NA,NA,NA,0
+1120091,1st innings,New Zealand,India,17.3,TWM Latham,HM Nicholls,HH Pandya,0,0,0,NA,0,NA,NA,NA,0
+1120091,1st innings,New Zealand,India,17.4,TWM Latham,HM Nicholls,HH Pandya,0,1,1,wides,0,NA,NA,NA,0
+1120091,1st innings,New Zealand,India,17.5,TWM Latham,HM Nicholls,HH Pandya,1,0,1,NA,0,NA,NA,NA,0
+1120091,1st innings,New Zealand,India,17.6,HM Nicholls,TWM Latham,HH Pandya,0,0,0,NA,0,NA,NA,NA,0
+1120091,1st innings,New Zealand,India,17.7,HM Nicholls,TWM Latham,HH Pandya,1,0,1,NA,0,NA,NA,NA,0
+1120091,1st innings,New Zealand,India,18.1,HM Nicholls,TWM Latham,KM Jadhav,0,0,0,NA,0,NA,NA,NA,0
+1120091,1st innings,New Zealand,India,18.2,HM Nicholls,TWM Latham,KM Jadhav,0,0,0,NA,0,NA,NA,NA,0
+1120091,1st innings,New Zealand,India,18.3,HM Nicholls,TWM Latham,KM Jadhav,1,0,1,NA,0,NA,NA,NA,0
+1120091,1st innings,New Zealand,India,18.4,TWM Latham,HM Nicholls,KM Jadhav,0,1,1,wides,0,NA,NA,NA,0
+1120091,1st innings,New Zealand,India,18.5,TWM Latham,HM Nicholls,KM Jadhav,0,0,0,NA,0,NA,NA,NA,0
+1120091,1st innings,New Zealand,India,18.6,TWM Latham,HM Nicholls,KM Jadhav,1,0,1,NA,0,NA,NA,NA,0
+1120091,1st innings,New Zealand,India,18.7,HM Nicholls,TWM Latham,KM Jadhav,0,0,0,NA,0,NA,NA,NA,0
+1120091,1st innings,New Zealand,India,19.1,TWM Latham,HM Nicholls,AR Patel,0,0,0,NA,0,NA,NA,NA,0
+1120091,1st innings,New Zealand,India,19.2,TWM Latham,HM Nicholls,AR Patel,1,0,1,NA,0,NA,NA,NA,0
+1120091,1st innings,New Zealand,India,19.3,HM Nicholls,TWM Latham,AR Patel,0,0,0,NA,0,NA,NA,NA,0
+1120091,1st innings,New Zealand,India,19.4,HM Nicholls,TWM Latham,AR Patel,0,0,0,NA,0,NA,NA,NA,0
+1120091,1st innings,New Zealand,India,19.5,HM Nicholls,TWM Latham,AR Patel,1,0,1,NA,0,NA,NA,NA,0
+1120091,1st innings,New Zealand,India,19.6,TWM Latham,HM Nicholls,AR Patel,1,0,1,NA,0,NA,NA,NA,0
+1120091,1st innings,New Zealand,India,20.1,TWM Latham,HM Nicholls,KM Jadhav,0,0,0,NA,0,NA,NA,NA,0
+1120091,1st innings,New Zealand,India,20.2,TWM Latham,HM Nicholls,KM Jadhav,0,0,0,NA,0,NA,NA,NA,0
+1120091,1st innings,New Zealand,India,20.3,TWM Latham,HM Nicholls,KM Jadhav,0,0,0,NA,0,NA,NA,NA,0
+1120091,1st innings,New Zealand,India,20.4,TWM Latham,HM Nicholls,KM Jadhav,0,0,0,NA,0,NA,NA,NA,0
+1120091,1st innings,New Zealand,India,20.5,TWM Latham,HM Nicholls,KM Jadhav,0,0,0,NA,0,NA,NA,NA,0
+1120091,1st innings,New Zealand,India,20.6,TWM Latham,HM Nicholls,KM Jadhav,1,0,1,NA,0,NA,NA,NA,0
+1120091,1st innings,New Zealand,India,21.1,TWM Latham,HM Nicholls,AR Patel,0,0,0,NA,0,NA,NA,NA,0
+1120091,1st innings,New Zealand,India,21.2,TWM Latham,HM Nicholls,AR Patel,1,0,1,NA,0,NA,NA,NA,0
+1120091,1st innings,New Zealand,India,21.3,HM Nicholls,TWM Latham,AR Patel,1,0,1,NA,0,NA,NA,NA,0
+1120091,1st innings,New Zealand,India,21.4,TWM Latham,HM Nicholls,AR Patel,1,0,1,NA,0,NA,NA,NA,0
+1120091,1st innings,New Zealand,India,21.5,HM Nicholls,TWM Latham,AR Patel,0,0,0,NA,0,NA,NA,NA,0
+1120091,1st innings,New Zealand,India,21.6,HM Nicholls,TWM Latham,AR Patel,0,0,0,NA,0,NA,NA,NA,0
+1120091,1st innings,New Zealand,India,22.1,TWM Latham,HM Nicholls,KM Jadhav,3,0,3,NA,0,NA,NA,NA,0
+1120091,1st innings,New Zealand,India,22.2,HM Nicholls,TWM Latham,KM Jadhav,1,0,1,NA,0,NA,NA,NA,0
+1120091,1st innings,New Zealand,India,22.3,TWM Latham,HM Nicholls,KM Jadhav,1,0,1,NA,0,NA,NA,NA,0
+1120091,1st innings,New Zealand,India,22.4,HM Nicholls,TWM Latham,KM Jadhav,1,0,1,NA,0,NA,NA,NA,0
+1120091,1st innings,New Zealand,India,22.5,TWM Latham,HM Nicholls,KM Jadhav,1,0,1,NA,0,NA,NA,NA,0
+1120091,1st innings,New Zealand,India,22.6,HM Nicholls,TWM Latham,KM Jadhav,1,0,1,NA,0,NA,NA,NA,0
+1120091,1st innings,New Zealand,India,23.1,HM Nicholls,TWM Latham,AR Patel,1,0,1,NA,0,NA,NA,NA,0
+1120091,1st innings,New Zealand,India,23.2,TWM Latham,HM Nicholls,AR Patel,0,0,0,NA,0,NA,NA,NA,0
+1120091,1st innings,New Zealand,India,23.3,TWM Latham,HM Nicholls,AR Patel,0,1,1,wides,0,NA,NA,NA,0
+1120091,1st innings,New Zealand,India,23.4,TWM Latham,HM Nicholls,AR Patel,1,0,1,NA,0,NA,NA,NA,0
+1120091,1st innings,New Zealand,India,23.5,HM Nicholls,TWM Latham,AR Patel,2,0,2,NA,0,NA,NA,NA,0
+1120091,1st innings,New Zealand,India,23.6,HM Nicholls,TWM Latham,AR Patel,0,0,0,NA,0,NA,NA,NA,0
+1120091,1st innings,New Zealand,India,23.7,HM Nicholls,TWM Latham,AR Patel,0,0,0,NA,0,NA,NA,NA,0
+1120091,1st innings,New Zealand,India,24.1,TWM Latham,HM Nicholls,YS Chahal,0,0,0,NA,0,NA,NA,NA,0
+1120091,1st innings,New Zealand,India,24.2,TWM Latham,HM Nicholls,YS Chahal,0,0,0,NA,0,NA,NA,NA,0
+1120091,1st innings,New Zealand,India,24.3,TWM Latham,HM Nicholls,YS Chahal,1,0,1,NA,0,NA,NA,NA,0
+1120091,1st innings,New Zealand,India,24.4,HM Nicholls,TWM Latham,YS Chahal,1,0,1,NA,0,NA,NA,NA,0
+1120091,1st innings,New Zealand,India,24.5,TWM Latham,HM Nicholls,YS Chahal,1,0,1,NA,0,NA,NA,NA,0
+1120091,1st innings,New Zealand,India,24.6,HM Nicholls,TWM Latham,YS Chahal,1,0,1,NA,0,NA,NA,NA,0
+1120091,1st innings,New Zealand,India,25.1,HM Nicholls,TWM Latham,AR Patel,1,0,1,NA,0,NA,NA,NA,0
+1120091,1st innings,New Zealand,India,25.2,TWM Latham,HM Nicholls,AR Patel,0,0,0,NA,0,NA,NA,NA,0
+1120091,1st innings,New Zealand,India,25.3,TWM Latham,HM Nicholls,AR Patel,0,0,0,NA,0,NA,NA,NA,0
+1120091,1st innings,New Zealand,India,25.4,TWM Latham,HM Nicholls,AR Patel,0,0,0,NA,0,NA,NA,NA,0
+1120091,1st innings,New Zealand,India,25.5,TWM Latham,HM Nicholls,AR Patel,0,0,0,NA,0,NA,NA,NA,0
+1120091,1st innings,New Zealand,India,25.6,TWM Latham,HM Nicholls,AR Patel,2,0,2,NA,0,NA,NA,NA,0
+1120091,1st innings,New Zealand,India,26.1,HM Nicholls,TWM Latham,YS Chahal,0,0,0,NA,0,NA,NA,NA,0
+1120091,1st innings,New Zealand,India,26.2,HM Nicholls,TWM Latham,YS Chahal,2,0,2,NA,0,NA,NA,NA,0
+1120091,1st innings,New Zealand,India,26.3,HM Nicholls,TWM Latham,YS Chahal,1,0,1,NA,0,NA,NA,NA,0
+1120091,1st innings,New Zealand,India,26.4,TWM Latham,HM Nicholls,YS Chahal,1,0,1,NA,0,NA,NA,NA,0
+1120091,1st innings,New Zealand,India,26.5,HM Nicholls,TWM Latham,YS Chahal,1,0,1,NA,0,NA,NA,NA,0
+1120091,1st innings,New Zealand,India,26.6,TWM Latham,HM Nicholls,YS Chahal,2,0,2,NA,0,NA,NA,NA,0
+1120091,1st innings,New Zealand,India,27.1,HM Nicholls,TWM Latham,AR Patel,1,0,1,NA,0,NA,NA,NA,0
+1120091,1st innings,New Zealand,India,27.2,TWM Latham,HM Nicholls,AR Patel,1,0,1,NA,0,NA,NA,NA,0
+1120091,1st innings,New Zealand,India,27.3,HM Nicholls,TWM Latham,AR Patel,0,0,0,NA,0,NA,NA,NA,0
+1120091,1st innings,New Zealand,India,27.4,HM Nicholls,TWM Latham,AR Patel,4,0,4,NA,0,NA,NA,NA,0
+1120091,1st innings,New Zealand,India,27.5,HM Nicholls,TWM Latham,AR Patel,2,0,2,NA,0,NA,NA,NA,0
+1120091,1st innings,New Zealand,India,27.6,HM Nicholls,TWM Latham,AR Patel,1,0,1,NA,0,NA,NA,NA,0
+1120091,1st innings,New Zealand,India,28.1,HM Nicholls,TWM Latham,YS Chahal,0,0,0,NA,0,NA,NA,NA,0
+1120091,1st innings,New Zealand,India,28.2,HM Nicholls,TWM Latham,YS Chahal,1,0,1,NA,0,NA,NA,NA,0
+1120091,1st innings,New Zealand,India,28.3,TWM Latham,HM Nicholls,YS Chahal,0,0,0,NA,0,NA,NA,NA,0
+1120091,1st innings,New Zealand,India,28.4,TWM Latham,HM Nicholls,YS Chahal,1,0,1,NA,0,NA,NA,NA,0
+1120091,1st innings,New Zealand,India,28.5,HM Nicholls,TWM Latham,YS Chahal,0,0,0,NA,0,NA,NA,NA,0
+1120091,1st innings,New Zealand,India,28.6,HM Nicholls,TWM Latham,YS Chahal,0,0,0,NA,0,NA,NA,NA,0
+1120091,1st innings,New Zealand,India,29.1,TWM Latham,HM Nicholls,AR Patel,0,0,0,NA,1,bowled,TWM Latham,NA,0
+1120091,1st innings,New Zealand,India,29.2,C de Grandhomme,HM Nicholls,AR Patel,0,0,0,NA,0,NA,NA,NA,0
+1120091,1st innings,New Zealand,India,29.3,C de Grandhomme,HM Nicholls,AR Patel,0,0,0,NA,0,NA,NA,NA,0
+1120091,1st innings,New Zealand,India,29.4,C de Grandhomme,HM Nicholls,AR Patel,0,0,0,NA,0,NA,NA,NA,0
+1120091,1st innings,New Zealand,India,29.5,C de Grandhomme,HM Nicholls,AR Patel,0,0,0,NA,0,NA,NA,NA,0
+1120091,1st innings,New Zealand,India,29.6,C de Grandhomme,HM Nicholls,AR Patel,0,0,0,NA,0,NA,NA,NA,0
+1120091,1st innings,New Zealand,India,30.1,HM Nicholls,C de Grandhomme,YS Chahal,0,0,0,NA,0,NA,NA,NA,0
+1120091,1st innings,New Zealand,India,30.2,HM Nicholls,C de Grandhomme,YS Chahal,0,0,0,NA,0,NA,NA,NA,0
+1120091,1st innings,New Zealand,India,30.3,HM Nicholls,C de Grandhomme,YS Chahal,0,0,0,NA,0,NA,NA,NA,0
+1120091,1st innings,New Zealand,India,30.4,HM Nicholls,C de Grandhomme,YS Chahal,0,0,0,NA,0,NA,NA,NA,0
+1120091,1st innings,New Zealand,India,30.5,HM Nicholls,C de Grandhomme,YS Chahal,0,0,0,NA,0,NA,NA,NA,0
+1120091,1st innings,New Zealand,India,30.6,HM Nicholls,C de Grandhomme,YS Chahal,0,0,0,NA,0,NA,NA,NA,0
+1120091,1st innings,New Zealand,India,31.1,C de Grandhomme,HM Nicholls,AR Patel,0,0,0,NA,0,NA,NA,NA,0
+1120091,1st innings,New Zealand,India,31.2,C de Grandhomme,HM Nicholls,AR Patel,0,0,0,NA,0,NA,NA,NA,0
+1120091,1st innings,New Zealand,India,31.3,C de Grandhomme,HM Nicholls,AR Patel,0,0,0,NA,0,NA,NA,NA,0
+1120091,1st innings,New Zealand,India,31.4,C de Grandhomme,HM Nicholls,AR Patel,0,0,0,NA,0,NA,NA,NA,0
+1120091,1st innings,New Zealand,India,31.5,C de Grandhomme,HM Nicholls,AR Patel,0,0,0,NA,0,NA,NA,NA,0
+1120091,1st innings,New Zealand,India,31.6,C de Grandhomme,HM Nicholls,AR Patel,2,0,2,NA,0,NA,NA,NA,0
+1120091,1st innings,New Zealand,India,32.1,HM Nicholls,C de Grandhomme,YS Chahal,0,0,0,NA,0,NA,NA,NA,0
+1120091,1st innings,New Zealand,India,32.2,HM Nicholls,C de Grandhomme,YS Chahal,1,0,1,NA,0,NA,NA,NA,0
+1120091,1st innings,New Zealand,India,32.3,C de Grandhomme,HM Nicholls,YS Chahal,0,0,0,NA,0,NA,NA,NA,0
+1120091,1st innings,New Zealand,India,32.4,C de Grandhomme,HM Nicholls,YS Chahal,4,0,4,NA,0,NA,NA,NA,0
+1120091,1st innings,New Zealand,India,32.5,C de Grandhomme,HM Nicholls,YS Chahal,0,0,0,NA,0,NA,NA,NA,0
+1120091,1st innings,New Zealand,India,32.6,C de Grandhomme,HM Nicholls,YS Chahal,1,0,1,NA,0,NA,NA,NA,0
+1120091,1st innings,New Zealand,India,33.1,C de Grandhomme,HM Nicholls,AR Patel,4,0,4,NA,0,NA,NA,NA,0
+1120091,1st innings,New Zealand,India,33.2,C de Grandhomme,HM Nicholls,AR Patel,1,0,1,NA,0,NA,NA,NA,0
+1120091,1st innings,New Zealand,India,33.3,HM Nicholls,C de Grandhomme,AR Patel,1,0,1,NA,0,NA,NA,NA,0
+1120091,1st innings,New Zealand,India,33.4,C de Grandhomme,HM Nicholls,AR Patel,1,0,1,NA,0,NA,NA,NA,0
+1120091,1st innings,New Zealand,India,33.5,HM Nicholls,C de Grandhomme,AR Patel,1,0,1,NA,0,NA,NA,NA,0
+1120091,1st innings,New Zealand,India,33.6,C de Grandhomme,HM Nicholls,AR Patel,4,0,4,NA,0,NA,NA,NA,0
+1120091,1st innings,New Zealand,India,34.1,HM Nicholls,C de Grandhomme,YS Chahal,0,0,0,NA,0,NA,NA,NA,0
+1120091,1st innings,New Zealand,India,34.2,HM Nicholls,C de Grandhomme,YS Chahal,0,0,0,NA,0,NA,NA,NA,0
+1120091,1st innings,New Zealand,India,34.3,HM Nicholls,C de Grandhomme,YS Chahal,0,0,0,NA,0,NA,NA,NA,0
+1120091,1st innings,New Zealand,India,34.4,HM Nicholls,C de Grandhomme,YS Chahal,4,0,4,NA,0,NA,NA,NA,0
+1120091,1st innings,New Zealand,India,34.5,HM Nicholls,C de Grandhomme,YS Chahal,1,0,1,NA,0,NA,NA,NA,0
+1120091,1st innings,New Zealand,India,34.6,C de Grandhomme,HM Nicholls,YS Chahal,6,0,6,NA,0,NA,NA,NA,0
+1120091,1st innings,New Zealand,India,35.1,HM Nicholls,C de Grandhomme,KM Jadhav,1,0,1,NA,0,NA,NA,NA,0
+1120091,1st innings,New Zealand,India,35.2,C de Grandhomme,HM Nicholls,KM Jadhav,1,0,1,NA,0,NA,NA,NA,0
+1120091,1st innings,New Zealand,India,35.3,HM Nicholls,C de Grandhomme,KM Jadhav,0,0,0,NA,0,NA,NA,NA,0
+1120091,1st innings,New Zealand,India,35.4,HM Nicholls,C de Grandhomme,KM Jadhav,1,0,1,NA,0,NA,NA,NA,0
+1120091,1st innings,New Zealand,India,35.5,C de Grandhomme,HM Nicholls,KM Jadhav,4,0,4,NA,0,NA,NA,NA,0
+1120091,1st innings,New Zealand,India,35.6,C de Grandhomme,HM Nicholls,KM Jadhav,0,0,0,NA,0,NA,NA,NA,0
+1120091,1st innings,New Zealand,India,36.1,HM Nicholls,C de Grandhomme,JJ Bumrah,0,0,0,NA,0,NA,NA,NA,0
+1120091,1st innings,New Zealand,India,36.2,HM Nicholls,C de Grandhomme,JJ Bumrah,1,0,1,NA,0,NA,NA,NA,0
+1120091,1st innings,New Zealand,India,36.3,C de Grandhomme,HM Nicholls,JJ Bumrah,4,0,4,NA,0,NA,NA,NA,0
+1120091,1st innings,New Zealand,India,36.4,C de Grandhomme,HM Nicholls,JJ Bumrah,0,0,0,NA,0,NA,NA,NA,0
+1120091,1st innings,New Zealand,India,36.5,C de Grandhomme,HM Nicholls,JJ Bumrah,0,0,0,NA,0,NA,NA,NA,0
+1120091,1st innings,New Zealand,India,36.6,C de Grandhomme,HM Nicholls,JJ Bumrah,1,0,1,NA,0,NA,NA,NA,0
+1120091,1st innings,New Zealand,India,37.1,C de Grandhomme,HM Nicholls,B Kumar,0,0,0,NA,0,NA,NA,NA,0
+1120091,1st innings,New Zealand,India,37.2,C de Grandhomme,HM Nicholls,B Kumar,1,0,1,NA,0,NA,NA,NA,0
+1120091,1st innings,New Zealand,India,37.3,HM Nicholls,C de Grandhomme,B Kumar,1,0,1,NA,0,NA,NA,NA,0
+1120091,1st innings,New Zealand,India,37.4,C de Grandhomme,HM Nicholls,B Kumar,1,0,1,NA,0,NA,NA,NA,0
+1120091,1st innings,New Zealand,India,37.5,HM Nicholls,C de Grandhomme,B Kumar,0,0,0,NA,1,bowled,HM Nicholls,NA,0
+1120091,1st innings,New Zealand,India,37.6,MJ Santner,C de Grandhomme,B Kumar,0,0,0,NA,0,NA,NA,NA,0
+1120091,1st innings,New Zealand,India,38.1,C de Grandhomme,MJ Santner,JJ Bumrah,0,0,0,NA,0,NA,NA,NA,0
+1120091,1st innings,New Zealand,India,38.2,C de Grandhomme,MJ Santner,JJ Bumrah,1,0,1,NA,0,NA,NA,NA,0
+1120091,1st innings,New Zealand,India,38.3,MJ Santner,C de Grandhomme,JJ Bumrah,0,0,0,NA,0,NA,NA,NA,0
+1120091,1st innings,New Zealand,India,38.4,MJ Santner,C de Grandhomme,JJ Bumrah,0,0,0,NA,0,NA,NA,NA,0
+1120091,1st innings,New Zealand,India,38.5,MJ Santner,C de Grandhomme,JJ Bumrah,0,0,0,NA,0,NA,NA,NA,0
+1120091,1st innings,New Zealand,India,38.6,MJ Santner,C de Grandhomme,JJ Bumrah,0,0,0,NA,0,NA,NA,NA,0
+1120091,1st innings,New Zealand,India,39.1,C de Grandhomme,MJ Santner,B Kumar,0,0,0,NA,0,NA,NA,NA,0
+1120091,1st innings,New Zealand,India,39.2,C de Grandhomme,MJ Santner,B Kumar,0,0,0,NA,0,NA,NA,NA,0
+1120091,1st innings,New Zealand,India,39.3,C de Grandhomme,MJ Santner,B Kumar,1,0,1,NA,0,NA,NA,NA,0
+1120091,1st innings,New Zealand,India,39.4,MJ Santner,C de Grandhomme,B Kumar,0,0,0,NA,0,NA,NA,NA,0
+1120091,1st innings,New Zealand,India,39.5,MJ Santner,C de Grandhomme,B Kumar,0,0,0,NA,0,NA,NA,NA,0
+1120091,1st innings,New Zealand,India,39.6,MJ Santner,C de Grandhomme,B Kumar,1,0,1,NA,0,NA,NA,NA,0
+1120091,1st innings,New Zealand,India,40.1,MJ Santner,C de Grandhomme,AR Patel,0,0,0,NA,0,NA,NA,NA,0
+1120091,1st innings,New Zealand,India,40.2,MJ Santner,C de Grandhomme,AR Patel,1,0,1,NA,0,NA,NA,NA,0
+1120091,1st innings,New Zealand,India,40.3,C de Grandhomme,MJ Santner,AR Patel,1,0,1,NA,0,NA,NA,NA,0
+1120091,1st innings,New Zealand,India,40.4,MJ Santner,C de Grandhomme,AR Patel,1,0,1,NA,0,NA,NA,NA,0
+1120091,1st innings,New Zealand,India,40.5,C de Grandhomme,MJ Santner,AR Patel,1,0,1,NA,0,NA,NA,NA,0
+1120091,1st innings,New Zealand,India,40.6,MJ Santner,C de Grandhomme,AR Patel,1,0,1,NA,0,NA,NA,NA,0
+1120091,1st innings,New Zealand,India,41.1,MJ Santner,C de Grandhomme,YS Chahal,0,0,0,NA,0,NA,NA,NA,0
+1120091,1st innings,New Zealand,India,41.2,MJ Santner,C de Grandhomme,YS Chahal,0,0,0,NA,0,NA,NA,NA,0
+1120091,1st innings,New Zealand,India,41.3,MJ Santner,C de Grandhomme,YS Chahal,1,0,1,NA,0,NA,NA,NA,0
+1120091,1st innings,New Zealand,India,41.4,C de Grandhomme,MJ Santner,YS Chahal,1,0,1,NA,0,NA,NA,NA,0
+1120091,1st innings,New Zealand,India,41.5,MJ Santner,C de Grandhomme,YS Chahal,0,0,0,NA,0,NA,NA,NA,0
+1120091,1st innings,New Zealand,India,41.6,MJ Santner,C de Grandhomme,YS Chahal,1,0,1,NA,0,NA,NA,NA,0
+1120091,1st innings,New Zealand,India,42.1,MJ Santner,C de Grandhomme,AR Patel,4,0,4,NA,0,NA,NA,NA,0
+1120091,1st innings,New Zealand,India,42.2,MJ Santner,C de Grandhomme,AR Patel,0,0,0,NA,0,NA,NA,NA,0
+1120091,1st innings,New Zealand,India,42.3,MJ Santner,C de Grandhomme,AR Patel,0,0,0,NA,0,NA,NA,NA,0
+1120091,1st innings,New Zealand,India,42.4,MJ Santner,C de Grandhomme,AR Patel,6,0,6,NA,0,NA,NA,NA,0
+1120091,1st innings,New Zealand,India,42.5,MJ Santner,C de Grandhomme,AR Patel,1,0,1,NA,0,NA,NA,NA,0
+1120091,1st innings,New Zealand,India,42.6,C de Grandhomme,MJ Santner,AR Patel,1,0,1,NA,0,NA,NA,NA,0
+1120091,1st innings,New Zealand,India,43.1,C de Grandhomme,MJ Santner,YS Chahal,0,0,0,NA,1,caught,C de Grandhomme,JJ Bumrah,0
+1120091,1st innings,New Zealand,India,43.2,AF Milne,MJ Santner,YS Chahal,0,0,0,NA,1,lbw,AF Milne,NA,0
+1120091,1st innings,New Zealand,India,43.3,TG Southee,MJ Santner,YS Chahal,1,0,1,NA,0,NA,NA,NA,0
+1120091,1st innings,New Zealand,India,43.4,MJ Santner,TG Southee,YS Chahal,1,0,1,NA,0,NA,NA,NA,0
+1120091,1st innings,New Zealand,India,43.5,TG Southee,MJ Santner,YS Chahal,0,0,0,NA,0,NA,NA,NA,0
+1120091,1st innings,New Zealand,India,43.6,TG Southee,MJ Santner,YS Chahal,1,0,1,NA,0,NA,NA,NA,0
+1120091,1st innings,New Zealand,India,44.1,TG Southee,MJ Santner,JJ Bumrah,0,0,0,NA,0,NA,NA,NA,0
+1120091,1st innings,New Zealand,India,44.2,TG Southee,MJ Santner,JJ Bumrah,1,0,1,NA,0,NA,NA,NA,0
+1120091,1st innings,New Zealand,India,44.3,MJ Santner,TG Southee,JJ Bumrah,0,0,0,NA,0,NA,NA,NA,0
+1120091,1st innings,New Zealand,India,44.4,MJ Santner,TG Southee,JJ Bumrah,0,0,0,NA,0,NA,NA,NA,0
+1120091,1st innings,New Zealand,India,44.5,MJ Santner,TG Southee,JJ Bumrah,0,0,0,NA,0,NA,NA,NA,0
+1120091,1st innings,New Zealand,India,44.6,MJ Santner,TG Southee,JJ Bumrah,0,0,0,NA,0,NA,NA,NA,0
+1120091,1st innings,New Zealand,India,45.1,TG Southee,MJ Santner,B Kumar,0,0,0,NA,0,NA,NA,NA,0
+1120091,1st innings,New Zealand,India,45.2,TG Southee,MJ Santner,B Kumar,4,0,4,NA,0,NA,NA,NA,0
+1120091,1st innings,New Zealand,India,45.3,TG Southee,MJ Santner,B Kumar,0,0,0,NA,0,NA,NA,NA,0
+1120091,1st innings,New Zealand,India,45.4,TG Southee,MJ Santner,B Kumar,0,0,0,NA,0,NA,NA,NA,0
+1120091,1st innings,New Zealand,India,45.5,TG Southee,MJ Santner,B Kumar,1,0,1,NA,0,NA,NA,NA,0
+1120091,1st innings,New Zealand,India,45.6,MJ Santner,TG Southee,B Kumar,0,1,1,legbyes,0,NA,NA,NA,0
+1120091,1st innings,New Zealand,India,46.1,MJ Santner,TG Southee,JJ Bumrah,1,0,1,NA,0,NA,NA,NA,0
+1120091,1st innings,New Zealand,India,46.2,TG Southee,MJ Santner,JJ Bumrah,0,0,0,NA,0,NA,NA,NA,0
+1120091,1st innings,New Zealand,India,46.3,TG Southee,MJ Santner,JJ Bumrah,1,0,1,NA,0,NA,NA,NA,0
+1120091,1st innings,New Zealand,India,46.4,MJ Santner,TG Southee,JJ Bumrah,0,0,0,NA,0,NA,NA,NA,0
+1120091,1st innings,New Zealand,India,46.5,MJ Santner,TG Southee,JJ Bumrah,2,0,2,NA,0,NA,NA,NA,0
+1120091,1st innings,New Zealand,India,46.6,MJ Santner,TG Southee,JJ Bumrah,1,0,1,NA,0,NA,NA,NA,0
+1120091,1st innings,New Zealand,India,47.1,MJ Santner,TG Southee,B Kumar,0,0,0,NA,0,NA,NA,NA,0
+1120091,1st innings,New Zealand,India,47.2,MJ Santner,TG Southee,B Kumar,1,0,1,NA,0,NA,NA,NA,0
+1120091,1st innings,New Zealand,India,47.3,TG Southee,MJ Santner,B Kumar,1,0,1,NA,0,NA,NA,NA,0
+1120091,1st innings,New Zealand,India,47.4,MJ Santner,TG Southee,B Kumar,0,0,0,NA,0,NA,NA,NA,0
+1120091,1st innings,New Zealand,India,47.5,MJ Santner,TG Southee,B Kumar,2,0,2,NA,0,NA,NA,NA,0
+1120091,1st innings,New Zealand,India,47.6,MJ Santner,TG Southee,B Kumar,4,0,4,NA,0,NA,NA,NA,0
+1120091,1st innings,New Zealand,India,48.1,TG Southee,MJ Santner,JJ Bumrah,0,0,0,NA,0,NA,NA,NA,0
+1120091,1st innings,New Zealand,India,48.2,TG Southee,MJ Santner,JJ Bumrah,6,0,6,NA,0,NA,NA,NA,0
+1120091,1st innings,New Zealand,India,48.3,TG Southee,MJ Santner,JJ Bumrah,2,0,2,NA,0,NA,NA,NA,0
+1120091,1st innings,New Zealand,India,48.4,TG Southee,MJ Santner,JJ Bumrah,1,0,1,NA,0,NA,NA,NA,0
+1120091,1st innings,New Zealand,India,48.5,MJ Santner,TG Southee,JJ Bumrah,0,0,0,NA,1,caught,MJ Santner,V Kohli,0
+1120091,1st innings,New Zealand,India,48.6,TG Southee,TA Boult,JJ Bumrah,0,1,1,legbyes,0,NA,NA,NA,0
+1120091,1st innings,New Zealand,India,49.1,TG Southee,TA Boult,B Kumar,1,0,1,NA,0,NA,NA,NA,0
+1120091,1st innings,New Zealand,India,49.2,TA Boult,TG Southee,B Kumar,1,0,1,NA,0,NA,NA,NA,0
+1120091,1st innings,New Zealand,India,49.3,TG Southee,TA Boult,B Kumar,1,0,1,NA,0,NA,NA,NA,0
+1120091,1st innings,New Zealand,India,49.4,TA Boult,TG Southee,B Kumar,1,0,1,NA,0,NA,NA,NA,0
+1120091,1st innings,New Zealand,India,49.5,TG Southee,TA Boult,B Kumar,2,0,2,NA,0,NA,NA,NA,0
+1120091,1st innings,New Zealand,India,49.6,TG Southee,TA Boult,B Kumar,0,1,1,wides,0,NA,NA,NA,0
+1120091,1st innings,New Zealand,India,49.7,TG Southee,TA Boult,B Kumar,2,0,2,NA,0,NA,NA,NA,0
+1120091,2nd innings,India,New Zealand,0.1,RG Sharma,S Dhawan,TG Southee,0,0,0,NA,0,NA,NA,NA,1
+1120091,2nd innings,India,New Zealand,0.2,RG Sharma,S Dhawan,TG Southee,0,0,0,NA,0,NA,NA,NA,1
+1120091,2nd innings,India,New Zealand,0.3,RG Sharma,S Dhawan,TG Southee,0,0,0,NA,0,NA,NA,NA,1
+1120091,2nd innings,India,New Zealand,0.4,RG Sharma,S Dhawan,TG Southee,0,0,0,NA,0,NA,NA,NA,1
+1120091,2nd innings,India,New Zealand,0.5,RG Sharma,S Dhawan,TG Southee,0,0,0,NA,0,NA,NA,NA,1
+1120091,2nd innings,India,New Zealand,0.6,RG Sharma,S Dhawan,TG Southee,0,0,0,NA,0,NA,NA,NA,1
+1120091,2nd innings,India,New Zealand,1.1,S Dhawan,RG Sharma,TA Boult,4,0,4,NA,0,NA,NA,NA,1
+1120091,2nd innings,India,New Zealand,1.2,S Dhawan,RG Sharma,TA Boult,1,0,1,NA,0,NA,NA,NA,1
+1120091,2nd innings,India,New Zealand,1.3,RG Sharma,S Dhawan,TA Boult,0,0,0,NA,0,NA,NA,NA,1
+1120091,2nd innings,India,New Zealand,1.4,RG Sharma,S Dhawan,TA Boult,0,0,0,NA,0,NA,NA,NA,1
+1120091,2nd innings,India,New Zealand,1.5,RG Sharma,S Dhawan,TA Boult,3,0,3,NA,0,NA,NA,NA,1
+1120091,2nd innings,India,New Zealand,1.6,S Dhawan,RG Sharma,TA Boult,0,0,0,NA,0,NA,NA,NA,1
+1120091,2nd innings,India,New Zealand,2.1,RG Sharma,S Dhawan,TG Southee,4,0,4,NA,0,NA,NA,NA,1
+1120091,2nd innings,India,New Zealand,2.2,RG Sharma,S Dhawan,TG Southee,0,0,0,NA,0,NA,NA,NA,1
+1120091,2nd innings,India,New Zealand,2.3,RG Sharma,S Dhawan,TG Southee,0,0,0,NA,0,NA,NA,NA,1
+1120091,2nd innings,India,New Zealand,2.4,RG Sharma,S Dhawan,TG Southee,0,0,0,NA,0,NA,NA,NA,1
+1120091,2nd innings,India,New Zealand,2.5,RG Sharma,S Dhawan,TG Southee,0,0,0,NA,0,NA,NA,NA,1
+1120091,2nd innings,India,New Zealand,2.6,RG Sharma,S Dhawan,TG Southee,0,0,0,NA,0,NA,NA,NA,1
+1120091,2nd innings,India,New Zealand,3.1,S Dhawan,RG Sharma,TA Boult,4,0,4,NA,0,NA,NA,NA,1
+1120091,2nd innings,India,New Zealand,3.2,S Dhawan,RG Sharma,TA Boult,0,0,0,NA,0,NA,NA,NA,1
+1120091,2nd innings,India,New Zealand,3.3,S Dhawan,RG Sharma,TA Boult,1,0,1,NA,0,NA,NA,NA,1
+1120091,2nd innings,India,New Zealand,3.4,RG Sharma,S Dhawan,TA Boult,0,0,0,NA,0,NA,NA,NA,1
+1120091,2nd innings,India,New Zealand,3.5,RG Sharma,S Dhawan,TA Boult,0,0,0,NA,0,NA,NA,NA,1
+1120091,2nd innings,India,New Zealand,3.6,RG Sharma,S Dhawan,TA Boult,0,0,0,NA,0,NA,NA,NA,1
+1120091,2nd innings,India,New Zealand,4.1,S Dhawan,RG Sharma,TG Southee,4,0,4,NA,0,NA,NA,NA,1
+1120091,2nd innings,India,New Zealand,4.2,S Dhawan,RG Sharma,TG Southee,1,0,1,NA,0,NA,NA,NA,1
+1120091,2nd innings,India,New Zealand,4.3,RG Sharma,S Dhawan,TG Southee,0,0,0,NA,1,caught,RG Sharma,C Munro,1
+1120091,2nd innings,India,New Zealand,4.4,V Kohli,S Dhawan,TG Southee,0,0,0,NA,0,NA,NA,NA,1
+1120091,2nd innings,India,New Zealand,4.5,V Kohli,S Dhawan,TG Southee,2,0,2,NA,0,NA,NA,NA,1
+1120091,2nd innings,India,New Zealand,4.6,V Kohli,S Dhawan,TG Southee,4,0,4,NA,0,NA,NA,NA,1
+1120091,2nd innings,India,New Zealand,5.1,S Dhawan,V Kohli,TA Boult,0,0,0,NA,0,NA,NA,NA,1
+1120091,2nd innings,India,New Zealand,5.2,S Dhawan,V Kohli,TA Boult,0,0,0,NA,0,NA,NA,NA,1
+1120091,2nd innings,India,New Zealand,5.3,S Dhawan,V Kohli,TA Boult,0,4,4,legbyes,0,NA,NA,NA,1
+1120091,2nd innings,India,New Zealand,5.4,S Dhawan,V Kohli,TA Boult,0,1,1,wides,0,NA,NA,NA,1
+1120091,2nd innings,India,New Zealand,5.5,S Dhawan,V Kohli,TA Boult,4,0,4,NA,0,NA,NA,NA,1
+1120091,2nd innings,India,New Zealand,5.6,S Dhawan,V Kohli,TA Boult,0,0,0,NA,0,NA,NA,NA,1
+1120091,2nd innings,India,New Zealand,5.7,S Dhawan,V Kohli,TA Boult,0,0,0,NA,0,NA,NA,NA,1
+1120091,2nd innings,India,New Zealand,6.1,V Kohli,S Dhawan,TG Southee,0,0,0,NA,0,NA,NA,NA,1
+1120091,2nd innings,India,New Zealand,6.2,V Kohli,S Dhawan,TG Southee,4,0,4,NA,0,NA,NA,NA,1
+1120091,2nd innings,India,New Zealand,6.3,V Kohli,S Dhawan,TG Southee,0,0,0,NA,0,NA,NA,NA,1
+1120091,2nd innings,India,New Zealand,6.4,V Kohli,S Dhawan,TG Southee,1,0,1,NA,0,NA,NA,NA,1
+1120091,2nd innings,India,New Zealand,6.5,S Dhawan,V Kohli,TG Southee,6,0,6,NA,0,NA,NA,NA,1
+1120091,2nd innings,India,New Zealand,6.6,S Dhawan,V Kohli,TG Southee,0,0,0,NA,0,NA,NA,NA,1
+1120091,2nd innings,India,New Zealand,7.1,V Kohli,S Dhawan,TA Boult,0,0,0,NA,0,NA,NA,NA,1
+1120091,2nd innings,India,New Zealand,7.2,V Kohli,S Dhawan,TA Boult,0,0,0,NA,0,NA,NA,NA,1
+1120091,2nd innings,India,New Zealand,7.3,V Kohli,S Dhawan,TA Boult,0,0,0,NA,0,NA,NA,NA,1
+1120091,2nd innings,India,New Zealand,7.4,V Kohli,S Dhawan,TA Boult,0,0,0,NA,0,NA,NA,NA,1
+1120091,2nd innings,India,New Zealand,7.5,V Kohli,S Dhawan,TA Boult,6,0,6,NA,0,NA,NA,NA,1
+1120091,2nd innings,India,New Zealand,7.6,V Kohli,S Dhawan,TA Boult,1,0,1,NA,0,NA,NA,NA,1
+1120091,2nd innings,India,New Zealand,8.1,V Kohli,S Dhawan,AF Milne,0,0,0,NA,0,NA,NA,NA,1
+1120091,2nd innings,India,New Zealand,8.2,V Kohli,S Dhawan,AF Milne,0,0,0,NA,0,NA,NA,NA,1
+1120091,2nd innings,India,New Zealand,8.3,V Kohli,S Dhawan,AF Milne,0,0,0,NA,0,NA,NA,NA,1
+1120091,2nd innings,India,New Zealand,8.4,V Kohli,S Dhawan,AF Milne,4,0,4,NA,0,NA,NA,NA,1
+1120091,2nd innings,India,New Zealand,8.5,V Kohli,S Dhawan,AF Milne,0,0,0,NA,0,NA,NA,NA,1
+1120091,2nd innings,India,New Zealand,8.6,V Kohli,S Dhawan,AF Milne,0,0,0,NA,0,NA,NA,NA,1
+1120091,2nd innings,India,New Zealand,9.1,S Dhawan,V Kohli,MJ Santner,0,0,0,NA,0,NA,NA,NA,1
+1120091,2nd innings,India,New Zealand,9.2,S Dhawan,V Kohli,MJ Santner,1,0,1,NA,0,NA,NA,NA,1
+1120091,2nd innings,India,New Zealand,9.3,V Kohli,S Dhawan,MJ Santner,1,0,1,NA,0,NA,NA,NA,1
+1120091,2nd innings,India,New Zealand,9.4,S Dhawan,V Kohli,MJ Santner,1,0,1,NA,0,NA,NA,NA,1
+1120091,2nd innings,India,New Zealand,9.5,V Kohli,S Dhawan,MJ Santner,1,0,1,NA,0,NA,NA,NA,1
+1120091,2nd innings,India,New Zealand,9.6,S Dhawan,V Kohli,MJ Santner,1,0,1,NA,0,NA,NA,NA,1
+1120091,2nd innings,India,New Zealand,10.1,S Dhawan,V Kohli,AF Milne,0,0,0,NA,0,NA,NA,NA,1
+1120091,2nd innings,India,New Zealand,10.2,S Dhawan,V Kohli,AF Milne,2,0,2,NA,0,NA,NA,NA,1
+1120091,2nd innings,India,New Zealand,10.3,S Dhawan,V Kohli,AF Milne,0,0,0,NA,0,NA,NA,NA,1
+1120091,2nd innings,India,New Zealand,10.4,S Dhawan,V Kohli,AF Milne,0,0,0,NA,0,NA,NA,NA,1
+1120091,2nd innings,India,New Zealand,10.5,S Dhawan,V Kohli,AF Milne,0,0,0,NA,0,NA,NA,NA,1
+1120091,2nd innings,India,New Zealand,10.6,S Dhawan,V Kohli,AF Milne,0,0,0,NA,0,NA,NA,NA,1
+1120091,2nd innings,India,New Zealand,11.1,V Kohli,S Dhawan,MJ Santner,1,0,1,NA,0,NA,NA,NA,1
+1120091,2nd innings,India,New Zealand,11.2,S Dhawan,V Kohli,MJ Santner,0,0,0,NA,0,NA,NA,NA,1
+1120091,2nd innings,India,New Zealand,11.3,S Dhawan,V Kohli,MJ Santner,1,0,1,NA,0,NA,NA,NA,1
+1120091,2nd innings,India,New Zealand,11.4,V Kohli,S Dhawan,MJ Santner,0,0,0,NA,0,NA,NA,NA,1
+1120091,2nd innings,India,New Zealand,11.5,V Kohli,S Dhawan,MJ Santner,1,0,1,NA,0,NA,NA,NA,1
+1120091,2nd innings,India,New Zealand,11.6,S Dhawan,V Kohli,MJ Santner,0,0,0,NA,0,NA,NA,NA,1
+1120091,2nd innings,India,New Zealand,12.1,V Kohli,S Dhawan,AF Milne,1,0,1,NA,0,NA,NA,NA,1
+1120091,2nd innings,India,New Zealand,12.2,S Dhawan,V Kohli,AF Milne,1,0,1,NA,0,NA,NA,NA,1
+1120091,2nd innings,India,New Zealand,12.3,V Kohli,S Dhawan,AF Milne,0,0,0,NA,0,NA,NA,NA,1
+1120091,2nd innings,India,New Zealand,12.4,V Kohli,S Dhawan,AF Milne,1,0,1,NA,0,NA,NA,NA,1
+1120091,2nd innings,India,New Zealand,12.5,S Dhawan,V Kohli,AF Milne,0,0,0,NA,0,NA,NA,NA,1
+1120091,2nd innings,India,New Zealand,12.6,S Dhawan,V Kohli,AF Milne,0,0,0,NA,0,NA,NA,NA,1
+1120091,2nd innings,India,New Zealand,13.1,V Kohli,S Dhawan,C de Grandhomme,1,0,1,NA,0,NA,NA,NA,1
+1120091,2nd innings,India,New Zealand,13.2,S Dhawan,V Kohli,C de Grandhomme,0,0,0,NA,0,NA,NA,NA,1
+1120091,2nd innings,India,New Zealand,13.3,S Dhawan,V Kohli,C de Grandhomme,0,1,1,wides,0,NA,NA,NA,1
+1120091,2nd innings,India,New Zealand,13.4,S Dhawan,V Kohli,C de Grandhomme,4,0,4,NA,0,NA,NA,NA,1
+1120091,2nd innings,India,New Zealand,13.5,S Dhawan,V Kohli,C de Grandhomme,1,0,1,NA,0,NA,NA,NA,1
+1120091,2nd innings,India,New Zealand,13.6,V Kohli,S Dhawan,C de Grandhomme,0,0,0,NA,1,caught,V Kohli,TWM Latham,1
+1120091,2nd innings,India,New Zealand,13.7,KD Karthik,S Dhawan,C de Grandhomme,4,0,4,NA,0,NA,NA,NA,1
+1120091,2nd innings,India,New Zealand,14.1,S Dhawan,KD Karthik,AF Milne,1,0,1,NA,0,NA,NA,NA,1
+1120091,2nd innings,India,New Zealand,14.2,KD Karthik,S Dhawan,AF Milne,0,0,0,NA,0,NA,NA,NA,1
+1120091,2nd innings,India,New Zealand,14.3,KD Karthik,S Dhawan,AF Milne,0,0,0,NA,0,NA,NA,NA,1
+1120091,2nd innings,India,New Zealand,14.4,KD Karthik,S Dhawan,AF Milne,0,0,0,NA,0,NA,NA,NA,1
+1120091,2nd innings,India,New Zealand,14.5,KD Karthik,S Dhawan,AF Milne,0,0,0,NA,0,NA,NA,NA,1
+1120091,2nd innings,India,New Zealand,14.6,KD Karthik,S Dhawan,AF Milne,0,0,0,NA,0,NA,NA,NA,1
+1120091,2nd innings,India,New Zealand,15.1,S Dhawan,KD Karthik,C de Grandhomme,1,0,1,NA,0,NA,NA,NA,1
+1120091,2nd innings,India,New Zealand,15.2,KD Karthik,S Dhawan,C de Grandhomme,1,0,1,NA,0,NA,NA,NA,1
+1120091,2nd innings,India,New Zealand,15.3,S Dhawan,KD Karthik,C de Grandhomme,0,0,0,NA,0,NA,NA,NA,1
+1120091,2nd innings,India,New Zealand,15.4,S Dhawan,KD Karthik,C de Grandhomme,0,0,0,NA,0,NA,NA,NA,1
+1120091,2nd innings,India,New Zealand,15.5,S Dhawan,KD Karthik,C de Grandhomme,0,0,0,NA,0,NA,NA,NA,1
+1120091,2nd innings,India,New Zealand,15.6,S Dhawan,KD Karthik,C de Grandhomme,0,0,0,NA,0,NA,NA,NA,1
+1120091,2nd innings,India,New Zealand,16.1,KD Karthik,S Dhawan,TA Boult,1,0,1,NA,0,NA,NA,NA,1
+1120091,2nd innings,India,New Zealand,16.2,S Dhawan,KD Karthik,TA Boult,1,0,1,NA,0,NA,NA,NA,1
+1120091,2nd innings,India,New Zealand,16.3,KD Karthik,S Dhawan,TA Boult,1,0,1,NA,0,NA,NA,NA,1
+1120091,2nd innings,India,New Zealand,16.4,S Dhawan,KD Karthik,TA Boult,1,0,1,NA,0,NA,NA,NA,1
+1120091,2nd innings,India,New Zealand,16.5,KD Karthik,S Dhawan,TA Boult,0,0,0,NA,0,NA,NA,NA,1
+1120091,2nd innings,India,New Zealand,16.6,KD Karthik,S Dhawan,TA Boult,0,0,0,NA,0,NA,NA,NA,1
+1120091,2nd innings,India,New Zealand,17.1,S Dhawan,KD Karthik,C de Grandhomme,0,0,0,NA,0,NA,NA,NA,1
+1120091,2nd innings,India,New Zealand,17.2,S Dhawan,KD Karthik,C de Grandhomme,1,0,1,NA,0,NA,NA,NA,1
+1120091,2nd innings,India,New Zealand,17.3,KD Karthik,S Dhawan,C de Grandhomme,0,0,0,NA,0,NA,NA,NA,1
+1120091,2nd innings,India,New Zealand,17.4,KD Karthik,S Dhawan,C de Grandhomme,0,0,0,NA,0,NA,NA,NA,1
+1120091,2nd innings,India,New Zealand,17.5,KD Karthik,S Dhawan,C de Grandhomme,1,0,1,NA,0,NA,NA,NA,1
+1120091,2nd innings,India,New Zealand,17.6,S Dhawan,KD Karthik,C de Grandhomme,0,0,0,NA,0,NA,NA,NA,1
+1120091,2nd innings,India,New Zealand,18.1,KD Karthik,S Dhawan,TA Boult,0,0,0,NA,0,NA,NA,NA,1
+1120091,2nd innings,India,New Zealand,18.2,KD Karthik,S Dhawan,TA Boult,1,0,1,NA,0,NA,NA,NA,1
+1120091,2nd innings,India,New Zealand,18.3,S Dhawan,KD Karthik,TA Boult,2,0,2,NA,0,NA,NA,NA,1
+1120091,2nd innings,India,New Zealand,18.4,S Dhawan,KD Karthik,TA Boult,0,0,0,NA,0,NA,NA,NA,1
+1120091,2nd innings,India,New Zealand,18.5,S Dhawan,KD Karthik,TA Boult,0,1,1,wides,0,NA,NA,NA,1
+1120091,2nd innings,India,New Zealand,18.6,S Dhawan,KD Karthik,TA Boult,0,0,0,NA,0,NA,NA,NA,1
+1120091,2nd innings,India,New Zealand,18.7,S Dhawan,KD Karthik,TA Boult,0,0,0,NA,0,NA,NA,NA,1
+1120091,2nd innings,India,New Zealand,19.1,KD Karthik,S Dhawan,C de Grandhomme,0,0,0,NA,0,NA,NA,NA,1
+1120091,2nd innings,India,New Zealand,19.2,KD Karthik,S Dhawan,C de Grandhomme,1,0,1,NA,0,NA,NA,NA,1
+1120091,2nd innings,India,New Zealand,19.3,S Dhawan,KD Karthik,C de Grandhomme,1,0,1,NA,0,NA,NA,NA,1
+1120091,2nd innings,India,New Zealand,19.4,KD Karthik,S Dhawan,C de Grandhomme,1,0,1,NA,0,NA,NA,NA,1
+1120091,2nd innings,India,New Zealand,19.5,S Dhawan,KD Karthik,C de Grandhomme,0,0,0,NA,0,NA,NA,NA,1
+1120091,2nd innings,India,New Zealand,19.6,S Dhawan,KD Karthik,C de Grandhomme,1,0,1,NA,0,NA,NA,NA,1
+1120091,2nd innings,India,New Zealand,20.1,S Dhawan,KD Karthik,C Munro,0,1,1,wides,0,NA,NA,NA,1
+1120091,2nd innings,India,New Zealand,20.2,S Dhawan,KD Karthik,C Munro,0,0,0,NA,0,NA,NA,NA,1
+1120091,2nd innings,India,New Zealand,20.3,S Dhawan,KD Karthik,C Munro,0,0,0,NA,0,NA,NA,NA,1
+1120091,2nd innings,India,New Zealand,20.4,S Dhawan,KD Karthik,C Munro,1,0,1,NA,0,NA,NA,NA,1
+1120091,2nd innings,India,New Zealand,20.5,KD Karthik,S Dhawan,C Munro,0,0,0,NA,0,NA,NA,NA,1
+1120091,2nd innings,India,New Zealand,20.6,KD Karthik,S Dhawan,C Munro,1,0,1,NA,0,NA,NA,NA,1
+1120091,2nd innings,India,New Zealand,20.7,S Dhawan,KD Karthik,C Munro,1,0,1,NA,0,NA,NA,NA,1
+1120091,2nd innings,India,New Zealand,21.1,S Dhawan,KD Karthik,C de Grandhomme,0,0,0,NA,0,NA,NA,NA,1
+1120091,2nd innings,India,New Zealand,21.2,S Dhawan,KD Karthik,C de Grandhomme,0,0,0,NA,0,NA,NA,NA,1
+1120091,2nd innings,India,New Zealand,21.3,S Dhawan,KD Karthik,C de Grandhomme,0,0,0,NA,0,NA,NA,NA,1
+1120091,2nd innings,India,New Zealand,21.4,S Dhawan,KD Karthik,C de Grandhomme,1,0,1,NA,0,NA,NA,NA,1
+1120091,2nd innings,India,New Zealand,21.5,KD Karthik,S Dhawan,C de Grandhomme,1,0,1,NA,0,NA,NA,NA,1
+1120091,2nd innings,India,New Zealand,21.6,S Dhawan,KD Karthik,C de Grandhomme,0,0,0,NA,0,NA,NA,NA,1
+1120091,2nd innings,India,New Zealand,22.1,KD Karthik,S Dhawan,C Munro,1,0,1,NA,0,NA,NA,NA,1
+1120091,2nd innings,India,New Zealand,22.2,S Dhawan,KD Karthik,C Munro,1,0,1,NA,0,NA,NA,NA,1
+1120091,2nd innings,India,New Zealand,22.3,KD Karthik,S Dhawan,C Munro,0,0,0,NA,0,NA,NA,NA,1
+1120091,2nd innings,India,New Zealand,22.4,KD Karthik,S Dhawan,C Munro,1,0,1,NA,0,NA,NA,NA,1
+1120091,2nd innings,India,New Zealand,22.5,S Dhawan,KD Karthik,C Munro,1,0,1,NA,0,NA,NA,NA,1
+1120091,2nd innings,India,New Zealand,22.6,KD Karthik,S Dhawan,C Munro,0,3,3,wides,0,NA,NA,NA,1
+1120091,2nd innings,India,New Zealand,22.7,KD Karthik,S Dhawan,C Munro,1,0,1,NA,0,NA,NA,NA,1
+1120091,2nd innings,India,New Zealand,23.1,KD Karthik,S Dhawan,C de Grandhomme,1,0,1,NA,0,NA,NA,NA,1
+1120091,2nd innings,India,New Zealand,23.2,S Dhawan,KD Karthik,C de Grandhomme,0,0,0,NA,0,NA,NA,NA,1
+1120091,2nd innings,India,New Zealand,23.3,S Dhawan,KD Karthik,C de Grandhomme,2,0,2,NA,0,NA,NA,NA,1
+1120091,2nd innings,India,New Zealand,23.4,S Dhawan,KD Karthik,C de Grandhomme,1,0,1,NA,0,NA,NA,NA,1
+1120091,2nd innings,India,New Zealand,23.5,KD Karthik,S Dhawan,C de Grandhomme,4,0,4,NA,0,NA,NA,NA,1
+1120091,2nd innings,India,New Zealand,23.6,KD Karthik,S Dhawan,C de Grandhomme,1,0,1,NA,0,NA,NA,NA,1
+1120091,2nd innings,India,New Zealand,24.1,KD Karthik,S Dhawan,MJ Santner,1,0,1,NA,0,NA,NA,NA,1
+1120091,2nd innings,India,New Zealand,24.2,S Dhawan,KD Karthik,MJ Santner,1,0,1,NA,0,NA,NA,NA,1
+1120091,2nd innings,India,New Zealand,24.3,KD Karthik,S Dhawan,MJ Santner,1,0,1,NA,0,NA,NA,NA,1
+1120091,2nd innings,India,New Zealand,24.4,S Dhawan,KD Karthik,MJ Santner,0,0,0,NA,0,NA,NA,NA,1
+1120091,2nd innings,India,New Zealand,24.5,S Dhawan,KD Karthik,MJ Santner,0,0,0,NA,0,NA,NA,NA,1
+1120091,2nd innings,India,New Zealand,24.6,S Dhawan,KD Karthik,MJ Santner,0,0,0,NA,0,NA,NA,NA,1
+1120091,2nd innings,India,New Zealand,25.1,KD Karthik,S Dhawan,TG Southee,1,0,1,NA,0,NA,NA,NA,1
+1120091,2nd innings,India,New Zealand,25.2,S Dhawan,KD Karthik,TG Southee,0,0,0,NA,0,NA,NA,NA,1
+1120091,2nd innings,India,New Zealand,25.3,S Dhawan,KD Karthik,TG Southee,0,0,0,NA,0,NA,NA,NA,1
+1120091,2nd innings,India,New Zealand,25.4,S Dhawan,KD Karthik,TG Southee,6,0,6,NA,0,NA,NA,NA,1
+1120091,2nd innings,India,New Zealand,25.5,S Dhawan,KD Karthik,TG Southee,0,0,0,NA,0,NA,NA,NA,1
+1120091,2nd innings,India,New Zealand,25.6,S Dhawan,KD Karthik,TG Southee,1,0,1,NA,0,NA,NA,NA,1
+1120091,2nd innings,India,New Zealand,26.1,S Dhawan,KD Karthik,MJ Santner,1,0,1,NA,0,NA,NA,NA,1
+1120091,2nd innings,India,New Zealand,26.2,KD Karthik,S Dhawan,MJ Santner,0,0,0,NA,0,NA,NA,NA,1
+1120091,2nd innings,India,New Zealand,26.3,KD Karthik,S Dhawan,MJ Santner,0,0,0,NA,0,NA,NA,NA,1
+1120091,2nd innings,India,New Zealand,26.4,KD Karthik,S Dhawan,MJ Santner,1,0,1,NA,0,NA,NA,NA,1
+1120091,2nd innings,India,New Zealand,26.5,S Dhawan,KD Karthik,MJ Santner,1,0,1,NA,0,NA,NA,NA,1
+1120091,2nd innings,India,New Zealand,26.6,KD Karthik,S Dhawan,MJ Santner,0,0,0,NA,0,NA,NA,NA,1
+1120091,2nd innings,India,New Zealand,27.1,S Dhawan,KD Karthik,TG Southee,1,0,1,NA,0,NA,NA,NA,1
+1120091,2nd innings,India,New Zealand,27.2,KD Karthik,S Dhawan,TG Southee,0,0,0,NA,0,NA,NA,NA,1
+1120091,2nd innings,India,New Zealand,27.3,KD Karthik,S Dhawan,TG Southee,0,0,0,NA,0,NA,NA,NA,1
+1120091,2nd innings,India,New Zealand,27.4,KD Karthik,S Dhawan,TG Southee,1,0,1,NA,0,NA,NA,NA,1
+1120091,2nd innings,India,New Zealand,27.5,S Dhawan,KD Karthik,TG Southee,1,0,1,NA,0,NA,NA,NA,1
+1120091,2nd innings,India,New Zealand,27.6,KD Karthik,S Dhawan,TG Southee,0,0,0,NA,0,NA,NA,NA,1
+1120091,2nd innings,India,New Zealand,28.1,S Dhawan,KD Karthik,MJ Santner,1,0,1,NA,0,NA,NA,NA,1
+1120091,2nd innings,India,New Zealand,28.2,KD Karthik,S Dhawan,MJ Santner,0,0,0,NA,0,NA,NA,NA,1
+1120091,2nd innings,India,New Zealand,28.3,KD Karthik,S Dhawan,MJ Santner,1,0,1,NA,0,NA,NA,NA,1
+1120091,2nd innings,India,New Zealand,28.4,S Dhawan,KD Karthik,MJ Santner,1,0,1,NA,0,NA,NA,NA,1
+1120091,2nd innings,India,New Zealand,28.5,KD Karthik,S Dhawan,MJ Santner,0,0,0,NA,0,NA,NA,NA,1
+1120091,2nd innings,India,New Zealand,28.6,KD Karthik,S Dhawan,MJ Santner,2,0,2,NA,0,NA,NA,NA,1
+1120091,2nd innings,India,New Zealand,29.1,S Dhawan,KD Karthik,AF Milne,0,0,0,NA,0,NA,NA,NA,1
+1120091,2nd innings,India,New Zealand,29.2,S Dhawan,KD Karthik,AF Milne,0,0,0,NA,1,caught,S Dhawan,LRPL Taylor,1
+1120091,2nd innings,India,New Zealand,29.3,HH Pandya,KD Karthik,AF Milne,0,0,0,NA,0,NA,NA,NA,1
+1120091,2nd innings,India,New Zealand,29.4,HH Pandya,KD Karthik,AF Milne,0,0,0,NA,0,NA,NA,NA,1
+1120091,2nd innings,India,New Zealand,29.5,HH Pandya,KD Karthik,AF Milne,0,0,0,NA,0,NA,NA,NA,1
+1120091,2nd innings,India,New Zealand,29.6,HH Pandya,KD Karthik,AF Milne,0,0,0,NA,0,NA,NA,NA,1
+1120091,2nd innings,India,New Zealand,30.1,KD Karthik,HH Pandya,MJ Santner,0,0,0,NA,0,NA,NA,NA,1
+1120091,2nd innings,India,New Zealand,30.2,KD Karthik,HH Pandya,MJ Santner,0,0,0,NA,0,NA,NA,NA,1
+1120091,2nd innings,India,New Zealand,30.3,KD Karthik,HH Pandya,MJ Santner,0,0,0,NA,0,NA,NA,NA,1
+1120091,2nd innings,India,New Zealand,30.4,KD Karthik,HH Pandya,MJ Santner,1,0,1,NA,0,NA,NA,NA,1
+1120091,2nd innings,India,New Zealand,30.5,HH Pandya,KD Karthik,MJ Santner,0,0,0,NA,0,NA,NA,NA,1
+1120091,2nd innings,India,New Zealand,30.6,HH Pandya,KD Karthik,MJ Santner,1,0,1,NA,0,NA,NA,NA,1
+1120091,2nd innings,India,New Zealand,31.1,HH Pandya,KD Karthik,AF Milne,0,0,0,NA,0,NA,NA,NA,1
+1120091,2nd innings,India,New Zealand,31.2,HH Pandya,KD Karthik,AF Milne,1,0,1,NA,0,NA,NA,NA,1
+1120091,2nd innings,India,New Zealand,31.3,KD Karthik,HH Pandya,AF Milne,0,1,1,legbyes,0,NA,NA,NA,1
+1120091,2nd innings,India,New Zealand,31.4,HH Pandya,KD Karthik,AF Milne,0,1,1,wides,0,NA,NA,NA,1
+1120091,2nd innings,India,New Zealand,31.5,HH Pandya,KD Karthik,AF Milne,2,0,2,NA,0,NA,NA,NA,1
+1120091,2nd innings,India,New Zealand,31.6,HH Pandya,KD Karthik,AF Milne,0,0,0,NA,0,NA,NA,NA,1
+1120091,2nd innings,India,New Zealand,31.7,HH Pandya,KD Karthik,AF Milne,1,0,1,NA,0,NA,NA,NA,1
+1120091,2nd innings,India,New Zealand,32.1,HH Pandya,KD Karthik,MJ Santner,0,0,0,NA,0,NA,NA,NA,1
+1120091,2nd innings,India,New Zealand,32.2,HH Pandya,KD Karthik,MJ Santner,1,0,1,NA,0,NA,NA,NA,1
+1120091,2nd innings,India,New Zealand,32.3,KD Karthik,HH Pandya,MJ Santner,0,0,0,NA,0,NA,NA,NA,1
+1120091,2nd innings,India,New Zealand,32.4,KD Karthik,HH Pandya,MJ Santner,1,0,1,NA,0,NA,NA,NA,1
+1120091,2nd innings,India,New Zealand,32.5,HH Pandya,KD Karthik,MJ Santner,6,0,6,NA,0,NA,NA,NA,1
+1120091,2nd innings,India,New Zealand,32.6,HH Pandya,KD Karthik,MJ Santner,0,0,0,NA,0,NA,NA,NA,1
+1120091,2nd innings,India,New Zealand,33.1,KD Karthik,HH Pandya,AF Milne,2,0,2,NA,0,NA,NA,NA,1
+1120091,2nd innings,India,New Zealand,33.2,KD Karthik,HH Pandya,AF Milne,0,0,0,NA,0,NA,NA,NA,1
+1120091,2nd innings,India,New Zealand,33.3,KD Karthik,HH Pandya,AF Milne,1,0,1,NA,0,NA,NA,NA,1
+1120091,2nd innings,India,New Zealand,33.4,HH Pandya,KD Karthik,AF Milne,1,0,1,NA,0,NA,NA,NA,1
+1120091,2nd innings,India,New Zealand,33.5,KD Karthik,HH Pandya,AF Milne,1,0,1,NA,0,NA,NA,NA,1
+1120091,2nd innings,India,New Zealand,33.6,HH Pandya,KD Karthik,AF Milne,0,0,0,NA,0,NA,NA,NA,1
+1120091,2nd innings,India,New Zealand,34.1,KD Karthik,HH Pandya,TA Boult,0,0,0,NA,0,NA,NA,NA,1
+1120091,2nd innings,India,New Zealand,34.2,KD Karthik,HH Pandya,TA Boult,2,0,2,NA,0,NA,NA,NA,1
+1120091,2nd innings,India,New Zealand,34.3,KD Karthik,HH Pandya,TA Boult,0,0,0,NA,0,NA,NA,NA,1
+1120091,2nd innings,India,New Zealand,34.4,KD Karthik,HH Pandya,TA Boult,0,0,0,NA,0,NA,NA,NA,1
+1120091,2nd innings,India,New Zealand,34.5,KD Karthik,HH Pandya,TA Boult,0,0,0,NA,0,NA,NA,NA,1
+1120091,2nd innings,India,New Zealand,34.6,KD Karthik,HH Pandya,TA Boult,0,0,0,NA,0,NA,NA,NA,1
+1120091,2nd innings,India,New Zealand,35.1,HH Pandya,KD Karthik,TG Southee,1,0,1,NA,0,NA,NA,NA,1
+1120091,2nd innings,India,New Zealand,35.2,KD Karthik,HH Pandya,TG Southee,1,0,1,NA,0,NA,NA,NA,1
+1120091,2nd innings,India,New Zealand,35.3,HH Pandya,KD Karthik,TG Southee,0,0,0,NA,0,NA,NA,NA,1
+1120091,2nd innings,India,New Zealand,35.4,HH Pandya,KD Karthik,TG Southee,1,0,1,NA,0,NA,NA,NA,1
+1120091,2nd innings,India,New Zealand,35.5,KD Karthik,HH Pandya,TG Southee,0,0,0,NA,0,NA,NA,NA,1
+1120091,2nd innings,India,New Zealand,35.6,KD Karthik,HH Pandya,TG Southee,1,0,1,NA,0,NA,NA,NA,1
+1120091,2nd innings,India,New Zealand,36.1,KD Karthik,HH Pandya,TA Boult,0,0,0,NA,0,NA,NA,NA,1
+1120091,2nd innings,India,New Zealand,36.2,KD Karthik,HH Pandya,TA Boult,0,1,1,wides,0,NA,NA,NA,1
+1120091,2nd innings,India,New Zealand,36.3,KD Karthik,HH Pandya,TA Boult,2,0,2,NA,0,NA,NA,NA,1
+1120091,2nd innings,India,New Zealand,36.4,KD Karthik,HH Pandya,TA Boult,1,0,1,NA,0,NA,NA,NA,1
+1120091,2nd innings,India,New Zealand,36.5,HH Pandya,KD Karthik,TA Boult,1,0,1,NA,0,NA,NA,NA,1
+1120091,2nd innings,India,New Zealand,36.6,KD Karthik,HH Pandya,TA Boult,0,0,0,NA,0,NA,NA,NA,1
+1120091,2nd innings,India,New Zealand,36.7,KD Karthik,HH Pandya,TA Boult,1,0,1,NA,0,NA,NA,NA,1
+1120091,2nd innings,India,New Zealand,37.1,KD Karthik,HH Pandya,TG Southee,1,0,1,NA,0,NA,NA,NA,1
+1120091,2nd innings,India,New Zealand,37.2,HH Pandya,KD Karthik,TG Southee,4,0,4,NA,0,NA,NA,NA,1
+1120091,2nd innings,India,New Zealand,37.3,HH Pandya,KD Karthik,TG Southee,4,0,4,NA,0,NA,NA,NA,1
+1120091,2nd innings,India,New Zealand,37.4,HH Pandya,KD Karthik,TG Southee,2,0,2,NA,0,NA,NA,NA,1
+1120091,2nd innings,India,New Zealand,37.5,HH Pandya,KD Karthik,TG Southee,1,0,1,NA,0,NA,NA,NA,1
+1120091,2nd innings,India,New Zealand,37.6,KD Karthik,HH Pandya,TG Southee,1,0,1,NA,0,NA,NA,NA,1
+1120091,2nd innings,India,New Zealand,38.1,KD Karthik,HH Pandya,MJ Santner,0,1,1,legbyes,0,NA,NA,NA,1
+1120091,2nd innings,India,New Zealand,38.2,HH Pandya,KD Karthik,MJ Santner,1,0,1,NA,0,NA,NA,NA,1
+1120091,2nd innings,India,New Zealand,38.3,KD Karthik,HH Pandya,MJ Santner,0,0,0,NA,0,NA,NA,NA,1
+1120091,2nd innings,India,New Zealand,38.4,KD Karthik,HH Pandya,MJ Santner,1,0,1,NA,0,NA,NA,NA,1
+1120091,2nd innings,India,New Zealand,38.5,HH Pandya,KD Karthik,MJ Santner,0,0,0,NA,0,NA,NA,NA,1
+1120091,2nd innings,India,New Zealand,38.6,HH Pandya,KD Karthik,MJ Santner,0,0,0,NA,0,NA,NA,NA,1
+1120091,2nd innings,India,New Zealand,39.1,KD Karthik,HH Pandya,C de Grandhomme,2,0,2,NA,0,NA,NA,NA,1
+1120091,2nd innings,India,New Zealand,39.2,KD Karthik,HH Pandya,C de Grandhomme,4,0,4,NA,0,NA,NA,NA,1
+1120091,2nd innings,India,New Zealand,39.3,KD Karthik,HH Pandya,C de Grandhomme,1,0,1,NA,0,NA,NA,NA,1
+1120091,2nd innings,India,New Zealand,39.4,HH Pandya,KD Karthik,C de Grandhomme,1,0,1,NA,0,NA,NA,NA,1
+1120091,2nd innings,India,New Zealand,39.5,KD Karthik,HH Pandya,C de Grandhomme,1,0,1,NA,0,NA,NA,NA,1
+1120091,2nd innings,India,New Zealand,39.6,HH Pandya,KD Karthik,C de Grandhomme,1,0,1,NA,0,NA,NA,NA,1
+1120091,2nd innings,India,New Zealand,40.1,HH Pandya,KD Karthik,MJ Santner,0,0,0,NA,1,caught,HH Pandya,AF Milne,1
+1120091,2nd innings,India,New Zealand,40.2,MS Dhoni,KD Karthik,MJ Santner,1,0,1,NA,0,NA,NA,NA,1
+1120091,2nd innings,India,New Zealand,40.3,KD Karthik,MS Dhoni,MJ Santner,0,0,0,NA,0,NA,NA,NA,1
+1120091,2nd innings,India,New Zealand,40.4,KD Karthik,MS Dhoni,MJ Santner,2,0,2,NA,0,NA,NA,NA,1
+1120091,2nd innings,India,New Zealand,40.5,KD Karthik,MS Dhoni,MJ Santner,0,0,0,NA,0,NA,NA,NA,1
+1120091,2nd innings,India,New Zealand,40.6,KD Karthik,MS Dhoni,MJ Santner,0,0,0,NA,0,NA,NA,NA,1
+1120091,2nd innings,India,New Zealand,41.1,MS Dhoni,KD Karthik,TA Boult,0,0,0,NA,0,NA,NA,NA,1
+1120091,2nd innings,India,New Zealand,41.2,MS Dhoni,KD Karthik,TA Boult,0,0,0,NA,0,NA,NA,NA,1
+1120091,2nd innings,India,New Zealand,41.3,MS Dhoni,KD Karthik,TA Boult,0,0,0,NA,0,NA,NA,NA,1
+1120091,2nd innings,India,New Zealand,41.4,MS Dhoni,KD Karthik,TA Boult,0,0,0,NA,0,NA,NA,NA,1
+1120091,2nd innings,India,New Zealand,41.5,MS Dhoni,KD Karthik,TA Boult,4,0,4,NA,0,NA,NA,NA,1
+1120091,2nd innings,India,New Zealand,41.6,MS Dhoni,KD Karthik,TA Boult,0,0,0,NA,0,NA,NA,NA,1
+1120091,2nd innings,India,New Zealand,42.1,KD Karthik,MS Dhoni,MJ Santner,0,0,0,NA,0,NA,NA,NA,1
+1120091,2nd innings,India,New Zealand,42.2,KD Karthik,MS Dhoni,MJ Santner,0,0,0,NA,0,NA,NA,NA,1
+1120091,2nd innings,India,New Zealand,42.3,KD Karthik,MS Dhoni,MJ Santner,0,0,0,NA,0,NA,NA,NA,1
+1120091,2nd innings,India,New Zealand,42.4,KD Karthik,MS Dhoni,MJ Santner,1,0,1,NA,0,NA,NA,NA,1
+1120091,2nd innings,India,New Zealand,42.5,MS Dhoni,KD Karthik,MJ Santner,1,0,1,NA,0,NA,NA,NA,1
+1120091,2nd innings,India,New Zealand,42.6,KD Karthik,MS Dhoni,MJ Santner,2,0,2,NA,0,NA,NA,NA,1
+1120091,2nd innings,India,New Zealand,43.1,MS Dhoni,KD Karthik,TA Boult,4,0,4,NA,0,NA,NA,NA,1
+1120091,2nd innings,India,New Zealand,43.2,MS Dhoni,KD Karthik,TA Boult,4,0,4,NA,0,NA,NA,NA,1
+1120091,2nd innings,India,New Zealand,43.3,MS Dhoni,KD Karthik,TA Boult,0,0,0,NA,0,NA,NA,NA,1
+1120091,2nd innings,India,New Zealand,43.4,MS Dhoni,KD Karthik,TA Boult,1,0,1,NA,0,NA,NA,NA,1
+1120091,2nd innings,India,New Zealand,43.5,KD Karthik,MS Dhoni,TA Boult,0,0,0,NA,0,NA,NA,NA,1
+1120091,2nd innings,India,New Zealand,43.6,KD Karthik,MS Dhoni,TA Boult,0,0,0,NA,0,NA,NA,NA,1
+1120091,2nd innings,India,New Zealand,44.1,MS Dhoni,KD Karthik,AF Milne,0,0,0,NA,0,NA,NA,NA,1
+1120091,2nd innings,India,New Zealand,44.2,MS Dhoni,KD Karthik,AF Milne,0,0,0,NA,0,NA,NA,NA,1
+1120091,2nd innings,India,New Zealand,44.3,MS Dhoni,KD Karthik,AF Milne,0,0,0,NA,0,NA,NA,NA,1
+1120091,2nd innings,India,New Zealand,44.4,MS Dhoni,KD Karthik,AF Milne,0,0,0,NA,0,NA,NA,NA,1
+1120091,2nd innings,India,New Zealand,44.5,MS Dhoni,KD Karthik,AF Milne,1,0,1,NA,0,NA,NA,NA,1
+1120091,2nd innings,India,New Zealand,44.6,KD Karthik,MS Dhoni,AF Milne,0,0,0,NA,0,NA,NA,NA,1
+1120091,2nd innings,India,New Zealand,45.1,MS Dhoni,KD Karthik,TG Southee,0,0,0,NA,0,NA,NA,NA,1
+1120091,2nd innings,India,New Zealand,45.2,MS Dhoni,KD Karthik,TG Southee,1,0,1,NA,0,NA,NA,NA,1
+1120091,2nd innings,India,New Zealand,45.3,KD Karthik,MS Dhoni,TG Southee,0,1,1,legbyes,0,NA,NA,NA,1
+1120091,2nd innings,India,New Zealand,45.4,MS Dhoni,KD Karthik,TG Southee,0,0,0,NA,0,NA,NA,NA,1
+1120091,2nd innings,India,New Zealand,45.5,MS Dhoni,KD Karthik,TG Southee,1,0,1,NA,0,NA,NA,NA,1
+1120091,2nd innings,India,New Zealand,45.6,KD Karthik,MS Dhoni,TG Southee,4,0,4,NA,0,NA,NA,NA,1

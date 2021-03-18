@@ -1,0 +1,608 @@
+match_id,innings,team,opponent,ball,batsman,non_striker,bowler,scored_runs,extras,total,extra_type,wicket,wicket_type,player_out,fielders,winner
+645637,1st innings,West Indies,Pakistan,0.1,CH Gayle,J Charles,Mohammad Irfan,0,0,0,NA,0,NA,NA,NA,1
+645637,1st innings,West Indies,Pakistan,0.2,CH Gayle,J Charles,Mohammad Irfan,0,0,0,NA,0,NA,NA,NA,1
+645637,1st innings,West Indies,Pakistan,0.3,CH Gayle,J Charles,Mohammad Irfan,0,0,0,NA,0,NA,NA,NA,1
+645637,1st innings,West Indies,Pakistan,0.4,CH Gayle,J Charles,Mohammad Irfan,1,0,1,NA,0,NA,NA,NA,1
+645637,1st innings,West Indies,Pakistan,0.5,J Charles,CH Gayle,Mohammad Irfan,0,1,1,legbyes,0,NA,NA,NA,1
+645637,1st innings,West Indies,Pakistan,0.6,CH Gayle,J Charles,Mohammad Irfan,0,0,0,NA,1,caught,CH Gayle,Umar Akmal,1
+645637,1st innings,West Indies,Pakistan,1.1,J Charles,DM Bravo,Asad Ali,0,0,0,NA,0,NA,NA,NA,1
+645637,1st innings,West Indies,Pakistan,1.2,J Charles,DM Bravo,Asad Ali,0,0,0,NA,0,NA,NA,NA,1
+645637,1st innings,West Indies,Pakistan,1.3,J Charles,DM Bravo,Asad Ali,2,0,2,NA,0,NA,NA,NA,1
+645637,1st innings,West Indies,Pakistan,1.4,J Charles,DM Bravo,Asad Ali,0,0,0,NA,0,NA,NA,NA,1
+645637,1st innings,West Indies,Pakistan,1.5,J Charles,DM Bravo,Asad Ali,0,0,0,NA,0,NA,NA,NA,1
+645637,1st innings,West Indies,Pakistan,1.6,J Charles,DM Bravo,Asad Ali,0,0,0,NA,0,NA,NA,NA,1
+645637,1st innings,West Indies,Pakistan,2.1,DM Bravo,J Charles,Mohammad Irfan,0,0,0,NA,0,NA,NA,NA,1
+645637,1st innings,West Indies,Pakistan,2.2,DM Bravo,J Charles,Mohammad Irfan,0,0,0,NA,0,NA,NA,NA,1
+645637,1st innings,West Indies,Pakistan,2.3,DM Bravo,J Charles,Mohammad Irfan,0,0,0,NA,0,NA,NA,NA,1
+645637,1st innings,West Indies,Pakistan,2.4,DM Bravo,J Charles,Mohammad Irfan,0,0,0,NA,0,NA,NA,NA,1
+645637,1st innings,West Indies,Pakistan,2.5,DM Bravo,J Charles,Mohammad Irfan,3,0,3,NA,0,NA,NA,NA,1
+645637,1st innings,West Indies,Pakistan,2.6,J Charles,DM Bravo,Mohammad Irfan,0,0,0,NA,0,NA,NA,NA,1
+645637,1st innings,West Indies,Pakistan,3.1,DM Bravo,J Charles,Asad Ali,0,0,0,NA,0,NA,NA,NA,1
+645637,1st innings,West Indies,Pakistan,3.2,DM Bravo,J Charles,Asad Ali,0,0,0,NA,0,NA,NA,NA,1
+645637,1st innings,West Indies,Pakistan,3.3,DM Bravo,J Charles,Asad Ali,0,0,0,NA,0,NA,NA,NA,1
+645637,1st innings,West Indies,Pakistan,3.4,DM Bravo,J Charles,Asad Ali,4,0,4,NA,0,NA,NA,NA,1
+645637,1st innings,West Indies,Pakistan,3.5,DM Bravo,J Charles,Asad Ali,3,0,3,NA,0,NA,NA,NA,1
+645637,1st innings,West Indies,Pakistan,3.6,J Charles,DM Bravo,Asad Ali,4,0,4,NA,0,NA,NA,NA,1
+645637,1st innings,West Indies,Pakistan,4.1,DM Bravo,J Charles,Mohammad Irfan,0,0,0,NA,0,NA,NA,NA,1
+645637,1st innings,West Indies,Pakistan,4.2,DM Bravo,J Charles,Mohammad Irfan,0,0,0,NA,0,NA,NA,NA,1
+645637,1st innings,West Indies,Pakistan,4.3,DM Bravo,J Charles,Mohammad Irfan,1,0,1,NA,0,NA,NA,NA,1
+645637,1st innings,West Indies,Pakistan,4.4,J Charles,DM Bravo,Mohammad Irfan,0,0,0,NA,0,NA,NA,NA,1
+645637,1st innings,West Indies,Pakistan,4.5,J Charles,DM Bravo,Mohammad Irfan,0,0,0,NA,0,NA,NA,NA,1
+645637,1st innings,West Indies,Pakistan,4.6,J Charles,DM Bravo,Mohammad Irfan,0,0,0,NA,0,NA,NA,NA,1
+645637,1st innings,West Indies,Pakistan,5.1,DM Bravo,J Charles,Asad Ali,0,0,0,NA,0,NA,NA,NA,1
+645637,1st innings,West Indies,Pakistan,5.2,DM Bravo,J Charles,Asad Ali,0,0,0,NA,0,NA,NA,NA,1
+645637,1st innings,West Indies,Pakistan,5.3,DM Bravo,J Charles,Asad Ali,0,0,0,NA,0,NA,NA,NA,1
+645637,1st innings,West Indies,Pakistan,5.4,DM Bravo,J Charles,Asad Ali,0,0,0,NA,0,NA,NA,NA,1
+645637,1st innings,West Indies,Pakistan,5.5,DM Bravo,J Charles,Asad Ali,0,0,0,NA,0,NA,NA,NA,1
+645637,1st innings,West Indies,Pakistan,5.6,DM Bravo,J Charles,Asad Ali,0,0,0,NA,0,NA,NA,NA,1
+645637,1st innings,West Indies,Pakistan,6.1,J Charles,DM Bravo,Mohammad Irfan,4,0,4,NA,0,NA,NA,NA,1
+645637,1st innings,West Indies,Pakistan,6.2,J Charles,DM Bravo,Mohammad Irfan,0,0,0,NA,0,NA,NA,NA,1
+645637,1st innings,West Indies,Pakistan,6.3,J Charles,DM Bravo,Mohammad Irfan,0,0,0,NA,0,NA,NA,NA,1
+645637,1st innings,West Indies,Pakistan,6.4,J Charles,DM Bravo,Mohammad Irfan,0,0,0,NA,0,NA,NA,NA,1
+645637,1st innings,West Indies,Pakistan,6.5,J Charles,DM Bravo,Mohammad Irfan,0,0,0,NA,0,NA,NA,NA,1
+645637,1st innings,West Indies,Pakistan,6.6,J Charles,DM Bravo,Mohammad Irfan,2,0,2,NA,0,NA,NA,NA,1
+645637,1st innings,West Indies,Pakistan,7.1,DM Bravo,J Charles,Asad Ali,0,0,0,NA,0,NA,NA,NA,1
+645637,1st innings,West Indies,Pakistan,7.2,DM Bravo,J Charles,Asad Ali,0,0,0,NA,0,NA,NA,NA,1
+645637,1st innings,West Indies,Pakistan,7.3,DM Bravo,J Charles,Asad Ali,4,0,4,NA,0,NA,NA,NA,1
+645637,1st innings,West Indies,Pakistan,7.4,DM Bravo,J Charles,Asad Ali,4,0,4,NA,0,NA,NA,NA,1
+645637,1st innings,West Indies,Pakistan,7.5,DM Bravo,J Charles,Asad Ali,1,0,1,NA,0,NA,NA,NA,1
+645637,1st innings,West Indies,Pakistan,7.6,J Charles,DM Bravo,Asad Ali,0,0,0,NA,0,NA,NA,NA,1
+645637,1st innings,West Indies,Pakistan,8.1,DM Bravo,J Charles,Saeed Ajmal,1,0,1,NA,0,NA,NA,NA,1
+645637,1st innings,West Indies,Pakistan,8.2,J Charles,DM Bravo,Saeed Ajmal,0,0,0,NA,0,NA,NA,NA,1
+645637,1st innings,West Indies,Pakistan,8.3,J Charles,DM Bravo,Saeed Ajmal,6,0,6,NA,0,NA,NA,NA,1
+645637,1st innings,West Indies,Pakistan,8.4,J Charles,DM Bravo,Saeed Ajmal,0,0,0,NA,0,NA,NA,NA,1
+645637,1st innings,West Indies,Pakistan,8.5,J Charles,DM Bravo,Saeed Ajmal,0,0,0,NA,0,NA,NA,NA,1
+645637,1st innings,West Indies,Pakistan,8.6,J Charles,DM Bravo,Saeed Ajmal,1,0,1,NA,0,NA,NA,NA,1
+645637,1st innings,West Indies,Pakistan,9.1,J Charles,DM Bravo,Mohammad Hafeez,0,0,0,NA,0,NA,NA,NA,1
+645637,1st innings,West Indies,Pakistan,9.2,J Charles,DM Bravo,Mohammad Hafeez,0,0,0,NA,0,NA,NA,NA,1
+645637,1st innings,West Indies,Pakistan,9.3,J Charles,DM Bravo,Mohammad Hafeez,3,0,3,NA,0,NA,NA,NA,1
+645637,1st innings,West Indies,Pakistan,9.4,DM Bravo,J Charles,Mohammad Hafeez,0,0,0,NA,0,NA,NA,NA,1
+645637,1st innings,West Indies,Pakistan,9.5,DM Bravo,J Charles,Mohammad Hafeez,0,0,0,NA,0,NA,NA,NA,1
+645637,1st innings,West Indies,Pakistan,9.6,DM Bravo,J Charles,Mohammad Hafeez,0,4,4,byes,0,NA,NA,NA,1
+645637,1st innings,West Indies,Pakistan,10.1,J Charles,DM Bravo,Wahab Riaz,0,1,1,wides,0,NA,NA,NA,1
+645637,1st innings,West Indies,Pakistan,10.2,J Charles,DM Bravo,Wahab Riaz,0,0,0,NA,0,NA,NA,NA,1
+645637,1st innings,West Indies,Pakistan,10.3,J Charles,DM Bravo,Wahab Riaz,0,0,0,NA,0,NA,NA,NA,1
+645637,1st innings,West Indies,Pakistan,10.4,J Charles,DM Bravo,Wahab Riaz,0,0,0,NA,0,NA,NA,NA,1
+645637,1st innings,West Indies,Pakistan,10.5,J Charles,DM Bravo,Wahab Riaz,0,0,0,NA,0,NA,NA,NA,1
+645637,1st innings,West Indies,Pakistan,10.6,J Charles,DM Bravo,Wahab Riaz,0,0,0,NA,0,NA,NA,NA,1
+645637,1st innings,West Indies,Pakistan,10.7,J Charles,DM Bravo,Wahab Riaz,0,0,0,NA,0,NA,NA,NA,1
+645637,1st innings,West Indies,Pakistan,11.1,DM Bravo,J Charles,Mohammad Irfan,0,0,0,NA,0,NA,NA,NA,1
+645637,1st innings,West Indies,Pakistan,11.2,DM Bravo,J Charles,Mohammad Irfan,0,0,0,NA,0,NA,NA,NA,1
+645637,1st innings,West Indies,Pakistan,11.3,DM Bravo,J Charles,Mohammad Irfan,0,1,1,wides,0,NA,NA,NA,1
+645637,1st innings,West Indies,Pakistan,11.4,DM Bravo,J Charles,Mohammad Irfan,0,0,0,NA,0,NA,NA,NA,1
+645637,1st innings,West Indies,Pakistan,11.5,DM Bravo,J Charles,Mohammad Irfan,0,0,0,NA,0,NA,NA,NA,1
+645637,1st innings,West Indies,Pakistan,11.6,DM Bravo,J Charles,Mohammad Irfan,1,0,1,NA,0,NA,NA,NA,1
+645637,1st innings,West Indies,Pakistan,11.7,J Charles,DM Bravo,Mohammad Irfan,0,0,0,NA,0,NA,NA,NA,1
+645637,1st innings,West Indies,Pakistan,12.1,DM Bravo,J Charles,Wahab Riaz,2,0,2,NA,0,NA,NA,NA,1
+645637,1st innings,West Indies,Pakistan,12.2,DM Bravo,J Charles,Wahab Riaz,0,0,0,NA,0,NA,NA,NA,1
+645637,1st innings,West Indies,Pakistan,12.3,DM Bravo,J Charles,Wahab Riaz,1,0,1,NA,0,NA,NA,NA,1
+645637,1st innings,West Indies,Pakistan,12.4,J Charles,DM Bravo,Wahab Riaz,1,0,1,NA,0,NA,NA,NA,1
+645637,1st innings,West Indies,Pakistan,12.5,DM Bravo,J Charles,Wahab Riaz,0,0,0,NA,0,NA,NA,NA,1
+645637,1st innings,West Indies,Pakistan,12.6,DM Bravo,J Charles,Wahab Riaz,0,0,0,NA,0,NA,NA,NA,1
+645637,1st innings,West Indies,Pakistan,13.1,J Charles,DM Bravo,Mohammad Irfan,0,0,0,NA,0,NA,NA,NA,1
+645637,1st innings,West Indies,Pakistan,13.2,J Charles,DM Bravo,Mohammad Irfan,0,0,0,NA,0,NA,NA,NA,1
+645637,1st innings,West Indies,Pakistan,13.3,J Charles,DM Bravo,Mohammad Irfan,1,0,1,NA,0,NA,NA,NA,1
+645637,1st innings,West Indies,Pakistan,13.4,DM Bravo,J Charles,Mohammad Irfan,0,0,0,NA,0,NA,NA,NA,1
+645637,1st innings,West Indies,Pakistan,13.5,DM Bravo,J Charles,Mohammad Irfan,0,0,0,NA,0,NA,NA,NA,1
+645637,1st innings,West Indies,Pakistan,13.6,DM Bravo,J Charles,Mohammad Irfan,0,1,1,noballs,0,NA,NA,NA,1
+645637,1st innings,West Indies,Pakistan,13.7,DM Bravo,J Charles,Mohammad Irfan,1,0,1,NA,0,NA,NA,NA,1
+645637,1st innings,West Indies,Pakistan,14.1,DM Bravo,J Charles,Wahab Riaz,0,0,0,NA,0,NA,NA,NA,1
+645637,1st innings,West Indies,Pakistan,14.2,DM Bravo,J Charles,Wahab Riaz,0,0,0,NA,0,NA,NA,NA,1
+645637,1st innings,West Indies,Pakistan,14.3,DM Bravo,J Charles,Wahab Riaz,0,0,0,NA,0,NA,NA,NA,1
+645637,1st innings,West Indies,Pakistan,14.4,DM Bravo,J Charles,Wahab Riaz,0,0,0,NA,0,NA,NA,NA,1
+645637,1st innings,West Indies,Pakistan,14.5,DM Bravo,J Charles,Wahab Riaz,0,0,0,NA,0,NA,NA,NA,1
+645637,1st innings,West Indies,Pakistan,14.6,DM Bravo,J Charles,Wahab Riaz,1,0,1,NA,0,NA,NA,NA,1
+645637,1st innings,West Indies,Pakistan,15.1,DM Bravo,J Charles,Mohammad Irfan,0,0,0,NA,0,NA,NA,NA,1
+645637,1st innings,West Indies,Pakistan,15.2,DM Bravo,J Charles,Mohammad Irfan,4,0,4,NA,0,NA,NA,NA,1
+645637,1st innings,West Indies,Pakistan,15.3,DM Bravo,J Charles,Mohammad Irfan,1,0,1,NA,0,NA,NA,NA,1
+645637,1st innings,West Indies,Pakistan,15.4,J Charles,DM Bravo,Mohammad Irfan,0,4,4,legbyes,0,NA,NA,NA,1
+645637,1st innings,West Indies,Pakistan,15.5,J Charles,DM Bravo,Mohammad Irfan,1,0,1,NA,0,NA,NA,NA,1
+645637,1st innings,West Indies,Pakistan,15.6,DM Bravo,J Charles,Mohammad Irfan,0,0,0,NA,0,NA,NA,NA,1
+645637,1st innings,West Indies,Pakistan,16.1,J Charles,DM Bravo,Shahid Afridi,0,0,0,NA,0,NA,NA,NA,1
+645637,1st innings,West Indies,Pakistan,16.2,J Charles,DM Bravo,Shahid Afridi,1,0,1,NA,0,NA,NA,NA,1
+645637,1st innings,West Indies,Pakistan,16.3,DM Bravo,J Charles,Shahid Afridi,0,2,2,wides,0,NA,NA,NA,1
+645637,1st innings,West Indies,Pakistan,16.4,J Charles,DM Bravo,Shahid Afridi,4,0,4,NA,0,NA,NA,NA,1
+645637,1st innings,West Indies,Pakistan,16.5,J Charles,DM Bravo,Shahid Afridi,0,0,0,NA,0,NA,NA,NA,1
+645637,1st innings,West Indies,Pakistan,16.6,J Charles,DM Bravo,Shahid Afridi,0,0,0,NA,0,NA,NA,NA,1
+645637,1st innings,West Indies,Pakistan,16.7,J Charles,DM Bravo,Shahid Afridi,0,0,0,NA,0,NA,NA,NA,1
+645637,1st innings,West Indies,Pakistan,17.1,DM Bravo,J Charles,Wahab Riaz,1,0,1,NA,0,NA,NA,NA,1
+645637,1st innings,West Indies,Pakistan,17.2,J Charles,DM Bravo,Wahab Riaz,0,0,0,NA,0,NA,NA,NA,1
+645637,1st innings,West Indies,Pakistan,17.3,J Charles,DM Bravo,Wahab Riaz,0,0,0,NA,0,NA,NA,NA,1
+645637,1st innings,West Indies,Pakistan,17.4,J Charles,DM Bravo,Wahab Riaz,1,0,1,NA,0,NA,NA,NA,1
+645637,1st innings,West Indies,Pakistan,17.5,DM Bravo,J Charles,Wahab Riaz,1,0,1,NA,0,NA,NA,NA,1
+645637,1st innings,West Indies,Pakistan,17.6,J Charles,DM Bravo,Wahab Riaz,0,0,0,NA,0,NA,NA,NA,1
+645637,1st innings,West Indies,Pakistan,18.1,DM Bravo,J Charles,Shahid Afridi,1,0,1,NA,0,NA,NA,NA,1
+645637,1st innings,West Indies,Pakistan,18.2,J Charles,DM Bravo,Shahid Afridi,0,0,0,NA,1,stumped,J Charles,Umar Akmal,1
+645637,1st innings,West Indies,Pakistan,18.3,MN Samuels,DM Bravo,Shahid Afridi,0,0,0,NA,0,NA,NA,NA,1
+645637,1st innings,West Indies,Pakistan,18.4,MN Samuels,DM Bravo,Shahid Afridi,0,0,0,NA,0,NA,NA,NA,1
+645637,1st innings,West Indies,Pakistan,18.5,MN Samuels,DM Bravo,Shahid Afridi,0,0,0,NA,0,NA,NA,NA,1
+645637,1st innings,West Indies,Pakistan,18.6,MN Samuels,DM Bravo,Shahid Afridi,0,0,0,NA,0,NA,NA,NA,1
+645637,1st innings,West Indies,Pakistan,19.1,DM Bravo,MN Samuels,Wahab Riaz,1,0,1,NA,0,NA,NA,NA,1
+645637,1st innings,West Indies,Pakistan,19.2,MN Samuels,DM Bravo,Wahab Riaz,0,0,0,NA,0,NA,NA,NA,1
+645637,1st innings,West Indies,Pakistan,19.3,MN Samuels,DM Bravo,Wahab Riaz,0,0,0,NA,0,NA,NA,NA,1
+645637,1st innings,West Indies,Pakistan,19.4,MN Samuels,DM Bravo,Wahab Riaz,0,0,0,NA,0,NA,NA,NA,1
+645637,1st innings,West Indies,Pakistan,19.5,MN Samuels,DM Bravo,Wahab Riaz,0,0,0,NA,0,NA,NA,NA,1
+645637,1st innings,West Indies,Pakistan,19.6,MN Samuels,DM Bravo,Wahab Riaz,1,0,1,NA,0,NA,NA,NA,1
+645637,1st innings,West Indies,Pakistan,20.1,MN Samuels,DM Bravo,Shahid Afridi,0,0,0,NA,0,NA,NA,NA,1
+645637,1st innings,West Indies,Pakistan,20.2,MN Samuels,DM Bravo,Shahid Afridi,0,0,0,NA,0,NA,NA,NA,1
+645637,1st innings,West Indies,Pakistan,20.3,MN Samuels,DM Bravo,Shahid Afridi,0,0,0,NA,0,NA,NA,NA,1
+645637,1st innings,West Indies,Pakistan,20.4,MN Samuels,DM Bravo,Shahid Afridi,0,0,0,NA,0,NA,NA,NA,1
+645637,1st innings,West Indies,Pakistan,20.5,MN Samuels,DM Bravo,Shahid Afridi,0,0,0,NA,0,NA,NA,NA,1
+645637,1st innings,West Indies,Pakistan,20.6,MN Samuels,DM Bravo,Shahid Afridi,1,0,1,NA,0,NA,NA,NA,1
+645637,1st innings,West Indies,Pakistan,21.1,MN Samuels,DM Bravo,Asad Ali,0,0,0,NA,0,NA,NA,NA,1
+645637,1st innings,West Indies,Pakistan,21.2,MN Samuels,DM Bravo,Asad Ali,0,0,0,NA,0,NA,NA,NA,1
+645637,1st innings,West Indies,Pakistan,21.3,MN Samuels,DM Bravo,Asad Ali,0,1,1,legbyes,0,NA,NA,NA,1
+645637,1st innings,West Indies,Pakistan,21.4,DM Bravo,MN Samuels,Asad Ali,0,0,0,NA,0,NA,NA,NA,1
+645637,1st innings,West Indies,Pakistan,21.5,DM Bravo,MN Samuels,Asad Ali,4,0,4,NA,0,NA,NA,NA,1
+645637,1st innings,West Indies,Pakistan,21.6,DM Bravo,MN Samuels,Asad Ali,0,0,0,NA,0,NA,NA,NA,1
+645637,1st innings,West Indies,Pakistan,22.1,MN Samuels,DM Bravo,Shahid Afridi,1,0,1,NA,0,NA,NA,NA,1
+645637,1st innings,West Indies,Pakistan,22.2,DM Bravo,MN Samuels,Shahid Afridi,0,0,0,NA,0,NA,NA,NA,1
+645637,1st innings,West Indies,Pakistan,22.3,DM Bravo,MN Samuels,Shahid Afridi,1,0,1,NA,0,NA,NA,NA,1
+645637,1st innings,West Indies,Pakistan,22.4,MN Samuels,DM Bravo,Shahid Afridi,0,0,0,NA,0,NA,NA,NA,1
+645637,1st innings,West Indies,Pakistan,22.5,MN Samuels,DM Bravo,Shahid Afridi,0,0,0,NA,0,NA,NA,NA,1
+645637,1st innings,West Indies,Pakistan,22.6,MN Samuels,DM Bravo,Shahid Afridi,0,0,0,NA,0,NA,NA,NA,1
+645637,1st innings,West Indies,Pakistan,23.1,DM Bravo,MN Samuels,Saeed Ajmal,0,0,0,NA,0,NA,NA,NA,1
+645637,1st innings,West Indies,Pakistan,23.2,DM Bravo,MN Samuels,Saeed Ajmal,0,0,0,NA,0,NA,NA,NA,1
+645637,1st innings,West Indies,Pakistan,23.3,DM Bravo,MN Samuels,Saeed Ajmal,0,0,0,NA,0,NA,NA,NA,1
+645637,1st innings,West Indies,Pakistan,23.4,DM Bravo,MN Samuels,Saeed Ajmal,1,0,1,NA,0,NA,NA,NA,1
+645637,1st innings,West Indies,Pakistan,23.5,MN Samuels,DM Bravo,Saeed Ajmal,0,0,0,NA,0,NA,NA,NA,1
+645637,1st innings,West Indies,Pakistan,23.6,MN Samuels,DM Bravo,Saeed Ajmal,1,0,1,NA,0,NA,NA,NA,1
+645637,1st innings,West Indies,Pakistan,24.1,MN Samuels,DM Bravo,Shahid Afridi,0,0,0,NA,0,NA,NA,NA,1
+645637,1st innings,West Indies,Pakistan,24.2,MN Samuels,DM Bravo,Shahid Afridi,0,0,0,NA,0,NA,NA,NA,1
+645637,1st innings,West Indies,Pakistan,24.3,MN Samuels,DM Bravo,Shahid Afridi,0,0,0,NA,0,NA,NA,NA,1
+645637,1st innings,West Indies,Pakistan,24.4,MN Samuels,DM Bravo,Shahid Afridi,0,0,0,NA,0,NA,NA,NA,1
+645637,1st innings,West Indies,Pakistan,24.5,MN Samuels,DM Bravo,Shahid Afridi,0,0,0,NA,0,NA,NA,NA,1
+645637,1st innings,West Indies,Pakistan,24.6,MN Samuels,DM Bravo,Shahid Afridi,1,0,1,NA,0,NA,NA,NA,1
+645637,1st innings,West Indies,Pakistan,25.1,MN Samuels,DM Bravo,Saeed Ajmal,0,0,0,NA,0,NA,NA,NA,1
+645637,1st innings,West Indies,Pakistan,25.2,MN Samuels,DM Bravo,Saeed Ajmal,1,0,1,NA,0,NA,NA,NA,1
+645637,1st innings,West Indies,Pakistan,25.3,DM Bravo,MN Samuels,Saeed Ajmal,0,0,0,NA,0,NA,NA,NA,1
+645637,1st innings,West Indies,Pakistan,25.4,DM Bravo,MN Samuels,Saeed Ajmal,0,0,0,NA,0,NA,NA,NA,1
+645637,1st innings,West Indies,Pakistan,25.5,DM Bravo,MN Samuels,Saeed Ajmal,1,0,1,NA,0,NA,NA,NA,1
+645637,1st innings,West Indies,Pakistan,25.6,MN Samuels,DM Bravo,Saeed Ajmal,0,0,0,NA,0,NA,NA,NA,1
+645637,1st innings,West Indies,Pakistan,26.1,DM Bravo,MN Samuels,Shahid Afridi,1,0,1,NA,0,NA,NA,NA,1
+645637,1st innings,West Indies,Pakistan,26.2,MN Samuels,DM Bravo,Shahid Afridi,1,0,1,NA,0,NA,NA,NA,1
+645637,1st innings,West Indies,Pakistan,26.3,DM Bravo,MN Samuels,Shahid Afridi,1,0,1,NA,0,NA,NA,NA,1
+645637,1st innings,West Indies,Pakistan,26.4,MN Samuels,DM Bravo,Shahid Afridi,0,0,0,NA,0,NA,NA,NA,1
+645637,1st innings,West Indies,Pakistan,26.5,MN Samuels,DM Bravo,Shahid Afridi,0,0,0,NA,0,NA,NA,NA,1
+645637,1st innings,West Indies,Pakistan,26.6,MN Samuels,DM Bravo,Shahid Afridi,1,0,1,NA,0,NA,NA,NA,1
+645637,1st innings,West Indies,Pakistan,27.1,MN Samuels,DM Bravo,Mohammad Hafeez,0,0,0,NA,0,NA,NA,NA,1
+645637,1st innings,West Indies,Pakistan,27.2,MN Samuels,DM Bravo,Mohammad Hafeez,0,0,0,NA,0,NA,NA,NA,1
+645637,1st innings,West Indies,Pakistan,27.3,MN Samuels,DM Bravo,Mohammad Hafeez,1,0,1,NA,0,NA,NA,NA,1
+645637,1st innings,West Indies,Pakistan,27.4,DM Bravo,MN Samuels,Mohammad Hafeez,1,0,1,NA,0,NA,NA,NA,1
+645637,1st innings,West Indies,Pakistan,27.5,MN Samuels,DM Bravo,Mohammad Hafeez,1,0,1,NA,0,NA,NA,NA,1
+645637,1st innings,West Indies,Pakistan,27.6,DM Bravo,MN Samuels,Mohammad Hafeez,4,0,4,NA,0,NA,NA,NA,1
+645637,1st innings,West Indies,Pakistan,28.1,MN Samuels,DM Bravo,Shahid Afridi,1,0,1,NA,0,NA,NA,NA,1
+645637,1st innings,West Indies,Pakistan,28.2,DM Bravo,MN Samuels,Shahid Afridi,1,0,1,NA,0,NA,NA,NA,1
+645637,1st innings,West Indies,Pakistan,28.3,MN Samuels,DM Bravo,Shahid Afridi,0,0,0,NA,0,NA,NA,NA,1
+645637,1st innings,West Indies,Pakistan,28.4,MN Samuels,DM Bravo,Shahid Afridi,0,0,0,NA,0,NA,NA,NA,1
+645637,1st innings,West Indies,Pakistan,28.5,MN Samuels,DM Bravo,Shahid Afridi,0,0,0,NA,0,NA,NA,NA,1
+645637,1st innings,West Indies,Pakistan,28.6,MN Samuels,DM Bravo,Shahid Afridi,0,0,0,NA,0,NA,NA,NA,1
+645637,1st innings,West Indies,Pakistan,29.1,DM Bravo,MN Samuels,Mohammad Hafeez,1,0,1,NA,0,NA,NA,NA,1
+645637,1st innings,West Indies,Pakistan,29.2,MN Samuels,DM Bravo,Mohammad Hafeez,0,0,0,NA,0,NA,NA,NA,1
+645637,1st innings,West Indies,Pakistan,29.3,MN Samuels,DM Bravo,Mohammad Hafeez,0,0,0,NA,0,NA,NA,NA,1
+645637,1st innings,West Indies,Pakistan,29.4,MN Samuels,DM Bravo,Mohammad Hafeez,0,0,0,NA,0,NA,NA,NA,1
+645637,1st innings,West Indies,Pakistan,29.5,MN Samuels,DM Bravo,Mohammad Hafeez,0,0,0,NA,0,NA,NA,NA,1
+645637,1st innings,West Indies,Pakistan,29.6,MN Samuels,DM Bravo,Mohammad Hafeez,0,0,0,NA,0,NA,NA,NA,1
+645637,1st innings,West Indies,Pakistan,30.1,DM Bravo,MN Samuels,Saeed Ajmal,0,0,0,NA,0,NA,NA,NA,1
+645637,1st innings,West Indies,Pakistan,30.2,DM Bravo,MN Samuels,Saeed Ajmal,0,0,0,NA,0,NA,NA,NA,1
+645637,1st innings,West Indies,Pakistan,30.3,DM Bravo,MN Samuels,Saeed Ajmal,0,0,0,NA,0,NA,NA,NA,1
+645637,1st innings,West Indies,Pakistan,30.4,DM Bravo,MN Samuels,Saeed Ajmal,0,1,1,legbyes,0,NA,NA,NA,1
+645637,1st innings,West Indies,Pakistan,30.5,MN Samuels,DM Bravo,Saeed Ajmal,0,5,5,wides,0,NA,NA,NA,1
+645637,1st innings,West Indies,Pakistan,30.6,MN Samuels,DM Bravo,Saeed Ajmal,0,0,0,NA,0,NA,NA,NA,1
+645637,1st innings,West Indies,Pakistan,30.7,MN Samuels,DM Bravo,Saeed Ajmal,0,0,0,NA,0,NA,NA,NA,1
+645637,1st innings,West Indies,Pakistan,31.1,DM Bravo,MN Samuels,Mohammad Hafeez,1,0,1,NA,0,NA,NA,NA,1
+645637,1st innings,West Indies,Pakistan,31.2,MN Samuels,DM Bravo,Mohammad Hafeez,1,0,1,NA,0,NA,NA,NA,1
+645637,1st innings,West Indies,Pakistan,31.3,DM Bravo,MN Samuels,Mohammad Hafeez,1,0,1,NA,0,NA,NA,NA,1
+645637,1st innings,West Indies,Pakistan,31.4,MN Samuels,DM Bravo,Mohammad Hafeez,4,0,4,NA,0,NA,NA,NA,1
+645637,1st innings,West Indies,Pakistan,31.5,MN Samuels,DM Bravo,Mohammad Hafeez,0,0,0,NA,0,NA,NA,NA,1
+645637,1st innings,West Indies,Pakistan,31.6,MN Samuels,DM Bravo,Mohammad Hafeez,0,0,0,NA,0,NA,NA,NA,1
+645637,1st innings,West Indies,Pakistan,32.1,DM Bravo,MN Samuels,Saeed Ajmal,0,0,0,NA,1,bowled,DM Bravo,NA,1
+645637,1st innings,West Indies,Pakistan,32.2,LMP Simmons,MN Samuels,Saeed Ajmal,1,0,1,NA,0,NA,NA,NA,1
+645637,1st innings,West Indies,Pakistan,32.3,MN Samuels,LMP Simmons,Saeed Ajmal,0,1,1,legbyes,0,NA,NA,NA,1
+645637,1st innings,West Indies,Pakistan,32.4,LMP Simmons,MN Samuels,Saeed Ajmal,0,0,0,NA,0,NA,NA,NA,1
+645637,1st innings,West Indies,Pakistan,32.5,LMP Simmons,MN Samuels,Saeed Ajmal,0,0,0,NA,0,NA,NA,NA,1
+645637,1st innings,West Indies,Pakistan,32.6,LMP Simmons,MN Samuels,Saeed Ajmal,2,0,2,NA,0,NA,NA,NA,1
+645637,1st innings,West Indies,Pakistan,33.1,MN Samuels,LMP Simmons,Mohammad Hafeez,2,0,2,NA,0,NA,NA,NA,1
+645637,1st innings,West Indies,Pakistan,33.2,MN Samuels,LMP Simmons,Mohammad Hafeez,1,0,1,NA,0,NA,NA,NA,1
+645637,1st innings,West Indies,Pakistan,33.3,LMP Simmons,MN Samuels,Mohammad Hafeez,0,0,0,NA,0,NA,NA,NA,1
+645637,1st innings,West Indies,Pakistan,33.4,LMP Simmons,MN Samuels,Mohammad Hafeez,2,0,2,NA,0,NA,NA,NA,1
+645637,1st innings,West Indies,Pakistan,33.5,LMP Simmons,MN Samuels,Mohammad Hafeez,0,0,0,NA,0,NA,NA,NA,1
+645637,1st innings,West Indies,Pakistan,33.6,LMP Simmons,MN Samuels,Mohammad Hafeez,0,0,0,NA,0,NA,NA,NA,1
+645637,1st innings,West Indies,Pakistan,34.1,MN Samuels,LMP Simmons,Shahid Afridi,1,0,1,NA,0,NA,NA,NA,1
+645637,1st innings,West Indies,Pakistan,34.2,LMP Simmons,MN Samuels,Shahid Afridi,2,0,2,NA,0,NA,NA,NA,1
+645637,1st innings,West Indies,Pakistan,34.3,LMP Simmons,MN Samuels,Shahid Afridi,0,0,0,NA,0,NA,NA,NA,1
+645637,1st innings,West Indies,Pakistan,34.4,LMP Simmons,MN Samuels,Shahid Afridi,1,0,1,NA,0,NA,NA,NA,1
+645637,1st innings,West Indies,Pakistan,34.5,MN Samuels,LMP Simmons,Shahid Afridi,1,0,1,NA,0,NA,NA,NA,1
+645637,1st innings,West Indies,Pakistan,34.6,LMP Simmons,MN Samuels,Shahid Afridi,0,0,0,NA,0,NA,NA,NA,1
+645637,1st innings,West Indies,Pakistan,35.1,MN Samuels,LMP Simmons,Saeed Ajmal,0,0,0,NA,0,NA,NA,NA,1
+645637,1st innings,West Indies,Pakistan,35.2,MN Samuels,LMP Simmons,Saeed Ajmal,0,0,0,NA,0,NA,NA,NA,1
+645637,1st innings,West Indies,Pakistan,35.3,MN Samuels,LMP Simmons,Saeed Ajmal,0,0,0,NA,1,bowled,MN Samuels,NA,1
+645637,1st innings,West Indies,Pakistan,35.4,DJ Bravo,LMP Simmons,Saeed Ajmal,0,0,0,NA,0,NA,NA,NA,1
+645637,1st innings,West Indies,Pakistan,35.5,DJ Bravo,LMP Simmons,Saeed Ajmal,0,0,0,NA,0,NA,NA,NA,1
+645637,1st innings,West Indies,Pakistan,35.6,DJ Bravo,LMP Simmons,Saeed Ajmal,3,0,3,NA,0,NA,NA,NA,1
+645637,1st innings,West Indies,Pakistan,36.1,DJ Bravo,LMP Simmons,Shahid Afridi,0,0,0,NA,0,NA,NA,NA,1
+645637,1st innings,West Indies,Pakistan,36.2,DJ Bravo,LMP Simmons,Shahid Afridi,1,0,1,NA,0,NA,NA,NA,1
+645637,1st innings,West Indies,Pakistan,36.3,LMP Simmons,DJ Bravo,Shahid Afridi,1,0,1,NA,0,NA,NA,NA,1
+645637,1st innings,West Indies,Pakistan,36.4,DJ Bravo,LMP Simmons,Shahid Afridi,0,0,0,NA,0,NA,NA,NA,1
+645637,1st innings,West Indies,Pakistan,36.5,DJ Bravo,LMP Simmons,Shahid Afridi,0,0,0,NA,0,NA,NA,NA,1
+645637,1st innings,West Indies,Pakistan,36.6,DJ Bravo,LMP Simmons,Shahid Afridi,1,0,1,NA,0,NA,NA,NA,1
+645637,1st innings,West Indies,Pakistan,37.1,DJ Bravo,LMP Simmons,Saeed Ajmal,0,0,0,NA,0,NA,NA,NA,1
+645637,1st innings,West Indies,Pakistan,37.2,DJ Bravo,LMP Simmons,Saeed Ajmal,0,1,1,wides,0,NA,NA,NA,1
+645637,1st innings,West Indies,Pakistan,37.3,DJ Bravo,LMP Simmons,Saeed Ajmal,4,0,4,NA,0,NA,NA,NA,1
+645637,1st innings,West Indies,Pakistan,37.4,DJ Bravo,LMP Simmons,Saeed Ajmal,0,0,0,NA,0,NA,NA,NA,1
+645637,1st innings,West Indies,Pakistan,37.5,DJ Bravo,LMP Simmons,Saeed Ajmal,0,0,0,NA,0,NA,NA,NA,1
+645637,1st innings,West Indies,Pakistan,37.6,DJ Bravo,LMP Simmons,Saeed Ajmal,0,0,0,NA,0,NA,NA,NA,1
+645637,1st innings,West Indies,Pakistan,37.7,DJ Bravo,LMP Simmons,Saeed Ajmal,0,0,0,NA,0,NA,NA,NA,1
+645637,1st innings,West Indies,Pakistan,38.1,LMP Simmons,DJ Bravo,Shahid Afridi,1,0,1,NA,0,NA,NA,NA,1
+645637,1st innings,West Indies,Pakistan,38.2,DJ Bravo,LMP Simmons,Shahid Afridi,0,0,0,NA,0,NA,NA,NA,1
+645637,1st innings,West Indies,Pakistan,38.3,DJ Bravo,LMP Simmons,Shahid Afridi,0,0,0,NA,0,NA,NA,NA,1
+645637,1st innings,West Indies,Pakistan,38.4,DJ Bravo,LMP Simmons,Shahid Afridi,1,0,1,NA,0,NA,NA,NA,1
+645637,1st innings,West Indies,Pakistan,38.5,LMP Simmons,DJ Bravo,Shahid Afridi,0,0,0,NA,1,caught,LMP Simmons,Umar Akmal,1
+645637,1st innings,West Indies,Pakistan,38.6,DJ Bravo,KA Pollard,Shahid Afridi,1,0,1,NA,0,NA,NA,NA,1
+645637,1st innings,West Indies,Pakistan,39.1,DJ Bravo,KA Pollard,Mohammad Hafeez,0,1,1,legbyes,0,NA,NA,NA,1
+645637,1st innings,West Indies,Pakistan,39.2,KA Pollard,DJ Bravo,Mohammad Hafeez,1,0,1,NA,0,NA,NA,NA,1
+645637,1st innings,West Indies,Pakistan,39.3,DJ Bravo,KA Pollard,Mohammad Hafeez,1,0,1,NA,0,NA,NA,NA,1
+645637,1st innings,West Indies,Pakistan,39.4,KA Pollard,DJ Bravo,Mohammad Hafeez,1,0,1,NA,0,NA,NA,NA,1
+645637,1st innings,West Indies,Pakistan,39.5,DJ Bravo,KA Pollard,Mohammad Hafeez,0,0,0,NA,0,NA,NA,NA,1
+645637,1st innings,West Indies,Pakistan,39.6,DJ Bravo,KA Pollard,Mohammad Hafeez,0,0,0,NA,0,NA,NA,NA,1
+645637,1st innings,West Indies,Pakistan,40.1,KA Pollard,DJ Bravo,Mohammad Irfan,0,0,0,NA,0,NA,NA,NA,1
+645637,1st innings,West Indies,Pakistan,40.2,KA Pollard,DJ Bravo,Mohammad Irfan,1,0,1,NA,0,NA,NA,NA,1
+645637,1st innings,West Indies,Pakistan,40.3,DJ Bravo,KA Pollard,Mohammad Irfan,1,0,1,NA,0,NA,NA,NA,1
+645637,1st innings,West Indies,Pakistan,40.4,KA Pollard,DJ Bravo,Mohammad Irfan,0,0,0,NA,0,NA,NA,NA,1
+645637,1st innings,West Indies,Pakistan,40.5,KA Pollard,DJ Bravo,Mohammad Irfan,0,0,0,NA,0,NA,NA,NA,1
+645637,1st innings,West Indies,Pakistan,40.6,KA Pollard,DJ Bravo,Mohammad Irfan,2,0,2,NA,0,NA,NA,NA,1
+645637,1st innings,West Indies,Pakistan,41.1,DJ Bravo,KA Pollard,Mohammad Hafeez,0,0,0,NA,0,NA,NA,NA,1
+645637,1st innings,West Indies,Pakistan,41.2,DJ Bravo,KA Pollard,Mohammad Hafeez,0,0,0,NA,0,NA,NA,NA,1
+645637,1st innings,West Indies,Pakistan,41.3,DJ Bravo,KA Pollard,Mohammad Hafeez,1,0,1,NA,0,NA,NA,NA,1
+645637,1st innings,West Indies,Pakistan,41.4,KA Pollard,DJ Bravo,Mohammad Hafeez,1,0,1,NA,0,NA,NA,NA,1
+645637,1st innings,West Indies,Pakistan,41.5,DJ Bravo,KA Pollard,Mohammad Hafeez,4,0,4,NA,0,NA,NA,NA,1
+645637,1st innings,West Indies,Pakistan,41.6,DJ Bravo,KA Pollard,Mohammad Hafeez,0,1,1,legbyes,0,NA,NA,NA,1
+645637,1st innings,West Indies,Pakistan,42.1,DJ Bravo,KA Pollard,Mohammad Irfan,1,0,1,NA,0,NA,NA,NA,1
+645637,1st innings,West Indies,Pakistan,42.2,KA Pollard,DJ Bravo,Mohammad Irfan,1,0,1,NA,0,NA,NA,NA,1
+645637,1st innings,West Indies,Pakistan,42.3,DJ Bravo,KA Pollard,Mohammad Irfan,0,0,0,NA,0,NA,NA,NA,1
+645637,1st innings,West Indies,Pakistan,42.4,DJ Bravo,KA Pollard,Mohammad Irfan,0,0,0,NA,0,NA,NA,NA,1
+645637,1st innings,West Indies,Pakistan,42.5,DJ Bravo,KA Pollard,Mohammad Irfan,2,0,2,NA,0,NA,NA,NA,1
+645637,1st innings,West Indies,Pakistan,42.6,DJ Bravo,KA Pollard,Mohammad Irfan,4,0,4,NA,0,NA,NA,NA,1
+645637,1st innings,West Indies,Pakistan,43.1,KA Pollard,DJ Bravo,Saeed Ajmal,0,0,0,NA,0,NA,NA,NA,1
+645637,1st innings,West Indies,Pakistan,43.2,KA Pollard,DJ Bravo,Saeed Ajmal,1,0,1,NA,0,NA,NA,NA,1
+645637,1st innings,West Indies,Pakistan,43.3,DJ Bravo,KA Pollard,Saeed Ajmal,0,1,1,legbyes,0,NA,NA,NA,1
+645637,1st innings,West Indies,Pakistan,43.4,KA Pollard,DJ Bravo,Saeed Ajmal,1,0,1,NA,0,NA,NA,NA,1
+645637,1st innings,West Indies,Pakistan,43.5,DJ Bravo,KA Pollard,Saeed Ajmal,1,0,1,NA,0,NA,NA,NA,1
+645637,1st innings,West Indies,Pakistan,43.6,KA Pollard,DJ Bravo,Saeed Ajmal,0,0,0,NA,0,NA,NA,NA,1
+645637,1st innings,West Indies,Pakistan,44.1,DJ Bravo,KA Pollard,Mohammad Irfan,0,0,0,NA,0,NA,NA,NA,1
+645637,1st innings,West Indies,Pakistan,44.2,DJ Bravo,KA Pollard,Mohammad Irfan,2,0,2,NA,0,NA,NA,NA,1
+645637,1st innings,West Indies,Pakistan,44.3,DJ Bravo,KA Pollard,Mohammad Irfan,0,0,0,NA,0,NA,NA,NA,1
+645637,1st innings,West Indies,Pakistan,44.4,DJ Bravo,KA Pollard,Mohammad Irfan,0,0,0,NA,0,NA,NA,NA,1
+645637,1st innings,West Indies,Pakistan,44.5,DJ Bravo,KA Pollard,Mohammad Irfan,0,1,1,wides,0,NA,NA,NA,1
+645637,1st innings,West Indies,Pakistan,44.6,DJ Bravo,KA Pollard,Mohammad Irfan,0,0,0,NA,0,NA,NA,NA,1
+645637,1st innings,West Indies,Pakistan,44.7,DJ Bravo,KA Pollard,Mohammad Irfan,1,0,1,NA,0,NA,NA,NA,1
+645637,1st innings,West Indies,Pakistan,45.1,DJ Bravo,KA Pollard,Saeed Ajmal,0,0,0,NA,0,NA,NA,NA,1
+645637,1st innings,West Indies,Pakistan,45.2,DJ Bravo,KA Pollard,Saeed Ajmal,0,1,1,wides,0,NA,NA,NA,1
+645637,1st innings,West Indies,Pakistan,45.3,DJ Bravo,KA Pollard,Saeed Ajmal,0,0,0,NA,0,NA,NA,NA,1
+645637,1st innings,West Indies,Pakistan,45.4,DJ Bravo,KA Pollard,Saeed Ajmal,1,0,1,NA,0,NA,NA,NA,1
+645637,1st innings,West Indies,Pakistan,45.5,KA Pollard,DJ Bravo,Saeed Ajmal,4,0,4,NA,0,NA,NA,NA,1
+645637,1st innings,West Indies,Pakistan,45.6,KA Pollard,DJ Bravo,Saeed Ajmal,0,0,0,NA,0,NA,NA,NA,1
+645637,1st innings,West Indies,Pakistan,45.7,KA Pollard,DJ Bravo,Saeed Ajmal,1,0,1,NA,0,NA,NA,NA,1
+645637,1st innings,West Indies,Pakistan,46.1,KA Pollard,DJ Bravo,Wahab Riaz,0,0,0,NA,0,NA,NA,NA,1
+645637,1st innings,West Indies,Pakistan,46.2,KA Pollard,DJ Bravo,Wahab Riaz,4,0,4,NA,0,NA,NA,NA,1
+645637,1st innings,West Indies,Pakistan,46.3,KA Pollard,DJ Bravo,Wahab Riaz,0,1,1,wides,0,NA,NA,NA,1
+645637,1st innings,West Indies,Pakistan,46.4,KA Pollard,DJ Bravo,Wahab Riaz,2,0,2,NA,0,NA,NA,NA,1
+645637,1st innings,West Indies,Pakistan,46.5,KA Pollard,DJ Bravo,Wahab Riaz,6,0,6,NA,0,NA,NA,NA,1
+645637,1st innings,West Indies,Pakistan,46.6,KA Pollard,DJ Bravo,Wahab Riaz,1,0,1,NA,0,NA,NA,NA,1
+645637,1st innings,West Indies,Pakistan,46.7,DJ Bravo,KA Pollard,Wahab Riaz,4,0,4,NA,0,NA,NA,NA,1
+645637,1st innings,West Indies,Pakistan,47.1,KA Pollard,DJ Bravo,Saeed Ajmal,0,0,0,NA,0,NA,NA,NA,1
+645637,1st innings,West Indies,Pakistan,47.2,KA Pollard,DJ Bravo,Saeed Ajmal,0,0,0,NA,0,NA,NA,NA,1
+645637,1st innings,West Indies,Pakistan,47.3,KA Pollard,DJ Bravo,Saeed Ajmal,1,0,1,NA,0,NA,NA,NA,1
+645637,1st innings,West Indies,Pakistan,47.4,DJ Bravo,KA Pollard,Saeed Ajmal,2,0,2,NA,0,NA,NA,NA,1
+645637,1st innings,West Indies,Pakistan,47.5,DJ Bravo,KA Pollard,Saeed Ajmal,0,1,1,wides,0,NA,NA,NA,1
+645637,1st innings,West Indies,Pakistan,47.6,DJ Bravo,KA Pollard,Saeed Ajmal,1,0,1,NA,0,NA,NA,NA,1
+645637,1st innings,West Indies,Pakistan,47.7,KA Pollard,DJ Bravo,Saeed Ajmal,2,0,2,NA,0,NA,NA,NA,1
+645637,1st innings,West Indies,Pakistan,48.1,DJ Bravo,KA Pollard,Asad Ali,0,5,5,wides,0,NA,NA,NA,1
+645637,1st innings,West Indies,Pakistan,48.2,DJ Bravo,KA Pollard,Asad Ali,0,1,1,byes,0,NA,NA,NA,1
+645637,1st innings,West Indies,Pakistan,48.3,KA Pollard,DJ Bravo,Asad Ali,0,0,0,NA,0,NA,NA,NA,1
+645637,1st innings,West Indies,Pakistan,48.4,KA Pollard,DJ Bravo,Asad Ali,0,0,0,NA,1,bowled,KA Pollard,NA,1
+645637,1st innings,West Indies,Pakistan,48.5,DJG Sammy,DJ Bravo,Asad Ali,1,0,1,NA,0,NA,NA,NA,1
+645637,1st innings,West Indies,Pakistan,48.6,DJ Bravo,DJG Sammy,Asad Ali,1,0,1,NA,0,NA,NA,NA,1
+645637,1st innings,West Indies,Pakistan,48.7,DJG Sammy,DJ Bravo,Asad Ali,0,1,1,wides,0,NA,NA,NA,1
+645637,1st innings,West Indies,Pakistan,48.8,DJG Sammy,DJ Bravo,Asad Ali,1,0,1,NA,0,NA,NA,NA,1
+645637,1st innings,West Indies,Pakistan,49.1,DJG Sammy,DJ Bravo,Wahab Riaz,1,0,1,NA,0,NA,NA,NA,1
+645637,1st innings,West Indies,Pakistan,49.2,DJ Bravo,DJG Sammy,Wahab Riaz,0,0,0,NA,0,NA,NA,NA,1
+645637,1st innings,West Indies,Pakistan,49.3,DJ Bravo,DJG Sammy,Wahab Riaz,0,1,1,wides,1,run out,DJG Sammy,Umar Akmal,1
+645637,1st innings,West Indies,Pakistan,49.4,KAJ Roach,DJ Bravo,Wahab Riaz,0,0,0,NA,1,run out,KAJ Roach,Umar Akmal,1
+645637,1st innings,West Indies,Pakistan,49.5,SP Narine,DJ Bravo,Wahab Riaz,1,0,1,NA,0,NA,NA,NA,1
+645637,1st innings,West Indies,Pakistan,49.6,DJ Bravo,SP Narine,Wahab Riaz,4,0,4,NA,0,NA,NA,NA,1
+645637,1st innings,West Indies,Pakistan,49.7,DJ Bravo,SP Narine,Wahab Riaz,1,0,1,NA,0,NA,NA,NA,1
+645637,2nd innings,Pakistan,West Indies,0.1,Nasir Jamshed,Ahmed Shehzad,KAJ Roach,0,0,0,NA,0,NA,NA,NA,0
+645637,2nd innings,Pakistan,West Indies,0.2,Nasir Jamshed,Ahmed Shehzad,KAJ Roach,0,0,0,NA,0,NA,NA,NA,0
+645637,2nd innings,Pakistan,West Indies,0.3,Nasir Jamshed,Ahmed Shehzad,KAJ Roach,0,0,0,NA,0,NA,NA,NA,0
+645637,2nd innings,Pakistan,West Indies,0.4,Nasir Jamshed,Ahmed Shehzad,KAJ Roach,0,0,0,NA,0,NA,NA,NA,0
+645637,2nd innings,Pakistan,West Indies,0.5,Nasir Jamshed,Ahmed Shehzad,KAJ Roach,0,0,0,NA,0,NA,NA,NA,0
+645637,2nd innings,Pakistan,West Indies,0.6,Nasir Jamshed,Ahmed Shehzad,KAJ Roach,0,0,0,NA,0,NA,NA,NA,0
+645637,2nd innings,Pakistan,West Indies,1.1,Ahmed Shehzad,Nasir Jamshed,JO Holder,0,0,0,NA,0,NA,NA,NA,0
+645637,2nd innings,Pakistan,West Indies,1.2,Ahmed Shehzad,Nasir Jamshed,JO Holder,0,0,0,NA,0,NA,NA,NA,0
+645637,2nd innings,Pakistan,West Indies,1.3,Ahmed Shehzad,Nasir Jamshed,JO Holder,0,0,0,NA,0,NA,NA,NA,0
+645637,2nd innings,Pakistan,West Indies,1.4,Ahmed Shehzad,Nasir Jamshed,JO Holder,0,0,0,NA,0,NA,NA,NA,0
+645637,2nd innings,Pakistan,West Indies,1.5,Ahmed Shehzad,Nasir Jamshed,JO Holder,0,5,5,wides,0,NA,NA,NA,0
+645637,2nd innings,Pakistan,West Indies,1.6,Ahmed Shehzad,Nasir Jamshed,JO Holder,0,0,0,NA,0,NA,NA,NA,0
+645637,2nd innings,Pakistan,West Indies,1.7,Ahmed Shehzad,Nasir Jamshed,JO Holder,0,0,0,NA,0,NA,NA,NA,0
+645637,2nd innings,Pakistan,West Indies,2.1,Nasir Jamshed,Ahmed Shehzad,KAJ Roach,0,0,0,NA,0,NA,NA,NA,0
+645637,2nd innings,Pakistan,West Indies,2.2,Nasir Jamshed,Ahmed Shehzad,KAJ Roach,0,0,0,NA,0,NA,NA,NA,0
+645637,2nd innings,Pakistan,West Indies,2.3,Nasir Jamshed,Ahmed Shehzad,KAJ Roach,0,0,0,NA,0,NA,NA,NA,0
+645637,2nd innings,Pakistan,West Indies,2.4,Nasir Jamshed,Ahmed Shehzad,KAJ Roach,0,0,0,NA,0,NA,NA,NA,0
+645637,2nd innings,Pakistan,West Indies,2.5,Nasir Jamshed,Ahmed Shehzad,KAJ Roach,0,0,0,NA,0,NA,NA,NA,0
+645637,2nd innings,Pakistan,West Indies,2.6,Nasir Jamshed,Ahmed Shehzad,KAJ Roach,0,0,0,NA,0,NA,NA,NA,0
+645637,2nd innings,Pakistan,West Indies,3.1,Ahmed Shehzad,Nasir Jamshed,JO Holder,0,0,0,NA,0,NA,NA,NA,0
+645637,2nd innings,Pakistan,West Indies,3.2,Ahmed Shehzad,Nasir Jamshed,JO Holder,0,0,0,NA,0,NA,NA,NA,0
+645637,2nd innings,Pakistan,West Indies,3.3,Ahmed Shehzad,Nasir Jamshed,JO Holder,0,0,0,NA,0,NA,NA,NA,0
+645637,2nd innings,Pakistan,West Indies,3.4,Ahmed Shehzad,Nasir Jamshed,JO Holder,0,0,0,NA,0,NA,NA,NA,0
+645637,2nd innings,Pakistan,West Indies,3.5,Ahmed Shehzad,Nasir Jamshed,JO Holder,0,0,0,NA,0,NA,NA,NA,0
+645637,2nd innings,Pakistan,West Indies,3.6,Ahmed Shehzad,Nasir Jamshed,JO Holder,0,0,0,NA,0,NA,NA,NA,0
+645637,2nd innings,Pakistan,West Indies,4.1,Nasir Jamshed,Ahmed Shehzad,KAJ Roach,0,0,0,NA,0,NA,NA,NA,0
+645637,2nd innings,Pakistan,West Indies,4.2,Nasir Jamshed,Ahmed Shehzad,KAJ Roach,0,0,0,NA,0,NA,NA,NA,0
+645637,2nd innings,Pakistan,West Indies,4.3,Nasir Jamshed,Ahmed Shehzad,KAJ Roach,0,0,0,NA,0,NA,NA,NA,0
+645637,2nd innings,Pakistan,West Indies,4.4,Nasir Jamshed,Ahmed Shehzad,KAJ Roach,0,0,0,NA,0,NA,NA,NA,0
+645637,2nd innings,Pakistan,West Indies,4.5,Nasir Jamshed,Ahmed Shehzad,KAJ Roach,0,0,0,NA,0,NA,NA,NA,0
+645637,2nd innings,Pakistan,West Indies,4.6,Nasir Jamshed,Ahmed Shehzad,KAJ Roach,0,0,0,NA,0,NA,NA,NA,0
+645637,2nd innings,Pakistan,West Indies,5.1,Ahmed Shehzad,Nasir Jamshed,JO Holder,0,1,1,wides,0,NA,NA,NA,0
+645637,2nd innings,Pakistan,West Indies,5.2,Ahmed Shehzad,Nasir Jamshed,JO Holder,0,0,0,NA,0,NA,NA,NA,0
+645637,2nd innings,Pakistan,West Indies,5.3,Ahmed Shehzad,Nasir Jamshed,JO Holder,4,0,4,NA,0,NA,NA,NA,0
+645637,2nd innings,Pakistan,West Indies,5.4,Ahmed Shehzad,Nasir Jamshed,JO Holder,0,0,0,NA,0,NA,NA,NA,0
+645637,2nd innings,Pakistan,West Indies,5.5,Ahmed Shehzad,Nasir Jamshed,JO Holder,1,0,1,NA,0,NA,NA,NA,0
+645637,2nd innings,Pakistan,West Indies,5.6,Nasir Jamshed,Ahmed Shehzad,JO Holder,0,0,0,NA,0,NA,NA,NA,0
+645637,2nd innings,Pakistan,West Indies,5.7,Nasir Jamshed,Ahmed Shehzad,JO Holder,0,0,0,NA,0,NA,NA,NA,0
+645637,2nd innings,Pakistan,West Indies,6.1,Ahmed Shehzad,Nasir Jamshed,KAJ Roach,0,0,0,NA,0,NA,NA,NA,0
+645637,2nd innings,Pakistan,West Indies,6.2,Ahmed Shehzad,Nasir Jamshed,KAJ Roach,0,0,0,NA,0,NA,NA,NA,0
+645637,2nd innings,Pakistan,West Indies,6.3,Ahmed Shehzad,Nasir Jamshed,KAJ Roach,0,0,0,NA,0,NA,NA,NA,0
+645637,2nd innings,Pakistan,West Indies,6.4,Ahmed Shehzad,Nasir Jamshed,KAJ Roach,0,0,0,NA,0,NA,NA,NA,0
+645637,2nd innings,Pakistan,West Indies,6.5,Ahmed Shehzad,Nasir Jamshed,KAJ Roach,0,0,0,NA,0,NA,NA,NA,0
+645637,2nd innings,Pakistan,West Indies,6.6,Ahmed Shehzad,Nasir Jamshed,KAJ Roach,0,0,0,NA,0,NA,NA,NA,0
+645637,2nd innings,Pakistan,West Indies,7.1,Nasir Jamshed,Ahmed Shehzad,JO Holder,0,0,0,NA,0,NA,NA,NA,0
+645637,2nd innings,Pakistan,West Indies,7.2,Nasir Jamshed,Ahmed Shehzad,JO Holder,2,0,2,NA,0,NA,NA,NA,0
+645637,2nd innings,Pakistan,West Indies,7.3,Nasir Jamshed,Ahmed Shehzad,JO Holder,2,0,2,NA,0,NA,NA,NA,0
+645637,2nd innings,Pakistan,West Indies,7.4,Nasir Jamshed,Ahmed Shehzad,JO Holder,0,0,0,NA,0,NA,NA,NA,0
+645637,2nd innings,Pakistan,West Indies,7.5,Nasir Jamshed,Ahmed Shehzad,JO Holder,0,0,0,NA,0,NA,NA,NA,0
+645637,2nd innings,Pakistan,West Indies,7.6,Nasir Jamshed,Ahmed Shehzad,JO Holder,2,0,2,NA,0,NA,NA,NA,0
+645637,2nd innings,Pakistan,West Indies,8.1,Ahmed Shehzad,Nasir Jamshed,KAJ Roach,0,0,0,NA,0,NA,NA,NA,0
+645637,2nd innings,Pakistan,West Indies,8.2,Ahmed Shehzad,Nasir Jamshed,KAJ Roach,0,0,0,NA,0,NA,NA,NA,0
+645637,2nd innings,Pakistan,West Indies,8.3,Ahmed Shehzad,Nasir Jamshed,KAJ Roach,3,0,3,NA,0,NA,NA,NA,0
+645637,2nd innings,Pakistan,West Indies,8.4,Nasir Jamshed,Ahmed Shehzad,KAJ Roach,0,0,0,NA,0,NA,NA,NA,0
+645637,2nd innings,Pakistan,West Indies,8.5,Nasir Jamshed,Ahmed Shehzad,KAJ Roach,6,0,6,NA,0,NA,NA,NA,0
+645637,2nd innings,Pakistan,West Indies,8.6,Nasir Jamshed,Ahmed Shehzad,KAJ Roach,0,0,0,NA,0,NA,NA,NA,0
+645637,2nd innings,Pakistan,West Indies,9.1,Ahmed Shehzad,Nasir Jamshed,JO Holder,0,0,0,NA,0,NA,NA,NA,0
+645637,2nd innings,Pakistan,West Indies,9.2,Ahmed Shehzad,Nasir Jamshed,JO Holder,6,0,6,NA,0,NA,NA,NA,0
+645637,2nd innings,Pakistan,West Indies,9.3,Ahmed Shehzad,Nasir Jamshed,JO Holder,0,0,0,NA,0,NA,NA,NA,0
+645637,2nd innings,Pakistan,West Indies,9.4,Ahmed Shehzad,Nasir Jamshed,JO Holder,1,0,1,NA,0,NA,NA,NA,0
+645637,2nd innings,Pakistan,West Indies,9.5,Nasir Jamshed,Ahmed Shehzad,JO Holder,0,0,0,NA,0,NA,NA,NA,0
+645637,2nd innings,Pakistan,West Indies,9.6,Nasir Jamshed,Ahmed Shehzad,JO Holder,0,0,0,NA,0,NA,NA,NA,0
+645637,2nd innings,Pakistan,West Indies,10.1,Ahmed Shehzad,Nasir Jamshed,KAJ Roach,2,0,2,NA,0,NA,NA,NA,0
+645637,2nd innings,Pakistan,West Indies,10.2,Ahmed Shehzad,Nasir Jamshed,KAJ Roach,0,0,0,NA,0,NA,NA,NA,0
+645637,2nd innings,Pakistan,West Indies,10.3,Ahmed Shehzad,Nasir Jamshed,KAJ Roach,2,0,2,NA,0,NA,NA,NA,0
+645637,2nd innings,Pakistan,West Indies,10.4,Ahmed Shehzad,Nasir Jamshed,KAJ Roach,0,0,0,NA,1,caught,Ahmed Shehzad,J Charles,0
+645637,2nd innings,Pakistan,West Indies,10.5,Mohammad Hafeez,Nasir Jamshed,KAJ Roach,1,0,1,NA,0,NA,NA,NA,0
+645637,2nd innings,Pakistan,West Indies,10.6,Nasir Jamshed,Mohammad Hafeez,KAJ Roach,0,0,0,NA,0,NA,NA,NA,0
+645637,2nd innings,Pakistan,West Indies,11.1,Mohammad Hafeez,Nasir Jamshed,SP Narine,4,0,4,NA,0,NA,NA,NA,0
+645637,2nd innings,Pakistan,West Indies,11.2,Mohammad Hafeez,Nasir Jamshed,SP Narine,1,0,1,NA,0,NA,NA,NA,0
+645637,2nd innings,Pakistan,West Indies,11.3,Nasir Jamshed,Mohammad Hafeez,SP Narine,0,0,0,NA,0,NA,NA,NA,0
+645637,2nd innings,Pakistan,West Indies,11.4,Nasir Jamshed,Mohammad Hafeez,SP Narine,0,0,0,NA,0,NA,NA,NA,0
+645637,2nd innings,Pakistan,West Indies,11.5,Nasir Jamshed,Mohammad Hafeez,SP Narine,1,0,1,NA,0,NA,NA,NA,0
+645637,2nd innings,Pakistan,West Indies,11.6,Mohammad Hafeez,Nasir Jamshed,SP Narine,0,0,0,NA,0,NA,NA,NA,0
+645637,2nd innings,Pakistan,West Indies,12.1,Nasir Jamshed,Mohammad Hafeez,DJG Sammy,0,0,0,NA,0,NA,NA,NA,0
+645637,2nd innings,Pakistan,West Indies,12.2,Nasir Jamshed,Mohammad Hafeez,DJG Sammy,0,0,0,NA,0,NA,NA,NA,0
+645637,2nd innings,Pakistan,West Indies,12.3,Nasir Jamshed,Mohammad Hafeez,DJG Sammy,1,0,1,NA,0,NA,NA,NA,0
+645637,2nd innings,Pakistan,West Indies,12.4,Mohammad Hafeez,Nasir Jamshed,DJG Sammy,0,0,0,NA,0,NA,NA,NA,0
+645637,2nd innings,Pakistan,West Indies,12.5,Mohammad Hafeez,Nasir Jamshed,DJG Sammy,1,0,1,NA,0,NA,NA,NA,0
+645637,2nd innings,Pakistan,West Indies,12.6,Nasir Jamshed,Mohammad Hafeez,DJG Sammy,4,0,4,NA,0,NA,NA,NA,0
+645637,2nd innings,Pakistan,West Indies,13.1,Mohammad Hafeez,Nasir Jamshed,SP Narine,0,0,0,NA,0,NA,NA,NA,0
+645637,2nd innings,Pakistan,West Indies,13.2,Mohammad Hafeez,Nasir Jamshed,SP Narine,0,0,0,NA,0,NA,NA,NA,0
+645637,2nd innings,Pakistan,West Indies,13.3,Mohammad Hafeez,Nasir Jamshed,SP Narine,0,0,0,NA,0,NA,NA,NA,0
+645637,2nd innings,Pakistan,West Indies,13.4,Mohammad Hafeez,Nasir Jamshed,SP Narine,0,0,0,NA,0,NA,NA,NA,0
+645637,2nd innings,Pakistan,West Indies,13.5,Mohammad Hafeez,Nasir Jamshed,SP Narine,1,0,1,NA,0,NA,NA,NA,0
+645637,2nd innings,Pakistan,West Indies,13.6,Nasir Jamshed,Mohammad Hafeez,SP Narine,0,0,0,NA,0,NA,NA,NA,0
+645637,2nd innings,Pakistan,West Indies,14.1,Mohammad Hafeez,Nasir Jamshed,DJG Sammy,4,0,4,NA,0,NA,NA,NA,0
+645637,2nd innings,Pakistan,West Indies,14.2,Mohammad Hafeez,Nasir Jamshed,DJG Sammy,0,0,0,NA,0,NA,NA,NA,0
+645637,2nd innings,Pakistan,West Indies,14.3,Mohammad Hafeez,Nasir Jamshed,DJG Sammy,0,0,0,NA,0,NA,NA,NA,0
+645637,2nd innings,Pakistan,West Indies,14.4,Mohammad Hafeez,Nasir Jamshed,DJG Sammy,1,0,1,NA,0,NA,NA,NA,0
+645637,2nd innings,Pakistan,West Indies,14.5,Nasir Jamshed,Mohammad Hafeez,DJG Sammy,0,0,0,NA,0,NA,NA,NA,0
+645637,2nd innings,Pakistan,West Indies,14.6,Nasir Jamshed,Mohammad Hafeez,DJG Sammy,0,0,0,NA,0,NA,NA,NA,0
+645637,2nd innings,Pakistan,West Indies,15.1,Mohammad Hafeez,Nasir Jamshed,SP Narine,1,0,1,NA,0,NA,NA,NA,0
+645637,2nd innings,Pakistan,West Indies,15.2,Nasir Jamshed,Mohammad Hafeez,SP Narine,1,0,1,NA,0,NA,NA,NA,0
+645637,2nd innings,Pakistan,West Indies,15.3,Mohammad Hafeez,Nasir Jamshed,SP Narine,0,0,0,NA,0,NA,NA,NA,0
+645637,2nd innings,Pakistan,West Indies,15.4,Mohammad Hafeez,Nasir Jamshed,SP Narine,1,0,1,NA,0,NA,NA,NA,0
+645637,2nd innings,Pakistan,West Indies,15.5,Nasir Jamshed,Mohammad Hafeez,SP Narine,0,0,0,NA,0,NA,NA,NA,0
+645637,2nd innings,Pakistan,West Indies,15.6,Nasir Jamshed,Mohammad Hafeez,SP Narine,0,0,0,NA,0,NA,NA,NA,0
+645637,2nd innings,Pakistan,West Indies,16.1,Mohammad Hafeez,Nasir Jamshed,DJG Sammy,0,0,0,NA,0,NA,NA,NA,0
+645637,2nd innings,Pakistan,West Indies,16.2,Mohammad Hafeez,Nasir Jamshed,DJG Sammy,0,0,0,NA,0,NA,NA,NA,0
+645637,2nd innings,Pakistan,West Indies,16.3,Mohammad Hafeez,Nasir Jamshed,DJG Sammy,0,0,0,NA,0,NA,NA,NA,0
+645637,2nd innings,Pakistan,West Indies,16.4,Mohammad Hafeez,Nasir Jamshed,DJG Sammy,4,0,4,NA,0,NA,NA,NA,0
+645637,2nd innings,Pakistan,West Indies,16.5,Mohammad Hafeez,Nasir Jamshed,DJG Sammy,0,0,0,NA,0,NA,NA,NA,0
+645637,2nd innings,Pakistan,West Indies,16.6,Mohammad Hafeez,Nasir Jamshed,DJG Sammy,1,0,1,NA,0,NA,NA,NA,0
+645637,2nd innings,Pakistan,West Indies,17.1,Mohammad Hafeez,Nasir Jamshed,SP Narine,0,0,0,NA,1,caught,Mohammad Hafeez,LMP Simmons,0
+645637,2nd innings,Pakistan,West Indies,17.2,Nasir Jamshed,Misbah-ul-Haq,SP Narine,0,0,0,NA,0,NA,NA,NA,0
+645637,2nd innings,Pakistan,West Indies,17.3,Nasir Jamshed,Misbah-ul-Haq,SP Narine,0,0,0,NA,0,NA,NA,NA,0
+645637,2nd innings,Pakistan,West Indies,17.4,Nasir Jamshed,Misbah-ul-Haq,SP Narine,0,0,0,NA,0,NA,NA,NA,0
+645637,2nd innings,Pakistan,West Indies,17.5,Nasir Jamshed,Misbah-ul-Haq,SP Narine,0,0,0,NA,0,NA,NA,NA,0
+645637,2nd innings,Pakistan,West Indies,17.6,Nasir Jamshed,Misbah-ul-Haq,SP Narine,0,0,0,NA,0,NA,NA,NA,0
+645637,2nd innings,Pakistan,West Indies,18.1,Misbah-ul-Haq,Nasir Jamshed,JO Holder,0,0,0,NA,0,NA,NA,NA,0
+645637,2nd innings,Pakistan,West Indies,18.2,Misbah-ul-Haq,Nasir Jamshed,JO Holder,0,0,0,NA,0,NA,NA,NA,0
+645637,2nd innings,Pakistan,West Indies,18.3,Misbah-ul-Haq,Nasir Jamshed,JO Holder,0,0,0,NA,0,NA,NA,NA,0
+645637,2nd innings,Pakistan,West Indies,18.4,Misbah-ul-Haq,Nasir Jamshed,JO Holder,0,0,0,NA,0,NA,NA,NA,0
+645637,2nd innings,Pakistan,West Indies,18.5,Misbah-ul-Haq,Nasir Jamshed,JO Holder,0,0,0,NA,0,NA,NA,NA,0
+645637,2nd innings,Pakistan,West Indies,18.6,Misbah-ul-Haq,Nasir Jamshed,JO Holder,0,0,0,NA,0,NA,NA,NA,0
+645637,2nd innings,Pakistan,West Indies,19.1,Nasir Jamshed,Misbah-ul-Haq,SP Narine,1,0,1,NA,0,NA,NA,NA,0
+645637,2nd innings,Pakistan,West Indies,19.2,Misbah-ul-Haq,Nasir Jamshed,SP Narine,0,0,0,NA,0,NA,NA,NA,0
+645637,2nd innings,Pakistan,West Indies,19.3,Misbah-ul-Haq,Nasir Jamshed,SP Narine,0,0,0,NA,0,NA,NA,NA,0
+645637,2nd innings,Pakistan,West Indies,19.4,Misbah-ul-Haq,Nasir Jamshed,SP Narine,0,0,0,NA,0,NA,NA,NA,0
+645637,2nd innings,Pakistan,West Indies,19.5,Misbah-ul-Haq,Nasir Jamshed,SP Narine,0,0,0,NA,0,NA,NA,NA,0
+645637,2nd innings,Pakistan,West Indies,19.6,Misbah-ul-Haq,Nasir Jamshed,SP Narine,0,0,0,NA,0,NA,NA,NA,0
+645637,2nd innings,Pakistan,West Indies,20.1,Nasir Jamshed,Misbah-ul-Haq,JO Holder,0,0,0,NA,0,NA,NA,NA,0
+645637,2nd innings,Pakistan,West Indies,20.2,Nasir Jamshed,Misbah-ul-Haq,JO Holder,0,0,0,NA,0,NA,NA,NA,0
+645637,2nd innings,Pakistan,West Indies,20.3,Nasir Jamshed,Misbah-ul-Haq,JO Holder,1,0,1,NA,0,NA,NA,NA,0
+645637,2nd innings,Pakistan,West Indies,20.4,Misbah-ul-Haq,Nasir Jamshed,JO Holder,0,0,0,NA,0,NA,NA,NA,0
+645637,2nd innings,Pakistan,West Indies,20.5,Misbah-ul-Haq,Nasir Jamshed,JO Holder,4,0,4,NA,0,NA,NA,NA,0
+645637,2nd innings,Pakistan,West Indies,20.6,Misbah-ul-Haq,Nasir Jamshed,JO Holder,0,1,1,wides,0,NA,NA,NA,0
+645637,2nd innings,Pakistan,West Indies,20.7,Misbah-ul-Haq,Nasir Jamshed,JO Holder,0,0,0,NA,0,NA,NA,NA,0
+645637,2nd innings,Pakistan,West Indies,21.1,Nasir Jamshed,Misbah-ul-Haq,MN Samuels,1,0,1,NA,0,NA,NA,NA,0
+645637,2nd innings,Pakistan,West Indies,21.2,Misbah-ul-Haq,Nasir Jamshed,MN Samuels,0,0,0,NA,0,NA,NA,NA,0
+645637,2nd innings,Pakistan,West Indies,21.3,Misbah-ul-Haq,Nasir Jamshed,MN Samuels,0,0,0,NA,0,NA,NA,NA,0
+645637,2nd innings,Pakistan,West Indies,21.4,Misbah-ul-Haq,Nasir Jamshed,MN Samuels,0,0,0,NA,0,NA,NA,NA,0
+645637,2nd innings,Pakistan,West Indies,21.5,Misbah-ul-Haq,Nasir Jamshed,MN Samuels,4,0,4,NA,0,NA,NA,NA,0
+645637,2nd innings,Pakistan,West Indies,21.6,Misbah-ul-Haq,Nasir Jamshed,MN Samuels,1,0,1,NA,0,NA,NA,NA,0
+645637,2nd innings,Pakistan,West Indies,22.1,Misbah-ul-Haq,Nasir Jamshed,DJG Sammy,0,0,0,NA,0,NA,NA,NA,0
+645637,2nd innings,Pakistan,West Indies,22.2,Misbah-ul-Haq,Nasir Jamshed,DJG Sammy,0,0,0,NA,0,NA,NA,NA,0
+645637,2nd innings,Pakistan,West Indies,22.3,Misbah-ul-Haq,Nasir Jamshed,DJG Sammy,0,0,0,NA,0,NA,NA,NA,0
+645637,2nd innings,Pakistan,West Indies,22.4,Misbah-ul-Haq,Nasir Jamshed,DJG Sammy,0,0,0,NA,0,NA,NA,NA,0
+645637,2nd innings,Pakistan,West Indies,22.5,Misbah-ul-Haq,Nasir Jamshed,DJG Sammy,0,0,0,NA,0,NA,NA,NA,0
+645637,2nd innings,Pakistan,West Indies,22.6,Misbah-ul-Haq,Nasir Jamshed,DJG Sammy,1,0,1,NA,0,NA,NA,NA,0
+645637,2nd innings,Pakistan,West Indies,23.1,Misbah-ul-Haq,Nasir Jamshed,MN Samuels,0,0,0,NA,0,NA,NA,NA,0
+645637,2nd innings,Pakistan,West Indies,23.2,Misbah-ul-Haq,Nasir Jamshed,MN Samuels,0,0,0,NA,0,NA,NA,NA,0
+645637,2nd innings,Pakistan,West Indies,23.3,Misbah-ul-Haq,Nasir Jamshed,MN Samuels,1,0,1,NA,0,NA,NA,NA,0
+645637,2nd innings,Pakistan,West Indies,23.4,Nasir Jamshed,Misbah-ul-Haq,MN Samuels,4,0,4,NA,0,NA,NA,NA,0
+645637,2nd innings,Pakistan,West Indies,23.5,Nasir Jamshed,Misbah-ul-Haq,MN Samuels,1,0,1,NA,0,NA,NA,NA,0
+645637,2nd innings,Pakistan,West Indies,23.6,Misbah-ul-Haq,Nasir Jamshed,MN Samuels,0,0,0,NA,0,NA,NA,NA,0
+645637,2nd innings,Pakistan,West Indies,24.1,Nasir Jamshed,Misbah-ul-Haq,DJG Sammy,1,0,1,NA,0,NA,NA,NA,0
+645637,2nd innings,Pakistan,West Indies,24.2,Misbah-ul-Haq,Nasir Jamshed,DJG Sammy,1,0,1,NA,0,NA,NA,NA,0
+645637,2nd innings,Pakistan,West Indies,24.3,Nasir Jamshed,Misbah-ul-Haq,DJG Sammy,3,0,3,NA,0,NA,NA,NA,0
+645637,2nd innings,Pakistan,West Indies,24.4,Misbah-ul-Haq,Nasir Jamshed,DJG Sammy,0,0,0,NA,0,NA,NA,NA,0
+645637,2nd innings,Pakistan,West Indies,24.5,Misbah-ul-Haq,Nasir Jamshed,DJG Sammy,1,0,1,NA,0,NA,NA,NA,0
+645637,2nd innings,Pakistan,West Indies,24.6,Nasir Jamshed,Misbah-ul-Haq,DJG Sammy,0,0,0,NA,0,NA,NA,NA,0
+645637,2nd innings,Pakistan,West Indies,25.1,Misbah-ul-Haq,Nasir Jamshed,MN Samuels,1,0,1,NA,0,NA,NA,NA,0
+645637,2nd innings,Pakistan,West Indies,25.2,Nasir Jamshed,Misbah-ul-Haq,MN Samuels,0,0,0,NA,0,NA,NA,NA,0
+645637,2nd innings,Pakistan,West Indies,25.3,Nasir Jamshed,Misbah-ul-Haq,MN Samuels,0,0,0,NA,0,NA,NA,NA,0
+645637,2nd innings,Pakistan,West Indies,25.4,Nasir Jamshed,Misbah-ul-Haq,MN Samuels,1,0,1,NA,0,NA,NA,NA,0
+645637,2nd innings,Pakistan,West Indies,25.5,Misbah-ul-Haq,Nasir Jamshed,MN Samuels,1,0,1,NA,0,NA,NA,NA,0
+645637,2nd innings,Pakistan,West Indies,25.6,Nasir Jamshed,Misbah-ul-Haq,MN Samuels,1,0,1,NA,0,NA,NA,NA,0
+645637,2nd innings,Pakistan,West Indies,26.1,Nasir Jamshed,Misbah-ul-Haq,DJG Sammy,0,0,0,NA,0,NA,NA,NA,0
+645637,2nd innings,Pakistan,West Indies,26.2,Nasir Jamshed,Misbah-ul-Haq,DJG Sammy,1,0,1,NA,0,NA,NA,NA,0
+645637,2nd innings,Pakistan,West Indies,26.3,Misbah-ul-Haq,Nasir Jamshed,DJG Sammy,1,0,1,NA,0,NA,NA,NA,0
+645637,2nd innings,Pakistan,West Indies,26.4,Nasir Jamshed,Misbah-ul-Haq,DJG Sammy,0,0,0,NA,0,NA,NA,NA,0
+645637,2nd innings,Pakistan,West Indies,26.5,Nasir Jamshed,Misbah-ul-Haq,DJG Sammy,0,0,0,NA,0,NA,NA,NA,0
+645637,2nd innings,Pakistan,West Indies,26.6,Nasir Jamshed,Misbah-ul-Haq,DJG Sammy,4,0,4,NA,0,NA,NA,NA,0
+645637,2nd innings,Pakistan,West Indies,27.1,Misbah-ul-Haq,Nasir Jamshed,MN Samuels,0,0,0,NA,0,NA,NA,NA,0
+645637,2nd innings,Pakistan,West Indies,27.2,Misbah-ul-Haq,Nasir Jamshed,MN Samuels,0,0,0,NA,0,NA,NA,NA,0
+645637,2nd innings,Pakistan,West Indies,27.3,Misbah-ul-Haq,Nasir Jamshed,MN Samuels,1,0,1,NA,0,NA,NA,NA,0
+645637,2nd innings,Pakistan,West Indies,27.4,Nasir Jamshed,Misbah-ul-Haq,MN Samuels,0,0,0,NA,0,NA,NA,NA,0
+645637,2nd innings,Pakistan,West Indies,27.5,Nasir Jamshed,Misbah-ul-Haq,MN Samuels,0,0,0,NA,0,NA,NA,NA,0
+645637,2nd innings,Pakistan,West Indies,27.6,Nasir Jamshed,Misbah-ul-Haq,MN Samuels,1,0,1,NA,0,NA,NA,NA,0
+645637,2nd innings,Pakistan,West Indies,28.1,Nasir Jamshed,Misbah-ul-Haq,DJG Sammy,1,0,1,NA,0,NA,NA,NA,0
+645637,2nd innings,Pakistan,West Indies,28.2,Misbah-ul-Haq,Nasir Jamshed,DJG Sammy,0,0,0,NA,0,NA,NA,NA,0
+645637,2nd innings,Pakistan,West Indies,28.3,Misbah-ul-Haq,Nasir Jamshed,DJG Sammy,0,0,0,NA,0,NA,NA,NA,0
+645637,2nd innings,Pakistan,West Indies,28.4,Misbah-ul-Haq,Nasir Jamshed,DJG Sammy,0,0,0,NA,1,bowled,Misbah-ul-Haq,NA,0
+645637,2nd innings,Pakistan,West Indies,28.5,Asad Shafiq,Nasir Jamshed,DJG Sammy,0,0,0,NA,0,NA,NA,NA,0
+645637,2nd innings,Pakistan,West Indies,28.6,Asad Shafiq,Nasir Jamshed,DJG Sammy,0,0,0,NA,0,NA,NA,NA,0
+645637,2nd innings,Pakistan,West Indies,29.1,Nasir Jamshed,Asad Shafiq,MN Samuels,0,0,0,NA,0,NA,NA,NA,0
+645637,2nd innings,Pakistan,West Indies,29.2,Nasir Jamshed,Asad Shafiq,MN Samuels,0,0,0,NA,0,NA,NA,NA,0
+645637,2nd innings,Pakistan,West Indies,29.3,Nasir Jamshed,Asad Shafiq,MN Samuels,2,0,2,NA,0,NA,NA,NA,0
+645637,2nd innings,Pakistan,West Indies,29.4,Nasir Jamshed,Asad Shafiq,MN Samuels,2,0,2,NA,0,NA,NA,NA,0
+645637,2nd innings,Pakistan,West Indies,29.5,Nasir Jamshed,Asad Shafiq,MN Samuels,0,0,0,NA,0,NA,NA,NA,0
+645637,2nd innings,Pakistan,West Indies,29.6,Nasir Jamshed,Asad Shafiq,MN Samuels,0,0,0,NA,0,NA,NA,NA,0
+645637,2nd innings,Pakistan,West Indies,30.1,Asad Shafiq,Nasir Jamshed,DJG Sammy,0,0,0,NA,0,NA,NA,NA,0
+645637,2nd innings,Pakistan,West Indies,30.2,Asad Shafiq,Nasir Jamshed,DJG Sammy,0,1,1,wides,0,NA,NA,NA,0
+645637,2nd innings,Pakistan,West Indies,30.3,Asad Shafiq,Nasir Jamshed,DJG Sammy,4,0,4,NA,0,NA,NA,NA,0
+645637,2nd innings,Pakistan,West Indies,30.4,Asad Shafiq,Nasir Jamshed,DJG Sammy,0,0,0,NA,0,NA,NA,NA,0
+645637,2nd innings,Pakistan,West Indies,30.5,Asad Shafiq,Nasir Jamshed,DJG Sammy,0,0,0,NA,0,NA,NA,NA,0
+645637,2nd innings,Pakistan,West Indies,30.6,Asad Shafiq,Nasir Jamshed,DJG Sammy,0,0,0,NA,0,NA,NA,NA,0
+645637,2nd innings,Pakistan,West Indies,30.7,Asad Shafiq,Nasir Jamshed,DJG Sammy,0,0,0,NA,0,NA,NA,NA,0
+645637,2nd innings,Pakistan,West Indies,31.1,Nasir Jamshed,Asad Shafiq,MN Samuels,1,0,1,NA,0,NA,NA,NA,0
+645637,2nd innings,Pakistan,West Indies,31.2,Asad Shafiq,Nasir Jamshed,MN Samuels,0,1,1,wides,0,NA,NA,NA,0
+645637,2nd innings,Pakistan,West Indies,31.3,Asad Shafiq,Nasir Jamshed,MN Samuels,0,0,0,NA,0,NA,NA,NA,0
+645637,2nd innings,Pakistan,West Indies,31.4,Asad Shafiq,Nasir Jamshed,MN Samuels,1,0,1,NA,0,NA,NA,NA,0
+645637,2nd innings,Pakistan,West Indies,31.5,Nasir Jamshed,Asad Shafiq,MN Samuels,1,0,1,NA,0,NA,NA,NA,0
+645637,2nd innings,Pakistan,West Indies,31.6,Asad Shafiq,Nasir Jamshed,MN Samuels,1,0,1,NA,0,NA,NA,NA,0
+645637,2nd innings,Pakistan,West Indies,31.7,Nasir Jamshed,Asad Shafiq,MN Samuels,0,0,0,NA,0,NA,NA,NA,0
+645637,2nd innings,Pakistan,West Indies,32.1,Asad Shafiq,Nasir Jamshed,DJG Sammy,2,0,2,NA,0,NA,NA,NA,0
+645637,2nd innings,Pakistan,West Indies,32.2,Asad Shafiq,Nasir Jamshed,DJG Sammy,1,0,1,NA,0,NA,NA,NA,0
+645637,2nd innings,Pakistan,West Indies,32.3,Nasir Jamshed,Asad Shafiq,DJG Sammy,1,0,1,NA,0,NA,NA,NA,0
+645637,2nd innings,Pakistan,West Indies,32.4,Asad Shafiq,Nasir Jamshed,DJG Sammy,0,0,0,NA,0,NA,NA,NA,0
+645637,2nd innings,Pakistan,West Indies,32.5,Asad Shafiq,Nasir Jamshed,DJG Sammy,0,0,0,NA,0,NA,NA,NA,0
+645637,2nd innings,Pakistan,West Indies,32.6,Asad Shafiq,Nasir Jamshed,DJG Sammy,1,0,1,NA,0,NA,NA,NA,0
+645637,2nd innings,Pakistan,West Indies,33.1,Asad Shafiq,Nasir Jamshed,MN Samuels,0,0,0,NA,1,caught,Asad Shafiq,JO Holder,0
+645637,2nd innings,Pakistan,West Indies,33.2,Umar Akmal,Nasir Jamshed,MN Samuels,0,0,0,NA,0,NA,NA,NA,0
+645637,2nd innings,Pakistan,West Indies,33.3,Umar Akmal,Nasir Jamshed,MN Samuels,0,0,0,NA,0,NA,NA,NA,0
+645637,2nd innings,Pakistan,West Indies,33.4,Umar Akmal,Nasir Jamshed,MN Samuels,4,0,4,NA,0,NA,NA,NA,0
+645637,2nd innings,Pakistan,West Indies,33.5,Umar Akmal,Nasir Jamshed,MN Samuels,0,1,1,wides,0,NA,NA,NA,0
+645637,2nd innings,Pakistan,West Indies,33.6,Umar Akmal,Nasir Jamshed,MN Samuels,0,0,0,NA,0,NA,NA,NA,0
+645637,2nd innings,Pakistan,West Indies,33.7,Umar Akmal,Nasir Jamshed,MN Samuels,0,0,0,NA,0,NA,NA,NA,0
+645637,2nd innings,Pakistan,West Indies,34.1,Nasir Jamshed,Umar Akmal,DJG Sammy,0,0,0,NA,0,NA,NA,NA,0
+645637,2nd innings,Pakistan,West Indies,34.2,Nasir Jamshed,Umar Akmal,DJG Sammy,4,0,4,NA,0,NA,NA,NA,0
+645637,2nd innings,Pakistan,West Indies,34.3,Nasir Jamshed,Umar Akmal,DJG Sammy,0,0,0,NA,0,NA,NA,NA,0
+645637,2nd innings,Pakistan,West Indies,34.4,Nasir Jamshed,Umar Akmal,DJG Sammy,2,0,2,NA,0,NA,NA,NA,0
+645637,2nd innings,Pakistan,West Indies,34.5,Nasir Jamshed,Umar Akmal,DJG Sammy,0,0,0,NA,0,NA,NA,NA,0
+645637,2nd innings,Pakistan,West Indies,34.6,Nasir Jamshed,Umar Akmal,DJG Sammy,0,0,0,NA,0,NA,NA,NA,0
+645637,2nd innings,Pakistan,West Indies,35.1,Umar Akmal,Nasir Jamshed,SP Narine,1,0,1,NA,0,NA,NA,NA,0
+645637,2nd innings,Pakistan,West Indies,35.2,Nasir Jamshed,Umar Akmal,SP Narine,0,0,0,NA,0,NA,NA,NA,0
+645637,2nd innings,Pakistan,West Indies,35.3,Nasir Jamshed,Umar Akmal,SP Narine,0,0,0,NA,0,NA,NA,NA,0
+645637,2nd innings,Pakistan,West Indies,35.4,Nasir Jamshed,Umar Akmal,SP Narine,1,0,1,NA,0,NA,NA,NA,0
+645637,2nd innings,Pakistan,West Indies,35.5,Umar Akmal,Nasir Jamshed,SP Narine,0,0,0,NA,0,NA,NA,NA,0
+645637,2nd innings,Pakistan,West Indies,35.6,Umar Akmal,Nasir Jamshed,SP Narine,1,0,1,NA,0,NA,NA,NA,0
+645637,2nd innings,Pakistan,West Indies,36.1,Umar Akmal,Nasir Jamshed,KA Pollard,1,0,1,NA,0,NA,NA,NA,0
+645637,2nd innings,Pakistan,West Indies,36.2,Nasir Jamshed,Umar Akmal,KA Pollard,0,0,0,NA,1,caught,Nasir Jamshed,KAJ Roach,0
+645637,2nd innings,Pakistan,West Indies,36.3,Umar Akmal,Shahid Afridi,KA Pollard,1,0,1,NA,0,NA,NA,NA,0
+645637,2nd innings,Pakistan,West Indies,36.4,Shahid Afridi,Umar Akmal,KA Pollard,0,0,0,NA,0,NA,NA,NA,0
+645637,2nd innings,Pakistan,West Indies,36.5,Shahid Afridi,Umar Akmal,KA Pollard,0,0,0,NA,0,NA,NA,NA,0
+645637,2nd innings,Pakistan,West Indies,36.6,Shahid Afridi,Umar Akmal,KA Pollard,0,0,0,NA,0,NA,NA,NA,0
+645637,2nd innings,Pakistan,West Indies,37.1,Umar Akmal,Shahid Afridi,SP Narine,0,0,0,NA,0,NA,NA,NA,0
+645637,2nd innings,Pakistan,West Indies,37.2,Umar Akmal,Shahid Afridi,SP Narine,0,0,0,NA,0,NA,NA,NA,0
+645637,2nd innings,Pakistan,West Indies,37.3,Umar Akmal,Shahid Afridi,SP Narine,0,0,0,NA,0,NA,NA,NA,0
+645637,2nd innings,Pakistan,West Indies,37.4,Umar Akmal,Shahid Afridi,SP Narine,4,0,4,NA,0,NA,NA,NA,0
+645637,2nd innings,Pakistan,West Indies,37.5,Umar Akmal,Shahid Afridi,SP Narine,0,0,0,NA,0,NA,NA,NA,0
+645637,2nd innings,Pakistan,West Indies,37.6,Umar Akmal,Shahid Afridi,SP Narine,1,0,1,NA,0,NA,NA,NA,0
+645637,2nd innings,Pakistan,West Indies,38.1,Umar Akmal,Shahid Afridi,KA Pollard,0,0,0,NA,0,NA,NA,NA,0
+645637,2nd innings,Pakistan,West Indies,38.2,Umar Akmal,Shahid Afridi,KA Pollard,1,0,1,NA,0,NA,NA,NA,0
+645637,2nd innings,Pakistan,West Indies,38.3,Shahid Afridi,Umar Akmal,KA Pollard,2,0,2,NA,0,NA,NA,NA,0
+645637,2nd innings,Pakistan,West Indies,38.4,Shahid Afridi,Umar Akmal,KA Pollard,1,0,1,NA,0,NA,NA,NA,0
+645637,2nd innings,Pakistan,West Indies,38.5,Umar Akmal,Shahid Afridi,KA Pollard,1,0,1,NA,0,NA,NA,NA,0
+645637,2nd innings,Pakistan,West Indies,38.6,Shahid Afridi,Umar Akmal,KA Pollard,1,0,1,NA,0,NA,NA,NA,0
+645637,2nd innings,Pakistan,West Indies,39.1,Shahid Afridi,Umar Akmal,SP Narine,0,0,0,NA,0,NA,NA,NA,0
+645637,2nd innings,Pakistan,West Indies,39.2,Shahid Afridi,Umar Akmal,SP Narine,0,0,0,NA,0,NA,NA,NA,0
+645637,2nd innings,Pakistan,West Indies,39.3,Shahid Afridi,Umar Akmal,SP Narine,1,0,1,NA,0,NA,NA,NA,0
+645637,2nd innings,Pakistan,West Indies,39.4,Umar Akmal,Shahid Afridi,SP Narine,1,0,1,NA,0,NA,NA,NA,0
+645637,2nd innings,Pakistan,West Indies,39.5,Shahid Afridi,Umar Akmal,SP Narine,0,0,0,NA,1,stumped,Shahid Afridi,J Charles,0
+645637,2nd innings,Pakistan,West Indies,39.6,Wahab Riaz,Umar Akmal,SP Narine,0,0,0,NA,0,NA,NA,NA,0
+645637,2nd innings,Pakistan,West Indies,40.1,Umar Akmal,Wahab Riaz,KA Pollard,1,0,1,NA,0,NA,NA,NA,0
+645637,2nd innings,Pakistan,West Indies,40.2,Wahab Riaz,Umar Akmal,KA Pollard,0,0,0,NA,0,NA,NA,NA,0
+645637,2nd innings,Pakistan,West Indies,40.3,Wahab Riaz,Umar Akmal,KA Pollard,0,0,0,NA,0,NA,NA,NA,0
+645637,2nd innings,Pakistan,West Indies,40.4,Wahab Riaz,Umar Akmal,KA Pollard,1,0,1,NA,0,NA,NA,NA,0
+645637,2nd innings,Pakistan,West Indies,40.5,Umar Akmal,Wahab Riaz,KA Pollard,2,0,2,NA,0,NA,NA,NA,0
+645637,2nd innings,Pakistan,West Indies,40.6,Umar Akmal,Wahab Riaz,KA Pollard,1,0,1,NA,0,NA,NA,NA,0
+645637,2nd innings,Pakistan,West Indies,41.1,Umar Akmal,Wahab Riaz,SP Narine,1,0,1,NA,0,NA,NA,NA,0
+645637,2nd innings,Pakistan,West Indies,41.2,Wahab Riaz,Umar Akmal,SP Narine,0,0,0,NA,0,NA,NA,NA,0
+645637,2nd innings,Pakistan,West Indies,41.3,Wahab Riaz,Umar Akmal,SP Narine,1,0,1,NA,0,NA,NA,NA,0
+645637,2nd innings,Pakistan,West Indies,41.4,Umar Akmal,Wahab Riaz,SP Narine,0,0,0,NA,0,NA,NA,NA,0
+645637,2nd innings,Pakistan,West Indies,41.5,Umar Akmal,Wahab Riaz,SP Narine,0,1,1,wides,0,NA,NA,NA,0
+645637,2nd innings,Pakistan,West Indies,41.6,Umar Akmal,Wahab Riaz,SP Narine,0,0,0,NA,0,NA,NA,NA,0
+645637,2nd innings,Pakistan,West Indies,41.7,Umar Akmal,Wahab Riaz,SP Narine,0,0,0,NA,0,NA,NA,NA,0
+645637,2nd innings,Pakistan,West Indies,42.1,Wahab Riaz,Umar Akmal,KA Pollard,1,0,1,NA,0,NA,NA,NA,0
+645637,2nd innings,Pakistan,West Indies,42.2,Umar Akmal,Wahab Riaz,KA Pollard,0,0,0,NA,0,NA,NA,NA,0
+645637,2nd innings,Pakistan,West Indies,42.3,Umar Akmal,Wahab Riaz,KA Pollard,0,0,0,NA,0,NA,NA,NA,0
+645637,2nd innings,Pakistan,West Indies,42.4,Umar Akmal,Wahab Riaz,KA Pollard,1,0,1,NA,0,NA,NA,NA,0
+645637,2nd innings,Pakistan,West Indies,42.5,Wahab Riaz,Umar Akmal,KA Pollard,0,0,0,NA,0,NA,NA,NA,0
+645637,2nd innings,Pakistan,West Indies,42.6,Wahab Riaz,Umar Akmal,KA Pollard,0,1,1,legbyes,0,NA,NA,NA,0
+645637,2nd innings,Pakistan,West Indies,43.1,Wahab Riaz,Umar Akmal,SP Narine,0,0,0,NA,1,bowled,Wahab Riaz,NA,0
+645637,2nd innings,Pakistan,West Indies,43.2,Saeed Ajmal,Umar Akmal,SP Narine,1,0,1,NA,0,NA,NA,NA,0
+645637,2nd innings,Pakistan,West Indies,43.3,Umar Akmal,Saeed Ajmal,SP Narine,1,0,1,NA,0,NA,NA,NA,0
+645637,2nd innings,Pakistan,West Indies,43.4,Saeed Ajmal,Umar Akmal,SP Narine,0,0,0,NA,1,caught,Saeed Ajmal,DJG Sammy,0
+645637,2nd innings,Pakistan,West Indies,43.5,Asad Ali,Umar Akmal,SP Narine,0,0,0,NA,0,NA,NA,NA,0
+645637,2nd innings,Pakistan,West Indies,43.6,Asad Ali,Umar Akmal,SP Narine,0,2,2,legbyes,0,NA,NA,NA,0
+645637,2nd innings,Pakistan,West Indies,44.1,Umar Akmal,Asad Ali,KA Pollard,2,0,2,NA,0,NA,NA,NA,0
+645637,2nd innings,Pakistan,West Indies,44.2,Umar Akmal,Asad Ali,KA Pollard,2,0,2,NA,0,NA,NA,NA,0
+645637,2nd innings,Pakistan,West Indies,44.3,Umar Akmal,Asad Ali,KA Pollard,1,0,1,NA,0,NA,NA,NA,0
+645637,2nd innings,Pakistan,West Indies,44.4,Asad Ali,Umar Akmal,KA Pollard,0,0,0,NA,0,NA,NA,NA,0
+645637,2nd innings,Pakistan,West Indies,44.5,Asad Ali,Umar Akmal,KA Pollard,1,0,1,NA,0,NA,NA,NA,0
+645637,2nd innings,Pakistan,West Indies,44.6,Umar Akmal,Asad Ali,KA Pollard,1,0,1,NA,0,NA,NA,NA,0
+645637,2nd innings,Pakistan,West Indies,45.1,Umar Akmal,Asad Ali,DJ Bravo,1,0,1,NA,0,NA,NA,NA,0
+645637,2nd innings,Pakistan,West Indies,45.2,Asad Ali,Umar Akmal,DJ Bravo,0,0,0,NA,0,NA,NA,NA,0
+645637,2nd innings,Pakistan,West Indies,45.3,Asad Ali,Umar Akmal,DJ Bravo,0,0,0,NA,0,NA,NA,NA,0
+645637,2nd innings,Pakistan,West Indies,45.4,Asad Ali,Umar Akmal,DJ Bravo,1,0,1,NA,0,NA,NA,NA,0
+645637,2nd innings,Pakistan,West Indies,45.5,Umar Akmal,Asad Ali,DJ Bravo,1,0,1,NA,0,NA,NA,NA,0
+645637,2nd innings,Pakistan,West Indies,45.6,Asad Ali,Umar Akmal,DJ Bravo,0,0,0,NA,0,NA,NA,NA,0
+645637,2nd innings,Pakistan,West Indies,46.1,Umar Akmal,Asad Ali,KA Pollard,0,0,0,NA,0,NA,NA,NA,0
+645637,2nd innings,Pakistan,West Indies,46.2,Umar Akmal,Asad Ali,KA Pollard,4,0,4,NA,0,NA,NA,NA,0
+645637,2nd innings,Pakistan,West Indies,46.3,Umar Akmal,Asad Ali,KA Pollard,4,0,4,NA,0,NA,NA,NA,0
+645637,2nd innings,Pakistan,West Indies,46.4,Umar Akmal,Asad Ali,KA Pollard,4,0,4,NA,0,NA,NA,NA,0
+645637,2nd innings,Pakistan,West Indies,46.5,Umar Akmal,Asad Ali,KA Pollard,1,0,1,NA,0,NA,NA,NA,0
+645637,2nd innings,Pakistan,West Indies,46.6,Asad Ali,Umar Akmal,KA Pollard,0,0,0,NA,0,NA,NA,NA,0
+645637,2nd innings,Pakistan,West Indies,47.1,Umar Akmal,Asad Ali,DJ Bravo,0,0,0,NA,0,NA,NA,NA,0
+645637,2nd innings,Pakistan,West Indies,47.2,Umar Akmal,Asad Ali,DJ Bravo,0,0,0,NA,0,NA,NA,NA,0
+645637,2nd innings,Pakistan,West Indies,47.3,Umar Akmal,Asad Ali,DJ Bravo,6,0,6,NA,0,NA,NA,NA,0
+645637,2nd innings,Pakistan,West Indies,47.4,Umar Akmal,Asad Ali,DJ Bravo,0,0,0,NA,1,caught,Umar Akmal,MN Samuels,0
+645637,2nd innings,Pakistan,West Indies,47.5,Asad Ali,Mohammad Irfan,DJ Bravo,0,0,0,NA,1,caught,Asad Ali,KA Pollard,0

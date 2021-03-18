@@ -1,0 +1,460 @@
+match_id,innings,team,opponent,ball,batsman,non_striker,bowler,scored_runs,extras,total,extra_type,wicket,wicket_type,player_out,fielders,winner
+1187716,1st innings,New Zealand,South Africa,0.1,LR Down,ML Green,M Kapp,0,0,0,NA,0,NA,NA,NA,0
+1187716,1st innings,New Zealand,South Africa,0.2,LR Down,ML Green,M Kapp,0,0,0,NA,0,NA,NA,NA,0
+1187716,1st innings,New Zealand,South Africa,0.3,LR Down,ML Green,M Kapp,0,0,0,NA,0,NA,NA,NA,0
+1187716,1st innings,New Zealand,South Africa,0.4,LR Down,ML Green,M Kapp,1,0,1,NA,0,NA,NA,NA,0
+1187716,1st innings,New Zealand,South Africa,0.5,ML Green,LR Down,M Kapp,0,1,1,wides,0,NA,NA,NA,0
+1187716,1st innings,New Zealand,South Africa,0.6,ML Green,LR Down,M Kapp,0,0,0,NA,0,NA,NA,NA,0
+1187716,1st innings,New Zealand,South Africa,0.7,ML Green,LR Down,M Kapp,0,0,0,NA,0,NA,NA,NA,0
+1187716,1st innings,New Zealand,South Africa,1.1,LR Down,ML Green,S Ismail,0,0,0,NA,0,NA,NA,NA,0
+1187716,1st innings,New Zealand,South Africa,1.2,LR Down,ML Green,S Ismail,4,0,4,NA,0,NA,NA,NA,0
+1187716,1st innings,New Zealand,South Africa,1.3,LR Down,ML Green,S Ismail,0,0,0,NA,0,NA,NA,NA,0
+1187716,1st innings,New Zealand,South Africa,1.4,LR Down,ML Green,S Ismail,0,0,0,NA,0,NA,NA,NA,0
+1187716,1st innings,New Zealand,South Africa,1.5,LR Down,ML Green,S Ismail,2,0,2,NA,0,NA,NA,NA,0
+1187716,1st innings,New Zealand,South Africa,1.6,LR Down,ML Green,S Ismail,0,0,0,NA,0,NA,NA,NA,0
+1187716,1st innings,New Zealand,South Africa,2.1,ML Green,LR Down,M Kapp,0,0,0,NA,0,NA,NA,NA,0
+1187716,1st innings,New Zealand,South Africa,2.2,ML Green,LR Down,M Kapp,0,0,0,NA,0,NA,NA,NA,0
+1187716,1st innings,New Zealand,South Africa,2.3,ML Green,LR Down,M Kapp,0,0,0,NA,0,NA,NA,NA,0
+1187716,1st innings,New Zealand,South Africa,2.4,ML Green,LR Down,M Kapp,0,0,0,NA,0,NA,NA,NA,0
+1187716,1st innings,New Zealand,South Africa,2.5,ML Green,LR Down,M Kapp,0,0,0,NA,0,NA,NA,NA,0
+1187716,1st innings,New Zealand,South Africa,2.6,ML Green,LR Down,M Kapp,1,0,1,NA,0,NA,NA,NA,0
+1187716,1st innings,New Zealand,South Africa,3.1,ML Green,LR Down,S Ismail,0,0,0,NA,0,NA,NA,NA,0
+1187716,1st innings,New Zealand,South Africa,3.2,ML Green,LR Down,S Ismail,0,0,0,NA,0,NA,NA,NA,0
+1187716,1st innings,New Zealand,South Africa,3.3,ML Green,LR Down,S Ismail,0,0,0,NA,0,NA,NA,NA,0
+1187716,1st innings,New Zealand,South Africa,3.4,ML Green,LR Down,S Ismail,1,0,1,NA,0,NA,NA,NA,0
+1187716,1st innings,New Zealand,South Africa,3.5,LR Down,ML Green,S Ismail,0,0,0,NA,0,NA,NA,NA,0
+1187716,1st innings,New Zealand,South Africa,3.6,LR Down,ML Green,S Ismail,0,0,0,NA,1,bowled,LR Down,NA,0
+1187716,1st innings,New Zealand,South Africa,4.1,ML Green,SW Bates,M Kapp,1,0,1,NA,0,NA,NA,NA,0
+1187716,1st innings,New Zealand,South Africa,4.2,SW Bates,ML Green,M Kapp,0,0,0,NA,0,NA,NA,NA,0
+1187716,1st innings,New Zealand,South Africa,4.3,SW Bates,ML Green,M Kapp,0,0,0,NA,0,NA,NA,NA,0
+1187716,1st innings,New Zealand,South Africa,4.4,SW Bates,ML Green,M Kapp,0,0,0,NA,0,NA,NA,NA,0
+1187716,1st innings,New Zealand,South Africa,4.5,SW Bates,ML Green,M Kapp,0,0,0,NA,0,NA,NA,NA,0
+1187716,1st innings,New Zealand,South Africa,4.6,SW Bates,ML Green,M Kapp,0,0,0,NA,0,NA,NA,NA,0
+1187716,1st innings,New Zealand,South Africa,5.1,ML Green,SW Bates,S Ismail,1,0,1,NA,0,NA,NA,NA,0
+1187716,1st innings,New Zealand,South Africa,5.2,SW Bates,ML Green,S Ismail,0,0,0,NA,0,NA,NA,NA,0
+1187716,1st innings,New Zealand,South Africa,5.3,SW Bates,ML Green,S Ismail,0,0,0,NA,0,NA,NA,NA,0
+1187716,1st innings,New Zealand,South Africa,5.4,SW Bates,ML Green,S Ismail,0,0,0,NA,0,NA,NA,NA,0
+1187716,1st innings,New Zealand,South Africa,5.5,SW Bates,ML Green,S Ismail,1,0,1,NA,0,NA,NA,NA,0
+1187716,1st innings,New Zealand,South Africa,5.6,ML Green,SW Bates,S Ismail,1,0,1,NA,0,NA,NA,NA,0
+1187716,1st innings,New Zealand,South Africa,6.1,ML Green,SW Bates,M Kapp,0,0,0,NA,1,caught,ML Green,T Chetty,0
+1187716,1st innings,New Zealand,South Africa,6.2,SFM Devine,SW Bates,M Kapp,0,0,0,NA,0,NA,NA,NA,0
+1187716,1st innings,New Zealand,South Africa,6.3,SFM Devine,SW Bates,M Kapp,0,0,0,NA,0,NA,NA,NA,0
+1187716,1st innings,New Zealand,South Africa,6.4,SFM Devine,SW Bates,M Kapp,0,0,0,NA,0,NA,NA,NA,0
+1187716,1st innings,New Zealand,South Africa,6.5,SFM Devine,SW Bates,M Kapp,1,0,1,NA,0,NA,NA,NA,0
+1187716,1st innings,New Zealand,South Africa,6.6,SW Bates,SFM Devine,M Kapp,0,0,0,NA,0,NA,NA,NA,0
+1187716,1st innings,New Zealand,South Africa,7.1,SFM Devine,SW Bates,S Ismail,1,0,1,NA,0,NA,NA,NA,0
+1187716,1st innings,New Zealand,South Africa,7.2,SW Bates,SFM Devine,S Ismail,2,0,2,NA,0,NA,NA,NA,0
+1187716,1st innings,New Zealand,South Africa,7.3,SW Bates,SFM Devine,S Ismail,1,0,1,NA,0,NA,NA,NA,0
+1187716,1st innings,New Zealand,South Africa,7.4,SFM Devine,SW Bates,S Ismail,0,0,0,NA,0,NA,NA,NA,0
+1187716,1st innings,New Zealand,South Africa,7.5,SFM Devine,SW Bates,S Ismail,1,0,1,NA,0,NA,NA,NA,0
+1187716,1st innings,New Zealand,South Africa,7.6,SW Bates,SFM Devine,S Ismail,0,0,0,NA,0,NA,NA,NA,0
+1187716,1st innings,New Zealand,South Africa,8.1,SFM Devine,SW Bates,M Klaas,0,0,0,NA,0,NA,NA,NA,0
+1187716,1st innings,New Zealand,South Africa,8.2,SFM Devine,SW Bates,M Klaas,4,0,4,NA,0,NA,NA,NA,0
+1187716,1st innings,New Zealand,South Africa,8.3,SFM Devine,SW Bates,M Klaas,0,0,0,NA,0,NA,NA,NA,0
+1187716,1st innings,New Zealand,South Africa,8.4,SFM Devine,SW Bates,M Klaas,0,0,0,NA,0,NA,NA,NA,0
+1187716,1st innings,New Zealand,South Africa,8.5,SFM Devine,SW Bates,M Klaas,1,0,1,NA,0,NA,NA,NA,0
+1187716,1st innings,New Zealand,South Africa,8.6,SW Bates,SFM Devine,M Klaas,0,0,0,NA,0,NA,NA,NA,0
+1187716,1st innings,New Zealand,South Africa,9.1,SFM Devine,SW Bates,A Khaka,0,0,0,NA,0,NA,NA,NA,0
+1187716,1st innings,New Zealand,South Africa,9.2,SFM Devine,SW Bates,A Khaka,0,0,0,NA,0,NA,NA,NA,0
+1187716,1st innings,New Zealand,South Africa,9.3,SFM Devine,SW Bates,A Khaka,1,0,1,NA,0,NA,NA,NA,0
+1187716,1st innings,New Zealand,South Africa,9.4,SW Bates,SFM Devine,A Khaka,0,0,0,NA,0,NA,NA,NA,0
+1187716,1st innings,New Zealand,South Africa,9.5,SW Bates,SFM Devine,A Khaka,1,0,1,NA,0,NA,NA,NA,0
+1187716,1st innings,New Zealand,South Africa,9.6,SFM Devine,SW Bates,A Khaka,0,0,0,NA,0,NA,NA,NA,0
+1187716,1st innings,New Zealand,South Africa,10.1,SW Bates,SFM Devine,M Klaas,0,0,0,NA,0,NA,NA,NA,0
+1187716,1st innings,New Zealand,South Africa,10.2,SW Bates,SFM Devine,M Klaas,0,0,0,NA,0,NA,NA,NA,0
+1187716,1st innings,New Zealand,South Africa,10.3,SW Bates,SFM Devine,M Klaas,3,0,3,NA,0,NA,NA,NA,0
+1187716,1st innings,New Zealand,South Africa,10.4,SFM Devine,SW Bates,M Klaas,0,0,0,NA,0,NA,NA,NA,0
+1187716,1st innings,New Zealand,South Africa,10.5,SFM Devine,SW Bates,M Klaas,1,0,1,NA,0,NA,NA,NA,0
+1187716,1st innings,New Zealand,South Africa,10.6,SW Bates,SFM Devine,M Klaas,4,0,4,NA,0,NA,NA,NA,0
+1187716,1st innings,New Zealand,South Africa,11.1,SFM Devine,SW Bates,A Khaka,1,0,1,NA,0,NA,NA,NA,0
+1187716,1st innings,New Zealand,South Africa,11.2,SW Bates,SFM Devine,A Khaka,0,0,0,NA,0,NA,NA,NA,0
+1187716,1st innings,New Zealand,South Africa,11.3,SW Bates,SFM Devine,A Khaka,0,0,0,NA,0,NA,NA,NA,0
+1187716,1st innings,New Zealand,South Africa,11.4,SW Bates,SFM Devine,A Khaka,4,0,4,NA,0,NA,NA,NA,0
+1187716,1st innings,New Zealand,South Africa,11.5,SW Bates,SFM Devine,A Khaka,4,0,4,NA,0,NA,NA,NA,0
+1187716,1st innings,New Zealand,South Africa,11.6,SW Bates,SFM Devine,A Khaka,0,0,0,NA,0,NA,NA,NA,0
+1187716,1st innings,New Zealand,South Africa,12.1,SFM Devine,SW Bates,CL Tryon,1,0,1,NA,0,NA,NA,NA,0
+1187716,1st innings,New Zealand,South Africa,12.2,SW Bates,SFM Devine,CL Tryon,1,0,1,NA,0,NA,NA,NA,0
+1187716,1st innings,New Zealand,South Africa,12.3,SFM Devine,SW Bates,CL Tryon,2,0,2,NA,0,NA,NA,NA,0
+1187716,1st innings,New Zealand,South Africa,12.4,SFM Devine,SW Bates,CL Tryon,1,0,1,NA,0,NA,NA,NA,0
+1187716,1st innings,New Zealand,South Africa,12.5,SW Bates,SFM Devine,CL Tryon,4,0,4,NA,0,NA,NA,NA,0
+1187716,1st innings,New Zealand,South Africa,12.6,SW Bates,SFM Devine,CL Tryon,1,0,1,NA,0,NA,NA,NA,0
+1187716,1st innings,New Zealand,South Africa,13.1,SW Bates,SFM Devine,D van Niekerk,1,0,1,NA,0,NA,NA,NA,0
+1187716,1st innings,New Zealand,South Africa,13.2,SFM Devine,SW Bates,D van Niekerk,0,0,0,NA,0,NA,NA,NA,0
+1187716,1st innings,New Zealand,South Africa,13.3,SFM Devine,SW Bates,D van Niekerk,1,0,1,NA,0,NA,NA,NA,0
+1187716,1st innings,New Zealand,South Africa,13.4,SW Bates,SFM Devine,D van Niekerk,0,0,0,NA,0,NA,NA,NA,0
+1187716,1st innings,New Zealand,South Africa,13.5,SW Bates,SFM Devine,D van Niekerk,1,0,1,NA,0,NA,NA,NA,0
+1187716,1st innings,New Zealand,South Africa,13.6,SFM Devine,SW Bates,D van Niekerk,1,0,1,NA,0,NA,NA,NA,0
+1187716,1st innings,New Zealand,South Africa,14.1,SFM Devine,SW Bates,CL Tryon,1,0,1,NA,0,NA,NA,NA,0
+1187716,1st innings,New Zealand,South Africa,14.2,SW Bates,SFM Devine,CL Tryon,4,0,4,NA,0,NA,NA,NA,0
+1187716,1st innings,New Zealand,South Africa,14.3,SW Bates,SFM Devine,CL Tryon,1,0,1,NA,0,NA,NA,NA,0
+1187716,1st innings,New Zealand,South Africa,14.4,SFM Devine,SW Bates,CL Tryon,0,0,0,NA,0,NA,NA,NA,0
+1187716,1st innings,New Zealand,South Africa,14.5,SFM Devine,SW Bates,CL Tryon,0,0,0,NA,0,NA,NA,NA,0
+1187716,1st innings,New Zealand,South Africa,14.6,SFM Devine,SW Bates,CL Tryon,1,0,1,NA,0,NA,NA,NA,0
+1187716,1st innings,New Zealand,South Africa,15.1,SFM Devine,SW Bates,D van Niekerk,1,0,1,NA,0,NA,NA,NA,0
+1187716,1st innings,New Zealand,South Africa,15.2,SW Bates,SFM Devine,D van Niekerk,0,0,0,NA,0,NA,NA,NA,0
+1187716,1st innings,New Zealand,South Africa,15.3,SW Bates,SFM Devine,D van Niekerk,0,0,0,NA,0,NA,NA,NA,0
+1187716,1st innings,New Zealand,South Africa,15.4,SW Bates,SFM Devine,D van Niekerk,0,0,0,NA,0,NA,NA,NA,0
+1187716,1st innings,New Zealand,South Africa,15.5,SW Bates,SFM Devine,D van Niekerk,1,0,1,NA,0,NA,NA,NA,0
+1187716,1st innings,New Zealand,South Africa,15.6,SFM Devine,SW Bates,D van Niekerk,1,0,1,NA,0,NA,NA,NA,0
+1187716,1st innings,New Zealand,South Africa,16.1,SFM Devine,SW Bates,CL Tryon,0,0,0,NA,0,NA,NA,NA,0
+1187716,1st innings,New Zealand,South Africa,16.2,SFM Devine,SW Bates,CL Tryon,0,0,0,NA,0,NA,NA,NA,0
+1187716,1st innings,New Zealand,South Africa,16.3,SFM Devine,SW Bates,CL Tryon,1,0,1,NA,0,NA,NA,NA,0
+1187716,1st innings,New Zealand,South Africa,16.4,SW Bates,SFM Devine,CL Tryon,1,0,1,NA,0,NA,NA,NA,0
+1187716,1st innings,New Zealand,South Africa,16.5,SFM Devine,SW Bates,CL Tryon,2,0,2,NA,0,NA,NA,NA,0
+1187716,1st innings,New Zealand,South Africa,16.6,SFM Devine,SW Bates,CL Tryon,0,0,0,NA,0,NA,NA,NA,0
+1187716,1st innings,New Zealand,South Africa,17.1,SW Bates,SFM Devine,D van Niekerk,0,0,0,NA,0,NA,NA,NA,0
+1187716,1st innings,New Zealand,South Africa,17.2,SW Bates,SFM Devine,D van Niekerk,0,0,0,NA,0,NA,NA,NA,0
+1187716,1st innings,New Zealand,South Africa,17.3,SW Bates,SFM Devine,D van Niekerk,1,0,1,NA,0,NA,NA,NA,0
+1187716,1st innings,New Zealand,South Africa,17.4,SFM Devine,SW Bates,D van Niekerk,0,0,0,NA,1,lbw,SFM Devine,NA,0
+1187716,1st innings,New Zealand,South Africa,17.5,KT Perkins,SW Bates,D van Niekerk,0,0,0,NA,0,NA,NA,NA,0
+1187716,1st innings,New Zealand,South Africa,17.6,KT Perkins,SW Bates,D van Niekerk,0,0,0,NA,0,NA,NA,NA,0
+1187716,1st innings,New Zealand,South Africa,18.1,SW Bates,KT Perkins,S Luus,4,0,4,NA,0,NA,NA,NA,0
+1187716,1st innings,New Zealand,South Africa,18.2,SW Bates,KT Perkins,S Luus,0,0,0,NA,0,NA,NA,NA,0
+1187716,1st innings,New Zealand,South Africa,18.3,SW Bates,KT Perkins,S Luus,1,0,1,NA,0,NA,NA,NA,0
+1187716,1st innings,New Zealand,South Africa,18.4,KT Perkins,SW Bates,S Luus,4,0,4,NA,0,NA,NA,NA,0
+1187716,1st innings,New Zealand,South Africa,18.5,KT Perkins,SW Bates,S Luus,0,0,0,NA,0,NA,NA,NA,0
+1187716,1st innings,New Zealand,South Africa,18.6,KT Perkins,SW Bates,S Luus,0,0,0,NA,0,NA,NA,NA,0
+1187716,1st innings,New Zealand,South Africa,19.1,SW Bates,KT Perkins,D van Niekerk,0,0,0,NA,0,NA,NA,NA,0
+1187716,1st innings,New Zealand,South Africa,19.2,SW Bates,KT Perkins,D van Niekerk,1,0,1,NA,0,NA,NA,NA,0
+1187716,1st innings,New Zealand,South Africa,19.3,KT Perkins,SW Bates,D van Niekerk,0,0,0,NA,0,NA,NA,NA,0
+1187716,1st innings,New Zealand,South Africa,19.4,KT Perkins,SW Bates,D van Niekerk,0,0,0,NA,0,NA,NA,NA,0
+1187716,1st innings,New Zealand,South Africa,19.5,KT Perkins,SW Bates,D van Niekerk,0,0,0,NA,0,NA,NA,NA,0
+1187716,1st innings,New Zealand,South Africa,19.6,KT Perkins,SW Bates,D van Niekerk,0,0,0,NA,0,NA,NA,NA,0
+1187716,1st innings,New Zealand,South Africa,20.1,SW Bates,KT Perkins,S Luus,0,0,0,NA,0,NA,NA,NA,0
+1187716,1st innings,New Zealand,South Africa,20.2,SW Bates,KT Perkins,S Luus,1,0,1,NA,0,NA,NA,NA,0
+1187716,1st innings,New Zealand,South Africa,20.3,KT Perkins,SW Bates,S Luus,2,0,2,NA,0,NA,NA,NA,0
+1187716,1st innings,New Zealand,South Africa,20.4,KT Perkins,SW Bates,S Luus,0,0,0,NA,0,NA,NA,NA,0
+1187716,1st innings,New Zealand,South Africa,20.5,KT Perkins,SW Bates,S Luus,1,0,1,NA,0,NA,NA,NA,0
+1187716,1st innings,New Zealand,South Africa,20.6,SW Bates,KT Perkins,S Luus,1,0,1,NA,0,NA,NA,NA,0
+1187716,1st innings,New Zealand,South Africa,21.1,SW Bates,KT Perkins,D van Niekerk,1,0,1,NA,0,NA,NA,NA,0
+1187716,1st innings,New Zealand,South Africa,21.2,KT Perkins,SW Bates,D van Niekerk,1,0,1,NA,0,NA,NA,NA,0
+1187716,1st innings,New Zealand,South Africa,21.3,SW Bates,KT Perkins,D van Niekerk,1,0,1,NA,0,NA,NA,NA,0
+1187716,1st innings,New Zealand,South Africa,21.4,KT Perkins,SW Bates,D van Niekerk,0,0,0,NA,0,NA,NA,NA,0
+1187716,1st innings,New Zealand,South Africa,21.5,KT Perkins,SW Bates,D van Niekerk,2,0,2,NA,0,NA,NA,NA,0
+1187716,1st innings,New Zealand,South Africa,21.6,KT Perkins,SW Bates,D van Niekerk,0,0,0,NA,0,NA,NA,NA,0
+1187716,1st innings,New Zealand,South Africa,22.1,SW Bates,KT Perkins,S Luus,1,0,1,NA,0,NA,NA,NA,0
+1187716,1st innings,New Zealand,South Africa,22.2,KT Perkins,SW Bates,S Luus,1,0,1,NA,0,NA,NA,NA,0
+1187716,1st innings,New Zealand,South Africa,22.3,SW Bates,KT Perkins,S Luus,1,0,1,NA,0,NA,NA,NA,0
+1187716,1st innings,New Zealand,South Africa,22.4,KT Perkins,SW Bates,S Luus,0,0,0,NA,1,stumped,KT Perkins,T Chetty,0
+1187716,1st innings,New Zealand,South Africa,22.5,KJ Martin,SW Bates,S Luus,1,0,1,NA,0,NA,NA,NA,0
+1187716,1st innings,New Zealand,South Africa,22.6,SW Bates,KJ Martin,S Luus,1,0,1,NA,0,NA,NA,NA,0
+1187716,1st innings,New Zealand,South Africa,23.1,SW Bates,KJ Martin,D van Niekerk,1,0,1,NA,0,NA,NA,NA,0
+1187716,1st innings,New Zealand,South Africa,23.2,KJ Martin,SW Bates,D van Niekerk,0,0,0,NA,0,NA,NA,NA,0
+1187716,1st innings,New Zealand,South Africa,23.3,KJ Martin,SW Bates,D van Niekerk,4,0,4,NA,0,NA,NA,NA,0
+1187716,1st innings,New Zealand,South Africa,23.4,KJ Martin,SW Bates,D van Niekerk,0,1,1,wides,0,NA,NA,NA,0
+1187716,1st innings,New Zealand,South Africa,23.5,KJ Martin,SW Bates,D van Niekerk,1,0,1,NA,0,NA,NA,NA,0
+1187716,1st innings,New Zealand,South Africa,23.6,SW Bates,KJ Martin,D van Niekerk,1,0,1,NA,0,NA,NA,NA,0
+1187716,1st innings,New Zealand,South Africa,23.7,KJ Martin,SW Bates,D van Niekerk,0,0,0,NA,0,NA,NA,NA,0
+1187716,1st innings,New Zealand,South Africa,24.1,SW Bates,KJ Martin,S Luus,0,0,0,NA,1,caught,SW Bates,CL Tryon,0
+1187716,1st innings,New Zealand,South Africa,24.2,AC Kerr,KJ Martin,S Luus,1,0,1,NA,0,NA,NA,NA,0
+1187716,1st innings,New Zealand,South Africa,24.3,KJ Martin,AC Kerr,S Luus,1,0,1,NA,0,NA,NA,NA,0
+1187716,1st innings,New Zealand,South Africa,24.4,AC Kerr,KJ Martin,S Luus,1,0,1,NA,0,NA,NA,NA,0
+1187716,1st innings,New Zealand,South Africa,24.5,KJ Martin,AC Kerr,S Luus,0,0,0,NA,0,NA,NA,NA,0
+1187716,1st innings,New Zealand,South Africa,24.6,KJ Martin,AC Kerr,S Luus,1,0,1,NA,0,NA,NA,NA,0
+1187716,1st innings,New Zealand,South Africa,25.1,KJ Martin,AC Kerr,D van Niekerk,0,0,0,NA,0,NA,NA,NA,0
+1187716,1st innings,New Zealand,South Africa,25.2,KJ Martin,AC Kerr,D van Niekerk,0,0,0,NA,0,NA,NA,NA,0
+1187716,1st innings,New Zealand,South Africa,25.3,KJ Martin,AC Kerr,D van Niekerk,1,0,1,NA,0,NA,NA,NA,0
+1187716,1st innings,New Zealand,South Africa,25.4,AC Kerr,KJ Martin,D van Niekerk,0,1,1,legbyes,0,NA,NA,NA,0
+1187716,1st innings,New Zealand,South Africa,25.5,KJ Martin,AC Kerr,D van Niekerk,0,0,0,NA,0,NA,NA,NA,0
+1187716,1st innings,New Zealand,South Africa,25.6,KJ Martin,AC Kerr,D van Niekerk,0,0,0,NA,0,NA,NA,NA,0
+1187716,1st innings,New Zealand,South Africa,26.1,AC Kerr,KJ Martin,S Luus,1,0,1,NA,0,NA,NA,NA,0
+1187716,1st innings,New Zealand,South Africa,26.2,KJ Martin,AC Kerr,S Luus,1,0,1,NA,0,NA,NA,NA,0
+1187716,1st innings,New Zealand,South Africa,26.3,AC Kerr,KJ Martin,S Luus,0,0,0,NA,0,NA,NA,NA,0
+1187716,1st innings,New Zealand,South Africa,26.4,AC Kerr,KJ Martin,S Luus,0,0,0,NA,0,NA,NA,NA,0
+1187716,1st innings,New Zealand,South Africa,26.5,AC Kerr,KJ Martin,S Luus,1,0,1,NA,0,NA,NA,NA,0
+1187716,1st innings,New Zealand,South Africa,26.6,KJ Martin,AC Kerr,S Luus,1,0,1,NA,0,NA,NA,NA,0
+1187716,1st innings,New Zealand,South Africa,27.1,KJ Martin,AC Kerr,D van Niekerk,0,0,0,NA,0,NA,NA,NA,0
+1187716,1st innings,New Zealand,South Africa,27.2,KJ Martin,AC Kerr,D van Niekerk,1,0,1,NA,0,NA,NA,NA,0
+1187716,1st innings,New Zealand,South Africa,27.3,AC Kerr,KJ Martin,D van Niekerk,1,0,1,NA,0,NA,NA,NA,0
+1187716,1st innings,New Zealand,South Africa,27.4,KJ Martin,AC Kerr,D van Niekerk,0,0,0,NA,0,NA,NA,NA,0
+1187716,1st innings,New Zealand,South Africa,27.5,KJ Martin,AC Kerr,D van Niekerk,0,0,0,NA,0,NA,NA,NA,0
+1187716,1st innings,New Zealand,South Africa,27.6,KJ Martin,AC Kerr,D van Niekerk,2,0,2,NA,0,NA,NA,NA,0
+1187716,1st innings,New Zealand,South Africa,28.1,AC Kerr,KJ Martin,S Luus,1,0,1,NA,0,NA,NA,NA,0
+1187716,1st innings,New Zealand,South Africa,28.2,KJ Martin,AC Kerr,S Luus,0,0,0,NA,0,NA,NA,NA,0
+1187716,1st innings,New Zealand,South Africa,28.3,KJ Martin,AC Kerr,S Luus,0,0,0,NA,0,NA,NA,NA,0
+1187716,1st innings,New Zealand,South Africa,28.4,KJ Martin,AC Kerr,S Luus,1,0,1,NA,0,NA,NA,NA,0
+1187716,1st innings,New Zealand,South Africa,28.5,AC Kerr,KJ Martin,S Luus,1,0,1,NA,0,NA,NA,NA,0
+1187716,1st innings,New Zealand,South Africa,28.6,KJ Martin,AC Kerr,S Luus,1,0,1,NA,0,NA,NA,NA,0
+1187716,1st innings,New Zealand,South Africa,29.1,KJ Martin,AC Kerr,D van Niekerk,1,0,1,NA,0,NA,NA,NA,0
+1187716,1st innings,New Zealand,South Africa,29.2,AC Kerr,KJ Martin,D van Niekerk,1,0,1,NA,0,NA,NA,NA,0
+1187716,1st innings,New Zealand,South Africa,29.3,KJ Martin,AC Kerr,D van Niekerk,0,0,0,NA,0,NA,NA,NA,0
+1187716,1st innings,New Zealand,South Africa,29.4,KJ Martin,AC Kerr,D van Niekerk,0,0,0,NA,0,NA,NA,NA,0
+1187716,1st innings,New Zealand,South Africa,29.5,KJ Martin,AC Kerr,D van Niekerk,0,0,0,NA,0,NA,NA,NA,0
+1187716,1st innings,New Zealand,South Africa,29.6,KJ Martin,AC Kerr,D van Niekerk,1,0,1,NA,0,NA,NA,NA,0
+1187716,1st innings,New Zealand,South Africa,30.1,KJ Martin,AC Kerr,S Luus,0,0,0,NA,0,NA,NA,NA,0
+1187716,1st innings,New Zealand,South Africa,30.2,KJ Martin,AC Kerr,S Luus,1,0,1,NA,0,NA,NA,NA,0
+1187716,1st innings,New Zealand,South Africa,30.3,AC Kerr,KJ Martin,S Luus,1,0,1,NA,0,NA,NA,NA,0
+1187716,1st innings,New Zealand,South Africa,30.4,KJ Martin,AC Kerr,S Luus,0,0,0,NA,0,NA,NA,NA,0
+1187716,1st innings,New Zealand,South Africa,30.5,KJ Martin,AC Kerr,S Luus,1,0,1,NA,0,NA,NA,NA,0
+1187716,1st innings,New Zealand,South Africa,30.6,AC Kerr,KJ Martin,S Luus,1,0,1,NA,0,NA,NA,NA,0
+1187716,1st innings,New Zealand,South Africa,31.1,AC Kerr,KJ Martin,D van Niekerk,0,0,0,NA,0,NA,NA,NA,0
+1187716,1st innings,New Zealand,South Africa,31.2,AC Kerr,KJ Martin,D van Niekerk,1,0,1,NA,0,NA,NA,NA,0
+1187716,1st innings,New Zealand,South Africa,31.3,KJ Martin,AC Kerr,D van Niekerk,0,0,0,NA,0,NA,NA,NA,0
+1187716,1st innings,New Zealand,South Africa,31.4,KJ Martin,AC Kerr,D van Niekerk,1,0,1,NA,0,NA,NA,NA,0
+1187716,1st innings,New Zealand,South Africa,31.5,AC Kerr,KJ Martin,D van Niekerk,0,0,0,NA,0,NA,NA,NA,0
+1187716,1st innings,New Zealand,South Africa,31.6,AC Kerr,KJ Martin,D van Niekerk,1,0,1,NA,0,NA,NA,NA,0
+1187716,1st innings,New Zealand,South Africa,32.1,AC Kerr,KJ Martin,S Luus,0,0,0,NA,0,NA,NA,NA,0
+1187716,1st innings,New Zealand,South Africa,32.2,AC Kerr,KJ Martin,S Luus,0,0,0,NA,1,stumped,AC Kerr,T Chetty,0
+1187716,1st innings,New Zealand,South Africa,32.3,HNK Jensen,KJ Martin,S Luus,0,0,0,NA,0,NA,NA,NA,0
+1187716,1st innings,New Zealand,South Africa,32.4,HNK Jensen,KJ Martin,S Luus,0,0,0,NA,1,stumped,HNK Jensen,T Chetty,0
+1187716,1st innings,New Zealand,South Africa,32.5,LM Kasperek,KJ Martin,S Luus,2,0,2,NA,0,NA,NA,NA,0
+1187716,1st innings,New Zealand,South Africa,32.6,LM Kasperek,KJ Martin,S Luus,0,0,0,NA,0,NA,NA,NA,0
+1187716,1st innings,New Zealand,South Africa,33.1,KJ Martin,LM Kasperek,CL Tryon,1,0,1,NA,0,NA,NA,NA,0
+1187716,1st innings,New Zealand,South Africa,33.2,LM Kasperek,KJ Martin,CL Tryon,0,0,0,NA,0,NA,NA,NA,0
+1187716,1st innings,New Zealand,South Africa,33.3,LM Kasperek,KJ Martin,CL Tryon,0,0,0,NA,0,NA,NA,NA,0
+1187716,1st innings,New Zealand,South Africa,33.4,LM Kasperek,KJ Martin,CL Tryon,0,0,0,NA,0,NA,NA,NA,0
+1187716,1st innings,New Zealand,South Africa,33.5,LM Kasperek,KJ Martin,CL Tryon,0,0,0,NA,0,NA,NA,NA,0
+1187716,1st innings,New Zealand,South Africa,33.6,LM Kasperek,KJ Martin,CL Tryon,0,0,0,NA,0,NA,NA,NA,0
+1187716,1st innings,New Zealand,South Africa,34.1,KJ Martin,LM Kasperek,S Luus,1,0,1,NA,0,NA,NA,NA,0
+1187716,1st innings,New Zealand,South Africa,34.2,LM Kasperek,KJ Martin,S Luus,0,0,0,NA,0,NA,NA,NA,0
+1187716,1st innings,New Zealand,South Africa,34.3,LM Kasperek,KJ Martin,S Luus,1,0,1,NA,0,NA,NA,NA,0
+1187716,1st innings,New Zealand,South Africa,34.4,KJ Martin,LM Kasperek,S Luus,0,0,0,NA,0,NA,NA,NA,0
+1187716,1st innings,New Zealand,South Africa,34.5,KJ Martin,LM Kasperek,S Luus,0,0,0,NA,0,NA,NA,NA,0
+1187716,1st innings,New Zealand,South Africa,34.6,KJ Martin,LM Kasperek,S Luus,1,0,1,NA,0,NA,NA,NA,0
+1187716,1st innings,New Zealand,South Africa,35.1,KJ Martin,LM Kasperek,CL Tryon,1,0,1,NA,0,NA,NA,NA,0
+1187716,1st innings,New Zealand,South Africa,35.2,LM Kasperek,KJ Martin,CL Tryon,1,0,1,NA,0,NA,NA,NA,0
+1187716,1st innings,New Zealand,South Africa,35.3,KJ Martin,LM Kasperek,CL Tryon,0,0,0,NA,0,NA,NA,NA,0
+1187716,1st innings,New Zealand,South Africa,35.4,KJ Martin,LM Kasperek,CL Tryon,0,0,0,NA,0,NA,NA,NA,0
+1187716,1st innings,New Zealand,South Africa,35.5,KJ Martin,LM Kasperek,CL Tryon,0,0,0,NA,0,NA,NA,NA,0
+1187716,1st innings,New Zealand,South Africa,35.6,KJ Martin,LM Kasperek,CL Tryon,0,0,0,NA,0,NA,NA,NA,0
+1187716,1st innings,New Zealand,South Africa,36.1,LM Kasperek,KJ Martin,S Luus,1,0,1,NA,0,NA,NA,NA,0
+1187716,1st innings,New Zealand,South Africa,36.2,KJ Martin,LM Kasperek,S Luus,0,0,0,NA,1,bowled,KJ Martin,NA,0
+1187716,1st innings,New Zealand,South Africa,36.3,JM Kerr,LM Kasperek,S Luus,0,0,0,NA,1,caught,JM Kerr,M Kapp,0
+1187716,1st innings,New Zealand,South Africa,36.4,LM Kasperek,RA Mair,S Luus,4,0,4,NA,0,NA,NA,NA,0
+1187716,1st innings,New Zealand,South Africa,36.5,LM Kasperek,RA Mair,S Luus,0,0,0,NA,0,NA,NA,NA,0
+1187716,1st innings,New Zealand,South Africa,36.6,LM Kasperek,RA Mair,S Luus,0,0,0,NA,0,NA,NA,NA,0
+1187716,1st innings,New Zealand,South Africa,37.1,RA Mair,LM Kasperek,CL Tryon,1,0,1,NA,0,NA,NA,NA,0
+1187716,1st innings,New Zealand,South Africa,37.2,LM Kasperek,RA Mair,CL Tryon,0,0,0,NA,0,NA,NA,NA,0
+1187716,1st innings,New Zealand,South Africa,37.3,LM Kasperek,RA Mair,CL Tryon,0,0,0,NA,0,NA,NA,NA,0
+1187716,1st innings,New Zealand,South Africa,37.4,LM Kasperek,RA Mair,CL Tryon,1,0,1,NA,0,NA,NA,NA,0
+1187716,1st innings,New Zealand,South Africa,37.5,RA Mair,LM Kasperek,CL Tryon,0,0,0,NA,0,NA,NA,NA,0
+1187716,1st innings,New Zealand,South Africa,37.6,RA Mair,LM Kasperek,CL Tryon,0,0,0,NA,0,NA,NA,NA,0
+1187716,1st innings,New Zealand,South Africa,38.1,LM Kasperek,RA Mair,S Ismail,0,0,0,NA,1,run out,RA Mair,NA,0
+1187716,2nd innings,South Africa,New Zealand,0.1,L Lee,L Wolvaardt,RA Mair,0,0,0,NA,0,NA,NA,NA,1
+1187716,2nd innings,South Africa,New Zealand,0.2,L Lee,L Wolvaardt,RA Mair,1,0,1,NA,0,NA,NA,NA,1
+1187716,2nd innings,South Africa,New Zealand,0.3,L Wolvaardt,L Lee,RA Mair,0,0,0,NA,0,NA,NA,NA,1
+1187716,2nd innings,South Africa,New Zealand,0.4,L Wolvaardt,L Lee,RA Mair,0,0,0,NA,0,NA,NA,NA,1
+1187716,2nd innings,South Africa,New Zealand,0.5,L Wolvaardt,L Lee,RA Mair,0,0,0,NA,0,NA,NA,NA,1
+1187716,2nd innings,South Africa,New Zealand,0.6,L Wolvaardt,L Lee,RA Mair,4,0,4,NA,0,NA,NA,NA,1
+1187716,2nd innings,South Africa,New Zealand,1.1,L Lee,L Wolvaardt,SFM Devine,2,0,2,NA,0,NA,NA,NA,1
+1187716,2nd innings,South Africa,New Zealand,1.2,L Lee,L Wolvaardt,SFM Devine,0,0,0,NA,0,NA,NA,NA,1
+1187716,2nd innings,South Africa,New Zealand,1.3,L Lee,L Wolvaardt,SFM Devine,0,0,0,NA,0,NA,NA,NA,1
+1187716,2nd innings,South Africa,New Zealand,1.4,L Lee,L Wolvaardt,SFM Devine,0,0,0,NA,0,NA,NA,NA,1
+1187716,2nd innings,South Africa,New Zealand,1.5,L Lee,L Wolvaardt,SFM Devine,0,0,0,NA,0,NA,NA,NA,1
+1187716,2nd innings,South Africa,New Zealand,1.6,L Lee,L Wolvaardt,SFM Devine,0,0,0,NA,0,NA,NA,NA,1
+1187716,2nd innings,South Africa,New Zealand,2.1,L Wolvaardt,L Lee,RA Mair,0,0,0,NA,0,NA,NA,NA,1
+1187716,2nd innings,South Africa,New Zealand,2.2,L Wolvaardt,L Lee,RA Mair,2,0,2,NA,0,NA,NA,NA,1
+1187716,2nd innings,South Africa,New Zealand,2.3,L Wolvaardt,L Lee,RA Mair,0,0,0,NA,0,NA,NA,NA,1
+1187716,2nd innings,South Africa,New Zealand,2.4,L Wolvaardt,L Lee,RA Mair,4,0,4,NA,0,NA,NA,NA,1
+1187716,2nd innings,South Africa,New Zealand,2.5,L Wolvaardt,L Lee,RA Mair,0,0,0,NA,0,NA,NA,NA,1
+1187716,2nd innings,South Africa,New Zealand,2.6,L Wolvaardt,L Lee,RA Mair,0,0,0,NA,0,NA,NA,NA,1
+1187716,2nd innings,South Africa,New Zealand,3.1,L Lee,L Wolvaardt,SFM Devine,0,0,0,NA,0,NA,NA,NA,1
+1187716,2nd innings,South Africa,New Zealand,3.2,L Lee,L Wolvaardt,SFM Devine,0,0,0,NA,0,NA,NA,NA,1
+1187716,2nd innings,South Africa,New Zealand,3.3,L Lee,L Wolvaardt,SFM Devine,1,0,1,NA,0,NA,NA,NA,1
+1187716,2nd innings,South Africa,New Zealand,3.4,L Wolvaardt,L Lee,SFM Devine,0,0,0,NA,0,NA,NA,NA,1
+1187716,2nd innings,South Africa,New Zealand,3.5,L Wolvaardt,L Lee,SFM Devine,0,0,0,NA,0,NA,NA,NA,1
+1187716,2nd innings,South Africa,New Zealand,3.6,L Wolvaardt,L Lee,SFM Devine,0,0,0,NA,0,NA,NA,NA,1
+1187716,2nd innings,South Africa,New Zealand,4.1,L Lee,L Wolvaardt,RA Mair,0,1,1,wides,0,NA,NA,NA,1
+1187716,2nd innings,South Africa,New Zealand,4.2,L Lee,L Wolvaardt,RA Mair,0,0,0,NA,0,NA,NA,NA,1
+1187716,2nd innings,South Africa,New Zealand,4.3,L Lee,L Wolvaardt,RA Mair,0,0,0,NA,0,NA,NA,NA,1
+1187716,2nd innings,South Africa,New Zealand,4.4,L Lee,L Wolvaardt,RA Mair,4,0,4,NA,0,NA,NA,NA,1
+1187716,2nd innings,South Africa,New Zealand,4.5,L Lee,L Wolvaardt,RA Mair,4,0,4,NA,0,NA,NA,NA,1
+1187716,2nd innings,South Africa,New Zealand,4.6,L Lee,L Wolvaardt,RA Mair,0,0,0,NA,0,NA,NA,NA,1
+1187716,2nd innings,South Africa,New Zealand,4.7,L Lee,L Wolvaardt,RA Mair,0,0,0,NA,0,NA,NA,NA,1
+1187716,2nd innings,South Africa,New Zealand,5.1,L Wolvaardt,L Lee,SFM Devine,0,0,0,NA,0,NA,NA,NA,1
+1187716,2nd innings,South Africa,New Zealand,5.2,L Wolvaardt,L Lee,SFM Devine,4,0,4,NA,0,NA,NA,NA,1
+1187716,2nd innings,South Africa,New Zealand,5.3,L Wolvaardt,L Lee,SFM Devine,4,0,4,NA,0,NA,NA,NA,1
+1187716,2nd innings,South Africa,New Zealand,5.4,L Wolvaardt,L Lee,SFM Devine,0,0,0,NA,0,NA,NA,NA,1
+1187716,2nd innings,South Africa,New Zealand,5.5,L Wolvaardt,L Lee,SFM Devine,0,0,0,NA,0,NA,NA,NA,1
+1187716,2nd innings,South Africa,New Zealand,5.6,L Wolvaardt,L Lee,SFM Devine,0,0,0,NA,0,NA,NA,NA,1
+1187716,2nd innings,South Africa,New Zealand,6.1,L Lee,L Wolvaardt,JM Kerr,0,1,1,wides,0,NA,NA,NA,1
+1187716,2nd innings,South Africa,New Zealand,6.2,L Lee,L Wolvaardt,JM Kerr,0,0,0,NA,0,NA,NA,NA,1
+1187716,2nd innings,South Africa,New Zealand,6.3,L Lee,L Wolvaardt,JM Kerr,4,0,4,NA,0,NA,NA,NA,1
+1187716,2nd innings,South Africa,New Zealand,6.4,L Lee,L Wolvaardt,JM Kerr,0,0,0,NA,0,NA,NA,NA,1
+1187716,2nd innings,South Africa,New Zealand,6.5,L Lee,L Wolvaardt,JM Kerr,0,0,0,NA,0,NA,NA,NA,1
+1187716,2nd innings,South Africa,New Zealand,6.6,L Lee,L Wolvaardt,JM Kerr,4,0,4,NA,0,NA,NA,NA,1
+1187716,2nd innings,South Africa,New Zealand,6.7,L Lee,L Wolvaardt,JM Kerr,0,0,0,NA,1,caught,L Lee,SW Bates,1
+1187716,2nd innings,South Africa,New Zealand,7.1,L Wolvaardt,S Luus,SFM Devine,0,0,0,NA,0,NA,NA,NA,1
+1187716,2nd innings,South Africa,New Zealand,7.2,L Wolvaardt,S Luus,SFM Devine,0,0,0,NA,0,NA,NA,NA,1
+1187716,2nd innings,South Africa,New Zealand,7.3,L Wolvaardt,S Luus,SFM Devine,0,0,0,NA,0,NA,NA,NA,1
+1187716,2nd innings,South Africa,New Zealand,7.4,L Wolvaardt,S Luus,SFM Devine,1,0,1,NA,0,NA,NA,NA,1
+1187716,2nd innings,South Africa,New Zealand,7.5,S Luus,L Wolvaardt,SFM Devine,0,0,0,NA,0,NA,NA,NA,1
+1187716,2nd innings,South Africa,New Zealand,7.6,S Luus,L Wolvaardt,SFM Devine,0,1,1,wides,0,NA,NA,NA,1
+1187716,2nd innings,South Africa,New Zealand,7.7,S Luus,L Wolvaardt,SFM Devine,1,0,1,NA,0,NA,NA,NA,1
+1187716,2nd innings,South Africa,New Zealand,8.1,S Luus,L Wolvaardt,AC Kerr,0,0,0,NA,0,NA,NA,NA,1
+1187716,2nd innings,South Africa,New Zealand,8.2,S Luus,L Wolvaardt,AC Kerr,1,0,1,NA,0,NA,NA,NA,1
+1187716,2nd innings,South Africa,New Zealand,8.3,L Wolvaardt,S Luus,AC Kerr,0,0,0,NA,0,NA,NA,NA,1
+1187716,2nd innings,South Africa,New Zealand,8.4,L Wolvaardt,S Luus,AC Kerr,0,0,0,NA,0,NA,NA,NA,1
+1187716,2nd innings,South Africa,New Zealand,8.5,L Wolvaardt,S Luus,AC Kerr,0,0,0,NA,0,NA,NA,NA,1
+1187716,2nd innings,South Africa,New Zealand,8.6,L Wolvaardt,S Luus,AC Kerr,0,0,0,NA,0,NA,NA,NA,1
+1187716,2nd innings,South Africa,New Zealand,9.1,S Luus,L Wolvaardt,HNK Jensen,0,0,0,NA,0,NA,NA,NA,1
+1187716,2nd innings,South Africa,New Zealand,9.2,S Luus,L Wolvaardt,HNK Jensen,0,0,0,NA,0,NA,NA,NA,1
+1187716,2nd innings,South Africa,New Zealand,9.3,S Luus,L Wolvaardt,HNK Jensen,0,0,0,NA,0,NA,NA,NA,1
+1187716,2nd innings,South Africa,New Zealand,9.4,S Luus,L Wolvaardt,HNK Jensen,0,0,0,NA,0,NA,NA,NA,1
+1187716,2nd innings,South Africa,New Zealand,9.5,S Luus,L Wolvaardt,HNK Jensen,0,0,0,NA,0,NA,NA,NA,1
+1187716,2nd innings,South Africa,New Zealand,9.6,S Luus,L Wolvaardt,HNK Jensen,1,0,1,NA,0,NA,NA,NA,1
+1187716,2nd innings,South Africa,New Zealand,10.1,S Luus,L Wolvaardt,LM Kasperek,0,0,0,NA,0,NA,NA,NA,1
+1187716,2nd innings,South Africa,New Zealand,10.2,S Luus,L Wolvaardt,LM Kasperek,0,0,0,NA,0,NA,NA,NA,1
+1187716,2nd innings,South Africa,New Zealand,10.3,S Luus,L Wolvaardt,LM Kasperek,0,0,0,NA,0,NA,NA,NA,1
+1187716,2nd innings,South Africa,New Zealand,10.4,S Luus,L Wolvaardt,LM Kasperek,0,0,0,NA,0,NA,NA,NA,1
+1187716,2nd innings,South Africa,New Zealand,10.5,S Luus,L Wolvaardt,LM Kasperek,2,0,2,NA,0,NA,NA,NA,1
+1187716,2nd innings,South Africa,New Zealand,10.6,S Luus,L Wolvaardt,LM Kasperek,0,0,0,NA,0,NA,NA,NA,1
+1187716,2nd innings,South Africa,New Zealand,11.1,L Wolvaardt,S Luus,AC Kerr,2,0,2,NA,0,NA,NA,NA,1
+1187716,2nd innings,South Africa,New Zealand,11.2,L Wolvaardt,S Luus,AC Kerr,0,0,0,NA,0,NA,NA,NA,1
+1187716,2nd innings,South Africa,New Zealand,11.3,L Wolvaardt,S Luus,AC Kerr,0,0,0,NA,0,NA,NA,NA,1
+1187716,2nd innings,South Africa,New Zealand,11.4,L Wolvaardt,S Luus,AC Kerr,0,0,0,NA,0,NA,NA,NA,1
+1187716,2nd innings,South Africa,New Zealand,11.5,L Wolvaardt,S Luus,AC Kerr,0,0,0,NA,0,NA,NA,NA,1
+1187716,2nd innings,South Africa,New Zealand,11.6,L Wolvaardt,S Luus,AC Kerr,0,0,0,NA,0,NA,NA,NA,1
+1187716,2nd innings,South Africa,New Zealand,12.1,S Luus,L Wolvaardt,LM Kasperek,0,0,0,NA,0,NA,NA,NA,1
+1187716,2nd innings,South Africa,New Zealand,12.2,S Luus,L Wolvaardt,LM Kasperek,0,0,0,NA,0,NA,NA,NA,1
+1187716,2nd innings,South Africa,New Zealand,12.3,S Luus,L Wolvaardt,LM Kasperek,0,0,0,NA,0,NA,NA,NA,1
+1187716,2nd innings,South Africa,New Zealand,12.4,S Luus,L Wolvaardt,LM Kasperek,0,0,0,NA,0,NA,NA,NA,1
+1187716,2nd innings,South Africa,New Zealand,12.5,S Luus,L Wolvaardt,LM Kasperek,4,0,4,NA,0,NA,NA,NA,1
+1187716,2nd innings,South Africa,New Zealand,12.6,S Luus,L Wolvaardt,LM Kasperek,0,0,0,NA,0,NA,NA,NA,1
+1187716,2nd innings,South Africa,New Zealand,13.1,L Wolvaardt,S Luus,AC Kerr,0,0,0,NA,0,NA,NA,NA,1
+1187716,2nd innings,South Africa,New Zealand,13.2,L Wolvaardt,S Luus,AC Kerr,0,0,0,NA,0,NA,NA,NA,1
+1187716,2nd innings,South Africa,New Zealand,13.3,L Wolvaardt,S Luus,AC Kerr,0,0,0,NA,0,NA,NA,NA,1
+1187716,2nd innings,South Africa,New Zealand,13.4,L Wolvaardt,S Luus,AC Kerr,0,0,0,NA,0,NA,NA,NA,1
+1187716,2nd innings,South Africa,New Zealand,13.5,L Wolvaardt,S Luus,AC Kerr,1,0,1,NA,0,NA,NA,NA,1
+1187716,2nd innings,South Africa,New Zealand,13.6,S Luus,L Wolvaardt,AC Kerr,1,0,1,NA,0,NA,NA,NA,1
+1187716,2nd innings,South Africa,New Zealand,14.1,S Luus,L Wolvaardt,LM Kasperek,0,0,0,NA,0,NA,NA,NA,1
+1187716,2nd innings,South Africa,New Zealand,14.2,S Luus,L Wolvaardt,LM Kasperek,0,0,0,NA,0,NA,NA,NA,1
+1187716,2nd innings,South Africa,New Zealand,14.3,S Luus,L Wolvaardt,LM Kasperek,0,0,0,NA,0,NA,NA,NA,1
+1187716,2nd innings,South Africa,New Zealand,14.4,S Luus,L Wolvaardt,LM Kasperek,0,0,0,NA,0,NA,NA,NA,1
+1187716,2nd innings,South Africa,New Zealand,14.5,S Luus,L Wolvaardt,LM Kasperek,0,0,0,NA,0,NA,NA,NA,1
+1187716,2nd innings,South Africa,New Zealand,14.6,S Luus,L Wolvaardt,LM Kasperek,1,0,1,NA,0,NA,NA,NA,1
+1187716,2nd innings,South Africa,New Zealand,15.1,S Luus,L Wolvaardt,AC Kerr,0,0,0,NA,0,NA,NA,NA,1
+1187716,2nd innings,South Africa,New Zealand,15.2,S Luus,L Wolvaardt,AC Kerr,4,0,4,NA,0,NA,NA,NA,1
+1187716,2nd innings,South Africa,New Zealand,15.3,S Luus,L Wolvaardt,AC Kerr,0,0,0,NA,0,NA,NA,NA,1
+1187716,2nd innings,South Africa,New Zealand,15.4,S Luus,L Wolvaardt,AC Kerr,0,0,0,NA,1,caught,S Luus,LM Kasperek,1
+1187716,2nd innings,South Africa,New Zealand,15.5,D van Niekerk,L Wolvaardt,AC Kerr,1,0,1,NA,0,NA,NA,NA,1
+1187716,2nd innings,South Africa,New Zealand,15.6,L Wolvaardt,D van Niekerk,AC Kerr,0,0,0,NA,0,NA,NA,NA,1
+1187716,2nd innings,South Africa,New Zealand,16.1,D van Niekerk,L Wolvaardt,LM Kasperek,0,0,0,NA,0,NA,NA,NA,1
+1187716,2nd innings,South Africa,New Zealand,16.2,D van Niekerk,L Wolvaardt,LM Kasperek,0,0,0,NA,0,NA,NA,NA,1
+1187716,2nd innings,South Africa,New Zealand,16.3,D van Niekerk,L Wolvaardt,LM Kasperek,0,0,0,NA,0,NA,NA,NA,1
+1187716,2nd innings,South Africa,New Zealand,16.4,D van Niekerk,L Wolvaardt,LM Kasperek,6,0,6,NA,0,NA,NA,NA,1
+1187716,2nd innings,South Africa,New Zealand,16.5,D van Niekerk,L Wolvaardt,LM Kasperek,0,0,0,NA,0,NA,NA,NA,1
+1187716,2nd innings,South Africa,New Zealand,16.6,D van Niekerk,L Wolvaardt,LM Kasperek,1,0,1,NA,0,NA,NA,NA,1
+1187716,2nd innings,South Africa,New Zealand,17.1,D van Niekerk,L Wolvaardt,AC Kerr,0,0,0,NA,0,NA,NA,NA,1
+1187716,2nd innings,South Africa,New Zealand,17.2,D van Niekerk,L Wolvaardt,AC Kerr,0,0,0,NA,0,NA,NA,NA,1
+1187716,2nd innings,South Africa,New Zealand,17.3,D van Niekerk,L Wolvaardt,AC Kerr,0,0,0,NA,0,NA,NA,NA,1
+1187716,2nd innings,South Africa,New Zealand,17.4,D van Niekerk,L Wolvaardt,AC Kerr,0,0,0,NA,0,NA,NA,NA,1
+1187716,2nd innings,South Africa,New Zealand,17.5,D van Niekerk,L Wolvaardt,AC Kerr,1,0,1,NA,0,NA,NA,NA,1
+1187716,2nd innings,South Africa,New Zealand,17.6,L Wolvaardt,D van Niekerk,AC Kerr,1,0,1,NA,0,NA,NA,NA,1
+1187716,2nd innings,South Africa,New Zealand,18.1,L Wolvaardt,D van Niekerk,SFM Devine,1,0,1,NA,0,NA,NA,NA,1
+1187716,2nd innings,South Africa,New Zealand,18.2,D van Niekerk,L Wolvaardt,SFM Devine,0,0,0,NA,0,NA,NA,NA,1
+1187716,2nd innings,South Africa,New Zealand,18.3,D van Niekerk,L Wolvaardt,SFM Devine,3,0,3,NA,0,NA,NA,NA,1
+1187716,2nd innings,South Africa,New Zealand,18.4,L Wolvaardt,D van Niekerk,SFM Devine,0,0,0,NA,0,NA,NA,NA,1
+1187716,2nd innings,South Africa,New Zealand,18.5,L Wolvaardt,D van Niekerk,SFM Devine,0,0,0,NA,0,NA,NA,NA,1
+1187716,2nd innings,South Africa,New Zealand,18.6,L Wolvaardt,D van Niekerk,SFM Devine,0,0,0,NA,0,NA,NA,NA,1
+1187716,2nd innings,South Africa,New Zealand,19.1,D van Niekerk,L Wolvaardt,AC Kerr,0,0,0,NA,0,NA,NA,NA,1
+1187716,2nd innings,South Africa,New Zealand,19.2,D van Niekerk,L Wolvaardt,AC Kerr,1,0,1,NA,0,NA,NA,NA,1
+1187716,2nd innings,South Africa,New Zealand,19.3,L Wolvaardt,D van Niekerk,AC Kerr,0,0,0,NA,0,NA,NA,NA,1
+1187716,2nd innings,South Africa,New Zealand,19.4,L Wolvaardt,D van Niekerk,AC Kerr,1,0,1,NA,0,NA,NA,NA,1
+1187716,2nd innings,South Africa,New Zealand,19.5,D van Niekerk,L Wolvaardt,AC Kerr,1,0,1,NA,0,NA,NA,NA,1
+1187716,2nd innings,South Africa,New Zealand,19.6,L Wolvaardt,D van Niekerk,AC Kerr,1,0,1,NA,0,NA,NA,NA,1
+1187716,2nd innings,South Africa,New Zealand,20.1,L Wolvaardt,D van Niekerk,SFM Devine,0,0,0,NA,0,NA,NA,NA,1
+1187716,2nd innings,South Africa,New Zealand,20.2,L Wolvaardt,D van Niekerk,SFM Devine,0,0,0,NA,0,NA,NA,NA,1
+1187716,2nd innings,South Africa,New Zealand,20.3,L Wolvaardt,D van Niekerk,SFM Devine,0,0,0,NA,0,NA,NA,NA,1
+1187716,2nd innings,South Africa,New Zealand,20.4,L Wolvaardt,D van Niekerk,SFM Devine,0,0,0,NA,1,caught and bowled,L Wolvaardt,NA,1
+1187716,2nd innings,South Africa,New Zealand,20.5,M du Preez,D van Niekerk,SFM Devine,0,4,4,legbyes,0,NA,NA,NA,1
+1187716,2nd innings,South Africa,New Zealand,20.6,M du Preez,D van Niekerk,SFM Devine,1,0,1,NA,0,NA,NA,NA,1
+1187716,2nd innings,South Africa,New Zealand,21.1,M du Preez,D van Niekerk,AC Kerr,0,0,0,NA,0,NA,NA,NA,1
+1187716,2nd innings,South Africa,New Zealand,21.2,M du Preez,D van Niekerk,AC Kerr,1,0,1,NA,0,NA,NA,NA,1
+1187716,2nd innings,South Africa,New Zealand,21.3,D van Niekerk,M du Preez,AC Kerr,0,0,0,NA,0,NA,NA,NA,1
+1187716,2nd innings,South Africa,New Zealand,21.4,D van Niekerk,M du Preez,AC Kerr,1,0,1,NA,0,NA,NA,NA,1
+1187716,2nd innings,South Africa,New Zealand,21.5,M du Preez,D van Niekerk,AC Kerr,4,0,4,NA,0,NA,NA,NA,1
+1187716,2nd innings,South Africa,New Zealand,21.6,M du Preez,D van Niekerk,AC Kerr,1,0,1,NA,0,NA,NA,NA,1
+1187716,2nd innings,South Africa,New Zealand,22.1,M du Preez,D van Niekerk,SFM Devine,0,0,0,NA,0,NA,NA,NA,1
+1187716,2nd innings,South Africa,New Zealand,22.2,M du Preez,D van Niekerk,SFM Devine,0,0,0,NA,0,NA,NA,NA,1
+1187716,2nd innings,South Africa,New Zealand,22.3,M du Preez,D van Niekerk,SFM Devine,0,0,0,NA,0,NA,NA,NA,1
+1187716,2nd innings,South Africa,New Zealand,22.4,M du Preez,D van Niekerk,SFM Devine,0,0,0,NA,0,NA,NA,NA,1
+1187716,2nd innings,South Africa,New Zealand,22.5,M du Preez,D van Niekerk,SFM Devine,0,0,0,NA,0,NA,NA,NA,1
+1187716,2nd innings,South Africa,New Zealand,22.6,M du Preez,D van Niekerk,SFM Devine,0,0,0,NA,0,NA,NA,NA,1
+1187716,2nd innings,South Africa,New Zealand,23.1,D van Niekerk,M du Preez,HNK Jensen,0,0,0,NA,0,NA,NA,NA,1
+1187716,2nd innings,South Africa,New Zealand,23.2,D van Niekerk,M du Preez,HNK Jensen,1,0,1,NA,0,NA,NA,NA,1
+1187716,2nd innings,South Africa,New Zealand,23.3,M du Preez,D van Niekerk,HNK Jensen,1,0,1,NA,0,NA,NA,NA,1
+1187716,2nd innings,South Africa,New Zealand,23.4,D van Niekerk,M du Preez,HNK Jensen,1,0,1,NA,0,NA,NA,NA,1
+1187716,2nd innings,South Africa,New Zealand,23.5,M du Preez,D van Niekerk,HNK Jensen,0,0,0,NA,0,NA,NA,NA,1
+1187716,2nd innings,South Africa,New Zealand,23.6,M du Preez,D van Niekerk,HNK Jensen,1,0,1,NA,0,NA,NA,NA,1
+1187716,2nd innings,South Africa,New Zealand,24.1,M du Preez,D van Niekerk,RA Mair,4,0,4,NA,0,NA,NA,NA,1
+1187716,2nd innings,South Africa,New Zealand,24.2,M du Preez,D van Niekerk,RA Mair,0,0,0,NA,0,NA,NA,NA,1
+1187716,2nd innings,South Africa,New Zealand,24.3,M du Preez,D van Niekerk,RA Mair,0,0,0,NA,0,NA,NA,NA,1
+1187716,2nd innings,South Africa,New Zealand,24.4,M du Preez,D van Niekerk,RA Mair,0,0,0,NA,0,NA,NA,NA,1
+1187716,2nd innings,South Africa,New Zealand,24.5,M du Preez,D van Niekerk,RA Mair,4,0,4,NA,0,NA,NA,NA,1
+1187716,2nd innings,South Africa,New Zealand,24.6,M du Preez,D van Niekerk,RA Mair,0,0,0,NA,0,NA,NA,NA,1
+1187716,2nd innings,South Africa,New Zealand,25.1,D van Niekerk,M du Preez,HNK Jensen,0,0,0,NA,0,NA,NA,NA,1
+1187716,2nd innings,South Africa,New Zealand,25.2,D van Niekerk,M du Preez,HNK Jensen,0,0,0,NA,0,NA,NA,NA,1
+1187716,2nd innings,South Africa,New Zealand,25.3,D van Niekerk,M du Preez,HNK Jensen,1,0,1,NA,0,NA,NA,NA,1
+1187716,2nd innings,South Africa,New Zealand,25.4,M du Preez,D van Niekerk,HNK Jensen,1,0,1,NA,0,NA,NA,NA,1
+1187716,2nd innings,South Africa,New Zealand,25.5,D van Niekerk,M du Preez,HNK Jensen,1,0,1,NA,0,NA,NA,NA,1
+1187716,2nd innings,South Africa,New Zealand,25.6,M du Preez,D van Niekerk,HNK Jensen,0,0,0,NA,0,NA,NA,NA,1
+1187716,2nd innings,South Africa,New Zealand,26.1,D van Niekerk,M du Preez,RA Mair,0,0,0,NA,0,NA,NA,NA,1
+1187716,2nd innings,South Africa,New Zealand,26.2,D van Niekerk,M du Preez,RA Mair,0,0,0,NA,0,NA,NA,NA,1
+1187716,2nd innings,South Africa,New Zealand,26.3,D van Niekerk,M du Preez,RA Mair,0,0,0,NA,0,NA,NA,NA,1
+1187716,2nd innings,South Africa,New Zealand,26.4,D van Niekerk,M du Preez,RA Mair,0,0,0,NA,0,NA,NA,NA,1
+1187716,2nd innings,South Africa,New Zealand,26.5,D van Niekerk,M du Preez,RA Mair,0,0,0,NA,0,NA,NA,NA,1
+1187716,2nd innings,South Africa,New Zealand,26.6,D van Niekerk,M du Preez,RA Mair,1,0,1,NA,0,NA,NA,NA,1
+1187716,2nd innings,South Africa,New Zealand,27.1,D van Niekerk,M du Preez,HNK Jensen,0,0,0,NA,0,NA,NA,NA,1
+1187716,2nd innings,South Africa,New Zealand,27.2,D van Niekerk,M du Preez,HNK Jensen,0,0,0,NA,0,NA,NA,NA,1
+1187716,2nd innings,South Africa,New Zealand,27.3,D van Niekerk,M du Preez,HNK Jensen,1,0,1,NA,0,NA,NA,NA,1
+1187716,2nd innings,South Africa,New Zealand,27.4,M du Preez,D van Niekerk,HNK Jensen,4,0,4,NA,0,NA,NA,NA,1
+1187716,2nd innings,South Africa,New Zealand,27.5,M du Preez,D van Niekerk,HNK Jensen,1,0,1,NA,0,NA,NA,NA,1
+1187716,2nd innings,South Africa,New Zealand,27.6,D van Niekerk,M du Preez,HNK Jensen,1,0,1,NA,0,NA,NA,NA,1
+1187716,2nd innings,South Africa,New Zealand,28.1,D van Niekerk,M du Preez,LM Kasperek,4,0,4,NA,0,NA,NA,NA,1
+1187716,2nd innings,South Africa,New Zealand,28.2,D van Niekerk,M du Preez,LM Kasperek,4,0,4,NA,0,NA,NA,NA,1
+1187716,2nd innings,South Africa,New Zealand,28.3,D van Niekerk,M du Preez,LM Kasperek,0,0,0,NA,0,NA,NA,NA,1
+1187716,2nd innings,South Africa,New Zealand,28.4,D van Niekerk,M du Preez,LM Kasperek,0,0,0,NA,1,caught,D van Niekerk,SW Bates,1
+1187716,2nd innings,South Africa,New Zealand,28.5,M du Preez,M Kapp,LM Kasperek,0,0,0,NA,0,NA,NA,NA,1
+1187716,2nd innings,South Africa,New Zealand,28.6,M du Preez,M Kapp,LM Kasperek,1,0,1,NA,0,NA,NA,NA,1
+1187716,2nd innings,South Africa,New Zealand,29.1,M du Preez,M Kapp,AC Kerr,0,0,0,NA,0,NA,NA,NA,1
+1187716,2nd innings,South Africa,New Zealand,29.2,M du Preez,M Kapp,AC Kerr,0,0,0,NA,0,NA,NA,NA,1
+1187716,2nd innings,South Africa,New Zealand,29.3,M du Preez,M Kapp,AC Kerr,1,0,1,NA,0,NA,NA,NA,1
+1187716,2nd innings,South Africa,New Zealand,29.4,M Kapp,M du Preez,AC Kerr,0,0,0,NA,0,NA,NA,NA,1
+1187716,2nd innings,South Africa,New Zealand,29.5,M Kapp,M du Preez,AC Kerr,1,0,1,NA,0,NA,NA,NA,1
+1187716,2nd innings,South Africa,New Zealand,29.6,M du Preez,M Kapp,AC Kerr,0,0,0,NA,0,NA,NA,NA,1
+1187716,2nd innings,South Africa,New Zealand,30.1,M Kapp,M du Preez,LM Kasperek,0,0,0,NA,0,NA,NA,NA,1
+1187716,2nd innings,South Africa,New Zealand,30.2,M Kapp,M du Preez,LM Kasperek,0,0,0,NA,0,NA,NA,NA,1
+1187716,2nd innings,South Africa,New Zealand,30.3,M Kapp,M du Preez,LM Kasperek,0,0,0,NA,0,NA,NA,NA,1
+1187716,2nd innings,South Africa,New Zealand,30.4,M Kapp,M du Preez,LM Kasperek,0,0,0,NA,0,NA,NA,NA,1
+1187716,2nd innings,South Africa,New Zealand,30.5,M Kapp,M du Preez,LM Kasperek,0,0,0,NA,0,NA,NA,NA,1
+1187716,2nd innings,South Africa,New Zealand,30.6,M Kapp,M du Preez,LM Kasperek,1,0,1,NA,0,NA,NA,NA,1
+1187716,2nd innings,South Africa,New Zealand,31.1,M Kapp,M du Preez,AC Kerr,0,1,1,wides,0,NA,NA,NA,1
+1187716,2nd innings,South Africa,New Zealand,31.2,M Kapp,M du Preez,AC Kerr,0,0,0,NA,0,NA,NA,NA,1
+1187716,2nd innings,South Africa,New Zealand,31.3,M Kapp,M du Preez,AC Kerr,0,0,0,NA,0,NA,NA,NA,1
+1187716,2nd innings,South Africa,New Zealand,31.4,M Kapp,M du Preez,AC Kerr,0,0,0,NA,0,NA,NA,NA,1
+1187716,2nd innings,South Africa,New Zealand,31.5,M Kapp,M du Preez,AC Kerr,0,0,0,NA,0,NA,NA,NA,1
+1187716,2nd innings,South Africa,New Zealand,31.6,M Kapp,M du Preez,AC Kerr,0,0,0,NA,0,NA,NA,NA,1
+1187716,2nd innings,South Africa,New Zealand,31.7,M Kapp,M du Preez,AC Kerr,0,0,0,NA,0,NA,NA,NA,1
+1187716,2nd innings,South Africa,New Zealand,32.1,M du Preez,M Kapp,LM Kasperek,0,0,0,NA,0,NA,NA,NA,1
+1187716,2nd innings,South Africa,New Zealand,32.2,M du Preez,M Kapp,LM Kasperek,0,0,0,NA,0,NA,NA,NA,1
+1187716,2nd innings,South Africa,New Zealand,32.3,M du Preez,M Kapp,LM Kasperek,0,0,0,NA,0,NA,NA,NA,1
+1187716,2nd innings,South Africa,New Zealand,32.4,M du Preez,M Kapp,LM Kasperek,0,0,0,NA,0,NA,NA,NA,1
+1187716,2nd innings,South Africa,New Zealand,32.5,M du Preez,M Kapp,LM Kasperek,0,0,0,NA,0,NA,NA,NA,1
+1187716,2nd innings,South Africa,New Zealand,32.6,M du Preez,M Kapp,LM Kasperek,0,0,0,NA,0,NA,NA,NA,1
+1187716,2nd innings,South Africa,New Zealand,33.1,M Kapp,M du Preez,AC Kerr,0,0,0,NA,0,NA,NA,NA,1
+1187716,2nd innings,South Africa,New Zealand,33.2,M Kapp,M du Preez,AC Kerr,4,0,4,NA,0,NA,NA,NA,1
+1187716,2nd innings,South Africa,New Zealand,33.3,M Kapp,M du Preez,AC Kerr,1,0,1,NA,0,NA,NA,NA,1
+1187716,2nd innings,South Africa,New Zealand,33.4,M du Preez,M Kapp,AC Kerr,0,0,0,NA,0,NA,NA,NA,1
+1187716,2nd innings,South Africa,New Zealand,33.5,M du Preez,M Kapp,AC Kerr,0,0,0,NA,0,NA,NA,NA,1
+1187716,2nd innings,South Africa,New Zealand,33.6,M du Preez,M Kapp,AC Kerr,0,0,0,NA,0,NA,NA,NA,1
+1187716,2nd innings,South Africa,New Zealand,34.1,M Kapp,M du Preez,JM Kerr,4,0,4,NA,0,NA,NA,NA,1
+1187716,2nd innings,South Africa,New Zealand,34.2,M Kapp,M du Preez,JM Kerr,0,0,0,NA,0,NA,NA,NA,1
+1187716,2nd innings,South Africa,New Zealand,34.3,M Kapp,M du Preez,JM Kerr,0,0,0,NA,0,NA,NA,NA,1
+1187716,2nd innings,South Africa,New Zealand,34.4,M Kapp,M du Preez,JM Kerr,0,0,0,NA,0,NA,NA,NA,1
+1187716,2nd innings,South Africa,New Zealand,34.5,M Kapp,M du Preez,JM Kerr,4,0,4,NA,0,NA,NA,NA,1
+1187716,2nd innings,South Africa,New Zealand,34.6,M Kapp,M du Preez,JM Kerr,0,0,0,NA,0,NA,NA,NA,1
+1187716,2nd innings,South Africa,New Zealand,35.1,M du Preez,M Kapp,LM Kasperek,4,0,4,NA,0,NA,NA,NA,1
+1187716,2nd innings,South Africa,New Zealand,35.2,M du Preez,M Kapp,LM Kasperek,1,0,1,NA,0,NA,NA,NA,1
+1187716,2nd innings,South Africa,New Zealand,35.3,M Kapp,M du Preez,LM Kasperek,1,0,1,NA,0,NA,NA,NA,1
+1187716,2nd innings,South Africa,New Zealand,35.4,M du Preez,M Kapp,LM Kasperek,0,0,0,NA,0,NA,NA,NA,1
+1187716,2nd innings,South Africa,New Zealand,35.5,M du Preez,M Kapp,LM Kasperek,0,0,0,NA,0,NA,NA,NA,1
+1187716,2nd innings,South Africa,New Zealand,35.6,M du Preez,M Kapp,LM Kasperek,4,0,4,NA,0,NA,NA,NA,1
+1187716,2nd innings,South Africa,New Zealand,36.1,M Kapp,M du Preez,JM Kerr,0,0,0,NA,0,NA,NA,NA,1
+1187716,2nd innings,South Africa,New Zealand,36.2,M Kapp,M du Preez,JM Kerr,0,0,0,NA,0,NA,NA,NA,1
+1187716,2nd innings,South Africa,New Zealand,36.3,M Kapp,M du Preez,JM Kerr,0,0,0,NA,0,NA,NA,NA,1
+1187716,2nd innings,South Africa,New Zealand,36.4,M Kapp,M du Preez,JM Kerr,0,0,0,NA,0,NA,NA,NA,1
+1187716,2nd innings,South Africa,New Zealand,36.5,M Kapp,M du Preez,JM Kerr,0,0,0,NA,0,NA,NA,NA,1
+1187716,2nd innings,South Africa,New Zealand,36.6,M Kapp,M du Preez,JM Kerr,0,0,0,NA,0,NA,NA,NA,1
+1187716,2nd innings,South Africa,New Zealand,37.1,M du Preez,M Kapp,LM Kasperek,0,0,0,NA,0,NA,NA,NA,1
+1187716,2nd innings,South Africa,New Zealand,37.2,M du Preez,M Kapp,LM Kasperek,1,0,1,NA,0,NA,NA,NA,1

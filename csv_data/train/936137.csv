@@ -1,0 +1,539 @@
+match_id,innings,team,opponent,ball,batsman,non_striker,bowler,scored_runs,extras,total,extra_type,wicket,wicket_type,player_out,fielders,winner
+936137,1st innings,South Africa,Australia,0.1,Q de Kock,RR Rossouw,CP Tremain,0,0,0,NA,0,NA,NA,NA,1
+936137,1st innings,South Africa,Australia,0.2,Q de Kock,RR Rossouw,CP Tremain,1,0,1,NA,0,NA,NA,NA,1
+936137,1st innings,South Africa,Australia,0.3,RR Rossouw,Q de Kock,CP Tremain,4,0,4,NA,0,NA,NA,NA,1
+936137,1st innings,South Africa,Australia,0.4,RR Rossouw,Q de Kock,CP Tremain,2,0,2,NA,0,NA,NA,NA,1
+936137,1st innings,South Africa,Australia,0.5,RR Rossouw,Q de Kock,CP Tremain,0,0,0,NA,0,NA,NA,NA,1
+936137,1st innings,South Africa,Australia,0.6,RR Rossouw,Q de Kock,CP Tremain,0,0,0,NA,0,NA,NA,NA,1
+936137,1st innings,South Africa,Australia,1.1,Q de Kock,RR Rossouw,JM Mennie,0,0,0,NA,0,NA,NA,NA,1
+936137,1st innings,South Africa,Australia,1.2,Q de Kock,RR Rossouw,JM Mennie,1,0,1,NA,0,NA,NA,NA,1
+936137,1st innings,South Africa,Australia,1.3,RR Rossouw,Q de Kock,JM Mennie,4,0,4,NA,0,NA,NA,NA,1
+936137,1st innings,South Africa,Australia,1.4,RR Rossouw,Q de Kock,JM Mennie,4,0,4,NA,0,NA,NA,NA,1
+936137,1st innings,South Africa,Australia,1.5,RR Rossouw,Q de Kock,JM Mennie,0,0,0,NA,0,NA,NA,NA,1
+936137,1st innings,South Africa,Australia,1.6,RR Rossouw,Q de Kock,JM Mennie,1,0,1,NA,0,NA,NA,NA,1
+936137,1st innings,South Africa,Australia,2.1,RR Rossouw,Q de Kock,CP Tremain,4,0,4,NA,0,NA,NA,NA,1
+936137,1st innings,South Africa,Australia,2.2,RR Rossouw,Q de Kock,CP Tremain,2,0,2,NA,0,NA,NA,NA,1
+936137,1st innings,South Africa,Australia,2.3,RR Rossouw,Q de Kock,CP Tremain,2,0,2,NA,0,NA,NA,NA,1
+936137,1st innings,South Africa,Australia,2.4,RR Rossouw,Q de Kock,CP Tremain,0,0,0,NA,0,NA,NA,NA,1
+936137,1st innings,South Africa,Australia,2.5,RR Rossouw,Q de Kock,CP Tremain,0,0,0,NA,0,NA,NA,NA,1
+936137,1st innings,South Africa,Australia,2.6,RR Rossouw,Q de Kock,CP Tremain,0,0,0,NA,0,NA,NA,NA,1
+936137,1st innings,South Africa,Australia,3.1,Q de Kock,RR Rossouw,JM Mennie,0,0,0,NA,0,NA,NA,NA,1
+936137,1st innings,South Africa,Australia,3.2,Q de Kock,RR Rossouw,JM Mennie,2,0,2,NA,0,NA,NA,NA,1
+936137,1st innings,South Africa,Australia,3.3,Q de Kock,RR Rossouw,JM Mennie,0,0,0,NA,0,NA,NA,NA,1
+936137,1st innings,South Africa,Australia,3.4,Q de Kock,RR Rossouw,JM Mennie,0,0,0,NA,0,NA,NA,NA,1
+936137,1st innings,South Africa,Australia,3.5,Q de Kock,RR Rossouw,JM Mennie,4,0,4,NA,0,NA,NA,NA,1
+936137,1st innings,South Africa,Australia,3.6,Q de Kock,RR Rossouw,JM Mennie,2,0,2,NA,0,NA,NA,NA,1
+936137,1st innings,South Africa,Australia,4.1,RR Rossouw,Q de Kock,CP Tremain,0,0,0,NA,0,NA,NA,NA,1
+936137,1st innings,South Africa,Australia,4.2,RR Rossouw,Q de Kock,CP Tremain,4,0,4,NA,0,NA,NA,NA,1
+936137,1st innings,South Africa,Australia,4.3,RR Rossouw,Q de Kock,CP Tremain,0,0,0,NA,0,NA,NA,NA,1
+936137,1st innings,South Africa,Australia,4.4,RR Rossouw,Q de Kock,CP Tremain,0,0,0,NA,0,NA,NA,NA,1
+936137,1st innings,South Africa,Australia,4.5,RR Rossouw,Q de Kock,CP Tremain,4,0,4,NA,0,NA,NA,NA,1
+936137,1st innings,South Africa,Australia,4.6,RR Rossouw,Q de Kock,CP Tremain,0,0,0,NA,0,NA,NA,NA,1
+936137,1st innings,South Africa,Australia,5.1,Q de Kock,RR Rossouw,JM Mennie,1,0,1,NA,0,NA,NA,NA,1
+936137,1st innings,South Africa,Australia,5.2,RR Rossouw,Q de Kock,JM Mennie,0,0,0,NA,0,NA,NA,NA,1
+936137,1st innings,South Africa,Australia,5.3,RR Rossouw,Q de Kock,JM Mennie,0,0,0,NA,0,NA,NA,NA,1
+936137,1st innings,South Africa,Australia,5.4,RR Rossouw,Q de Kock,JM Mennie,0,0,0,NA,0,NA,NA,NA,1
+936137,1st innings,South Africa,Australia,5.5,RR Rossouw,Q de Kock,JM Mennie,0,0,0,NA,0,NA,NA,NA,1
+936137,1st innings,South Africa,Australia,5.6,RR Rossouw,Q de Kock,JM Mennie,0,0,0,NA,0,NA,NA,NA,1
+936137,1st innings,South Africa,Australia,6.1,Q de Kock,RR Rossouw,CP Tremain,0,0,0,NA,0,NA,NA,NA,1
+936137,1st innings,South Africa,Australia,6.2,Q de Kock,RR Rossouw,CP Tremain,1,0,1,NA,0,NA,NA,NA,1
+936137,1st innings,South Africa,Australia,6.3,RR Rossouw,Q de Kock,CP Tremain,0,0,0,NA,0,NA,NA,NA,1
+936137,1st innings,South Africa,Australia,6.4,RR Rossouw,Q de Kock,CP Tremain,0,0,0,NA,0,NA,NA,NA,1
+936137,1st innings,South Africa,Australia,6.5,RR Rossouw,Q de Kock,CP Tremain,0,0,0,NA,0,NA,NA,NA,1
+936137,1st innings,South Africa,Australia,6.6,RR Rossouw,Q de Kock,CP Tremain,1,0,1,NA,0,NA,NA,NA,1
+936137,1st innings,South Africa,Australia,7.1,RR Rossouw,Q de Kock,JM Mennie,1,0,1,NA,0,NA,NA,NA,1
+936137,1st innings,South Africa,Australia,7.2,Q de Kock,RR Rossouw,JM Mennie,1,0,1,NA,0,NA,NA,NA,1
+936137,1st innings,South Africa,Australia,7.3,RR Rossouw,Q de Kock,JM Mennie,4,0,4,NA,0,NA,NA,NA,1
+936137,1st innings,South Africa,Australia,7.4,RR Rossouw,Q de Kock,JM Mennie,0,0,0,NA,0,NA,NA,NA,1
+936137,1st innings,South Africa,Australia,7.5,RR Rossouw,Q de Kock,JM Mennie,1,0,1,NA,0,NA,NA,NA,1
+936137,1st innings,South Africa,Australia,7.6,Q de Kock,RR Rossouw,JM Mennie,0,0,0,NA,0,NA,NA,NA,1
+936137,1st innings,South Africa,Australia,8.1,RR Rossouw,Q de Kock,JW Hastings,0,0,0,NA,0,NA,NA,NA,1
+936137,1st innings,South Africa,Australia,8.2,RR Rossouw,Q de Kock,JW Hastings,4,0,4,NA,0,NA,NA,NA,1
+936137,1st innings,South Africa,Australia,8.3,RR Rossouw,Q de Kock,JW Hastings,4,0,4,NA,0,NA,NA,NA,1
+936137,1st innings,South Africa,Australia,8.4,RR Rossouw,Q de Kock,JW Hastings,0,0,0,NA,0,NA,NA,NA,1
+936137,1st innings,South Africa,Australia,8.5,RR Rossouw,Q de Kock,JW Hastings,0,0,0,NA,0,NA,NA,NA,1
+936137,1st innings,South Africa,Australia,8.6,RR Rossouw,Q de Kock,JW Hastings,0,0,0,NA,0,NA,NA,NA,1
+936137,1st innings,South Africa,Australia,9.1,Q de Kock,RR Rossouw,JM Mennie,0,0,0,NA,0,NA,NA,NA,1
+936137,1st innings,South Africa,Australia,9.2,Q de Kock,RR Rossouw,JM Mennie,4,0,4,NA,0,NA,NA,NA,1
+936137,1st innings,South Africa,Australia,9.3,Q de Kock,RR Rossouw,JM Mennie,0,0,0,NA,0,NA,NA,NA,1
+936137,1st innings,South Africa,Australia,9.4,Q de Kock,RR Rossouw,JM Mennie,2,0,2,NA,0,NA,NA,NA,1
+936137,1st innings,South Africa,Australia,9.5,Q de Kock,RR Rossouw,JM Mennie,1,0,1,NA,0,NA,NA,NA,1
+936137,1st innings,South Africa,Australia,9.6,RR Rossouw,Q de Kock,JM Mennie,0,0,0,NA,0,NA,NA,NA,1
+936137,1st innings,South Africa,Australia,10.1,Q de Kock,RR Rossouw,JW Hastings,1,0,1,NA,0,NA,NA,NA,1
+936137,1st innings,South Africa,Australia,10.2,RR Rossouw,Q de Kock,JW Hastings,1,0,1,NA,0,NA,NA,NA,1
+936137,1st innings,South Africa,Australia,10.3,Q de Kock,RR Rossouw,JW Hastings,1,0,1,NA,0,NA,NA,NA,1
+936137,1st innings,South Africa,Australia,10.4,RR Rossouw,Q de Kock,JW Hastings,1,0,1,NA,0,NA,NA,NA,1
+936137,1st innings,South Africa,Australia,10.5,Q de Kock,RR Rossouw,JW Hastings,0,0,0,NA,0,NA,NA,NA,1
+936137,1st innings,South Africa,Australia,10.6,Q de Kock,RR Rossouw,JW Hastings,0,0,0,NA,1,caught,Q de Kock,CP Tremain,1
+936137,1st innings,South Africa,Australia,11.1,RR Rossouw,F du Plessis,MR Marsh,0,0,0,NA,0,NA,NA,NA,1
+936137,1st innings,South Africa,Australia,11.2,RR Rossouw,F du Plessis,MR Marsh,1,0,1,NA,0,NA,NA,NA,1
+936137,1st innings,South Africa,Australia,11.3,F du Plessis,RR Rossouw,MR Marsh,1,0,1,NA,0,NA,NA,NA,1
+936137,1st innings,South Africa,Australia,11.4,RR Rossouw,F du Plessis,MR Marsh,0,0,0,NA,0,NA,NA,NA,1
+936137,1st innings,South Africa,Australia,11.5,RR Rossouw,F du Plessis,MR Marsh,0,0,0,NA,0,NA,NA,NA,1
+936137,1st innings,South Africa,Australia,11.6,RR Rossouw,F du Plessis,MR Marsh,0,0,0,NA,0,NA,NA,NA,1
+936137,1st innings,South Africa,Australia,12.1,F du Plessis,RR Rossouw,JW Hastings,1,0,1,NA,0,NA,NA,NA,1
+936137,1st innings,South Africa,Australia,12.2,RR Rossouw,F du Plessis,JW Hastings,0,0,0,NA,0,NA,NA,NA,1
+936137,1st innings,South Africa,Australia,12.3,RR Rossouw,F du Plessis,JW Hastings,1,0,1,NA,0,NA,NA,NA,1
+936137,1st innings,South Africa,Australia,12.4,F du Plessis,RR Rossouw,JW Hastings,0,0,0,NA,0,NA,NA,NA,1
+936137,1st innings,South Africa,Australia,12.5,F du Plessis,RR Rossouw,JW Hastings,0,0,0,NA,0,NA,NA,NA,1
+936137,1st innings,South Africa,Australia,12.6,F du Plessis,RR Rossouw,JW Hastings,0,0,0,NA,0,NA,NA,NA,1
+936137,1st innings,South Africa,Australia,13.1,RR Rossouw,F du Plessis,MR Marsh,0,0,0,NA,0,NA,NA,NA,1
+936137,1st innings,South Africa,Australia,13.2,RR Rossouw,F du Plessis,MR Marsh,1,0,1,NA,0,NA,NA,NA,1
+936137,1st innings,South Africa,Australia,13.3,F du Plessis,RR Rossouw,MR Marsh,0,0,0,NA,0,NA,NA,NA,1
+936137,1st innings,South Africa,Australia,13.4,F du Plessis,RR Rossouw,MR Marsh,0,0,0,NA,0,NA,NA,NA,1
+936137,1st innings,South Africa,Australia,13.5,F du Plessis,RR Rossouw,MR Marsh,4,0,4,NA,0,NA,NA,NA,1
+936137,1st innings,South Africa,Australia,13.6,F du Plessis,RR Rossouw,MR Marsh,0,0,0,NA,0,NA,NA,NA,1
+936137,1st innings,South Africa,Australia,14.1,RR Rossouw,F du Plessis,JW Hastings,0,0,0,NA,0,NA,NA,NA,1
+936137,1st innings,South Africa,Australia,14.2,RR Rossouw,F du Plessis,JW Hastings,2,0,2,NA,0,NA,NA,NA,1
+936137,1st innings,South Africa,Australia,14.3,RR Rossouw,F du Plessis,JW Hastings,1,0,1,NA,0,NA,NA,NA,1
+936137,1st innings,South Africa,Australia,14.4,F du Plessis,RR Rossouw,JW Hastings,0,0,0,NA,0,NA,NA,NA,1
+936137,1st innings,South Africa,Australia,14.5,F du Plessis,RR Rossouw,JW Hastings,4,0,4,NA,0,NA,NA,NA,1
+936137,1st innings,South Africa,Australia,14.6,F du Plessis,RR Rossouw,JW Hastings,0,0,0,NA,0,NA,NA,NA,1
+936137,1st innings,South Africa,Australia,15.1,RR Rossouw,F du Plessis,MR Marsh,0,0,0,NA,0,NA,NA,NA,1
+936137,1st innings,South Africa,Australia,15.2,RR Rossouw,F du Plessis,MR Marsh,2,0,2,NA,0,NA,NA,NA,1
+936137,1st innings,South Africa,Australia,15.3,RR Rossouw,F du Plessis,MR Marsh,0,0,0,NA,0,NA,NA,NA,1
+936137,1st innings,South Africa,Australia,15.4,RR Rossouw,F du Plessis,MR Marsh,0,0,0,NA,0,NA,NA,NA,1
+936137,1st innings,South Africa,Australia,15.5,RR Rossouw,F du Plessis,MR Marsh,1,0,1,NA,0,NA,NA,NA,1
+936137,1st innings,South Africa,Australia,15.6,F du Plessis,RR Rossouw,MR Marsh,4,0,4,NA,0,NA,NA,NA,1
+936137,1st innings,South Africa,Australia,16.1,RR Rossouw,F du Plessis,A Zampa,0,0,0,NA,0,NA,NA,NA,1
+936137,1st innings,South Africa,Australia,16.2,RR Rossouw,F du Plessis,A Zampa,1,0,1,NA,0,NA,NA,NA,1
+936137,1st innings,South Africa,Australia,16.3,F du Plessis,RR Rossouw,A Zampa,1,0,1,NA,0,NA,NA,NA,1
+936137,1st innings,South Africa,Australia,16.4,RR Rossouw,F du Plessis,A Zampa,1,0,1,NA,0,NA,NA,NA,1
+936137,1st innings,South Africa,Australia,16.5,F du Plessis,RR Rossouw,A Zampa,1,0,1,NA,0,NA,NA,NA,1
+936137,1st innings,South Africa,Australia,16.6,RR Rossouw,F du Plessis,A Zampa,1,0,1,NA,0,NA,NA,NA,1
+936137,1st innings,South Africa,Australia,17.1,RR Rossouw,F du Plessis,MR Marsh,1,0,1,NA,0,NA,NA,NA,1
+936137,1st innings,South Africa,Australia,17.2,F du Plessis,RR Rossouw,MR Marsh,1,0,1,NA,0,NA,NA,NA,1
+936137,1st innings,South Africa,Australia,17.3,RR Rossouw,F du Plessis,MR Marsh,0,0,0,NA,0,NA,NA,NA,1
+936137,1st innings,South Africa,Australia,17.4,RR Rossouw,F du Plessis,MR Marsh,0,1,1,wides,0,NA,NA,NA,1
+936137,1st innings,South Africa,Australia,17.5,RR Rossouw,F du Plessis,MR Marsh,0,0,0,NA,0,NA,NA,NA,1
+936137,1st innings,South Africa,Australia,17.6,RR Rossouw,F du Plessis,MR Marsh,0,0,0,NA,0,NA,NA,NA,1
+936137,1st innings,South Africa,Australia,17.7,RR Rossouw,F du Plessis,MR Marsh,0,0,0,NA,0,NA,NA,NA,1
+936137,1st innings,South Africa,Australia,18.1,F du Plessis,RR Rossouw,A Zampa,0,0,0,NA,0,NA,NA,NA,1
+936137,1st innings,South Africa,Australia,18.2,F du Plessis,RR Rossouw,A Zampa,1,0,1,NA,0,NA,NA,NA,1
+936137,1st innings,South Africa,Australia,18.3,RR Rossouw,F du Plessis,A Zampa,1,0,1,NA,0,NA,NA,NA,1
+936137,1st innings,South Africa,Australia,18.4,F du Plessis,RR Rossouw,A Zampa,1,0,1,NA,0,NA,NA,NA,1
+936137,1st innings,South Africa,Australia,18.5,RR Rossouw,F du Plessis,A Zampa,0,0,0,NA,0,NA,NA,NA,1
+936137,1st innings,South Africa,Australia,18.6,RR Rossouw,F du Plessis,A Zampa,2,0,2,NA,0,NA,NA,NA,1
+936137,1st innings,South Africa,Australia,19.1,F du Plessis,RR Rossouw,JM Mennie,1,0,1,NA,0,NA,NA,NA,1
+936137,1st innings,South Africa,Australia,19.2,RR Rossouw,F du Plessis,JM Mennie,1,0,1,NA,0,NA,NA,NA,1
+936137,1st innings,South Africa,Australia,19.3,F du Plessis,RR Rossouw,JM Mennie,0,0,0,NA,0,NA,NA,NA,1
+936137,1st innings,South Africa,Australia,19.4,F du Plessis,RR Rossouw,JM Mennie,4,0,4,NA,0,NA,NA,NA,1
+936137,1st innings,South Africa,Australia,19.5,F du Plessis,RR Rossouw,JM Mennie,1,0,1,NA,0,NA,NA,NA,1
+936137,1st innings,South Africa,Australia,19.6,RR Rossouw,F du Plessis,JM Mennie,0,0,0,NA,0,NA,NA,NA,1
+936137,1st innings,South Africa,Australia,20.1,F du Plessis,RR Rossouw,A Zampa,0,0,0,NA,0,NA,NA,NA,1
+936137,1st innings,South Africa,Australia,20.2,F du Plessis,RR Rossouw,A Zampa,0,0,0,NA,0,NA,NA,NA,1
+936137,1st innings,South Africa,Australia,20.3,F du Plessis,RR Rossouw,A Zampa,4,0,4,NA,0,NA,NA,NA,1
+936137,1st innings,South Africa,Australia,20.4,F du Plessis,RR Rossouw,A Zampa,4,0,4,NA,0,NA,NA,NA,1
+936137,1st innings,South Africa,Australia,20.5,F du Plessis,RR Rossouw,A Zampa,0,0,0,NA,0,NA,NA,NA,1
+936137,1st innings,South Africa,Australia,20.6,F du Plessis,RR Rossouw,A Zampa,1,0,1,NA,0,NA,NA,NA,1
+936137,1st innings,South Africa,Australia,21.1,F du Plessis,RR Rossouw,JM Mennie,1,0,1,NA,0,NA,NA,NA,1
+936137,1st innings,South Africa,Australia,21.2,RR Rossouw,F du Plessis,JM Mennie,1,0,1,NA,0,NA,NA,NA,1
+936137,1st innings,South Africa,Australia,21.3,F du Plessis,RR Rossouw,JM Mennie,0,0,0,NA,0,NA,NA,NA,1
+936137,1st innings,South Africa,Australia,21.4,F du Plessis,RR Rossouw,JM Mennie,1,0,1,NA,0,NA,NA,NA,1
+936137,1st innings,South Africa,Australia,21.5,RR Rossouw,F du Plessis,JM Mennie,4,0,4,NA,0,NA,NA,NA,1
+936137,1st innings,South Africa,Australia,21.6,RR Rossouw,F du Plessis,JM Mennie,2,0,2,NA,0,NA,NA,NA,1
+936137,1st innings,South Africa,Australia,22.1,F du Plessis,RR Rossouw,A Zampa,1,0,1,NA,0,NA,NA,NA,1
+936137,1st innings,South Africa,Australia,22.2,RR Rossouw,F du Plessis,A Zampa,1,0,1,NA,0,NA,NA,NA,1
+936137,1st innings,South Africa,Australia,22.3,F du Plessis,RR Rossouw,A Zampa,0,0,0,NA,0,NA,NA,NA,1
+936137,1st innings,South Africa,Australia,22.4,F du Plessis,RR Rossouw,A Zampa,4,0,4,NA,0,NA,NA,NA,1
+936137,1st innings,South Africa,Australia,22.5,F du Plessis,RR Rossouw,A Zampa,1,0,1,NA,0,NA,NA,NA,1
+936137,1st innings,South Africa,Australia,22.6,RR Rossouw,F du Plessis,A Zampa,0,0,0,NA,0,NA,NA,NA,1
+936137,1st innings,South Africa,Australia,23.1,F du Plessis,RR Rossouw,CP Tremain,0,0,0,NA,0,NA,NA,NA,1
+936137,1st innings,South Africa,Australia,23.2,F du Plessis,RR Rossouw,CP Tremain,1,0,1,NA,0,NA,NA,NA,1
+936137,1st innings,South Africa,Australia,23.3,RR Rossouw,F du Plessis,CP Tremain,1,0,1,NA,0,NA,NA,NA,1
+936137,1st innings,South Africa,Australia,23.4,F du Plessis,RR Rossouw,CP Tremain,1,0,1,NA,0,NA,NA,NA,1
+936137,1st innings,South Africa,Australia,23.5,RR Rossouw,F du Plessis,CP Tremain,1,0,1,NA,0,NA,NA,NA,1
+936137,1st innings,South Africa,Australia,23.6,F du Plessis,RR Rossouw,CP Tremain,4,0,4,NA,0,NA,NA,NA,1
+936137,1st innings,South Africa,Australia,24.1,RR Rossouw,F du Plessis,JW Hastings,0,0,0,NA,1,caught,RR Rossouw,DJ Worrall (sub),1
+936137,1st innings,South Africa,Australia,24.2,F du Plessis,JP Duminy,JW Hastings,1,0,1,NA,0,NA,NA,NA,1
+936137,1st innings,South Africa,Australia,24.3,JP Duminy,F du Plessis,JW Hastings,0,0,0,NA,0,NA,NA,NA,1
+936137,1st innings,South Africa,Australia,24.4,JP Duminy,F du Plessis,JW Hastings,0,0,0,NA,0,NA,NA,NA,1
+936137,1st innings,South Africa,Australia,24.5,JP Duminy,F du Plessis,JW Hastings,0,1,1,wides,0,NA,NA,NA,1
+936137,1st innings,South Africa,Australia,24.6,JP Duminy,F du Plessis,JW Hastings,0,0,0,NA,0,NA,NA,NA,1
+936137,1st innings,South Africa,Australia,24.7,JP Duminy,F du Plessis,JW Hastings,0,0,0,NA,0,NA,NA,NA,1
+936137,1st innings,South Africa,Australia,25.1,F du Plessis,JP Duminy,CP Tremain,2,0,2,NA,0,NA,NA,NA,1
+936137,1st innings,South Africa,Australia,25.2,F du Plessis,JP Duminy,CP Tremain,1,0,1,NA,0,NA,NA,NA,1
+936137,1st innings,South Africa,Australia,25.3,JP Duminy,F du Plessis,CP Tremain,1,0,1,NA,0,NA,NA,NA,1
+936137,1st innings,South Africa,Australia,25.4,F du Plessis,JP Duminy,CP Tremain,0,0,0,NA,0,NA,NA,NA,1
+936137,1st innings,South Africa,Australia,25.5,F du Plessis,JP Duminy,CP Tremain,4,0,4,NA,0,NA,NA,NA,1
+936137,1st innings,South Africa,Australia,25.6,F du Plessis,JP Duminy,CP Tremain,1,0,1,NA,0,NA,NA,NA,1
+936137,1st innings,South Africa,Australia,26.1,F du Plessis,JP Duminy,JW Hastings,1,0,1,NA,0,NA,NA,NA,1
+936137,1st innings,South Africa,Australia,26.2,JP Duminy,F du Plessis,JW Hastings,0,0,0,NA,0,NA,NA,NA,1
+936137,1st innings,South Africa,Australia,26.3,JP Duminy,F du Plessis,JW Hastings,0,0,0,NA,0,NA,NA,NA,1
+936137,1st innings,South Africa,Australia,26.4,JP Duminy,F du Plessis,JW Hastings,0,0,0,NA,0,NA,NA,NA,1
+936137,1st innings,South Africa,Australia,26.5,JP Duminy,F du Plessis,JW Hastings,1,0,1,NA,0,NA,NA,NA,1
+936137,1st innings,South Africa,Australia,26.6,F du Plessis,JP Duminy,JW Hastings,1,0,1,NA,0,NA,NA,NA,1
+936137,1st innings,South Africa,Australia,27.1,F du Plessis,JP Duminy,TM Head,2,0,2,NA,0,NA,NA,NA,1
+936137,1st innings,South Africa,Australia,27.2,F du Plessis,JP Duminy,TM Head,4,0,4,NA,0,NA,NA,NA,1
+936137,1st innings,South Africa,Australia,27.3,F du Plessis,JP Duminy,TM Head,0,0,0,NA,0,NA,NA,NA,1
+936137,1st innings,South Africa,Australia,27.4,F du Plessis,JP Duminy,TM Head,0,0,0,NA,0,NA,NA,NA,1
+936137,1st innings,South Africa,Australia,27.5,F du Plessis,JP Duminy,TM Head,1,0,1,NA,0,NA,NA,NA,1
+936137,1st innings,South Africa,Australia,27.6,JP Duminy,F du Plessis,TM Head,1,0,1,NA,0,NA,NA,NA,1
+936137,1st innings,South Africa,Australia,28.1,JP Duminy,F du Plessis,JW Hastings,4,0,4,NA,0,NA,NA,NA,1
+936137,1st innings,South Africa,Australia,28.2,JP Duminy,F du Plessis,JW Hastings,0,0,0,NA,0,NA,NA,NA,1
+936137,1st innings,South Africa,Australia,28.3,JP Duminy,F du Plessis,JW Hastings,0,0,0,NA,0,NA,NA,NA,1
+936137,1st innings,South Africa,Australia,28.4,JP Duminy,F du Plessis,JW Hastings,1,0,1,NA,0,NA,NA,NA,1
+936137,1st innings,South Africa,Australia,28.5,F du Plessis,JP Duminy,JW Hastings,1,0,1,NA,0,NA,NA,NA,1
+936137,1st innings,South Africa,Australia,28.6,JP Duminy,F du Plessis,JW Hastings,2,0,2,NA,0,NA,NA,NA,1
+936137,1st innings,South Africa,Australia,29.1,F du Plessis,JP Duminy,TM Head,1,0,1,NA,0,NA,NA,NA,1
+936137,1st innings,South Africa,Australia,29.2,JP Duminy,F du Plessis,TM Head,1,0,1,NA,0,NA,NA,NA,1
+936137,1st innings,South Africa,Australia,29.3,F du Plessis,JP Duminy,TM Head,0,0,0,NA,0,NA,NA,NA,1
+936137,1st innings,South Africa,Australia,29.4,F du Plessis,JP Duminy,TM Head,0,5,5,wides,0,NA,NA,NA,1
+936137,1st innings,South Africa,Australia,29.5,F du Plessis,JP Duminy,TM Head,1,0,1,NA,0,NA,NA,NA,1
+936137,1st innings,South Africa,Australia,29.6,JP Duminy,F du Plessis,TM Head,4,0,4,NA,0,NA,NA,NA,1
+936137,1st innings,South Africa,Australia,29.7,JP Duminy,F du Plessis,TM Head,1,0,1,NA,0,NA,NA,NA,1
+936137,1st innings,South Africa,Australia,30.1,JP Duminy,F du Plessis,A Zampa,0,0,0,NA,0,NA,NA,NA,1
+936137,1st innings,South Africa,Australia,30.2,JP Duminy,F du Plessis,A Zampa,0,0,0,NA,0,NA,NA,NA,1
+936137,1st innings,South Africa,Australia,30.3,JP Duminy,F du Plessis,A Zampa,1,0,1,NA,0,NA,NA,NA,1
+936137,1st innings,South Africa,Australia,30.4,F du Plessis,JP Duminy,A Zampa,1,0,1,NA,0,NA,NA,NA,1
+936137,1st innings,South Africa,Australia,30.5,JP Duminy,F du Plessis,A Zampa,1,0,1,NA,0,NA,NA,NA,1
+936137,1st innings,South Africa,Australia,30.6,F du Plessis,JP Duminy,A Zampa,0,0,0,NA,0,NA,NA,NA,1
+936137,1st innings,South Africa,Australia,31.1,JP Duminy,F du Plessis,MR Marsh,0,0,0,NA,0,NA,NA,NA,1
+936137,1st innings,South Africa,Australia,31.2,JP Duminy,F du Plessis,MR Marsh,4,0,4,NA,0,NA,NA,NA,1
+936137,1st innings,South Africa,Australia,31.3,JP Duminy,F du Plessis,MR Marsh,1,0,1,NA,0,NA,NA,NA,1
+936137,1st innings,South Africa,Australia,31.4,F du Plessis,JP Duminy,MR Marsh,1,0,1,NA,0,NA,NA,NA,1
+936137,1st innings,South Africa,Australia,31.5,JP Duminy,F du Plessis,MR Marsh,0,0,0,NA,0,NA,NA,NA,1
+936137,1st innings,South Africa,Australia,31.6,JP Duminy,F du Plessis,MR Marsh,1,0,1,NA,0,NA,NA,NA,1
+936137,1st innings,South Africa,Australia,32.1,JP Duminy,F du Plessis,A Zampa,1,0,1,NA,0,NA,NA,NA,1
+936137,1st innings,South Africa,Australia,32.2,F du Plessis,JP Duminy,A Zampa,0,0,0,NA,0,NA,NA,NA,1
+936137,1st innings,South Africa,Australia,32.3,F du Plessis,JP Duminy,A Zampa,1,0,1,NA,0,NA,NA,NA,1
+936137,1st innings,South Africa,Australia,32.4,JP Duminy,F du Plessis,A Zampa,1,0,1,NA,0,NA,NA,NA,1
+936137,1st innings,South Africa,Australia,32.5,F du Plessis,JP Duminy,A Zampa,4,0,4,NA,0,NA,NA,NA,1
+936137,1st innings,South Africa,Australia,32.6,F du Plessis,JP Duminy,A Zampa,1,0,1,NA,0,NA,NA,NA,1
+936137,1st innings,South Africa,Australia,33.1,F du Plessis,JP Duminy,MR Marsh,1,0,1,NA,0,NA,NA,NA,1
+936137,1st innings,South Africa,Australia,33.2,JP Duminy,F du Plessis,MR Marsh,1,0,1,NA,0,NA,NA,NA,1
+936137,1st innings,South Africa,Australia,33.3,F du Plessis,JP Duminy,MR Marsh,1,0,1,NA,0,NA,NA,NA,1
+936137,1st innings,South Africa,Australia,33.4,JP Duminy,F du Plessis,MR Marsh,1,0,1,NA,0,NA,NA,NA,1
+936137,1st innings,South Africa,Australia,33.5,F du Plessis,JP Duminy,MR Marsh,1,0,1,NA,0,NA,NA,NA,1
+936137,1st innings,South Africa,Australia,33.6,JP Duminy,F du Plessis,MR Marsh,4,0,4,NA,0,NA,NA,NA,1
+936137,1st innings,South Africa,Australia,34.1,F du Plessis,JP Duminy,A Zampa,0,0,0,NA,0,NA,NA,NA,1
+936137,1st innings,South Africa,Australia,34.2,F du Plessis,JP Duminy,A Zampa,2,0,2,NA,0,NA,NA,NA,1
+936137,1st innings,South Africa,Australia,34.3,F du Plessis,JP Duminy,A Zampa,0,0,0,NA,0,NA,NA,NA,1
+936137,1st innings,South Africa,Australia,34.4,F du Plessis,JP Duminy,A Zampa,1,0,1,NA,0,NA,NA,NA,1
+936137,1st innings,South Africa,Australia,34.5,JP Duminy,F du Plessis,A Zampa,4,0,4,NA,0,NA,NA,NA,1
+936137,1st innings,South Africa,Australia,34.6,JP Duminy,F du Plessis,A Zampa,1,0,1,NA,0,NA,NA,NA,1
+936137,1st innings,South Africa,Australia,35.1,JP Duminy,F du Plessis,MR Marsh,4,0,4,NA,0,NA,NA,NA,1
+936137,1st innings,South Africa,Australia,35.2,JP Duminy,F du Plessis,MR Marsh,0,0,0,NA,0,NA,NA,NA,1
+936137,1st innings,South Africa,Australia,35.3,JP Duminy,F du Plessis,MR Marsh,0,0,0,NA,0,NA,NA,NA,1
+936137,1st innings,South Africa,Australia,35.4,JP Duminy,F du Plessis,MR Marsh,0,0,0,NA,0,NA,NA,NA,1
+936137,1st innings,South Africa,Australia,35.5,JP Duminy,F du Plessis,MR Marsh,1,0,1,NA,0,NA,NA,NA,1
+936137,1st innings,South Africa,Australia,35.6,F du Plessis,JP Duminy,MR Marsh,1,0,1,NA,0,NA,NA,NA,1
+936137,1st innings,South Africa,Australia,36.1,F du Plessis,JP Duminy,A Zampa,1,0,1,NA,0,NA,NA,NA,1
+936137,1st innings,South Africa,Australia,36.2,JP Duminy,F du Plessis,A Zampa,1,0,1,NA,0,NA,NA,NA,1
+936137,1st innings,South Africa,Australia,36.3,F du Plessis,JP Duminy,A Zampa,2,0,2,NA,0,NA,NA,NA,1
+936137,1st innings,South Africa,Australia,36.4,F du Plessis,JP Duminy,A Zampa,4,0,4,NA,0,NA,NA,NA,1
+936137,1st innings,South Africa,Australia,36.5,F du Plessis,JP Duminy,A Zampa,0,0,0,NA,0,NA,NA,NA,1
+936137,1st innings,South Africa,Australia,36.6,F du Plessis,JP Duminy,A Zampa,1,0,1,NA,0,NA,NA,NA,1
+936137,1st innings,South Africa,Australia,37.1,F du Plessis,JP Duminy,CP Tremain,0,1,1,wides,0,NA,NA,NA,1
+936137,1st innings,South Africa,Australia,37.2,F du Plessis,JP Duminy,CP Tremain,0,0,0,NA,0,NA,NA,NA,1
+936137,1st innings,South Africa,Australia,37.3,F du Plessis,JP Duminy,CP Tremain,0,1,1,legbyes,0,NA,NA,NA,1
+936137,1st innings,South Africa,Australia,37.4,JP Duminy,F du Plessis,CP Tremain,0,0,0,NA,0,NA,NA,NA,1
+936137,1st innings,South Africa,Australia,37.5,JP Duminy,F du Plessis,CP Tremain,4,0,4,NA,0,NA,NA,NA,1
+936137,1st innings,South Africa,Australia,37.6,JP Duminy,F du Plessis,CP Tremain,0,1,1,wides,0,NA,NA,NA,1
+936137,1st innings,South Africa,Australia,37.7,JP Duminy,F du Plessis,CP Tremain,1,0,1,NA,0,NA,NA,NA,1
+936137,1st innings,South Africa,Australia,37.8,F du Plessis,JP Duminy,CP Tremain,1,0,1,NA,0,NA,NA,NA,1
+936137,1st innings,South Africa,Australia,38.1,F du Plessis,JP Duminy,JM Mennie,1,0,1,NA,0,NA,NA,NA,1
+936137,1st innings,South Africa,Australia,38.2,JP Duminy,F du Plessis,JM Mennie,4,0,4,NA,0,NA,NA,NA,1
+936137,1st innings,South Africa,Australia,38.3,JP Duminy,F du Plessis,JM Mennie,1,0,1,NA,0,NA,NA,NA,1
+936137,1st innings,South Africa,Australia,38.4,F du Plessis,JP Duminy,JM Mennie,1,0,1,NA,0,NA,NA,NA,1
+936137,1st innings,South Africa,Australia,38.5,JP Duminy,F du Plessis,JM Mennie,0,0,0,NA,0,NA,NA,NA,1
+936137,1st innings,South Africa,Australia,38.6,JP Duminy,F du Plessis,JM Mennie,1,0,1,NA,0,NA,NA,NA,1
+936137,1st innings,South Africa,Australia,39.1,JP Duminy,F du Plessis,CP Tremain,0,0,0,NA,0,NA,NA,NA,1
+936137,1st innings,South Africa,Australia,39.2,JP Duminy,F du Plessis,CP Tremain,1,0,1,NA,0,NA,NA,NA,1
+936137,1st innings,South Africa,Australia,39.3,F du Plessis,JP Duminy,CP Tremain,4,0,4,NA,0,NA,NA,NA,1
+936137,1st innings,South Africa,Australia,39.4,F du Plessis,JP Duminy,CP Tremain,2,0,2,NA,0,NA,NA,NA,1
+936137,1st innings,South Africa,Australia,39.5,F du Plessis,JP Duminy,CP Tremain,1,0,1,NA,0,NA,NA,NA,1
+936137,1st innings,South Africa,Australia,39.6,JP Duminy,F du Plessis,CP Tremain,0,0,0,NA,0,NA,NA,NA,1
+936137,1st innings,South Africa,Australia,40.1,F du Plessis,JP Duminy,JM Mennie,1,0,1,NA,0,NA,NA,NA,1
+936137,1st innings,South Africa,Australia,40.2,JP Duminy,F du Plessis,JM Mennie,6,0,6,NA,0,NA,NA,NA,1
+936137,1st innings,South Africa,Australia,40.3,JP Duminy,F du Plessis,JM Mennie,0,0,0,NA,0,NA,NA,NA,1
+936137,1st innings,South Africa,Australia,40.4,JP Duminy,F du Plessis,JM Mennie,6,0,6,NA,0,NA,NA,NA,1
+936137,1st innings,South Africa,Australia,40.5,JP Duminy,F du Plessis,JM Mennie,1,0,1,NA,0,NA,NA,NA,1
+936137,1st innings,South Africa,Australia,40.6,F du Plessis,JP Duminy,JM Mennie,1,0,1,NA,0,NA,NA,NA,1
+936137,1st innings,South Africa,Australia,41.1,F du Plessis,JP Duminy,MR Marsh,2,0,2,NA,0,NA,NA,NA,1
+936137,1st innings,South Africa,Australia,41.2,F du Plessis,JP Duminy,MR Marsh,1,0,1,NA,0,NA,NA,NA,1
+936137,1st innings,South Africa,Australia,41.3,JP Duminy,F du Plessis,MR Marsh,6,0,6,NA,0,NA,NA,NA,1
+936137,1st innings,South Africa,Australia,41.4,JP Duminy,F du Plessis,MR Marsh,4,0,4,NA,0,NA,NA,NA,1
+936137,1st innings,South Africa,Australia,41.5,JP Duminy,F du Plessis,MR Marsh,4,0,4,NA,0,NA,NA,NA,1
+936137,1st innings,South Africa,Australia,41.6,JP Duminy,F du Plessis,MR Marsh,0,0,0,NA,1,bowled,JP Duminy,NA,1
+936137,1st innings,South Africa,Australia,42.1,F du Plessis,DA Miller,JM Mennie,1,0,1,NA,0,NA,NA,NA,1
+936137,1st innings,South Africa,Australia,42.2,DA Miller,F du Plessis,JM Mennie,0,1,1,wides,0,NA,NA,NA,1
+936137,1st innings,South Africa,Australia,42.3,DA Miller,F du Plessis,JM Mennie,1,0,1,NA,0,NA,NA,NA,1
+936137,1st innings,South Africa,Australia,42.4,F du Plessis,DA Miller,JM Mennie,1,0,1,NA,0,NA,NA,NA,1
+936137,1st innings,South Africa,Australia,42.5,DA Miller,F du Plessis,JM Mennie,2,0,2,NA,0,NA,NA,NA,1
+936137,1st innings,South Africa,Australia,42.6,DA Miller,F du Plessis,JM Mennie,4,0,4,NA,0,NA,NA,NA,1
+936137,1st innings,South Africa,Australia,42.7,DA Miller,F du Plessis,JM Mennie,0,0,0,NA,0,NA,NA,NA,1
+936137,1st innings,South Africa,Australia,43.1,F du Plessis,DA Miller,MR Marsh,2,0,2,NA,0,NA,NA,NA,1
+936137,1st innings,South Africa,Australia,43.2,F du Plessis,DA Miller,MR Marsh,0,0,0,NA,1,caught,F du Plessis,SPD Smith,1
+936137,1st innings,South Africa,Australia,43.3,F Behardien,DA Miller,MR Marsh,0,0,0,NA,0,NA,NA,NA,1
+936137,1st innings,South Africa,Australia,43.4,F Behardien,DA Miller,MR Marsh,0,0,0,NA,0,NA,NA,NA,1
+936137,1st innings,South Africa,Australia,43.5,F Behardien,DA Miller,MR Marsh,1,0,1,NA,0,NA,NA,NA,1
+936137,1st innings,South Africa,Australia,43.6,DA Miller,F Behardien,MR Marsh,0,0,0,NA,0,NA,NA,NA,1
+936137,1st innings,South Africa,Australia,44.1,F Behardien,DA Miller,JW Hastings,0,0,0,NA,0,NA,NA,NA,1
+936137,1st innings,South Africa,Australia,44.2,F Behardien,DA Miller,JW Hastings,1,0,1,NA,0,NA,NA,NA,1
+936137,1st innings,South Africa,Australia,44.3,DA Miller,F Behardien,JW Hastings,0,0,0,NA,0,NA,NA,NA,1
+936137,1st innings,South Africa,Australia,44.4,DA Miller,F Behardien,JW Hastings,4,0,4,NA,0,NA,NA,NA,1
+936137,1st innings,South Africa,Australia,44.5,DA Miller,F Behardien,JW Hastings,1,0,1,NA,0,NA,NA,NA,1
+936137,1st innings,South Africa,Australia,44.6,F Behardien,DA Miller,JW Hastings,1,0,1,NA,0,NA,NA,NA,1
+936137,1st innings,South Africa,Australia,45.1,F Behardien,DA Miller,MR Marsh,1,0,1,NA,0,NA,NA,NA,1
+936137,1st innings,South Africa,Australia,45.2,DA Miller,F Behardien,MR Marsh,1,0,1,NA,0,NA,NA,NA,1
+936137,1st innings,South Africa,Australia,45.3,F Behardien,DA Miller,MR Marsh,4,0,4,NA,0,NA,NA,NA,1
+936137,1st innings,South Africa,Australia,45.4,F Behardien,DA Miller,MR Marsh,1,0,1,NA,0,NA,NA,NA,1
+936137,1st innings,South Africa,Australia,45.5,DA Miller,F Behardien,MR Marsh,0,0,0,NA,0,NA,NA,NA,1
+936137,1st innings,South Africa,Australia,45.6,DA Miller,F Behardien,MR Marsh,2,0,2,NA,0,NA,NA,NA,1
+936137,1st innings,South Africa,Australia,46.1,F Behardien,DA Miller,JW Hastings,1,0,1,NA,0,NA,NA,NA,1
+936137,1st innings,South Africa,Australia,46.2,DA Miller,F Behardien,JW Hastings,4,0,4,NA,0,NA,NA,NA,1
+936137,1st innings,South Africa,Australia,46.3,DA Miller,F Behardien,JW Hastings,1,0,1,NA,0,NA,NA,NA,1
+936137,1st innings,South Africa,Australia,46.4,F Behardien,DA Miller,JW Hastings,0,0,0,NA,0,NA,NA,NA,1
+936137,1st innings,South Africa,Australia,46.5,F Behardien,DA Miller,JW Hastings,2,0,2,NA,0,NA,NA,NA,1
+936137,1st innings,South Africa,Australia,46.6,F Behardien,DA Miller,JW Hastings,1,0,1,NA,0,NA,NA,NA,1
+936137,1st innings,South Africa,Australia,47.1,F Behardien,DA Miller,CP Tremain,0,0,0,NA,1,caught,F Behardien,DA Warner,1
+936137,1st innings,South Africa,Australia,47.2,DA Miller,WD Parnell,CP Tremain,1,0,1,NA,0,NA,NA,NA,1
+936137,1st innings,South Africa,Australia,47.3,WD Parnell,DA Miller,CP Tremain,2,0,2,NA,0,NA,NA,NA,1
+936137,1st innings,South Africa,Australia,47.4,WD Parnell,DA Miller,CP Tremain,4,0,4,NA,0,NA,NA,NA,1
+936137,1st innings,South Africa,Australia,47.5,WD Parnell,DA Miller,CP Tremain,1,0,1,NA,0,NA,NA,NA,1
+936137,1st innings,South Africa,Australia,47.6,DA Miller,WD Parnell,CP Tremain,1,0,1,NA,0,NA,NA,NA,1
+936137,1st innings,South Africa,Australia,48.1,DA Miller,WD Parnell,JW Hastings,4,0,4,NA,0,NA,NA,NA,1
+936137,1st innings,South Africa,Australia,48.2,DA Miller,WD Parnell,JW Hastings,0,0,0,NA,1,caught,DA Miller,A Zampa,1
+936137,1st innings,South Africa,Australia,48.3,AL Phehlukwayo,WD Parnell,JW Hastings,0,0,0,NA,0,NA,NA,NA,1
+936137,1st innings,South Africa,Australia,48.4,AL Phehlukwayo,WD Parnell,JW Hastings,1,0,1,NA,0,NA,NA,NA,1
+936137,1st innings,South Africa,Australia,48.5,WD Parnell,AL Phehlukwayo,JW Hastings,1,0,1,NA,0,NA,NA,NA,1
+936137,1st innings,South Africa,Australia,48.6,AL Phehlukwayo,WD Parnell,JW Hastings,1,0,1,NA,0,NA,NA,NA,1
+936137,1st innings,South Africa,Australia,49.1,AL Phehlukwayo,WD Parnell,CP Tremain,4,0,4,NA,0,NA,NA,NA,1
+936137,1st innings,South Africa,Australia,49.2,AL Phehlukwayo,WD Parnell,CP Tremain,0,0,0,NA,0,NA,NA,NA,1
+936137,1st innings,South Africa,Australia,49.3,AL Phehlukwayo,WD Parnell,CP Tremain,6,0,6,NA,0,NA,NA,NA,1
+936137,1st innings,South Africa,Australia,49.4,AL Phehlukwayo,WD Parnell,CP Tremain,0,0,0,NA,0,NA,NA,NA,1
+936137,1st innings,South Africa,Australia,49.5,AL Phehlukwayo,WD Parnell,CP Tremain,1,0,1,NA,0,NA,NA,NA,1
+936137,1st innings,South Africa,Australia,49.6,WD Parnell,AL Phehlukwayo,CP Tremain,0,0,0,NA,0,NA,NA,NA,1
+936137,2nd innings,Australia,South Africa,0.1,AJ Finch,DA Warner,DW Steyn,0,0,0,NA,0,NA,NA,NA,0
+936137,2nd innings,Australia,South Africa,0.2,AJ Finch,DA Warner,DW Steyn,0,0,0,NA,0,NA,NA,NA,0
+936137,2nd innings,Australia,South Africa,0.3,AJ Finch,DA Warner,DW Steyn,1,0,1,NA,0,NA,NA,NA,0
+936137,2nd innings,Australia,South Africa,0.4,DA Warner,AJ Finch,DW Steyn,0,0,0,NA,0,NA,NA,NA,0
+936137,2nd innings,Australia,South Africa,0.5,DA Warner,AJ Finch,DW Steyn,1,0,1,NA,0,NA,NA,NA,0
+936137,2nd innings,Australia,South Africa,0.6,AJ Finch,DA Warner,DW Steyn,0,0,0,NA,0,NA,NA,NA,0
+936137,2nd innings,Australia,South Africa,1.1,DA Warner,AJ Finch,K Rabada,1,0,1,NA,0,NA,NA,NA,0
+936137,2nd innings,Australia,South Africa,1.2,AJ Finch,DA Warner,K Rabada,0,0,0,NA,1,caught,AJ Finch,F Behardien,0
+936137,2nd innings,Australia,South Africa,1.3,DA Warner,SPD Smith,K Rabada,0,0,0,NA,0,NA,NA,NA,0
+936137,2nd innings,Australia,South Africa,1.4,DA Warner,SPD Smith,K Rabada,0,1,1,legbyes,0,NA,NA,NA,0
+936137,2nd innings,Australia,South Africa,1.5,SPD Smith,DA Warner,K Rabada,0,0,0,NA,0,NA,NA,NA,0
+936137,2nd innings,Australia,South Africa,1.6,SPD Smith,DA Warner,K Rabada,0,0,0,NA,0,NA,NA,NA,0
+936137,2nd innings,Australia,South Africa,2.1,DA Warner,SPD Smith,DW Steyn,0,0,0,NA,0,NA,NA,NA,0
+936137,2nd innings,Australia,South Africa,2.2,DA Warner,SPD Smith,DW Steyn,0,0,0,NA,0,NA,NA,NA,0
+936137,2nd innings,Australia,South Africa,2.3,DA Warner,SPD Smith,DW Steyn,1,0,1,NA,0,NA,NA,NA,0
+936137,2nd innings,Australia,South Africa,2.4,SPD Smith,DA Warner,DW Steyn,4,0,4,NA,0,NA,NA,NA,0
+936137,2nd innings,Australia,South Africa,2.5,SPD Smith,DA Warner,DW Steyn,4,0,4,NA,0,NA,NA,NA,0
+936137,2nd innings,Australia,South Africa,2.6,SPD Smith,DA Warner,DW Steyn,1,0,1,NA,0,NA,NA,NA,0
+936137,2nd innings,Australia,South Africa,3.1,SPD Smith,DA Warner,K Rabada,1,0,1,NA,0,NA,NA,NA,0
+936137,2nd innings,Australia,South Africa,3.2,DA Warner,SPD Smith,K Rabada,4,0,4,NA,0,NA,NA,NA,0
+936137,2nd innings,Australia,South Africa,3.3,DA Warner,SPD Smith,K Rabada,0,0,0,NA,0,NA,NA,NA,0
+936137,2nd innings,Australia,South Africa,3.4,DA Warner,SPD Smith,K Rabada,0,0,0,NA,0,NA,NA,NA,0
+936137,2nd innings,Australia,South Africa,3.5,DA Warner,SPD Smith,K Rabada,0,0,0,NA,0,NA,NA,NA,0
+936137,2nd innings,Australia,South Africa,3.6,DA Warner,SPD Smith,K Rabada,0,1,1,wides,0,NA,NA,NA,0
+936137,2nd innings,Australia,South Africa,3.7,DA Warner,SPD Smith,K Rabada,0,0,0,NA,0,NA,NA,NA,0
+936137,2nd innings,Australia,South Africa,4.1,SPD Smith,DA Warner,DW Steyn,0,0,0,NA,0,NA,NA,NA,0
+936137,2nd innings,Australia,South Africa,4.2,SPD Smith,DA Warner,DW Steyn,0,0,0,NA,0,NA,NA,NA,0
+936137,2nd innings,Australia,South Africa,4.3,SPD Smith,DA Warner,DW Steyn,2,0,2,NA,0,NA,NA,NA,0
+936137,2nd innings,Australia,South Africa,4.4,SPD Smith,DA Warner,DW Steyn,1,0,1,NA,0,NA,NA,NA,0
+936137,2nd innings,Australia,South Africa,4.5,DA Warner,SPD Smith,DW Steyn,0,0,0,NA,0,NA,NA,NA,0
+936137,2nd innings,Australia,South Africa,4.6,DA Warner,SPD Smith,DW Steyn,0,0,0,NA,0,NA,NA,NA,0
+936137,2nd innings,Australia,South Africa,5.1,SPD Smith,DA Warner,K Rabada,1,0,1,NA,0,NA,NA,NA,0
+936137,2nd innings,Australia,South Africa,5.2,DA Warner,SPD Smith,K Rabada,0,0,0,NA,0,NA,NA,NA,0
+936137,2nd innings,Australia,South Africa,5.3,DA Warner,SPD Smith,K Rabada,0,0,0,NA,0,NA,NA,NA,0
+936137,2nd innings,Australia,South Africa,5.4,DA Warner,SPD Smith,K Rabada,0,1,1,wides,0,NA,NA,NA,0
+936137,2nd innings,Australia,South Africa,5.5,DA Warner,SPD Smith,K Rabada,0,0,0,NA,0,NA,NA,NA,0
+936137,2nd innings,Australia,South Africa,5.6,DA Warner,SPD Smith,K Rabada,0,0,0,NA,0,NA,NA,NA,0
+936137,2nd innings,Australia,South Africa,5.7,DA Warner,SPD Smith,K Rabada,4,0,4,NA,0,NA,NA,NA,0
+936137,2nd innings,Australia,South Africa,6.1,SPD Smith,DA Warner,DW Steyn,0,0,0,NA,1,caught,SPD Smith,Q de Kock,0
+936137,2nd innings,Australia,South Africa,6.2,GJ Bailey,DA Warner,DW Steyn,0,1,1,wides,0,NA,NA,NA,0
+936137,2nd innings,Australia,South Africa,6.3,GJ Bailey,DA Warner,DW Steyn,0,0,0,NA,0,NA,NA,NA,0
+936137,2nd innings,Australia,South Africa,6.4,GJ Bailey,DA Warner,DW Steyn,0,0,0,NA,0,NA,NA,NA,0
+936137,2nd innings,Australia,South Africa,6.5,GJ Bailey,DA Warner,DW Steyn,0,0,0,NA,0,NA,NA,NA,0
+936137,2nd innings,Australia,South Africa,6.6,GJ Bailey,DA Warner,DW Steyn,1,0,1,NA,0,NA,NA,NA,0
+936137,2nd innings,Australia,South Africa,6.7,DA Warner,GJ Bailey,DW Steyn,4,0,4,NA,0,NA,NA,NA,0
+936137,2nd innings,Australia,South Africa,7.1,GJ Bailey,DA Warner,K Rabada,0,0,0,NA,0,NA,NA,NA,0
+936137,2nd innings,Australia,South Africa,7.2,GJ Bailey,DA Warner,K Rabada,0,0,0,NA,0,NA,NA,NA,0
+936137,2nd innings,Australia,South Africa,7.3,GJ Bailey,DA Warner,K Rabada,0,0,0,NA,0,NA,NA,NA,0
+936137,2nd innings,Australia,South Africa,7.4,GJ Bailey,DA Warner,K Rabada,0,0,0,NA,0,NA,NA,NA,0
+936137,2nd innings,Australia,South Africa,7.5,GJ Bailey,DA Warner,K Rabada,0,0,0,NA,0,NA,NA,NA,0
+936137,2nd innings,Australia,South Africa,7.6,GJ Bailey,DA Warner,K Rabada,4,0,4,NA,0,NA,NA,NA,0
+936137,2nd innings,Australia,South Africa,8.1,DA Warner,GJ Bailey,DW Steyn,4,0,4,NA,0,NA,NA,NA,0
+936137,2nd innings,Australia,South Africa,8.2,DA Warner,GJ Bailey,DW Steyn,0,0,0,NA,0,NA,NA,NA,0
+936137,2nd innings,Australia,South Africa,8.3,DA Warner,GJ Bailey,DW Steyn,1,0,1,NA,0,NA,NA,NA,0
+936137,2nd innings,Australia,South Africa,8.4,GJ Bailey,DA Warner,DW Steyn,4,0,4,NA,0,NA,NA,NA,0
+936137,2nd innings,Australia,South Africa,8.5,GJ Bailey,DA Warner,DW Steyn,0,0,0,NA,0,NA,NA,NA,0
+936137,2nd innings,Australia,South Africa,8.6,GJ Bailey,DA Warner,DW Steyn,0,0,0,NA,0,NA,NA,NA,0
+936137,2nd innings,Australia,South Africa,9.1,DA Warner,GJ Bailey,K Rabada,0,1,1,wides,0,NA,NA,NA,0
+936137,2nd innings,Australia,South Africa,9.2,DA Warner,GJ Bailey,K Rabada,4,0,4,NA,0,NA,NA,NA,0
+936137,2nd innings,Australia,South Africa,9.3,DA Warner,GJ Bailey,K Rabada,0,0,0,NA,0,NA,NA,NA,0
+936137,2nd innings,Australia,South Africa,9.4,DA Warner,GJ Bailey,K Rabada,0,0,0,NA,0,NA,NA,NA,0
+936137,2nd innings,Australia,South Africa,9.5,DA Warner,GJ Bailey,K Rabada,0,0,0,NA,0,NA,NA,NA,0
+936137,2nd innings,Australia,South Africa,9.6,DA Warner,GJ Bailey,K Rabada,0,0,0,NA,0,NA,NA,NA,0
+936137,2nd innings,Australia,South Africa,9.7,DA Warner,GJ Bailey,K Rabada,1,0,1,NA,0,NA,NA,NA,0
+936137,2nd innings,Australia,South Africa,10.1,DA Warner,GJ Bailey,WD Parnell,1,0,1,NA,0,NA,NA,NA,0
+936137,2nd innings,Australia,South Africa,10.2,GJ Bailey,DA Warner,WD Parnell,0,0,0,NA,0,NA,NA,NA,0
+936137,2nd innings,Australia,South Africa,10.3,GJ Bailey,DA Warner,WD Parnell,0,0,0,NA,0,NA,NA,NA,0
+936137,2nd innings,Australia,South Africa,10.4,GJ Bailey,DA Warner,WD Parnell,0,0,0,NA,0,NA,NA,NA,0
+936137,2nd innings,Australia,South Africa,10.5,GJ Bailey,DA Warner,WD Parnell,0,0,0,NA,0,NA,NA,NA,0
+936137,2nd innings,Australia,South Africa,10.6,GJ Bailey,DA Warner,WD Parnell,0,0,0,NA,1,bowled,GJ Bailey,NA,0
+936137,2nd innings,Australia,South Africa,11.1,DA Warner,MR Marsh,AL Phehlukwayo,1,0,1,NA,0,NA,NA,NA,0
+936137,2nd innings,Australia,South Africa,11.2,MR Marsh,DA Warner,AL Phehlukwayo,0,0,0,NA,0,NA,NA,NA,0
+936137,2nd innings,Australia,South Africa,11.3,MR Marsh,DA Warner,AL Phehlukwayo,4,0,4,NA,0,NA,NA,NA,0
+936137,2nd innings,Australia,South Africa,11.4,MR Marsh,DA Warner,AL Phehlukwayo,4,0,4,NA,0,NA,NA,NA,0
+936137,2nd innings,Australia,South Africa,11.5,MR Marsh,DA Warner,AL Phehlukwayo,0,0,0,NA,0,NA,NA,NA,0
+936137,2nd innings,Australia,South Africa,11.6,MR Marsh,DA Warner,AL Phehlukwayo,0,0,0,NA,0,NA,NA,NA,0
+936137,2nd innings,Australia,South Africa,12.1,DA Warner,MR Marsh,WD Parnell,1,0,1,NA,0,NA,NA,NA,0
+936137,2nd innings,Australia,South Africa,12.2,MR Marsh,DA Warner,WD Parnell,0,1,1,legbyes,0,NA,NA,NA,0
+936137,2nd innings,Australia,South Africa,12.3,DA Warner,MR Marsh,WD Parnell,1,0,1,NA,0,NA,NA,NA,0
+936137,2nd innings,Australia,South Africa,12.4,MR Marsh,DA Warner,WD Parnell,0,0,0,NA,0,NA,NA,NA,0
+936137,2nd innings,Australia,South Africa,12.5,MR Marsh,DA Warner,WD Parnell,0,0,0,NA,0,NA,NA,NA,0
+936137,2nd innings,Australia,South Africa,12.6,MR Marsh,DA Warner,WD Parnell,0,0,0,NA,0,NA,NA,NA,0
+936137,2nd innings,Australia,South Africa,13.1,DA Warner,MR Marsh,Imran Tahir,4,0,4,NA,0,NA,NA,NA,0
+936137,2nd innings,Australia,South Africa,13.2,DA Warner,MR Marsh,Imran Tahir,1,0,1,NA,0,NA,NA,NA,0
+936137,2nd innings,Australia,South Africa,13.3,MR Marsh,DA Warner,Imran Tahir,0,0,0,NA,0,NA,NA,NA,0
+936137,2nd innings,Australia,South Africa,13.4,MR Marsh,DA Warner,Imran Tahir,0,0,0,NA,0,NA,NA,NA,0
+936137,2nd innings,Australia,South Africa,13.5,MR Marsh,DA Warner,Imran Tahir,0,0,0,NA,0,NA,NA,NA,0
+936137,2nd innings,Australia,South Africa,13.6,MR Marsh,DA Warner,Imran Tahir,1,0,1,NA,0,NA,NA,NA,0
+936137,2nd innings,Australia,South Africa,14.1,MR Marsh,DA Warner,WD Parnell,4,0,4,NA,0,NA,NA,NA,0
+936137,2nd innings,Australia,South Africa,14.2,MR Marsh,DA Warner,WD Parnell,4,0,4,NA,0,NA,NA,NA,0
+936137,2nd innings,Australia,South Africa,14.3,MR Marsh,DA Warner,WD Parnell,0,0,0,NA,0,NA,NA,NA,0
+936137,2nd innings,Australia,South Africa,14.4,MR Marsh,DA Warner,WD Parnell,1,0,1,NA,0,NA,NA,NA,0
+936137,2nd innings,Australia,South Africa,14.5,DA Warner,MR Marsh,WD Parnell,0,0,0,NA,0,NA,NA,NA,0
+936137,2nd innings,Australia,South Africa,14.6,DA Warner,MR Marsh,WD Parnell,0,1,1,legbyes,0,NA,NA,NA,0
+936137,2nd innings,Australia,South Africa,15.1,DA Warner,MR Marsh,Imran Tahir,1,0,1,NA,0,NA,NA,NA,0
+936137,2nd innings,Australia,South Africa,15.2,MR Marsh,DA Warner,Imran Tahir,1,0,1,NA,0,NA,NA,NA,0
+936137,2nd innings,Australia,South Africa,15.3,DA Warner,MR Marsh,Imran Tahir,0,0,0,NA,0,NA,NA,NA,0
+936137,2nd innings,Australia,South Africa,15.4,DA Warner,MR Marsh,Imran Tahir,0,0,0,NA,0,NA,NA,NA,0
+936137,2nd innings,Australia,South Africa,15.5,DA Warner,MR Marsh,Imran Tahir,2,0,2,NA,0,NA,NA,NA,0
+936137,2nd innings,Australia,South Africa,15.6,DA Warner,MR Marsh,Imran Tahir,0,0,0,NA,0,NA,NA,NA,0
+936137,2nd innings,Australia,South Africa,16.1,MR Marsh,DA Warner,WD Parnell,0,0,0,NA,1,caught,MR Marsh,Q de Kock,0
+936137,2nd innings,Australia,South Africa,16.2,TM Head,DA Warner,WD Parnell,0,0,0,NA,0,NA,NA,NA,0
+936137,2nd innings,Australia,South Africa,16.3,TM Head,DA Warner,WD Parnell,0,0,0,NA,0,NA,NA,NA,0
+936137,2nd innings,Australia,South Africa,16.4,TM Head,DA Warner,WD Parnell,0,0,0,NA,0,NA,NA,NA,0
+936137,2nd innings,Australia,South Africa,16.5,TM Head,DA Warner,WD Parnell,6,0,6,NA,0,NA,NA,NA,0
+936137,2nd innings,Australia,South Africa,16.6,TM Head,DA Warner,WD Parnell,1,0,1,NA,0,NA,NA,NA,0
+936137,2nd innings,Australia,South Africa,17.1,TM Head,DA Warner,Imran Tahir,1,0,1,NA,0,NA,NA,NA,0
+936137,2nd innings,Australia,South Africa,17.2,DA Warner,TM Head,Imran Tahir,0,0,0,NA,0,NA,NA,NA,0
+936137,2nd innings,Australia,South Africa,17.3,DA Warner,TM Head,Imran Tahir,1,0,1,NA,0,NA,NA,NA,0
+936137,2nd innings,Australia,South Africa,17.4,TM Head,DA Warner,Imran Tahir,0,0,0,NA,0,NA,NA,NA,0
+936137,2nd innings,Australia,South Africa,17.5,TM Head,DA Warner,Imran Tahir,0,0,0,NA,0,NA,NA,NA,0
+936137,2nd innings,Australia,South Africa,17.6,TM Head,DA Warner,Imran Tahir,0,0,0,NA,0,NA,NA,NA,0
+936137,2nd innings,Australia,South Africa,18.1,DA Warner,TM Head,WD Parnell,1,0,1,NA,0,NA,NA,NA,0
+936137,2nd innings,Australia,South Africa,18.2,TM Head,DA Warner,WD Parnell,2,0,2,NA,0,NA,NA,NA,0
+936137,2nd innings,Australia,South Africa,18.3,TM Head,DA Warner,WD Parnell,0,0,0,NA,0,NA,NA,NA,0
+936137,2nd innings,Australia,South Africa,18.4,TM Head,DA Warner,WD Parnell,1,0,1,NA,0,NA,NA,NA,0
+936137,2nd innings,Australia,South Africa,18.5,DA Warner,TM Head,WD Parnell,0,0,0,NA,0,NA,NA,NA,0
+936137,2nd innings,Australia,South Africa,18.6,DA Warner,TM Head,WD Parnell,0,0,0,NA,0,NA,NA,NA,0
+936137,2nd innings,Australia,South Africa,19.1,TM Head,DA Warner,AL Phehlukwayo,1,0,1,NA,0,NA,NA,NA,0
+936137,2nd innings,Australia,South Africa,19.2,DA Warner,TM Head,AL Phehlukwayo,0,0,0,NA,0,NA,NA,NA,0
+936137,2nd innings,Australia,South Africa,19.3,DA Warner,TM Head,AL Phehlukwayo,0,0,0,NA,0,NA,NA,NA,0
+936137,2nd innings,Australia,South Africa,19.4,DA Warner,TM Head,AL Phehlukwayo,0,0,0,NA,0,NA,NA,NA,0
+936137,2nd innings,Australia,South Africa,19.5,DA Warner,TM Head,AL Phehlukwayo,4,0,4,NA,0,NA,NA,NA,0
+936137,2nd innings,Australia,South Africa,19.6,DA Warner,TM Head,AL Phehlukwayo,6,0,6,NA,0,NA,NA,NA,0
+936137,2nd innings,Australia,South Africa,20.1,TM Head,DA Warner,JP Duminy,1,0,1,NA,0,NA,NA,NA,0
+936137,2nd innings,Australia,South Africa,20.2,DA Warner,TM Head,JP Duminy,0,0,0,NA,0,NA,NA,NA,0
+936137,2nd innings,Australia,South Africa,20.3,DA Warner,TM Head,JP Duminy,1,0,1,NA,0,NA,NA,NA,0
+936137,2nd innings,Australia,South Africa,20.4,TM Head,DA Warner,JP Duminy,1,0,1,NA,0,NA,NA,NA,0
+936137,2nd innings,Australia,South Africa,20.5,DA Warner,TM Head,JP Duminy,0,0,0,NA,1,caught,DA Warner,DA Miller,0
+936137,2nd innings,Australia,South Africa,20.6,MS Wade,TM Head,JP Duminy,0,0,0,NA,0,NA,NA,NA,0
+936137,2nd innings,Australia,South Africa,21.1,TM Head,MS Wade,AL Phehlukwayo,0,0,0,NA,0,NA,NA,NA,0
+936137,2nd innings,Australia,South Africa,21.2,TM Head,MS Wade,AL Phehlukwayo,1,0,1,NA,0,NA,NA,NA,0
+936137,2nd innings,Australia,South Africa,21.3,MS Wade,TM Head,AL Phehlukwayo,0,0,0,NA,0,NA,NA,NA,0
+936137,2nd innings,Australia,South Africa,21.4,MS Wade,TM Head,AL Phehlukwayo,0,0,0,NA,0,NA,NA,NA,0
+936137,2nd innings,Australia,South Africa,21.5,MS Wade,TM Head,AL Phehlukwayo,2,0,2,NA,0,NA,NA,NA,0
+936137,2nd innings,Australia,South Africa,21.6,MS Wade,TM Head,AL Phehlukwayo,0,0,0,NA,0,NA,NA,NA,0
+936137,2nd innings,Australia,South Africa,22.1,TM Head,MS Wade,JP Duminy,1,0,1,NA,0,NA,NA,NA,0
+936137,2nd innings,Australia,South Africa,22.2,MS Wade,TM Head,JP Duminy,0,0,0,NA,0,NA,NA,NA,0
+936137,2nd innings,Australia,South Africa,22.3,MS Wade,TM Head,JP Duminy,1,0,1,NA,0,NA,NA,NA,0
+936137,2nd innings,Australia,South Africa,22.4,TM Head,MS Wade,JP Duminy,1,0,1,NA,0,NA,NA,NA,0
+936137,2nd innings,Australia,South Africa,22.5,MS Wade,TM Head,JP Duminy,1,0,1,NA,0,NA,NA,NA,0
+936137,2nd innings,Australia,South Africa,22.6,TM Head,MS Wade,JP Duminy,0,0,0,NA,0,NA,NA,NA,0
+936137,2nd innings,Australia,South Africa,23.1,MS Wade,TM Head,AL Phehlukwayo,1,0,1,NA,0,NA,NA,NA,0
+936137,2nd innings,Australia,South Africa,23.2,TM Head,MS Wade,AL Phehlukwayo,1,0,1,NA,0,NA,NA,NA,0
+936137,2nd innings,Australia,South Africa,23.3,MS Wade,TM Head,AL Phehlukwayo,0,0,0,NA,0,NA,NA,NA,0
+936137,2nd innings,Australia,South Africa,23.4,MS Wade,TM Head,AL Phehlukwayo,1,0,1,NA,0,NA,NA,NA,0
+936137,2nd innings,Australia,South Africa,23.5,TM Head,MS Wade,AL Phehlukwayo,0,0,0,NA,0,NA,NA,NA,0
+936137,2nd innings,Australia,South Africa,23.6,TM Head,MS Wade,AL Phehlukwayo,4,0,4,NA,0,NA,NA,NA,0
+936137,2nd innings,Australia,South Africa,24.1,MS Wade,TM Head,JP Duminy,4,0,4,NA,0,NA,NA,NA,0
+936137,2nd innings,Australia,South Africa,24.2,MS Wade,TM Head,JP Duminy,0,0,0,NA,0,NA,NA,NA,0
+936137,2nd innings,Australia,South Africa,24.3,MS Wade,TM Head,JP Duminy,1,0,1,NA,0,NA,NA,NA,0
+936137,2nd innings,Australia,South Africa,24.4,TM Head,MS Wade,JP Duminy,1,0,1,NA,0,NA,NA,NA,0
+936137,2nd innings,Australia,South Africa,24.5,MS Wade,TM Head,JP Duminy,4,0,4,NA,0,NA,NA,NA,0
+936137,2nd innings,Australia,South Africa,24.6,MS Wade,TM Head,JP Duminy,0,0,0,NA,0,NA,NA,NA,0
+936137,2nd innings,Australia,South Africa,25.1,TM Head,MS Wade,AL Phehlukwayo,6,0,6,NA,0,NA,NA,NA,0
+936137,2nd innings,Australia,South Africa,25.2,TM Head,MS Wade,AL Phehlukwayo,4,0,4,NA,0,NA,NA,NA,0
+936137,2nd innings,Australia,South Africa,25.3,TM Head,MS Wade,AL Phehlukwayo,1,0,1,NA,0,NA,NA,NA,0
+936137,2nd innings,Australia,South Africa,25.4,MS Wade,TM Head,AL Phehlukwayo,4,0,4,NA,0,NA,NA,NA,0
+936137,2nd innings,Australia,South Africa,25.5,MS Wade,TM Head,AL Phehlukwayo,1,0,1,NA,0,NA,NA,NA,0
+936137,2nd innings,Australia,South Africa,25.6,TM Head,MS Wade,AL Phehlukwayo,0,0,0,NA,0,NA,NA,NA,0
+936137,2nd innings,Australia,South Africa,26.1,MS Wade,TM Head,Imran Tahir,1,0,1,NA,0,NA,NA,NA,0
+936137,2nd innings,Australia,South Africa,26.2,TM Head,MS Wade,Imran Tahir,4,0,4,NA,0,NA,NA,NA,0
+936137,2nd innings,Australia,South Africa,26.3,TM Head,MS Wade,Imran Tahir,1,0,1,NA,0,NA,NA,NA,0
+936137,2nd innings,Australia,South Africa,26.4,MS Wade,TM Head,Imran Tahir,0,0,0,NA,0,NA,NA,NA,0
+936137,2nd innings,Australia,South Africa,26.5,MS Wade,TM Head,Imran Tahir,1,0,1,NA,0,NA,NA,NA,0
+936137,2nd innings,Australia,South Africa,26.6,TM Head,MS Wade,Imran Tahir,1,0,1,NA,0,NA,NA,NA,0
+936137,2nd innings,Australia,South Africa,27.1,TM Head,MS Wade,DW Steyn,0,0,0,NA,0,NA,NA,NA,0
+936137,2nd innings,Australia,South Africa,27.2,TM Head,MS Wade,DW Steyn,4,0,4,NA,0,NA,NA,NA,0
+936137,2nd innings,Australia,South Africa,27.3,TM Head,MS Wade,DW Steyn,0,0,0,NA,0,NA,NA,NA,0
+936137,2nd innings,Australia,South Africa,27.4,TM Head,MS Wade,DW Steyn,0,0,0,NA,0,NA,NA,NA,0
+936137,2nd innings,Australia,South Africa,27.5,TM Head,MS Wade,DW Steyn,0,0,0,NA,0,NA,NA,NA,0
+936137,2nd innings,Australia,South Africa,27.6,TM Head,MS Wade,DW Steyn,1,0,1,NA,0,NA,NA,NA,0
+936137,2nd innings,Australia,South Africa,28.1,TM Head,MS Wade,Imran Tahir,1,0,1,NA,0,NA,NA,NA,0
+936137,2nd innings,Australia,South Africa,28.2,MS Wade,TM Head,Imran Tahir,4,0,4,NA,0,NA,NA,NA,0
+936137,2nd innings,Australia,South Africa,28.3,MS Wade,TM Head,Imran Tahir,0,0,0,NA,0,NA,NA,NA,0
+936137,2nd innings,Australia,South Africa,28.4,MS Wade,TM Head,Imran Tahir,4,0,4,NA,0,NA,NA,NA,0
+936137,2nd innings,Australia,South Africa,28.5,MS Wade,TM Head,Imran Tahir,0,0,0,NA,0,NA,NA,NA,0
+936137,2nd innings,Australia,South Africa,28.6,MS Wade,TM Head,Imran Tahir,0,0,0,NA,0,NA,NA,NA,0
+936137,2nd innings,Australia,South Africa,29.1,TM Head,MS Wade,DW Steyn,1,0,1,NA,0,NA,NA,NA,0
+936137,2nd innings,Australia,South Africa,29.2,MS Wade,TM Head,DW Steyn,0,0,0,NA,0,NA,NA,NA,0
+936137,2nd innings,Australia,South Africa,29.3,MS Wade,TM Head,DW Steyn,0,0,0,NA,0,NA,NA,NA,0
+936137,2nd innings,Australia,South Africa,29.4,MS Wade,TM Head,DW Steyn,0,0,0,NA,0,NA,NA,NA,0
+936137,2nd innings,Australia,South Africa,29.5,MS Wade,TM Head,DW Steyn,1,0,1,NA,0,NA,NA,NA,0
+936137,2nd innings,Australia,South Africa,29.6,TM Head,MS Wade,DW Steyn,0,0,0,NA,0,NA,NA,NA,0
+936137,2nd innings,Australia,South Africa,30.1,MS Wade,TM Head,K Rabada,1,0,1,NA,0,NA,NA,NA,0
+936137,2nd innings,Australia,South Africa,30.2,TM Head,MS Wade,K Rabada,0,0,0,NA,0,NA,NA,NA,0
+936137,2nd innings,Australia,South Africa,30.3,TM Head,MS Wade,K Rabada,0,0,0,NA,0,NA,NA,NA,0
+936137,2nd innings,Australia,South Africa,30.4,TM Head,MS Wade,K Rabada,0,0,0,NA,0,NA,NA,NA,0
+936137,2nd innings,Australia,South Africa,30.5,TM Head,MS Wade,K Rabada,4,0,4,NA,0,NA,NA,NA,0
+936137,2nd innings,Australia,South Africa,30.6,TM Head,MS Wade,K Rabada,0,0,0,NA,1,lbw,TM Head,NA,0
+936137,2nd innings,Australia,South Africa,31.1,MS Wade,JW Hastings,WD Parnell,1,0,1,NA,0,NA,NA,NA,0
+936137,2nd innings,Australia,South Africa,31.2,JW Hastings,MS Wade,WD Parnell,1,0,1,NA,0,NA,NA,NA,0
+936137,2nd innings,Australia,South Africa,31.3,MS Wade,JW Hastings,WD Parnell,0,0,0,NA,1,caught,MS Wade,JP Duminy,0
+936137,2nd innings,Australia,South Africa,31.4,JW Hastings,JM Mennie,WD Parnell,0,0,0,NA,0,NA,NA,NA,0
+936137,2nd innings,Australia,South Africa,31.5,JW Hastings,JM Mennie,WD Parnell,0,0,0,NA,0,NA,NA,NA,0
+936137,2nd innings,Australia,South Africa,31.6,JW Hastings,JM Mennie,WD Parnell,1,0,1,NA,0,NA,NA,NA,0
+936137,2nd innings,Australia,South Africa,32.1,JW Hastings,JM Mennie,K Rabada,0,0,0,NA,0,NA,NA,NA,0
+936137,2nd innings,Australia,South Africa,32.2,JW Hastings,JM Mennie,K Rabada,0,0,0,NA,0,NA,NA,NA,0
+936137,2nd innings,Australia,South Africa,32.3,JW Hastings,JM Mennie,K Rabada,0,0,0,NA,0,NA,NA,NA,0
+936137,2nd innings,Australia,South Africa,32.4,JW Hastings,JM Mennie,K Rabada,1,0,1,NA,0,NA,NA,NA,0
+936137,2nd innings,Australia,South Africa,32.5,JM Mennie,JW Hastings,K Rabada,0,1,1,wides,0,NA,NA,NA,0
+936137,2nd innings,Australia,South Africa,32.6,JM Mennie,JW Hastings,K Rabada,1,0,1,NA,0,NA,NA,NA,0
+936137,2nd innings,Australia,South Africa,32.7,JW Hastings,JM Mennie,K Rabada,0,1,1,legbyes,0,NA,NA,NA,0
+936137,2nd innings,Australia,South Africa,33.1,JW Hastings,JM Mennie,WD Parnell,0,0,0,NA,0,NA,NA,NA,0
+936137,2nd innings,Australia,South Africa,33.2,JW Hastings,JM Mennie,WD Parnell,6,0,6,NA,0,NA,NA,NA,0
+936137,2nd innings,Australia,South Africa,33.3,JW Hastings,JM Mennie,WD Parnell,6,0,6,NA,0,NA,NA,NA,0
+936137,2nd innings,Australia,South Africa,33.4,JW Hastings,JM Mennie,WD Parnell,2,0,2,NA,0,NA,NA,NA,0
+936137,2nd innings,Australia,South Africa,33.5,JW Hastings,JM Mennie,WD Parnell,0,0,0,NA,0,NA,NA,NA,0
+936137,2nd innings,Australia,South Africa,33.6,JW Hastings,JM Mennie,WD Parnell,0,0,0,NA,0,NA,NA,NA,0
+936137,2nd innings,Australia,South Africa,34.1,JM Mennie,JW Hastings,Imran Tahir,0,0,0,NA,1,bowled,JM Mennie,NA,0
+936137,2nd innings,Australia,South Africa,34.2,A Zampa,JW Hastings,Imran Tahir,1,0,1,NA,0,NA,NA,NA,0
+936137,2nd innings,Australia,South Africa,34.3,JW Hastings,A Zampa,Imran Tahir,1,0,1,NA,0,NA,NA,NA,0
+936137,2nd innings,Australia,South Africa,34.4,A Zampa,JW Hastings,Imran Tahir,0,0,0,NA,0,NA,NA,NA,0
+936137,2nd innings,Australia,South Africa,34.5,A Zampa,JW Hastings,Imran Tahir,0,0,0,NA,0,NA,NA,NA,0
+936137,2nd innings,Australia,South Africa,34.6,A Zampa,JW Hastings,Imran Tahir,0,0,0,NA,0,NA,NA,NA,0
+936137,2nd innings,Australia,South Africa,35.1,JW Hastings,A Zampa,AL Phehlukwayo,1,0,1,NA,0,NA,NA,NA,0
+936137,2nd innings,Australia,South Africa,35.2,A Zampa,JW Hastings,AL Phehlukwayo,0,0,0,NA,0,NA,NA,NA,0
+936137,2nd innings,Australia,South Africa,35.3,A Zampa,JW Hastings,AL Phehlukwayo,0,1,1,wides,0,NA,NA,NA,0
+936137,2nd innings,Australia,South Africa,35.4,A Zampa,JW Hastings,AL Phehlukwayo,1,0,1,NA,0,NA,NA,NA,0
+936137,2nd innings,Australia,South Africa,35.5,JW Hastings,A Zampa,AL Phehlukwayo,4,0,4,NA,0,NA,NA,NA,0
+936137,2nd innings,Australia,South Africa,35.6,JW Hastings,A Zampa,AL Phehlukwayo,0,0,0,NA,1,caught,JW Hastings,DA Miller,0
+936137,2nd innings,Australia,South Africa,35.7,A Zampa,CP Tremain,AL Phehlukwayo,0,0,0,NA,0,NA,NA,NA,0
+936137,2nd innings,Australia,South Africa,36.1,CP Tremain,A Zampa,Imran Tahir,0,0,0,NA,0,NA,NA,NA,0
+936137,2nd innings,Australia,South Africa,36.2,CP Tremain,A Zampa,Imran Tahir,0,0,0,NA,0,NA,NA,NA,0
+936137,2nd innings,Australia,South Africa,36.3,CP Tremain,A Zampa,Imran Tahir,0,0,0,NA,0,NA,NA,NA,0
+936137,2nd innings,Australia,South Africa,36.4,CP Tremain,A Zampa,Imran Tahir,0,0,0,NA,0,NA,NA,NA,0
+936137,2nd innings,Australia,South Africa,36.5,CP Tremain,A Zampa,Imran Tahir,0,0,0,NA,0,NA,NA,NA,0
+936137,2nd innings,Australia,South Africa,36.6,CP Tremain,A Zampa,Imran Tahir,0,0,0,NA,0,NA,NA,NA,0
+936137,2nd innings,Australia,South Africa,37.1,A Zampa,CP Tremain,AL Phehlukwayo,0,0,0,NA,0,NA,NA,NA,0
+936137,2nd innings,Australia,South Africa,37.2,A Zampa,CP Tremain,AL Phehlukwayo,0,0,0,NA,0,NA,NA,NA,0
+936137,2nd innings,Australia,South Africa,37.3,A Zampa,CP Tremain,AL Phehlukwayo,6,0,6,NA,0,NA,NA,NA,0
+936137,2nd innings,Australia,South Africa,37.4,A Zampa,CP Tremain,AL Phehlukwayo,0,0,0,NA,1,bowled,A Zampa,NA,0

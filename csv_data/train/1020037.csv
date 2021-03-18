@@ -1,0 +1,582 @@
+match_id,innings,team,opponent,ball,batsman,non_striker,bowler,scored_runs,extras,total,extra_type,wicket,wicket_type,player_out,fielders,winner
+1020037,1st innings,South Africa,New Zealand,0.1,HM Amla,Q de Kock,JS Patel,0,0,0,NA,0,NA,NA,NA,0
+1020037,1st innings,South Africa,New Zealand,0.2,HM Amla,Q de Kock,JS Patel,1,0,1,NA,0,NA,NA,NA,0
+1020037,1st innings,South Africa,New Zealand,0.3,Q de Kock,HM Amla,JS Patel,0,0,0,NA,1,caught,Q de Kock,L Ronchi,0
+1020037,1st innings,South Africa,New Zealand,0.4,F du Plessis,HM Amla,JS Patel,0,0,0,NA,0,NA,NA,NA,0
+1020037,1st innings,South Africa,New Zealand,0.5,F du Plessis,HM Amla,JS Patel,0,0,0,NA,0,NA,NA,NA,0
+1020037,1st innings,South Africa,New Zealand,0.6,F du Plessis,HM Amla,JS Patel,1,0,1,NA,0,NA,NA,NA,0
+1020037,1st innings,South Africa,New Zealand,1.1,F du Plessis,HM Amla,MJ Santner,0,0,0,NA,0,NA,NA,NA,0
+1020037,1st innings,South Africa,New Zealand,1.2,F du Plessis,HM Amla,MJ Santner,1,0,1,NA,0,NA,NA,NA,0
+1020037,1st innings,South Africa,New Zealand,1.3,HM Amla,F du Plessis,MJ Santner,1,0,1,NA,0,NA,NA,NA,0
+1020037,1st innings,South Africa,New Zealand,1.4,F du Plessis,HM Amla,MJ Santner,0,0,0,NA,0,NA,NA,NA,0
+1020037,1st innings,South Africa,New Zealand,1.5,F du Plessis,HM Amla,MJ Santner,1,0,1,NA,0,NA,NA,NA,0
+1020037,1st innings,South Africa,New Zealand,1.6,HM Amla,F du Plessis,MJ Santner,0,0,0,NA,0,NA,NA,NA,0
+1020037,1st innings,South Africa,New Zealand,2.1,F du Plessis,HM Amla,JS Patel,0,0,0,NA,0,NA,NA,NA,0
+1020037,1st innings,South Africa,New Zealand,2.2,F du Plessis,HM Amla,JS Patel,1,0,1,NA,0,NA,NA,NA,0
+1020037,1st innings,South Africa,New Zealand,2.3,HM Amla,F du Plessis,JS Patel,1,0,1,NA,0,NA,NA,NA,0
+1020037,1st innings,South Africa,New Zealand,2.4,F du Plessis,HM Amla,JS Patel,1,0,1,NA,0,NA,NA,NA,0
+1020037,1st innings,South Africa,New Zealand,2.5,HM Amla,F du Plessis,JS Patel,0,1,1,wides,0,NA,NA,NA,0
+1020037,1st innings,South Africa,New Zealand,2.6,HM Amla,F du Plessis,JS Patel,4,0,4,NA,0,NA,NA,NA,0
+1020037,1st innings,South Africa,New Zealand,2.7,HM Amla,F du Plessis,JS Patel,0,0,0,NA,0,NA,NA,NA,0
+1020037,1st innings,South Africa,New Zealand,3.1,F du Plessis,HM Amla,TA Boult,1,0,1,NA,0,NA,NA,NA,0
+1020037,1st innings,South Africa,New Zealand,3.2,HM Amla,F du Plessis,TA Boult,0,0,0,NA,0,NA,NA,NA,0
+1020037,1st innings,South Africa,New Zealand,3.3,HM Amla,F du Plessis,TA Boult,0,0,0,NA,0,NA,NA,NA,0
+1020037,1st innings,South Africa,New Zealand,3.4,HM Amla,F du Plessis,TA Boult,0,0,0,NA,0,NA,NA,NA,0
+1020037,1st innings,South Africa,New Zealand,3.5,HM Amla,F du Plessis,TA Boult,0,0,0,NA,0,NA,NA,NA,0
+1020037,1st innings,South Africa,New Zealand,3.6,HM Amla,F du Plessis,TA Boult,0,0,0,NA,0,NA,NA,NA,0
+1020037,1st innings,South Africa,New Zealand,4.1,F du Plessis,HM Amla,TG Southee,0,0,0,NA,0,NA,NA,NA,0
+1020037,1st innings,South Africa,New Zealand,4.2,F du Plessis,HM Amla,TG Southee,0,0,0,NA,0,NA,NA,NA,0
+1020037,1st innings,South Africa,New Zealand,4.3,F du Plessis,HM Amla,TG Southee,2,0,2,NA,0,NA,NA,NA,0
+1020037,1st innings,South Africa,New Zealand,4.4,F du Plessis,HM Amla,TG Southee,0,1,1,wides,0,NA,NA,NA,0
+1020037,1st innings,South Africa,New Zealand,4.5,F du Plessis,HM Amla,TG Southee,0,0,0,NA,0,NA,NA,NA,0
+1020037,1st innings,South Africa,New Zealand,4.6,F du Plessis,HM Amla,TG Southee,1,0,1,NA,0,NA,NA,NA,0
+1020037,1st innings,South Africa,New Zealand,4.7,HM Amla,F du Plessis,TG Southee,4,0,4,NA,0,NA,NA,NA,0
+1020037,1st innings,South Africa,New Zealand,5.1,F du Plessis,HM Amla,TA Boult,0,0,0,NA,0,NA,NA,NA,0
+1020037,1st innings,South Africa,New Zealand,5.2,F du Plessis,HM Amla,TA Boult,0,0,0,NA,0,NA,NA,NA,0
+1020037,1st innings,South Africa,New Zealand,5.3,F du Plessis,HM Amla,TA Boult,1,0,1,NA,0,NA,NA,NA,0
+1020037,1st innings,South Africa,New Zealand,5.4,HM Amla,F du Plessis,TA Boult,4,0,4,NA,0,NA,NA,NA,0
+1020037,1st innings,South Africa,New Zealand,5.5,HM Amla,F du Plessis,TA Boult,0,0,0,NA,0,NA,NA,NA,0
+1020037,1st innings,South Africa,New Zealand,5.6,HM Amla,F du Plessis,TA Boult,0,0,0,NA,0,NA,NA,NA,0
+1020037,1st innings,South Africa,New Zealand,6.1,F du Plessis,HM Amla,TG Southee,0,0,0,NA,0,NA,NA,NA,0
+1020037,1st innings,South Africa,New Zealand,6.2,F du Plessis,HM Amla,TG Southee,1,0,1,NA,0,NA,NA,NA,0
+1020037,1st innings,South Africa,New Zealand,6.3,HM Amla,F du Plessis,TG Southee,1,0,1,NA,0,NA,NA,NA,0
+1020037,1st innings,South Africa,New Zealand,6.4,F du Plessis,HM Amla,TG Southee,0,0,0,NA,0,NA,NA,NA,0
+1020037,1st innings,South Africa,New Zealand,6.5,F du Plessis,HM Amla,TG Southee,0,0,0,NA,0,NA,NA,NA,0
+1020037,1st innings,South Africa,New Zealand,6.6,F du Plessis,HM Amla,TG Southee,0,0,0,NA,0,NA,NA,NA,0
+1020037,1st innings,South Africa,New Zealand,7.1,HM Amla,F du Plessis,TA Boult,0,0,0,NA,0,NA,NA,NA,0
+1020037,1st innings,South Africa,New Zealand,7.2,HM Amla,F du Plessis,TA Boult,4,0,4,NA,0,NA,NA,NA,0
+1020037,1st innings,South Africa,New Zealand,7.3,HM Amla,F du Plessis,TA Boult,0,0,0,NA,0,NA,NA,NA,0
+1020037,1st innings,South Africa,New Zealand,7.4,HM Amla,F du Plessis,TA Boult,6,0,6,NA,0,NA,NA,NA,0
+1020037,1st innings,South Africa,New Zealand,7.5,HM Amla,F du Plessis,TA Boult,4,0,4,NA,0,NA,NA,NA,0
+1020037,1st innings,South Africa,New Zealand,7.6,HM Amla,F du Plessis,TA Boult,0,0,0,NA,0,NA,NA,NA,0
+1020037,1st innings,South Africa,New Zealand,8.1,F du Plessis,HM Amla,TG Southee,0,0,0,NA,0,NA,NA,NA,0
+1020037,1st innings,South Africa,New Zealand,8.2,F du Plessis,HM Amla,TG Southee,4,0,4,NA,0,NA,NA,NA,0
+1020037,1st innings,South Africa,New Zealand,8.3,F du Plessis,HM Amla,TG Southee,0,0,0,NA,0,NA,NA,NA,0
+1020037,1st innings,South Africa,New Zealand,8.4,F du Plessis,HM Amla,TG Southee,0,0,0,NA,0,NA,NA,NA,0
+1020037,1st innings,South Africa,New Zealand,8.5,F du Plessis,HM Amla,TG Southee,1,0,1,NA,0,NA,NA,NA,0
+1020037,1st innings,South Africa,New Zealand,8.6,HM Amla,F du Plessis,TG Southee,0,0,0,NA,0,NA,NA,NA,0
+1020037,1st innings,South Africa,New Zealand,9.1,F du Plessis,HM Amla,C de Grandhomme,1,0,1,NA,0,NA,NA,NA,0
+1020037,1st innings,South Africa,New Zealand,9.2,HM Amla,F du Plessis,C de Grandhomme,0,0,0,NA,0,NA,NA,NA,0
+1020037,1st innings,South Africa,New Zealand,9.3,HM Amla,F du Plessis,C de Grandhomme,2,0,2,NA,0,NA,NA,NA,0
+1020037,1st innings,South Africa,New Zealand,9.4,HM Amla,F du Plessis,C de Grandhomme,0,0,0,NA,0,NA,NA,NA,0
+1020037,1st innings,South Africa,New Zealand,9.5,HM Amla,F du Plessis,C de Grandhomme,0,0,0,NA,0,NA,NA,NA,0
+1020037,1st innings,South Africa,New Zealand,9.6,HM Amla,F du Plessis,C de Grandhomme,0,0,0,NA,0,NA,NA,NA,0
+1020037,1st innings,South Africa,New Zealand,10.1,F du Plessis,HM Amla,JS Patel,2,0,2,NA,0,NA,NA,NA,0
+1020037,1st innings,South Africa,New Zealand,10.2,F du Plessis,HM Amla,JS Patel,0,0,0,NA,0,NA,NA,NA,0
+1020037,1st innings,South Africa,New Zealand,10.3,F du Plessis,HM Amla,JS Patel,0,0,0,NA,0,NA,NA,NA,0
+1020037,1st innings,South Africa,New Zealand,10.4,F du Plessis,HM Amla,JS Patel,2,0,2,NA,0,NA,NA,NA,0
+1020037,1st innings,South Africa,New Zealand,10.5,F du Plessis,HM Amla,JS Patel,1,0,1,NA,0,NA,NA,NA,0
+1020037,1st innings,South Africa,New Zealand,10.6,HM Amla,F du Plessis,JS Patel,1,0,1,NA,0,NA,NA,NA,0
+1020037,1st innings,South Africa,New Zealand,11.1,HM Amla,F du Plessis,C de Grandhomme,1,0,1,NA,0,NA,NA,NA,0
+1020037,1st innings,South Africa,New Zealand,11.2,F du Plessis,HM Amla,C de Grandhomme,1,0,1,NA,0,NA,NA,NA,0
+1020037,1st innings,South Africa,New Zealand,11.3,HM Amla,F du Plessis,C de Grandhomme,0,0,0,NA,0,NA,NA,NA,0
+1020037,1st innings,South Africa,New Zealand,11.4,HM Amla,F du Plessis,C de Grandhomme,0,0,0,NA,0,NA,NA,NA,0
+1020037,1st innings,South Africa,New Zealand,11.5,HM Amla,F du Plessis,C de Grandhomme,4,0,4,NA,0,NA,NA,NA,0
+1020037,1st innings,South Africa,New Zealand,11.6,HM Amla,F du Plessis,C de Grandhomme,1,0,1,NA,0,NA,NA,NA,0
+1020037,1st innings,South Africa,New Zealand,12.1,HM Amla,F du Plessis,JS Patel,1,0,1,NA,0,NA,NA,NA,0
+1020037,1st innings,South Africa,New Zealand,12.2,F du Plessis,HM Amla,JS Patel,0,0,0,NA,0,NA,NA,NA,0
+1020037,1st innings,South Africa,New Zealand,12.3,F du Plessis,HM Amla,JS Patel,1,0,1,NA,0,NA,NA,NA,0
+1020037,1st innings,South Africa,New Zealand,12.4,HM Amla,F du Plessis,JS Patel,0,0,0,NA,0,NA,NA,NA,0
+1020037,1st innings,South Africa,New Zealand,12.5,HM Amla,F du Plessis,JS Patel,0,0,0,NA,1,bowled,HM Amla,NA,0
+1020037,1st innings,South Africa,New Zealand,12.6,JP Duminy,F du Plessis,JS Patel,0,0,0,NA,0,NA,NA,NA,0
+1020037,1st innings,South Africa,New Zealand,13.1,F du Plessis,JP Duminy,MJ Santner,1,0,1,NA,0,NA,NA,NA,0
+1020037,1st innings,South Africa,New Zealand,13.2,JP Duminy,F du Plessis,MJ Santner,1,0,1,NA,0,NA,NA,NA,0
+1020037,1st innings,South Africa,New Zealand,13.3,F du Plessis,JP Duminy,MJ Santner,0,0,0,NA,0,NA,NA,NA,0
+1020037,1st innings,South Africa,New Zealand,13.4,F du Plessis,JP Duminy,MJ Santner,0,0,0,NA,0,NA,NA,NA,0
+1020037,1st innings,South Africa,New Zealand,13.5,F du Plessis,JP Duminy,MJ Santner,1,0,1,NA,0,NA,NA,NA,0
+1020037,1st innings,South Africa,New Zealand,13.6,JP Duminy,F du Plessis,MJ Santner,4,0,4,NA,0,NA,NA,NA,0
+1020037,1st innings,South Africa,New Zealand,14.1,F du Plessis,JP Duminy,JS Patel,0,0,0,NA,0,NA,NA,NA,0
+1020037,1st innings,South Africa,New Zealand,14.2,F du Plessis,JP Duminy,JS Patel,0,0,0,NA,0,NA,NA,NA,0
+1020037,1st innings,South Africa,New Zealand,14.3,F du Plessis,JP Duminy,JS Patel,1,0,1,NA,0,NA,NA,NA,0
+1020037,1st innings,South Africa,New Zealand,14.4,JP Duminy,F du Plessis,JS Patel,0,0,0,NA,0,NA,NA,NA,0
+1020037,1st innings,South Africa,New Zealand,14.5,JP Duminy,F du Plessis,JS Patel,0,0,0,NA,0,NA,NA,NA,0
+1020037,1st innings,South Africa,New Zealand,14.6,JP Duminy,F du Plessis,JS Patel,0,0,0,NA,0,NA,NA,NA,0
+1020037,1st innings,South Africa,New Zealand,15.1,F du Plessis,JP Duminy,MJ Santner,1,0,1,NA,0,NA,NA,NA,0
+1020037,1st innings,South Africa,New Zealand,15.2,JP Duminy,F du Plessis,MJ Santner,0,0,0,NA,0,NA,NA,NA,0
+1020037,1st innings,South Africa,New Zealand,15.3,JP Duminy,F du Plessis,MJ Santner,1,0,1,NA,0,NA,NA,NA,0
+1020037,1st innings,South Africa,New Zealand,15.4,F du Plessis,JP Duminy,MJ Santner,1,0,1,NA,0,NA,NA,NA,0
+1020037,1st innings,South Africa,New Zealand,15.5,JP Duminy,F du Plessis,MJ Santner,0,0,0,NA,0,NA,NA,NA,0
+1020037,1st innings,South Africa,New Zealand,15.6,JP Duminy,F du Plessis,MJ Santner,0,0,0,NA,0,NA,NA,NA,0
+1020037,1st innings,South Africa,New Zealand,16.1,F du Plessis,JP Duminy,KS Williamson,0,0,0,NA,0,NA,NA,NA,0
+1020037,1st innings,South Africa,New Zealand,16.2,F du Plessis,JP Duminy,KS Williamson,1,0,1,NA,0,NA,NA,NA,0
+1020037,1st innings,South Africa,New Zealand,16.3,JP Duminy,F du Plessis,KS Williamson,1,0,1,NA,0,NA,NA,NA,0
+1020037,1st innings,South Africa,New Zealand,16.4,F du Plessis,JP Duminy,KS Williamson,1,0,1,NA,0,NA,NA,NA,0
+1020037,1st innings,South Africa,New Zealand,16.5,JP Duminy,F du Plessis,KS Williamson,1,0,1,NA,0,NA,NA,NA,0
+1020037,1st innings,South Africa,New Zealand,16.6,F du Plessis,JP Duminy,KS Williamson,0,0,0,NA,0,NA,NA,NA,0
+1020037,1st innings,South Africa,New Zealand,17.1,JP Duminy,F du Plessis,MJ Santner,1,0,1,NA,0,NA,NA,NA,0
+1020037,1st innings,South Africa,New Zealand,17.2,F du Plessis,JP Duminy,MJ Santner,1,0,1,NA,0,NA,NA,NA,0
+1020037,1st innings,South Africa,New Zealand,17.3,JP Duminy,F du Plessis,MJ Santner,1,0,1,NA,0,NA,NA,NA,0
+1020037,1st innings,South Africa,New Zealand,17.4,F du Plessis,JP Duminy,MJ Santner,0,0,0,NA,0,NA,NA,NA,0
+1020037,1st innings,South Africa,New Zealand,17.5,F du Plessis,JP Duminy,MJ Santner,0,0,0,NA,0,NA,NA,NA,0
+1020037,1st innings,South Africa,New Zealand,17.6,F du Plessis,JP Duminy,MJ Santner,0,0,0,NA,0,NA,NA,NA,0
+1020037,1st innings,South Africa,New Zealand,18.1,JP Duminy,F du Plessis,KS Williamson,0,0,0,NA,0,NA,NA,NA,0
+1020037,1st innings,South Africa,New Zealand,18.2,JP Duminy,F du Plessis,KS Williamson,1,0,1,NA,0,NA,NA,NA,0
+1020037,1st innings,South Africa,New Zealand,18.3,F du Plessis,JP Duminy,KS Williamson,1,0,1,NA,0,NA,NA,NA,0
+1020037,1st innings,South Africa,New Zealand,18.4,JP Duminy,F du Plessis,KS Williamson,1,0,1,NA,0,NA,NA,NA,0
+1020037,1st innings,South Africa,New Zealand,18.5,F du Plessis,JP Duminy,KS Williamson,1,0,1,NA,0,NA,NA,NA,0
+1020037,1st innings,South Africa,New Zealand,18.6,JP Duminy,F du Plessis,KS Williamson,1,0,1,NA,0,NA,NA,NA,0
+1020037,1st innings,South Africa,New Zealand,19.1,JP Duminy,F du Plessis,MJ Santner,0,0,0,NA,0,NA,NA,NA,0
+1020037,1st innings,South Africa,New Zealand,19.2,JP Duminy,F du Plessis,MJ Santner,1,0,1,NA,0,NA,NA,NA,0
+1020037,1st innings,South Africa,New Zealand,19.3,F du Plessis,JP Duminy,MJ Santner,0,0,0,NA,0,NA,NA,NA,0
+1020037,1st innings,South Africa,New Zealand,19.4,F du Plessis,JP Duminy,MJ Santner,2,0,2,NA,0,NA,NA,NA,0
+1020037,1st innings,South Africa,New Zealand,19.5,F du Plessis,JP Duminy,MJ Santner,1,0,1,NA,0,NA,NA,NA,0
+1020037,1st innings,South Africa,New Zealand,19.6,JP Duminy,F du Plessis,MJ Santner,0,0,0,NA,0,NA,NA,NA,0
+1020037,1st innings,South Africa,New Zealand,20.1,F du Plessis,JP Duminy,KS Williamson,1,0,1,NA,0,NA,NA,NA,0
+1020037,1st innings,South Africa,New Zealand,20.2,JP Duminy,F du Plessis,KS Williamson,1,0,1,NA,0,NA,NA,NA,0
+1020037,1st innings,South Africa,New Zealand,20.3,F du Plessis,JP Duminy,KS Williamson,1,0,1,NA,0,NA,NA,NA,0
+1020037,1st innings,South Africa,New Zealand,20.4,JP Duminy,F du Plessis,KS Williamson,1,0,1,NA,0,NA,NA,NA,0
+1020037,1st innings,South Africa,New Zealand,20.5,F du Plessis,JP Duminy,KS Williamson,4,0,4,NA,0,NA,NA,NA,0
+1020037,1st innings,South Africa,New Zealand,20.6,F du Plessis,JP Duminy,KS Williamson,0,0,0,NA,0,NA,NA,NA,0
+1020037,1st innings,South Africa,New Zealand,21.1,JP Duminy,F du Plessis,TA Boult,1,0,1,NA,0,NA,NA,NA,0
+1020037,1st innings,South Africa,New Zealand,21.2,F du Plessis,JP Duminy,TA Boult,1,0,1,NA,0,NA,NA,NA,0
+1020037,1st innings,South Africa,New Zealand,21.3,JP Duminy,F du Plessis,TA Boult,0,0,0,NA,0,NA,NA,NA,0
+1020037,1st innings,South Africa,New Zealand,21.4,JP Duminy,F du Plessis,TA Boult,1,0,1,NA,0,NA,NA,NA,0
+1020037,1st innings,South Africa,New Zealand,21.5,F du Plessis,JP Duminy,TA Boult,0,0,0,NA,0,NA,NA,NA,0
+1020037,1st innings,South Africa,New Zealand,21.6,F du Plessis,JP Duminy,TA Boult,1,0,1,NA,0,NA,NA,NA,0
+1020037,1st innings,South Africa,New Zealand,22.1,F du Plessis,JP Duminy,TG Southee,1,0,1,NA,0,NA,NA,NA,0
+1020037,1st innings,South Africa,New Zealand,22.2,JP Duminy,F du Plessis,TG Southee,0,0,0,NA,0,NA,NA,NA,0
+1020037,1st innings,South Africa,New Zealand,22.3,JP Duminy,F du Plessis,TG Southee,0,0,0,NA,0,NA,NA,NA,0
+1020037,1st innings,South Africa,New Zealand,22.4,JP Duminy,F du Plessis,TG Southee,1,0,1,NA,0,NA,NA,NA,0
+1020037,1st innings,South Africa,New Zealand,22.5,F du Plessis,JP Duminy,TG Southee,1,0,1,NA,0,NA,NA,NA,0
+1020037,1st innings,South Africa,New Zealand,22.6,JP Duminy,F du Plessis,TG Southee,1,0,1,NA,0,NA,NA,NA,0
+1020037,1st innings,South Africa,New Zealand,23.1,JP Duminy,F du Plessis,TA Boult,1,0,1,NA,0,NA,NA,NA,0
+1020037,1st innings,South Africa,New Zealand,23.2,F du Plessis,JP Duminy,TA Boult,0,0,0,NA,0,NA,NA,NA,0
+1020037,1st innings,South Africa,New Zealand,23.3,F du Plessis,JP Duminy,TA Boult,0,0,0,NA,0,NA,NA,NA,0
+1020037,1st innings,South Africa,New Zealand,23.4,F du Plessis,JP Duminy,TA Boult,4,0,4,NA,0,NA,NA,NA,0
+1020037,1st innings,South Africa,New Zealand,23.5,F du Plessis,JP Duminy,TA Boult,1,0,1,NA,0,NA,NA,NA,0
+1020037,1st innings,South Africa,New Zealand,23.6,JP Duminy,F du Plessis,TA Boult,0,0,0,NA,0,NA,NA,NA,0
+1020037,1st innings,South Africa,New Zealand,24.1,F du Plessis,JP Duminy,TG Southee,0,0,0,NA,0,NA,NA,NA,0
+1020037,1st innings,South Africa,New Zealand,24.2,F du Plessis,JP Duminy,TG Southee,4,0,4,NA,0,NA,NA,NA,0
+1020037,1st innings,South Africa,New Zealand,24.3,F du Plessis,JP Duminy,TG Southee,0,0,0,NA,0,NA,NA,NA,0
+1020037,1st innings,South Africa,New Zealand,24.4,F du Plessis,JP Duminy,TG Southee,1,0,1,NA,0,NA,NA,NA,0
+1020037,1st innings,South Africa,New Zealand,24.5,JP Duminy,F du Plessis,TG Southee,1,0,1,NA,0,NA,NA,NA,0
+1020037,1st innings,South Africa,New Zealand,24.6,F du Plessis,JP Duminy,TG Southee,1,0,1,NA,0,NA,NA,NA,0
+1020037,1st innings,South Africa,New Zealand,25.1,F du Plessis,JP Duminy,JDS Neesham,1,0,1,NA,0,NA,NA,NA,0
+1020037,1st innings,South Africa,New Zealand,25.2,JP Duminy,F du Plessis,JDS Neesham,0,0,0,NA,0,NA,NA,NA,0
+1020037,1st innings,South Africa,New Zealand,25.3,JP Duminy,F du Plessis,JDS Neesham,1,0,1,NA,0,NA,NA,NA,0
+1020037,1st innings,South Africa,New Zealand,25.4,F du Plessis,JP Duminy,JDS Neesham,1,0,1,NA,0,NA,NA,NA,0
+1020037,1st innings,South Africa,New Zealand,25.5,JP Duminy,F du Plessis,JDS Neesham,0,0,0,NA,0,NA,NA,NA,0
+1020037,1st innings,South Africa,New Zealand,25.6,JP Duminy,F du Plessis,JDS Neesham,1,0,1,NA,0,NA,NA,NA,0
+1020037,1st innings,South Africa,New Zealand,26.1,JP Duminy,F du Plessis,TG Southee,0,0,0,NA,0,NA,NA,NA,0
+1020037,1st innings,South Africa,New Zealand,26.2,JP Duminy,F du Plessis,TG Southee,0,0,0,NA,0,NA,NA,NA,0
+1020037,1st innings,South Africa,New Zealand,26.3,JP Duminy,F du Plessis,TG Southee,1,0,1,NA,0,NA,NA,NA,0
+1020037,1st innings,South Africa,New Zealand,26.4,F du Plessis,JP Duminy,TG Southee,1,0,1,NA,0,NA,NA,NA,0
+1020037,1st innings,South Africa,New Zealand,26.5,JP Duminy,F du Plessis,TG Southee,0,0,0,NA,1,bowled,JP Duminy,NA,0
+1020037,1st innings,South Africa,New Zealand,26.6,AB de Villiers,F du Plessis,TG Southee,0,0,0,NA,0,NA,NA,NA,0
+1020037,1st innings,South Africa,New Zealand,27.1,F du Plessis,AB de Villiers,MJ Santner,0,0,0,NA,0,NA,NA,NA,0
+1020037,1st innings,South Africa,New Zealand,27.2,F du Plessis,AB de Villiers,MJ Santner,0,0,0,NA,0,NA,NA,NA,0
+1020037,1st innings,South Africa,New Zealand,27.3,F du Plessis,AB de Villiers,MJ Santner,1,0,1,NA,0,NA,NA,NA,0
+1020037,1st innings,South Africa,New Zealand,27.4,AB de Villiers,F du Plessis,MJ Santner,1,0,1,NA,0,NA,NA,NA,0
+1020037,1st innings,South Africa,New Zealand,27.5,F du Plessis,AB de Villiers,MJ Santner,0,0,0,NA,0,NA,NA,NA,0
+1020037,1st innings,South Africa,New Zealand,27.6,F du Plessis,AB de Villiers,MJ Santner,0,0,0,NA,0,NA,NA,NA,0
+1020037,1st innings,South Africa,New Zealand,28.1,AB de Villiers,F du Plessis,TG Southee,1,0,1,NA,0,NA,NA,NA,0
+1020037,1st innings,South Africa,New Zealand,28.2,F du Plessis,AB de Villiers,TG Southee,0,0,0,NA,0,NA,NA,NA,0
+1020037,1st innings,South Africa,New Zealand,28.3,F du Plessis,AB de Villiers,TG Southee,0,0,0,NA,0,NA,NA,NA,0
+1020037,1st innings,South Africa,New Zealand,28.4,F du Plessis,AB de Villiers,TG Southee,0,0,0,NA,0,NA,NA,NA,0
+1020037,1st innings,South Africa,New Zealand,28.5,F du Plessis,AB de Villiers,TG Southee,1,0,1,NA,0,NA,NA,NA,0
+1020037,1st innings,South Africa,New Zealand,28.6,AB de Villiers,F du Plessis,TG Southee,0,0,0,NA,0,NA,NA,NA,0
+1020037,1st innings,South Africa,New Zealand,29.1,F du Plessis,AB de Villiers,MJ Santner,1,0,1,NA,0,NA,NA,NA,0
+1020037,1st innings,South Africa,New Zealand,29.2,AB de Villiers,F du Plessis,MJ Santner,0,0,0,NA,0,NA,NA,NA,0
+1020037,1st innings,South Africa,New Zealand,29.3,AB de Villiers,F du Plessis,MJ Santner,1,0,1,NA,0,NA,NA,NA,0
+1020037,1st innings,South Africa,New Zealand,29.4,F du Plessis,AB de Villiers,MJ Santner,0,0,0,NA,0,NA,NA,NA,0
+1020037,1st innings,South Africa,New Zealand,29.5,F du Plessis,AB de Villiers,MJ Santner,1,0,1,NA,0,NA,NA,NA,0
+1020037,1st innings,South Africa,New Zealand,29.6,AB de Villiers,F du Plessis,MJ Santner,0,0,0,NA,0,NA,NA,NA,0
+1020037,1st innings,South Africa,New Zealand,30.1,F du Plessis,AB de Villiers,JDS Neesham,0,0,0,NA,0,NA,NA,NA,0
+1020037,1st innings,South Africa,New Zealand,30.2,F du Plessis,AB de Villiers,JDS Neesham,1,0,1,NA,0,NA,NA,NA,0
+1020037,1st innings,South Africa,New Zealand,30.3,AB de Villiers,F du Plessis,JDS Neesham,1,0,1,NA,0,NA,NA,NA,0
+1020037,1st innings,South Africa,New Zealand,30.4,F du Plessis,AB de Villiers,JDS Neesham,1,0,1,NA,0,NA,NA,NA,0
+1020037,1st innings,South Africa,New Zealand,30.5,AB de Villiers,F du Plessis,JDS Neesham,0,1,1,wides,0,NA,NA,NA,0
+1020037,1st innings,South Africa,New Zealand,30.6,AB de Villiers,F du Plessis,JDS Neesham,1,0,1,NA,0,NA,NA,NA,0
+1020037,1st innings,South Africa,New Zealand,30.7,F du Plessis,AB de Villiers,JDS Neesham,0,0,0,NA,1,caught,F du Plessis,MJ Santner,0
+1020037,1st innings,South Africa,New Zealand,31.1,AB de Villiers,DA Miller,MJ Santner,1,0,1,NA,0,NA,NA,NA,0
+1020037,1st innings,South Africa,New Zealand,31.2,DA Miller,AB de Villiers,MJ Santner,0,0,0,NA,0,NA,NA,NA,0
+1020037,1st innings,South Africa,New Zealand,31.3,DA Miller,AB de Villiers,MJ Santner,0,0,0,NA,0,NA,NA,NA,0
+1020037,1st innings,South Africa,New Zealand,31.4,DA Miller,AB de Villiers,MJ Santner,1,0,1,NA,0,NA,NA,NA,0
+1020037,1st innings,South Africa,New Zealand,31.5,AB de Villiers,DA Miller,MJ Santner,1,0,1,NA,0,NA,NA,NA,0
+1020037,1st innings,South Africa,New Zealand,31.6,DA Miller,AB de Villiers,MJ Santner,0,0,0,NA,1,caught,DA Miller,DG Brownlie,0
+1020037,1st innings,South Africa,New Zealand,32.1,AB de Villiers,D Pretorius,JDS Neesham,1,0,1,NA,0,NA,NA,NA,0
+1020037,1st innings,South Africa,New Zealand,32.2,D Pretorius,AB de Villiers,JDS Neesham,0,0,0,NA,0,NA,NA,NA,0
+1020037,1st innings,South Africa,New Zealand,32.3,D Pretorius,AB de Villiers,JDS Neesham,0,0,0,NA,0,NA,NA,NA,0
+1020037,1st innings,South Africa,New Zealand,32.4,D Pretorius,AB de Villiers,JDS Neesham,0,0,0,NA,0,NA,NA,NA,0
+1020037,1st innings,South Africa,New Zealand,32.5,D Pretorius,AB de Villiers,JDS Neesham,1,0,1,NA,0,NA,NA,NA,0
+1020037,1st innings,South Africa,New Zealand,32.6,AB de Villiers,D Pretorius,JDS Neesham,0,0,0,NA,0,NA,NA,NA,0
+1020037,1st innings,South Africa,New Zealand,33.1,D Pretorius,AB de Villiers,TA Boult,0,0,0,NA,0,NA,NA,NA,0
+1020037,1st innings,South Africa,New Zealand,33.2,D Pretorius,AB de Villiers,TA Boult,0,0,0,NA,0,NA,NA,NA,0
+1020037,1st innings,South Africa,New Zealand,33.3,D Pretorius,AB de Villiers,TA Boult,1,0,1,NA,0,NA,NA,NA,0
+1020037,1st innings,South Africa,New Zealand,33.4,AB de Villiers,D Pretorius,TA Boult,1,0,1,NA,0,NA,NA,NA,0
+1020037,1st innings,South Africa,New Zealand,33.5,D Pretorius,AB de Villiers,TA Boult,0,0,0,NA,0,NA,NA,NA,0
+1020037,1st innings,South Africa,New Zealand,33.6,D Pretorius,AB de Villiers,TA Boult,0,0,0,NA,0,NA,NA,NA,0
+1020037,1st innings,South Africa,New Zealand,34.1,AB de Villiers,D Pretorius,JDS Neesham,1,0,1,NA,0,NA,NA,NA,0
+1020037,1st innings,South Africa,New Zealand,34.2,D Pretorius,AB de Villiers,JDS Neesham,0,0,0,NA,0,NA,NA,NA,0
+1020037,1st innings,South Africa,New Zealand,34.3,D Pretorius,AB de Villiers,JDS Neesham,0,0,0,NA,0,NA,NA,NA,0
+1020037,1st innings,South Africa,New Zealand,34.4,D Pretorius,AB de Villiers,JDS Neesham,1,0,1,NA,0,NA,NA,NA,0
+1020037,1st innings,South Africa,New Zealand,34.5,AB de Villiers,D Pretorius,JDS Neesham,0,0,0,NA,0,NA,NA,NA,0
+1020037,1st innings,South Africa,New Zealand,34.6,AB de Villiers,D Pretorius,JDS Neesham,0,0,0,NA,0,NA,NA,NA,0
+1020037,1st innings,South Africa,New Zealand,35.1,D Pretorius,AB de Villiers,TA Boult,1,0,1,NA,0,NA,NA,NA,0
+1020037,1st innings,South Africa,New Zealand,35.2,AB de Villiers,D Pretorius,TA Boult,1,0,1,NA,0,NA,NA,NA,0
+1020037,1st innings,South Africa,New Zealand,35.3,D Pretorius,AB de Villiers,TA Boult,1,0,1,NA,0,NA,NA,NA,0
+1020037,1st innings,South Africa,New Zealand,35.4,AB de Villiers,D Pretorius,TA Boult,1,0,1,NA,0,NA,NA,NA,0
+1020037,1st innings,South Africa,New Zealand,35.5,D Pretorius,AB de Villiers,TA Boult,0,0,0,NA,0,NA,NA,NA,0
+1020037,1st innings,South Africa,New Zealand,35.6,D Pretorius,AB de Villiers,TA Boult,1,0,1,NA,0,NA,NA,NA,0
+1020037,1st innings,South Africa,New Zealand,36.1,D Pretorius,AB de Villiers,JS Patel,0,0,0,NA,0,NA,NA,NA,0
+1020037,1st innings,South Africa,New Zealand,36.2,D Pretorius,AB de Villiers,JS Patel,0,0,0,NA,0,NA,NA,NA,0
+1020037,1st innings,South Africa,New Zealand,36.3,D Pretorius,AB de Villiers,JS Patel,4,0,4,NA,0,NA,NA,NA,0
+1020037,1st innings,South Africa,New Zealand,36.4,D Pretorius,AB de Villiers,JS Patel,0,0,0,NA,0,NA,NA,NA,0
+1020037,1st innings,South Africa,New Zealand,36.5,D Pretorius,AB de Villiers,JS Patel,0,0,0,NA,1,run out,D Pretorius,LRPL Taylor,0
+1020037,1st innings,South Africa,New Zealand,36.6,AB de Villiers,CH Morris,JS Patel,0,0,0,NA,0,NA,NA,NA,0
+1020037,1st innings,South Africa,New Zealand,37.1,CH Morris,AB de Villiers,TA Boult,1,0,1,NA,0,NA,NA,NA,0
+1020037,1st innings,South Africa,New Zealand,37.2,AB de Villiers,CH Morris,TA Boult,2,0,2,NA,0,NA,NA,NA,0
+1020037,1st innings,South Africa,New Zealand,37.3,AB de Villiers,CH Morris,TA Boult,0,0,0,NA,0,NA,NA,NA,0
+1020037,1st innings,South Africa,New Zealand,37.4,AB de Villiers,CH Morris,TA Boult,1,0,1,NA,0,NA,NA,NA,0
+1020037,1st innings,South Africa,New Zealand,37.5,CH Morris,AB de Villiers,TA Boult,0,0,0,NA,0,NA,NA,NA,0
+1020037,1st innings,South Africa,New Zealand,37.6,CH Morris,AB de Villiers,TA Boult,0,0,0,NA,0,NA,NA,NA,0
+1020037,1st innings,South Africa,New Zealand,38.1,AB de Villiers,CH Morris,JS Patel,4,0,4,NA,0,NA,NA,NA,0
+1020037,1st innings,South Africa,New Zealand,38.2,AB de Villiers,CH Morris,JS Patel,1,0,1,NA,0,NA,NA,NA,0
+1020037,1st innings,South Africa,New Zealand,38.3,CH Morris,AB de Villiers,JS Patel,1,0,1,NA,0,NA,NA,NA,0
+1020037,1st innings,South Africa,New Zealand,38.4,AB de Villiers,CH Morris,JS Patel,1,0,1,NA,0,NA,NA,NA,0
+1020037,1st innings,South Africa,New Zealand,38.5,CH Morris,AB de Villiers,JS Patel,1,0,1,NA,0,NA,NA,NA,0
+1020037,1st innings,South Africa,New Zealand,38.6,AB de Villiers,CH Morris,JS Patel,1,0,1,NA,0,NA,NA,NA,0
+1020037,1st innings,South Africa,New Zealand,39.1,AB de Villiers,CH Morris,JDS Neesham,1,0,1,NA,0,NA,NA,NA,0
+1020037,1st innings,South Africa,New Zealand,39.2,CH Morris,AB de Villiers,JDS Neesham,0,0,0,NA,0,NA,NA,NA,0
+1020037,1st innings,South Africa,New Zealand,39.3,CH Morris,AB de Villiers,JDS Neesham,0,0,0,NA,0,NA,NA,NA,0
+1020037,1st innings,South Africa,New Zealand,39.4,CH Morris,AB de Villiers,JDS Neesham,1,0,1,NA,0,NA,NA,NA,0
+1020037,1st innings,South Africa,New Zealand,39.5,AB de Villiers,CH Morris,JDS Neesham,0,0,0,NA,0,NA,NA,NA,0
+1020037,1st innings,South Africa,New Zealand,39.6,AB de Villiers,CH Morris,JDS Neesham,0,0,0,NA,0,NA,NA,NA,0
+1020037,1st innings,South Africa,New Zealand,40.1,CH Morris,AB de Villiers,JS Patel,1,0,1,NA,0,NA,NA,NA,0
+1020037,1st innings,South Africa,New Zealand,40.2,AB de Villiers,CH Morris,JS Patel,1,0,1,NA,0,NA,NA,NA,0
+1020037,1st innings,South Africa,New Zealand,40.3,CH Morris,AB de Villiers,JS Patel,0,0,0,NA,0,NA,NA,NA,0
+1020037,1st innings,South Africa,New Zealand,40.4,CH Morris,AB de Villiers,JS Patel,0,0,0,NA,0,NA,NA,NA,0
+1020037,1st innings,South Africa,New Zealand,40.5,CH Morris,AB de Villiers,JS Patel,1,0,1,NA,0,NA,NA,NA,0
+1020037,1st innings,South Africa,New Zealand,40.6,AB de Villiers,CH Morris,JS Patel,1,0,1,NA,0,NA,NA,NA,0
+1020037,1st innings,South Africa,New Zealand,41.1,AB de Villiers,CH Morris,MJ Santner,0,0,0,NA,0,NA,NA,NA,0
+1020037,1st innings,South Africa,New Zealand,41.2,AB de Villiers,CH Morris,MJ Santner,1,0,1,NA,0,NA,NA,NA,0
+1020037,1st innings,South Africa,New Zealand,41.3,CH Morris,AB de Villiers,MJ Santner,0,0,0,NA,0,NA,NA,NA,0
+1020037,1st innings,South Africa,New Zealand,41.4,CH Morris,AB de Villiers,MJ Santner,1,0,1,NA,0,NA,NA,NA,0
+1020037,1st innings,South Africa,New Zealand,41.5,AB de Villiers,CH Morris,MJ Santner,0,0,0,NA,0,NA,NA,NA,0
+1020037,1st innings,South Africa,New Zealand,41.6,AB de Villiers,CH Morris,MJ Santner,0,0,0,NA,0,NA,NA,NA,0
+1020037,1st innings,South Africa,New Zealand,42.1,CH Morris,AB de Villiers,JS Patel,4,0,4,NA,0,NA,NA,NA,0
+1020037,1st innings,South Africa,New Zealand,42.2,CH Morris,AB de Villiers,JS Patel,0,0,0,NA,0,NA,NA,NA,0
+1020037,1st innings,South Africa,New Zealand,42.3,CH Morris,AB de Villiers,JS Patel,1,0,1,NA,0,NA,NA,NA,0
+1020037,1st innings,South Africa,New Zealand,42.4,AB de Villiers,CH Morris,JS Patel,1,0,1,NA,0,NA,NA,NA,0
+1020037,1st innings,South Africa,New Zealand,42.5,CH Morris,AB de Villiers,JS Patel,0,0,0,NA,0,NA,NA,NA,0
+1020037,1st innings,South Africa,New Zealand,42.6,CH Morris,AB de Villiers,JS Patel,1,0,1,NA,0,NA,NA,NA,0
+1020037,1st innings,South Africa,New Zealand,43.1,CH Morris,AB de Villiers,MJ Santner,1,0,1,NA,0,NA,NA,NA,0
+1020037,1st innings,South Africa,New Zealand,43.2,AB de Villiers,CH Morris,MJ Santner,6,0,6,NA,0,NA,NA,NA,0
+1020037,1st innings,South Africa,New Zealand,43.3,AB de Villiers,CH Morris,MJ Santner,1,0,1,NA,0,NA,NA,NA,0
+1020037,1st innings,South Africa,New Zealand,43.4,CH Morris,AB de Villiers,MJ Santner,1,0,1,NA,0,NA,NA,NA,0
+1020037,1st innings,South Africa,New Zealand,43.5,AB de Villiers,CH Morris,MJ Santner,0,0,0,NA,0,NA,NA,NA,0
+1020037,1st innings,South Africa,New Zealand,43.6,AB de Villiers,CH Morris,MJ Santner,1,0,1,NA,0,NA,NA,NA,0
+1020037,1st innings,South Africa,New Zealand,44.1,AB de Villiers,CH Morris,TG Southee,1,0,1,NA,0,NA,NA,NA,0
+1020037,1st innings,South Africa,New Zealand,44.2,CH Morris,AB de Villiers,TG Southee,0,0,0,NA,0,NA,NA,NA,0
+1020037,1st innings,South Africa,New Zealand,44.3,CH Morris,AB de Villiers,TG Southee,1,0,1,NA,0,NA,NA,NA,0
+1020037,1st innings,South Africa,New Zealand,44.4,AB de Villiers,CH Morris,TG Southee,4,0,4,NA,0,NA,NA,NA,0
+1020037,1st innings,South Africa,New Zealand,44.5,AB de Villiers,CH Morris,TG Southee,1,0,1,NA,0,NA,NA,NA,0
+1020037,1st innings,South Africa,New Zealand,44.6,CH Morris,AB de Villiers,TG Southee,4,0,4,NA,0,NA,NA,NA,0
+1020037,1st innings,South Africa,New Zealand,45.1,AB de Villiers,CH Morris,TA Boult,1,0,1,NA,0,NA,NA,NA,0
+1020037,1st innings,South Africa,New Zealand,45.2,CH Morris,AB de Villiers,TA Boult,4,0,4,NA,0,NA,NA,NA,0
+1020037,1st innings,South Africa,New Zealand,45.3,CH Morris,AB de Villiers,TA Boult,4,0,4,NA,0,NA,NA,NA,0
+1020037,1st innings,South Africa,New Zealand,45.4,CH Morris,AB de Villiers,TA Boult,0,0,0,NA,1,bowled,CH Morris,NA,0
+1020037,1st innings,South Africa,New Zealand,45.5,WD Parnell,AB de Villiers,TA Boult,1,0,1,NA,0,NA,NA,NA,0
+1020037,1st innings,South Africa,New Zealand,45.6,AB de Villiers,WD Parnell,TA Boult,1,0,1,NA,0,NA,NA,NA,0
+1020037,1st innings,South Africa,New Zealand,46.1,AB de Villiers,WD Parnell,JS Patel,4,0,4,NA,0,NA,NA,NA,0
+1020037,1st innings,South Africa,New Zealand,46.2,AB de Villiers,WD Parnell,JS Patel,1,0,1,NA,0,NA,NA,NA,0
+1020037,1st innings,South Africa,New Zealand,46.3,WD Parnell,AB de Villiers,JS Patel,4,0,4,NA,0,NA,NA,NA,0
+1020037,1st innings,South Africa,New Zealand,46.4,WD Parnell,AB de Villiers,JS Patel,1,0,1,NA,0,NA,NA,NA,0
+1020037,1st innings,South Africa,New Zealand,46.5,AB de Villiers,WD Parnell,JS Patel,0,1,1,wides,0,NA,NA,NA,0
+1020037,1st innings,South Africa,New Zealand,46.6,AB de Villiers,WD Parnell,JS Patel,1,0,1,NA,0,NA,NA,NA,0
+1020037,1st innings,South Africa,New Zealand,46.7,WD Parnell,AB de Villiers,JS Patel,2,0,2,NA,0,NA,NA,NA,0
+1020037,1st innings,South Africa,New Zealand,47.1,AB de Villiers,WD Parnell,TG Southee,1,0,1,NA,0,NA,NA,NA,0
+1020037,1st innings,South Africa,New Zealand,47.2,WD Parnell,AB de Villiers,TG Southee,1,0,1,NA,0,NA,NA,NA,0
+1020037,1st innings,South Africa,New Zealand,47.3,AB de Villiers,WD Parnell,TG Southee,6,0,6,NA,0,NA,NA,NA,0
+1020037,1st innings,South Africa,New Zealand,47.4,AB de Villiers,WD Parnell,TG Southee,1,0,1,NA,0,NA,NA,NA,0
+1020037,1st innings,South Africa,New Zealand,47.5,WD Parnell,AB de Villiers,TG Southee,6,0,6,NA,0,NA,NA,NA,0
+1020037,1st innings,South Africa,New Zealand,47.6,WD Parnell,AB de Villiers,TG Southee,0,1,1,wides,0,NA,NA,NA,0
+1020037,1st innings,South Africa,New Zealand,47.7,WD Parnell,AB de Villiers,TG Southee,1,0,1,NA,0,NA,NA,NA,0
+1020037,1st innings,South Africa,New Zealand,48.1,WD Parnell,AB de Villiers,TA Boult,0,1,1,wides,0,NA,NA,NA,0
+1020037,1st innings,South Africa,New Zealand,48.2,WD Parnell,AB de Villiers,TA Boult,4,0,4,NA,0,NA,NA,NA,0
+1020037,1st innings,South Africa,New Zealand,48.3,WD Parnell,AB de Villiers,TA Boult,6,0,6,NA,0,NA,NA,NA,0
+1020037,1st innings,South Africa,New Zealand,48.4,WD Parnell,AB de Villiers,TA Boult,1,0,1,NA,0,NA,NA,NA,0
+1020037,1st innings,South Africa,New Zealand,48.5,AB de Villiers,WD Parnell,TA Boult,0,1,1,wides,0,NA,NA,NA,0
+1020037,1st innings,South Africa,New Zealand,48.6,AB de Villiers,WD Parnell,TA Boult,4,0,4,NA,0,NA,NA,NA,0
+1020037,1st innings,South Africa,New Zealand,48.7,AB de Villiers,WD Parnell,TA Boult,0,0,0,NA,0,NA,NA,NA,0
+1020037,1st innings,South Africa,New Zealand,48.8,AB de Villiers,WD Parnell,TA Boult,1,0,1,NA,0,NA,NA,NA,0
+1020037,1st innings,South Africa,New Zealand,49.1,AB de Villiers,WD Parnell,TG Southee,2,0,2,NA,0,NA,NA,NA,0
+1020037,1st innings,South Africa,New Zealand,49.2,AB de Villiers,WD Parnell,TG Southee,6,0,6,NA,0,NA,NA,NA,0
+1020037,1st innings,South Africa,New Zealand,49.3,AB de Villiers,WD Parnell,TG Southee,1,0,1,NA,0,NA,NA,NA,0
+1020037,1st innings,South Africa,New Zealand,49.4,WD Parnell,AB de Villiers,TG Southee,1,0,1,NA,0,NA,NA,NA,0
+1020037,1st innings,South Africa,New Zealand,49.5,AB de Villiers,WD Parnell,TG Southee,1,0,1,NA,0,NA,NA,NA,0
+1020037,1st innings,South Africa,New Zealand,49.6,WD Parnell,AB de Villiers,TG Southee,1,0,1,NA,1,run out,WD Parnell,JDS Neesham,0
+1020037,2nd innings,New Zealand,South Africa,0.1,MJ Guptill,DG Brownlie,K Rabada,1,0,1,NA,0,NA,NA,NA,1
+1020037,2nd innings,New Zealand,South Africa,0.2,DG Brownlie,MJ Guptill,K Rabada,0,0,0,NA,0,NA,NA,NA,1
+1020037,2nd innings,New Zealand,South Africa,0.3,DG Brownlie,MJ Guptill,K Rabada,0,0,0,NA,0,NA,NA,NA,1
+1020037,2nd innings,New Zealand,South Africa,0.4,DG Brownlie,MJ Guptill,K Rabada,0,0,0,NA,0,NA,NA,NA,1
+1020037,2nd innings,New Zealand,South Africa,0.5,DG Brownlie,MJ Guptill,K Rabada,0,0,0,NA,0,NA,NA,NA,1
+1020037,2nd innings,New Zealand,South Africa,0.6,DG Brownlie,MJ Guptill,K Rabada,0,0,0,NA,0,NA,NA,NA,1
+1020037,2nd innings,New Zealand,South Africa,1.1,MJ Guptill,DG Brownlie,WD Parnell,0,0,0,NA,0,NA,NA,NA,1
+1020037,2nd innings,New Zealand,South Africa,1.2,MJ Guptill,DG Brownlie,WD Parnell,0,0,0,NA,0,NA,NA,NA,1
+1020037,2nd innings,New Zealand,South Africa,1.3,MJ Guptill,DG Brownlie,WD Parnell,0,0,0,NA,0,NA,NA,NA,1
+1020037,2nd innings,New Zealand,South Africa,1.4,MJ Guptill,DG Brownlie,WD Parnell,0,0,0,NA,0,NA,NA,NA,1
+1020037,2nd innings,New Zealand,South Africa,1.5,MJ Guptill,DG Brownlie,WD Parnell,0,0,0,NA,0,NA,NA,NA,1
+1020037,2nd innings,New Zealand,South Africa,1.6,MJ Guptill,DG Brownlie,WD Parnell,0,0,0,NA,0,NA,NA,NA,1
+1020037,2nd innings,New Zealand,South Africa,2.1,DG Brownlie,MJ Guptill,K Rabada,0,0,0,NA,0,NA,NA,NA,1
+1020037,2nd innings,New Zealand,South Africa,2.2,DG Brownlie,MJ Guptill,K Rabada,4,0,4,NA,0,NA,NA,NA,1
+1020037,2nd innings,New Zealand,South Africa,2.3,DG Brownlie,MJ Guptill,K Rabada,0,0,0,NA,0,NA,NA,NA,1
+1020037,2nd innings,New Zealand,South Africa,2.4,DG Brownlie,MJ Guptill,K Rabada,0,0,0,NA,0,NA,NA,NA,1
+1020037,2nd innings,New Zealand,South Africa,2.5,DG Brownlie,MJ Guptill,K Rabada,0,0,0,NA,1,caught,DG Brownlie,Q de Kock,1
+1020037,2nd innings,New Zealand,South Africa,2.6,KS Williamson,MJ Guptill,K Rabada,0,0,0,NA,0,NA,NA,NA,1
+1020037,2nd innings,New Zealand,South Africa,3.1,MJ Guptill,KS Williamson,WD Parnell,0,0,0,NA,0,NA,NA,NA,1
+1020037,2nd innings,New Zealand,South Africa,3.2,MJ Guptill,KS Williamson,WD Parnell,0,0,0,NA,0,NA,NA,NA,1
+1020037,2nd innings,New Zealand,South Africa,3.3,MJ Guptill,KS Williamson,WD Parnell,1,0,1,NA,0,NA,NA,NA,1
+1020037,2nd innings,New Zealand,South Africa,3.4,KS Williamson,MJ Guptill,WD Parnell,1,0,1,NA,0,NA,NA,NA,1
+1020037,2nd innings,New Zealand,South Africa,3.5,MJ Guptill,KS Williamson,WD Parnell,6,0,6,NA,0,NA,NA,NA,1
+1020037,2nd innings,New Zealand,South Africa,3.6,MJ Guptill,KS Williamson,WD Parnell,0,0,0,NA,0,NA,NA,NA,1
+1020037,2nd innings,New Zealand,South Africa,4.1,KS Williamson,MJ Guptill,K Rabada,0,0,0,NA,0,NA,NA,NA,1
+1020037,2nd innings,New Zealand,South Africa,4.2,KS Williamson,MJ Guptill,K Rabada,0,0,0,NA,0,NA,NA,NA,1
+1020037,2nd innings,New Zealand,South Africa,4.3,KS Williamson,MJ Guptill,K Rabada,1,0,1,NA,0,NA,NA,NA,1
+1020037,2nd innings,New Zealand,South Africa,4.4,MJ Guptill,KS Williamson,K Rabada,0,0,0,NA,0,NA,NA,NA,1
+1020037,2nd innings,New Zealand,South Africa,4.5,MJ Guptill,KS Williamson,K Rabada,0,0,0,NA,0,NA,NA,NA,1
+1020037,2nd innings,New Zealand,South Africa,4.6,MJ Guptill,KS Williamson,K Rabada,4,0,4,NA,0,NA,NA,NA,1
+1020037,2nd innings,New Zealand,South Africa,5.1,KS Williamson,MJ Guptill,CH Morris,1,0,1,NA,0,NA,NA,NA,1
+1020037,2nd innings,New Zealand,South Africa,5.2,MJ Guptill,KS Williamson,CH Morris,4,0,4,NA,0,NA,NA,NA,1
+1020037,2nd innings,New Zealand,South Africa,5.3,MJ Guptill,KS Williamson,CH Morris,0,0,0,NA,0,NA,NA,NA,1
+1020037,2nd innings,New Zealand,South Africa,5.4,MJ Guptill,KS Williamson,CH Morris,4,0,4,NA,0,NA,NA,NA,1
+1020037,2nd innings,New Zealand,South Africa,5.5,MJ Guptill,KS Williamson,CH Morris,0,0,0,NA,0,NA,NA,NA,1
+1020037,2nd innings,New Zealand,South Africa,5.6,MJ Guptill,KS Williamson,CH Morris,0,0,0,NA,0,NA,NA,NA,1
+1020037,2nd innings,New Zealand,South Africa,6.1,KS Williamson,MJ Guptill,JP Duminy,1,0,1,NA,0,NA,NA,NA,1
+1020037,2nd innings,New Zealand,South Africa,6.2,MJ Guptill,KS Williamson,JP Duminy,0,0,0,NA,0,NA,NA,NA,1
+1020037,2nd innings,New Zealand,South Africa,6.3,MJ Guptill,KS Williamson,JP Duminy,0,0,0,NA,0,NA,NA,NA,1
+1020037,2nd innings,New Zealand,South Africa,6.4,MJ Guptill,KS Williamson,JP Duminy,1,0,1,NA,0,NA,NA,NA,1
+1020037,2nd innings,New Zealand,South Africa,6.5,KS Williamson,MJ Guptill,JP Duminy,0,0,0,NA,0,NA,NA,NA,1
+1020037,2nd innings,New Zealand,South Africa,6.6,KS Williamson,MJ Guptill,JP Duminy,4,0,4,NA,0,NA,NA,NA,1
+1020037,2nd innings,New Zealand,South Africa,7.1,MJ Guptill,KS Williamson,CH Morris,1,0,1,NA,0,NA,NA,NA,1
+1020037,2nd innings,New Zealand,South Africa,7.2,KS Williamson,MJ Guptill,CH Morris,0,0,0,NA,0,NA,NA,NA,1
+1020037,2nd innings,New Zealand,South Africa,7.3,KS Williamson,MJ Guptill,CH Morris,0,0,0,NA,0,NA,NA,NA,1
+1020037,2nd innings,New Zealand,South Africa,7.4,KS Williamson,MJ Guptill,CH Morris,0,0,0,NA,0,NA,NA,NA,1
+1020037,2nd innings,New Zealand,South Africa,7.5,KS Williamson,MJ Guptill,CH Morris,0,0,0,NA,0,NA,NA,NA,1
+1020037,2nd innings,New Zealand,South Africa,7.6,KS Williamson,MJ Guptill,CH Morris,4,0,4,NA,0,NA,NA,NA,1
+1020037,2nd innings,New Zealand,South Africa,8.1,MJ Guptill,KS Williamson,JP Duminy,1,0,1,NA,0,NA,NA,NA,1
+1020037,2nd innings,New Zealand,South Africa,8.2,KS Williamson,MJ Guptill,JP Duminy,1,0,1,NA,0,NA,NA,NA,1
+1020037,2nd innings,New Zealand,South Africa,8.3,MJ Guptill,KS Williamson,JP Duminy,0,0,0,NA,0,NA,NA,NA,1
+1020037,2nd innings,New Zealand,South Africa,8.4,MJ Guptill,KS Williamson,JP Duminy,1,0,1,NA,0,NA,NA,NA,1
+1020037,2nd innings,New Zealand,South Africa,8.5,KS Williamson,MJ Guptill,JP Duminy,1,0,1,NA,0,NA,NA,NA,1
+1020037,2nd innings,New Zealand,South Africa,8.6,MJ Guptill,KS Williamson,JP Duminy,4,0,4,NA,0,NA,NA,NA,1
+1020037,2nd innings,New Zealand,South Africa,9.1,KS Williamson,MJ Guptill,CH Morris,1,0,1,NA,0,NA,NA,NA,1
+1020037,2nd innings,New Zealand,South Africa,9.2,MJ Guptill,KS Williamson,CH Morris,0,0,0,NA,0,NA,NA,NA,1
+1020037,2nd innings,New Zealand,South Africa,9.3,MJ Guptill,KS Williamson,CH Morris,0,0,0,NA,0,NA,NA,NA,1
+1020037,2nd innings,New Zealand,South Africa,9.4,MJ Guptill,KS Williamson,CH Morris,4,0,4,NA,0,NA,NA,NA,1
+1020037,2nd innings,New Zealand,South Africa,9.5,MJ Guptill,KS Williamson,CH Morris,6,0,6,NA,0,NA,NA,NA,1
+1020037,2nd innings,New Zealand,South Africa,9.6,MJ Guptill,KS Williamson,CH Morris,0,0,0,NA,0,NA,NA,NA,1
+1020037,2nd innings,New Zealand,South Africa,10.1,KS Williamson,MJ Guptill,JP Duminy,1,0,1,NA,0,NA,NA,NA,1
+1020037,2nd innings,New Zealand,South Africa,10.2,MJ Guptill,KS Williamson,JP Duminy,0,0,0,NA,0,NA,NA,NA,1
+1020037,2nd innings,New Zealand,South Africa,10.3,MJ Guptill,KS Williamson,JP Duminy,4,0,4,NA,0,NA,NA,NA,1
+1020037,2nd innings,New Zealand,South Africa,10.4,MJ Guptill,KS Williamson,JP Duminy,6,0,6,NA,0,NA,NA,NA,1
+1020037,2nd innings,New Zealand,South Africa,10.5,MJ Guptill,KS Williamson,JP Duminy,1,0,1,NA,0,NA,NA,NA,1
+1020037,2nd innings,New Zealand,South Africa,10.6,KS Williamson,MJ Guptill,JP Duminy,0,0,0,NA,0,NA,NA,NA,1
+1020037,2nd innings,New Zealand,South Africa,11.1,MJ Guptill,KS Williamson,D Pretorius,1,0,1,NA,0,NA,NA,NA,1
+1020037,2nd innings,New Zealand,South Africa,11.2,KS Williamson,MJ Guptill,D Pretorius,4,0,4,NA,0,NA,NA,NA,1
+1020037,2nd innings,New Zealand,South Africa,11.3,KS Williamson,MJ Guptill,D Pretorius,1,0,1,NA,0,NA,NA,NA,1
+1020037,2nd innings,New Zealand,South Africa,11.4,MJ Guptill,KS Williamson,D Pretorius,1,0,1,NA,0,NA,NA,NA,1
+1020037,2nd innings,New Zealand,South Africa,11.5,KS Williamson,MJ Guptill,D Pretorius,0,0,0,NA,0,NA,NA,NA,1
+1020037,2nd innings,New Zealand,South Africa,11.6,KS Williamson,MJ Guptill,D Pretorius,0,0,0,NA,0,NA,NA,NA,1
+1020037,2nd innings,New Zealand,South Africa,12.1,MJ Guptill,KS Williamson,Imran Tahir,1,0,1,NA,0,NA,NA,NA,1
+1020037,2nd innings,New Zealand,South Africa,12.2,KS Williamson,MJ Guptill,Imran Tahir,0,0,0,NA,1,lbw,KS Williamson,NA,1
+1020037,2nd innings,New Zealand,South Africa,12.3,LRPL Taylor,MJ Guptill,Imran Tahir,1,0,1,NA,0,NA,NA,NA,1
+1020037,2nd innings,New Zealand,South Africa,12.4,MJ Guptill,LRPL Taylor,Imran Tahir,0,0,0,NA,0,NA,NA,NA,1
+1020037,2nd innings,New Zealand,South Africa,12.5,MJ Guptill,LRPL Taylor,Imran Tahir,0,0,0,NA,0,NA,NA,NA,1
+1020037,2nd innings,New Zealand,South Africa,12.6,MJ Guptill,LRPL Taylor,Imran Tahir,6,0,6,NA,0,NA,NA,NA,1
+1020037,2nd innings,New Zealand,South Africa,13.1,LRPL Taylor,MJ Guptill,D Pretorius,0,0,0,NA,0,NA,NA,NA,1
+1020037,2nd innings,New Zealand,South Africa,13.2,LRPL Taylor,MJ Guptill,D Pretorius,0,0,0,NA,0,NA,NA,NA,1
+1020037,2nd innings,New Zealand,South Africa,13.3,LRPL Taylor,MJ Guptill,D Pretorius,1,0,1,NA,0,NA,NA,NA,1
+1020037,2nd innings,New Zealand,South Africa,13.4,MJ Guptill,LRPL Taylor,D Pretorius,1,0,1,NA,0,NA,NA,NA,1
+1020037,2nd innings,New Zealand,South Africa,13.5,LRPL Taylor,MJ Guptill,D Pretorius,1,0,1,NA,0,NA,NA,NA,1
+1020037,2nd innings,New Zealand,South Africa,13.6,MJ Guptill,LRPL Taylor,D Pretorius,1,0,1,NA,0,NA,NA,NA,1
+1020037,2nd innings,New Zealand,South Africa,14.1,MJ Guptill,LRPL Taylor,Imran Tahir,1,0,1,NA,0,NA,NA,NA,1
+1020037,2nd innings,New Zealand,South Africa,14.2,LRPL Taylor,MJ Guptill,Imran Tahir,0,0,0,NA,0,NA,NA,NA,1
+1020037,2nd innings,New Zealand,South Africa,14.3,LRPL Taylor,MJ Guptill,Imran Tahir,1,0,1,NA,0,NA,NA,NA,1
+1020037,2nd innings,New Zealand,South Africa,14.4,MJ Guptill,LRPL Taylor,Imran Tahir,0,0,0,NA,0,NA,NA,NA,1
+1020037,2nd innings,New Zealand,South Africa,14.5,MJ Guptill,LRPL Taylor,Imran Tahir,0,0,0,NA,0,NA,NA,NA,1
+1020037,2nd innings,New Zealand,South Africa,14.6,MJ Guptill,LRPL Taylor,Imran Tahir,1,0,1,NA,0,NA,NA,NA,1
+1020037,2nd innings,New Zealand,South Africa,15.1,MJ Guptill,LRPL Taylor,D Pretorius,0,0,0,NA,0,NA,NA,NA,1
+1020037,2nd innings,New Zealand,South Africa,15.2,MJ Guptill,LRPL Taylor,D Pretorius,0,0,0,NA,0,NA,NA,NA,1
+1020037,2nd innings,New Zealand,South Africa,15.3,MJ Guptill,LRPL Taylor,D Pretorius,1,0,1,NA,0,NA,NA,NA,1
+1020037,2nd innings,New Zealand,South Africa,15.4,LRPL Taylor,MJ Guptill,D Pretorius,1,0,1,NA,0,NA,NA,NA,1
+1020037,2nd innings,New Zealand,South Africa,15.5,MJ Guptill,LRPL Taylor,D Pretorius,0,0,0,NA,0,NA,NA,NA,1
+1020037,2nd innings,New Zealand,South Africa,15.6,MJ Guptill,LRPL Taylor,D Pretorius,0,0,0,NA,0,NA,NA,NA,1
+1020037,2nd innings,New Zealand,South Africa,16.1,LRPL Taylor,MJ Guptill,Imran Tahir,0,0,0,NA,0,NA,NA,NA,1
+1020037,2nd innings,New Zealand,South Africa,16.2,LRPL Taylor,MJ Guptill,Imran Tahir,0,0,0,NA,0,NA,NA,NA,1
+1020037,2nd innings,New Zealand,South Africa,16.3,LRPL Taylor,MJ Guptill,Imran Tahir,0,0,0,NA,0,NA,NA,NA,1
+1020037,2nd innings,New Zealand,South Africa,16.4,LRPL Taylor,MJ Guptill,Imran Tahir,0,0,0,NA,0,NA,NA,NA,1
+1020037,2nd innings,New Zealand,South Africa,16.5,LRPL Taylor,MJ Guptill,Imran Tahir,0,0,0,NA,0,NA,NA,NA,1
+1020037,2nd innings,New Zealand,South Africa,16.6,LRPL Taylor,MJ Guptill,Imran Tahir,0,0,0,NA,0,NA,NA,NA,1
+1020037,2nd innings,New Zealand,South Africa,17.1,MJ Guptill,LRPL Taylor,D Pretorius,4,0,4,NA,0,NA,NA,NA,1
+1020037,2nd innings,New Zealand,South Africa,17.2,MJ Guptill,LRPL Taylor,D Pretorius,0,0,0,NA,0,NA,NA,NA,1
+1020037,2nd innings,New Zealand,South Africa,17.3,MJ Guptill,LRPL Taylor,D Pretorius,2,0,2,NA,0,NA,NA,NA,1
+1020037,2nd innings,New Zealand,South Africa,17.4,MJ Guptill,LRPL Taylor,D Pretorius,0,0,0,NA,0,NA,NA,NA,1
+1020037,2nd innings,New Zealand,South Africa,17.5,MJ Guptill,LRPL Taylor,D Pretorius,0,0,0,NA,0,NA,NA,NA,1
+1020037,2nd innings,New Zealand,South Africa,17.6,MJ Guptill,LRPL Taylor,D Pretorius,4,0,4,NA,0,NA,NA,NA,1
+1020037,2nd innings,New Zealand,South Africa,18.1,LRPL Taylor,MJ Guptill,Imran Tahir,0,0,0,NA,0,NA,NA,NA,1
+1020037,2nd innings,New Zealand,South Africa,18.2,LRPL Taylor,MJ Guptill,Imran Tahir,0,0,0,NA,0,NA,NA,NA,1
+1020037,2nd innings,New Zealand,South Africa,18.3,LRPL Taylor,MJ Guptill,Imran Tahir,1,0,1,NA,0,NA,NA,NA,1
+1020037,2nd innings,New Zealand,South Africa,18.4,MJ Guptill,LRPL Taylor,Imran Tahir,1,0,1,NA,0,NA,NA,NA,1
+1020037,2nd innings,New Zealand,South Africa,18.5,LRPL Taylor,MJ Guptill,Imran Tahir,0,0,0,NA,0,NA,NA,NA,1
+1020037,2nd innings,New Zealand,South Africa,18.6,LRPL Taylor,MJ Guptill,Imran Tahir,0,0,0,NA,0,NA,NA,NA,1
+1020037,2nd innings,New Zealand,South Africa,19.1,MJ Guptill,LRPL Taylor,K Rabada,1,0,1,NA,0,NA,NA,NA,1
+1020037,2nd innings,New Zealand,South Africa,19.2,LRPL Taylor,MJ Guptill,K Rabada,0,0,0,NA,0,NA,NA,NA,1
+1020037,2nd innings,New Zealand,South Africa,19.3,LRPL Taylor,MJ Guptill,K Rabada,1,0,1,NA,0,NA,NA,NA,1
+1020037,2nd innings,New Zealand,South Africa,19.4,MJ Guptill,LRPL Taylor,K Rabada,0,0,0,NA,0,NA,NA,NA,1
+1020037,2nd innings,New Zealand,South Africa,19.5,MJ Guptill,LRPL Taylor,K Rabada,1,0,1,NA,0,NA,NA,NA,1
+1020037,2nd innings,New Zealand,South Africa,19.6,LRPL Taylor,MJ Guptill,K Rabada,1,0,1,NA,0,NA,NA,NA,1
+1020037,2nd innings,New Zealand,South Africa,20.1,LRPL Taylor,MJ Guptill,Imran Tahir,1,0,1,NA,0,NA,NA,NA,1
+1020037,2nd innings,New Zealand,South Africa,20.2,MJ Guptill,LRPL Taylor,Imran Tahir,1,0,1,NA,0,NA,NA,NA,1
+1020037,2nd innings,New Zealand,South Africa,20.3,LRPL Taylor,MJ Guptill,Imran Tahir,0,0,0,NA,0,NA,NA,NA,1
+1020037,2nd innings,New Zealand,South Africa,20.4,LRPL Taylor,MJ Guptill,Imran Tahir,4,0,4,NA,0,NA,NA,NA,1
+1020037,2nd innings,New Zealand,South Africa,20.5,LRPL Taylor,MJ Guptill,Imran Tahir,1,0,1,NA,0,NA,NA,NA,1
+1020037,2nd innings,New Zealand,South Africa,20.6,MJ Guptill,LRPL Taylor,Imran Tahir,0,0,0,NA,0,NA,NA,NA,1
+1020037,2nd innings,New Zealand,South Africa,21.1,LRPL Taylor,MJ Guptill,K Rabada,1,0,1,NA,0,NA,NA,NA,1
+1020037,2nd innings,New Zealand,South Africa,21.2,MJ Guptill,LRPL Taylor,K Rabada,0,0,0,NA,0,NA,NA,NA,1
+1020037,2nd innings,New Zealand,South Africa,21.3,MJ Guptill,LRPL Taylor,K Rabada,4,0,4,NA,0,NA,NA,NA,1
+1020037,2nd innings,New Zealand,South Africa,21.4,MJ Guptill,LRPL Taylor,K Rabada,0,0,0,NA,0,NA,NA,NA,1
+1020037,2nd innings,New Zealand,South Africa,21.5,MJ Guptill,LRPL Taylor,K Rabada,0,0,0,NA,0,NA,NA,NA,1
+1020037,2nd innings,New Zealand,South Africa,21.6,MJ Guptill,LRPL Taylor,K Rabada,4,0,4,NA,0,NA,NA,NA,1
+1020037,2nd innings,New Zealand,South Africa,22.1,LRPL Taylor,MJ Guptill,WD Parnell,0,0,0,NA,0,NA,NA,NA,1
+1020037,2nd innings,New Zealand,South Africa,22.2,LRPL Taylor,MJ Guptill,WD Parnell,1,0,1,NA,0,NA,NA,NA,1
+1020037,2nd innings,New Zealand,South Africa,22.3,MJ Guptill,LRPL Taylor,WD Parnell,0,0,0,NA,0,NA,NA,NA,1
+1020037,2nd innings,New Zealand,South Africa,22.4,MJ Guptill,LRPL Taylor,WD Parnell,4,0,4,NA,0,NA,NA,NA,1
+1020037,2nd innings,New Zealand,South Africa,22.5,MJ Guptill,LRPL Taylor,WD Parnell,1,0,1,NA,0,NA,NA,NA,1
+1020037,2nd innings,New Zealand,South Africa,22.6,LRPL Taylor,MJ Guptill,WD Parnell,0,0,0,NA,0,NA,NA,NA,1
+1020037,2nd innings,New Zealand,South Africa,23.1,MJ Guptill,LRPL Taylor,K Rabada,4,0,4,NA,0,NA,NA,NA,1
+1020037,2nd innings,New Zealand,South Africa,23.2,MJ Guptill,LRPL Taylor,K Rabada,1,0,1,NA,0,NA,NA,NA,1
+1020037,2nd innings,New Zealand,South Africa,23.3,LRPL Taylor,MJ Guptill,K Rabada,0,0,0,NA,0,NA,NA,NA,1
+1020037,2nd innings,New Zealand,South Africa,23.4,LRPL Taylor,MJ Guptill,K Rabada,0,1,1,legbyes,0,NA,NA,NA,1
+1020037,2nd innings,New Zealand,South Africa,23.5,MJ Guptill,LRPL Taylor,K Rabada,1,0,1,NA,0,NA,NA,NA,1
+1020037,2nd innings,New Zealand,South Africa,23.6,LRPL Taylor,MJ Guptill,K Rabada,1,0,1,NA,0,NA,NA,NA,1
+1020037,2nd innings,New Zealand,South Africa,24.1,LRPL Taylor,MJ Guptill,WD Parnell,1,0,1,NA,0,NA,NA,NA,1
+1020037,2nd innings,New Zealand,South Africa,24.2,MJ Guptill,LRPL Taylor,WD Parnell,0,0,0,NA,0,NA,NA,NA,1
+1020037,2nd innings,New Zealand,South Africa,24.3,MJ Guptill,LRPL Taylor,WD Parnell,1,0,1,NA,0,NA,NA,NA,1
+1020037,2nd innings,New Zealand,South Africa,24.4,LRPL Taylor,MJ Guptill,WD Parnell,1,0,1,NA,0,NA,NA,NA,1
+1020037,2nd innings,New Zealand,South Africa,24.5,MJ Guptill,LRPL Taylor,WD Parnell,1,0,1,NA,0,NA,NA,NA,1
+1020037,2nd innings,New Zealand,South Africa,24.6,LRPL Taylor,MJ Guptill,WD Parnell,4,0,4,NA,0,NA,NA,NA,1
+1020037,2nd innings,New Zealand,South Africa,25.1,MJ Guptill,LRPL Taylor,CH Morris,1,0,1,NA,0,NA,NA,NA,1
+1020037,2nd innings,New Zealand,South Africa,25.2,LRPL Taylor,MJ Guptill,CH Morris,0,0,0,NA,0,NA,NA,NA,1
+1020037,2nd innings,New Zealand,South Africa,25.3,LRPL Taylor,MJ Guptill,CH Morris,1,0,1,NA,0,NA,NA,NA,1
+1020037,2nd innings,New Zealand,South Africa,25.4,MJ Guptill,LRPL Taylor,CH Morris,1,0,1,NA,0,NA,NA,NA,1
+1020037,2nd innings,New Zealand,South Africa,25.5,LRPL Taylor,MJ Guptill,CH Morris,0,0,0,NA,0,NA,NA,NA,1
+1020037,2nd innings,New Zealand,South Africa,25.6,LRPL Taylor,MJ Guptill,CH Morris,1,0,1,NA,0,NA,NA,NA,1
+1020037,2nd innings,New Zealand,South Africa,26.1,LRPL Taylor,MJ Guptill,WD Parnell,0,0,0,NA,0,NA,NA,NA,1
+1020037,2nd innings,New Zealand,South Africa,26.2,LRPL Taylor,MJ Guptill,WD Parnell,0,0,0,NA,0,NA,NA,NA,1
+1020037,2nd innings,New Zealand,South Africa,26.3,LRPL Taylor,MJ Guptill,WD Parnell,1,0,1,NA,0,NA,NA,NA,1
+1020037,2nd innings,New Zealand,South Africa,26.4,MJ Guptill,LRPL Taylor,WD Parnell,1,0,1,NA,0,NA,NA,NA,1
+1020037,2nd innings,New Zealand,South Africa,26.5,LRPL Taylor,MJ Guptill,WD Parnell,1,0,1,NA,0,NA,NA,NA,1
+1020037,2nd innings,New Zealand,South Africa,26.6,MJ Guptill,LRPL Taylor,WD Parnell,4,0,4,NA,0,NA,NA,NA,1
+1020037,2nd innings,New Zealand,South Africa,27.1,LRPL Taylor,MJ Guptill,CH Morris,0,0,0,NA,0,NA,NA,NA,1
+1020037,2nd innings,New Zealand,South Africa,27.2,LRPL Taylor,MJ Guptill,CH Morris,1,0,1,NA,0,NA,NA,NA,1
+1020037,2nd innings,New Zealand,South Africa,27.3,MJ Guptill,LRPL Taylor,CH Morris,0,0,0,NA,0,NA,NA,NA,1
+1020037,2nd innings,New Zealand,South Africa,27.4,MJ Guptill,LRPL Taylor,CH Morris,1,0,1,NA,0,NA,NA,NA,1
+1020037,2nd innings,New Zealand,South Africa,27.5,LRPL Taylor,MJ Guptill,CH Morris,1,0,1,NA,0,NA,NA,NA,1
+1020037,2nd innings,New Zealand,South Africa,27.6,MJ Guptill,LRPL Taylor,CH Morris,0,0,0,NA,0,NA,NA,NA,1
+1020037,2nd innings,New Zealand,South Africa,28.1,LRPL Taylor,MJ Guptill,Imran Tahir,0,0,0,NA,0,NA,NA,NA,1
+1020037,2nd innings,New Zealand,South Africa,28.2,LRPL Taylor,MJ Guptill,Imran Tahir,0,0,0,NA,0,NA,NA,NA,1
+1020037,2nd innings,New Zealand,South Africa,28.3,LRPL Taylor,MJ Guptill,Imran Tahir,0,0,0,NA,0,NA,NA,NA,1
+1020037,2nd innings,New Zealand,South Africa,28.4,LRPL Taylor,MJ Guptill,Imran Tahir,0,0,0,NA,0,NA,NA,NA,1
+1020037,2nd innings,New Zealand,South Africa,28.5,LRPL Taylor,MJ Guptill,Imran Tahir,0,0,0,NA,0,NA,NA,NA,1
+1020037,2nd innings,New Zealand,South Africa,28.6,LRPL Taylor,MJ Guptill,Imran Tahir,0,0,0,NA,0,NA,NA,NA,1
+1020037,2nd innings,New Zealand,South Africa,29.1,MJ Guptill,LRPL Taylor,CH Morris,0,0,0,NA,0,NA,NA,NA,1
+1020037,2nd innings,New Zealand,South Africa,29.2,MJ Guptill,LRPL Taylor,CH Morris,2,0,2,NA,0,NA,NA,NA,1
+1020037,2nd innings,New Zealand,South Africa,29.3,MJ Guptill,LRPL Taylor,CH Morris,1,0,1,NA,0,NA,NA,NA,1
+1020037,2nd innings,New Zealand,South Africa,29.4,LRPL Taylor,MJ Guptill,CH Morris,1,0,1,NA,0,NA,NA,NA,1
+1020037,2nd innings,New Zealand,South Africa,29.5,MJ Guptill,LRPL Taylor,CH Morris,0,0,0,NA,0,NA,NA,NA,1
+1020037,2nd innings,New Zealand,South Africa,29.6,MJ Guptill,LRPL Taylor,CH Morris,1,0,1,NA,0,NA,NA,NA,1
+1020037,2nd innings,New Zealand,South Africa,30.1,MJ Guptill,LRPL Taylor,Imran Tahir,0,0,0,NA,0,NA,NA,NA,1
+1020037,2nd innings,New Zealand,South Africa,30.2,MJ Guptill,LRPL Taylor,Imran Tahir,6,0,6,NA,0,NA,NA,NA,1
+1020037,2nd innings,New Zealand,South Africa,30.3,MJ Guptill,LRPL Taylor,Imran Tahir,1,0,1,NA,0,NA,NA,NA,1
+1020037,2nd innings,New Zealand,South Africa,30.4,LRPL Taylor,MJ Guptill,Imran Tahir,0,0,0,NA,0,NA,NA,NA,1
+1020037,2nd innings,New Zealand,South Africa,30.5,LRPL Taylor,MJ Guptill,Imran Tahir,1,0,1,NA,0,NA,NA,NA,1
+1020037,2nd innings,New Zealand,South Africa,30.6,MJ Guptill,LRPL Taylor,Imran Tahir,1,0,1,NA,0,NA,NA,NA,1
+1020037,2nd innings,New Zealand,South Africa,31.1,MJ Guptill,LRPL Taylor,CH Morris,0,0,0,NA,0,NA,NA,NA,1
+1020037,2nd innings,New Zealand,South Africa,31.2,MJ Guptill,LRPL Taylor,CH Morris,0,0,0,NA,0,NA,NA,NA,1
+1020037,2nd innings,New Zealand,South Africa,31.3,MJ Guptill,LRPL Taylor,CH Morris,0,0,0,NA,0,NA,NA,NA,1
+1020037,2nd innings,New Zealand,South Africa,31.4,MJ Guptill,LRPL Taylor,CH Morris,0,0,0,NA,0,NA,NA,NA,1
+1020037,2nd innings,New Zealand,South Africa,31.5,MJ Guptill,LRPL Taylor,CH Morris,1,0,1,NA,0,NA,NA,NA,1
+1020037,2nd innings,New Zealand,South Africa,31.6,LRPL Taylor,MJ Guptill,CH Morris,1,0,1,NA,0,NA,NA,NA,1
+1020037,2nd innings,New Zealand,South Africa,32.1,LRPL Taylor,MJ Guptill,Imran Tahir,0,0,0,NA,0,NA,NA,NA,1
+1020037,2nd innings,New Zealand,South Africa,32.2,LRPL Taylor,MJ Guptill,Imran Tahir,0,0,0,NA,0,NA,NA,NA,1
+1020037,2nd innings,New Zealand,South Africa,32.3,LRPL Taylor,MJ Guptill,Imran Tahir,0,0,0,NA,0,NA,NA,NA,1
+1020037,2nd innings,New Zealand,South Africa,32.4,LRPL Taylor,MJ Guptill,Imran Tahir,0,1,1,legbyes,0,NA,NA,NA,1
+1020037,2nd innings,New Zealand,South Africa,32.5,MJ Guptill,LRPL Taylor,Imran Tahir,0,0,0,NA,0,NA,NA,NA,1
+1020037,2nd innings,New Zealand,South Africa,32.6,MJ Guptill,LRPL Taylor,Imran Tahir,6,0,6,NA,0,NA,NA,NA,1
+1020037,2nd innings,New Zealand,South Africa,33.1,LRPL Taylor,MJ Guptill,D Pretorius,1,0,1,NA,0,NA,NA,NA,1
+1020037,2nd innings,New Zealand,South Africa,33.2,MJ Guptill,LRPL Taylor,D Pretorius,0,0,0,NA,0,NA,NA,NA,1
+1020037,2nd innings,New Zealand,South Africa,33.3,MJ Guptill,LRPL Taylor,D Pretorius,1,0,1,NA,0,NA,NA,NA,1
+1020037,2nd innings,New Zealand,South Africa,33.4,LRPL Taylor,MJ Guptill,D Pretorius,0,0,0,NA,0,NA,NA,NA,1
+1020037,2nd innings,New Zealand,South Africa,33.5,LRPL Taylor,MJ Guptill,D Pretorius,1,0,1,NA,0,NA,NA,NA,1
+1020037,2nd innings,New Zealand,South Africa,33.6,MJ Guptill,LRPL Taylor,D Pretorius,6,0,6,NA,0,NA,NA,NA,1
+1020037,2nd innings,New Zealand,South Africa,34.1,LRPL Taylor,MJ Guptill,K Rabada,0,0,0,NA,0,NA,NA,NA,1
+1020037,2nd innings,New Zealand,South Africa,34.2,LRPL Taylor,MJ Guptill,K Rabada,1,0,1,NA,0,NA,NA,NA,1
+1020037,2nd innings,New Zealand,South Africa,34.3,MJ Guptill,LRPL Taylor,K Rabada,0,0,0,NA,0,NA,NA,NA,1
+1020037,2nd innings,New Zealand,South Africa,34.4,MJ Guptill,LRPL Taylor,K Rabada,1,0,1,NA,0,NA,NA,NA,1
+1020037,2nd innings,New Zealand,South Africa,34.5,LRPL Taylor,MJ Guptill,K Rabada,4,0,4,NA,0,NA,NA,NA,1
+1020037,2nd innings,New Zealand,South Africa,34.6,LRPL Taylor,MJ Guptill,K Rabada,0,1,1,wides,0,NA,NA,NA,1
+1020037,2nd innings,New Zealand,South Africa,34.7,LRPL Taylor,MJ Guptill,K Rabada,0,0,0,NA,0,NA,NA,NA,1
+1020037,2nd innings,New Zealand,South Africa,35.1,MJ Guptill,LRPL Taylor,D Pretorius,0,0,0,NA,0,NA,NA,NA,1
+1020037,2nd innings,New Zealand,South Africa,35.2,MJ Guptill,LRPL Taylor,D Pretorius,0,0,0,NA,0,NA,NA,NA,1
+1020037,2nd innings,New Zealand,South Africa,35.3,MJ Guptill,LRPL Taylor,D Pretorius,4,0,4,NA,0,NA,NA,NA,1
+1020037,2nd innings,New Zealand,South Africa,35.4,MJ Guptill,LRPL Taylor,D Pretorius,0,0,0,NA,0,NA,NA,NA,1
+1020037,2nd innings,New Zealand,South Africa,35.5,MJ Guptill,LRPL Taylor,D Pretorius,1,0,1,NA,0,NA,NA,NA,1
+1020037,2nd innings,New Zealand,South Africa,35.6,LRPL Taylor,MJ Guptill,D Pretorius,0,0,0,NA,0,NA,NA,NA,1
+1020037,2nd innings,New Zealand,South Africa,36.1,MJ Guptill,LRPL Taylor,K Rabada,1,0,1,NA,0,NA,NA,NA,1
+1020037,2nd innings,New Zealand,South Africa,36.2,LRPL Taylor,MJ Guptill,K Rabada,0,0,0,NA,0,NA,NA,NA,1
+1020037,2nd innings,New Zealand,South Africa,36.3,LRPL Taylor,MJ Guptill,K Rabada,0,1,1,wides,0,NA,NA,NA,1
+1020037,2nd innings,New Zealand,South Africa,36.4,LRPL Taylor,MJ Guptill,K Rabada,0,1,1,wides,0,NA,NA,NA,1
+1020037,2nd innings,New Zealand,South Africa,36.5,LRPL Taylor,MJ Guptill,K Rabada,0,0,0,NA,0,NA,NA,NA,1
+1020037,2nd innings,New Zealand,South Africa,36.6,LRPL Taylor,MJ Guptill,K Rabada,0,0,0,NA,0,NA,NA,NA,1
+1020037,2nd innings,New Zealand,South Africa,36.7,LRPL Taylor,MJ Guptill,K Rabada,0,0,0,NA,0,NA,NA,NA,1
+1020037,2nd innings,New Zealand,South Africa,36.8,LRPL Taylor,MJ Guptill,K Rabada,1,0,1,NA,0,NA,NA,NA,1
+1020037,2nd innings,New Zealand,South Africa,37.1,LRPL Taylor,MJ Guptill,D Pretorius,0,0,0,NA,0,NA,NA,NA,1
+1020037,2nd innings,New Zealand,South Africa,37.2,LRPL Taylor,MJ Guptill,D Pretorius,0,0,0,NA,0,NA,NA,NA,1
+1020037,2nd innings,New Zealand,South Africa,37.3,LRPL Taylor,MJ Guptill,D Pretorius,0,1,1,legbyes,0,NA,NA,NA,1
+1020037,2nd innings,New Zealand,South Africa,37.4,MJ Guptill,LRPL Taylor,D Pretorius,1,0,1,NA,0,NA,NA,NA,1
+1020037,2nd innings,New Zealand,South Africa,37.5,LRPL Taylor,MJ Guptill,D Pretorius,0,0,0,NA,0,NA,NA,NA,1
+1020037,2nd innings,New Zealand,South Africa,37.6,LRPL Taylor,MJ Guptill,D Pretorius,0,0,0,NA,0,NA,NA,NA,1
+1020037,2nd innings,New Zealand,South Africa,38.1,MJ Guptill,LRPL Taylor,CH Morris,0,0,0,NA,0,NA,NA,NA,1
+1020037,2nd innings,New Zealand,South Africa,38.2,MJ Guptill,LRPL Taylor,CH Morris,0,1,1,wides,0,NA,NA,NA,1
+1020037,2nd innings,New Zealand,South Africa,38.3,MJ Guptill,LRPL Taylor,CH Morris,0,0,0,NA,0,NA,NA,NA,1
+1020037,2nd innings,New Zealand,South Africa,38.4,MJ Guptill,LRPL Taylor,CH Morris,0,1,1,legbyes,0,NA,NA,NA,1
+1020037,2nd innings,New Zealand,South Africa,38.5,LRPL Taylor,MJ Guptill,CH Morris,0,0,0,NA,0,NA,NA,NA,1
+1020037,2nd innings,New Zealand,South Africa,38.6,LRPL Taylor,MJ Guptill,CH Morris,0,0,0,NA,0,NA,NA,NA,1
+1020037,2nd innings,New Zealand,South Africa,38.7,LRPL Taylor,MJ Guptill,CH Morris,4,0,4,NA,0,NA,NA,NA,1
+1020037,2nd innings,New Zealand,South Africa,39.1,MJ Guptill,LRPL Taylor,D Pretorius,6,0,6,NA,0,NA,NA,NA,1
+1020037,2nd innings,New Zealand,South Africa,39.2,MJ Guptill,LRPL Taylor,D Pretorius,1,0,1,NA,0,NA,NA,NA,1
+1020037,2nd innings,New Zealand,South Africa,39.3,LRPL Taylor,MJ Guptill,D Pretorius,6,0,6,NA,0,NA,NA,NA,1
+1020037,2nd innings,New Zealand,South Africa,39.4,LRPL Taylor,MJ Guptill,D Pretorius,0,0,0,NA,0,NA,NA,NA,1
+1020037,2nd innings,New Zealand,South Africa,39.5,LRPL Taylor,MJ Guptill,D Pretorius,0,0,0,NA,0,NA,NA,NA,1
+1020037,2nd innings,New Zealand,South Africa,39.6,LRPL Taylor,MJ Guptill,D Pretorius,4,0,4,NA,0,NA,NA,NA,1
+1020037,2nd innings,New Zealand,South Africa,40.1,MJ Guptill,LRPL Taylor,CH Morris,0,0,0,NA,0,NA,NA,NA,1
+1020037,2nd innings,New Zealand,South Africa,40.2,MJ Guptill,LRPL Taylor,CH Morris,1,0,1,NA,0,NA,NA,NA,1
+1020037,2nd innings,New Zealand,South Africa,40.3,LRPL Taylor,MJ Guptill,CH Morris,1,0,1,NA,0,NA,NA,NA,1
+1020037,2nd innings,New Zealand,South Africa,40.4,MJ Guptill,LRPL Taylor,CH Morris,2,0,2,NA,0,NA,NA,NA,1
+1020037,2nd innings,New Zealand,South Africa,40.5,MJ Guptill,LRPL Taylor,CH Morris,6,0,6,NA,0,NA,NA,NA,1
+1020037,2nd innings,New Zealand,South Africa,40.6,MJ Guptill,LRPL Taylor,CH Morris,0,0,0,NA,0,NA,NA,NA,1
+1020037,2nd innings,New Zealand,South Africa,41.1,LRPL Taylor,MJ Guptill,WD Parnell,0,0,0,NA,0,NA,NA,NA,1
+1020037,2nd innings,New Zealand,South Africa,41.2,LRPL Taylor,MJ Guptill,WD Parnell,4,0,4,NA,0,NA,NA,NA,1
+1020037,2nd innings,New Zealand,South Africa,41.3,LRPL Taylor,MJ Guptill,WD Parnell,0,0,0,NA,0,NA,NA,NA,1
+1020037,2nd innings,New Zealand,South Africa,41.4,LRPL Taylor,MJ Guptill,WD Parnell,4,0,4,NA,0,NA,NA,NA,1
+1020037,2nd innings,New Zealand,South Africa,41.5,LRPL Taylor,MJ Guptill,WD Parnell,1,0,1,NA,0,NA,NA,NA,1
+1020037,2nd innings,New Zealand,South Africa,41.6,MJ Guptill,LRPL Taylor,WD Parnell,1,0,1,NA,0,NA,NA,NA,1
+1020037,2nd innings,New Zealand,South Africa,42.1,MJ Guptill,LRPL Taylor,Imran Tahir,1,0,1,NA,0,NA,NA,NA,1
+1020037,2nd innings,New Zealand,South Africa,42.2,LRPL Taylor,MJ Guptill,Imran Tahir,2,0,2,NA,0,NA,NA,NA,1
+1020037,2nd innings,New Zealand,South Africa,42.3,LRPL Taylor,MJ Guptill,Imran Tahir,0,0,0,NA,0,NA,NA,NA,1
+1020037,2nd innings,New Zealand,South Africa,42.4,LRPL Taylor,MJ Guptill,Imran Tahir,0,0,0,NA,0,NA,NA,NA,1
+1020037,2nd innings,New Zealand,South Africa,42.5,LRPL Taylor,MJ Guptill,Imran Tahir,0,0,0,NA,0,NA,NA,NA,1
+1020037,2nd innings,New Zealand,South Africa,42.6,LRPL Taylor,MJ Guptill,Imran Tahir,0,0,0,NA,1,caught,LRPL Taylor,HM Amla,1
+1020037,2nd innings,New Zealand,South Africa,43.1,MJ Guptill,L Ronchi,WD Parnell,0,0,0,NA,0,NA,NA,NA,1
+1020037,2nd innings,New Zealand,South Africa,43.2,MJ Guptill,L Ronchi,WD Parnell,4,0,4,NA,0,NA,NA,NA,1
+1020037,2nd innings,New Zealand,South Africa,43.3,MJ Guptill,L Ronchi,WD Parnell,0,0,0,NA,0,NA,NA,NA,1
+1020037,2nd innings,New Zealand,South Africa,43.4,MJ Guptill,L Ronchi,WD Parnell,0,0,0,NA,0,NA,NA,NA,1
+1020037,2nd innings,New Zealand,South Africa,43.5,MJ Guptill,L Ronchi,WD Parnell,0,0,0,NA,0,NA,NA,NA,1
+1020037,2nd innings,New Zealand,South Africa,43.6,MJ Guptill,L Ronchi,WD Parnell,1,0,1,NA,0,NA,NA,NA,1
+1020037,2nd innings,New Zealand,South Africa,44.1,MJ Guptill,L Ronchi,Imran Tahir,2,0,2,NA,0,NA,NA,NA,1
+1020037,2nd innings,New Zealand,South Africa,44.2,MJ Guptill,L Ronchi,Imran Tahir,1,0,1,NA,0,NA,NA,NA,1
+1020037,2nd innings,New Zealand,South Africa,44.3,L Ronchi,MJ Guptill,Imran Tahir,1,0,1,NA,0,NA,NA,NA,1
+1020037,2nd innings,New Zealand,South Africa,44.4,MJ Guptill,L Ronchi,Imran Tahir,6,0,6,NA,0,NA,NA,NA,1
+1020037,2nd innings,New Zealand,South Africa,44.5,MJ Guptill,L Ronchi,Imran Tahir,6,0,6,NA,0,NA,NA,NA,1
+1020037,2nd innings,New Zealand,South Africa,44.6,MJ Guptill,L Ronchi,Imran Tahir,2,0,2,NA,0,NA,NA,NA,1

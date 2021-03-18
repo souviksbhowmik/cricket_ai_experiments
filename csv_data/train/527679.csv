@@ -1,0 +1,599 @@
+match_id,innings,team,opponent,ball,batsman,non_striker,bowler,scored_runs,extras,total,extra_type,wicket,wicket_type,player_out,fielders,winner
+527679,1st innings,England,South Africa,0.1,CM Edwards,DN Wyatt,S Ismail,1,0,1,NA,0,NA,NA,NA,1
+527679,1st innings,England,South Africa,0.2,DN Wyatt,CM Edwards,S Ismail,0,0,0,NA,0,NA,NA,NA,1
+527679,1st innings,England,South Africa,0.3,DN Wyatt,CM Edwards,S Ismail,0,0,0,NA,0,NA,NA,NA,1
+527679,1st innings,England,South Africa,0.4,DN Wyatt,CM Edwards,S Ismail,1,0,1,NA,0,NA,NA,NA,1
+527679,1st innings,England,South Africa,0.5,CM Edwards,DN Wyatt,S Ismail,0,0,0,NA,0,NA,NA,NA,1
+527679,1st innings,England,South Africa,0.6,CM Edwards,DN Wyatt,S Ismail,0,0,0,NA,1,lbw,CM Edwards,NA,1
+527679,1st innings,England,South Africa,1.1,DN Wyatt,SJ Taylor,CL Tryon,0,0,0,NA,0,NA,NA,NA,1
+527679,1st innings,England,South Africa,1.2,DN Wyatt,SJ Taylor,CL Tryon,2,0,2,NA,0,NA,NA,NA,1
+527679,1st innings,England,South Africa,1.3,DN Wyatt,SJ Taylor,CL Tryon,0,0,0,NA,0,NA,NA,NA,1
+527679,1st innings,England,South Africa,1.4,DN Wyatt,SJ Taylor,CL Tryon,0,0,0,NA,0,NA,NA,NA,1
+527679,1st innings,England,South Africa,1.5,DN Wyatt,SJ Taylor,CL Tryon,0,0,0,NA,0,NA,NA,NA,1
+527679,1st innings,England,South Africa,1.6,DN Wyatt,SJ Taylor,CL Tryon,0,0,0,NA,0,NA,NA,NA,1
+527679,1st innings,England,South Africa,2.1,SJ Taylor,DN Wyatt,S Ismail,0,0,0,NA,0,NA,NA,NA,1
+527679,1st innings,England,South Africa,2.2,SJ Taylor,DN Wyatt,S Ismail,0,0,0,NA,0,NA,NA,NA,1
+527679,1st innings,England,South Africa,2.3,SJ Taylor,DN Wyatt,S Ismail,0,0,0,NA,0,NA,NA,NA,1
+527679,1st innings,England,South Africa,2.4,SJ Taylor,DN Wyatt,S Ismail,1,0,1,NA,0,NA,NA,NA,1
+527679,1st innings,England,South Africa,2.5,DN Wyatt,SJ Taylor,S Ismail,0,0,0,NA,0,NA,NA,NA,1
+527679,1st innings,England,South Africa,2.6,DN Wyatt,SJ Taylor,S Ismail,1,0,1,NA,0,NA,NA,NA,1
+527679,1st innings,England,South Africa,3.1,DN Wyatt,SJ Taylor,CL Tryon,0,0,0,NA,0,NA,NA,NA,1
+527679,1st innings,England,South Africa,3.2,DN Wyatt,SJ Taylor,CL Tryon,4,0,4,NA,0,NA,NA,NA,1
+527679,1st innings,England,South Africa,3.3,DN Wyatt,SJ Taylor,CL Tryon,0,0,0,NA,0,NA,NA,NA,1
+527679,1st innings,England,South Africa,3.4,DN Wyatt,SJ Taylor,CL Tryon,0,1,1,legbyes,0,NA,NA,NA,1
+527679,1st innings,England,South Africa,3.5,SJ Taylor,DN Wyatt,CL Tryon,3,0,3,NA,0,NA,NA,NA,1
+527679,1st innings,England,South Africa,3.6,DN Wyatt,SJ Taylor,CL Tryon,0,0,0,NA,0,NA,NA,NA,1
+527679,1st innings,England,South Africa,4.1,SJ Taylor,DN Wyatt,S Ismail,3,0,3,NA,0,NA,NA,NA,1
+527679,1st innings,England,South Africa,4.2,DN Wyatt,SJ Taylor,S Ismail,0,0,0,NA,0,NA,NA,NA,1
+527679,1st innings,England,South Africa,4.3,DN Wyatt,SJ Taylor,S Ismail,0,0,0,NA,0,NA,NA,NA,1
+527679,1st innings,England,South Africa,4.4,DN Wyatt,SJ Taylor,S Ismail,0,0,0,NA,0,NA,NA,NA,1
+527679,1st innings,England,South Africa,4.5,DN Wyatt,SJ Taylor,S Ismail,1,0,1,NA,0,NA,NA,NA,1
+527679,1st innings,England,South Africa,4.6,SJ Taylor,DN Wyatt,S Ismail,0,0,0,NA,0,NA,NA,NA,1
+527679,1st innings,England,South Africa,5.1,DN Wyatt,SJ Taylor,CL Tryon,0,0,0,NA,0,NA,NA,NA,1
+527679,1st innings,England,South Africa,5.2,DN Wyatt,SJ Taylor,CL Tryon,0,0,0,NA,0,NA,NA,NA,1
+527679,1st innings,England,South Africa,5.3,DN Wyatt,SJ Taylor,CL Tryon,0,0,0,NA,0,NA,NA,NA,1
+527679,1st innings,England,South Africa,5.4,DN Wyatt,SJ Taylor,CL Tryon,4,0,4,NA,0,NA,NA,NA,1
+527679,1st innings,England,South Africa,5.5,DN Wyatt,SJ Taylor,CL Tryon,0,0,0,NA,0,NA,NA,NA,1
+527679,1st innings,England,South Africa,5.6,DN Wyatt,SJ Taylor,CL Tryon,0,0,0,NA,0,NA,NA,NA,1
+527679,1st innings,England,South Africa,6.1,SJ Taylor,DN Wyatt,S Ismail,1,0,1,NA,0,NA,NA,NA,1
+527679,1st innings,England,South Africa,6.2,DN Wyatt,SJ Taylor,S Ismail,4,0,4,NA,0,NA,NA,NA,1
+527679,1st innings,England,South Africa,6.3,DN Wyatt,SJ Taylor,S Ismail,0,0,0,NA,0,NA,NA,NA,1
+527679,1st innings,England,South Africa,6.4,DN Wyatt,SJ Taylor,S Ismail,0,0,0,NA,0,NA,NA,NA,1
+527679,1st innings,England,South Africa,6.5,DN Wyatt,SJ Taylor,S Ismail,4,0,4,NA,0,NA,NA,NA,1
+527679,1st innings,England,South Africa,6.6,DN Wyatt,SJ Taylor,S Ismail,0,0,0,NA,0,NA,NA,NA,1
+527679,1st innings,England,South Africa,7.1,SJ Taylor,DN Wyatt,M Kapp,0,0,0,NA,0,NA,NA,NA,1
+527679,1st innings,England,South Africa,7.2,SJ Taylor,DN Wyatt,M Kapp,1,0,1,NA,0,NA,NA,NA,1
+527679,1st innings,England,South Africa,7.3,DN Wyatt,SJ Taylor,M Kapp,0,0,0,NA,0,NA,NA,NA,1
+527679,1st innings,England,South Africa,7.4,DN Wyatt,SJ Taylor,M Kapp,0,0,0,NA,1,caught,DN Wyatt,T Chetty,1
+527679,1st innings,England,South Africa,7.5,LS Greenway,SJ Taylor,M Kapp,0,0,0,NA,0,NA,NA,NA,1
+527679,1st innings,England,South Africa,7.6,LS Greenway,SJ Taylor,M Kapp,0,0,0,NA,0,NA,NA,NA,1
+527679,1st innings,England,South Africa,8.1,SJ Taylor,LS Greenway,S Ismail,0,0,0,NA,0,NA,NA,NA,1
+527679,1st innings,England,South Africa,8.2,SJ Taylor,LS Greenway,S Ismail,4,0,4,NA,0,NA,NA,NA,1
+527679,1st innings,England,South Africa,8.3,SJ Taylor,LS Greenway,S Ismail,0,0,0,NA,0,NA,NA,NA,1
+527679,1st innings,England,South Africa,8.4,SJ Taylor,LS Greenway,S Ismail,0,0,0,NA,0,NA,NA,NA,1
+527679,1st innings,England,South Africa,8.5,SJ Taylor,LS Greenway,S Ismail,2,0,2,NA,0,NA,NA,NA,1
+527679,1st innings,England,South Africa,8.6,SJ Taylor,LS Greenway,S Ismail,0,0,0,NA,0,NA,NA,NA,1
+527679,1st innings,England,South Africa,9.1,LS Greenway,SJ Taylor,M Kapp,4,0,4,NA,0,NA,NA,NA,1
+527679,1st innings,England,South Africa,9.2,LS Greenway,SJ Taylor,M Kapp,1,0,1,NA,0,NA,NA,NA,1
+527679,1st innings,England,South Africa,9.3,SJ Taylor,LS Greenway,M Kapp,4,0,4,NA,0,NA,NA,NA,1
+527679,1st innings,England,South Africa,9.4,SJ Taylor,LS Greenway,M Kapp,0,0,0,NA,0,NA,NA,NA,1
+527679,1st innings,England,South Africa,9.5,SJ Taylor,LS Greenway,M Kapp,1,0,1,NA,0,NA,NA,NA,1
+527679,1st innings,England,South Africa,9.6,LS Greenway,SJ Taylor,M Kapp,1,0,1,NA,0,NA,NA,NA,1
+527679,1st innings,England,South Africa,10.1,LS Greenway,SJ Taylor,C Brits,0,1,1,wides,0,NA,NA,NA,1
+527679,1st innings,England,South Africa,10.2,LS Greenway,SJ Taylor,C Brits,0,0,0,NA,0,NA,NA,NA,1
+527679,1st innings,England,South Africa,10.3,LS Greenway,SJ Taylor,C Brits,0,1,1,wides,0,NA,NA,NA,1
+527679,1st innings,England,South Africa,10.4,LS Greenway,SJ Taylor,C Brits,0,1,1,wides,0,NA,NA,NA,1
+527679,1st innings,England,South Africa,10.5,LS Greenway,SJ Taylor,C Brits,0,0,0,NA,0,NA,NA,NA,1
+527679,1st innings,England,South Africa,10.6,LS Greenway,SJ Taylor,C Brits,0,0,0,NA,0,NA,NA,NA,1
+527679,1st innings,England,South Africa,10.7,LS Greenway,SJ Taylor,C Brits,2,0,2,NA,0,NA,NA,NA,1
+527679,1st innings,England,South Africa,10.8,LS Greenway,SJ Taylor,C Brits,0,0,0,NA,0,NA,NA,NA,1
+527679,1st innings,England,South Africa,10.9,LS Greenway,SJ Taylor,C Brits,0,0,0,NA,0,NA,NA,NA,1
+527679,1st innings,England,South Africa,11.1,SJ Taylor,LS Greenway,M Kapp,1,0,1,NA,0,NA,NA,NA,1
+527679,1st innings,England,South Africa,11.2,LS Greenway,SJ Taylor,M Kapp,0,0,0,NA,0,NA,NA,NA,1
+527679,1st innings,England,South Africa,11.3,LS Greenway,SJ Taylor,M Kapp,0,0,0,NA,0,NA,NA,NA,1
+527679,1st innings,England,South Africa,11.4,LS Greenway,SJ Taylor,M Kapp,4,0,4,NA,0,NA,NA,NA,1
+527679,1st innings,England,South Africa,11.5,LS Greenway,SJ Taylor,M Kapp,0,0,0,NA,0,NA,NA,NA,1
+527679,1st innings,England,South Africa,11.6,LS Greenway,SJ Taylor,M Kapp,1,0,1,NA,0,NA,NA,NA,1
+527679,1st innings,England,South Africa,12.1,LS Greenway,SJ Taylor,D van Niekerk,0,0,0,NA,0,NA,NA,NA,1
+527679,1st innings,England,South Africa,12.2,LS Greenway,SJ Taylor,D van Niekerk,1,0,1,NA,0,NA,NA,NA,1
+527679,1st innings,England,South Africa,12.3,SJ Taylor,LS Greenway,D van Niekerk,0,0,0,NA,0,NA,NA,NA,1
+527679,1st innings,England,South Africa,12.4,SJ Taylor,LS Greenway,D van Niekerk,0,0,0,NA,0,NA,NA,NA,1
+527679,1st innings,England,South Africa,12.5,SJ Taylor,LS Greenway,D van Niekerk,1,0,1,NA,0,NA,NA,NA,1
+527679,1st innings,England,South Africa,12.6,LS Greenway,SJ Taylor,D van Niekerk,0,0,0,NA,0,NA,NA,NA,1
+527679,1st innings,England,South Africa,13.1,SJ Taylor,LS Greenway,S Loubser,0,0,0,NA,0,NA,NA,NA,1
+527679,1st innings,England,South Africa,13.2,SJ Taylor,LS Greenway,S Loubser,0,0,0,NA,0,NA,NA,NA,1
+527679,1st innings,England,South Africa,13.3,SJ Taylor,LS Greenway,S Loubser,0,0,0,NA,0,NA,NA,NA,1
+527679,1st innings,England,South Africa,13.4,SJ Taylor,LS Greenway,S Loubser,1,0,1,NA,0,NA,NA,NA,1
+527679,1st innings,England,South Africa,13.5,LS Greenway,SJ Taylor,S Loubser,0,0,0,NA,0,NA,NA,NA,1
+527679,1st innings,England,South Africa,13.6,LS Greenway,SJ Taylor,S Loubser,1,0,1,NA,0,NA,NA,NA,1
+527679,1st innings,England,South Africa,14.1,LS Greenway,SJ Taylor,D van Niekerk,0,0,0,NA,0,NA,NA,NA,1
+527679,1st innings,England,South Africa,14.2,LS Greenway,SJ Taylor,D van Niekerk,1,0,1,NA,0,NA,NA,NA,1
+527679,1st innings,England,South Africa,14.3,SJ Taylor,LS Greenway,D van Niekerk,0,0,0,NA,0,NA,NA,NA,1
+527679,1st innings,England,South Africa,14.4,SJ Taylor,LS Greenway,D van Niekerk,3,0,3,NA,0,NA,NA,NA,1
+527679,1st innings,England,South Africa,14.5,LS Greenway,SJ Taylor,D van Niekerk,0,0,0,NA,0,NA,NA,NA,1
+527679,1st innings,England,South Africa,14.6,LS Greenway,SJ Taylor,D van Niekerk,1,0,1,NA,0,NA,NA,NA,1
+527679,1st innings,England,South Africa,15.1,LS Greenway,SJ Taylor,S Loubser,0,0,0,NA,0,NA,NA,NA,1
+527679,1st innings,England,South Africa,15.2,LS Greenway,SJ Taylor,S Loubser,1,0,1,NA,0,NA,NA,NA,1
+527679,1st innings,England,South Africa,15.3,SJ Taylor,LS Greenway,S Loubser,2,0,2,NA,0,NA,NA,NA,1
+527679,1st innings,England,South Africa,15.4,SJ Taylor,LS Greenway,S Loubser,1,0,1,NA,0,NA,NA,NA,1
+527679,1st innings,England,South Africa,15.5,LS Greenway,SJ Taylor,S Loubser,1,0,1,NA,0,NA,NA,NA,1
+527679,1st innings,England,South Africa,15.6,SJ Taylor,LS Greenway,S Loubser,1,0,1,NA,0,NA,NA,NA,1
+527679,1st innings,England,South Africa,16.1,SJ Taylor,LS Greenway,D van Niekerk,0,0,0,NA,0,NA,NA,NA,1
+527679,1st innings,England,South Africa,16.2,SJ Taylor,LS Greenway,D van Niekerk,0,0,0,NA,0,NA,NA,NA,1
+527679,1st innings,England,South Africa,16.3,SJ Taylor,LS Greenway,D van Niekerk,1,0,1,NA,0,NA,NA,NA,1
+527679,1st innings,England,South Africa,16.4,LS Greenway,SJ Taylor,D van Niekerk,1,0,1,NA,0,NA,NA,NA,1
+527679,1st innings,England,South Africa,16.5,SJ Taylor,LS Greenway,D van Niekerk,1,0,1,NA,0,NA,NA,NA,1
+527679,1st innings,England,South Africa,16.6,LS Greenway,SJ Taylor,D van Niekerk,0,0,0,NA,0,NA,NA,NA,1
+527679,1st innings,England,South Africa,17.1,SJ Taylor,LS Greenway,S Loubser,1,0,1,NA,1,run out,SJ Taylor,S Ismail,1
+527679,1st innings,England,South Africa,17.2,A Brindle,LS Greenway,S Loubser,0,0,0,NA,0,NA,NA,NA,1
+527679,1st innings,England,South Africa,17.3,A Brindle,LS Greenway,S Loubser,4,0,4,NA,0,NA,NA,NA,1
+527679,1st innings,England,South Africa,17.4,A Brindle,LS Greenway,S Loubser,0,0,0,NA,0,NA,NA,NA,1
+527679,1st innings,England,South Africa,17.5,A Brindle,LS Greenway,S Loubser,0,0,0,NA,0,NA,NA,NA,1
+527679,1st innings,England,South Africa,17.6,A Brindle,LS Greenway,S Loubser,0,0,0,NA,0,NA,NA,NA,1
+527679,1st innings,England,South Africa,18.1,LS Greenway,A Brindle,CL Tryon,0,0,0,NA,0,NA,NA,NA,1
+527679,1st innings,England,South Africa,18.2,LS Greenway,A Brindle,CL Tryon,0,0,0,NA,0,NA,NA,NA,1
+527679,1st innings,England,South Africa,18.3,LS Greenway,A Brindle,CL Tryon,1,0,1,NA,0,NA,NA,NA,1
+527679,1st innings,England,South Africa,18.4,A Brindle,LS Greenway,CL Tryon,0,0,0,NA,0,NA,NA,NA,1
+527679,1st innings,England,South Africa,18.5,A Brindle,LS Greenway,CL Tryon,0,0,0,NA,0,NA,NA,NA,1
+527679,1st innings,England,South Africa,18.6,A Brindle,LS Greenway,CL Tryon,0,0,0,NA,0,NA,NA,NA,1
+527679,1st innings,England,South Africa,19.1,LS Greenway,A Brindle,M Kapp,1,0,1,NA,0,NA,NA,NA,1
+527679,1st innings,England,South Africa,19.2,A Brindle,LS Greenway,M Kapp,0,0,0,NA,0,NA,NA,NA,1
+527679,1st innings,England,South Africa,19.3,A Brindle,LS Greenway,M Kapp,1,0,1,NA,0,NA,NA,NA,1
+527679,1st innings,England,South Africa,19.4,LS Greenway,A Brindle,M Kapp,0,0,0,NA,0,NA,NA,NA,1
+527679,1st innings,England,South Africa,19.5,LS Greenway,A Brindle,M Kapp,4,0,4,NA,0,NA,NA,NA,1
+527679,1st innings,England,South Africa,19.6,LS Greenway,A Brindle,M Kapp,1,0,1,NA,0,NA,NA,NA,1
+527679,1st innings,England,South Africa,20.1,LS Greenway,A Brindle,CL Tryon,0,0,0,NA,0,NA,NA,NA,1
+527679,1st innings,England,South Africa,20.2,LS Greenway,A Brindle,CL Tryon,0,1,1,legbyes,0,NA,NA,NA,1
+527679,1st innings,England,South Africa,20.3,A Brindle,LS Greenway,CL Tryon,0,0,0,NA,0,NA,NA,NA,1
+527679,1st innings,England,South Africa,20.4,A Brindle,LS Greenway,CL Tryon,0,0,0,NA,0,NA,NA,NA,1
+527679,1st innings,England,South Africa,20.5,A Brindle,LS Greenway,CL Tryon,0,0,0,NA,0,NA,NA,NA,1
+527679,1st innings,England,South Africa,20.6,A Brindle,LS Greenway,CL Tryon,0,0,0,NA,0,NA,NA,NA,1
+527679,1st innings,England,South Africa,21.1,LS Greenway,A Brindle,M Kapp,0,0,0,NA,0,NA,NA,NA,1
+527679,1st innings,England,South Africa,21.2,LS Greenway,A Brindle,M Kapp,0,0,0,NA,0,NA,NA,NA,1
+527679,1st innings,England,South Africa,21.3,LS Greenway,A Brindle,M Kapp,4,0,4,NA,0,NA,NA,NA,1
+527679,1st innings,England,South Africa,21.4,LS Greenway,A Brindle,M Kapp,1,0,1,NA,0,NA,NA,NA,1
+527679,1st innings,England,South Africa,21.5,A Brindle,LS Greenway,M Kapp,0,0,0,NA,0,NA,NA,NA,1
+527679,1st innings,England,South Africa,21.6,A Brindle,LS Greenway,M Kapp,1,0,1,NA,0,NA,NA,NA,1
+527679,1st innings,England,South Africa,22.1,A Brindle,LS Greenway,CL Tryon,0,0,0,NA,0,NA,NA,NA,1
+527679,1st innings,England,South Africa,22.2,A Brindle,LS Greenway,CL Tryon,0,0,0,NA,0,NA,NA,NA,1
+527679,1st innings,England,South Africa,22.3,A Brindle,LS Greenway,CL Tryon,0,0,0,NA,0,NA,NA,NA,1
+527679,1st innings,England,South Africa,22.4,A Brindle,LS Greenway,CL Tryon,0,1,1,wides,0,NA,NA,NA,1
+527679,1st innings,England,South Africa,22.5,A Brindle,LS Greenway,CL Tryon,2,0,2,NA,0,NA,NA,NA,1
+527679,1st innings,England,South Africa,22.6,A Brindle,LS Greenway,CL Tryon,1,0,1,NA,0,NA,NA,NA,1
+527679,1st innings,England,South Africa,22.7,LS Greenway,A Brindle,CL Tryon,0,0,0,NA,0,NA,NA,NA,1
+527679,1st innings,England,South Africa,23.1,A Brindle,LS Greenway,S Loubser,1,0,1,NA,0,NA,NA,NA,1
+527679,1st innings,England,South Africa,23.2,LS Greenway,A Brindle,S Loubser,1,0,1,NA,0,NA,NA,NA,1
+527679,1st innings,England,South Africa,23.3,A Brindle,LS Greenway,S Loubser,0,0,0,NA,0,NA,NA,NA,1
+527679,1st innings,England,South Africa,23.4,A Brindle,LS Greenway,S Loubser,0,0,0,NA,0,NA,NA,NA,1
+527679,1st innings,England,South Africa,23.5,A Brindle,LS Greenway,S Loubser,1,0,1,NA,0,NA,NA,NA,1
+527679,1st innings,England,South Africa,23.6,LS Greenway,A Brindle,S Loubser,0,0,0,NA,0,NA,NA,NA,1
+527679,1st innings,England,South Africa,24.1,A Brindle,LS Greenway,D van Niekerk,1,0,1,NA,0,NA,NA,NA,1
+527679,1st innings,England,South Africa,24.2,LS Greenway,A Brindle,D van Niekerk,0,0,0,NA,0,NA,NA,NA,1
+527679,1st innings,England,South Africa,24.3,LS Greenway,A Brindle,D van Niekerk,1,0,1,NA,0,NA,NA,NA,1
+527679,1st innings,England,South Africa,24.4,A Brindle,LS Greenway,D van Niekerk,1,0,1,NA,0,NA,NA,NA,1
+527679,1st innings,England,South Africa,24.5,LS Greenway,A Brindle,D van Niekerk,1,0,1,NA,0,NA,NA,NA,1
+527679,1st innings,England,South Africa,24.6,A Brindle,LS Greenway,D van Niekerk,0,0,0,NA,0,NA,NA,NA,1
+527679,1st innings,England,South Africa,25.1,LS Greenway,A Brindle,S Loubser,0,0,0,NA,0,NA,NA,NA,1
+527679,1st innings,England,South Africa,25.2,LS Greenway,A Brindle,S Loubser,0,0,0,NA,0,NA,NA,NA,1
+527679,1st innings,England,South Africa,25.3,LS Greenway,A Brindle,S Loubser,4,0,4,NA,0,NA,NA,NA,1
+527679,1st innings,England,South Africa,25.4,LS Greenway,A Brindle,S Loubser,1,0,1,NA,0,NA,NA,NA,1
+527679,1st innings,England,South Africa,25.5,A Brindle,LS Greenway,S Loubser,1,0,1,NA,0,NA,NA,NA,1
+527679,1st innings,England,South Africa,25.6,LS Greenway,A Brindle,S Loubser,0,0,0,NA,0,NA,NA,NA,1
+527679,1st innings,England,South Africa,26.1,A Brindle,LS Greenway,D van Niekerk,4,0,4,NA,0,NA,NA,NA,1
+527679,1st innings,England,South Africa,26.2,A Brindle,LS Greenway,D van Niekerk,1,0,1,NA,0,NA,NA,NA,1
+527679,1st innings,England,South Africa,26.3,LS Greenway,A Brindle,D van Niekerk,0,0,0,NA,0,NA,NA,NA,1
+527679,1st innings,England,South Africa,26.4,LS Greenway,A Brindle,D van Niekerk,1,0,1,NA,0,NA,NA,NA,1
+527679,1st innings,England,South Africa,26.5,A Brindle,LS Greenway,D van Niekerk,1,0,1,NA,0,NA,NA,NA,1
+527679,1st innings,England,South Africa,26.6,LS Greenway,A Brindle,D van Niekerk,1,0,1,NA,0,NA,NA,NA,1
+527679,1st innings,England,South Africa,27.1,LS Greenway,A Brindle,S Loubser,0,0,0,NA,0,NA,NA,NA,1
+527679,1st innings,England,South Africa,27.2,LS Greenway,A Brindle,S Loubser,1,0,1,NA,0,NA,NA,NA,1
+527679,1st innings,England,South Africa,27.3,A Brindle,LS Greenway,S Loubser,0,0,0,NA,0,NA,NA,NA,1
+527679,1st innings,England,South Africa,27.4,A Brindle,LS Greenway,S Loubser,1,0,1,NA,0,NA,NA,NA,1
+527679,1st innings,England,South Africa,27.5,LS Greenway,A Brindle,S Loubser,0,1,1,wides,0,NA,NA,NA,1
+527679,1st innings,England,South Africa,27.6,LS Greenway,A Brindle,S Loubser,0,0,0,NA,0,NA,NA,NA,1
+527679,1st innings,England,South Africa,27.7,LS Greenway,A Brindle,S Loubser,1,0,1,NA,0,NA,NA,NA,1
+527679,1st innings,England,South Africa,28.1,LS Greenway,A Brindle,D van Niekerk,1,0,1,NA,0,NA,NA,NA,1
+527679,1st innings,England,South Africa,28.2,A Brindle,LS Greenway,D van Niekerk,1,0,1,NA,0,NA,NA,NA,1
+527679,1st innings,England,South Africa,28.3,LS Greenway,A Brindle,D van Niekerk,0,0,0,NA,0,NA,NA,NA,1
+527679,1st innings,England,South Africa,28.4,LS Greenway,A Brindle,D van Niekerk,0,0,0,NA,0,NA,NA,NA,1
+527679,1st innings,England,South Africa,28.5,LS Greenway,A Brindle,D van Niekerk,4,0,4,NA,0,NA,NA,NA,1
+527679,1st innings,England,South Africa,28.6,LS Greenway,A Brindle,D van Niekerk,0,0,0,NA,0,NA,NA,NA,1
+527679,1st innings,England,South Africa,29.1,A Brindle,LS Greenway,S Loubser,1,0,1,NA,0,NA,NA,NA,1
+527679,1st innings,England,South Africa,29.2,LS Greenway,A Brindle,S Loubser,1,0,1,NA,0,NA,NA,NA,1
+527679,1st innings,England,South Africa,29.3,A Brindle,LS Greenway,S Loubser,1,0,1,NA,0,NA,NA,NA,1
+527679,1st innings,England,South Africa,29.4,LS Greenway,A Brindle,S Loubser,1,0,1,NA,0,NA,NA,NA,1
+527679,1st innings,England,South Africa,29.5,A Brindle,LS Greenway,S Loubser,0,0,0,NA,0,NA,NA,NA,1
+527679,1st innings,England,South Africa,29.6,A Brindle,LS Greenway,S Loubser,0,0,0,NA,0,NA,NA,NA,1
+527679,1st innings,England,South Africa,30.1,LS Greenway,A Brindle,D van Niekerk,0,0,0,NA,0,NA,NA,NA,1
+527679,1st innings,England,South Africa,30.2,LS Greenway,A Brindle,D van Niekerk,1,0,1,NA,0,NA,NA,NA,1
+527679,1st innings,England,South Africa,30.3,A Brindle,LS Greenway,D van Niekerk,1,0,1,NA,0,NA,NA,NA,1
+527679,1st innings,England,South Africa,30.4,LS Greenway,A Brindle,D van Niekerk,0,0,0,NA,0,NA,NA,NA,1
+527679,1st innings,England,South Africa,30.5,LS Greenway,A Brindle,D van Niekerk,1,0,1,NA,0,NA,NA,NA,1
+527679,1st innings,England,South Africa,30.6,A Brindle,LS Greenway,D van Niekerk,0,0,0,NA,0,NA,NA,NA,1
+527679,1st innings,England,South Africa,31.1,LS Greenway,A Brindle,S Loubser,1,0,1,NA,0,NA,NA,NA,1
+527679,1st innings,England,South Africa,31.2,A Brindle,LS Greenway,S Loubser,1,0,1,NA,0,NA,NA,NA,1
+527679,1st innings,England,South Africa,31.3,LS Greenway,A Brindle,S Loubser,1,0,1,NA,0,NA,NA,NA,1
+527679,1st innings,England,South Africa,31.4,A Brindle,LS Greenway,S Loubser,1,0,1,NA,0,NA,NA,NA,1
+527679,1st innings,England,South Africa,31.5,LS Greenway,A Brindle,S Loubser,1,0,1,NA,0,NA,NA,NA,1
+527679,1st innings,England,South Africa,31.6,A Brindle,LS Greenway,S Loubser,4,0,4,NA,0,NA,NA,NA,1
+527679,1st innings,England,South Africa,32.1,LS Greenway,A Brindle,D van Niekerk,0,0,0,NA,0,NA,NA,NA,1
+527679,1st innings,England,South Africa,32.2,LS Greenway,A Brindle,D van Niekerk,1,0,1,NA,0,NA,NA,NA,1
+527679,1st innings,England,South Africa,32.3,A Brindle,LS Greenway,D van Niekerk,1,0,1,NA,0,NA,NA,NA,1
+527679,1st innings,England,South Africa,32.4,LS Greenway,A Brindle,D van Niekerk,1,0,1,NA,0,NA,NA,NA,1
+527679,1st innings,England,South Africa,32.5,A Brindle,LS Greenway,D van Niekerk,0,0,0,NA,0,NA,NA,NA,1
+527679,1st innings,England,South Africa,32.6,A Brindle,LS Greenway,D van Niekerk,0,1,1,noballs,0,NA,NA,NA,1
+527679,1st innings,England,South Africa,32.7,A Brindle,LS Greenway,D van Niekerk,0,0,0,NA,0,NA,NA,NA,1
+527679,1st innings,England,South Africa,33.1,LS Greenway,A Brindle,S Ismail,0,0,0,NA,0,NA,NA,NA,1
+527679,1st innings,England,South Africa,33.2,LS Greenway,A Brindle,S Ismail,2,0,2,NA,0,NA,NA,NA,1
+527679,1st innings,England,South Africa,33.3,LS Greenway,A Brindle,S Ismail,0,0,0,NA,0,NA,NA,NA,1
+527679,1st innings,England,South Africa,33.4,LS Greenway,A Brindle,S Ismail,0,0,0,NA,0,NA,NA,NA,1
+527679,1st innings,England,South Africa,33.5,LS Greenway,A Brindle,S Ismail,0,0,0,NA,0,NA,NA,NA,1
+527679,1st innings,England,South Africa,33.6,LS Greenway,A Brindle,S Ismail,1,0,1,NA,0,NA,NA,NA,1
+527679,1st innings,England,South Africa,34.1,LS Greenway,A Brindle,CL Tryon,2,0,2,NA,0,NA,NA,NA,1
+527679,1st innings,England,South Africa,34.2,LS Greenway,A Brindle,CL Tryon,4,0,4,NA,0,NA,NA,NA,1
+527679,1st innings,England,South Africa,34.3,LS Greenway,A Brindle,CL Tryon,1,0,1,NA,0,NA,NA,NA,1
+527679,1st innings,England,South Africa,34.4,A Brindle,LS Greenway,CL Tryon,0,0,0,NA,0,NA,NA,NA,1
+527679,1st innings,England,South Africa,34.5,A Brindle,LS Greenway,CL Tryon,0,0,0,NA,0,NA,NA,NA,1
+527679,1st innings,England,South Africa,34.6,A Brindle,LS Greenway,CL Tryon,0,0,0,NA,0,NA,NA,NA,1
+527679,1st innings,England,South Africa,35.1,LS Greenway,A Brindle,S Ismail,0,0,0,NA,0,NA,NA,NA,1
+527679,1st innings,England,South Africa,35.2,LS Greenway,A Brindle,S Ismail,4,0,4,NA,0,NA,NA,NA,1
+527679,1st innings,England,South Africa,35.3,LS Greenway,A Brindle,S Ismail,0,0,0,NA,0,NA,NA,NA,1
+527679,1st innings,England,South Africa,35.4,LS Greenway,A Brindle,S Ismail,0,1,1,wides,0,NA,NA,NA,1
+527679,1st innings,England,South Africa,35.5,LS Greenway,A Brindle,S Ismail,2,0,2,NA,0,NA,NA,NA,1
+527679,1st innings,England,South Africa,35.6,LS Greenway,A Brindle,S Ismail,1,0,1,NA,0,NA,NA,NA,1
+527679,1st innings,England,South Africa,35.7,A Brindle,LS Greenway,S Ismail,1,0,1,NA,0,NA,NA,NA,1
+527679,1st innings,England,South Africa,36.1,A Brindle,LS Greenway,CL Tryon,4,0,4,NA,0,NA,NA,NA,1
+527679,1st innings,England,South Africa,36.2,A Brindle,LS Greenway,CL Tryon,0,0,0,NA,0,NA,NA,NA,1
+527679,1st innings,England,South Africa,36.3,A Brindle,LS Greenway,CL Tryon,0,0,0,NA,0,NA,NA,NA,1
+527679,1st innings,England,South Africa,36.4,A Brindle,LS Greenway,CL Tryon,1,0,1,NA,0,NA,NA,NA,1
+527679,1st innings,England,South Africa,36.5,LS Greenway,A Brindle,CL Tryon,4,0,4,NA,0,NA,NA,NA,1
+527679,1st innings,England,South Africa,36.6,LS Greenway,A Brindle,CL Tryon,4,0,4,NA,0,NA,NA,NA,1
+527679,1st innings,England,South Africa,37.1,A Brindle,LS Greenway,M Kapp,0,0,0,NA,0,NA,NA,NA,1
+527679,1st innings,England,South Africa,37.2,A Brindle,LS Greenway,M Kapp,0,0,0,NA,0,NA,NA,NA,1
+527679,1st innings,England,South Africa,37.3,A Brindle,LS Greenway,M Kapp,0,0,0,NA,0,NA,NA,NA,1
+527679,1st innings,England,South Africa,37.4,A Brindle,LS Greenway,M Kapp,1,0,1,NA,0,NA,NA,NA,1
+527679,1st innings,England,South Africa,37.5,LS Greenway,A Brindle,M Kapp,1,0,1,NA,0,NA,NA,NA,1
+527679,1st innings,England,South Africa,37.6,A Brindle,LS Greenway,M Kapp,1,0,1,NA,0,NA,NA,NA,1
+527679,1st innings,England,South Africa,38.1,A Brindle,LS Greenway,CL Tryon,1,0,1,NA,0,NA,NA,NA,1
+527679,1st innings,England,South Africa,38.2,LS Greenway,A Brindle,CL Tryon,0,0,0,NA,0,NA,NA,NA,1
+527679,1st innings,England,South Africa,38.3,LS Greenway,A Brindle,CL Tryon,2,0,2,NA,0,NA,NA,NA,1
+527679,1st innings,England,South Africa,38.4,LS Greenway,A Brindle,CL Tryon,1,0,1,NA,0,NA,NA,NA,1
+527679,1st innings,England,South Africa,38.5,A Brindle,LS Greenway,CL Tryon,2,0,2,NA,0,NA,NA,NA,1
+527679,1st innings,England,South Africa,38.6,A Brindle,LS Greenway,CL Tryon,1,0,1,NA,0,NA,NA,NA,1
+527679,1st innings,England,South Africa,39.1,A Brindle,LS Greenway,S Loubser,0,0,0,NA,0,NA,NA,NA,1
+527679,1st innings,England,South Africa,39.2,A Brindle,LS Greenway,S Loubser,4,0,4,NA,0,NA,NA,NA,1
+527679,1st innings,England,South Africa,39.3,A Brindle,LS Greenway,S Loubser,4,0,4,NA,0,NA,NA,NA,1
+527679,1st innings,England,South Africa,39.4,A Brindle,LS Greenway,S Loubser,1,0,1,NA,0,NA,NA,NA,1
+527679,1st innings,England,South Africa,39.5,LS Greenway,A Brindle,S Loubser,0,0,0,NA,0,NA,NA,NA,1
+527679,1st innings,England,South Africa,39.6,LS Greenway,A Brindle,S Loubser,0,0,0,NA,0,NA,NA,NA,1
+527679,1st innings,England,South Africa,40.1,A Brindle,LS Greenway,D van Niekerk,0,1,1,noballs,0,NA,NA,NA,1
+527679,1st innings,England,South Africa,40.2,A Brindle,LS Greenway,D van Niekerk,0,0,0,NA,0,NA,NA,NA,1
+527679,1st innings,England,South Africa,40.3,A Brindle,LS Greenway,D van Niekerk,4,0,4,NA,0,NA,NA,NA,1
+527679,1st innings,England,South Africa,40.4,A Brindle,LS Greenway,D van Niekerk,2,0,2,NA,0,NA,NA,NA,1
+527679,1st innings,England,South Africa,40.5,A Brindle,LS Greenway,D van Niekerk,1,0,1,NA,0,NA,NA,NA,1
+527679,1st innings,England,South Africa,40.6,LS Greenway,A Brindle,D van Niekerk,2,0,2,NA,0,NA,NA,NA,1
+527679,1st innings,England,South Africa,40.7,LS Greenway,A Brindle,D van Niekerk,1,0,1,NA,0,NA,NA,NA,1
+527679,1st innings,England,South Africa,41.1,LS Greenway,A Brindle,S Loubser,3,0,3,NA,0,NA,NA,NA,1
+527679,1st innings,England,South Africa,41.2,A Brindle,LS Greenway,S Loubser,1,0,1,NA,0,NA,NA,NA,1
+527679,1st innings,England,South Africa,41.3,LS Greenway,A Brindle,S Loubser,1,0,1,NA,0,NA,NA,NA,1
+527679,1st innings,England,South Africa,41.4,A Brindle,LS Greenway,S Loubser,2,0,2,NA,0,NA,NA,NA,1
+527679,1st innings,England,South Africa,41.5,A Brindle,LS Greenway,S Loubser,1,0,1,NA,0,NA,NA,NA,1
+527679,1st innings,England,South Africa,41.6,LS Greenway,A Brindle,S Loubser,0,0,0,NA,0,NA,NA,NA,1
+527679,1st innings,England,South Africa,42.1,A Brindle,LS Greenway,D van Niekerk,1,0,1,NA,0,NA,NA,NA,1
+527679,1st innings,England,South Africa,42.2,LS Greenway,A Brindle,D van Niekerk,2,0,2,NA,0,NA,NA,NA,1
+527679,1st innings,England,South Africa,42.3,LS Greenway,A Brindle,D van Niekerk,1,0,1,NA,0,NA,NA,NA,1
+527679,1st innings,England,South Africa,42.4,A Brindle,LS Greenway,D van Niekerk,1,0,1,NA,0,NA,NA,NA,1
+527679,1st innings,England,South Africa,42.5,LS Greenway,A Brindle,D van Niekerk,1,0,1,NA,0,NA,NA,NA,1
+527679,1st innings,England,South Africa,42.6,A Brindle,LS Greenway,D van Niekerk,1,0,1,NA,0,NA,NA,NA,1
+527679,1st innings,England,South Africa,43.1,A Brindle,LS Greenway,M Kapp,4,0,4,NA,0,NA,NA,NA,1
+527679,1st innings,England,South Africa,43.2,A Brindle,LS Greenway,M Kapp,0,0,0,NA,0,NA,NA,NA,1
+527679,1st innings,England,South Africa,43.3,A Brindle,LS Greenway,M Kapp,0,0,0,NA,0,NA,NA,NA,1
+527679,1st innings,England,South Africa,43.4,A Brindle,LS Greenway,M Kapp,0,0,0,NA,0,NA,NA,NA,1
+527679,1st innings,England,South Africa,43.5,A Brindle,LS Greenway,M Kapp,4,0,4,NA,0,NA,NA,NA,1
+527679,1st innings,England,South Africa,43.6,A Brindle,LS Greenway,M Kapp,0,0,0,NA,0,NA,NA,NA,1
+527679,1st innings,England,South Africa,44.1,LS Greenway,A Brindle,S Ismail,1,0,1,NA,0,NA,NA,NA,1
+527679,1st innings,England,South Africa,44.2,A Brindle,LS Greenway,S Ismail,1,0,1,NA,0,NA,NA,NA,1
+527679,1st innings,England,South Africa,44.3,LS Greenway,A Brindle,S Ismail,0,0,0,NA,0,NA,NA,NA,1
+527679,1st innings,England,South Africa,44.4,LS Greenway,A Brindle,S Ismail,1,0,1,NA,0,NA,NA,NA,1
+527679,1st innings,England,South Africa,44.5,A Brindle,LS Greenway,S Ismail,4,0,4,NA,0,NA,NA,NA,1
+527679,1st innings,England,South Africa,44.6,A Brindle,LS Greenway,S Ismail,4,0,4,NA,0,NA,NA,NA,1
+527679,1st innings,England,South Africa,45.1,LS Greenway,A Brindle,M Kapp,2,0,2,NA,0,NA,NA,NA,1
+527679,1st innings,England,South Africa,45.2,LS Greenway,A Brindle,M Kapp,1,0,1,NA,0,NA,NA,NA,1
+527679,1st innings,England,South Africa,45.3,A Brindle,LS Greenway,M Kapp,4,0,4,NA,0,NA,NA,NA,1
+527679,1st innings,England,South Africa,45.4,A Brindle,LS Greenway,M Kapp,0,0,0,NA,0,NA,NA,NA,1
+527679,1st innings,England,South Africa,45.5,A Brindle,LS Greenway,M Kapp,1,0,1,NA,0,NA,NA,NA,1
+527679,1st innings,England,South Africa,45.6,LS Greenway,A Brindle,M Kapp,1,0,1,NA,0,NA,NA,NA,1
+527679,1st innings,England,South Africa,46.1,LS Greenway,A Brindle,S Ismail,2,0,2,NA,0,NA,NA,NA,1
+527679,1st innings,England,South Africa,46.2,LS Greenway,A Brindle,S Ismail,2,0,2,NA,0,NA,NA,NA,1
+527679,1st innings,England,South Africa,46.3,LS Greenway,A Brindle,S Ismail,1,0,1,NA,0,NA,NA,NA,1
+527679,1st innings,England,South Africa,46.4,A Brindle,LS Greenway,S Ismail,1,0,1,NA,0,NA,NA,NA,1
+527679,1st innings,England,South Africa,46.5,LS Greenway,A Brindle,S Ismail,4,0,4,NA,0,NA,NA,NA,1
+527679,1st innings,England,South Africa,46.6,LS Greenway,A Brindle,S Ismail,2,0,2,NA,0,NA,NA,NA,1
+527679,1st innings,England,South Africa,47.1,A Brindle,LS Greenway,M Kapp,4,0,4,NA,0,NA,NA,NA,1
+527679,1st innings,England,South Africa,47.2,A Brindle,LS Greenway,M Kapp,4,0,4,NA,0,NA,NA,NA,1
+527679,1st innings,England,South Africa,47.3,A Brindle,LS Greenway,M Kapp,0,0,0,NA,0,NA,NA,NA,1
+527679,1st innings,England,South Africa,47.4,A Brindle,LS Greenway,M Kapp,2,0,2,NA,0,NA,NA,NA,1
+527679,1st innings,England,South Africa,47.5,A Brindle,LS Greenway,M Kapp,0,0,0,NA,0,NA,NA,NA,1
+527679,1st innings,England,South Africa,47.6,A Brindle,LS Greenway,M Kapp,1,0,1,NA,0,NA,NA,NA,1
+527679,1st innings,England,South Africa,48.1,A Brindle,LS Greenway,S Ismail,0,0,0,NA,0,NA,NA,NA,1
+527679,1st innings,England,South Africa,48.2,A Brindle,LS Greenway,S Ismail,4,0,4,NA,0,NA,NA,NA,1
+527679,1st innings,England,South Africa,48.3,A Brindle,LS Greenway,S Ismail,1,0,1,NA,0,NA,NA,NA,1
+527679,1st innings,England,South Africa,48.4,LS Greenway,A Brindle,S Ismail,4,0,4,NA,0,NA,NA,NA,1
+527679,1st innings,England,South Africa,48.5,LS Greenway,A Brindle,S Ismail,2,0,2,NA,0,NA,NA,NA,1
+527679,1st innings,England,South Africa,48.6,LS Greenway,A Brindle,S Ismail,1,0,1,NA,0,NA,NA,NA,1
+527679,1st innings,England,South Africa,49.1,LS Greenway,A Brindle,CL Tryon,0,0,0,NA,0,NA,NA,NA,1
+527679,1st innings,England,South Africa,49.2,LS Greenway,A Brindle,CL Tryon,1,0,1,NA,0,NA,NA,NA,1
+527679,1st innings,England,South Africa,49.3,A Brindle,LS Greenway,CL Tryon,1,0,1,NA,0,NA,NA,NA,1
+527679,1st innings,England,South Africa,49.4,LS Greenway,A Brindle,CL Tryon,0,0,0,NA,0,NA,NA,NA,1
+527679,1st innings,England,South Africa,49.5,LS Greenway,A Brindle,CL Tryon,0,0,0,NA,0,NA,NA,NA,1
+527679,1st innings,England,South Africa,49.6,LS Greenway,A Brindle,CL Tryon,2,0,2,NA,0,NA,NA,NA,1
+527679,2nd innings,South Africa,England,0.1,SA Fritz,T Chetty,KH Brunt,0,0,0,NA,0,NA,NA,NA,0
+527679,2nd innings,South Africa,England,0.2,SA Fritz,T Chetty,KH Brunt,1,0,1,NA,0,NA,NA,NA,0
+527679,2nd innings,South Africa,England,0.3,T Chetty,SA Fritz,KH Brunt,0,0,0,NA,0,NA,NA,NA,0
+527679,2nd innings,South Africa,England,0.4,T Chetty,SA Fritz,KH Brunt,0,0,0,NA,0,NA,NA,NA,0
+527679,2nd innings,South Africa,England,0.5,T Chetty,SA Fritz,KH Brunt,0,0,0,NA,0,NA,NA,NA,0
+527679,2nd innings,South Africa,England,0.6,T Chetty,SA Fritz,KH Brunt,0,0,0,NA,0,NA,NA,NA,0
+527679,2nd innings,South Africa,England,1.1,SA Fritz,T Chetty,IT Guha,4,0,4,NA,0,NA,NA,NA,0
+527679,2nd innings,South Africa,England,1.2,SA Fritz,T Chetty,IT Guha,0,1,1,wides,0,NA,NA,NA,0
+527679,2nd innings,South Africa,England,1.3,SA Fritz,T Chetty,IT Guha,0,0,0,NA,0,NA,NA,NA,0
+527679,2nd innings,South Africa,England,1.4,SA Fritz,T Chetty,IT Guha,0,0,0,NA,0,NA,NA,NA,0
+527679,2nd innings,South Africa,England,1.5,SA Fritz,T Chetty,IT Guha,0,0,0,NA,0,NA,NA,NA,0
+527679,2nd innings,South Africa,England,1.6,SA Fritz,T Chetty,IT Guha,0,0,0,NA,0,NA,NA,NA,0
+527679,2nd innings,South Africa,England,1.7,SA Fritz,T Chetty,IT Guha,0,0,0,NA,0,NA,NA,NA,0
+527679,2nd innings,South Africa,England,2.1,T Chetty,SA Fritz,KH Brunt,0,0,0,NA,0,NA,NA,NA,0
+527679,2nd innings,South Africa,England,2.2,T Chetty,SA Fritz,KH Brunt,1,0,1,NA,0,NA,NA,NA,0
+527679,2nd innings,South Africa,England,2.3,SA Fritz,T Chetty,KH Brunt,0,0,0,NA,0,NA,NA,NA,0
+527679,2nd innings,South Africa,England,2.4,SA Fritz,T Chetty,KH Brunt,0,0,0,NA,0,NA,NA,NA,0
+527679,2nd innings,South Africa,England,2.5,SA Fritz,T Chetty,KH Brunt,4,0,4,NA,0,NA,NA,NA,0
+527679,2nd innings,South Africa,England,2.6,SA Fritz,T Chetty,KH Brunt,0,0,0,NA,0,NA,NA,NA,0
+527679,2nd innings,South Africa,England,3.1,T Chetty,SA Fritz,IT Guha,0,0,0,NA,0,NA,NA,NA,0
+527679,2nd innings,South Africa,England,3.2,T Chetty,SA Fritz,IT Guha,0,0,0,NA,0,NA,NA,NA,0
+527679,2nd innings,South Africa,England,3.3,T Chetty,SA Fritz,IT Guha,0,0,0,NA,0,NA,NA,NA,0
+527679,2nd innings,South Africa,England,3.4,T Chetty,SA Fritz,IT Guha,0,0,0,NA,0,NA,NA,NA,0
+527679,2nd innings,South Africa,England,3.5,T Chetty,SA Fritz,IT Guha,1,0,1,NA,0,NA,NA,NA,0
+527679,2nd innings,South Africa,England,3.6,SA Fritz,T Chetty,IT Guha,0,0,0,NA,1,caught,SA Fritz,LS Greenway,0
+527679,2nd innings,South Africa,England,4.1,T Chetty,AL Hodgkinson,JL Gunn,0,0,0,NA,0,NA,NA,NA,0
+527679,2nd innings,South Africa,England,4.2,T Chetty,AL Hodgkinson,JL Gunn,0,0,0,NA,0,NA,NA,NA,0
+527679,2nd innings,South Africa,England,4.3,T Chetty,AL Hodgkinson,JL Gunn,0,0,0,NA,0,NA,NA,NA,0
+527679,2nd innings,South Africa,England,4.4,T Chetty,AL Hodgkinson,JL Gunn,1,0,1,NA,0,NA,NA,NA,0
+527679,2nd innings,South Africa,England,4.5,AL Hodgkinson,T Chetty,JL Gunn,0,0,0,NA,0,NA,NA,NA,0
+527679,2nd innings,South Africa,England,4.6,AL Hodgkinson,T Chetty,JL Gunn,0,0,0,NA,0,NA,NA,NA,0
+527679,2nd innings,South Africa,England,5.1,T Chetty,AL Hodgkinson,IT Guha,0,0,0,NA,0,NA,NA,NA,0
+527679,2nd innings,South Africa,England,5.2,T Chetty,AL Hodgkinson,IT Guha,4,0,4,NA,0,NA,NA,NA,0
+527679,2nd innings,South Africa,England,5.3,T Chetty,AL Hodgkinson,IT Guha,1,0,1,NA,0,NA,NA,NA,0
+527679,2nd innings,South Africa,England,5.4,AL Hodgkinson,T Chetty,IT Guha,0,0,0,NA,0,NA,NA,NA,0
+527679,2nd innings,South Africa,England,5.5,AL Hodgkinson,T Chetty,IT Guha,0,0,0,NA,0,NA,NA,NA,0
+527679,2nd innings,South Africa,England,5.6,AL Hodgkinson,T Chetty,IT Guha,4,0,4,NA,0,NA,NA,NA,0
+527679,2nd innings,South Africa,England,6.1,T Chetty,AL Hodgkinson,JL Gunn,0,0,0,NA,0,NA,NA,NA,0
+527679,2nd innings,South Africa,England,6.2,T Chetty,AL Hodgkinson,JL Gunn,4,0,4,NA,0,NA,NA,NA,0
+527679,2nd innings,South Africa,England,6.3,T Chetty,AL Hodgkinson,JL Gunn,0,0,0,NA,0,NA,NA,NA,0
+527679,2nd innings,South Africa,England,6.4,T Chetty,AL Hodgkinson,JL Gunn,0,0,0,NA,0,NA,NA,NA,0
+527679,2nd innings,South Africa,England,6.5,T Chetty,AL Hodgkinson,JL Gunn,4,0,4,NA,0,NA,NA,NA,0
+527679,2nd innings,South Africa,England,6.6,T Chetty,AL Hodgkinson,JL Gunn,4,0,4,NA,0,NA,NA,NA,0
+527679,2nd innings,South Africa,England,7.1,AL Hodgkinson,T Chetty,IT Guha,0,0,0,NA,0,NA,NA,NA,0
+527679,2nd innings,South Africa,England,7.2,AL Hodgkinson,T Chetty,IT Guha,0,0,0,NA,0,NA,NA,NA,0
+527679,2nd innings,South Africa,England,7.3,AL Hodgkinson,T Chetty,IT Guha,0,0,0,NA,0,NA,NA,NA,0
+527679,2nd innings,South Africa,England,7.4,AL Hodgkinson,T Chetty,IT Guha,0,0,0,NA,0,NA,NA,NA,0
+527679,2nd innings,South Africa,England,7.5,AL Hodgkinson,T Chetty,IT Guha,4,0,4,NA,0,NA,NA,NA,0
+527679,2nd innings,South Africa,England,7.6,AL Hodgkinson,T Chetty,IT Guha,0,0,0,NA,0,NA,NA,NA,0
+527679,2nd innings,South Africa,England,8.1,T Chetty,AL Hodgkinson,JL Gunn,1,0,1,NA,0,NA,NA,NA,0
+527679,2nd innings,South Africa,England,8.2,AL Hodgkinson,T Chetty,JL Gunn,0,0,0,NA,0,NA,NA,NA,0
+527679,2nd innings,South Africa,England,8.3,AL Hodgkinson,T Chetty,JL Gunn,0,0,0,NA,0,NA,NA,NA,0
+527679,2nd innings,South Africa,England,8.4,AL Hodgkinson,T Chetty,JL Gunn,0,0,0,NA,0,NA,NA,NA,0
+527679,2nd innings,South Africa,England,8.5,AL Hodgkinson,T Chetty,JL Gunn,0,0,0,NA,0,NA,NA,NA,0
+527679,2nd innings,South Africa,England,8.6,AL Hodgkinson,T Chetty,JL Gunn,0,0,0,NA,0,NA,NA,NA,0
+527679,2nd innings,South Africa,England,9.1,T Chetty,AL Hodgkinson,IT Guha,0,0,0,NA,0,NA,NA,NA,0
+527679,2nd innings,South Africa,England,9.2,T Chetty,AL Hodgkinson,IT Guha,0,0,0,NA,0,NA,NA,NA,0
+527679,2nd innings,South Africa,England,9.3,T Chetty,AL Hodgkinson,IT Guha,1,0,1,NA,0,NA,NA,NA,0
+527679,2nd innings,South Africa,England,9.4,AL Hodgkinson,T Chetty,IT Guha,0,0,0,NA,0,NA,NA,NA,0
+527679,2nd innings,South Africa,England,9.5,AL Hodgkinson,T Chetty,IT Guha,1,0,1,NA,0,NA,NA,NA,0
+527679,2nd innings,South Africa,England,9.6,T Chetty,AL Hodgkinson,IT Guha,0,0,0,NA,0,NA,NA,NA,0
+527679,2nd innings,South Africa,England,10.1,AL Hodgkinson,T Chetty,LA Marsh,0,0,0,NA,0,NA,NA,NA,0
+527679,2nd innings,South Africa,England,10.2,AL Hodgkinson,T Chetty,LA Marsh,2,0,2,NA,0,NA,NA,NA,0
+527679,2nd innings,South Africa,England,10.3,AL Hodgkinson,T Chetty,LA Marsh,3,0,3,NA,0,NA,NA,NA,0
+527679,2nd innings,South Africa,England,10.4,T Chetty,AL Hodgkinson,LA Marsh,0,0,0,NA,0,NA,NA,NA,0
+527679,2nd innings,South Africa,England,10.5,T Chetty,AL Hodgkinson,LA Marsh,1,0,1,NA,0,NA,NA,NA,0
+527679,2nd innings,South Africa,England,10.6,AL Hodgkinson,T Chetty,LA Marsh,0,0,0,NA,0,NA,NA,NA,0
+527679,2nd innings,South Africa,England,11.1,T Chetty,AL Hodgkinson,D Hazell,0,0,0,NA,0,NA,NA,NA,0
+527679,2nd innings,South Africa,England,11.2,T Chetty,AL Hodgkinson,D Hazell,2,0,2,NA,0,NA,NA,NA,0
+527679,2nd innings,South Africa,England,11.3,T Chetty,AL Hodgkinson,D Hazell,0,0,0,NA,0,NA,NA,NA,0
+527679,2nd innings,South Africa,England,11.4,T Chetty,AL Hodgkinson,D Hazell,1,0,1,NA,0,NA,NA,NA,0
+527679,2nd innings,South Africa,England,11.5,AL Hodgkinson,T Chetty,D Hazell,1,0,1,NA,0,NA,NA,NA,0
+527679,2nd innings,South Africa,England,11.6,T Chetty,AL Hodgkinson,D Hazell,0,0,0,NA,0,NA,NA,NA,0
+527679,2nd innings,South Africa,England,12.1,AL Hodgkinson,T Chetty,LA Marsh,1,0,1,NA,0,NA,NA,NA,0
+527679,2nd innings,South Africa,England,12.2,T Chetty,AL Hodgkinson,LA Marsh,0,0,0,NA,0,NA,NA,NA,0
+527679,2nd innings,South Africa,England,12.3,T Chetty,AL Hodgkinson,LA Marsh,0,0,0,NA,0,NA,NA,NA,0
+527679,2nd innings,South Africa,England,12.4,T Chetty,AL Hodgkinson,LA Marsh,4,0,4,NA,0,NA,NA,NA,0
+527679,2nd innings,South Africa,England,12.5,T Chetty,AL Hodgkinson,LA Marsh,0,0,0,NA,0,NA,NA,NA,0
+527679,2nd innings,South Africa,England,12.6,T Chetty,AL Hodgkinson,LA Marsh,1,0,1,NA,0,NA,NA,NA,0
+527679,2nd innings,South Africa,England,13.1,T Chetty,AL Hodgkinson,D Hazell,4,0,4,NA,0,NA,NA,NA,0
+527679,2nd innings,South Africa,England,13.2,T Chetty,AL Hodgkinson,D Hazell,0,0,0,NA,0,NA,NA,NA,0
+527679,2nd innings,South Africa,England,13.3,T Chetty,AL Hodgkinson,D Hazell,0,0,0,NA,0,NA,NA,NA,0
+527679,2nd innings,South Africa,England,13.4,T Chetty,AL Hodgkinson,D Hazell,1,0,1,NA,0,NA,NA,NA,0
+527679,2nd innings,South Africa,England,13.5,AL Hodgkinson,T Chetty,D Hazell,1,0,1,NA,0,NA,NA,NA,0
+527679,2nd innings,South Africa,England,13.6,T Chetty,AL Hodgkinson,D Hazell,0,0,0,NA,0,NA,NA,NA,0
+527679,2nd innings,South Africa,England,14.1,AL Hodgkinson,T Chetty,LA Marsh,0,0,0,NA,0,NA,NA,NA,0
+527679,2nd innings,South Africa,England,14.2,AL Hodgkinson,T Chetty,LA Marsh,2,0,2,NA,0,NA,NA,NA,0
+527679,2nd innings,South Africa,England,14.3,AL Hodgkinson,T Chetty,LA Marsh,0,0,0,NA,0,NA,NA,NA,0
+527679,2nd innings,South Africa,England,14.4,AL Hodgkinson,T Chetty,LA Marsh,0,0,0,NA,0,NA,NA,NA,0
+527679,2nd innings,South Africa,England,14.5,AL Hodgkinson,T Chetty,LA Marsh,0,0,0,NA,0,NA,NA,NA,0
+527679,2nd innings,South Africa,England,14.6,AL Hodgkinson,T Chetty,LA Marsh,4,0,4,NA,0,NA,NA,NA,0
+527679,2nd innings,South Africa,England,15.1,T Chetty,AL Hodgkinson,D Hazell,1,0,1,NA,0,NA,NA,NA,0
+527679,2nd innings,South Africa,England,15.2,AL Hodgkinson,T Chetty,D Hazell,0,0,0,NA,0,NA,NA,NA,0
+527679,2nd innings,South Africa,England,15.3,AL Hodgkinson,T Chetty,D Hazell,1,0,1,NA,0,NA,NA,NA,0
+527679,2nd innings,South Africa,England,15.4,T Chetty,AL Hodgkinson,D Hazell,1,0,1,NA,0,NA,NA,NA,0
+527679,2nd innings,South Africa,England,15.5,AL Hodgkinson,T Chetty,D Hazell,0,0,0,NA,0,NA,NA,NA,0
+527679,2nd innings,South Africa,England,15.6,AL Hodgkinson,T Chetty,D Hazell,0,0,0,NA,0,NA,NA,NA,0
+527679,2nd innings,South Africa,England,16.1,T Chetty,AL Hodgkinson,A Brindle,0,0,0,NA,0,NA,NA,NA,0
+527679,2nd innings,South Africa,England,16.2,T Chetty,AL Hodgkinson,A Brindle,0,0,0,NA,0,NA,NA,NA,0
+527679,2nd innings,South Africa,England,16.3,T Chetty,AL Hodgkinson,A Brindle,0,0,0,NA,0,NA,NA,NA,0
+527679,2nd innings,South Africa,England,16.4,T Chetty,AL Hodgkinson,A Brindle,0,0,0,NA,0,NA,NA,NA,0
+527679,2nd innings,South Africa,England,16.5,T Chetty,AL Hodgkinson,A Brindle,1,0,1,NA,0,NA,NA,NA,0
+527679,2nd innings,South Africa,England,16.6,AL Hodgkinson,T Chetty,A Brindle,0,0,0,NA,0,NA,NA,NA,0
+527679,2nd innings,South Africa,England,17.1,T Chetty,AL Hodgkinson,D Hazell,1,0,1,NA,0,NA,NA,NA,0
+527679,2nd innings,South Africa,England,17.2,AL Hodgkinson,T Chetty,D Hazell,2,0,2,NA,0,NA,NA,NA,0
+527679,2nd innings,South Africa,England,17.3,AL Hodgkinson,T Chetty,D Hazell,0,0,0,NA,0,NA,NA,NA,0
+527679,2nd innings,South Africa,England,17.4,AL Hodgkinson,T Chetty,D Hazell,0,0,0,NA,0,NA,NA,NA,0
+527679,2nd innings,South Africa,England,17.5,AL Hodgkinson,T Chetty,D Hazell,2,0,2,NA,0,NA,NA,NA,0
+527679,2nd innings,South Africa,England,17.6,AL Hodgkinson,T Chetty,D Hazell,1,0,1,NA,0,NA,NA,NA,0
+527679,2nd innings,South Africa,England,18.1,AL Hodgkinson,T Chetty,A Brindle,0,0,0,NA,0,NA,NA,NA,0
+527679,2nd innings,South Africa,England,18.2,AL Hodgkinson,T Chetty,A Brindle,0,0,0,NA,0,NA,NA,NA,0
+527679,2nd innings,South Africa,England,18.3,AL Hodgkinson,T Chetty,A Brindle,0,0,0,NA,0,NA,NA,NA,0
+527679,2nd innings,South Africa,England,18.4,AL Hodgkinson,T Chetty,A Brindle,0,0,0,NA,0,NA,NA,NA,0
+527679,2nd innings,South Africa,England,18.5,AL Hodgkinson,T Chetty,A Brindle,0,0,0,NA,0,NA,NA,NA,0
+527679,2nd innings,South Africa,England,18.6,AL Hodgkinson,T Chetty,A Brindle,1,0,1,NA,0,NA,NA,NA,0
+527679,2nd innings,South Africa,England,19.1,AL Hodgkinson,T Chetty,D Hazell,0,0,0,NA,0,NA,NA,NA,0
+527679,2nd innings,South Africa,England,19.2,AL Hodgkinson,T Chetty,D Hazell,3,0,3,NA,0,NA,NA,NA,0
+527679,2nd innings,South Africa,England,19.3,T Chetty,AL Hodgkinson,D Hazell,2,0,2,NA,0,NA,NA,NA,0
+527679,2nd innings,South Africa,England,19.4,T Chetty,AL Hodgkinson,D Hazell,1,0,1,NA,0,NA,NA,NA,0
+527679,2nd innings,South Africa,England,19.5,AL Hodgkinson,T Chetty,D Hazell,1,0,1,NA,0,NA,NA,NA,0
+527679,2nd innings,South Africa,England,19.6,T Chetty,AL Hodgkinson,D Hazell,1,0,1,NA,0,NA,NA,NA,0
+527679,2nd innings,South Africa,England,20.1,T Chetty,AL Hodgkinson,A Brindle,0,0,0,NA,0,NA,NA,NA,0
+527679,2nd innings,South Africa,England,20.2,T Chetty,AL Hodgkinson,A Brindle,1,0,1,NA,0,NA,NA,NA,0
+527679,2nd innings,South Africa,England,20.3,AL Hodgkinson,T Chetty,A Brindle,0,0,0,NA,0,NA,NA,NA,0
+527679,2nd innings,South Africa,England,20.4,AL Hodgkinson,T Chetty,A Brindle,1,0,1,NA,0,NA,NA,NA,0
+527679,2nd innings,South Africa,England,20.5,T Chetty,AL Hodgkinson,A Brindle,0,0,0,NA,0,NA,NA,NA,0
+527679,2nd innings,South Africa,England,20.6,T Chetty,AL Hodgkinson,A Brindle,0,0,0,NA,0,NA,NA,NA,0
+527679,2nd innings,South Africa,England,21.1,AL Hodgkinson,T Chetty,D Hazell,0,1,1,wides,0,NA,NA,NA,0
+527679,2nd innings,South Africa,England,21.2,AL Hodgkinson,T Chetty,D Hazell,1,0,1,NA,0,NA,NA,NA,0
+527679,2nd innings,South Africa,England,21.3,T Chetty,AL Hodgkinson,D Hazell,0,0,0,NA,0,NA,NA,NA,0
+527679,2nd innings,South Africa,England,21.4,T Chetty,AL Hodgkinson,D Hazell,1,0,1,NA,0,NA,NA,NA,0
+527679,2nd innings,South Africa,England,21.5,AL Hodgkinson,T Chetty,D Hazell,1,0,1,NA,0,NA,NA,NA,0
+527679,2nd innings,South Africa,England,21.6,T Chetty,AL Hodgkinson,D Hazell,1,0,1,NA,0,NA,NA,NA,0
+527679,2nd innings,South Africa,England,21.7,AL Hodgkinson,T Chetty,D Hazell,0,0,0,NA,0,NA,NA,NA,0
+527679,2nd innings,South Africa,England,22.1,T Chetty,AL Hodgkinson,A Brindle,0,1,1,wides,0,NA,NA,NA,0
+527679,2nd innings,South Africa,England,22.2,T Chetty,AL Hodgkinson,A Brindle,0,0,0,NA,0,NA,NA,NA,0
+527679,2nd innings,South Africa,England,22.3,T Chetty,AL Hodgkinson,A Brindle,1,0,1,NA,0,NA,NA,NA,0
+527679,2nd innings,South Africa,England,22.4,AL Hodgkinson,T Chetty,A Brindle,0,1,1,noballs,0,NA,NA,NA,0
+527679,2nd innings,South Africa,England,22.5,AL Hodgkinson,T Chetty,A Brindle,1,0,1,NA,0,NA,NA,NA,0
+527679,2nd innings,South Africa,England,22.6,T Chetty,AL Hodgkinson,A Brindle,4,0,4,NA,0,NA,NA,NA,0
+527679,2nd innings,South Africa,England,22.7,T Chetty,AL Hodgkinson,A Brindle,0,0,0,NA,0,NA,NA,NA,0
+527679,2nd innings,South Africa,England,22.8,T Chetty,AL Hodgkinson,A Brindle,0,0,0,NA,0,NA,NA,NA,0
+527679,2nd innings,South Africa,England,23.1,AL Hodgkinson,T Chetty,CM Edwards,1,0,1,NA,0,NA,NA,NA,0
+527679,2nd innings,South Africa,England,23.2,T Chetty,AL Hodgkinson,CM Edwards,1,0,1,NA,0,NA,NA,NA,0
+527679,2nd innings,South Africa,England,23.3,AL Hodgkinson,T Chetty,CM Edwards,2,0,2,NA,0,NA,NA,NA,0
+527679,2nd innings,South Africa,England,23.4,AL Hodgkinson,T Chetty,CM Edwards,0,0,0,NA,0,NA,NA,NA,0
+527679,2nd innings,South Africa,England,23.5,AL Hodgkinson,T Chetty,CM Edwards,0,0,0,NA,0,NA,NA,NA,0
+527679,2nd innings,South Africa,England,23.6,AL Hodgkinson,T Chetty,CM Edwards,0,0,0,NA,0,NA,NA,NA,0
+527679,2nd innings,South Africa,England,24.1,T Chetty,AL Hodgkinson,A Brindle,1,0,1,NA,0,NA,NA,NA,0
+527679,2nd innings,South Africa,England,24.2,AL Hodgkinson,T Chetty,A Brindle,4,0,4,NA,0,NA,NA,NA,0
+527679,2nd innings,South Africa,England,24.3,AL Hodgkinson,T Chetty,A Brindle,0,0,0,NA,0,NA,NA,NA,0
+527679,2nd innings,South Africa,England,24.4,AL Hodgkinson,T Chetty,A Brindle,0,0,0,NA,0,NA,NA,NA,0
+527679,2nd innings,South Africa,England,24.5,AL Hodgkinson,T Chetty,A Brindle,1,0,1,NA,0,NA,NA,NA,0
+527679,2nd innings,South Africa,England,24.6,T Chetty,AL Hodgkinson,A Brindle,0,0,0,NA,0,NA,NA,NA,0
+527679,2nd innings,South Africa,England,25.1,AL Hodgkinson,T Chetty,CM Edwards,1,0,1,NA,0,NA,NA,NA,0
+527679,2nd innings,South Africa,England,25.2,T Chetty,AL Hodgkinson,CM Edwards,0,0,0,NA,0,NA,NA,NA,0
+527679,2nd innings,South Africa,England,25.3,T Chetty,AL Hodgkinson,CM Edwards,0,0,0,NA,0,NA,NA,NA,0
+527679,2nd innings,South Africa,England,25.4,T Chetty,AL Hodgkinson,CM Edwards,0,0,0,NA,0,NA,NA,NA,0
+527679,2nd innings,South Africa,England,25.5,T Chetty,AL Hodgkinson,CM Edwards,0,0,0,NA,0,NA,NA,NA,0
+527679,2nd innings,South Africa,England,25.6,T Chetty,AL Hodgkinson,CM Edwards,0,1,1,noballs,0,NA,NA,NA,0
+527679,2nd innings,South Africa,England,25.7,T Chetty,AL Hodgkinson,CM Edwards,1,0,1,NA,0,NA,NA,NA,0
+527679,2nd innings,South Africa,England,26.1,T Chetty,AL Hodgkinson,LA Marsh,0,0,0,NA,0,NA,NA,NA,0
+527679,2nd innings,South Africa,England,26.2,T Chetty,AL Hodgkinson,LA Marsh,0,0,0,NA,0,NA,NA,NA,0
+527679,2nd innings,South Africa,England,26.3,T Chetty,AL Hodgkinson,LA Marsh,0,0,0,NA,0,NA,NA,NA,0
+527679,2nd innings,South Africa,England,26.4,T Chetty,AL Hodgkinson,LA Marsh,1,0,1,NA,0,NA,NA,NA,0
+527679,2nd innings,South Africa,England,26.5,AL Hodgkinson,T Chetty,LA Marsh,1,0,1,NA,0,NA,NA,NA,0
+527679,2nd innings,South Africa,England,26.6,T Chetty,AL Hodgkinson,LA Marsh,0,0,0,NA,0,NA,NA,NA,0
+527679,2nd innings,South Africa,England,27.1,AL Hodgkinson,T Chetty,CM Edwards,1,0,1,NA,0,NA,NA,NA,0
+527679,2nd innings,South Africa,England,27.2,T Chetty,AL Hodgkinson,CM Edwards,1,0,1,NA,0,NA,NA,NA,0
+527679,2nd innings,South Africa,England,27.3,AL Hodgkinson,T Chetty,CM Edwards,0,0,0,NA,0,NA,NA,NA,0
+527679,2nd innings,South Africa,England,27.4,AL Hodgkinson,T Chetty,CM Edwards,1,0,1,NA,0,NA,NA,NA,0
+527679,2nd innings,South Africa,England,27.5,T Chetty,AL Hodgkinson,CM Edwards,2,0,2,NA,0,NA,NA,NA,0
+527679,2nd innings,South Africa,England,27.6,T Chetty,AL Hodgkinson,CM Edwards,0,0,0,NA,0,NA,NA,NA,0
+527679,2nd innings,South Africa,England,28.1,AL Hodgkinson,T Chetty,LA Marsh,1,0,1,NA,0,NA,NA,NA,0
+527679,2nd innings,South Africa,England,28.2,T Chetty,AL Hodgkinson,LA Marsh,0,0,0,NA,0,NA,NA,NA,0
+527679,2nd innings,South Africa,England,28.3,T Chetty,AL Hodgkinson,LA Marsh,0,0,0,NA,0,NA,NA,NA,0
+527679,2nd innings,South Africa,England,28.4,T Chetty,AL Hodgkinson,LA Marsh,1,0,1,NA,0,NA,NA,NA,0
+527679,2nd innings,South Africa,England,28.5,AL Hodgkinson,T Chetty,LA Marsh,1,0,1,NA,0,NA,NA,NA,0
+527679,2nd innings,South Africa,England,28.6,T Chetty,AL Hodgkinson,LA Marsh,1,0,1,NA,0,NA,NA,NA,0
+527679,2nd innings,South Africa,England,29.1,T Chetty,AL Hodgkinson,CM Edwards,1,0,1,NA,0,NA,NA,NA,0
+527679,2nd innings,South Africa,England,29.2,AL Hodgkinson,T Chetty,CM Edwards,2,0,2,NA,0,NA,NA,NA,0
+527679,2nd innings,South Africa,England,29.3,AL Hodgkinson,T Chetty,CM Edwards,1,0,1,NA,0,NA,NA,NA,0
+527679,2nd innings,South Africa,England,29.4,T Chetty,AL Hodgkinson,CM Edwards,1,0,1,NA,0,NA,NA,NA,0
+527679,2nd innings,South Africa,England,29.5,AL Hodgkinson,T Chetty,CM Edwards,0,0,0,NA,0,NA,NA,NA,0
+527679,2nd innings,South Africa,England,29.6,AL Hodgkinson,T Chetty,CM Edwards,4,0,4,NA,0,NA,NA,NA,0
+527679,2nd innings,South Africa,England,30.1,T Chetty,AL Hodgkinson,LA Marsh,4,0,4,NA,0,NA,NA,NA,0
+527679,2nd innings,South Africa,England,30.2,T Chetty,AL Hodgkinson,LA Marsh,1,0,1,NA,0,NA,NA,NA,0
+527679,2nd innings,South Africa,England,30.3,AL Hodgkinson,T Chetty,LA Marsh,1,0,1,NA,0,NA,NA,NA,0
+527679,2nd innings,South Africa,England,30.4,T Chetty,AL Hodgkinson,LA Marsh,0,1,1,wides,0,NA,NA,NA,0
+527679,2nd innings,South Africa,England,30.5,T Chetty,AL Hodgkinson,LA Marsh,0,0,0,NA,0,NA,NA,NA,0
+527679,2nd innings,South Africa,England,30.6,T Chetty,AL Hodgkinson,LA Marsh,2,0,2,NA,0,NA,NA,NA,0
+527679,2nd innings,South Africa,England,30.7,T Chetty,AL Hodgkinson,LA Marsh,0,0,0,NA,0,NA,NA,NA,0
+527679,2nd innings,South Africa,England,31.1,AL Hodgkinson,T Chetty,DN Wyatt,1,0,1,NA,0,NA,NA,NA,0
+527679,2nd innings,South Africa,England,31.2,T Chetty,AL Hodgkinson,DN Wyatt,1,0,1,NA,0,NA,NA,NA,0
+527679,2nd innings,South Africa,England,31.3,AL Hodgkinson,T Chetty,DN Wyatt,1,0,1,NA,0,NA,NA,NA,0
+527679,2nd innings,South Africa,England,31.4,T Chetty,AL Hodgkinson,DN Wyatt,1,0,1,NA,0,NA,NA,NA,0
+527679,2nd innings,South Africa,England,31.5,AL Hodgkinson,T Chetty,DN Wyatt,4,0,4,NA,0,NA,NA,NA,0
+527679,2nd innings,South Africa,England,31.6,AL Hodgkinson,T Chetty,DN Wyatt,1,0,1,NA,0,NA,NA,NA,0
+527679,2nd innings,South Africa,England,32.1,AL Hodgkinson,T Chetty,LA Marsh,1,0,1,NA,0,NA,NA,NA,0
+527679,2nd innings,South Africa,England,32.2,T Chetty,AL Hodgkinson,LA Marsh,0,0,0,NA,1,lbw,T Chetty,NA,0
+527679,2nd innings,South Africa,England,32.3,C Brits,AL Hodgkinson,LA Marsh,0,0,0,NA,0,NA,NA,NA,0
+527679,2nd innings,South Africa,England,32.4,C Brits,AL Hodgkinson,LA Marsh,1,0,1,NA,0,NA,NA,NA,0
+527679,2nd innings,South Africa,England,32.5,AL Hodgkinson,C Brits,LA Marsh,1,0,1,NA,0,NA,NA,NA,0
+527679,2nd innings,South Africa,England,32.6,C Brits,AL Hodgkinson,LA Marsh,4,0,4,NA,0,NA,NA,NA,0
+527679,2nd innings,South Africa,England,33.1,AL Hodgkinson,C Brits,D Hazell,0,0,0,NA,0,NA,NA,NA,0
+527679,2nd innings,South Africa,England,33.2,AL Hodgkinson,C Brits,D Hazell,1,0,1,NA,0,NA,NA,NA,0
+527679,2nd innings,South Africa,England,33.3,C Brits,AL Hodgkinson,D Hazell,0,0,0,NA,0,NA,NA,NA,0
+527679,2nd innings,South Africa,England,33.4,C Brits,AL Hodgkinson,D Hazell,0,0,0,NA,0,NA,NA,NA,0
+527679,2nd innings,South Africa,England,33.5,C Brits,AL Hodgkinson,D Hazell,0,0,0,NA,1,stumped,C Brits,SJ Taylor,0
+527679,2nd innings,South Africa,England,33.6,M du Preez,AL Hodgkinson,D Hazell,0,0,0,NA,0,NA,NA,NA,0
+527679,2nd innings,South Africa,England,34.1,AL Hodgkinson,M du Preez,LA Marsh,1,0,1,NA,0,NA,NA,NA,0
+527679,2nd innings,South Africa,England,34.2,M du Preez,AL Hodgkinson,LA Marsh,0,0,0,NA,0,NA,NA,NA,0
+527679,2nd innings,South Africa,England,34.3,M du Preez,AL Hodgkinson,LA Marsh,2,0,2,NA,0,NA,NA,NA,0
+527679,2nd innings,South Africa,England,34.4,M du Preez,AL Hodgkinson,LA Marsh,0,0,0,NA,0,NA,NA,NA,0
+527679,2nd innings,South Africa,England,34.5,M du Preez,AL Hodgkinson,LA Marsh,1,0,1,NA,0,NA,NA,NA,0
+527679,2nd innings,South Africa,England,34.6,AL Hodgkinson,M du Preez,LA Marsh,0,0,0,NA,1,bowled,AL Hodgkinson,NA,0
+527679,2nd innings,South Africa,England,35.1,M du Preez,M Kapp,D Hazell,0,0,0,NA,0,NA,NA,NA,0
+527679,2nd innings,South Africa,England,35.2,M du Preez,M Kapp,D Hazell,1,0,1,NA,0,NA,NA,NA,0
+527679,2nd innings,South Africa,England,35.3,M Kapp,M du Preez,D Hazell,4,0,4,NA,0,NA,NA,NA,0
+527679,2nd innings,South Africa,England,35.4,M Kapp,M du Preez,D Hazell,1,0,1,NA,0,NA,NA,NA,0
+527679,2nd innings,South Africa,England,35.5,M du Preez,M Kapp,D Hazell,0,0,0,NA,0,NA,NA,NA,0
+527679,2nd innings,South Africa,England,35.6,M du Preez,M Kapp,D Hazell,1,0,1,NA,0,NA,NA,NA,0
+527679,2nd innings,South Africa,England,36.1,M du Preez,M Kapp,LA Marsh,1,0,1,NA,0,NA,NA,NA,0
+527679,2nd innings,South Africa,England,36.2,M Kapp,M du Preez,LA Marsh,0,0,0,NA,0,NA,NA,NA,0
+527679,2nd innings,South Africa,England,36.3,M Kapp,M du Preez,LA Marsh,1,0,1,NA,0,NA,NA,NA,0
+527679,2nd innings,South Africa,England,36.4,M du Preez,M Kapp,LA Marsh,1,0,1,NA,0,NA,NA,NA,0
+527679,2nd innings,South Africa,England,36.5,M Kapp,M du Preez,LA Marsh,0,0,0,NA,0,NA,NA,NA,0
+527679,2nd innings,South Africa,England,36.6,M Kapp,M du Preez,LA Marsh,1,0,1,NA,0,NA,NA,NA,0
+527679,2nd innings,South Africa,England,37.1,M Kapp,M du Preez,D Hazell,1,0,1,NA,0,NA,NA,NA,0
+527679,2nd innings,South Africa,England,37.2,M du Preez,M Kapp,D Hazell,1,0,1,NA,0,NA,NA,NA,0
+527679,2nd innings,South Africa,England,37.3,M Kapp,M du Preez,D Hazell,1,0,1,NA,0,NA,NA,NA,0
+527679,2nd innings,South Africa,England,37.4,M du Preez,M Kapp,D Hazell,0,0,0,NA,1,bowled,M du Preez,NA,0
+527679,2nd innings,South Africa,England,37.5,Y van der Westhuizen,M Kapp,D Hazell,0,1,1,legbyes,0,NA,NA,NA,0
+527679,2nd innings,South Africa,England,37.6,M Kapp,Y van der Westhuizen,D Hazell,1,0,1,NA,0,NA,NA,NA,0
+527679,2nd innings,South Africa,England,38.1,M Kapp,Y van der Westhuizen,LA Marsh,1,0,1,NA,0,NA,NA,NA,0
+527679,2nd innings,South Africa,England,38.2,Y van der Westhuizen,M Kapp,LA Marsh,0,0,0,NA,0,NA,NA,NA,0
+527679,2nd innings,South Africa,England,38.3,Y van der Westhuizen,M Kapp,LA Marsh,0,0,0,NA,0,NA,NA,NA,0
+527679,2nd innings,South Africa,England,38.4,Y van der Westhuizen,M Kapp,LA Marsh,0,0,0,NA,0,NA,NA,NA,0
+527679,2nd innings,South Africa,England,38.5,Y van der Westhuizen,M Kapp,LA Marsh,0,0,0,NA,0,NA,NA,NA,0
+527679,2nd innings,South Africa,England,38.6,Y van der Westhuizen,M Kapp,LA Marsh,1,0,1,NA,0,NA,NA,NA,0
+527679,2nd innings,South Africa,England,39.1,Y van der Westhuizen,M Kapp,D Hazell,1,0,1,NA,0,NA,NA,NA,0
+527679,2nd innings,South Africa,England,39.2,M Kapp,Y van der Westhuizen,D Hazell,0,2,2,legbyes,0,NA,NA,NA,0
+527679,2nd innings,South Africa,England,39.3,M Kapp,Y van der Westhuizen,D Hazell,1,0,1,NA,0,NA,NA,NA,0
+527679,2nd innings,South Africa,England,39.4,Y van der Westhuizen,M Kapp,D Hazell,0,0,0,NA,0,NA,NA,NA,0
+527679,2nd innings,South Africa,England,39.5,Y van der Westhuizen,M Kapp,D Hazell,0,0,0,NA,0,NA,NA,NA,0
+527679,2nd innings,South Africa,England,39.6,Y van der Westhuizen,M Kapp,D Hazell,0,2,2,wides,0,NA,NA,NA,0
+527679,2nd innings,South Africa,England,39.7,M Kapp,Y van der Westhuizen,D Hazell,1,0,1,NA,0,NA,NA,NA,0
+527679,2nd innings,South Africa,England,40.1,M Kapp,Y van der Westhuizen,A Brindle,1,0,1,NA,0,NA,NA,NA,0
+527679,2nd innings,South Africa,England,40.2,Y van der Westhuizen,M Kapp,A Brindle,0,0,0,NA,0,NA,NA,NA,0
+527679,2nd innings,South Africa,England,40.3,Y van der Westhuizen,M Kapp,A Brindle,0,0,0,NA,0,NA,NA,NA,0
+527679,2nd innings,South Africa,England,40.4,Y van der Westhuizen,M Kapp,A Brindle,1,0,1,NA,0,NA,NA,NA,0
+527679,2nd innings,South Africa,England,40.5,M Kapp,Y van der Westhuizen,A Brindle,1,0,1,NA,0,NA,NA,NA,0
+527679,2nd innings,South Africa,England,40.6,Y van der Westhuizen,M Kapp,A Brindle,2,0,2,NA,0,NA,NA,NA,0
+527679,2nd innings,South Africa,England,41.1,M Kapp,Y van der Westhuizen,CM Edwards,1,0,1,NA,0,NA,NA,NA,0
+527679,2nd innings,South Africa,England,41.2,Y van der Westhuizen,M Kapp,CM Edwards,1,0,1,NA,0,NA,NA,NA,0
+527679,2nd innings,South Africa,England,41.3,M Kapp,Y van der Westhuizen,CM Edwards,1,0,1,NA,0,NA,NA,NA,0
+527679,2nd innings,South Africa,England,41.4,Y van der Westhuizen,M Kapp,CM Edwards,0,0,0,NA,0,NA,NA,NA,0
+527679,2nd innings,South Africa,England,41.5,Y van der Westhuizen,M Kapp,CM Edwards,0,1,1,wides,0,NA,NA,NA,0
+527679,2nd innings,South Africa,England,41.6,Y van der Westhuizen,M Kapp,CM Edwards,1,0,1,NA,0,NA,NA,NA,0
+527679,2nd innings,South Africa,England,41.7,M Kapp,Y van der Westhuizen,CM Edwards,0,0,0,NA,1,run out,M Kapp,LS Greenway,0
+527679,2nd innings,South Africa,England,42.1,D van Niekerk,Y van der Westhuizen,A Brindle,0,1,1,wides,0,NA,NA,NA,0
+527679,2nd innings,South Africa,England,42.2,D van Niekerk,Y van der Westhuizen,A Brindle,1,0,1,NA,0,NA,NA,NA,0
+527679,2nd innings,South Africa,England,42.3,Y van der Westhuizen,D van Niekerk,A Brindle,1,0,1,NA,0,NA,NA,NA,0
+527679,2nd innings,South Africa,England,42.4,D van Niekerk,Y van der Westhuizen,A Brindle,0,0,0,NA,0,NA,NA,NA,0
+527679,2nd innings,South Africa,England,42.5,D van Niekerk,Y van der Westhuizen,A Brindle,0,0,0,NA,0,NA,NA,NA,0
+527679,2nd innings,South Africa,England,42.6,D van Niekerk,Y van der Westhuizen,A Brindle,0,0,0,NA,0,NA,NA,NA,0
+527679,2nd innings,South Africa,England,42.7,D van Niekerk,Y van der Westhuizen,A Brindle,4,0,4,NA,0,NA,NA,NA,0
+527679,2nd innings,South Africa,England,43.1,Y van der Westhuizen,D van Niekerk,CM Edwards,4,0,4,NA,0,NA,NA,NA,0
+527679,2nd innings,South Africa,England,43.2,Y van der Westhuizen,D van Niekerk,CM Edwards,2,0,2,NA,0,NA,NA,NA,0
+527679,2nd innings,South Africa,England,43.3,Y van der Westhuizen,D van Niekerk,CM Edwards,0,0,0,NA,0,NA,NA,NA,0
+527679,2nd innings,South Africa,England,43.4,Y van der Westhuizen,D van Niekerk,CM Edwards,4,0,4,NA,0,NA,NA,NA,0
+527679,2nd innings,South Africa,England,43.5,Y van der Westhuizen,D van Niekerk,CM Edwards,1,0,1,NA,0,NA,NA,NA,0
+527679,2nd innings,South Africa,England,43.6,D van Niekerk,Y van der Westhuizen,CM Edwards,4,0,4,NA,0,NA,NA,NA,0
+527679,2nd innings,South Africa,England,44.1,Y van der Westhuizen,D van Niekerk,JL Gunn,1,0,1,NA,0,NA,NA,NA,0
+527679,2nd innings,South Africa,England,44.2,D van Niekerk,Y van der Westhuizen,JL Gunn,0,0,0,NA,1,run out,Y van der Westhuizen,JL Gunn,0
+527679,2nd innings,South Africa,England,44.3,D van Niekerk,CL Tryon,JL Gunn,0,0,0,NA,0,NA,NA,NA,0
+527679,2nd innings,South Africa,England,44.4,D van Niekerk,CL Tryon,JL Gunn,0,0,0,NA,0,NA,NA,NA,0
+527679,2nd innings,South Africa,England,44.5,D van Niekerk,CL Tryon,JL Gunn,0,0,0,NA,0,NA,NA,NA,0
+527679,2nd innings,South Africa,England,44.6,D van Niekerk,CL Tryon,JL Gunn,0,0,0,NA,0,NA,NA,NA,0
+527679,2nd innings,South Africa,England,45.1,CL Tryon,D van Niekerk,DN Wyatt,0,0,0,NA,1,caught,CL Tryon,JL Gunn,0
+527679,2nd innings,South Africa,England,45.2,D van Niekerk,S Loubser,DN Wyatt,1,0,1,NA,0,NA,NA,NA,0
+527679,2nd innings,South Africa,England,45.3,S Loubser,D van Niekerk,DN Wyatt,0,0,0,NA,1,caught,S Loubser,D Hazell,0
+527679,2nd innings,South Africa,England,45.4,D van Niekerk,S Ismail,DN Wyatt,1,0,1,NA,0,NA,NA,NA,0
+527679,2nd innings,South Africa,England,45.5,S Ismail,D van Niekerk,DN Wyatt,0,0,0,NA,0,NA,NA,NA,0
+527679,2nd innings,South Africa,England,45.6,S Ismail,D van Niekerk,DN Wyatt,4,0,4,NA,0,NA,NA,NA,0
+527679,2nd innings,South Africa,England,46.1,D van Niekerk,S Ismail,JL Gunn,4,0,4,NA,0,NA,NA,NA,0
+527679,2nd innings,South Africa,England,46.2,D van Niekerk,S Ismail,JL Gunn,0,0,0,NA,0,NA,NA,NA,0
+527679,2nd innings,South Africa,England,46.3,D van Niekerk,S Ismail,JL Gunn,0,0,0,NA,0,NA,NA,NA,0
+527679,2nd innings,South Africa,England,46.4,D van Niekerk,S Ismail,JL Gunn,1,0,1,NA,0,NA,NA,NA,0
+527679,2nd innings,South Africa,England,46.5,S Ismail,D van Niekerk,JL Gunn,0,0,0,NA,1,caught and bowled,S Ismail,NA,0

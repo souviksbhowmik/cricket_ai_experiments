@@ -1,0 +1,418 @@
+match_id,innings,team,opponent,ball,batsman,non_striker,bowler,scored_runs,extras,total,extra_type,wicket,wicket_type,player_out,fielders,winner
+387568,1st innings,South Africa,England,0.1,HM Amla,GC Smith,JM Anderson,0,1,1,wides,0,NA,NA,NA,0
+387568,1st innings,South Africa,England,0.2,HM Amla,GC Smith,JM Anderson,1,0,1,NA,0,NA,NA,NA,0
+387568,1st innings,South Africa,England,0.3,GC Smith,HM Amla,JM Anderson,1,0,1,NA,0,NA,NA,NA,0
+387568,1st innings,South Africa,England,0.4,HM Amla,GC Smith,JM Anderson,1,0,1,NA,0,NA,NA,NA,0
+387568,1st innings,South Africa,England,0.5,GC Smith,HM Amla,JM Anderson,1,0,1,NA,0,NA,NA,NA,0
+387568,1st innings,South Africa,England,0.6,HM Amla,GC Smith,JM Anderson,0,0,0,NA,0,NA,NA,NA,0
+387568,1st innings,South Africa,England,0.7,HM Amla,GC Smith,JM Anderson,0,0,0,NA,0,NA,NA,NA,0
+387568,1st innings,South Africa,England,1.1,GC Smith,HM Amla,SCJ Broad,0,1,1,wides,0,NA,NA,NA,0
+387568,1st innings,South Africa,England,1.2,GC Smith,HM Amla,SCJ Broad,0,0,0,NA,0,NA,NA,NA,0
+387568,1st innings,South Africa,England,1.3,GC Smith,HM Amla,SCJ Broad,0,0,0,NA,1,lbw,GC Smith,NA,0
+387568,1st innings,South Africa,England,1.4,AB de Villiers,HM Amla,SCJ Broad,0,0,0,NA,0,NA,NA,NA,0
+387568,1st innings,South Africa,England,1.5,AB de Villiers,HM Amla,SCJ Broad,0,0,0,NA,0,NA,NA,NA,0
+387568,1st innings,South Africa,England,1.6,AB de Villiers,HM Amla,SCJ Broad,0,0,0,NA,0,NA,NA,NA,0
+387568,1st innings,South Africa,England,1.7,AB de Villiers,HM Amla,SCJ Broad,0,0,0,NA,0,NA,NA,NA,0
+387568,1st innings,South Africa,England,2.1,HM Amla,AB de Villiers,JM Anderson,0,0,0,NA,0,NA,NA,NA,0
+387568,1st innings,South Africa,England,2.2,HM Amla,AB de Villiers,JM Anderson,0,0,0,NA,0,NA,NA,NA,0
+387568,1st innings,South Africa,England,2.3,HM Amla,AB de Villiers,JM Anderson,1,0,1,NA,0,NA,NA,NA,0
+387568,1st innings,South Africa,England,2.4,AB de Villiers,HM Amla,JM Anderson,0,0,0,NA,0,NA,NA,NA,0
+387568,1st innings,South Africa,England,2.5,AB de Villiers,HM Amla,JM Anderson,0,0,0,NA,0,NA,NA,NA,0
+387568,1st innings,South Africa,England,2.6,AB de Villiers,HM Amla,JM Anderson,0,0,0,NA,0,NA,NA,NA,0
+387568,1st innings,South Africa,England,3.1,HM Amla,AB de Villiers,SCJ Broad,0,0,0,NA,0,NA,NA,NA,0
+387568,1st innings,South Africa,England,3.2,HM Amla,AB de Villiers,SCJ Broad,0,0,0,NA,0,NA,NA,NA,0
+387568,1st innings,South Africa,England,3.3,HM Amla,AB de Villiers,SCJ Broad,0,0,0,NA,0,NA,NA,NA,0
+387568,1st innings,South Africa,England,3.4,HM Amla,AB de Villiers,SCJ Broad,0,0,0,NA,0,NA,NA,NA,0
+387568,1st innings,South Africa,England,3.5,HM Amla,AB de Villiers,SCJ Broad,0,0,0,NA,0,NA,NA,NA,0
+387568,1st innings,South Africa,England,3.6,HM Amla,AB de Villiers,SCJ Broad,4,0,4,NA,0,NA,NA,NA,0
+387568,1st innings,South Africa,England,4.1,AB de Villiers,HM Amla,JM Anderson,0,0,0,NA,0,NA,NA,NA,0
+387568,1st innings,South Africa,England,4.2,AB de Villiers,HM Amla,JM Anderson,4,0,4,NA,0,NA,NA,NA,0
+387568,1st innings,South Africa,England,4.3,AB de Villiers,HM Amla,JM Anderson,1,0,1,NA,0,NA,NA,NA,0
+387568,1st innings,South Africa,England,4.4,HM Amla,AB de Villiers,JM Anderson,0,0,0,NA,0,NA,NA,NA,0
+387568,1st innings,South Africa,England,4.5,HM Amla,AB de Villiers,JM Anderson,0,0,0,NA,0,NA,NA,NA,0
+387568,1st innings,South Africa,England,4.6,HM Amla,AB de Villiers,JM Anderson,4,0,4,NA,0,NA,NA,NA,0
+387568,1st innings,South Africa,England,5.1,AB de Villiers,HM Amla,SCJ Broad,0,0,0,NA,0,NA,NA,NA,0
+387568,1st innings,South Africa,England,5.2,AB de Villiers,HM Amla,SCJ Broad,0,0,0,NA,0,NA,NA,NA,0
+387568,1st innings,South Africa,England,5.3,AB de Villiers,HM Amla,SCJ Broad,0,0,0,NA,0,NA,NA,NA,0
+387568,1st innings,South Africa,England,5.4,AB de Villiers,HM Amla,SCJ Broad,0,0,0,NA,0,NA,NA,NA,0
+387568,1st innings,South Africa,England,5.5,AB de Villiers,HM Amla,SCJ Broad,4,0,4,NA,0,NA,NA,NA,0
+387568,1st innings,South Africa,England,5.6,AB de Villiers,HM Amla,SCJ Broad,0,0,0,NA,0,NA,NA,NA,0
+387568,1st innings,South Africa,England,6.1,HM Amla,AB de Villiers,JM Anderson,0,0,0,NA,0,NA,NA,NA,0
+387568,1st innings,South Africa,England,6.2,HM Amla,AB de Villiers,JM Anderson,0,0,0,NA,0,NA,NA,NA,0
+387568,1st innings,South Africa,England,6.3,HM Amla,AB de Villiers,JM Anderson,0,0,0,NA,0,NA,NA,NA,0
+387568,1st innings,South Africa,England,6.4,HM Amla,AB de Villiers,JM Anderson,0,0,0,NA,0,NA,NA,NA,0
+387568,1st innings,South Africa,England,6.5,HM Amla,AB de Villiers,JM Anderson,0,0,0,NA,0,NA,NA,NA,0
+387568,1st innings,South Africa,England,6.6,HM Amla,AB de Villiers,JM Anderson,0,0,0,NA,1,caught,HM Amla,GP Swann,0
+387568,1st innings,South Africa,England,7.1,AB de Villiers,JP Duminy,SCJ Broad,0,0,0,NA,0,NA,NA,NA,0
+387568,1st innings,South Africa,England,7.2,AB de Villiers,JP Duminy,SCJ Broad,0,0,0,NA,0,NA,NA,NA,0
+387568,1st innings,South Africa,England,7.3,AB de Villiers,JP Duminy,SCJ Broad,4,0,4,NA,0,NA,NA,NA,0
+387568,1st innings,South Africa,England,7.4,AB de Villiers,JP Duminy,SCJ Broad,0,0,0,NA,0,NA,NA,NA,0
+387568,1st innings,South Africa,England,7.5,AB de Villiers,JP Duminy,SCJ Broad,0,0,0,NA,0,NA,NA,NA,0
+387568,1st innings,South Africa,England,7.6,AB de Villiers,JP Duminy,SCJ Broad,0,0,0,NA,0,NA,NA,NA,0
+387568,1st innings,South Africa,England,8.1,JP Duminy,AB de Villiers,JM Anderson,0,0,0,NA,0,NA,NA,NA,0
+387568,1st innings,South Africa,England,8.2,JP Duminy,AB de Villiers,JM Anderson,0,0,0,NA,0,NA,NA,NA,0
+387568,1st innings,South Africa,England,8.3,JP Duminy,AB de Villiers,JM Anderson,0,1,1,wides,0,NA,NA,NA,0
+387568,1st innings,South Africa,England,8.4,JP Duminy,AB de Villiers,JM Anderson,1,0,1,NA,0,NA,NA,NA,0
+387568,1st innings,South Africa,England,8.5,AB de Villiers,JP Duminy,JM Anderson,0,0,0,NA,0,NA,NA,NA,0
+387568,1st innings,South Africa,England,8.6,AB de Villiers,JP Duminy,JM Anderson,0,0,0,NA,0,NA,NA,NA,0
+387568,1st innings,South Africa,England,8.7,AB de Villiers,JP Duminy,JM Anderson,0,0,0,NA,0,NA,NA,NA,0
+387568,1st innings,South Africa,England,9.1,JP Duminy,AB de Villiers,SCJ Broad,0,0,0,NA,0,NA,NA,NA,0
+387568,1st innings,South Africa,England,9.2,JP Duminy,AB de Villiers,SCJ Broad,0,0,0,NA,0,NA,NA,NA,0
+387568,1st innings,South Africa,England,9.3,JP Duminy,AB de Villiers,SCJ Broad,4,0,4,NA,0,NA,NA,NA,0
+387568,1st innings,South Africa,England,9.4,JP Duminy,AB de Villiers,SCJ Broad,1,0,1,NA,0,NA,NA,NA,0
+387568,1st innings,South Africa,England,9.5,AB de Villiers,JP Duminy,SCJ Broad,0,0,0,NA,0,NA,NA,NA,0
+387568,1st innings,South Africa,England,9.6,AB de Villiers,JP Duminy,SCJ Broad,0,0,0,NA,0,NA,NA,NA,0
+387568,1st innings,South Africa,England,10.1,JP Duminy,AB de Villiers,JM Anderson,0,0,0,NA,0,NA,NA,NA,0
+387568,1st innings,South Africa,England,10.2,JP Duminy,AB de Villiers,JM Anderson,0,0,0,NA,0,NA,NA,NA,0
+387568,1st innings,South Africa,England,10.3,JP Duminy,AB de Villiers,JM Anderson,0,0,0,NA,1,caught,JP Duminy,MJ Prior,0
+387568,1st innings,South Africa,England,10.4,AN Petersen,AB de Villiers,JM Anderson,0,0,0,NA,0,NA,NA,NA,0
+387568,1st innings,South Africa,England,10.5,AN Petersen,AB de Villiers,JM Anderson,0,0,0,NA,0,NA,NA,NA,0
+387568,1st innings,South Africa,England,10.6,AN Petersen,AB de Villiers,JM Anderson,0,0,0,NA,0,NA,NA,NA,0
+387568,1st innings,South Africa,England,11.1,AB de Villiers,AN Petersen,SCJ Broad,0,0,0,NA,0,NA,NA,NA,0
+387568,1st innings,South Africa,England,11.2,AB de Villiers,AN Petersen,SCJ Broad,2,0,2,NA,0,NA,NA,NA,0
+387568,1st innings,South Africa,England,11.3,AB de Villiers,AN Petersen,SCJ Broad,0,0,0,NA,0,NA,NA,NA,0
+387568,1st innings,South Africa,England,11.4,AB de Villiers,AN Petersen,SCJ Broad,1,0,1,NA,0,NA,NA,NA,0
+387568,1st innings,South Africa,England,11.5,AN Petersen,AB de Villiers,SCJ Broad,0,0,0,NA,0,NA,NA,NA,0
+387568,1st innings,South Africa,England,11.6,AN Petersen,AB de Villiers,SCJ Broad,2,0,2,NA,0,NA,NA,NA,0
+387568,1st innings,South Africa,England,12.1,AB de Villiers,AN Petersen,LJ Wright,1,0,1,NA,0,NA,NA,NA,0
+387568,1st innings,South Africa,England,12.2,AN Petersen,AB de Villiers,LJ Wright,0,0,0,NA,0,NA,NA,NA,0
+387568,1st innings,South Africa,England,12.3,AN Petersen,AB de Villiers,LJ Wright,0,0,0,NA,0,NA,NA,NA,0
+387568,1st innings,South Africa,England,12.4,AN Petersen,AB de Villiers,LJ Wright,4,0,4,NA,0,NA,NA,NA,0
+387568,1st innings,South Africa,England,12.5,AN Petersen,AB de Villiers,LJ Wright,4,0,4,NA,0,NA,NA,NA,0
+387568,1st innings,South Africa,England,12.6,AN Petersen,AB de Villiers,LJ Wright,0,0,0,NA,0,NA,NA,NA,0
+387568,1st innings,South Africa,England,13.1,AB de Villiers,AN Petersen,TT Bresnan,1,0,1,NA,0,NA,NA,NA,0
+387568,1st innings,South Africa,England,13.2,AN Petersen,AB de Villiers,TT Bresnan,1,0,1,NA,0,NA,NA,NA,0
+387568,1st innings,South Africa,England,13.3,AB de Villiers,AN Petersen,TT Bresnan,4,0,4,NA,0,NA,NA,NA,0
+387568,1st innings,South Africa,England,13.4,AB de Villiers,AN Petersen,TT Bresnan,0,0,0,NA,0,NA,NA,NA,0
+387568,1st innings,South Africa,England,13.5,AB de Villiers,AN Petersen,TT Bresnan,0,0,0,NA,1,lbw,AB de Villiers,NA,0
+387568,1st innings,South Africa,England,13.6,MV Boucher,AN Petersen,TT Bresnan,0,0,0,NA,0,NA,NA,NA,0
+387568,1st innings,South Africa,England,14.1,AN Petersen,MV Boucher,LJ Wright,1,0,1,NA,0,NA,NA,NA,0
+387568,1st innings,South Africa,England,14.2,MV Boucher,AN Petersen,LJ Wright,1,0,1,NA,0,NA,NA,NA,0
+387568,1st innings,South Africa,England,14.3,AN Petersen,MV Boucher,LJ Wright,0,0,0,NA,0,NA,NA,NA,0
+387568,1st innings,South Africa,England,14.4,AN Petersen,MV Boucher,LJ Wright,0,0,0,NA,0,NA,NA,NA,0
+387568,1st innings,South Africa,England,14.5,AN Petersen,MV Boucher,LJ Wright,1,0,1,NA,0,NA,NA,NA,0
+387568,1st innings,South Africa,England,14.6,MV Boucher,AN Petersen,LJ Wright,0,0,0,NA,0,NA,NA,NA,0
+387568,1st innings,South Africa,England,15.1,AN Petersen,MV Boucher,TT Bresnan,1,0,1,NA,0,NA,NA,NA,0
+387568,1st innings,South Africa,England,15.2,MV Boucher,AN Petersen,TT Bresnan,1,0,1,NA,0,NA,NA,NA,0
+387568,1st innings,South Africa,England,15.3,AN Petersen,MV Boucher,TT Bresnan,1,0,1,NA,0,NA,NA,NA,0
+387568,1st innings,South Africa,England,15.4,MV Boucher,AN Petersen,TT Bresnan,0,0,0,NA,0,NA,NA,NA,0
+387568,1st innings,South Africa,England,15.5,MV Boucher,AN Petersen,TT Bresnan,0,0,0,NA,0,NA,NA,NA,0
+387568,1st innings,South Africa,England,15.6,MV Boucher,AN Petersen,TT Bresnan,1,0,1,NA,0,NA,NA,NA,0
+387568,1st innings,South Africa,England,16.1,MV Boucher,AN Petersen,LJ Wright,0,0,0,NA,0,NA,NA,NA,0
+387568,1st innings,South Africa,England,16.2,MV Boucher,AN Petersen,LJ Wright,0,0,0,NA,0,NA,NA,NA,0
+387568,1st innings,South Africa,England,16.3,MV Boucher,AN Petersen,LJ Wright,4,0,4,NA,0,NA,NA,NA,0
+387568,1st innings,South Africa,England,16.4,MV Boucher,AN Petersen,LJ Wright,4,0,4,NA,0,NA,NA,NA,0
+387568,1st innings,South Africa,England,16.5,MV Boucher,AN Petersen,LJ Wright,1,0,1,NA,0,NA,NA,NA,0
+387568,1st innings,South Africa,England,16.6,AN Petersen,MV Boucher,LJ Wright,0,0,0,NA,0,NA,NA,NA,0
+387568,1st innings,South Africa,England,17.1,MV Boucher,AN Petersen,TT Bresnan,0,0,0,NA,0,NA,NA,NA,0
+387568,1st innings,South Africa,England,17.2,MV Boucher,AN Petersen,TT Bresnan,0,0,0,NA,0,NA,NA,NA,0
+387568,1st innings,South Africa,England,17.3,MV Boucher,AN Petersen,TT Bresnan,1,0,1,NA,0,NA,NA,NA,0
+387568,1st innings,South Africa,England,17.4,AN Petersen,MV Boucher,TT Bresnan,0,0,0,NA,0,NA,NA,NA,0
+387568,1st innings,South Africa,England,17.5,AN Petersen,MV Boucher,TT Bresnan,1,0,1,NA,0,NA,NA,NA,0
+387568,1st innings,South Africa,England,17.6,MV Boucher,AN Petersen,TT Bresnan,0,0,0,NA,0,NA,NA,NA,0
+387568,1st innings,South Africa,England,18.1,AN Petersen,MV Boucher,SCJ Broad,4,0,4,NA,0,NA,NA,NA,0
+387568,1st innings,South Africa,England,18.2,AN Petersen,MV Boucher,SCJ Broad,0,0,0,NA,0,NA,NA,NA,0
+387568,1st innings,South Africa,England,18.3,AN Petersen,MV Boucher,SCJ Broad,0,0,0,NA,0,NA,NA,NA,0
+387568,1st innings,South Africa,England,18.4,AN Petersen,MV Boucher,SCJ Broad,0,0,0,NA,0,NA,NA,NA,0
+387568,1st innings,South Africa,England,18.5,AN Petersen,MV Boucher,SCJ Broad,0,0,0,NA,0,NA,NA,NA,0
+387568,1st innings,South Africa,England,18.6,AN Petersen,MV Boucher,SCJ Broad,0,0,0,NA,0,NA,NA,NA,0
+387568,1st innings,South Africa,England,19.1,MV Boucher,AN Petersen,TT Bresnan,0,0,0,NA,0,NA,NA,NA,0
+387568,1st innings,South Africa,England,19.2,MV Boucher,AN Petersen,TT Bresnan,0,0,0,NA,0,NA,NA,NA,0
+387568,1st innings,South Africa,England,19.3,MV Boucher,AN Petersen,TT Bresnan,0,0,0,NA,0,NA,NA,NA,0
+387568,1st innings,South Africa,England,19.4,MV Boucher,AN Petersen,TT Bresnan,0,0,0,NA,0,NA,NA,NA,0
+387568,1st innings,South Africa,England,19.5,MV Boucher,AN Petersen,TT Bresnan,0,0,0,NA,0,NA,NA,NA,0
+387568,1st innings,South Africa,England,19.6,MV Boucher,AN Petersen,TT Bresnan,0,0,0,NA,0,NA,NA,NA,0
+387568,1st innings,South Africa,England,20.1,AN Petersen,MV Boucher,JM Anderson,0,0,0,NA,0,NA,NA,NA,0
+387568,1st innings,South Africa,England,20.2,AN Petersen,MV Boucher,JM Anderson,0,0,0,NA,0,NA,NA,NA,0
+387568,1st innings,South Africa,England,20.3,AN Petersen,MV Boucher,JM Anderson,0,0,0,NA,0,NA,NA,NA,0
+387568,1st innings,South Africa,England,20.4,AN Petersen,MV Boucher,JM Anderson,0,0,0,NA,0,NA,NA,NA,0
+387568,1st innings,South Africa,England,20.5,AN Petersen,MV Boucher,JM Anderson,1,0,1,NA,0,NA,NA,NA,0
+387568,1st innings,South Africa,England,20.6,MV Boucher,AN Petersen,JM Anderson,0,0,0,NA,1,bowled,MV Boucher,NA,0
+387568,1st innings,South Africa,England,21.1,AN Petersen,R McLaren,TT Bresnan,0,0,0,NA,0,NA,NA,NA,0
+387568,1st innings,South Africa,England,21.2,AN Petersen,R McLaren,TT Bresnan,0,0,0,NA,0,NA,NA,NA,0
+387568,1st innings,South Africa,England,21.3,AN Petersen,R McLaren,TT Bresnan,0,0,0,NA,0,NA,NA,NA,0
+387568,1st innings,South Africa,England,21.4,AN Petersen,R McLaren,TT Bresnan,0,0,0,NA,0,NA,NA,NA,0
+387568,1st innings,South Africa,England,21.5,AN Petersen,R McLaren,TT Bresnan,0,0,0,NA,0,NA,NA,NA,0
+387568,1st innings,South Africa,England,21.6,AN Petersen,R McLaren,TT Bresnan,0,0,0,NA,0,NA,NA,NA,0
+387568,1st innings,South Africa,England,22.1,R McLaren,AN Petersen,JM Anderson,0,0,0,NA,0,NA,NA,NA,0
+387568,1st innings,South Africa,England,22.2,R McLaren,AN Petersen,JM Anderson,0,0,0,NA,0,NA,NA,NA,0
+387568,1st innings,South Africa,England,22.3,R McLaren,AN Petersen,JM Anderson,0,0,0,NA,0,NA,NA,NA,0
+387568,1st innings,South Africa,England,22.4,R McLaren,AN Petersen,JM Anderson,0,0,0,NA,0,NA,NA,NA,0
+387568,1st innings,South Africa,England,22.5,R McLaren,AN Petersen,JM Anderson,0,0,0,NA,1,caught,R McLaren,PD Collingwood,0
+387568,1st innings,South Africa,England,22.6,J Botha,AN Petersen,JM Anderson,0,0,0,NA,0,NA,NA,NA,0
+387568,1st innings,South Africa,England,23.1,AN Petersen,J Botha,TT Bresnan,0,0,0,NA,0,NA,NA,NA,0
+387568,1st innings,South Africa,England,23.2,AN Petersen,J Botha,TT Bresnan,0,0,0,NA,0,NA,NA,NA,0
+387568,1st innings,South Africa,England,23.3,AN Petersen,J Botha,TT Bresnan,0,0,0,NA,0,NA,NA,NA,0
+387568,1st innings,South Africa,England,23.4,AN Petersen,J Botha,TT Bresnan,1,0,1,NA,0,NA,NA,NA,0
+387568,1st innings,South Africa,England,23.5,J Botha,AN Petersen,TT Bresnan,0,0,0,NA,0,NA,NA,NA,0
+387568,1st innings,South Africa,England,23.6,J Botha,AN Petersen,TT Bresnan,0,0,0,NA,0,NA,NA,NA,0
+387568,1st innings,South Africa,England,24.1,AN Petersen,J Botha,JM Anderson,1,0,1,NA,0,NA,NA,NA,0
+387568,1st innings,South Africa,England,24.2,J Botha,AN Petersen,JM Anderson,1,0,1,NA,0,NA,NA,NA,0
+387568,1st innings,South Africa,England,24.3,AN Petersen,J Botha,JM Anderson,1,0,1,NA,0,NA,NA,NA,0
+387568,1st innings,South Africa,England,24.4,J Botha,AN Petersen,JM Anderson,0,0,0,NA,0,NA,NA,NA,0
+387568,1st innings,South Africa,England,24.5,J Botha,AN Petersen,JM Anderson,0,0,0,NA,0,NA,NA,NA,0
+387568,1st innings,South Africa,England,24.6,J Botha,AN Petersen,JM Anderson,0,0,0,NA,0,NA,NA,NA,0
+387568,1st innings,South Africa,England,25.1,AN Petersen,J Botha,TT Bresnan,0,0,0,NA,0,NA,NA,NA,0
+387568,1st innings,South Africa,England,25.2,AN Petersen,J Botha,TT Bresnan,0,0,0,NA,0,NA,NA,NA,0
+387568,1st innings,South Africa,England,25.3,AN Petersen,J Botha,TT Bresnan,0,0,0,NA,0,NA,NA,NA,0
+387568,1st innings,South Africa,England,25.4,AN Petersen,J Botha,TT Bresnan,0,0,0,NA,0,NA,NA,NA,0
+387568,1st innings,South Africa,England,25.5,AN Petersen,J Botha,TT Bresnan,0,0,0,NA,0,NA,NA,NA,0
+387568,1st innings,South Africa,England,25.6,AN Petersen,J Botha,TT Bresnan,1,0,1,NA,0,NA,NA,NA,0
+387568,1st innings,South Africa,England,26.1,AN Petersen,J Botha,JM Anderson,1,0,1,NA,0,NA,NA,NA,0
+387568,1st innings,South Africa,England,26.2,J Botha,AN Petersen,JM Anderson,0,0,0,NA,1,caught,J Botha,MJ Prior,0
+387568,1st innings,South Africa,England,26.3,WD Parnell,AN Petersen,JM Anderson,0,1,1,wides,0,NA,NA,NA,0
+387568,1st innings,South Africa,England,26.4,WD Parnell,AN Petersen,JM Anderson,0,0,0,NA,0,NA,NA,NA,0
+387568,1st innings,South Africa,England,26.5,WD Parnell,AN Petersen,JM Anderson,0,0,0,NA,0,NA,NA,NA,0
+387568,1st innings,South Africa,England,26.6,WD Parnell,AN Petersen,JM Anderson,0,0,0,NA,0,NA,NA,NA,0
+387568,1st innings,South Africa,England,26.7,WD Parnell,AN Petersen,JM Anderson,0,0,0,NA,0,NA,NA,NA,0
+387568,1st innings,South Africa,England,27.1,AN Petersen,WD Parnell,TT Bresnan,1,0,1,NA,0,NA,NA,NA,0
+387568,1st innings,South Africa,England,27.2,WD Parnell,AN Petersen,TT Bresnan,0,0,0,NA,0,NA,NA,NA,0
+387568,1st innings,South Africa,England,27.3,WD Parnell,AN Petersen,TT Bresnan,0,0,0,NA,0,NA,NA,NA,0
+387568,1st innings,South Africa,England,27.4,WD Parnell,AN Petersen,TT Bresnan,0,0,0,NA,0,NA,NA,NA,0
+387568,1st innings,South Africa,England,27.5,WD Parnell,AN Petersen,TT Bresnan,0,0,0,NA,0,NA,NA,NA,0
+387568,1st innings,South Africa,England,27.6,WD Parnell,AN Petersen,TT Bresnan,0,0,0,NA,0,NA,NA,NA,0
+387568,1st innings,South Africa,England,28.1,AN Petersen,WD Parnell,LJ Wright,0,0,0,NA,0,NA,NA,NA,0
+387568,1st innings,South Africa,England,28.2,AN Petersen,WD Parnell,LJ Wright,0,0,0,NA,0,NA,NA,NA,0
+387568,1st innings,South Africa,England,28.3,AN Petersen,WD Parnell,LJ Wright,1,0,1,NA,0,NA,NA,NA,0
+387568,1st innings,South Africa,England,28.4,WD Parnell,AN Petersen,LJ Wright,0,0,0,NA,0,NA,NA,NA,0
+387568,1st innings,South Africa,England,28.5,WD Parnell,AN Petersen,LJ Wright,0,0,0,NA,0,NA,NA,NA,0
+387568,1st innings,South Africa,England,28.6,WD Parnell,AN Petersen,LJ Wright,0,0,0,NA,0,NA,NA,NA,0
+387568,1st innings,South Africa,England,29.1,AN Petersen,WD Parnell,PD Collingwood,2,0,2,NA,0,NA,NA,NA,0
+387568,1st innings,South Africa,England,29.2,AN Petersen,WD Parnell,PD Collingwood,1,0,1,NA,0,NA,NA,NA,0
+387568,1st innings,South Africa,England,29.3,WD Parnell,AN Petersen,PD Collingwood,1,0,1,NA,0,NA,NA,NA,0
+387568,1st innings,South Africa,England,29.4,AN Petersen,WD Parnell,PD Collingwood,1,0,1,NA,0,NA,NA,NA,0
+387568,1st innings,South Africa,England,29.5,WD Parnell,AN Petersen,PD Collingwood,0,0,0,NA,1,caught,WD Parnell,AJ Strauss,0
+387568,1st innings,South Africa,England,29.6,M Morkel,AN Petersen,PD Collingwood,0,0,0,NA,0,NA,NA,NA,0
+387568,1st innings,South Africa,England,30.1,AN Petersen,M Morkel,SCJ Broad,1,0,1,NA,0,NA,NA,NA,0
+387568,1st innings,South Africa,England,30.2,M Morkel,AN Petersen,SCJ Broad,0,0,0,NA,0,NA,NA,NA,0
+387568,1st innings,South Africa,England,30.3,M Morkel,AN Petersen,SCJ Broad,0,0,0,NA,0,NA,NA,NA,0
+387568,1st innings,South Africa,England,30.4,M Morkel,AN Petersen,SCJ Broad,0,0,0,NA,0,NA,NA,NA,0
+387568,1st innings,South Africa,England,30.5,M Morkel,AN Petersen,SCJ Broad,0,0,0,NA,0,NA,NA,NA,0
+387568,1st innings,South Africa,England,30.6,M Morkel,AN Petersen,SCJ Broad,0,0,0,NA,0,NA,NA,NA,0
+387568,1st innings,South Africa,England,31.1,AN Petersen,M Morkel,PD Collingwood,1,0,1,NA,0,NA,NA,NA,0
+387568,1st innings,South Africa,England,31.2,M Morkel,AN Petersen,PD Collingwood,0,0,0,NA,0,NA,NA,NA,0
+387568,1st innings,South Africa,England,31.3,M Morkel,AN Petersen,PD Collingwood,1,0,1,NA,0,NA,NA,NA,0
+387568,1st innings,South Africa,England,31.4,AN Petersen,M Morkel,PD Collingwood,1,0,1,NA,0,NA,NA,NA,0
+387568,1st innings,South Africa,England,31.5,M Morkel,AN Petersen,PD Collingwood,1,0,1,NA,0,NA,NA,NA,0
+387568,1st innings,South Africa,England,31.6,AN Petersen,M Morkel,PD Collingwood,1,0,1,NA,0,NA,NA,NA,0
+387568,1st innings,South Africa,England,32.1,AN Petersen,M Morkel,LJ Wright,2,0,2,NA,0,NA,NA,NA,0
+387568,1st innings,South Africa,England,32.2,AN Petersen,M Morkel,LJ Wright,4,0,4,NA,0,NA,NA,NA,0
+387568,1st innings,South Africa,England,32.3,AN Petersen,M Morkel,LJ Wright,1,0,1,NA,0,NA,NA,NA,0
+387568,1st innings,South Africa,England,32.4,M Morkel,AN Petersen,LJ Wright,1,0,1,NA,0,NA,NA,NA,0
+387568,1st innings,South Africa,England,32.5,AN Petersen,M Morkel,LJ Wright,0,0,0,NA,0,NA,NA,NA,0
+387568,1st innings,South Africa,England,32.6,AN Petersen,M Morkel,LJ Wright,1,0,1,NA,0,NA,NA,NA,0
+387568,1st innings,South Africa,England,33.1,AN Petersen,M Morkel,PD Collingwood,1,0,1,NA,0,NA,NA,NA,0
+387568,1st innings,South Africa,England,33.2,M Morkel,AN Petersen,PD Collingwood,4,0,4,NA,0,NA,NA,NA,0
+387568,1st innings,South Africa,England,33.3,M Morkel,AN Petersen,PD Collingwood,0,0,0,NA,0,NA,NA,NA,0
+387568,1st innings,South Africa,England,33.4,M Morkel,AN Petersen,PD Collingwood,0,0,0,NA,0,NA,NA,NA,0
+387568,1st innings,South Africa,England,33.5,M Morkel,AN Petersen,PD Collingwood,0,0,0,NA,0,NA,NA,NA,0
+387568,1st innings,South Africa,England,33.6,M Morkel,AN Petersen,PD Collingwood,0,0,0,NA,1,lbw,M Morkel,NA,0
+387568,1st innings,South Africa,England,34.1,AN Petersen,CK Langeveldt,SCJ Broad,0,0,0,NA,0,NA,NA,NA,0
+387568,1st innings,South Africa,England,34.2,AN Petersen,CK Langeveldt,SCJ Broad,0,0,0,NA,0,NA,NA,NA,0
+387568,1st innings,South Africa,England,34.3,AN Petersen,CK Langeveldt,SCJ Broad,0,0,0,NA,0,NA,NA,NA,0
+387568,1st innings,South Africa,England,34.4,AN Petersen,CK Langeveldt,SCJ Broad,0,0,0,NA,0,NA,NA,NA,0
+387568,1st innings,South Africa,England,34.5,AN Petersen,CK Langeveldt,SCJ Broad,1,0,1,NA,0,NA,NA,NA,0
+387568,1st innings,South Africa,England,34.6,CK Langeveldt,AN Petersen,SCJ Broad,0,0,0,NA,0,NA,NA,NA,0
+387568,1st innings,South Africa,England,35.1,AN Petersen,CK Langeveldt,PD Collingwood,4,0,4,NA,0,NA,NA,NA,0
+387568,1st innings,South Africa,England,35.2,AN Petersen,CK Langeveldt,PD Collingwood,1,0,1,NA,0,NA,NA,NA,0
+387568,1st innings,South Africa,England,35.3,CK Langeveldt,AN Petersen,PD Collingwood,0,0,0,NA,0,NA,NA,NA,0
+387568,1st innings,South Africa,England,35.4,CK Langeveldt,AN Petersen,PD Collingwood,0,0,0,NA,0,NA,NA,NA,0
+387568,1st innings,South Africa,England,35.5,CK Langeveldt,AN Petersen,PD Collingwood,0,0,0,NA,0,NA,NA,NA,0
+387568,1st innings,South Africa,England,35.6,CK Langeveldt,AN Petersen,PD Collingwood,0,0,0,NA,0,NA,NA,NA,0
+387568,1st innings,South Africa,England,36.1,AN Petersen,CK Langeveldt,SCJ Broad,0,0,0,NA,0,NA,NA,NA,0
+387568,1st innings,South Africa,England,36.2,AN Petersen,CK Langeveldt,SCJ Broad,0,1,1,wides,0,NA,NA,NA,0
+387568,1st innings,South Africa,England,36.3,AN Petersen,CK Langeveldt,SCJ Broad,0,0,0,NA,0,NA,NA,NA,0
+387568,1st innings,South Africa,England,36.4,AN Petersen,CK Langeveldt,SCJ Broad,0,0,0,NA,0,NA,NA,NA,0
+387568,1st innings,South Africa,England,36.5,AN Petersen,CK Langeveldt,SCJ Broad,0,0,0,NA,0,NA,NA,NA,0
+387568,1st innings,South Africa,England,36.6,AN Petersen,CK Langeveldt,SCJ Broad,0,0,0,NA,1,caught,AN Petersen,LJ Wright,0
+387568,2nd innings,England,South Africa,0.1,IJL Trott,AJ Strauss,WD Parnell,0,0,0,NA,0,NA,NA,NA,1
+387568,2nd innings,England,South Africa,0.2,IJL Trott,AJ Strauss,WD Parnell,0,0,0,NA,0,NA,NA,NA,1
+387568,2nd innings,England,South Africa,0.3,IJL Trott,AJ Strauss,WD Parnell,0,0,0,NA,0,NA,NA,NA,1
+387568,2nd innings,England,South Africa,0.4,IJL Trott,AJ Strauss,WD Parnell,0,1,1,wides,0,NA,NA,NA,1
+387568,2nd innings,England,South Africa,0.5,IJL Trott,AJ Strauss,WD Parnell,0,1,1,wides,0,NA,NA,NA,1
+387568,2nd innings,England,South Africa,0.6,IJL Trott,AJ Strauss,WD Parnell,1,0,1,NA,0,NA,NA,NA,1
+387568,2nd innings,England,South Africa,0.7,AJ Strauss,IJL Trott,WD Parnell,2,0,2,NA,0,NA,NA,NA,1
+387568,2nd innings,England,South Africa,0.8,AJ Strauss,IJL Trott,WD Parnell,0,0,0,NA,0,NA,NA,NA,1
+387568,2nd innings,England,South Africa,1.1,IJL Trott,AJ Strauss,CK Langeveldt,0,0,0,NA,0,NA,NA,NA,1
+387568,2nd innings,England,South Africa,1.2,IJL Trott,AJ Strauss,CK Langeveldt,0,0,0,NA,0,NA,NA,NA,1
+387568,2nd innings,England,South Africa,1.3,IJL Trott,AJ Strauss,CK Langeveldt,0,0,0,NA,0,NA,NA,NA,1
+387568,2nd innings,England,South Africa,1.4,IJL Trott,AJ Strauss,CK Langeveldt,1,0,1,NA,0,NA,NA,NA,1
+387568,2nd innings,England,South Africa,1.5,AJ Strauss,IJL Trott,CK Langeveldt,0,0,0,NA,0,NA,NA,NA,1
+387568,2nd innings,England,South Africa,1.6,AJ Strauss,IJL Trott,CK Langeveldt,2,0,2,NA,0,NA,NA,NA,1
+387568,2nd innings,England,South Africa,2.1,IJL Trott,AJ Strauss,WD Parnell,0,0,0,NA,0,NA,NA,NA,1
+387568,2nd innings,England,South Africa,2.2,IJL Trott,AJ Strauss,WD Parnell,1,0,1,NA,0,NA,NA,NA,1
+387568,2nd innings,England,South Africa,2.3,AJ Strauss,IJL Trott,WD Parnell,0,0,0,NA,0,NA,NA,NA,1
+387568,2nd innings,England,South Africa,2.4,AJ Strauss,IJL Trott,WD Parnell,0,0,0,NA,0,NA,NA,NA,1
+387568,2nd innings,England,South Africa,2.5,AJ Strauss,IJL Trott,WD Parnell,0,0,0,NA,0,NA,NA,NA,1
+387568,2nd innings,England,South Africa,2.6,AJ Strauss,IJL Trott,WD Parnell,4,0,4,NA,0,NA,NA,NA,1
+387568,2nd innings,England,South Africa,3.1,IJL Trott,AJ Strauss,CK Langeveldt,4,0,4,NA,0,NA,NA,NA,1
+387568,2nd innings,England,South Africa,3.2,IJL Trott,AJ Strauss,CK Langeveldt,4,0,4,NA,0,NA,NA,NA,1
+387568,2nd innings,England,South Africa,3.3,IJL Trott,AJ Strauss,CK Langeveldt,0,0,0,NA,0,NA,NA,NA,1
+387568,2nd innings,England,South Africa,3.4,IJL Trott,AJ Strauss,CK Langeveldt,0,0,0,NA,0,NA,NA,NA,1
+387568,2nd innings,England,South Africa,3.5,IJL Trott,AJ Strauss,CK Langeveldt,0,0,0,NA,0,NA,NA,NA,1
+387568,2nd innings,England,South Africa,3.6,IJL Trott,AJ Strauss,CK Langeveldt,0,0,0,NA,0,NA,NA,NA,1
+387568,2nd innings,England,South Africa,4.1,AJ Strauss,IJL Trott,M Morkel,0,0,0,NA,0,NA,NA,NA,1
+387568,2nd innings,England,South Africa,4.2,AJ Strauss,IJL Trott,M Morkel,0,0,0,NA,0,NA,NA,NA,1
+387568,2nd innings,England,South Africa,4.3,AJ Strauss,IJL Trott,M Morkel,0,0,0,NA,0,NA,NA,NA,1
+387568,2nd innings,England,South Africa,4.4,AJ Strauss,IJL Trott,M Morkel,0,0,0,NA,0,NA,NA,NA,1
+387568,2nd innings,England,South Africa,4.5,AJ Strauss,IJL Trott,M Morkel,0,0,0,NA,0,NA,NA,NA,1
+387568,2nd innings,England,South Africa,4.6,AJ Strauss,IJL Trott,M Morkel,0,0,0,NA,0,NA,NA,NA,1
+387568,2nd innings,England,South Africa,5.1,IJL Trott,AJ Strauss,WD Parnell,0,0,0,NA,0,NA,NA,NA,1
+387568,2nd innings,England,South Africa,5.2,IJL Trott,AJ Strauss,WD Parnell,4,0,4,NA,0,NA,NA,NA,1
+387568,2nd innings,England,South Africa,5.3,IJL Trott,AJ Strauss,WD Parnell,1,0,1,NA,0,NA,NA,NA,1
+387568,2nd innings,England,South Africa,5.4,AJ Strauss,IJL Trott,WD Parnell,0,0,0,NA,0,NA,NA,NA,1
+387568,2nd innings,England,South Africa,5.5,AJ Strauss,IJL Trott,WD Parnell,0,0,0,NA,0,NA,NA,NA,1
+387568,2nd innings,England,South Africa,5.6,AJ Strauss,IJL Trott,WD Parnell,0,0,0,NA,0,NA,NA,NA,1
+387568,2nd innings,England,South Africa,6.1,IJL Trott,AJ Strauss,M Morkel,4,0,4,NA,0,NA,NA,NA,1
+387568,2nd innings,England,South Africa,6.2,IJL Trott,AJ Strauss,M Morkel,0,1,1,legbyes,0,NA,NA,NA,1
+387568,2nd innings,England,South Africa,6.3,AJ Strauss,IJL Trott,M Morkel,0,0,0,NA,0,NA,NA,NA,1
+387568,2nd innings,England,South Africa,6.4,AJ Strauss,IJL Trott,M Morkel,0,0,0,NA,0,NA,NA,NA,1
+387568,2nd innings,England,South Africa,6.5,AJ Strauss,IJL Trott,M Morkel,0,0,0,NA,0,NA,NA,NA,1
+387568,2nd innings,England,South Africa,6.6,AJ Strauss,IJL Trott,M Morkel,0,0,0,NA,0,NA,NA,NA,1
+387568,2nd innings,England,South Africa,7.1,IJL Trott,AJ Strauss,WD Parnell,1,0,1,NA,0,NA,NA,NA,1
+387568,2nd innings,England,South Africa,7.2,AJ Strauss,IJL Trott,WD Parnell,4,0,4,NA,0,NA,NA,NA,1
+387568,2nd innings,England,South Africa,7.3,AJ Strauss,IJL Trott,WD Parnell,0,0,0,NA,0,NA,NA,NA,1
+387568,2nd innings,England,South Africa,7.4,AJ Strauss,IJL Trott,WD Parnell,0,0,0,NA,0,NA,NA,NA,1
+387568,2nd innings,England,South Africa,7.5,AJ Strauss,IJL Trott,WD Parnell,0,0,0,NA,0,NA,NA,NA,1
+387568,2nd innings,England,South Africa,7.6,AJ Strauss,IJL Trott,WD Parnell,0,0,0,NA,0,NA,NA,NA,1
+387568,2nd innings,England,South Africa,8.1,IJL Trott,AJ Strauss,M Morkel,0,0,0,NA,0,NA,NA,NA,1
+387568,2nd innings,England,South Africa,8.2,IJL Trott,AJ Strauss,M Morkel,1,0,1,NA,0,NA,NA,NA,1
+387568,2nd innings,England,South Africa,8.3,AJ Strauss,IJL Trott,M Morkel,0,0,0,NA,0,NA,NA,NA,1
+387568,2nd innings,England,South Africa,8.4,AJ Strauss,IJL Trott,M Morkel,0,0,0,NA,0,NA,NA,NA,1
+387568,2nd innings,England,South Africa,8.5,AJ Strauss,IJL Trott,M Morkel,0,0,0,NA,0,NA,NA,NA,1
+387568,2nd innings,England,South Africa,8.6,AJ Strauss,IJL Trott,M Morkel,0,0,0,NA,0,NA,NA,NA,1
+387568,2nd innings,England,South Africa,9.1,IJL Trott,AJ Strauss,WD Parnell,0,0,0,NA,0,NA,NA,NA,1
+387568,2nd innings,England,South Africa,9.2,IJL Trott,AJ Strauss,WD Parnell,0,0,0,NA,0,NA,NA,NA,1
+387568,2nd innings,England,South Africa,9.3,IJL Trott,AJ Strauss,WD Parnell,2,0,2,NA,0,NA,NA,NA,1
+387568,2nd innings,England,South Africa,9.4,IJL Trott,AJ Strauss,WD Parnell,0,0,0,NA,0,NA,NA,NA,1
+387568,2nd innings,England,South Africa,9.5,IJL Trott,AJ Strauss,WD Parnell,0,0,0,NA,0,NA,NA,NA,1
+387568,2nd innings,England,South Africa,9.6,IJL Trott,AJ Strauss,WD Parnell,0,0,0,NA,0,NA,NA,NA,1
+387568,2nd innings,England,South Africa,10.1,AJ Strauss,IJL Trott,M Morkel,1,0,1,NA,0,NA,NA,NA,1
+387568,2nd innings,England,South Africa,10.2,IJL Trott,AJ Strauss,M Morkel,0,0,0,NA,0,NA,NA,NA,1
+387568,2nd innings,England,South Africa,10.3,IJL Trott,AJ Strauss,M Morkel,1,0,1,NA,0,NA,NA,NA,1
+387568,2nd innings,England,South Africa,10.4,AJ Strauss,IJL Trott,M Morkel,0,0,0,NA,0,NA,NA,NA,1
+387568,2nd innings,England,South Africa,10.5,AJ Strauss,IJL Trott,M Morkel,1,0,1,NA,0,NA,NA,NA,1
+387568,2nd innings,England,South Africa,10.6,IJL Trott,AJ Strauss,M Morkel,0,0,0,NA,0,NA,NA,NA,1
+387568,2nd innings,England,South Africa,11.1,AJ Strauss,IJL Trott,WD Parnell,0,0,0,NA,0,NA,NA,NA,1
+387568,2nd innings,England,South Africa,11.2,AJ Strauss,IJL Trott,WD Parnell,0,0,0,NA,0,NA,NA,NA,1
+387568,2nd innings,England,South Africa,11.3,AJ Strauss,IJL Trott,WD Parnell,0,0,0,NA,0,NA,NA,NA,1
+387568,2nd innings,England,South Africa,11.4,AJ Strauss,IJL Trott,WD Parnell,4,0,4,NA,0,NA,NA,NA,1
+387568,2nd innings,England,South Africa,11.5,AJ Strauss,IJL Trott,WD Parnell,0,0,0,NA,0,NA,NA,NA,1
+387568,2nd innings,England,South Africa,11.6,AJ Strauss,IJL Trott,WD Parnell,4,0,4,NA,0,NA,NA,NA,1
+387568,2nd innings,England,South Africa,12.1,IJL Trott,AJ Strauss,M Morkel,0,0,0,NA,0,NA,NA,NA,1
+387568,2nd innings,England,South Africa,12.2,IJL Trott,AJ Strauss,M Morkel,1,0,1,NA,0,NA,NA,NA,1
+387568,2nd innings,England,South Africa,12.3,AJ Strauss,IJL Trott,M Morkel,4,0,4,NA,0,NA,NA,NA,1
+387568,2nd innings,England,South Africa,12.4,AJ Strauss,IJL Trott,M Morkel,0,0,0,NA,0,NA,NA,NA,1
+387568,2nd innings,England,South Africa,12.5,AJ Strauss,IJL Trott,M Morkel,0,0,0,NA,0,NA,NA,NA,1
+387568,2nd innings,England,South Africa,12.6,AJ Strauss,IJL Trott,M Morkel,0,0,0,NA,0,NA,NA,NA,1
+387568,2nd innings,England,South Africa,13.1,IJL Trott,AJ Strauss,R McLaren,1,0,1,NA,0,NA,NA,NA,1
+387568,2nd innings,England,South Africa,13.2,AJ Strauss,IJL Trott,R McLaren,0,0,0,NA,0,NA,NA,NA,1
+387568,2nd innings,England,South Africa,13.3,AJ Strauss,IJL Trott,R McLaren,4,0,4,NA,0,NA,NA,NA,1
+387568,2nd innings,England,South Africa,13.4,AJ Strauss,IJL Trott,R McLaren,0,0,0,NA,0,NA,NA,NA,1
+387568,2nd innings,England,South Africa,13.5,AJ Strauss,IJL Trott,R McLaren,0,0,0,NA,0,NA,NA,NA,1
+387568,2nd innings,England,South Africa,13.6,AJ Strauss,IJL Trott,R McLaren,0,0,0,NA,0,NA,NA,NA,1
+387568,2nd innings,England,South Africa,14.1,IJL Trott,AJ Strauss,CK Langeveldt,4,0,4,NA,0,NA,NA,NA,1
+387568,2nd innings,England,South Africa,14.2,IJL Trott,AJ Strauss,CK Langeveldt,1,0,1,NA,0,NA,NA,NA,1
+387568,2nd innings,England,South Africa,14.3,AJ Strauss,IJL Trott,CK Langeveldt,0,0,0,NA,0,NA,NA,NA,1
+387568,2nd innings,England,South Africa,14.4,AJ Strauss,IJL Trott,CK Langeveldt,0,0,0,NA,0,NA,NA,NA,1
+387568,2nd innings,England,South Africa,14.5,AJ Strauss,IJL Trott,CK Langeveldt,0,1,1,wides,0,NA,NA,NA,1
+387568,2nd innings,England,South Africa,14.6,AJ Strauss,IJL Trott,CK Langeveldt,0,0,0,NA,0,NA,NA,NA,1
+387568,2nd innings,England,South Africa,14.7,AJ Strauss,IJL Trott,CK Langeveldt,1,0,1,NA,0,NA,NA,NA,1
+387568,2nd innings,England,South Africa,15.1,AJ Strauss,IJL Trott,R McLaren,1,0,1,NA,0,NA,NA,NA,1
+387568,2nd innings,England,South Africa,15.2,IJL Trott,AJ Strauss,R McLaren,4,0,4,NA,0,NA,NA,NA,1
+387568,2nd innings,England,South Africa,15.3,IJL Trott,AJ Strauss,R McLaren,1,0,1,NA,0,NA,NA,NA,1
+387568,2nd innings,England,South Africa,15.4,AJ Strauss,IJL Trott,R McLaren,0,0,0,NA,0,NA,NA,NA,1
+387568,2nd innings,England,South Africa,15.5,AJ Strauss,IJL Trott,R McLaren,0,0,0,NA,0,NA,NA,NA,1
+387568,2nd innings,England,South Africa,15.6,AJ Strauss,IJL Trott,R McLaren,0,0,0,NA,0,NA,NA,NA,1
+387568,2nd innings,England,South Africa,16.1,IJL Trott,AJ Strauss,J Botha,0,0,0,NA,0,NA,NA,NA,1
+387568,2nd innings,England,South Africa,16.2,IJL Trott,AJ Strauss,J Botha,1,0,1,NA,0,NA,NA,NA,1
+387568,2nd innings,England,South Africa,16.3,AJ Strauss,IJL Trott,J Botha,0,0,0,NA,0,NA,NA,NA,1
+387568,2nd innings,England,South Africa,16.4,AJ Strauss,IJL Trott,J Botha,0,0,0,NA,0,NA,NA,NA,1
+387568,2nd innings,England,South Africa,16.5,AJ Strauss,IJL Trott,J Botha,0,0,0,NA,1,lbw,AJ Strauss,NA,1
+387568,2nd innings,England,South Africa,16.6,KP Pietersen,IJL Trott,J Botha,0,0,0,NA,0,NA,NA,NA,1
+387568,2nd innings,England,South Africa,17.1,IJL Trott,KP Pietersen,R McLaren,1,0,1,NA,0,NA,NA,NA,1
+387568,2nd innings,England,South Africa,17.2,KP Pietersen,IJL Trott,R McLaren,1,0,1,NA,0,NA,NA,NA,1
+387568,2nd innings,England,South Africa,17.3,IJL Trott,KP Pietersen,R McLaren,0,0,0,NA,0,NA,NA,NA,1
+387568,2nd innings,England,South Africa,17.4,IJL Trott,KP Pietersen,R McLaren,1,0,1,NA,0,NA,NA,NA,1
+387568,2nd innings,England,South Africa,17.5,KP Pietersen,IJL Trott,R McLaren,0,0,0,NA,0,NA,NA,NA,1
+387568,2nd innings,England,South Africa,17.6,KP Pietersen,IJL Trott,R McLaren,1,0,1,NA,0,NA,NA,NA,1
+387568,2nd innings,England,South Africa,18.1,KP Pietersen,IJL Trott,J Botha,1,0,1,NA,0,NA,NA,NA,1
+387568,2nd innings,England,South Africa,18.2,IJL Trott,KP Pietersen,J Botha,0,0,0,NA,0,NA,NA,NA,1
+387568,2nd innings,England,South Africa,18.3,IJL Trott,KP Pietersen,J Botha,1,0,1,NA,0,NA,NA,NA,1
+387568,2nd innings,England,South Africa,18.4,KP Pietersen,IJL Trott,J Botha,0,0,0,NA,1,caught,KP Pietersen,AB de Villiers,1
+387568,2nd innings,England,South Africa,18.5,PD Collingwood,IJL Trott,J Botha,0,0,0,NA,0,NA,NA,NA,1
+387568,2nd innings,England,South Africa,18.6,PD Collingwood,IJL Trott,J Botha,0,0,0,NA,0,NA,NA,NA,1
+387568,2nd innings,England,South Africa,19.1,IJL Trott,PD Collingwood,R McLaren,0,0,0,NA,0,NA,NA,NA,1
+387568,2nd innings,England,South Africa,19.2,IJL Trott,PD Collingwood,R McLaren,0,0,0,NA,0,NA,NA,NA,1
+387568,2nd innings,England,South Africa,19.3,IJL Trott,PD Collingwood,R McLaren,0,0,0,NA,0,NA,NA,NA,1
+387568,2nd innings,England,South Africa,19.4,IJL Trott,PD Collingwood,R McLaren,0,0,0,NA,0,NA,NA,NA,1
+387568,2nd innings,England,South Africa,19.5,IJL Trott,PD Collingwood,R McLaren,0,0,0,NA,0,NA,NA,NA,1
+387568,2nd innings,England,South Africa,19.6,IJL Trott,PD Collingwood,R McLaren,0,0,0,NA,0,NA,NA,NA,1
+387568,2nd innings,England,South Africa,20.1,PD Collingwood,IJL Trott,J Botha,1,0,1,NA,0,NA,NA,NA,1
+387568,2nd innings,England,South Africa,20.2,IJL Trott,PD Collingwood,J Botha,0,0,0,NA,0,NA,NA,NA,1
+387568,2nd innings,England,South Africa,20.3,IJL Trott,PD Collingwood,J Botha,0,0,0,NA,0,NA,NA,NA,1
+387568,2nd innings,England,South Africa,20.4,IJL Trott,PD Collingwood,J Botha,0,0,0,NA,0,NA,NA,NA,1
+387568,2nd innings,England,South Africa,20.5,IJL Trott,PD Collingwood,J Botha,0,0,0,NA,0,NA,NA,NA,1
+387568,2nd innings,England,South Africa,20.6,IJL Trott,PD Collingwood,J Botha,0,0,0,NA,0,NA,NA,NA,1
+387568,2nd innings,England,South Africa,21.1,PD Collingwood,IJL Trott,R McLaren,0,0,0,NA,0,NA,NA,NA,1
+387568,2nd innings,England,South Africa,21.2,PD Collingwood,IJL Trott,R McLaren,1,0,1,NA,0,NA,NA,NA,1
+387568,2nd innings,England,South Africa,21.3,IJL Trott,PD Collingwood,R McLaren,1,0,1,NA,0,NA,NA,NA,1
+387568,2nd innings,England,South Africa,21.4,PD Collingwood,IJL Trott,R McLaren,0,0,0,NA,1,caught,PD Collingwood,MV Boucher,1
+387568,2nd innings,England,South Africa,21.5,EJG Morgan,IJL Trott,R McLaren,4,0,4,NA,0,NA,NA,NA,1
+387568,2nd innings,England,South Africa,21.6,EJG Morgan,IJL Trott,R McLaren,0,0,0,NA,0,NA,NA,NA,1
+387568,2nd innings,England,South Africa,22.1,IJL Trott,EJG Morgan,J Botha,0,0,0,NA,0,NA,NA,NA,1
+387568,2nd innings,England,South Africa,22.2,IJL Trott,EJG Morgan,J Botha,0,0,0,NA,0,NA,NA,NA,1
+387568,2nd innings,England,South Africa,22.3,IJL Trott,EJG Morgan,J Botha,1,0,1,NA,0,NA,NA,NA,1
+387568,2nd innings,England,South Africa,22.4,EJG Morgan,IJL Trott,J Botha,0,0,0,NA,0,NA,NA,NA,1
+387568,2nd innings,England,South Africa,22.5,EJG Morgan,IJL Trott,J Botha,1,0,1,NA,0,NA,NA,NA,1
+387568,2nd innings,England,South Africa,22.6,IJL Trott,EJG Morgan,J Botha,0,0,0,NA,0,NA,NA,NA,1
+387568,2nd innings,England,South Africa,23.1,EJG Morgan,IJL Trott,R McLaren,0,0,0,NA,0,NA,NA,NA,1
+387568,2nd innings,England,South Africa,23.2,EJG Morgan,IJL Trott,R McLaren,0,0,0,NA,0,NA,NA,NA,1
+387568,2nd innings,England,South Africa,23.3,EJG Morgan,IJL Trott,R McLaren,0,0,0,NA,0,NA,NA,NA,1
+387568,2nd innings,England,South Africa,23.4,EJG Morgan,IJL Trott,R McLaren,0,0,0,NA,0,NA,NA,NA,1
+387568,2nd innings,England,South Africa,23.5,EJG Morgan,IJL Trott,R McLaren,4,0,4,NA,0,NA,NA,NA,1
+387568,2nd innings,England,South Africa,23.6,EJG Morgan,IJL Trott,R McLaren,0,0,0,NA,0,NA,NA,NA,1
+387568,2nd innings,England,South Africa,24.1,IJL Trott,EJG Morgan,J Botha,4,0,4,NA,0,NA,NA,NA,1
+387568,2nd innings,England,South Africa,24.2,IJL Trott,EJG Morgan,J Botha,0,0,0,NA,0,NA,NA,NA,1
+387568,2nd innings,England,South Africa,24.3,IJL Trott,EJG Morgan,J Botha,0,0,0,NA,0,NA,NA,NA,1
+387568,2nd innings,England,South Africa,24.4,IJL Trott,EJG Morgan,J Botha,0,0,0,NA,0,NA,NA,NA,1
+387568,2nd innings,England,South Africa,24.5,IJL Trott,EJG Morgan,J Botha,0,0,0,NA,0,NA,NA,NA,1
+387568,2nd innings,England,South Africa,24.6,IJL Trott,EJG Morgan,J Botha,0,0,0,NA,0,NA,NA,NA,1
+387568,2nd innings,England,South Africa,25.1,EJG Morgan,IJL Trott,CK Langeveldt,0,0,0,NA,0,NA,NA,NA,1
+387568,2nd innings,England,South Africa,25.2,EJG Morgan,IJL Trott,CK Langeveldt,0,0,0,NA,0,NA,NA,NA,1
+387568,2nd innings,England,South Africa,25.3,EJG Morgan,IJL Trott,CK Langeveldt,0,0,0,NA,0,NA,NA,NA,1
+387568,2nd innings,England,South Africa,25.4,EJG Morgan,IJL Trott,CK Langeveldt,0,0,0,NA,0,NA,NA,NA,1
+387568,2nd innings,England,South Africa,25.5,EJG Morgan,IJL Trott,CK Langeveldt,0,0,0,NA,0,NA,NA,NA,1
+387568,2nd innings,England,South Africa,25.6,EJG Morgan,IJL Trott,CK Langeveldt,0,0,0,NA,0,NA,NA,NA,1
+387568,2nd innings,England,South Africa,26.1,IJL Trott,EJG Morgan,J Botha,1,0,1,NA,0,NA,NA,NA,1
+387568,2nd innings,England,South Africa,26.2,EJG Morgan,IJL Trott,J Botha,0,0,0,NA,0,NA,NA,NA,1
+387568,2nd innings,England,South Africa,26.3,EJG Morgan,IJL Trott,J Botha,0,0,0,NA,0,NA,NA,NA,1
+387568,2nd innings,England,South Africa,26.4,EJG Morgan,IJL Trott,J Botha,0,0,0,NA,0,NA,NA,NA,1
+387568,2nd innings,England,South Africa,26.5,EJG Morgan,IJL Trott,J Botha,1,0,1,NA,0,NA,NA,NA,1
+387568,2nd innings,England,South Africa,26.6,IJL Trott,EJG Morgan,J Botha,0,0,0,NA,0,NA,NA,NA,1
+387568,2nd innings,England,South Africa,27.1,EJG Morgan,IJL Trott,CK Langeveldt,0,0,0,NA,0,NA,NA,NA,1
+387568,2nd innings,England,South Africa,27.2,EJG Morgan,IJL Trott,CK Langeveldt,2,0,2,NA,0,NA,NA,NA,1
+387568,2nd innings,England,South Africa,27.3,EJG Morgan,IJL Trott,CK Langeveldt,0,0,0,NA,0,NA,NA,NA,1
+387568,2nd innings,England,South Africa,27.4,EJG Morgan,IJL Trott,CK Langeveldt,4,0,4,NA,0,NA,NA,NA,1
+387568,2nd innings,England,South Africa,27.5,EJG Morgan,IJL Trott,CK Langeveldt,0,0,0,NA,0,NA,NA,NA,1
+387568,2nd innings,England,South Africa,27.6,EJG Morgan,IJL Trott,CK Langeveldt,0,0,0,NA,0,NA,NA,NA,1
+387568,2nd innings,England,South Africa,28.1,IJL Trott,EJG Morgan,J Botha,1,0,1,NA,0,NA,NA,NA,1
+387568,2nd innings,England,South Africa,28.2,EJG Morgan,IJL Trott,J Botha,4,0,4,NA,0,NA,NA,NA,1
+387568,2nd innings,England,South Africa,28.3,EJG Morgan,IJL Trott,J Botha,0,0,0,NA,0,NA,NA,NA,1
+387568,2nd innings,England,South Africa,28.4,EJG Morgan,IJL Trott,J Botha,0,0,0,NA,0,NA,NA,NA,1
+387568,2nd innings,England,South Africa,28.5,EJG Morgan,IJL Trott,J Botha,1,0,1,NA,0,NA,NA,NA,1
+387568,2nd innings,England,South Africa,28.6,IJL Trott,EJG Morgan,J Botha,0,0,0,NA,0,NA,NA,NA,1
+387568,2nd innings,England,South Africa,29.1,EJG Morgan,IJL Trott,M Morkel,0,0,0,NA,0,NA,NA,NA,1
+387568,2nd innings,England,South Africa,29.2,EJG Morgan,IJL Trott,M Morkel,0,0,0,NA,0,NA,NA,NA,1
+387568,2nd innings,England,South Africa,29.3,EJG Morgan,IJL Trott,M Morkel,0,0,0,NA,0,NA,NA,NA,1
+387568,2nd innings,England,South Africa,29.4,EJG Morgan,IJL Trott,M Morkel,0,0,0,NA,0,NA,NA,NA,1
+387568,2nd innings,England,South Africa,29.5,EJG Morgan,IJL Trott,M Morkel,2,0,2,NA,0,NA,NA,NA,1
+387568,2nd innings,England,South Africa,29.6,EJG Morgan,IJL Trott,M Morkel,0,0,0,NA,0,NA,NA,NA,1
+387568,2nd innings,England,South Africa,30.1,IJL Trott,EJG Morgan,J Botha,1,0,1,NA,0,NA,NA,NA,1
+387568,2nd innings,England,South Africa,30.2,EJG Morgan,IJL Trott,J Botha,0,0,0,NA,0,NA,NA,NA,1
+387568,2nd innings,England,South Africa,30.3,EJG Morgan,IJL Trott,J Botha,1,0,1,NA,0,NA,NA,NA,1
+387568,2nd innings,England,South Africa,30.4,IJL Trott,EJG Morgan,J Botha,0,0,0,NA,0,NA,NA,NA,1
+387568,2nd innings,England,South Africa,30.5,IJL Trott,EJG Morgan,J Botha,2,0,2,NA,0,NA,NA,NA,1
+387568,2nd innings,England,South Africa,30.6,IJL Trott,EJG Morgan,J Botha,0,0,0,NA,0,NA,NA,NA,1
+387568,2nd innings,England,South Africa,31.1,EJG Morgan,IJL Trott,M Morkel,0,0,0,NA,0,NA,NA,NA,1
+387568,2nd innings,England,South Africa,31.2,EJG Morgan,IJL Trott,M Morkel,4,0,4,NA,0,NA,NA,NA,1

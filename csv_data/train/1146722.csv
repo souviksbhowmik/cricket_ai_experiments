@@ -1,0 +1,620 @@
+match_id,innings,team,opponent,ball,batsman,non_striker,bowler,scored_runs,extras,total,extra_type,wicket,wicket_type,player_out,fielders,winner
+1146722,1st innings,Bangladesh,West Indies,0.1,Tamim Iqbal,Anamul Haque,SS Cottrell,0,1,1,wides,0,NA,NA,NA,1
+1146722,1st innings,Bangladesh,West Indies,0.2,Tamim Iqbal,Anamul Haque,SS Cottrell,0,0,0,NA,0,NA,NA,NA,1
+1146722,1st innings,Bangladesh,West Indies,0.3,Tamim Iqbal,Anamul Haque,SS Cottrell,0,0,0,NA,0,NA,NA,NA,1
+1146722,1st innings,Bangladesh,West Indies,0.4,Tamim Iqbal,Anamul Haque,SS Cottrell,0,1,1,legbyes,0,NA,NA,NA,1
+1146722,1st innings,Bangladesh,West Indies,0.5,Anamul Haque,Tamim Iqbal,SS Cottrell,0,0,0,NA,0,NA,NA,NA,1
+1146722,1st innings,Bangladesh,West Indies,0.6,Anamul Haque,Tamim Iqbal,SS Cottrell,0,1,1,noballs,0,NA,NA,NA,1
+1146722,1st innings,Bangladesh,West Indies,0.7,Anamul Haque,Tamim Iqbal,SS Cottrell,1,0,1,NA,0,NA,NA,NA,1
+1146722,1st innings,Bangladesh,West Indies,0.8,Tamim Iqbal,Anamul Haque,SS Cottrell,2,0,2,NA,0,NA,NA,NA,1
+1146722,1st innings,Bangladesh,West Indies,1.1,Anamul Haque,Tamim Iqbal,JO Holder,0,0,0,NA,0,NA,NA,NA,1
+1146722,1st innings,Bangladesh,West Indies,1.2,Anamul Haque,Tamim Iqbal,JO Holder,0,0,0,NA,0,NA,NA,NA,1
+1146722,1st innings,Bangladesh,West Indies,1.3,Anamul Haque,Tamim Iqbal,JO Holder,0,0,0,NA,0,NA,NA,NA,1
+1146722,1st innings,Bangladesh,West Indies,1.4,Anamul Haque,Tamim Iqbal,JO Holder,0,0,0,NA,0,NA,NA,NA,1
+1146722,1st innings,Bangladesh,West Indies,1.5,Anamul Haque,Tamim Iqbal,JO Holder,0,0,0,NA,0,NA,NA,NA,1
+1146722,1st innings,Bangladesh,West Indies,1.6,Anamul Haque,Tamim Iqbal,JO Holder,4,0,4,NA,0,NA,NA,NA,1
+1146722,1st innings,Bangladesh,West Indies,2.1,Tamim Iqbal,Anamul Haque,SS Cottrell,3,0,3,NA,0,NA,NA,NA,1
+1146722,1st innings,Bangladesh,West Indies,2.2,Anamul Haque,Tamim Iqbal,SS Cottrell,2,0,2,NA,0,NA,NA,NA,1
+1146722,1st innings,Bangladesh,West Indies,2.3,Anamul Haque,Tamim Iqbal,SS Cottrell,0,0,0,NA,0,NA,NA,NA,1
+1146722,1st innings,Bangladesh,West Indies,2.4,Anamul Haque,Tamim Iqbal,SS Cottrell,0,0,0,NA,0,NA,NA,NA,1
+1146722,1st innings,Bangladesh,West Indies,2.5,Anamul Haque,Tamim Iqbal,SS Cottrell,0,0,0,NA,0,NA,NA,NA,1
+1146722,1st innings,Bangladesh,West Indies,2.6,Anamul Haque,Tamim Iqbal,SS Cottrell,0,0,0,NA,0,NA,NA,NA,1
+1146722,1st innings,Bangladesh,West Indies,3.1,Tamim Iqbal,Anamul Haque,JO Holder,0,0,0,NA,0,NA,NA,NA,1
+1146722,1st innings,Bangladesh,West Indies,3.2,Tamim Iqbal,Anamul Haque,JO Holder,0,0,0,NA,0,NA,NA,NA,1
+1146722,1st innings,Bangladesh,West Indies,3.3,Tamim Iqbal,Anamul Haque,JO Holder,0,0,0,NA,0,NA,NA,NA,1
+1146722,1st innings,Bangladesh,West Indies,3.4,Tamim Iqbal,Anamul Haque,JO Holder,0,1,1,wides,0,NA,NA,NA,1
+1146722,1st innings,Bangladesh,West Indies,3.5,Tamim Iqbal,Anamul Haque,JO Holder,0,0,0,NA,0,NA,NA,NA,1
+1146722,1st innings,Bangladesh,West Indies,3.6,Tamim Iqbal,Anamul Haque,JO Holder,1,0,1,NA,0,NA,NA,NA,1
+1146722,1st innings,Bangladesh,West Indies,3.7,Anamul Haque,Tamim Iqbal,JO Holder,0,0,0,NA,0,NA,NA,NA,1
+1146722,1st innings,Bangladesh,West Indies,4.1,Tamim Iqbal,Anamul Haque,SS Cottrell,0,0,0,NA,0,NA,NA,NA,1
+1146722,1st innings,Bangladesh,West Indies,4.2,Tamim Iqbal,Anamul Haque,SS Cottrell,0,0,0,NA,0,NA,NA,NA,1
+1146722,1st innings,Bangladesh,West Indies,4.3,Tamim Iqbal,Anamul Haque,SS Cottrell,4,0,4,NA,0,NA,NA,NA,1
+1146722,1st innings,Bangladesh,West Indies,4.4,Tamim Iqbal,Anamul Haque,SS Cottrell,4,0,4,NA,0,NA,NA,NA,1
+1146722,1st innings,Bangladesh,West Indies,4.5,Tamim Iqbal,Anamul Haque,SS Cottrell,0,0,0,NA,0,NA,NA,NA,1
+1146722,1st innings,Bangladesh,West Indies,4.6,Tamim Iqbal,Anamul Haque,SS Cottrell,0,0,0,NA,0,NA,NA,NA,1
+1146722,1st innings,Bangladesh,West Indies,5.1,Anamul Haque,Tamim Iqbal,JO Holder,0,0,0,NA,0,NA,NA,NA,1
+1146722,1st innings,Bangladesh,West Indies,5.2,Anamul Haque,Tamim Iqbal,JO Holder,0,0,0,NA,0,NA,NA,NA,1
+1146722,1st innings,Bangladesh,West Indies,5.3,Anamul Haque,Tamim Iqbal,JO Holder,0,0,0,NA,0,NA,NA,NA,1
+1146722,1st innings,Bangladesh,West Indies,5.4,Anamul Haque,Tamim Iqbal,JO Holder,1,0,1,NA,0,NA,NA,NA,1
+1146722,1st innings,Bangladesh,West Indies,5.5,Tamim Iqbal,Anamul Haque,JO Holder,1,0,1,NA,0,NA,NA,NA,1
+1146722,1st innings,Bangladesh,West Indies,5.6,Anamul Haque,Tamim Iqbal,JO Holder,0,0,0,NA,0,NA,NA,NA,1
+1146722,1st innings,Bangladesh,West Indies,6.1,Tamim Iqbal,Anamul Haque,SS Cottrell,0,0,0,NA,0,NA,NA,NA,1
+1146722,1st innings,Bangladesh,West Indies,6.2,Tamim Iqbal,Anamul Haque,SS Cottrell,0,0,0,NA,0,NA,NA,NA,1
+1146722,1st innings,Bangladesh,West Indies,6.3,Tamim Iqbal,Anamul Haque,SS Cottrell,0,0,0,NA,0,NA,NA,NA,1
+1146722,1st innings,Bangladesh,West Indies,6.4,Tamim Iqbal,Anamul Haque,SS Cottrell,1,0,1,NA,0,NA,NA,NA,1
+1146722,1st innings,Bangladesh,West Indies,6.5,Anamul Haque,Tamim Iqbal,SS Cottrell,0,0,0,NA,0,NA,NA,NA,1
+1146722,1st innings,Bangladesh,West Indies,6.6,Anamul Haque,Tamim Iqbal,SS Cottrell,0,0,0,NA,0,NA,NA,NA,1
+1146722,1st innings,Bangladesh,West Indies,7.1,Tamim Iqbal,Anamul Haque,JO Holder,2,0,2,NA,0,NA,NA,NA,1
+1146722,1st innings,Bangladesh,West Indies,7.2,Tamim Iqbal,Anamul Haque,JO Holder,1,0,1,NA,0,NA,NA,NA,1
+1146722,1st innings,Bangladesh,West Indies,7.3,Anamul Haque,Tamim Iqbal,JO Holder,0,0,0,NA,0,NA,NA,NA,1
+1146722,1st innings,Bangladesh,West Indies,7.4,Anamul Haque,Tamim Iqbal,JO Holder,0,0,0,NA,0,NA,NA,NA,1
+1146722,1st innings,Bangladesh,West Indies,7.5,Anamul Haque,Tamim Iqbal,JO Holder,1,0,1,NA,0,NA,NA,NA,1
+1146722,1st innings,Bangladesh,West Indies,7.6,Tamim Iqbal,Anamul Haque,JO Holder,0,0,0,NA,0,NA,NA,NA,1
+1146722,1st innings,Bangladesh,West Indies,8.1,Anamul Haque,Tamim Iqbal,SS Cottrell,0,0,0,NA,0,NA,NA,NA,1
+1146722,1st innings,Bangladesh,West Indies,8.2,Anamul Haque,Tamim Iqbal,SS Cottrell,1,0,1,NA,0,NA,NA,NA,1
+1146722,1st innings,Bangladesh,West Indies,8.3,Tamim Iqbal,Anamul Haque,SS Cottrell,1,0,1,NA,0,NA,NA,NA,1
+1146722,1st innings,Bangladesh,West Indies,8.4,Anamul Haque,Tamim Iqbal,SS Cottrell,0,0,0,NA,0,NA,NA,NA,1
+1146722,1st innings,Bangladesh,West Indies,8.5,Anamul Haque,Tamim Iqbal,SS Cottrell,0,0,0,NA,0,NA,NA,NA,1
+1146722,1st innings,Bangladesh,West Indies,8.6,Anamul Haque,Tamim Iqbal,SS Cottrell,0,0,0,NA,0,NA,NA,NA,1
+1146722,1st innings,Bangladesh,West Indies,9.1,Tamim Iqbal,Anamul Haque,JO Holder,0,0,0,NA,0,NA,NA,NA,1
+1146722,1st innings,Bangladesh,West Indies,9.2,Tamim Iqbal,Anamul Haque,JO Holder,1,0,1,NA,0,NA,NA,NA,1
+1146722,1st innings,Bangladesh,West Indies,9.3,Anamul Haque,Tamim Iqbal,JO Holder,0,0,0,NA,1,caught,Anamul Haque,KOA Powell,1
+1146722,1st innings,Bangladesh,West Indies,9.4,Tamim Iqbal,Shakib Al Hasan,JO Holder,2,0,2,NA,0,NA,NA,NA,1
+1146722,1st innings,Bangladesh,West Indies,9.5,Tamim Iqbal,Shakib Al Hasan,JO Holder,0,0,0,NA,0,NA,NA,NA,1
+1146722,1st innings,Bangladesh,West Indies,9.6,Tamim Iqbal,Shakib Al Hasan,JO Holder,0,0,0,NA,0,NA,NA,NA,1
+1146722,1st innings,Bangladesh,West Indies,10.1,Shakib Al Hasan,Tamim Iqbal,D Bishoo,0,0,0,NA,0,NA,NA,NA,1
+1146722,1st innings,Bangladesh,West Indies,10.2,Shakib Al Hasan,Tamim Iqbal,D Bishoo,0,0,0,NA,0,NA,NA,NA,1
+1146722,1st innings,Bangladesh,West Indies,10.3,Shakib Al Hasan,Tamim Iqbal,D Bishoo,1,0,1,NA,0,NA,NA,NA,1
+1146722,1st innings,Bangladesh,West Indies,10.4,Tamim Iqbal,Shakib Al Hasan,D Bishoo,0,0,0,NA,0,NA,NA,NA,1
+1146722,1st innings,Bangladesh,West Indies,10.5,Tamim Iqbal,Shakib Al Hasan,D Bishoo,0,0,0,NA,0,NA,NA,NA,1
+1146722,1st innings,Bangladesh,West Indies,10.6,Tamim Iqbal,Shakib Al Hasan,D Bishoo,0,0,0,NA,0,NA,NA,NA,1
+1146722,1st innings,Bangladesh,West Indies,11.1,Shakib Al Hasan,Tamim Iqbal,JO Holder,0,0,0,NA,0,NA,NA,NA,1
+1146722,1st innings,Bangladesh,West Indies,11.2,Shakib Al Hasan,Tamim Iqbal,JO Holder,4,0,4,NA,0,NA,NA,NA,1
+1146722,1st innings,Bangladesh,West Indies,11.3,Shakib Al Hasan,Tamim Iqbal,JO Holder,0,0,0,NA,0,NA,NA,NA,1
+1146722,1st innings,Bangladesh,West Indies,11.4,Shakib Al Hasan,Tamim Iqbal,JO Holder,1,0,1,NA,0,NA,NA,NA,1
+1146722,1st innings,Bangladesh,West Indies,11.5,Tamim Iqbal,Shakib Al Hasan,JO Holder,2,0,2,NA,0,NA,NA,NA,1
+1146722,1st innings,Bangladesh,West Indies,11.6,Tamim Iqbal,Shakib Al Hasan,JO Holder,0,1,1,wides,0,NA,NA,NA,1
+1146722,1st innings,Bangladesh,West Indies,11.7,Tamim Iqbal,Shakib Al Hasan,JO Holder,1,0,1,NA,0,NA,NA,NA,1
+1146722,1st innings,Bangladesh,West Indies,12.1,Tamim Iqbal,Shakib Al Hasan,D Bishoo,1,0,1,NA,0,NA,NA,NA,1
+1146722,1st innings,Bangladesh,West Indies,12.2,Shakib Al Hasan,Tamim Iqbal,D Bishoo,1,0,1,NA,0,NA,NA,NA,1
+1146722,1st innings,Bangladesh,West Indies,12.3,Tamim Iqbal,Shakib Al Hasan,D Bishoo,1,0,1,NA,0,NA,NA,NA,1
+1146722,1st innings,Bangladesh,West Indies,12.4,Shakib Al Hasan,Tamim Iqbal,D Bishoo,1,0,1,NA,0,NA,NA,NA,1
+1146722,1st innings,Bangladesh,West Indies,12.5,Tamim Iqbal,Shakib Al Hasan,D Bishoo,1,0,1,NA,0,NA,NA,NA,1
+1146722,1st innings,Bangladesh,West Indies,12.6,Shakib Al Hasan,Tamim Iqbal,D Bishoo,1,0,1,NA,0,NA,NA,NA,1
+1146722,1st innings,Bangladesh,West Indies,13.1,Shakib Al Hasan,Tamim Iqbal,KMA Paul,1,0,1,NA,0,NA,NA,NA,1
+1146722,1st innings,Bangladesh,West Indies,13.2,Tamim Iqbal,Shakib Al Hasan,KMA Paul,4,0,4,NA,0,NA,NA,NA,1
+1146722,1st innings,Bangladesh,West Indies,13.3,Tamim Iqbal,Shakib Al Hasan,KMA Paul,1,0,1,NA,0,NA,NA,NA,1
+1146722,1st innings,Bangladesh,West Indies,13.4,Shakib Al Hasan,Tamim Iqbal,KMA Paul,1,0,1,NA,0,NA,NA,NA,1
+1146722,1st innings,Bangladesh,West Indies,13.5,Tamim Iqbal,Shakib Al Hasan,KMA Paul,0,0,0,NA,0,NA,NA,NA,1
+1146722,1st innings,Bangladesh,West Indies,13.6,Tamim Iqbal,Shakib Al Hasan,KMA Paul,1,0,1,NA,0,NA,NA,NA,1
+1146722,1st innings,Bangladesh,West Indies,14.1,Tamim Iqbal,Shakib Al Hasan,D Bishoo,0,0,0,NA,0,NA,NA,NA,1
+1146722,1st innings,Bangladesh,West Indies,14.2,Tamim Iqbal,Shakib Al Hasan,D Bishoo,0,0,0,NA,0,NA,NA,NA,1
+1146722,1st innings,Bangladesh,West Indies,14.3,Tamim Iqbal,Shakib Al Hasan,D Bishoo,0,0,0,NA,0,NA,NA,NA,1
+1146722,1st innings,Bangladesh,West Indies,14.4,Tamim Iqbal,Shakib Al Hasan,D Bishoo,0,0,0,NA,0,NA,NA,NA,1
+1146722,1st innings,Bangladesh,West Indies,14.5,Tamim Iqbal,Shakib Al Hasan,D Bishoo,0,0,0,NA,0,NA,NA,NA,1
+1146722,1st innings,Bangladesh,West Indies,14.6,Tamim Iqbal,Shakib Al Hasan,D Bishoo,0,0,0,NA,0,NA,NA,NA,1
+1146722,1st innings,Bangladesh,West Indies,15.1,Shakib Al Hasan,Tamim Iqbal,KMA Paul,1,0,1,NA,0,NA,NA,NA,1
+1146722,1st innings,Bangladesh,West Indies,15.2,Tamim Iqbal,Shakib Al Hasan,KMA Paul,1,0,1,NA,0,NA,NA,NA,1
+1146722,1st innings,Bangladesh,West Indies,15.3,Shakib Al Hasan,Tamim Iqbal,KMA Paul,0,0,0,NA,0,NA,NA,NA,1
+1146722,1st innings,Bangladesh,West Indies,15.4,Shakib Al Hasan,Tamim Iqbal,KMA Paul,0,0,0,NA,0,NA,NA,NA,1
+1146722,1st innings,Bangladesh,West Indies,15.5,Shakib Al Hasan,Tamim Iqbal,KMA Paul,1,0,1,NA,0,NA,NA,NA,1
+1146722,1st innings,Bangladesh,West Indies,15.6,Tamim Iqbal,Shakib Al Hasan,KMA Paul,1,0,1,NA,0,NA,NA,NA,1
+1146722,1st innings,Bangladesh,West Indies,16.1,Tamim Iqbal,Shakib Al Hasan,D Bishoo,1,0,1,NA,0,NA,NA,NA,1
+1146722,1st innings,Bangladesh,West Indies,16.2,Shakib Al Hasan,Tamim Iqbal,D Bishoo,1,0,1,NA,0,NA,NA,NA,1
+1146722,1st innings,Bangladesh,West Indies,16.3,Tamim Iqbal,Shakib Al Hasan,D Bishoo,1,0,1,NA,0,NA,NA,NA,1
+1146722,1st innings,Bangladesh,West Indies,16.4,Shakib Al Hasan,Tamim Iqbal,D Bishoo,1,0,1,NA,0,NA,NA,NA,1
+1146722,1st innings,Bangladesh,West Indies,16.5,Tamim Iqbal,Shakib Al Hasan,D Bishoo,0,0,0,NA,0,NA,NA,NA,1
+1146722,1st innings,Bangladesh,West Indies,16.6,Tamim Iqbal,Shakib Al Hasan,D Bishoo,1,0,1,NA,0,NA,NA,NA,1
+1146722,1st innings,Bangladesh,West Indies,17.1,Tamim Iqbal,Shakib Al Hasan,KMA Paul,0,0,0,NA,0,NA,NA,NA,1
+1146722,1st innings,Bangladesh,West Indies,17.2,Tamim Iqbal,Shakib Al Hasan,KMA Paul,0,0,0,NA,0,NA,NA,NA,1
+1146722,1st innings,Bangladesh,West Indies,17.3,Tamim Iqbal,Shakib Al Hasan,KMA Paul,1,0,1,NA,0,NA,NA,NA,1
+1146722,1st innings,Bangladesh,West Indies,17.4,Shakib Al Hasan,Tamim Iqbal,KMA Paul,4,0,4,NA,0,NA,NA,NA,1
+1146722,1st innings,Bangladesh,West Indies,17.5,Shakib Al Hasan,Tamim Iqbal,KMA Paul,4,0,4,NA,0,NA,NA,NA,1
+1146722,1st innings,Bangladesh,West Indies,17.6,Shakib Al Hasan,Tamim Iqbal,KMA Paul,1,0,1,NA,0,NA,NA,NA,1
+1146722,1st innings,Bangladesh,West Indies,18.1,Shakib Al Hasan,Tamim Iqbal,D Bishoo,1,0,1,NA,0,NA,NA,NA,1
+1146722,1st innings,Bangladesh,West Indies,18.2,Tamim Iqbal,Shakib Al Hasan,D Bishoo,0,0,0,NA,0,NA,NA,NA,1
+1146722,1st innings,Bangladesh,West Indies,18.3,Tamim Iqbal,Shakib Al Hasan,D Bishoo,0,1,1,wides,0,NA,NA,NA,1
+1146722,1st innings,Bangladesh,West Indies,18.4,Tamim Iqbal,Shakib Al Hasan,D Bishoo,1,0,1,NA,0,NA,NA,NA,1
+1146722,1st innings,Bangladesh,West Indies,18.5,Shakib Al Hasan,Tamim Iqbal,D Bishoo,1,0,1,NA,0,NA,NA,NA,1
+1146722,1st innings,Bangladesh,West Indies,18.6,Tamim Iqbal,Shakib Al Hasan,D Bishoo,4,0,4,NA,0,NA,NA,NA,1
+1146722,1st innings,Bangladesh,West Indies,18.7,Tamim Iqbal,Shakib Al Hasan,D Bishoo,0,0,0,NA,0,NA,NA,NA,1
+1146722,1st innings,Bangladesh,West Indies,19.1,Shakib Al Hasan,Tamim Iqbal,AR Nurse,0,0,0,NA,0,NA,NA,NA,1
+1146722,1st innings,Bangladesh,West Indies,19.2,Shakib Al Hasan,Tamim Iqbal,AR Nurse,0,0,0,NA,0,NA,NA,NA,1
+1146722,1st innings,Bangladesh,West Indies,19.3,Shakib Al Hasan,Tamim Iqbal,AR Nurse,0,0,0,NA,0,NA,NA,NA,1
+1146722,1st innings,Bangladesh,West Indies,19.4,Shakib Al Hasan,Tamim Iqbal,AR Nurse,1,0,1,NA,0,NA,NA,NA,1
+1146722,1st innings,Bangladesh,West Indies,19.5,Tamim Iqbal,Shakib Al Hasan,AR Nurse,1,0,1,NA,0,NA,NA,NA,1
+1146722,1st innings,Bangladesh,West Indies,19.6,Shakib Al Hasan,Tamim Iqbal,AR Nurse,0,0,0,NA,0,NA,NA,NA,1
+1146722,1st innings,Bangladesh,West Indies,20.1,Tamim Iqbal,Shakib Al Hasan,D Bishoo,0,0,0,NA,0,NA,NA,NA,1
+1146722,1st innings,Bangladesh,West Indies,20.2,Tamim Iqbal,Shakib Al Hasan,D Bishoo,0,0,0,NA,0,NA,NA,NA,1
+1146722,1st innings,Bangladesh,West Indies,20.3,Tamim Iqbal,Shakib Al Hasan,D Bishoo,1,0,1,NA,0,NA,NA,NA,1
+1146722,1st innings,Bangladesh,West Indies,20.4,Shakib Al Hasan,Tamim Iqbal,D Bishoo,0,0,0,NA,0,NA,NA,NA,1
+1146722,1st innings,Bangladesh,West Indies,20.5,Shakib Al Hasan,Tamim Iqbal,D Bishoo,0,0,0,NA,0,NA,NA,NA,1
+1146722,1st innings,Bangladesh,West Indies,20.6,Shakib Al Hasan,Tamim Iqbal,D Bishoo,1,0,1,NA,0,NA,NA,NA,1
+1146722,1st innings,Bangladesh,West Indies,21.1,Shakib Al Hasan,Tamim Iqbal,AR Nurse,1,0,1,NA,0,NA,NA,NA,1
+1146722,1st innings,Bangladesh,West Indies,21.2,Tamim Iqbal,Shakib Al Hasan,AR Nurse,2,0,2,NA,0,NA,NA,NA,1
+1146722,1st innings,Bangladesh,West Indies,21.3,Tamim Iqbal,Shakib Al Hasan,AR Nurse,1,0,1,NA,0,NA,NA,NA,1
+1146722,1st innings,Bangladesh,West Indies,21.4,Shakib Al Hasan,Tamim Iqbal,AR Nurse,1,0,1,NA,0,NA,NA,NA,1
+1146722,1st innings,Bangladesh,West Indies,21.5,Tamim Iqbal,Shakib Al Hasan,AR Nurse,0,0,0,NA,0,NA,NA,NA,1
+1146722,1st innings,Bangladesh,West Indies,21.6,Tamim Iqbal,Shakib Al Hasan,AR Nurse,2,0,2,NA,0,NA,NA,NA,1
+1146722,1st innings,Bangladesh,West Indies,22.1,Shakib Al Hasan,Tamim Iqbal,CH Gayle,1,0,1,NA,0,NA,NA,NA,1
+1146722,1st innings,Bangladesh,West Indies,22.2,Tamim Iqbal,Shakib Al Hasan,CH Gayle,0,0,0,NA,0,NA,NA,NA,1
+1146722,1st innings,Bangladesh,West Indies,22.3,Tamim Iqbal,Shakib Al Hasan,CH Gayle,4,0,4,NA,0,NA,NA,NA,1
+1146722,1st innings,Bangladesh,West Indies,22.4,Tamim Iqbal,Shakib Al Hasan,CH Gayle,1,0,1,NA,0,NA,NA,NA,1
+1146722,1st innings,Bangladesh,West Indies,22.5,Shakib Al Hasan,Tamim Iqbal,CH Gayle,1,0,1,NA,0,NA,NA,NA,1
+1146722,1st innings,Bangladesh,West Indies,22.6,Tamim Iqbal,Shakib Al Hasan,CH Gayle,0,0,0,NA,0,NA,NA,NA,1
+1146722,1st innings,Bangladesh,West Indies,23.1,Shakib Al Hasan,Tamim Iqbal,AR Nurse,1,0,1,NA,0,NA,NA,NA,1
+1146722,1st innings,Bangladesh,West Indies,23.2,Tamim Iqbal,Shakib Al Hasan,AR Nurse,1,0,1,NA,0,NA,NA,NA,1
+1146722,1st innings,Bangladesh,West Indies,23.3,Shakib Al Hasan,Tamim Iqbal,AR Nurse,0,0,0,NA,0,NA,NA,NA,1
+1146722,1st innings,Bangladesh,West Indies,23.4,Shakib Al Hasan,Tamim Iqbal,AR Nurse,1,0,1,NA,0,NA,NA,NA,1
+1146722,1st innings,Bangladesh,West Indies,23.5,Tamim Iqbal,Shakib Al Hasan,AR Nurse,0,0,0,NA,0,NA,NA,NA,1
+1146722,1st innings,Bangladesh,West Indies,23.6,Tamim Iqbal,Shakib Al Hasan,AR Nurse,0,0,0,NA,0,NA,NA,NA,1
+1146722,1st innings,Bangladesh,West Indies,24.1,Shakib Al Hasan,Tamim Iqbal,CH Gayle,0,1,1,wides,0,NA,NA,NA,1
+1146722,1st innings,Bangladesh,West Indies,24.2,Shakib Al Hasan,Tamim Iqbal,CH Gayle,1,0,1,NA,0,NA,NA,NA,1
+1146722,1st innings,Bangladesh,West Indies,24.3,Tamim Iqbal,Shakib Al Hasan,CH Gayle,1,0,1,NA,0,NA,NA,NA,1
+1146722,1st innings,Bangladesh,West Indies,24.4,Shakib Al Hasan,Tamim Iqbal,CH Gayle,1,0,1,NA,0,NA,NA,NA,1
+1146722,1st innings,Bangladesh,West Indies,24.5,Tamim Iqbal,Shakib Al Hasan,CH Gayle,1,0,1,NA,0,NA,NA,NA,1
+1146722,1st innings,Bangladesh,West Indies,24.6,Shakib Al Hasan,Tamim Iqbal,CH Gayle,0,1,1,wides,0,NA,NA,NA,1
+1146722,1st innings,Bangladesh,West Indies,24.7,Shakib Al Hasan,Tamim Iqbal,CH Gayle,1,0,1,NA,0,NA,NA,NA,1
+1146722,1st innings,Bangladesh,West Indies,24.8,Tamim Iqbal,Shakib Al Hasan,CH Gayle,0,0,0,NA,0,NA,NA,NA,1
+1146722,1st innings,Bangladesh,West Indies,25.1,Shakib Al Hasan,Tamim Iqbal,AR Nurse,0,0,0,NA,0,NA,NA,NA,1
+1146722,1st innings,Bangladesh,West Indies,25.2,Shakib Al Hasan,Tamim Iqbal,AR Nurse,0,0,0,NA,0,NA,NA,NA,1
+1146722,1st innings,Bangladesh,West Indies,25.3,Shakib Al Hasan,Tamim Iqbal,AR Nurse,0,0,0,NA,1,caught,Shakib Al Hasan,KMA Paul,1
+1146722,1st innings,Bangladesh,West Indies,25.4,Mushfiqur Rahim,Tamim Iqbal,AR Nurse,0,0,0,NA,0,NA,NA,NA,1
+1146722,1st innings,Bangladesh,West Indies,25.5,Mushfiqur Rahim,Tamim Iqbal,AR Nurse,0,0,0,NA,0,NA,NA,NA,1
+1146722,1st innings,Bangladesh,West Indies,25.6,Mushfiqur Rahim,Tamim Iqbal,AR Nurse,0,0,0,NA,0,NA,NA,NA,1
+1146722,1st innings,Bangladesh,West Indies,26.1,Tamim Iqbal,Mushfiqur Rahim,SS Cottrell,1,0,1,NA,0,NA,NA,NA,1
+1146722,1st innings,Bangladesh,West Indies,26.2,Mushfiqur Rahim,Tamim Iqbal,SS Cottrell,0,0,0,NA,0,NA,NA,NA,1
+1146722,1st innings,Bangladesh,West Indies,26.3,Mushfiqur Rahim,Tamim Iqbal,SS Cottrell,0,0,0,NA,0,NA,NA,NA,1
+1146722,1st innings,Bangladesh,West Indies,26.4,Mushfiqur Rahim,Tamim Iqbal,SS Cottrell,1,0,1,NA,0,NA,NA,NA,1
+1146722,1st innings,Bangladesh,West Indies,26.5,Tamim Iqbal,Mushfiqur Rahim,SS Cottrell,0,1,1,wides,0,NA,NA,NA,1
+1146722,1st innings,Bangladesh,West Indies,26.6,Tamim Iqbal,Mushfiqur Rahim,SS Cottrell,0,0,0,NA,0,NA,NA,NA,1
+1146722,1st innings,Bangladesh,West Indies,26.7,Tamim Iqbal,Mushfiqur Rahim,SS Cottrell,0,0,0,NA,0,NA,NA,NA,1
+1146722,1st innings,Bangladesh,West Indies,27.1,Mushfiqur Rahim,Tamim Iqbal,AR Nurse,6,0,6,NA,0,NA,NA,NA,1
+1146722,1st innings,Bangladesh,West Indies,27.2,Mushfiqur Rahim,Tamim Iqbal,AR Nurse,1,0,1,NA,0,NA,NA,NA,1
+1146722,1st innings,Bangladesh,West Indies,27.3,Tamim Iqbal,Mushfiqur Rahim,AR Nurse,0,1,1,wides,0,NA,NA,NA,1
+1146722,1st innings,Bangladesh,West Indies,27.4,Tamim Iqbal,Mushfiqur Rahim,AR Nurse,0,0,0,NA,0,NA,NA,NA,1
+1146722,1st innings,Bangladesh,West Indies,27.5,Tamim Iqbal,Mushfiqur Rahim,AR Nurse,0,0,0,NA,0,NA,NA,NA,1
+1146722,1st innings,Bangladesh,West Indies,27.6,Tamim Iqbal,Mushfiqur Rahim,AR Nurse,0,0,0,NA,0,NA,NA,NA,1
+1146722,1st innings,Bangladesh,West Indies,27.7,Tamim Iqbal,Mushfiqur Rahim,AR Nurse,1,0,1,NA,0,NA,NA,NA,1
+1146722,1st innings,Bangladesh,West Indies,28.1,Tamim Iqbal,Mushfiqur Rahim,SS Cottrell,2,0,2,NA,0,NA,NA,NA,1
+1146722,1st innings,Bangladesh,West Indies,28.2,Tamim Iqbal,Mushfiqur Rahim,SS Cottrell,6,0,6,NA,0,NA,NA,NA,1
+1146722,1st innings,Bangladesh,West Indies,28.3,Tamim Iqbal,Mushfiqur Rahim,SS Cottrell,0,0,0,NA,0,NA,NA,NA,1
+1146722,1st innings,Bangladesh,West Indies,28.4,Tamim Iqbal,Mushfiqur Rahim,SS Cottrell,0,0,0,NA,0,NA,NA,NA,1
+1146722,1st innings,Bangladesh,West Indies,28.5,Tamim Iqbal,Mushfiqur Rahim,SS Cottrell,1,0,1,NA,0,NA,NA,NA,1
+1146722,1st innings,Bangladesh,West Indies,28.6,Mushfiqur Rahim,Tamim Iqbal,SS Cottrell,1,0,1,NA,0,NA,NA,NA,1
+1146722,1st innings,Bangladesh,West Indies,29.1,Mushfiqur Rahim,Tamim Iqbal,AR Nurse,1,0,1,NA,0,NA,NA,NA,1
+1146722,1st innings,Bangladesh,West Indies,29.2,Tamim Iqbal,Mushfiqur Rahim,AR Nurse,1,0,1,NA,0,NA,NA,NA,1
+1146722,1st innings,Bangladesh,West Indies,29.3,Mushfiqur Rahim,Tamim Iqbal,AR Nurse,0,0,0,NA,0,NA,NA,NA,1
+1146722,1st innings,Bangladesh,West Indies,29.4,Mushfiqur Rahim,Tamim Iqbal,AR Nurse,1,0,1,NA,0,NA,NA,NA,1
+1146722,1st innings,Bangladesh,West Indies,29.5,Tamim Iqbal,Mushfiqur Rahim,AR Nurse,0,0,0,NA,0,NA,NA,NA,1
+1146722,1st innings,Bangladesh,West Indies,29.6,Tamim Iqbal,Mushfiqur Rahim,AR Nurse,0,0,0,NA,0,NA,NA,NA,1
+1146722,1st innings,Bangladesh,West Indies,30.1,Mushfiqur Rahim,Tamim Iqbal,KMA Paul,1,0,1,NA,0,NA,NA,NA,1
+1146722,1st innings,Bangladesh,West Indies,30.2,Tamim Iqbal,Mushfiqur Rahim,KMA Paul,4,0,4,NA,0,NA,NA,NA,1
+1146722,1st innings,Bangladesh,West Indies,30.3,Tamim Iqbal,Mushfiqur Rahim,KMA Paul,0,0,0,NA,0,NA,NA,NA,1
+1146722,1st innings,Bangladesh,West Indies,30.4,Tamim Iqbal,Mushfiqur Rahim,KMA Paul,2,0,2,NA,0,NA,NA,NA,1
+1146722,1st innings,Bangladesh,West Indies,30.5,Tamim Iqbal,Mushfiqur Rahim,KMA Paul,4,0,4,NA,0,NA,NA,NA,1
+1146722,1st innings,Bangladesh,West Indies,30.6,Tamim Iqbal,Mushfiqur Rahim,KMA Paul,0,0,0,NA,0,NA,NA,NA,1
+1146722,1st innings,Bangladesh,West Indies,31.1,Mushfiqur Rahim,Tamim Iqbal,AR Nurse,0,0,0,NA,1,bowled,Mushfiqur Rahim,NA,1
+1146722,1st innings,Bangladesh,West Indies,31.2,Mahmudullah,Tamim Iqbal,AR Nurse,4,0,4,NA,0,NA,NA,NA,1
+1146722,1st innings,Bangladesh,West Indies,31.3,Mahmudullah,Tamim Iqbal,AR Nurse,1,0,1,NA,0,NA,NA,NA,1
+1146722,1st innings,Bangladesh,West Indies,31.4,Tamim Iqbal,Mahmudullah,AR Nurse,1,0,1,NA,0,NA,NA,NA,1
+1146722,1st innings,Bangladesh,West Indies,31.5,Mahmudullah,Tamim Iqbal,AR Nurse,1,0,1,NA,0,NA,NA,NA,1
+1146722,1st innings,Bangladesh,West Indies,31.6,Tamim Iqbal,Mahmudullah,AR Nurse,0,0,0,NA,0,NA,NA,NA,1
+1146722,1st innings,Bangladesh,West Indies,32.1,Mahmudullah,Tamim Iqbal,D Bishoo,0,0,0,NA,0,NA,NA,NA,1
+1146722,1st innings,Bangladesh,West Indies,32.2,Mahmudullah,Tamim Iqbal,D Bishoo,1,0,1,NA,0,NA,NA,NA,1
+1146722,1st innings,Bangladesh,West Indies,32.3,Tamim Iqbal,Mahmudullah,D Bishoo,0,0,0,NA,0,NA,NA,NA,1
+1146722,1st innings,Bangladesh,West Indies,32.4,Tamim Iqbal,Mahmudullah,D Bishoo,0,0,0,NA,0,NA,NA,NA,1
+1146722,1st innings,Bangladesh,West Indies,32.5,Tamim Iqbal,Mahmudullah,D Bishoo,0,0,0,NA,0,NA,NA,NA,1
+1146722,1st innings,Bangladesh,West Indies,32.6,Tamim Iqbal,Mahmudullah,D Bishoo,1,0,1,NA,0,NA,NA,NA,1
+1146722,1st innings,Bangladesh,West Indies,33.1,Tamim Iqbal,Mahmudullah,AR Nurse,0,0,0,NA,0,NA,NA,NA,1
+1146722,1st innings,Bangladesh,West Indies,33.2,Tamim Iqbal,Mahmudullah,AR Nurse,0,1,1,wides,0,NA,NA,NA,1
+1146722,1st innings,Bangladesh,West Indies,33.3,Tamim Iqbal,Mahmudullah,AR Nurse,2,0,2,NA,0,NA,NA,NA,1
+1146722,1st innings,Bangladesh,West Indies,33.4,Tamim Iqbal,Mahmudullah,AR Nurse,0,0,0,NA,0,NA,NA,NA,1
+1146722,1st innings,Bangladesh,West Indies,33.5,Tamim Iqbal,Mahmudullah,AR Nurse,0,0,0,NA,0,NA,NA,NA,1
+1146722,1st innings,Bangladesh,West Indies,33.6,Tamim Iqbal,Mahmudullah,AR Nurse,1,0,1,NA,0,NA,NA,NA,1
+1146722,1st innings,Bangladesh,West Indies,33.7,Mahmudullah,Tamim Iqbal,AR Nurse,4,0,4,NA,0,NA,NA,NA,1
+1146722,1st innings,Bangladesh,West Indies,34.1,Tamim Iqbal,Mahmudullah,D Bishoo,0,0,0,NA,0,NA,NA,NA,1
+1146722,1st innings,Bangladesh,West Indies,34.2,Tamim Iqbal,Mahmudullah,D Bishoo,1,0,1,NA,0,NA,NA,NA,1
+1146722,1st innings,Bangladesh,West Indies,34.3,Mahmudullah,Tamim Iqbal,D Bishoo,1,0,1,NA,0,NA,NA,NA,1
+1146722,1st innings,Bangladesh,West Indies,34.4,Tamim Iqbal,Mahmudullah,D Bishoo,1,0,1,NA,0,NA,NA,NA,1
+1146722,1st innings,Bangladesh,West Indies,34.5,Mahmudullah,Tamim Iqbal,D Bishoo,0,0,0,NA,0,NA,NA,NA,1
+1146722,1st innings,Bangladesh,West Indies,34.6,Mahmudullah,Tamim Iqbal,D Bishoo,0,0,0,NA,0,NA,NA,NA,1
+1146722,1st innings,Bangladesh,West Indies,35.1,Tamim Iqbal,Mahmudullah,AR Nurse,0,0,0,NA,0,NA,NA,NA,1
+1146722,1st innings,Bangladesh,West Indies,35.2,Tamim Iqbal,Mahmudullah,AR Nurse,1,0,1,NA,0,NA,NA,NA,1
+1146722,1st innings,Bangladesh,West Indies,35.3,Mahmudullah,Tamim Iqbal,AR Nurse,0,0,0,NA,0,NA,NA,NA,1
+1146722,1st innings,Bangladesh,West Indies,35.4,Mahmudullah,Tamim Iqbal,AR Nurse,1,0,1,NA,0,NA,NA,NA,1
+1146722,1st innings,Bangladesh,West Indies,35.5,Tamim Iqbal,Mahmudullah,AR Nurse,1,0,1,NA,0,NA,NA,NA,1
+1146722,1st innings,Bangladesh,West Indies,35.6,Mahmudullah,Tamim Iqbal,AR Nurse,1,0,1,NA,0,NA,NA,NA,1
+1146722,1st innings,Bangladesh,West Indies,36.1,Mahmudullah,Tamim Iqbal,D Bishoo,1,0,1,NA,0,NA,NA,NA,1
+1146722,1st innings,Bangladesh,West Indies,36.2,Tamim Iqbal,Mahmudullah,D Bishoo,0,1,1,wides,0,NA,NA,NA,1
+1146722,1st innings,Bangladesh,West Indies,36.3,Tamim Iqbal,Mahmudullah,D Bishoo,6,0,6,NA,0,NA,NA,NA,1
+1146722,1st innings,Bangladesh,West Indies,36.4,Tamim Iqbal,Mahmudullah,D Bishoo,1,0,1,NA,0,NA,NA,NA,1
+1146722,1st innings,Bangladesh,West Indies,36.5,Mahmudullah,Tamim Iqbal,D Bishoo,0,0,0,NA,0,NA,NA,NA,1
+1146722,1st innings,Bangladesh,West Indies,36.6,Mahmudullah,Tamim Iqbal,D Bishoo,1,0,1,NA,0,NA,NA,NA,1
+1146722,1st innings,Bangladesh,West Indies,36.7,Tamim Iqbal,Mahmudullah,D Bishoo,0,0,0,NA,0,NA,NA,NA,1
+1146722,1st innings,Bangladesh,West Indies,37.1,Mahmudullah,Tamim Iqbal,AR Nurse,0,0,0,NA,0,NA,NA,NA,1
+1146722,1st innings,Bangladesh,West Indies,37.2,Mahmudullah,Tamim Iqbal,AR Nurse,1,0,1,NA,0,NA,NA,NA,1
+1146722,1st innings,Bangladesh,West Indies,37.3,Tamim Iqbal,Mahmudullah,AR Nurse,1,0,1,NA,0,NA,NA,NA,1
+1146722,1st innings,Bangladesh,West Indies,37.4,Mahmudullah,Tamim Iqbal,AR Nurse,6,0,6,NA,0,NA,NA,NA,1
+1146722,1st innings,Bangladesh,West Indies,37.5,Mahmudullah,Tamim Iqbal,AR Nurse,2,0,2,NA,0,NA,NA,NA,1
+1146722,1st innings,Bangladesh,West Indies,37.6,Mahmudullah,Tamim Iqbal,AR Nurse,0,0,0,NA,0,NA,NA,NA,1
+1146722,1st innings,Bangladesh,West Indies,38.1,Tamim Iqbal,Mahmudullah,D Bishoo,0,0,0,NA,0,NA,NA,NA,1
+1146722,1st innings,Bangladesh,West Indies,38.2,Tamim Iqbal,Mahmudullah,D Bishoo,2,0,2,NA,0,NA,NA,NA,1
+1146722,1st innings,Bangladesh,West Indies,38.3,Tamim Iqbal,Mahmudullah,D Bishoo,1,0,1,NA,0,NA,NA,NA,1
+1146722,1st innings,Bangladesh,West Indies,38.4,Mahmudullah,Tamim Iqbal,D Bishoo,1,0,1,NA,0,NA,NA,NA,1
+1146722,1st innings,Bangladesh,West Indies,38.5,Tamim Iqbal,Mahmudullah,D Bishoo,0,0,0,NA,1,caught,Tamim Iqbal,KOA Powell,1
+1146722,1st innings,Bangladesh,West Indies,38.6,Mashrafe Mortaza,Mahmudullah,D Bishoo,1,0,1,NA,0,NA,NA,NA,1
+1146722,1st innings,Bangladesh,West Indies,39.1,Mashrafe Mortaza,Mahmudullah,JO Holder,0,0,0,NA,0,NA,NA,NA,1
+1146722,1st innings,Bangladesh,West Indies,39.2,Mashrafe Mortaza,Mahmudullah,JO Holder,1,0,1,NA,0,NA,NA,NA,1
+1146722,1st innings,Bangladesh,West Indies,39.3,Mahmudullah,Mashrafe Mortaza,JO Holder,1,0,1,NA,0,NA,NA,NA,1
+1146722,1st innings,Bangladesh,West Indies,39.4,Mashrafe Mortaza,Mahmudullah,JO Holder,1,0,1,NA,0,NA,NA,NA,1
+1146722,1st innings,Bangladesh,West Indies,39.5,Mahmudullah,Mashrafe Mortaza,JO Holder,1,0,1,NA,0,NA,NA,NA,1
+1146722,1st innings,Bangladesh,West Indies,39.6,Mashrafe Mortaza,Mahmudullah,JO Holder,0,0,0,NA,0,NA,NA,NA,1
+1146722,1st innings,Bangladesh,West Indies,40.1,Mahmudullah,Mashrafe Mortaza,KMA Paul,0,0,0,NA,0,NA,NA,NA,1
+1146722,1st innings,Bangladesh,West Indies,40.2,Mahmudullah,Mashrafe Mortaza,KMA Paul,0,0,0,NA,0,NA,NA,NA,1
+1146722,1st innings,Bangladesh,West Indies,40.3,Mahmudullah,Mashrafe Mortaza,KMA Paul,0,0,0,NA,0,NA,NA,NA,1
+1146722,1st innings,Bangladesh,West Indies,40.4,Mahmudullah,Mashrafe Mortaza,KMA Paul,1,0,1,NA,0,NA,NA,NA,1
+1146722,1st innings,Bangladesh,West Indies,40.5,Mashrafe Mortaza,Mahmudullah,KMA Paul,1,0,1,NA,0,NA,NA,NA,1
+1146722,1st innings,Bangladesh,West Indies,40.6,Mahmudullah,Mashrafe Mortaza,KMA Paul,0,0,0,NA,0,NA,NA,NA,1
+1146722,1st innings,Bangladesh,West Indies,41.1,Mashrafe Mortaza,Mahmudullah,JO Holder,4,0,4,NA,0,NA,NA,NA,1
+1146722,1st innings,Bangladesh,West Indies,41.2,Mashrafe Mortaza,Mahmudullah,JO Holder,4,0,4,NA,0,NA,NA,NA,1
+1146722,1st innings,Bangladesh,West Indies,41.3,Mashrafe Mortaza,Mahmudullah,JO Holder,4,0,4,NA,0,NA,NA,NA,1
+1146722,1st innings,Bangladesh,West Indies,41.4,Mashrafe Mortaza,Mahmudullah,JO Holder,2,0,2,NA,0,NA,NA,NA,1
+1146722,1st innings,Bangladesh,West Indies,41.5,Mashrafe Mortaza,Mahmudullah,JO Holder,1,0,1,NA,0,NA,NA,NA,1
+1146722,1st innings,Bangladesh,West Indies,41.6,Mahmudullah,Mashrafe Mortaza,JO Holder,1,0,1,NA,0,NA,NA,NA,1
+1146722,1st innings,Bangladesh,West Indies,42.1,Mahmudullah,Mashrafe Mortaza,KMA Paul,1,0,1,NA,0,NA,NA,NA,1
+1146722,1st innings,Bangladesh,West Indies,42.2,Mashrafe Mortaza,Mahmudullah,KMA Paul,0,0,0,NA,0,NA,NA,NA,1
+1146722,1st innings,Bangladesh,West Indies,42.3,Mashrafe Mortaza,Mahmudullah,KMA Paul,1,0,1,NA,0,NA,NA,NA,1
+1146722,1st innings,Bangladesh,West Indies,42.4,Mahmudullah,Mashrafe Mortaza,KMA Paul,4,0,4,NA,0,NA,NA,NA,1
+1146722,1st innings,Bangladesh,West Indies,42.5,Mahmudullah,Mashrafe Mortaza,KMA Paul,1,0,1,NA,0,NA,NA,NA,1
+1146722,1st innings,Bangladesh,West Indies,42.6,Mashrafe Mortaza,Mahmudullah,KMA Paul,1,0,1,NA,0,NA,NA,NA,1
+1146722,1st innings,Bangladesh,West Indies,43.1,Mashrafe Mortaza,Mahmudullah,JO Holder,6,0,6,NA,0,NA,NA,NA,1
+1146722,1st innings,Bangladesh,West Indies,43.2,Mashrafe Mortaza,Mahmudullah,JO Holder,0,0,0,NA,0,NA,NA,NA,1
+1146722,1st innings,Bangladesh,West Indies,43.3,Mashrafe Mortaza,Mahmudullah,JO Holder,1,0,1,NA,0,NA,NA,NA,1
+1146722,1st innings,Bangladesh,West Indies,43.4,Mahmudullah,Mashrafe Mortaza,JO Holder,0,0,0,NA,0,NA,NA,NA,1
+1146722,1st innings,Bangladesh,West Indies,43.5,Mahmudullah,Mashrafe Mortaza,JO Holder,1,0,1,NA,0,NA,NA,NA,1
+1146722,1st innings,Bangladesh,West Indies,43.6,Mashrafe Mortaza,Mahmudullah,JO Holder,1,0,1,NA,0,NA,NA,NA,1
+1146722,1st innings,Bangladesh,West Indies,44.1,Mashrafe Mortaza,Mahmudullah,KMA Paul,0,0,0,NA,0,NA,NA,NA,1
+1146722,1st innings,Bangladesh,West Indies,44.2,Mashrafe Mortaza,Mahmudullah,KMA Paul,4,0,4,NA,0,NA,NA,NA,1
+1146722,1st innings,Bangladesh,West Indies,44.3,Mashrafe Mortaza,Mahmudullah,KMA Paul,1,0,1,NA,0,NA,NA,NA,1
+1146722,1st innings,Bangladesh,West Indies,44.4,Mahmudullah,Mashrafe Mortaza,KMA Paul,4,0,4,NA,0,NA,NA,NA,1
+1146722,1st innings,Bangladesh,West Indies,44.5,Mahmudullah,Mashrafe Mortaza,KMA Paul,1,0,1,NA,0,NA,NA,NA,1
+1146722,1st innings,Bangladesh,West Indies,44.6,Mashrafe Mortaza,Mahmudullah,KMA Paul,1,0,1,NA,0,NA,NA,NA,1
+1146722,1st innings,Bangladesh,West Indies,45.1,Mashrafe Mortaza,Mahmudullah,JO Holder,0,0,0,NA,0,NA,NA,NA,1
+1146722,1st innings,Bangladesh,West Indies,45.2,Mashrafe Mortaza,Mahmudullah,JO Holder,1,0,1,NA,0,NA,NA,NA,1
+1146722,1st innings,Bangladesh,West Indies,45.3,Mahmudullah,Mashrafe Mortaza,JO Holder,0,0,0,NA,0,NA,NA,NA,1
+1146722,1st innings,Bangladesh,West Indies,45.4,Mahmudullah,Mashrafe Mortaza,JO Holder,1,0,1,NA,0,NA,NA,NA,1
+1146722,1st innings,Bangladesh,West Indies,45.5,Mashrafe Mortaza,Mahmudullah,JO Holder,0,0,0,NA,1,caught,Mashrafe Mortaza,CH Gayle,1
+1146722,1st innings,Bangladesh,West Indies,45.6,Sabbir Rahman,Mahmudullah,JO Holder,0,0,0,NA,0,NA,NA,NA,1
+1146722,1st innings,Bangladesh,West Indies,46.1,Mahmudullah,Sabbir Rahman,SS Cottrell,1,0,1,NA,0,NA,NA,NA,1
+1146722,1st innings,Bangladesh,West Indies,46.2,Sabbir Rahman,Mahmudullah,SS Cottrell,1,0,1,NA,0,NA,NA,NA,1
+1146722,1st innings,Bangladesh,West Indies,46.3,Mahmudullah,Sabbir Rahman,SS Cottrell,2,0,2,NA,0,NA,NA,NA,1
+1146722,1st innings,Bangladesh,West Indies,46.4,Mahmudullah,Sabbir Rahman,SS Cottrell,1,0,1,NA,0,NA,NA,NA,1
+1146722,1st innings,Bangladesh,West Indies,46.5,Sabbir Rahman,Mahmudullah,SS Cottrell,1,0,1,NA,0,NA,NA,NA,1
+1146722,1st innings,Bangladesh,West Indies,46.6,Mahmudullah,Sabbir Rahman,SS Cottrell,0,0,0,NA,0,NA,NA,NA,1
+1146722,1st innings,Bangladesh,West Indies,47.1,Sabbir Rahman,Mahmudullah,KMA Paul,0,0,0,NA,0,NA,NA,NA,1
+1146722,1st innings,Bangladesh,West Indies,47.2,Sabbir Rahman,Mahmudullah,KMA Paul,1,0,1,NA,0,NA,NA,NA,1
+1146722,1st innings,Bangladesh,West Indies,47.3,Mahmudullah,Sabbir Rahman,KMA Paul,1,0,1,NA,0,NA,NA,NA,1
+1146722,1st innings,Bangladesh,West Indies,47.4,Sabbir Rahman,Mahmudullah,KMA Paul,1,0,1,NA,0,NA,NA,NA,1
+1146722,1st innings,Bangladesh,West Indies,47.5,Mahmudullah,Sabbir Rahman,KMA Paul,0,1,1,wides,0,NA,NA,NA,1
+1146722,1st innings,Bangladesh,West Indies,47.6,Mahmudullah,Sabbir Rahman,KMA Paul,6,0,6,NA,0,NA,NA,NA,1
+1146722,1st innings,Bangladesh,West Indies,47.7,Mahmudullah,Sabbir Rahman,KMA Paul,1,0,1,NA,0,NA,NA,NA,1
+1146722,1st innings,Bangladesh,West Indies,48.1,Mahmudullah,Sabbir Rahman,SS Cottrell,1,0,1,NA,0,NA,NA,NA,1
+1146722,1st innings,Bangladesh,West Indies,48.2,Sabbir Rahman,Mahmudullah,SS Cottrell,4,0,4,NA,0,NA,NA,NA,1
+1146722,1st innings,Bangladesh,West Indies,48.3,Sabbir Rahman,Mahmudullah,SS Cottrell,4,0,4,NA,0,NA,NA,NA,1
+1146722,1st innings,Bangladesh,West Indies,48.4,Sabbir Rahman,Mahmudullah,SS Cottrell,0,0,0,NA,1,caught,Sabbir Rahman,E Lewis,1
+1146722,1st innings,Bangladesh,West Indies,48.5,Mahmudullah,Mosaddek Hossain,SS Cottrell,6,0,6,NA,0,NA,NA,NA,1
+1146722,1st innings,Bangladesh,West Indies,48.6,Mahmudullah,Mosaddek Hossain,SS Cottrell,4,0,4,NA,0,NA,NA,NA,1
+1146722,1st innings,Bangladesh,West Indies,49.1,Mosaddek Hossain,Mahmudullah,KMA Paul,1,0,1,NA,0,NA,NA,NA,1
+1146722,1st innings,Bangladesh,West Indies,49.2,Mahmudullah,Mosaddek Hossain,KMA Paul,1,0,1,NA,0,NA,NA,NA,1
+1146722,1st innings,Bangladesh,West Indies,49.3,Mosaddek Hossain,Mahmudullah,KMA Paul,4,0,4,NA,0,NA,NA,NA,1
+1146722,1st innings,Bangladesh,West Indies,49.4,Mosaddek Hossain,Mahmudullah,KMA Paul,2,0,2,NA,0,NA,NA,NA,1
+1146722,1st innings,Bangladesh,West Indies,49.5,Mosaddek Hossain,Mahmudullah,KMA Paul,2,0,2,NA,0,NA,NA,NA,1
+1146722,1st innings,Bangladesh,West Indies,49.6,Mosaddek Hossain,Mahmudullah,KMA Paul,2,0,2,NA,0,NA,NA,NA,1
+1146722,2nd innings,West Indies,Bangladesh,0.1,CH Gayle,E Lewis,Mashrafe Mortaza,1,0,1,NA,0,NA,NA,NA,0
+1146722,2nd innings,West Indies,Bangladesh,0.2,E Lewis,CH Gayle,Mashrafe Mortaza,0,0,0,NA,0,NA,NA,NA,0
+1146722,2nd innings,West Indies,Bangladesh,0.3,E Lewis,CH Gayle,Mashrafe Mortaza,0,0,0,NA,0,NA,NA,NA,0
+1146722,2nd innings,West Indies,Bangladesh,0.4,E Lewis,CH Gayle,Mashrafe Mortaza,0,0,0,NA,0,NA,NA,NA,0
+1146722,2nd innings,West Indies,Bangladesh,0.5,E Lewis,CH Gayle,Mashrafe Mortaza,0,0,0,NA,0,NA,NA,NA,0
+1146722,2nd innings,West Indies,Bangladesh,0.6,E Lewis,CH Gayle,Mashrafe Mortaza,0,0,0,NA,0,NA,NA,NA,0
+1146722,2nd innings,West Indies,Bangladesh,1.1,CH Gayle,E Lewis,Mehedi Hasan Miraz,0,0,0,NA,0,NA,NA,NA,0
+1146722,2nd innings,West Indies,Bangladesh,1.2,CH Gayle,E Lewis,Mehedi Hasan Miraz,0,0,0,NA,0,NA,NA,NA,0
+1146722,2nd innings,West Indies,Bangladesh,1.3,CH Gayle,E Lewis,Mehedi Hasan Miraz,1,0,1,NA,0,NA,NA,NA,0
+1146722,2nd innings,West Indies,Bangladesh,1.4,E Lewis,CH Gayle,Mehedi Hasan Miraz,0,0,0,NA,0,NA,NA,NA,0
+1146722,2nd innings,West Indies,Bangladesh,1.5,E Lewis,CH Gayle,Mehedi Hasan Miraz,1,0,1,NA,0,NA,NA,NA,0
+1146722,2nd innings,West Indies,Bangladesh,1.6,CH Gayle,E Lewis,Mehedi Hasan Miraz,0,0,0,NA,0,NA,NA,NA,0
+1146722,2nd innings,West Indies,Bangladesh,2.1,E Lewis,CH Gayle,Mashrafe Mortaza,0,0,0,NA,0,NA,NA,NA,0
+1146722,2nd innings,West Indies,Bangladesh,2.2,E Lewis,CH Gayle,Mashrafe Mortaza,1,0,1,NA,0,NA,NA,NA,0
+1146722,2nd innings,West Indies,Bangladesh,2.3,CH Gayle,E Lewis,Mashrafe Mortaza,4,0,4,NA,0,NA,NA,NA,0
+1146722,2nd innings,West Indies,Bangladesh,2.4,CH Gayle,E Lewis,Mashrafe Mortaza,1,0,1,NA,0,NA,NA,NA,0
+1146722,2nd innings,West Indies,Bangladesh,2.5,E Lewis,CH Gayle,Mashrafe Mortaza,1,0,1,NA,0,NA,NA,NA,0
+1146722,2nd innings,West Indies,Bangladesh,2.6,CH Gayle,E Lewis,Mashrafe Mortaza,1,0,1,NA,0,NA,NA,NA,0
+1146722,2nd innings,West Indies,Bangladesh,3.1,CH Gayle,E Lewis,Mehedi Hasan Miraz,0,0,0,NA,0,NA,NA,NA,0
+1146722,2nd innings,West Indies,Bangladesh,3.2,CH Gayle,E Lewis,Mehedi Hasan Miraz,0,0,0,NA,0,NA,NA,NA,0
+1146722,2nd innings,West Indies,Bangladesh,3.3,CH Gayle,E Lewis,Mehedi Hasan Miraz,0,0,0,NA,0,NA,NA,NA,0
+1146722,2nd innings,West Indies,Bangladesh,3.4,CH Gayle,E Lewis,Mehedi Hasan Miraz,1,0,1,NA,0,NA,NA,NA,0
+1146722,2nd innings,West Indies,Bangladesh,3.5,E Lewis,CH Gayle,Mehedi Hasan Miraz,0,1,1,legbyes,0,NA,NA,NA,0
+1146722,2nd innings,West Indies,Bangladesh,3.6,CH Gayle,E Lewis,Mehedi Hasan Miraz,0,0,0,NA,0,NA,NA,NA,0
+1146722,2nd innings,West Indies,Bangladesh,4.1,E Lewis,CH Gayle,Mashrafe Mortaza,1,0,1,NA,0,NA,NA,NA,0
+1146722,2nd innings,West Indies,Bangladesh,4.2,CH Gayle,E Lewis,Mashrafe Mortaza,1,0,1,NA,0,NA,NA,NA,0
+1146722,2nd innings,West Indies,Bangladesh,4.3,E Lewis,CH Gayle,Mashrafe Mortaza,0,0,0,NA,0,NA,NA,NA,0
+1146722,2nd innings,West Indies,Bangladesh,4.4,E Lewis,CH Gayle,Mashrafe Mortaza,4,0,4,NA,0,NA,NA,NA,0
+1146722,2nd innings,West Indies,Bangladesh,4.5,E Lewis,CH Gayle,Mashrafe Mortaza,1,0,1,NA,0,NA,NA,NA,0
+1146722,2nd innings,West Indies,Bangladesh,4.6,CH Gayle,E Lewis,Mashrafe Mortaza,0,0,0,NA,0,NA,NA,NA,0
+1146722,2nd innings,West Indies,Bangladesh,5.1,E Lewis,CH Gayle,Mehedi Hasan Miraz,0,0,0,NA,0,NA,NA,NA,0
+1146722,2nd innings,West Indies,Bangladesh,5.2,E Lewis,CH Gayle,Mehedi Hasan Miraz,0,1,1,wides,0,NA,NA,NA,0
+1146722,2nd innings,West Indies,Bangladesh,5.3,E Lewis,CH Gayle,Mehedi Hasan Miraz,0,0,0,NA,0,NA,NA,NA,0
+1146722,2nd innings,West Indies,Bangladesh,5.4,E Lewis,CH Gayle,Mehedi Hasan Miraz,0,1,1,wides,0,NA,NA,NA,0
+1146722,2nd innings,West Indies,Bangladesh,5.5,E Lewis,CH Gayle,Mehedi Hasan Miraz,0,0,0,NA,0,NA,NA,NA,0
+1146722,2nd innings,West Indies,Bangladesh,5.6,E Lewis,CH Gayle,Mehedi Hasan Miraz,1,0,1,NA,0,NA,NA,NA,0
+1146722,2nd innings,West Indies,Bangladesh,5.7,CH Gayle,E Lewis,Mehedi Hasan Miraz,6,0,6,NA,0,NA,NA,NA,0
+1146722,2nd innings,West Indies,Bangladesh,5.8,CH Gayle,E Lewis,Mehedi Hasan Miraz,4,0,4,NA,0,NA,NA,NA,0
+1146722,2nd innings,West Indies,Bangladesh,6.1,E Lewis,CH Gayle,Mashrafe Mortaza,0,0,0,NA,0,NA,NA,NA,0
+1146722,2nd innings,West Indies,Bangladesh,6.2,E Lewis,CH Gayle,Mashrafe Mortaza,1,0,1,NA,0,NA,NA,NA,0
+1146722,2nd innings,West Indies,Bangladesh,6.3,CH Gayle,E Lewis,Mashrafe Mortaza,0,0,0,NA,0,NA,NA,NA,0
+1146722,2nd innings,West Indies,Bangladesh,6.4,CH Gayle,E Lewis,Mashrafe Mortaza,1,0,1,NA,0,NA,NA,NA,0
+1146722,2nd innings,West Indies,Bangladesh,6.5,E Lewis,CH Gayle,Mashrafe Mortaza,0,0,0,NA,0,NA,NA,NA,0
+1146722,2nd innings,West Indies,Bangladesh,6.6,E Lewis,CH Gayle,Mashrafe Mortaza,0,0,0,NA,0,NA,NA,NA,0
+1146722,2nd innings,West Indies,Bangladesh,7.1,CH Gayle,E Lewis,Mehedi Hasan Miraz,0,0,0,NA,0,NA,NA,NA,0
+1146722,2nd innings,West Indies,Bangladesh,7.2,CH Gayle,E Lewis,Mehedi Hasan Miraz,4,0,4,NA,0,NA,NA,NA,0
+1146722,2nd innings,West Indies,Bangladesh,7.3,CH Gayle,E Lewis,Mehedi Hasan Miraz,0,0,0,NA,0,NA,NA,NA,0
+1146722,2nd innings,West Indies,Bangladesh,7.4,CH Gayle,E Lewis,Mehedi Hasan Miraz,0,0,0,NA,0,NA,NA,NA,0
+1146722,2nd innings,West Indies,Bangladesh,7.5,CH Gayle,E Lewis,Mehedi Hasan Miraz,0,0,0,NA,0,NA,NA,NA,0
+1146722,2nd innings,West Indies,Bangladesh,7.6,CH Gayle,E Lewis,Mehedi Hasan Miraz,0,0,0,NA,0,NA,NA,NA,0
+1146722,2nd innings,West Indies,Bangladesh,8.1,E Lewis,CH Gayle,Mashrafe Mortaza,0,0,0,NA,0,NA,NA,NA,0
+1146722,2nd innings,West Indies,Bangladesh,8.2,E Lewis,CH Gayle,Mashrafe Mortaza,0,0,0,NA,0,NA,NA,NA,0
+1146722,2nd innings,West Indies,Bangladesh,8.3,E Lewis,CH Gayle,Mashrafe Mortaza,1,0,1,NA,0,NA,NA,NA,0
+1146722,2nd innings,West Indies,Bangladesh,8.4,CH Gayle,E Lewis,Mashrafe Mortaza,4,0,4,NA,0,NA,NA,NA,0
+1146722,2nd innings,West Indies,Bangladesh,8.5,CH Gayle,E Lewis,Mashrafe Mortaza,0,1,1,wides,0,NA,NA,NA,0
+1146722,2nd innings,West Indies,Bangladesh,8.6,CH Gayle,E Lewis,Mashrafe Mortaza,0,0,0,NA,0,NA,NA,NA,0
+1146722,2nd innings,West Indies,Bangladesh,8.7,CH Gayle,E Lewis,Mashrafe Mortaza,6,0,6,NA,0,NA,NA,NA,0
+1146722,2nd innings,West Indies,Bangladesh,9.1,E Lewis,CH Gayle,Mehedi Hasan Miraz,0,0,0,NA,0,NA,NA,NA,0
+1146722,2nd innings,West Indies,Bangladesh,9.2,E Lewis,CH Gayle,Mehedi Hasan Miraz,0,1,1,wides,0,NA,NA,NA,0
+1146722,2nd innings,West Indies,Bangladesh,9.3,E Lewis,CH Gayle,Mehedi Hasan Miraz,0,0,0,NA,0,NA,NA,NA,0
+1146722,2nd innings,West Indies,Bangladesh,9.4,E Lewis,CH Gayle,Mehedi Hasan Miraz,0,0,0,NA,0,NA,NA,NA,0
+1146722,2nd innings,West Indies,Bangladesh,9.5,E Lewis,CH Gayle,Mehedi Hasan Miraz,0,0,0,NA,0,NA,NA,NA,0
+1146722,2nd innings,West Indies,Bangladesh,9.6,E Lewis,CH Gayle,Mehedi Hasan Miraz,0,0,0,NA,0,NA,NA,NA,0
+1146722,2nd innings,West Indies,Bangladesh,9.7,E Lewis,CH Gayle,Mehedi Hasan Miraz,1,0,1,NA,0,NA,NA,NA,0
+1146722,2nd innings,West Indies,Bangladesh,10.1,E Lewis,CH Gayle,Mashrafe Mortaza,0,0,0,NA,1,caught,E Lewis,Mushfiqur Rahim,0
+1146722,2nd innings,West Indies,Bangladesh,10.2,SD Hope,CH Gayle,Mashrafe Mortaza,1,0,1,NA,0,NA,NA,NA,0
+1146722,2nd innings,West Indies,Bangladesh,10.3,CH Gayle,SD Hope,Mashrafe Mortaza,0,0,0,NA,0,NA,NA,NA,0
+1146722,2nd innings,West Indies,Bangladesh,10.4,CH Gayle,SD Hope,Mashrafe Mortaza,1,0,1,NA,0,NA,NA,NA,0
+1146722,2nd innings,West Indies,Bangladesh,10.5,SD Hope,CH Gayle,Mashrafe Mortaza,1,0,1,NA,0,NA,NA,NA,0
+1146722,2nd innings,West Indies,Bangladesh,10.6,CH Gayle,SD Hope,Mashrafe Mortaza,4,0,4,NA,0,NA,NA,NA,0
+1146722,2nd innings,West Indies,Bangladesh,11.1,SD Hope,CH Gayle,Mehedi Hasan Miraz,0,0,0,NA,0,NA,NA,NA,0
+1146722,2nd innings,West Indies,Bangladesh,11.2,SD Hope,CH Gayle,Mehedi Hasan Miraz,0,0,0,NA,0,NA,NA,NA,0
+1146722,2nd innings,West Indies,Bangladesh,11.3,SD Hope,CH Gayle,Mehedi Hasan Miraz,0,0,0,NA,0,NA,NA,NA,0
+1146722,2nd innings,West Indies,Bangladesh,11.4,SD Hope,CH Gayle,Mehedi Hasan Miraz,1,0,1,NA,0,NA,NA,NA,0
+1146722,2nd innings,West Indies,Bangladesh,11.5,CH Gayle,SD Hope,Mehedi Hasan Miraz,1,0,1,NA,0,NA,NA,NA,0
+1146722,2nd innings,West Indies,Bangladesh,11.6,SD Hope,CH Gayle,Mehedi Hasan Miraz,1,0,1,NA,0,NA,NA,NA,0
+1146722,2nd innings,West Indies,Bangladesh,12.1,SD Hope,CH Gayle,Mustafizur Rahman,0,0,0,NA,0,NA,NA,NA,0
+1146722,2nd innings,West Indies,Bangladesh,12.2,SD Hope,CH Gayle,Mustafizur Rahman,0,0,0,NA,0,NA,NA,NA,0
+1146722,2nd innings,West Indies,Bangladesh,12.3,SD Hope,CH Gayle,Mustafizur Rahman,0,0,0,NA,0,NA,NA,NA,0
+1146722,2nd innings,West Indies,Bangladesh,12.4,SD Hope,CH Gayle,Mustafizur Rahman,1,0,1,NA,0,NA,NA,NA,0
+1146722,2nd innings,West Indies,Bangladesh,12.5,CH Gayle,SD Hope,Mustafizur Rahman,0,0,0,NA,0,NA,NA,NA,0
+1146722,2nd innings,West Indies,Bangladesh,12.6,CH Gayle,SD Hope,Mustafizur Rahman,0,0,0,NA,0,NA,NA,NA,0
+1146722,2nd innings,West Indies,Bangladesh,13.1,SD Hope,CH Gayle,Mosaddek Hossain,0,0,0,NA,0,NA,NA,NA,0
+1146722,2nd innings,West Indies,Bangladesh,13.2,SD Hope,CH Gayle,Mosaddek Hossain,1,0,1,NA,0,NA,NA,NA,0
+1146722,2nd innings,West Indies,Bangladesh,13.3,CH Gayle,SD Hope,Mosaddek Hossain,1,0,1,NA,0,NA,NA,NA,0
+1146722,2nd innings,West Indies,Bangladesh,13.4,SD Hope,CH Gayle,Mosaddek Hossain,1,0,1,NA,0,NA,NA,NA,0
+1146722,2nd innings,West Indies,Bangladesh,13.5,CH Gayle,SD Hope,Mosaddek Hossain,6,0,6,NA,0,NA,NA,NA,0
+1146722,2nd innings,West Indies,Bangladesh,13.6,CH Gayle,SD Hope,Mosaddek Hossain,1,0,1,NA,0,NA,NA,NA,0
+1146722,2nd innings,West Indies,Bangladesh,14.1,CH Gayle,SD Hope,Mustafizur Rahman,0,0,0,NA,0,NA,NA,NA,0
+1146722,2nd innings,West Indies,Bangladesh,14.2,CH Gayle,SD Hope,Mustafizur Rahman,0,0,0,NA,0,NA,NA,NA,0
+1146722,2nd innings,West Indies,Bangladesh,14.3,CH Gayle,SD Hope,Mustafizur Rahman,1,0,1,NA,0,NA,NA,NA,0
+1146722,2nd innings,West Indies,Bangladesh,14.4,SD Hope,CH Gayle,Mustafizur Rahman,1,0,1,NA,0,NA,NA,NA,0
+1146722,2nd innings,West Indies,Bangladesh,14.5,CH Gayle,SD Hope,Mustafizur Rahman,0,0,0,NA,0,NA,NA,NA,0
+1146722,2nd innings,West Indies,Bangladesh,14.6,CH Gayle,SD Hope,Mustafizur Rahman,0,0,0,NA,0,NA,NA,NA,0
+1146722,2nd innings,West Indies,Bangladesh,15.1,SD Hope,CH Gayle,Mahmudullah,0,0,0,NA,0,NA,NA,NA,0
+1146722,2nd innings,West Indies,Bangladesh,15.2,SD Hope,CH Gayle,Mahmudullah,0,0,0,NA,0,NA,NA,NA,0
+1146722,2nd innings,West Indies,Bangladesh,15.3,SD Hope,CH Gayle,Mahmudullah,0,0,0,NA,0,NA,NA,NA,0
+1146722,2nd innings,West Indies,Bangladesh,15.4,SD Hope,CH Gayle,Mahmudullah,1,0,1,NA,0,NA,NA,NA,0
+1146722,2nd innings,West Indies,Bangladesh,15.5,CH Gayle,SD Hope,Mahmudullah,4,0,4,NA,0,NA,NA,NA,0
+1146722,2nd innings,West Indies,Bangladesh,15.6,CH Gayle,SD Hope,Mahmudullah,1,0,1,NA,0,NA,NA,NA,0
+1146722,2nd innings,West Indies,Bangladesh,16.1,CH Gayle,SD Hope,Mustafizur Rahman,0,0,0,NA,0,NA,NA,NA,0
+1146722,2nd innings,West Indies,Bangladesh,16.2,CH Gayle,SD Hope,Mustafizur Rahman,0,0,0,NA,0,NA,NA,NA,0
+1146722,2nd innings,West Indies,Bangladesh,16.3,CH Gayle,SD Hope,Mustafizur Rahman,1,0,1,NA,0,NA,NA,NA,0
+1146722,2nd innings,West Indies,Bangladesh,16.4,SD Hope,CH Gayle,Mustafizur Rahman,0,0,0,NA,0,NA,NA,NA,0
+1146722,2nd innings,West Indies,Bangladesh,16.5,SD Hope,CH Gayle,Mustafizur Rahman,0,0,0,NA,0,NA,NA,NA,0
+1146722,2nd innings,West Indies,Bangladesh,16.6,SD Hope,CH Gayle,Mustafizur Rahman,0,0,0,NA,0,NA,NA,NA,0
+1146722,2nd innings,West Indies,Bangladesh,17.1,CH Gayle,SD Hope,Mahmudullah,6,0,6,NA,0,NA,NA,NA,0
+1146722,2nd innings,West Indies,Bangladesh,17.2,CH Gayle,SD Hope,Mahmudullah,6,0,6,NA,0,NA,NA,NA,0
+1146722,2nd innings,West Indies,Bangladesh,17.3,CH Gayle,SD Hope,Mahmudullah,0,0,0,NA,0,NA,NA,NA,0
+1146722,2nd innings,West Indies,Bangladesh,17.4,CH Gayle,SD Hope,Mahmudullah,1,0,1,NA,0,NA,NA,NA,0
+1146722,2nd innings,West Indies,Bangladesh,17.5,SD Hope,CH Gayle,Mahmudullah,0,0,0,NA,0,NA,NA,NA,0
+1146722,2nd innings,West Indies,Bangladesh,17.6,SD Hope,CH Gayle,Mahmudullah,1,0,1,NA,0,NA,NA,NA,0
+1146722,2nd innings,West Indies,Bangladesh,18.1,SD Hope,CH Gayle,Mustafizur Rahman,1,0,1,NA,0,NA,NA,NA,0
+1146722,2nd innings,West Indies,Bangladesh,18.2,CH Gayle,SD Hope,Mustafizur Rahman,1,0,1,NA,0,NA,NA,NA,0
+1146722,2nd innings,West Indies,Bangladesh,18.3,SD Hope,CH Gayle,Mustafizur Rahman,1,0,1,NA,0,NA,NA,NA,0
+1146722,2nd innings,West Indies,Bangladesh,18.4,CH Gayle,SD Hope,Mustafizur Rahman,0,0,0,NA,0,NA,NA,NA,0
+1146722,2nd innings,West Indies,Bangladesh,18.5,CH Gayle,SD Hope,Mustafizur Rahman,1,0,1,NA,0,NA,NA,NA,0
+1146722,2nd innings,West Indies,Bangladesh,18.6,SD Hope,CH Gayle,Mustafizur Rahman,0,0,0,NA,0,NA,NA,NA,0
+1146722,2nd innings,West Indies,Bangladesh,19.1,CH Gayle,SD Hope,Rubel Hossain,0,0,0,NA,0,NA,NA,NA,0
+1146722,2nd innings,West Indies,Bangladesh,19.2,CH Gayle,SD Hope,Rubel Hossain,0,0,0,NA,0,NA,NA,NA,0
+1146722,2nd innings,West Indies,Bangladesh,19.3,CH Gayle,SD Hope,Rubel Hossain,0,0,0,NA,0,NA,NA,NA,0
+1146722,2nd innings,West Indies,Bangladesh,19.4,CH Gayle,SD Hope,Rubel Hossain,1,0,1,NA,0,NA,NA,NA,0
+1146722,2nd innings,West Indies,Bangladesh,19.5,SD Hope,CH Gayle,Rubel Hossain,0,0,0,NA,0,NA,NA,NA,0
+1146722,2nd innings,West Indies,Bangladesh,19.6,SD Hope,CH Gayle,Rubel Hossain,0,0,0,NA,0,NA,NA,NA,0
+1146722,2nd innings,West Indies,Bangladesh,20.1,CH Gayle,SD Hope,Mustafizur Rahman,1,0,1,NA,0,NA,NA,NA,0
+1146722,2nd innings,West Indies,Bangladesh,20.2,SD Hope,CH Gayle,Mustafizur Rahman,0,0,0,NA,0,NA,NA,NA,0
+1146722,2nd innings,West Indies,Bangladesh,20.3,SD Hope,CH Gayle,Mustafizur Rahman,1,0,1,NA,0,NA,NA,NA,0
+1146722,2nd innings,West Indies,Bangladesh,20.4,CH Gayle,SD Hope,Mustafizur Rahman,0,0,0,NA,0,NA,NA,NA,0
+1146722,2nd innings,West Indies,Bangladesh,20.5,CH Gayle,SD Hope,Mustafizur Rahman,0,0,0,NA,0,NA,NA,NA,0
+1146722,2nd innings,West Indies,Bangladesh,20.6,CH Gayle,SD Hope,Mustafizur Rahman,0,0,0,NA,0,NA,NA,NA,0
+1146722,2nd innings,West Indies,Bangladesh,21.1,SD Hope,CH Gayle,Rubel Hossain,1,0,1,NA,0,NA,NA,NA,0
+1146722,2nd innings,West Indies,Bangladesh,21.2,CH Gayle,SD Hope,Rubel Hossain,0,0,0,NA,0,NA,NA,NA,0
+1146722,2nd innings,West Indies,Bangladesh,21.3,CH Gayle,SD Hope,Rubel Hossain,0,0,0,NA,0,NA,NA,NA,0
+1146722,2nd innings,West Indies,Bangladesh,21.4,CH Gayle,SD Hope,Rubel Hossain,0,0,0,NA,0,NA,NA,NA,0
+1146722,2nd innings,West Indies,Bangladesh,21.5,CH Gayle,SD Hope,Rubel Hossain,0,0,0,NA,1,caught,CH Gayle,Mehedi Hasan Miraz,0
+1146722,2nd innings,West Indies,Bangladesh,21.6,SO Hetmyer,SD Hope,Rubel Hossain,1,0,1,NA,0,NA,NA,NA,0
+1146722,2nd innings,West Indies,Bangladesh,22.1,SO Hetmyer,SD Hope,Shakib Al Hasan,0,0,0,NA,0,NA,NA,NA,0
+1146722,2nd innings,West Indies,Bangladesh,22.2,SO Hetmyer,SD Hope,Shakib Al Hasan,0,0,0,NA,0,NA,NA,NA,0
+1146722,2nd innings,West Indies,Bangladesh,22.3,SO Hetmyer,SD Hope,Shakib Al Hasan,0,0,0,NA,0,NA,NA,NA,0
+1146722,2nd innings,West Indies,Bangladesh,22.4,SO Hetmyer,SD Hope,Shakib Al Hasan,0,0,0,NA,0,NA,NA,NA,0
+1146722,2nd innings,West Indies,Bangladesh,22.5,SO Hetmyer,SD Hope,Shakib Al Hasan,1,0,1,NA,0,NA,NA,NA,0
+1146722,2nd innings,West Indies,Bangladesh,22.6,SD Hope,SO Hetmyer,Shakib Al Hasan,0,0,0,NA,0,NA,NA,NA,0
+1146722,2nd innings,West Indies,Bangladesh,23.1,SO Hetmyer,SD Hope,Rubel Hossain,1,0,1,NA,0,NA,NA,NA,0
+1146722,2nd innings,West Indies,Bangladesh,23.2,SD Hope,SO Hetmyer,Rubel Hossain,4,0,4,NA,0,NA,NA,NA,0
+1146722,2nd innings,West Indies,Bangladesh,23.3,SD Hope,SO Hetmyer,Rubel Hossain,0,0,0,NA,0,NA,NA,NA,0
+1146722,2nd innings,West Indies,Bangladesh,23.4,SD Hope,SO Hetmyer,Rubel Hossain,0,0,0,NA,0,NA,NA,NA,0
+1146722,2nd innings,West Indies,Bangladesh,23.5,SD Hope,SO Hetmyer,Rubel Hossain,0,0,0,NA,0,NA,NA,NA,0
+1146722,2nd innings,West Indies,Bangladesh,23.6,SD Hope,SO Hetmyer,Rubel Hossain,1,0,1,NA,0,NA,NA,NA,0
+1146722,2nd innings,West Indies,Bangladesh,24.1,SD Hope,SO Hetmyer,Shakib Al Hasan,0,0,0,NA,0,NA,NA,NA,0
+1146722,2nd innings,West Indies,Bangladesh,24.2,SD Hope,SO Hetmyer,Shakib Al Hasan,0,0,0,NA,0,NA,NA,NA,0
+1146722,2nd innings,West Indies,Bangladesh,24.3,SD Hope,SO Hetmyer,Shakib Al Hasan,0,0,0,NA,0,NA,NA,NA,0
+1146722,2nd innings,West Indies,Bangladesh,24.4,SD Hope,SO Hetmyer,Shakib Al Hasan,4,0,4,NA,0,NA,NA,NA,0
+1146722,2nd innings,West Indies,Bangladesh,24.5,SD Hope,SO Hetmyer,Shakib Al Hasan,0,0,0,NA,0,NA,NA,NA,0
+1146722,2nd innings,West Indies,Bangladesh,24.6,SD Hope,SO Hetmyer,Shakib Al Hasan,0,0,0,NA,0,NA,NA,NA,0
+1146722,2nd innings,West Indies,Bangladesh,25.1,SO Hetmyer,SD Hope,Rubel Hossain,0,0,0,NA,0,NA,NA,NA,0
+1146722,2nd innings,West Indies,Bangladesh,25.2,SO Hetmyer,SD Hope,Rubel Hossain,0,0,0,NA,0,NA,NA,NA,0
+1146722,2nd innings,West Indies,Bangladesh,25.3,SO Hetmyer,SD Hope,Rubel Hossain,2,0,2,NA,0,NA,NA,NA,0
+1146722,2nd innings,West Indies,Bangladesh,25.4,SO Hetmyer,SD Hope,Rubel Hossain,4,0,4,NA,0,NA,NA,NA,0
+1146722,2nd innings,West Indies,Bangladesh,25.5,SO Hetmyer,SD Hope,Rubel Hossain,0,0,0,NA,0,NA,NA,NA,0
+1146722,2nd innings,West Indies,Bangladesh,25.6,SO Hetmyer,SD Hope,Rubel Hossain,2,0,2,NA,0,NA,NA,NA,0
+1146722,2nd innings,West Indies,Bangladesh,26.1,SD Hope,SO Hetmyer,Shakib Al Hasan,1,0,1,NA,0,NA,NA,NA,0
+1146722,2nd innings,West Indies,Bangladesh,26.2,SO Hetmyer,SD Hope,Shakib Al Hasan,1,0,1,NA,0,NA,NA,NA,0
+1146722,2nd innings,West Indies,Bangladesh,26.3,SD Hope,SO Hetmyer,Shakib Al Hasan,0,0,0,NA,0,NA,NA,NA,0
+1146722,2nd innings,West Indies,Bangladesh,26.4,SD Hope,SO Hetmyer,Shakib Al Hasan,0,0,0,NA,0,NA,NA,NA,0
+1146722,2nd innings,West Indies,Bangladesh,26.5,SD Hope,SO Hetmyer,Shakib Al Hasan,1,0,1,NA,0,NA,NA,NA,0
+1146722,2nd innings,West Indies,Bangladesh,26.6,SO Hetmyer,SD Hope,Shakib Al Hasan,0,0,0,NA,0,NA,NA,NA,0
+1146722,2nd innings,West Indies,Bangladesh,27.1,SD Hope,SO Hetmyer,Rubel Hossain,0,0,0,NA,0,NA,NA,NA,0
+1146722,2nd innings,West Indies,Bangladesh,27.2,SD Hope,SO Hetmyer,Rubel Hossain,1,0,1,NA,0,NA,NA,NA,0
+1146722,2nd innings,West Indies,Bangladesh,27.3,SO Hetmyer,SD Hope,Rubel Hossain,4,0,4,NA,0,NA,NA,NA,0
+1146722,2nd innings,West Indies,Bangladesh,27.4,SO Hetmyer,SD Hope,Rubel Hossain,0,0,0,NA,0,NA,NA,NA,0
+1146722,2nd innings,West Indies,Bangladesh,27.5,SO Hetmyer,SD Hope,Rubel Hossain,0,0,0,NA,0,NA,NA,NA,0
+1146722,2nd innings,West Indies,Bangladesh,27.6,SO Hetmyer,SD Hope,Rubel Hossain,0,0,0,NA,0,NA,NA,NA,0
+1146722,2nd innings,West Indies,Bangladesh,28.1,SD Hope,SO Hetmyer,Shakib Al Hasan,1,0,1,NA,0,NA,NA,NA,0
+1146722,2nd innings,West Indies,Bangladesh,28.2,SO Hetmyer,SD Hope,Shakib Al Hasan,1,0,1,NA,0,NA,NA,NA,0
+1146722,2nd innings,West Indies,Bangladesh,28.3,SD Hope,SO Hetmyer,Shakib Al Hasan,1,0,1,NA,0,NA,NA,NA,0
+1146722,2nd innings,West Indies,Bangladesh,28.4,SO Hetmyer,SD Hope,Shakib Al Hasan,1,0,1,NA,0,NA,NA,NA,0
+1146722,2nd innings,West Indies,Bangladesh,28.5,SD Hope,SO Hetmyer,Shakib Al Hasan,0,0,0,NA,0,NA,NA,NA,0
+1146722,2nd innings,West Indies,Bangladesh,28.6,SD Hope,SO Hetmyer,Shakib Al Hasan,0,0,0,NA,0,NA,NA,NA,0
+1146722,2nd innings,West Indies,Bangladesh,29.1,SO Hetmyer,SD Hope,Rubel Hossain,1,0,1,NA,0,NA,NA,NA,0
+1146722,2nd innings,West Indies,Bangladesh,29.2,SD Hope,SO Hetmyer,Rubel Hossain,4,0,4,NA,0,NA,NA,NA,0
+1146722,2nd innings,West Indies,Bangladesh,29.3,SD Hope,SO Hetmyer,Rubel Hossain,0,0,0,NA,0,NA,NA,NA,0
+1146722,2nd innings,West Indies,Bangladesh,29.4,SD Hope,SO Hetmyer,Rubel Hossain,0,0,0,NA,0,NA,NA,NA,0
+1146722,2nd innings,West Indies,Bangladesh,29.5,SD Hope,SO Hetmyer,Rubel Hossain,1,0,1,NA,0,NA,NA,NA,0
+1146722,2nd innings,West Indies,Bangladesh,29.6,SO Hetmyer,SD Hope,Rubel Hossain,0,0,0,NA,0,NA,NA,NA,0
+1146722,2nd innings,West Indies,Bangladesh,30.1,SD Hope,SO Hetmyer,Shakib Al Hasan,1,0,1,NA,0,NA,NA,NA,0
+1146722,2nd innings,West Indies,Bangladesh,30.2,SO Hetmyer,SD Hope,Shakib Al Hasan,0,0,0,NA,0,NA,NA,NA,0
+1146722,2nd innings,West Indies,Bangladesh,30.3,SO Hetmyer,SD Hope,Shakib Al Hasan,1,0,1,NA,0,NA,NA,NA,0
+1146722,2nd innings,West Indies,Bangladesh,30.4,SD Hope,SO Hetmyer,Shakib Al Hasan,1,0,1,NA,0,NA,NA,NA,0
+1146722,2nd innings,West Indies,Bangladesh,30.5,SO Hetmyer,SD Hope,Shakib Al Hasan,0,0,0,NA,0,NA,NA,NA,0
+1146722,2nd innings,West Indies,Bangladesh,30.6,SO Hetmyer,SD Hope,Shakib Al Hasan,1,0,1,NA,0,NA,NA,NA,0
+1146722,2nd innings,West Indies,Bangladesh,31.1,SO Hetmyer,SD Hope,Mehedi Hasan Miraz,0,2,2,wides,0,NA,NA,NA,0
+1146722,2nd innings,West Indies,Bangladesh,31.2,SD Hope,SO Hetmyer,Mehedi Hasan Miraz,0,0,0,NA,0,NA,NA,NA,0
+1146722,2nd innings,West Indies,Bangladesh,31.3,SD Hope,SO Hetmyer,Mehedi Hasan Miraz,0,0,0,NA,0,NA,NA,NA,0
+1146722,2nd innings,West Indies,Bangladesh,31.4,SD Hope,SO Hetmyer,Mehedi Hasan Miraz,1,0,1,NA,0,NA,NA,NA,0
+1146722,2nd innings,West Indies,Bangladesh,31.5,SO Hetmyer,SD Hope,Mehedi Hasan Miraz,1,0,1,NA,0,NA,NA,NA,0
+1146722,2nd innings,West Indies,Bangladesh,31.6,SD Hope,SO Hetmyer,Mehedi Hasan Miraz,2,0,2,NA,0,NA,NA,NA,0
+1146722,2nd innings,West Indies,Bangladesh,31.7,SD Hope,SO Hetmyer,Mehedi Hasan Miraz,0,0,0,NA,0,NA,NA,NA,0
+1146722,2nd innings,West Indies,Bangladesh,32.1,SO Hetmyer,SD Hope,Shakib Al Hasan,0,0,0,NA,0,NA,NA,NA,0
+1146722,2nd innings,West Indies,Bangladesh,32.2,SO Hetmyer,SD Hope,Shakib Al Hasan,0,0,0,NA,0,NA,NA,NA,0
+1146722,2nd innings,West Indies,Bangladesh,32.3,SO Hetmyer,SD Hope,Shakib Al Hasan,0,0,0,NA,0,NA,NA,NA,0
+1146722,2nd innings,West Indies,Bangladesh,32.4,SO Hetmyer,SD Hope,Shakib Al Hasan,2,0,2,NA,0,NA,NA,NA,0
+1146722,2nd innings,West Indies,Bangladesh,32.5,SO Hetmyer,SD Hope,Shakib Al Hasan,0,0,0,NA,0,NA,NA,NA,0
+1146722,2nd innings,West Indies,Bangladesh,32.6,SO Hetmyer,SD Hope,Shakib Al Hasan,1,0,1,NA,0,NA,NA,NA,0
+1146722,2nd innings,West Indies,Bangladesh,33.1,SO Hetmyer,SD Hope,Mehedi Hasan Miraz,1,0,1,NA,0,NA,NA,NA,0
+1146722,2nd innings,West Indies,Bangladesh,33.2,SD Hope,SO Hetmyer,Mehedi Hasan Miraz,1,0,1,NA,0,NA,NA,NA,0
+1146722,2nd innings,West Indies,Bangladesh,33.3,SO Hetmyer,SD Hope,Mehedi Hasan Miraz,1,0,1,NA,0,NA,NA,NA,0
+1146722,2nd innings,West Indies,Bangladesh,33.4,SD Hope,SO Hetmyer,Mehedi Hasan Miraz,2,0,2,NA,0,NA,NA,NA,0
+1146722,2nd innings,West Indies,Bangladesh,33.5,SD Hope,SO Hetmyer,Mehedi Hasan Miraz,1,0,1,NA,0,NA,NA,NA,0
+1146722,2nd innings,West Indies,Bangladesh,33.6,SO Hetmyer,SD Hope,Mehedi Hasan Miraz,1,0,1,NA,0,NA,NA,NA,0
+1146722,2nd innings,West Indies,Bangladesh,34.1,SO Hetmyer,SD Hope,Shakib Al Hasan,0,0,0,NA,0,NA,NA,NA,0
+1146722,2nd innings,West Indies,Bangladesh,34.2,SO Hetmyer,SD Hope,Shakib Al Hasan,1,0,1,NA,0,NA,NA,NA,0
+1146722,2nd innings,West Indies,Bangladesh,34.3,SD Hope,SO Hetmyer,Shakib Al Hasan,0,0,0,NA,0,NA,NA,NA,0
+1146722,2nd innings,West Indies,Bangladesh,34.4,SD Hope,SO Hetmyer,Shakib Al Hasan,4,0,4,NA,0,NA,NA,NA,0
+1146722,2nd innings,West Indies,Bangladesh,34.5,SD Hope,SO Hetmyer,Shakib Al Hasan,1,0,1,NA,0,NA,NA,NA,0
+1146722,2nd innings,West Indies,Bangladesh,34.6,SO Hetmyer,SD Hope,Shakib Al Hasan,0,0,0,NA,0,NA,NA,NA,0
+1146722,2nd innings,West Indies,Bangladesh,35.1,SD Hope,SO Hetmyer,Mehedi Hasan Miraz,0,1,1,legbyes,0,NA,NA,NA,0
+1146722,2nd innings,West Indies,Bangladesh,35.2,SO Hetmyer,SD Hope,Mehedi Hasan Miraz,1,0,1,NA,0,NA,NA,NA,0
+1146722,2nd innings,West Indies,Bangladesh,35.3,SD Hope,SO Hetmyer,Mehedi Hasan Miraz,1,0,1,NA,0,NA,NA,NA,0
+1146722,2nd innings,West Indies,Bangladesh,35.4,SO Hetmyer,SD Hope,Mehedi Hasan Miraz,0,0,0,NA,1,bowled,SO Hetmyer,NA,0
+1146722,2nd innings,West Indies,Bangladesh,35.5,KOA Powell,SD Hope,Mehedi Hasan Miraz,1,0,1,NA,0,NA,NA,NA,0
+1146722,2nd innings,West Indies,Bangladesh,35.6,SD Hope,KOA Powell,Mehedi Hasan Miraz,0,0,0,NA,0,NA,NA,NA,0
+1146722,2nd innings,West Indies,Bangladesh,36.1,KOA Powell,SD Hope,Shakib Al Hasan,0,0,0,NA,0,NA,NA,NA,0
+1146722,2nd innings,West Indies,Bangladesh,36.2,KOA Powell,SD Hope,Shakib Al Hasan,0,1,1,legbyes,0,NA,NA,NA,0
+1146722,2nd innings,West Indies,Bangladesh,36.3,SD Hope,KOA Powell,Shakib Al Hasan,1,0,1,NA,0,NA,NA,NA,0
+1146722,2nd innings,West Indies,Bangladesh,36.4,KOA Powell,SD Hope,Shakib Al Hasan,0,0,0,NA,0,NA,NA,NA,0
+1146722,2nd innings,West Indies,Bangladesh,36.5,KOA Powell,SD Hope,Shakib Al Hasan,1,0,1,NA,0,NA,NA,NA,0
+1146722,2nd innings,West Indies,Bangladesh,36.6,SD Hope,KOA Powell,Shakib Al Hasan,0,0,0,NA,0,NA,NA,NA,0
+1146722,2nd innings,West Indies,Bangladesh,37.1,KOA Powell,SD Hope,Mehedi Hasan Miraz,1,0,1,NA,0,NA,NA,NA,0
+1146722,2nd innings,West Indies,Bangladesh,37.2,SD Hope,KOA Powell,Mehedi Hasan Miraz,1,0,1,NA,0,NA,NA,NA,0
+1146722,2nd innings,West Indies,Bangladesh,37.3,KOA Powell,SD Hope,Mehedi Hasan Miraz,1,0,1,NA,0,NA,NA,NA,0
+1146722,2nd innings,West Indies,Bangladesh,37.4,SD Hope,KOA Powell,Mehedi Hasan Miraz,0,0,0,NA,0,NA,NA,NA,0
+1146722,2nd innings,West Indies,Bangladesh,37.5,SD Hope,KOA Powell,Mehedi Hasan Miraz,0,0,0,NA,1,run out,KOA Powell,NA,0
+1146722,2nd innings,West Indies,Bangladesh,37.6,SD Hope,R Powell,Mehedi Hasan Miraz,1,0,1,NA,0,NA,NA,NA,0
+1146722,2nd innings,West Indies,Bangladesh,38.1,SD Hope,R Powell,Shakib Al Hasan,0,0,0,NA,0,NA,NA,NA,0
+1146722,2nd innings,West Indies,Bangladesh,38.2,SD Hope,R Powell,Shakib Al Hasan,0,0,0,NA,0,NA,NA,NA,0
+1146722,2nd innings,West Indies,Bangladesh,38.3,SD Hope,R Powell,Shakib Al Hasan,1,0,1,NA,0,NA,NA,NA,0
+1146722,2nd innings,West Indies,Bangladesh,38.4,R Powell,SD Hope,Shakib Al Hasan,1,0,1,NA,0,NA,NA,NA,0
+1146722,2nd innings,West Indies,Bangladesh,38.5,SD Hope,R Powell,Shakib Al Hasan,1,0,1,NA,0,NA,NA,NA,0
+1146722,2nd innings,West Indies,Bangladesh,38.6,R Powell,SD Hope,Shakib Al Hasan,4,0,4,NA,0,NA,NA,NA,0
+1146722,2nd innings,West Indies,Bangladesh,39.1,SD Hope,R Powell,Mashrafe Mortaza,2,0,2,NA,0,NA,NA,NA,0
+1146722,2nd innings,West Indies,Bangladesh,39.2,SD Hope,R Powell,Mashrafe Mortaza,1,0,1,NA,0,NA,NA,NA,0
+1146722,2nd innings,West Indies,Bangladesh,39.3,R Powell,SD Hope,Mashrafe Mortaza,0,0,0,NA,0,NA,NA,NA,0
+1146722,2nd innings,West Indies,Bangladesh,39.4,R Powell,SD Hope,Mashrafe Mortaza,0,0,0,NA,0,NA,NA,NA,0
+1146722,2nd innings,West Indies,Bangladesh,39.5,R Powell,SD Hope,Mashrafe Mortaza,2,0,2,NA,0,NA,NA,NA,0
+1146722,2nd innings,West Indies,Bangladesh,39.6,R Powell,SD Hope,Mashrafe Mortaza,1,0,1,NA,0,NA,NA,NA,0
+1146722,2nd innings,West Indies,Bangladesh,40.1,R Powell,SD Hope,Mustafizur Rahman,0,0,0,NA,0,NA,NA,NA,0
+1146722,2nd innings,West Indies,Bangladesh,40.2,R Powell,SD Hope,Mustafizur Rahman,0,0,0,NA,0,NA,NA,NA,0
+1146722,2nd innings,West Indies,Bangladesh,40.3,R Powell,SD Hope,Mustafizur Rahman,4,0,4,NA,0,NA,NA,NA,0
+1146722,2nd innings,West Indies,Bangladesh,40.4,R Powell,SD Hope,Mustafizur Rahman,1,0,1,NA,0,NA,NA,NA,0
+1146722,2nd innings,West Indies,Bangladesh,40.5,SD Hope,R Powell,Mustafizur Rahman,4,0,4,NA,0,NA,NA,NA,0
+1146722,2nd innings,West Indies,Bangladesh,40.6,SD Hope,R Powell,Mustafizur Rahman,0,0,0,NA,0,NA,NA,NA,0
+1146722,2nd innings,West Indies,Bangladesh,41.1,R Powell,SD Hope,Mashrafe Mortaza,1,0,1,NA,0,NA,NA,NA,0
+1146722,2nd innings,West Indies,Bangladesh,41.2,SD Hope,R Powell,Mashrafe Mortaza,2,0,2,NA,0,NA,NA,NA,0
+1146722,2nd innings,West Indies,Bangladesh,41.3,SD Hope,R Powell,Mashrafe Mortaza,1,0,1,NA,0,NA,NA,NA,0
+1146722,2nd innings,West Indies,Bangladesh,41.4,R Powell,SD Hope,Mashrafe Mortaza,2,0,2,NA,0,NA,NA,NA,0
+1146722,2nd innings,West Indies,Bangladesh,41.5,R Powell,SD Hope,Mashrafe Mortaza,2,0,2,NA,0,NA,NA,NA,0
+1146722,2nd innings,West Indies,Bangladesh,41.6,R Powell,SD Hope,Mashrafe Mortaza,1,0,1,NA,0,NA,NA,NA,0
+1146722,2nd innings,West Indies,Bangladesh,42.1,R Powell,SD Hope,Mustafizur Rahman,1,0,1,NA,0,NA,NA,NA,0
+1146722,2nd innings,West Indies,Bangladesh,42.2,SD Hope,R Powell,Mustafizur Rahman,0,0,0,NA,0,NA,NA,NA,0
+1146722,2nd innings,West Indies,Bangladesh,42.3,SD Hope,R Powell,Mustafizur Rahman,0,0,0,NA,0,NA,NA,NA,0
+1146722,2nd innings,West Indies,Bangladesh,42.4,SD Hope,R Powell,Mustafizur Rahman,1,0,1,NA,0,NA,NA,NA,0
+1146722,2nd innings,West Indies,Bangladesh,42.5,R Powell,SD Hope,Mustafizur Rahman,6,0,6,NA,0,NA,NA,NA,0
+1146722,2nd innings,West Indies,Bangladesh,42.6,R Powell,SD Hope,Mustafizur Rahman,0,1,1,wides,0,NA,NA,NA,0
+1146722,2nd innings,West Indies,Bangladesh,42.7,R Powell,SD Hope,Mustafizur Rahman,4,0,4,NA,0,NA,NA,NA,0
+1146722,2nd innings,West Indies,Bangladesh,43.1,SD Hope,R Powell,Mashrafe Mortaza,0,0,0,NA,1,caught,SD Hope,Shakib Al Hasan,0
+1146722,2nd innings,West Indies,Bangladesh,43.2,R Powell,JO Holder,Mashrafe Mortaza,1,0,1,NA,0,NA,NA,NA,0
+1146722,2nd innings,West Indies,Bangladesh,43.3,JO Holder,R Powell,Mashrafe Mortaza,1,0,1,NA,0,NA,NA,NA,0
+1146722,2nd innings,West Indies,Bangladesh,43.4,R Powell,JO Holder,Mashrafe Mortaza,1,0,1,NA,0,NA,NA,NA,0
+1146722,2nd innings,West Indies,Bangladesh,43.5,JO Holder,R Powell,Mashrafe Mortaza,1,0,1,NA,0,NA,NA,NA,0
+1146722,2nd innings,West Indies,Bangladesh,43.6,R Powell,JO Holder,Mashrafe Mortaza,1,0,1,NA,0,NA,NA,NA,0
+1146722,2nd innings,West Indies,Bangladesh,44.1,R Powell,JO Holder,Mustafizur Rahman,6,0,6,NA,0,NA,NA,NA,0
+1146722,2nd innings,West Indies,Bangladesh,44.2,R Powell,JO Holder,Mustafizur Rahman,1,0,1,NA,0,NA,NA,NA,0
+1146722,2nd innings,West Indies,Bangladesh,44.3,JO Holder,R Powell,Mustafizur Rahman,1,0,1,NA,0,NA,NA,NA,0
+1146722,2nd innings,West Indies,Bangladesh,44.4,R Powell,JO Holder,Mustafizur Rahman,1,0,1,NA,0,NA,NA,NA,0
+1146722,2nd innings,West Indies,Bangladesh,44.5,JO Holder,R Powell,Mustafizur Rahman,1,0,1,NA,0,NA,NA,NA,0
+1146722,2nd innings,West Indies,Bangladesh,44.6,R Powell,JO Holder,Mustafizur Rahman,6,0,6,NA,0,NA,NA,NA,0
+1146722,2nd innings,West Indies,Bangladesh,45.1,JO Holder,R Powell,Mashrafe Mortaza,1,0,1,NA,0,NA,NA,NA,0
+1146722,2nd innings,West Indies,Bangladesh,45.2,R Powell,JO Holder,Mashrafe Mortaza,1,0,1,NA,0,NA,NA,NA,0
+1146722,2nd innings,West Indies,Bangladesh,45.3,JO Holder,R Powell,Mashrafe Mortaza,1,0,1,NA,0,NA,NA,NA,0
+1146722,2nd innings,West Indies,Bangladesh,45.4,R Powell,JO Holder,Mashrafe Mortaza,1,0,1,NA,0,NA,NA,NA,0
+1146722,2nd innings,West Indies,Bangladesh,45.5,JO Holder,R Powell,Mashrafe Mortaza,1,0,1,NA,0,NA,NA,NA,0
+1146722,2nd innings,West Indies,Bangladesh,45.6,R Powell,JO Holder,Mashrafe Mortaza,1,0,1,NA,0,NA,NA,NA,0
+1146722,2nd innings,West Indies,Bangladesh,46.1,R Powell,JO Holder,Shakib Al Hasan,1,0,1,NA,0,NA,NA,NA,0
+1146722,2nd innings,West Indies,Bangladesh,46.2,JO Holder,R Powell,Shakib Al Hasan,1,0,1,NA,0,NA,NA,NA,0
+1146722,2nd innings,West Indies,Bangladesh,46.3,R Powell,JO Holder,Shakib Al Hasan,4,0,4,NA,0,NA,NA,NA,0
+1146722,2nd innings,West Indies,Bangladesh,46.4,R Powell,JO Holder,Shakib Al Hasan,2,0,2,NA,0,NA,NA,NA,0
+1146722,2nd innings,West Indies,Bangladesh,46.5,R Powell,JO Holder,Shakib Al Hasan,1,0,1,NA,0,NA,NA,NA,0
+1146722,2nd innings,West Indies,Bangladesh,46.6,JO Holder,R Powell,Shakib Al Hasan,0,1,1,wides,0,NA,NA,NA,0
+1146722,2nd innings,West Indies,Bangladesh,46.7,JO Holder,R Powell,Shakib Al Hasan,1,0,1,NA,0,NA,NA,NA,0
+1146722,2nd innings,West Indies,Bangladesh,47.1,JO Holder,R Powell,Mustafizur Rahman,0,0,0,NA,1,caught,JO Holder,Rubel Hossain,0
+1146722,2nd innings,West Indies,Bangladesh,47.2,R Powell,AR Nurse,Mustafizur Rahman,0,0,0,NA,0,NA,NA,NA,0
+1146722,2nd innings,West Indies,Bangladesh,47.3,R Powell,AR Nurse,Mustafizur Rahman,4,0,4,NA,0,NA,NA,NA,0
+1146722,2nd innings,West Indies,Bangladesh,47.4,R Powell,AR Nurse,Mustafizur Rahman,1,0,1,NA,0,NA,NA,NA,0
+1146722,2nd innings,West Indies,Bangladesh,47.5,AR Nurse,R Powell,Mustafizur Rahman,1,0,1,NA,0,NA,NA,NA,0
+1146722,2nd innings,West Indies,Bangladesh,47.6,R Powell,AR Nurse,Mustafizur Rahman,0,0,0,NA,0,NA,NA,NA,0
+1146722,2nd innings,West Indies,Bangladesh,48.1,AR Nurse,R Powell,Rubel Hossain,1,0,1,NA,0,NA,NA,NA,0
+1146722,2nd innings,West Indies,Bangladesh,48.2,R Powell,AR Nurse,Rubel Hossain,1,0,1,NA,0,NA,NA,NA,0
+1146722,2nd innings,West Indies,Bangladesh,48.3,AR Nurse,R Powell,Rubel Hossain,1,0,1,NA,0,NA,NA,NA,0
+1146722,2nd innings,West Indies,Bangladesh,48.4,R Powell,AR Nurse,Rubel Hossain,1,0,1,NA,0,NA,NA,NA,0
+1146722,2nd innings,West Indies,Bangladesh,48.5,AR Nurse,R Powell,Rubel Hossain,1,0,1,NA,0,NA,NA,NA,0
+1146722,2nd innings,West Indies,Bangladesh,48.6,R Powell,AR Nurse,Rubel Hossain,1,0,1,NA,0,NA,NA,NA,0
+1146722,2nd innings,West Indies,Bangladesh,49.1,R Powell,AR Nurse,Mustafizur Rahman,6,0,6,NA,0,NA,NA,NA,0
+1146722,2nd innings,West Indies,Bangladesh,49.2,R Powell,AR Nurse,Mustafizur Rahman,1,0,1,NA,0,NA,NA,NA,0
+1146722,2nd innings,West Indies,Bangladesh,49.3,AR Nurse,R Powell,Mustafizur Rahman,0,0,0,NA,0,NA,NA,NA,0
+1146722,2nd innings,West Indies,Bangladesh,49.4,AR Nurse,R Powell,Mustafizur Rahman,1,0,1,NA,0,NA,NA,NA,0
+1146722,2nd innings,West Indies,Bangladesh,49.5,R Powell,AR Nurse,Mustafizur Rahman,1,0,1,NA,0,NA,NA,NA,0
+1146722,2nd innings,West Indies,Bangladesh,49.6,AR Nurse,R Powell,Mustafizur Rahman,0,0,0,NA,0,NA,NA,NA,0

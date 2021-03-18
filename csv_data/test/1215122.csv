@@ -1,0 +1,591 @@
+match_id,innings,team,opponent,ball,batsman,non_striker,bowler,scored_runs,extras,total,extra_type,wicket,wicket_type,player_out,fielders,winner
+1215122,1st innings,Oman,Nepal,0.1,Jatinder Singh,Khawar Ali,Karan KC,0,0,0,NA,0,NA,NA,NA,1
+1215122,1st innings,Oman,Nepal,0.2,Jatinder Singh,Khawar Ali,Karan KC,0,0,0,NA,0,NA,NA,NA,1
+1215122,1st innings,Oman,Nepal,0.3,Jatinder Singh,Khawar Ali,Karan KC,0,0,0,NA,0,NA,NA,NA,1
+1215122,1st innings,Oman,Nepal,0.4,Jatinder Singh,Khawar Ali,Karan KC,4,0,4,NA,0,NA,NA,NA,1
+1215122,1st innings,Oman,Nepal,0.5,Jatinder Singh,Khawar Ali,Karan KC,0,0,0,NA,0,NA,NA,NA,1
+1215122,1st innings,Oman,Nepal,0.6,Jatinder Singh,Khawar Ali,Karan KC,0,0,0,NA,1,bowled,Jatinder Singh,NA,1
+1215122,1st innings,Oman,Nepal,1.1,Khawar Ali,Aqib Ilyas,A Bohara,0,0,0,NA,0,NA,NA,NA,1
+1215122,1st innings,Oman,Nepal,1.2,Khawar Ali,Aqib Ilyas,A Bohara,0,0,0,NA,0,NA,NA,NA,1
+1215122,1st innings,Oman,Nepal,1.3,Khawar Ali,Aqib Ilyas,A Bohara,0,0,0,NA,0,NA,NA,NA,1
+1215122,1st innings,Oman,Nepal,1.4,Khawar Ali,Aqib Ilyas,A Bohara,0,0,0,NA,0,NA,NA,NA,1
+1215122,1st innings,Oman,Nepal,1.5,Khawar Ali,Aqib Ilyas,A Bohara,0,0,0,NA,0,NA,NA,NA,1
+1215122,1st innings,Oman,Nepal,1.6,Khawar Ali,Aqib Ilyas,A Bohara,0,0,0,NA,0,NA,NA,NA,1
+1215122,1st innings,Oman,Nepal,2.1,Aqib Ilyas,Khawar Ali,Karan KC,0,0,0,NA,0,NA,NA,NA,1
+1215122,1st innings,Oman,Nepal,2.2,Aqib Ilyas,Khawar Ali,Karan KC,0,0,0,NA,0,NA,NA,NA,1
+1215122,1st innings,Oman,Nepal,2.3,Aqib Ilyas,Khawar Ali,Karan KC,0,0,0,NA,0,NA,NA,NA,1
+1215122,1st innings,Oman,Nepal,2.4,Aqib Ilyas,Khawar Ali,Karan KC,1,0,1,NA,0,NA,NA,NA,1
+1215122,1st innings,Oman,Nepal,2.5,Khawar Ali,Aqib Ilyas,Karan KC,0,0,0,NA,0,NA,NA,NA,1
+1215122,1st innings,Oman,Nepal,2.6,Khawar Ali,Aqib Ilyas,Karan KC,0,0,0,NA,0,NA,NA,NA,1
+1215122,1st innings,Oman,Nepal,3.1,Aqib Ilyas,Khawar Ali,A Bohara,0,0,0,NA,0,NA,NA,NA,1
+1215122,1st innings,Oman,Nepal,3.2,Aqib Ilyas,Khawar Ali,A Bohara,4,0,4,NA,0,NA,NA,NA,1
+1215122,1st innings,Oman,Nepal,3.3,Aqib Ilyas,Khawar Ali,A Bohara,0,0,0,NA,0,NA,NA,NA,1
+1215122,1st innings,Oman,Nepal,3.4,Aqib Ilyas,Khawar Ali,A Bohara,1,0,1,NA,0,NA,NA,NA,1
+1215122,1st innings,Oman,Nepal,3.5,Khawar Ali,Aqib Ilyas,A Bohara,0,0,0,NA,0,NA,NA,NA,1
+1215122,1st innings,Oman,Nepal,3.6,Khawar Ali,Aqib Ilyas,A Bohara,0,0,0,NA,0,NA,NA,NA,1
+1215122,1st innings,Oman,Nepal,4.1,Aqib Ilyas,Khawar Ali,Karan KC,0,0,0,NA,0,NA,NA,NA,1
+1215122,1st innings,Oman,Nepal,4.2,Aqib Ilyas,Khawar Ali,Karan KC,0,0,0,NA,0,NA,NA,NA,1
+1215122,1st innings,Oman,Nepal,4.3,Aqib Ilyas,Khawar Ali,Karan KC,0,0,0,NA,0,NA,NA,NA,1
+1215122,1st innings,Oman,Nepal,4.4,Aqib Ilyas,Khawar Ali,Karan KC,0,0,0,NA,0,NA,NA,NA,1
+1215122,1st innings,Oman,Nepal,4.5,Aqib Ilyas,Khawar Ali,Karan KC,0,0,0,NA,0,NA,NA,NA,1
+1215122,1st innings,Oman,Nepal,4.6,Aqib Ilyas,Khawar Ali,Karan KC,0,0,0,NA,0,NA,NA,NA,1
+1215122,1st innings,Oman,Nepal,5.1,Khawar Ali,Aqib Ilyas,A Bohara,1,0,1,NA,0,NA,NA,NA,1
+1215122,1st innings,Oman,Nepal,5.2,Aqib Ilyas,Khawar Ali,A Bohara,0,0,0,NA,0,NA,NA,NA,1
+1215122,1st innings,Oman,Nepal,5.3,Aqib Ilyas,Khawar Ali,A Bohara,0,0,0,NA,0,NA,NA,NA,1
+1215122,1st innings,Oman,Nepal,5.4,Aqib Ilyas,Khawar Ali,A Bohara,0,0,0,NA,0,NA,NA,NA,1
+1215122,1st innings,Oman,Nepal,5.5,Aqib Ilyas,Khawar Ali,A Bohara,4,0,4,NA,0,NA,NA,NA,1
+1215122,1st innings,Oman,Nepal,5.6,Aqib Ilyas,Khawar Ali,A Bohara,0,0,0,NA,0,NA,NA,NA,1
+1215122,1st innings,Oman,Nepal,6.1,Khawar Ali,Aqib Ilyas,Karan KC,0,0,0,NA,0,NA,NA,NA,1
+1215122,1st innings,Oman,Nepal,6.2,Khawar Ali,Aqib Ilyas,Karan KC,0,0,0,NA,0,NA,NA,NA,1
+1215122,1st innings,Oman,Nepal,6.3,Khawar Ali,Aqib Ilyas,Karan KC,4,0,4,NA,0,NA,NA,NA,1
+1215122,1st innings,Oman,Nepal,6.4,Khawar Ali,Aqib Ilyas,Karan KC,0,0,0,NA,1,caught,Khawar Ali,B Bhandari,1
+1215122,1st innings,Oman,Nepal,6.5,Zeeshan Maqsood,Aqib Ilyas,Karan KC,0,0,0,NA,0,NA,NA,NA,1
+1215122,1st innings,Oman,Nepal,6.6,Zeeshan Maqsood,Aqib Ilyas,Karan KC,0,0,0,NA,0,NA,NA,NA,1
+1215122,1st innings,Oman,Nepal,7.1,Aqib Ilyas,Zeeshan Maqsood,S Lamichhane,2,0,2,NA,0,NA,NA,NA,1
+1215122,1st innings,Oman,Nepal,7.2,Aqib Ilyas,Zeeshan Maqsood,S Lamichhane,0,0,0,NA,0,NA,NA,NA,1
+1215122,1st innings,Oman,Nepal,7.3,Aqib Ilyas,Zeeshan Maqsood,S Lamichhane,1,0,1,NA,0,NA,NA,NA,1
+1215122,1st innings,Oman,Nepal,7.4,Zeeshan Maqsood,Aqib Ilyas,S Lamichhane,0,0,0,NA,0,NA,NA,NA,1
+1215122,1st innings,Oman,Nepal,7.5,Zeeshan Maqsood,Aqib Ilyas,S Lamichhane,0,0,0,NA,0,NA,NA,NA,1
+1215122,1st innings,Oman,Nepal,7.6,Zeeshan Maqsood,Aqib Ilyas,S Lamichhane,0,0,0,NA,0,NA,NA,NA,1
+1215122,1st innings,Oman,Nepal,8.1,Aqib Ilyas,Zeeshan Maqsood,Karan KC,1,0,1,NA,0,NA,NA,NA,1
+1215122,1st innings,Oman,Nepal,8.2,Zeeshan Maqsood,Aqib Ilyas,Karan KC,0,0,0,NA,0,NA,NA,NA,1
+1215122,1st innings,Oman,Nepal,8.3,Zeeshan Maqsood,Aqib Ilyas,Karan KC,0,0,0,NA,0,NA,NA,NA,1
+1215122,1st innings,Oman,Nepal,8.4,Zeeshan Maqsood,Aqib Ilyas,Karan KC,0,0,0,NA,0,NA,NA,NA,1
+1215122,1st innings,Oman,Nepal,8.5,Zeeshan Maqsood,Aqib Ilyas,Karan KC,4,0,4,NA,0,NA,NA,NA,1
+1215122,1st innings,Oman,Nepal,8.6,Zeeshan Maqsood,Aqib Ilyas,Karan KC,1,0,1,NA,0,NA,NA,NA,1
+1215122,1st innings,Oman,Nepal,9.1,Zeeshan Maqsood,Aqib Ilyas,S Lamichhane,0,0,0,NA,0,NA,NA,NA,1
+1215122,1st innings,Oman,Nepal,9.2,Zeeshan Maqsood,Aqib Ilyas,S Lamichhane,4,0,4,NA,0,NA,NA,NA,1
+1215122,1st innings,Oman,Nepal,9.3,Zeeshan Maqsood,Aqib Ilyas,S Lamichhane,0,0,0,NA,0,NA,NA,NA,1
+1215122,1st innings,Oman,Nepal,9.4,Zeeshan Maqsood,Aqib Ilyas,S Lamichhane,0,0,0,NA,0,NA,NA,NA,1
+1215122,1st innings,Oman,Nepal,9.5,Zeeshan Maqsood,Aqib Ilyas,S Lamichhane,0,0,0,NA,0,NA,NA,NA,1
+1215122,1st innings,Oman,Nepal,9.6,Zeeshan Maqsood,Aqib Ilyas,S Lamichhane,0,0,0,NA,0,NA,NA,NA,1
+1215122,1st innings,Oman,Nepal,10.1,Aqib Ilyas,Zeeshan Maqsood,A Bohara,0,0,0,NA,0,NA,NA,NA,1
+1215122,1st innings,Oman,Nepal,10.2,Aqib Ilyas,Zeeshan Maqsood,A Bohara,0,0,0,NA,0,NA,NA,NA,1
+1215122,1st innings,Oman,Nepal,10.3,Aqib Ilyas,Zeeshan Maqsood,A Bohara,0,0,0,NA,0,NA,NA,NA,1
+1215122,1st innings,Oman,Nepal,10.4,Aqib Ilyas,Zeeshan Maqsood,A Bohara,0,0,0,NA,0,NA,NA,NA,1
+1215122,1st innings,Oman,Nepal,10.5,Aqib Ilyas,Zeeshan Maqsood,A Bohara,1,0,1,NA,0,NA,NA,NA,1
+1215122,1st innings,Oman,Nepal,10.6,Zeeshan Maqsood,Aqib Ilyas,A Bohara,0,0,0,NA,0,NA,NA,NA,1
+1215122,1st innings,Oman,Nepal,11.1,Aqib Ilyas,Zeeshan Maqsood,S Lamichhane,0,0,0,NA,0,NA,NA,NA,1
+1215122,1st innings,Oman,Nepal,11.2,Aqib Ilyas,Zeeshan Maqsood,S Lamichhane,0,0,0,NA,0,NA,NA,NA,1
+1215122,1st innings,Oman,Nepal,11.3,Aqib Ilyas,Zeeshan Maqsood,S Lamichhane,0,5,5,wides,0,NA,NA,NA,1
+1215122,1st innings,Oman,Nepal,11.4,Aqib Ilyas,Zeeshan Maqsood,S Lamichhane,1,0,1,NA,0,NA,NA,NA,1
+1215122,1st innings,Oman,Nepal,11.5,Zeeshan Maqsood,Aqib Ilyas,S Lamichhane,0,0,0,NA,0,NA,NA,NA,1
+1215122,1st innings,Oman,Nepal,11.6,Zeeshan Maqsood,Aqib Ilyas,S Lamichhane,0,0,0,NA,0,NA,NA,NA,1
+1215122,1st innings,Oman,Nepal,11.7,Zeeshan Maqsood,Aqib Ilyas,S Lamichhane,0,0,0,NA,0,NA,NA,NA,1
+1215122,1st innings,Oman,Nepal,12.1,Aqib Ilyas,Zeeshan Maqsood,A Bohara,0,0,0,NA,0,NA,NA,NA,1
+1215122,1st innings,Oman,Nepal,12.2,Aqib Ilyas,Zeeshan Maqsood,A Bohara,0,0,0,NA,0,NA,NA,NA,1
+1215122,1st innings,Oman,Nepal,12.3,Aqib Ilyas,Zeeshan Maqsood,A Bohara,0,0,0,NA,1,run out,Aqib Ilyas,NA,1
+1215122,1st innings,Oman,Nepal,12.4,Zeeshan Maqsood,Mohammad Nadeem,A Bohara,0,0,0,NA,0,NA,NA,NA,1
+1215122,1st innings,Oman,Nepal,12.5,Zeeshan Maqsood,Mohammad Nadeem,A Bohara,0,0,0,NA,0,NA,NA,NA,1
+1215122,1st innings,Oman,Nepal,12.6,Zeeshan Maqsood,Mohammad Nadeem,A Bohara,0,0,0,NA,0,NA,NA,NA,1
+1215122,1st innings,Oman,Nepal,13.1,Mohammad Nadeem,Zeeshan Maqsood,S Lamichhane,0,0,0,NA,0,NA,NA,NA,1
+1215122,1st innings,Oman,Nepal,13.2,Mohammad Nadeem,Zeeshan Maqsood,S Lamichhane,0,0,0,NA,0,NA,NA,NA,1
+1215122,1st innings,Oman,Nepal,13.3,Mohammad Nadeem,Zeeshan Maqsood,S Lamichhane,0,0,0,NA,0,NA,NA,NA,1
+1215122,1st innings,Oman,Nepal,13.4,Mohammad Nadeem,Zeeshan Maqsood,S Lamichhane,4,0,4,NA,0,NA,NA,NA,1
+1215122,1st innings,Oman,Nepal,13.5,Mohammad Nadeem,Zeeshan Maqsood,S Lamichhane,0,0,0,NA,0,NA,NA,NA,1
+1215122,1st innings,Oman,Nepal,13.6,Mohammad Nadeem,Zeeshan Maqsood,S Lamichhane,0,0,0,NA,0,NA,NA,NA,1
+1215122,1st innings,Oman,Nepal,14.1,Zeeshan Maqsood,Mohammad Nadeem,A Bohara,0,0,0,NA,0,NA,NA,NA,1
+1215122,1st innings,Oman,Nepal,14.2,Zeeshan Maqsood,Mohammad Nadeem,A Bohara,1,0,1,NA,0,NA,NA,NA,1
+1215122,1st innings,Oman,Nepal,14.3,Mohammad Nadeem,Zeeshan Maqsood,A Bohara,0,0,0,NA,0,NA,NA,NA,1
+1215122,1st innings,Oman,Nepal,14.4,Mohammad Nadeem,Zeeshan Maqsood,A Bohara,0,0,0,NA,0,NA,NA,NA,1
+1215122,1st innings,Oman,Nepal,14.5,Mohammad Nadeem,Zeeshan Maqsood,A Bohara,0,0,0,NA,0,NA,NA,NA,1
+1215122,1st innings,Oman,Nepal,14.6,Mohammad Nadeem,Zeeshan Maqsood,A Bohara,0,0,0,NA,0,NA,NA,NA,1
+1215122,1st innings,Oman,Nepal,15.1,Zeeshan Maqsood,Mohammad Nadeem,P Khadka,0,0,0,NA,0,NA,NA,NA,1
+1215122,1st innings,Oman,Nepal,15.2,Zeeshan Maqsood,Mohammad Nadeem,P Khadka,0,0,0,NA,0,NA,NA,NA,1
+1215122,1st innings,Oman,Nepal,15.3,Zeeshan Maqsood,Mohammad Nadeem,P Khadka,0,0,0,NA,0,NA,NA,NA,1
+1215122,1st innings,Oman,Nepal,15.4,Zeeshan Maqsood,Mohammad Nadeem,P Khadka,0,0,0,NA,0,NA,NA,NA,1
+1215122,1st innings,Oman,Nepal,15.5,Zeeshan Maqsood,Mohammad Nadeem,P Khadka,0,0,0,NA,0,NA,NA,NA,1
+1215122,1st innings,Oman,Nepal,15.6,Zeeshan Maqsood,Mohammad Nadeem,P Khadka,0,0,0,NA,0,NA,NA,NA,1
+1215122,1st innings,Oman,Nepal,16.1,Mohammad Nadeem,Zeeshan Maqsood,S Bhari,0,0,0,NA,0,NA,NA,NA,1
+1215122,1st innings,Oman,Nepal,16.2,Mohammad Nadeem,Zeeshan Maqsood,S Bhari,0,0,0,NA,0,NA,NA,NA,1
+1215122,1st innings,Oman,Nepal,16.3,Mohammad Nadeem,Zeeshan Maqsood,S Bhari,1,0,1,NA,0,NA,NA,NA,1
+1215122,1st innings,Oman,Nepal,16.4,Zeeshan Maqsood,Mohammad Nadeem,S Bhari,0,0,0,NA,0,NA,NA,NA,1
+1215122,1st innings,Oman,Nepal,16.5,Zeeshan Maqsood,Mohammad Nadeem,S Bhari,2,0,2,NA,0,NA,NA,NA,1
+1215122,1st innings,Oman,Nepal,16.6,Zeeshan Maqsood,Mohammad Nadeem,S Bhari,0,0,0,NA,0,NA,NA,NA,1
+1215122,1st innings,Oman,Nepal,17.1,Mohammad Nadeem,Zeeshan Maqsood,P Khadka,1,0,1,NA,0,NA,NA,NA,1
+1215122,1st innings,Oman,Nepal,17.2,Zeeshan Maqsood,Mohammad Nadeem,P Khadka,4,0,4,NA,0,NA,NA,NA,1
+1215122,1st innings,Oman,Nepal,17.3,Zeeshan Maqsood,Mohammad Nadeem,P Khadka,0,0,0,NA,0,NA,NA,NA,1
+1215122,1st innings,Oman,Nepal,17.4,Zeeshan Maqsood,Mohammad Nadeem,P Khadka,4,0,4,NA,0,NA,NA,NA,1
+1215122,1st innings,Oman,Nepal,17.5,Zeeshan Maqsood,Mohammad Nadeem,P Khadka,0,0,0,NA,0,NA,NA,NA,1
+1215122,1st innings,Oman,Nepal,17.6,Zeeshan Maqsood,Mohammad Nadeem,P Khadka,0,0,0,NA,0,NA,NA,NA,1
+1215122,1st innings,Oman,Nepal,18.1,Mohammad Nadeem,Zeeshan Maqsood,S Bhari,0,0,0,NA,0,NA,NA,NA,1
+1215122,1st innings,Oman,Nepal,18.2,Mohammad Nadeem,Zeeshan Maqsood,S Bhari,0,0,0,NA,0,NA,NA,NA,1
+1215122,1st innings,Oman,Nepal,18.3,Mohammad Nadeem,Zeeshan Maqsood,S Bhari,1,0,1,NA,0,NA,NA,NA,1
+1215122,1st innings,Oman,Nepal,18.4,Zeeshan Maqsood,Mohammad Nadeem,S Bhari,0,0,0,NA,1,lbw,Zeeshan Maqsood,NA,1
+1215122,1st innings,Oman,Nepal,18.5,Suraj Kumar,Mohammad Nadeem,S Bhari,0,0,0,NA,0,NA,NA,NA,1
+1215122,1st innings,Oman,Nepal,18.6,Suraj Kumar,Mohammad Nadeem,S Bhari,0,0,0,NA,1,caught,Suraj Kumar,G Malla,1
+1215122,1st innings,Oman,Nepal,19.1,Mohammad Nadeem,Sandeep Goud,S Lamichhane,1,0,1,NA,0,NA,NA,NA,1
+1215122,1st innings,Oman,Nepal,19.2,Sandeep Goud,Mohammad Nadeem,S Lamichhane,0,0,0,NA,0,NA,NA,NA,1
+1215122,1st innings,Oman,Nepal,19.3,Sandeep Goud,Mohammad Nadeem,S Lamichhane,0,0,0,NA,0,NA,NA,NA,1
+1215122,1st innings,Oman,Nepal,19.4,Sandeep Goud,Mohammad Nadeem,S Lamichhane,0,0,0,NA,0,NA,NA,NA,1
+1215122,1st innings,Oman,Nepal,19.5,Sandeep Goud,Mohammad Nadeem,S Lamichhane,0,0,0,NA,0,NA,NA,NA,1
+1215122,1st innings,Oman,Nepal,19.6,Sandeep Goud,Mohammad Nadeem,S Lamichhane,0,0,0,NA,0,NA,NA,NA,1
+1215122,1st innings,Oman,Nepal,20.1,Mohammad Nadeem,Sandeep Goud,S Bhari,1,0,1,NA,0,NA,NA,NA,1
+1215122,1st innings,Oman,Nepal,20.2,Sandeep Goud,Mohammad Nadeem,S Bhari,0,0,0,NA,0,NA,NA,NA,1
+1215122,1st innings,Oman,Nepal,20.3,Sandeep Goud,Mohammad Nadeem,S Bhari,0,0,0,NA,0,NA,NA,NA,1
+1215122,1st innings,Oman,Nepal,20.4,Sandeep Goud,Mohammad Nadeem,S Bhari,0,0,0,NA,0,NA,NA,NA,1
+1215122,1st innings,Oman,Nepal,20.5,Sandeep Goud,Mohammad Nadeem,S Bhari,0,0,0,NA,0,NA,NA,NA,1
+1215122,1st innings,Oman,Nepal,20.6,Sandeep Goud,Mohammad Nadeem,S Bhari,0,0,0,NA,0,NA,NA,NA,1
+1215122,1st innings,Oman,Nepal,21.1,Mohammad Nadeem,Sandeep Goud,S Lamichhane,0,1,1,legbyes,0,NA,NA,NA,1
+1215122,1st innings,Oman,Nepal,21.2,Sandeep Goud,Mohammad Nadeem,S Lamichhane,0,0,0,NA,0,NA,NA,NA,1
+1215122,1st innings,Oman,Nepal,21.3,Sandeep Goud,Mohammad Nadeem,S Lamichhane,0,0,0,NA,0,NA,NA,NA,1
+1215122,1st innings,Oman,Nepal,21.4,Sandeep Goud,Mohammad Nadeem,S Lamichhane,0,0,0,NA,0,NA,NA,NA,1
+1215122,1st innings,Oman,Nepal,21.5,Sandeep Goud,Mohammad Nadeem,S Lamichhane,0,0,0,NA,0,NA,NA,NA,1
+1215122,1st innings,Oman,Nepal,21.6,Sandeep Goud,Mohammad Nadeem,S Lamichhane,0,0,0,NA,0,NA,NA,NA,1
+1215122,1st innings,Oman,Nepal,22.1,Mohammad Nadeem,Sandeep Goud,S Bhari,0,0,0,NA,0,NA,NA,NA,1
+1215122,1st innings,Oman,Nepal,22.2,Mohammad Nadeem,Sandeep Goud,S Bhari,0,0,0,NA,0,NA,NA,NA,1
+1215122,1st innings,Oman,Nepal,22.3,Mohammad Nadeem,Sandeep Goud,S Bhari,1,0,1,NA,0,NA,NA,NA,1
+1215122,1st innings,Oman,Nepal,22.4,Sandeep Goud,Mohammad Nadeem,S Bhari,0,0,0,NA,0,NA,NA,NA,1
+1215122,1st innings,Oman,Nepal,22.5,Sandeep Goud,Mohammad Nadeem,S Bhari,0,0,0,NA,0,NA,NA,NA,1
+1215122,1st innings,Oman,Nepal,22.6,Sandeep Goud,Mohammad Nadeem,S Bhari,0,0,0,NA,0,NA,NA,NA,1
+1215122,1st innings,Oman,Nepal,23.1,Mohammad Nadeem,Sandeep Goud,P Khadka,1,0,1,NA,0,NA,NA,NA,1
+1215122,1st innings,Oman,Nepal,23.2,Sandeep Goud,Mohammad Nadeem,P Khadka,1,0,1,NA,0,NA,NA,NA,1
+1215122,1st innings,Oman,Nepal,23.3,Mohammad Nadeem,Sandeep Goud,P Khadka,1,0,1,NA,0,NA,NA,NA,1
+1215122,1st innings,Oman,Nepal,23.4,Sandeep Goud,Mohammad Nadeem,P Khadka,0,0,0,NA,0,NA,NA,NA,1
+1215122,1st innings,Oman,Nepal,23.5,Sandeep Goud,Mohammad Nadeem,P Khadka,0,0,0,NA,0,NA,NA,NA,1
+1215122,1st innings,Oman,Nepal,23.6,Sandeep Goud,Mohammad Nadeem,P Khadka,4,0,4,NA,0,NA,NA,NA,1
+1215122,1st innings,Oman,Nepal,24.1,Mohammad Nadeem,Sandeep Goud,S Bhari,0,0,0,NA,0,NA,NA,NA,1
+1215122,1st innings,Oman,Nepal,24.2,Mohammad Nadeem,Sandeep Goud,S Bhari,1,0,1,NA,0,NA,NA,NA,1
+1215122,1st innings,Oman,Nepal,24.3,Sandeep Goud,Mohammad Nadeem,S Bhari,0,0,0,NA,0,NA,NA,NA,1
+1215122,1st innings,Oman,Nepal,24.4,Sandeep Goud,Mohammad Nadeem,S Bhari,0,0,0,NA,0,NA,NA,NA,1
+1215122,1st innings,Oman,Nepal,24.5,Sandeep Goud,Mohammad Nadeem,S Bhari,0,0,0,NA,0,NA,NA,NA,1
+1215122,1st innings,Oman,Nepal,24.6,Sandeep Goud,Mohammad Nadeem,S Bhari,0,0,0,NA,0,NA,NA,NA,1
+1215122,1st innings,Oman,Nepal,25.1,Mohammad Nadeem,Sandeep Goud,P Khadka,1,0,1,NA,0,NA,NA,NA,1
+1215122,1st innings,Oman,Nepal,25.2,Sandeep Goud,Mohammad Nadeem,P Khadka,1,0,1,NA,0,NA,NA,NA,1
+1215122,1st innings,Oman,Nepal,25.3,Mohammad Nadeem,Sandeep Goud,P Khadka,0,0,0,NA,0,NA,NA,NA,1
+1215122,1st innings,Oman,Nepal,25.4,Mohammad Nadeem,Sandeep Goud,P Khadka,0,0,0,NA,0,NA,NA,NA,1
+1215122,1st innings,Oman,Nepal,25.5,Mohammad Nadeem,Sandeep Goud,P Khadka,1,0,1,NA,0,NA,NA,NA,1
+1215122,1st innings,Oman,Nepal,25.6,Sandeep Goud,Mohammad Nadeem,P Khadka,1,0,1,NA,0,NA,NA,NA,1
+1215122,1st innings,Oman,Nepal,26.1,Sandeep Goud,Mohammad Nadeem,S Bhari,0,0,0,NA,0,NA,NA,NA,1
+1215122,1st innings,Oman,Nepal,26.2,Sandeep Goud,Mohammad Nadeem,S Bhari,0,0,0,NA,0,NA,NA,NA,1
+1215122,1st innings,Oman,Nepal,26.3,Sandeep Goud,Mohammad Nadeem,S Bhari,0,0,0,NA,0,NA,NA,NA,1
+1215122,1st innings,Oman,Nepal,26.4,Sandeep Goud,Mohammad Nadeem,S Bhari,0,0,0,NA,0,NA,NA,NA,1
+1215122,1st innings,Oman,Nepal,26.5,Sandeep Goud,Mohammad Nadeem,S Bhari,0,0,0,NA,0,NA,NA,NA,1
+1215122,1st innings,Oman,Nepal,26.6,Sandeep Goud,Mohammad Nadeem,S Bhari,0,0,0,NA,0,NA,NA,NA,1
+1215122,1st innings,Oman,Nepal,27.1,Mohammad Nadeem,Sandeep Goud,P Khadka,1,0,1,NA,0,NA,NA,NA,1
+1215122,1st innings,Oman,Nepal,27.2,Sandeep Goud,Mohammad Nadeem,P Khadka,1,0,1,NA,0,NA,NA,NA,1
+1215122,1st innings,Oman,Nepal,27.3,Mohammad Nadeem,Sandeep Goud,P Khadka,0,0,0,NA,0,NA,NA,NA,1
+1215122,1st innings,Oman,Nepal,27.4,Mohammad Nadeem,Sandeep Goud,P Khadka,1,0,1,NA,0,NA,NA,NA,1
+1215122,1st innings,Oman,Nepal,27.5,Sandeep Goud,Mohammad Nadeem,P Khadka,0,0,0,NA,0,NA,NA,NA,1
+1215122,1st innings,Oman,Nepal,27.6,Sandeep Goud,Mohammad Nadeem,P Khadka,1,0,1,NA,0,NA,NA,NA,1
+1215122,1st innings,Oman,Nepal,28.1,Sandeep Goud,Mohammad Nadeem,S Bhari,0,0,0,NA,0,NA,NA,NA,1
+1215122,1st innings,Oman,Nepal,28.2,Sandeep Goud,Mohammad Nadeem,S Bhari,0,0,0,NA,0,NA,NA,NA,1
+1215122,1st innings,Oman,Nepal,28.3,Sandeep Goud,Mohammad Nadeem,S Bhari,1,0,1,NA,0,NA,NA,NA,1
+1215122,1st innings,Oman,Nepal,28.4,Mohammad Nadeem,Sandeep Goud,S Bhari,2,0,2,NA,0,NA,NA,NA,1
+1215122,1st innings,Oman,Nepal,28.5,Mohammad Nadeem,Sandeep Goud,S Bhari,0,0,0,NA,0,NA,NA,NA,1
+1215122,1st innings,Oman,Nepal,28.6,Mohammad Nadeem,Sandeep Goud,S Bhari,0,0,0,NA,0,NA,NA,NA,1
+1215122,1st innings,Oman,Nepal,29.1,Sandeep Goud,Mohammad Nadeem,P Khadka,1,0,1,NA,0,NA,NA,NA,1
+1215122,1st innings,Oman,Nepal,29.2,Mohammad Nadeem,Sandeep Goud,P Khadka,0,0,0,NA,0,NA,NA,NA,1
+1215122,1st innings,Oman,Nepal,29.3,Mohammad Nadeem,Sandeep Goud,P Khadka,0,0,0,NA,0,NA,NA,NA,1
+1215122,1st innings,Oman,Nepal,29.4,Mohammad Nadeem,Sandeep Goud,P Khadka,0,0,0,NA,0,NA,NA,NA,1
+1215122,1st innings,Oman,Nepal,29.5,Mohammad Nadeem,Sandeep Goud,P Khadka,0,0,0,NA,0,NA,NA,NA,1
+1215122,1st innings,Oman,Nepal,29.6,Mohammad Nadeem,Sandeep Goud,P Khadka,0,0,0,NA,0,NA,NA,NA,1
+1215122,1st innings,Oman,Nepal,30.1,Sandeep Goud,Mohammad Nadeem,Karan KC,0,0,0,NA,0,NA,NA,NA,1
+1215122,1st innings,Oman,Nepal,30.2,Sandeep Goud,Mohammad Nadeem,Karan KC,0,0,0,NA,0,NA,NA,NA,1
+1215122,1st innings,Oman,Nepal,30.3,Sandeep Goud,Mohammad Nadeem,Karan KC,1,0,1,NA,0,NA,NA,NA,1
+1215122,1st innings,Oman,Nepal,30.4,Mohammad Nadeem,Sandeep Goud,Karan KC,0,0,0,NA,0,NA,NA,NA,1
+1215122,1st innings,Oman,Nepal,30.5,Mohammad Nadeem,Sandeep Goud,Karan KC,4,0,4,NA,0,NA,NA,NA,1
+1215122,1st innings,Oman,Nepal,30.6,Mohammad Nadeem,Sandeep Goud,Karan KC,0,0,0,NA,0,NA,NA,NA,1
+1215122,1st innings,Oman,Nepal,31.1,Sandeep Goud,Mohammad Nadeem,P Khadka,1,0,1,NA,0,NA,NA,NA,1
+1215122,1st innings,Oman,Nepal,31.2,Mohammad Nadeem,Sandeep Goud,P Khadka,0,0,0,NA,0,NA,NA,NA,1
+1215122,1st innings,Oman,Nepal,31.3,Mohammad Nadeem,Sandeep Goud,P Khadka,4,0,4,NA,0,NA,NA,NA,1
+1215122,1st innings,Oman,Nepal,31.4,Mohammad Nadeem,Sandeep Goud,P Khadka,0,0,0,NA,0,NA,NA,NA,1
+1215122,1st innings,Oman,Nepal,31.5,Mohammad Nadeem,Sandeep Goud,P Khadka,0,0,0,NA,0,NA,NA,NA,1
+1215122,1st innings,Oman,Nepal,31.6,Mohammad Nadeem,Sandeep Goud,P Khadka,0,0,0,NA,0,NA,NA,NA,1
+1215122,1st innings,Oman,Nepal,32.1,Sandeep Goud,Mohammad Nadeem,Karan KC,4,0,4,NA,0,NA,NA,NA,1
+1215122,1st innings,Oman,Nepal,32.2,Sandeep Goud,Mohammad Nadeem,Karan KC,0,0,0,NA,0,NA,NA,NA,1
+1215122,1st innings,Oman,Nepal,32.3,Sandeep Goud,Mohammad Nadeem,Karan KC,0,0,0,NA,0,NA,NA,NA,1
+1215122,1st innings,Oman,Nepal,32.4,Sandeep Goud,Mohammad Nadeem,Karan KC,0,0,0,NA,0,NA,NA,NA,1
+1215122,1st innings,Oman,Nepal,32.5,Sandeep Goud,Mohammad Nadeem,Karan KC,0,0,0,NA,0,NA,NA,NA,1
+1215122,1st innings,Oman,Nepal,32.6,Sandeep Goud,Mohammad Nadeem,Karan KC,0,0,0,NA,0,NA,NA,NA,1
+1215122,1st innings,Oman,Nepal,33.1,Mohammad Nadeem,Sandeep Goud,DS Airee,0,0,0,NA,0,NA,NA,NA,1
+1215122,1st innings,Oman,Nepal,33.2,Mohammad Nadeem,Sandeep Goud,DS Airee,0,0,0,NA,0,NA,NA,NA,1
+1215122,1st innings,Oman,Nepal,33.3,Mohammad Nadeem,Sandeep Goud,DS Airee,1,0,1,NA,0,NA,NA,NA,1
+1215122,1st innings,Oman,Nepal,33.4,Sandeep Goud,Mohammad Nadeem,DS Airee,0,0,0,NA,0,NA,NA,NA,1
+1215122,1st innings,Oman,Nepal,33.5,Sandeep Goud,Mohammad Nadeem,DS Airee,0,0,0,NA,0,NA,NA,NA,1
+1215122,1st innings,Oman,Nepal,33.6,Sandeep Goud,Mohammad Nadeem,DS Airee,0,0,0,NA,0,NA,NA,NA,1
+1215122,1st innings,Oman,Nepal,34.1,Mohammad Nadeem,Sandeep Goud,S Lamichhane,1,0,1,NA,0,NA,NA,NA,1
+1215122,1st innings,Oman,Nepal,34.2,Sandeep Goud,Mohammad Nadeem,S Lamichhane,0,0,0,NA,0,NA,NA,NA,1
+1215122,1st innings,Oman,Nepal,34.3,Sandeep Goud,Mohammad Nadeem,S Lamichhane,0,0,0,NA,0,NA,NA,NA,1
+1215122,1st innings,Oman,Nepal,34.4,Sandeep Goud,Mohammad Nadeem,S Lamichhane,0,0,0,NA,0,NA,NA,NA,1
+1215122,1st innings,Oman,Nepal,34.5,Sandeep Goud,Mohammad Nadeem,S Lamichhane,1,0,1,NA,0,NA,NA,NA,1
+1215122,1st innings,Oman,Nepal,34.6,Mohammad Nadeem,Sandeep Goud,S Lamichhane,1,0,1,NA,0,NA,NA,NA,1
+1215122,1st innings,Oman,Nepal,35.1,Mohammad Nadeem,Sandeep Goud,DS Airee,0,0,0,NA,0,NA,NA,NA,1
+1215122,1st innings,Oman,Nepal,35.2,Mohammad Nadeem,Sandeep Goud,DS Airee,1,0,1,NA,0,NA,NA,NA,1
+1215122,1st innings,Oman,Nepal,35.3,Sandeep Goud,Mohammad Nadeem,DS Airee,6,0,6,NA,0,NA,NA,NA,1
+1215122,1st innings,Oman,Nepal,35.4,Sandeep Goud,Mohammad Nadeem,DS Airee,0,0,0,NA,0,NA,NA,NA,1
+1215122,1st innings,Oman,Nepal,35.5,Sandeep Goud,Mohammad Nadeem,DS Airee,0,0,0,NA,0,NA,NA,NA,1
+1215122,1st innings,Oman,Nepal,35.6,Sandeep Goud,Mohammad Nadeem,DS Airee,0,0,0,NA,0,NA,NA,NA,1
+1215122,1st innings,Oman,Nepal,36.1,Mohammad Nadeem,Sandeep Goud,S Bhari,0,0,0,NA,0,NA,NA,NA,1
+1215122,1st innings,Oman,Nepal,36.2,Mohammad Nadeem,Sandeep Goud,S Bhari,1,0,1,NA,0,NA,NA,NA,1
+1215122,1st innings,Oman,Nepal,36.3,Sandeep Goud,Mohammad Nadeem,S Bhari,1,0,1,NA,0,NA,NA,NA,1
+1215122,1st innings,Oman,Nepal,36.4,Mohammad Nadeem,Sandeep Goud,S Bhari,0,0,0,NA,0,NA,NA,NA,1
+1215122,1st innings,Oman,Nepal,36.5,Mohammad Nadeem,Sandeep Goud,S Bhari,0,0,0,NA,0,NA,NA,NA,1
+1215122,1st innings,Oman,Nepal,36.6,Mohammad Nadeem,Sandeep Goud,S Bhari,0,0,0,NA,0,NA,NA,NA,1
+1215122,1st innings,Oman,Nepal,37.1,Sandeep Goud,Mohammad Nadeem,DS Airee,0,0,0,NA,0,NA,NA,NA,1
+1215122,1st innings,Oman,Nepal,37.2,Sandeep Goud,Mohammad Nadeem,DS Airee,4,0,4,NA,0,NA,NA,NA,1
+1215122,1st innings,Oman,Nepal,37.3,Sandeep Goud,Mohammad Nadeem,DS Airee,1,0,1,NA,0,NA,NA,NA,1
+1215122,1st innings,Oman,Nepal,37.4,Mohammad Nadeem,Sandeep Goud,DS Airee,1,0,1,NA,0,NA,NA,NA,1
+1215122,1st innings,Oman,Nepal,37.5,Sandeep Goud,Mohammad Nadeem,DS Airee,0,0,0,NA,0,NA,NA,NA,1
+1215122,1st innings,Oman,Nepal,37.6,Sandeep Goud,Mohammad Nadeem,DS Airee,3,0,3,NA,0,NA,NA,NA,1
+1215122,1st innings,Oman,Nepal,38.1,Sandeep Goud,Mohammad Nadeem,S Bhari,0,0,0,NA,0,NA,NA,NA,1
+1215122,1st innings,Oman,Nepal,38.2,Sandeep Goud,Mohammad Nadeem,S Bhari,0,0,0,NA,0,NA,NA,NA,1
+1215122,1st innings,Oman,Nepal,38.3,Sandeep Goud,Mohammad Nadeem,S Bhari,0,0,0,NA,0,NA,NA,NA,1
+1215122,1st innings,Oman,Nepal,38.4,Sandeep Goud,Mohammad Nadeem,S Bhari,0,0,0,NA,1,stumped,Sandeep Goud,B Bhandari,1
+1215122,1st innings,Oman,Nepal,38.5,Badal Singh,Mohammad Nadeem,S Bhari,1,0,1,NA,0,NA,NA,NA,1
+1215122,1st innings,Oman,Nepal,38.6,Mohammad Nadeem,Badal Singh,S Bhari,0,0,0,NA,0,NA,NA,NA,1
+1215122,1st innings,Oman,Nepal,39.1,Badal Singh,Mohammad Nadeem,DS Airee,0,0,0,NA,0,NA,NA,NA,1
+1215122,1st innings,Oman,Nepal,39.2,Badal Singh,Mohammad Nadeem,DS Airee,1,0,1,NA,0,NA,NA,NA,1
+1215122,1st innings,Oman,Nepal,39.3,Mohammad Nadeem,Badal Singh,DS Airee,0,0,0,NA,0,NA,NA,NA,1
+1215122,1st innings,Oman,Nepal,39.4,Mohammad Nadeem,Badal Singh,DS Airee,1,0,1,NA,0,NA,NA,NA,1
+1215122,1st innings,Oman,Nepal,39.5,Badal Singh,Mohammad Nadeem,DS Airee,1,0,1,NA,0,NA,NA,NA,1
+1215122,1st innings,Oman,Nepal,39.6,Mohammad Nadeem,Badal Singh,DS Airee,0,0,0,NA,0,NA,NA,NA,1
+1215122,1st innings,Oman,Nepal,40.1,Badal Singh,Mohammad Nadeem,S Bhari,0,0,0,NA,0,NA,NA,NA,1
+1215122,1st innings,Oman,Nepal,40.2,Badal Singh,Mohammad Nadeem,S Bhari,0,0,0,NA,0,NA,NA,NA,1
+1215122,1st innings,Oman,Nepal,40.3,Badal Singh,Mohammad Nadeem,S Bhari,0,0,0,NA,0,NA,NA,NA,1
+1215122,1st innings,Oman,Nepal,40.4,Badal Singh,Mohammad Nadeem,S Bhari,0,0,0,NA,0,NA,NA,NA,1
+1215122,1st innings,Oman,Nepal,40.5,Badal Singh,Mohammad Nadeem,S Bhari,1,0,1,NA,0,NA,NA,NA,1
+1215122,1st innings,Oman,Nepal,40.6,Mohammad Nadeem,Badal Singh,S Bhari,0,0,0,NA,0,NA,NA,NA,1
+1215122,1st innings,Oman,Nepal,41.1,Badal Singh,Mohammad Nadeem,DS Airee,0,0,0,NA,0,NA,NA,NA,1
+1215122,1st innings,Oman,Nepal,41.2,Badal Singh,Mohammad Nadeem,DS Airee,1,0,1,NA,0,NA,NA,NA,1
+1215122,1st innings,Oman,Nepal,41.3,Mohammad Nadeem,Badal Singh,DS Airee,1,0,1,NA,0,NA,NA,NA,1
+1215122,1st innings,Oman,Nepal,41.4,Badal Singh,Mohammad Nadeem,DS Airee,0,0,0,NA,1,caught,Badal Singh,RK Paudel,1
+1215122,1st innings,Oman,Nepal,41.5,Naseem Khushi,Mohammad Nadeem,DS Airee,0,0,0,NA,0,NA,NA,NA,1
+1215122,1st innings,Oman,Nepal,41.6,Naseem Khushi,Mohammad Nadeem,DS Airee,0,0,0,NA,0,NA,NA,NA,1
+1215122,1st innings,Oman,Nepal,42.1,Mohammad Nadeem,Naseem Khushi,S Lamichhane,0,0,0,NA,0,NA,NA,NA,1
+1215122,1st innings,Oman,Nepal,42.2,Mohammad Nadeem,Naseem Khushi,S Lamichhane,1,0,1,NA,0,NA,NA,NA,1
+1215122,1st innings,Oman,Nepal,42.3,Naseem Khushi,Mohammad Nadeem,S Lamichhane,0,0,0,NA,0,NA,NA,NA,1
+1215122,1st innings,Oman,Nepal,42.4,Naseem Khushi,Mohammad Nadeem,S Lamichhane,6,0,6,NA,0,NA,NA,NA,1
+1215122,1st innings,Oman,Nepal,42.5,Naseem Khushi,Mohammad Nadeem,S Lamichhane,1,0,1,NA,0,NA,NA,NA,1
+1215122,1st innings,Oman,Nepal,42.6,Mohammad Nadeem,Naseem Khushi,S Lamichhane,0,0,0,NA,0,NA,NA,NA,1
+1215122,1st innings,Oman,Nepal,43.1,Naseem Khushi,Mohammad Nadeem,A Bohara,1,0,1,NA,0,NA,NA,NA,1
+1215122,1st innings,Oman,Nepal,43.2,Mohammad Nadeem,Naseem Khushi,A Bohara,0,0,0,NA,0,NA,NA,NA,1
+1215122,1st innings,Oman,Nepal,43.3,Mohammad Nadeem,Naseem Khushi,A Bohara,1,0,1,NA,0,NA,NA,NA,1
+1215122,1st innings,Oman,Nepal,43.4,Naseem Khushi,Mohammad Nadeem,A Bohara,0,0,0,NA,0,NA,NA,NA,1
+1215122,1st innings,Oman,Nepal,43.5,Naseem Khushi,Mohammad Nadeem,A Bohara,1,0,1,NA,0,NA,NA,NA,1
+1215122,1st innings,Oman,Nepal,43.6,Mohammad Nadeem,Naseem Khushi,A Bohara,1,0,1,NA,0,NA,NA,NA,1
+1215122,1st innings,Oman,Nepal,44.1,Mohammad Nadeem,Naseem Khushi,S Lamichhane,0,0,0,NA,0,NA,NA,NA,1
+1215122,1st innings,Oman,Nepal,44.2,Mohammad Nadeem,Naseem Khushi,S Lamichhane,4,0,4,NA,0,NA,NA,NA,1
+1215122,1st innings,Oman,Nepal,44.3,Mohammad Nadeem,Naseem Khushi,S Lamichhane,0,0,0,NA,0,NA,NA,NA,1
+1215122,1st innings,Oman,Nepal,44.4,Mohammad Nadeem,Naseem Khushi,S Lamichhane,0,0,0,NA,0,NA,NA,NA,1
+1215122,1st innings,Oman,Nepal,44.5,Mohammad Nadeem,Naseem Khushi,S Lamichhane,1,0,1,NA,0,NA,NA,NA,1
+1215122,1st innings,Oman,Nepal,44.6,Naseem Khushi,Mohammad Nadeem,S Lamichhane,0,0,0,NA,0,NA,NA,NA,1
+1215122,1st innings,Oman,Nepal,45.1,Mohammad Nadeem,Naseem Khushi,A Bohara,1,0,1,NA,0,NA,NA,NA,1
+1215122,1st innings,Oman,Nepal,45.2,Naseem Khushi,Mohammad Nadeem,A Bohara,2,0,2,NA,0,NA,NA,NA,1
+1215122,1st innings,Oman,Nepal,45.3,Naseem Khushi,Mohammad Nadeem,A Bohara,6,0,6,NA,0,NA,NA,NA,1
+1215122,1st innings,Oman,Nepal,45.4,Naseem Khushi,Mohammad Nadeem,A Bohara,1,0,1,NA,0,NA,NA,NA,1
+1215122,1st innings,Oman,Nepal,45.5,Mohammad Nadeem,Naseem Khushi,A Bohara,0,0,0,NA,0,NA,NA,NA,1
+1215122,1st innings,Oman,Nepal,45.6,Mohammad Nadeem,Naseem Khushi,A Bohara,4,0,4,NA,0,NA,NA,NA,1
+1215122,1st innings,Oman,Nepal,46.1,Naseem Khushi,Mohammad Nadeem,S Lamichhane,4,0,4,NA,0,NA,NA,NA,1
+1215122,1st innings,Oman,Nepal,46.2,Naseem Khushi,Mohammad Nadeem,S Lamichhane,1,0,1,NA,0,NA,NA,NA,1
+1215122,1st innings,Oman,Nepal,46.3,Mohammad Nadeem,Naseem Khushi,S Lamichhane,1,0,1,NA,0,NA,NA,NA,1
+1215122,1st innings,Oman,Nepal,46.4,Naseem Khushi,Mohammad Nadeem,S Lamichhane,0,0,0,NA,0,NA,NA,NA,1
+1215122,1st innings,Oman,Nepal,46.5,Naseem Khushi,Mohammad Nadeem,S Lamichhane,4,0,4,NA,0,NA,NA,NA,1
+1215122,1st innings,Oman,Nepal,46.6,Naseem Khushi,Mohammad Nadeem,S Lamichhane,1,0,1,NA,0,NA,NA,NA,1
+1215122,1st innings,Oman,Nepal,47.1,Naseem Khushi,Mohammad Nadeem,Karan KC,0,0,0,NA,1,caught,Naseem Khushi,S Vesawkar,1
+1215122,1st innings,Oman,Nepal,47.2,Kaleemullah,Mohammad Nadeem,Karan KC,1,0,1,NA,0,NA,NA,NA,1
+1215122,1st innings,Oman,Nepal,47.3,Mohammad Nadeem,Kaleemullah,Karan KC,1,0,1,NA,0,NA,NA,NA,1
+1215122,1st innings,Oman,Nepal,47.4,Kaleemullah,Mohammad Nadeem,Karan KC,0,0,0,NA,1,caught,Kaleemullah,B Bhandari,1
+1215122,1st innings,Oman,Nepal,47.5,Bilal Khan,Mohammad Nadeem,Karan KC,0,1,1,wides,0,NA,NA,NA,1
+1215122,1st innings,Oman,Nepal,47.6,Bilal Khan,Mohammad Nadeem,Karan KC,0,1,1,wides,0,NA,NA,NA,1
+1215122,1st innings,Oman,Nepal,47.7,Bilal Khan,Mohammad Nadeem,Karan KC,1,0,1,NA,0,NA,NA,NA,1
+1215122,1st innings,Oman,Nepal,47.8,Mohammad Nadeem,Bilal Khan,Karan KC,1,0,1,NA,0,NA,NA,NA,1
+1215122,1st innings,Oman,Nepal,48.1,Mohammad Nadeem,Bilal Khan,A Bohara,6,0,6,NA,0,NA,NA,NA,1
+1215122,1st innings,Oman,Nepal,48.2,Mohammad Nadeem,Bilal Khan,A Bohara,0,0,0,NA,0,NA,NA,NA,1
+1215122,1st innings,Oman,Nepal,48.3,Mohammad Nadeem,Bilal Khan,A Bohara,0,0,0,NA,0,NA,NA,NA,1
+1215122,1st innings,Oman,Nepal,48.4,Mohammad Nadeem,Bilal Khan,A Bohara,2,0,2,NA,0,NA,NA,NA,1
+1215122,1st innings,Oman,Nepal,48.5,Mohammad Nadeem,Bilal Khan,A Bohara,0,0,0,NA,0,NA,NA,NA,1
+1215122,1st innings,Oman,Nepal,48.6,Mohammad Nadeem,Bilal Khan,A Bohara,0,0,0,NA,0,NA,NA,NA,1
+1215122,1st innings,Oman,Nepal,49.1,Bilal Khan,Mohammad Nadeem,Karan KC,6,0,6,NA,0,NA,NA,NA,1
+1215122,1st innings,Oman,Nepal,49.2,Bilal Khan,Mohammad Nadeem,Karan KC,1,0,1,NA,0,NA,NA,NA,1
+1215122,1st innings,Oman,Nepal,49.3,Mohammad Nadeem,Bilal Khan,Karan KC,0,0,0,NA,0,NA,NA,NA,1
+1215122,1st innings,Oman,Nepal,49.4,Mohammad Nadeem,Bilal Khan,Karan KC,2,0,2,NA,0,NA,NA,NA,1
+1215122,1st innings,Oman,Nepal,49.5,Mohammad Nadeem,Bilal Khan,Karan KC,6,0,6,NA,0,NA,NA,NA,1
+1215122,1st innings,Oman,Nepal,49.6,Mohammad Nadeem,Bilal Khan,Karan KC,2,0,2,NA,0,NA,NA,NA,1
+1215122,2nd innings,Nepal,Oman,0.1,P Khadka,G Malla,Bilal Khan,0,0,0,NA,0,NA,NA,NA,0
+1215122,2nd innings,Nepal,Oman,0.2,P Khadka,G Malla,Bilal Khan,0,0,0,NA,0,NA,NA,NA,0
+1215122,2nd innings,Nepal,Oman,0.3,P Khadka,G Malla,Bilal Khan,0,0,0,NA,0,NA,NA,NA,0
+1215122,2nd innings,Nepal,Oman,0.4,P Khadka,G Malla,Bilal Khan,0,0,0,NA,0,NA,NA,NA,0
+1215122,2nd innings,Nepal,Oman,0.5,P Khadka,G Malla,Bilal Khan,0,0,0,NA,0,NA,NA,NA,0
+1215122,2nd innings,Nepal,Oman,0.6,P Khadka,G Malla,Bilal Khan,0,0,0,NA,0,NA,NA,NA,0
+1215122,2nd innings,Nepal,Oman,1.1,G Malla,P Khadka,Kaleemullah,0,0,0,NA,0,NA,NA,NA,0
+1215122,2nd innings,Nepal,Oman,1.2,G Malla,P Khadka,Kaleemullah,0,0,0,NA,0,NA,NA,NA,0
+1215122,2nd innings,Nepal,Oman,1.3,G Malla,P Khadka,Kaleemullah,0,0,0,NA,0,NA,NA,NA,0
+1215122,2nd innings,Nepal,Oman,1.4,G Malla,P Khadka,Kaleemullah,0,0,0,NA,0,NA,NA,NA,0
+1215122,2nd innings,Nepal,Oman,1.5,G Malla,P Khadka,Kaleemullah,0,0,0,NA,0,NA,NA,NA,0
+1215122,2nd innings,Nepal,Oman,1.6,G Malla,P Khadka,Kaleemullah,0,0,0,NA,0,NA,NA,NA,0
+1215122,2nd innings,Nepal,Oman,2.1,P Khadka,G Malla,Bilal Khan,0,0,0,NA,0,NA,NA,NA,0
+1215122,2nd innings,Nepal,Oman,2.2,P Khadka,G Malla,Bilal Khan,1,0,1,NA,0,NA,NA,NA,0
+1215122,2nd innings,Nepal,Oman,2.3,G Malla,P Khadka,Bilal Khan,1,0,1,NA,0,NA,NA,NA,0
+1215122,2nd innings,Nepal,Oman,2.4,P Khadka,G Malla,Bilal Khan,2,0,2,NA,0,NA,NA,NA,0
+1215122,2nd innings,Nepal,Oman,2.5,P Khadka,G Malla,Bilal Khan,0,0,0,NA,0,NA,NA,NA,0
+1215122,2nd innings,Nepal,Oman,2.6,P Khadka,G Malla,Bilal Khan,0,0,0,NA,0,NA,NA,NA,0
+1215122,2nd innings,Nepal,Oman,3.1,G Malla,P Khadka,Kaleemullah,0,0,0,NA,0,NA,NA,NA,0
+1215122,2nd innings,Nepal,Oman,3.2,G Malla,P Khadka,Kaleemullah,0,0,0,NA,0,NA,NA,NA,0
+1215122,2nd innings,Nepal,Oman,3.3,G Malla,P Khadka,Kaleemullah,0,0,0,NA,0,NA,NA,NA,0
+1215122,2nd innings,Nepal,Oman,3.4,G Malla,P Khadka,Kaleemullah,0,0,0,NA,0,NA,NA,NA,0
+1215122,2nd innings,Nepal,Oman,3.5,G Malla,P Khadka,Kaleemullah,0,0,0,NA,1,caught,G Malla,Mohammad Nadeem,0
+1215122,2nd innings,Nepal,Oman,3.6,S Vesawkar,P Khadka,Kaleemullah,0,0,0,NA,0,NA,NA,NA,0
+1215122,2nd innings,Nepal,Oman,4.1,P Khadka,S Vesawkar,Bilal Khan,0,0,0,NA,0,NA,NA,NA,0
+1215122,2nd innings,Nepal,Oman,4.2,P Khadka,S Vesawkar,Bilal Khan,0,0,0,NA,0,NA,NA,NA,0
+1215122,2nd innings,Nepal,Oman,4.3,P Khadka,S Vesawkar,Bilal Khan,0,0,0,NA,1,caught,P Khadka,Suraj Kumar,0
+1215122,2nd innings,Nepal,Oman,4.4,DS Airee,S Vesawkar,Bilal Khan,0,0,0,NA,0,NA,NA,NA,0
+1215122,2nd innings,Nepal,Oman,4.5,DS Airee,S Vesawkar,Bilal Khan,0,0,0,NA,0,NA,NA,NA,0
+1215122,2nd innings,Nepal,Oman,4.6,DS Airee,S Vesawkar,Bilal Khan,0,0,0,NA,0,NA,NA,NA,0
+1215122,2nd innings,Nepal,Oman,5.1,S Vesawkar,DS Airee,Kaleemullah,0,0,0,NA,0,NA,NA,NA,0
+1215122,2nd innings,Nepal,Oman,5.2,S Vesawkar,DS Airee,Kaleemullah,0,0,0,NA,0,NA,NA,NA,0
+1215122,2nd innings,Nepal,Oman,5.3,S Vesawkar,DS Airee,Kaleemullah,0,0,0,NA,0,NA,NA,NA,0
+1215122,2nd innings,Nepal,Oman,5.4,S Vesawkar,DS Airee,Kaleemullah,0,0,0,NA,0,NA,NA,NA,0
+1215122,2nd innings,Nepal,Oman,5.5,S Vesawkar,DS Airee,Kaleemullah,0,0,0,NA,0,NA,NA,NA,0
+1215122,2nd innings,Nepal,Oman,5.6,S Vesawkar,DS Airee,Kaleemullah,0,0,0,NA,0,NA,NA,NA,0
+1215122,2nd innings,Nepal,Oman,6.1,DS Airee,S Vesawkar,Bilal Khan,4,0,4,NA,0,NA,NA,NA,0
+1215122,2nd innings,Nepal,Oman,6.2,DS Airee,S Vesawkar,Bilal Khan,0,0,0,NA,0,NA,NA,NA,0
+1215122,2nd innings,Nepal,Oman,6.3,DS Airee,S Vesawkar,Bilal Khan,1,0,1,NA,0,NA,NA,NA,0
+1215122,2nd innings,Nepal,Oman,6.4,S Vesawkar,DS Airee,Bilal Khan,0,0,0,NA,0,NA,NA,NA,0
+1215122,2nd innings,Nepal,Oman,6.5,S Vesawkar,DS Airee,Bilal Khan,0,0,0,NA,0,NA,NA,NA,0
+1215122,2nd innings,Nepal,Oman,6.6,S Vesawkar,DS Airee,Bilal Khan,0,0,0,NA,0,NA,NA,NA,0
+1215122,2nd innings,Nepal,Oman,7.1,DS Airee,S Vesawkar,Kaleemullah,1,0,1,NA,0,NA,NA,NA,0
+1215122,2nd innings,Nepal,Oman,7.2,S Vesawkar,DS Airee,Kaleemullah,1,0,1,NA,0,NA,NA,NA,0
+1215122,2nd innings,Nepal,Oman,7.3,DS Airee,S Vesawkar,Kaleemullah,0,0,0,NA,0,NA,NA,NA,0
+1215122,2nd innings,Nepal,Oman,7.4,DS Airee,S Vesawkar,Kaleemullah,0,0,0,NA,0,NA,NA,NA,0
+1215122,2nd innings,Nepal,Oman,7.5,DS Airee,S Vesawkar,Kaleemullah,0,0,0,NA,0,NA,NA,NA,0
+1215122,2nd innings,Nepal,Oman,7.6,DS Airee,S Vesawkar,Kaleemullah,0,1,1,wides,0,NA,NA,NA,0
+1215122,2nd innings,Nepal,Oman,7.7,DS Airee,S Vesawkar,Kaleemullah,0,0,0,NA,0,NA,NA,NA,0
+1215122,2nd innings,Nepal,Oman,8.1,S Vesawkar,DS Airee,Bilal Khan,1,0,1,NA,0,NA,NA,NA,0
+1215122,2nd innings,Nepal,Oman,8.2,DS Airee,S Vesawkar,Bilal Khan,0,1,1,wides,0,NA,NA,NA,0
+1215122,2nd innings,Nepal,Oman,8.3,DS Airee,S Vesawkar,Bilal Khan,0,0,0,NA,0,NA,NA,NA,0
+1215122,2nd innings,Nepal,Oman,8.4,DS Airee,S Vesawkar,Bilal Khan,0,0,0,NA,0,NA,NA,NA,0
+1215122,2nd innings,Nepal,Oman,8.5,DS Airee,S Vesawkar,Bilal Khan,4,0,4,NA,0,NA,NA,NA,0
+1215122,2nd innings,Nepal,Oman,8.6,DS Airee,S Vesawkar,Bilal Khan,0,0,0,NA,0,NA,NA,NA,0
+1215122,2nd innings,Nepal,Oman,8.7,DS Airee,S Vesawkar,Bilal Khan,0,0,0,NA,0,NA,NA,NA,0
+1215122,2nd innings,Nepal,Oman,9.1,S Vesawkar,DS Airee,Kaleemullah,0,0,0,NA,0,NA,NA,NA,0
+1215122,2nd innings,Nepal,Oman,9.2,S Vesawkar,DS Airee,Kaleemullah,0,0,0,NA,0,NA,NA,NA,0
+1215122,2nd innings,Nepal,Oman,9.3,S Vesawkar,DS Airee,Kaleemullah,4,0,4,NA,0,NA,NA,NA,0
+1215122,2nd innings,Nepal,Oman,9.4,S Vesawkar,DS Airee,Kaleemullah,0,0,0,NA,0,NA,NA,NA,0
+1215122,2nd innings,Nepal,Oman,9.5,S Vesawkar,DS Airee,Kaleemullah,0,0,0,NA,0,NA,NA,NA,0
+1215122,2nd innings,Nepal,Oman,9.6,S Vesawkar,DS Airee,Kaleemullah,0,0,0,NA,0,NA,NA,NA,0
+1215122,2nd innings,Nepal,Oman,10.1,DS Airee,S Vesawkar,Badal Singh,0,0,0,NA,0,NA,NA,NA,0
+1215122,2nd innings,Nepal,Oman,10.2,DS Airee,S Vesawkar,Badal Singh,0,0,0,NA,0,NA,NA,NA,0
+1215122,2nd innings,Nepal,Oman,10.3,DS Airee,S Vesawkar,Badal Singh,0,0,0,NA,0,NA,NA,NA,0
+1215122,2nd innings,Nepal,Oman,10.4,DS Airee,S Vesawkar,Badal Singh,0,0,0,NA,0,NA,NA,NA,0
+1215122,2nd innings,Nepal,Oman,10.5,DS Airee,S Vesawkar,Badal Singh,4,0,4,NA,0,NA,NA,NA,0
+1215122,2nd innings,Nepal,Oman,10.6,DS Airee,S Vesawkar,Badal Singh,2,0,2,NA,0,NA,NA,NA,0
+1215122,2nd innings,Nepal,Oman,11.1,S Vesawkar,DS Airee,Kaleemullah,0,0,0,NA,0,NA,NA,NA,0
+1215122,2nd innings,Nepal,Oman,11.2,S Vesawkar,DS Airee,Kaleemullah,0,0,0,NA,0,NA,NA,NA,0
+1215122,2nd innings,Nepal,Oman,11.3,S Vesawkar,DS Airee,Kaleemullah,0,0,0,NA,0,NA,NA,NA,0
+1215122,2nd innings,Nepal,Oman,11.4,S Vesawkar,DS Airee,Kaleemullah,0,0,0,NA,0,NA,NA,NA,0
+1215122,2nd innings,Nepal,Oman,11.5,S Vesawkar,DS Airee,Kaleemullah,0,0,0,NA,0,NA,NA,NA,0
+1215122,2nd innings,Nepal,Oman,11.6,S Vesawkar,DS Airee,Kaleemullah,2,0,2,NA,0,NA,NA,NA,0
+1215122,2nd innings,Nepal,Oman,12.1,DS Airee,S Vesawkar,Badal Singh,0,0,0,NA,0,NA,NA,NA,0
+1215122,2nd innings,Nepal,Oman,12.2,DS Airee,S Vesawkar,Badal Singh,4,0,4,NA,0,NA,NA,NA,0
+1215122,2nd innings,Nepal,Oman,12.3,DS Airee,S Vesawkar,Badal Singh,0,0,0,NA,0,NA,NA,NA,0
+1215122,2nd innings,Nepal,Oman,12.4,DS Airee,S Vesawkar,Badal Singh,0,0,0,NA,0,NA,NA,NA,0
+1215122,2nd innings,Nepal,Oman,12.5,DS Airee,S Vesawkar,Badal Singh,1,0,1,NA,0,NA,NA,NA,0
+1215122,2nd innings,Nepal,Oman,12.6,S Vesawkar,DS Airee,Badal Singh,0,0,0,NA,0,NA,NA,NA,0
+1215122,2nd innings,Nepal,Oman,13.1,DS Airee,S Vesawkar,Zeeshan Maqsood,0,0,0,NA,0,NA,NA,NA,0
+1215122,2nd innings,Nepal,Oman,13.2,DS Airee,S Vesawkar,Zeeshan Maqsood,1,0,1,NA,0,NA,NA,NA,0
+1215122,2nd innings,Nepal,Oman,13.3,S Vesawkar,DS Airee,Zeeshan Maqsood,0,0,0,NA,0,NA,NA,NA,0
+1215122,2nd innings,Nepal,Oman,13.4,S Vesawkar,DS Airee,Zeeshan Maqsood,4,0,4,NA,0,NA,NA,NA,0
+1215122,2nd innings,Nepal,Oman,13.5,S Vesawkar,DS Airee,Zeeshan Maqsood,4,0,4,NA,0,NA,NA,NA,0
+1215122,2nd innings,Nepal,Oman,13.6,S Vesawkar,DS Airee,Zeeshan Maqsood,0,0,0,NA,0,NA,NA,NA,0
+1215122,2nd innings,Nepal,Oman,14.1,DS Airee,S Vesawkar,Badal Singh,1,0,1,NA,0,NA,NA,NA,0
+1215122,2nd innings,Nepal,Oman,14.2,S Vesawkar,DS Airee,Badal Singh,1,0,1,NA,0,NA,NA,NA,0
+1215122,2nd innings,Nepal,Oman,14.3,DS Airee,S Vesawkar,Badal Singh,0,0,0,NA,0,NA,NA,NA,0
+1215122,2nd innings,Nepal,Oman,14.4,DS Airee,S Vesawkar,Badal Singh,1,0,1,NA,0,NA,NA,NA,0
+1215122,2nd innings,Nepal,Oman,14.5,S Vesawkar,DS Airee,Badal Singh,0,0,0,NA,0,NA,NA,NA,0
+1215122,2nd innings,Nepal,Oman,14.6,S Vesawkar,DS Airee,Badal Singh,1,0,1,NA,0,NA,NA,NA,0
+1215122,2nd innings,Nepal,Oman,15.1,S Vesawkar,DS Airee,Zeeshan Maqsood,2,0,2,NA,0,NA,NA,NA,0
+1215122,2nd innings,Nepal,Oman,15.2,S Vesawkar,DS Airee,Zeeshan Maqsood,1,0,1,NA,0,NA,NA,NA,0
+1215122,2nd innings,Nepal,Oman,15.3,DS Airee,S Vesawkar,Zeeshan Maqsood,0,0,0,NA,0,NA,NA,NA,0
+1215122,2nd innings,Nepal,Oman,15.4,DS Airee,S Vesawkar,Zeeshan Maqsood,0,0,0,NA,0,NA,NA,NA,0
+1215122,2nd innings,Nepal,Oman,15.5,DS Airee,S Vesawkar,Zeeshan Maqsood,0,0,0,NA,0,NA,NA,NA,0
+1215122,2nd innings,Nepal,Oman,15.6,DS Airee,S Vesawkar,Zeeshan Maqsood,0,0,0,NA,0,NA,NA,NA,0
+1215122,2nd innings,Nepal,Oman,16.1,S Vesawkar,DS Airee,Badal Singh,0,0,0,NA,0,NA,NA,NA,0
+1215122,2nd innings,Nepal,Oman,16.2,S Vesawkar,DS Airee,Badal Singh,0,0,0,NA,0,NA,NA,NA,0
+1215122,2nd innings,Nepal,Oman,16.3,S Vesawkar,DS Airee,Badal Singh,1,0,1,NA,0,NA,NA,NA,0
+1215122,2nd innings,Nepal,Oman,16.4,DS Airee,S Vesawkar,Badal Singh,6,0,6,NA,0,NA,NA,NA,0
+1215122,2nd innings,Nepal,Oman,16.5,DS Airee,S Vesawkar,Badal Singh,4,0,4,NA,0,NA,NA,NA,0
+1215122,2nd innings,Nepal,Oman,16.6,DS Airee,S Vesawkar,Badal Singh,1,0,1,NA,0,NA,NA,NA,0
+1215122,2nd innings,Nepal,Oman,17.1,DS Airee,S Vesawkar,Zeeshan Maqsood,0,0,0,NA,0,NA,NA,NA,0
+1215122,2nd innings,Nepal,Oman,17.2,DS Airee,S Vesawkar,Zeeshan Maqsood,0,0,0,NA,0,NA,NA,NA,0
+1215122,2nd innings,Nepal,Oman,17.3,DS Airee,S Vesawkar,Zeeshan Maqsood,0,0,0,NA,0,NA,NA,NA,0
+1215122,2nd innings,Nepal,Oman,17.4,DS Airee,S Vesawkar,Zeeshan Maqsood,0,0,0,NA,0,NA,NA,NA,0
+1215122,2nd innings,Nepal,Oman,17.5,DS Airee,S Vesawkar,Zeeshan Maqsood,0,0,0,NA,0,NA,NA,NA,0
+1215122,2nd innings,Nepal,Oman,17.6,DS Airee,S Vesawkar,Zeeshan Maqsood,0,0,0,NA,0,NA,NA,NA,0
+1215122,2nd innings,Nepal,Oman,18.1,S Vesawkar,DS Airee,Mohammad Nadeem,0,0,0,NA,0,NA,NA,NA,0
+1215122,2nd innings,Nepal,Oman,18.2,S Vesawkar,DS Airee,Mohammad Nadeem,1,0,1,NA,0,NA,NA,NA,0
+1215122,2nd innings,Nepal,Oman,18.3,DS Airee,S Vesawkar,Mohammad Nadeem,0,0,0,NA,0,NA,NA,NA,0
+1215122,2nd innings,Nepal,Oman,18.4,DS Airee,S Vesawkar,Mohammad Nadeem,0,0,0,NA,0,NA,NA,NA,0
+1215122,2nd innings,Nepal,Oman,18.5,DS Airee,S Vesawkar,Mohammad Nadeem,0,0,0,NA,0,NA,NA,NA,0
+1215122,2nd innings,Nepal,Oman,18.6,DS Airee,S Vesawkar,Mohammad Nadeem,1,0,1,NA,0,NA,NA,NA,0
+1215122,2nd innings,Nepal,Oman,19.1,DS Airee,S Vesawkar,Zeeshan Maqsood,0,0,0,NA,0,NA,NA,NA,0
+1215122,2nd innings,Nepal,Oman,19.2,DS Airee,S Vesawkar,Zeeshan Maqsood,0,0,0,NA,0,NA,NA,NA,0
+1215122,2nd innings,Nepal,Oman,19.3,DS Airee,S Vesawkar,Zeeshan Maqsood,0,0,0,NA,0,NA,NA,NA,0
+1215122,2nd innings,Nepal,Oman,19.4,DS Airee,S Vesawkar,Zeeshan Maqsood,0,0,0,NA,0,NA,NA,NA,0
+1215122,2nd innings,Nepal,Oman,19.5,DS Airee,S Vesawkar,Zeeshan Maqsood,0,0,0,NA,0,NA,NA,NA,0
+1215122,2nd innings,Nepal,Oman,19.6,DS Airee,S Vesawkar,Zeeshan Maqsood,0,0,0,NA,0,NA,NA,NA,0
+1215122,2nd innings,Nepal,Oman,20.1,S Vesawkar,DS Airee,Mohammad Nadeem,1,0,1,NA,0,NA,NA,NA,0
+1215122,2nd innings,Nepal,Oman,20.2,DS Airee,S Vesawkar,Mohammad Nadeem,0,0,0,NA,0,NA,NA,NA,0
+1215122,2nd innings,Nepal,Oman,20.3,DS Airee,S Vesawkar,Mohammad Nadeem,0,0,0,NA,1,lbw,DS Airee,NA,0
+1215122,2nd innings,Nepal,Oman,20.4,Aarif Sheikh,S Vesawkar,Mohammad Nadeem,0,0,0,NA,0,NA,NA,NA,0
+1215122,2nd innings,Nepal,Oman,20.5,Aarif Sheikh,S Vesawkar,Mohammad Nadeem,1,0,1,NA,0,NA,NA,NA,0
+1215122,2nd innings,Nepal,Oman,20.6,S Vesawkar,Aarif Sheikh,Mohammad Nadeem,0,0,0,NA,0,NA,NA,NA,0
+1215122,2nd innings,Nepal,Oman,21.1,Aarif Sheikh,S Vesawkar,Zeeshan Maqsood,4,0,4,NA,0,NA,NA,NA,0
+1215122,2nd innings,Nepal,Oman,21.2,Aarif Sheikh,S Vesawkar,Zeeshan Maqsood,0,0,0,NA,0,NA,NA,NA,0
+1215122,2nd innings,Nepal,Oman,21.3,Aarif Sheikh,S Vesawkar,Zeeshan Maqsood,0,0,0,NA,0,NA,NA,NA,0
+1215122,2nd innings,Nepal,Oman,21.4,Aarif Sheikh,S Vesawkar,Zeeshan Maqsood,0,0,0,NA,0,NA,NA,NA,0
+1215122,2nd innings,Nepal,Oman,21.5,Aarif Sheikh,S Vesawkar,Zeeshan Maqsood,0,0,0,NA,0,NA,NA,NA,0
+1215122,2nd innings,Nepal,Oman,21.6,Aarif Sheikh,S Vesawkar,Zeeshan Maqsood,0,0,0,NA,0,NA,NA,NA,0
+1215122,2nd innings,Nepal,Oman,22.1,S Vesawkar,Aarif Sheikh,Mohammad Nadeem,0,0,0,NA,0,NA,NA,NA,0
+1215122,2nd innings,Nepal,Oman,22.2,S Vesawkar,Aarif Sheikh,Mohammad Nadeem,0,0,0,NA,0,NA,NA,NA,0
+1215122,2nd innings,Nepal,Oman,22.3,S Vesawkar,Aarif Sheikh,Mohammad Nadeem,0,0,0,NA,0,NA,NA,NA,0
+1215122,2nd innings,Nepal,Oman,22.4,S Vesawkar,Aarif Sheikh,Mohammad Nadeem,0,0,0,NA,0,NA,NA,NA,0
+1215122,2nd innings,Nepal,Oman,22.5,S Vesawkar,Aarif Sheikh,Mohammad Nadeem,1,0,1,NA,0,NA,NA,NA,0
+1215122,2nd innings,Nepal,Oman,22.6,Aarif Sheikh,S Vesawkar,Mohammad Nadeem,1,0,1,NA,0,NA,NA,NA,0
+1215122,2nd innings,Nepal,Oman,23.1,Aarif Sheikh,S Vesawkar,Zeeshan Maqsood,0,0,0,NA,1,caught and bowled,Aarif Sheikh,NA,0
+1215122,2nd innings,Nepal,Oman,23.2,RK Paudel,S Vesawkar,Zeeshan Maqsood,0,0,0,NA,1,caught,RK Paudel,Khawar Ali,0
+1215122,2nd innings,Nepal,Oman,23.3,B Bhandari,S Vesawkar,Zeeshan Maqsood,0,0,0,NA,0,NA,NA,NA,0
+1215122,2nd innings,Nepal,Oman,23.4,B Bhandari,S Vesawkar,Zeeshan Maqsood,0,0,0,NA,0,NA,NA,NA,0
+1215122,2nd innings,Nepal,Oman,23.5,B Bhandari,S Vesawkar,Zeeshan Maqsood,1,0,1,NA,0,NA,NA,NA,0
+1215122,2nd innings,Nepal,Oman,23.6,S Vesawkar,B Bhandari,Zeeshan Maqsood,0,0,0,NA,0,NA,NA,NA,0
+1215122,2nd innings,Nepal,Oman,24.1,B Bhandari,S Vesawkar,Mohammad Nadeem,1,0,1,NA,0,NA,NA,NA,0
+1215122,2nd innings,Nepal,Oman,24.2,S Vesawkar,B Bhandari,Mohammad Nadeem,1,0,1,NA,0,NA,NA,NA,0
+1215122,2nd innings,Nepal,Oman,24.3,B Bhandari,S Vesawkar,Mohammad Nadeem,1,0,1,NA,0,NA,NA,NA,0
+1215122,2nd innings,Nepal,Oman,24.4,S Vesawkar,B Bhandari,Mohammad Nadeem,0,0,0,NA,0,NA,NA,NA,0
+1215122,2nd innings,Nepal,Oman,24.5,S Vesawkar,B Bhandari,Mohammad Nadeem,0,0,0,NA,0,NA,NA,NA,0
+1215122,2nd innings,Nepal,Oman,24.6,S Vesawkar,B Bhandari,Mohammad Nadeem,1,0,1,NA,0,NA,NA,NA,0
+1215122,2nd innings,Nepal,Oman,25.1,S Vesawkar,B Bhandari,Zeeshan Maqsood,4,0,4,NA,0,NA,NA,NA,0
+1215122,2nd innings,Nepal,Oman,25.2,S Vesawkar,B Bhandari,Zeeshan Maqsood,0,0,0,NA,0,NA,NA,NA,0
+1215122,2nd innings,Nepal,Oman,25.3,S Vesawkar,B Bhandari,Zeeshan Maqsood,0,0,0,NA,0,NA,NA,NA,0
+1215122,2nd innings,Nepal,Oman,25.4,S Vesawkar,B Bhandari,Zeeshan Maqsood,1,0,1,NA,0,NA,NA,NA,0
+1215122,2nd innings,Nepal,Oman,25.5,B Bhandari,S Vesawkar,Zeeshan Maqsood,2,0,2,NA,0,NA,NA,NA,0
+1215122,2nd innings,Nepal,Oman,25.6,B Bhandari,S Vesawkar,Zeeshan Maqsood,0,0,0,NA,0,NA,NA,NA,0
+1215122,2nd innings,Nepal,Oman,26.1,S Vesawkar,B Bhandari,Khawar Ali,1,0,1,NA,0,NA,NA,NA,0
+1215122,2nd innings,Nepal,Oman,26.2,B Bhandari,S Vesawkar,Khawar Ali,4,0,4,NA,0,NA,NA,NA,0
+1215122,2nd innings,Nepal,Oman,26.3,B Bhandari,S Vesawkar,Khawar Ali,1,0,1,NA,0,NA,NA,NA,0
+1215122,2nd innings,Nepal,Oman,26.4,S Vesawkar,B Bhandari,Khawar Ali,0,0,0,NA,0,NA,NA,NA,0
+1215122,2nd innings,Nepal,Oman,26.5,S Vesawkar,B Bhandari,Khawar Ali,1,0,1,NA,0,NA,NA,NA,0
+1215122,2nd innings,Nepal,Oman,26.6,B Bhandari,S Vesawkar,Khawar Ali,2,0,2,NA,0,NA,NA,NA,0
+1215122,2nd innings,Nepal,Oman,27.1,S Vesawkar,B Bhandari,Zeeshan Maqsood,0,0,0,NA,0,NA,NA,NA,0
+1215122,2nd innings,Nepal,Oman,27.2,S Vesawkar,B Bhandari,Zeeshan Maqsood,0,0,0,NA,0,NA,NA,NA,0
+1215122,2nd innings,Nepal,Oman,27.3,S Vesawkar,B Bhandari,Zeeshan Maqsood,0,0,0,NA,0,NA,NA,NA,0
+1215122,2nd innings,Nepal,Oman,27.4,S Vesawkar,B Bhandari,Zeeshan Maqsood,1,0,1,NA,0,NA,NA,NA,0
+1215122,2nd innings,Nepal,Oman,27.5,B Bhandari,S Vesawkar,Zeeshan Maqsood,4,0,4,NA,0,NA,NA,NA,0
+1215122,2nd innings,Nepal,Oman,27.6,B Bhandari,S Vesawkar,Zeeshan Maqsood,0,0,0,NA,0,NA,NA,NA,0
+1215122,2nd innings,Nepal,Oman,28.1,S Vesawkar,B Bhandari,Badal Singh,0,0,0,NA,0,NA,NA,NA,0
+1215122,2nd innings,Nepal,Oman,28.2,S Vesawkar,B Bhandari,Badal Singh,1,0,1,NA,0,NA,NA,NA,0
+1215122,2nd innings,Nepal,Oman,28.3,B Bhandari,S Vesawkar,Badal Singh,0,0,0,NA,0,NA,NA,NA,0
+1215122,2nd innings,Nepal,Oman,28.4,B Bhandari,S Vesawkar,Badal Singh,1,0,1,NA,0,NA,NA,NA,0
+1215122,2nd innings,Nepal,Oman,28.5,S Vesawkar,B Bhandari,Badal Singh,0,0,0,NA,0,NA,NA,NA,0
+1215122,2nd innings,Nepal,Oman,28.6,S Vesawkar,B Bhandari,Badal Singh,1,0,1,NA,0,NA,NA,NA,0
+1215122,2nd innings,Nepal,Oman,29.1,S Vesawkar,B Bhandari,Khawar Ali,0,0,0,NA,0,NA,NA,NA,0
+1215122,2nd innings,Nepal,Oman,29.2,S Vesawkar,B Bhandari,Khawar Ali,0,0,0,NA,0,NA,NA,NA,0
+1215122,2nd innings,Nepal,Oman,29.3,S Vesawkar,B Bhandari,Khawar Ali,0,0,0,NA,0,NA,NA,NA,0
+1215122,2nd innings,Nepal,Oman,29.4,S Vesawkar,B Bhandari,Khawar Ali,0,0,0,NA,0,NA,NA,NA,0
+1215122,2nd innings,Nepal,Oman,29.5,S Vesawkar,B Bhandari,Khawar Ali,0,1,1,wides,0,NA,NA,NA,0
+1215122,2nd innings,Nepal,Oman,29.6,S Vesawkar,B Bhandari,Khawar Ali,0,0,0,NA,0,NA,NA,NA,0
+1215122,2nd innings,Nepal,Oman,29.7,S Vesawkar,B Bhandari,Khawar Ali,1,0,1,NA,0,NA,NA,NA,0
+1215122,2nd innings,Nepal,Oman,30.1,S Vesawkar,B Bhandari,Badal Singh,0,0,0,NA,0,NA,NA,NA,0
+1215122,2nd innings,Nepal,Oman,30.2,S Vesawkar,B Bhandari,Badal Singh,1,0,1,NA,0,NA,NA,NA,0
+1215122,2nd innings,Nepal,Oman,30.3,B Bhandari,S Vesawkar,Badal Singh,6,0,6,NA,0,NA,NA,NA,0
+1215122,2nd innings,Nepal,Oman,30.4,B Bhandari,S Vesawkar,Badal Singh,1,0,1,NA,0,NA,NA,NA,0
+1215122,2nd innings,Nepal,Oman,30.5,S Vesawkar,B Bhandari,Badal Singh,0,0,0,NA,0,NA,NA,NA,0
+1215122,2nd innings,Nepal,Oman,30.6,S Vesawkar,B Bhandari,Badal Singh,0,0,0,NA,0,NA,NA,NA,0
+1215122,2nd innings,Nepal,Oman,31.1,B Bhandari,S Vesawkar,Khawar Ali,1,0,1,NA,0,NA,NA,NA,0
+1215122,2nd innings,Nepal,Oman,31.2,S Vesawkar,B Bhandari,Khawar Ali,0,0,0,NA,0,NA,NA,NA,0
+1215122,2nd innings,Nepal,Oman,31.3,S Vesawkar,B Bhandari,Khawar Ali,1,0,1,NA,0,NA,NA,NA,0
+1215122,2nd innings,Nepal,Oman,31.4,B Bhandari,S Vesawkar,Khawar Ali,0,0,0,NA,0,NA,NA,NA,0
+1215122,2nd innings,Nepal,Oman,31.5,B Bhandari,S Vesawkar,Khawar Ali,0,0,0,NA,0,NA,NA,NA,0
+1215122,2nd innings,Nepal,Oman,31.6,B Bhandari,S Vesawkar,Khawar Ali,0,0,0,NA,0,NA,NA,NA,0
+1215122,2nd innings,Nepal,Oman,32.1,S Vesawkar,B Bhandari,Bilal Khan,1,0,1,NA,0,NA,NA,NA,0
+1215122,2nd innings,Nepal,Oman,32.2,B Bhandari,S Vesawkar,Bilal Khan,0,0,0,NA,0,NA,NA,NA,0
+1215122,2nd innings,Nepal,Oman,32.3,B Bhandari,S Vesawkar,Bilal Khan,0,0,0,NA,0,NA,NA,NA,0
+1215122,2nd innings,Nepal,Oman,32.4,B Bhandari,S Vesawkar,Bilal Khan,0,0,0,NA,0,NA,NA,NA,0
+1215122,2nd innings,Nepal,Oman,32.5,B Bhandari,S Vesawkar,Bilal Khan,1,0,1,NA,0,NA,NA,NA,0
+1215122,2nd innings,Nepal,Oman,32.6,S Vesawkar,B Bhandari,Bilal Khan,0,0,0,NA,0,NA,NA,NA,0
+1215122,2nd innings,Nepal,Oman,33.1,B Bhandari,S Vesawkar,Khawar Ali,0,0,0,NA,1,caught,B Bhandari,Sandeep Goud,0
+1215122,2nd innings,Nepal,Oman,33.2,Karan KC,S Vesawkar,Khawar Ali,0,0,0,NA,0,NA,NA,NA,0
+1215122,2nd innings,Nepal,Oman,33.3,Karan KC,S Vesawkar,Khawar Ali,0,0,0,NA,0,NA,NA,NA,0
+1215122,2nd innings,Nepal,Oman,33.4,Karan KC,S Vesawkar,Khawar Ali,0,0,0,NA,0,NA,NA,NA,0
+1215122,2nd innings,Nepal,Oman,33.5,Karan KC,S Vesawkar,Khawar Ali,0,0,0,NA,0,NA,NA,NA,0
+1215122,2nd innings,Nepal,Oman,33.6,Karan KC,S Vesawkar,Khawar Ali,0,0,0,NA,0,NA,NA,NA,0
+1215122,2nd innings,Nepal,Oman,34.1,S Vesawkar,Karan KC,Bilal Khan,0,0,0,NA,0,NA,NA,NA,0
+1215122,2nd innings,Nepal,Oman,34.2,S Vesawkar,Karan KC,Bilal Khan,0,1,1,wides,0,NA,NA,NA,0
+1215122,2nd innings,Nepal,Oman,34.3,S Vesawkar,Karan KC,Bilal Khan,0,0,0,NA,0,NA,NA,NA,0
+1215122,2nd innings,Nepal,Oman,34.4,S Vesawkar,Karan KC,Bilal Khan,4,0,4,NA,0,NA,NA,NA,0
+1215122,2nd innings,Nepal,Oman,34.5,S Vesawkar,Karan KC,Bilal Khan,0,0,0,NA,0,NA,NA,NA,0
+1215122,2nd innings,Nepal,Oman,34.6,S Vesawkar,Karan KC,Bilal Khan,1,0,1,NA,0,NA,NA,NA,0
+1215122,2nd innings,Nepal,Oman,34.7,Karan KC,S Vesawkar,Bilal Khan,0,0,0,NA,0,NA,NA,NA,0
+1215122,2nd innings,Nepal,Oman,35.1,S Vesawkar,Karan KC,Khawar Ali,0,0,0,NA,0,NA,NA,NA,0
+1215122,2nd innings,Nepal,Oman,35.2,S Vesawkar,Karan KC,Khawar Ali,0,0,0,NA,0,NA,NA,NA,0
+1215122,2nd innings,Nepal,Oman,35.3,S Vesawkar,Karan KC,Khawar Ali,0,0,0,NA,0,NA,NA,NA,0
+1215122,2nd innings,Nepal,Oman,35.4,S Vesawkar,Karan KC,Khawar Ali,0,0,0,NA,0,NA,NA,NA,0
+1215122,2nd innings,Nepal,Oman,35.5,S Vesawkar,Karan KC,Khawar Ali,1,0,1,NA,0,NA,NA,NA,0
+1215122,2nd innings,Nepal,Oman,35.6,Karan KC,S Vesawkar,Khawar Ali,0,0,0,NA,0,NA,NA,NA,0
+1215122,2nd innings,Nepal,Oman,36.1,S Vesawkar,Karan KC,Kaleemullah,0,0,0,NA,0,NA,NA,NA,0
+1215122,2nd innings,Nepal,Oman,36.2,S Vesawkar,Karan KC,Kaleemullah,0,0,0,NA,0,NA,NA,NA,0
+1215122,2nd innings,Nepal,Oman,36.3,S Vesawkar,Karan KC,Kaleemullah,1,0,1,NA,0,NA,NA,NA,0
+1215122,2nd innings,Nepal,Oman,36.4,Karan KC,S Vesawkar,Kaleemullah,0,0,0,NA,1,caught,Karan KC,Naseem Khushi,0
+1215122,2nd innings,Nepal,Oman,36.5,S Lamichhane,S Vesawkar,Kaleemullah,0,0,0,NA,0,NA,NA,NA,0
+1215122,2nd innings,Nepal,Oman,36.6,S Lamichhane,S Vesawkar,Kaleemullah,2,0,2,NA,0,NA,NA,NA,0
+1215122,2nd innings,Nepal,Oman,37.1,S Vesawkar,S Lamichhane,Khawar Ali,1,0,1,NA,0,NA,NA,NA,0
+1215122,2nd innings,Nepal,Oman,37.2,S Lamichhane,S Vesawkar,Khawar Ali,0,0,0,NA,0,NA,NA,NA,0
+1215122,2nd innings,Nepal,Oman,37.3,S Lamichhane,S Vesawkar,Khawar Ali,1,0,1,NA,0,NA,NA,NA,0
+1215122,2nd innings,Nepal,Oman,37.4,S Vesawkar,S Lamichhane,Khawar Ali,0,0,0,NA,0,NA,NA,NA,0
+1215122,2nd innings,Nepal,Oman,37.5,S Vesawkar,S Lamichhane,Khawar Ali,1,0,1,NA,0,NA,NA,NA,0
+1215122,2nd innings,Nepal,Oman,37.6,S Lamichhane,S Vesawkar,Khawar Ali,0,0,0,NA,0,NA,NA,NA,0
+1215122,2nd innings,Nepal,Oman,38.1,S Vesawkar,S Lamichhane,Kaleemullah,1,0,1,NA,0,NA,NA,NA,0
+1215122,2nd innings,Nepal,Oman,38.2,S Lamichhane,S Vesawkar,Kaleemullah,1,0,1,NA,0,NA,NA,NA,0
+1215122,2nd innings,Nepal,Oman,38.3,S Vesawkar,S Lamichhane,Kaleemullah,0,0,0,NA,0,NA,NA,NA,0
+1215122,2nd innings,Nepal,Oman,38.4,S Vesawkar,S Lamichhane,Kaleemullah,0,0,0,NA,0,NA,NA,NA,0
+1215122,2nd innings,Nepal,Oman,38.5,S Vesawkar,S Lamichhane,Kaleemullah,0,1,1,wides,0,NA,NA,NA,0
+1215122,2nd innings,Nepal,Oman,38.6,S Vesawkar,S Lamichhane,Kaleemullah,1,0,1,NA,0,NA,NA,NA,0
+1215122,2nd innings,Nepal,Oman,38.7,S Lamichhane,S Vesawkar,Kaleemullah,6,0,6,NA,0,NA,NA,NA,0
+1215122,2nd innings,Nepal,Oman,39.1,S Vesawkar,S Lamichhane,Khawar Ali,0,0,0,NA,0,NA,NA,NA,0
+1215122,2nd innings,Nepal,Oman,39.2,S Vesawkar,S Lamichhane,Khawar Ali,0,0,0,NA,0,NA,NA,NA,0
+1215122,2nd innings,Nepal,Oman,39.3,S Vesawkar,S Lamichhane,Khawar Ali,0,0,0,NA,0,NA,NA,NA,0
+1215122,2nd innings,Nepal,Oman,39.4,S Vesawkar,S Lamichhane,Khawar Ali,1,0,1,NA,0,NA,NA,NA,0
+1215122,2nd innings,Nepal,Oman,39.5,S Lamichhane,S Vesawkar,Khawar Ali,0,0,0,NA,0,NA,NA,NA,0
+1215122,2nd innings,Nepal,Oman,39.6,S Lamichhane,S Vesawkar,Khawar Ali,4,0,4,NA,0,NA,NA,NA,0
+1215122,2nd innings,Nepal,Oman,40.1,S Vesawkar,S Lamichhane,Bilal Khan,0,1,1,wides,0,NA,NA,NA,0
+1215122,2nd innings,Nepal,Oman,40.2,S Vesawkar,S Lamichhane,Bilal Khan,1,0,1,NA,0,NA,NA,NA,0
+1215122,2nd innings,Nepal,Oman,40.3,S Lamichhane,S Vesawkar,Bilal Khan,0,0,0,NA,0,NA,NA,NA,0
+1215122,2nd innings,Nepal,Oman,40.4,S Lamichhane,S Vesawkar,Bilal Khan,1,0,1,NA,0,NA,NA,NA,0
+1215122,2nd innings,Nepal,Oman,40.5,S Vesawkar,S Lamichhane,Bilal Khan,1,0,1,NA,0,NA,NA,NA,0
+1215122,2nd innings,Nepal,Oman,40.6,S Lamichhane,S Vesawkar,Bilal Khan,1,0,1,NA,0,NA,NA,NA,0
+1215122,2nd innings,Nepal,Oman,40.7,S Vesawkar,S Lamichhane,Bilal Khan,0,0,0,NA,0,NA,NA,NA,0
+1215122,2nd innings,Nepal,Oman,41.1,S Lamichhane,S Vesawkar,Khawar Ali,0,0,0,NA,0,NA,NA,NA,0
+1215122,2nd innings,Nepal,Oman,41.2,S Lamichhane,S Vesawkar,Khawar Ali,4,0,4,NA,0,NA,NA,NA,0
+1215122,2nd innings,Nepal,Oman,41.3,S Lamichhane,S Vesawkar,Khawar Ali,0,0,0,NA,0,NA,NA,NA,0
+1215122,2nd innings,Nepal,Oman,41.4,S Lamichhane,S Vesawkar,Khawar Ali,2,0,2,NA,0,NA,NA,NA,0
+1215122,2nd innings,Nepal,Oman,41.5,S Lamichhane,S Vesawkar,Khawar Ali,4,0,4,NA,0,NA,NA,NA,0
+1215122,2nd innings,Nepal,Oman,41.6,S Lamichhane,S Vesawkar,Khawar Ali,1,0,1,NA,0,NA,NA,NA,0
+1215122,2nd innings,Nepal,Oman,42.1,S Lamichhane,S Vesawkar,Zeeshan Maqsood,0,0,0,NA,0,NA,NA,NA,0
+1215122,2nd innings,Nepal,Oman,42.2,S Lamichhane,S Vesawkar,Zeeshan Maqsood,0,0,0,NA,0,NA,NA,NA,0
+1215122,2nd innings,Nepal,Oman,42.3,S Lamichhane,S Vesawkar,Zeeshan Maqsood,0,0,0,NA,0,NA,NA,NA,0
+1215122,2nd innings,Nepal,Oman,42.4,S Lamichhane,S Vesawkar,Zeeshan Maqsood,0,2,2,byes,0,NA,NA,NA,0
+1215122,2nd innings,Nepal,Oman,42.5,S Lamichhane,S Vesawkar,Zeeshan Maqsood,0,0,0,NA,0,NA,NA,NA,0
+1215122,2nd innings,Nepal,Oman,42.6,S Lamichhane,S Vesawkar,Zeeshan Maqsood,0,0,0,NA,0,NA,NA,NA,0
+1215122,2nd innings,Nepal,Oman,43.1,S Vesawkar,S Lamichhane,Aqib Ilyas,0,0,0,NA,1,bowled,S Vesawkar,NA,0
+1215122,2nd innings,Nepal,Oman,43.2,S Bhari,S Lamichhane,Aqib Ilyas,0,0,0,NA,0,NA,NA,NA,0
+1215122,2nd innings,Nepal,Oman,43.3,S Bhari,S Lamichhane,Aqib Ilyas,1,0,1,NA,0,NA,NA,NA,0
+1215122,2nd innings,Nepal,Oman,43.4,S Lamichhane,S Bhari,Aqib Ilyas,0,0,0,NA,0,NA,NA,NA,0
+1215122,2nd innings,Nepal,Oman,43.5,S Lamichhane,S Bhari,Aqib Ilyas,1,0,1,NA,0,NA,NA,NA,0
+1215122,2nd innings,Nepal,Oman,43.6,S Bhari,S Lamichhane,Aqib Ilyas,0,0,0,NA,0,NA,NA,NA,0
+1215122,2nd innings,Nepal,Oman,44.1,S Lamichhane,S Bhari,Zeeshan Maqsood,0,0,0,NA,1,caught,S Lamichhane,Khawar Ali,0
+1215122,2nd innings,Nepal,Oman,44.2,A Bohara,S Bhari,Zeeshan Maqsood,1,0,1,NA,0,NA,NA,NA,0
+1215122,2nd innings,Nepal,Oman,44.3,S Bhari,A Bohara,Zeeshan Maqsood,0,0,0,NA,0,NA,NA,NA,0
+1215122,2nd innings,Nepal,Oman,44.4,S Bhari,A Bohara,Zeeshan Maqsood,0,0,0,NA,0,NA,NA,NA,0
+1215122,2nd innings,Nepal,Oman,44.5,S Bhari,A Bohara,Zeeshan Maqsood,0,0,0,NA,0,NA,NA,NA,0
+1215122,2nd innings,Nepal,Oman,44.6,S Bhari,A Bohara,Zeeshan Maqsood,0,0,0,NA,0,NA,NA,NA,0
+1215122,2nd innings,Nepal,Oman,45.1,A Bohara,S Bhari,Aqib Ilyas,2,0,2,NA,0,NA,NA,NA,0
+1215122,2nd innings,Nepal,Oman,45.2,A Bohara,S Bhari,Aqib Ilyas,0,0,0,NA,0,NA,NA,NA,0
+1215122,2nd innings,Nepal,Oman,45.3,A Bohara,S Bhari,Aqib Ilyas,0,0,0,NA,0,NA,NA,NA,0
+1215122,2nd innings,Nepal,Oman,45.4,A Bohara,S Bhari,Aqib Ilyas,2,0,2,NA,0,NA,NA,NA,0
+1215122,2nd innings,Nepal,Oman,45.5,A Bohara,S Bhari,Aqib Ilyas,2,0,2,NA,0,NA,NA,NA,0
+1215122,2nd innings,Nepal,Oman,45.6,A Bohara,S Bhari,Aqib Ilyas,0,0,0,NA,0,NA,NA,NA,0
+1215122,2nd innings,Nepal,Oman,46.1,S Bhari,A Bohara,Bilal Khan,4,0,4,NA,0,NA,NA,NA,0
+1215122,2nd innings,Nepal,Oman,46.2,S Bhari,A Bohara,Bilal Khan,1,0,1,NA,0,NA,NA,NA,0
+1215122,2nd innings,Nepal,Oman,46.3,A Bohara,S Bhari,Bilal Khan,1,0,1,NA,0,NA,NA,NA,0
+1215122,2nd innings,Nepal,Oman,46.4,S Bhari,A Bohara,Bilal Khan,2,0,2,NA,0,NA,NA,NA,0
+1215122,2nd innings,Nepal,Oman,46.5,S Bhari,A Bohara,Bilal Khan,0,0,0,NA,1,caught,S Bhari,Suraj Kumar,0

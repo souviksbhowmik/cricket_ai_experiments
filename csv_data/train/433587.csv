@@ -1,0 +1,616 @@
+match_id,innings,team,opponent,ball,batsman,non_striker,bowler,scored_runs,extras,total,extra_type,wicket,wicket_type,player_out,fielders,winner
+433587,1st innings,New Zealand,Canada,0.1,MJ Guptill,BB McCullum,Khurram Chohan,0,1,1,wides,0,NA,NA,NA,1
+433587,1st innings,New Zealand,Canada,0.2,MJ Guptill,BB McCullum,Khurram Chohan,0,0,0,NA,0,NA,NA,NA,1
+433587,1st innings,New Zealand,Canada,0.3,MJ Guptill,BB McCullum,Khurram Chohan,0,1,1,wides,0,NA,NA,NA,1
+433587,1st innings,New Zealand,Canada,0.4,MJ Guptill,BB McCullum,Khurram Chohan,0,1,1,wides,0,NA,NA,NA,1
+433587,1st innings,New Zealand,Canada,0.5,MJ Guptill,BB McCullum,Khurram Chohan,0,0,0,NA,0,NA,NA,NA,1
+433587,1st innings,New Zealand,Canada,0.6,MJ Guptill,BB McCullum,Khurram Chohan,0,0,0,NA,0,NA,NA,NA,1
+433587,1st innings,New Zealand,Canada,0.7,MJ Guptill,BB McCullum,Khurram Chohan,0,0,0,NA,0,NA,NA,NA,1
+433587,1st innings,New Zealand,Canada,0.8,MJ Guptill,BB McCullum,Khurram Chohan,1,0,1,NA,0,NA,NA,NA,1
+433587,1st innings,New Zealand,Canada,0.9,BB McCullum,MJ Guptill,Khurram Chohan,0,0,0,NA,0,NA,NA,NA,1
+433587,1st innings,New Zealand,Canada,1.1,MJ Guptill,BB McCullum,H Osinde,0,0,0,NA,0,NA,NA,NA,1
+433587,1st innings,New Zealand,Canada,1.2,MJ Guptill,BB McCullum,H Osinde,0,0,0,NA,0,NA,NA,NA,1
+433587,1st innings,New Zealand,Canada,1.3,MJ Guptill,BB McCullum,H Osinde,1,0,1,NA,0,NA,NA,NA,1
+433587,1st innings,New Zealand,Canada,1.4,BB McCullum,MJ Guptill,H Osinde,0,0,0,NA,0,NA,NA,NA,1
+433587,1st innings,New Zealand,Canada,1.5,BB McCullum,MJ Guptill,H Osinde,0,0,0,NA,0,NA,NA,NA,1
+433587,1st innings,New Zealand,Canada,1.6,BB McCullum,MJ Guptill,H Osinde,0,0,0,NA,0,NA,NA,NA,1
+433587,1st innings,New Zealand,Canada,2.1,MJ Guptill,BB McCullum,Khurram Chohan,1,0,1,NA,0,NA,NA,NA,1
+433587,1st innings,New Zealand,Canada,2.2,BB McCullum,MJ Guptill,Khurram Chohan,0,0,0,NA,0,NA,NA,NA,1
+433587,1st innings,New Zealand,Canada,2.3,BB McCullum,MJ Guptill,Khurram Chohan,1,0,1,NA,0,NA,NA,NA,1
+433587,1st innings,New Zealand,Canada,2.4,MJ Guptill,BB McCullum,Khurram Chohan,0,0,0,NA,0,NA,NA,NA,1
+433587,1st innings,New Zealand,Canada,2.5,MJ Guptill,BB McCullum,Khurram Chohan,0,0,0,NA,0,NA,NA,NA,1
+433587,1st innings,New Zealand,Canada,2.6,MJ Guptill,BB McCullum,Khurram Chohan,0,0,0,NA,0,NA,NA,NA,1
+433587,1st innings,New Zealand,Canada,3.1,BB McCullum,MJ Guptill,H Osinde,4,0,4,NA,0,NA,NA,NA,1
+433587,1st innings,New Zealand,Canada,3.2,BB McCullum,MJ Guptill,H Osinde,0,0,0,NA,0,NA,NA,NA,1
+433587,1st innings,New Zealand,Canada,3.3,BB McCullum,MJ Guptill,H Osinde,0,0,0,NA,0,NA,NA,NA,1
+433587,1st innings,New Zealand,Canada,3.4,BB McCullum,MJ Guptill,H Osinde,0,0,0,NA,0,NA,NA,NA,1
+433587,1st innings,New Zealand,Canada,3.5,BB McCullum,MJ Guptill,H Osinde,0,0,0,NA,0,NA,NA,NA,1
+433587,1st innings,New Zealand,Canada,3.6,BB McCullum,MJ Guptill,H Osinde,1,0,1,NA,0,NA,NA,NA,1
+433587,1st innings,New Zealand,Canada,4.1,BB McCullum,MJ Guptill,Khurram Chohan,4,0,4,NA,0,NA,NA,NA,1
+433587,1st innings,New Zealand,Canada,4.2,BB McCullum,MJ Guptill,Khurram Chohan,0,0,0,NA,0,NA,NA,NA,1
+433587,1st innings,New Zealand,Canada,4.3,BB McCullum,MJ Guptill,Khurram Chohan,0,0,0,NA,0,NA,NA,NA,1
+433587,1st innings,New Zealand,Canada,4.4,BB McCullum,MJ Guptill,Khurram Chohan,1,0,1,NA,0,NA,NA,NA,1
+433587,1st innings,New Zealand,Canada,4.5,MJ Guptill,BB McCullum,Khurram Chohan,0,0,0,NA,0,NA,NA,NA,1
+433587,1st innings,New Zealand,Canada,4.6,MJ Guptill,BB McCullum,Khurram Chohan,0,0,0,NA,0,NA,NA,NA,1
+433587,1st innings,New Zealand,Canada,5.1,BB McCullum,MJ Guptill,H Osinde,4,0,4,NA,0,NA,NA,NA,1
+433587,1st innings,New Zealand,Canada,5.2,BB McCullum,MJ Guptill,H Osinde,0,0,0,NA,0,NA,NA,NA,1
+433587,1st innings,New Zealand,Canada,5.3,BB McCullum,MJ Guptill,H Osinde,0,0,0,NA,0,NA,NA,NA,1
+433587,1st innings,New Zealand,Canada,5.4,BB McCullum,MJ Guptill,H Osinde,0,0,0,NA,0,NA,NA,NA,1
+433587,1st innings,New Zealand,Canada,5.5,BB McCullum,MJ Guptill,H Osinde,1,0,1,NA,0,NA,NA,NA,1
+433587,1st innings,New Zealand,Canada,5.6,MJ Guptill,BB McCullum,H Osinde,4,0,4,NA,0,NA,NA,NA,1
+433587,1st innings,New Zealand,Canada,6.1,BB McCullum,MJ Guptill,Khurram Chohan,4,0,4,NA,0,NA,NA,NA,1
+433587,1st innings,New Zealand,Canada,6.2,BB McCullum,MJ Guptill,Khurram Chohan,1,0,1,NA,0,NA,NA,NA,1
+433587,1st innings,New Zealand,Canada,6.3,MJ Guptill,BB McCullum,Khurram Chohan,0,0,0,NA,0,NA,NA,NA,1
+433587,1st innings,New Zealand,Canada,6.4,MJ Guptill,BB McCullum,Khurram Chohan,0,0,0,NA,0,NA,NA,NA,1
+433587,1st innings,New Zealand,Canada,6.5,MJ Guptill,BB McCullum,Khurram Chohan,0,0,0,NA,0,NA,NA,NA,1
+433587,1st innings,New Zealand,Canada,6.6,MJ Guptill,BB McCullum,Khurram Chohan,4,0,4,NA,0,NA,NA,NA,1
+433587,1st innings,New Zealand,Canada,7.1,BB McCullum,MJ Guptill,HS Baidwan,0,0,0,NA,0,NA,NA,NA,1
+433587,1st innings,New Zealand,Canada,7.2,BB McCullum,MJ Guptill,HS Baidwan,0,0,0,NA,0,NA,NA,NA,1
+433587,1st innings,New Zealand,Canada,7.3,BB McCullum,MJ Guptill,HS Baidwan,6,0,6,NA,0,NA,NA,NA,1
+433587,1st innings,New Zealand,Canada,7.4,BB McCullum,MJ Guptill,HS Baidwan,0,0,0,NA,0,NA,NA,NA,1
+433587,1st innings,New Zealand,Canada,7.5,BB McCullum,MJ Guptill,HS Baidwan,0,0,0,NA,0,NA,NA,NA,1
+433587,1st innings,New Zealand,Canada,7.6,BB McCullum,MJ Guptill,HS Baidwan,4,0,4,NA,0,NA,NA,NA,1
+433587,1st innings,New Zealand,Canada,8.1,MJ Guptill,BB McCullum,H Osinde,0,1,1,wides,0,NA,NA,NA,1
+433587,1st innings,New Zealand,Canada,8.2,MJ Guptill,BB McCullum,H Osinde,0,0,0,NA,0,NA,NA,NA,1
+433587,1st innings,New Zealand,Canada,8.3,MJ Guptill,BB McCullum,H Osinde,0,0,0,NA,0,NA,NA,NA,1
+433587,1st innings,New Zealand,Canada,8.4,MJ Guptill,BB McCullum,H Osinde,2,0,2,NA,0,NA,NA,NA,1
+433587,1st innings,New Zealand,Canada,8.5,MJ Guptill,BB McCullum,H Osinde,4,0,4,NA,0,NA,NA,NA,1
+433587,1st innings,New Zealand,Canada,8.6,MJ Guptill,BB McCullum,H Osinde,0,0,0,NA,0,NA,NA,NA,1
+433587,1st innings,New Zealand,Canada,8.7,MJ Guptill,BB McCullum,H Osinde,0,0,0,NA,0,NA,NA,NA,1
+433587,1st innings,New Zealand,Canada,9.1,BB McCullum,MJ Guptill,HS Baidwan,1,0,1,NA,0,NA,NA,NA,1
+433587,1st innings,New Zealand,Canada,9.2,MJ Guptill,BB McCullum,HS Baidwan,0,0,0,NA,0,NA,NA,NA,1
+433587,1st innings,New Zealand,Canada,9.3,MJ Guptill,BB McCullum,HS Baidwan,0,0,0,NA,0,NA,NA,NA,1
+433587,1st innings,New Zealand,Canada,9.4,MJ Guptill,BB McCullum,HS Baidwan,0,0,0,NA,0,NA,NA,NA,1
+433587,1st innings,New Zealand,Canada,9.5,MJ Guptill,BB McCullum,HS Baidwan,0,0,0,NA,1,caught,MJ Guptill,A Bagai,1
+433587,1st innings,New Zealand,Canada,9.6,JD Ryder,BB McCullum,HS Baidwan,0,0,0,NA,0,NA,NA,NA,1
+433587,1st innings,New Zealand,Canada,10.1,BB McCullum,JD Ryder,H Osinde,4,0,4,NA,0,NA,NA,NA,1
+433587,1st innings,New Zealand,Canada,10.2,BB McCullum,JD Ryder,H Osinde,0,0,0,NA,0,NA,NA,NA,1
+433587,1st innings,New Zealand,Canada,10.3,BB McCullum,JD Ryder,H Osinde,4,0,4,NA,0,NA,NA,NA,1
+433587,1st innings,New Zealand,Canada,10.4,BB McCullum,JD Ryder,H Osinde,1,0,1,NA,0,NA,NA,NA,1
+433587,1st innings,New Zealand,Canada,10.5,JD Ryder,BB McCullum,H Osinde,1,0,1,NA,0,NA,NA,NA,1
+433587,1st innings,New Zealand,Canada,10.6,BB McCullum,JD Ryder,H Osinde,4,0,4,NA,0,NA,NA,NA,1
+433587,1st innings,New Zealand,Canada,11.1,JD Ryder,BB McCullum,HS Baidwan,0,0,0,NA,0,NA,NA,NA,1
+433587,1st innings,New Zealand,Canada,11.2,JD Ryder,BB McCullum,HS Baidwan,2,0,2,NA,0,NA,NA,NA,1
+433587,1st innings,New Zealand,Canada,11.3,JD Ryder,BB McCullum,HS Baidwan,4,0,4,NA,0,NA,NA,NA,1
+433587,1st innings,New Zealand,Canada,11.4,JD Ryder,BB McCullum,HS Baidwan,0,0,0,NA,0,NA,NA,NA,1
+433587,1st innings,New Zealand,Canada,11.5,JD Ryder,BB McCullum,HS Baidwan,4,0,4,NA,0,NA,NA,NA,1
+433587,1st innings,New Zealand,Canada,11.6,JD Ryder,BB McCullum,HS Baidwan,2,0,2,NA,0,NA,NA,NA,1
+433587,1st innings,New Zealand,Canada,12.1,BB McCullum,JD Ryder,Rizwan Cheema,4,0,4,NA,0,NA,NA,NA,1
+433587,1st innings,New Zealand,Canada,12.2,BB McCullum,JD Ryder,Rizwan Cheema,0,0,0,NA,0,NA,NA,NA,1
+433587,1st innings,New Zealand,Canada,12.3,BB McCullum,JD Ryder,Rizwan Cheema,2,0,2,NA,0,NA,NA,NA,1
+433587,1st innings,New Zealand,Canada,12.4,BB McCullum,JD Ryder,Rizwan Cheema,0,0,0,NA,0,NA,NA,NA,1
+433587,1st innings,New Zealand,Canada,12.5,BB McCullum,JD Ryder,Rizwan Cheema,0,0,0,NA,0,NA,NA,NA,1
+433587,1st innings,New Zealand,Canada,12.6,BB McCullum,JD Ryder,Rizwan Cheema,0,0,0,NA,0,NA,NA,NA,1
+433587,1st innings,New Zealand,Canada,13.1,JD Ryder,BB McCullum,HS Baidwan,0,0,0,NA,0,NA,NA,NA,1
+433587,1st innings,New Zealand,Canada,13.2,JD Ryder,BB McCullum,HS Baidwan,0,0,0,NA,0,NA,NA,NA,1
+433587,1st innings,New Zealand,Canada,13.3,JD Ryder,BB McCullum,HS Baidwan,0,0,0,NA,0,NA,NA,NA,1
+433587,1st innings,New Zealand,Canada,13.4,JD Ryder,BB McCullum,HS Baidwan,0,0,0,NA,0,NA,NA,NA,1
+433587,1st innings,New Zealand,Canada,13.5,JD Ryder,BB McCullum,HS Baidwan,1,0,1,NA,0,NA,NA,NA,1
+433587,1st innings,New Zealand,Canada,13.6,BB McCullum,JD Ryder,HS Baidwan,0,1,1,legbyes,0,NA,NA,NA,1
+433587,1st innings,New Zealand,Canada,14.1,BB McCullum,JD Ryder,Rizwan Cheema,0,0,0,NA,0,NA,NA,NA,1
+433587,1st innings,New Zealand,Canada,14.2,BB McCullum,JD Ryder,Rizwan Cheema,2,0,2,NA,0,NA,NA,NA,1
+433587,1st innings,New Zealand,Canada,14.3,BB McCullum,JD Ryder,Rizwan Cheema,1,0,1,NA,0,NA,NA,NA,1
+433587,1st innings,New Zealand,Canada,14.4,JD Ryder,BB McCullum,Rizwan Cheema,1,0,1,NA,0,NA,NA,NA,1
+433587,1st innings,New Zealand,Canada,14.5,BB McCullum,JD Ryder,Rizwan Cheema,4,0,4,NA,0,NA,NA,NA,1
+433587,1st innings,New Zealand,Canada,14.6,BB McCullum,JD Ryder,Rizwan Cheema,0,0,0,NA,0,NA,NA,NA,1
+433587,1st innings,New Zealand,Canada,15.1,JD Ryder,BB McCullum,HS Baidwan,0,0,0,NA,0,NA,NA,NA,1
+433587,1st innings,New Zealand,Canada,15.2,JD Ryder,BB McCullum,HS Baidwan,0,0,0,NA,0,NA,NA,NA,1
+433587,1st innings,New Zealand,Canada,15.3,JD Ryder,BB McCullum,HS Baidwan,1,0,1,NA,0,NA,NA,NA,1
+433587,1st innings,New Zealand,Canada,15.4,BB McCullum,JD Ryder,HS Baidwan,0,0,0,NA,0,NA,NA,NA,1
+433587,1st innings,New Zealand,Canada,15.5,BB McCullum,JD Ryder,HS Baidwan,0,0,0,NA,0,NA,NA,NA,1
+433587,1st innings,New Zealand,Canada,15.6,BB McCullum,JD Ryder,HS Baidwan,0,0,0,NA,0,NA,NA,NA,1
+433587,1st innings,New Zealand,Canada,16.1,JD Ryder,BB McCullum,WD Balaji Rao,0,0,0,NA,0,NA,NA,NA,1
+433587,1st innings,New Zealand,Canada,16.2,JD Ryder,BB McCullum,WD Balaji Rao,1,0,1,NA,0,NA,NA,NA,1
+433587,1st innings,New Zealand,Canada,16.3,BB McCullum,JD Ryder,WD Balaji Rao,1,0,1,NA,0,NA,NA,NA,1
+433587,1st innings,New Zealand,Canada,16.4,JD Ryder,BB McCullum,WD Balaji Rao,0,0,0,NA,0,NA,NA,NA,1
+433587,1st innings,New Zealand,Canada,16.5,JD Ryder,BB McCullum,WD Balaji Rao,1,0,1,NA,0,NA,NA,NA,1
+433587,1st innings,New Zealand,Canada,16.6,BB McCullum,JD Ryder,WD Balaji Rao,0,0,0,NA,0,NA,NA,NA,1
+433587,1st innings,New Zealand,Canada,17.1,JD Ryder,BB McCullum,HS Baidwan,1,0,1,NA,0,NA,NA,NA,1
+433587,1st innings,New Zealand,Canada,17.2,BB McCullum,JD Ryder,HS Baidwan,1,0,1,NA,0,NA,NA,NA,1
+433587,1st innings,New Zealand,Canada,17.3,JD Ryder,BB McCullum,HS Baidwan,1,0,1,NA,0,NA,NA,NA,1
+433587,1st innings,New Zealand,Canada,17.4,BB McCullum,JD Ryder,HS Baidwan,1,0,1,NA,0,NA,NA,NA,1
+433587,1st innings,New Zealand,Canada,17.5,JD Ryder,BB McCullum,HS Baidwan,0,0,0,NA,0,NA,NA,NA,1
+433587,1st innings,New Zealand,Canada,17.6,JD Ryder,BB McCullum,HS Baidwan,1,0,1,NA,0,NA,NA,NA,1
+433587,1st innings,New Zealand,Canada,18.1,JD Ryder,BB McCullum,WD Balaji Rao,0,0,0,NA,0,NA,NA,NA,1
+433587,1st innings,New Zealand,Canada,18.2,JD Ryder,BB McCullum,WD Balaji Rao,1,0,1,NA,0,NA,NA,NA,1
+433587,1st innings,New Zealand,Canada,18.3,BB McCullum,JD Ryder,WD Balaji Rao,1,0,1,NA,0,NA,NA,NA,1
+433587,1st innings,New Zealand,Canada,18.4,JD Ryder,BB McCullum,WD Balaji Rao,1,0,1,NA,0,NA,NA,NA,1
+433587,1st innings,New Zealand,Canada,18.5,BB McCullum,JD Ryder,WD Balaji Rao,1,0,1,NA,0,NA,NA,NA,1
+433587,1st innings,New Zealand,Canada,18.6,JD Ryder,BB McCullum,WD Balaji Rao,0,0,0,NA,0,NA,NA,NA,1
+433587,1st innings,New Zealand,Canada,19.1,BB McCullum,JD Ryder,JM Davison,1,0,1,NA,0,NA,NA,NA,1
+433587,1st innings,New Zealand,Canada,19.2,JD Ryder,BB McCullum,JM Davison,0,0,0,NA,0,NA,NA,NA,1
+433587,1st innings,New Zealand,Canada,19.3,JD Ryder,BB McCullum,JM Davison,0,0,0,NA,0,NA,NA,NA,1
+433587,1st innings,New Zealand,Canada,19.4,JD Ryder,BB McCullum,JM Davison,0,0,0,NA,0,NA,NA,NA,1
+433587,1st innings,New Zealand,Canada,19.5,JD Ryder,BB McCullum,JM Davison,0,0,0,NA,0,NA,NA,NA,1
+433587,1st innings,New Zealand,Canada,19.6,JD Ryder,BB McCullum,JM Davison,1,0,1,NA,0,NA,NA,NA,1
+433587,1st innings,New Zealand,Canada,20.1,JD Ryder,BB McCullum,WD Balaji Rao,1,0,1,NA,0,NA,NA,NA,1
+433587,1st innings,New Zealand,Canada,20.2,BB McCullum,JD Ryder,WD Balaji Rao,0,0,0,NA,0,NA,NA,NA,1
+433587,1st innings,New Zealand,Canada,20.3,BB McCullum,JD Ryder,WD Balaji Rao,0,0,0,NA,0,NA,NA,NA,1
+433587,1st innings,New Zealand,Canada,20.4,BB McCullum,JD Ryder,WD Balaji Rao,0,0,0,NA,0,NA,NA,NA,1
+433587,1st innings,New Zealand,Canada,20.5,BB McCullum,JD Ryder,WD Balaji Rao,1,0,1,NA,0,NA,NA,NA,1
+433587,1st innings,New Zealand,Canada,20.6,JD Ryder,BB McCullum,WD Balaji Rao,0,0,0,NA,0,NA,NA,NA,1
+433587,1st innings,New Zealand,Canada,21.1,BB McCullum,JD Ryder,JM Davison,4,0,4,NA,0,NA,NA,NA,1
+433587,1st innings,New Zealand,Canada,21.2,BB McCullum,JD Ryder,JM Davison,1,0,1,NA,0,NA,NA,NA,1
+433587,1st innings,New Zealand,Canada,21.3,JD Ryder,BB McCullum,JM Davison,0,0,0,NA,0,NA,NA,NA,1
+433587,1st innings,New Zealand,Canada,21.4,JD Ryder,BB McCullum,JM Davison,1,0,1,NA,0,NA,NA,NA,1
+433587,1st innings,New Zealand,Canada,21.5,BB McCullum,JD Ryder,JM Davison,0,0,0,NA,0,NA,NA,NA,1
+433587,1st innings,New Zealand,Canada,21.6,BB McCullum,JD Ryder,JM Davison,0,0,0,NA,0,NA,NA,NA,1
+433587,1st innings,New Zealand,Canada,22.1,JD Ryder,BB McCullum,WD Balaji Rao,1,0,1,NA,0,NA,NA,NA,1
+433587,1st innings,New Zealand,Canada,22.2,BB McCullum,JD Ryder,WD Balaji Rao,0,0,0,NA,0,NA,NA,NA,1
+433587,1st innings,New Zealand,Canada,22.3,BB McCullum,JD Ryder,WD Balaji Rao,0,0,0,NA,0,NA,NA,NA,1
+433587,1st innings,New Zealand,Canada,22.4,BB McCullum,JD Ryder,WD Balaji Rao,6,0,6,NA,0,NA,NA,NA,1
+433587,1st innings,New Zealand,Canada,22.5,BB McCullum,JD Ryder,WD Balaji Rao,0,0,0,NA,0,NA,NA,NA,1
+433587,1st innings,New Zealand,Canada,22.6,BB McCullum,JD Ryder,WD Balaji Rao,1,0,1,NA,0,NA,NA,NA,1
+433587,1st innings,New Zealand,Canada,23.1,BB McCullum,JD Ryder,JM Davison,0,0,0,NA,0,NA,NA,NA,1
+433587,1st innings,New Zealand,Canada,23.2,BB McCullum,JD Ryder,JM Davison,0,0,0,NA,0,NA,NA,NA,1
+433587,1st innings,New Zealand,Canada,23.3,BB McCullum,JD Ryder,JM Davison,1,0,1,NA,0,NA,NA,NA,1
+433587,1st innings,New Zealand,Canada,23.4,JD Ryder,BB McCullum,JM Davison,1,0,1,NA,0,NA,NA,NA,1
+433587,1st innings,New Zealand,Canada,23.5,BB McCullum,JD Ryder,JM Davison,1,0,1,NA,0,NA,NA,NA,1
+433587,1st innings,New Zealand,Canada,23.6,JD Ryder,BB McCullum,JM Davison,0,0,0,NA,0,NA,NA,NA,1
+433587,1st innings,New Zealand,Canada,24.1,BB McCullum,JD Ryder,WD Balaji Rao,0,0,0,NA,0,NA,NA,NA,1
+433587,1st innings,New Zealand,Canada,24.2,BB McCullum,JD Ryder,WD Balaji Rao,1,0,1,NA,0,NA,NA,NA,1
+433587,1st innings,New Zealand,Canada,24.3,JD Ryder,BB McCullum,WD Balaji Rao,4,0,4,NA,0,NA,NA,NA,1
+433587,1st innings,New Zealand,Canada,24.4,JD Ryder,BB McCullum,WD Balaji Rao,0,0,0,NA,0,NA,NA,NA,1
+433587,1st innings,New Zealand,Canada,24.5,JD Ryder,BB McCullum,WD Balaji Rao,0,0,0,NA,0,NA,NA,NA,1
+433587,1st innings,New Zealand,Canada,24.6,JD Ryder,BB McCullum,WD Balaji Rao,1,0,1,NA,0,NA,NA,NA,1
+433587,1st innings,New Zealand,Canada,25.1,JD Ryder,BB McCullum,JM Davison,0,0,0,NA,0,NA,NA,NA,1
+433587,1st innings,New Zealand,Canada,25.2,JD Ryder,BB McCullum,JM Davison,0,0,0,NA,0,NA,NA,NA,1
+433587,1st innings,New Zealand,Canada,25.3,JD Ryder,BB McCullum,JM Davison,0,0,0,NA,0,NA,NA,NA,1
+433587,1st innings,New Zealand,Canada,25.4,JD Ryder,BB McCullum,JM Davison,0,0,0,NA,0,NA,NA,NA,1
+433587,1st innings,New Zealand,Canada,25.5,JD Ryder,BB McCullum,JM Davison,1,0,1,NA,0,NA,NA,NA,1
+433587,1st innings,New Zealand,Canada,25.6,BB McCullum,JD Ryder,JM Davison,1,0,1,NA,0,NA,NA,NA,1
+433587,1st innings,New Zealand,Canada,26.1,BB McCullum,JD Ryder,Khurram Chohan,0,0,0,NA,0,NA,NA,NA,1
+433587,1st innings,New Zealand,Canada,26.2,BB McCullum,JD Ryder,Khurram Chohan,4,0,4,NA,0,NA,NA,NA,1
+433587,1st innings,New Zealand,Canada,26.3,BB McCullum,JD Ryder,Khurram Chohan,0,0,0,NA,0,NA,NA,NA,1
+433587,1st innings,New Zealand,Canada,26.4,BB McCullum,JD Ryder,Khurram Chohan,2,0,2,NA,0,NA,NA,NA,1
+433587,1st innings,New Zealand,Canada,26.5,BB McCullum,JD Ryder,Khurram Chohan,0,0,0,NA,0,NA,NA,NA,1
+433587,1st innings,New Zealand,Canada,26.6,BB McCullum,JD Ryder,Khurram Chohan,1,0,1,NA,0,NA,NA,NA,1
+433587,1st innings,New Zealand,Canada,27.1,BB McCullum,JD Ryder,JM Davison,0,0,0,NA,0,NA,NA,NA,1
+433587,1st innings,New Zealand,Canada,27.2,BB McCullum,JD Ryder,JM Davison,0,0,0,NA,0,NA,NA,NA,1
+433587,1st innings,New Zealand,Canada,27.3,BB McCullum,JD Ryder,JM Davison,0,0,0,NA,0,NA,NA,NA,1
+433587,1st innings,New Zealand,Canada,27.4,BB McCullum,JD Ryder,JM Davison,0,0,0,NA,0,NA,NA,NA,1
+433587,1st innings,New Zealand,Canada,27.5,BB McCullum,JD Ryder,JM Davison,0,0,0,NA,0,NA,NA,NA,1
+433587,1st innings,New Zealand,Canada,27.6,BB McCullum,JD Ryder,JM Davison,0,0,0,NA,0,NA,NA,NA,1
+433587,1st innings,New Zealand,Canada,28.1,JD Ryder,BB McCullum,Khurram Chohan,1,0,1,NA,0,NA,NA,NA,1
+433587,1st innings,New Zealand,Canada,28.2,BB McCullum,JD Ryder,Khurram Chohan,0,0,0,NA,0,NA,NA,NA,1
+433587,1st innings,New Zealand,Canada,28.3,BB McCullum,JD Ryder,Khurram Chohan,1,0,1,NA,0,NA,NA,NA,1
+433587,1st innings,New Zealand,Canada,28.4,JD Ryder,BB McCullum,Khurram Chohan,0,0,0,NA,0,NA,NA,NA,1
+433587,1st innings,New Zealand,Canada,28.5,JD Ryder,BB McCullum,Khurram Chohan,2,0,2,NA,0,NA,NA,NA,1
+433587,1st innings,New Zealand,Canada,28.6,JD Ryder,BB McCullum,Khurram Chohan,1,0,1,NA,0,NA,NA,NA,1
+433587,1st innings,New Zealand,Canada,29.1,JD Ryder,BB McCullum,JM Davison,0,0,0,NA,0,NA,NA,NA,1
+433587,1st innings,New Zealand,Canada,29.2,JD Ryder,BB McCullum,JM Davison,0,0,0,NA,1,caught,JD Ryder,H Osinde,1
+433587,1st innings,New Zealand,Canada,29.3,BB McCullum,LRPL Taylor,JM Davison,1,0,1,NA,0,NA,NA,NA,1
+433587,1st innings,New Zealand,Canada,29.4,LRPL Taylor,BB McCullum,JM Davison,0,0,0,NA,0,NA,NA,NA,1
+433587,1st innings,New Zealand,Canada,29.5,LRPL Taylor,BB McCullum,JM Davison,0,0,0,NA,0,NA,NA,NA,1
+433587,1st innings,New Zealand,Canada,29.6,LRPL Taylor,BB McCullum,JM Davison,1,0,1,NA,0,NA,NA,NA,1
+433587,1st innings,New Zealand,Canada,30.1,LRPL Taylor,BB McCullum,H Osinde,0,1,1,wides,0,NA,NA,NA,1
+433587,1st innings,New Zealand,Canada,30.2,LRPL Taylor,BB McCullum,H Osinde,1,0,1,NA,0,NA,NA,NA,1
+433587,1st innings,New Zealand,Canada,30.3,BB McCullum,LRPL Taylor,H Osinde,0,0,0,NA,0,NA,NA,NA,1
+433587,1st innings,New Zealand,Canada,30.4,BB McCullum,LRPL Taylor,H Osinde,1,0,1,NA,0,NA,NA,NA,1
+433587,1st innings,New Zealand,Canada,30.5,LRPL Taylor,BB McCullum,H Osinde,0,0,0,NA,0,NA,NA,NA,1
+433587,1st innings,New Zealand,Canada,30.6,LRPL Taylor,BB McCullum,H Osinde,1,0,1,NA,0,NA,NA,NA,1
+433587,1st innings,New Zealand,Canada,30.7,BB McCullum,LRPL Taylor,H Osinde,0,0,0,NA,0,NA,NA,NA,1
+433587,1st innings,New Zealand,Canada,31.1,LRPL Taylor,BB McCullum,JM Davison,1,0,1,NA,0,NA,NA,NA,1
+433587,1st innings,New Zealand,Canada,31.2,BB McCullum,LRPL Taylor,JM Davison,1,0,1,NA,0,NA,NA,NA,1
+433587,1st innings,New Zealand,Canada,31.3,LRPL Taylor,BB McCullum,JM Davison,1,0,1,NA,0,NA,NA,NA,1
+433587,1st innings,New Zealand,Canada,31.4,BB McCullum,LRPL Taylor,JM Davison,1,0,1,NA,0,NA,NA,NA,1
+433587,1st innings,New Zealand,Canada,31.5,LRPL Taylor,BB McCullum,JM Davison,0,0,0,NA,0,NA,NA,NA,1
+433587,1st innings,New Zealand,Canada,31.6,LRPL Taylor,BB McCullum,JM Davison,1,0,1,NA,0,NA,NA,NA,1
+433587,1st innings,New Zealand,Canada,32.1,LRPL Taylor,BB McCullum,H Osinde,0,0,0,NA,0,NA,NA,NA,1
+433587,1st innings,New Zealand,Canada,32.2,LRPL Taylor,BB McCullum,H Osinde,4,0,4,NA,0,NA,NA,NA,1
+433587,1st innings,New Zealand,Canada,32.3,LRPL Taylor,BB McCullum,H Osinde,4,0,4,NA,0,NA,NA,NA,1
+433587,1st innings,New Zealand,Canada,32.4,LRPL Taylor,BB McCullum,H Osinde,1,0,1,NA,0,NA,NA,NA,1
+433587,1st innings,New Zealand,Canada,32.5,BB McCullum,LRPL Taylor,H Osinde,1,0,1,NA,0,NA,NA,NA,1
+433587,1st innings,New Zealand,Canada,32.6,LRPL Taylor,BB McCullum,H Osinde,2,0,2,NA,0,NA,NA,NA,1
+433587,1st innings,New Zealand,Canada,33.1,BB McCullum,LRPL Taylor,JM Davison,0,0,0,NA,0,NA,NA,NA,1
+433587,1st innings,New Zealand,Canada,33.2,BB McCullum,LRPL Taylor,JM Davison,1,0,1,NA,0,NA,NA,NA,1
+433587,1st innings,New Zealand,Canada,33.3,LRPL Taylor,BB McCullum,JM Davison,1,0,1,NA,0,NA,NA,NA,1
+433587,1st innings,New Zealand,Canada,33.4,BB McCullum,LRPL Taylor,JM Davison,1,0,1,NA,0,NA,NA,NA,1
+433587,1st innings,New Zealand,Canada,33.5,LRPL Taylor,BB McCullum,JM Davison,0,0,0,NA,0,NA,NA,NA,1
+433587,1st innings,New Zealand,Canada,33.6,LRPL Taylor,BB McCullum,JM Davison,0,0,0,NA,0,NA,NA,NA,1
+433587,1st innings,New Zealand,Canada,34.1,BB McCullum,LRPL Taylor,WD Balaji Rao,1,0,1,NA,0,NA,NA,NA,1
+433587,1st innings,New Zealand,Canada,34.2,LRPL Taylor,BB McCullum,WD Balaji Rao,0,0,0,NA,0,NA,NA,NA,1
+433587,1st innings,New Zealand,Canada,34.3,LRPL Taylor,BB McCullum,WD Balaji Rao,1,0,1,NA,0,NA,NA,NA,1
+433587,1st innings,New Zealand,Canada,34.4,BB McCullum,LRPL Taylor,WD Balaji Rao,1,0,1,NA,0,NA,NA,NA,1
+433587,1st innings,New Zealand,Canada,34.5,LRPL Taylor,BB McCullum,WD Balaji Rao,0,0,0,NA,0,NA,NA,NA,1
+433587,1st innings,New Zealand,Canada,34.6,LRPL Taylor,BB McCullum,WD Balaji Rao,0,0,0,NA,0,NA,NA,NA,1
+433587,1st innings,New Zealand,Canada,35.1,BB McCullum,LRPL Taylor,JM Davison,0,0,0,NA,0,NA,NA,NA,1
+433587,1st innings,New Zealand,Canada,35.2,BB McCullum,LRPL Taylor,JM Davison,0,0,0,NA,0,NA,NA,NA,1
+433587,1st innings,New Zealand,Canada,35.3,BB McCullum,LRPL Taylor,JM Davison,1,0,1,NA,0,NA,NA,NA,1
+433587,1st innings,New Zealand,Canada,35.4,LRPL Taylor,BB McCullum,JM Davison,1,0,1,NA,0,NA,NA,NA,1
+433587,1st innings,New Zealand,Canada,35.5,BB McCullum,LRPL Taylor,JM Davison,1,0,1,NA,0,NA,NA,NA,1
+433587,1st innings,New Zealand,Canada,35.6,LRPL Taylor,BB McCullum,JM Davison,0,0,0,NA,0,NA,NA,NA,1
+433587,1st innings,New Zealand,Canada,36.1,BB McCullum,LRPL Taylor,HS Baidwan,1,0,1,NA,0,NA,NA,NA,1
+433587,1st innings,New Zealand,Canada,36.2,LRPL Taylor,BB McCullum,HS Baidwan,2,0,2,NA,0,NA,NA,NA,1
+433587,1st innings,New Zealand,Canada,36.3,LRPL Taylor,BB McCullum,HS Baidwan,1,0,1,NA,0,NA,NA,NA,1
+433587,1st innings,New Zealand,Canada,36.4,BB McCullum,LRPL Taylor,HS Baidwan,0,0,0,NA,1,caught,BB McCullum,R Gunasekera,1
+433587,1st innings,New Zealand,Canada,36.5,NL McCullum,LRPL Taylor,HS Baidwan,0,0,0,NA,0,NA,NA,NA,1
+433587,1st innings,New Zealand,Canada,36.6,NL McCullum,LRPL Taylor,HS Baidwan,0,0,0,NA,0,NA,NA,NA,1
+433587,1st innings,New Zealand,Canada,37.1,LRPL Taylor,NL McCullum,Rizwan Cheema,0,0,0,NA,0,NA,NA,NA,1
+433587,1st innings,New Zealand,Canada,37.2,LRPL Taylor,NL McCullum,Rizwan Cheema,0,0,0,NA,0,NA,NA,NA,1
+433587,1st innings,New Zealand,Canada,37.3,LRPL Taylor,NL McCullum,Rizwan Cheema,4,0,4,NA,0,NA,NA,NA,1
+433587,1st innings,New Zealand,Canada,37.4,LRPL Taylor,NL McCullum,Rizwan Cheema,1,0,1,NA,0,NA,NA,NA,1
+433587,1st innings,New Zealand,Canada,37.5,NL McCullum,LRPL Taylor,Rizwan Cheema,1,0,1,NA,0,NA,NA,NA,1
+433587,1st innings,New Zealand,Canada,37.6,LRPL Taylor,NL McCullum,Rizwan Cheema,1,0,1,NA,0,NA,NA,NA,1
+433587,1st innings,New Zealand,Canada,38.1,LRPL Taylor,NL McCullum,HS Baidwan,6,0,6,NA,0,NA,NA,NA,1
+433587,1st innings,New Zealand,Canada,38.2,LRPL Taylor,NL McCullum,HS Baidwan,6,0,6,NA,0,NA,NA,NA,1
+433587,1st innings,New Zealand,Canada,38.3,LRPL Taylor,NL McCullum,HS Baidwan,0,0,0,NA,0,NA,NA,NA,1
+433587,1st innings,New Zealand,Canada,38.4,LRPL Taylor,NL McCullum,HS Baidwan,6,0,6,NA,0,NA,NA,NA,1
+433587,1st innings,New Zealand,Canada,38.5,LRPL Taylor,NL McCullum,HS Baidwan,6,0,6,NA,0,NA,NA,NA,1
+433587,1st innings,New Zealand,Canada,38.6,LRPL Taylor,NL McCullum,HS Baidwan,4,0,4,NA,0,NA,NA,NA,1
+433587,1st innings,New Zealand,Canada,39.1,NL McCullum,LRPL Taylor,Rizwan Cheema,0,1,1,byes,0,NA,NA,NA,1
+433587,1st innings,New Zealand,Canada,39.2,LRPL Taylor,NL McCullum,Rizwan Cheema,1,0,1,NA,0,NA,NA,NA,1
+433587,1st innings,New Zealand,Canada,39.3,NL McCullum,LRPL Taylor,Rizwan Cheema,4,0,4,NA,0,NA,NA,NA,1
+433587,1st innings,New Zealand,Canada,39.4,NL McCullum,LRPL Taylor,Rizwan Cheema,1,0,1,NA,0,NA,NA,NA,1
+433587,1st innings,New Zealand,Canada,39.5,LRPL Taylor,NL McCullum,Rizwan Cheema,2,0,2,NA,0,NA,NA,NA,1
+433587,1st innings,New Zealand,Canada,39.6,LRPL Taylor,NL McCullum,Rizwan Cheema,0,1,1,noballs,0,NA,NA,NA,1
+433587,1st innings,New Zealand,Canada,39.7,LRPL Taylor,NL McCullum,Rizwan Cheema,6,0,6,NA,0,NA,NA,NA,1
+433587,1st innings,New Zealand,Canada,40.1,NL McCullum,LRPL Taylor,WD Balaji Rao,4,0,4,NA,0,NA,NA,NA,1
+433587,1st innings,New Zealand,Canada,40.2,NL McCullum,LRPL Taylor,WD Balaji Rao,0,1,1,legbyes,0,NA,NA,NA,1
+433587,1st innings,New Zealand,Canada,40.3,LRPL Taylor,NL McCullum,WD Balaji Rao,4,0,4,NA,0,NA,NA,NA,1
+433587,1st innings,New Zealand,Canada,40.4,LRPL Taylor,NL McCullum,WD Balaji Rao,4,0,4,NA,0,NA,NA,NA,1
+433587,1st innings,New Zealand,Canada,40.5,LRPL Taylor,NL McCullum,WD Balaji Rao,0,5,5,wides,0,NA,NA,NA,1
+433587,1st innings,New Zealand,Canada,40.6,LRPL Taylor,NL McCullum,WD Balaji Rao,0,0,0,NA,1,caught,LRPL Taylor,AS Hansra,1
+433587,1st innings,New Zealand,Canada,40.7,KS Williamson,NL McCullum,WD Balaji Rao,1,0,1,NA,0,NA,NA,NA,1
+433587,1st innings,New Zealand,Canada,41.1,KS Williamson,NL McCullum,JM Davison,0,0,0,NA,0,NA,NA,NA,1
+433587,1st innings,New Zealand,Canada,41.2,KS Williamson,NL McCullum,JM Davison,0,0,0,NA,0,NA,NA,NA,1
+433587,1st innings,New Zealand,Canada,41.3,KS Williamson,NL McCullum,JM Davison,0,0,0,NA,0,NA,NA,NA,1
+433587,1st innings,New Zealand,Canada,41.4,KS Williamson,NL McCullum,JM Davison,0,0,0,NA,0,NA,NA,NA,1
+433587,1st innings,New Zealand,Canada,41.5,KS Williamson,NL McCullum,JM Davison,2,0,2,NA,0,NA,NA,NA,1
+433587,1st innings,New Zealand,Canada,41.6,KS Williamson,NL McCullum,JM Davison,2,0,2,NA,0,NA,NA,NA,1
+433587,1st innings,New Zealand,Canada,42.1,NL McCullum,KS Williamson,WD Balaji Rao,0,0,0,NA,1,caught and bowled,NL McCullum,NA,1
+433587,1st innings,New Zealand,Canada,42.2,SB Styris,KS Williamson,WD Balaji Rao,0,0,0,NA,0,NA,NA,NA,1
+433587,1st innings,New Zealand,Canada,42.3,SB Styris,KS Williamson,WD Balaji Rao,1,0,1,NA,0,NA,NA,NA,1
+433587,1st innings,New Zealand,Canada,42.4,KS Williamson,SB Styris,WD Balaji Rao,0,0,0,NA,0,NA,NA,NA,1
+433587,1st innings,New Zealand,Canada,42.5,KS Williamson,SB Styris,WD Balaji Rao,1,0,1,NA,0,NA,NA,NA,1
+433587,1st innings,New Zealand,Canada,42.6,SB Styris,KS Williamson,WD Balaji Rao,1,0,1,NA,0,NA,NA,NA,1
+433587,1st innings,New Zealand,Canada,43.1,SB Styris,KS Williamson,AS Hansra,2,0,2,NA,0,NA,NA,NA,1
+433587,1st innings,New Zealand,Canada,43.2,SB Styris,KS Williamson,AS Hansra,0,0,0,NA,0,NA,NA,NA,1
+433587,1st innings,New Zealand,Canada,43.3,SB Styris,KS Williamson,AS Hansra,1,0,1,NA,0,NA,NA,NA,1
+433587,1st innings,New Zealand,Canada,43.4,KS Williamson,SB Styris,AS Hansra,0,0,0,NA,0,NA,NA,NA,1
+433587,1st innings,New Zealand,Canada,43.5,KS Williamson,SB Styris,AS Hansra,0,0,0,NA,0,NA,NA,NA,1
+433587,1st innings,New Zealand,Canada,43.6,KS Williamson,SB Styris,AS Hansra,1,0,1,NA,0,NA,NA,NA,1
+433587,1st innings,New Zealand,Canada,44.1,KS Williamson,SB Styris,WD Balaji Rao,0,0,0,NA,0,NA,NA,NA,1
+433587,1st innings,New Zealand,Canada,44.2,KS Williamson,SB Styris,WD Balaji Rao,4,0,4,NA,0,NA,NA,NA,1
+433587,1st innings,New Zealand,Canada,44.3,KS Williamson,SB Styris,WD Balaji Rao,1,0,1,NA,0,NA,NA,NA,1
+433587,1st innings,New Zealand,Canada,44.4,SB Styris,KS Williamson,WD Balaji Rao,2,0,2,NA,0,NA,NA,NA,1
+433587,1st innings,New Zealand,Canada,44.5,SB Styris,KS Williamson,WD Balaji Rao,0,0,0,NA,0,NA,NA,NA,1
+433587,1st innings,New Zealand,Canada,44.6,SB Styris,KS Williamson,WD Balaji Rao,0,1,1,legbyes,0,NA,NA,NA,1
+433587,1st innings,New Zealand,Canada,45.1,SB Styris,KS Williamson,AS Hansra,6,0,6,NA,0,NA,NA,NA,1
+433587,1st innings,New Zealand,Canada,45.2,SB Styris,KS Williamson,AS Hansra,1,0,1,NA,0,NA,NA,NA,1
+433587,1st innings,New Zealand,Canada,45.3,KS Williamson,SB Styris,AS Hansra,2,0,2,NA,0,NA,NA,NA,1
+433587,1st innings,New Zealand,Canada,45.4,KS Williamson,SB Styris,AS Hansra,1,0,1,NA,0,NA,NA,NA,1
+433587,1st innings,New Zealand,Canada,45.5,SB Styris,KS Williamson,AS Hansra,6,0,6,NA,0,NA,NA,NA,1
+433587,1st innings,New Zealand,Canada,45.6,SB Styris,KS Williamson,AS Hansra,1,0,1,NA,0,NA,NA,NA,1
+433587,1st innings,New Zealand,Canada,46.1,SB Styris,KS Williamson,WD Balaji Rao,1,0,1,NA,0,NA,NA,NA,1
+433587,1st innings,New Zealand,Canada,46.2,KS Williamson,SB Styris,WD Balaji Rao,1,0,1,NA,0,NA,NA,NA,1
+433587,1st innings,New Zealand,Canada,46.3,SB Styris,KS Williamson,WD Balaji Rao,1,0,1,NA,0,NA,NA,NA,1
+433587,1st innings,New Zealand,Canada,46.4,KS Williamson,SB Styris,WD Balaji Rao,1,0,1,NA,0,NA,NA,NA,1
+433587,1st innings,New Zealand,Canada,46.5,SB Styris,KS Williamson,WD Balaji Rao,4,0,4,NA,0,NA,NA,NA,1
+433587,1st innings,New Zealand,Canada,46.6,SB Styris,KS Williamson,WD Balaji Rao,0,0,0,NA,0,NA,NA,NA,1
+433587,1st innings,New Zealand,Canada,47.1,KS Williamson,SB Styris,HS Baidwan,4,0,4,NA,0,NA,NA,NA,1
+433587,1st innings,New Zealand,Canada,47.2,KS Williamson,SB Styris,HS Baidwan,4,0,4,NA,0,NA,NA,NA,1
+433587,1st innings,New Zealand,Canada,47.3,KS Williamson,SB Styris,HS Baidwan,3,0,3,NA,0,NA,NA,NA,1
+433587,1st innings,New Zealand,Canada,47.4,SB Styris,KS Williamson,HS Baidwan,4,0,4,NA,0,NA,NA,NA,1
+433587,1st innings,New Zealand,Canada,47.5,SB Styris,KS Williamson,HS Baidwan,4,0,4,NA,0,NA,NA,NA,1
+433587,1st innings,New Zealand,Canada,47.6,SB Styris,KS Williamson,HS Baidwan,0,0,0,NA,1,caught,SB Styris,JM Davison,1
+433587,1st innings,New Zealand,Canada,48.1,KS Williamson,JEC Franklin,Khurram Chohan,4,0,4,NA,0,NA,NA,NA,1
+433587,1st innings,New Zealand,Canada,48.2,KS Williamson,JEC Franklin,Khurram Chohan,1,0,1,NA,0,NA,NA,NA,1
+433587,1st innings,New Zealand,Canada,48.3,JEC Franklin,KS Williamson,Khurram Chohan,2,0,2,NA,0,NA,NA,NA,1
+433587,1st innings,New Zealand,Canada,48.4,JEC Franklin,KS Williamson,Khurram Chohan,1,0,1,NA,0,NA,NA,NA,1
+433587,1st innings,New Zealand,Canada,48.5,KS Williamson,JEC Franklin,Khurram Chohan,0,0,0,NA,0,NA,NA,NA,1
+433587,1st innings,New Zealand,Canada,48.6,KS Williamson,JEC Franklin,Khurram Chohan,0,1,1,byes,0,NA,NA,NA,1
+433587,1st innings,New Zealand,Canada,49.1,KS Williamson,JEC Franklin,Rizwan Cheema,1,0,1,NA,0,NA,NA,NA,1
+433587,1st innings,New Zealand,Canada,49.2,JEC Franklin,KS Williamson,Rizwan Cheema,6,0,6,NA,0,NA,NA,NA,1
+433587,1st innings,New Zealand,Canada,49.3,JEC Franklin,KS Williamson,Rizwan Cheema,6,0,6,NA,0,NA,NA,NA,1
+433587,1st innings,New Zealand,Canada,49.4,JEC Franklin,KS Williamson,Rizwan Cheema,4,0,4,NA,0,NA,NA,NA,1
+433587,1st innings,New Zealand,Canada,49.5,JEC Franklin,KS Williamson,Rizwan Cheema,6,0,6,NA,0,NA,NA,NA,1
+433587,1st innings,New Zealand,Canada,49.6,JEC Franklin,KS Williamson,Rizwan Cheema,4,1,5,noballs,0,NA,NA,NA,1
+433587,1st innings,New Zealand,Canada,49.7,JEC Franklin,KS Williamson,HS Baidwan,0,1,1,wides,0,NA,NA,NA,1
+433587,1st innings,New Zealand,Canada,49.8,JEC Franklin,KS Williamson,HS Baidwan,2,0,2,NA,0,NA,NA,NA,1
+433587,2nd innings,Canada,New Zealand,0.1,R Gunasekera,H Patel,KD Mills,0,0,0,NA,0,NA,NA,NA,0
+433587,2nd innings,Canada,New Zealand,0.2,R Gunasekera,H Patel,KD Mills,0,0,0,NA,0,NA,NA,NA,0
+433587,2nd innings,Canada,New Zealand,0.3,R Gunasekera,H Patel,KD Mills,2,0,2,NA,0,NA,NA,NA,0
+433587,2nd innings,Canada,New Zealand,0.4,R Gunasekera,H Patel,KD Mills,0,0,0,NA,0,NA,NA,NA,0
+433587,2nd innings,Canada,New Zealand,0.5,R Gunasekera,H Patel,KD Mills,0,0,0,NA,0,NA,NA,NA,0
+433587,2nd innings,Canada,New Zealand,0.6,R Gunasekera,H Patel,KD Mills,0,0,0,NA,0,NA,NA,NA,0
+433587,2nd innings,Canada,New Zealand,1.1,H Patel,R Gunasekera,TG Southee,0,0,0,NA,0,NA,NA,NA,0
+433587,2nd innings,Canada,New Zealand,1.2,H Patel,R Gunasekera,TG Southee,0,0,0,NA,0,NA,NA,NA,0
+433587,2nd innings,Canada,New Zealand,1.3,H Patel,R Gunasekera,TG Southee,0,0,0,NA,0,NA,NA,NA,0
+433587,2nd innings,Canada,New Zealand,1.4,H Patel,R Gunasekera,TG Southee,0,0,0,NA,0,NA,NA,NA,0
+433587,2nd innings,Canada,New Zealand,1.5,H Patel,R Gunasekera,TG Southee,0,0,0,NA,0,NA,NA,NA,0
+433587,2nd innings,Canada,New Zealand,1.6,H Patel,R Gunasekera,TG Southee,0,0,0,NA,0,NA,NA,NA,0
+433587,2nd innings,Canada,New Zealand,2.1,R Gunasekera,H Patel,KD Mills,0,0,0,NA,1,caught,R Gunasekera,LRPL Taylor,0
+433587,2nd innings,Canada,New Zealand,2.2,ZE Surkari,H Patel,KD Mills,0,0,0,NA,0,NA,NA,NA,0
+433587,2nd innings,Canada,New Zealand,2.3,ZE Surkari,H Patel,KD Mills,0,0,0,NA,0,NA,NA,NA,0
+433587,2nd innings,Canada,New Zealand,2.4,ZE Surkari,H Patel,KD Mills,0,0,0,NA,0,NA,NA,NA,0
+433587,2nd innings,Canada,New Zealand,2.5,ZE Surkari,H Patel,KD Mills,0,0,0,NA,0,NA,NA,NA,0
+433587,2nd innings,Canada,New Zealand,2.6,ZE Surkari,H Patel,KD Mills,0,0,0,NA,0,NA,NA,NA,0
+433587,2nd innings,Canada,New Zealand,3.1,H Patel,ZE Surkari,TG Southee,0,0,0,NA,0,NA,NA,NA,0
+433587,2nd innings,Canada,New Zealand,3.2,H Patel,ZE Surkari,TG Southee,0,0,0,NA,0,NA,NA,NA,0
+433587,2nd innings,Canada,New Zealand,3.3,H Patel,ZE Surkari,TG Southee,1,0,1,NA,0,NA,NA,NA,0
+433587,2nd innings,Canada,New Zealand,3.4,ZE Surkari,H Patel,TG Southee,0,0,0,NA,0,NA,NA,NA,0
+433587,2nd innings,Canada,New Zealand,3.5,ZE Surkari,H Patel,TG Southee,0,0,0,NA,0,NA,NA,NA,0
+433587,2nd innings,Canada,New Zealand,3.6,ZE Surkari,H Patel,TG Southee,1,0,1,NA,0,NA,NA,NA,0
+433587,2nd innings,Canada,New Zealand,4.1,ZE Surkari,H Patel,KD Mills,0,0,0,NA,0,NA,NA,NA,0
+433587,2nd innings,Canada,New Zealand,4.2,ZE Surkari,H Patel,KD Mills,0,0,0,NA,0,NA,NA,NA,0
+433587,2nd innings,Canada,New Zealand,4.3,ZE Surkari,H Patel,KD Mills,0,0,0,NA,1,caught,ZE Surkari,LRPL Taylor,0
+433587,2nd innings,Canada,New Zealand,4.4,A Bagai,H Patel,KD Mills,0,0,0,NA,0,NA,NA,NA,0
+433587,2nd innings,Canada,New Zealand,4.5,A Bagai,H Patel,JD Ryder,4,0,4,NA,0,NA,NA,NA,0
+433587,2nd innings,Canada,New Zealand,4.6,A Bagai,H Patel,JD Ryder,4,0,4,NA,0,NA,NA,NA,0
+433587,2nd innings,Canada,New Zealand,5.1,H Patel,A Bagai,TG Southee,0,0,0,NA,0,NA,NA,NA,0
+433587,2nd innings,Canada,New Zealand,5.2,H Patel,A Bagai,TG Southee,0,0,0,NA,0,NA,NA,NA,0
+433587,2nd innings,Canada,New Zealand,5.3,H Patel,A Bagai,TG Southee,0,0,0,NA,0,NA,NA,NA,0
+433587,2nd innings,Canada,New Zealand,5.4,H Patel,A Bagai,TG Southee,0,0,0,NA,0,NA,NA,NA,0
+433587,2nd innings,Canada,New Zealand,5.5,H Patel,A Bagai,TG Southee,4,0,4,NA,0,NA,NA,NA,0
+433587,2nd innings,Canada,New Zealand,5.6,H Patel,A Bagai,TG Southee,0,0,0,NA,0,NA,NA,NA,0
+433587,2nd innings,Canada,New Zealand,6.1,A Bagai,H Patel,JDP Oram,4,0,4,NA,0,NA,NA,NA,0
+433587,2nd innings,Canada,New Zealand,6.2,A Bagai,H Patel,JDP Oram,0,0,0,NA,0,NA,NA,NA,0
+433587,2nd innings,Canada,New Zealand,6.3,A Bagai,H Patel,JDP Oram,0,0,0,NA,0,NA,NA,NA,0
+433587,2nd innings,Canada,New Zealand,6.4,A Bagai,H Patel,JDP Oram,0,0,0,NA,0,NA,NA,NA,0
+433587,2nd innings,Canada,New Zealand,6.5,A Bagai,H Patel,JDP Oram,0,0,0,NA,0,NA,NA,NA,0
+433587,2nd innings,Canada,New Zealand,6.6,A Bagai,H Patel,JDP Oram,0,0,0,NA,0,NA,NA,NA,0
+433587,2nd innings,Canada,New Zealand,7.1,H Patel,A Bagai,TG Southee,0,0,0,NA,0,NA,NA,NA,0
+433587,2nd innings,Canada,New Zealand,7.2,H Patel,A Bagai,TG Southee,0,0,0,NA,0,NA,NA,NA,0
+433587,2nd innings,Canada,New Zealand,7.3,H Patel,A Bagai,TG Southee,0,0,0,NA,0,NA,NA,NA,0
+433587,2nd innings,Canada,New Zealand,7.4,H Patel,A Bagai,TG Southee,4,0,4,NA,0,NA,NA,NA,0
+433587,2nd innings,Canada,New Zealand,7.5,H Patel,A Bagai,TG Southee,4,0,4,NA,0,NA,NA,NA,0
+433587,2nd innings,Canada,New Zealand,7.6,H Patel,A Bagai,TG Southee,4,0,4,NA,0,NA,NA,NA,0
+433587,2nd innings,Canada,New Zealand,8.1,A Bagai,H Patel,JDP Oram,0,0,0,NA,0,NA,NA,NA,0
+433587,2nd innings,Canada,New Zealand,8.2,A Bagai,H Patel,JDP Oram,0,0,0,NA,0,NA,NA,NA,0
+433587,2nd innings,Canada,New Zealand,8.3,A Bagai,H Patel,JDP Oram,0,0,0,NA,0,NA,NA,NA,0
+433587,2nd innings,Canada,New Zealand,8.4,A Bagai,H Patel,JDP Oram,0,0,0,NA,0,NA,NA,NA,0
+433587,2nd innings,Canada,New Zealand,8.5,A Bagai,H Patel,JDP Oram,0,0,0,NA,0,NA,NA,NA,0
+433587,2nd innings,Canada,New Zealand,8.6,A Bagai,H Patel,JDP Oram,0,0,0,NA,0,NA,NA,NA,0
+433587,2nd innings,Canada,New Zealand,9.1,H Patel,A Bagai,JEC Franklin,0,1,1,noballs,0,NA,NA,NA,0
+433587,2nd innings,Canada,New Zealand,9.2,H Patel,A Bagai,JEC Franklin,6,0,6,NA,0,NA,NA,NA,0
+433587,2nd innings,Canada,New Zealand,9.3,H Patel,A Bagai,JEC Franklin,0,0,0,NA,0,NA,NA,NA,0
+433587,2nd innings,Canada,New Zealand,9.4,H Patel,A Bagai,JEC Franklin,0,0,0,NA,0,NA,NA,NA,0
+433587,2nd innings,Canada,New Zealand,9.5,H Patel,A Bagai,JEC Franklin,1,0,1,NA,0,NA,NA,NA,0
+433587,2nd innings,Canada,New Zealand,9.6,A Bagai,H Patel,JEC Franklin,0,0,0,NA,0,NA,NA,NA,0
+433587,2nd innings,Canada,New Zealand,9.7,A Bagai,H Patel,JEC Franklin,0,0,0,NA,0,NA,NA,NA,0
+433587,2nd innings,Canada,New Zealand,10.1,H Patel,A Bagai,JDP Oram,0,0,0,NA,0,NA,NA,NA,0
+433587,2nd innings,Canada,New Zealand,10.2,H Patel,A Bagai,JDP Oram,1,0,1,NA,0,NA,NA,NA,0
+433587,2nd innings,Canada,New Zealand,10.3,A Bagai,H Patel,JDP Oram,0,0,0,NA,0,NA,NA,NA,0
+433587,2nd innings,Canada,New Zealand,10.4,A Bagai,H Patel,JDP Oram,0,0,0,NA,0,NA,NA,NA,0
+433587,2nd innings,Canada,New Zealand,10.5,A Bagai,H Patel,JDP Oram,0,0,0,NA,0,NA,NA,NA,0
+433587,2nd innings,Canada,New Zealand,10.6,A Bagai,H Patel,JDP Oram,0,0,0,NA,0,NA,NA,NA,0
+433587,2nd innings,Canada,New Zealand,11.1,H Patel,A Bagai,JEC Franklin,1,0,1,NA,0,NA,NA,NA,0
+433587,2nd innings,Canada,New Zealand,11.2,A Bagai,H Patel,JEC Franklin,1,0,1,NA,0,NA,NA,NA,0
+433587,2nd innings,Canada,New Zealand,11.3,H Patel,A Bagai,JEC Franklin,0,0,0,NA,0,NA,NA,NA,0
+433587,2nd innings,Canada,New Zealand,11.4,H Patel,A Bagai,JEC Franklin,4,0,4,NA,0,NA,NA,NA,0
+433587,2nd innings,Canada,New Zealand,11.5,H Patel,A Bagai,JEC Franklin,1,0,1,NA,0,NA,NA,NA,0
+433587,2nd innings,Canada,New Zealand,11.6,A Bagai,H Patel,JEC Franklin,2,0,2,NA,0,NA,NA,NA,0
+433587,2nd innings,Canada,New Zealand,12.1,H Patel,A Bagai,JDP Oram,0,0,0,NA,0,NA,NA,NA,0
+433587,2nd innings,Canada,New Zealand,12.2,H Patel,A Bagai,JDP Oram,0,0,0,NA,0,NA,NA,NA,0
+433587,2nd innings,Canada,New Zealand,12.3,H Patel,A Bagai,JDP Oram,0,0,0,NA,1,caught,H Patel,BB McCullum,0
+433587,2nd innings,Canada,New Zealand,12.4,AS Hansra,A Bagai,JDP Oram,0,0,0,NA,0,NA,NA,NA,0
+433587,2nd innings,Canada,New Zealand,12.5,AS Hansra,A Bagai,JDP Oram,1,0,1,NA,0,NA,NA,NA,0
+433587,2nd innings,Canada,New Zealand,12.6,A Bagai,AS Hansra,JDP Oram,0,0,0,NA,0,NA,NA,NA,0
+433587,2nd innings,Canada,New Zealand,13.1,AS Hansra,A Bagai,JEC Franklin,0,0,0,NA,0,NA,NA,NA,0
+433587,2nd innings,Canada,New Zealand,13.2,AS Hansra,A Bagai,JEC Franklin,0,0,0,NA,0,NA,NA,NA,0
+433587,2nd innings,Canada,New Zealand,13.3,AS Hansra,A Bagai,JEC Franklin,0,0,0,NA,0,NA,NA,NA,0
+433587,2nd innings,Canada,New Zealand,13.4,AS Hansra,A Bagai,JEC Franklin,1,0,1,NA,0,NA,NA,NA,0
+433587,2nd innings,Canada,New Zealand,13.5,A Bagai,AS Hansra,JEC Franklin,0,0,0,NA,0,NA,NA,NA,0
+433587,2nd innings,Canada,New Zealand,13.6,A Bagai,AS Hansra,JEC Franklin,4,0,4,NA,0,NA,NA,NA,0
+433587,2nd innings,Canada,New Zealand,14.1,AS Hansra,A Bagai,JDP Oram,1,0,1,NA,0,NA,NA,NA,0
+433587,2nd innings,Canada,New Zealand,14.2,A Bagai,AS Hansra,JDP Oram,0,0,0,NA,0,NA,NA,NA,0
+433587,2nd innings,Canada,New Zealand,14.3,A Bagai,AS Hansra,JDP Oram,0,0,0,NA,0,NA,NA,NA,0
+433587,2nd innings,Canada,New Zealand,14.4,A Bagai,AS Hansra,JDP Oram,1,0,1,NA,0,NA,NA,NA,0
+433587,2nd innings,Canada,New Zealand,14.5,AS Hansra,A Bagai,JDP Oram,2,0,2,NA,0,NA,NA,NA,0
+433587,2nd innings,Canada,New Zealand,14.6,AS Hansra,A Bagai,JDP Oram,1,0,1,NA,0,NA,NA,NA,0
+433587,2nd innings,Canada,New Zealand,15.1,AS Hansra,A Bagai,JEC Franklin,0,0,0,NA,0,NA,NA,NA,0
+433587,2nd innings,Canada,New Zealand,15.2,AS Hansra,A Bagai,JEC Franklin,2,0,2,NA,0,NA,NA,NA,0
+433587,2nd innings,Canada,New Zealand,15.3,AS Hansra,A Bagai,JEC Franklin,1,0,1,NA,0,NA,NA,NA,0
+433587,2nd innings,Canada,New Zealand,15.4,A Bagai,AS Hansra,JEC Franklin,4,0,4,NA,0,NA,NA,NA,0
+433587,2nd innings,Canada,New Zealand,15.5,A Bagai,AS Hansra,JEC Franklin,1,0,1,NA,0,NA,NA,NA,0
+433587,2nd innings,Canada,New Zealand,15.6,AS Hansra,A Bagai,JEC Franklin,1,0,1,NA,0,NA,NA,NA,0
+433587,2nd innings,Canada,New Zealand,16.1,AS Hansra,A Bagai,NL McCullum,0,0,0,NA,0,NA,NA,NA,0
+433587,2nd innings,Canada,New Zealand,16.2,AS Hansra,A Bagai,NL McCullum,1,0,1,NA,0,NA,NA,NA,0
+433587,2nd innings,Canada,New Zealand,16.3,A Bagai,AS Hansra,NL McCullum,1,0,1,NA,0,NA,NA,NA,0
+433587,2nd innings,Canada,New Zealand,16.4,AS Hansra,A Bagai,NL McCullum,1,0,1,NA,0,NA,NA,NA,0
+433587,2nd innings,Canada,New Zealand,16.5,A Bagai,AS Hansra,NL McCullum,4,0,4,NA,0,NA,NA,NA,0
+433587,2nd innings,Canada,New Zealand,16.6,A Bagai,AS Hansra,NL McCullum,1,0,1,NA,0,NA,NA,NA,0
+433587,2nd innings,Canada,New Zealand,17.1,A Bagai,AS Hansra,SB Styris,0,0,0,NA,0,NA,NA,NA,0
+433587,2nd innings,Canada,New Zealand,17.2,A Bagai,AS Hansra,SB Styris,1,0,1,NA,0,NA,NA,NA,0
+433587,2nd innings,Canada,New Zealand,17.3,AS Hansra,A Bagai,SB Styris,0,1,1,wides,0,NA,NA,NA,0
+433587,2nd innings,Canada,New Zealand,17.4,AS Hansra,A Bagai,SB Styris,0,0,0,NA,0,NA,NA,NA,0
+433587,2nd innings,Canada,New Zealand,17.5,AS Hansra,A Bagai,SB Styris,0,0,0,NA,0,NA,NA,NA,0
+433587,2nd innings,Canada,New Zealand,17.6,AS Hansra,A Bagai,SB Styris,0,0,0,NA,0,NA,NA,NA,0
+433587,2nd innings,Canada,New Zealand,17.7,AS Hansra,A Bagai,SB Styris,0,0,0,NA,0,NA,NA,NA,0
+433587,2nd innings,Canada,New Zealand,18.1,A Bagai,AS Hansra,NL McCullum,1,0,1,NA,0,NA,NA,NA,0
+433587,2nd innings,Canada,New Zealand,18.2,AS Hansra,A Bagai,NL McCullum,0,0,0,NA,0,NA,NA,NA,0
+433587,2nd innings,Canada,New Zealand,18.3,AS Hansra,A Bagai,NL McCullum,0,0,0,NA,0,NA,NA,NA,0
+433587,2nd innings,Canada,New Zealand,18.4,AS Hansra,A Bagai,NL McCullum,1,0,1,NA,0,NA,NA,NA,0
+433587,2nd innings,Canada,New Zealand,18.5,A Bagai,AS Hansra,NL McCullum,0,0,0,NA,0,NA,NA,NA,0
+433587,2nd innings,Canada,New Zealand,18.6,A Bagai,AS Hansra,NL McCullum,0,0,0,NA,0,NA,NA,NA,0
+433587,2nd innings,Canada,New Zealand,19.1,AS Hansra,A Bagai,SB Styris,0,0,0,NA,0,NA,NA,NA,0
+433587,2nd innings,Canada,New Zealand,19.2,AS Hansra,A Bagai,SB Styris,0,0,0,NA,0,NA,NA,NA,0
+433587,2nd innings,Canada,New Zealand,19.3,AS Hansra,A Bagai,SB Styris,1,0,1,NA,0,NA,NA,NA,0
+433587,2nd innings,Canada,New Zealand,19.4,A Bagai,AS Hansra,SB Styris,1,0,1,NA,0,NA,NA,NA,0
+433587,2nd innings,Canada,New Zealand,19.5,AS Hansra,A Bagai,SB Styris,1,0,1,NA,0,NA,NA,NA,0
+433587,2nd innings,Canada,New Zealand,19.6,A Bagai,AS Hansra,SB Styris,0,0,0,NA,0,NA,NA,NA,0
+433587,2nd innings,Canada,New Zealand,20.1,AS Hansra,A Bagai,NL McCullum,1,0,1,NA,0,NA,NA,NA,0
+433587,2nd innings,Canada,New Zealand,20.2,A Bagai,AS Hansra,NL McCullum,0,0,0,NA,0,NA,NA,NA,0
+433587,2nd innings,Canada,New Zealand,20.3,A Bagai,AS Hansra,NL McCullum,1,0,1,NA,0,NA,NA,NA,0
+433587,2nd innings,Canada,New Zealand,20.4,AS Hansra,A Bagai,NL McCullum,0,0,0,NA,0,NA,NA,NA,0
+433587,2nd innings,Canada,New Zealand,20.5,AS Hansra,A Bagai,NL McCullum,1,0,1,NA,0,NA,NA,NA,0
+433587,2nd innings,Canada,New Zealand,20.6,A Bagai,AS Hansra,NL McCullum,0,0,0,NA,0,NA,NA,NA,0
+433587,2nd innings,Canada,New Zealand,21.1,AS Hansra,A Bagai,SB Styris,1,0,1,NA,0,NA,NA,NA,0
+433587,2nd innings,Canada,New Zealand,21.2,A Bagai,AS Hansra,SB Styris,1,0,1,NA,0,NA,NA,NA,0
+433587,2nd innings,Canada,New Zealand,21.3,AS Hansra,A Bagai,SB Styris,0,0,0,NA,0,NA,NA,NA,0
+433587,2nd innings,Canada,New Zealand,21.4,AS Hansra,A Bagai,SB Styris,0,0,0,NA,0,NA,NA,NA,0
+433587,2nd innings,Canada,New Zealand,21.5,AS Hansra,A Bagai,SB Styris,2,0,2,NA,0,NA,NA,NA,0
+433587,2nd innings,Canada,New Zealand,21.6,AS Hansra,A Bagai,SB Styris,0,0,0,NA,0,NA,NA,NA,0
+433587,2nd innings,Canada,New Zealand,22.1,A Bagai,AS Hansra,NL McCullum,2,0,2,NA,0,NA,NA,NA,0
+433587,2nd innings,Canada,New Zealand,22.2,A Bagai,AS Hansra,NL McCullum,1,0,1,NA,0,NA,NA,NA,0
+433587,2nd innings,Canada,New Zealand,22.3,AS Hansra,A Bagai,NL McCullum,0,0,0,NA,0,NA,NA,NA,0
+433587,2nd innings,Canada,New Zealand,22.4,AS Hansra,A Bagai,NL McCullum,0,0,0,NA,0,NA,NA,NA,0
+433587,2nd innings,Canada,New Zealand,22.5,AS Hansra,A Bagai,NL McCullum,0,0,0,NA,0,NA,NA,NA,0
+433587,2nd innings,Canada,New Zealand,22.6,AS Hansra,A Bagai,NL McCullum,1,0,1,NA,0,NA,NA,NA,0
+433587,2nd innings,Canada,New Zealand,23.1,AS Hansra,A Bagai,TG Southee,0,0,0,NA,0,NA,NA,NA,0
+433587,2nd innings,Canada,New Zealand,23.2,AS Hansra,A Bagai,TG Southee,0,0,0,NA,0,NA,NA,NA,0
+433587,2nd innings,Canada,New Zealand,23.3,AS Hansra,A Bagai,TG Southee,1,0,1,NA,0,NA,NA,NA,0
+433587,2nd innings,Canada,New Zealand,23.4,A Bagai,AS Hansra,TG Southee,0,0,0,NA,0,NA,NA,NA,0
+433587,2nd innings,Canada,New Zealand,23.5,A Bagai,AS Hansra,TG Southee,0,0,0,NA,0,NA,NA,NA,0
+433587,2nd innings,Canada,New Zealand,23.6,A Bagai,AS Hansra,TG Southee,0,0,0,NA,0,NA,NA,NA,0
+433587,2nd innings,Canada,New Zealand,24.1,AS Hansra,A Bagai,NL McCullum,0,0,0,NA,0,NA,NA,NA,0
+433587,2nd innings,Canada,New Zealand,24.2,AS Hansra,A Bagai,NL McCullum,0,0,0,NA,0,NA,NA,NA,0
+433587,2nd innings,Canada,New Zealand,24.3,AS Hansra,A Bagai,NL McCullum,1,0,1,NA,0,NA,NA,NA,0
+433587,2nd innings,Canada,New Zealand,24.4,A Bagai,AS Hansra,NL McCullum,2,0,2,NA,0,NA,NA,NA,0
+433587,2nd innings,Canada,New Zealand,24.5,A Bagai,AS Hansra,NL McCullum,4,0,4,NA,0,NA,NA,NA,0
+433587,2nd innings,Canada,New Zealand,24.6,A Bagai,AS Hansra,NL McCullum,2,0,2,NA,0,NA,NA,NA,0
+433587,2nd innings,Canada,New Zealand,25.1,AS Hansra,A Bagai,TG Southee,0,0,0,NA,0,NA,NA,NA,0
+433587,2nd innings,Canada,New Zealand,25.2,AS Hansra,A Bagai,TG Southee,0,0,0,NA,0,NA,NA,NA,0
+433587,2nd innings,Canada,New Zealand,25.3,AS Hansra,A Bagai,TG Southee,0,0,0,NA,0,NA,NA,NA,0
+433587,2nd innings,Canada,New Zealand,25.4,AS Hansra,A Bagai,TG Southee,0,0,0,NA,0,NA,NA,NA,0
+433587,2nd innings,Canada,New Zealand,25.5,AS Hansra,A Bagai,TG Southee,4,0,4,NA,0,NA,NA,NA,0
+433587,2nd innings,Canada,New Zealand,25.6,AS Hansra,A Bagai,TG Southee,1,0,1,NA,0,NA,NA,NA,0
+433587,2nd innings,Canada,New Zealand,26.1,AS Hansra,A Bagai,KS Williamson,0,0,0,NA,0,NA,NA,NA,0
+433587,2nd innings,Canada,New Zealand,26.2,AS Hansra,A Bagai,KS Williamson,1,0,1,NA,0,NA,NA,NA,0
+433587,2nd innings,Canada,New Zealand,26.3,A Bagai,AS Hansra,KS Williamson,1,0,1,NA,0,NA,NA,NA,0
+433587,2nd innings,Canada,New Zealand,26.4,AS Hansra,A Bagai,KS Williamson,1,0,1,NA,0,NA,NA,NA,0
+433587,2nd innings,Canada,New Zealand,26.5,A Bagai,AS Hansra,KS Williamson,4,0,4,NA,0,NA,NA,NA,0
+433587,2nd innings,Canada,New Zealand,26.6,A Bagai,AS Hansra,KS Williamson,1,0,1,NA,0,NA,NA,NA,0
+433587,2nd innings,Canada,New Zealand,27.1,A Bagai,AS Hansra,SB Styris,1,0,1,NA,0,NA,NA,NA,0
+433587,2nd innings,Canada,New Zealand,27.2,AS Hansra,A Bagai,SB Styris,1,0,1,NA,0,NA,NA,NA,0
+433587,2nd innings,Canada,New Zealand,27.3,A Bagai,AS Hansra,SB Styris,0,0,0,NA,0,NA,NA,NA,0
+433587,2nd innings,Canada,New Zealand,27.4,A Bagai,AS Hansra,SB Styris,0,0,0,NA,0,NA,NA,NA,0
+433587,2nd innings,Canada,New Zealand,27.5,A Bagai,AS Hansra,SB Styris,1,0,1,NA,0,NA,NA,NA,0
+433587,2nd innings,Canada,New Zealand,27.6,AS Hansra,A Bagai,SB Styris,0,0,0,NA,0,NA,NA,NA,0
+433587,2nd innings,Canada,New Zealand,28.1,A Bagai,AS Hansra,KS Williamson,0,0,0,NA,0,NA,NA,NA,0
+433587,2nd innings,Canada,New Zealand,28.2,A Bagai,AS Hansra,KS Williamson,1,0,1,NA,0,NA,NA,NA,0
+433587,2nd innings,Canada,New Zealand,28.3,AS Hansra,A Bagai,KS Williamson,0,0,0,NA,0,NA,NA,NA,0
+433587,2nd innings,Canada,New Zealand,28.4,AS Hansra,A Bagai,KS Williamson,2,0,2,NA,0,NA,NA,NA,0
+433587,2nd innings,Canada,New Zealand,28.5,AS Hansra,A Bagai,KS Williamson,0,0,0,NA,0,NA,NA,NA,0
+433587,2nd innings,Canada,New Zealand,28.6,AS Hansra,A Bagai,KS Williamson,0,0,0,NA,0,NA,NA,NA,0
+433587,2nd innings,Canada,New Zealand,29.1,A Bagai,AS Hansra,SB Styris,2,0,2,NA,0,NA,NA,NA,0
+433587,2nd innings,Canada,New Zealand,29.2,A Bagai,AS Hansra,SB Styris,4,0,4,NA,0,NA,NA,NA,0
+433587,2nd innings,Canada,New Zealand,29.3,A Bagai,AS Hansra,SB Styris,1,0,1,NA,0,NA,NA,NA,0
+433587,2nd innings,Canada,New Zealand,29.4,AS Hansra,A Bagai,SB Styris,1,0,1,NA,0,NA,NA,NA,0
+433587,2nd innings,Canada,New Zealand,29.5,A Bagai,AS Hansra,SB Styris,1,0,1,NA,0,NA,NA,NA,0
+433587,2nd innings,Canada,New Zealand,29.6,AS Hansra,A Bagai,SB Styris,1,0,1,NA,0,NA,NA,NA,0
+433587,2nd innings,Canada,New Zealand,30.1,AS Hansra,A Bagai,KS Williamson,4,0,4,NA,0,NA,NA,NA,0
+433587,2nd innings,Canada,New Zealand,30.2,AS Hansra,A Bagai,KS Williamson,0,0,0,NA,0,NA,NA,NA,0
+433587,2nd innings,Canada,New Zealand,30.3,AS Hansra,A Bagai,KS Williamson,0,0,0,NA,0,NA,NA,NA,0
+433587,2nd innings,Canada,New Zealand,30.4,AS Hansra,A Bagai,KS Williamson,1,0,1,NA,0,NA,NA,NA,0
+433587,2nd innings,Canada,New Zealand,30.5,A Bagai,AS Hansra,KS Williamson,1,0,1,NA,0,NA,NA,NA,0
+433587,2nd innings,Canada,New Zealand,30.6,AS Hansra,A Bagai,KS Williamson,0,0,0,NA,0,NA,NA,NA,0
+433587,2nd innings,Canada,New Zealand,31.1,A Bagai,AS Hansra,SB Styris,0,0,0,NA,0,NA,NA,NA,0
+433587,2nd innings,Canada,New Zealand,31.2,A Bagai,AS Hansra,SB Styris,0,0,0,NA,0,NA,NA,NA,0
+433587,2nd innings,Canada,New Zealand,31.3,A Bagai,AS Hansra,SB Styris,1,0,1,NA,0,NA,NA,NA,0
+433587,2nd innings,Canada,New Zealand,31.4,AS Hansra,A Bagai,SB Styris,0,0,0,NA,0,NA,NA,NA,0
+433587,2nd innings,Canada,New Zealand,31.5,AS Hansra,A Bagai,SB Styris,1,0,1,NA,0,NA,NA,NA,0
+433587,2nd innings,Canada,New Zealand,31.6,A Bagai,AS Hansra,SB Styris,0,0,0,NA,0,NA,NA,NA,0
+433587,2nd innings,Canada,New Zealand,32.1,AS Hansra,A Bagai,KS Williamson,1,0,1,NA,0,NA,NA,NA,0
+433587,2nd innings,Canada,New Zealand,32.2,A Bagai,AS Hansra,KS Williamson,1,0,1,NA,0,NA,NA,NA,0
+433587,2nd innings,Canada,New Zealand,32.3,AS Hansra,A Bagai,KS Williamson,0,0,0,NA,0,NA,NA,NA,0
+433587,2nd innings,Canada,New Zealand,32.4,AS Hansra,A Bagai,KS Williamson,0,5,5,wides,0,NA,NA,NA,0
+433587,2nd innings,Canada,New Zealand,32.5,AS Hansra,A Bagai,KS Williamson,0,0,0,NA,0,NA,NA,NA,0
+433587,2nd innings,Canada,New Zealand,32.6,AS Hansra,A Bagai,KS Williamson,1,0,1,NA,0,NA,NA,NA,0
+433587,2nd innings,Canada,New Zealand,32.7,A Bagai,AS Hansra,KS Williamson,1,0,1,NA,0,NA,NA,NA,0
+433587,2nd innings,Canada,New Zealand,33.1,A Bagai,AS Hansra,SB Styris,1,0,1,NA,0,NA,NA,NA,0
+433587,2nd innings,Canada,New Zealand,33.2,AS Hansra,A Bagai,SB Styris,1,0,1,NA,0,NA,NA,NA,0
+433587,2nd innings,Canada,New Zealand,33.3,A Bagai,AS Hansra,SB Styris,2,0,2,NA,0,NA,NA,NA,0
+433587,2nd innings,Canada,New Zealand,33.4,A Bagai,AS Hansra,SB Styris,1,0,1,NA,0,NA,NA,NA,0
+433587,2nd innings,Canada,New Zealand,33.5,AS Hansra,A Bagai,SB Styris,0,0,0,NA,0,NA,NA,NA,0
+433587,2nd innings,Canada,New Zealand,33.6,AS Hansra,A Bagai,SB Styris,1,0,1,NA,0,NA,NA,NA,0
+433587,2nd innings,Canada,New Zealand,34.1,AS Hansra,A Bagai,NL McCullum,1,0,1,NA,0,NA,NA,NA,0
+433587,2nd innings,Canada,New Zealand,34.2,A Bagai,AS Hansra,NL McCullum,1,0,1,NA,0,NA,NA,NA,0
+433587,2nd innings,Canada,New Zealand,34.3,AS Hansra,A Bagai,NL McCullum,1,0,1,NA,0,NA,NA,NA,0
+433587,2nd innings,Canada,New Zealand,34.4,A Bagai,AS Hansra,NL McCullum,2,0,2,NA,0,NA,NA,NA,0
+433587,2nd innings,Canada,New Zealand,34.5,A Bagai,AS Hansra,NL McCullum,1,0,1,NA,0,NA,NA,NA,0
+433587,2nd innings,Canada,New Zealand,34.6,AS Hansra,A Bagai,NL McCullum,0,0,0,NA,0,NA,NA,NA,0
+433587,2nd innings,Canada,New Zealand,35.1,A Bagai,AS Hansra,SB Styris,0,0,0,NA,0,NA,NA,NA,0
+433587,2nd innings,Canada,New Zealand,35.2,A Bagai,AS Hansra,SB Styris,1,0,1,NA,0,NA,NA,NA,0
+433587,2nd innings,Canada,New Zealand,35.3,AS Hansra,A Bagai,SB Styris,0,0,0,NA,0,NA,NA,NA,0
+433587,2nd innings,Canada,New Zealand,35.4,AS Hansra,A Bagai,SB Styris,1,0,1,NA,0,NA,NA,NA,0
+433587,2nd innings,Canada,New Zealand,35.5,A Bagai,AS Hansra,SB Styris,0,0,0,NA,0,NA,NA,NA,0
+433587,2nd innings,Canada,New Zealand,35.6,A Bagai,AS Hansra,SB Styris,4,0,4,NA,0,NA,NA,NA,0
+433587,2nd innings,Canada,New Zealand,36.1,AS Hansra,A Bagai,NL McCullum,1,0,1,NA,0,NA,NA,NA,0
+433587,2nd innings,Canada,New Zealand,36.2,A Bagai,AS Hansra,NL McCullum,0,0,0,NA,0,NA,NA,NA,0
+433587,2nd innings,Canada,New Zealand,36.3,A Bagai,AS Hansra,NL McCullum,2,0,2,NA,0,NA,NA,NA,0
+433587,2nd innings,Canada,New Zealand,36.4,A Bagai,AS Hansra,NL McCullum,1,0,1,NA,0,NA,NA,NA,0
+433587,2nd innings,Canada,New Zealand,36.5,AS Hansra,A Bagai,NL McCullum,1,0,1,NA,0,NA,NA,NA,0
+433587,2nd innings,Canada,New Zealand,36.6,A Bagai,AS Hansra,NL McCullum,0,0,0,NA,1,caught,A Bagai,BB McCullum,0
+433587,2nd innings,Canada,New Zealand,37.1,AS Hansra,Rizwan Cheema,SB Styris,1,0,1,NA,0,NA,NA,NA,0
+433587,2nd innings,Canada,New Zealand,37.2,Rizwan Cheema,AS Hansra,SB Styris,0,0,0,NA,0,NA,NA,NA,0
+433587,2nd innings,Canada,New Zealand,37.3,Rizwan Cheema,AS Hansra,SB Styris,1,0,1,NA,0,NA,NA,NA,0
+433587,2nd innings,Canada,New Zealand,37.4,AS Hansra,Rizwan Cheema,SB Styris,1,0,1,NA,0,NA,NA,NA,0
+433587,2nd innings,Canada,New Zealand,37.5,Rizwan Cheema,AS Hansra,SB Styris,1,0,1,NA,0,NA,NA,NA,0
+433587,2nd innings,Canada,New Zealand,37.6,AS Hansra,Rizwan Cheema,SB Styris,0,0,0,NA,0,NA,NA,NA,0
+433587,2nd innings,Canada,New Zealand,38.1,Rizwan Cheema,AS Hansra,JDP Oram,0,0,0,NA,1,caught,Rizwan Cheema,BB McCullum,0
+433587,2nd innings,Canada,New Zealand,38.2,JM Davison,AS Hansra,JDP Oram,0,0,0,NA,0,NA,NA,NA,0
+433587,2nd innings,Canada,New Zealand,38.3,JM Davison,AS Hansra,JDP Oram,4,0,4,NA,0,NA,NA,NA,0
+433587,2nd innings,Canada,New Zealand,38.4,JM Davison,AS Hansra,JDP Oram,0,0,0,NA,0,NA,NA,NA,0
+433587,2nd innings,Canada,New Zealand,38.5,JM Davison,AS Hansra,JDP Oram,0,0,0,NA,0,NA,NA,NA,0
+433587,2nd innings,Canada,New Zealand,38.6,JM Davison,AS Hansra,JDP Oram,0,0,0,NA,0,NA,NA,NA,0
+433587,2nd innings,Canada,New Zealand,39.1,AS Hansra,JM Davison,SB Styris,0,0,0,NA,0,NA,NA,NA,0
+433587,2nd innings,Canada,New Zealand,39.2,AS Hansra,JM Davison,SB Styris,0,0,0,NA,0,NA,NA,NA,0
+433587,2nd innings,Canada,New Zealand,39.3,AS Hansra,JM Davison,SB Styris,0,0,0,NA,0,NA,NA,NA,0
+433587,2nd innings,Canada,New Zealand,39.4,AS Hansra,JM Davison,SB Styris,1,0,1,NA,0,NA,NA,NA,0
+433587,2nd innings,Canada,New Zealand,39.5,JM Davison,AS Hansra,SB Styris,0,0,0,NA,0,NA,NA,NA,0
+433587,2nd innings,Canada,New Zealand,39.6,JM Davison,AS Hansra,SB Styris,0,0,0,NA,0,NA,NA,NA,0
+433587,2nd innings,Canada,New Zealand,40.1,AS Hansra,JM Davison,JDP Oram,0,1,1,byes,0,NA,NA,NA,0
+433587,2nd innings,Canada,New Zealand,40.2,JM Davison,WD Balaji Rao,JDP Oram,1,0,1,NA,0,NA,NA,NA,0
+433587,2nd innings,Canada,New Zealand,40.3,WD Balaji Rao,JM Davison,JDP Oram,1,0,1,NA,0,NA,NA,NA,0
+433587,2nd innings,Canada,New Zealand,40.4,JM Davison,WD Balaji Rao,JDP Oram,0,0,0,NA,0,NA,NA,NA,0
+433587,2nd innings,Canada,New Zealand,40.5,JM Davison,WD Balaji Rao,JDP Oram,1,0,1,NA,0,NA,NA,NA,0
+433587,2nd innings,Canada,New Zealand,40.6,WD Balaji Rao,JM Davison,JDP Oram,4,0,4,NA,0,NA,NA,NA,0
+433587,2nd innings,Canada,New Zealand,41.1,JM Davison,WD Balaji Rao,TG Southee,0,1,1,legbyes,0,NA,NA,NA,0
+433587,2nd innings,Canada,New Zealand,41.2,WD Balaji Rao,JM Davison,TG Southee,0,0,0,NA,0,NA,NA,NA,0
+433587,2nd innings,Canada,New Zealand,41.3,WD Balaji Rao,JM Davison,TG Southee,1,0,1,NA,0,NA,NA,NA,0
+433587,2nd innings,Canada,New Zealand,41.4,JM Davison,WD Balaji Rao,TG Southee,4,0,4,NA,0,NA,NA,NA,0
+433587,2nd innings,Canada,New Zealand,41.5,JM Davison,WD Balaji Rao,TG Southee,1,0,1,NA,0,NA,NA,NA,0
+433587,2nd innings,Canada,New Zealand,41.6,WD Balaji Rao,JM Davison,TG Southee,0,1,1,wides,0,NA,NA,NA,0
+433587,2nd innings,Canada,New Zealand,41.7,WD Balaji Rao,JM Davison,TG Southee,0,1,1,legbyes,0,NA,NA,NA,0
+433587,2nd innings,Canada,New Zealand,42.1,WD Balaji Rao,JM Davison,JDP Oram,2,0,2,NA,0,NA,NA,NA,0
+433587,2nd innings,Canada,New Zealand,42.2,WD Balaji Rao,JM Davison,JDP Oram,1,0,1,NA,0,NA,NA,NA,0
+433587,2nd innings,Canada,New Zealand,42.3,JM Davison,WD Balaji Rao,JDP Oram,1,0,1,NA,0,NA,NA,NA,0
+433587,2nd innings,Canada,New Zealand,42.4,WD Balaji Rao,JM Davison,JDP Oram,0,0,0,NA,0,NA,NA,NA,0
+433587,2nd innings,Canada,New Zealand,42.5,WD Balaji Rao,JM Davison,JDP Oram,0,0,0,NA,1,caught,WD Balaji Rao,NL McCullum,0
+433587,2nd innings,Canada,New Zealand,42.6,JM Davison,HS Baidwan,JDP Oram,1,0,1,NA,0,NA,NA,NA,0
+433587,2nd innings,Canada,New Zealand,43.1,JM Davison,HS Baidwan,TG Southee,0,0,0,NA,0,NA,NA,NA,0
+433587,2nd innings,Canada,New Zealand,43.2,JM Davison,HS Baidwan,TG Southee,0,4,4,byes,0,NA,NA,NA,0
+433587,2nd innings,Canada,New Zealand,43.3,JM Davison,HS Baidwan,TG Southee,0,0,0,NA,0,NA,NA,NA,0
+433587,2nd innings,Canada,New Zealand,43.4,JM Davison,HS Baidwan,TG Southee,1,0,1,NA,0,NA,NA,NA,0
+433587,2nd innings,Canada,New Zealand,43.5,HS Baidwan,JM Davison,TG Southee,1,0,1,NA,0,NA,NA,NA,0
+433587,2nd innings,Canada,New Zealand,43.6,JM Davison,HS Baidwan,TG Southee,1,0,1,NA,0,NA,NA,NA,0
+433587,2nd innings,Canada,New Zealand,44.1,JM Davison,HS Baidwan,JDP Oram,0,0,0,NA,1,run out,JM Davison,BB McCullum,0
+433587,2nd innings,Canada,New Zealand,44.2,HS Baidwan,Khurram Chohan,JDP Oram,2,0,2,NA,0,NA,NA,NA,0
+433587,2nd innings,Canada,New Zealand,44.3,HS Baidwan,Khurram Chohan,JDP Oram,4,0,4,NA,0,NA,NA,NA,0
+433587,2nd innings,Canada,New Zealand,44.4,HS Baidwan,Khurram Chohan,JDP Oram,0,0,0,NA,0,NA,NA,NA,0
+433587,2nd innings,Canada,New Zealand,44.5,HS Baidwan,Khurram Chohan,JDP Oram,1,0,1,NA,0,NA,NA,NA,0
+433587,2nd innings,Canada,New Zealand,44.6,Khurram Chohan,HS Baidwan,JDP Oram,1,0,1,NA,0,NA,NA,NA,0
+433587,2nd innings,Canada,New Zealand,45.1,Khurram Chohan,HS Baidwan,TG Southee,1,0,1,NA,0,NA,NA,NA,0
+433587,2nd innings,Canada,New Zealand,45.2,HS Baidwan,Khurram Chohan,TG Southee,0,0,0,NA,1,caught,HS Baidwan,JEC Franklin,0
+433587,2nd innings,Canada,New Zealand,45.3,AS Hansra,Khurram Chohan,TG Southee,0,0,0,NA,0,NA,NA,NA,0
+433587,2nd innings,Canada,New Zealand,45.4,AS Hansra,Khurram Chohan,TG Southee,0,0,0,NA,0,NA,NA,NA,0
+433587,2nd innings,Canada,New Zealand,45.5,AS Hansra,Khurram Chohan,TG Southee,0,0,0,NA,0,NA,NA,NA,0
+433587,2nd innings,Canada,New Zealand,45.6,AS Hansra,Khurram Chohan,TG Southee,0,0,0,NA,0,NA,NA,NA,0
+433587,2nd innings,Canada,New Zealand,46.1,Khurram Chohan,AS Hansra,JDP Oram,0,0,0,NA,0,NA,NA,NA,0
+433587,2nd innings,Canada,New Zealand,46.2,Khurram Chohan,AS Hansra,JDP Oram,1,0,1,NA,0,NA,NA,NA,0
+433587,2nd innings,Canada,New Zealand,46.3,AS Hansra,Khurram Chohan,JDP Oram,4,0,4,NA,0,NA,NA,NA,0
+433587,2nd innings,Canada,New Zealand,46.4,AS Hansra,Khurram Chohan,JDP Oram,1,0,1,NA,0,NA,NA,NA,0
+433587,2nd innings,Canada,New Zealand,46.5,Khurram Chohan,AS Hansra,JDP Oram,1,0,1,NA,0,NA,NA,NA,0
+433587,2nd innings,Canada,New Zealand,46.6,AS Hansra,Khurram Chohan,JDP Oram,0,1,1,wides,0,NA,NA,NA,0
+433587,2nd innings,Canada,New Zealand,46.7,AS Hansra,Khurram Chohan,JDP Oram,4,0,4,NA,0,NA,NA,NA,0
+433587,2nd innings,Canada,New Zealand,47.1,Khurram Chohan,AS Hansra,TG Southee,0,0,0,NA,0,NA,NA,NA,0
+433587,2nd innings,Canada,New Zealand,47.2,Khurram Chohan,AS Hansra,TG Southee,0,0,0,NA,0,NA,NA,NA,0
+433587,2nd innings,Canada,New Zealand,47.3,Khurram Chohan,AS Hansra,TG Southee,0,0,0,NA,0,NA,NA,NA,0
+433587,2nd innings,Canada,New Zealand,47.4,Khurram Chohan,AS Hansra,TG Southee,1,0,1,NA,0,NA,NA,NA,0
+433587,2nd innings,Canada,New Zealand,47.5,AS Hansra,Khurram Chohan,TG Southee,0,0,0,NA,0,NA,NA,NA,0
+433587,2nd innings,Canada,New Zealand,47.6,AS Hansra,Khurram Chohan,TG Southee,0,0,0,NA,0,NA,NA,NA,0
+433587,2nd innings,Canada,New Zealand,48.1,Khurram Chohan,AS Hansra,NL McCullum,4,0,4,NA,0,NA,NA,NA,0
+433587,2nd innings,Canada,New Zealand,48.2,Khurram Chohan,AS Hansra,NL McCullum,6,0,6,NA,0,NA,NA,NA,0
+433587,2nd innings,Canada,New Zealand,48.3,Khurram Chohan,AS Hansra,NL McCullum,1,0,1,NA,0,NA,NA,NA,0
+433587,2nd innings,Canada,New Zealand,48.4,AS Hansra,Khurram Chohan,NL McCullum,1,0,1,NA,0,NA,NA,NA,0
+433587,2nd innings,Canada,New Zealand,48.5,Khurram Chohan,AS Hansra,NL McCullum,1,0,1,NA,0,NA,NA,NA,0
+433587,2nd innings,Canada,New Zealand,48.6,AS Hansra,Khurram Chohan,NL McCullum,6,0,6,NA,0,NA,NA,NA,0
+433587,2nd innings,Canada,New Zealand,49.1,Khurram Chohan,AS Hansra,JD Ryder,1,0,1,NA,0,NA,NA,NA,0
+433587,2nd innings,Canada,New Zealand,49.2,AS Hansra,Khurram Chohan,JD Ryder,0,1,1,wides,0,NA,NA,NA,0
+433587,2nd innings,Canada,New Zealand,49.3,AS Hansra,Khurram Chohan,JD Ryder,1,0,1,NA,0,NA,NA,NA,0
+433587,2nd innings,Canada,New Zealand,49.4,Khurram Chohan,AS Hansra,JD Ryder,4,0,4,NA,0,NA,NA,NA,0
+433587,2nd innings,Canada,New Zealand,49.5,Khurram Chohan,AS Hansra,JD Ryder,0,0,0,NA,1,caught,Khurram Chohan,LRPL Taylor,0
+433587,2nd innings,Canada,New Zealand,49.6,AS Hansra,H Osinde,JD Ryder,0,0,0,NA,0,NA,NA,NA,0
+433587,2nd innings,Canada,New Zealand,49.7,AS Hansra,H Osinde,JD Ryder,0,0,0,NA,0,NA,NA,NA,0

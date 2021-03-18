@@ -1,0 +1,602 @@
+match_id,innings,team,opponent,ball,batsman,non_striker,bowler,scored_runs,extras,total,extra_type,wicket,wicket_type,player_out,fielders,winner
+1085969,1st innings,Australia,South Africa,0.1,BL Mooney,NE Bolton,S Ismail,1,0,1,NA,0,NA,NA,NA,1
+1085969,1st innings,Australia,South Africa,0.2,NE Bolton,BL Mooney,S Ismail,0,0,0,NA,0,NA,NA,NA,1
+1085969,1st innings,Australia,South Africa,0.3,NE Bolton,BL Mooney,S Ismail,0,0,0,NA,0,NA,NA,NA,1
+1085969,1st innings,Australia,South Africa,0.4,NE Bolton,BL Mooney,S Ismail,0,0,0,NA,0,NA,NA,NA,1
+1085969,1st innings,Australia,South Africa,0.5,NE Bolton,BL Mooney,S Ismail,0,0,0,NA,0,NA,NA,NA,1
+1085969,1st innings,Australia,South Africa,0.6,NE Bolton,BL Mooney,S Ismail,0,0,0,NA,0,NA,NA,NA,1
+1085969,1st innings,Australia,South Africa,1.1,BL Mooney,NE Bolton,M Kapp,1,0,1,NA,0,NA,NA,NA,1
+1085969,1st innings,Australia,South Africa,1.2,NE Bolton,BL Mooney,M Kapp,0,0,0,NA,0,NA,NA,NA,1
+1085969,1st innings,Australia,South Africa,1.3,NE Bolton,BL Mooney,M Kapp,0,0,0,NA,0,NA,NA,NA,1
+1085969,1st innings,Australia,South Africa,1.4,NE Bolton,BL Mooney,M Kapp,0,0,0,NA,0,NA,NA,NA,1
+1085969,1st innings,Australia,South Africa,1.5,NE Bolton,BL Mooney,M Kapp,0,0,0,NA,0,NA,NA,NA,1
+1085969,1st innings,Australia,South Africa,1.6,NE Bolton,BL Mooney,M Kapp,0,0,0,NA,0,NA,NA,NA,1
+1085969,1st innings,Australia,South Africa,2.1,BL Mooney,NE Bolton,S Ismail,0,0,0,NA,0,NA,NA,NA,1
+1085969,1st innings,Australia,South Africa,2.2,BL Mooney,NE Bolton,S Ismail,0,0,0,NA,0,NA,NA,NA,1
+1085969,1st innings,Australia,South Africa,2.3,BL Mooney,NE Bolton,S Ismail,0,0,0,NA,0,NA,NA,NA,1
+1085969,1st innings,Australia,South Africa,2.4,BL Mooney,NE Bolton,S Ismail,0,0,0,NA,0,NA,NA,NA,1
+1085969,1st innings,Australia,South Africa,2.5,BL Mooney,NE Bolton,S Ismail,1,0,1,NA,0,NA,NA,NA,1
+1085969,1st innings,Australia,South Africa,2.6,NE Bolton,BL Mooney,S Ismail,0,0,0,NA,0,NA,NA,NA,1
+1085969,1st innings,Australia,South Africa,3.1,BL Mooney,NE Bolton,M Kapp,0,0,0,NA,0,NA,NA,NA,1
+1085969,1st innings,Australia,South Africa,3.2,BL Mooney,NE Bolton,M Kapp,0,0,0,NA,0,NA,NA,NA,1
+1085969,1st innings,Australia,South Africa,3.3,BL Mooney,NE Bolton,M Kapp,1,0,1,NA,0,NA,NA,NA,1
+1085969,1st innings,Australia,South Africa,3.4,NE Bolton,BL Mooney,M Kapp,1,0,1,NA,0,NA,NA,NA,1
+1085969,1st innings,Australia,South Africa,3.5,BL Mooney,NE Bolton,M Kapp,0,0,0,NA,0,NA,NA,NA,1
+1085969,1st innings,Australia,South Africa,3.6,BL Mooney,NE Bolton,M Kapp,1,0,1,NA,0,NA,NA,NA,1
+1085969,1st innings,Australia,South Africa,4.1,BL Mooney,NE Bolton,S Ismail,4,0,4,NA,0,NA,NA,NA,1
+1085969,1st innings,Australia,South Africa,4.2,BL Mooney,NE Bolton,S Ismail,0,0,0,NA,0,NA,NA,NA,1
+1085969,1st innings,Australia,South Africa,4.3,BL Mooney,NE Bolton,S Ismail,0,0,0,NA,0,NA,NA,NA,1
+1085969,1st innings,Australia,South Africa,4.4,BL Mooney,NE Bolton,S Ismail,1,0,1,NA,0,NA,NA,NA,1
+1085969,1st innings,Australia,South Africa,4.5,NE Bolton,BL Mooney,S Ismail,4,0,4,NA,0,NA,NA,NA,1
+1085969,1st innings,Australia,South Africa,4.6,NE Bolton,BL Mooney,S Ismail,0,0,0,NA,0,NA,NA,NA,1
+1085969,1st innings,Australia,South Africa,5.1,BL Mooney,NE Bolton,M Kapp,0,0,0,NA,0,NA,NA,NA,1
+1085969,1st innings,Australia,South Africa,5.2,BL Mooney,NE Bolton,M Kapp,0,0,0,NA,0,NA,NA,NA,1
+1085969,1st innings,Australia,South Africa,5.3,BL Mooney,NE Bolton,M Kapp,1,0,1,NA,0,NA,NA,NA,1
+1085969,1st innings,Australia,South Africa,5.4,NE Bolton,BL Mooney,M Kapp,0,0,0,NA,0,NA,NA,NA,1
+1085969,1st innings,Australia,South Africa,5.5,NE Bolton,BL Mooney,M Kapp,1,0,1,NA,0,NA,NA,NA,1
+1085969,1st innings,Australia,South Africa,5.6,BL Mooney,NE Bolton,M Kapp,4,0,4,NA,0,NA,NA,NA,1
+1085969,1st innings,Australia,South Africa,6.1,NE Bolton,BL Mooney,S Ismail,1,0,1,NA,0,NA,NA,NA,1
+1085969,1st innings,Australia,South Africa,6.2,BL Mooney,NE Bolton,S Ismail,0,0,0,NA,0,NA,NA,NA,1
+1085969,1st innings,Australia,South Africa,6.3,BL Mooney,NE Bolton,S Ismail,1,0,1,NA,0,NA,NA,NA,1
+1085969,1st innings,Australia,South Africa,6.4,NE Bolton,BL Mooney,S Ismail,1,0,1,NA,0,NA,NA,NA,1
+1085969,1st innings,Australia,South Africa,6.5,BL Mooney,NE Bolton,S Ismail,0,0,0,NA,0,NA,NA,NA,1
+1085969,1st innings,Australia,South Africa,6.6,BL Mooney,NE Bolton,S Ismail,0,0,0,NA,0,NA,NA,NA,1
+1085969,1st innings,Australia,South Africa,7.1,NE Bolton,BL Mooney,M Kapp,0,0,0,NA,0,NA,NA,NA,1
+1085969,1st innings,Australia,South Africa,7.2,NE Bolton,BL Mooney,M Kapp,0,0,0,NA,0,NA,NA,NA,1
+1085969,1st innings,Australia,South Africa,7.3,NE Bolton,BL Mooney,M Kapp,4,0,4,NA,0,NA,NA,NA,1
+1085969,1st innings,Australia,South Africa,7.4,NE Bolton,BL Mooney,M Kapp,0,0,0,NA,0,NA,NA,NA,1
+1085969,1st innings,Australia,South Africa,7.5,NE Bolton,BL Mooney,M Kapp,1,0,1,NA,0,NA,NA,NA,1
+1085969,1st innings,Australia,South Africa,7.6,BL Mooney,NE Bolton,M Kapp,0,0,0,NA,0,NA,NA,NA,1
+1085969,1st innings,Australia,South Africa,8.1,NE Bolton,BL Mooney,A Khaka,0,0,0,NA,0,NA,NA,NA,1
+1085969,1st innings,Australia,South Africa,8.2,NE Bolton,BL Mooney,A Khaka,0,1,1,legbyes,0,NA,NA,NA,1
+1085969,1st innings,Australia,South Africa,8.3,BL Mooney,NE Bolton,A Khaka,0,0,0,NA,0,NA,NA,NA,1
+1085969,1st innings,Australia,South Africa,8.4,BL Mooney,NE Bolton,A Khaka,1,0,1,NA,0,NA,NA,NA,1
+1085969,1st innings,Australia,South Africa,8.5,NE Bolton,BL Mooney,A Khaka,0,0,0,NA,0,NA,NA,NA,1
+1085969,1st innings,Australia,South Africa,8.6,NE Bolton,BL Mooney,A Khaka,2,0,2,NA,0,NA,NA,NA,1
+1085969,1st innings,Australia,South Africa,9.1,BL Mooney,NE Bolton,M Daniels,1,0,1,NA,0,NA,NA,NA,1
+1085969,1st innings,Australia,South Africa,9.2,NE Bolton,BL Mooney,M Daniels,0,0,0,NA,0,NA,NA,NA,1
+1085969,1st innings,Australia,South Africa,9.3,NE Bolton,BL Mooney,M Daniels,2,0,2,NA,0,NA,NA,NA,1
+1085969,1st innings,Australia,South Africa,9.4,NE Bolton,BL Mooney,M Daniels,0,1,1,wides,0,NA,NA,NA,1
+1085969,1st innings,Australia,South Africa,9.5,NE Bolton,BL Mooney,M Daniels,0,0,0,NA,0,NA,NA,NA,1
+1085969,1st innings,Australia,South Africa,9.6,NE Bolton,BL Mooney,M Daniels,2,0,2,NA,0,NA,NA,NA,1
+1085969,1st innings,Australia,South Africa,9.7,NE Bolton,BL Mooney,M Daniels,1,0,1,NA,0,NA,NA,NA,1
+1085969,1st innings,Australia,South Africa,10.1,NE Bolton,BL Mooney,A Khaka,0,0,0,NA,0,NA,NA,NA,1
+1085969,1st innings,Australia,South Africa,10.2,NE Bolton,BL Mooney,A Khaka,0,0,0,NA,0,NA,NA,NA,1
+1085969,1st innings,Australia,South Africa,10.3,NE Bolton,BL Mooney,A Khaka,0,0,0,NA,0,NA,NA,NA,1
+1085969,1st innings,Australia,South Africa,10.4,NE Bolton,BL Mooney,A Khaka,1,0,1,NA,0,NA,NA,NA,1
+1085969,1st innings,Australia,South Africa,10.5,BL Mooney,NE Bolton,A Khaka,0,0,0,NA,0,NA,NA,NA,1
+1085969,1st innings,Australia,South Africa,10.6,BL Mooney,NE Bolton,A Khaka,1,0,1,NA,0,NA,NA,NA,1
+1085969,1st innings,Australia,South Africa,11.1,BL Mooney,NE Bolton,M Daniels,0,0,0,NA,0,NA,NA,NA,1
+1085969,1st innings,Australia,South Africa,11.2,BL Mooney,NE Bolton,M Daniels,0,0,0,NA,0,NA,NA,NA,1
+1085969,1st innings,Australia,South Africa,11.3,BL Mooney,NE Bolton,M Daniels,4,0,4,NA,0,NA,NA,NA,1
+1085969,1st innings,Australia,South Africa,11.4,BL Mooney,NE Bolton,M Daniels,0,0,0,NA,0,NA,NA,NA,1
+1085969,1st innings,Australia,South Africa,11.5,BL Mooney,NE Bolton,M Daniels,0,0,0,NA,0,NA,NA,NA,1
+1085969,1st innings,Australia,South Africa,11.6,BL Mooney,NE Bolton,M Daniels,0,0,0,NA,0,NA,NA,NA,1
+1085969,1st innings,Australia,South Africa,12.1,NE Bolton,BL Mooney,A Khaka,0,0,0,NA,0,NA,NA,NA,1
+1085969,1st innings,Australia,South Africa,12.2,NE Bolton,BL Mooney,A Khaka,0,0,0,NA,0,NA,NA,NA,1
+1085969,1st innings,Australia,South Africa,12.3,NE Bolton,BL Mooney,A Khaka,0,0,0,NA,0,NA,NA,NA,1
+1085969,1st innings,Australia,South Africa,12.4,NE Bolton,BL Mooney,A Khaka,0,0,0,NA,0,NA,NA,NA,1
+1085969,1st innings,Australia,South Africa,12.5,NE Bolton,BL Mooney,A Khaka,0,0,0,NA,0,NA,NA,NA,1
+1085969,1st innings,Australia,South Africa,12.6,NE Bolton,BL Mooney,A Khaka,0,0,0,NA,0,NA,NA,NA,1
+1085969,1st innings,Australia,South Africa,13.1,BL Mooney,NE Bolton,M Klaas,1,0,1,NA,0,NA,NA,NA,1
+1085969,1st innings,Australia,South Africa,13.2,NE Bolton,BL Mooney,M Klaas,1,0,1,NA,0,NA,NA,NA,1
+1085969,1st innings,Australia,South Africa,13.3,BL Mooney,NE Bolton,M Klaas,4,0,4,NA,0,NA,NA,NA,1
+1085969,1st innings,Australia,South Africa,13.4,BL Mooney,NE Bolton,M Klaas,0,0,0,NA,0,NA,NA,NA,1
+1085969,1st innings,Australia,South Africa,13.5,BL Mooney,NE Bolton,M Klaas,0,0,0,NA,0,NA,NA,NA,1
+1085969,1st innings,Australia,South Africa,13.6,BL Mooney,NE Bolton,M Klaas,0,0,0,NA,0,NA,NA,NA,1
+1085969,1st innings,Australia,South Africa,14.1,NE Bolton,BL Mooney,A Khaka,4,0,4,NA,0,NA,NA,NA,1
+1085969,1st innings,Australia,South Africa,14.2,NE Bolton,BL Mooney,A Khaka,0,0,0,NA,0,NA,NA,NA,1
+1085969,1st innings,Australia,South Africa,14.3,NE Bolton,BL Mooney,A Khaka,2,0,2,NA,0,NA,NA,NA,1
+1085969,1st innings,Australia,South Africa,14.4,NE Bolton,BL Mooney,A Khaka,2,0,2,NA,0,NA,NA,NA,1
+1085969,1st innings,Australia,South Africa,14.5,NE Bolton,BL Mooney,A Khaka,4,0,4,NA,0,NA,NA,NA,1
+1085969,1st innings,Australia,South Africa,14.6,NE Bolton,BL Mooney,A Khaka,1,0,1,NA,0,NA,NA,NA,1
+1085969,1st innings,Australia,South Africa,15.1,NE Bolton,BL Mooney,M Klaas,0,0,0,NA,0,NA,NA,NA,1
+1085969,1st innings,Australia,South Africa,15.2,NE Bolton,BL Mooney,M Klaas,0,0,0,NA,0,NA,NA,NA,1
+1085969,1st innings,Australia,South Africa,15.3,NE Bolton,BL Mooney,M Klaas,1,0,1,NA,0,NA,NA,NA,1
+1085969,1st innings,Australia,South Africa,15.4,BL Mooney,NE Bolton,M Klaas,4,0,4,NA,0,NA,NA,NA,1
+1085969,1st innings,Australia,South Africa,15.5,BL Mooney,NE Bolton,M Klaas,0,0,0,NA,0,NA,NA,NA,1
+1085969,1st innings,Australia,South Africa,15.6,BL Mooney,NE Bolton,M Klaas,0,0,0,NA,0,NA,NA,NA,1
+1085969,1st innings,Australia,South Africa,16.1,NE Bolton,BL Mooney,S Luus,4,0,4,NA,0,NA,NA,NA,1
+1085969,1st innings,Australia,South Africa,16.2,NE Bolton,BL Mooney,S Luus,0,0,0,NA,0,NA,NA,NA,1
+1085969,1st innings,Australia,South Africa,16.3,NE Bolton,BL Mooney,S Luus,1,0,1,NA,0,NA,NA,NA,1
+1085969,1st innings,Australia,South Africa,16.4,BL Mooney,NE Bolton,S Luus,1,0,1,NA,0,NA,NA,NA,1
+1085969,1st innings,Australia,South Africa,16.5,NE Bolton,BL Mooney,S Luus,1,0,1,NA,0,NA,NA,NA,1
+1085969,1st innings,Australia,South Africa,16.6,BL Mooney,NE Bolton,S Luus,0,0,0,NA,0,NA,NA,NA,1
+1085969,1st innings,Australia,South Africa,17.1,NE Bolton,BL Mooney,M Klaas,4,0,4,NA,0,NA,NA,NA,1
+1085969,1st innings,Australia,South Africa,17.2,NE Bolton,BL Mooney,M Klaas,0,0,0,NA,0,NA,NA,NA,1
+1085969,1st innings,Australia,South Africa,17.3,NE Bolton,BL Mooney,M Klaas,0,0,0,NA,0,NA,NA,NA,1
+1085969,1st innings,Australia,South Africa,17.4,NE Bolton,BL Mooney,M Klaas,0,0,0,NA,0,NA,NA,NA,1
+1085969,1st innings,Australia,South Africa,17.5,NE Bolton,BL Mooney,M Klaas,4,0,4,NA,0,NA,NA,NA,1
+1085969,1st innings,Australia,South Africa,17.6,NE Bolton,BL Mooney,M Klaas,4,0,4,NA,0,NA,NA,NA,1
+1085969,1st innings,Australia,South Africa,18.1,BL Mooney,NE Bolton,S Luus,4,0,4,NA,0,NA,NA,NA,1
+1085969,1st innings,Australia,South Africa,18.2,BL Mooney,NE Bolton,S Luus,4,0,4,NA,0,NA,NA,NA,1
+1085969,1st innings,Australia,South Africa,18.3,BL Mooney,NE Bolton,S Luus,3,0,3,NA,0,NA,NA,NA,1
+1085969,1st innings,Australia,South Africa,18.4,NE Bolton,BL Mooney,S Luus,1,0,1,NA,0,NA,NA,NA,1
+1085969,1st innings,Australia,South Africa,18.5,BL Mooney,NE Bolton,S Luus,0,0,0,NA,0,NA,NA,NA,1
+1085969,1st innings,Australia,South Africa,18.6,BL Mooney,NE Bolton,S Luus,4,0,4,NA,0,NA,NA,NA,1
+1085969,1st innings,Australia,South Africa,19.1,NE Bolton,BL Mooney,A Khaka,1,0,1,NA,0,NA,NA,NA,1
+1085969,1st innings,Australia,South Africa,19.2,BL Mooney,NE Bolton,A Khaka,2,0,2,NA,0,NA,NA,NA,1
+1085969,1st innings,Australia,South Africa,19.3,BL Mooney,NE Bolton,A Khaka,1,0,1,NA,0,NA,NA,NA,1
+1085969,1st innings,Australia,South Africa,19.4,NE Bolton,BL Mooney,A Khaka,0,0,0,NA,0,NA,NA,NA,1
+1085969,1st innings,Australia,South Africa,19.5,NE Bolton,BL Mooney,A Khaka,0,0,0,NA,0,NA,NA,NA,1
+1085969,1st innings,Australia,South Africa,19.6,NE Bolton,BL Mooney,A Khaka,0,0,0,NA,0,NA,NA,NA,1
+1085969,1st innings,Australia,South Africa,20.1,BL Mooney,NE Bolton,D van Niekerk,1,0,1,NA,0,NA,NA,NA,1
+1085969,1st innings,Australia,South Africa,20.2,NE Bolton,BL Mooney,D van Niekerk,1,0,1,NA,0,NA,NA,NA,1
+1085969,1st innings,Australia,South Africa,20.3,BL Mooney,NE Bolton,D van Niekerk,1,0,1,NA,0,NA,NA,NA,1
+1085969,1st innings,Australia,South Africa,20.4,NE Bolton,BL Mooney,D van Niekerk,1,0,1,NA,0,NA,NA,NA,1
+1085969,1st innings,Australia,South Africa,20.5,BL Mooney,NE Bolton,D van Niekerk,0,0,0,NA,0,NA,NA,NA,1
+1085969,1st innings,Australia,South Africa,20.6,BL Mooney,NE Bolton,D van Niekerk,0,0,0,NA,0,NA,NA,NA,1
+1085969,1st innings,Australia,South Africa,21.1,NE Bolton,BL Mooney,A Khaka,0,0,0,NA,0,NA,NA,NA,1
+1085969,1st innings,Australia,South Africa,21.2,NE Bolton,BL Mooney,A Khaka,1,0,1,NA,0,NA,NA,NA,1
+1085969,1st innings,Australia,South Africa,21.3,BL Mooney,NE Bolton,A Khaka,0,0,0,NA,1,bowled,BL Mooney,NA,1
+1085969,1st innings,Australia,South Africa,21.4,RL Haynes,NE Bolton,A Khaka,0,0,0,NA,0,NA,NA,NA,1
+1085969,1st innings,Australia,South Africa,21.5,RL Haynes,NE Bolton,A Khaka,0,0,0,NA,0,NA,NA,NA,1
+1085969,1st innings,Australia,South Africa,21.6,RL Haynes,NE Bolton,A Khaka,0,0,0,NA,0,NA,NA,NA,1
+1085969,1st innings,Australia,South Africa,22.1,NE Bolton,RL Haynes,D van Niekerk,0,0,0,NA,0,NA,NA,NA,1
+1085969,1st innings,Australia,South Africa,22.2,NE Bolton,RL Haynes,D van Niekerk,2,0,2,NA,0,NA,NA,NA,1
+1085969,1st innings,Australia,South Africa,22.3,NE Bolton,RL Haynes,D van Niekerk,1,0,1,NA,0,NA,NA,NA,1
+1085969,1st innings,Australia,South Africa,22.4,RL Haynes,NE Bolton,D van Niekerk,0,0,0,NA,0,NA,NA,NA,1
+1085969,1st innings,Australia,South Africa,22.5,RL Haynes,NE Bolton,D van Niekerk,0,0,0,NA,0,NA,NA,NA,1
+1085969,1st innings,Australia,South Africa,22.6,RL Haynes,NE Bolton,D van Niekerk,0,0,0,NA,1,caught and bowled,RL Haynes,NA,1
+1085969,1st innings,Australia,South Africa,23.1,NE Bolton,EA Perry,A Khaka,2,0,2,NA,0,NA,NA,NA,1
+1085969,1st innings,Australia,South Africa,23.2,NE Bolton,EA Perry,A Khaka,1,0,1,NA,0,NA,NA,NA,1
+1085969,1st innings,Australia,South Africa,23.3,EA Perry,NE Bolton,A Khaka,0,0,0,NA,0,NA,NA,NA,1
+1085969,1st innings,Australia,South Africa,23.4,EA Perry,NE Bolton,A Khaka,1,0,1,NA,0,NA,NA,NA,1
+1085969,1st innings,Australia,South Africa,23.5,NE Bolton,EA Perry,A Khaka,1,0,1,NA,0,NA,NA,NA,1
+1085969,1st innings,Australia,South Africa,23.6,EA Perry,NE Bolton,A Khaka,0,0,0,NA,0,NA,NA,NA,1
+1085969,1st innings,Australia,South Africa,24.1,NE Bolton,EA Perry,D van Niekerk,4,0,4,NA,0,NA,NA,NA,1
+1085969,1st innings,Australia,South Africa,24.2,NE Bolton,EA Perry,D van Niekerk,0,0,0,NA,0,NA,NA,NA,1
+1085969,1st innings,Australia,South Africa,24.3,NE Bolton,EA Perry,D van Niekerk,1,0,1,NA,0,NA,NA,NA,1
+1085969,1st innings,Australia,South Africa,24.4,EA Perry,NE Bolton,D van Niekerk,0,5,5,wides,0,NA,NA,NA,1
+1085969,1st innings,Australia,South Africa,24.5,EA Perry,NE Bolton,D van Niekerk,0,0,0,NA,0,NA,NA,NA,1
+1085969,1st innings,Australia,South Africa,24.6,EA Perry,NE Bolton,D van Niekerk,0,0,0,NA,0,NA,NA,NA,1
+1085969,1st innings,Australia,South Africa,24.7,EA Perry,NE Bolton,D van Niekerk,1,0,1,NA,0,NA,NA,NA,1
+1085969,1st innings,Australia,South Africa,25.1,EA Perry,NE Bolton,A Khaka,0,0,0,NA,0,NA,NA,NA,1
+1085969,1st innings,Australia,South Africa,25.2,EA Perry,NE Bolton,A Khaka,1,0,1,NA,0,NA,NA,NA,1
+1085969,1st innings,Australia,South Africa,25.3,NE Bolton,EA Perry,A Khaka,1,0,1,NA,0,NA,NA,NA,1
+1085969,1st innings,Australia,South Africa,25.4,EA Perry,NE Bolton,A Khaka,0,0,0,NA,0,NA,NA,NA,1
+1085969,1st innings,Australia,South Africa,25.5,EA Perry,NE Bolton,A Khaka,0,0,0,NA,0,NA,NA,NA,1
+1085969,1st innings,Australia,South Africa,25.6,EA Perry,NE Bolton,A Khaka,4,0,4,NA,0,NA,NA,NA,1
+1085969,1st innings,Australia,South Africa,26.1,NE Bolton,EA Perry,D van Niekerk,1,0,1,NA,0,NA,NA,NA,1
+1085969,1st innings,Australia,South Africa,26.2,EA Perry,NE Bolton,D van Niekerk,0,0,0,NA,0,NA,NA,NA,1
+1085969,1st innings,Australia,South Africa,26.3,EA Perry,NE Bolton,D van Niekerk,0,0,0,NA,0,NA,NA,NA,1
+1085969,1st innings,Australia,South Africa,26.4,EA Perry,NE Bolton,D van Niekerk,0,1,1,noballs,0,NA,NA,NA,1
+1085969,1st innings,Australia,South Africa,26.5,EA Perry,NE Bolton,D van Niekerk,4,0,4,NA,0,NA,NA,NA,1
+1085969,1st innings,Australia,South Africa,26.6,EA Perry,NE Bolton,D van Niekerk,0,0,0,NA,0,NA,NA,NA,1
+1085969,1st innings,Australia,South Africa,26.7,EA Perry,NE Bolton,D van Niekerk,0,0,0,NA,0,NA,NA,NA,1
+1085969,1st innings,Australia,South Africa,27.1,NE Bolton,EA Perry,M Daniels,0,0,0,NA,0,NA,NA,NA,1
+1085969,1st innings,Australia,South Africa,27.2,NE Bolton,EA Perry,M Daniels,4,0,4,NA,0,NA,NA,NA,1
+1085969,1st innings,Australia,South Africa,27.3,NE Bolton,EA Perry,M Daniels,1,0,1,NA,0,NA,NA,NA,1
+1085969,1st innings,Australia,South Africa,27.4,EA Perry,NE Bolton,M Daniels,0,0,0,NA,0,NA,NA,NA,1
+1085969,1st innings,Australia,South Africa,27.5,EA Perry,NE Bolton,M Daniels,0,0,0,NA,0,NA,NA,NA,1
+1085969,1st innings,Australia,South Africa,27.6,EA Perry,NE Bolton,M Daniels,1,0,1,NA,0,NA,NA,NA,1
+1085969,1st innings,Australia,South Africa,28.1,EA Perry,NE Bolton,S Luus,1,0,1,NA,0,NA,NA,NA,1
+1085969,1st innings,Australia,South Africa,28.2,NE Bolton,EA Perry,S Luus,1,0,1,NA,0,NA,NA,NA,1
+1085969,1st innings,Australia,South Africa,28.3,EA Perry,NE Bolton,S Luus,0,0,0,NA,0,NA,NA,NA,1
+1085969,1st innings,Australia,South Africa,28.4,EA Perry,NE Bolton,S Luus,1,0,1,NA,0,NA,NA,NA,1
+1085969,1st innings,Australia,South Africa,28.5,NE Bolton,EA Perry,S Luus,0,0,0,NA,1,caught,NE Bolton,M Kapp,1
+1085969,1st innings,Australia,South Africa,28.6,EJ Villani,EA Perry,S Luus,0,0,0,NA,1,bowled,EJ Villani,NA,1
+1085969,1st innings,Australia,South Africa,29.1,EA Perry,AJ Blackwell,M Daniels,0,0,0,NA,0,NA,NA,NA,1
+1085969,1st innings,Australia,South Africa,29.2,EA Perry,AJ Blackwell,M Daniels,0,0,0,NA,0,NA,NA,NA,1
+1085969,1st innings,Australia,South Africa,29.3,EA Perry,AJ Blackwell,M Daniels,0,0,0,NA,0,NA,NA,NA,1
+1085969,1st innings,Australia,South Africa,29.4,EA Perry,AJ Blackwell,M Daniels,4,0,4,NA,0,NA,NA,NA,1
+1085969,1st innings,Australia,South Africa,29.5,EA Perry,AJ Blackwell,M Daniels,1,0,1,NA,0,NA,NA,NA,1
+1085969,1st innings,Australia,South Africa,29.6,AJ Blackwell,EA Perry,M Daniels,0,0,0,NA,0,NA,NA,NA,1
+1085969,1st innings,Australia,South Africa,30.1,EA Perry,AJ Blackwell,S Luus,1,0,1,NA,0,NA,NA,NA,1
+1085969,1st innings,Australia,South Africa,30.2,AJ Blackwell,EA Perry,S Luus,0,0,0,NA,0,NA,NA,NA,1
+1085969,1st innings,Australia,South Africa,30.3,AJ Blackwell,EA Perry,S Luus,0,0,0,NA,0,NA,NA,NA,1
+1085969,1st innings,Australia,South Africa,30.4,AJ Blackwell,EA Perry,S Luus,0,0,0,NA,0,NA,NA,NA,1
+1085969,1st innings,Australia,South Africa,30.5,AJ Blackwell,EA Perry,S Luus,0,0,0,NA,0,NA,NA,NA,1
+1085969,1st innings,Australia,South Africa,30.6,AJ Blackwell,EA Perry,S Luus,1,0,1,NA,0,NA,NA,NA,1
+1085969,1st innings,Australia,South Africa,31.1,AJ Blackwell,EA Perry,M Daniels,0,0,0,NA,0,NA,NA,NA,1
+1085969,1st innings,Australia,South Africa,31.2,AJ Blackwell,EA Perry,M Daniels,1,0,1,NA,0,NA,NA,NA,1
+1085969,1st innings,Australia,South Africa,31.3,EA Perry,AJ Blackwell,M Daniels,0,0,0,NA,0,NA,NA,NA,1
+1085969,1st innings,Australia,South Africa,31.4,EA Perry,AJ Blackwell,M Daniels,1,0,1,NA,0,NA,NA,NA,1
+1085969,1st innings,Australia,South Africa,31.5,AJ Blackwell,EA Perry,M Daniels,0,0,0,NA,0,NA,NA,NA,1
+1085969,1st innings,Australia,South Africa,31.6,AJ Blackwell,EA Perry,M Daniels,0,0,0,NA,0,NA,NA,NA,1
+1085969,1st innings,Australia,South Africa,32.1,EA Perry,AJ Blackwell,S Luus,1,0,1,NA,0,NA,NA,NA,1
+1085969,1st innings,Australia,South Africa,32.2,AJ Blackwell,EA Perry,S Luus,0,0,0,NA,0,NA,NA,NA,1
+1085969,1st innings,Australia,South Africa,32.3,AJ Blackwell,EA Perry,S Luus,4,0,4,NA,0,NA,NA,NA,1
+1085969,1st innings,Australia,South Africa,32.4,AJ Blackwell,EA Perry,S Luus,1,0,1,NA,0,NA,NA,NA,1
+1085969,1st innings,Australia,South Africa,32.5,EA Perry,AJ Blackwell,S Luus,0,0,0,NA,0,NA,NA,NA,1
+1085969,1st innings,Australia,South Africa,32.6,EA Perry,AJ Blackwell,S Luus,0,0,0,NA,0,NA,NA,NA,1
+1085969,1st innings,Australia,South Africa,33.1,AJ Blackwell,EA Perry,M Klaas,0,0,0,NA,0,NA,NA,NA,1
+1085969,1st innings,Australia,South Africa,33.2,AJ Blackwell,EA Perry,M Klaas,0,0,0,NA,0,NA,NA,NA,1
+1085969,1st innings,Australia,South Africa,33.3,AJ Blackwell,EA Perry,M Klaas,0,0,0,NA,0,NA,NA,NA,1
+1085969,1st innings,Australia,South Africa,33.4,AJ Blackwell,EA Perry,M Klaas,1,0,1,NA,0,NA,NA,NA,1
+1085969,1st innings,Australia,South Africa,33.5,EA Perry,AJ Blackwell,M Klaas,1,0,1,NA,0,NA,NA,NA,1
+1085969,1st innings,Australia,South Africa,33.6,AJ Blackwell,EA Perry,M Klaas,0,0,0,NA,0,NA,NA,NA,1
+1085969,1st innings,Australia,South Africa,34.1,EA Perry,AJ Blackwell,S Luus,6,0,6,NA,0,NA,NA,NA,1
+1085969,1st innings,Australia,South Africa,34.2,EA Perry,AJ Blackwell,S Luus,1,0,1,NA,0,NA,NA,NA,1
+1085969,1st innings,Australia,South Africa,34.3,AJ Blackwell,EA Perry,S Luus,0,0,0,NA,0,NA,NA,NA,1
+1085969,1st innings,Australia,South Africa,34.4,AJ Blackwell,EA Perry,S Luus,1,0,1,NA,0,NA,NA,NA,1
+1085969,1st innings,Australia,South Africa,34.5,EA Perry,AJ Blackwell,S Luus,1,0,1,NA,0,NA,NA,NA,1
+1085969,1st innings,Australia,South Africa,34.6,AJ Blackwell,EA Perry,S Luus,1,0,1,NA,0,NA,NA,NA,1
+1085969,1st innings,Australia,South Africa,35.1,AJ Blackwell,EA Perry,M Klaas,1,0,1,NA,0,NA,NA,NA,1
+1085969,1st innings,Australia,South Africa,35.2,EA Perry,AJ Blackwell,M Klaas,1,0,1,NA,0,NA,NA,NA,1
+1085969,1st innings,Australia,South Africa,35.3,AJ Blackwell,EA Perry,M Klaas,1,0,1,NA,0,NA,NA,NA,1
+1085969,1st innings,Australia,South Africa,35.4,EA Perry,AJ Blackwell,M Klaas,0,0,0,NA,0,NA,NA,NA,1
+1085969,1st innings,Australia,South Africa,35.5,EA Perry,AJ Blackwell,M Klaas,4,1,5,noballs,0,NA,NA,NA,1
+1085969,1st innings,Australia,South Africa,35.6,EA Perry,AJ Blackwell,M Klaas,1,0,1,NA,0,NA,NA,NA,1
+1085969,1st innings,Australia,South Africa,35.7,AJ Blackwell,EA Perry,M Klaas,0,0,0,NA,0,NA,NA,NA,1
+1085969,1st innings,Australia,South Africa,36.1,EA Perry,AJ Blackwell,S Ismail,4,0,4,NA,0,NA,NA,NA,1
+1085969,1st innings,Australia,South Africa,36.2,EA Perry,AJ Blackwell,S Ismail,2,0,2,NA,0,NA,NA,NA,1
+1085969,1st innings,Australia,South Africa,36.3,EA Perry,AJ Blackwell,S Ismail,1,0,1,NA,0,NA,NA,NA,1
+1085969,1st innings,Australia,South Africa,36.4,AJ Blackwell,EA Perry,S Ismail,1,0,1,NA,0,NA,NA,NA,1
+1085969,1st innings,Australia,South Africa,36.5,EA Perry,AJ Blackwell,S Ismail,0,0,0,NA,0,NA,NA,NA,1
+1085969,1st innings,Australia,South Africa,36.6,EA Perry,AJ Blackwell,S Ismail,4,0,4,NA,0,NA,NA,NA,1
+1085969,1st innings,Australia,South Africa,37.1,AJ Blackwell,EA Perry,M Kapp,0,0,0,NA,0,NA,NA,NA,1
+1085969,1st innings,Australia,South Africa,37.2,AJ Blackwell,EA Perry,M Kapp,0,0,0,NA,0,NA,NA,NA,1
+1085969,1st innings,Australia,South Africa,37.3,AJ Blackwell,EA Perry,M Kapp,0,1,1,wides,0,NA,NA,NA,1
+1085969,1st innings,Australia,South Africa,37.4,AJ Blackwell,EA Perry,M Kapp,1,0,1,NA,0,NA,NA,NA,1
+1085969,1st innings,Australia,South Africa,37.5,EA Perry,AJ Blackwell,M Kapp,0,1,1,wides,0,NA,NA,NA,1
+1085969,1st innings,Australia,South Africa,37.6,EA Perry,AJ Blackwell,M Kapp,0,0,0,NA,0,NA,NA,NA,1
+1085969,1st innings,Australia,South Africa,37.7,EA Perry,AJ Blackwell,M Kapp,1,0,1,NA,0,NA,NA,NA,1
+1085969,1st innings,Australia,South Africa,37.8,AJ Blackwell,EA Perry,M Kapp,1,0,1,NA,0,NA,NA,NA,1
+1085969,1st innings,Australia,South Africa,38.1,AJ Blackwell,EA Perry,M Klaas,4,0,4,NA,0,NA,NA,NA,1
+1085969,1st innings,Australia,South Africa,38.2,AJ Blackwell,EA Perry,M Klaas,4,1,5,noballs,0,NA,NA,NA,1
+1085969,1st innings,Australia,South Africa,38.3,AJ Blackwell,EA Perry,M Daniels,1,0,1,NA,0,NA,NA,NA,1
+1085969,1st innings,Australia,South Africa,38.4,EA Perry,AJ Blackwell,M Daniels,0,0,0,NA,0,NA,NA,NA,1
+1085969,1st innings,Australia,South Africa,38.5,EA Perry,AJ Blackwell,M Daniels,1,0,1,NA,0,NA,NA,NA,1
+1085969,1st innings,Australia,South Africa,38.6,AJ Blackwell,EA Perry,M Daniels,4,0,4,NA,0,NA,NA,NA,1
+1085969,1st innings,Australia,South Africa,38.7,AJ Blackwell,EA Perry,M Daniels,1,0,1,NA,0,NA,NA,NA,1
+1085969,1st innings,Australia,South Africa,39.1,AJ Blackwell,EA Perry,M Kapp,1,0,1,NA,0,NA,NA,NA,1
+1085969,1st innings,Australia,South Africa,39.2,EA Perry,AJ Blackwell,M Kapp,0,0,0,NA,0,NA,NA,NA,1
+1085969,1st innings,Australia,South Africa,39.3,EA Perry,AJ Blackwell,M Kapp,0,0,0,NA,0,NA,NA,NA,1
+1085969,1st innings,Australia,South Africa,39.4,EA Perry,AJ Blackwell,M Kapp,0,0,0,NA,0,NA,NA,NA,1
+1085969,1st innings,Australia,South Africa,39.5,EA Perry,AJ Blackwell,M Kapp,4,0,4,NA,0,NA,NA,NA,1
+1085969,1st innings,Australia,South Africa,39.6,EA Perry,AJ Blackwell,M Kapp,1,0,1,NA,0,NA,NA,NA,1
+1085969,1st innings,Australia,South Africa,40.1,EA Perry,AJ Blackwell,S Luus,0,0,0,NA,0,NA,NA,NA,1
+1085969,1st innings,Australia,South Africa,40.2,EA Perry,AJ Blackwell,S Luus,0,0,0,NA,1,caught,EA Perry,M Kapp,1
+1085969,1st innings,Australia,South Africa,40.3,AJ Healy,AJ Blackwell,S Luus,1,0,1,NA,0,NA,NA,NA,1
+1085969,1st innings,Australia,South Africa,40.4,AJ Blackwell,AJ Healy,S Luus,1,0,1,NA,0,NA,NA,NA,1
+1085969,1st innings,Australia,South Africa,40.5,AJ Healy,AJ Blackwell,S Luus,0,0,0,NA,0,NA,NA,NA,1
+1085969,1st innings,Australia,South Africa,40.6,AJ Healy,AJ Blackwell,S Luus,1,0,1,NA,0,NA,NA,NA,1
+1085969,1st innings,Australia,South Africa,41.1,AJ Healy,AJ Blackwell,D van Niekerk,0,0,0,NA,0,NA,NA,NA,1
+1085969,1st innings,Australia,South Africa,41.2,AJ Healy,AJ Blackwell,D van Niekerk,1,0,1,NA,0,NA,NA,NA,1
+1085969,1st innings,Australia,South Africa,41.3,AJ Blackwell,AJ Healy,D van Niekerk,0,0,0,NA,0,NA,NA,NA,1
+1085969,1st innings,Australia,South Africa,41.4,AJ Blackwell,AJ Healy,D van Niekerk,2,0,2,NA,0,NA,NA,NA,1
+1085969,1st innings,Australia,South Africa,41.5,AJ Blackwell,AJ Healy,D van Niekerk,0,0,0,NA,0,NA,NA,NA,1
+1085969,1st innings,Australia,South Africa,41.6,AJ Blackwell,AJ Healy,D van Niekerk,0,0,0,NA,1,caught,AJ Blackwell,M Klaas,1
+1085969,1st innings,Australia,South Africa,42.1,AJ Healy,A Gardner,S Luus,1,0,1,NA,0,NA,NA,NA,1
+1085969,1st innings,Australia,South Africa,42.2,A Gardner,AJ Healy,S Luus,0,1,1,wides,0,NA,NA,NA,1
+1085969,1st innings,Australia,South Africa,42.3,A Gardner,AJ Healy,S Luus,1,0,1,NA,0,NA,NA,NA,1
+1085969,1st innings,Australia,South Africa,42.4,AJ Healy,A Gardner,S Luus,4,0,4,NA,0,NA,NA,NA,1
+1085969,1st innings,Australia,South Africa,42.5,AJ Healy,A Gardner,S Luus,4,0,4,NA,0,NA,NA,NA,1
+1085969,1st innings,Australia,South Africa,42.6,AJ Healy,A Gardner,S Luus,4,0,4,NA,0,NA,NA,NA,1
+1085969,1st innings,Australia,South Africa,42.7,AJ Healy,A Gardner,S Luus,0,0,0,NA,1,caught,AJ Healy,M Daniels,1
+1085969,1st innings,Australia,South Africa,43.1,JL Jonassen,A Gardner,D van Niekerk,0,0,0,NA,0,NA,NA,NA,1
+1085969,1st innings,Australia,South Africa,43.2,JL Jonassen,A Gardner,D van Niekerk,1,0,1,NA,0,NA,NA,NA,1
+1085969,1st innings,Australia,South Africa,43.3,A Gardner,JL Jonassen,D van Niekerk,0,0,0,NA,0,NA,NA,NA,1
+1085969,1st innings,Australia,South Africa,43.4,A Gardner,JL Jonassen,D van Niekerk,0,0,0,NA,0,NA,NA,NA,1
+1085969,1st innings,Australia,South Africa,43.5,A Gardner,JL Jonassen,D van Niekerk,1,0,1,NA,0,NA,NA,NA,1
+1085969,1st innings,Australia,South Africa,43.6,JL Jonassen,A Gardner,D van Niekerk,0,0,0,NA,0,NA,NA,NA,1
+1085969,1st innings,Australia,South Africa,44.1,A Gardner,JL Jonassen,S Luus,0,0,0,NA,0,NA,NA,NA,1
+1085969,1st innings,Australia,South Africa,44.2,A Gardner,JL Jonassen,S Luus,2,0,2,NA,0,NA,NA,NA,1
+1085969,1st innings,Australia,South Africa,44.3,A Gardner,JL Jonassen,S Luus,0,0,0,NA,1,caught,A Gardner,M Daniels,1
+1085969,1st innings,Australia,South Africa,44.4,JL Jonassen,ML Schutt,S Luus,0,0,0,NA,0,NA,NA,NA,1
+1085969,1st innings,Australia,South Africa,44.5,JL Jonassen,ML Schutt,S Luus,0,0,0,NA,0,NA,NA,NA,1
+1085969,1st innings,Australia,South Africa,44.6,JL Jonassen,ML Schutt,S Luus,0,0,0,NA,0,NA,NA,NA,1
+1085969,1st innings,Australia,South Africa,45.1,ML Schutt,JL Jonassen,D van Niekerk,0,0,0,NA,0,NA,NA,NA,1
+1085969,1st innings,Australia,South Africa,45.2,ML Schutt,JL Jonassen,D van Niekerk,0,0,0,NA,0,NA,NA,NA,1
+1085969,1st innings,Australia,South Africa,45.3,ML Schutt,JL Jonassen,D van Niekerk,4,0,4,NA,0,NA,NA,NA,1
+1085969,1st innings,Australia,South Africa,45.4,ML Schutt,JL Jonassen,D van Niekerk,0,0,0,NA,0,NA,NA,NA,1
+1085969,1st innings,Australia,South Africa,45.5,ML Schutt,JL Jonassen,D van Niekerk,0,0,0,NA,0,NA,NA,NA,1
+1085969,1st innings,Australia,South Africa,45.6,ML Schutt,JL Jonassen,D van Niekerk,0,0,0,NA,0,NA,NA,NA,1
+1085969,1st innings,Australia,South Africa,46.1,JL Jonassen,ML Schutt,S Luus,0,0,0,NA,0,NA,NA,NA,1
+1085969,1st innings,Australia,South Africa,46.2,JL Jonassen,ML Schutt,S Luus,1,0,1,NA,0,NA,NA,NA,1
+1085969,1st innings,Australia,South Africa,46.3,ML Schutt,JL Jonassen,S Luus,1,0,1,NA,0,NA,NA,NA,1
+1085969,1st innings,Australia,South Africa,46.4,JL Jonassen,ML Schutt,S Luus,1,0,1,NA,0,NA,NA,NA,1
+1085969,1st innings,Australia,South Africa,46.5,ML Schutt,JL Jonassen,S Luus,0,0,0,NA,0,NA,NA,NA,1
+1085969,1st innings,Australia,South Africa,46.6,ML Schutt,JL Jonassen,S Luus,0,0,0,NA,0,NA,NA,NA,1
+1085969,1st innings,Australia,South Africa,47.1,JL Jonassen,ML Schutt,D van Niekerk,1,0,1,NA,0,NA,NA,NA,1
+1085969,1st innings,Australia,South Africa,47.2,ML Schutt,JL Jonassen,D van Niekerk,4,0,4,NA,0,NA,NA,NA,1
+1085969,1st innings,Australia,South Africa,47.3,ML Schutt,JL Jonassen,D van Niekerk,0,0,0,NA,0,NA,NA,NA,1
+1085969,1st innings,Australia,South Africa,47.4,ML Schutt,JL Jonassen,D van Niekerk,1,0,1,NA,0,NA,NA,NA,1
+1085969,1st innings,Australia,South Africa,47.5,JL Jonassen,ML Schutt,D van Niekerk,1,0,1,NA,0,NA,NA,NA,1
+1085969,1st innings,Australia,South Africa,47.6,ML Schutt,JL Jonassen,D van Niekerk,1,0,1,NA,0,NA,NA,NA,1
+1085969,1st innings,Australia,South Africa,48.1,ML Schutt,JL Jonassen,M Kapp,0,0,0,NA,0,NA,NA,NA,1
+1085969,1st innings,Australia,South Africa,48.2,ML Schutt,JL Jonassen,M Kapp,0,0,0,NA,1,bowled,ML Schutt,NA,1
+1085969,1st innings,Australia,South Africa,48.3,KM Beams,JL Jonassen,M Kapp,0,0,0,NA,1,lbw,KM Beams,NA,1
+1085969,2nd innings,South Africa,Australia,0.1,L Wolvaardt,L Lee,ML Schutt,0,0,0,NA,0,NA,NA,NA,0
+1085969,2nd innings,South Africa,Australia,0.2,L Wolvaardt,L Lee,ML Schutt,0,0,0,NA,0,NA,NA,NA,0
+1085969,2nd innings,South Africa,Australia,0.3,L Wolvaardt,L Lee,ML Schutt,0,0,0,NA,0,NA,NA,NA,0
+1085969,2nd innings,South Africa,Australia,0.4,L Wolvaardt,L Lee,ML Schutt,0,0,0,NA,0,NA,NA,NA,0
+1085969,2nd innings,South Africa,Australia,0.5,L Wolvaardt,L Lee,ML Schutt,0,0,0,NA,0,NA,NA,NA,0
+1085969,2nd innings,South Africa,Australia,0.6,L Wolvaardt,L Lee,ML Schutt,4,0,4,NA,0,NA,NA,NA,0
+1085969,2nd innings,South Africa,Australia,1.1,L Lee,L Wolvaardt,JL Jonassen,0,0,0,NA,0,NA,NA,NA,0
+1085969,2nd innings,South Africa,Australia,1.2,L Lee,L Wolvaardt,JL Jonassen,1,0,1,NA,0,NA,NA,NA,0
+1085969,2nd innings,South Africa,Australia,1.3,L Wolvaardt,L Lee,JL Jonassen,4,0,4,NA,0,NA,NA,NA,0
+1085969,2nd innings,South Africa,Australia,1.4,L Wolvaardt,L Lee,JL Jonassen,0,0,0,NA,0,NA,NA,NA,0
+1085969,2nd innings,South Africa,Australia,1.5,L Wolvaardt,L Lee,JL Jonassen,0,0,0,NA,0,NA,NA,NA,0
+1085969,2nd innings,South Africa,Australia,1.6,L Wolvaardt,L Lee,JL Jonassen,1,0,1,NA,0,NA,NA,NA,0
+1085969,2nd innings,South Africa,Australia,2.1,L Wolvaardt,L Lee,ML Schutt,0,0,0,NA,0,NA,NA,NA,0
+1085969,2nd innings,South Africa,Australia,2.2,L Wolvaardt,L Lee,ML Schutt,0,0,0,NA,0,NA,NA,NA,0
+1085969,2nd innings,South Africa,Australia,2.3,L Wolvaardt,L Lee,ML Schutt,0,0,0,NA,0,NA,NA,NA,0
+1085969,2nd innings,South Africa,Australia,2.4,L Wolvaardt,L Lee,ML Schutt,4,0,4,NA,0,NA,NA,NA,0
+1085969,2nd innings,South Africa,Australia,2.5,L Wolvaardt,L Lee,ML Schutt,1,0,1,NA,0,NA,NA,NA,0
+1085969,2nd innings,South Africa,Australia,2.6,L Lee,L Wolvaardt,ML Schutt,0,0,0,NA,0,NA,NA,NA,0
+1085969,2nd innings,South Africa,Australia,3.1,L Wolvaardt,L Lee,JL Jonassen,0,0,0,NA,0,NA,NA,NA,0
+1085969,2nd innings,South Africa,Australia,3.2,L Wolvaardt,L Lee,JL Jonassen,0,0,0,NA,0,NA,NA,NA,0
+1085969,2nd innings,South Africa,Australia,3.3,L Wolvaardt,L Lee,JL Jonassen,0,0,0,NA,0,NA,NA,NA,0
+1085969,2nd innings,South Africa,Australia,3.4,L Wolvaardt,L Lee,JL Jonassen,0,0,0,NA,0,NA,NA,NA,0
+1085969,2nd innings,South Africa,Australia,3.5,L Wolvaardt,L Lee,JL Jonassen,0,0,0,NA,0,NA,NA,NA,0
+1085969,2nd innings,South Africa,Australia,3.6,L Wolvaardt,L Lee,JL Jonassen,1,0,1,NA,0,NA,NA,NA,0
+1085969,2nd innings,South Africa,Australia,4.1,L Wolvaardt,L Lee,ML Schutt,0,0,0,NA,0,NA,NA,NA,0
+1085969,2nd innings,South Africa,Australia,4.2,L Wolvaardt,L Lee,ML Schutt,0,0,0,NA,0,NA,NA,NA,0
+1085969,2nd innings,South Africa,Australia,4.3,L Wolvaardt,L Lee,ML Schutt,4,0,4,NA,0,NA,NA,NA,0
+1085969,2nd innings,South Africa,Australia,4.4,L Wolvaardt,L Lee,ML Schutt,0,0,0,NA,0,NA,NA,NA,0
+1085969,2nd innings,South Africa,Australia,4.5,L Wolvaardt,L Lee,ML Schutt,4,0,4,NA,0,NA,NA,NA,0
+1085969,2nd innings,South Africa,Australia,4.6,L Wolvaardt,L Lee,ML Schutt,0,0,0,NA,0,NA,NA,NA,0
+1085969,2nd innings,South Africa,Australia,5.1,L Lee,L Wolvaardt,JL Jonassen,0,0,0,NA,0,NA,NA,NA,0
+1085969,2nd innings,South Africa,Australia,5.2,L Lee,L Wolvaardt,JL Jonassen,4,0,4,NA,0,NA,NA,NA,0
+1085969,2nd innings,South Africa,Australia,5.3,L Lee,L Wolvaardt,JL Jonassen,4,0,4,NA,0,NA,NA,NA,0
+1085969,2nd innings,South Africa,Australia,5.4,L Lee,L Wolvaardt,JL Jonassen,0,0,0,NA,0,NA,NA,NA,0
+1085969,2nd innings,South Africa,Australia,5.5,L Lee,L Wolvaardt,JL Jonassen,0,0,0,NA,1,caught,L Lee,RL Haynes,0
+1085969,2nd innings,South Africa,Australia,5.6,T Chetty,L Wolvaardt,JL Jonassen,0,0,0,NA,0,NA,NA,NA,0
+1085969,2nd innings,South Africa,Australia,6.1,L Wolvaardt,T Chetty,ML Schutt,0,0,0,NA,0,NA,NA,NA,0
+1085969,2nd innings,South Africa,Australia,6.2,L Wolvaardt,T Chetty,ML Schutt,4,0,4,NA,0,NA,NA,NA,0
+1085969,2nd innings,South Africa,Australia,6.3,L Wolvaardt,T Chetty,ML Schutt,1,0,1,NA,0,NA,NA,NA,0
+1085969,2nd innings,South Africa,Australia,6.4,T Chetty,L Wolvaardt,ML Schutt,0,0,0,NA,0,NA,NA,NA,0
+1085969,2nd innings,South Africa,Australia,6.5,T Chetty,L Wolvaardt,ML Schutt,1,0,1,NA,0,NA,NA,NA,0
+1085969,2nd innings,South Africa,Australia,6.6,L Wolvaardt,T Chetty,ML Schutt,4,0,4,NA,0,NA,NA,NA,0
+1085969,2nd innings,South Africa,Australia,7.1,T Chetty,L Wolvaardt,EA Perry,0,0,0,NA,0,NA,NA,NA,0
+1085969,2nd innings,South Africa,Australia,7.2,T Chetty,L Wolvaardt,EA Perry,0,0,0,NA,0,NA,NA,NA,0
+1085969,2nd innings,South Africa,Australia,7.3,T Chetty,L Wolvaardt,EA Perry,0,0,0,NA,0,NA,NA,NA,0
+1085969,2nd innings,South Africa,Australia,7.4,T Chetty,L Wolvaardt,EA Perry,0,0,0,NA,0,NA,NA,NA,0
+1085969,2nd innings,South Africa,Australia,7.5,T Chetty,L Wolvaardt,EA Perry,0,0,0,NA,0,NA,NA,NA,0
+1085969,2nd innings,South Africa,Australia,7.6,T Chetty,L Wolvaardt,EA Perry,4,0,4,NA,0,NA,NA,NA,0
+1085969,2nd innings,South Africa,Australia,8.1,L Wolvaardt,T Chetty,A Gardner,1,0,1,NA,0,NA,NA,NA,0
+1085969,2nd innings,South Africa,Australia,8.2,T Chetty,L Wolvaardt,A Gardner,0,0,0,NA,0,NA,NA,NA,0
+1085969,2nd innings,South Africa,Australia,8.3,T Chetty,L Wolvaardt,A Gardner,0,0,0,NA,0,NA,NA,NA,0
+1085969,2nd innings,South Africa,Australia,8.4,T Chetty,L Wolvaardt,A Gardner,0,0,0,NA,0,NA,NA,NA,0
+1085969,2nd innings,South Africa,Australia,8.5,T Chetty,L Wolvaardt,A Gardner,0,0,0,NA,0,NA,NA,NA,0
+1085969,2nd innings,South Africa,Australia,8.6,T Chetty,L Wolvaardt,A Gardner,1,0,1,NA,0,NA,NA,NA,0
+1085969,2nd innings,South Africa,Australia,9.1,T Chetty,L Wolvaardt,EA Perry,1,0,1,NA,0,NA,NA,NA,0
+1085969,2nd innings,South Africa,Australia,9.2,L Wolvaardt,T Chetty,EA Perry,0,0,0,NA,0,NA,NA,NA,0
+1085969,2nd innings,South Africa,Australia,9.3,L Wolvaardt,T Chetty,EA Perry,0,0,0,NA,0,NA,NA,NA,0
+1085969,2nd innings,South Africa,Australia,9.4,L Wolvaardt,T Chetty,EA Perry,2,0,2,NA,0,NA,NA,NA,0
+1085969,2nd innings,South Africa,Australia,9.5,L Wolvaardt,T Chetty,EA Perry,0,0,0,NA,0,NA,NA,NA,0
+1085969,2nd innings,South Africa,Australia,9.6,L Wolvaardt,T Chetty,EA Perry,0,0,0,NA,0,NA,NA,NA,0
+1085969,2nd innings,South Africa,Australia,10.1,T Chetty,L Wolvaardt,A Gardner,2,0,2,NA,0,NA,NA,NA,0
+1085969,2nd innings,South Africa,Australia,10.2,T Chetty,L Wolvaardt,A Gardner,0,0,0,NA,0,NA,NA,NA,0
+1085969,2nd innings,South Africa,Australia,10.3,T Chetty,L Wolvaardt,A Gardner,0,0,0,NA,0,NA,NA,NA,0
+1085969,2nd innings,South Africa,Australia,10.4,T Chetty,L Wolvaardt,A Gardner,0,0,0,NA,0,NA,NA,NA,0
+1085969,2nd innings,South Africa,Australia,10.5,T Chetty,L Wolvaardt,A Gardner,0,0,0,NA,0,NA,NA,NA,0
+1085969,2nd innings,South Africa,Australia,10.6,T Chetty,L Wolvaardt,A Gardner,1,0,1,NA,0,NA,NA,NA,0
+1085969,2nd innings,South Africa,Australia,11.1,T Chetty,L Wolvaardt,EA Perry,0,0,0,NA,0,NA,NA,NA,0
+1085969,2nd innings,South Africa,Australia,11.2,T Chetty,L Wolvaardt,EA Perry,4,0,4,NA,0,NA,NA,NA,0
+1085969,2nd innings,South Africa,Australia,11.3,T Chetty,L Wolvaardt,EA Perry,1,0,1,NA,0,NA,NA,NA,0
+1085969,2nd innings,South Africa,Australia,11.4,L Wolvaardt,T Chetty,EA Perry,0,0,0,NA,0,NA,NA,NA,0
+1085969,2nd innings,South Africa,Australia,11.5,L Wolvaardt,T Chetty,EA Perry,0,0,0,NA,0,NA,NA,NA,0
+1085969,2nd innings,South Africa,Australia,11.6,L Wolvaardt,T Chetty,EA Perry,0,0,0,NA,0,NA,NA,NA,0
+1085969,2nd innings,South Africa,Australia,12.1,T Chetty,L Wolvaardt,A Gardner,1,0,1,NA,0,NA,NA,NA,0
+1085969,2nd innings,South Africa,Australia,12.2,L Wolvaardt,T Chetty,A Gardner,1,0,1,NA,0,NA,NA,NA,0
+1085969,2nd innings,South Africa,Australia,12.3,T Chetty,L Wolvaardt,A Gardner,1,0,1,NA,0,NA,NA,NA,0
+1085969,2nd innings,South Africa,Australia,12.4,L Wolvaardt,T Chetty,A Gardner,1,0,1,NA,0,NA,NA,NA,0
+1085969,2nd innings,South Africa,Australia,12.5,T Chetty,L Wolvaardt,A Gardner,0,0,0,NA,0,NA,NA,NA,0
+1085969,2nd innings,South Africa,Australia,12.6,T Chetty,L Wolvaardt,A Gardner,1,0,1,NA,0,NA,NA,NA,0
+1085969,2nd innings,South Africa,Australia,13.1,T Chetty,L Wolvaardt,EA Perry,1,0,1,NA,0,NA,NA,NA,0
+1085969,2nd innings,South Africa,Australia,13.2,L Wolvaardt,T Chetty,EA Perry,1,0,1,NA,0,NA,NA,NA,0
+1085969,2nd innings,South Africa,Australia,13.3,T Chetty,L Wolvaardt,EA Perry,1,0,1,NA,0,NA,NA,NA,0
+1085969,2nd innings,South Africa,Australia,13.4,L Wolvaardt,T Chetty,EA Perry,1,0,1,NA,0,NA,NA,NA,0
+1085969,2nd innings,South Africa,Australia,13.5,T Chetty,L Wolvaardt,EA Perry,0,0,0,NA,0,NA,NA,NA,0
+1085969,2nd innings,South Africa,Australia,13.6,T Chetty,L Wolvaardt,EA Perry,0,0,0,NA,0,NA,NA,NA,0
+1085969,2nd innings,South Africa,Australia,14.1,L Wolvaardt,T Chetty,A Gardner,0,0,0,NA,0,NA,NA,NA,0
+1085969,2nd innings,South Africa,Australia,14.2,L Wolvaardt,T Chetty,A Gardner,1,0,1,NA,0,NA,NA,NA,0
+1085969,2nd innings,South Africa,Australia,14.3,T Chetty,L Wolvaardt,A Gardner,0,0,0,NA,0,NA,NA,NA,0
+1085969,2nd innings,South Africa,Australia,14.4,T Chetty,L Wolvaardt,A Gardner,1,0,1,NA,0,NA,NA,NA,0
+1085969,2nd innings,South Africa,Australia,14.5,L Wolvaardt,T Chetty,A Gardner,1,0,1,NA,0,NA,NA,NA,0
+1085969,2nd innings,South Africa,Australia,14.6,T Chetty,L Wolvaardt,A Gardner,2,0,2,NA,0,NA,NA,NA,0
+1085969,2nd innings,South Africa,Australia,15.1,L Wolvaardt,T Chetty,KM Beams,0,0,0,NA,0,NA,NA,NA,0
+1085969,2nd innings,South Africa,Australia,15.2,L Wolvaardt,T Chetty,KM Beams,1,0,1,NA,0,NA,NA,NA,0
+1085969,2nd innings,South Africa,Australia,15.3,T Chetty,L Wolvaardt,KM Beams,0,0,0,NA,0,NA,NA,NA,0
+1085969,2nd innings,South Africa,Australia,15.4,T Chetty,L Wolvaardt,KM Beams,1,0,1,NA,0,NA,NA,NA,0
+1085969,2nd innings,South Africa,Australia,15.5,L Wolvaardt,T Chetty,KM Beams,1,0,1,NA,0,NA,NA,NA,0
+1085969,2nd innings,South Africa,Australia,15.6,T Chetty,L Wolvaardt,KM Beams,1,0,1,NA,0,NA,NA,NA,0
+1085969,2nd innings,South Africa,Australia,16.1,T Chetty,L Wolvaardt,A Gardner,1,0,1,NA,0,NA,NA,NA,0
+1085969,2nd innings,South Africa,Australia,16.2,L Wolvaardt,T Chetty,A Gardner,0,0,0,NA,0,NA,NA,NA,0
+1085969,2nd innings,South Africa,Australia,16.3,L Wolvaardt,T Chetty,A Gardner,0,0,0,NA,0,NA,NA,NA,0
+1085969,2nd innings,South Africa,Australia,16.4,L Wolvaardt,T Chetty,A Gardner,0,0,0,NA,0,NA,NA,NA,0
+1085969,2nd innings,South Africa,Australia,16.5,L Wolvaardt,T Chetty,A Gardner,0,0,0,NA,0,NA,NA,NA,0
+1085969,2nd innings,South Africa,Australia,16.6,L Wolvaardt,T Chetty,A Gardner,1,0,1,NA,0,NA,NA,NA,0
+1085969,2nd innings,South Africa,Australia,17.1,L Wolvaardt,T Chetty,KM Beams,1,0,1,NA,0,NA,NA,NA,0
+1085969,2nd innings,South Africa,Australia,17.2,T Chetty,L Wolvaardt,KM Beams,0,0,0,NA,0,NA,NA,NA,0
+1085969,2nd innings,South Africa,Australia,17.3,T Chetty,L Wolvaardt,KM Beams,1,0,1,NA,0,NA,NA,NA,0
+1085969,2nd innings,South Africa,Australia,17.4,L Wolvaardt,T Chetty,KM Beams,1,0,1,NA,0,NA,NA,NA,0
+1085969,2nd innings,South Africa,Australia,17.5,T Chetty,L Wolvaardt,KM Beams,2,0,2,NA,0,NA,NA,NA,0
+1085969,2nd innings,South Africa,Australia,17.6,T Chetty,L Wolvaardt,KM Beams,0,0,0,NA,0,NA,NA,NA,0
+1085969,2nd innings,South Africa,Australia,18.1,L Wolvaardt,T Chetty,EJ Villani,1,0,1,NA,0,NA,NA,NA,0
+1085969,2nd innings,South Africa,Australia,18.2,T Chetty,L Wolvaardt,EJ Villani,1,0,1,NA,0,NA,NA,NA,0
+1085969,2nd innings,South Africa,Australia,18.3,L Wolvaardt,T Chetty,EJ Villani,1,0,1,NA,0,NA,NA,NA,0
+1085969,2nd innings,South Africa,Australia,18.4,T Chetty,L Wolvaardt,EJ Villani,2,0,2,NA,0,NA,NA,NA,0
+1085969,2nd innings,South Africa,Australia,18.5,T Chetty,L Wolvaardt,EJ Villani,1,0,1,NA,0,NA,NA,NA,0
+1085969,2nd innings,South Africa,Australia,18.6,L Wolvaardt,T Chetty,EJ Villani,1,0,1,NA,0,NA,NA,NA,0
+1085969,2nd innings,South Africa,Australia,19.1,L Wolvaardt,T Chetty,KM Beams,1,0,1,NA,0,NA,NA,NA,0
+1085969,2nd innings,South Africa,Australia,19.2,T Chetty,L Wolvaardt,KM Beams,0,0,0,NA,0,NA,NA,NA,0
+1085969,2nd innings,South Africa,Australia,19.3,T Chetty,L Wolvaardt,KM Beams,0,0,0,NA,0,NA,NA,NA,0
+1085969,2nd innings,South Africa,Australia,19.4,T Chetty,L Wolvaardt,KM Beams,1,0,1,NA,0,NA,NA,NA,0
+1085969,2nd innings,South Africa,Australia,19.5,L Wolvaardt,T Chetty,KM Beams,0,0,0,NA,0,NA,NA,NA,0
+1085969,2nd innings,South Africa,Australia,19.6,L Wolvaardt,T Chetty,KM Beams,0,0,0,NA,0,NA,NA,NA,0
+1085969,2nd innings,South Africa,Australia,20.1,T Chetty,L Wolvaardt,EJ Villani,1,0,1,NA,0,NA,NA,NA,0
+1085969,2nd innings,South Africa,Australia,20.2,L Wolvaardt,T Chetty,EJ Villani,0,0,0,NA,0,NA,NA,NA,0
+1085969,2nd innings,South Africa,Australia,20.3,L Wolvaardt,T Chetty,EJ Villani,2,0,2,NA,0,NA,NA,NA,0
+1085969,2nd innings,South Africa,Australia,20.4,L Wolvaardt,T Chetty,EJ Villani,1,0,1,NA,0,NA,NA,NA,0
+1085969,2nd innings,South Africa,Australia,20.5,T Chetty,L Wolvaardt,EJ Villani,0,0,0,NA,0,NA,NA,NA,0
+1085969,2nd innings,South Africa,Australia,20.6,T Chetty,L Wolvaardt,EJ Villani,1,0,1,NA,0,NA,NA,NA,0
+1085969,2nd innings,South Africa,Australia,21.1,T Chetty,L Wolvaardt,KM Beams,0,0,0,NA,0,NA,NA,NA,0
+1085969,2nd innings,South Africa,Australia,21.2,T Chetty,L Wolvaardt,KM Beams,1,0,1,NA,1,run out,T Chetty,EA Perry,0
+1085969,2nd innings,South Africa,Australia,21.3,M du Preez,L Wolvaardt,KM Beams,0,0,0,NA,0,NA,NA,NA,0
+1085969,2nd innings,South Africa,Australia,21.4,M du Preez,L Wolvaardt,KM Beams,0,0,0,NA,0,NA,NA,NA,0
+1085969,2nd innings,South Africa,Australia,21.5,M du Preez,L Wolvaardt,KM Beams,0,0,0,NA,0,NA,NA,NA,0
+1085969,2nd innings,South Africa,Australia,21.6,M du Preez,L Wolvaardt,KM Beams,0,0,0,NA,0,NA,NA,NA,0
+1085969,2nd innings,South Africa,Australia,22.1,L Wolvaardt,M du Preez,ML Schutt,1,0,1,NA,0,NA,NA,NA,0
+1085969,2nd innings,South Africa,Australia,22.2,M du Preez,L Wolvaardt,ML Schutt,4,0,4,NA,0,NA,NA,NA,0
+1085969,2nd innings,South Africa,Australia,22.3,M du Preez,L Wolvaardt,ML Schutt,1,0,1,NA,0,NA,NA,NA,0
+1085969,2nd innings,South Africa,Australia,22.4,L Wolvaardt,M du Preez,ML Schutt,0,0,0,NA,0,NA,NA,NA,0
+1085969,2nd innings,South Africa,Australia,22.5,L Wolvaardt,M du Preez,ML Schutt,1,0,1,NA,0,NA,NA,NA,0
+1085969,2nd innings,South Africa,Australia,22.6,M du Preez,L Wolvaardt,ML Schutt,1,0,1,NA,0,NA,NA,NA,0
+1085969,2nd innings,South Africa,Australia,23.1,M du Preez,L Wolvaardt,KM Beams,0,0,0,NA,0,NA,NA,NA,0
+1085969,2nd innings,South Africa,Australia,23.2,M du Preez,L Wolvaardt,KM Beams,0,0,0,NA,0,NA,NA,NA,0
+1085969,2nd innings,South Africa,Australia,23.3,M du Preez,L Wolvaardt,KM Beams,1,0,1,NA,0,NA,NA,NA,0
+1085969,2nd innings,South Africa,Australia,23.4,L Wolvaardt,M du Preez,KM Beams,0,0,0,NA,0,NA,NA,NA,0
+1085969,2nd innings,South Africa,Australia,23.5,L Wolvaardt,M du Preez,KM Beams,0,0,0,NA,0,NA,NA,NA,0
+1085969,2nd innings,South Africa,Australia,23.6,L Wolvaardt,M du Preez,KM Beams,0,0,0,NA,0,NA,NA,NA,0
+1085969,2nd innings,South Africa,Australia,24.1,M du Preez,L Wolvaardt,JL Jonassen,0,0,0,NA,0,NA,NA,NA,0
+1085969,2nd innings,South Africa,Australia,24.2,M du Preez,L Wolvaardt,JL Jonassen,2,0,2,NA,0,NA,NA,NA,0
+1085969,2nd innings,South Africa,Australia,24.3,M du Preez,L Wolvaardt,JL Jonassen,0,0,0,NA,0,NA,NA,NA,0
+1085969,2nd innings,South Africa,Australia,24.4,M du Preez,L Wolvaardt,JL Jonassen,1,0,1,NA,0,NA,NA,NA,0
+1085969,2nd innings,South Africa,Australia,24.5,L Wolvaardt,M du Preez,JL Jonassen,1,0,1,NA,0,NA,NA,NA,0
+1085969,2nd innings,South Africa,Australia,24.6,M du Preez,L Wolvaardt,JL Jonassen,0,0,0,NA,0,NA,NA,NA,0
+1085969,2nd innings,South Africa,Australia,25.1,L Wolvaardt,M du Preez,A Gardner,0,0,0,NA,0,NA,NA,NA,0
+1085969,2nd innings,South Africa,Australia,25.2,L Wolvaardt,M du Preez,A Gardner,1,0,1,NA,0,NA,NA,NA,0
+1085969,2nd innings,South Africa,Australia,25.3,M du Preez,L Wolvaardt,A Gardner,1,0,1,NA,0,NA,NA,NA,0
+1085969,2nd innings,South Africa,Australia,25.4,L Wolvaardt,M du Preez,A Gardner,0,0,0,NA,0,NA,NA,NA,0
+1085969,2nd innings,South Africa,Australia,25.5,L Wolvaardt,M du Preez,A Gardner,1,0,1,NA,0,NA,NA,NA,0
+1085969,2nd innings,South Africa,Australia,25.6,M du Preez,L Wolvaardt,A Gardner,1,0,1,NA,0,NA,NA,NA,0
+1085969,2nd innings,South Africa,Australia,26.1,M du Preez,L Wolvaardt,JL Jonassen,4,0,4,NA,0,NA,NA,NA,0
+1085969,2nd innings,South Africa,Australia,26.2,M du Preez,L Wolvaardt,JL Jonassen,0,0,0,NA,0,NA,NA,NA,0
+1085969,2nd innings,South Africa,Australia,26.3,M du Preez,L Wolvaardt,JL Jonassen,0,0,0,NA,0,NA,NA,NA,0
+1085969,2nd innings,South Africa,Australia,26.4,M du Preez,L Wolvaardt,JL Jonassen,1,0,1,NA,0,NA,NA,NA,0
+1085969,2nd innings,South Africa,Australia,26.5,L Wolvaardt,M du Preez,JL Jonassen,1,0,1,NA,0,NA,NA,NA,0
+1085969,2nd innings,South Africa,Australia,26.6,M du Preez,L Wolvaardt,JL Jonassen,0,0,0,NA,0,NA,NA,NA,0
+1085969,2nd innings,South Africa,Australia,27.1,L Wolvaardt,M du Preez,A Gardner,0,0,0,NA,0,NA,NA,NA,0
+1085969,2nd innings,South Africa,Australia,27.2,L Wolvaardt,M du Preez,A Gardner,1,0,1,NA,0,NA,NA,NA,0
+1085969,2nd innings,South Africa,Australia,27.3,M du Preez,L Wolvaardt,A Gardner,1,0,1,NA,0,NA,NA,NA,0
+1085969,2nd innings,South Africa,Australia,27.4,L Wolvaardt,M du Preez,A Gardner,0,0,0,NA,0,NA,NA,NA,0
+1085969,2nd innings,South Africa,Australia,27.5,L Wolvaardt,M du Preez,A Gardner,1,0,1,NA,0,NA,NA,NA,0
+1085969,2nd innings,South Africa,Australia,27.6,M du Preez,L Wolvaardt,A Gardner,0,1,1,byes,0,NA,NA,NA,0
+1085969,2nd innings,South Africa,Australia,28.1,M du Preez,L Wolvaardt,JL Jonassen,0,0,0,NA,0,NA,NA,NA,0
+1085969,2nd innings,South Africa,Australia,28.2,M du Preez,L Wolvaardt,JL Jonassen,0,0,0,NA,0,NA,NA,NA,0
+1085969,2nd innings,South Africa,Australia,28.3,M du Preez,L Wolvaardt,JL Jonassen,1,0,1,NA,0,NA,NA,NA,0
+1085969,2nd innings,South Africa,Australia,28.4,L Wolvaardt,M du Preez,JL Jonassen,1,0,1,NA,0,NA,NA,NA,0
+1085969,2nd innings,South Africa,Australia,28.5,M du Preez,L Wolvaardt,JL Jonassen,0,0,0,NA,0,NA,NA,NA,0
+1085969,2nd innings,South Africa,Australia,28.6,M du Preez,L Wolvaardt,JL Jonassen,0,0,0,NA,0,NA,NA,NA,0
+1085969,2nd innings,South Africa,Australia,29.1,L Wolvaardt,M du Preez,A Gardner,0,0,0,NA,0,NA,NA,NA,0
+1085969,2nd innings,South Africa,Australia,29.2,L Wolvaardt,M du Preez,A Gardner,2,0,2,NA,0,NA,NA,NA,0
+1085969,2nd innings,South Africa,Australia,29.3,L Wolvaardt,M du Preez,A Gardner,1,0,1,NA,0,NA,NA,NA,0
+1085969,2nd innings,South Africa,Australia,29.4,M du Preez,L Wolvaardt,A Gardner,0,0,0,NA,0,NA,NA,NA,0
+1085969,2nd innings,South Africa,Australia,29.5,M du Preez,L Wolvaardt,A Gardner,0,0,0,NA,0,NA,NA,NA,0
+1085969,2nd innings,South Africa,Australia,29.6,M du Preez,L Wolvaardt,A Gardner,1,0,1,NA,0,NA,NA,NA,0
+1085969,2nd innings,South Africa,Australia,30.1,M du Preez,L Wolvaardt,RL Haynes,0,0,0,NA,1,caught,M du Preez,A Gardner,0
+1085969,2nd innings,South Africa,Australia,30.2,L Wolvaardt,M Kapp,RL Haynes,0,0,0,NA,0,NA,NA,NA,0
+1085969,2nd innings,South Africa,Australia,30.3,L Wolvaardt,M Kapp,RL Haynes,1,0,1,NA,0,NA,NA,NA,0
+1085969,2nd innings,South Africa,Australia,30.4,M Kapp,L Wolvaardt,RL Haynes,1,0,1,NA,0,NA,NA,NA,0
+1085969,2nd innings,South Africa,Australia,30.5,L Wolvaardt,M Kapp,RL Haynes,1,0,1,NA,0,NA,NA,NA,0
+1085969,2nd innings,South Africa,Australia,30.6,M Kapp,L Wolvaardt,RL Haynes,0,0,0,NA,0,NA,NA,NA,0
+1085969,2nd innings,South Africa,Australia,31.1,L Wolvaardt,M Kapp,KM Beams,0,0,0,NA,0,NA,NA,NA,0
+1085969,2nd innings,South Africa,Australia,31.2,L Wolvaardt,M Kapp,KM Beams,1,0,1,NA,0,NA,NA,NA,0
+1085969,2nd innings,South Africa,Australia,31.3,M Kapp,L Wolvaardt,KM Beams,0,0,0,NA,0,NA,NA,NA,0
+1085969,2nd innings,South Africa,Australia,31.4,M Kapp,L Wolvaardt,KM Beams,0,0,0,NA,0,NA,NA,NA,0
+1085969,2nd innings,South Africa,Australia,31.5,M Kapp,L Wolvaardt,KM Beams,0,0,0,NA,0,NA,NA,NA,0
+1085969,2nd innings,South Africa,Australia,31.6,M Kapp,L Wolvaardt,KM Beams,4,0,4,NA,0,NA,NA,NA,0
+1085969,2nd innings,South Africa,Australia,32.1,L Wolvaardt,M Kapp,RL Haynes,2,0,2,NA,0,NA,NA,NA,0
+1085969,2nd innings,South Africa,Australia,32.2,L Wolvaardt,M Kapp,RL Haynes,1,0,1,NA,0,NA,NA,NA,0
+1085969,2nd innings,South Africa,Australia,32.3,M Kapp,L Wolvaardt,RL Haynes,4,0,4,NA,0,NA,NA,NA,0
+1085969,2nd innings,South Africa,Australia,32.4,M Kapp,L Wolvaardt,RL Haynes,1,0,1,NA,0,NA,NA,NA,0
+1085969,2nd innings,South Africa,Australia,32.5,L Wolvaardt,M Kapp,RL Haynes,0,0,0,NA,1,caught,L Wolvaardt,A Gardner,0
+1085969,2nd innings,South Africa,Australia,32.6,M Kapp,S Luus,RL Haynes,1,0,1,NA,0,NA,NA,NA,0
+1085969,2nd innings,South Africa,Australia,33.1,M Kapp,S Luus,KM Beams,1,0,1,NA,0,NA,NA,NA,0
+1085969,2nd innings,South Africa,Australia,33.2,S Luus,M Kapp,KM Beams,0,0,0,NA,0,NA,NA,NA,0
+1085969,2nd innings,South Africa,Australia,33.3,S Luus,M Kapp,KM Beams,0,0,0,NA,0,NA,NA,NA,0
+1085969,2nd innings,South Africa,Australia,33.4,S Luus,M Kapp,KM Beams,0,0,0,NA,0,NA,NA,NA,0
+1085969,2nd innings,South Africa,Australia,33.5,S Luus,M Kapp,KM Beams,0,0,0,NA,0,NA,NA,NA,0
+1085969,2nd innings,South Africa,Australia,33.6,S Luus,M Kapp,KM Beams,0,0,0,NA,0,NA,NA,NA,0
+1085969,2nd innings,South Africa,Australia,34.1,M Kapp,S Luus,EA Perry,1,0,1,NA,0,NA,NA,NA,0
+1085969,2nd innings,South Africa,Australia,34.2,S Luus,M Kapp,EA Perry,2,0,2,NA,0,NA,NA,NA,0
+1085969,2nd innings,South Africa,Australia,34.3,S Luus,M Kapp,EA Perry,0,0,0,NA,0,NA,NA,NA,0
+1085969,2nd innings,South Africa,Australia,34.4,S Luus,M Kapp,EA Perry,0,0,0,NA,0,NA,NA,NA,0
+1085969,2nd innings,South Africa,Australia,34.5,S Luus,M Kapp,EA Perry,0,0,0,NA,0,NA,NA,NA,0
+1085969,2nd innings,South Africa,Australia,34.6,S Luus,M Kapp,EA Perry,1,0,1,NA,0,NA,NA,NA,0
+1085969,2nd innings,South Africa,Australia,35.1,S Luus,M Kapp,JL Jonassen,1,0,1,NA,0,NA,NA,NA,0
+1085969,2nd innings,South Africa,Australia,35.2,M Kapp,S Luus,JL Jonassen,1,0,1,NA,0,NA,NA,NA,0
+1085969,2nd innings,South Africa,Australia,35.3,S Luus,M Kapp,JL Jonassen,1,0,1,NA,0,NA,NA,NA,0
+1085969,2nd innings,South Africa,Australia,35.4,M Kapp,S Luus,JL Jonassen,4,0,4,NA,0,NA,NA,NA,0
+1085969,2nd innings,South Africa,Australia,35.5,M Kapp,S Luus,JL Jonassen,1,0,1,NA,0,NA,NA,NA,0
+1085969,2nd innings,South Africa,Australia,35.6,S Luus,M Kapp,JL Jonassen,0,0,0,NA,0,NA,NA,NA,0
+1085969,2nd innings,South Africa,Australia,36.1,M Kapp,S Luus,EA Perry,0,0,0,NA,0,NA,NA,NA,0
+1085969,2nd innings,South Africa,Australia,36.2,M Kapp,S Luus,EA Perry,0,0,0,NA,1,run out,M Kapp,AJ Blackwell,0
+1085969,2nd innings,South Africa,Australia,36.3,S Luus,D van Niekerk,EA Perry,1,0,1,NA,0,NA,NA,NA,0
+1085969,2nd innings,South Africa,Australia,36.4,D van Niekerk,S Luus,EA Perry,0,0,0,NA,0,NA,NA,NA,0
+1085969,2nd innings,South Africa,Australia,36.5,D van Niekerk,S Luus,EA Perry,1,0,1,NA,0,NA,NA,NA,0
+1085969,2nd innings,South Africa,Australia,36.6,S Luus,D van Niekerk,EA Perry,0,0,0,NA,0,NA,NA,NA,0
+1085969,2nd innings,South Africa,Australia,37.1,D van Niekerk,S Luus,JL Jonassen,0,0,0,NA,0,NA,NA,NA,0
+1085969,2nd innings,South Africa,Australia,37.2,D van Niekerk,S Luus,JL Jonassen,0,0,0,NA,0,NA,NA,NA,0
+1085969,2nd innings,South Africa,Australia,37.3,D van Niekerk,S Luus,JL Jonassen,0,0,0,NA,1,bowled,D van Niekerk,NA,0
+1085969,2nd innings,South Africa,Australia,37.4,S Ismail,S Luus,JL Jonassen,0,0,0,NA,0,NA,NA,NA,0
+1085969,2nd innings,South Africa,Australia,37.5,S Ismail,S Luus,JL Jonassen,0,0,0,NA,0,NA,NA,NA,0
+1085969,2nd innings,South Africa,Australia,37.6,S Ismail,S Luus,JL Jonassen,0,0,0,NA,0,NA,NA,NA,0
+1085969,2nd innings,South Africa,Australia,38.1,S Luus,S Ismail,EA Perry,0,0,0,NA,1,caught,S Luus,AJ Healy,0
+1085969,2nd innings,South Africa,Australia,38.2,A Khaka,S Ismail,EA Perry,0,1,1,wides,0,NA,NA,NA,0
+1085969,2nd innings,South Africa,Australia,38.3,A Khaka,S Ismail,EA Perry,0,0,0,NA,1,lbw,A Khaka,NA,0
+1085969,2nd innings,South Africa,Australia,38.4,M Klaas,S Ismail,EA Perry,1,0,1,NA,0,NA,NA,NA,0
+1085969,2nd innings,South Africa,Australia,38.5,S Ismail,M Klaas,EA Perry,0,0,0,NA,0,NA,NA,NA,0
+1085969,2nd innings,South Africa,Australia,38.6,S Ismail,M Klaas,EA Perry,1,0,1,NA,0,NA,NA,NA,0
+1085969,2nd innings,South Africa,Australia,38.7,M Klaas,S Ismail,EA Perry,0,1,1,legbyes,0,NA,NA,NA,0
+1085969,2nd innings,South Africa,Australia,39.1,M Klaas,S Ismail,JL Jonassen,1,0,1,NA,0,NA,NA,NA,0
+1085969,2nd innings,South Africa,Australia,39.2,S Ismail,M Klaas,JL Jonassen,0,0,0,NA,0,NA,NA,NA,0
+1085969,2nd innings,South Africa,Australia,39.3,S Ismail,M Klaas,JL Jonassen,0,0,0,NA,0,NA,NA,NA,0
+1085969,2nd innings,South Africa,Australia,39.4,S Ismail,M Klaas,JL Jonassen,1,0,1,NA,0,NA,NA,NA,0
+1085969,2nd innings,South Africa,Australia,39.5,M Klaas,S Ismail,JL Jonassen,1,0,1,NA,0,NA,NA,NA,0
+1085969,2nd innings,South Africa,Australia,39.6,S Ismail,M Klaas,JL Jonassen,0,0,0,NA,0,NA,NA,NA,0
+1085969,2nd innings,South Africa,Australia,40.1,M Klaas,S Ismail,EA Perry,1,0,1,NA,0,NA,NA,NA,0
+1085969,2nd innings,South Africa,Australia,40.2,S Ismail,M Klaas,EA Perry,0,0,0,NA,0,NA,NA,NA,0
+1085969,2nd innings,South Africa,Australia,40.3,S Ismail,M Klaas,EA Perry,1,0,1,NA,0,NA,NA,NA,0
+1085969,2nd innings,South Africa,Australia,40.4,M Klaas,S Ismail,EA Perry,1,0,1,NA,0,NA,NA,NA,0
+1085969,2nd innings,South Africa,Australia,40.5,S Ismail,M Klaas,EA Perry,2,0,2,NA,0,NA,NA,NA,0
+1085969,2nd innings,South Africa,Australia,40.6,S Ismail,M Klaas,EA Perry,0,0,0,NA,0,NA,NA,NA,0
+1085969,2nd innings,South Africa,Australia,41.1,M Klaas,S Ismail,JL Jonassen,0,0,0,NA,0,NA,NA,NA,0
+1085969,2nd innings,South Africa,Australia,41.2,M Klaas,S Ismail,JL Jonassen,0,0,0,NA,0,NA,NA,NA,0
+1085969,2nd innings,South Africa,Australia,41.3,M Klaas,S Ismail,JL Jonassen,0,0,0,NA,0,NA,NA,NA,0
+1085969,2nd innings,South Africa,Australia,41.4,M Klaas,S Ismail,JL Jonassen,0,0,0,NA,0,NA,NA,NA,0
+1085969,2nd innings,South Africa,Australia,41.5,M Klaas,S Ismail,JL Jonassen,1,0,1,NA,0,NA,NA,NA,0
+1085969,2nd innings,South Africa,Australia,41.6,S Ismail,M Klaas,JL Jonassen,1,0,1,NA,0,NA,NA,NA,0
+1085969,2nd innings,South Africa,Australia,42.1,S Ismail,M Klaas,A Gardner,0,0,0,NA,0,NA,NA,NA,0
+1085969,2nd innings,South Africa,Australia,42.2,S Ismail,M Klaas,A Gardner,0,0,0,NA,0,NA,NA,NA,0
+1085969,2nd innings,South Africa,Australia,42.3,S Ismail,M Klaas,A Gardner,0,0,0,NA,0,NA,NA,NA,0
+1085969,2nd innings,South Africa,Australia,42.4,S Ismail,M Klaas,A Gardner,1,0,1,NA,0,NA,NA,NA,0
+1085969,2nd innings,South Africa,Australia,42.5,M Klaas,S Ismail,A Gardner,1,0,1,NA,0,NA,NA,NA,0
+1085969,2nd innings,South Africa,Australia,42.6,S Ismail,M Klaas,A Gardner,0,0,0,NA,0,NA,NA,NA,0
+1085969,2nd innings,South Africa,Australia,43.1,M Klaas,S Ismail,KM Beams,0,0,0,NA,0,NA,NA,NA,0
+1085969,2nd innings,South Africa,Australia,43.2,M Klaas,S Ismail,KM Beams,0,0,0,NA,0,NA,NA,NA,0
+1085969,2nd innings,South Africa,Australia,43.3,M Klaas,S Ismail,KM Beams,0,0,0,NA,0,NA,NA,NA,0
+1085969,2nd innings,South Africa,Australia,43.4,M Klaas,S Ismail,KM Beams,2,0,2,NA,0,NA,NA,NA,0
+1085969,2nd innings,South Africa,Australia,43.5,M Klaas,S Ismail,KM Beams,0,0,0,NA,0,NA,NA,NA,0
+1085969,2nd innings,South Africa,Australia,43.6,M Klaas,S Ismail,KM Beams,0,0,0,NA,0,NA,NA,NA,0
+1085969,2nd innings,South Africa,Australia,44.1,S Ismail,M Klaas,A Gardner,0,0,0,NA,0,NA,NA,NA,0
+1085969,2nd innings,South Africa,Australia,44.2,S Ismail,M Klaas,A Gardner,0,0,0,NA,0,NA,NA,NA,0
+1085969,2nd innings,South Africa,Australia,44.3,S Ismail,M Klaas,A Gardner,0,0,0,NA,0,NA,NA,NA,0
+1085969,2nd innings,South Africa,Australia,44.4,S Ismail,M Klaas,A Gardner,0,0,0,NA,0,NA,NA,NA,0
+1085969,2nd innings,South Africa,Australia,44.5,S Ismail,M Klaas,A Gardner,1,0,1,NA,0,NA,NA,NA,0
+1085969,2nd innings,South Africa,Australia,44.6,M Klaas,S Ismail,A Gardner,0,0,0,NA,0,NA,NA,NA,0
+1085969,2nd innings,South Africa,Australia,45.1,S Ismail,M Klaas,KM Beams,0,0,0,NA,0,NA,NA,NA,0
+1085969,2nd innings,South Africa,Australia,45.2,S Ismail,M Klaas,KM Beams,1,0,1,NA,0,NA,NA,NA,0
+1085969,2nd innings,South Africa,Australia,45.3,M Klaas,S Ismail,KM Beams,0,0,0,NA,1,bowled,M Klaas,NA,0
+1085969,2nd innings,South Africa,Australia,45.4,M Daniels,S Ismail,KM Beams,0,0,0,NA,0,NA,NA,NA,0
+1085969,2nd innings,South Africa,Australia,45.5,M Daniels,S Ismail,KM Beams,0,0,0,NA,0,NA,NA,NA,0
+1085969,2nd innings,South Africa,Australia,45.6,M Daniels,S Ismail,KM Beams,0,0,0,NA,0,NA,NA,NA,0
+1085969,2nd innings,South Africa,Australia,46.1,S Ismail,M Daniels,EA Perry,4,0,4,NA,0,NA,NA,NA,0
+1085969,2nd innings,South Africa,Australia,46.2,S Ismail,M Daniels,EA Perry,0,0,0,NA,0,NA,NA,NA,0
+1085969,2nd innings,South Africa,Australia,46.3,S Ismail,M Daniels,EA Perry,0,0,0,NA,0,NA,NA,NA,0
+1085969,2nd innings,South Africa,Australia,46.4,S Ismail,M Daniels,EA Perry,0,0,0,NA,0,NA,NA,NA,0
+1085969,2nd innings,South Africa,Australia,46.5,S Ismail,M Daniels,EA Perry,1,0,1,NA,0,NA,NA,NA,0
+1085969,2nd innings,South Africa,Australia,46.6,M Daniels,S Ismail,EA Perry,0,0,0,NA,0,NA,NA,NA,0
+1085969,2nd innings,South Africa,Australia,47.1,S Ismail,M Daniels,KM Beams,0,0,0,NA,0,NA,NA,NA,0
+1085969,2nd innings,South Africa,Australia,47.2,S Ismail,M Daniels,KM Beams,0,0,0,NA,0,NA,NA,NA,0
+1085969,2nd innings,South Africa,Australia,47.3,S Ismail,M Daniels,KM Beams,4,0,4,NA,0,NA,NA,NA,0
+1085969,2nd innings,South Africa,Australia,47.4,S Ismail,M Daniels,KM Beams,1,0,1,NA,0,NA,NA,NA,0
+1085969,2nd innings,South Africa,Australia,47.5,M Daniels,S Ismail,KM Beams,0,0,0,NA,0,NA,NA,NA,0
+1085969,2nd innings,South Africa,Australia,47.6,M Daniels,S Ismail,KM Beams,1,0,1,NA,0,NA,NA,NA,0
+1085969,2nd innings,South Africa,Australia,48.1,M Daniels,S Ismail,EA Perry,0,0,0,NA,0,NA,NA,NA,0
+1085969,2nd innings,South Africa,Australia,48.2,M Daniels,S Ismail,EA Perry,4,0,4,NA,0,NA,NA,NA,0
+1085969,2nd innings,South Africa,Australia,48.3,M Daniels,S Ismail,EA Perry,0,1,1,wides,0,NA,NA,NA,0
+1085969,2nd innings,South Africa,Australia,48.4,M Daniels,S Ismail,EA Perry,0,0,0,NA,0,NA,NA,NA,0
+1085969,2nd innings,South Africa,Australia,48.5,M Daniels,S Ismail,EA Perry,1,0,1,NA,0,NA,NA,NA,0
+1085969,2nd innings,South Africa,Australia,48.6,S Ismail,M Daniels,EA Perry,2,0,2,NA,0,NA,NA,NA,0
+1085969,2nd innings,South Africa,Australia,48.7,S Ismail,M Daniels,EA Perry,4,0,4,NA,0,NA,NA,NA,0
+1085969,2nd innings,South Africa,Australia,49.1,M Daniels,S Ismail,ML Schutt,1,0,1,NA,0,NA,NA,NA,0
+1085969,2nd innings,South Africa,Australia,49.2,S Ismail,M Daniels,ML Schutt,0,0,0,NA,0,NA,NA,NA,0
+1085969,2nd innings,South Africa,Australia,49.3,S Ismail,M Daniels,ML Schutt,1,0,1,NA,0,NA,NA,NA,0
+1085969,2nd innings,South Africa,Australia,49.4,M Daniels,S Ismail,ML Schutt,0,1,1,legbyes,0,NA,NA,NA,0
+1085969,2nd innings,South Africa,Australia,49.5,S Ismail,M Daniels,ML Schutt,0,0,0,NA,0,NA,NA,NA,0
+1085969,2nd innings,South Africa,Australia,49.6,S Ismail,M Daniels,ML Schutt,0,0,0,NA,1,caught,S Ismail,EJ Villani,0

@@ -1,0 +1,578 @@
+match_id,innings,team,opponent,ball,batsman,non_striker,bowler,scored_runs,extras,total,extra_type,wicket,wicket_type,player_out,fielders,winner
+410341,1st innings,Zimbabwe,Bangladesh,0.1,V Sibanda,H Masakadza,Syed Rasel,0,0,0,NA,0,NA,NA,NA,0
+410341,1st innings,Zimbabwe,Bangladesh,0.2,V Sibanda,H Masakadza,Syed Rasel,0,0,0,NA,0,NA,NA,NA,0
+410341,1st innings,Zimbabwe,Bangladesh,0.3,V Sibanda,H Masakadza,Syed Rasel,0,0,0,NA,0,NA,NA,NA,0
+410341,1st innings,Zimbabwe,Bangladesh,0.4,V Sibanda,H Masakadza,Syed Rasel,0,1,1,legbyes,0,NA,NA,NA,0
+410341,1st innings,Zimbabwe,Bangladesh,0.5,H Masakadza,V Sibanda,Syed Rasel,0,1,1,legbyes,0,NA,NA,NA,0
+410341,1st innings,Zimbabwe,Bangladesh,0.6,V Sibanda,H Masakadza,Syed Rasel,2,0,2,NA,0,NA,NA,NA,0
+410341,1st innings,Zimbabwe,Bangladesh,1.1,H Masakadza,V Sibanda,Dolar Mahmud,0,0,0,NA,0,NA,NA,NA,0
+410341,1st innings,Zimbabwe,Bangladesh,1.2,H Masakadza,V Sibanda,Dolar Mahmud,1,0,1,NA,0,NA,NA,NA,0
+410341,1st innings,Zimbabwe,Bangladesh,1.3,V Sibanda,H Masakadza,Dolar Mahmud,0,0,0,NA,0,NA,NA,NA,0
+410341,1st innings,Zimbabwe,Bangladesh,1.4,V Sibanda,H Masakadza,Dolar Mahmud,0,0,0,NA,0,NA,NA,NA,0
+410341,1st innings,Zimbabwe,Bangladesh,1.5,V Sibanda,H Masakadza,Dolar Mahmud,0,0,0,NA,1,bowled,V Sibanda,NA,0
+410341,1st innings,Zimbabwe,Bangladesh,1.6,CK Coventry,H Masakadza,Dolar Mahmud,0,0,0,NA,0,NA,NA,NA,0
+410341,1st innings,Zimbabwe,Bangladesh,2.1,H Masakadza,CK Coventry,Syed Rasel,0,0,0,NA,0,NA,NA,NA,0
+410341,1st innings,Zimbabwe,Bangladesh,2.2,H Masakadza,CK Coventry,Syed Rasel,1,0,1,NA,0,NA,NA,NA,0
+410341,1st innings,Zimbabwe,Bangladesh,2.3,CK Coventry,H Masakadza,Syed Rasel,0,0,0,NA,0,NA,NA,NA,0
+410341,1st innings,Zimbabwe,Bangladesh,2.4,CK Coventry,H Masakadza,Syed Rasel,0,2,2,legbyes,0,NA,NA,NA,0
+410341,1st innings,Zimbabwe,Bangladesh,2.5,CK Coventry,H Masakadza,Syed Rasel,0,1,1,legbyes,0,NA,NA,NA,0
+410341,1st innings,Zimbabwe,Bangladesh,2.6,H Masakadza,CK Coventry,Syed Rasel,0,0,0,NA,0,NA,NA,NA,0
+410341,1st innings,Zimbabwe,Bangladesh,3.1,CK Coventry,H Masakadza,Dolar Mahmud,0,0,0,NA,0,NA,NA,NA,0
+410341,1st innings,Zimbabwe,Bangladesh,3.2,CK Coventry,H Masakadza,Dolar Mahmud,0,0,0,NA,0,NA,NA,NA,0
+410341,1st innings,Zimbabwe,Bangladesh,3.3,CK Coventry,H Masakadza,Dolar Mahmud,0,0,0,NA,1,caught,CK Coventry,Mushfiqur Rahim,0
+410341,1st innings,Zimbabwe,Bangladesh,3.4,MN Waller,H Masakadza,Dolar Mahmud,0,0,0,NA,0,NA,NA,NA,0
+410341,1st innings,Zimbabwe,Bangladesh,3.5,MN Waller,H Masakadza,Dolar Mahmud,1,0,1,NA,0,NA,NA,NA,0
+410341,1st innings,Zimbabwe,Bangladesh,3.6,H Masakadza,MN Waller,Dolar Mahmud,1,0,1,NA,0,NA,NA,NA,0
+410341,1st innings,Zimbabwe,Bangladesh,4.1,H Masakadza,MN Waller,Syed Rasel,0,0,0,NA,0,NA,NA,NA,0
+410341,1st innings,Zimbabwe,Bangladesh,4.2,H Masakadza,MN Waller,Syed Rasel,0,0,0,NA,0,NA,NA,NA,0
+410341,1st innings,Zimbabwe,Bangladesh,4.3,H Masakadza,MN Waller,Syed Rasel,1,0,1,NA,0,NA,NA,NA,0
+410341,1st innings,Zimbabwe,Bangladesh,4.4,MN Waller,H Masakadza,Syed Rasel,4,0,4,NA,0,NA,NA,NA,0
+410341,1st innings,Zimbabwe,Bangladesh,4.5,MN Waller,H Masakadza,Syed Rasel,1,0,1,NA,0,NA,NA,NA,0
+410341,1st innings,Zimbabwe,Bangladesh,4.6,H Masakadza,MN Waller,Syed Rasel,4,0,4,NA,0,NA,NA,NA,0
+410341,1st innings,Zimbabwe,Bangladesh,5.1,MN Waller,H Masakadza,Dolar Mahmud,0,0,0,NA,0,NA,NA,NA,0
+410341,1st innings,Zimbabwe,Bangladesh,5.2,MN Waller,H Masakadza,Dolar Mahmud,0,0,0,NA,0,NA,NA,NA,0
+410341,1st innings,Zimbabwe,Bangladesh,5.3,MN Waller,H Masakadza,Dolar Mahmud,0,1,1,legbyes,0,NA,NA,NA,0
+410341,1st innings,Zimbabwe,Bangladesh,5.4,H Masakadza,MN Waller,Dolar Mahmud,0,0,0,NA,0,NA,NA,NA,0
+410341,1st innings,Zimbabwe,Bangladesh,5.5,H Masakadza,MN Waller,Dolar Mahmud,2,0,2,NA,0,NA,NA,NA,0
+410341,1st innings,Zimbabwe,Bangladesh,5.6,H Masakadza,MN Waller,Dolar Mahmud,1,0,1,NA,0,NA,NA,NA,0
+410341,1st innings,Zimbabwe,Bangladesh,6.1,H Masakadza,MN Waller,Syed Rasel,0,0,0,NA,0,NA,NA,NA,0
+410341,1st innings,Zimbabwe,Bangladesh,6.2,H Masakadza,MN Waller,Syed Rasel,1,0,1,NA,0,NA,NA,NA,0
+410341,1st innings,Zimbabwe,Bangladesh,6.3,MN Waller,H Masakadza,Syed Rasel,0,0,0,NA,0,NA,NA,NA,0
+410341,1st innings,Zimbabwe,Bangladesh,6.4,MN Waller,H Masakadza,Syed Rasel,0,0,0,NA,0,NA,NA,NA,0
+410341,1st innings,Zimbabwe,Bangladesh,6.5,MN Waller,H Masakadza,Syed Rasel,2,0,2,NA,0,NA,NA,NA,0
+410341,1st innings,Zimbabwe,Bangladesh,6.6,MN Waller,H Masakadza,Syed Rasel,2,0,2,NA,0,NA,NA,NA,0
+410341,1st innings,Zimbabwe,Bangladesh,7.1,H Masakadza,MN Waller,Dolar Mahmud,4,0,4,NA,0,NA,NA,NA,0
+410341,1st innings,Zimbabwe,Bangladesh,7.2,H Masakadza,MN Waller,Dolar Mahmud,0,0,0,NA,0,NA,NA,NA,0
+410341,1st innings,Zimbabwe,Bangladesh,7.3,H Masakadza,MN Waller,Dolar Mahmud,0,0,0,NA,0,NA,NA,NA,0
+410341,1st innings,Zimbabwe,Bangladesh,7.4,H Masakadza,MN Waller,Dolar Mahmud,4,0,4,NA,0,NA,NA,NA,0
+410341,1st innings,Zimbabwe,Bangladesh,7.5,H Masakadza,MN Waller,Dolar Mahmud,0,0,0,NA,0,NA,NA,NA,0
+410341,1st innings,Zimbabwe,Bangladesh,7.6,H Masakadza,MN Waller,Dolar Mahmud,1,0,1,NA,0,NA,NA,NA,0
+410341,1st innings,Zimbabwe,Bangladesh,8.1,H Masakadza,MN Waller,Syed Rasel,4,0,4,NA,0,NA,NA,NA,0
+410341,1st innings,Zimbabwe,Bangladesh,8.2,H Masakadza,MN Waller,Syed Rasel,0,0,0,NA,1,run out,H Masakadza,Mushfiqur Rahim,0
+410341,1st innings,Zimbabwe,Bangladesh,8.3,SC Williams,MN Waller,Syed Rasel,4,0,4,NA,0,NA,NA,NA,0
+410341,1st innings,Zimbabwe,Bangladesh,8.4,SC Williams,MN Waller,Syed Rasel,0,0,0,NA,0,NA,NA,NA,0
+410341,1st innings,Zimbabwe,Bangladesh,8.5,SC Williams,MN Waller,Syed Rasel,0,0,0,NA,0,NA,NA,NA,0
+410341,1st innings,Zimbabwe,Bangladesh,8.6,SC Williams,MN Waller,Syed Rasel,0,0,0,NA,0,NA,NA,NA,0
+410341,1st innings,Zimbabwe,Bangladesh,9.1,MN Waller,SC Williams,Dolar Mahmud,0,0,0,NA,1,bowled,MN Waller,NA,0
+410341,1st innings,Zimbabwe,Bangladesh,9.2,E Chigumbura,SC Williams,Dolar Mahmud,0,0,0,NA,0,NA,NA,NA,0
+410341,1st innings,Zimbabwe,Bangladesh,9.3,E Chigumbura,SC Williams,Dolar Mahmud,1,0,1,NA,0,NA,NA,NA,0
+410341,1st innings,Zimbabwe,Bangladesh,9.4,SC Williams,E Chigumbura,Dolar Mahmud,0,1,1,wides,0,NA,NA,NA,0
+410341,1st innings,Zimbabwe,Bangladesh,9.5,SC Williams,E Chigumbura,Dolar Mahmud,0,0,0,NA,0,NA,NA,NA,0
+410341,1st innings,Zimbabwe,Bangladesh,9.6,SC Williams,E Chigumbura,Dolar Mahmud,0,0,0,NA,0,NA,NA,NA,0
+410341,1st innings,Zimbabwe,Bangladesh,9.7,SC Williams,E Chigumbura,Dolar Mahmud,4,0,4,NA,0,NA,NA,NA,0
+410341,1st innings,Zimbabwe,Bangladesh,10.1,E Chigumbura,SC Williams,Syed Rasel,0,0,0,NA,0,NA,NA,NA,0
+410341,1st innings,Zimbabwe,Bangladesh,10.2,E Chigumbura,SC Williams,Syed Rasel,0,0,0,NA,0,NA,NA,NA,0
+410341,1st innings,Zimbabwe,Bangladesh,10.3,E Chigumbura,SC Williams,Syed Rasel,4,0,4,NA,0,NA,NA,NA,0
+410341,1st innings,Zimbabwe,Bangladesh,10.4,E Chigumbura,SC Williams,Syed Rasel,0,0,0,NA,0,NA,NA,NA,0
+410341,1st innings,Zimbabwe,Bangladesh,10.5,E Chigumbura,SC Williams,Syed Rasel,1,0,1,NA,0,NA,NA,NA,0
+410341,1st innings,Zimbabwe,Bangladesh,10.6,SC Williams,E Chigumbura,Syed Rasel,0,0,0,NA,0,NA,NA,NA,0
+410341,1st innings,Zimbabwe,Bangladesh,11.1,E Chigumbura,SC Williams,Dolar Mahmud,0,0,0,NA,0,NA,NA,NA,0
+410341,1st innings,Zimbabwe,Bangladesh,11.2,E Chigumbura,SC Williams,Dolar Mahmud,0,1,1,wides,0,NA,NA,NA,0
+410341,1st innings,Zimbabwe,Bangladesh,11.3,E Chigumbura,SC Williams,Dolar Mahmud,0,0,0,NA,0,NA,NA,NA,0
+410341,1st innings,Zimbabwe,Bangladesh,11.4,E Chigumbura,SC Williams,Dolar Mahmud,1,0,1,NA,0,NA,NA,NA,0
+410341,1st innings,Zimbabwe,Bangladesh,11.5,SC Williams,E Chigumbura,Dolar Mahmud,0,0,0,NA,0,NA,NA,NA,0
+410341,1st innings,Zimbabwe,Bangladesh,11.6,SC Williams,E Chigumbura,Dolar Mahmud,0,0,0,NA,0,NA,NA,NA,0
+410341,1st innings,Zimbabwe,Bangladesh,11.7,SC Williams,E Chigumbura,Dolar Mahmud,1,0,1,NA,0,NA,NA,NA,0
+410341,1st innings,Zimbabwe,Bangladesh,12.1,SC Williams,E Chigumbura,Syed Rasel,3,0,3,NA,0,NA,NA,NA,0
+410341,1st innings,Zimbabwe,Bangladesh,12.2,E Chigumbura,SC Williams,Syed Rasel,0,0,0,NA,0,NA,NA,NA,0
+410341,1st innings,Zimbabwe,Bangladesh,12.3,E Chigumbura,SC Williams,Syed Rasel,0,0,0,NA,0,NA,NA,NA,0
+410341,1st innings,Zimbabwe,Bangladesh,12.4,E Chigumbura,SC Williams,Syed Rasel,0,0,0,NA,0,NA,NA,NA,0
+410341,1st innings,Zimbabwe,Bangladesh,12.5,E Chigumbura,SC Williams,Syed Rasel,1,0,1,NA,0,NA,NA,NA,0
+410341,1st innings,Zimbabwe,Bangladesh,12.6,SC Williams,E Chigumbura,Syed Rasel,0,0,0,NA,1,lbw,SC Williams,NA,0
+410341,1st innings,Zimbabwe,Bangladesh,13.1,E Chigumbura,BRM Taylor,Dolar Mahmud,0,0,0,NA,0,NA,NA,NA,0
+410341,1st innings,Zimbabwe,Bangladesh,13.2,E Chigumbura,BRM Taylor,Dolar Mahmud,4,0,4,NA,0,NA,NA,NA,0
+410341,1st innings,Zimbabwe,Bangladesh,13.3,E Chigumbura,BRM Taylor,Dolar Mahmud,0,0,0,NA,0,NA,NA,NA,0
+410341,1st innings,Zimbabwe,Bangladesh,13.4,E Chigumbura,BRM Taylor,Dolar Mahmud,0,0,0,NA,1,lbw,E Chigumbura,NA,0
+410341,1st innings,Zimbabwe,Bangladesh,13.5,P Utseya,BRM Taylor,Dolar Mahmud,0,0,0,NA,0,NA,NA,NA,0
+410341,1st innings,Zimbabwe,Bangladesh,13.6,P Utseya,BRM Taylor,Dolar Mahmud,0,0,0,NA,0,NA,NA,NA,0
+410341,1st innings,Zimbabwe,Bangladesh,14.1,BRM Taylor,P Utseya,Syed Rasel,0,0,0,NA,0,NA,NA,NA,0
+410341,1st innings,Zimbabwe,Bangladesh,14.2,BRM Taylor,P Utseya,Syed Rasel,0,0,0,NA,0,NA,NA,NA,0
+410341,1st innings,Zimbabwe,Bangladesh,14.3,BRM Taylor,P Utseya,Syed Rasel,0,0,0,NA,0,NA,NA,NA,0
+410341,1st innings,Zimbabwe,Bangladesh,14.4,BRM Taylor,P Utseya,Syed Rasel,0,0,0,NA,0,NA,NA,NA,0
+410341,1st innings,Zimbabwe,Bangladesh,14.5,BRM Taylor,P Utseya,Syed Rasel,4,0,4,NA,0,NA,NA,NA,0
+410341,1st innings,Zimbabwe,Bangladesh,14.6,BRM Taylor,P Utseya,Syed Rasel,0,0,0,NA,0,NA,NA,NA,0
+410341,1st innings,Zimbabwe,Bangladesh,15.1,P Utseya,BRM Taylor,Dolar Mahmud,0,0,0,NA,0,NA,NA,NA,0
+410341,1st innings,Zimbabwe,Bangladesh,15.2,P Utseya,BRM Taylor,Dolar Mahmud,0,0,0,NA,0,NA,NA,NA,0
+410341,1st innings,Zimbabwe,Bangladesh,15.3,P Utseya,BRM Taylor,Dolar Mahmud,0,0,0,NA,0,NA,NA,NA,0
+410341,1st innings,Zimbabwe,Bangladesh,15.4,P Utseya,BRM Taylor,Dolar Mahmud,0,0,0,NA,0,NA,NA,NA,0
+410341,1st innings,Zimbabwe,Bangladesh,15.5,P Utseya,BRM Taylor,Dolar Mahmud,0,0,0,NA,0,NA,NA,NA,0
+410341,1st innings,Zimbabwe,Bangladesh,15.6,P Utseya,BRM Taylor,Dolar Mahmud,0,0,0,NA,0,NA,NA,NA,0
+410341,1st innings,Zimbabwe,Bangladesh,16.1,BRM Taylor,P Utseya,Shakib Al Hasan,0,0,0,NA,0,NA,NA,NA,0
+410341,1st innings,Zimbabwe,Bangladesh,16.2,BRM Taylor,P Utseya,Shakib Al Hasan,0,0,0,NA,0,NA,NA,NA,0
+410341,1st innings,Zimbabwe,Bangladesh,16.3,BRM Taylor,P Utseya,Shakib Al Hasan,0,0,0,NA,0,NA,NA,NA,0
+410341,1st innings,Zimbabwe,Bangladesh,16.4,BRM Taylor,P Utseya,Shakib Al Hasan,0,0,0,NA,0,NA,NA,NA,0
+410341,1st innings,Zimbabwe,Bangladesh,16.5,BRM Taylor,P Utseya,Shakib Al Hasan,0,0,0,NA,0,NA,NA,NA,0
+410341,1st innings,Zimbabwe,Bangladesh,16.6,BRM Taylor,P Utseya,Shakib Al Hasan,0,0,0,NA,0,NA,NA,NA,0
+410341,1st innings,Zimbabwe,Bangladesh,17.1,P Utseya,BRM Taylor,Mehrab Hossain jnr,0,0,0,NA,0,NA,NA,NA,0
+410341,1st innings,Zimbabwe,Bangladesh,17.2,P Utseya,BRM Taylor,Mehrab Hossain jnr,1,0,1,NA,0,NA,NA,NA,0
+410341,1st innings,Zimbabwe,Bangladesh,17.3,BRM Taylor,P Utseya,Mehrab Hossain jnr,4,0,4,NA,0,NA,NA,NA,0
+410341,1st innings,Zimbabwe,Bangladesh,17.4,BRM Taylor,P Utseya,Mehrab Hossain jnr,1,0,1,NA,0,NA,NA,NA,0
+410341,1st innings,Zimbabwe,Bangladesh,17.5,P Utseya,BRM Taylor,Mehrab Hossain jnr,0,0,0,NA,0,NA,NA,NA,0
+410341,1st innings,Zimbabwe,Bangladesh,17.6,P Utseya,BRM Taylor,Mehrab Hossain jnr,1,0,1,NA,0,NA,NA,NA,0
+410341,1st innings,Zimbabwe,Bangladesh,18.1,P Utseya,BRM Taylor,Shakib Al Hasan,0,0,0,NA,0,NA,NA,NA,0
+410341,1st innings,Zimbabwe,Bangladesh,18.2,P Utseya,BRM Taylor,Shakib Al Hasan,0,0,0,NA,0,NA,NA,NA,0
+410341,1st innings,Zimbabwe,Bangladesh,18.3,P Utseya,BRM Taylor,Shakib Al Hasan,0,0,0,NA,0,NA,NA,NA,0
+410341,1st innings,Zimbabwe,Bangladesh,18.4,P Utseya,BRM Taylor,Shakib Al Hasan,1,0,1,NA,0,NA,NA,NA,0
+410341,1st innings,Zimbabwe,Bangladesh,18.5,BRM Taylor,P Utseya,Shakib Al Hasan,0,0,0,NA,0,NA,NA,NA,0
+410341,1st innings,Zimbabwe,Bangladesh,18.6,BRM Taylor,P Utseya,Shakib Al Hasan,0,0,0,NA,0,NA,NA,NA,0
+410341,1st innings,Zimbabwe,Bangladesh,19.1,P Utseya,BRM Taylor,Mehrab Hossain jnr,1,0,1,NA,0,NA,NA,NA,0
+410341,1st innings,Zimbabwe,Bangladesh,19.2,BRM Taylor,P Utseya,Mehrab Hossain jnr,2,0,2,NA,0,NA,NA,NA,0
+410341,1st innings,Zimbabwe,Bangladesh,19.3,BRM Taylor,P Utseya,Mehrab Hossain jnr,1,0,1,NA,0,NA,NA,NA,0
+410341,1st innings,Zimbabwe,Bangladesh,19.4,P Utseya,BRM Taylor,Mehrab Hossain jnr,0,0,0,NA,0,NA,NA,NA,0
+410341,1st innings,Zimbabwe,Bangladesh,19.5,P Utseya,BRM Taylor,Mehrab Hossain jnr,1,0,1,NA,0,NA,NA,NA,0
+410341,1st innings,Zimbabwe,Bangladesh,19.6,BRM Taylor,P Utseya,Mehrab Hossain jnr,1,0,1,NA,0,NA,NA,NA,0
+410341,1st innings,Zimbabwe,Bangladesh,20.1,BRM Taylor,P Utseya,Shakib Al Hasan,1,0,1,NA,0,NA,NA,NA,0
+410341,1st innings,Zimbabwe,Bangladesh,20.2,P Utseya,BRM Taylor,Shakib Al Hasan,1,0,1,NA,0,NA,NA,NA,0
+410341,1st innings,Zimbabwe,Bangladesh,20.3,BRM Taylor,P Utseya,Shakib Al Hasan,0,0,0,NA,0,NA,NA,NA,0
+410341,1st innings,Zimbabwe,Bangladesh,20.4,BRM Taylor,P Utseya,Shakib Al Hasan,1,0,1,NA,0,NA,NA,NA,0
+410341,1st innings,Zimbabwe,Bangladesh,20.5,P Utseya,BRM Taylor,Shakib Al Hasan,0,0,0,NA,0,NA,NA,NA,0
+410341,1st innings,Zimbabwe,Bangladesh,20.6,P Utseya,BRM Taylor,Shakib Al Hasan,0,0,0,NA,0,NA,NA,NA,0
+410341,1st innings,Zimbabwe,Bangladesh,21.1,BRM Taylor,P Utseya,Mahmudullah,0,0,0,NA,0,NA,NA,NA,0
+410341,1st innings,Zimbabwe,Bangladesh,21.2,BRM Taylor,P Utseya,Mahmudullah,1,0,1,NA,0,NA,NA,NA,0
+410341,1st innings,Zimbabwe,Bangladesh,21.3,P Utseya,BRM Taylor,Mahmudullah,1,0,1,NA,0,NA,NA,NA,0
+410341,1st innings,Zimbabwe,Bangladesh,21.4,BRM Taylor,P Utseya,Mahmudullah,0,0,0,NA,0,NA,NA,NA,0
+410341,1st innings,Zimbabwe,Bangladesh,21.5,BRM Taylor,P Utseya,Mahmudullah,1,0,1,NA,0,NA,NA,NA,0
+410341,1st innings,Zimbabwe,Bangladesh,21.6,P Utseya,BRM Taylor,Mahmudullah,0,0,0,NA,0,NA,NA,NA,0
+410341,1st innings,Zimbabwe,Bangladesh,22.1,BRM Taylor,P Utseya,Shakib Al Hasan,0,0,0,NA,0,NA,NA,NA,0
+410341,1st innings,Zimbabwe,Bangladesh,22.2,BRM Taylor,P Utseya,Shakib Al Hasan,1,0,1,NA,0,NA,NA,NA,0
+410341,1st innings,Zimbabwe,Bangladesh,22.3,P Utseya,BRM Taylor,Shakib Al Hasan,0,0,0,NA,0,NA,NA,NA,0
+410341,1st innings,Zimbabwe,Bangladesh,22.4,P Utseya,BRM Taylor,Shakib Al Hasan,0,0,0,NA,0,NA,NA,NA,0
+410341,1st innings,Zimbabwe,Bangladesh,22.5,P Utseya,BRM Taylor,Shakib Al Hasan,0,0,0,NA,0,NA,NA,NA,0
+410341,1st innings,Zimbabwe,Bangladesh,22.6,P Utseya,BRM Taylor,Shakib Al Hasan,4,0,4,NA,0,NA,NA,NA,0
+410341,1st innings,Zimbabwe,Bangladesh,23.1,BRM Taylor,P Utseya,Mahmudullah,0,0,0,NA,0,NA,NA,NA,0
+410341,1st innings,Zimbabwe,Bangladesh,23.2,BRM Taylor,P Utseya,Mahmudullah,6,0,6,NA,0,NA,NA,NA,0
+410341,1st innings,Zimbabwe,Bangladesh,23.3,BRM Taylor,P Utseya,Mahmudullah,0,0,0,NA,0,NA,NA,NA,0
+410341,1st innings,Zimbabwe,Bangladesh,23.4,BRM Taylor,P Utseya,Mahmudullah,0,0,0,NA,0,NA,NA,NA,0
+410341,1st innings,Zimbabwe,Bangladesh,23.5,BRM Taylor,P Utseya,Mahmudullah,1,0,1,NA,0,NA,NA,NA,0
+410341,1st innings,Zimbabwe,Bangladesh,23.6,P Utseya,BRM Taylor,Mahmudullah,0,0,0,NA,0,NA,NA,NA,0
+410341,1st innings,Zimbabwe,Bangladesh,24.1,BRM Taylor,P Utseya,Shakib Al Hasan,1,0,1,NA,0,NA,NA,NA,0
+410341,1st innings,Zimbabwe,Bangladesh,24.2,P Utseya,BRM Taylor,Shakib Al Hasan,0,0,0,NA,0,NA,NA,NA,0
+410341,1st innings,Zimbabwe,Bangladesh,24.3,P Utseya,BRM Taylor,Shakib Al Hasan,4,0,4,NA,0,NA,NA,NA,0
+410341,1st innings,Zimbabwe,Bangladesh,24.4,P Utseya,BRM Taylor,Shakib Al Hasan,0,0,0,NA,0,NA,NA,NA,0
+410341,1st innings,Zimbabwe,Bangladesh,24.5,P Utseya,BRM Taylor,Shakib Al Hasan,4,0,4,NA,0,NA,NA,NA,0
+410341,1st innings,Zimbabwe,Bangladesh,24.6,P Utseya,BRM Taylor,Shakib Al Hasan,0,0,0,NA,0,NA,NA,NA,0
+410341,1st innings,Zimbabwe,Bangladesh,25.1,BRM Taylor,P Utseya,Mahmudullah,0,0,0,NA,0,NA,NA,NA,0
+410341,1st innings,Zimbabwe,Bangladesh,25.2,BRM Taylor,P Utseya,Mahmudullah,1,0,1,NA,0,NA,NA,NA,0
+410341,1st innings,Zimbabwe,Bangladesh,25.3,P Utseya,BRM Taylor,Mahmudullah,0,0,0,NA,0,NA,NA,NA,0
+410341,1st innings,Zimbabwe,Bangladesh,25.4,P Utseya,BRM Taylor,Mahmudullah,1,0,1,NA,0,NA,NA,NA,0
+410341,1st innings,Zimbabwe,Bangladesh,25.5,BRM Taylor,P Utseya,Mahmudullah,0,0,0,NA,0,NA,NA,NA,0
+410341,1st innings,Zimbabwe,Bangladesh,25.6,BRM Taylor,P Utseya,Mahmudullah,1,0,1,NA,0,NA,NA,NA,0
+410341,1st innings,Zimbabwe,Bangladesh,26.1,BRM Taylor,P Utseya,Shakib Al Hasan,0,0,0,NA,0,NA,NA,NA,0
+410341,1st innings,Zimbabwe,Bangladesh,26.2,BRM Taylor,P Utseya,Shakib Al Hasan,0,0,0,NA,0,NA,NA,NA,0
+410341,1st innings,Zimbabwe,Bangladesh,26.3,BRM Taylor,P Utseya,Shakib Al Hasan,2,0,2,NA,0,NA,NA,NA,0
+410341,1st innings,Zimbabwe,Bangladesh,26.4,BRM Taylor,P Utseya,Shakib Al Hasan,0,0,0,NA,0,NA,NA,NA,0
+410341,1st innings,Zimbabwe,Bangladesh,26.5,BRM Taylor,P Utseya,Shakib Al Hasan,1,0,1,NA,0,NA,NA,NA,0
+410341,1st innings,Zimbabwe,Bangladesh,26.6,P Utseya,BRM Taylor,Shakib Al Hasan,0,0,0,NA,0,NA,NA,NA,0
+410341,1st innings,Zimbabwe,Bangladesh,27.1,BRM Taylor,P Utseya,Mahmudullah,0,0,0,NA,0,NA,NA,NA,0
+410341,1st innings,Zimbabwe,Bangladesh,27.2,BRM Taylor,P Utseya,Mahmudullah,1,0,1,NA,0,NA,NA,NA,0
+410341,1st innings,Zimbabwe,Bangladesh,27.3,P Utseya,BRM Taylor,Mahmudullah,1,0,1,NA,0,NA,NA,NA,0
+410341,1st innings,Zimbabwe,Bangladesh,27.4,BRM Taylor,P Utseya,Mahmudullah,0,0,0,NA,0,NA,NA,NA,0
+410341,1st innings,Zimbabwe,Bangladesh,27.5,BRM Taylor,P Utseya,Mahmudullah,1,0,1,NA,0,NA,NA,NA,0
+410341,1st innings,Zimbabwe,Bangladesh,27.6,P Utseya,BRM Taylor,Mahmudullah,0,0,0,NA,1,bowled,P Utseya,NA,0
+410341,1st innings,Zimbabwe,Bangladesh,28.1,BRM Taylor,RW Price,Shakib Al Hasan,0,0,0,NA,0,NA,NA,NA,0
+410341,1st innings,Zimbabwe,Bangladesh,28.2,BRM Taylor,RW Price,Shakib Al Hasan,0,0,0,NA,0,NA,NA,NA,0
+410341,1st innings,Zimbabwe,Bangladesh,28.3,BRM Taylor,RW Price,Shakib Al Hasan,0,0,0,NA,0,NA,NA,NA,0
+410341,1st innings,Zimbabwe,Bangladesh,28.4,BRM Taylor,RW Price,Shakib Al Hasan,0,1,1,wides,0,NA,NA,NA,0
+410341,1st innings,Zimbabwe,Bangladesh,28.5,BRM Taylor,RW Price,Shakib Al Hasan,0,0,0,NA,0,NA,NA,NA,0
+410341,1st innings,Zimbabwe,Bangladesh,28.6,BRM Taylor,RW Price,Shakib Al Hasan,0,0,0,NA,0,NA,NA,NA,0
+410341,1st innings,Zimbabwe,Bangladesh,28.7,BRM Taylor,RW Price,Shakib Al Hasan,0,0,0,NA,0,NA,NA,NA,0
+410341,1st innings,Zimbabwe,Bangladesh,29.1,RW Price,BRM Taylor,Mahmudullah,1,0,1,NA,0,NA,NA,NA,0
+410341,1st innings,Zimbabwe,Bangladesh,29.2,BRM Taylor,RW Price,Mahmudullah,1,0,1,NA,0,NA,NA,NA,0
+410341,1st innings,Zimbabwe,Bangladesh,29.3,RW Price,BRM Taylor,Mahmudullah,0,0,0,NA,0,NA,NA,NA,0
+410341,1st innings,Zimbabwe,Bangladesh,29.4,RW Price,BRM Taylor,Mahmudullah,0,0,0,NA,0,NA,NA,NA,0
+410341,1st innings,Zimbabwe,Bangladesh,29.5,RW Price,BRM Taylor,Mahmudullah,1,0,1,NA,0,NA,NA,NA,0
+410341,1st innings,Zimbabwe,Bangladesh,29.6,BRM Taylor,RW Price,Mahmudullah,0,0,0,NA,0,NA,NA,NA,0
+410341,1st innings,Zimbabwe,Bangladesh,30.1,RW Price,BRM Taylor,Shakib Al Hasan,0,0,0,NA,0,NA,NA,NA,0
+410341,1st innings,Zimbabwe,Bangladesh,30.2,RW Price,BRM Taylor,Shakib Al Hasan,0,0,0,NA,0,NA,NA,NA,0
+410341,1st innings,Zimbabwe,Bangladesh,30.3,RW Price,BRM Taylor,Shakib Al Hasan,0,0,0,NA,0,NA,NA,NA,0
+410341,1st innings,Zimbabwe,Bangladesh,30.4,RW Price,BRM Taylor,Shakib Al Hasan,0,0,0,NA,0,NA,NA,NA,0
+410341,1st innings,Zimbabwe,Bangladesh,30.5,RW Price,BRM Taylor,Shakib Al Hasan,0,0,0,NA,0,NA,NA,NA,0
+410341,1st innings,Zimbabwe,Bangladesh,30.6,RW Price,BRM Taylor,Shakib Al Hasan,0,0,0,NA,0,NA,NA,NA,0
+410341,1st innings,Zimbabwe,Bangladesh,31.1,BRM Taylor,RW Price,Mahmudullah,0,0,0,NA,0,NA,NA,NA,0
+410341,1st innings,Zimbabwe,Bangladesh,31.2,BRM Taylor,RW Price,Mahmudullah,2,0,2,NA,0,NA,NA,NA,0
+410341,1st innings,Zimbabwe,Bangladesh,31.3,BRM Taylor,RW Price,Mahmudullah,1,0,1,NA,0,NA,NA,NA,0
+410341,1st innings,Zimbabwe,Bangladesh,31.4,RW Price,BRM Taylor,Mahmudullah,0,0,0,NA,0,NA,NA,NA,0
+410341,1st innings,Zimbabwe,Bangladesh,31.5,RW Price,BRM Taylor,Mahmudullah,1,0,1,NA,0,NA,NA,NA,0
+410341,1st innings,Zimbabwe,Bangladesh,31.6,BRM Taylor,RW Price,Mahmudullah,0,0,0,NA,0,NA,NA,NA,0
+410341,1st innings,Zimbabwe,Bangladesh,32.1,RW Price,BRM Taylor,Mehrab Hossain jnr,1,0,1,NA,0,NA,NA,NA,0
+410341,1st innings,Zimbabwe,Bangladesh,32.2,BRM Taylor,RW Price,Mehrab Hossain jnr,1,0,1,NA,0,NA,NA,NA,0
+410341,1st innings,Zimbabwe,Bangladesh,32.3,RW Price,BRM Taylor,Mehrab Hossain jnr,0,0,0,NA,0,NA,NA,NA,0
+410341,1st innings,Zimbabwe,Bangladesh,32.4,RW Price,BRM Taylor,Mehrab Hossain jnr,0,0,0,NA,0,NA,NA,NA,0
+410341,1st innings,Zimbabwe,Bangladesh,32.5,RW Price,BRM Taylor,Mehrab Hossain jnr,0,0,0,NA,0,NA,NA,NA,0
+410341,1st innings,Zimbabwe,Bangladesh,32.6,RW Price,BRM Taylor,Mehrab Hossain jnr,4,0,4,NA,0,NA,NA,NA,0
+410341,1st innings,Zimbabwe,Bangladesh,33.1,BRM Taylor,RW Price,Mahmudullah,1,0,1,NA,0,NA,NA,NA,0
+410341,1st innings,Zimbabwe,Bangladesh,33.2,RW Price,BRM Taylor,Mahmudullah,0,0,0,NA,0,NA,NA,NA,0
+410341,1st innings,Zimbabwe,Bangladesh,33.3,RW Price,BRM Taylor,Mahmudullah,0,0,0,NA,0,NA,NA,NA,0
+410341,1st innings,Zimbabwe,Bangladesh,33.4,RW Price,BRM Taylor,Mahmudullah,0,0,0,NA,0,NA,NA,NA,0
+410341,1st innings,Zimbabwe,Bangladesh,33.5,RW Price,BRM Taylor,Mahmudullah,0,0,0,NA,0,NA,NA,NA,0
+410341,1st innings,Zimbabwe,Bangladesh,33.6,RW Price,BRM Taylor,Mahmudullah,0,0,0,NA,0,NA,NA,NA,0
+410341,1st innings,Zimbabwe,Bangladesh,34.1,BRM Taylor,RW Price,Mehrab Hossain jnr,1,0,1,NA,0,NA,NA,NA,0
+410341,1st innings,Zimbabwe,Bangladesh,34.2,RW Price,BRM Taylor,Mehrab Hossain jnr,0,0,0,NA,0,NA,NA,NA,0
+410341,1st innings,Zimbabwe,Bangladesh,34.3,RW Price,BRM Taylor,Mehrab Hossain jnr,1,0,1,NA,0,NA,NA,NA,0
+410341,1st innings,Zimbabwe,Bangladesh,34.4,BRM Taylor,RW Price,Mehrab Hossain jnr,1,0,1,NA,0,NA,NA,NA,0
+410341,1st innings,Zimbabwe,Bangladesh,34.5,RW Price,BRM Taylor,Mehrab Hossain jnr,1,0,1,NA,0,NA,NA,NA,0
+410341,1st innings,Zimbabwe,Bangladesh,34.6,BRM Taylor,RW Price,Mehrab Hossain jnr,1,0,1,NA,0,NA,NA,NA,0
+410341,1st innings,Zimbabwe,Bangladesh,35.1,BRM Taylor,RW Price,Mahmudullah,0,0,0,NA,0,NA,NA,NA,0
+410341,1st innings,Zimbabwe,Bangladesh,35.2,BRM Taylor,RW Price,Mahmudullah,1,0,1,NA,0,NA,NA,NA,0
+410341,1st innings,Zimbabwe,Bangladesh,35.3,RW Price,BRM Taylor,Mahmudullah,1,0,1,NA,0,NA,NA,NA,0
+410341,1st innings,Zimbabwe,Bangladesh,35.4,BRM Taylor,RW Price,Mahmudullah,0,0,0,NA,0,NA,NA,NA,0
+410341,1st innings,Zimbabwe,Bangladesh,35.5,BRM Taylor,RW Price,Mahmudullah,1,0,1,NA,0,NA,NA,NA,0
+410341,1st innings,Zimbabwe,Bangladesh,35.6,RW Price,BRM Taylor,Mahmudullah,0,0,0,NA,0,NA,NA,NA,0
+410341,1st innings,Zimbabwe,Bangladesh,36.1,BRM Taylor,RW Price,Naeem Islam,1,0,1,NA,0,NA,NA,NA,0
+410341,1st innings,Zimbabwe,Bangladesh,36.2,RW Price,BRM Taylor,Naeem Islam,1,0,1,NA,0,NA,NA,NA,0
+410341,1st innings,Zimbabwe,Bangladesh,36.3,BRM Taylor,RW Price,Naeem Islam,0,0,0,NA,0,NA,NA,NA,0
+410341,1st innings,Zimbabwe,Bangladesh,36.4,BRM Taylor,RW Price,Naeem Islam,0,0,0,NA,0,NA,NA,NA,0
+410341,1st innings,Zimbabwe,Bangladesh,36.5,BRM Taylor,RW Price,Naeem Islam,2,0,2,NA,0,NA,NA,NA,0
+410341,1st innings,Zimbabwe,Bangladesh,36.6,BRM Taylor,RW Price,Naeem Islam,2,0,2,NA,0,NA,NA,NA,0
+410341,1st innings,Zimbabwe,Bangladesh,37.1,RW Price,BRM Taylor,Mahmudullah,0,0,0,NA,0,NA,NA,NA,0
+410341,1st innings,Zimbabwe,Bangladesh,37.2,RW Price,BRM Taylor,Mahmudullah,1,0,1,NA,0,NA,NA,NA,0
+410341,1st innings,Zimbabwe,Bangladesh,37.3,BRM Taylor,RW Price,Mahmudullah,0,0,0,NA,0,NA,NA,NA,0
+410341,1st innings,Zimbabwe,Bangladesh,37.4,BRM Taylor,RW Price,Mahmudullah,2,0,2,NA,0,NA,NA,NA,0
+410341,1st innings,Zimbabwe,Bangladesh,37.5,BRM Taylor,RW Price,Mahmudullah,2,0,2,NA,0,NA,NA,NA,0
+410341,1st innings,Zimbabwe,Bangladesh,37.6,BRM Taylor,RW Price,Mahmudullah,4,0,4,NA,0,NA,NA,NA,0
+410341,1st innings,Zimbabwe,Bangladesh,38.1,RW Price,BRM Taylor,Naeem Islam,4,0,4,NA,0,NA,NA,NA,0
+410341,1st innings,Zimbabwe,Bangladesh,38.2,RW Price,BRM Taylor,Naeem Islam,1,0,1,NA,0,NA,NA,NA,0
+410341,1st innings,Zimbabwe,Bangladesh,38.3,BRM Taylor,RW Price,Naeem Islam,0,0,0,NA,0,NA,NA,NA,0
+410341,1st innings,Zimbabwe,Bangladesh,38.4,BRM Taylor,RW Price,Naeem Islam,1,0,1,NA,0,NA,NA,NA,0
+410341,1st innings,Zimbabwe,Bangladesh,38.5,RW Price,BRM Taylor,Naeem Islam,0,0,0,NA,0,NA,NA,NA,0
+410341,1st innings,Zimbabwe,Bangladesh,38.6,RW Price,BRM Taylor,Naeem Islam,1,0,1,NA,0,NA,NA,NA,0
+410341,1st innings,Zimbabwe,Bangladesh,39.1,RW Price,BRM Taylor,Mahmudullah,1,0,1,NA,0,NA,NA,NA,0
+410341,1st innings,Zimbabwe,Bangladesh,39.2,BRM Taylor,RW Price,Mahmudullah,0,0,0,NA,0,NA,NA,NA,0
+410341,1st innings,Zimbabwe,Bangladesh,39.3,BRM Taylor,RW Price,Mahmudullah,1,0,1,NA,0,NA,NA,NA,0
+410341,1st innings,Zimbabwe,Bangladesh,39.4,RW Price,BRM Taylor,Mahmudullah,1,0,1,NA,0,NA,NA,NA,0
+410341,1st innings,Zimbabwe,Bangladesh,39.5,BRM Taylor,RW Price,Mahmudullah,1,0,1,NA,0,NA,NA,NA,0
+410341,1st innings,Zimbabwe,Bangladesh,39.6,RW Price,BRM Taylor,Mahmudullah,0,0,0,NA,0,NA,NA,NA,0
+410341,1st innings,Zimbabwe,Bangladesh,40.1,BRM Taylor,RW Price,Mehrab Hossain jnr,0,0,0,NA,0,NA,NA,NA,0
+410341,1st innings,Zimbabwe,Bangladesh,40.2,BRM Taylor,RW Price,Mehrab Hossain jnr,0,0,0,NA,0,NA,NA,NA,0
+410341,1st innings,Zimbabwe,Bangladesh,40.3,BRM Taylor,RW Price,Mehrab Hossain jnr,1,0,1,NA,0,NA,NA,NA,0
+410341,1st innings,Zimbabwe,Bangladesh,40.4,RW Price,BRM Taylor,Mehrab Hossain jnr,2,0,2,NA,0,NA,NA,NA,0
+410341,1st innings,Zimbabwe,Bangladesh,40.5,RW Price,BRM Taylor,Mehrab Hossain jnr,1,0,1,NA,0,NA,NA,NA,0
+410341,1st innings,Zimbabwe,Bangladesh,40.6,BRM Taylor,RW Price,Mehrab Hossain jnr,0,0,0,NA,1,lbw,BRM Taylor,NA,0
+410341,1st innings,Zimbabwe,Bangladesh,41.1,RW Price,AG Cremer,Naeem Islam,0,0,0,NA,0,NA,NA,NA,0
+410341,1st innings,Zimbabwe,Bangladesh,41.2,RW Price,AG Cremer,Naeem Islam,1,0,1,NA,0,NA,NA,NA,0
+410341,1st innings,Zimbabwe,Bangladesh,41.3,AG Cremer,RW Price,Naeem Islam,1,0,1,NA,0,NA,NA,NA,0
+410341,1st innings,Zimbabwe,Bangladesh,41.4,RW Price,AG Cremer,Naeem Islam,0,0,0,NA,0,NA,NA,NA,0
+410341,1st innings,Zimbabwe,Bangladesh,41.5,RW Price,AG Cremer,Naeem Islam,1,0,1,NA,0,NA,NA,NA,0
+410341,1st innings,Zimbabwe,Bangladesh,41.6,AG Cremer,RW Price,Naeem Islam,0,0,0,NA,0,NA,NA,NA,0
+410341,1st innings,Zimbabwe,Bangladesh,42.1,RW Price,AG Cremer,Mehrab Hossain jnr,0,0,0,NA,0,NA,NA,NA,0
+410341,1st innings,Zimbabwe,Bangladesh,42.2,RW Price,AG Cremer,Mehrab Hossain jnr,4,0,4,NA,0,NA,NA,NA,0
+410341,1st innings,Zimbabwe,Bangladesh,42.3,RW Price,AG Cremer,Mehrab Hossain jnr,0,0,0,NA,0,NA,NA,NA,0
+410341,1st innings,Zimbabwe,Bangladesh,42.4,RW Price,AG Cremer,Mehrab Hossain jnr,0,0,0,NA,0,NA,NA,NA,0
+410341,1st innings,Zimbabwe,Bangladesh,42.5,RW Price,AG Cremer,Mehrab Hossain jnr,1,0,1,NA,0,NA,NA,NA,0
+410341,1st innings,Zimbabwe,Bangladesh,42.6,AG Cremer,RW Price,Mehrab Hossain jnr,0,0,0,NA,0,NA,NA,NA,0
+410341,1st innings,Zimbabwe,Bangladesh,43.1,RW Price,AG Cremer,Naeem Islam,0,0,0,NA,0,NA,NA,NA,0
+410341,1st innings,Zimbabwe,Bangladesh,43.2,RW Price,AG Cremer,Naeem Islam,0,0,0,NA,0,NA,NA,NA,0
+410341,1st innings,Zimbabwe,Bangladesh,43.3,RW Price,AG Cremer,Naeem Islam,1,0,1,NA,0,NA,NA,NA,0
+410341,1st innings,Zimbabwe,Bangladesh,43.4,AG Cremer,RW Price,Naeem Islam,1,0,1,NA,0,NA,NA,NA,0
+410341,1st innings,Zimbabwe,Bangladesh,43.5,RW Price,AG Cremer,Naeem Islam,1,0,1,NA,0,NA,NA,NA,0
+410341,1st innings,Zimbabwe,Bangladesh,43.6,AG Cremer,RW Price,Naeem Islam,1,0,1,NA,0,NA,NA,NA,0
+410341,1st innings,Zimbabwe,Bangladesh,44.1,AG Cremer,RW Price,Mehrab Hossain jnr,2,0,2,NA,0,NA,NA,NA,0
+410341,1st innings,Zimbabwe,Bangladesh,44.2,AG Cremer,RW Price,Mehrab Hossain jnr,0,0,0,NA,0,NA,NA,NA,0
+410341,1st innings,Zimbabwe,Bangladesh,44.3,AG Cremer,RW Price,Mehrab Hossain jnr,0,0,0,NA,0,NA,NA,NA,0
+410341,1st innings,Zimbabwe,Bangladesh,44.4,AG Cremer,RW Price,Mehrab Hossain jnr,1,0,1,NA,0,NA,NA,NA,0
+410341,1st innings,Zimbabwe,Bangladesh,44.5,RW Price,AG Cremer,Mehrab Hossain jnr,6,0,6,NA,0,NA,NA,NA,0
+410341,1st innings,Zimbabwe,Bangladesh,44.6,RW Price,AG Cremer,Mehrab Hossain jnr,1,0,1,NA,0,NA,NA,NA,0
+410341,1st innings,Zimbabwe,Bangladesh,45.1,RW Price,AG Cremer,Naeem Islam,1,0,1,NA,0,NA,NA,NA,0
+410341,1st innings,Zimbabwe,Bangladesh,45.2,AG Cremer,RW Price,Naeem Islam,4,0,4,NA,0,NA,NA,NA,0
+410341,1st innings,Zimbabwe,Bangladesh,45.3,AG Cremer,RW Price,Naeem Islam,0,0,0,NA,1,stumped,AG Cremer,Mushfiqur Rahim,0
+410341,1st innings,Zimbabwe,Bangladesh,45.4,EC Rainsford,RW Price,Naeem Islam,0,0,0,NA,0,NA,NA,NA,0
+410341,1st innings,Zimbabwe,Bangladesh,45.5,EC Rainsford,RW Price,Naeem Islam,0,0,0,NA,0,NA,NA,NA,0
+410341,1st innings,Zimbabwe,Bangladesh,45.6,EC Rainsford,RW Price,Naeem Islam,0,0,0,NA,0,NA,NA,NA,0
+410341,1st innings,Zimbabwe,Bangladesh,46.1,RW Price,EC Rainsford,Syed Rasel,1,0,1,NA,0,NA,NA,NA,0
+410341,1st innings,Zimbabwe,Bangladesh,46.2,EC Rainsford,RW Price,Syed Rasel,1,0,1,NA,0,NA,NA,NA,0
+410341,1st innings,Zimbabwe,Bangladesh,46.3,RW Price,EC Rainsford,Syed Rasel,4,0,4,NA,0,NA,NA,NA,0
+410341,1st innings,Zimbabwe,Bangladesh,46.4,RW Price,EC Rainsford,Syed Rasel,0,0,0,NA,1,lbw,RW Price,NA,0
+410341,2nd innings,Bangladesh,Zimbabwe,0.1,Tamim Iqbal,Mushfiqur Rahim,EC Rainsford,0,0,0,NA,0,NA,NA,NA,1
+410341,2nd innings,Bangladesh,Zimbabwe,0.2,Tamim Iqbal,Mushfiqur Rahim,EC Rainsford,1,0,1,NA,0,NA,NA,NA,1
+410341,2nd innings,Bangladesh,Zimbabwe,0.3,Mushfiqur Rahim,Tamim Iqbal,EC Rainsford,0,1,1,wides,0,NA,NA,NA,1
+410341,2nd innings,Bangladesh,Zimbabwe,0.4,Mushfiqur Rahim,Tamim Iqbal,EC Rainsford,0,0,0,NA,0,NA,NA,NA,1
+410341,2nd innings,Bangladesh,Zimbabwe,0.5,Mushfiqur Rahim,Tamim Iqbal,EC Rainsford,0,0,0,NA,0,NA,NA,NA,1
+410341,2nd innings,Bangladesh,Zimbabwe,0.6,Mushfiqur Rahim,Tamim Iqbal,EC Rainsford,0,0,0,NA,0,NA,NA,NA,1
+410341,2nd innings,Bangladesh,Zimbabwe,0.7,Mushfiqur Rahim,Tamim Iqbal,EC Rainsford,0,0,0,NA,0,NA,NA,NA,1
+410341,2nd innings,Bangladesh,Zimbabwe,1.1,Tamim Iqbal,Mushfiqur Rahim,E Chigumbura,0,0,0,NA,0,NA,NA,NA,1
+410341,2nd innings,Bangladesh,Zimbabwe,1.2,Tamim Iqbal,Mushfiqur Rahim,E Chigumbura,0,0,0,NA,0,NA,NA,NA,1
+410341,2nd innings,Bangladesh,Zimbabwe,1.3,Tamim Iqbal,Mushfiqur Rahim,E Chigumbura,0,0,0,NA,0,NA,NA,NA,1
+410341,2nd innings,Bangladesh,Zimbabwe,1.4,Tamim Iqbal,Mushfiqur Rahim,E Chigumbura,0,4,4,byes,0,NA,NA,NA,1
+410341,2nd innings,Bangladesh,Zimbabwe,1.5,Tamim Iqbal,Mushfiqur Rahim,E Chigumbura,0,0,0,NA,0,NA,NA,NA,1
+410341,2nd innings,Bangladesh,Zimbabwe,1.6,Tamim Iqbal,Mushfiqur Rahim,E Chigumbura,1,0,1,NA,0,NA,NA,NA,1
+410341,2nd innings,Bangladesh,Zimbabwe,2.1,Tamim Iqbal,Mushfiqur Rahim,EC Rainsford,0,0,0,NA,0,NA,NA,NA,1
+410341,2nd innings,Bangladesh,Zimbabwe,2.2,Tamim Iqbal,Mushfiqur Rahim,EC Rainsford,0,0,0,NA,0,NA,NA,NA,1
+410341,2nd innings,Bangladesh,Zimbabwe,2.3,Tamim Iqbal,Mushfiqur Rahim,EC Rainsford,0,0,0,NA,0,NA,NA,NA,1
+410341,2nd innings,Bangladesh,Zimbabwe,2.4,Tamim Iqbal,Mushfiqur Rahim,EC Rainsford,0,0,0,NA,0,NA,NA,NA,1
+410341,2nd innings,Bangladesh,Zimbabwe,2.5,Tamim Iqbal,Mushfiqur Rahim,EC Rainsford,0,0,0,NA,0,NA,NA,NA,1
+410341,2nd innings,Bangladesh,Zimbabwe,2.6,Tamim Iqbal,Mushfiqur Rahim,EC Rainsford,0,0,0,NA,0,NA,NA,NA,1
+410341,2nd innings,Bangladesh,Zimbabwe,3.1,Mushfiqur Rahim,Tamim Iqbal,E Chigumbura,0,0,0,NA,0,NA,NA,NA,1
+410341,2nd innings,Bangladesh,Zimbabwe,3.2,Mushfiqur Rahim,Tamim Iqbal,E Chigumbura,0,0,0,NA,0,NA,NA,NA,1
+410341,2nd innings,Bangladesh,Zimbabwe,3.3,Mushfiqur Rahim,Tamim Iqbal,E Chigumbura,0,0,0,NA,0,NA,NA,NA,1
+410341,2nd innings,Bangladesh,Zimbabwe,3.4,Mushfiqur Rahim,Tamim Iqbal,E Chigumbura,2,0,2,NA,0,NA,NA,NA,1
+410341,2nd innings,Bangladesh,Zimbabwe,3.5,Mushfiqur Rahim,Tamim Iqbal,E Chigumbura,0,0,0,NA,0,NA,NA,NA,1
+410341,2nd innings,Bangladesh,Zimbabwe,3.6,Mushfiqur Rahim,Tamim Iqbal,E Chigumbura,0,0,0,NA,0,NA,NA,NA,1
+410341,2nd innings,Bangladesh,Zimbabwe,4.1,Tamim Iqbal,Mushfiqur Rahim,EC Rainsford,1,0,1,NA,0,NA,NA,NA,1
+410341,2nd innings,Bangladesh,Zimbabwe,4.2,Mushfiqur Rahim,Tamim Iqbal,EC Rainsford,0,0,0,NA,0,NA,NA,NA,1
+410341,2nd innings,Bangladesh,Zimbabwe,4.3,Mushfiqur Rahim,Tamim Iqbal,EC Rainsford,0,0,0,NA,0,NA,NA,NA,1
+410341,2nd innings,Bangladesh,Zimbabwe,4.4,Mushfiqur Rahim,Tamim Iqbal,EC Rainsford,4,0,4,NA,0,NA,NA,NA,1
+410341,2nd innings,Bangladesh,Zimbabwe,4.5,Mushfiqur Rahim,Tamim Iqbal,EC Rainsford,0,0,0,NA,0,NA,NA,NA,1
+410341,2nd innings,Bangladesh,Zimbabwe,4.6,Mushfiqur Rahim,Tamim Iqbal,EC Rainsford,0,1,1,legbyes,0,NA,NA,NA,1
+410341,2nd innings,Bangladesh,Zimbabwe,5.1,Mushfiqur Rahim,Tamim Iqbal,E Chigumbura,0,0,0,NA,0,NA,NA,NA,1
+410341,2nd innings,Bangladesh,Zimbabwe,5.2,Mushfiqur Rahim,Tamim Iqbal,E Chigumbura,0,0,0,NA,0,NA,NA,NA,1
+410341,2nd innings,Bangladesh,Zimbabwe,5.3,Mushfiqur Rahim,Tamim Iqbal,E Chigumbura,4,0,4,NA,0,NA,NA,NA,1
+410341,2nd innings,Bangladesh,Zimbabwe,5.4,Mushfiqur Rahim,Tamim Iqbal,E Chigumbura,4,0,4,NA,0,NA,NA,NA,1
+410341,2nd innings,Bangladesh,Zimbabwe,5.5,Mushfiqur Rahim,Tamim Iqbal,E Chigumbura,1,0,1,NA,0,NA,NA,NA,1
+410341,2nd innings,Bangladesh,Zimbabwe,5.6,Tamim Iqbal,Mushfiqur Rahim,E Chigumbura,0,0,0,NA,0,NA,NA,NA,1
+410341,2nd innings,Bangladesh,Zimbabwe,6.1,Mushfiqur Rahim,Tamim Iqbal,EC Rainsford,1,0,1,NA,0,NA,NA,NA,1
+410341,2nd innings,Bangladesh,Zimbabwe,6.2,Tamim Iqbal,Mushfiqur Rahim,EC Rainsford,0,0,0,NA,0,NA,NA,NA,1
+410341,2nd innings,Bangladesh,Zimbabwe,6.3,Tamim Iqbal,Mushfiqur Rahim,EC Rainsford,1,0,1,NA,0,NA,NA,NA,1
+410341,2nd innings,Bangladesh,Zimbabwe,6.4,Mushfiqur Rahim,Tamim Iqbal,EC Rainsford,1,0,1,NA,0,NA,NA,NA,1
+410341,2nd innings,Bangladesh,Zimbabwe,6.5,Tamim Iqbal,Mushfiqur Rahim,EC Rainsford,0,0,0,NA,0,NA,NA,NA,1
+410341,2nd innings,Bangladesh,Zimbabwe,6.6,Tamim Iqbal,Mushfiqur Rahim,EC Rainsford,0,0,0,NA,0,NA,NA,NA,1
+410341,2nd innings,Bangladesh,Zimbabwe,7.1,Mushfiqur Rahim,Tamim Iqbal,E Chigumbura,4,0,4,NA,0,NA,NA,NA,1
+410341,2nd innings,Bangladesh,Zimbabwe,7.2,Mushfiqur Rahim,Tamim Iqbal,E Chigumbura,0,0,0,NA,0,NA,NA,NA,1
+410341,2nd innings,Bangladesh,Zimbabwe,7.3,Mushfiqur Rahim,Tamim Iqbal,E Chigumbura,0,0,0,NA,0,NA,NA,NA,1
+410341,2nd innings,Bangladesh,Zimbabwe,7.4,Mushfiqur Rahim,Tamim Iqbal,E Chigumbura,1,0,1,NA,0,NA,NA,NA,1
+410341,2nd innings,Bangladesh,Zimbabwe,7.5,Tamim Iqbal,Mushfiqur Rahim,E Chigumbura,0,0,0,NA,0,NA,NA,NA,1
+410341,2nd innings,Bangladesh,Zimbabwe,7.6,Tamim Iqbal,Mushfiqur Rahim,E Chigumbura,0,0,0,NA,0,NA,NA,NA,1
+410341,2nd innings,Bangladesh,Zimbabwe,8.1,Mushfiqur Rahim,Tamim Iqbal,EC Rainsford,2,0,2,NA,0,NA,NA,NA,1
+410341,2nd innings,Bangladesh,Zimbabwe,8.2,Mushfiqur Rahim,Tamim Iqbal,EC Rainsford,4,0,4,NA,0,NA,NA,NA,1
+410341,2nd innings,Bangladesh,Zimbabwe,8.3,Mushfiqur Rahim,Tamim Iqbal,EC Rainsford,0,0,0,NA,0,NA,NA,NA,1
+410341,2nd innings,Bangladesh,Zimbabwe,8.4,Mushfiqur Rahim,Tamim Iqbal,EC Rainsford,0,5,5,wides,0,NA,NA,NA,1
+410341,2nd innings,Bangladesh,Zimbabwe,8.5,Mushfiqur Rahim,Tamim Iqbal,EC Rainsford,0,0,0,NA,0,NA,NA,NA,1
+410341,2nd innings,Bangladesh,Zimbabwe,8.6,Mushfiqur Rahim,Tamim Iqbal,EC Rainsford,0,0,0,NA,0,NA,NA,NA,1
+410341,2nd innings,Bangladesh,Zimbabwe,8.7,Mushfiqur Rahim,Tamim Iqbal,EC Rainsford,0,0,0,NA,0,NA,NA,NA,1
+410341,2nd innings,Bangladesh,Zimbabwe,9.1,Tamim Iqbal,Mushfiqur Rahim,RW Price,0,0,0,NA,1,bowled,Tamim Iqbal,NA,1
+410341,2nd innings,Bangladesh,Zimbabwe,9.2,Mohammad Ashraful,Mushfiqur Rahim,RW Price,2,0,2,NA,0,NA,NA,NA,1
+410341,2nd innings,Bangladesh,Zimbabwe,9.3,Mohammad Ashraful,Mushfiqur Rahim,RW Price,1,0,1,NA,0,NA,NA,NA,1
+410341,2nd innings,Bangladesh,Zimbabwe,9.4,Mushfiqur Rahim,Mohammad Ashraful,RW Price,1,0,1,NA,0,NA,NA,NA,1
+410341,2nd innings,Bangladesh,Zimbabwe,9.5,Mohammad Ashraful,Mushfiqur Rahim,RW Price,1,0,1,NA,0,NA,NA,NA,1
+410341,2nd innings,Bangladesh,Zimbabwe,9.6,Mushfiqur Rahim,Mohammad Ashraful,RW Price,0,0,0,NA,0,NA,NA,NA,1
+410341,2nd innings,Bangladesh,Zimbabwe,10.1,Mohammad Ashraful,Mushfiqur Rahim,E Chigumbura,0,0,0,NA,0,NA,NA,NA,1
+410341,2nd innings,Bangladesh,Zimbabwe,10.2,Mohammad Ashraful,Mushfiqur Rahim,E Chigumbura,0,0,0,NA,0,NA,NA,NA,1
+410341,2nd innings,Bangladesh,Zimbabwe,10.3,Mohammad Ashraful,Mushfiqur Rahim,E Chigumbura,0,0,0,NA,0,NA,NA,NA,1
+410341,2nd innings,Bangladesh,Zimbabwe,10.4,Mohammad Ashraful,Mushfiqur Rahim,E Chigumbura,0,0,0,NA,1,caught,Mohammad Ashraful,V Sibanda,1
+410341,2nd innings,Bangladesh,Zimbabwe,10.5,Raqibul Hasan,Mushfiqur Rahim,E Chigumbura,0,0,0,NA,0,NA,NA,NA,1
+410341,2nd innings,Bangladesh,Zimbabwe,10.6,Raqibul Hasan,Mushfiqur Rahim,E Chigumbura,0,1,1,wides,0,NA,NA,NA,1
+410341,2nd innings,Bangladesh,Zimbabwe,10.7,Raqibul Hasan,Mushfiqur Rahim,E Chigumbura,0,0,0,NA,0,NA,NA,NA,1
+410341,2nd innings,Bangladesh,Zimbabwe,11.1,Mushfiqur Rahim,Raqibul Hasan,RW Price,0,0,0,NA,0,NA,NA,NA,1
+410341,2nd innings,Bangladesh,Zimbabwe,11.2,Mushfiqur Rahim,Raqibul Hasan,RW Price,0,0,0,NA,0,NA,NA,NA,1
+410341,2nd innings,Bangladesh,Zimbabwe,11.3,Mushfiqur Rahim,Raqibul Hasan,RW Price,4,0,4,NA,0,NA,NA,NA,1
+410341,2nd innings,Bangladesh,Zimbabwe,11.4,Mushfiqur Rahim,Raqibul Hasan,RW Price,2,0,2,NA,0,NA,NA,NA,1
+410341,2nd innings,Bangladesh,Zimbabwe,11.5,Mushfiqur Rahim,Raqibul Hasan,RW Price,0,0,0,NA,0,NA,NA,NA,1
+410341,2nd innings,Bangladesh,Zimbabwe,11.6,Mushfiqur Rahim,Raqibul Hasan,RW Price,0,0,0,NA,0,NA,NA,NA,1
+410341,2nd innings,Bangladesh,Zimbabwe,12.1,Raqibul Hasan,Mushfiqur Rahim,E Chigumbura,0,0,0,NA,0,NA,NA,NA,1
+410341,2nd innings,Bangladesh,Zimbabwe,12.2,Raqibul Hasan,Mushfiqur Rahim,E Chigumbura,0,0,0,NA,0,NA,NA,NA,1
+410341,2nd innings,Bangladesh,Zimbabwe,12.3,Raqibul Hasan,Mushfiqur Rahim,E Chigumbura,0,0,0,NA,0,NA,NA,NA,1
+410341,2nd innings,Bangladesh,Zimbabwe,12.4,Raqibul Hasan,Mushfiqur Rahim,E Chigumbura,2,0,2,NA,0,NA,NA,NA,1
+410341,2nd innings,Bangladesh,Zimbabwe,12.5,Raqibul Hasan,Mushfiqur Rahim,E Chigumbura,0,0,0,NA,0,NA,NA,NA,1
+410341,2nd innings,Bangladesh,Zimbabwe,12.6,Raqibul Hasan,Mushfiqur Rahim,E Chigumbura,0,0,0,NA,0,NA,NA,NA,1
+410341,2nd innings,Bangladesh,Zimbabwe,13.1,Mushfiqur Rahim,Raqibul Hasan,RW Price,0,0,0,NA,0,NA,NA,NA,1
+410341,2nd innings,Bangladesh,Zimbabwe,13.2,Mushfiqur Rahim,Raqibul Hasan,RW Price,0,0,0,NA,0,NA,NA,NA,1
+410341,2nd innings,Bangladesh,Zimbabwe,13.3,Mushfiqur Rahim,Raqibul Hasan,RW Price,0,0,0,NA,0,NA,NA,NA,1
+410341,2nd innings,Bangladesh,Zimbabwe,13.4,Mushfiqur Rahim,Raqibul Hasan,RW Price,2,0,2,NA,0,NA,NA,NA,1
+410341,2nd innings,Bangladesh,Zimbabwe,13.5,Mushfiqur Rahim,Raqibul Hasan,RW Price,1,0,1,NA,0,NA,NA,NA,1
+410341,2nd innings,Bangladesh,Zimbabwe,13.6,Raqibul Hasan,Mushfiqur Rahim,RW Price,0,0,0,NA,0,NA,NA,NA,1
+410341,2nd innings,Bangladesh,Zimbabwe,14.1,Mushfiqur Rahim,Raqibul Hasan,EC Rainsford,0,0,0,NA,0,NA,NA,NA,1
+410341,2nd innings,Bangladesh,Zimbabwe,14.2,Mushfiqur Rahim,Raqibul Hasan,EC Rainsford,0,0,0,NA,0,NA,NA,NA,1
+410341,2nd innings,Bangladesh,Zimbabwe,14.3,Mushfiqur Rahim,Raqibul Hasan,EC Rainsford,4,0,4,NA,0,NA,NA,NA,1
+410341,2nd innings,Bangladesh,Zimbabwe,14.4,Mushfiqur Rahim,Raqibul Hasan,EC Rainsford,0,0,0,NA,0,NA,NA,NA,1
+410341,2nd innings,Bangladesh,Zimbabwe,14.5,Mushfiqur Rahim,Raqibul Hasan,EC Rainsford,1,0,1,NA,0,NA,NA,NA,1
+410341,2nd innings,Bangladesh,Zimbabwe,14.6,Raqibul Hasan,Mushfiqur Rahim,EC Rainsford,0,0,0,NA,0,NA,NA,NA,1
+410341,2nd innings,Bangladesh,Zimbabwe,15.1,Mushfiqur Rahim,Raqibul Hasan,RW Price,0,0,0,NA,0,NA,NA,NA,1
+410341,2nd innings,Bangladesh,Zimbabwe,15.2,Mushfiqur Rahim,Raqibul Hasan,RW Price,1,0,1,NA,0,NA,NA,NA,1
+410341,2nd innings,Bangladesh,Zimbabwe,15.3,Raqibul Hasan,Mushfiqur Rahim,RW Price,0,0,0,NA,0,NA,NA,NA,1
+410341,2nd innings,Bangladesh,Zimbabwe,15.4,Raqibul Hasan,Mushfiqur Rahim,RW Price,0,0,0,NA,0,NA,NA,NA,1
+410341,2nd innings,Bangladesh,Zimbabwe,15.5,Raqibul Hasan,Mushfiqur Rahim,RW Price,0,0,0,NA,0,NA,NA,NA,1
+410341,2nd innings,Bangladesh,Zimbabwe,15.6,Raqibul Hasan,Mushfiqur Rahim,RW Price,0,0,0,NA,0,NA,NA,NA,1
+410341,2nd innings,Bangladesh,Zimbabwe,16.1,Mushfiqur Rahim,Raqibul Hasan,AG Cremer,1,0,1,NA,0,NA,NA,NA,1
+410341,2nd innings,Bangladesh,Zimbabwe,16.2,Raqibul Hasan,Mushfiqur Rahim,AG Cremer,4,0,4,NA,0,NA,NA,NA,1
+410341,2nd innings,Bangladesh,Zimbabwe,16.3,Raqibul Hasan,Mushfiqur Rahim,AG Cremer,0,1,1,wides,0,NA,NA,NA,1
+410341,2nd innings,Bangladesh,Zimbabwe,16.4,Raqibul Hasan,Mushfiqur Rahim,AG Cremer,0,0,0,NA,0,NA,NA,NA,1
+410341,2nd innings,Bangladesh,Zimbabwe,16.5,Raqibul Hasan,Mushfiqur Rahim,AG Cremer,4,0,4,NA,0,NA,NA,NA,1
+410341,2nd innings,Bangladesh,Zimbabwe,16.6,Raqibul Hasan,Mushfiqur Rahim,AG Cremer,0,0,0,NA,0,NA,NA,NA,1
+410341,2nd innings,Bangladesh,Zimbabwe,16.7,Raqibul Hasan,Mushfiqur Rahim,AG Cremer,1,0,1,NA,0,NA,NA,NA,1
+410341,2nd innings,Bangladesh,Zimbabwe,17.1,Raqibul Hasan,Mushfiqur Rahim,RW Price,0,0,0,NA,0,NA,NA,NA,1
+410341,2nd innings,Bangladesh,Zimbabwe,17.2,Raqibul Hasan,Mushfiqur Rahim,RW Price,0,0,0,NA,0,NA,NA,NA,1
+410341,2nd innings,Bangladesh,Zimbabwe,17.3,Raqibul Hasan,Mushfiqur Rahim,RW Price,0,0,0,NA,0,NA,NA,NA,1
+410341,2nd innings,Bangladesh,Zimbabwe,17.4,Raqibul Hasan,Mushfiqur Rahim,RW Price,0,0,0,NA,0,NA,NA,NA,1
+410341,2nd innings,Bangladesh,Zimbabwe,17.5,Raqibul Hasan,Mushfiqur Rahim,RW Price,0,0,0,NA,0,NA,NA,NA,1
+410341,2nd innings,Bangladesh,Zimbabwe,17.6,Raqibul Hasan,Mushfiqur Rahim,RW Price,0,0,0,NA,0,NA,NA,NA,1
+410341,2nd innings,Bangladesh,Zimbabwe,18.1,Mushfiqur Rahim,Raqibul Hasan,AG Cremer,0,0,0,NA,0,NA,NA,NA,1
+410341,2nd innings,Bangladesh,Zimbabwe,18.2,Mushfiqur Rahim,Raqibul Hasan,AG Cremer,0,0,0,NA,0,NA,NA,NA,1
+410341,2nd innings,Bangladesh,Zimbabwe,18.3,Mushfiqur Rahim,Raqibul Hasan,AG Cremer,0,0,0,NA,0,NA,NA,NA,1
+410341,2nd innings,Bangladesh,Zimbabwe,18.4,Mushfiqur Rahim,Raqibul Hasan,AG Cremer,3,0,3,NA,0,NA,NA,NA,1
+410341,2nd innings,Bangladesh,Zimbabwe,18.5,Raqibul Hasan,Mushfiqur Rahim,AG Cremer,1,0,1,NA,0,NA,NA,NA,1
+410341,2nd innings,Bangladesh,Zimbabwe,18.6,Mushfiqur Rahim,Raqibul Hasan,AG Cremer,1,0,1,NA,0,NA,NA,NA,1
+410341,2nd innings,Bangladesh,Zimbabwe,19.1,Mushfiqur Rahim,Raqibul Hasan,RW Price,0,0,0,NA,0,NA,NA,NA,1
+410341,2nd innings,Bangladesh,Zimbabwe,19.2,Mushfiqur Rahim,Raqibul Hasan,RW Price,1,0,1,NA,0,NA,NA,NA,1
+410341,2nd innings,Bangladesh,Zimbabwe,19.3,Raqibul Hasan,Mushfiqur Rahim,RW Price,0,0,0,NA,0,NA,NA,NA,1
+410341,2nd innings,Bangladesh,Zimbabwe,19.4,Raqibul Hasan,Mushfiqur Rahim,RW Price,1,0,1,NA,0,NA,NA,NA,1
+410341,2nd innings,Bangladesh,Zimbabwe,19.5,Mushfiqur Rahim,Raqibul Hasan,RW Price,0,0,0,NA,0,NA,NA,NA,1
+410341,2nd innings,Bangladesh,Zimbabwe,19.6,Mushfiqur Rahim,Raqibul Hasan,RW Price,0,0,0,NA,0,NA,NA,NA,1
+410341,2nd innings,Bangladesh,Zimbabwe,20.1,Raqibul Hasan,Mushfiqur Rahim,AG Cremer,0,0,0,NA,0,NA,NA,NA,1
+410341,2nd innings,Bangladesh,Zimbabwe,20.2,Raqibul Hasan,Mushfiqur Rahim,AG Cremer,1,0,1,NA,0,NA,NA,NA,1
+410341,2nd innings,Bangladesh,Zimbabwe,20.3,Mushfiqur Rahim,Raqibul Hasan,AG Cremer,3,0,3,NA,0,NA,NA,NA,1
+410341,2nd innings,Bangladesh,Zimbabwe,20.4,Raqibul Hasan,Mushfiqur Rahim,AG Cremer,4,0,4,NA,0,NA,NA,NA,1
+410341,2nd innings,Bangladesh,Zimbabwe,20.5,Raqibul Hasan,Mushfiqur Rahim,AG Cremer,0,0,0,NA,0,NA,NA,NA,1
+410341,2nd innings,Bangladesh,Zimbabwe,20.6,Raqibul Hasan,Mushfiqur Rahim,AG Cremer,1,0,1,NA,0,NA,NA,NA,1
+410341,2nd innings,Bangladesh,Zimbabwe,21.1,Raqibul Hasan,Mushfiqur Rahim,RW Price,0,0,0,NA,0,NA,NA,NA,1
+410341,2nd innings,Bangladesh,Zimbabwe,21.2,Raqibul Hasan,Mushfiqur Rahim,RW Price,0,0,0,NA,0,NA,NA,NA,1
+410341,2nd innings,Bangladesh,Zimbabwe,21.3,Raqibul Hasan,Mushfiqur Rahim,RW Price,0,0,0,NA,0,NA,NA,NA,1
+410341,2nd innings,Bangladesh,Zimbabwe,21.4,Raqibul Hasan,Mushfiqur Rahim,RW Price,0,0,0,NA,0,NA,NA,NA,1
+410341,2nd innings,Bangladesh,Zimbabwe,21.5,Raqibul Hasan,Mushfiqur Rahim,RW Price,1,0,1,NA,0,NA,NA,NA,1
+410341,2nd innings,Bangladesh,Zimbabwe,21.6,Mushfiqur Rahim,Raqibul Hasan,RW Price,0,0,0,NA,0,NA,NA,NA,1
+410341,2nd innings,Bangladesh,Zimbabwe,22.1,Raqibul Hasan,Mushfiqur Rahim,AG Cremer,0,0,0,NA,0,NA,NA,NA,1
+410341,2nd innings,Bangladesh,Zimbabwe,22.2,Raqibul Hasan,Mushfiqur Rahim,AG Cremer,0,0,0,NA,0,NA,NA,NA,1
+410341,2nd innings,Bangladesh,Zimbabwe,22.3,Raqibul Hasan,Mushfiqur Rahim,AG Cremer,0,0,0,NA,0,NA,NA,NA,1
+410341,2nd innings,Bangladesh,Zimbabwe,22.4,Raqibul Hasan,Mushfiqur Rahim,AG Cremer,0,0,0,NA,0,NA,NA,NA,1
+410341,2nd innings,Bangladesh,Zimbabwe,22.5,Raqibul Hasan,Mushfiqur Rahim,AG Cremer,0,0,0,NA,0,NA,NA,NA,1
+410341,2nd innings,Bangladesh,Zimbabwe,22.6,Raqibul Hasan,Mushfiqur Rahim,AG Cremer,1,0,1,NA,0,NA,NA,NA,1
+410341,2nd innings,Bangladesh,Zimbabwe,23.1,Raqibul Hasan,Mushfiqur Rahim,P Utseya,2,0,2,NA,0,NA,NA,NA,1
+410341,2nd innings,Bangladesh,Zimbabwe,23.2,Raqibul Hasan,Mushfiqur Rahim,P Utseya,1,0,1,NA,0,NA,NA,NA,1
+410341,2nd innings,Bangladesh,Zimbabwe,23.3,Mushfiqur Rahim,Raqibul Hasan,P Utseya,0,0,0,NA,0,NA,NA,NA,1
+410341,2nd innings,Bangladesh,Zimbabwe,23.4,Mushfiqur Rahim,Raqibul Hasan,P Utseya,1,0,1,NA,0,NA,NA,NA,1
+410341,2nd innings,Bangladesh,Zimbabwe,23.5,Raqibul Hasan,Mushfiqur Rahim,P Utseya,0,0,0,NA,0,NA,NA,NA,1
+410341,2nd innings,Bangladesh,Zimbabwe,23.6,Raqibul Hasan,Mushfiqur Rahim,P Utseya,0,0,0,NA,1,caught,Raqibul Hasan,MN Waller,1
+410341,2nd innings,Bangladesh,Zimbabwe,24.1,Shakib Al Hasan,Mushfiqur Rahim,AG Cremer,0,0,0,NA,0,NA,NA,NA,1
+410341,2nd innings,Bangladesh,Zimbabwe,24.2,Shakib Al Hasan,Mushfiqur Rahim,AG Cremer,0,0,0,NA,0,NA,NA,NA,1
+410341,2nd innings,Bangladesh,Zimbabwe,24.3,Shakib Al Hasan,Mushfiqur Rahim,AG Cremer,0,0,0,NA,0,NA,NA,NA,1
+410341,2nd innings,Bangladesh,Zimbabwe,24.4,Shakib Al Hasan,Mushfiqur Rahim,AG Cremer,1,0,1,NA,0,NA,NA,NA,1
+410341,2nd innings,Bangladesh,Zimbabwe,24.5,Mushfiqur Rahim,Shakib Al Hasan,AG Cremer,2,0,2,NA,0,NA,NA,NA,1
+410341,2nd innings,Bangladesh,Zimbabwe,24.6,Mushfiqur Rahim,Shakib Al Hasan,AG Cremer,0,0,0,NA,0,NA,NA,NA,1
+410341,2nd innings,Bangladesh,Zimbabwe,25.1,Shakib Al Hasan,Mushfiqur Rahim,P Utseya,0,0,0,NA,0,NA,NA,NA,1
+410341,2nd innings,Bangladesh,Zimbabwe,25.2,Shakib Al Hasan,Mushfiqur Rahim,P Utseya,1,0,1,NA,0,NA,NA,NA,1
+410341,2nd innings,Bangladesh,Zimbabwe,25.3,Mushfiqur Rahim,Shakib Al Hasan,P Utseya,0,0,0,NA,0,NA,NA,NA,1
+410341,2nd innings,Bangladesh,Zimbabwe,25.4,Mushfiqur Rahim,Shakib Al Hasan,P Utseya,0,0,0,NA,0,NA,NA,NA,1
+410341,2nd innings,Bangladesh,Zimbabwe,25.5,Mushfiqur Rahim,Shakib Al Hasan,P Utseya,1,0,1,NA,0,NA,NA,NA,1
+410341,2nd innings,Bangladesh,Zimbabwe,25.6,Shakib Al Hasan,Mushfiqur Rahim,P Utseya,1,0,1,NA,0,NA,NA,NA,1
+410341,2nd innings,Bangladesh,Zimbabwe,26.1,Shakib Al Hasan,Mushfiqur Rahim,AG Cremer,0,0,0,NA,0,NA,NA,NA,1
+410341,2nd innings,Bangladesh,Zimbabwe,26.2,Shakib Al Hasan,Mushfiqur Rahim,AG Cremer,0,0,0,NA,0,NA,NA,NA,1
+410341,2nd innings,Bangladesh,Zimbabwe,26.3,Shakib Al Hasan,Mushfiqur Rahim,AG Cremer,1,0,1,NA,0,NA,NA,NA,1
+410341,2nd innings,Bangladesh,Zimbabwe,26.4,Mushfiqur Rahim,Shakib Al Hasan,AG Cremer,1,0,1,NA,0,NA,NA,NA,1
+410341,2nd innings,Bangladesh,Zimbabwe,26.5,Shakib Al Hasan,Mushfiqur Rahim,AG Cremer,4,0,4,NA,0,NA,NA,NA,1
+410341,2nd innings,Bangladesh,Zimbabwe,26.6,Shakib Al Hasan,Mushfiqur Rahim,AG Cremer,0,0,0,NA,0,NA,NA,NA,1
+410341,2nd innings,Bangladesh,Zimbabwe,27.1,Mushfiqur Rahim,Shakib Al Hasan,P Utseya,0,0,0,NA,0,NA,NA,NA,1
+410341,2nd innings,Bangladesh,Zimbabwe,27.2,Mushfiqur Rahim,Shakib Al Hasan,P Utseya,0,0,0,NA,0,NA,NA,NA,1
+410341,2nd innings,Bangladesh,Zimbabwe,27.3,Mushfiqur Rahim,Shakib Al Hasan,P Utseya,1,0,1,NA,0,NA,NA,NA,1
+410341,2nd innings,Bangladesh,Zimbabwe,27.4,Shakib Al Hasan,Mushfiqur Rahim,P Utseya,0,0,0,NA,0,NA,NA,NA,1
+410341,2nd innings,Bangladesh,Zimbabwe,27.5,Shakib Al Hasan,Mushfiqur Rahim,P Utseya,1,0,1,NA,0,NA,NA,NA,1
+410341,2nd innings,Bangladesh,Zimbabwe,27.6,Mushfiqur Rahim,Shakib Al Hasan,P Utseya,0,0,0,NA,0,NA,NA,NA,1
+410341,2nd innings,Bangladesh,Zimbabwe,28.1,Shakib Al Hasan,Mushfiqur Rahim,AG Cremer,1,0,1,NA,0,NA,NA,NA,1
+410341,2nd innings,Bangladesh,Zimbabwe,28.2,Mushfiqur Rahim,Shakib Al Hasan,AG Cremer,2,0,2,NA,0,NA,NA,NA,1
+410341,2nd innings,Bangladesh,Zimbabwe,28.3,Mushfiqur Rahim,Shakib Al Hasan,AG Cremer,1,0,1,NA,0,NA,NA,NA,1
+410341,2nd innings,Bangladesh,Zimbabwe,28.4,Shakib Al Hasan,Mushfiqur Rahim,AG Cremer,1,0,1,NA,0,NA,NA,NA,1
+410341,2nd innings,Bangladesh,Zimbabwe,28.5,Mushfiqur Rahim,Shakib Al Hasan,AG Cremer,1,0,1,NA,0,NA,NA,NA,1
+410341,2nd innings,Bangladesh,Zimbabwe,28.6,Shakib Al Hasan,Mushfiqur Rahim,AG Cremer,0,0,0,NA,0,NA,NA,NA,1
+410341,2nd innings,Bangladesh,Zimbabwe,29.1,Mushfiqur Rahim,Shakib Al Hasan,P Utseya,1,0,1,NA,0,NA,NA,NA,1
+410341,2nd innings,Bangladesh,Zimbabwe,29.2,Shakib Al Hasan,Mushfiqur Rahim,P Utseya,0,0,0,NA,0,NA,NA,NA,1
+410341,2nd innings,Bangladesh,Zimbabwe,29.3,Shakib Al Hasan,Mushfiqur Rahim,P Utseya,1,0,1,NA,0,NA,NA,NA,1
+410341,2nd innings,Bangladesh,Zimbabwe,29.4,Mushfiqur Rahim,Shakib Al Hasan,P Utseya,1,0,1,NA,0,NA,NA,NA,1
+410341,2nd innings,Bangladesh,Zimbabwe,29.5,Shakib Al Hasan,Mushfiqur Rahim,P Utseya,1,0,1,NA,0,NA,NA,NA,1
+410341,2nd innings,Bangladesh,Zimbabwe,29.6,Mushfiqur Rahim,Shakib Al Hasan,P Utseya,4,0,4,NA,0,NA,NA,NA,1
+410341,2nd innings,Bangladesh,Zimbabwe,30.1,Shakib Al Hasan,Mushfiqur Rahim,E Chigumbura,1,0,1,NA,0,NA,NA,NA,1
+410341,2nd innings,Bangladesh,Zimbabwe,30.2,Mushfiqur Rahim,Shakib Al Hasan,E Chigumbura,0,0,0,NA,0,NA,NA,NA,1
+410341,2nd innings,Bangladesh,Zimbabwe,30.3,Mushfiqur Rahim,Shakib Al Hasan,E Chigumbura,1,0,1,NA,0,NA,NA,NA,1
+410341,2nd innings,Bangladesh,Zimbabwe,30.4,Shakib Al Hasan,Mushfiqur Rahim,E Chigumbura,1,0,1,NA,0,NA,NA,NA,1
+410341,2nd innings,Bangladesh,Zimbabwe,30.5,Mushfiqur Rahim,Shakib Al Hasan,E Chigumbura,1,0,1,NA,0,NA,NA,NA,1
+410341,2nd innings,Bangladesh,Zimbabwe,30.6,Shakib Al Hasan,Mushfiqur Rahim,E Chigumbura,0,0,0,NA,0,NA,NA,NA,1
+410341,2nd innings,Bangladesh,Zimbabwe,31.1,Mushfiqur Rahim,Shakib Al Hasan,P Utseya,0,0,0,NA,0,NA,NA,NA,1
+410341,2nd innings,Bangladesh,Zimbabwe,31.2,Mushfiqur Rahim,Shakib Al Hasan,P Utseya,4,0,4,NA,0,NA,NA,NA,1
+410341,2nd innings,Bangladesh,Zimbabwe,31.3,Mushfiqur Rahim,Shakib Al Hasan,P Utseya,0,0,0,NA,0,NA,NA,NA,1
+410341,2nd innings,Bangladesh,Zimbabwe,31.4,Mushfiqur Rahim,Shakib Al Hasan,P Utseya,1,0,1,NA,0,NA,NA,NA,1
+410341,2nd innings,Bangladesh,Zimbabwe,31.5,Shakib Al Hasan,Mushfiqur Rahim,P Utseya,0,0,0,NA,0,NA,NA,NA,1
+410341,2nd innings,Bangladesh,Zimbabwe,31.6,Shakib Al Hasan,Mushfiqur Rahim,P Utseya,1,0,1,NA,0,NA,NA,NA,1
+410341,2nd innings,Bangladesh,Zimbabwe,32.1,Shakib Al Hasan,Mushfiqur Rahim,H Masakadza,4,0,4,NA,0,NA,NA,NA,1
+410341,2nd innings,Bangladesh,Zimbabwe,32.2,Shakib Al Hasan,Mushfiqur Rahim,H Masakadza,0,0,0,NA,0,NA,NA,NA,1
+410341,2nd innings,Bangladesh,Zimbabwe,32.3,Shakib Al Hasan,Mushfiqur Rahim,H Masakadza,0,0,0,NA,0,NA,NA,NA,1
+410341,2nd innings,Bangladesh,Zimbabwe,32.4,Shakib Al Hasan,Mushfiqur Rahim,H Masakadza,1,0,1,NA,0,NA,NA,NA,1
+410341,2nd innings,Bangladesh,Zimbabwe,32.5,Mushfiqur Rahim,Shakib Al Hasan,H Masakadza,0,0,0,NA,0,NA,NA,NA,1
+410341,2nd innings,Bangladesh,Zimbabwe,32.6,Mushfiqur Rahim,Shakib Al Hasan,H Masakadza,0,5,5,wides,0,NA,NA,NA,1
+410341,2nd innings,Bangladesh,Zimbabwe,32.7,Mushfiqur Rahim,Shakib Al Hasan,H Masakadza,0,0,0,NA,0,NA,NA,NA,1
+410341,2nd innings,Bangladesh,Zimbabwe,33.1,Shakib Al Hasan,Mushfiqur Rahim,P Utseya,1,0,1,NA,0,NA,NA,NA,1
+410341,2nd innings,Bangladesh,Zimbabwe,33.2,Mushfiqur Rahim,Shakib Al Hasan,P Utseya,0,0,0,NA,0,NA,NA,NA,1
+410341,2nd innings,Bangladesh,Zimbabwe,33.3,Mushfiqur Rahim,Shakib Al Hasan,P Utseya,0,0,0,NA,0,NA,NA,NA,1
+410341,2nd innings,Bangladesh,Zimbabwe,33.4,Mushfiqur Rahim,Shakib Al Hasan,P Utseya,0,0,0,NA,0,NA,NA,NA,1
+410341,2nd innings,Bangladesh,Zimbabwe,33.5,Mushfiqur Rahim,Shakib Al Hasan,P Utseya,1,0,1,NA,0,NA,NA,NA,1
+410341,2nd innings,Bangladesh,Zimbabwe,33.6,Shakib Al Hasan,Mushfiqur Rahim,P Utseya,1,0,1,NA,0,NA,NA,NA,1
+410341,2nd innings,Bangladesh,Zimbabwe,34.1,Shakib Al Hasan,Mushfiqur Rahim,EC Rainsford,0,2,2,wides,0,NA,NA,NA,1
+410341,2nd innings,Bangladesh,Zimbabwe,34.2,Mushfiqur Rahim,Shakib Al Hasan,EC Rainsford,1,0,1,NA,0,NA,NA,NA,1
+410341,2nd innings,Bangladesh,Zimbabwe,34.3,Shakib Al Hasan,Mushfiqur Rahim,EC Rainsford,2,0,2,NA,0,NA,NA,NA,1
+410341,2nd innings,Bangladesh,Zimbabwe,34.4,Shakib Al Hasan,Mushfiqur Rahim,EC Rainsford,2,0,2,NA,0,NA,NA,NA,1
+410341,2nd innings,Bangladesh,Zimbabwe,34.5,Shakib Al Hasan,Mushfiqur Rahim,EC Rainsford,0,0,0,NA,0,NA,NA,NA,1
+410341,2nd innings,Bangladesh,Zimbabwe,34.6,Shakib Al Hasan,Mushfiqur Rahim,EC Rainsford,0,0,0,NA,0,NA,NA,NA,1
+410341,2nd innings,Bangladesh,Zimbabwe,34.7,Shakib Al Hasan,Mushfiqur Rahim,EC Rainsford,1,0,1,NA,0,NA,NA,NA,1
+410341,2nd innings,Bangladesh,Zimbabwe,35.1,Shakib Al Hasan,Mushfiqur Rahim,P Utseya,1,0,1,NA,0,NA,NA,NA,1
+410341,2nd innings,Bangladesh,Zimbabwe,35.2,Mushfiqur Rahim,Shakib Al Hasan,P Utseya,1,0,1,NA,0,NA,NA,NA,1
+410341,2nd innings,Bangladesh,Zimbabwe,35.3,Shakib Al Hasan,Mushfiqur Rahim,P Utseya,1,0,1,NA,0,NA,NA,NA,1
+410341,2nd innings,Bangladesh,Zimbabwe,35.4,Mushfiqur Rahim,Shakib Al Hasan,P Utseya,4,0,4,NA,0,NA,NA,NA,1
+410341,2nd innings,Bangladesh,Zimbabwe,35.5,Mushfiqur Rahim,Shakib Al Hasan,P Utseya,0,0,0,NA,0,NA,NA,NA,1
+410341,2nd innings,Bangladesh,Zimbabwe,35.6,Mushfiqur Rahim,Shakib Al Hasan,P Utseya,4,0,4,NA,0,NA,NA,NA,1
+410341,2nd innings,Bangladesh,Zimbabwe,36.1,Shakib Al Hasan,Mushfiqur Rahim,AG Cremer,0,0,0,NA,0,NA,NA,NA,1
+410341,2nd innings,Bangladesh,Zimbabwe,36.2,Shakib Al Hasan,Mushfiqur Rahim,AG Cremer,0,0,0,NA,1,caught,Shakib Al Hasan,H Masakadza,1
+410341,2nd innings,Bangladesh,Zimbabwe,36.3,Mahmudullah,Mushfiqur Rahim,AG Cremer,1,0,1,NA,0,NA,NA,NA,1
+410341,2nd innings,Bangladesh,Zimbabwe,36.4,Mushfiqur Rahim,Mahmudullah,AG Cremer,0,1,1,wides,0,NA,NA,NA,1
+410341,2nd innings,Bangladesh,Zimbabwe,36.5,Mushfiqur Rahim,Mahmudullah,AG Cremer,1,0,1,NA,0,NA,NA,NA,1
+410341,2nd innings,Bangladesh,Zimbabwe,36.6,Mahmudullah,Mushfiqur Rahim,AG Cremer,0,0,0,NA,0,NA,NA,NA,1
+410341,2nd innings,Bangladesh,Zimbabwe,36.7,Mahmudullah,Mushfiqur Rahim,AG Cremer,1,0,1,NA,0,NA,NA,NA,1
+410341,2nd innings,Bangladesh,Zimbabwe,37.1,Mahmudullah,Mushfiqur Rahim,RW Price,0,0,0,NA,0,NA,NA,NA,1
+410341,2nd innings,Bangladesh,Zimbabwe,37.2,Mahmudullah,Mushfiqur Rahim,RW Price,0,0,0,NA,0,NA,NA,NA,1
+410341,2nd innings,Bangladesh,Zimbabwe,37.3,Mahmudullah,Mushfiqur Rahim,RW Price,0,0,0,NA,0,NA,NA,NA,1
+410341,2nd innings,Bangladesh,Zimbabwe,37.4,Mahmudullah,Mushfiqur Rahim,RW Price,0,0,0,NA,0,NA,NA,NA,1
+410341,2nd innings,Bangladesh,Zimbabwe,37.5,Mahmudullah,Mushfiqur Rahim,RW Price,0,0,0,NA,0,NA,NA,NA,1
+410341,2nd innings,Bangladesh,Zimbabwe,37.6,Mahmudullah,Mushfiqur Rahim,RW Price,0,0,0,NA,0,NA,NA,NA,1
+410341,2nd innings,Bangladesh,Zimbabwe,38.1,Mushfiqur Rahim,Mahmudullah,AG Cremer,1,0,1,NA,0,NA,NA,NA,1
+410341,2nd innings,Bangladesh,Zimbabwe,38.2,Mahmudullah,Mushfiqur Rahim,AG Cremer,0,0,0,NA,0,NA,NA,NA,1
+410341,2nd innings,Bangladesh,Zimbabwe,38.3,Mahmudullah,Mushfiqur Rahim,AG Cremer,0,0,0,NA,0,NA,NA,NA,1
+410341,2nd innings,Bangladesh,Zimbabwe,38.4,Mahmudullah,Mushfiqur Rahim,AG Cremer,0,0,0,NA,0,NA,NA,NA,1
+410341,2nd innings,Bangladesh,Zimbabwe,38.5,Mahmudullah,Mushfiqur Rahim,AG Cremer,1,0,1,NA,0,NA,NA,NA,1
+410341,2nd innings,Bangladesh,Zimbabwe,38.6,Mushfiqur Rahim,Mahmudullah,AG Cremer,1,0,1,NA,0,NA,NA,NA,1
+410341,2nd innings,Bangladesh,Zimbabwe,39.1,Mushfiqur Rahim,Mahmudullah,SC Williams,1,0,1,NA,0,NA,NA,NA,1
+410341,2nd innings,Bangladesh,Zimbabwe,39.2,Mahmudullah,Mushfiqur Rahim,SC Williams,1,0,1,NA,0,NA,NA,NA,1
+410341,2nd innings,Bangladesh,Zimbabwe,39.3,Mushfiqur Rahim,Mahmudullah,SC Williams,1,0,1,NA,0,NA,NA,NA,1
+410341,2nd innings,Bangladesh,Zimbabwe,39.4,Mahmudullah,Mushfiqur Rahim,SC Williams,0,0,0,NA,0,NA,NA,NA,1
+410341,2nd innings,Bangladesh,Zimbabwe,39.5,Mahmudullah,Mushfiqur Rahim,SC Williams,1,0,1,NA,0,NA,NA,NA,1
+410341,2nd innings,Bangladesh,Zimbabwe,39.6,Mushfiqur Rahim,Mahmudullah,SC Williams,0,0,0,NA,0,NA,NA,NA,1
+410341,2nd innings,Bangladesh,Zimbabwe,40.1,Mahmudullah,Mushfiqur Rahim,AG Cremer,2,0,2,NA,0,NA,NA,NA,1
+410341,2nd innings,Bangladesh,Zimbabwe,40.2,Mahmudullah,Mushfiqur Rahim,AG Cremer,0,0,0,NA,0,NA,NA,NA,1
+410341,2nd innings,Bangladesh,Zimbabwe,40.3,Mahmudullah,Mushfiqur Rahim,AG Cremer,1,0,1,NA,0,NA,NA,NA,1
+410341,2nd innings,Bangladesh,Zimbabwe,40.4,Mushfiqur Rahim,Mahmudullah,AG Cremer,1,0,1,NA,0,NA,NA,NA,1
+410341,2nd innings,Bangladesh,Zimbabwe,40.5,Mahmudullah,Mushfiqur Rahim,AG Cremer,0,0,0,NA,0,NA,NA,NA,1
+410341,2nd innings,Bangladesh,Zimbabwe,40.6,Mahmudullah,Mushfiqur Rahim,AG Cremer,0,0,0,NA,0,NA,NA,NA,1
+410341,2nd innings,Bangladesh,Zimbabwe,41.1,Mushfiqur Rahim,Mahmudullah,E Chigumbura,0,0,0,NA,0,NA,NA,NA,1
+410341,2nd innings,Bangladesh,Zimbabwe,41.2,Mushfiqur Rahim,Mahmudullah,E Chigumbura,1,0,1,NA,0,NA,NA,NA,1
+410341,2nd innings,Bangladesh,Zimbabwe,41.3,Mahmudullah,Mushfiqur Rahim,E Chigumbura,6,0,6,NA,0,NA,NA,NA,1
+410341,2nd innings,Bangladesh,Zimbabwe,41.4,Mahmudullah,Mushfiqur Rahim,E Chigumbura,1,0,1,NA,0,NA,NA,NA,1
+410341,2nd innings,Bangladesh,Zimbabwe,41.5,Mushfiqur Rahim,Mahmudullah,E Chigumbura,1,0,1,NA,0,NA,NA,NA,1
+410341,2nd innings,Bangladesh,Zimbabwe,41.6,Mahmudullah,Mushfiqur Rahim,E Chigumbura,0,0,0,NA,0,NA,NA,NA,1
+410341,2nd innings,Bangladesh,Zimbabwe,42.1,Mushfiqur Rahim,Mahmudullah,RW Price,0,0,0,NA,0,NA,NA,NA,1
+410341,2nd innings,Bangladesh,Zimbabwe,42.2,Mushfiqur Rahim,Mahmudullah,RW Price,0,0,0,NA,0,NA,NA,NA,1
+410341,2nd innings,Bangladesh,Zimbabwe,42.3,Mushfiqur Rahim,Mahmudullah,RW Price,2,0,2,NA,0,NA,NA,NA,1
+410341,2nd innings,Bangladesh,Zimbabwe,42.4,Mushfiqur Rahim,Mahmudullah,RW Price,0,0,0,NA,0,NA,NA,NA,1
+410341,2nd innings,Bangladesh,Zimbabwe,42.5,Mushfiqur Rahim,Mahmudullah,RW Price,0,0,0,NA,0,NA,NA,NA,1
+410341,2nd innings,Bangladesh,Zimbabwe,42.6,Mushfiqur Rahim,Mahmudullah,RW Price,0,0,0,NA,0,NA,NA,NA,1
+410341,2nd innings,Bangladesh,Zimbabwe,43.1,Mahmudullah,Mushfiqur Rahim,SC Williams,1,0,1,NA,0,NA,NA,NA,1
+410341,2nd innings,Bangladesh,Zimbabwe,43.2,Mushfiqur Rahim,Mahmudullah,SC Williams,1,0,1,NA,0,NA,NA,NA,1
+410341,2nd innings,Bangladesh,Zimbabwe,43.3,Mahmudullah,Mushfiqur Rahim,SC Williams,0,0,0,NA,0,NA,NA,NA,1
+410341,2nd innings,Bangladesh,Zimbabwe,43.4,Mahmudullah,Mushfiqur Rahim,SC Williams,0,0,0,NA,0,NA,NA,NA,1
+410341,2nd innings,Bangladesh,Zimbabwe,43.5,Mahmudullah,Mushfiqur Rahim,SC Williams,1,0,1,NA,0,NA,NA,NA,1
+410341,2nd innings,Bangladesh,Zimbabwe,43.6,Mushfiqur Rahim,Mahmudullah,SC Williams,0,0,0,NA,0,NA,NA,NA,1
+410341,2nd innings,Bangladesh,Zimbabwe,44.1,Mahmudullah,Mushfiqur Rahim,RW Price,1,0,1,NA,0,NA,NA,NA,1
+410341,2nd innings,Bangladesh,Zimbabwe,44.2,Mushfiqur Rahim,Mahmudullah,RW Price,0,0,0,NA,0,NA,NA,NA,1
+410341,2nd innings,Bangladesh,Zimbabwe,44.3,Mushfiqur Rahim,Mahmudullah,RW Price,0,0,0,NA,0,NA,NA,NA,1
+410341,2nd innings,Bangladesh,Zimbabwe,44.4,Mushfiqur Rahim,Mahmudullah,RW Price,0,0,0,NA,1,stumped,Mushfiqur Rahim,CK Coventry,1
+410341,2nd innings,Bangladesh,Zimbabwe,44.5,Naeem Islam,Mahmudullah,RW Price,0,0,0,NA,0,NA,NA,NA,1
+410341,2nd innings,Bangladesh,Zimbabwe,44.6,Naeem Islam,Mahmudullah,RW Price,0,0,0,NA,0,NA,NA,NA,1
+410341,2nd innings,Bangladesh,Zimbabwe,45.1,Mahmudullah,Naeem Islam,SC Williams,0,0,0,NA,0,NA,NA,NA,1
+410341,2nd innings,Bangladesh,Zimbabwe,45.2,Mahmudullah,Naeem Islam,SC Williams,2,0,2,NA,0,NA,NA,NA,1
+410341,2nd innings,Bangladesh,Zimbabwe,45.3,Mahmudullah,Naeem Islam,SC Williams,0,0,0,NA,0,NA,NA,NA,1
+410341,2nd innings,Bangladesh,Zimbabwe,45.4,Mahmudullah,Naeem Islam,SC Williams,0,0,0,NA,0,NA,NA,NA,1
+410341,2nd innings,Bangladesh,Zimbabwe,45.5,Mahmudullah,Naeem Islam,SC Williams,1,0,1,NA,0,NA,NA,NA,1
+410341,2nd innings,Bangladesh,Zimbabwe,45.6,Naeem Islam,Mahmudullah,SC Williams,0,0,0,NA,0,NA,NA,NA,1
+410341,2nd innings,Bangladesh,Zimbabwe,46.1,Mahmudullah,Naeem Islam,EC Rainsford,0,0,0,NA,0,NA,NA,NA,1
+410341,2nd innings,Bangladesh,Zimbabwe,46.2,Mahmudullah,Naeem Islam,EC Rainsford,4,0,4,NA,0,NA,NA,NA,1
+410341,2nd innings,Bangladesh,Zimbabwe,46.3,Mahmudullah,Naeem Islam,EC Rainsford,0,0,0,NA,0,NA,NA,NA,1
+410341,2nd innings,Bangladesh,Zimbabwe,46.4,Mahmudullah,Naeem Islam,EC Rainsford,0,0,0,NA,0,NA,NA,NA,1
+410341,2nd innings,Bangladesh,Zimbabwe,46.5,Mahmudullah,Naeem Islam,EC Rainsford,1,0,1,NA,0,NA,NA,NA,1
+410341,2nd innings,Bangladesh,Zimbabwe,46.6,Naeem Islam,Mahmudullah,EC Rainsford,0,0,0,NA,0,NA,NA,NA,1
+410341,2nd innings,Bangladesh,Zimbabwe,47.1,Mahmudullah,Naeem Islam,SC Williams,0,0,0,NA,0,NA,NA,NA,1
+410341,2nd innings,Bangladesh,Zimbabwe,47.2,Mahmudullah,Naeem Islam,SC Williams,1,0,1,NA,0,NA,NA,NA,1
+410341,2nd innings,Bangladesh,Zimbabwe,47.3,Naeem Islam,Mahmudullah,SC Williams,0,0,0,NA,0,NA,NA,NA,1
+410341,2nd innings,Bangladesh,Zimbabwe,47.4,Naeem Islam,Mahmudullah,SC Williams,0,0,0,NA,0,NA,NA,NA,1
+410341,2nd innings,Bangladesh,Zimbabwe,47.5,Naeem Islam,Mahmudullah,SC Williams,4,0,4,NA,0,NA,NA,NA,1

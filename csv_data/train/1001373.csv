@@ -1,0 +1,601 @@
+match_id,innings,team,opponent,ball,batsman,non_striker,bowler,scored_runs,extras,total,extra_type,wicket,wicket_type,player_out,fielders,winner
+1001373,1st innings,Australia,New Zealand,0.1,DA Warner,AJ Finch,MJ Henry,0,0,0,NA,0,NA,NA,NA,1
+1001373,1st innings,Australia,New Zealand,0.2,DA Warner,AJ Finch,MJ Henry,0,0,0,NA,0,NA,NA,NA,1
+1001373,1st innings,Australia,New Zealand,0.3,DA Warner,AJ Finch,MJ Henry,0,0,0,NA,0,NA,NA,NA,1
+1001373,1st innings,Australia,New Zealand,0.4,DA Warner,AJ Finch,MJ Henry,0,0,0,NA,0,NA,NA,NA,1
+1001373,1st innings,Australia,New Zealand,0.5,DA Warner,AJ Finch,MJ Henry,1,0,1,NA,0,NA,NA,NA,1
+1001373,1st innings,Australia,New Zealand,0.6,AJ Finch,DA Warner,MJ Henry,1,0,1,NA,0,NA,NA,NA,1
+1001373,1st innings,Australia,New Zealand,1.1,AJ Finch,DA Warner,TA Boult,0,0,0,NA,0,NA,NA,NA,1
+1001373,1st innings,Australia,New Zealand,1.2,AJ Finch,DA Warner,TA Boult,1,0,1,NA,0,NA,NA,NA,1
+1001373,1st innings,Australia,New Zealand,1.3,DA Warner,AJ Finch,TA Boult,4,0,4,NA,0,NA,NA,NA,1
+1001373,1st innings,Australia,New Zealand,1.4,DA Warner,AJ Finch,TA Boult,0,0,0,NA,0,NA,NA,NA,1
+1001373,1st innings,Australia,New Zealand,1.5,DA Warner,AJ Finch,TA Boult,0,0,0,NA,0,NA,NA,NA,1
+1001373,1st innings,Australia,New Zealand,1.6,DA Warner,AJ Finch,TA Boult,0,0,0,NA,0,NA,NA,NA,1
+1001373,1st innings,Australia,New Zealand,2.1,AJ Finch,DA Warner,MJ Henry,0,0,0,NA,0,NA,NA,NA,1
+1001373,1st innings,Australia,New Zealand,2.2,AJ Finch,DA Warner,MJ Henry,0,0,0,NA,0,NA,NA,NA,1
+1001373,1st innings,Australia,New Zealand,2.3,AJ Finch,DA Warner,MJ Henry,1,0,1,NA,0,NA,NA,NA,1
+1001373,1st innings,Australia,New Zealand,2.4,DA Warner,AJ Finch,MJ Henry,3,0,3,NA,0,NA,NA,NA,1
+1001373,1st innings,Australia,New Zealand,2.5,AJ Finch,DA Warner,MJ Henry,0,0,0,NA,0,NA,NA,NA,1
+1001373,1st innings,Australia,New Zealand,2.6,AJ Finch,DA Warner,MJ Henry,0,0,0,NA,0,NA,NA,NA,1
+1001373,1st innings,Australia,New Zealand,3.1,DA Warner,AJ Finch,TA Boult,0,1,1,wides,0,NA,NA,NA,1
+1001373,1st innings,Australia,New Zealand,3.2,DA Warner,AJ Finch,TA Boult,0,0,0,NA,0,NA,NA,NA,1
+1001373,1st innings,Australia,New Zealand,3.3,DA Warner,AJ Finch,TA Boult,1,0,1,NA,0,NA,NA,NA,1
+1001373,1st innings,Australia,New Zealand,3.4,AJ Finch,DA Warner,TA Boult,0,0,0,NA,0,NA,NA,NA,1
+1001373,1st innings,Australia,New Zealand,3.5,AJ Finch,DA Warner,TA Boult,0,0,0,NA,0,NA,NA,NA,1
+1001373,1st innings,Australia,New Zealand,3.6,AJ Finch,DA Warner,TA Boult,0,0,0,NA,0,NA,NA,NA,1
+1001373,1st innings,Australia,New Zealand,3.7,AJ Finch,DA Warner,TA Boult,0,0,0,NA,0,NA,NA,NA,1
+1001373,1st innings,Australia,New Zealand,4.1,DA Warner,AJ Finch,MJ Henry,0,0,0,NA,0,NA,NA,NA,1
+1001373,1st innings,Australia,New Zealand,4.2,DA Warner,AJ Finch,MJ Henry,0,0,0,NA,0,NA,NA,NA,1
+1001373,1st innings,Australia,New Zealand,4.3,DA Warner,AJ Finch,MJ Henry,4,0,4,NA,0,NA,NA,NA,1
+1001373,1st innings,Australia,New Zealand,4.4,DA Warner,AJ Finch,MJ Henry,0,0,0,NA,0,NA,NA,NA,1
+1001373,1st innings,Australia,New Zealand,4.5,DA Warner,AJ Finch,MJ Henry,0,0,0,NA,0,NA,NA,NA,1
+1001373,1st innings,Australia,New Zealand,4.6,DA Warner,AJ Finch,MJ Henry,1,0,1,NA,0,NA,NA,NA,1
+1001373,1st innings,Australia,New Zealand,5.1,DA Warner,AJ Finch,TA Boult,1,0,1,NA,0,NA,NA,NA,1
+1001373,1st innings,Australia,New Zealand,5.2,AJ Finch,DA Warner,TA Boult,4,0,4,NA,0,NA,NA,NA,1
+1001373,1st innings,Australia,New Zealand,5.3,AJ Finch,DA Warner,TA Boult,0,1,1,legbyes,0,NA,NA,NA,1
+1001373,1st innings,Australia,New Zealand,5.4,DA Warner,AJ Finch,TA Boult,0,0,0,NA,0,NA,NA,NA,1
+1001373,1st innings,Australia,New Zealand,5.5,DA Warner,AJ Finch,TA Boult,1,0,1,NA,0,NA,NA,NA,1
+1001373,1st innings,Australia,New Zealand,5.6,AJ Finch,DA Warner,TA Boult,0,1,1,wides,0,NA,NA,NA,1
+1001373,1st innings,Australia,New Zealand,5.7,AJ Finch,DA Warner,TA Boult,4,0,4,NA,0,NA,NA,NA,1
+1001373,1st innings,Australia,New Zealand,6.1,DA Warner,AJ Finch,MJ Henry,1,0,1,NA,0,NA,NA,NA,1
+1001373,1st innings,Australia,New Zealand,6.2,AJ Finch,DA Warner,MJ Henry,0,0,0,NA,0,NA,NA,NA,1
+1001373,1st innings,Australia,New Zealand,6.3,AJ Finch,DA Warner,MJ Henry,0,0,0,NA,0,NA,NA,NA,1
+1001373,1st innings,Australia,New Zealand,6.4,AJ Finch,DA Warner,MJ Henry,1,0,1,NA,0,NA,NA,NA,1
+1001373,1st innings,Australia,New Zealand,6.5,DA Warner,AJ Finch,MJ Henry,4,0,4,NA,0,NA,NA,NA,1
+1001373,1st innings,Australia,New Zealand,6.6,DA Warner,AJ Finch,MJ Henry,1,0,1,NA,0,NA,NA,NA,1
+1001373,1st innings,Australia,New Zealand,7.1,DA Warner,AJ Finch,TA Boult,1,0,1,NA,0,NA,NA,NA,1
+1001373,1st innings,Australia,New Zealand,7.2,AJ Finch,DA Warner,TA Boult,0,0,0,NA,0,NA,NA,NA,1
+1001373,1st innings,Australia,New Zealand,7.3,AJ Finch,DA Warner,TA Boult,0,0,0,NA,0,NA,NA,NA,1
+1001373,1st innings,Australia,New Zealand,7.4,AJ Finch,DA Warner,TA Boult,0,0,0,NA,0,NA,NA,NA,1
+1001373,1st innings,Australia,New Zealand,7.5,AJ Finch,DA Warner,TA Boult,0,1,1,legbyes,0,NA,NA,NA,1
+1001373,1st innings,Australia,New Zealand,7.6,DA Warner,AJ Finch,TA Boult,1,0,1,NA,0,NA,NA,NA,1
+1001373,1st innings,Australia,New Zealand,8.1,DA Warner,AJ Finch,MJ Henry,2,0,2,NA,0,NA,NA,NA,1
+1001373,1st innings,Australia,New Zealand,8.2,DA Warner,AJ Finch,MJ Henry,1,0,1,NA,0,NA,NA,NA,1
+1001373,1st innings,Australia,New Zealand,8.3,AJ Finch,DA Warner,MJ Henry,0,1,1,wides,0,NA,NA,NA,1
+1001373,1st innings,Australia,New Zealand,8.4,AJ Finch,DA Warner,MJ Henry,0,0,0,NA,0,NA,NA,NA,1
+1001373,1st innings,Australia,New Zealand,8.5,AJ Finch,DA Warner,MJ Henry,2,0,2,NA,0,NA,NA,NA,1
+1001373,1st innings,Australia,New Zealand,8.6,AJ Finch,DA Warner,MJ Henry,0,0,0,NA,0,NA,NA,NA,1
+1001373,1st innings,Australia,New Zealand,8.7,AJ Finch,DA Warner,MJ Henry,0,1,1,wides,0,NA,NA,NA,1
+1001373,1st innings,Australia,New Zealand,8.8,AJ Finch,DA Warner,MJ Henry,0,2,2,legbyes,0,NA,NA,NA,1
+1001373,1st innings,Australia,New Zealand,9.1,DA Warner,AJ Finch,TA Boult,0,1,1,legbyes,0,NA,NA,NA,1
+1001373,1st innings,Australia,New Zealand,9.2,AJ Finch,DA Warner,TA Boult,0,0,0,NA,0,NA,NA,NA,1
+1001373,1st innings,Australia,New Zealand,9.3,AJ Finch,DA Warner,TA Boult,1,0,1,NA,0,NA,NA,NA,1
+1001373,1st innings,Australia,New Zealand,9.4,DA Warner,AJ Finch,TA Boult,1,0,1,NA,0,NA,NA,NA,1
+1001373,1st innings,Australia,New Zealand,9.5,AJ Finch,DA Warner,TA Boult,0,0,0,NA,0,NA,NA,NA,1
+1001373,1st innings,Australia,New Zealand,9.6,AJ Finch,DA Warner,TA Boult,2,0,2,NA,0,NA,NA,NA,1
+1001373,1st innings,Australia,New Zealand,10.1,DA Warner,AJ Finch,MJ Santner,0,0,0,NA,0,NA,NA,NA,1
+1001373,1st innings,Australia,New Zealand,10.2,DA Warner,AJ Finch,MJ Santner,4,0,4,NA,0,NA,NA,NA,1
+1001373,1st innings,Australia,New Zealand,10.3,DA Warner,AJ Finch,MJ Santner,0,0,0,NA,0,NA,NA,NA,1
+1001373,1st innings,Australia,New Zealand,10.4,DA Warner,AJ Finch,MJ Santner,0,0,0,NA,0,NA,NA,NA,1
+1001373,1st innings,Australia,New Zealand,10.5,DA Warner,AJ Finch,MJ Santner,0,0,0,NA,0,NA,NA,NA,1
+1001373,1st innings,Australia,New Zealand,10.6,DA Warner,AJ Finch,MJ Santner,1,0,1,NA,0,NA,NA,NA,1
+1001373,1st innings,Australia,New Zealand,11.1,DA Warner,AJ Finch,TG Southee,1,0,1,NA,0,NA,NA,NA,1
+1001373,1st innings,Australia,New Zealand,11.2,AJ Finch,DA Warner,TG Southee,1,0,1,NA,0,NA,NA,NA,1
+1001373,1st innings,Australia,New Zealand,11.3,DA Warner,AJ Finch,TG Southee,1,0,1,NA,0,NA,NA,NA,1
+1001373,1st innings,Australia,New Zealand,11.4,AJ Finch,DA Warner,TG Southee,1,0,1,NA,0,NA,NA,NA,1
+1001373,1st innings,Australia,New Zealand,11.5,DA Warner,AJ Finch,TG Southee,0,0,0,NA,0,NA,NA,NA,1
+1001373,1st innings,Australia,New Zealand,11.6,DA Warner,AJ Finch,TG Southee,4,0,4,NA,0,NA,NA,NA,1
+1001373,1st innings,Australia,New Zealand,12.1,AJ Finch,DA Warner,MJ Santner,0,1,1,wides,0,NA,NA,NA,1
+1001373,1st innings,Australia,New Zealand,12.2,AJ Finch,DA Warner,MJ Santner,0,0,0,NA,0,NA,NA,NA,1
+1001373,1st innings,Australia,New Zealand,12.3,AJ Finch,DA Warner,MJ Santner,0,0,0,NA,1,bowled,AJ Finch,NA,1
+1001373,1st innings,Australia,New Zealand,12.4,SPD Smith,DA Warner,MJ Santner,0,0,0,NA,0,NA,NA,NA,1
+1001373,1st innings,Australia,New Zealand,12.5,SPD Smith,DA Warner,MJ Santner,1,0,1,NA,0,NA,NA,NA,1
+1001373,1st innings,Australia,New Zealand,12.6,DA Warner,SPD Smith,MJ Santner,0,0,0,NA,0,NA,NA,NA,1
+1001373,1st innings,Australia,New Zealand,12.7,DA Warner,SPD Smith,MJ Santner,1,0,1,NA,0,NA,NA,NA,1
+1001373,1st innings,Australia,New Zealand,13.1,DA Warner,SPD Smith,TG Southee,1,0,1,NA,0,NA,NA,NA,1
+1001373,1st innings,Australia,New Zealand,13.2,SPD Smith,DA Warner,TG Southee,0,0,0,NA,0,NA,NA,NA,1
+1001373,1st innings,Australia,New Zealand,13.3,SPD Smith,DA Warner,TG Southee,4,0,4,NA,0,NA,NA,NA,1
+1001373,1st innings,Australia,New Zealand,13.4,SPD Smith,DA Warner,TG Southee,0,0,0,NA,0,NA,NA,NA,1
+1001373,1st innings,Australia,New Zealand,13.5,SPD Smith,DA Warner,TG Southee,0,0,0,NA,0,NA,NA,NA,1
+1001373,1st innings,Australia,New Zealand,13.6,SPD Smith,DA Warner,TG Southee,1,0,1,NA,0,NA,NA,NA,1
+1001373,1st innings,Australia,New Zealand,14.1,SPD Smith,DA Warner,MJ Santner,1,0,1,NA,0,NA,NA,NA,1
+1001373,1st innings,Australia,New Zealand,14.2,DA Warner,SPD Smith,MJ Santner,0,0,0,NA,0,NA,NA,NA,1
+1001373,1st innings,Australia,New Zealand,14.3,DA Warner,SPD Smith,MJ Santner,1,0,1,NA,0,NA,NA,NA,1
+1001373,1st innings,Australia,New Zealand,14.4,SPD Smith,DA Warner,MJ Santner,0,0,0,NA,0,NA,NA,NA,1
+1001373,1st innings,Australia,New Zealand,14.5,SPD Smith,DA Warner,MJ Santner,1,0,1,NA,0,NA,NA,NA,1
+1001373,1st innings,Australia,New Zealand,14.6,DA Warner,SPD Smith,MJ Santner,1,0,1,NA,0,NA,NA,NA,1
+1001373,1st innings,Australia,New Zealand,15.1,DA Warner,SPD Smith,TG Southee,1,0,1,NA,0,NA,NA,NA,1
+1001373,1st innings,Australia,New Zealand,15.2,SPD Smith,DA Warner,TG Southee,0,0,0,NA,0,NA,NA,NA,1
+1001373,1st innings,Australia,New Zealand,15.3,SPD Smith,DA Warner,TG Southee,0,0,0,NA,0,NA,NA,NA,1
+1001373,1st innings,Australia,New Zealand,15.4,SPD Smith,DA Warner,TG Southee,0,0,0,NA,0,NA,NA,NA,1
+1001373,1st innings,Australia,New Zealand,15.5,SPD Smith,DA Warner,TG Southee,0,0,0,NA,0,NA,NA,NA,1
+1001373,1st innings,Australia,New Zealand,15.6,SPD Smith,DA Warner,TG Southee,1,0,1,NA,0,NA,NA,NA,1
+1001373,1st innings,Australia,New Zealand,16.1,SPD Smith,DA Warner,MJ Santner,1,0,1,NA,0,NA,NA,NA,1
+1001373,1st innings,Australia,New Zealand,16.2,DA Warner,SPD Smith,MJ Santner,0,0,0,NA,0,NA,NA,NA,1
+1001373,1st innings,Australia,New Zealand,16.3,DA Warner,SPD Smith,MJ Santner,0,0,0,NA,0,NA,NA,NA,1
+1001373,1st innings,Australia,New Zealand,16.4,DA Warner,SPD Smith,MJ Santner,0,0,0,NA,0,NA,NA,NA,1
+1001373,1st innings,Australia,New Zealand,16.5,DA Warner,SPD Smith,MJ Santner,1,0,1,NA,0,NA,NA,NA,1
+1001373,1st innings,Australia,New Zealand,16.6,SPD Smith,DA Warner,MJ Santner,0,0,0,NA,0,NA,NA,NA,1
+1001373,1st innings,Australia,New Zealand,17.1,DA Warner,SPD Smith,TG Southee,0,0,0,NA,0,NA,NA,NA,1
+1001373,1st innings,Australia,New Zealand,17.2,DA Warner,SPD Smith,TG Southee,0,0,0,NA,0,NA,NA,NA,1
+1001373,1st innings,Australia,New Zealand,17.3,DA Warner,SPD Smith,TG Southee,1,0,1,NA,0,NA,NA,NA,1
+1001373,1st innings,Australia,New Zealand,17.4,SPD Smith,DA Warner,TG Southee,0,0,0,NA,0,NA,NA,NA,1
+1001373,1st innings,Australia,New Zealand,17.5,SPD Smith,DA Warner,TG Southee,1,0,1,NA,0,NA,NA,NA,1
+1001373,1st innings,Australia,New Zealand,17.6,DA Warner,SPD Smith,TG Southee,0,0,0,NA,0,NA,NA,NA,1
+1001373,1st innings,Australia,New Zealand,18.1,SPD Smith,DA Warner,MJ Santner,1,0,1,NA,0,NA,NA,NA,1
+1001373,1st innings,Australia,New Zealand,18.2,DA Warner,SPD Smith,MJ Santner,4,0,4,NA,0,NA,NA,NA,1
+1001373,1st innings,Australia,New Zealand,18.3,DA Warner,SPD Smith,MJ Santner,1,0,1,NA,0,NA,NA,NA,1
+1001373,1st innings,Australia,New Zealand,18.4,SPD Smith,DA Warner,MJ Santner,2,0,2,NA,0,NA,NA,NA,1
+1001373,1st innings,Australia,New Zealand,18.5,SPD Smith,DA Warner,MJ Santner,0,0,0,NA,0,NA,NA,NA,1
+1001373,1st innings,Australia,New Zealand,18.6,SPD Smith,DA Warner,MJ Santner,1,0,1,NA,0,NA,NA,NA,1
+1001373,1st innings,Australia,New Zealand,19.1,SPD Smith,DA Warner,C de Grandhomme,0,0,0,NA,0,NA,NA,NA,1
+1001373,1st innings,Australia,New Zealand,19.2,SPD Smith,DA Warner,C de Grandhomme,0,0,0,NA,0,NA,NA,NA,1
+1001373,1st innings,Australia,New Zealand,19.3,SPD Smith,DA Warner,C de Grandhomme,1,0,1,NA,0,NA,NA,NA,1
+1001373,1st innings,Australia,New Zealand,19.4,DA Warner,SPD Smith,C de Grandhomme,0,0,0,NA,0,NA,NA,NA,1
+1001373,1st innings,Australia,New Zealand,19.5,DA Warner,SPD Smith,C de Grandhomme,1,0,1,NA,0,NA,NA,NA,1
+1001373,1st innings,Australia,New Zealand,19.6,SPD Smith,DA Warner,C de Grandhomme,1,0,1,NA,0,NA,NA,NA,1
+1001373,1st innings,Australia,New Zealand,20.1,SPD Smith,DA Warner,MJ Santner,0,0,0,NA,0,NA,NA,NA,1
+1001373,1st innings,Australia,New Zealand,20.2,SPD Smith,DA Warner,MJ Santner,1,0,1,NA,0,NA,NA,NA,1
+1001373,1st innings,Australia,New Zealand,20.3,DA Warner,SPD Smith,MJ Santner,1,0,1,NA,0,NA,NA,NA,1
+1001373,1st innings,Australia,New Zealand,20.4,SPD Smith,DA Warner,MJ Santner,1,0,1,NA,0,NA,NA,NA,1
+1001373,1st innings,Australia,New Zealand,20.5,DA Warner,SPD Smith,MJ Santner,1,0,1,NA,0,NA,NA,NA,1
+1001373,1st innings,Australia,New Zealand,20.6,SPD Smith,DA Warner,MJ Santner,1,0,1,NA,0,NA,NA,NA,1
+1001373,1st innings,Australia,New Zealand,21.1,SPD Smith,DA Warner,C de Grandhomme,2,0,2,NA,0,NA,NA,NA,1
+1001373,1st innings,Australia,New Zealand,21.2,SPD Smith,DA Warner,C de Grandhomme,1,0,1,NA,0,NA,NA,NA,1
+1001373,1st innings,Australia,New Zealand,21.3,DA Warner,SPD Smith,C de Grandhomme,0,0,0,NA,0,NA,NA,NA,1
+1001373,1st innings,Australia,New Zealand,21.4,DA Warner,SPD Smith,C de Grandhomme,1,0,1,NA,0,NA,NA,NA,1
+1001373,1st innings,Australia,New Zealand,21.5,SPD Smith,DA Warner,C de Grandhomme,1,0,1,NA,0,NA,NA,NA,1
+1001373,1st innings,Australia,New Zealand,21.6,DA Warner,SPD Smith,C de Grandhomme,1,0,1,NA,0,NA,NA,NA,1
+1001373,1st innings,Australia,New Zealand,22.1,DA Warner,SPD Smith,MJ Santner,2,0,2,NA,0,NA,NA,NA,1
+1001373,1st innings,Australia,New Zealand,22.2,DA Warner,SPD Smith,MJ Santner,1,0,1,NA,0,NA,NA,NA,1
+1001373,1st innings,Australia,New Zealand,22.3,SPD Smith,DA Warner,MJ Santner,0,0,0,NA,0,NA,NA,NA,1
+1001373,1st innings,Australia,New Zealand,22.4,SPD Smith,DA Warner,MJ Santner,0,0,0,NA,0,NA,NA,NA,1
+1001373,1st innings,Australia,New Zealand,22.5,SPD Smith,DA Warner,MJ Santner,0,0,0,NA,0,NA,NA,NA,1
+1001373,1st innings,Australia,New Zealand,22.6,SPD Smith,DA Warner,MJ Santner,0,0,0,NA,0,NA,NA,NA,1
+1001373,1st innings,Australia,New Zealand,23.1,DA Warner,SPD Smith,MJ Henry,2,0,2,NA,0,NA,NA,NA,1
+1001373,1st innings,Australia,New Zealand,23.2,DA Warner,SPD Smith,MJ Henry,1,0,1,NA,0,NA,NA,NA,1
+1001373,1st innings,Australia,New Zealand,23.3,SPD Smith,DA Warner,MJ Henry,4,0,4,NA,0,NA,NA,NA,1
+1001373,1st innings,Australia,New Zealand,23.4,SPD Smith,DA Warner,MJ Henry,1,0,1,NA,0,NA,NA,NA,1
+1001373,1st innings,Australia,New Zealand,23.5,DA Warner,SPD Smith,MJ Henry,1,0,1,NA,0,NA,NA,NA,1
+1001373,1st innings,Australia,New Zealand,23.6,SPD Smith,DA Warner,MJ Henry,0,0,0,NA,0,NA,NA,NA,1
+1001373,1st innings,Australia,New Zealand,24.1,DA Warner,SPD Smith,MJ Santner,0,0,0,NA,0,NA,NA,NA,1
+1001373,1st innings,Australia,New Zealand,24.2,DA Warner,SPD Smith,MJ Santner,0,0,0,NA,0,NA,NA,NA,1
+1001373,1st innings,Australia,New Zealand,24.3,DA Warner,SPD Smith,MJ Santner,0,0,0,NA,0,NA,NA,NA,1
+1001373,1st innings,Australia,New Zealand,24.4,DA Warner,SPD Smith,MJ Santner,4,0,4,NA,0,NA,NA,NA,1
+1001373,1st innings,Australia,New Zealand,24.5,DA Warner,SPD Smith,MJ Santner,1,0,1,NA,0,NA,NA,NA,1
+1001373,1st innings,Australia,New Zealand,24.6,SPD Smith,DA Warner,MJ Santner,0,0,0,NA,0,NA,NA,NA,1
+1001373,1st innings,Australia,New Zealand,25.1,DA Warner,SPD Smith,MJ Henry,4,0,4,NA,0,NA,NA,NA,1
+1001373,1st innings,Australia,New Zealand,25.2,DA Warner,SPD Smith,MJ Henry,0,0,0,NA,0,NA,NA,NA,1
+1001373,1st innings,Australia,New Zealand,25.3,DA Warner,SPD Smith,MJ Henry,0,0,0,NA,0,NA,NA,NA,1
+1001373,1st innings,Australia,New Zealand,25.4,DA Warner,SPD Smith,MJ Henry,0,0,0,NA,0,NA,NA,NA,1
+1001373,1st innings,Australia,New Zealand,25.5,DA Warner,SPD Smith,MJ Henry,4,0,4,NA,0,NA,NA,NA,1
+1001373,1st innings,Australia,New Zealand,25.6,DA Warner,SPD Smith,MJ Henry,1,0,1,NA,0,NA,NA,NA,1
+1001373,1st innings,Australia,New Zealand,26.1,DA Warner,SPD Smith,MJ Santner,0,0,0,NA,0,NA,NA,NA,1
+1001373,1st innings,Australia,New Zealand,26.2,DA Warner,SPD Smith,MJ Santner,1,0,1,NA,0,NA,NA,NA,1
+1001373,1st innings,Australia,New Zealand,26.3,SPD Smith,DA Warner,MJ Santner,4,0,4,NA,0,NA,NA,NA,1
+1001373,1st innings,Australia,New Zealand,26.4,SPD Smith,DA Warner,MJ Santner,1,0,1,NA,0,NA,NA,NA,1
+1001373,1st innings,Australia,New Zealand,26.5,DA Warner,SPD Smith,MJ Santner,0,0,0,NA,0,NA,NA,NA,1
+1001373,1st innings,Australia,New Zealand,26.6,DA Warner,SPD Smith,MJ Santner,1,0,1,NA,0,NA,NA,NA,1
+1001373,1st innings,Australia,New Zealand,27.1,DA Warner,SPD Smith,C de Grandhomme,0,0,0,NA,0,NA,NA,NA,1
+1001373,1st innings,Australia,New Zealand,27.2,DA Warner,SPD Smith,C de Grandhomme,1,0,1,NA,0,NA,NA,NA,1
+1001373,1st innings,Australia,New Zealand,27.3,SPD Smith,DA Warner,C de Grandhomme,1,0,1,NA,0,NA,NA,NA,1
+1001373,1st innings,Australia,New Zealand,27.4,DA Warner,SPD Smith,C de Grandhomme,4,0,4,NA,0,NA,NA,NA,1
+1001373,1st innings,Australia,New Zealand,27.5,DA Warner,SPD Smith,C de Grandhomme,1,0,1,NA,0,NA,NA,NA,1
+1001373,1st innings,Australia,New Zealand,27.6,SPD Smith,DA Warner,C de Grandhomme,1,0,1,NA,0,NA,NA,NA,1
+1001373,1st innings,Australia,New Zealand,28.1,SPD Smith,DA Warner,MJ Santner,1,0,1,NA,0,NA,NA,NA,1
+1001373,1st innings,Australia,New Zealand,28.2,DA Warner,SPD Smith,MJ Santner,1,0,1,NA,0,NA,NA,NA,1
+1001373,1st innings,Australia,New Zealand,28.3,SPD Smith,DA Warner,MJ Santner,0,0,0,NA,0,NA,NA,NA,1
+1001373,1st innings,Australia,New Zealand,28.4,SPD Smith,DA Warner,MJ Santner,1,0,1,NA,0,NA,NA,NA,1
+1001373,1st innings,Australia,New Zealand,28.5,DA Warner,SPD Smith,MJ Santner,1,0,1,NA,0,NA,NA,NA,1
+1001373,1st innings,Australia,New Zealand,28.6,SPD Smith,DA Warner,MJ Santner,0,0,0,NA,0,NA,NA,NA,1
+1001373,1st innings,Australia,New Zealand,29.1,DA Warner,SPD Smith,C de Grandhomme,2,0,2,NA,0,NA,NA,NA,1
+1001373,1st innings,Australia,New Zealand,29.2,DA Warner,SPD Smith,C de Grandhomme,0,0,0,NA,0,NA,NA,NA,1
+1001373,1st innings,Australia,New Zealand,29.3,DA Warner,SPD Smith,C de Grandhomme,4,0,4,NA,0,NA,NA,NA,1
+1001373,1st innings,Australia,New Zealand,29.4,DA Warner,SPD Smith,C de Grandhomme,0,0,0,NA,0,NA,NA,NA,1
+1001373,1st innings,Australia,New Zealand,29.5,DA Warner,SPD Smith,C de Grandhomme,1,0,1,NA,0,NA,NA,NA,1
+1001373,1st innings,Australia,New Zealand,29.6,SPD Smith,DA Warner,C de Grandhomme,1,0,1,NA,0,NA,NA,NA,1
+1001373,1st innings,Australia,New Zealand,30.1,SPD Smith,DA Warner,JDS Neesham,4,0,4,NA,0,NA,NA,NA,1
+1001373,1st innings,Australia,New Zealand,30.2,SPD Smith,DA Warner,JDS Neesham,2,0,2,NA,0,NA,NA,NA,1
+1001373,1st innings,Australia,New Zealand,30.3,SPD Smith,DA Warner,JDS Neesham,1,0,1,NA,0,NA,NA,NA,1
+1001373,1st innings,Australia,New Zealand,30.4,DA Warner,SPD Smith,JDS Neesham,4,0,4,NA,0,NA,NA,NA,1
+1001373,1st innings,Australia,New Zealand,30.5,DA Warner,SPD Smith,JDS Neesham,0,0,0,NA,0,NA,NA,NA,1
+1001373,1st innings,Australia,New Zealand,30.6,DA Warner,SPD Smith,JDS Neesham,1,0,1,NA,0,NA,NA,NA,1
+1001373,1st innings,Australia,New Zealand,31.1,DA Warner,SPD Smith,TG Southee,0,0,0,NA,0,NA,NA,NA,1
+1001373,1st innings,Australia,New Zealand,31.2,DA Warner,SPD Smith,TG Southee,0,0,0,NA,0,NA,NA,NA,1
+1001373,1st innings,Australia,New Zealand,31.3,DA Warner,SPD Smith,TG Southee,1,0,1,NA,0,NA,NA,NA,1
+1001373,1st innings,Australia,New Zealand,31.4,SPD Smith,DA Warner,TG Southee,1,0,1,NA,0,NA,NA,NA,1
+1001373,1st innings,Australia,New Zealand,31.5,DA Warner,SPD Smith,TG Southee,0,0,0,NA,0,NA,NA,NA,1
+1001373,1st innings,Australia,New Zealand,31.6,DA Warner,SPD Smith,TG Southee,0,0,0,NA,0,NA,NA,NA,1
+1001373,1st innings,Australia,New Zealand,32.1,SPD Smith,DA Warner,C de Grandhomme,0,0,0,NA,0,NA,NA,NA,1
+1001373,1st innings,Australia,New Zealand,32.2,SPD Smith,DA Warner,C de Grandhomme,1,0,1,NA,0,NA,NA,NA,1
+1001373,1st innings,Australia,New Zealand,32.3,DA Warner,SPD Smith,C de Grandhomme,1,0,1,NA,0,NA,NA,NA,1
+1001373,1st innings,Australia,New Zealand,32.4,SPD Smith,DA Warner,C de Grandhomme,1,0,1,NA,0,NA,NA,NA,1
+1001373,1st innings,Australia,New Zealand,32.5,DA Warner,SPD Smith,C de Grandhomme,1,0,1,NA,0,NA,NA,NA,1
+1001373,1st innings,Australia,New Zealand,32.6,SPD Smith,DA Warner,C de Grandhomme,1,0,1,NA,0,NA,NA,NA,1
+1001373,1st innings,Australia,New Zealand,33.1,SPD Smith,DA Warner,TG Southee,1,0,1,NA,0,NA,NA,NA,1
+1001373,1st innings,Australia,New Zealand,33.2,DA Warner,SPD Smith,TG Southee,1,0,1,NA,0,NA,NA,NA,1
+1001373,1st innings,Australia,New Zealand,33.3,SPD Smith,DA Warner,TG Southee,0,0,0,NA,0,NA,NA,NA,1
+1001373,1st innings,Australia,New Zealand,33.4,SPD Smith,DA Warner,TG Southee,4,0,4,NA,0,NA,NA,NA,1
+1001373,1st innings,Australia,New Zealand,33.5,SPD Smith,DA Warner,TG Southee,1,0,1,NA,0,NA,NA,NA,1
+1001373,1st innings,Australia,New Zealand,33.6,DA Warner,SPD Smith,TG Southee,4,0,4,NA,0,NA,NA,NA,1
+1001373,1st innings,Australia,New Zealand,34.1,SPD Smith,DA Warner,C de Grandhomme,0,0,0,NA,0,NA,NA,NA,1
+1001373,1st innings,Australia,New Zealand,34.2,SPD Smith,DA Warner,C de Grandhomme,0,0,0,NA,0,NA,NA,NA,1
+1001373,1st innings,Australia,New Zealand,34.3,SPD Smith,DA Warner,C de Grandhomme,6,0,6,NA,0,NA,NA,NA,1
+1001373,1st innings,Australia,New Zealand,34.4,SPD Smith,DA Warner,C de Grandhomme,2,0,2,NA,0,NA,NA,NA,1
+1001373,1st innings,Australia,New Zealand,34.5,SPD Smith,DA Warner,C de Grandhomme,1,0,1,NA,0,NA,NA,NA,1
+1001373,1st innings,Australia,New Zealand,34.6,DA Warner,SPD Smith,C de Grandhomme,1,0,1,NA,0,NA,NA,NA,1
+1001373,1st innings,Australia,New Zealand,35.1,DA Warner,SPD Smith,TA Boult,6,0,6,NA,0,NA,NA,NA,1
+1001373,1st innings,Australia,New Zealand,35.2,DA Warner,SPD Smith,TA Boult,0,0,0,NA,0,NA,NA,NA,1
+1001373,1st innings,Australia,New Zealand,35.3,DA Warner,SPD Smith,TA Boult,4,0,4,NA,0,NA,NA,NA,1
+1001373,1st innings,Australia,New Zealand,35.4,DA Warner,SPD Smith,TA Boult,0,0,0,NA,0,NA,NA,NA,1
+1001373,1st innings,Australia,New Zealand,35.5,DA Warner,SPD Smith,TA Boult,0,0,0,NA,0,NA,NA,NA,1
+1001373,1st innings,Australia,New Zealand,35.6,DA Warner,SPD Smith,TA Boult,1,0,1,NA,0,NA,NA,NA,1
+1001373,1st innings,Australia,New Zealand,36.1,DA Warner,SPD Smith,C de Grandhomme,0,0,0,NA,1,caught,DA Warner,KS Williamson,1
+1001373,1st innings,Australia,New Zealand,36.2,TM Head,SPD Smith,C de Grandhomme,0,0,0,NA,0,NA,NA,NA,1
+1001373,1st innings,Australia,New Zealand,36.3,TM Head,SPD Smith,C de Grandhomme,1,0,1,NA,0,NA,NA,NA,1
+1001373,1st innings,Australia,New Zealand,36.4,SPD Smith,TM Head,C de Grandhomme,0,1,1,wides,0,NA,NA,NA,1
+1001373,1st innings,Australia,New Zealand,36.5,SPD Smith,TM Head,C de Grandhomme,1,0,1,NA,0,NA,NA,NA,1
+1001373,1st innings,Australia,New Zealand,36.6,TM Head,SPD Smith,C de Grandhomme,1,0,1,NA,0,NA,NA,NA,1
+1001373,1st innings,Australia,New Zealand,36.7,SPD Smith,TM Head,C de Grandhomme,1,0,1,NA,0,NA,NA,NA,1
+1001373,1st innings,Australia,New Zealand,37.1,SPD Smith,TM Head,TA Boult,0,1,1,legbyes,0,NA,NA,NA,1
+1001373,1st innings,Australia,New Zealand,37.2,TM Head,SPD Smith,TA Boult,3,0,3,NA,0,NA,NA,NA,1
+1001373,1st innings,Australia,New Zealand,37.3,SPD Smith,TM Head,TA Boult,1,0,1,NA,0,NA,NA,NA,1
+1001373,1st innings,Australia,New Zealand,37.4,TM Head,SPD Smith,TA Boult,1,0,1,NA,0,NA,NA,NA,1
+1001373,1st innings,Australia,New Zealand,37.5,SPD Smith,TM Head,TA Boult,4,0,4,NA,0,NA,NA,NA,1
+1001373,1st innings,Australia,New Zealand,37.6,SPD Smith,TM Head,TA Boult,0,4,4,legbyes,0,NA,NA,NA,1
+1001373,1st innings,Australia,New Zealand,38.1,TM Head,SPD Smith,C de Grandhomme,4,0,4,NA,0,NA,NA,NA,1
+1001373,1st innings,Australia,New Zealand,38.2,TM Head,SPD Smith,C de Grandhomme,6,0,6,NA,0,NA,NA,NA,1
+1001373,1st innings,Australia,New Zealand,38.3,TM Head,SPD Smith,C de Grandhomme,1,0,1,NA,0,NA,NA,NA,1
+1001373,1st innings,Australia,New Zealand,38.4,SPD Smith,TM Head,C de Grandhomme,0,1,1,legbyes,0,NA,NA,NA,1
+1001373,1st innings,Australia,New Zealand,38.5,TM Head,SPD Smith,C de Grandhomme,4,0,4,NA,0,NA,NA,NA,1
+1001373,1st innings,Australia,New Zealand,38.6,TM Head,SPD Smith,C de Grandhomme,0,0,0,NA,0,NA,NA,NA,1
+1001373,1st innings,Australia,New Zealand,39.1,SPD Smith,TM Head,TG Southee,0,0,0,NA,1,caught,SPD Smith,MJ Santner,1
+1001373,1st innings,Australia,New Zealand,39.2,TM Head,MR Marsh,TG Southee,2,0,2,NA,0,NA,NA,NA,1
+1001373,1st innings,Australia,New Zealand,39.3,TM Head,MR Marsh,TG Southee,1,0,1,NA,0,NA,NA,NA,1
+1001373,1st innings,Australia,New Zealand,39.4,MR Marsh,TM Head,TG Southee,0,0,0,NA,0,NA,NA,NA,1
+1001373,1st innings,Australia,New Zealand,39.5,MR Marsh,TM Head,TG Southee,0,1,1,wides,0,NA,NA,NA,1
+1001373,1st innings,Australia,New Zealand,39.6,MR Marsh,TM Head,TG Southee,0,0,0,NA,0,NA,NA,NA,1
+1001373,1st innings,Australia,New Zealand,39.7,MR Marsh,TM Head,TG Southee,0,0,0,NA,0,NA,NA,NA,1
+1001373,1st innings,Australia,New Zealand,40.1,TM Head,MR Marsh,MJ Henry,4,0,4,NA,0,NA,NA,NA,1
+1001373,1st innings,Australia,New Zealand,40.2,TM Head,MR Marsh,MJ Henry,0,0,0,NA,0,NA,NA,NA,1
+1001373,1st innings,Australia,New Zealand,40.3,TM Head,MR Marsh,MJ Henry,1,0,1,NA,0,NA,NA,NA,1
+1001373,1st innings,Australia,New Zealand,40.4,MR Marsh,TM Head,MJ Henry,1,0,1,NA,0,NA,NA,NA,1
+1001373,1st innings,Australia,New Zealand,40.5,TM Head,MR Marsh,MJ Henry,1,1,2,noballs,0,NA,NA,NA,1
+1001373,1st innings,Australia,New Zealand,40.6,MR Marsh,TM Head,MJ Henry,4,1,5,noballs,0,NA,NA,NA,1
+1001373,1st innings,Australia,New Zealand,40.7,MR Marsh,TM Head,MJ Henry,1,0,1,NA,0,NA,NA,NA,1
+1001373,1st innings,Australia,New Zealand,40.8,TM Head,MR Marsh,MJ Henry,0,0,0,NA,0,NA,NA,NA,1
+1001373,1st innings,Australia,New Zealand,41.1,MR Marsh,TM Head,TG Southee,1,0,1,NA,0,NA,NA,NA,1
+1001373,1st innings,Australia,New Zealand,41.2,TM Head,MR Marsh,TG Southee,4,0,4,NA,0,NA,NA,NA,1
+1001373,1st innings,Australia,New Zealand,41.3,TM Head,MR Marsh,TG Southee,0,0,0,NA,0,NA,NA,NA,1
+1001373,1st innings,Australia,New Zealand,41.4,TM Head,MR Marsh,TG Southee,0,1,1,wides,0,NA,NA,NA,1
+1001373,1st innings,Australia,New Zealand,41.5,TM Head,MR Marsh,TG Southee,1,0,1,NA,0,NA,NA,NA,1
+1001373,1st innings,Australia,New Zealand,41.6,MR Marsh,TM Head,TG Southee,1,0,1,NA,0,NA,NA,NA,1
+1001373,1st innings,Australia,New Zealand,41.7,TM Head,MR Marsh,TG Southee,1,0,1,NA,0,NA,NA,NA,1
+1001373,1st innings,Australia,New Zealand,42.1,TM Head,MR Marsh,TA Boult,1,0,1,NA,0,NA,NA,NA,1
+1001373,1st innings,Australia,New Zealand,42.2,MR Marsh,TM Head,TA Boult,1,0,1,NA,0,NA,NA,NA,1
+1001373,1st innings,Australia,New Zealand,42.3,TM Head,MR Marsh,TA Boult,1,0,1,NA,0,NA,NA,NA,1
+1001373,1st innings,Australia,New Zealand,42.4,MR Marsh,TM Head,TA Boult,0,0,0,NA,0,NA,NA,NA,1
+1001373,1st innings,Australia,New Zealand,42.5,MR Marsh,TM Head,TA Boult,2,0,2,NA,0,NA,NA,NA,1
+1001373,1st innings,Australia,New Zealand,42.6,MR Marsh,TM Head,TA Boult,0,0,0,NA,0,NA,NA,NA,1
+1001373,1st innings,Australia,New Zealand,43.1,TM Head,MR Marsh,TG Southee,1,0,1,NA,0,NA,NA,NA,1
+1001373,1st innings,Australia,New Zealand,43.2,MR Marsh,TM Head,TG Southee,0,0,0,NA,0,NA,NA,NA,1
+1001373,1st innings,Australia,New Zealand,43.3,MR Marsh,TM Head,TG Southee,1,0,1,NA,0,NA,NA,NA,1
+1001373,1st innings,Australia,New Zealand,43.4,TM Head,MR Marsh,TG Southee,4,0,4,NA,0,NA,NA,NA,1
+1001373,1st innings,Australia,New Zealand,43.5,TM Head,MR Marsh,TG Southee,1,0,1,NA,0,NA,NA,NA,1
+1001373,1st innings,Australia,New Zealand,43.6,MR Marsh,TM Head,TG Southee,2,0,2,NA,0,NA,NA,NA,1
+1001373,1st innings,Australia,New Zealand,44.1,TM Head,MR Marsh,TA Boult,4,0,4,NA,0,NA,NA,NA,1
+1001373,1st innings,Australia,New Zealand,44.2,TM Head,MR Marsh,TA Boult,1,0,1,NA,0,NA,NA,NA,1
+1001373,1st innings,Australia,New Zealand,44.3,MR Marsh,TM Head,TA Boult,6,0,6,NA,0,NA,NA,NA,1
+1001373,1st innings,Australia,New Zealand,44.4,MR Marsh,TM Head,TA Boult,1,0,1,NA,0,NA,NA,NA,1
+1001373,1st innings,Australia,New Zealand,44.5,TM Head,MR Marsh,TA Boult,0,2,2,wides,0,NA,NA,NA,1
+1001373,1st innings,Australia,New Zealand,44.6,MR Marsh,TM Head,TA Boult,2,0,2,NA,0,NA,NA,NA,1
+1001373,1st innings,Australia,New Zealand,44.7,MR Marsh,TM Head,TA Boult,4,0,4,NA,0,NA,NA,NA,1
+1001373,1st innings,Australia,New Zealand,45.1,TM Head,MR Marsh,TG Southee,1,0,1,NA,0,NA,NA,NA,1
+1001373,1st innings,Australia,New Zealand,45.2,MR Marsh,TM Head,TG Southee,1,0,1,NA,0,NA,NA,NA,1
+1001373,1st innings,Australia,New Zealand,45.3,TM Head,MR Marsh,TG Southee,1,0,1,NA,0,NA,NA,NA,1
+1001373,1st innings,Australia,New Zealand,45.4,MR Marsh,TM Head,TG Southee,1,0,1,NA,0,NA,NA,NA,1
+1001373,1st innings,Australia,New Zealand,45.5,TM Head,MR Marsh,TG Southee,6,0,6,NA,0,NA,NA,NA,1
+1001373,1st innings,Australia,New Zealand,45.6,TM Head,MR Marsh,TG Southee,0,0,0,NA,1,caught,TM Head,C Munro,1
+1001373,1st innings,Australia,New Zealand,46.1,MR Marsh,MS Wade,MJ Henry,1,0,1,NA,0,NA,NA,NA,1
+1001373,1st innings,Australia,New Zealand,46.2,MS Wade,MR Marsh,MJ Henry,0,0,0,NA,0,NA,NA,NA,1
+1001373,1st innings,Australia,New Zealand,46.3,MS Wade,MR Marsh,MJ Henry,1,0,1,NA,0,NA,NA,NA,1
+1001373,1st innings,Australia,New Zealand,46.4,MR Marsh,MS Wade,MJ Henry,6,0,6,NA,0,NA,NA,NA,1
+1001373,1st innings,Australia,New Zealand,46.5,MR Marsh,MS Wade,MJ Henry,1,0,1,NA,0,NA,NA,NA,1
+1001373,1st innings,Australia,New Zealand,46.6,MS Wade,MR Marsh,MJ Henry,4,0,4,NA,0,NA,NA,NA,1
+1001373,1st innings,Australia,New Zealand,47.1,MR Marsh,MS Wade,C de Grandhomme,0,0,0,NA,0,NA,NA,NA,1
+1001373,1st innings,Australia,New Zealand,47.2,MR Marsh,MS Wade,C de Grandhomme,0,0,0,NA,0,NA,NA,NA,1
+1001373,1st innings,Australia,New Zealand,47.3,MR Marsh,MS Wade,C de Grandhomme,0,0,0,NA,0,NA,NA,NA,1
+1001373,1st innings,Australia,New Zealand,47.4,MR Marsh,MS Wade,C de Grandhomme,6,0,6,NA,0,NA,NA,NA,1
+1001373,1st innings,Australia,New Zealand,47.5,MR Marsh,MS Wade,C de Grandhomme,0,0,0,NA,0,NA,NA,NA,1
+1001373,1st innings,Australia,New Zealand,47.6,MR Marsh,MS Wade,C de Grandhomme,1,1,2,noballs,0,NA,NA,NA,1
+1001373,1st innings,Australia,New Zealand,47.7,MS Wade,MR Marsh,C de Grandhomme,6,0,6,NA,0,NA,NA,NA,1
+1001373,1st innings,Australia,New Zealand,48.1,MR Marsh,MS Wade,TA Boult,2,0,2,NA,0,NA,NA,NA,1
+1001373,1st innings,Australia,New Zealand,48.2,MR Marsh,MS Wade,TA Boult,2,0,2,NA,0,NA,NA,NA,1
+1001373,1st innings,Australia,New Zealand,48.3,MR Marsh,MS Wade,TA Boult,6,0,6,NA,0,NA,NA,NA,1
+1001373,1st innings,Australia,New Zealand,48.4,MR Marsh,MS Wade,TA Boult,1,0,1,NA,0,NA,NA,NA,1
+1001373,1st innings,Australia,New Zealand,48.5,MS Wade,MR Marsh,TA Boult,0,0,0,NA,1,bowled,MS Wade,NA,1
+1001373,1st innings,Australia,New Zealand,48.6,GJ Bailey,MR Marsh,TA Boult,0,0,0,NA,0,NA,NA,NA,1
+1001373,1st innings,Australia,New Zealand,49.1,MR Marsh,GJ Bailey,MJ Henry,2,0,2,NA,0,NA,NA,NA,1
+1001373,1st innings,Australia,New Zealand,49.2,MR Marsh,GJ Bailey,MJ Henry,6,0,6,NA,0,NA,NA,NA,1
+1001373,1st innings,Australia,New Zealand,49.3,MR Marsh,GJ Bailey,MJ Henry,6,0,6,NA,0,NA,NA,NA,1
+1001373,1st innings,Australia,New Zealand,49.4,MR Marsh,GJ Bailey,MJ Henry,6,0,6,NA,0,NA,NA,NA,1
+1001373,1st innings,Australia,New Zealand,49.5,MR Marsh,GJ Bailey,MJ Henry,0,0,0,NA,0,NA,NA,NA,1
+1001373,1st innings,Australia,New Zealand,49.6,MR Marsh,GJ Bailey,MJ Henry,1,0,1,NA,0,NA,NA,NA,1
+1001373,2nd innings,New Zealand,Australia,0.1,MJ Guptill,TWM Latham,MA Starc,0,0,0,NA,0,NA,NA,NA,0
+1001373,2nd innings,New Zealand,Australia,0.2,MJ Guptill,TWM Latham,MA Starc,0,0,0,NA,0,NA,NA,NA,0
+1001373,2nd innings,New Zealand,Australia,0.3,MJ Guptill,TWM Latham,MA Starc,4,0,4,NA,0,NA,NA,NA,0
+1001373,2nd innings,New Zealand,Australia,0.4,MJ Guptill,TWM Latham,MA Starc,4,0,4,NA,0,NA,NA,NA,0
+1001373,2nd innings,New Zealand,Australia,0.5,MJ Guptill,TWM Latham,MA Starc,3,0,3,NA,0,NA,NA,NA,0
+1001373,2nd innings,New Zealand,Australia,0.6,TWM Latham,MJ Guptill,MA Starc,0,0,0,NA,0,NA,NA,NA,0
+1001373,2nd innings,New Zealand,Australia,1.1,MJ Guptill,TWM Latham,JR Hazlewood,0,0,0,NA,0,NA,NA,NA,0
+1001373,2nd innings,New Zealand,Australia,1.2,MJ Guptill,TWM Latham,JR Hazlewood,0,0,0,NA,0,NA,NA,NA,0
+1001373,2nd innings,New Zealand,Australia,1.3,MJ Guptill,TWM Latham,JR Hazlewood,4,0,4,NA,0,NA,NA,NA,0
+1001373,2nd innings,New Zealand,Australia,1.4,MJ Guptill,TWM Latham,JR Hazlewood,6,0,6,NA,0,NA,NA,NA,0
+1001373,2nd innings,New Zealand,Australia,1.5,MJ Guptill,TWM Latham,JR Hazlewood,0,0,0,NA,0,NA,NA,NA,0
+1001373,2nd innings,New Zealand,Australia,1.6,MJ Guptill,TWM Latham,JR Hazlewood,1,0,1,NA,0,NA,NA,NA,0
+1001373,2nd innings,New Zealand,Australia,2.1,MJ Guptill,TWM Latham,MA Starc,0,0,0,NA,0,NA,NA,NA,0
+1001373,2nd innings,New Zealand,Australia,2.2,MJ Guptill,TWM Latham,MA Starc,1,0,1,NA,0,NA,NA,NA,0
+1001373,2nd innings,New Zealand,Australia,2.3,TWM Latham,MJ Guptill,MA Starc,0,1,1,wides,0,NA,NA,NA,0
+1001373,2nd innings,New Zealand,Australia,2.4,TWM Latham,MJ Guptill,MA Starc,0,0,0,NA,0,NA,NA,NA,0
+1001373,2nd innings,New Zealand,Australia,2.5,TWM Latham,MJ Guptill,MA Starc,0,0,0,NA,0,NA,NA,NA,0
+1001373,2nd innings,New Zealand,Australia,2.6,TWM Latham,MJ Guptill,MA Starc,0,0,0,NA,0,NA,NA,NA,0
+1001373,2nd innings,New Zealand,Australia,2.7,TWM Latham,MJ Guptill,MA Starc,0,0,0,NA,0,NA,NA,NA,0
+1001373,2nd innings,New Zealand,Australia,3.1,MJ Guptill,TWM Latham,JR Hazlewood,0,0,0,NA,0,NA,NA,NA,0
+1001373,2nd innings,New Zealand,Australia,3.2,MJ Guptill,TWM Latham,JR Hazlewood,0,1,1,wides,0,NA,NA,NA,0
+1001373,2nd innings,New Zealand,Australia,3.3,MJ Guptill,TWM Latham,JR Hazlewood,1,0,1,NA,0,NA,NA,NA,0
+1001373,2nd innings,New Zealand,Australia,3.4,TWM Latham,MJ Guptill,JR Hazlewood,1,0,1,NA,0,NA,NA,NA,0
+1001373,2nd innings,New Zealand,Australia,3.5,MJ Guptill,TWM Latham,JR Hazlewood,0,0,0,NA,0,NA,NA,NA,0
+1001373,2nd innings,New Zealand,Australia,3.6,MJ Guptill,TWM Latham,JR Hazlewood,4,0,4,NA,0,NA,NA,NA,0
+1001373,2nd innings,New Zealand,Australia,3.7,MJ Guptill,TWM Latham,JR Hazlewood,1,0,1,NA,0,NA,NA,NA,0
+1001373,2nd innings,New Zealand,Australia,4.1,MJ Guptill,TWM Latham,MA Starc,1,0,1,NA,0,NA,NA,NA,0
+1001373,2nd innings,New Zealand,Australia,4.2,TWM Latham,MJ Guptill,MA Starc,0,0,0,NA,0,NA,NA,NA,0
+1001373,2nd innings,New Zealand,Australia,4.3,TWM Latham,MJ Guptill,MA Starc,3,0,3,NA,0,NA,NA,NA,0
+1001373,2nd innings,New Zealand,Australia,4.4,MJ Guptill,TWM Latham,MA Starc,0,0,0,NA,0,NA,NA,NA,0
+1001373,2nd innings,New Zealand,Australia,4.5,MJ Guptill,TWM Latham,MA Starc,0,0,0,NA,0,NA,NA,NA,0
+1001373,2nd innings,New Zealand,Australia,4.6,MJ Guptill,TWM Latham,MA Starc,4,0,4,NA,0,NA,NA,NA,0
+1001373,2nd innings,New Zealand,Australia,5.1,TWM Latham,MJ Guptill,JR Hazlewood,0,0,0,NA,0,NA,NA,NA,0
+1001373,2nd innings,New Zealand,Australia,5.2,TWM Latham,MJ Guptill,JR Hazlewood,0,0,0,NA,0,NA,NA,NA,0
+1001373,2nd innings,New Zealand,Australia,5.3,TWM Latham,MJ Guptill,JR Hazlewood,0,0,0,NA,0,NA,NA,NA,0
+1001373,2nd innings,New Zealand,Australia,5.4,TWM Latham,MJ Guptill,JR Hazlewood,0,0,0,NA,1,caught and bowled,TWM Latham,NA,0
+1001373,2nd innings,New Zealand,Australia,5.5,KS Williamson,MJ Guptill,JR Hazlewood,1,0,1,NA,0,NA,NA,NA,0
+1001373,2nd innings,New Zealand,Australia,5.6,MJ Guptill,KS Williamson,JR Hazlewood,1,0,1,NA,0,NA,NA,NA,0
+1001373,2nd innings,New Zealand,Australia,6.1,MJ Guptill,KS Williamson,PJ Cummins,0,0,0,NA,0,NA,NA,NA,0
+1001373,2nd innings,New Zealand,Australia,6.2,MJ Guptill,KS Williamson,PJ Cummins,4,0,4,NA,0,NA,NA,NA,0
+1001373,2nd innings,New Zealand,Australia,6.3,MJ Guptill,KS Williamson,PJ Cummins,4,0,4,NA,0,NA,NA,NA,0
+1001373,2nd innings,New Zealand,Australia,6.4,MJ Guptill,KS Williamson,PJ Cummins,0,0,0,NA,0,NA,NA,NA,0
+1001373,2nd innings,New Zealand,Australia,6.5,MJ Guptill,KS Williamson,PJ Cummins,0,0,0,NA,0,NA,NA,NA,0
+1001373,2nd innings,New Zealand,Australia,6.6,MJ Guptill,KS Williamson,PJ Cummins,1,0,1,NA,0,NA,NA,NA,0
+1001373,2nd innings,New Zealand,Australia,7.1,MJ Guptill,KS Williamson,JR Hazlewood,1,0,1,NA,0,NA,NA,NA,0
+1001373,2nd innings,New Zealand,Australia,7.2,KS Williamson,MJ Guptill,JR Hazlewood,0,0,0,NA,0,NA,NA,NA,0
+1001373,2nd innings,New Zealand,Australia,7.3,KS Williamson,MJ Guptill,JR Hazlewood,0,0,0,NA,0,NA,NA,NA,0
+1001373,2nd innings,New Zealand,Australia,7.4,KS Williamson,MJ Guptill,JR Hazlewood,0,0,0,NA,0,NA,NA,NA,0
+1001373,2nd innings,New Zealand,Australia,7.5,KS Williamson,MJ Guptill,JR Hazlewood,0,0,0,NA,0,NA,NA,NA,0
+1001373,2nd innings,New Zealand,Australia,7.6,KS Williamson,MJ Guptill,JR Hazlewood,0,0,0,NA,0,NA,NA,NA,0
+1001373,2nd innings,New Zealand,Australia,8.1,MJ Guptill,KS Williamson,PJ Cummins,0,0,0,NA,0,NA,NA,NA,0
+1001373,2nd innings,New Zealand,Australia,8.2,MJ Guptill,KS Williamson,PJ Cummins,0,0,0,NA,0,NA,NA,NA,0
+1001373,2nd innings,New Zealand,Australia,8.3,MJ Guptill,KS Williamson,PJ Cummins,0,0,0,NA,1,caught,MJ Guptill,MS Wade,0
+1001373,2nd innings,New Zealand,Australia,8.4,JDS Neesham,KS Williamson,PJ Cummins,0,0,0,NA,0,NA,NA,NA,0
+1001373,2nd innings,New Zealand,Australia,8.5,JDS Neesham,KS Williamson,PJ Cummins,1,0,1,NA,0,NA,NA,NA,0
+1001373,2nd innings,New Zealand,Australia,8.6,KS Williamson,JDS Neesham,PJ Cummins,0,0,0,NA,0,NA,NA,NA,0
+1001373,2nd innings,New Zealand,Australia,9.1,JDS Neesham,KS Williamson,JR Hazlewood,0,0,0,NA,0,NA,NA,NA,0
+1001373,2nd innings,New Zealand,Australia,9.2,JDS Neesham,KS Williamson,JR Hazlewood,0,0,0,NA,0,NA,NA,NA,0
+1001373,2nd innings,New Zealand,Australia,9.3,JDS Neesham,KS Williamson,JR Hazlewood,0,0,0,NA,0,NA,NA,NA,0
+1001373,2nd innings,New Zealand,Australia,9.4,JDS Neesham,KS Williamson,JR Hazlewood,0,0,0,NA,0,NA,NA,NA,0
+1001373,2nd innings,New Zealand,Australia,9.5,JDS Neesham,KS Williamson,JR Hazlewood,0,0,0,NA,0,NA,NA,NA,0
+1001373,2nd innings,New Zealand,Australia,9.6,JDS Neesham,KS Williamson,JR Hazlewood,0,0,0,NA,0,NA,NA,NA,0
+1001373,2nd innings,New Zealand,Australia,10.1,KS Williamson,JDS Neesham,PJ Cummins,0,0,0,NA,0,NA,NA,NA,0
+1001373,2nd innings,New Zealand,Australia,10.2,KS Williamson,JDS Neesham,PJ Cummins,1,0,1,NA,0,NA,NA,NA,0
+1001373,2nd innings,New Zealand,Australia,10.3,JDS Neesham,KS Williamson,PJ Cummins,1,0,1,NA,0,NA,NA,NA,0
+1001373,2nd innings,New Zealand,Australia,10.4,KS Williamson,JDS Neesham,PJ Cummins,1,0,1,NA,0,NA,NA,NA,0
+1001373,2nd innings,New Zealand,Australia,10.5,JDS Neesham,KS Williamson,PJ Cummins,0,0,0,NA,0,NA,NA,NA,0
+1001373,2nd innings,New Zealand,Australia,10.6,JDS Neesham,KS Williamson,PJ Cummins,2,0,2,NA,0,NA,NA,NA,0
+1001373,2nd innings,New Zealand,Australia,11.1,KS Williamson,JDS Neesham,TM Head,0,0,0,NA,0,NA,NA,NA,0
+1001373,2nd innings,New Zealand,Australia,11.2,KS Williamson,JDS Neesham,TM Head,1,0,1,NA,0,NA,NA,NA,0
+1001373,2nd innings,New Zealand,Australia,11.3,JDS Neesham,KS Williamson,TM Head,0,0,0,NA,0,NA,NA,NA,0
+1001373,2nd innings,New Zealand,Australia,11.4,JDS Neesham,KS Williamson,TM Head,1,0,1,NA,0,NA,NA,NA,0
+1001373,2nd innings,New Zealand,Australia,11.5,KS Williamson,JDS Neesham,TM Head,1,0,1,NA,0,NA,NA,NA,0
+1001373,2nd innings,New Zealand,Australia,11.6,JDS Neesham,KS Williamson,TM Head,1,0,1,NA,0,NA,NA,NA,0
+1001373,2nd innings,New Zealand,Australia,12.1,JDS Neesham,KS Williamson,PJ Cummins,0,0,0,NA,0,NA,NA,NA,0
+1001373,2nd innings,New Zealand,Australia,12.2,JDS Neesham,KS Williamson,PJ Cummins,0,0,0,NA,0,NA,NA,NA,0
+1001373,2nd innings,New Zealand,Australia,12.3,JDS Neesham,KS Williamson,PJ Cummins,0,0,0,NA,0,NA,NA,NA,0
+1001373,2nd innings,New Zealand,Australia,12.4,JDS Neesham,KS Williamson,PJ Cummins,4,0,4,NA,0,NA,NA,NA,0
+1001373,2nd innings,New Zealand,Australia,12.5,JDS Neesham,KS Williamson,PJ Cummins,0,1,1,wides,0,NA,NA,NA,0
+1001373,2nd innings,New Zealand,Australia,12.6,JDS Neesham,KS Williamson,PJ Cummins,1,0,1,NA,0,NA,NA,NA,0
+1001373,2nd innings,New Zealand,Australia,12.7,KS Williamson,JDS Neesham,PJ Cummins,0,0,0,NA,0,NA,NA,NA,0
+1001373,2nd innings,New Zealand,Australia,13.1,JDS Neesham,KS Williamson,TM Head,0,0,0,NA,0,NA,NA,NA,0
+1001373,2nd innings,New Zealand,Australia,13.2,JDS Neesham,KS Williamson,TM Head,1,0,1,NA,0,NA,NA,NA,0
+1001373,2nd innings,New Zealand,Australia,13.3,KS Williamson,JDS Neesham,TM Head,1,0,1,NA,0,NA,NA,NA,0
+1001373,2nd innings,New Zealand,Australia,13.4,JDS Neesham,KS Williamson,TM Head,0,0,0,NA,0,NA,NA,NA,0
+1001373,2nd innings,New Zealand,Australia,13.5,JDS Neesham,KS Williamson,TM Head,0,0,0,NA,0,NA,NA,NA,0
+1001373,2nd innings,New Zealand,Australia,13.6,JDS Neesham,KS Williamson,TM Head,1,0,1,NA,0,NA,NA,NA,0
+1001373,2nd innings,New Zealand,Australia,14.1,JDS Neesham,KS Williamson,PJ Cummins,1,0,1,NA,0,NA,NA,NA,0
+1001373,2nd innings,New Zealand,Australia,14.2,KS Williamson,JDS Neesham,PJ Cummins,0,0,0,NA,0,NA,NA,NA,0
+1001373,2nd innings,New Zealand,Australia,14.3,KS Williamson,JDS Neesham,PJ Cummins,0,0,0,NA,0,NA,NA,NA,0
+1001373,2nd innings,New Zealand,Australia,14.4,KS Williamson,JDS Neesham,PJ Cummins,0,0,0,NA,0,NA,NA,NA,0
+1001373,2nd innings,New Zealand,Australia,14.5,KS Williamson,JDS Neesham,PJ Cummins,0,0,0,NA,0,NA,NA,NA,0
+1001373,2nd innings,New Zealand,Australia,14.6,KS Williamson,JDS Neesham,PJ Cummins,0,0,0,NA,0,NA,NA,NA,0
+1001373,2nd innings,New Zealand,Australia,15.1,JDS Neesham,KS Williamson,TM Head,0,0,0,NA,0,NA,NA,NA,0
+1001373,2nd innings,New Zealand,Australia,15.2,JDS Neesham,KS Williamson,TM Head,1,0,1,NA,0,NA,NA,NA,0
+1001373,2nd innings,New Zealand,Australia,15.3,KS Williamson,JDS Neesham,TM Head,1,0,1,NA,0,NA,NA,NA,0
+1001373,2nd innings,New Zealand,Australia,15.4,JDS Neesham,KS Williamson,TM Head,1,0,1,NA,0,NA,NA,NA,0
+1001373,2nd innings,New Zealand,Australia,15.5,KS Williamson,JDS Neesham,TM Head,1,0,1,NA,0,NA,NA,NA,0
+1001373,2nd innings,New Zealand,Australia,15.6,JDS Neesham,KS Williamson,TM Head,0,0,0,NA,0,NA,NA,NA,0
+1001373,2nd innings,New Zealand,Australia,16.1,KS Williamson,JDS Neesham,JP Faulkner,1,0,1,NA,0,NA,NA,NA,0
+1001373,2nd innings,New Zealand,Australia,16.2,JDS Neesham,KS Williamson,JP Faulkner,1,0,1,NA,0,NA,NA,NA,0
+1001373,2nd innings,New Zealand,Australia,16.3,KS Williamson,JDS Neesham,JP Faulkner,6,0,6,NA,0,NA,NA,NA,0
+1001373,2nd innings,New Zealand,Australia,16.4,KS Williamson,JDS Neesham,JP Faulkner,1,0,1,NA,0,NA,NA,NA,0
+1001373,2nd innings,New Zealand,Australia,16.5,JDS Neesham,KS Williamson,JP Faulkner,0,0,0,NA,0,NA,NA,NA,0
+1001373,2nd innings,New Zealand,Australia,16.6,JDS Neesham,KS Williamson,JP Faulkner,1,0,1,NA,0,NA,NA,NA,0
+1001373,2nd innings,New Zealand,Australia,17.1,JDS Neesham,KS Williamson,TM Head,0,0,0,NA,0,NA,NA,NA,0
+1001373,2nd innings,New Zealand,Australia,17.2,JDS Neesham,KS Williamson,TM Head,0,0,0,NA,0,NA,NA,NA,0
+1001373,2nd innings,New Zealand,Australia,17.3,JDS Neesham,KS Williamson,TM Head,0,0,0,NA,0,NA,NA,NA,0
+1001373,2nd innings,New Zealand,Australia,17.4,JDS Neesham,KS Williamson,TM Head,1,0,1,NA,0,NA,NA,NA,0
+1001373,2nd innings,New Zealand,Australia,17.5,KS Williamson,JDS Neesham,TM Head,0,0,0,NA,0,NA,NA,NA,0
+1001373,2nd innings,New Zealand,Australia,17.6,KS Williamson,JDS Neesham,TM Head,0,0,0,NA,0,NA,NA,NA,0
+1001373,2nd innings,New Zealand,Australia,18.1,JDS Neesham,KS Williamson,JP Faulkner,1,0,1,NA,0,NA,NA,NA,0
+1001373,2nd innings,New Zealand,Australia,18.2,KS Williamson,JDS Neesham,JP Faulkner,0,0,0,NA,0,NA,NA,NA,0
+1001373,2nd innings,New Zealand,Australia,18.3,KS Williamson,JDS Neesham,JP Faulkner,1,0,1,NA,0,NA,NA,NA,0
+1001373,2nd innings,New Zealand,Australia,18.4,JDS Neesham,KS Williamson,JP Faulkner,1,0,1,NA,0,NA,NA,NA,0
+1001373,2nd innings,New Zealand,Australia,18.5,KS Williamson,JDS Neesham,JP Faulkner,0,0,0,NA,0,NA,NA,NA,0
+1001373,2nd innings,New Zealand,Australia,18.6,KS Williamson,JDS Neesham,JP Faulkner,4,0,4,NA,0,NA,NA,NA,0
+1001373,2nd innings,New Zealand,Australia,19.1,JDS Neesham,KS Williamson,TM Head,1,0,1,NA,0,NA,NA,NA,0
+1001373,2nd innings,New Zealand,Australia,19.2,KS Williamson,JDS Neesham,TM Head,0,0,0,NA,0,NA,NA,NA,0
+1001373,2nd innings,New Zealand,Australia,19.3,KS Williamson,JDS Neesham,TM Head,2,0,2,NA,0,NA,NA,NA,0
+1001373,2nd innings,New Zealand,Australia,19.4,KS Williamson,JDS Neesham,TM Head,0,0,0,NA,0,NA,NA,NA,0
+1001373,2nd innings,New Zealand,Australia,19.5,KS Williamson,JDS Neesham,TM Head,1,0,1,NA,0,NA,NA,NA,0
+1001373,2nd innings,New Zealand,Australia,19.6,JDS Neesham,KS Williamson,TM Head,1,0,1,NA,0,NA,NA,NA,0
+1001373,2nd innings,New Zealand,Australia,20.1,JDS Neesham,KS Williamson,JP Faulkner,2,0,2,NA,0,NA,NA,NA,0
+1001373,2nd innings,New Zealand,Australia,20.2,JDS Neesham,KS Williamson,JP Faulkner,2,0,2,NA,0,NA,NA,NA,0
+1001373,2nd innings,New Zealand,Australia,20.3,JDS Neesham,KS Williamson,JP Faulkner,0,0,0,NA,0,NA,NA,NA,0
+1001373,2nd innings,New Zealand,Australia,20.4,JDS Neesham,KS Williamson,JP Faulkner,0,0,0,NA,0,NA,NA,NA,0
+1001373,2nd innings,New Zealand,Australia,20.5,JDS Neesham,KS Williamson,JP Faulkner,4,0,4,NA,0,NA,NA,NA,0
+1001373,2nd innings,New Zealand,Australia,20.6,JDS Neesham,KS Williamson,JP Faulkner,0,0,0,NA,0,NA,NA,NA,0
+1001373,2nd innings,New Zealand,Australia,21.1,KS Williamson,JDS Neesham,MR Marsh,0,0,0,NA,0,NA,NA,NA,0
+1001373,2nd innings,New Zealand,Australia,21.2,KS Williamson,JDS Neesham,MR Marsh,1,0,1,NA,0,NA,NA,NA,0
+1001373,2nd innings,New Zealand,Australia,21.3,JDS Neesham,KS Williamson,MR Marsh,0,0,0,NA,0,NA,NA,NA,0
+1001373,2nd innings,New Zealand,Australia,21.4,JDS Neesham,KS Williamson,MR Marsh,1,0,1,NA,0,NA,NA,NA,0
+1001373,2nd innings,New Zealand,Australia,21.5,KS Williamson,JDS Neesham,MR Marsh,4,0,4,NA,0,NA,NA,NA,0
+1001373,2nd innings,New Zealand,Australia,21.6,KS Williamson,JDS Neesham,MR Marsh,1,0,1,NA,0,NA,NA,NA,0
+1001373,2nd innings,New Zealand,Australia,22.1,KS Williamson,JDS Neesham,JP Faulkner,4,0,4,NA,0,NA,NA,NA,0
+1001373,2nd innings,New Zealand,Australia,22.2,KS Williamson,JDS Neesham,JP Faulkner,1,0,1,NA,0,NA,NA,NA,0
+1001373,2nd innings,New Zealand,Australia,22.3,JDS Neesham,KS Williamson,JP Faulkner,0,0,0,NA,0,NA,NA,NA,0
+1001373,2nd innings,New Zealand,Australia,22.4,JDS Neesham,KS Williamson,JP Faulkner,4,0,4,NA,0,NA,NA,NA,0
+1001373,2nd innings,New Zealand,Australia,22.5,JDS Neesham,KS Williamson,JP Faulkner,1,0,1,NA,0,NA,NA,NA,0
+1001373,2nd innings,New Zealand,Australia,22.6,KS Williamson,JDS Neesham,JP Faulkner,0,0,0,NA,0,NA,NA,NA,0
+1001373,2nd innings,New Zealand,Australia,23.1,JDS Neesham,KS Williamson,MR Marsh,0,0,0,NA,0,NA,NA,NA,0
+1001373,2nd innings,New Zealand,Australia,23.2,JDS Neesham,KS Williamson,MR Marsh,0,0,0,NA,0,NA,NA,NA,0
+1001373,2nd innings,New Zealand,Australia,23.3,JDS Neesham,KS Williamson,MR Marsh,2,0,2,NA,0,NA,NA,NA,0
+1001373,2nd innings,New Zealand,Australia,23.4,JDS Neesham,KS Williamson,MR Marsh,0,0,0,NA,0,NA,NA,NA,0
+1001373,2nd innings,New Zealand,Australia,23.5,JDS Neesham,KS Williamson,MR Marsh,4,0,4,NA,0,NA,NA,NA,0
+1001373,2nd innings,New Zealand,Australia,23.6,JDS Neesham,KS Williamson,MR Marsh,0,0,0,NA,0,NA,NA,NA,0
+1001373,2nd innings,New Zealand,Australia,24.1,KS Williamson,JDS Neesham,MA Starc,2,0,2,NA,0,NA,NA,NA,0
+1001373,2nd innings,New Zealand,Australia,24.2,KS Williamson,JDS Neesham,MA Starc,0,0,0,NA,0,NA,NA,NA,0
+1001373,2nd innings,New Zealand,Australia,24.3,KS Williamson,JDS Neesham,MA Starc,0,0,0,NA,0,NA,NA,NA,0
+1001373,2nd innings,New Zealand,Australia,24.4,KS Williamson,JDS Neesham,MA Starc,0,0,0,NA,0,NA,NA,NA,0
+1001373,2nd innings,New Zealand,Australia,24.5,KS Williamson,JDS Neesham,MA Starc,1,0,1,NA,0,NA,NA,NA,0
+1001373,2nd innings,New Zealand,Australia,24.6,JDS Neesham,KS Williamson,MA Starc,1,0,1,NA,0,NA,NA,NA,0
+1001373,2nd innings,New Zealand,Australia,25.1,JDS Neesham,KS Williamson,MR Marsh,1,0,1,NA,0,NA,NA,NA,0
+1001373,2nd innings,New Zealand,Australia,25.2,KS Williamson,JDS Neesham,MR Marsh,1,0,1,NA,0,NA,NA,NA,0
+1001373,2nd innings,New Zealand,Australia,25.3,JDS Neesham,KS Williamson,MR Marsh,4,0,4,NA,0,NA,NA,NA,0
+1001373,2nd innings,New Zealand,Australia,25.4,JDS Neesham,KS Williamson,MR Marsh,6,0,6,NA,0,NA,NA,NA,0
+1001373,2nd innings,New Zealand,Australia,25.5,JDS Neesham,KS Williamson,MR Marsh,0,0,0,NA,0,NA,NA,NA,0
+1001373,2nd innings,New Zealand,Australia,25.6,JDS Neesham,KS Williamson,MR Marsh,1,0,1,NA,0,NA,NA,NA,0
+1001373,2nd innings,New Zealand,Australia,26.1,JDS Neesham,KS Williamson,MA Starc,0,0,0,NA,0,NA,NA,NA,0
+1001373,2nd innings,New Zealand,Australia,26.2,JDS Neesham,KS Williamson,MA Starc,0,0,0,NA,0,NA,NA,NA,0
+1001373,2nd innings,New Zealand,Australia,26.3,JDS Neesham,KS Williamson,MA Starc,1,0,1,NA,0,NA,NA,NA,0
+1001373,2nd innings,New Zealand,Australia,26.4,KS Williamson,JDS Neesham,MA Starc,1,0,1,NA,0,NA,NA,NA,0
+1001373,2nd innings,New Zealand,Australia,26.5,JDS Neesham,KS Williamson,MA Starc,0,0,0,NA,0,NA,NA,NA,0
+1001373,2nd innings,New Zealand,Australia,26.6,JDS Neesham,KS Williamson,MA Starc,0,0,0,NA,0,NA,NA,NA,0
+1001373,2nd innings,New Zealand,Australia,27.1,KS Williamson,JDS Neesham,TM Head,1,0,1,NA,0,NA,NA,NA,0
+1001373,2nd innings,New Zealand,Australia,27.2,JDS Neesham,KS Williamson,TM Head,1,0,1,NA,0,NA,NA,NA,0
+1001373,2nd innings,New Zealand,Australia,27.3,KS Williamson,JDS Neesham,TM Head,3,0,3,NA,0,NA,NA,NA,0
+1001373,2nd innings,New Zealand,Australia,27.4,JDS Neesham,KS Williamson,TM Head,0,0,0,NA,0,NA,NA,NA,0
+1001373,2nd innings,New Zealand,Australia,27.5,JDS Neesham,KS Williamson,TM Head,4,0,4,NA,0,NA,NA,NA,0
+1001373,2nd innings,New Zealand,Australia,27.6,JDS Neesham,KS Williamson,TM Head,0,0,0,NA,0,NA,NA,NA,0
+1001373,2nd innings,New Zealand,Australia,28.1,KS Williamson,JDS Neesham,MA Starc,1,0,1,NA,0,NA,NA,NA,0
+1001373,2nd innings,New Zealand,Australia,28.2,JDS Neesham,KS Williamson,MA Starc,1,0,1,NA,0,NA,NA,NA,0
+1001373,2nd innings,New Zealand,Australia,28.3,KS Williamson,JDS Neesham,MA Starc,1,0,1,NA,0,NA,NA,NA,0
+1001373,2nd innings,New Zealand,Australia,28.4,JDS Neesham,KS Williamson,MA Starc,1,0,1,NA,0,NA,NA,NA,0
+1001373,2nd innings,New Zealand,Australia,28.5,KS Williamson,JDS Neesham,MA Starc,2,0,2,NA,0,NA,NA,NA,0
+1001373,2nd innings,New Zealand,Australia,28.6,KS Williamson,JDS Neesham,MA Starc,0,0,0,NA,0,NA,NA,NA,0
+1001373,2nd innings,New Zealand,Australia,29.1,JDS Neesham,KS Williamson,TM Head,0,0,0,NA,0,NA,NA,NA,0
+1001373,2nd innings,New Zealand,Australia,29.2,JDS Neesham,KS Williamson,TM Head,1,0,1,NA,0,NA,NA,NA,0
+1001373,2nd innings,New Zealand,Australia,29.3,KS Williamson,JDS Neesham,TM Head,1,0,1,NA,0,NA,NA,NA,0
+1001373,2nd innings,New Zealand,Australia,29.4,JDS Neesham,KS Williamson,TM Head,1,0,1,NA,0,NA,NA,NA,0
+1001373,2nd innings,New Zealand,Australia,29.5,KS Williamson,JDS Neesham,TM Head,1,0,1,NA,0,NA,NA,NA,0
+1001373,2nd innings,New Zealand,Australia,29.6,JDS Neesham,KS Williamson,TM Head,1,0,1,NA,0,NA,NA,NA,0
+1001373,2nd innings,New Zealand,Australia,30.1,JDS Neesham,KS Williamson,JR Hazlewood,1,0,1,NA,0,NA,NA,NA,0
+1001373,2nd innings,New Zealand,Australia,30.2,KS Williamson,JDS Neesham,JR Hazlewood,1,0,1,NA,0,NA,NA,NA,0
+1001373,2nd innings,New Zealand,Australia,30.3,JDS Neesham,KS Williamson,JR Hazlewood,4,0,4,NA,0,NA,NA,NA,0
+1001373,2nd innings,New Zealand,Australia,30.4,JDS Neesham,KS Williamson,JR Hazlewood,2,0,2,NA,0,NA,NA,NA,0
+1001373,2nd innings,New Zealand,Australia,30.5,JDS Neesham,KS Williamson,JR Hazlewood,0,0,0,NA,0,NA,NA,NA,0
+1001373,2nd innings,New Zealand,Australia,30.6,JDS Neesham,KS Williamson,JR Hazlewood,0,0,0,NA,1,caught,JDS Neesham,MA Starc,0
+1001373,2nd innings,New Zealand,Australia,31.1,C Munro,KS Williamson,JP Faulkner,1,0,1,NA,0,NA,NA,NA,0
+1001373,2nd innings,New Zealand,Australia,31.2,KS Williamson,C Munro,JP Faulkner,1,0,1,NA,0,NA,NA,NA,0
+1001373,2nd innings,New Zealand,Australia,31.3,C Munro,KS Williamson,JP Faulkner,0,0,0,NA,0,NA,NA,NA,0
+1001373,2nd innings,New Zealand,Australia,31.4,C Munro,KS Williamson,JP Faulkner,0,0,0,NA,0,NA,NA,NA,0
+1001373,2nd innings,New Zealand,Australia,31.5,C Munro,KS Williamson,JP Faulkner,0,0,0,NA,0,NA,NA,NA,0
+1001373,2nd innings,New Zealand,Australia,31.6,C Munro,KS Williamson,JP Faulkner,6,0,6,NA,0,NA,NA,NA,0
+1001373,2nd innings,New Zealand,Australia,32.1,KS Williamson,C Munro,JR Hazlewood,1,0,1,NA,0,NA,NA,NA,0
+1001373,2nd innings,New Zealand,Australia,32.2,C Munro,KS Williamson,JR Hazlewood,0,0,0,NA,0,NA,NA,NA,0
+1001373,2nd innings,New Zealand,Australia,32.3,C Munro,KS Williamson,JR Hazlewood,0,0,0,NA,0,NA,NA,NA,0
+1001373,2nd innings,New Zealand,Australia,32.4,C Munro,KS Williamson,JR Hazlewood,4,0,4,NA,0,NA,NA,NA,0
+1001373,2nd innings,New Zealand,Australia,32.5,C Munro,KS Williamson,JR Hazlewood,0,0,0,NA,0,NA,NA,NA,0
+1001373,2nd innings,New Zealand,Australia,32.6,C Munro,KS Williamson,JR Hazlewood,0,0,0,NA,0,NA,NA,NA,0
+1001373,2nd innings,New Zealand,Australia,33.1,KS Williamson,C Munro,JP Faulkner,1,0,1,NA,0,NA,NA,NA,0
+1001373,2nd innings,New Zealand,Australia,33.2,C Munro,KS Williamson,JP Faulkner,0,0,0,NA,0,NA,NA,NA,0
+1001373,2nd innings,New Zealand,Australia,33.3,C Munro,KS Williamson,JP Faulkner,0,0,0,NA,1,caught,C Munro,MR Marsh,0
+1001373,2nd innings,New Zealand,Australia,33.4,KS Williamson,C de Grandhomme,JP Faulkner,2,0,2,NA,0,NA,NA,NA,0
+1001373,2nd innings,New Zealand,Australia,33.5,KS Williamson,C de Grandhomme,JP Faulkner,1,0,1,NA,0,NA,NA,NA,0
+1001373,2nd innings,New Zealand,Australia,33.6,C de Grandhomme,KS Williamson,JP Faulkner,0,0,0,NA,0,NA,NA,NA,0
+1001373,2nd innings,New Zealand,Australia,34.1,KS Williamson,C de Grandhomme,JR Hazlewood,1,0,1,NA,0,NA,NA,NA,0
+1001373,2nd innings,New Zealand,Australia,34.2,C de Grandhomme,KS Williamson,JR Hazlewood,0,0,0,NA,0,NA,NA,NA,0
+1001373,2nd innings,New Zealand,Australia,34.3,C de Grandhomme,KS Williamson,JR Hazlewood,0,0,0,NA,0,NA,NA,NA,0
+1001373,2nd innings,New Zealand,Australia,34.4,C de Grandhomme,KS Williamson,JR Hazlewood,0,0,0,NA,0,NA,NA,NA,0
+1001373,2nd innings,New Zealand,Australia,34.5,C de Grandhomme,KS Williamson,JR Hazlewood,0,0,0,NA,0,NA,NA,NA,0
+1001373,2nd innings,New Zealand,Australia,34.6,C de Grandhomme,KS Williamson,JR Hazlewood,0,0,0,NA,0,NA,NA,NA,0
+1001373,2nd innings,New Zealand,Australia,35.1,KS Williamson,C de Grandhomme,JP Faulkner,0,0,0,NA,0,NA,NA,NA,0
+1001373,2nd innings,New Zealand,Australia,35.2,KS Williamson,C de Grandhomme,JP Faulkner,0,0,0,NA,0,NA,NA,NA,0
+1001373,2nd innings,New Zealand,Australia,35.3,KS Williamson,C de Grandhomme,JP Faulkner,1,0,1,NA,0,NA,NA,NA,0
+1001373,2nd innings,New Zealand,Australia,35.4,C de Grandhomme,KS Williamson,JP Faulkner,0,0,0,NA,0,NA,NA,NA,0
+1001373,2nd innings,New Zealand,Australia,35.5,C de Grandhomme,KS Williamson,JP Faulkner,6,0,6,NA,0,NA,NA,NA,0
+1001373,2nd innings,New Zealand,Australia,35.6,C de Grandhomme,KS Williamson,JP Faulkner,2,0,2,NA,0,NA,NA,NA,0
+1001373,2nd innings,New Zealand,Australia,36.1,KS Williamson,C de Grandhomme,PJ Cummins,0,0,0,NA,0,NA,NA,NA,0
+1001373,2nd innings,New Zealand,Australia,36.2,KS Williamson,C de Grandhomme,PJ Cummins,0,0,0,NA,0,NA,NA,NA,0
+1001373,2nd innings,New Zealand,Australia,36.3,KS Williamson,C de Grandhomme,PJ Cummins,2,0,2,NA,0,NA,NA,NA,0
+1001373,2nd innings,New Zealand,Australia,36.4,KS Williamson,C de Grandhomme,PJ Cummins,1,0,1,NA,0,NA,NA,NA,0
+1001373,2nd innings,New Zealand,Australia,36.5,C de Grandhomme,KS Williamson,PJ Cummins,0,0,0,NA,0,NA,NA,NA,0
+1001373,2nd innings,New Zealand,Australia,36.6,C de Grandhomme,KS Williamson,PJ Cummins,2,0,2,NA,0,NA,NA,NA,0
+1001373,2nd innings,New Zealand,Australia,37.1,KS Williamson,C de Grandhomme,JP Faulkner,2,0,2,NA,0,NA,NA,NA,0
+1001373,2nd innings,New Zealand,Australia,37.2,KS Williamson,C de Grandhomme,JP Faulkner,0,0,0,NA,0,NA,NA,NA,0
+1001373,2nd innings,New Zealand,Australia,37.3,KS Williamson,C de Grandhomme,JP Faulkner,4,0,4,NA,0,NA,NA,NA,0
+1001373,2nd innings,New Zealand,Australia,37.4,KS Williamson,C de Grandhomme,JP Faulkner,6,0,6,NA,0,NA,NA,NA,0
+1001373,2nd innings,New Zealand,Australia,37.5,KS Williamson,C de Grandhomme,JP Faulkner,1,0,1,NA,0,NA,NA,NA,0
+1001373,2nd innings,New Zealand,Australia,37.6,C de Grandhomme,KS Williamson,JP Faulkner,0,0,0,NA,0,NA,NA,NA,0
+1001373,2nd innings,New Zealand,Australia,38.1,KS Williamson,C de Grandhomme,MA Starc,4,0,4,NA,0,NA,NA,NA,0
+1001373,2nd innings,New Zealand,Australia,38.2,KS Williamson,C de Grandhomme,MA Starc,1,0,1,NA,0,NA,NA,NA,0
+1001373,2nd innings,New Zealand,Australia,38.3,C de Grandhomme,KS Williamson,MA Starc,2,0,2,NA,0,NA,NA,NA,0
+1001373,2nd innings,New Zealand,Australia,38.4,C de Grandhomme,KS Williamson,MA Starc,0,0,0,NA,1,caught,C de Grandhomme,MS Wade,0
+1001373,2nd innings,New Zealand,Australia,38.5,MJ Santner,KS Williamson,MA Starc,0,1,1,wides,0,NA,NA,NA,0
+1001373,2nd innings,New Zealand,Australia,38.6,MJ Santner,KS Williamson,MA Starc,0,1,1,legbyes,0,NA,NA,NA,0
+1001373,2nd innings,New Zealand,Australia,38.7,KS Williamson,MJ Santner,MA Starc,1,0,1,NA,0,NA,NA,NA,0
+1001373,2nd innings,New Zealand,Australia,39.1,KS Williamson,MJ Santner,PJ Cummins,0,0,0,NA,1,caught,KS Williamson,DA Warner,0
+1001373,2nd innings,New Zealand,Australia,39.2,BJ Watling,MJ Santner,PJ Cummins,0,0,0,NA,0,NA,NA,NA,0
+1001373,2nd innings,New Zealand,Australia,39.3,BJ Watling,MJ Santner,PJ Cummins,1,0,1,NA,0,NA,NA,NA,0
+1001373,2nd innings,New Zealand,Australia,39.4,MJ Santner,BJ Watling,PJ Cummins,0,0,0,NA,0,NA,NA,NA,0
+1001373,2nd innings,New Zealand,Australia,39.5,MJ Santner,BJ Watling,PJ Cummins,1,0,1,NA,0,NA,NA,NA,0
+1001373,2nd innings,New Zealand,Australia,39.6,BJ Watling,MJ Santner,PJ Cummins,0,0,0,NA,0,NA,NA,NA,0
+1001373,2nd innings,New Zealand,Australia,40.1,MJ Santner,BJ Watling,MA Starc,1,0,1,NA,0,NA,NA,NA,0
+1001373,2nd innings,New Zealand,Australia,40.2,BJ Watling,MJ Santner,MA Starc,0,0,0,NA,0,NA,NA,NA,0
+1001373,2nd innings,New Zealand,Australia,40.3,BJ Watling,MJ Santner,MA Starc,0,0,0,NA,0,NA,NA,NA,0
+1001373,2nd innings,New Zealand,Australia,40.4,BJ Watling,MJ Santner,MA Starc,1,0,1,NA,0,NA,NA,NA,0
+1001373,2nd innings,New Zealand,Australia,40.5,MJ Santner,BJ Watling,MA Starc,0,0,0,NA,1,bowled,MJ Santner,NA,0
+1001373,2nd innings,New Zealand,Australia,40.6,TG Southee,BJ Watling,MA Starc,2,0,2,NA,0,NA,NA,NA,0
+1001373,2nd innings,New Zealand,Australia,41.1,BJ Watling,TG Southee,PJ Cummins,4,0,4,NA,0,NA,NA,NA,0
+1001373,2nd innings,New Zealand,Australia,41.2,BJ Watling,TG Southee,PJ Cummins,1,0,1,NA,0,NA,NA,NA,0
+1001373,2nd innings,New Zealand,Australia,41.3,TG Southee,BJ Watling,PJ Cummins,0,0,0,NA,0,NA,NA,NA,0
+1001373,2nd innings,New Zealand,Australia,41.4,TG Southee,BJ Watling,PJ Cummins,0,0,0,NA,0,NA,NA,NA,0
+1001373,2nd innings,New Zealand,Australia,41.5,TG Southee,BJ Watling,PJ Cummins,0,0,0,NA,1,caught,TG Southee,GJ Bailey,0
+1001373,2nd innings,New Zealand,Australia,41.6,BJ Watling,MJ Henry,PJ Cummins,1,0,1,NA,0,NA,NA,NA,0
+1001373,2nd innings,New Zealand,Australia,42.1,BJ Watling,MJ Henry,MA Starc,0,0,0,NA,0,NA,NA,NA,0
+1001373,2nd innings,New Zealand,Australia,42.2,BJ Watling,MJ Henry,MA Starc,1,0,1,NA,0,NA,NA,NA,0
+1001373,2nd innings,New Zealand,Australia,42.3,MJ Henry,BJ Watling,MA Starc,0,0,0,NA,0,NA,NA,NA,0
+1001373,2nd innings,New Zealand,Australia,42.4,MJ Henry,BJ Watling,MA Starc,0,0,0,NA,0,NA,NA,NA,0
+1001373,2nd innings,New Zealand,Australia,42.5,MJ Henry,BJ Watling,MA Starc,1,0,1,NA,0,NA,NA,NA,0
+1001373,2nd innings,New Zealand,Australia,42.6,BJ Watling,MJ Henry,MA Starc,0,0,0,NA,0,NA,NA,NA,0
+1001373,2nd innings,New Zealand,Australia,43.1,MJ Henry,BJ Watling,PJ Cummins,2,0,2,NA,0,NA,NA,NA,0
+1001373,2nd innings,New Zealand,Australia,43.2,MJ Henry,BJ Watling,PJ Cummins,1,0,1,NA,0,NA,NA,NA,0
+1001373,2nd innings,New Zealand,Australia,43.3,BJ Watling,MJ Henry,PJ Cummins,0,0,0,NA,0,NA,NA,NA,0
+1001373,2nd innings,New Zealand,Australia,43.4,BJ Watling,MJ Henry,PJ Cummins,1,0,1,NA,0,NA,NA,NA,0
+1001373,2nd innings,New Zealand,Australia,43.5,MJ Henry,BJ Watling,PJ Cummins,0,0,0,NA,0,NA,NA,NA,0
+1001373,2nd innings,New Zealand,Australia,43.6,MJ Henry,BJ Watling,PJ Cummins,0,0,0,NA,0,NA,NA,NA,0
+1001373,2nd innings,New Zealand,Australia,44.1,BJ Watling,MJ Henry,MA Starc,1,0,1,NA,0,NA,NA,NA,0
+1001373,2nd innings,New Zealand,Australia,44.2,MJ Henry,BJ Watling,MA Starc,0,0,0,NA,0,NA,NA,NA,0
+1001373,2nd innings,New Zealand,Australia,44.3,MJ Henry,BJ Watling,MA Starc,0,0,0,NA,0,NA,NA,NA,0
+1001373,2nd innings,New Zealand,Australia,44.4,MJ Henry,BJ Watling,MA Starc,0,0,0,NA,0,NA,NA,NA,0
+1001373,2nd innings,New Zealand,Australia,44.5,MJ Henry,BJ Watling,MA Starc,2,0,2,NA,0,NA,NA,NA,0
+1001373,2nd innings,New Zealand,Australia,44.6,MJ Henry,BJ Watling,MA Starc,1,0,1,NA,0,NA,NA,NA,0
+1001373,2nd innings,New Zealand,Australia,45.1,MJ Henry,BJ Watling,PJ Cummins,0,0,0,NA,1,caught,MJ Henry,JP Faulkner,0
+1001373,2nd innings,New Zealand,Australia,45.2,BJ Watling,TA Boult,PJ Cummins,0,0,0,NA,0,NA,NA,NA,0
+1001373,2nd innings,New Zealand,Australia,45.3,BJ Watling,TA Boult,PJ Cummins,1,0,1,NA,0,NA,NA,NA,0
+1001373,2nd innings,New Zealand,Australia,45.4,TA Boult,BJ Watling,PJ Cummins,0,0,0,NA,0,NA,NA,NA,0
+1001373,2nd innings,New Zealand,Australia,45.5,TA Boult,BJ Watling,PJ Cummins,0,0,0,NA,0,NA,NA,NA,0
+1001373,2nd innings,New Zealand,Australia,45.6,TA Boult,BJ Watling,PJ Cummins,1,0,1,NA,0,NA,NA,NA,0
+1001373,2nd innings,New Zealand,Australia,46.1,TA Boult,BJ Watling,JR Hazlewood,1,0,1,NA,0,NA,NA,NA,0
+1001373,2nd innings,New Zealand,Australia,46.2,BJ Watling,TA Boult,JR Hazlewood,4,0,4,NA,0,NA,NA,NA,0
+1001373,2nd innings,New Zealand,Australia,46.3,BJ Watling,TA Boult,JR Hazlewood,0,0,0,NA,0,NA,NA,NA,0
+1001373,2nd innings,New Zealand,Australia,46.4,BJ Watling,TA Boult,JR Hazlewood,1,0,1,NA,0,NA,NA,NA,0
+1001373,2nd innings,New Zealand,Australia,46.5,TA Boult,BJ Watling,JR Hazlewood,0,0,0,NA,0,NA,NA,NA,0
+1001373,2nd innings,New Zealand,Australia,46.6,TA Boult,BJ Watling,JR Hazlewood,0,0,0,NA,0,NA,NA,NA,0
+1001373,2nd innings,New Zealand,Australia,47.1,BJ Watling,TA Boult,JP Faulkner,0,0,0,NA,0,NA,NA,NA,0
+1001373,2nd innings,New Zealand,Australia,47.2,BJ Watling,TA Boult,JP Faulkner,0,0,0,NA,1,caught,BJ Watling,DA Warner,0

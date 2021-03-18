@@ -1,0 +1,598 @@
+match_id,innings,team,opponent,ball,batsman,non_striker,bowler,scored_runs,extras,total,extra_type,wicket,wicket_type,player_out,fielders,winner
+936165,1st innings,South Africa,Sri Lanka,0.1,HM Amla,Q de Kock,KMDN Kulasekara,0,0,0,NA,0,NA,NA,NA,1
+936165,1st innings,South Africa,Sri Lanka,0.2,HM Amla,Q de Kock,KMDN Kulasekara,0,0,0,NA,0,NA,NA,NA,1
+936165,1st innings,South Africa,Sri Lanka,0.3,HM Amla,Q de Kock,KMDN Kulasekara,0,0,0,NA,0,NA,NA,NA,1
+936165,1st innings,South Africa,Sri Lanka,0.4,HM Amla,Q de Kock,KMDN Kulasekara,1,0,1,NA,0,NA,NA,NA,1
+936165,1st innings,South Africa,Sri Lanka,0.5,Q de Kock,HM Amla,KMDN Kulasekara,1,0,1,NA,0,NA,NA,NA,1
+936165,1st innings,South Africa,Sri Lanka,0.6,HM Amla,Q de Kock,KMDN Kulasekara,0,0,0,NA,0,NA,NA,NA,1
+936165,1st innings,South Africa,Sri Lanka,1.1,Q de Kock,HM Amla,CBRLS Kumara,1,0,1,NA,0,NA,NA,NA,1
+936165,1st innings,South Africa,Sri Lanka,1.2,HM Amla,Q de Kock,CBRLS Kumara,0,0,0,NA,0,NA,NA,NA,1
+936165,1st innings,South Africa,Sri Lanka,1.3,HM Amla,Q de Kock,CBRLS Kumara,0,0,0,NA,0,NA,NA,NA,1
+936165,1st innings,South Africa,Sri Lanka,1.4,HM Amla,Q de Kock,CBRLS Kumara,0,0,0,NA,0,NA,NA,NA,1
+936165,1st innings,South Africa,Sri Lanka,1.5,HM Amla,Q de Kock,CBRLS Kumara,0,0,0,NA,1,caught,HM Amla,DAS Gunaratne,1
+936165,1st innings,South Africa,Sri Lanka,1.6,F du Plessis,Q de Kock,CBRLS Kumara,0,0,0,NA,0,NA,NA,NA,1
+936165,1st innings,South Africa,Sri Lanka,2.1,Q de Kock,F du Plessis,KMDN Kulasekara,0,0,0,NA,0,NA,NA,NA,1
+936165,1st innings,South Africa,Sri Lanka,2.2,Q de Kock,F du Plessis,KMDN Kulasekara,0,0,0,NA,0,NA,NA,NA,1
+936165,1st innings,South Africa,Sri Lanka,2.3,Q de Kock,F du Plessis,KMDN Kulasekara,0,0,0,NA,0,NA,NA,NA,1
+936165,1st innings,South Africa,Sri Lanka,2.4,Q de Kock,F du Plessis,KMDN Kulasekara,1,0,1,NA,0,NA,NA,NA,1
+936165,1st innings,South Africa,Sri Lanka,2.5,F du Plessis,Q de Kock,KMDN Kulasekara,0,0,0,NA,0,NA,NA,NA,1
+936165,1st innings,South Africa,Sri Lanka,2.6,F du Plessis,Q de Kock,KMDN Kulasekara,0,0,0,NA,0,NA,NA,NA,1
+936165,1st innings,South Africa,Sri Lanka,3.1,Q de Kock,F du Plessis,CBRLS Kumara,0,0,0,NA,0,NA,NA,NA,1
+936165,1st innings,South Africa,Sri Lanka,3.2,Q de Kock,F du Plessis,CBRLS Kumara,0,0,0,NA,0,NA,NA,NA,1
+936165,1st innings,South Africa,Sri Lanka,3.3,Q de Kock,F du Plessis,CBRLS Kumara,4,0,4,NA,0,NA,NA,NA,1
+936165,1st innings,South Africa,Sri Lanka,3.4,Q de Kock,F du Plessis,CBRLS Kumara,4,0,4,NA,0,NA,NA,NA,1
+936165,1st innings,South Africa,Sri Lanka,3.5,Q de Kock,F du Plessis,CBRLS Kumara,0,0,0,NA,0,NA,NA,NA,1
+936165,1st innings,South Africa,Sri Lanka,3.6,Q de Kock,F du Plessis,CBRLS Kumara,4,0,4,NA,0,NA,NA,NA,1
+936165,1st innings,South Africa,Sri Lanka,4.1,F du Plessis,Q de Kock,KMDN Kulasekara,0,0,0,NA,0,NA,NA,NA,1
+936165,1st innings,South Africa,Sri Lanka,4.2,F du Plessis,Q de Kock,KMDN Kulasekara,4,0,4,NA,0,NA,NA,NA,1
+936165,1st innings,South Africa,Sri Lanka,4.3,F du Plessis,Q de Kock,KMDN Kulasekara,0,0,0,NA,0,NA,NA,NA,1
+936165,1st innings,South Africa,Sri Lanka,4.4,F du Plessis,Q de Kock,KMDN Kulasekara,1,0,1,NA,0,NA,NA,NA,1
+936165,1st innings,South Africa,Sri Lanka,4.5,Q de Kock,F du Plessis,KMDN Kulasekara,4,0,4,NA,0,NA,NA,NA,1
+936165,1st innings,South Africa,Sri Lanka,4.6,Q de Kock,F du Plessis,KMDN Kulasekara,0,0,0,NA,0,NA,NA,NA,1
+936165,1st innings,South Africa,Sri Lanka,5.1,F du Plessis,Q de Kock,CBRLS Kumara,0,0,0,NA,0,NA,NA,NA,1
+936165,1st innings,South Africa,Sri Lanka,5.2,F du Plessis,Q de Kock,CBRLS Kumara,4,0,4,NA,0,NA,NA,NA,1
+936165,1st innings,South Africa,Sri Lanka,5.3,F du Plessis,Q de Kock,CBRLS Kumara,1,0,1,NA,0,NA,NA,NA,1
+936165,1st innings,South Africa,Sri Lanka,5.4,Q de Kock,F du Plessis,CBRLS Kumara,4,0,4,NA,0,NA,NA,NA,1
+936165,1st innings,South Africa,Sri Lanka,5.5,Q de Kock,F du Plessis,CBRLS Kumara,1,0,1,NA,0,NA,NA,NA,1
+936165,1st innings,South Africa,Sri Lanka,5.6,F du Plessis,Q de Kock,CBRLS Kumara,1,0,1,NA,0,NA,NA,NA,1
+936165,1st innings,South Africa,Sri Lanka,6.1,F du Plessis,Q de Kock,KMDN Kulasekara,0,0,0,NA,0,NA,NA,NA,1
+936165,1st innings,South Africa,Sri Lanka,6.2,F du Plessis,Q de Kock,KMDN Kulasekara,0,0,0,NA,0,NA,NA,NA,1
+936165,1st innings,South Africa,Sri Lanka,6.3,F du Plessis,Q de Kock,KMDN Kulasekara,1,0,1,NA,0,NA,NA,NA,1
+936165,1st innings,South Africa,Sri Lanka,6.4,Q de Kock,F du Plessis,KMDN Kulasekara,0,0,0,NA,0,NA,NA,NA,1
+936165,1st innings,South Africa,Sri Lanka,6.5,Q de Kock,F du Plessis,KMDN Kulasekara,0,0,0,NA,0,NA,NA,NA,1
+936165,1st innings,South Africa,Sri Lanka,6.6,Q de Kock,F du Plessis,KMDN Kulasekara,1,0,1,NA,0,NA,NA,NA,1
+936165,1st innings,South Africa,Sri Lanka,7.1,Q de Kock,F du Plessis,LD Madushanka,0,0,0,NA,0,NA,NA,NA,1
+936165,1st innings,South Africa,Sri Lanka,7.2,Q de Kock,F du Plessis,LD Madushanka,1,0,1,NA,0,NA,NA,NA,1
+936165,1st innings,South Africa,Sri Lanka,7.3,F du Plessis,Q de Kock,LD Madushanka,0,0,0,NA,0,NA,NA,NA,1
+936165,1st innings,South Africa,Sri Lanka,7.4,F du Plessis,Q de Kock,LD Madushanka,1,0,1,NA,0,NA,NA,NA,1
+936165,1st innings,South Africa,Sri Lanka,7.5,Q de Kock,F du Plessis,LD Madushanka,1,0,1,NA,0,NA,NA,NA,1
+936165,1st innings,South Africa,Sri Lanka,7.6,F du Plessis,Q de Kock,LD Madushanka,0,0,0,NA,0,NA,NA,NA,1
+936165,1st innings,South Africa,Sri Lanka,8.1,Q de Kock,F du Plessis,KMDN Kulasekara,6,0,6,NA,0,NA,NA,NA,1
+936165,1st innings,South Africa,Sri Lanka,8.2,Q de Kock,F du Plessis,KMDN Kulasekara,0,0,0,NA,0,NA,NA,NA,1
+936165,1st innings,South Africa,Sri Lanka,8.3,Q de Kock,F du Plessis,KMDN Kulasekara,0,0,0,NA,0,NA,NA,NA,1
+936165,1st innings,South Africa,Sri Lanka,8.4,Q de Kock,F du Plessis,KMDN Kulasekara,1,0,1,NA,0,NA,NA,NA,1
+936165,1st innings,South Africa,Sri Lanka,8.5,F du Plessis,Q de Kock,KMDN Kulasekara,4,0,4,NA,0,NA,NA,NA,1
+936165,1st innings,South Africa,Sri Lanka,8.6,F du Plessis,Q de Kock,KMDN Kulasekara,1,0,1,NA,0,NA,NA,NA,1
+936165,1st innings,South Africa,Sri Lanka,9.1,F du Plessis,Q de Kock,LD Madushanka,0,0,0,NA,0,NA,NA,NA,1
+936165,1st innings,South Africa,Sri Lanka,9.2,F du Plessis,Q de Kock,LD Madushanka,0,0,0,NA,0,NA,NA,NA,1
+936165,1st innings,South Africa,Sri Lanka,9.3,F du Plessis,Q de Kock,LD Madushanka,1,0,1,NA,0,NA,NA,NA,1
+936165,1st innings,South Africa,Sri Lanka,9.4,Q de Kock,F du Plessis,LD Madushanka,1,0,1,NA,0,NA,NA,NA,1
+936165,1st innings,South Africa,Sri Lanka,9.5,F du Plessis,Q de Kock,LD Madushanka,0,0,0,NA,0,NA,NA,NA,1
+936165,1st innings,South Africa,Sri Lanka,9.6,F du Plessis,Q de Kock,LD Madushanka,4,0,4,NA,0,NA,NA,NA,1
+936165,1st innings,South Africa,Sri Lanka,10.1,Q de Kock,F du Plessis,DM de Silva,0,0,0,NA,0,NA,NA,NA,1
+936165,1st innings,South Africa,Sri Lanka,10.2,Q de Kock,F du Plessis,DM de Silva,0,0,0,NA,0,NA,NA,NA,1
+936165,1st innings,South Africa,Sri Lanka,10.3,Q de Kock,F du Plessis,DM de Silva,1,0,1,NA,0,NA,NA,NA,1
+936165,1st innings,South Africa,Sri Lanka,10.4,F du Plessis,Q de Kock,DM de Silva,1,0,1,NA,0,NA,NA,NA,1
+936165,1st innings,South Africa,Sri Lanka,10.5,Q de Kock,F du Plessis,DM de Silva,0,0,0,NA,0,NA,NA,NA,1
+936165,1st innings,South Africa,Sri Lanka,10.6,Q de Kock,F du Plessis,DM de Silva,1,0,1,NA,0,NA,NA,NA,1
+936165,1st innings,South Africa,Sri Lanka,11.1,Q de Kock,F du Plessis,PADLR Sandakan,0,0,0,NA,0,NA,NA,NA,1
+936165,1st innings,South Africa,Sri Lanka,11.2,Q de Kock,F du Plessis,PADLR Sandakan,4,0,4,NA,0,NA,NA,NA,1
+936165,1st innings,South Africa,Sri Lanka,11.3,Q de Kock,F du Plessis,PADLR Sandakan,6,0,6,NA,0,NA,NA,NA,1
+936165,1st innings,South Africa,Sri Lanka,11.4,Q de Kock,F du Plessis,PADLR Sandakan,1,0,1,NA,0,NA,NA,NA,1
+936165,1st innings,South Africa,Sri Lanka,11.5,F du Plessis,Q de Kock,PADLR Sandakan,0,0,0,NA,0,NA,NA,NA,1
+936165,1st innings,South Africa,Sri Lanka,11.6,F du Plessis,Q de Kock,PADLR Sandakan,4,0,4,NA,0,NA,NA,NA,1
+936165,1st innings,South Africa,Sri Lanka,12.1,Q de Kock,F du Plessis,DM de Silva,1,0,1,NA,0,NA,NA,NA,1
+936165,1st innings,South Africa,Sri Lanka,12.2,F du Plessis,Q de Kock,DM de Silva,4,0,4,NA,0,NA,NA,NA,1
+936165,1st innings,South Africa,Sri Lanka,12.3,F du Plessis,Q de Kock,DM de Silva,0,0,0,NA,0,NA,NA,NA,1
+936165,1st innings,South Africa,Sri Lanka,12.4,F du Plessis,Q de Kock,DM de Silva,2,0,2,NA,0,NA,NA,NA,1
+936165,1st innings,South Africa,Sri Lanka,12.5,F du Plessis,Q de Kock,DM de Silva,1,0,1,NA,0,NA,NA,NA,1
+936165,1st innings,South Africa,Sri Lanka,12.6,Q de Kock,F du Plessis,DM de Silva,0,0,0,NA,0,NA,NA,NA,1
+936165,1st innings,South Africa,Sri Lanka,13.1,F du Plessis,Q de Kock,LD Madushanka,1,0,1,NA,0,NA,NA,NA,1
+936165,1st innings,South Africa,Sri Lanka,13.2,Q de Kock,F du Plessis,LD Madushanka,0,0,0,NA,0,NA,NA,NA,1
+936165,1st innings,South Africa,Sri Lanka,13.3,Q de Kock,F du Plessis,LD Madushanka,1,0,1,NA,0,NA,NA,NA,1
+936165,1st innings,South Africa,Sri Lanka,13.4,F du Plessis,Q de Kock,LD Madushanka,0,0,0,NA,0,NA,NA,NA,1
+936165,1st innings,South Africa,Sri Lanka,13.5,F du Plessis,Q de Kock,LD Madushanka,0,0,0,NA,0,NA,NA,NA,1
+936165,1st innings,South Africa,Sri Lanka,13.6,F du Plessis,Q de Kock,LD Madushanka,1,0,1,NA,0,NA,NA,NA,1
+936165,1st innings,South Africa,Sri Lanka,14.1,F du Plessis,Q de Kock,DM de Silva,0,0,0,NA,0,NA,NA,NA,1
+936165,1st innings,South Africa,Sri Lanka,14.2,F du Plessis,Q de Kock,DM de Silva,0,0,0,NA,0,NA,NA,NA,1
+936165,1st innings,South Africa,Sri Lanka,14.3,F du Plessis,Q de Kock,DM de Silva,4,0,4,NA,0,NA,NA,NA,1
+936165,1st innings,South Africa,Sri Lanka,14.4,F du Plessis,Q de Kock,DM de Silva,2,0,2,NA,0,NA,NA,NA,1
+936165,1st innings,South Africa,Sri Lanka,14.5,F du Plessis,Q de Kock,DM de Silva,1,0,1,NA,0,NA,NA,NA,1
+936165,1st innings,South Africa,Sri Lanka,14.6,Q de Kock,F du Plessis,DM de Silva,0,0,0,NA,0,NA,NA,NA,1
+936165,1st innings,South Africa,Sri Lanka,15.1,F du Plessis,Q de Kock,LD Madushanka,1,0,1,NA,0,NA,NA,NA,1
+936165,1st innings,South Africa,Sri Lanka,15.2,Q de Kock,F du Plessis,LD Madushanka,0,0,0,NA,0,NA,NA,NA,1
+936165,1st innings,South Africa,Sri Lanka,15.3,Q de Kock,F du Plessis,LD Madushanka,4,0,4,NA,0,NA,NA,NA,1
+936165,1st innings,South Africa,Sri Lanka,15.4,Q de Kock,F du Plessis,LD Madushanka,1,0,1,NA,0,NA,NA,NA,1
+936165,1st innings,South Africa,Sri Lanka,15.5,F du Plessis,Q de Kock,LD Madushanka,1,0,1,NA,0,NA,NA,NA,1
+936165,1st innings,South Africa,Sri Lanka,15.6,Q de Kock,F du Plessis,LD Madushanka,0,0,0,NA,0,NA,NA,NA,1
+936165,1st innings,South Africa,Sri Lanka,16.1,F du Plessis,Q de Kock,SS Pathirana,1,0,1,NA,0,NA,NA,NA,1
+936165,1st innings,South Africa,Sri Lanka,16.2,Q de Kock,F du Plessis,SS Pathirana,0,0,0,NA,1,caught,Q de Kock,WU Tharanga,1
+936165,1st innings,South Africa,Sri Lanka,16.3,AB de Villiers,F du Plessis,SS Pathirana,1,0,1,NA,0,NA,NA,NA,1
+936165,1st innings,South Africa,Sri Lanka,16.4,F du Plessis,AB de Villiers,SS Pathirana,0,0,0,NA,0,NA,NA,NA,1
+936165,1st innings,South Africa,Sri Lanka,16.5,F du Plessis,AB de Villiers,SS Pathirana,1,0,1,NA,0,NA,NA,NA,1
+936165,1st innings,South Africa,Sri Lanka,16.6,AB de Villiers,F du Plessis,SS Pathirana,1,0,1,NA,0,NA,NA,NA,1
+936165,1st innings,South Africa,Sri Lanka,17.1,AB de Villiers,F du Plessis,CBRLS Kumara,1,0,1,NA,0,NA,NA,NA,1
+936165,1st innings,South Africa,Sri Lanka,17.2,F du Plessis,AB de Villiers,CBRLS Kumara,4,0,4,NA,0,NA,NA,NA,1
+936165,1st innings,South Africa,Sri Lanka,17.3,F du Plessis,AB de Villiers,CBRLS Kumara,1,0,1,NA,0,NA,NA,NA,1
+936165,1st innings,South Africa,Sri Lanka,17.4,AB de Villiers,F du Plessis,CBRLS Kumara,0,0,0,NA,0,NA,NA,NA,1
+936165,1st innings,South Africa,Sri Lanka,17.5,AB de Villiers,F du Plessis,CBRLS Kumara,0,0,0,NA,0,NA,NA,NA,1
+936165,1st innings,South Africa,Sri Lanka,17.6,AB de Villiers,F du Plessis,CBRLS Kumara,2,0,2,NA,0,NA,NA,NA,1
+936165,1st innings,South Africa,Sri Lanka,18.1,F du Plessis,AB de Villiers,SS Pathirana,1,0,1,NA,0,NA,NA,NA,1
+936165,1st innings,South Africa,Sri Lanka,18.2,AB de Villiers,F du Plessis,SS Pathirana,4,0,4,NA,0,NA,NA,NA,1
+936165,1st innings,South Africa,Sri Lanka,18.3,AB de Villiers,F du Plessis,SS Pathirana,1,0,1,NA,0,NA,NA,NA,1
+936165,1st innings,South Africa,Sri Lanka,18.4,F du Plessis,AB de Villiers,SS Pathirana,1,0,1,NA,0,NA,NA,NA,1
+936165,1st innings,South Africa,Sri Lanka,18.5,AB de Villiers,F du Plessis,SS Pathirana,0,0,0,NA,0,NA,NA,NA,1
+936165,1st innings,South Africa,Sri Lanka,18.6,AB de Villiers,F du Plessis,SS Pathirana,0,0,0,NA,0,NA,NA,NA,1
+936165,1st innings,South Africa,Sri Lanka,19.1,F du Plessis,AB de Villiers,PADLR Sandakan,1,0,1,NA,0,NA,NA,NA,1
+936165,1st innings,South Africa,Sri Lanka,19.2,AB de Villiers,F du Plessis,PADLR Sandakan,0,0,0,NA,0,NA,NA,NA,1
+936165,1st innings,South Africa,Sri Lanka,19.3,AB de Villiers,F du Plessis,PADLR Sandakan,0,0,0,NA,0,NA,NA,NA,1
+936165,1st innings,South Africa,Sri Lanka,19.4,AB de Villiers,F du Plessis,PADLR Sandakan,1,0,1,NA,0,NA,NA,NA,1
+936165,1st innings,South Africa,Sri Lanka,19.5,F du Plessis,AB de Villiers,PADLR Sandakan,2,0,2,NA,0,NA,NA,NA,1
+936165,1st innings,South Africa,Sri Lanka,19.6,F du Plessis,AB de Villiers,PADLR Sandakan,0,0,0,NA,0,NA,NA,NA,1
+936165,1st innings,South Africa,Sri Lanka,20.1,AB de Villiers,F du Plessis,SS Pathirana,1,0,1,NA,0,NA,NA,NA,1
+936165,1st innings,South Africa,Sri Lanka,20.2,F du Plessis,AB de Villiers,SS Pathirana,1,0,1,NA,0,NA,NA,NA,1
+936165,1st innings,South Africa,Sri Lanka,20.3,AB de Villiers,F du Plessis,SS Pathirana,0,0,0,NA,0,NA,NA,NA,1
+936165,1st innings,South Africa,Sri Lanka,20.4,AB de Villiers,F du Plessis,SS Pathirana,1,0,1,NA,0,NA,NA,NA,1
+936165,1st innings,South Africa,Sri Lanka,20.5,F du Plessis,AB de Villiers,SS Pathirana,1,0,1,NA,0,NA,NA,NA,1
+936165,1st innings,South Africa,Sri Lanka,20.6,AB de Villiers,F du Plessis,SS Pathirana,1,0,1,NA,0,NA,NA,NA,1
+936165,1st innings,South Africa,Sri Lanka,21.1,AB de Villiers,F du Plessis,PADLR Sandakan,1,0,1,NA,0,NA,NA,NA,1
+936165,1st innings,South Africa,Sri Lanka,21.2,F du Plessis,AB de Villiers,PADLR Sandakan,0,0,0,NA,0,NA,NA,NA,1
+936165,1st innings,South Africa,Sri Lanka,21.3,F du Plessis,AB de Villiers,PADLR Sandakan,1,0,1,NA,0,NA,NA,NA,1
+936165,1st innings,South Africa,Sri Lanka,21.4,AB de Villiers,F du Plessis,PADLR Sandakan,2,0,2,NA,0,NA,NA,NA,1
+936165,1st innings,South Africa,Sri Lanka,21.5,AB de Villiers,F du Plessis,PADLR Sandakan,3,0,3,NA,0,NA,NA,NA,1
+936165,1st innings,South Africa,Sri Lanka,21.6,F du Plessis,AB de Villiers,PADLR Sandakan,1,0,1,NA,0,NA,NA,NA,1
+936165,1st innings,South Africa,Sri Lanka,22.1,F du Plessis,AB de Villiers,SS Pathirana,0,0,0,NA,0,NA,NA,NA,1
+936165,1st innings,South Africa,Sri Lanka,22.2,F du Plessis,AB de Villiers,SS Pathirana,1,0,1,NA,0,NA,NA,NA,1
+936165,1st innings,South Africa,Sri Lanka,22.3,AB de Villiers,F du Plessis,SS Pathirana,1,0,1,NA,0,NA,NA,NA,1
+936165,1st innings,South Africa,Sri Lanka,22.4,F du Plessis,AB de Villiers,SS Pathirana,1,0,1,NA,0,NA,NA,NA,1
+936165,1st innings,South Africa,Sri Lanka,22.5,AB de Villiers,F du Plessis,SS Pathirana,2,0,2,NA,0,NA,NA,NA,1
+936165,1st innings,South Africa,Sri Lanka,22.6,AB de Villiers,F du Plessis,SS Pathirana,1,0,1,NA,0,NA,NA,NA,1
+936165,1st innings,South Africa,Sri Lanka,23.1,AB de Villiers,F du Plessis,PADLR Sandakan,1,0,1,NA,0,NA,NA,NA,1
+936165,1st innings,South Africa,Sri Lanka,23.2,F du Plessis,AB de Villiers,PADLR Sandakan,1,0,1,NA,0,NA,NA,NA,1
+936165,1st innings,South Africa,Sri Lanka,23.3,AB de Villiers,F du Plessis,PADLR Sandakan,1,0,1,NA,0,NA,NA,NA,1
+936165,1st innings,South Africa,Sri Lanka,23.4,F du Plessis,AB de Villiers,PADLR Sandakan,1,0,1,NA,0,NA,NA,NA,1
+936165,1st innings,South Africa,Sri Lanka,23.5,AB de Villiers,F du Plessis,PADLR Sandakan,0,0,0,NA,0,NA,NA,NA,1
+936165,1st innings,South Africa,Sri Lanka,23.6,AB de Villiers,F du Plessis,PADLR Sandakan,0,0,0,NA,0,NA,NA,NA,1
+936165,1st innings,South Africa,Sri Lanka,24.1,F du Plessis,AB de Villiers,SS Pathirana,1,0,1,NA,0,NA,NA,NA,1
+936165,1st innings,South Africa,Sri Lanka,24.2,AB de Villiers,F du Plessis,SS Pathirana,0,0,0,NA,0,NA,NA,NA,1
+936165,1st innings,South Africa,Sri Lanka,24.3,AB de Villiers,F du Plessis,SS Pathirana,1,0,1,NA,0,NA,NA,NA,1
+936165,1st innings,South Africa,Sri Lanka,24.4,F du Plessis,AB de Villiers,SS Pathirana,1,0,1,NA,0,NA,NA,NA,1
+936165,1st innings,South Africa,Sri Lanka,24.5,AB de Villiers,F du Plessis,SS Pathirana,1,0,1,NA,0,NA,NA,NA,1
+936165,1st innings,South Africa,Sri Lanka,24.6,F du Plessis,AB de Villiers,SS Pathirana,1,0,1,NA,0,NA,NA,NA,1
+936165,1st innings,South Africa,Sri Lanka,25.1,F du Plessis,AB de Villiers,PADLR Sandakan,1,0,1,NA,0,NA,NA,NA,1
+936165,1st innings,South Africa,Sri Lanka,25.2,AB de Villiers,F du Plessis,PADLR Sandakan,1,0,1,NA,0,NA,NA,NA,1
+936165,1st innings,South Africa,Sri Lanka,25.3,F du Plessis,AB de Villiers,PADLR Sandakan,2,0,2,NA,0,NA,NA,NA,1
+936165,1st innings,South Africa,Sri Lanka,25.4,F du Plessis,AB de Villiers,PADLR Sandakan,1,0,1,NA,0,NA,NA,NA,1
+936165,1st innings,South Africa,Sri Lanka,25.5,AB de Villiers,F du Plessis,PADLR Sandakan,4,0,4,NA,0,NA,NA,NA,1
+936165,1st innings,South Africa,Sri Lanka,25.6,AB de Villiers,F du Plessis,PADLR Sandakan,0,0,0,NA,0,NA,NA,NA,1
+936165,1st innings,South Africa,Sri Lanka,26.1,F du Plessis,AB de Villiers,SS Pathirana,1,0,1,NA,0,NA,NA,NA,1
+936165,1st innings,South Africa,Sri Lanka,26.2,AB de Villiers,F du Plessis,SS Pathirana,1,0,1,NA,0,NA,NA,NA,1
+936165,1st innings,South Africa,Sri Lanka,26.3,F du Plessis,AB de Villiers,SS Pathirana,1,0,1,NA,0,NA,NA,NA,1
+936165,1st innings,South Africa,Sri Lanka,26.4,AB de Villiers,F du Plessis,SS Pathirana,1,0,1,NA,0,NA,NA,NA,1
+936165,1st innings,South Africa,Sri Lanka,26.5,F du Plessis,AB de Villiers,SS Pathirana,1,0,1,NA,0,NA,NA,NA,1
+936165,1st innings,South Africa,Sri Lanka,26.6,AB de Villiers,F du Plessis,SS Pathirana,1,0,1,NA,0,NA,NA,NA,1
+936165,1st innings,South Africa,Sri Lanka,27.1,AB de Villiers,F du Plessis,DAS Gunaratne,4,0,4,NA,0,NA,NA,NA,1
+936165,1st innings,South Africa,Sri Lanka,27.2,AB de Villiers,F du Plessis,DAS Gunaratne,1,0,1,NA,0,NA,NA,NA,1
+936165,1st innings,South Africa,Sri Lanka,27.3,F du Plessis,AB de Villiers,DAS Gunaratne,2,0,2,NA,0,NA,NA,NA,1
+936165,1st innings,South Africa,Sri Lanka,27.4,F du Plessis,AB de Villiers,DAS Gunaratne,1,0,1,NA,0,NA,NA,NA,1
+936165,1st innings,South Africa,Sri Lanka,27.5,AB de Villiers,F du Plessis,DAS Gunaratne,1,0,1,NA,0,NA,NA,NA,1
+936165,1st innings,South Africa,Sri Lanka,27.6,F du Plessis,AB de Villiers,DAS Gunaratne,0,0,0,NA,0,NA,NA,NA,1
+936165,1st innings,South Africa,Sri Lanka,28.1,AB de Villiers,F du Plessis,SS Pathirana,1,0,1,NA,0,NA,NA,NA,1
+936165,1st innings,South Africa,Sri Lanka,28.2,F du Plessis,AB de Villiers,SS Pathirana,1,0,1,NA,0,NA,NA,NA,1
+936165,1st innings,South Africa,Sri Lanka,28.3,AB de Villiers,F du Plessis,SS Pathirana,2,0,2,NA,0,NA,NA,NA,1
+936165,1st innings,South Africa,Sri Lanka,28.4,AB de Villiers,F du Plessis,SS Pathirana,1,0,1,NA,0,NA,NA,NA,1
+936165,1st innings,South Africa,Sri Lanka,28.5,F du Plessis,AB de Villiers,SS Pathirana,1,0,1,NA,0,NA,NA,NA,1
+936165,1st innings,South Africa,Sri Lanka,28.6,AB de Villiers,F du Plessis,SS Pathirana,0,0,0,NA,0,NA,NA,NA,1
+936165,1st innings,South Africa,Sri Lanka,29.1,F du Plessis,AB de Villiers,DAS Gunaratne,4,0,4,NA,0,NA,NA,NA,1
+936165,1st innings,South Africa,Sri Lanka,29.2,F du Plessis,AB de Villiers,DAS Gunaratne,1,0,1,NA,0,NA,NA,NA,1
+936165,1st innings,South Africa,Sri Lanka,29.3,AB de Villiers,F du Plessis,DAS Gunaratne,1,0,1,NA,0,NA,NA,NA,1
+936165,1st innings,South Africa,Sri Lanka,29.4,F du Plessis,AB de Villiers,DAS Gunaratne,0,0,0,NA,0,NA,NA,NA,1
+936165,1st innings,South Africa,Sri Lanka,29.5,F du Plessis,AB de Villiers,DAS Gunaratne,1,0,1,NA,0,NA,NA,NA,1
+936165,1st innings,South Africa,Sri Lanka,29.6,AB de Villiers,F du Plessis,DAS Gunaratne,0,0,0,NA,0,NA,NA,NA,1
+936165,1st innings,South Africa,Sri Lanka,30.1,F du Plessis,AB de Villiers,PADLR Sandakan,0,0,0,NA,0,NA,NA,NA,1
+936165,1st innings,South Africa,Sri Lanka,30.2,F du Plessis,AB de Villiers,PADLR Sandakan,4,0,4,NA,0,NA,NA,NA,1
+936165,1st innings,South Africa,Sri Lanka,30.3,F du Plessis,AB de Villiers,PADLR Sandakan,1,0,1,NA,0,NA,NA,NA,1
+936165,1st innings,South Africa,Sri Lanka,30.4,AB de Villiers,F du Plessis,PADLR Sandakan,1,0,1,NA,0,NA,NA,NA,1
+936165,1st innings,South Africa,Sri Lanka,30.5,F du Plessis,AB de Villiers,PADLR Sandakan,0,0,0,NA,0,NA,NA,NA,1
+936165,1st innings,South Africa,Sri Lanka,30.6,F du Plessis,AB de Villiers,PADLR Sandakan,1,0,1,NA,0,NA,NA,NA,1
+936165,1st innings,South Africa,Sri Lanka,31.1,F du Plessis,AB de Villiers,LD Madushanka,1,0,1,NA,0,NA,NA,NA,1
+936165,1st innings,South Africa,Sri Lanka,31.2,AB de Villiers,F du Plessis,LD Madushanka,0,0,0,NA,0,NA,NA,NA,1
+936165,1st innings,South Africa,Sri Lanka,31.3,AB de Villiers,F du Plessis,LD Madushanka,0,0,0,NA,0,NA,NA,NA,1
+936165,1st innings,South Africa,Sri Lanka,31.4,AB de Villiers,F du Plessis,LD Madushanka,0,0,0,NA,0,NA,NA,NA,1
+936165,1st innings,South Africa,Sri Lanka,31.5,AB de Villiers,F du Plessis,LD Madushanka,1,0,1,NA,0,NA,NA,NA,1
+936165,1st innings,South Africa,Sri Lanka,31.6,F du Plessis,AB de Villiers,LD Madushanka,2,1,3,noballs,0,NA,NA,NA,1
+936165,1st innings,South Africa,Sri Lanka,31.7,F du Plessis,AB de Villiers,LD Madushanka,2,0,2,NA,0,NA,NA,NA,1
+936165,1st innings,South Africa,Sri Lanka,32.1,AB de Villiers,F du Plessis,CBRLS Kumara,1,0,1,NA,0,NA,NA,NA,1
+936165,1st innings,South Africa,Sri Lanka,32.2,F du Plessis,AB de Villiers,CBRLS Kumara,4,0,4,NA,0,NA,NA,NA,1
+936165,1st innings,South Africa,Sri Lanka,32.3,F du Plessis,AB de Villiers,CBRLS Kumara,4,0,4,NA,0,NA,NA,NA,1
+936165,1st innings,South Africa,Sri Lanka,32.4,F du Plessis,AB de Villiers,CBRLS Kumara,1,0,1,NA,0,NA,NA,NA,1
+936165,1st innings,South Africa,Sri Lanka,32.5,AB de Villiers,F du Plessis,CBRLS Kumara,1,0,1,NA,0,NA,NA,NA,1
+936165,1st innings,South Africa,Sri Lanka,32.6,F du Plessis,AB de Villiers,CBRLS Kumara,1,0,1,NA,0,NA,NA,NA,1
+936165,1st innings,South Africa,Sri Lanka,33.1,F du Plessis,AB de Villiers,LD Madushanka,1,0,1,NA,0,NA,NA,NA,1
+936165,1st innings,South Africa,Sri Lanka,33.2,AB de Villiers,F du Plessis,LD Madushanka,1,0,1,NA,0,NA,NA,NA,1
+936165,1st innings,South Africa,Sri Lanka,33.3,F du Plessis,AB de Villiers,LD Madushanka,0,1,1,wides,0,NA,NA,NA,1
+936165,1st innings,South Africa,Sri Lanka,33.4,F du Plessis,AB de Villiers,LD Madushanka,1,0,1,NA,0,NA,NA,NA,1
+936165,1st innings,South Africa,Sri Lanka,33.5,AB de Villiers,F du Plessis,LD Madushanka,2,0,2,NA,0,NA,NA,NA,1
+936165,1st innings,South Africa,Sri Lanka,33.6,AB de Villiers,F du Plessis,LD Madushanka,1,0,1,NA,0,NA,NA,NA,1
+936165,1st innings,South Africa,Sri Lanka,33.7,F du Plessis,AB de Villiers,LD Madushanka,1,0,1,NA,0,NA,NA,NA,1
+936165,1st innings,South Africa,Sri Lanka,34.1,F du Plessis,AB de Villiers,SS Pathirana,0,0,0,NA,0,NA,NA,NA,1
+936165,1st innings,South Africa,Sri Lanka,34.2,F du Plessis,AB de Villiers,SS Pathirana,1,0,1,NA,0,NA,NA,NA,1
+936165,1st innings,South Africa,Sri Lanka,34.3,AB de Villiers,F du Plessis,SS Pathirana,1,0,1,NA,0,NA,NA,NA,1
+936165,1st innings,South Africa,Sri Lanka,34.4,F du Plessis,AB de Villiers,SS Pathirana,0,1,1,wides,0,NA,NA,NA,1
+936165,1st innings,South Africa,Sri Lanka,34.5,F du Plessis,AB de Villiers,SS Pathirana,1,0,1,NA,0,NA,NA,NA,1
+936165,1st innings,South Africa,Sri Lanka,34.6,AB de Villiers,F du Plessis,SS Pathirana,4,0,4,NA,0,NA,NA,NA,1
+936165,1st innings,South Africa,Sri Lanka,34.7,AB de Villiers,F du Plessis,SS Pathirana,1,0,1,NA,0,NA,NA,NA,1
+936165,1st innings,South Africa,Sri Lanka,35.1,AB de Villiers,F du Plessis,KMDN Kulasekara,1,0,1,NA,0,NA,NA,NA,1
+936165,1st innings,South Africa,Sri Lanka,35.2,F du Plessis,AB de Villiers,KMDN Kulasekara,1,0,1,NA,0,NA,NA,NA,1
+936165,1st innings,South Africa,Sri Lanka,35.3,AB de Villiers,F du Plessis,KMDN Kulasekara,1,0,1,NA,0,NA,NA,NA,1
+936165,1st innings,South Africa,Sri Lanka,35.4,F du Plessis,AB de Villiers,KMDN Kulasekara,2,0,2,NA,0,NA,NA,NA,1
+936165,1st innings,South Africa,Sri Lanka,35.5,F du Plessis,AB de Villiers,KMDN Kulasekara,1,0,1,NA,0,NA,NA,NA,1
+936165,1st innings,South Africa,Sri Lanka,35.6,AB de Villiers,F du Plessis,KMDN Kulasekara,1,0,1,NA,0,NA,NA,NA,1
+936165,1st innings,South Africa,Sri Lanka,36.1,AB de Villiers,F du Plessis,SS Pathirana,0,0,0,NA,1,bowled,AB de Villiers,NA,1
+936165,1st innings,South Africa,Sri Lanka,36.2,JP Duminy,F du Plessis,SS Pathirana,0,0,0,NA,0,NA,NA,NA,1
+936165,1st innings,South Africa,Sri Lanka,36.3,JP Duminy,F du Plessis,SS Pathirana,0,0,0,NA,0,NA,NA,NA,1
+936165,1st innings,South Africa,Sri Lanka,36.4,JP Duminy,F du Plessis,SS Pathirana,1,0,1,NA,0,NA,NA,NA,1
+936165,1st innings,South Africa,Sri Lanka,36.5,F du Plessis,JP Duminy,SS Pathirana,1,0,1,NA,0,NA,NA,NA,1
+936165,1st innings,South Africa,Sri Lanka,36.6,JP Duminy,F du Plessis,SS Pathirana,0,0,0,NA,0,NA,NA,NA,1
+936165,1st innings,South Africa,Sri Lanka,37.1,F du Plessis,JP Duminy,KMDN Kulasekara,1,0,1,NA,0,NA,NA,NA,1
+936165,1st innings,South Africa,Sri Lanka,37.2,JP Duminy,F du Plessis,KMDN Kulasekara,0,0,0,NA,0,NA,NA,NA,1
+936165,1st innings,South Africa,Sri Lanka,37.3,JP Duminy,F du Plessis,KMDN Kulasekara,1,0,1,NA,0,NA,NA,NA,1
+936165,1st innings,South Africa,Sri Lanka,37.4,F du Plessis,JP Duminy,KMDN Kulasekara,4,0,4,NA,0,NA,NA,NA,1
+936165,1st innings,South Africa,Sri Lanka,37.5,F du Plessis,JP Duminy,KMDN Kulasekara,1,0,1,NA,0,NA,NA,NA,1
+936165,1st innings,South Africa,Sri Lanka,37.6,JP Duminy,F du Plessis,KMDN Kulasekara,0,0,0,NA,0,NA,NA,NA,1
+936165,1st innings,South Africa,Sri Lanka,38.1,F du Plessis,JP Duminy,SS Pathirana,1,0,1,NA,0,NA,NA,NA,1
+936165,1st innings,South Africa,Sri Lanka,38.2,JP Duminy,F du Plessis,SS Pathirana,1,0,1,NA,0,NA,NA,NA,1
+936165,1st innings,South Africa,Sri Lanka,38.3,F du Plessis,JP Duminy,SS Pathirana,1,0,1,NA,0,NA,NA,NA,1
+936165,1st innings,South Africa,Sri Lanka,38.4,JP Duminy,F du Plessis,SS Pathirana,0,0,0,NA,0,NA,NA,NA,1
+936165,1st innings,South Africa,Sri Lanka,38.5,JP Duminy,F du Plessis,SS Pathirana,1,0,1,NA,0,NA,NA,NA,1
+936165,1st innings,South Africa,Sri Lanka,38.6,F du Plessis,JP Duminy,SS Pathirana,1,0,1,NA,0,NA,NA,NA,1
+936165,1st innings,South Africa,Sri Lanka,39.1,F du Plessis,JP Duminy,LD Madushanka,0,0,0,NA,0,NA,NA,NA,1
+936165,1st innings,South Africa,Sri Lanka,39.2,F du Plessis,JP Duminy,LD Madushanka,1,0,1,NA,0,NA,NA,NA,1
+936165,1st innings,South Africa,Sri Lanka,39.3,JP Duminy,F du Plessis,LD Madushanka,4,0,4,NA,0,NA,NA,NA,1
+936165,1st innings,South Africa,Sri Lanka,39.4,JP Duminy,F du Plessis,LD Madushanka,1,0,1,NA,0,NA,NA,NA,1
+936165,1st innings,South Africa,Sri Lanka,39.5,F du Plessis,JP Duminy,LD Madushanka,1,0,1,NA,0,NA,NA,NA,1
+936165,1st innings,South Africa,Sri Lanka,39.6,JP Duminy,F du Plessis,LD Madushanka,0,0,0,NA,0,NA,NA,NA,1
+936165,1st innings,South Africa,Sri Lanka,40.1,F du Plessis,JP Duminy,PADLR Sandakan,2,0,2,NA,0,NA,NA,NA,1
+936165,1st innings,South Africa,Sri Lanka,40.2,F du Plessis,JP Duminy,PADLR Sandakan,1,0,1,NA,0,NA,NA,NA,1
+936165,1st innings,South Africa,Sri Lanka,40.3,JP Duminy,F du Plessis,PADLR Sandakan,1,0,1,NA,0,NA,NA,NA,1
+936165,1st innings,South Africa,Sri Lanka,40.4,F du Plessis,JP Duminy,PADLR Sandakan,2,0,2,NA,0,NA,NA,NA,1
+936165,1st innings,South Africa,Sri Lanka,40.5,F du Plessis,JP Duminy,PADLR Sandakan,1,0,1,NA,0,NA,NA,NA,1
+936165,1st innings,South Africa,Sri Lanka,40.6,JP Duminy,F du Plessis,PADLR Sandakan,1,0,1,NA,0,NA,NA,NA,1
+936165,1st innings,South Africa,Sri Lanka,41.1,JP Duminy,F du Plessis,LD Madushanka,1,0,1,NA,0,NA,NA,NA,1
+936165,1st innings,South Africa,Sri Lanka,41.2,F du Plessis,JP Duminy,LD Madushanka,1,0,1,NA,0,NA,NA,NA,1
+936165,1st innings,South Africa,Sri Lanka,41.3,JP Duminy,F du Plessis,LD Madushanka,1,0,1,NA,0,NA,NA,NA,1
+936165,1st innings,South Africa,Sri Lanka,41.4,F du Plessis,JP Duminy,LD Madushanka,1,0,1,NA,0,NA,NA,NA,1
+936165,1st innings,South Africa,Sri Lanka,41.5,JP Duminy,F du Plessis,LD Madushanka,1,0,1,NA,0,NA,NA,NA,1
+936165,1st innings,South Africa,Sri Lanka,41.6,F du Plessis,JP Duminy,LD Madushanka,1,0,1,NA,0,NA,NA,NA,1
+936165,1st innings,South Africa,Sri Lanka,42.1,F du Plessis,JP Duminy,PADLR Sandakan,2,0,2,NA,0,NA,NA,NA,1
+936165,1st innings,South Africa,Sri Lanka,42.2,F du Plessis,JP Duminy,PADLR Sandakan,1,0,1,NA,0,NA,NA,NA,1
+936165,1st innings,South Africa,Sri Lanka,42.3,JP Duminy,F du Plessis,PADLR Sandakan,1,0,1,NA,0,NA,NA,NA,1
+936165,1st innings,South Africa,Sri Lanka,42.4,F du Plessis,JP Duminy,PADLR Sandakan,1,0,1,NA,0,NA,NA,NA,1
+936165,1st innings,South Africa,Sri Lanka,42.5,JP Duminy,F du Plessis,PADLR Sandakan,1,0,1,NA,0,NA,NA,NA,1
+936165,1st innings,South Africa,Sri Lanka,42.6,F du Plessis,JP Duminy,PADLR Sandakan,1,0,1,NA,0,NA,NA,NA,1
+936165,1st innings,South Africa,Sri Lanka,43.1,F du Plessis,JP Duminy,CBRLS Kumara,1,0,1,NA,0,NA,NA,NA,1
+936165,1st innings,South Africa,Sri Lanka,43.2,JP Duminy,F du Plessis,CBRLS Kumara,4,0,4,NA,0,NA,NA,NA,1
+936165,1st innings,South Africa,Sri Lanka,43.3,JP Duminy,F du Plessis,CBRLS Kumara,0,0,0,NA,1,caught,JP Duminy,BKG Mendis,1
+936165,1st innings,South Africa,Sri Lanka,43.4,F du Plessis,F Behardien,CBRLS Kumara,1,0,1,NA,0,NA,NA,NA,1
+936165,1st innings,South Africa,Sri Lanka,43.5,F Behardien,F du Plessis,CBRLS Kumara,0,0,0,NA,0,NA,NA,NA,1
+936165,1st innings,South Africa,Sri Lanka,43.6,F Behardien,F du Plessis,CBRLS Kumara,1,0,1,NA,0,NA,NA,NA,1
+936165,1st innings,South Africa,Sri Lanka,44.1,F Behardien,F du Plessis,KMDN Kulasekara,1,0,1,NA,0,NA,NA,NA,1
+936165,1st innings,South Africa,Sri Lanka,44.2,F du Plessis,F Behardien,KMDN Kulasekara,2,0,2,NA,0,NA,NA,NA,1
+936165,1st innings,South Africa,Sri Lanka,44.3,F du Plessis,F Behardien,KMDN Kulasekara,0,0,0,NA,0,NA,NA,NA,1
+936165,1st innings,South Africa,Sri Lanka,44.4,F du Plessis,F Behardien,KMDN Kulasekara,1,0,1,NA,0,NA,NA,NA,1
+936165,1st innings,South Africa,Sri Lanka,44.5,F Behardien,F du Plessis,KMDN Kulasekara,1,0,1,NA,0,NA,NA,NA,1
+936165,1st innings,South Africa,Sri Lanka,44.6,F du Plessis,F Behardien,KMDN Kulasekara,1,0,1,NA,0,NA,NA,NA,1
+936165,1st innings,South Africa,Sri Lanka,45.1,F du Plessis,F Behardien,CBRLS Kumara,4,0,4,NA,0,NA,NA,NA,1
+936165,1st innings,South Africa,Sri Lanka,45.2,F du Plessis,F Behardien,CBRLS Kumara,6,0,6,NA,0,NA,NA,NA,1
+936165,1st innings,South Africa,Sri Lanka,45.3,F du Plessis,F Behardien,CBRLS Kumara,0,0,0,NA,0,NA,NA,NA,1
+936165,1st innings,South Africa,Sri Lanka,45.4,F du Plessis,F Behardien,CBRLS Kumara,4,0,4,NA,0,NA,NA,NA,1
+936165,1st innings,South Africa,Sri Lanka,45.5,F du Plessis,F Behardien,CBRLS Kumara,6,0,6,NA,0,NA,NA,NA,1
+936165,1st innings,South Africa,Sri Lanka,45.6,F du Plessis,F Behardien,CBRLS Kumara,2,0,2,NA,0,NA,NA,NA,1
+936165,1st innings,South Africa,Sri Lanka,46.1,F Behardien,F du Plessis,KMDN Kulasekara,4,0,4,NA,0,NA,NA,NA,1
+936165,1st innings,South Africa,Sri Lanka,46.2,F Behardien,F du Plessis,KMDN Kulasekara,4,0,4,NA,0,NA,NA,NA,1
+936165,1st innings,South Africa,Sri Lanka,46.3,F Behardien,F du Plessis,KMDN Kulasekara,1,0,1,NA,0,NA,NA,NA,1
+936165,1st innings,South Africa,Sri Lanka,46.4,F du Plessis,F Behardien,KMDN Kulasekara,0,1,1,wides,0,NA,NA,NA,1
+936165,1st innings,South Africa,Sri Lanka,46.5,F du Plessis,F Behardien,KMDN Kulasekara,4,0,4,NA,0,NA,NA,NA,1
+936165,1st innings,South Africa,Sri Lanka,46.6,F du Plessis,F Behardien,KMDN Kulasekara,1,0,1,NA,0,NA,NA,NA,1
+936165,1st innings,South Africa,Sri Lanka,46.7,F Behardien,F du Plessis,KMDN Kulasekara,1,0,1,NA,0,NA,NA,NA,1
+936165,1st innings,South Africa,Sri Lanka,47.1,F Behardien,F du Plessis,LD Madushanka,2,0,2,NA,0,NA,NA,NA,1
+936165,1st innings,South Africa,Sri Lanka,47.2,F Behardien,F du Plessis,LD Madushanka,0,1,1,wides,0,NA,NA,NA,1
+936165,1st innings,South Africa,Sri Lanka,47.3,F Behardien,F du Plessis,LD Madushanka,4,0,4,NA,0,NA,NA,NA,1
+936165,1st innings,South Africa,Sri Lanka,47.4,F Behardien,F du Plessis,LD Madushanka,1,0,1,NA,0,NA,NA,NA,1
+936165,1st innings,South Africa,Sri Lanka,47.5,F du Plessis,F Behardien,LD Madushanka,1,0,1,NA,0,NA,NA,NA,1
+936165,1st innings,South Africa,Sri Lanka,47.6,F Behardien,F du Plessis,LD Madushanka,0,0,0,NA,0,NA,NA,NA,1
+936165,1st innings,South Africa,Sri Lanka,47.7,F Behardien,F du Plessis,LD Madushanka,6,0,6,NA,0,NA,NA,NA,1
+936165,1st innings,South Africa,Sri Lanka,48.1,F du Plessis,F Behardien,KMDN Kulasekara,1,0,1,NA,0,NA,NA,NA,1
+936165,1st innings,South Africa,Sri Lanka,48.2,F Behardien,F du Plessis,KMDN Kulasekara,1,0,1,NA,0,NA,NA,NA,1
+936165,1st innings,South Africa,Sri Lanka,48.3,F du Plessis,F Behardien,KMDN Kulasekara,6,0,6,NA,0,NA,NA,NA,1
+936165,1st innings,South Africa,Sri Lanka,48.4,F du Plessis,F Behardien,KMDN Kulasekara,1,0,1,NA,0,NA,NA,NA,1
+936165,1st innings,South Africa,Sri Lanka,48.5,F Behardien,F du Plessis,KMDN Kulasekara,2,0,2,NA,0,NA,NA,NA,1
+936165,1st innings,South Africa,Sri Lanka,48.6,F Behardien,F du Plessis,KMDN Kulasekara,1,0,1,NA,0,NA,NA,NA,1
+936165,1st innings,South Africa,Sri Lanka,49.1,F Behardien,F du Plessis,LD Madushanka,1,0,1,NA,0,NA,NA,NA,1
+936165,1st innings,South Africa,Sri Lanka,49.2,F du Plessis,F Behardien,LD Madushanka,0,0,0,NA,1,caught,F du Plessis,DAS Gunaratne,1
+936165,1st innings,South Africa,Sri Lanka,49.3,F Behardien,WD Parnell,LD Madushanka,4,0,4,NA,0,NA,NA,NA,1
+936165,1st innings,South Africa,Sri Lanka,49.4,F Behardien,WD Parnell,LD Madushanka,1,0,1,NA,0,NA,NA,NA,1
+936165,1st innings,South Africa,Sri Lanka,49.5,WD Parnell,F Behardien,LD Madushanka,1,0,1,NA,0,NA,NA,NA,1
+936165,1st innings,South Africa,Sri Lanka,49.6,F Behardien,WD Parnell,LD Madushanka,0,0,0,NA,0,NA,NA,NA,1
+936165,2nd innings,Sri Lanka,South Africa,0.1,N Dickwella,WU Tharanga,WD Parnell,1,0,1,NA,0,NA,NA,NA,0
+936165,2nd innings,Sri Lanka,South Africa,0.2,WU Tharanga,N Dickwella,WD Parnell,4,0,4,NA,0,NA,NA,NA,0
+936165,2nd innings,Sri Lanka,South Africa,0.3,WU Tharanga,N Dickwella,WD Parnell,0,0,0,NA,0,NA,NA,NA,0
+936165,2nd innings,Sri Lanka,South Africa,0.4,WU Tharanga,N Dickwella,WD Parnell,0,0,0,NA,0,NA,NA,NA,0
+936165,2nd innings,Sri Lanka,South Africa,0.5,WU Tharanga,N Dickwella,WD Parnell,4,0,4,NA,0,NA,NA,NA,0
+936165,2nd innings,Sri Lanka,South Africa,0.6,WU Tharanga,N Dickwella,WD Parnell,0,0,0,NA,0,NA,NA,NA,0
+936165,2nd innings,Sri Lanka,South Africa,1.1,N Dickwella,WU Tharanga,D Pretorius,2,0,2,NA,0,NA,NA,NA,0
+936165,2nd innings,Sri Lanka,South Africa,1.2,N Dickwella,WU Tharanga,D Pretorius,4,0,4,NA,0,NA,NA,NA,0
+936165,2nd innings,Sri Lanka,South Africa,1.3,N Dickwella,WU Tharanga,D Pretorius,0,0,0,NA,0,NA,NA,NA,0
+936165,2nd innings,Sri Lanka,South Africa,1.4,N Dickwella,WU Tharanga,D Pretorius,0,0,0,NA,0,NA,NA,NA,0
+936165,2nd innings,Sri Lanka,South Africa,1.5,N Dickwella,WU Tharanga,D Pretorius,4,0,4,NA,0,NA,NA,NA,0
+936165,2nd innings,Sri Lanka,South Africa,1.6,N Dickwella,WU Tharanga,D Pretorius,0,0,0,NA,0,NA,NA,NA,0
+936165,2nd innings,Sri Lanka,South Africa,2.1,WU Tharanga,N Dickwella,WD Parnell,1,0,1,NA,0,NA,NA,NA,0
+936165,2nd innings,Sri Lanka,South Africa,2.2,N Dickwella,WU Tharanga,WD Parnell,0,0,0,NA,0,NA,NA,NA,0
+936165,2nd innings,Sri Lanka,South Africa,2.3,N Dickwella,WU Tharanga,WD Parnell,0,1,1,wides,0,NA,NA,NA,0
+936165,2nd innings,Sri Lanka,South Africa,2.4,N Dickwella,WU Tharanga,WD Parnell,4,0,4,NA,0,NA,NA,NA,0
+936165,2nd innings,Sri Lanka,South Africa,2.5,N Dickwella,WU Tharanga,WD Parnell,0,0,0,NA,0,NA,NA,NA,0
+936165,2nd innings,Sri Lanka,South Africa,2.6,N Dickwella,WU Tharanga,WD Parnell,1,0,1,NA,0,NA,NA,NA,0
+936165,2nd innings,Sri Lanka,South Africa,2.7,WU Tharanga,N Dickwella,WD Parnell,1,0,1,NA,0,NA,NA,NA,0
+936165,2nd innings,Sri Lanka,South Africa,3.1,WU Tharanga,N Dickwella,JP Duminy,0,0,0,NA,0,NA,NA,NA,0
+936165,2nd innings,Sri Lanka,South Africa,3.2,WU Tharanga,N Dickwella,JP Duminy,0,0,0,NA,0,NA,NA,NA,0
+936165,2nd innings,Sri Lanka,South Africa,3.3,WU Tharanga,N Dickwella,JP Duminy,6,0,6,NA,0,NA,NA,NA,0
+936165,2nd innings,Sri Lanka,South Africa,3.4,WU Tharanga,N Dickwella,JP Duminy,6,0,6,NA,0,NA,NA,NA,0
+936165,2nd innings,Sri Lanka,South Africa,3.5,WU Tharanga,N Dickwella,JP Duminy,0,0,0,NA,0,NA,NA,NA,0
+936165,2nd innings,Sri Lanka,South Africa,3.6,WU Tharanga,N Dickwella,JP Duminy,0,1,1,legbyes,0,NA,NA,NA,0
+936165,2nd innings,Sri Lanka,South Africa,4.1,WU Tharanga,N Dickwella,WD Parnell,0,0,0,NA,0,NA,NA,NA,0
+936165,2nd innings,Sri Lanka,South Africa,4.2,WU Tharanga,N Dickwella,WD Parnell,4,0,4,NA,0,NA,NA,NA,0
+936165,2nd innings,Sri Lanka,South Africa,4.3,WU Tharanga,N Dickwella,WD Parnell,4,0,4,NA,0,NA,NA,NA,0
+936165,2nd innings,Sri Lanka,South Africa,4.4,WU Tharanga,N Dickwella,WD Parnell,1,0,1,NA,0,NA,NA,NA,0
+936165,2nd innings,Sri Lanka,South Africa,4.5,N Dickwella,WU Tharanga,WD Parnell,1,0,1,NA,0,NA,NA,NA,0
+936165,2nd innings,Sri Lanka,South Africa,4.6,WU Tharanga,N Dickwella,WD Parnell,6,0,6,NA,0,NA,NA,NA,0
+936165,2nd innings,Sri Lanka,South Africa,5.1,N Dickwella,WU Tharanga,K Rabada,0,0,0,NA,0,NA,NA,NA,0
+936165,2nd innings,Sri Lanka,South Africa,5.2,N Dickwella,WU Tharanga,K Rabada,0,0,0,NA,0,NA,NA,NA,0
+936165,2nd innings,Sri Lanka,South Africa,5.3,N Dickwella,WU Tharanga,K Rabada,0,0,0,NA,0,NA,NA,NA,0
+936165,2nd innings,Sri Lanka,South Africa,5.4,N Dickwella,WU Tharanga,K Rabada,4,0,4,NA,0,NA,NA,NA,0
+936165,2nd innings,Sri Lanka,South Africa,5.5,N Dickwella,WU Tharanga,K Rabada,0,0,0,NA,0,NA,NA,NA,0
+936165,2nd innings,Sri Lanka,South Africa,5.6,N Dickwella,WU Tharanga,K Rabada,4,0,4,NA,0,NA,NA,NA,0
+936165,2nd innings,Sri Lanka,South Africa,6.1,WU Tharanga,N Dickwella,Imran Tahir,1,0,1,NA,0,NA,NA,NA,0
+936165,2nd innings,Sri Lanka,South Africa,6.2,N Dickwella,WU Tharanga,Imran Tahir,1,0,1,NA,0,NA,NA,NA,0
+936165,2nd innings,Sri Lanka,South Africa,6.3,WU Tharanga,N Dickwella,Imran Tahir,4,0,4,NA,0,NA,NA,NA,0
+936165,2nd innings,Sri Lanka,South Africa,6.4,WU Tharanga,N Dickwella,Imran Tahir,6,0,6,NA,0,NA,NA,NA,0
+936165,2nd innings,Sri Lanka,South Africa,6.5,WU Tharanga,N Dickwella,Imran Tahir,1,0,1,NA,0,NA,NA,NA,0
+936165,2nd innings,Sri Lanka,South Africa,6.6,N Dickwella,WU Tharanga,Imran Tahir,0,0,0,NA,0,NA,NA,NA,0
+936165,2nd innings,Sri Lanka,South Africa,7.1,WU Tharanga,N Dickwella,K Rabada,0,4,4,legbyes,0,NA,NA,NA,0
+936165,2nd innings,Sri Lanka,South Africa,7.2,WU Tharanga,N Dickwella,K Rabada,0,0,0,NA,0,NA,NA,NA,0
+936165,2nd innings,Sri Lanka,South Africa,7.3,WU Tharanga,N Dickwella,K Rabada,1,0,1,NA,0,NA,NA,NA,0
+936165,2nd innings,Sri Lanka,South Africa,7.4,N Dickwella,WU Tharanga,K Rabada,1,0,1,NA,0,NA,NA,NA,0
+936165,2nd innings,Sri Lanka,South Africa,7.5,WU Tharanga,N Dickwella,K Rabada,0,0,0,NA,0,NA,NA,NA,0
+936165,2nd innings,Sri Lanka,South Africa,7.6,WU Tharanga,N Dickwella,K Rabada,0,0,0,NA,0,NA,NA,NA,0
+936165,2nd innings,Sri Lanka,South Africa,8.1,N Dickwella,WU Tharanga,Imran Tahir,1,0,1,NA,0,NA,NA,NA,0
+936165,2nd innings,Sri Lanka,South Africa,8.2,WU Tharanga,N Dickwella,Imran Tahir,4,0,4,NA,0,NA,NA,NA,0
+936165,2nd innings,Sri Lanka,South Africa,8.3,WU Tharanga,N Dickwella,Imran Tahir,0,0,0,NA,0,NA,NA,NA,0
+936165,2nd innings,Sri Lanka,South Africa,8.4,WU Tharanga,N Dickwella,Imran Tahir,4,0,4,NA,0,NA,NA,NA,0
+936165,2nd innings,Sri Lanka,South Africa,8.5,WU Tharanga,N Dickwella,Imran Tahir,0,0,0,NA,0,NA,NA,NA,0
+936165,2nd innings,Sri Lanka,South Africa,8.6,WU Tharanga,N Dickwella,Imran Tahir,4,0,4,NA,0,NA,NA,NA,0
+936165,2nd innings,Sri Lanka,South Africa,9.1,N Dickwella,WU Tharanga,K Rabada,1,0,1,NA,0,NA,NA,NA,0
+936165,2nd innings,Sri Lanka,South Africa,9.2,WU Tharanga,N Dickwella,K Rabada,0,0,0,NA,0,NA,NA,NA,0
+936165,2nd innings,Sri Lanka,South Africa,9.3,WU Tharanga,N Dickwella,K Rabada,2,0,2,NA,0,NA,NA,NA,0
+936165,2nd innings,Sri Lanka,South Africa,9.4,WU Tharanga,N Dickwella,K Rabada,1,0,1,NA,0,NA,NA,NA,0
+936165,2nd innings,Sri Lanka,South Africa,9.5,N Dickwella,WU Tharanga,K Rabada,0,0,0,NA,0,NA,NA,NA,0
+936165,2nd innings,Sri Lanka,South Africa,9.6,N Dickwella,WU Tharanga,K Rabada,0,0,0,NA,0,NA,NA,NA,0
+936165,2nd innings,Sri Lanka,South Africa,10.1,WU Tharanga,N Dickwella,D Pretorius,1,0,1,NA,0,NA,NA,NA,0
+936165,2nd innings,Sri Lanka,South Africa,10.2,N Dickwella,WU Tharanga,D Pretorius,0,0,0,NA,0,NA,NA,NA,0
+936165,2nd innings,Sri Lanka,South Africa,10.3,N Dickwella,WU Tharanga,D Pretorius,1,0,1,NA,0,NA,NA,NA,0
+936165,2nd innings,Sri Lanka,South Africa,10.4,WU Tharanga,N Dickwella,D Pretorius,0,0,0,NA,0,NA,NA,NA,0
+936165,2nd innings,Sri Lanka,South Africa,10.5,WU Tharanga,N Dickwella,D Pretorius,1,0,1,NA,0,NA,NA,NA,0
+936165,2nd innings,Sri Lanka,South Africa,10.6,N Dickwella,WU Tharanga,D Pretorius,4,0,4,NA,0,NA,NA,NA,0
+936165,2nd innings,Sri Lanka,South Africa,11.1,WU Tharanga,N Dickwella,K Rabada,1,0,1,NA,0,NA,NA,NA,0
+936165,2nd innings,Sri Lanka,South Africa,11.2,N Dickwella,WU Tharanga,K Rabada,0,0,0,NA,0,NA,NA,NA,0
+936165,2nd innings,Sri Lanka,South Africa,11.3,N Dickwella,WU Tharanga,K Rabada,2,0,2,NA,0,NA,NA,NA,0
+936165,2nd innings,Sri Lanka,South Africa,11.4,N Dickwella,WU Tharanga,K Rabada,4,0,4,NA,0,NA,NA,NA,0
+936165,2nd innings,Sri Lanka,South Africa,11.5,N Dickwella,WU Tharanga,K Rabada,1,0,1,NA,0,NA,NA,NA,0
+936165,2nd innings,Sri Lanka,South Africa,11.6,WU Tharanga,N Dickwella,K Rabada,0,0,0,NA,0,NA,NA,NA,0
+936165,2nd innings,Sri Lanka,South Africa,12.1,N Dickwella,WU Tharanga,D Pretorius,1,0,1,NA,0,NA,NA,NA,0
+936165,2nd innings,Sri Lanka,South Africa,12.2,WU Tharanga,N Dickwella,D Pretorius,0,0,0,NA,0,NA,NA,NA,0
+936165,2nd innings,Sri Lanka,South Africa,12.3,WU Tharanga,N Dickwella,D Pretorius,0,0,0,NA,0,NA,NA,NA,0
+936165,2nd innings,Sri Lanka,South Africa,12.4,WU Tharanga,N Dickwella,D Pretorius,1,0,1,NA,0,NA,NA,NA,0
+936165,2nd innings,Sri Lanka,South Africa,12.5,N Dickwella,WU Tharanga,D Pretorius,0,0,0,NA,0,NA,NA,NA,0
+936165,2nd innings,Sri Lanka,South Africa,12.6,N Dickwella,WU Tharanga,D Pretorius,1,0,1,NA,0,NA,NA,NA,0
+936165,2nd innings,Sri Lanka,South Africa,13.1,N Dickwella,WU Tharanga,T Shamsi,2,0,2,NA,0,NA,NA,NA,0
+936165,2nd innings,Sri Lanka,South Africa,13.2,N Dickwella,WU Tharanga,T Shamsi,0,0,0,NA,0,NA,NA,NA,0
+936165,2nd innings,Sri Lanka,South Africa,13.3,N Dickwella,WU Tharanga,T Shamsi,2,0,2,NA,0,NA,NA,NA,0
+936165,2nd innings,Sri Lanka,South Africa,13.4,N Dickwella,WU Tharanga,T Shamsi,1,0,1,NA,0,NA,NA,NA,0
+936165,2nd innings,Sri Lanka,South Africa,13.5,WU Tharanga,N Dickwella,T Shamsi,0,0,0,NA,0,NA,NA,NA,0
+936165,2nd innings,Sri Lanka,South Africa,13.6,WU Tharanga,N Dickwella,T Shamsi,4,0,4,NA,0,NA,NA,NA,0
+936165,2nd innings,Sri Lanka,South Africa,14.1,N Dickwella,WU Tharanga,D Pretorius,4,0,4,NA,0,NA,NA,NA,0
+936165,2nd innings,Sri Lanka,South Africa,14.2,N Dickwella,WU Tharanga,D Pretorius,0,0,0,NA,0,NA,NA,NA,0
+936165,2nd innings,Sri Lanka,South Africa,14.3,N Dickwella,WU Tharanga,D Pretorius,1,0,1,NA,0,NA,NA,NA,0
+936165,2nd innings,Sri Lanka,South Africa,14.4,WU Tharanga,N Dickwella,D Pretorius,0,0,0,NA,0,NA,NA,NA,0
+936165,2nd innings,Sri Lanka,South Africa,14.5,WU Tharanga,N Dickwella,D Pretorius,1,0,1,NA,0,NA,NA,NA,0
+936165,2nd innings,Sri Lanka,South Africa,14.6,N Dickwella,WU Tharanga,D Pretorius,4,0,4,NA,0,NA,NA,NA,0
+936165,2nd innings,Sri Lanka,South Africa,15.1,WU Tharanga,N Dickwella,T Shamsi,0,0,0,NA,0,NA,NA,NA,0
+936165,2nd innings,Sri Lanka,South Africa,15.2,WU Tharanga,N Dickwella,T Shamsi,1,0,1,NA,0,NA,NA,NA,0
+936165,2nd innings,Sri Lanka,South Africa,15.3,N Dickwella,WU Tharanga,T Shamsi,0,0,0,NA,0,NA,NA,NA,0
+936165,2nd innings,Sri Lanka,South Africa,15.4,N Dickwella,WU Tharanga,T Shamsi,0,0,0,NA,0,NA,NA,NA,0
+936165,2nd innings,Sri Lanka,South Africa,15.5,N Dickwella,WU Tharanga,T Shamsi,1,0,1,NA,0,NA,NA,NA,0
+936165,2nd innings,Sri Lanka,South Africa,15.6,WU Tharanga,N Dickwella,T Shamsi,0,0,0,NA,0,NA,NA,NA,0
+936165,2nd innings,Sri Lanka,South Africa,16.1,N Dickwella,WU Tharanga,D Pretorius,0,0,0,NA,1,caught,N Dickwella,F Behardien,0
+936165,2nd innings,Sri Lanka,South Africa,16.2,WU Tharanga,BKG Mendis,D Pretorius,0,0,0,NA,0,NA,NA,NA,0
+936165,2nd innings,Sri Lanka,South Africa,16.3,WU Tharanga,BKG Mendis,D Pretorius,1,0,1,NA,0,NA,NA,NA,0
+936165,2nd innings,Sri Lanka,South Africa,16.4,BKG Mendis,WU Tharanga,D Pretorius,0,0,0,NA,0,NA,NA,NA,0
+936165,2nd innings,Sri Lanka,South Africa,16.5,BKG Mendis,WU Tharanga,D Pretorius,0,0,0,NA,0,NA,NA,NA,0
+936165,2nd innings,Sri Lanka,South Africa,16.6,BKG Mendis,WU Tharanga,D Pretorius,0,0,0,NA,0,NA,NA,NA,0
+936165,2nd innings,Sri Lanka,South Africa,17.1,WU Tharanga,BKG Mendis,T Shamsi,0,0,0,NA,0,NA,NA,NA,0
+936165,2nd innings,Sri Lanka,South Africa,17.2,WU Tharanga,BKG Mendis,T Shamsi,0,0,0,NA,0,NA,NA,NA,0
+936165,2nd innings,Sri Lanka,South Africa,17.3,WU Tharanga,BKG Mendis,T Shamsi,1,0,1,NA,0,NA,NA,NA,0
+936165,2nd innings,Sri Lanka,South Africa,17.4,BKG Mendis,WU Tharanga,T Shamsi,0,0,0,NA,0,NA,NA,NA,0
+936165,2nd innings,Sri Lanka,South Africa,17.5,BKG Mendis,WU Tharanga,T Shamsi,0,0,0,NA,0,NA,NA,NA,0
+936165,2nd innings,Sri Lanka,South Africa,17.6,BKG Mendis,WU Tharanga,T Shamsi,1,0,1,NA,0,NA,NA,NA,0
+936165,2nd innings,Sri Lanka,South Africa,18.1,BKG Mendis,WU Tharanga,D Pretorius,0,0,0,NA,0,NA,NA,NA,0
+936165,2nd innings,Sri Lanka,South Africa,18.2,BKG Mendis,WU Tharanga,D Pretorius,0,0,0,NA,0,NA,NA,NA,0
+936165,2nd innings,Sri Lanka,South Africa,18.3,BKG Mendis,WU Tharanga,D Pretorius,4,0,4,NA,0,NA,NA,NA,0
+936165,2nd innings,Sri Lanka,South Africa,18.4,BKG Mendis,WU Tharanga,D Pretorius,1,0,1,NA,0,NA,NA,NA,0
+936165,2nd innings,Sri Lanka,South Africa,18.5,WU Tharanga,BKG Mendis,D Pretorius,1,0,1,NA,0,NA,NA,NA,0
+936165,2nd innings,Sri Lanka,South Africa,18.6,BKG Mendis,WU Tharanga,D Pretorius,0,0,0,NA,0,NA,NA,NA,0
+936165,2nd innings,Sri Lanka,South Africa,19.1,WU Tharanga,BKG Mendis,T Shamsi,0,0,0,NA,0,NA,NA,NA,0
+936165,2nd innings,Sri Lanka,South Africa,19.2,WU Tharanga,BKG Mendis,T Shamsi,1,0,1,NA,0,NA,NA,NA,0
+936165,2nd innings,Sri Lanka,South Africa,19.3,BKG Mendis,WU Tharanga,T Shamsi,1,0,1,NA,0,NA,NA,NA,0
+936165,2nd innings,Sri Lanka,South Africa,19.4,WU Tharanga,BKG Mendis,T Shamsi,0,0,0,NA,0,NA,NA,NA,0
+936165,2nd innings,Sri Lanka,South Africa,19.5,WU Tharanga,BKG Mendis,T Shamsi,1,0,1,NA,0,NA,NA,NA,0
+936165,2nd innings,Sri Lanka,South Africa,19.6,BKG Mendis,WU Tharanga,T Shamsi,1,0,1,NA,0,NA,NA,NA,0
+936165,2nd innings,Sri Lanka,South Africa,20.1,BKG Mendis,WU Tharanga,F Behardien,0,0,0,NA,0,NA,NA,NA,0
+936165,2nd innings,Sri Lanka,South Africa,20.2,BKG Mendis,WU Tharanga,F Behardien,2,0,2,NA,0,NA,NA,NA,0
+936165,2nd innings,Sri Lanka,South Africa,20.3,BKG Mendis,WU Tharanga,F Behardien,2,0,2,NA,0,NA,NA,NA,0
+936165,2nd innings,Sri Lanka,South Africa,20.4,BKG Mendis,WU Tharanga,F Behardien,4,0,4,NA,0,NA,NA,NA,0
+936165,2nd innings,Sri Lanka,South Africa,20.5,BKG Mendis,WU Tharanga,F Behardien,1,0,1,NA,0,NA,NA,NA,0
+936165,2nd innings,Sri Lanka,South Africa,20.6,WU Tharanga,BKG Mendis,F Behardien,0,1,1,legbyes,0,NA,NA,NA,0
+936165,2nd innings,Sri Lanka,South Africa,21.1,WU Tharanga,BKG Mendis,T Shamsi,1,0,1,NA,0,NA,NA,NA,0
+936165,2nd innings,Sri Lanka,South Africa,21.2,BKG Mendis,WU Tharanga,T Shamsi,1,0,1,NA,0,NA,NA,NA,0
+936165,2nd innings,Sri Lanka,South Africa,21.3,WU Tharanga,BKG Mendis,T Shamsi,0,0,0,NA,0,NA,NA,NA,0
+936165,2nd innings,Sri Lanka,South Africa,21.4,WU Tharanga,BKG Mendis,T Shamsi,0,0,0,NA,0,NA,NA,NA,0
+936165,2nd innings,Sri Lanka,South Africa,21.5,WU Tharanga,BKG Mendis,T Shamsi,6,0,6,NA,0,NA,NA,NA,0
+936165,2nd innings,Sri Lanka,South Africa,21.6,WU Tharanga,BKG Mendis,T Shamsi,0,0,0,NA,0,NA,NA,NA,0
+936165,2nd innings,Sri Lanka,South Africa,22.1,BKG Mendis,WU Tharanga,Imran Tahir,0,0,0,NA,0,NA,NA,NA,0
+936165,2nd innings,Sri Lanka,South Africa,22.2,BKG Mendis,WU Tharanga,Imran Tahir,0,0,0,NA,0,NA,NA,NA,0
+936165,2nd innings,Sri Lanka,South Africa,22.3,BKG Mendis,WU Tharanga,Imran Tahir,4,0,4,NA,0,NA,NA,NA,0
+936165,2nd innings,Sri Lanka,South Africa,22.4,BKG Mendis,WU Tharanga,Imran Tahir,1,0,1,NA,0,NA,NA,NA,0
+936165,2nd innings,Sri Lanka,South Africa,22.5,WU Tharanga,BKG Mendis,Imran Tahir,0,0,0,NA,0,NA,NA,NA,0
+936165,2nd innings,Sri Lanka,South Africa,22.6,WU Tharanga,BKG Mendis,Imran Tahir,1,0,1,NA,0,NA,NA,NA,0
+936165,2nd innings,Sri Lanka,South Africa,23.1,WU Tharanga,BKG Mendis,T Shamsi,0,0,0,NA,0,NA,NA,NA,0
+936165,2nd innings,Sri Lanka,South Africa,23.2,WU Tharanga,BKG Mendis,T Shamsi,0,0,0,NA,0,NA,NA,NA,0
+936165,2nd innings,Sri Lanka,South Africa,23.3,WU Tharanga,BKG Mendis,T Shamsi,6,0,6,NA,0,NA,NA,NA,0
+936165,2nd innings,Sri Lanka,South Africa,23.4,WU Tharanga,BKG Mendis,T Shamsi,2,0,2,NA,0,NA,NA,NA,0
+936165,2nd innings,Sri Lanka,South Africa,23.5,WU Tharanga,BKG Mendis,T Shamsi,6,0,6,NA,0,NA,NA,NA,0
+936165,2nd innings,Sri Lanka,South Africa,23.6,WU Tharanga,BKG Mendis,T Shamsi,0,0,0,NA,0,NA,NA,NA,0
+936165,2nd innings,Sri Lanka,South Africa,24.1,BKG Mendis,WU Tharanga,Imran Tahir,1,0,1,NA,0,NA,NA,NA,0
+936165,2nd innings,Sri Lanka,South Africa,24.2,WU Tharanga,BKG Mendis,Imran Tahir,2,0,2,NA,0,NA,NA,NA,0
+936165,2nd innings,Sri Lanka,South Africa,24.3,WU Tharanga,BKG Mendis,Imran Tahir,1,0,1,NA,0,NA,NA,NA,0
+936165,2nd innings,Sri Lanka,South Africa,24.4,BKG Mendis,WU Tharanga,Imran Tahir,0,0,0,NA,0,NA,NA,NA,0
+936165,2nd innings,Sri Lanka,South Africa,24.5,BKG Mendis,WU Tharanga,Imran Tahir,1,0,1,NA,0,NA,NA,NA,0
+936165,2nd innings,Sri Lanka,South Africa,24.6,WU Tharanga,BKG Mendis,Imran Tahir,1,0,1,NA,0,NA,NA,NA,0
+936165,2nd innings,Sri Lanka,South Africa,25.1,WU Tharanga,BKG Mendis,WD Parnell,1,0,1,NA,0,NA,NA,NA,0
+936165,2nd innings,Sri Lanka,South Africa,25.2,BKG Mendis,WU Tharanga,WD Parnell,1,0,1,NA,0,NA,NA,NA,0
+936165,2nd innings,Sri Lanka,South Africa,25.3,WU Tharanga,BKG Mendis,WD Parnell,0,0,0,NA,0,NA,NA,NA,0
+936165,2nd innings,Sri Lanka,South Africa,25.4,WU Tharanga,BKG Mendis,WD Parnell,1,0,1,NA,0,NA,NA,NA,0
+936165,2nd innings,Sri Lanka,South Africa,25.5,BKG Mendis,WU Tharanga,WD Parnell,1,0,1,NA,0,NA,NA,NA,0
+936165,2nd innings,Sri Lanka,South Africa,25.6,WU Tharanga,BKG Mendis,WD Parnell,0,0,0,NA,0,NA,NA,NA,0
+936165,2nd innings,Sri Lanka,South Africa,26.1,BKG Mendis,WU Tharanga,Imran Tahir,0,0,0,NA,0,NA,NA,NA,0
+936165,2nd innings,Sri Lanka,South Africa,26.2,BKG Mendis,WU Tharanga,Imran Tahir,1,0,1,NA,0,NA,NA,NA,0
+936165,2nd innings,Sri Lanka,South Africa,26.3,WU Tharanga,BKG Mendis,Imran Tahir,1,0,1,NA,0,NA,NA,NA,0
+936165,2nd innings,Sri Lanka,South Africa,26.4,BKG Mendis,WU Tharanga,Imran Tahir,0,0,0,NA,0,NA,NA,NA,0
+936165,2nd innings,Sri Lanka,South Africa,26.5,BKG Mendis,WU Tharanga,Imran Tahir,1,0,1,NA,0,NA,NA,NA,0
+936165,2nd innings,Sri Lanka,South Africa,26.6,WU Tharanga,BKG Mendis,Imran Tahir,0,0,0,NA,0,NA,NA,NA,0
+936165,2nd innings,Sri Lanka,South Africa,27.1,BKG Mendis,WU Tharanga,WD Parnell,0,0,0,NA,0,NA,NA,NA,0
+936165,2nd innings,Sri Lanka,South Africa,27.2,BKG Mendis,WU Tharanga,WD Parnell,0,0,0,NA,1,caught,BKG Mendis,Q de Kock,0
+936165,2nd innings,Sri Lanka,South Africa,27.3,DS Weerakkody,WU Tharanga,WD Parnell,1,0,1,NA,0,NA,NA,NA,0
+936165,2nd innings,Sri Lanka,South Africa,27.4,WU Tharanga,DS Weerakkody,WD Parnell,1,0,1,NA,0,NA,NA,NA,0
+936165,2nd innings,Sri Lanka,South Africa,27.5,DS Weerakkody,WU Tharanga,WD Parnell,1,0,1,NA,0,NA,NA,NA,0
+936165,2nd innings,Sri Lanka,South Africa,27.6,WU Tharanga,DS Weerakkody,WD Parnell,0,0,0,NA,0,NA,NA,NA,0
+936165,2nd innings,Sri Lanka,South Africa,28.1,DS Weerakkody,WU Tharanga,Imran Tahir,0,0,0,NA,0,NA,NA,NA,0
+936165,2nd innings,Sri Lanka,South Africa,28.2,DS Weerakkody,WU Tharanga,Imran Tahir,1,0,1,NA,0,NA,NA,NA,0
+936165,2nd innings,Sri Lanka,South Africa,28.3,WU Tharanga,DS Weerakkody,Imran Tahir,0,0,0,NA,0,NA,NA,NA,0
+936165,2nd innings,Sri Lanka,South Africa,28.4,WU Tharanga,DS Weerakkody,Imran Tahir,4,0,4,NA,0,NA,NA,NA,0
+936165,2nd innings,Sri Lanka,South Africa,28.5,WU Tharanga,DS Weerakkody,Imran Tahir,4,0,4,NA,0,NA,NA,NA,0
+936165,2nd innings,Sri Lanka,South Africa,28.6,WU Tharanga,DS Weerakkody,Imran Tahir,1,0,1,NA,0,NA,NA,NA,0
+936165,2nd innings,Sri Lanka,South Africa,29.1,WU Tharanga,DS Weerakkody,WD Parnell,0,0,0,NA,1,caught,WU Tharanga,JP Duminy,0
+936165,2nd innings,Sri Lanka,South Africa,29.2,DM de Silva,DS Weerakkody,WD Parnell,0,0,0,NA,0,NA,NA,NA,0
+936165,2nd innings,Sri Lanka,South Africa,29.3,DM de Silva,DS Weerakkody,WD Parnell,0,0,0,NA,0,NA,NA,NA,0
+936165,2nd innings,Sri Lanka,South Africa,29.4,DM de Silva,DS Weerakkody,WD Parnell,0,0,0,NA,0,NA,NA,NA,0
+936165,2nd innings,Sri Lanka,South Africa,29.5,DM de Silva,DS Weerakkody,WD Parnell,0,0,0,NA,0,NA,NA,NA,0
+936165,2nd innings,Sri Lanka,South Africa,29.6,DM de Silva,DS Weerakkody,WD Parnell,1,0,1,NA,0,NA,NA,NA,0
+936165,2nd innings,Sri Lanka,South Africa,30.1,DM de Silva,DS Weerakkody,Imran Tahir,1,0,1,NA,0,NA,NA,NA,0
+936165,2nd innings,Sri Lanka,South Africa,30.2,DS Weerakkody,DM de Silva,Imran Tahir,0,0,0,NA,0,NA,NA,NA,0
+936165,2nd innings,Sri Lanka,South Africa,30.3,DS Weerakkody,DM de Silva,Imran Tahir,1,0,1,NA,0,NA,NA,NA,0
+936165,2nd innings,Sri Lanka,South Africa,30.4,DM de Silva,DS Weerakkody,Imran Tahir,0,0,0,NA,0,NA,NA,NA,0
+936165,2nd innings,Sri Lanka,South Africa,30.5,DM de Silva,DS Weerakkody,Imran Tahir,0,0,0,NA,0,NA,NA,NA,0
+936165,2nd innings,Sri Lanka,South Africa,30.6,DM de Silva,DS Weerakkody,Imran Tahir,0,0,0,NA,0,NA,NA,NA,0
+936165,2nd innings,Sri Lanka,South Africa,31.1,DS Weerakkody,DM de Silva,K Rabada,1,0,1,NA,0,NA,NA,NA,0
+936165,2nd innings,Sri Lanka,South Africa,31.2,DM de Silva,DS Weerakkody,K Rabada,1,0,1,NA,0,NA,NA,NA,0
+936165,2nd innings,Sri Lanka,South Africa,31.3,DS Weerakkody,DM de Silva,K Rabada,0,0,0,NA,0,NA,NA,NA,0
+936165,2nd innings,Sri Lanka,South Africa,31.4,DS Weerakkody,DM de Silva,K Rabada,0,0,0,NA,0,NA,NA,NA,0
+936165,2nd innings,Sri Lanka,South Africa,31.5,DS Weerakkody,DM de Silva,K Rabada,0,0,0,NA,0,NA,NA,NA,0
+936165,2nd innings,Sri Lanka,South Africa,31.6,DS Weerakkody,DM de Silva,K Rabada,1,0,1,NA,0,NA,NA,NA,0
+936165,2nd innings,Sri Lanka,South Africa,32.1,DS Weerakkody,DM de Silva,Imran Tahir,0,0,0,NA,0,NA,NA,NA,0
+936165,2nd innings,Sri Lanka,South Africa,32.2,DS Weerakkody,DM de Silva,Imran Tahir,1,0,1,NA,0,NA,NA,NA,0
+936165,2nd innings,Sri Lanka,South Africa,32.3,DM de Silva,DS Weerakkody,Imran Tahir,1,0,1,NA,0,NA,NA,NA,0
+936165,2nd innings,Sri Lanka,South Africa,32.4,DS Weerakkody,DM de Silva,Imran Tahir,0,0,0,NA,0,NA,NA,NA,0
+936165,2nd innings,Sri Lanka,South Africa,32.5,DS Weerakkody,DM de Silva,Imran Tahir,1,0,1,NA,0,NA,NA,NA,0
+936165,2nd innings,Sri Lanka,South Africa,32.6,DM de Silva,DS Weerakkody,Imran Tahir,0,0,0,NA,0,NA,NA,NA,0
+936165,2nd innings,Sri Lanka,South Africa,33.1,DS Weerakkody,DM de Silva,K Rabada,1,0,1,NA,0,NA,NA,NA,0
+936165,2nd innings,Sri Lanka,South Africa,33.2,DM de Silva,DS Weerakkody,K Rabada,1,0,1,NA,0,NA,NA,NA,0
+936165,2nd innings,Sri Lanka,South Africa,33.3,DS Weerakkody,DM de Silva,K Rabada,0,0,0,NA,0,NA,NA,NA,0
+936165,2nd innings,Sri Lanka,South Africa,33.4,DS Weerakkody,DM de Silva,K Rabada,1,0,1,NA,0,NA,NA,NA,0
+936165,2nd innings,Sri Lanka,South Africa,33.5,DM de Silva,DS Weerakkody,K Rabada,0,0,0,NA,1,lbw,DM de Silva,NA,0
+936165,2nd innings,Sri Lanka,South Africa,33.6,DAS Gunaratne,DS Weerakkody,K Rabada,4,0,4,NA,0,NA,NA,NA,0
+936165,2nd innings,Sri Lanka,South Africa,34.1,DS Weerakkody,DAS Gunaratne,T Shamsi,0,0,0,NA,0,NA,NA,NA,0
+936165,2nd innings,Sri Lanka,South Africa,34.2,DS Weerakkody,DAS Gunaratne,T Shamsi,0,0,0,NA,0,NA,NA,NA,0
+936165,2nd innings,Sri Lanka,South Africa,34.3,DS Weerakkody,DAS Gunaratne,T Shamsi,4,0,4,NA,0,NA,NA,NA,0
+936165,2nd innings,Sri Lanka,South Africa,34.4,DS Weerakkody,DAS Gunaratne,T Shamsi,0,0,0,NA,0,NA,NA,NA,0
+936165,2nd innings,Sri Lanka,South Africa,34.5,DS Weerakkody,DAS Gunaratne,T Shamsi,1,0,1,NA,0,NA,NA,NA,0
+936165,2nd innings,Sri Lanka,South Africa,34.6,DAS Gunaratne,DS Weerakkody,T Shamsi,0,0,0,NA,0,NA,NA,NA,0
+936165,2nd innings,Sri Lanka,South Africa,35.1,DS Weerakkody,DAS Gunaratne,K Rabada,4,0,4,NA,0,NA,NA,NA,0
+936165,2nd innings,Sri Lanka,South Africa,35.2,DS Weerakkody,DAS Gunaratne,K Rabada,0,1,1,wides,0,NA,NA,NA,0
+936165,2nd innings,Sri Lanka,South Africa,35.3,DS Weerakkody,DAS Gunaratne,K Rabada,1,0,1,NA,0,NA,NA,NA,0
+936165,2nd innings,Sri Lanka,South Africa,35.4,DAS Gunaratne,DS Weerakkody,K Rabada,2,0,2,NA,0,NA,NA,NA,0
+936165,2nd innings,Sri Lanka,South Africa,35.5,DAS Gunaratne,DS Weerakkody,K Rabada,0,0,0,NA,0,NA,NA,NA,0
+936165,2nd innings,Sri Lanka,South Africa,35.6,DAS Gunaratne,DS Weerakkody,K Rabada,0,0,0,NA,0,NA,NA,NA,0
+936165,2nd innings,Sri Lanka,South Africa,35.7,DAS Gunaratne,DS Weerakkody,K Rabada,1,0,1,NA,0,NA,NA,NA,0
+936165,2nd innings,Sri Lanka,South Africa,36.1,DAS Gunaratne,DS Weerakkody,T Shamsi,1,0,1,NA,0,NA,NA,NA,0
+936165,2nd innings,Sri Lanka,South Africa,36.2,DS Weerakkody,DAS Gunaratne,T Shamsi,0,0,0,NA,0,NA,NA,NA,0
+936165,2nd innings,Sri Lanka,South Africa,36.3,DS Weerakkody,DAS Gunaratne,T Shamsi,0,0,0,NA,0,NA,NA,NA,0
+936165,2nd innings,Sri Lanka,South Africa,36.4,DS Weerakkody,DAS Gunaratne,T Shamsi,1,0,1,NA,0,NA,NA,NA,0
+936165,2nd innings,Sri Lanka,South Africa,36.5,DAS Gunaratne,DS Weerakkody,T Shamsi,0,0,0,NA,0,NA,NA,NA,0
+936165,2nd innings,Sri Lanka,South Africa,36.6,DAS Gunaratne,DS Weerakkody,T Shamsi,1,0,1,NA,0,NA,NA,NA,0
+936165,2nd innings,Sri Lanka,South Africa,37.1,DAS Gunaratne,DS Weerakkody,D Pretorius,2,0,2,NA,0,NA,NA,NA,0
+936165,2nd innings,Sri Lanka,South Africa,37.2,DAS Gunaratne,DS Weerakkody,D Pretorius,1,0,1,NA,0,NA,NA,NA,0
+936165,2nd innings,Sri Lanka,South Africa,37.3,DS Weerakkody,DAS Gunaratne,D Pretorius,4,0,4,NA,0,NA,NA,NA,0
+936165,2nd innings,Sri Lanka,South Africa,37.4,DS Weerakkody,DAS Gunaratne,D Pretorius,1,0,1,NA,0,NA,NA,NA,0
+936165,2nd innings,Sri Lanka,South Africa,37.5,DAS Gunaratne,DS Weerakkody,D Pretorius,1,0,1,NA,0,NA,NA,NA,0
+936165,2nd innings,Sri Lanka,South Africa,37.6,DS Weerakkody,DAS Gunaratne,D Pretorius,2,0,2,NA,0,NA,NA,NA,0
+936165,2nd innings,Sri Lanka,South Africa,38.1,DAS Gunaratne,DS Weerakkody,T Shamsi,1,0,1,NA,0,NA,NA,NA,0
+936165,2nd innings,Sri Lanka,South Africa,38.2,DS Weerakkody,DAS Gunaratne,T Shamsi,0,0,0,NA,0,NA,NA,NA,0
+936165,2nd innings,Sri Lanka,South Africa,38.3,DS Weerakkody,DAS Gunaratne,T Shamsi,4,0,4,NA,0,NA,NA,NA,0
+936165,2nd innings,Sri Lanka,South Africa,38.4,DS Weerakkody,DAS Gunaratne,T Shamsi,1,0,1,NA,0,NA,NA,NA,0
+936165,2nd innings,Sri Lanka,South Africa,38.5,DAS Gunaratne,DS Weerakkody,T Shamsi,0,0,0,NA,0,NA,NA,NA,0
+936165,2nd innings,Sri Lanka,South Africa,38.6,DAS Gunaratne,DS Weerakkody,T Shamsi,0,0,0,NA,0,NA,NA,NA,0
+936165,2nd innings,Sri Lanka,South Africa,39.1,DS Weerakkody,DAS Gunaratne,WD Parnell,1,0,1,NA,0,NA,NA,NA,0
+936165,2nd innings,Sri Lanka,South Africa,39.2,DAS Gunaratne,DS Weerakkody,WD Parnell,1,0,1,NA,0,NA,NA,NA,0
+936165,2nd innings,Sri Lanka,South Africa,39.3,DS Weerakkody,DAS Gunaratne,WD Parnell,1,0,1,NA,0,NA,NA,NA,0
+936165,2nd innings,Sri Lanka,South Africa,39.4,DAS Gunaratne,DS Weerakkody,WD Parnell,1,0,1,NA,0,NA,NA,NA,0
+936165,2nd innings,Sri Lanka,South Africa,39.5,DS Weerakkody,DAS Gunaratne,WD Parnell,1,0,1,NA,0,NA,NA,NA,0
+936165,2nd innings,Sri Lanka,South Africa,39.6,DAS Gunaratne,DS Weerakkody,WD Parnell,1,0,1,NA,0,NA,NA,NA,0
+936165,2nd innings,Sri Lanka,South Africa,40.1,DAS Gunaratne,DS Weerakkody,T Shamsi,1,0,1,NA,0,NA,NA,NA,0
+936165,2nd innings,Sri Lanka,South Africa,40.2,DS Weerakkody,DAS Gunaratne,T Shamsi,1,0,1,NA,0,NA,NA,NA,0
+936165,2nd innings,Sri Lanka,South Africa,40.3,DAS Gunaratne,DS Weerakkody,T Shamsi,1,0,1,NA,0,NA,NA,NA,0
+936165,2nd innings,Sri Lanka,South Africa,40.4,DS Weerakkody,DAS Gunaratne,T Shamsi,0,0,0,NA,0,NA,NA,NA,0
+936165,2nd innings,Sri Lanka,South Africa,40.5,DS Weerakkody,DAS Gunaratne,T Shamsi,0,0,0,NA,0,NA,NA,NA,0
+936165,2nd innings,Sri Lanka,South Africa,40.6,DS Weerakkody,DAS Gunaratne,T Shamsi,4,0,4,NA,0,NA,NA,NA,0
+936165,2nd innings,Sri Lanka,South Africa,41.1,DAS Gunaratne,DS Weerakkody,WD Parnell,0,0,0,NA,0,NA,NA,NA,0
+936165,2nd innings,Sri Lanka,South Africa,41.2,DAS Gunaratne,DS Weerakkody,WD Parnell,1,0,1,NA,0,NA,NA,NA,0
+936165,2nd innings,Sri Lanka,South Africa,41.3,DS Weerakkody,DAS Gunaratne,WD Parnell,6,0,6,NA,0,NA,NA,NA,0
+936165,2nd innings,Sri Lanka,South Africa,41.4,DS Weerakkody,DAS Gunaratne,WD Parnell,1,0,1,NA,0,NA,NA,NA,0
+936165,2nd innings,Sri Lanka,South Africa,41.5,DAS Gunaratne,DS Weerakkody,WD Parnell,1,0,1,NA,0,NA,NA,NA,0
+936165,2nd innings,Sri Lanka,South Africa,41.6,DS Weerakkody,DAS Gunaratne,WD Parnell,0,0,0,NA,0,NA,NA,NA,0
+936165,2nd innings,Sri Lanka,South Africa,42.1,DAS Gunaratne,DS Weerakkody,Imran Tahir,4,0,4,NA,0,NA,NA,NA,0
+936165,2nd innings,Sri Lanka,South Africa,42.2,DAS Gunaratne,DS Weerakkody,Imran Tahir,0,0,0,NA,0,NA,NA,NA,0
+936165,2nd innings,Sri Lanka,South Africa,42.3,DAS Gunaratne,DS Weerakkody,Imran Tahir,4,0,4,NA,0,NA,NA,NA,0
+936165,2nd innings,Sri Lanka,South Africa,42.4,DAS Gunaratne,DS Weerakkody,Imran Tahir,1,0,1,NA,0,NA,NA,NA,0
+936165,2nd innings,Sri Lanka,South Africa,42.5,DS Weerakkody,DAS Gunaratne,Imran Tahir,1,0,1,NA,0,NA,NA,NA,0
+936165,2nd innings,Sri Lanka,South Africa,42.6,DAS Gunaratne,DS Weerakkody,Imran Tahir,1,0,1,NA,0,NA,NA,NA,0
+936165,2nd innings,Sri Lanka,South Africa,43.1,DAS Gunaratne,DS Weerakkody,K Rabada,6,0,6,NA,0,NA,NA,NA,0
+936165,2nd innings,Sri Lanka,South Africa,43.2,DAS Gunaratne,DS Weerakkody,K Rabada,1,0,1,NA,0,NA,NA,NA,0
+936165,2nd innings,Sri Lanka,South Africa,43.3,DS Weerakkody,DAS Gunaratne,K Rabada,1,0,1,NA,0,NA,NA,NA,0
+936165,2nd innings,Sri Lanka,South Africa,43.4,DAS Gunaratne,DS Weerakkody,K Rabada,0,0,0,NA,1,caught,DAS Gunaratne,HM Amla,0
+936165,2nd innings,Sri Lanka,South Africa,43.5,KMDN Kulasekara,DS Weerakkody,K Rabada,1,0,1,NA,0,NA,NA,NA,0
+936165,2nd innings,Sri Lanka,South Africa,43.6,DS Weerakkody,KMDN Kulasekara,K Rabada,0,0,0,NA,0,NA,NA,NA,0
+936165,2nd innings,Sri Lanka,South Africa,44.1,KMDN Kulasekara,DS Weerakkody,Imran Tahir,0,0,0,NA,1,lbw,KMDN Kulasekara,NA,0
+936165,2nd innings,Sri Lanka,South Africa,44.2,SS Pathirana,DS Weerakkody,Imran Tahir,1,0,1,NA,0,NA,NA,NA,0
+936165,2nd innings,Sri Lanka,South Africa,44.3,DS Weerakkody,SS Pathirana,Imran Tahir,4,0,4,NA,0,NA,NA,NA,0
+936165,2nd innings,Sri Lanka,South Africa,44.4,DS Weerakkody,SS Pathirana,Imran Tahir,4,0,4,NA,0,NA,NA,NA,0
+936165,2nd innings,Sri Lanka,South Africa,44.5,DS Weerakkody,SS Pathirana,Imran Tahir,0,0,0,NA,0,NA,NA,NA,0
+936165,2nd innings,Sri Lanka,South Africa,44.6,DS Weerakkody,SS Pathirana,Imran Tahir,0,0,0,NA,1,caught,DS Weerakkody,WD Parnell,0
+936165,2nd innings,Sri Lanka,South Africa,45.1,LD Madushanka,SS Pathirana,D Pretorius,1,0,1,NA,0,NA,NA,NA,0
+936165,2nd innings,Sri Lanka,South Africa,45.2,SS Pathirana,LD Madushanka,D Pretorius,0,1,1,legbyes,0,NA,NA,NA,0
+936165,2nd innings,Sri Lanka,South Africa,45.3,LD Madushanka,SS Pathirana,D Pretorius,0,0,0,NA,0,NA,NA,NA,0
+936165,2nd innings,Sri Lanka,South Africa,45.4,LD Madushanka,SS Pathirana,D Pretorius,4,0,4,NA,0,NA,NA,NA,0
+936165,2nd innings,Sri Lanka,South Africa,45.5,LD Madushanka,SS Pathirana,D Pretorius,1,0,1,NA,0,NA,NA,NA,0
+936165,2nd innings,Sri Lanka,South Africa,45.6,SS Pathirana,LD Madushanka,D Pretorius,0,1,1,wides,0,NA,NA,NA,0
+936165,2nd innings,Sri Lanka,South Africa,45.7,SS Pathirana,LD Madushanka,D Pretorius,0,0,0,NA,1,caught,SS Pathirana,Q de Kock,0
+936165,2nd innings,Sri Lanka,South Africa,46.1,LD Madushanka,CBRLS Kumara,WD Parnell,0,0,0,NA,0,NA,NA,NA,0
+936165,2nd innings,Sri Lanka,South Africa,46.2,LD Madushanka,CBRLS Kumara,WD Parnell,0,0,0,NA,0,NA,NA,NA,0
+936165,2nd innings,Sri Lanka,South Africa,46.3,LD Madushanka,CBRLS Kumara,WD Parnell,0,0,0,NA,0,NA,NA,NA,0
+936165,2nd innings,Sri Lanka,South Africa,46.4,LD Madushanka,CBRLS Kumara,WD Parnell,0,0,0,NA,1,caught,LD Madushanka,D Pretorius,0
+936165,2nd innings,Sri Lanka,South Africa,46.5,PADLR Sandakan,CBRLS Kumara,WD Parnell,1,0,1,NA,0,NA,NA,NA,0
+936165,2nd innings,Sri Lanka,South Africa,46.6,CBRLS Kumara,PADLR Sandakan,WD Parnell,1,0,1,NA,0,NA,NA,NA,0
+936165,2nd innings,Sri Lanka,South Africa,47.1,CBRLS Kumara,PADLR Sandakan,K Rabada,0,0,0,NA,0,NA,NA,NA,0
+936165,2nd innings,Sri Lanka,South Africa,47.2,CBRLS Kumara,PADLR Sandakan,K Rabada,0,0,0,NA,0,NA,NA,NA,0
+936165,2nd innings,Sri Lanka,South Africa,47.3,CBRLS Kumara,PADLR Sandakan,K Rabada,0,0,0,NA,0,NA,NA,NA,0
+936165,2nd innings,Sri Lanka,South Africa,47.4,CBRLS Kumara,PADLR Sandakan,K Rabada,0,0,0,NA,0,NA,NA,NA,0
+936165,2nd innings,Sri Lanka,South Africa,47.5,CBRLS Kumara,PADLR Sandakan,K Rabada,0,0,0,NA,0,NA,NA,NA,0
+936165,2nd innings,Sri Lanka,South Africa,47.6,CBRLS Kumara,PADLR Sandakan,K Rabada,0,0,0,NA,0,NA,NA,NA,0
+936165,2nd innings,Sri Lanka,South Africa,48.1,PADLR Sandakan,CBRLS Kumara,WD Parnell,0,0,0,NA,1,bowled,PADLR Sandakan,NA,0

@@ -1,0 +1,530 @@
+match_id,innings,team,opponent,ball,batsman,non_striker,bowler,scored_runs,extras,total,extra_type,wicket,wicket_type,player_out,fielders,winner
+351687,1st innings,Australia,South Africa,0.1,SE Marsh,DA Warner,DW Steyn,4,0,4,NA,0,NA,NA,NA,0
+351687,1st innings,Australia,South Africa,0.2,SE Marsh,DA Warner,DW Steyn,0,0,0,NA,0,NA,NA,NA,0
+351687,1st innings,Australia,South Africa,0.3,SE Marsh,DA Warner,DW Steyn,0,0,0,NA,0,NA,NA,NA,0
+351687,1st innings,Australia,South Africa,0.4,SE Marsh,DA Warner,DW Steyn,0,1,1,wides,0,NA,NA,NA,0
+351687,1st innings,Australia,South Africa,0.5,SE Marsh,DA Warner,DW Steyn,1,0,1,NA,0,NA,NA,NA,0
+351687,1st innings,Australia,South Africa,0.6,DA Warner,SE Marsh,DW Steyn,0,0,0,NA,0,NA,NA,NA,0
+351687,1st innings,Australia,South Africa,0.7,DA Warner,SE Marsh,DW Steyn,1,0,1,NA,0,NA,NA,NA,0
+351687,1st innings,Australia,South Africa,1.1,DA Warner,SE Marsh,M Ntini,0,1,1,wides,0,NA,NA,NA,0
+351687,1st innings,Australia,South Africa,1.2,DA Warner,SE Marsh,M Ntini,0,1,1,wides,0,NA,NA,NA,0
+351687,1st innings,Australia,South Africa,1.3,DA Warner,SE Marsh,M Ntini,0,0,0,NA,0,NA,NA,NA,0
+351687,1st innings,Australia,South Africa,1.4,DA Warner,SE Marsh,M Ntini,0,0,0,NA,0,NA,NA,NA,0
+351687,1st innings,Australia,South Africa,1.5,DA Warner,SE Marsh,M Ntini,0,0,0,NA,0,NA,NA,NA,0
+351687,1st innings,Australia,South Africa,1.6,DA Warner,SE Marsh,M Ntini,0,0,0,NA,0,NA,NA,NA,0
+351687,1st innings,Australia,South Africa,1.7,DA Warner,SE Marsh,M Ntini,0,0,0,NA,1,caught,DA Warner,M Morkel,0
+351687,1st innings,Australia,South Africa,1.8,RT Ponting,SE Marsh,M Ntini,0,0,0,NA,0,NA,NA,NA,0
+351687,1st innings,Australia,South Africa,2.1,SE Marsh,RT Ponting,DW Steyn,4,0,4,NA,0,NA,NA,NA,0
+351687,1st innings,Australia,South Africa,2.2,SE Marsh,RT Ponting,DW Steyn,4,0,4,NA,0,NA,NA,NA,0
+351687,1st innings,Australia,South Africa,2.3,SE Marsh,RT Ponting,DW Steyn,0,0,0,NA,0,NA,NA,NA,0
+351687,1st innings,Australia,South Africa,2.4,SE Marsh,RT Ponting,DW Steyn,0,0,0,NA,0,NA,NA,NA,0
+351687,1st innings,Australia,South Africa,2.5,SE Marsh,RT Ponting,DW Steyn,0,0,0,NA,1,caught,SE Marsh,M Morkel,0
+351687,1st innings,Australia,South Africa,2.6,RT Ponting,MEK Hussey,DW Steyn,0,0,0,NA,0,NA,NA,NA,0
+351687,1st innings,Australia,South Africa,3.1,MEK Hussey,RT Ponting,M Ntini,1,0,1,NA,0,NA,NA,NA,0
+351687,1st innings,Australia,South Africa,3.2,RT Ponting,MEK Hussey,M Ntini,4,0,4,NA,0,NA,NA,NA,0
+351687,1st innings,Australia,South Africa,3.3,RT Ponting,MEK Hussey,M Ntini,4,0,4,NA,0,NA,NA,NA,0
+351687,1st innings,Australia,South Africa,3.4,RT Ponting,MEK Hussey,M Ntini,0,0,0,NA,0,NA,NA,NA,0
+351687,1st innings,Australia,South Africa,3.5,RT Ponting,MEK Hussey,M Ntini,0,0,0,NA,0,NA,NA,NA,0
+351687,1st innings,Australia,South Africa,3.6,RT Ponting,MEK Hussey,M Ntini,2,0,2,NA,0,NA,NA,NA,0
+351687,1st innings,Australia,South Africa,4.1,MEK Hussey,RT Ponting,DW Steyn,0,0,0,NA,0,NA,NA,NA,0
+351687,1st innings,Australia,South Africa,4.2,MEK Hussey,RT Ponting,DW Steyn,0,0,0,NA,0,NA,NA,NA,0
+351687,1st innings,Australia,South Africa,4.3,MEK Hussey,RT Ponting,DW Steyn,0,0,0,NA,0,NA,NA,NA,0
+351687,1st innings,Australia,South Africa,4.4,MEK Hussey,RT Ponting,DW Steyn,0,0,0,NA,0,NA,NA,NA,0
+351687,1st innings,Australia,South Africa,4.5,MEK Hussey,RT Ponting,DW Steyn,0,0,0,NA,0,NA,NA,NA,0
+351687,1st innings,Australia,South Africa,4.6,MEK Hussey,RT Ponting,DW Steyn,4,0,4,NA,0,NA,NA,NA,0
+351687,1st innings,Australia,South Africa,5.1,RT Ponting,MEK Hussey,M Ntini,0,0,0,NA,0,NA,NA,NA,0
+351687,1st innings,Australia,South Africa,5.2,RT Ponting,MEK Hussey,M Ntini,0,1,1,wides,0,NA,NA,NA,0
+351687,1st innings,Australia,South Africa,5.3,RT Ponting,MEK Hussey,M Ntini,0,0,0,NA,0,NA,NA,NA,0
+351687,1st innings,Australia,South Africa,5.4,RT Ponting,MEK Hussey,M Ntini,0,0,0,NA,0,NA,NA,NA,0
+351687,1st innings,Australia,South Africa,5.5,RT Ponting,MEK Hussey,M Ntini,0,0,0,NA,0,NA,NA,NA,0
+351687,1st innings,Australia,South Africa,5.6,RT Ponting,MEK Hussey,M Ntini,0,0,0,NA,0,NA,NA,NA,0
+351687,1st innings,Australia,South Africa,5.7,RT Ponting,MEK Hussey,M Ntini,1,0,1,NA,0,NA,NA,NA,0
+351687,1st innings,Australia,South Africa,6.1,RT Ponting,MEK Hussey,DW Steyn,2,0,2,NA,0,NA,NA,NA,0
+351687,1st innings,Australia,South Africa,6.2,RT Ponting,MEK Hussey,DW Steyn,0,0,0,NA,0,NA,NA,NA,0
+351687,1st innings,Australia,South Africa,6.3,RT Ponting,MEK Hussey,DW Steyn,0,0,0,NA,0,NA,NA,NA,0
+351687,1st innings,Australia,South Africa,6.4,RT Ponting,MEK Hussey,DW Steyn,0,0,0,NA,0,NA,NA,NA,0
+351687,1st innings,Australia,South Africa,6.5,RT Ponting,MEK Hussey,DW Steyn,0,0,0,NA,0,NA,NA,NA,0
+351687,1st innings,Australia,South Africa,6.6,RT Ponting,MEK Hussey,DW Steyn,1,0,1,NA,0,NA,NA,NA,0
+351687,1st innings,Australia,South Africa,7.1,RT Ponting,MEK Hussey,M Ntini,2,0,2,NA,0,NA,NA,NA,0
+351687,1st innings,Australia,South Africa,7.2,RT Ponting,MEK Hussey,M Ntini,0,0,0,NA,0,NA,NA,NA,0
+351687,1st innings,Australia,South Africa,7.3,RT Ponting,MEK Hussey,M Ntini,0,0,0,NA,0,NA,NA,NA,0
+351687,1st innings,Australia,South Africa,7.4,RT Ponting,MEK Hussey,M Ntini,4,0,4,NA,0,NA,NA,NA,0
+351687,1st innings,Australia,South Africa,7.5,RT Ponting,MEK Hussey,M Ntini,4,0,4,NA,0,NA,NA,NA,0
+351687,1st innings,Australia,South Africa,7.6,RT Ponting,MEK Hussey,M Ntini,4,0,4,NA,0,NA,NA,NA,0
+351687,1st innings,Australia,South Africa,8.1,MEK Hussey,RT Ponting,DW Steyn,0,0,0,NA,0,NA,NA,NA,0
+351687,1st innings,Australia,South Africa,8.2,MEK Hussey,RT Ponting,DW Steyn,2,0,2,NA,0,NA,NA,NA,0
+351687,1st innings,Australia,South Africa,8.3,MEK Hussey,RT Ponting,DW Steyn,0,0,0,NA,0,NA,NA,NA,0
+351687,1st innings,Australia,South Africa,8.4,MEK Hussey,RT Ponting,DW Steyn,0,0,0,NA,0,NA,NA,NA,0
+351687,1st innings,Australia,South Africa,8.5,MEK Hussey,RT Ponting,DW Steyn,0,0,0,NA,0,NA,NA,NA,0
+351687,1st innings,Australia,South Africa,8.6,MEK Hussey,RT Ponting,DW Steyn,0,0,0,NA,0,NA,NA,NA,0
+351687,1st innings,Australia,South Africa,9.1,RT Ponting,MEK Hussey,JA Morkel,4,0,4,NA,0,NA,NA,NA,0
+351687,1st innings,Australia,South Africa,9.2,RT Ponting,MEK Hussey,JA Morkel,0,0,0,NA,0,NA,NA,NA,0
+351687,1st innings,Australia,South Africa,9.3,RT Ponting,MEK Hussey,JA Morkel,0,0,0,NA,0,NA,NA,NA,0
+351687,1st innings,Australia,South Africa,9.4,RT Ponting,MEK Hussey,JA Morkel,4,0,4,NA,0,NA,NA,NA,0
+351687,1st innings,Australia,South Africa,9.5,RT Ponting,MEK Hussey,JA Morkel,1,0,1,NA,0,NA,NA,NA,0
+351687,1st innings,Australia,South Africa,9.6,MEK Hussey,RT Ponting,JA Morkel,4,0,4,NA,0,NA,NA,NA,0
+351687,1st innings,Australia,South Africa,10.1,RT Ponting,MEK Hussey,M Morkel,0,0,0,NA,0,NA,NA,NA,0
+351687,1st innings,Australia,South Africa,10.2,RT Ponting,MEK Hussey,M Morkel,1,0,1,NA,0,NA,NA,NA,0
+351687,1st innings,Australia,South Africa,10.3,MEK Hussey,RT Ponting,M Morkel,0,0,0,NA,0,NA,NA,NA,0
+351687,1st innings,Australia,South Africa,10.4,MEK Hussey,RT Ponting,M Morkel,0,1,1,noballs,0,NA,NA,NA,0
+351687,1st innings,Australia,South Africa,10.5,MEK Hussey,RT Ponting,M Morkel,1,0,1,NA,0,NA,NA,NA,0
+351687,1st innings,Australia,South Africa,10.6,RT Ponting,MEK Hussey,M Morkel,0,0,0,NA,0,NA,NA,NA,0
+351687,1st innings,Australia,South Africa,10.7,RT Ponting,MEK Hussey,M Morkel,0,0,0,NA,0,NA,NA,NA,0
+351687,1st innings,Australia,South Africa,11.1,MEK Hussey,RT Ponting,JA Morkel,0,0,0,NA,0,NA,NA,NA,0
+351687,1st innings,Australia,South Africa,11.2,MEK Hussey,RT Ponting,JA Morkel,0,1,1,legbyes,0,NA,NA,NA,0
+351687,1st innings,Australia,South Africa,11.3,RT Ponting,MEK Hussey,JA Morkel,0,0,0,NA,0,NA,NA,NA,0
+351687,1st innings,Australia,South Africa,11.4,RT Ponting,MEK Hussey,JA Morkel,0,0,0,NA,0,NA,NA,NA,0
+351687,1st innings,Australia,South Africa,11.5,RT Ponting,MEK Hussey,JA Morkel,1,0,1,NA,0,NA,NA,NA,0
+351687,1st innings,Australia,South Africa,11.6,MEK Hussey,RT Ponting,JA Morkel,0,0,0,NA,0,NA,NA,NA,0
+351687,1st innings,Australia,South Africa,12.1,RT Ponting,MEK Hussey,M Morkel,0,0,0,NA,0,NA,NA,NA,0
+351687,1st innings,Australia,South Africa,12.2,RT Ponting,MEK Hussey,M Morkel,0,0,0,NA,0,NA,NA,NA,0
+351687,1st innings,Australia,South Africa,12.3,RT Ponting,MEK Hussey,M Morkel,1,0,1,NA,0,NA,NA,NA,0
+351687,1st innings,Australia,South Africa,12.4,MEK Hussey,RT Ponting,M Morkel,1,0,1,NA,0,NA,NA,NA,0
+351687,1st innings,Australia,South Africa,12.5,RT Ponting,MEK Hussey,M Morkel,4,0,4,NA,0,NA,NA,NA,0
+351687,1st innings,Australia,South Africa,12.6,RT Ponting,MEK Hussey,M Morkel,0,0,0,NA,0,NA,NA,NA,0
+351687,1st innings,Australia,South Africa,13.1,MEK Hussey,RT Ponting,JA Morkel,1,0,1,NA,0,NA,NA,NA,0
+351687,1st innings,Australia,South Africa,13.2,RT Ponting,MEK Hussey,JA Morkel,1,0,1,NA,0,NA,NA,NA,0
+351687,1st innings,Australia,South Africa,13.3,MEK Hussey,RT Ponting,JA Morkel,0,0,0,NA,0,NA,NA,NA,0
+351687,1st innings,Australia,South Africa,13.4,MEK Hussey,RT Ponting,JA Morkel,1,0,1,NA,0,NA,NA,NA,0
+351687,1st innings,Australia,South Africa,13.5,RT Ponting,MEK Hussey,JA Morkel,0,0,0,NA,0,NA,NA,NA,0
+351687,1st innings,Australia,South Africa,13.6,RT Ponting,MEK Hussey,JA Morkel,4,0,4,NA,0,NA,NA,NA,0
+351687,1st innings,Australia,South Africa,14.1,MEK Hussey,RT Ponting,M Morkel,1,0,1,NA,0,NA,NA,NA,0
+351687,1st innings,Australia,South Africa,14.2,RT Ponting,MEK Hussey,M Morkel,1,0,1,NA,0,NA,NA,NA,0
+351687,1st innings,Australia,South Africa,14.3,MEK Hussey,RT Ponting,M Morkel,0,0,0,NA,0,NA,NA,NA,0
+351687,1st innings,Australia,South Africa,14.4,MEK Hussey,RT Ponting,M Morkel,0,0,0,NA,0,NA,NA,NA,0
+351687,1st innings,Australia,South Africa,14.5,MEK Hussey,RT Ponting,M Morkel,0,0,0,NA,0,NA,NA,NA,0
+351687,1st innings,Australia,South Africa,14.6,MEK Hussey,RT Ponting,M Morkel,0,1,1,noballs,0,NA,NA,NA,0
+351687,1st innings,Australia,South Africa,14.7,MEK Hussey,RT Ponting,M Morkel,6,0,6,NA,0,NA,NA,NA,0
+351687,1st innings,Australia,South Africa,15.1,RT Ponting,MEK Hussey,J Botha,0,0,0,NA,0,NA,NA,NA,0
+351687,1st innings,Australia,South Africa,15.2,RT Ponting,MEK Hussey,J Botha,2,0,2,NA,0,NA,NA,NA,0
+351687,1st innings,Australia,South Africa,15.3,RT Ponting,MEK Hussey,J Botha,0,0,0,NA,0,NA,NA,NA,0
+351687,1st innings,Australia,South Africa,15.4,RT Ponting,MEK Hussey,J Botha,0,0,0,NA,0,NA,NA,NA,0
+351687,1st innings,Australia,South Africa,15.5,RT Ponting,MEK Hussey,J Botha,1,0,1,NA,0,NA,NA,NA,0
+351687,1st innings,Australia,South Africa,15.6,MEK Hussey,RT Ponting,J Botha,0,0,0,NA,0,NA,NA,NA,0
+351687,1st innings,Australia,South Africa,16.1,RT Ponting,MEK Hussey,M Morkel,2,0,2,NA,0,NA,NA,NA,0
+351687,1st innings,Australia,South Africa,16.2,RT Ponting,MEK Hussey,M Morkel,0,0,0,NA,0,NA,NA,NA,0
+351687,1st innings,Australia,South Africa,16.3,RT Ponting,MEK Hussey,M Morkel,0,0,0,NA,0,NA,NA,NA,0
+351687,1st innings,Australia,South Africa,16.4,RT Ponting,MEK Hussey,M Morkel,0,0,0,NA,0,NA,NA,NA,0
+351687,1st innings,Australia,South Africa,16.5,RT Ponting,MEK Hussey,M Morkel,1,0,1,NA,0,NA,NA,NA,0
+351687,1st innings,Australia,South Africa,16.6,MEK Hussey,RT Ponting,M Morkel,0,0,0,NA,0,NA,NA,NA,0
+351687,1st innings,Australia,South Africa,17.1,RT Ponting,MEK Hussey,J Botha,0,0,0,NA,0,NA,NA,NA,0
+351687,1st innings,Australia,South Africa,17.2,RT Ponting,MEK Hussey,J Botha,1,0,1,NA,0,NA,NA,NA,0
+351687,1st innings,Australia,South Africa,17.3,MEK Hussey,RT Ponting,J Botha,1,0,1,NA,0,NA,NA,NA,0
+351687,1st innings,Australia,South Africa,17.4,RT Ponting,MEK Hussey,J Botha,1,0,1,NA,0,NA,NA,NA,0
+351687,1st innings,Australia,South Africa,17.5,MEK Hussey,RT Ponting,J Botha,1,0,1,NA,0,NA,NA,NA,0
+351687,1st innings,Australia,South Africa,17.6,RT Ponting,MEK Hussey,J Botha,0,0,0,NA,0,NA,NA,NA,0
+351687,1st innings,Australia,South Africa,18.1,MEK Hussey,RT Ponting,M Morkel,3,0,3,NA,0,NA,NA,NA,0
+351687,1st innings,Australia,South Africa,18.2,RT Ponting,MEK Hussey,M Morkel,1,0,1,NA,0,NA,NA,NA,0
+351687,1st innings,Australia,South Africa,18.3,MEK Hussey,RT Ponting,M Morkel,1,0,1,NA,0,NA,NA,NA,0
+351687,1st innings,Australia,South Africa,18.4,RT Ponting,MEK Hussey,M Morkel,0,0,0,NA,0,NA,NA,NA,0
+351687,1st innings,Australia,South Africa,18.5,RT Ponting,MEK Hussey,M Morkel,0,0,0,NA,0,NA,NA,NA,0
+351687,1st innings,Australia,South Africa,18.6,RT Ponting,MEK Hussey,M Morkel,1,0,1,NA,0,NA,NA,NA,0
+351687,1st innings,Australia,South Africa,19.1,RT Ponting,MEK Hussey,J Botha,1,0,1,NA,0,NA,NA,NA,0
+351687,1st innings,Australia,South Africa,19.2,MEK Hussey,RT Ponting,J Botha,0,0,0,NA,1,lbw,MEK Hussey,NA,0
+351687,1st innings,Australia,South Africa,19.3,DJ Hussey,RT Ponting,J Botha,1,0,1,NA,0,NA,NA,NA,0
+351687,1st innings,Australia,South Africa,19.4,RT Ponting,DJ Hussey,J Botha,0,0,0,NA,0,NA,NA,NA,0
+351687,1st innings,Australia,South Africa,19.5,RT Ponting,DJ Hussey,J Botha,1,0,1,NA,0,NA,NA,NA,0
+351687,1st innings,Australia,South Africa,19.6,DJ Hussey,RT Ponting,J Botha,0,0,0,NA,0,NA,NA,NA,0
+351687,1st innings,Australia,South Africa,20.1,RT Ponting,DJ Hussey,M Ntini,0,0,0,NA,0,NA,NA,NA,0
+351687,1st innings,Australia,South Africa,20.2,RT Ponting,DJ Hussey,M Ntini,1,0,1,NA,0,NA,NA,NA,0
+351687,1st innings,Australia,South Africa,20.3,DJ Hussey,RT Ponting,M Ntini,0,0,0,NA,0,NA,NA,NA,0
+351687,1st innings,Australia,South Africa,20.4,DJ Hussey,RT Ponting,M Ntini,1,0,1,NA,0,NA,NA,NA,0
+351687,1st innings,Australia,South Africa,20.5,RT Ponting,DJ Hussey,M Ntini,0,0,0,NA,1,caught,RT Ponting,ND McKenzie,0
+351687,1st innings,Australia,South Africa,20.6,BJ Haddin,DJ Hussey,M Ntini,1,0,1,NA,0,NA,NA,NA,0
+351687,1st innings,Australia,South Africa,21.1,BJ Haddin,DJ Hussey,J Botha,0,0,0,NA,0,NA,NA,NA,0
+351687,1st innings,Australia,South Africa,21.2,BJ Haddin,DJ Hussey,J Botha,0,0,0,NA,0,NA,NA,NA,0
+351687,1st innings,Australia,South Africa,21.3,BJ Haddin,DJ Hussey,J Botha,0,0,0,NA,0,NA,NA,NA,0
+351687,1st innings,Australia,South Africa,21.4,BJ Haddin,DJ Hussey,J Botha,1,0,1,NA,0,NA,NA,NA,0
+351687,1st innings,Australia,South Africa,21.5,DJ Hussey,BJ Haddin,J Botha,1,0,1,NA,0,NA,NA,NA,0
+351687,1st innings,Australia,South Africa,21.6,BJ Haddin,DJ Hussey,J Botha,0,0,0,NA,0,NA,NA,NA,0
+351687,1st innings,Australia,South Africa,22.1,DJ Hussey,BJ Haddin,M Ntini,4,0,4,NA,0,NA,NA,NA,0
+351687,1st innings,Australia,South Africa,22.2,DJ Hussey,BJ Haddin,M Ntini,4,0,4,NA,0,NA,NA,NA,0
+351687,1st innings,Australia,South Africa,22.3,DJ Hussey,BJ Haddin,M Ntini,0,0,0,NA,0,NA,NA,NA,0
+351687,1st innings,Australia,South Africa,22.4,DJ Hussey,BJ Haddin,M Ntini,0,0,0,NA,0,NA,NA,NA,0
+351687,1st innings,Australia,South Africa,22.5,DJ Hussey,BJ Haddin,M Ntini,0,1,1,wides,0,NA,NA,NA,0
+351687,1st innings,Australia,South Africa,22.6,DJ Hussey,BJ Haddin,M Ntini,0,0,0,NA,0,NA,NA,NA,0
+351687,1st innings,Australia,South Africa,22.7,DJ Hussey,BJ Haddin,M Ntini,0,0,0,NA,0,NA,NA,NA,0
+351687,1st innings,Australia,South Africa,23.1,BJ Haddin,DJ Hussey,J Botha,0,0,0,NA,0,NA,NA,NA,0
+351687,1st innings,Australia,South Africa,23.2,BJ Haddin,DJ Hussey,J Botha,0,0,0,NA,0,NA,NA,NA,0
+351687,1st innings,Australia,South Africa,23.3,BJ Haddin,DJ Hussey,J Botha,1,0,1,NA,0,NA,NA,NA,0
+351687,1st innings,Australia,South Africa,23.4,DJ Hussey,BJ Haddin,J Botha,1,0,1,NA,0,NA,NA,NA,0
+351687,1st innings,Australia,South Africa,23.5,BJ Haddin,DJ Hussey,J Botha,0,0,0,NA,1,caught,BJ Haddin,JH Kallis,0
+351687,1st innings,Australia,South Africa,23.6,DJ Hussey,CL White,J Botha,0,0,0,NA,0,NA,NA,NA,0
+351687,1st innings,Australia,South Africa,24.1,CL White,DJ Hussey,M Ntini,0,0,0,NA,0,NA,NA,NA,0
+351687,1st innings,Australia,South Africa,24.2,CL White,DJ Hussey,M Ntini,0,0,0,NA,0,NA,NA,NA,0
+351687,1st innings,Australia,South Africa,24.3,CL White,DJ Hussey,M Ntini,2,0,2,NA,0,NA,NA,NA,0
+351687,1st innings,Australia,South Africa,24.4,CL White,DJ Hussey,M Ntini,0,0,0,NA,0,NA,NA,NA,0
+351687,1st innings,Australia,South Africa,24.5,CL White,DJ Hussey,M Ntini,0,0,0,NA,0,NA,NA,NA,0
+351687,1st innings,Australia,South Africa,24.6,CL White,DJ Hussey,M Ntini,0,0,0,NA,0,NA,NA,NA,0
+351687,1st innings,Australia,South Africa,25.1,DJ Hussey,CL White,J Botha,0,0,0,NA,0,NA,NA,NA,0
+351687,1st innings,Australia,South Africa,25.2,DJ Hussey,CL White,J Botha,1,0,1,NA,0,NA,NA,NA,0
+351687,1st innings,Australia,South Africa,25.3,CL White,DJ Hussey,J Botha,0,0,0,NA,0,NA,NA,NA,0
+351687,1st innings,Australia,South Africa,25.4,CL White,DJ Hussey,J Botha,1,0,1,NA,0,NA,NA,NA,0
+351687,1st innings,Australia,South Africa,25.5,DJ Hussey,CL White,J Botha,0,0,0,NA,0,NA,NA,NA,0
+351687,1st innings,Australia,South Africa,25.6,DJ Hussey,CL White,J Botha,1,0,1,NA,0,NA,NA,NA,0
+351687,1st innings,Australia,South Africa,26.1,DJ Hussey,CL White,JA Morkel,1,0,1,NA,0,NA,NA,NA,0
+351687,1st innings,Australia,South Africa,26.2,CL White,DJ Hussey,JA Morkel,0,0,0,NA,0,NA,NA,NA,0
+351687,1st innings,Australia,South Africa,26.3,CL White,DJ Hussey,JA Morkel,0,0,0,NA,0,NA,NA,NA,0
+351687,1st innings,Australia,South Africa,26.4,CL White,DJ Hussey,JA Morkel,0,0,0,NA,0,NA,NA,NA,0
+351687,1st innings,Australia,South Africa,26.5,CL White,DJ Hussey,JA Morkel,1,0,1,NA,0,NA,NA,NA,0
+351687,1st innings,Australia,South Africa,26.6,DJ Hussey,CL White,JA Morkel,1,0,1,NA,0,NA,NA,NA,0
+351687,1st innings,Australia,South Africa,27.1,DJ Hussey,CL White,J Botha,0,0,0,NA,0,NA,NA,NA,0
+351687,1st innings,Australia,South Africa,27.2,DJ Hussey,CL White,J Botha,1,0,1,NA,0,NA,NA,NA,0
+351687,1st innings,Australia,South Africa,27.3,CL White,DJ Hussey,J Botha,0,0,0,NA,0,NA,NA,NA,0
+351687,1st innings,Australia,South Africa,27.4,CL White,DJ Hussey,J Botha,1,0,1,NA,0,NA,NA,NA,0
+351687,1st innings,Australia,South Africa,27.5,DJ Hussey,CL White,J Botha,0,0,0,NA,0,NA,NA,NA,0
+351687,1st innings,Australia,South Africa,27.6,DJ Hussey,CL White,J Botha,0,0,0,NA,0,NA,NA,NA,0
+351687,1st innings,Australia,South Africa,28.1,CL White,DJ Hussey,JA Morkel,0,0,0,NA,0,NA,NA,NA,0
+351687,1st innings,Australia,South Africa,28.2,CL White,DJ Hussey,JA Morkel,4,0,4,NA,0,NA,NA,NA,0
+351687,1st innings,Australia,South Africa,28.3,CL White,DJ Hussey,JA Morkel,0,0,0,NA,0,NA,NA,NA,0
+351687,1st innings,Australia,South Africa,28.4,CL White,DJ Hussey,JA Morkel,0,0,0,NA,0,NA,NA,NA,0
+351687,1st innings,Australia,South Africa,28.5,CL White,DJ Hussey,JA Morkel,1,0,1,NA,0,NA,NA,NA,0
+351687,1st innings,Australia,South Africa,28.6,DJ Hussey,CL White,JA Morkel,1,0,1,NA,0,NA,NA,NA,0
+351687,1st innings,Australia,South Africa,29.1,DJ Hussey,CL White,J Botha,1,0,1,NA,0,NA,NA,NA,0
+351687,1st innings,Australia,South Africa,29.2,CL White,DJ Hussey,J Botha,0,0,0,NA,0,NA,NA,NA,0
+351687,1st innings,Australia,South Africa,29.3,CL White,DJ Hussey,J Botha,0,0,0,NA,0,NA,NA,NA,0
+351687,1st innings,Australia,South Africa,29.4,CL White,DJ Hussey,J Botha,0,0,0,NA,0,NA,NA,NA,0
+351687,1st innings,Australia,South Africa,29.5,CL White,DJ Hussey,J Botha,1,0,1,NA,0,NA,NA,NA,0
+351687,1st innings,Australia,South Africa,29.6,DJ Hussey,CL White,J Botha,1,0,1,NA,0,NA,NA,NA,0
+351687,1st innings,Australia,South Africa,30.1,DJ Hussey,CL White,JA Morkel,4,0,4,NA,0,NA,NA,NA,0
+351687,1st innings,Australia,South Africa,30.2,DJ Hussey,CL White,JA Morkel,0,0,0,NA,0,NA,NA,NA,0
+351687,1st innings,Australia,South Africa,30.3,DJ Hussey,CL White,JA Morkel,0,0,0,NA,1,caught,DJ Hussey,HH Gibbs,0
+351687,1st innings,Australia,South Africa,30.4,JR Hopes,CL White,JA Morkel,1,0,1,NA,0,NA,NA,NA,0
+351687,1st innings,Australia,South Africa,30.5,CL White,JR Hopes,JA Morkel,0,0,0,NA,0,NA,NA,NA,0
+351687,1st innings,Australia,South Africa,30.6,CL White,JR Hopes,JA Morkel,0,0,0,NA,0,NA,NA,NA,0
+351687,1st innings,Australia,South Africa,31.1,JR Hopes,CL White,J Botha,0,0,0,NA,0,NA,NA,NA,0
+351687,1st innings,Australia,South Africa,31.2,JR Hopes,CL White,J Botha,0,0,0,NA,0,NA,NA,NA,0
+351687,1st innings,Australia,South Africa,31.3,JR Hopes,CL White,J Botha,1,0,1,NA,0,NA,NA,NA,0
+351687,1st innings,Australia,South Africa,31.4,CL White,JR Hopes,J Botha,1,0,1,NA,0,NA,NA,NA,0
+351687,1st innings,Australia,South Africa,31.5,JR Hopes,CL White,J Botha,0,0,0,NA,0,NA,NA,NA,0
+351687,1st innings,Australia,South Africa,31.6,JR Hopes,CL White,J Botha,0,0,0,NA,0,NA,NA,NA,0
+351687,1st innings,Australia,South Africa,32.1,CL White,JR Hopes,JP Duminy,0,0,0,NA,0,NA,NA,NA,0
+351687,1st innings,Australia,South Africa,32.2,CL White,JR Hopes,JP Duminy,1,0,1,NA,0,NA,NA,NA,0
+351687,1st innings,Australia,South Africa,32.3,JR Hopes,CL White,JP Duminy,3,0,3,NA,0,NA,NA,NA,0
+351687,1st innings,Australia,South Africa,32.4,CL White,JR Hopes,JP Duminy,0,0,0,NA,0,NA,NA,NA,0
+351687,1st innings,Australia,South Africa,32.5,CL White,JR Hopes,JP Duminy,0,0,0,NA,0,NA,NA,NA,0
+351687,1st innings,Australia,South Africa,32.6,CL White,JR Hopes,JP Duminy,0,0,0,NA,0,NA,NA,NA,0
+351687,1st innings,Australia,South Africa,33.1,JR Hopes,CL White,J Botha,1,0,1,NA,0,NA,NA,NA,0
+351687,1st innings,Australia,South Africa,33.2,CL White,JR Hopes,J Botha,0,0,0,NA,0,NA,NA,NA,0
+351687,1st innings,Australia,South Africa,33.3,CL White,JR Hopes,J Botha,2,0,2,NA,0,NA,NA,NA,0
+351687,1st innings,Australia,South Africa,33.4,CL White,JR Hopes,J Botha,0,0,0,NA,0,NA,NA,NA,0
+351687,1st innings,Australia,South Africa,33.5,CL White,JR Hopes,J Botha,1,0,1,NA,0,NA,NA,NA,0
+351687,1st innings,Australia,South Africa,33.6,JR Hopes,CL White,J Botha,0,0,0,NA,0,NA,NA,NA,0
+351687,1st innings,Australia,South Africa,34.1,CL White,JR Hopes,JP Duminy,0,0,0,NA,0,NA,NA,NA,0
+351687,1st innings,Australia,South Africa,34.2,CL White,JR Hopes,JP Duminy,0,0,0,NA,0,NA,NA,NA,0
+351687,1st innings,Australia,South Africa,34.3,CL White,JR Hopes,JP Duminy,1,0,1,NA,0,NA,NA,NA,0
+351687,1st innings,Australia,South Africa,34.4,JR Hopes,CL White,JP Duminy,1,0,1,NA,0,NA,NA,NA,0
+351687,1st innings,Australia,South Africa,34.5,CL White,JR Hopes,JP Duminy,0,0,0,NA,0,NA,NA,NA,0
+351687,1st innings,Australia,South Africa,34.6,CL White,JR Hopes,JP Duminy,0,0,0,NA,0,NA,NA,NA,0
+351687,1st innings,Australia,South Africa,35.1,JR Hopes,CL White,M Morkel,1,0,1,NA,0,NA,NA,NA,0
+351687,1st innings,Australia,South Africa,35.2,CL White,JR Hopes,M Morkel,1,0,1,NA,0,NA,NA,NA,0
+351687,1st innings,Australia,South Africa,35.3,JR Hopes,CL White,M Morkel,1,0,1,NA,0,NA,NA,NA,0
+351687,1st innings,Australia,South Africa,35.4,CL White,JR Hopes,M Morkel,0,0,0,NA,0,NA,NA,NA,0
+351687,1st innings,Australia,South Africa,35.5,CL White,JR Hopes,M Morkel,0,0,0,NA,0,NA,NA,NA,0
+351687,1st innings,Australia,South Africa,35.6,CL White,JR Hopes,M Morkel,0,0,0,NA,0,NA,NA,NA,0
+351687,1st innings,Australia,South Africa,36.1,JR Hopes,CL White,JP Duminy,0,0,0,NA,0,NA,NA,NA,0
+351687,1st innings,Australia,South Africa,36.2,JR Hopes,CL White,JP Duminy,1,0,1,NA,0,NA,NA,NA,0
+351687,1st innings,Australia,South Africa,36.3,CL White,JR Hopes,JP Duminy,1,0,1,NA,0,NA,NA,NA,0
+351687,1st innings,Australia,South Africa,36.4,JR Hopes,CL White,JP Duminy,0,0,0,NA,0,NA,NA,NA,0
+351687,1st innings,Australia,South Africa,36.5,JR Hopes,CL White,JP Duminy,1,0,1,NA,0,NA,NA,NA,0
+351687,1st innings,Australia,South Africa,36.6,CL White,JR Hopes,JP Duminy,6,0,6,NA,0,NA,NA,NA,0
+351687,1st innings,Australia,South Africa,37.1,JR Hopes,CL White,M Morkel,0,0,0,NA,0,NA,NA,NA,0
+351687,1st innings,Australia,South Africa,37.2,JR Hopes,CL White,M Morkel,1,0,1,NA,0,NA,NA,NA,0
+351687,1st innings,Australia,South Africa,37.3,CL White,JR Hopes,M Morkel,1,0,1,NA,0,NA,NA,NA,0
+351687,1st innings,Australia,South Africa,37.4,JR Hopes,CL White,M Morkel,0,0,0,NA,0,NA,NA,NA,0
+351687,1st innings,Australia,South Africa,37.5,JR Hopes,CL White,M Morkel,0,0,0,NA,0,NA,NA,NA,0
+351687,1st innings,Australia,South Africa,37.6,JR Hopes,CL White,M Morkel,0,0,0,NA,0,NA,NA,NA,0
+351687,1st innings,Australia,South Africa,38.1,CL White,JR Hopes,DW Steyn,0,0,0,NA,0,NA,NA,NA,0
+351687,1st innings,Australia,South Africa,38.2,CL White,JR Hopes,DW Steyn,0,0,0,NA,0,NA,NA,NA,0
+351687,1st innings,Australia,South Africa,38.3,CL White,JR Hopes,DW Steyn,1,0,1,NA,0,NA,NA,NA,0
+351687,1st innings,Australia,South Africa,38.4,JR Hopes,CL White,DW Steyn,2,0,2,NA,0,NA,NA,NA,0
+351687,1st innings,Australia,South Africa,38.5,JR Hopes,CL White,DW Steyn,0,0,0,NA,0,NA,NA,NA,0
+351687,1st innings,Australia,South Africa,38.6,JR Hopes,CL White,DW Steyn,1,0,1,NA,0,NA,NA,NA,0
+351687,1st innings,Australia,South Africa,39.1,JR Hopes,CL White,M Morkel,1,0,1,NA,0,NA,NA,NA,0
+351687,1st innings,Australia,South Africa,39.2,CL White,JR Hopes,M Morkel,1,0,1,NA,0,NA,NA,NA,0
+351687,1st innings,Australia,South Africa,39.3,JR Hopes,CL White,M Morkel,1,0,1,NA,0,NA,NA,NA,0
+351687,1st innings,Australia,South Africa,39.4,CL White,JR Hopes,M Morkel,1,0,1,NA,0,NA,NA,NA,0
+351687,1st innings,Australia,South Africa,39.5,JR Hopes,CL White,M Morkel,1,0,1,NA,0,NA,NA,NA,0
+351687,1st innings,Australia,South Africa,39.6,CL White,JR Hopes,M Morkel,1,0,1,NA,0,NA,NA,NA,0
+351687,1st innings,Australia,South Africa,40.1,CL White,JR Hopes,DW Steyn,0,0,0,NA,1,caught,CL White,AB de Villiers,0
+351687,1st innings,Australia,South Africa,40.2,MG Johnson,JR Hopes,DW Steyn,0,0,0,NA,0,NA,NA,NA,0
+351687,1st innings,Australia,South Africa,40.3,MG Johnson,JR Hopes,DW Steyn,0,0,0,NA,0,NA,NA,NA,0
+351687,1st innings,Australia,South Africa,40.4,MG Johnson,JR Hopes,DW Steyn,0,0,0,NA,0,NA,NA,NA,0
+351687,1st innings,Australia,South Africa,40.5,MG Johnson,JR Hopes,DW Steyn,0,0,0,NA,0,NA,NA,NA,0
+351687,1st innings,Australia,South Africa,40.6,MG Johnson,JR Hopes,DW Steyn,0,1,1,legbyes,0,NA,NA,NA,0
+351687,1st innings,Australia,South Africa,41.1,MG Johnson,JR Hopes,M Ntini,0,0,0,NA,0,NA,NA,NA,0
+351687,1st innings,Australia,South Africa,41.2,MG Johnson,JR Hopes,M Ntini,0,0,0,NA,1,caught,MG Johnson,M Morkel,0
+351687,1st innings,Australia,South Africa,41.3,BW Hilfenhaus,JR Hopes,M Ntini,0,0,0,NA,0,NA,NA,NA,0
+351687,1st innings,Australia,South Africa,41.4,BW Hilfenhaus,JR Hopes,M Ntini,0,0,0,NA,0,NA,NA,NA,0
+351687,1st innings,Australia,South Africa,41.5,BW Hilfenhaus,JR Hopes,M Ntini,0,0,0,NA,0,NA,NA,NA,0
+351687,1st innings,Australia,South Africa,41.6,BW Hilfenhaus,JR Hopes,M Ntini,0,0,0,NA,0,NA,NA,NA,0
+351687,1st innings,Australia,South Africa,42.1,JR Hopes,BW Hilfenhaus,DW Steyn,2,0,2,NA,0,NA,NA,NA,0
+351687,1st innings,Australia,South Africa,42.2,JR Hopes,BW Hilfenhaus,DW Steyn,1,0,1,NA,0,NA,NA,NA,0
+351687,1st innings,Australia,South Africa,42.3,JR Hopes,BW Hilfenhaus,DW Steyn,2,0,2,NA,0,NA,NA,NA,0
+351687,1st innings,Australia,South Africa,42.4,JR Hopes,BW Hilfenhaus,DW Steyn,0,0,0,NA,0,NA,NA,NA,0
+351687,1st innings,Australia,South Africa,42.5,JR Hopes,BW Hilfenhaus,DW Steyn,0,0,0,NA,0,NA,NA,NA,0
+351687,1st innings,Australia,South Africa,42.6,JR Hopes,BW Hilfenhaus,DW Steyn,0,0,0,NA,0,NA,NA,NA,0
+351687,1st innings,Australia,South Africa,43.1,BW Hilfenhaus,JR Hopes,M Ntini,0,0,0,NA,0,NA,NA,NA,0
+351687,1st innings,Australia,South Africa,43.2,BW Hilfenhaus,JR Hopes,M Ntini,0,0,0,NA,0,NA,NA,NA,0
+351687,1st innings,Australia,South Africa,43.3,BW Hilfenhaus,JR Hopes,M Ntini,1,0,1,NA,0,NA,NA,NA,0
+351687,1st innings,Australia,South Africa,43.4,JR Hopes,BW Hilfenhaus,M Ntini,1,0,1,NA,0,NA,NA,NA,0
+351687,1st innings,Australia,South Africa,43.5,BW Hilfenhaus,JR Hopes,M Ntini,0,0,0,NA,0,NA,NA,NA,0
+351687,1st innings,Australia,South Africa,43.6,BW Hilfenhaus,JR Hopes,M Ntini,0,0,0,NA,0,NA,NA,NA,0
+351687,1st innings,Australia,South Africa,44.1,JR Hopes,BW Hilfenhaus,DW Steyn,1,0,1,NA,0,NA,NA,NA,0
+351687,1st innings,Australia,South Africa,44.2,BW Hilfenhaus,JR Hopes,DW Steyn,1,0,1,NA,0,NA,NA,NA,0
+351687,1st innings,Australia,South Africa,44.3,JR Hopes,BW Hilfenhaus,DW Steyn,0,0,0,NA,0,NA,NA,NA,0
+351687,1st innings,Australia,South Africa,44.4,JR Hopes,BW Hilfenhaus,DW Steyn,6,0,6,NA,0,NA,NA,NA,0
+351687,1st innings,Australia,South Africa,44.5,JR Hopes,BW Hilfenhaus,DW Steyn,4,0,4,NA,0,NA,NA,NA,0
+351687,1st innings,Australia,South Africa,44.6,JR Hopes,BW Hilfenhaus,DW Steyn,1,0,1,NA,0,NA,NA,NA,0
+351687,1st innings,Australia,South Africa,45.1,JR Hopes,BW Hilfenhaus,M Ntini,1,0,1,NA,0,NA,NA,NA,0
+351687,1st innings,Australia,South Africa,45.2,BW Hilfenhaus,JR Hopes,M Ntini,1,0,1,NA,0,NA,NA,NA,0
+351687,1st innings,Australia,South Africa,45.3,JR Hopes,BW Hilfenhaus,M Ntini,0,0,0,NA,0,NA,NA,NA,0
+351687,1st innings,Australia,South Africa,45.4,JR Hopes,BW Hilfenhaus,M Ntini,4,0,4,NA,0,NA,NA,NA,0
+351687,1st innings,Australia,South Africa,45.5,JR Hopes,BW Hilfenhaus,M Ntini,1,0,1,NA,0,NA,NA,NA,0
+351687,1st innings,Australia,South Africa,45.6,BW Hilfenhaus,JR Hopes,M Ntini,0,0,0,NA,0,NA,NA,NA,0
+351687,1st innings,Australia,South Africa,46.1,JR Hopes,BW Hilfenhaus,DW Steyn,0,0,0,NA,1,caught,JR Hopes,ND McKenzie,0
+351687,1st innings,Australia,South Africa,46.2,SW Tait,BW Hilfenhaus,DW Steyn,1,0,1,NA,0,NA,NA,NA,0
+351687,1st innings,Australia,South Africa,46.3,BW Hilfenhaus,SW Tait,DW Steyn,0,0,0,NA,0,NA,NA,NA,0
+351687,1st innings,Australia,South Africa,46.4,BW Hilfenhaus,SW Tait,DW Steyn,0,0,0,NA,0,NA,NA,NA,0
+351687,1st innings,Australia,South Africa,46.5,BW Hilfenhaus,SW Tait,DW Steyn,2,0,2,NA,0,NA,NA,NA,0
+351687,1st innings,Australia,South Africa,46.6,BW Hilfenhaus,SW Tait,DW Steyn,0,0,0,NA,0,NA,NA,NA,0
+351687,1st innings,Australia,South Africa,47.1,SW Tait,BW Hilfenhaus,M Morkel,0,0,0,NA,0,NA,NA,NA,0
+351687,1st innings,Australia,South Africa,47.2,SW Tait,BW Hilfenhaus,M Morkel,0,0,0,NA,0,NA,NA,NA,0
+351687,1st innings,Australia,South Africa,47.3,SW Tait,BW Hilfenhaus,M Morkel,0,0,0,NA,0,NA,NA,NA,0
+351687,1st innings,Australia,South Africa,47.4,SW Tait,BW Hilfenhaus,M Morkel,0,0,0,NA,0,NA,NA,NA,0
+351687,1st innings,Australia,South Africa,47.5,SW Tait,BW Hilfenhaus,M Morkel,3,0,3,NA,0,NA,NA,NA,0
+351687,1st innings,Australia,South Africa,47.6,BW Hilfenhaus,SW Tait,M Morkel,0,0,0,NA,1,caught,BW Hilfenhaus,AB de Villiers,0
+351687,2nd innings,South Africa,Australia,0.1,HM Amla,HH Gibbs,SW Tait,3,0,3,NA,0,NA,NA,NA,1
+351687,2nd innings,South Africa,Australia,0.2,HH Gibbs,HM Amla,SW Tait,0,1,1,wides,0,NA,NA,NA,1
+351687,2nd innings,South Africa,Australia,0.3,HH Gibbs,HM Amla,SW Tait,1,0,1,NA,0,NA,NA,NA,1
+351687,2nd innings,South Africa,Australia,0.4,HM Amla,HH Gibbs,SW Tait,0,0,0,NA,0,NA,NA,NA,1
+351687,2nd innings,South Africa,Australia,0.5,HM Amla,HH Gibbs,SW Tait,0,0,0,NA,0,NA,NA,NA,1
+351687,2nd innings,South Africa,Australia,0.6,HM Amla,HH Gibbs,SW Tait,0,0,0,NA,0,NA,NA,NA,1
+351687,2nd innings,South Africa,Australia,0.7,HM Amla,HH Gibbs,SW Tait,4,0,4,NA,0,NA,NA,NA,1
+351687,2nd innings,South Africa,Australia,1.1,HH Gibbs,HM Amla,BW Hilfenhaus,0,0,0,NA,0,NA,NA,NA,1
+351687,2nd innings,South Africa,Australia,1.2,HH Gibbs,HM Amla,BW Hilfenhaus,0,0,0,NA,0,NA,NA,NA,1
+351687,2nd innings,South Africa,Australia,1.3,HH Gibbs,HM Amla,BW Hilfenhaus,4,0,4,NA,0,NA,NA,NA,1
+351687,2nd innings,South Africa,Australia,1.4,HH Gibbs,HM Amla,BW Hilfenhaus,4,0,4,NA,0,NA,NA,NA,1
+351687,2nd innings,South Africa,Australia,1.5,HH Gibbs,HM Amla,BW Hilfenhaus,0,0,0,NA,0,NA,NA,NA,1
+351687,2nd innings,South Africa,Australia,1.6,HH Gibbs,HM Amla,BW Hilfenhaus,0,0,0,NA,0,NA,NA,NA,1
+351687,2nd innings,South Africa,Australia,2.1,HM Amla,HH Gibbs,SW Tait,0,1,1,wides,0,NA,NA,NA,1
+351687,2nd innings,South Africa,Australia,2.2,HM Amla,HH Gibbs,SW Tait,0,0,0,NA,0,NA,NA,NA,1
+351687,2nd innings,South Africa,Australia,2.3,HM Amla,HH Gibbs,SW Tait,2,0,2,NA,0,NA,NA,NA,1
+351687,2nd innings,South Africa,Australia,2.4,HM Amla,HH Gibbs,SW Tait,0,0,0,NA,0,NA,NA,NA,1
+351687,2nd innings,South Africa,Australia,2.5,HM Amla,HH Gibbs,SW Tait,0,0,0,NA,0,NA,NA,NA,1
+351687,2nd innings,South Africa,Australia,2.6,HM Amla,HH Gibbs,SW Tait,2,0,2,NA,0,NA,NA,NA,1
+351687,2nd innings,South Africa,Australia,2.7,HM Amla,HH Gibbs,SW Tait,0,0,0,NA,0,NA,NA,NA,1
+351687,2nd innings,South Africa,Australia,3.1,HH Gibbs,HM Amla,BW Hilfenhaus,4,0,4,NA,0,NA,NA,NA,1
+351687,2nd innings,South Africa,Australia,3.2,HH Gibbs,HM Amla,BW Hilfenhaus,0,0,0,NA,0,NA,NA,NA,1
+351687,2nd innings,South Africa,Australia,3.3,HH Gibbs,HM Amla,BW Hilfenhaus,4,0,4,NA,0,NA,NA,NA,1
+351687,2nd innings,South Africa,Australia,3.4,HH Gibbs,HM Amla,BW Hilfenhaus,0,0,0,NA,0,NA,NA,NA,1
+351687,2nd innings,South Africa,Australia,3.5,HH Gibbs,HM Amla,BW Hilfenhaus,0,0,0,NA,0,NA,NA,NA,1
+351687,2nd innings,South Africa,Australia,3.6,HH Gibbs,HM Amla,BW Hilfenhaus,0,0,0,NA,0,NA,NA,NA,1
+351687,2nd innings,South Africa,Australia,4.1,HM Amla,HH Gibbs,SW Tait,0,0,0,NA,0,NA,NA,NA,1
+351687,2nd innings,South Africa,Australia,4.2,HM Amla,HH Gibbs,SW Tait,0,0,0,NA,0,NA,NA,NA,1
+351687,2nd innings,South Africa,Australia,4.3,HM Amla,HH Gibbs,SW Tait,0,0,0,NA,0,NA,NA,NA,1
+351687,2nd innings,South Africa,Australia,4.4,HM Amla,HH Gibbs,SW Tait,0,0,0,NA,0,NA,NA,NA,1
+351687,2nd innings,South Africa,Australia,4.5,HM Amla,HH Gibbs,SW Tait,0,0,0,NA,0,NA,NA,NA,1
+351687,2nd innings,South Africa,Australia,4.6,HM Amla,HH Gibbs,SW Tait,1,0,1,NA,0,NA,NA,NA,1
+351687,2nd innings,South Africa,Australia,5.1,HM Amla,HH Gibbs,BW Hilfenhaus,0,0,0,NA,0,NA,NA,NA,1
+351687,2nd innings,South Africa,Australia,5.2,HM Amla,HH Gibbs,BW Hilfenhaus,0,0,0,NA,0,NA,NA,NA,1
+351687,2nd innings,South Africa,Australia,5.3,HM Amla,HH Gibbs,BW Hilfenhaus,0,0,0,NA,0,NA,NA,NA,1
+351687,2nd innings,South Africa,Australia,5.4,HM Amla,HH Gibbs,BW Hilfenhaus,1,0,1,NA,0,NA,NA,NA,1
+351687,2nd innings,South Africa,Australia,5.5,HH Gibbs,HM Amla,BW Hilfenhaus,4,0,4,NA,0,NA,NA,NA,1
+351687,2nd innings,South Africa,Australia,5.6,HH Gibbs,HM Amla,BW Hilfenhaus,4,0,4,NA,0,NA,NA,NA,1
+351687,2nd innings,South Africa,Australia,6.1,HM Amla,HH Gibbs,MG Johnson,1,0,1,NA,0,NA,NA,NA,1
+351687,2nd innings,South Africa,Australia,6.2,HH Gibbs,HM Amla,MG Johnson,0,0,0,NA,0,NA,NA,NA,1
+351687,2nd innings,South Africa,Australia,6.3,HH Gibbs,HM Amla,MG Johnson,0,0,0,NA,0,NA,NA,NA,1
+351687,2nd innings,South Africa,Australia,6.4,HH Gibbs,HM Amla,MG Johnson,4,0,4,NA,0,NA,NA,NA,1
+351687,2nd innings,South Africa,Australia,6.5,HH Gibbs,HM Amla,MG Johnson,1,0,1,NA,0,NA,NA,NA,1
+351687,2nd innings,South Africa,Australia,6.6,HM Amla,HH Gibbs,MG Johnson,0,0,0,NA,0,NA,NA,NA,1
+351687,2nd innings,South Africa,Australia,7.1,HH Gibbs,HM Amla,BW Hilfenhaus,0,2,2,legbyes,0,NA,NA,NA,1
+351687,2nd innings,South Africa,Australia,7.2,HH Gibbs,HM Amla,BW Hilfenhaus,0,0,0,NA,0,NA,NA,NA,1
+351687,2nd innings,South Africa,Australia,7.3,HH Gibbs,HM Amla,BW Hilfenhaus,0,0,0,NA,0,NA,NA,NA,1
+351687,2nd innings,South Africa,Australia,7.4,HH Gibbs,HM Amla,BW Hilfenhaus,1,0,1,NA,0,NA,NA,NA,1
+351687,2nd innings,South Africa,Australia,7.5,HM Amla,HH Gibbs,BW Hilfenhaus,0,0,0,NA,0,NA,NA,NA,1
+351687,2nd innings,South Africa,Australia,7.6,HM Amla,HH Gibbs,BW Hilfenhaus,0,0,0,NA,0,NA,NA,NA,1
+351687,2nd innings,South Africa,Australia,8.1,HH Gibbs,HM Amla,MG Johnson,4,0,4,NA,0,NA,NA,NA,1
+351687,2nd innings,South Africa,Australia,8.2,HH Gibbs,HM Amla,MG Johnson,0,0,0,NA,0,NA,NA,NA,1
+351687,2nd innings,South Africa,Australia,8.3,HH Gibbs,HM Amla,MG Johnson,1,0,1,NA,0,NA,NA,NA,1
+351687,2nd innings,South Africa,Australia,8.4,HM Amla,HH Gibbs,MG Johnson,1,0,1,NA,0,NA,NA,NA,1
+351687,2nd innings,South Africa,Australia,8.5,HH Gibbs,HM Amla,MG Johnson,2,0,2,NA,0,NA,NA,NA,1
+351687,2nd innings,South Africa,Australia,8.6,HH Gibbs,HM Amla,MG Johnson,0,0,0,NA,0,NA,NA,NA,1
+351687,2nd innings,South Africa,Australia,9.1,HM Amla,HH Gibbs,BW Hilfenhaus,1,0,1,NA,0,NA,NA,NA,1
+351687,2nd innings,South Africa,Australia,9.2,HH Gibbs,HM Amla,BW Hilfenhaus,0,0,0,NA,1,caught,HH Gibbs,MEK Hussey,1
+351687,2nd innings,South Africa,Australia,9.3,JH Kallis,HM Amla,BW Hilfenhaus,0,0,0,NA,0,NA,NA,NA,1
+351687,2nd innings,South Africa,Australia,9.4,JH Kallis,HM Amla,BW Hilfenhaus,4,0,4,NA,0,NA,NA,NA,1
+351687,2nd innings,South Africa,Australia,9.5,JH Kallis,HM Amla,BW Hilfenhaus,0,0,0,NA,0,NA,NA,NA,1
+351687,2nd innings,South Africa,Australia,9.6,JH Kallis,HM Amla,BW Hilfenhaus,0,0,0,NA,0,NA,NA,NA,1
+351687,2nd innings,South Africa,Australia,10.1,HM Amla,JH Kallis,MG Johnson,3,0,3,NA,0,NA,NA,NA,1
+351687,2nd innings,South Africa,Australia,10.2,JH Kallis,HM Amla,MG Johnson,0,0,0,NA,0,NA,NA,NA,1
+351687,2nd innings,South Africa,Australia,10.3,JH Kallis,HM Amla,MG Johnson,4,0,4,NA,0,NA,NA,NA,1
+351687,2nd innings,South Africa,Australia,10.4,JH Kallis,HM Amla,MG Johnson,0,0,0,NA,0,NA,NA,NA,1
+351687,2nd innings,South Africa,Australia,10.5,JH Kallis,HM Amla,MG Johnson,0,0,0,NA,0,NA,NA,NA,1
+351687,2nd innings,South Africa,Australia,10.6,JH Kallis,HM Amla,MG Johnson,4,0,4,NA,0,NA,NA,NA,1
+351687,2nd innings,South Africa,Australia,11.1,HM Amla,JH Kallis,SW Tait,0,0,0,NA,0,NA,NA,NA,1
+351687,2nd innings,South Africa,Australia,11.2,HM Amla,JH Kallis,SW Tait,0,0,0,NA,0,NA,NA,NA,1
+351687,2nd innings,South Africa,Australia,11.3,HM Amla,JH Kallis,SW Tait,0,0,0,NA,0,NA,NA,NA,1
+351687,2nd innings,South Africa,Australia,11.4,HM Amla,JH Kallis,SW Tait,4,0,4,NA,0,NA,NA,NA,1
+351687,2nd innings,South Africa,Australia,11.5,HM Amla,JH Kallis,SW Tait,1,0,1,NA,0,NA,NA,NA,1
+351687,2nd innings,South Africa,Australia,11.6,JH Kallis,HM Amla,SW Tait,1,0,1,NA,0,NA,NA,NA,1
+351687,2nd innings,South Africa,Australia,12.1,JH Kallis,HM Amla,JR Hopes,0,0,0,NA,0,NA,NA,NA,1
+351687,2nd innings,South Africa,Australia,12.2,JH Kallis,HM Amla,JR Hopes,0,0,0,NA,1,caught,JH Kallis,SE Marsh,1
+351687,2nd innings,South Africa,Australia,12.3,AB de Villiers,HM Amla,JR Hopes,0,0,0,NA,0,NA,NA,NA,1
+351687,2nd innings,South Africa,Australia,12.4,AB de Villiers,HM Amla,JR Hopes,1,0,1,NA,0,NA,NA,NA,1
+351687,2nd innings,South Africa,Australia,12.5,HM Amla,AB de Villiers,JR Hopes,0,0,0,NA,0,NA,NA,NA,1
+351687,2nd innings,South Africa,Australia,12.6,HM Amla,AB de Villiers,JR Hopes,4,0,4,NA,0,NA,NA,NA,1
+351687,2nd innings,South Africa,Australia,13.1,AB de Villiers,HM Amla,SW Tait,4,0,4,NA,0,NA,NA,NA,1
+351687,2nd innings,South Africa,Australia,13.2,AB de Villiers,HM Amla,SW Tait,0,0,0,NA,0,NA,NA,NA,1
+351687,2nd innings,South Africa,Australia,13.3,AB de Villiers,HM Amla,SW Tait,1,0,1,NA,0,NA,NA,NA,1
+351687,2nd innings,South Africa,Australia,13.4,HM Amla,AB de Villiers,SW Tait,0,0,0,NA,0,NA,NA,NA,1
+351687,2nd innings,South Africa,Australia,13.5,HM Amla,AB de Villiers,SW Tait,0,0,0,NA,0,NA,NA,NA,1
+351687,2nd innings,South Africa,Australia,13.6,HM Amla,AB de Villiers,SW Tait,4,0,4,NA,0,NA,NA,NA,1
+351687,2nd innings,South Africa,Australia,14.1,AB de Villiers,HM Amla,JR Hopes,0,0,0,NA,0,NA,NA,NA,1
+351687,2nd innings,South Africa,Australia,14.2,AB de Villiers,HM Amla,JR Hopes,2,0,2,NA,0,NA,NA,NA,1
+351687,2nd innings,South Africa,Australia,14.3,AB de Villiers,HM Amla,JR Hopes,0,0,0,NA,0,NA,NA,NA,1
+351687,2nd innings,South Africa,Australia,14.4,AB de Villiers,HM Amla,JR Hopes,0,0,0,NA,0,NA,NA,NA,1
+351687,2nd innings,South Africa,Australia,14.5,AB de Villiers,HM Amla,JR Hopes,4,0,4,NA,0,NA,NA,NA,1
+351687,2nd innings,South Africa,Australia,14.6,AB de Villiers,HM Amla,JR Hopes,1,0,1,NA,0,NA,NA,NA,1
+351687,2nd innings,South Africa,Australia,15.1,AB de Villiers,HM Amla,MG Johnson,0,1,1,wides,0,NA,NA,NA,1
+351687,2nd innings,South Africa,Australia,15.2,AB de Villiers,HM Amla,MG Johnson,2,0,2,NA,0,NA,NA,NA,1
+351687,2nd innings,South Africa,Australia,15.3,AB de Villiers,HM Amla,MG Johnson,1,0,1,NA,0,NA,NA,NA,1
+351687,2nd innings,South Africa,Australia,15.4,HM Amla,AB de Villiers,MG Johnson,1,0,1,NA,0,NA,NA,NA,1
+351687,2nd innings,South Africa,Australia,15.5,AB de Villiers,HM Amla,MG Johnson,1,0,1,NA,0,NA,NA,NA,1
+351687,2nd innings,South Africa,Australia,15.6,HM Amla,AB de Villiers,MG Johnson,0,0,0,NA,0,NA,NA,NA,1
+351687,2nd innings,South Africa,Australia,15.7,HM Amla,AB de Villiers,MG Johnson,0,0,0,NA,0,NA,NA,NA,1
+351687,2nd innings,South Africa,Australia,16.1,AB de Villiers,HM Amla,JR Hopes,0,0,0,NA,0,NA,NA,NA,1
+351687,2nd innings,South Africa,Australia,16.2,AB de Villiers,HM Amla,JR Hopes,1,0,1,NA,0,NA,NA,NA,1
+351687,2nd innings,South Africa,Australia,16.3,HM Amla,AB de Villiers,JR Hopes,0,0,0,NA,0,NA,NA,NA,1
+351687,2nd innings,South Africa,Australia,16.4,HM Amla,AB de Villiers,JR Hopes,0,0,0,NA,0,NA,NA,NA,1
+351687,2nd innings,South Africa,Australia,16.5,HM Amla,AB de Villiers,JR Hopes,0,0,0,NA,0,NA,NA,NA,1
+351687,2nd innings,South Africa,Australia,16.6,HM Amla,AB de Villiers,JR Hopes,0,0,0,NA,0,NA,NA,NA,1
+351687,2nd innings,South Africa,Australia,17.1,AB de Villiers,HM Amla,MG Johnson,0,0,0,NA,0,NA,NA,NA,1
+351687,2nd innings,South Africa,Australia,17.2,AB de Villiers,HM Amla,MG Johnson,0,0,0,NA,0,NA,NA,NA,1
+351687,2nd innings,South Africa,Australia,17.3,AB de Villiers,HM Amla,MG Johnson,1,0,1,NA,0,NA,NA,NA,1
+351687,2nd innings,South Africa,Australia,17.4,HM Amla,AB de Villiers,MG Johnson,1,0,1,NA,0,NA,NA,NA,1
+351687,2nd innings,South Africa,Australia,17.5,AB de Villiers,HM Amla,MG Johnson,0,0,0,NA,0,NA,NA,NA,1
+351687,2nd innings,South Africa,Australia,17.6,AB de Villiers,HM Amla,MG Johnson,0,0,0,NA,0,NA,NA,NA,1
+351687,2nd innings,South Africa,Australia,18.1,HM Amla,AB de Villiers,JR Hopes,1,0,1,NA,0,NA,NA,NA,1
+351687,2nd innings,South Africa,Australia,18.2,AB de Villiers,HM Amla,JR Hopes,0,0,0,NA,0,NA,NA,NA,1
+351687,2nd innings,South Africa,Australia,18.3,AB de Villiers,HM Amla,JR Hopes,1,0,1,NA,0,NA,NA,NA,1
+351687,2nd innings,South Africa,Australia,18.4,HM Amla,AB de Villiers,JR Hopes,1,0,1,NA,0,NA,NA,NA,1
+351687,2nd innings,South Africa,Australia,18.5,AB de Villiers,HM Amla,JR Hopes,0,0,0,NA,0,NA,NA,NA,1
+351687,2nd innings,South Africa,Australia,18.6,AB de Villiers,HM Amla,JR Hopes,0,0,0,NA,0,NA,NA,NA,1
+351687,2nd innings,South Africa,Australia,19.1,HM Amla,AB de Villiers,MG Johnson,0,0,0,NA,0,NA,NA,NA,1
+351687,2nd innings,South Africa,Australia,19.2,HM Amla,AB de Villiers,MG Johnson,1,0,1,NA,0,NA,NA,NA,1
+351687,2nd innings,South Africa,Australia,19.3,AB de Villiers,HM Amla,MG Johnson,0,0,0,NA,0,NA,NA,NA,1
+351687,2nd innings,South Africa,Australia,19.4,AB de Villiers,HM Amla,MG Johnson,1,0,1,NA,0,NA,NA,NA,1
+351687,2nd innings,South Africa,Australia,19.5,HM Amla,AB de Villiers,MG Johnson,1,0,1,NA,0,NA,NA,NA,1
+351687,2nd innings,South Africa,Australia,19.6,AB de Villiers,HM Amla,MG Johnson,0,0,0,NA,0,NA,NA,NA,1
+351687,2nd innings,South Africa,Australia,20.1,HM Amla,AB de Villiers,JR Hopes,1,0,1,NA,0,NA,NA,NA,1
+351687,2nd innings,South Africa,Australia,20.2,AB de Villiers,HM Amla,JR Hopes,0,1,1,legbyes,0,NA,NA,NA,1
+351687,2nd innings,South Africa,Australia,20.3,HM Amla,AB de Villiers,JR Hopes,0,0,0,NA,0,NA,NA,NA,1
+351687,2nd innings,South Africa,Australia,20.4,HM Amla,AB de Villiers,JR Hopes,0,0,0,NA,0,NA,NA,NA,1
+351687,2nd innings,South Africa,Australia,20.5,HM Amla,AB de Villiers,JR Hopes,1,0,1,NA,0,NA,NA,NA,1
+351687,2nd innings,South Africa,Australia,20.6,AB de Villiers,HM Amla,JR Hopes,1,0,1,NA,0,NA,NA,NA,1
+351687,2nd innings,South Africa,Australia,21.1,AB de Villiers,HM Amla,DJ Hussey,1,0,1,NA,0,NA,NA,NA,1
+351687,2nd innings,South Africa,Australia,21.2,HM Amla,AB de Villiers,DJ Hussey,1,0,1,NA,0,NA,NA,NA,1
+351687,2nd innings,South Africa,Australia,21.3,AB de Villiers,HM Amla,DJ Hussey,0,0,0,NA,0,NA,NA,NA,1
+351687,2nd innings,South Africa,Australia,21.4,AB de Villiers,HM Amla,DJ Hussey,1,0,1,NA,0,NA,NA,NA,1
+351687,2nd innings,South Africa,Australia,21.5,HM Amla,AB de Villiers,DJ Hussey,1,0,1,NA,0,NA,NA,NA,1
+351687,2nd innings,South Africa,Australia,21.6,AB de Villiers,HM Amla,DJ Hussey,2,0,2,NA,0,NA,NA,NA,1
+351687,2nd innings,South Africa,Australia,22.1,HM Amla,AB de Villiers,JR Hopes,0,0,0,NA,0,NA,NA,NA,1
+351687,2nd innings,South Africa,Australia,22.2,HM Amla,AB de Villiers,JR Hopes,0,0,0,NA,0,NA,NA,NA,1
+351687,2nd innings,South Africa,Australia,22.3,HM Amla,AB de Villiers,JR Hopes,1,0,1,NA,0,NA,NA,NA,1
+351687,2nd innings,South Africa,Australia,22.4,AB de Villiers,HM Amla,JR Hopes,0,0,0,NA,0,NA,NA,NA,1
+351687,2nd innings,South Africa,Australia,22.5,AB de Villiers,HM Amla,JR Hopes,0,0,0,NA,0,NA,NA,NA,1
+351687,2nd innings,South Africa,Australia,22.6,AB de Villiers,HM Amla,JR Hopes,0,0,0,NA,0,NA,NA,NA,1
+351687,2nd innings,South Africa,Australia,23.1,HM Amla,AB de Villiers,DJ Hussey,0,0,0,NA,0,NA,NA,NA,1
+351687,2nd innings,South Africa,Australia,23.2,HM Amla,AB de Villiers,DJ Hussey,0,0,0,NA,0,NA,NA,NA,1
+351687,2nd innings,South Africa,Australia,23.3,HM Amla,AB de Villiers,DJ Hussey,0,0,0,NA,0,NA,NA,NA,1
+351687,2nd innings,South Africa,Australia,23.4,HM Amla,AB de Villiers,DJ Hussey,1,0,1,NA,0,NA,NA,NA,1
+351687,2nd innings,South Africa,Australia,23.5,AB de Villiers,HM Amla,DJ Hussey,0,0,0,NA,0,NA,NA,NA,1
+351687,2nd innings,South Africa,Australia,23.6,AB de Villiers,HM Amla,DJ Hussey,1,0,1,NA,0,NA,NA,NA,1
+351687,2nd innings,South Africa,Australia,24.1,AB de Villiers,HM Amla,JR Hopes,2,0,2,NA,0,NA,NA,NA,1
+351687,2nd innings,South Africa,Australia,24.2,AB de Villiers,HM Amla,JR Hopes,1,0,1,NA,0,NA,NA,NA,1
+351687,2nd innings,South Africa,Australia,24.3,HM Amla,AB de Villiers,JR Hopes,1,0,1,NA,0,NA,NA,NA,1
+351687,2nd innings,South Africa,Australia,24.4,AB de Villiers,HM Amla,JR Hopes,1,0,1,NA,0,NA,NA,NA,1
+351687,2nd innings,South Africa,Australia,24.5,HM Amla,AB de Villiers,JR Hopes,0,0,0,NA,0,NA,NA,NA,1
+351687,2nd innings,South Africa,Australia,24.6,HM Amla,AB de Villiers,JR Hopes,2,0,2,NA,0,NA,NA,NA,1
+351687,2nd innings,South Africa,Australia,25.1,AB de Villiers,HM Amla,DJ Hussey,1,0,1,NA,0,NA,NA,NA,1
+351687,2nd innings,South Africa,Australia,25.2,HM Amla,AB de Villiers,DJ Hussey,0,0,0,NA,0,NA,NA,NA,1
+351687,2nd innings,South Africa,Australia,25.3,HM Amla,AB de Villiers,DJ Hussey,0,0,0,NA,0,NA,NA,NA,1
+351687,2nd innings,South Africa,Australia,25.4,HM Amla,AB de Villiers,DJ Hussey,3,0,3,NA,0,NA,NA,NA,1
+351687,2nd innings,South Africa,Australia,25.5,AB de Villiers,HM Amla,DJ Hussey,1,0,1,NA,0,NA,NA,NA,1
+351687,2nd innings,South Africa,Australia,25.6,HM Amla,AB de Villiers,DJ Hussey,1,0,1,NA,0,NA,NA,NA,1
+351687,2nd innings,South Africa,Australia,26.1,HM Amla,AB de Villiers,BW Hilfenhaus,2,0,2,NA,0,NA,NA,NA,1
+351687,2nd innings,South Africa,Australia,26.2,HM Amla,AB de Villiers,BW Hilfenhaus,0,0,0,NA,0,NA,NA,NA,1
+351687,2nd innings,South Africa,Australia,26.3,HM Amla,AB de Villiers,BW Hilfenhaus,1,0,1,NA,0,NA,NA,NA,1
+351687,2nd innings,South Africa,Australia,26.4,AB de Villiers,HM Amla,BW Hilfenhaus,1,0,1,NA,0,NA,NA,NA,1
+351687,2nd innings,South Africa,Australia,26.5,HM Amla,AB de Villiers,BW Hilfenhaus,1,0,1,NA,0,NA,NA,NA,1
+351687,2nd innings,South Africa,Australia,26.6,AB de Villiers,HM Amla,BW Hilfenhaus,3,0,3,NA,0,NA,NA,NA,1
+351687,2nd innings,South Africa,Australia,27.1,AB de Villiers,HM Amla,DJ Hussey,1,0,1,NA,0,NA,NA,NA,1
+351687,2nd innings,South Africa,Australia,27.2,HM Amla,AB de Villiers,DJ Hussey,1,0,1,NA,0,NA,NA,NA,1
+351687,2nd innings,South Africa,Australia,27.3,AB de Villiers,HM Amla,DJ Hussey,2,0,2,NA,0,NA,NA,NA,1
+351687,2nd innings,South Africa,Australia,27.4,AB de Villiers,HM Amla,DJ Hussey,4,0,4,NA,0,NA,NA,NA,1
+351687,2nd innings,South Africa,Australia,27.5,AB de Villiers,HM Amla,DJ Hussey,6,0,6,NA,0,NA,NA,NA,1
+351687,2nd innings,South Africa,Australia,27.6,AB de Villiers,HM Amla,DJ Hussey,1,0,1,NA,0,NA,NA,NA,1
+351687,2nd innings,South Africa,Australia,28.1,AB de Villiers,HM Amla,BW Hilfenhaus,0,0,0,NA,0,NA,NA,NA,1
+351687,2nd innings,South Africa,Australia,28.2,AB de Villiers,HM Amla,BW Hilfenhaus,1,0,1,NA,0,NA,NA,NA,1
+351687,2nd innings,South Africa,Australia,28.3,HM Amla,AB de Villiers,BW Hilfenhaus,1,0,1,NA,0,NA,NA,NA,1
+351687,2nd innings,South Africa,Australia,28.4,AB de Villiers,HM Amla,BW Hilfenhaus,2,0,2,NA,0,NA,NA,NA,1
+351687,2nd innings,South Africa,Australia,28.5,AB de Villiers,HM Amla,BW Hilfenhaus,4,0,4,NA,0,NA,NA,NA,1
+351687,2nd innings,South Africa,Australia,28.6,AB de Villiers,HM Amla,BW Hilfenhaus,0,0,0,NA,0,NA,NA,NA,1
+351687,2nd innings,South Africa,Australia,29.1,HM Amla,AB de Villiers,MG Johnson,1,0,1,NA,0,NA,NA,NA,1
+351687,2nd innings,South Africa,Australia,29.2,AB de Villiers,HM Amla,MG Johnson,1,0,1,NA,0,NA,NA,NA,1
+351687,2nd innings,South Africa,Australia,29.3,HM Amla,AB de Villiers,MG Johnson,1,0,1,NA,0,NA,NA,NA,1
+351687,2nd innings,South Africa,Australia,29.4,AB de Villiers,HM Amla,MG Johnson,0,0,0,NA,0,NA,NA,NA,1
+351687,2nd innings,South Africa,Australia,29.5,AB de Villiers,HM Amla,MG Johnson,0,0,0,NA,0,NA,NA,NA,1
+351687,2nd innings,South Africa,Australia,29.6,AB de Villiers,HM Amla,MG Johnson,0,0,0,NA,0,NA,NA,NA,1
+351687,2nd innings,South Africa,Australia,30.1,HM Amla,AB de Villiers,SW Tait,1,0,1,NA,0,NA,NA,NA,1
+351687,2nd innings,South Africa,Australia,30.2,AB de Villiers,HM Amla,SW Tait,0,0,0,NA,0,NA,NA,NA,1
+351687,2nd innings,South Africa,Australia,30.3,AB de Villiers,HM Amla,SW Tait,0,0,0,NA,0,NA,NA,NA,1
+351687,2nd innings,South Africa,Australia,30.4,AB de Villiers,HM Amla,SW Tait,4,0,4,NA,0,NA,NA,NA,1
+351687,2nd innings,South Africa,Australia,30.5,AB de Villiers,HM Amla,SW Tait,1,0,1,NA,0,NA,NA,NA,1
+351687,2nd innings,South Africa,Australia,30.6,HM Amla,AB de Villiers,SW Tait,0,0,0,NA,0,NA,NA,NA,1
+351687,2nd innings,South Africa,Australia,31.1,AB de Villiers,HM Amla,MG Johnson,1,0,1,NA,0,NA,NA,NA,1
+351687,2nd innings,South Africa,Australia,31.2,HM Amla,AB de Villiers,MG Johnson,1,0,1,NA,0,NA,NA,NA,1
+351687,2nd innings,South Africa,Australia,31.3,AB de Villiers,HM Amla,MG Johnson,1,0,1,NA,0,NA,NA,NA,1
+351687,2nd innings,South Africa,Australia,31.4,HM Amla,AB de Villiers,MG Johnson,0,1,1,wides,0,NA,NA,NA,1
+351687,2nd innings,South Africa,Australia,31.5,HM Amla,AB de Villiers,MG Johnson,1,0,1,NA,0,NA,NA,NA,1
+351687,2nd innings,South Africa,Australia,31.6,AB de Villiers,HM Amla,MG Johnson,4,0,4,NA,0,NA,NA,NA,1
+351687,2nd innings,South Africa,Australia,31.7,AB de Villiers,HM Amla,MG Johnson,1,0,1,NA,0,NA,NA,NA,1
+351687,2nd innings,South Africa,Australia,32.1,AB de Villiers,HM Amla,SW Tait,1,0,1,NA,0,NA,NA,NA,1
+351687,2nd innings,South Africa,Australia,32.2,HM Amla,AB de Villiers,SW Tait,1,0,1,NA,0,NA,NA,NA,1
+351687,2nd innings,South Africa,Australia,32.3,AB de Villiers,HM Amla,SW Tait,0,0,0,NA,0,NA,NA,NA,1
+351687,2nd innings,South Africa,Australia,32.4,AB de Villiers,HM Amla,SW Tait,1,0,1,NA,0,NA,NA,NA,1
+351687,2nd innings,South Africa,Australia,32.5,HM Amla,AB de Villiers,SW Tait,0,0,0,NA,0,NA,NA,NA,1
+351687,2nd innings,South Africa,Australia,32.6,HM Amla,AB de Villiers,SW Tait,0,0,0,NA,0,NA,NA,NA,1
+351687,2nd innings,South Africa,Australia,33.1,AB de Villiers,HM Amla,MG Johnson,2,0,2,NA,0,NA,NA,NA,1
+351687,2nd innings,South Africa,Australia,33.2,AB de Villiers,HM Amla,MG Johnson,0,0,0,NA,0,NA,NA,NA,1
+351687,2nd innings,South Africa,Australia,33.3,AB de Villiers,HM Amla,MG Johnson,0,1,1,legbyes,0,NA,NA,NA,1
+351687,2nd innings,South Africa,Australia,33.4,HM Amla,AB de Villiers,MG Johnson,1,0,1,NA,0,NA,NA,NA,1
+351687,2nd innings,South Africa,Australia,33.5,AB de Villiers,HM Amla,MG Johnson,0,0,0,NA,0,NA,NA,NA,1
+351687,2nd innings,South Africa,Australia,33.6,AB de Villiers,HM Amla,MG Johnson,1,0,1,NA,0,NA,NA,NA,1
+351687,2nd innings,South Africa,Australia,34.1,AB de Villiers,HM Amla,SW Tait,1,0,1,NA,0,NA,NA,NA,1
+351687,2nd innings,South Africa,Australia,34.2,HM Amla,AB de Villiers,SW Tait,4,0,4,NA,0,NA,NA,NA,1
+351687,2nd innings,South Africa,Australia,34.3,HM Amla,AB de Villiers,SW Tait,0,0,0,NA,0,NA,NA,NA,1
+351687,2nd innings,South Africa,Australia,34.4,HM Amla,AB de Villiers,SW Tait,0,0,0,NA,0,NA,NA,NA,1
+351687,2nd innings,South Africa,Australia,34.5,HM Amla,AB de Villiers,SW Tait,0,0,0,NA,0,NA,NA,NA,1
+351687,2nd innings,South Africa,Australia,34.6,HM Amla,AB de Villiers,SW Tait,0,0,0,NA,0,NA,NA,NA,1
+351687,2nd innings,South Africa,Australia,35.1,AB de Villiers,HM Amla,MG Johnson,1,0,1,NA,0,NA,NA,NA,1
+351687,2nd innings,South Africa,Australia,35.2,HM Amla,AB de Villiers,MG Johnson,4,0,4,NA,0,NA,NA,NA,1
+351687,2nd innings,South Africa,Australia,35.3,HM Amla,AB de Villiers,MG Johnson,0,0,0,NA,0,NA,NA,NA,1
+351687,2nd innings,South Africa,Australia,35.4,HM Amla,AB de Villiers,MG Johnson,0,0,0,NA,0,NA,NA,NA,1
+351687,2nd innings,South Africa,Australia,35.5,HM Amla,AB de Villiers,MG Johnson,4,0,4,NA,0,NA,NA,NA,1
+351687,2nd innings,South Africa,Australia,35.6,HM Amla,AB de Villiers,MG Johnson,1,0,1,NA,0,NA,NA,NA,1
+351687,2nd innings,South Africa,Australia,36.1,HM Amla,AB de Villiers,SW Tait,1,0,1,NA,0,NA,NA,NA,1
+351687,2nd innings,South Africa,Australia,36.2,AB de Villiers,HM Amla,SW Tait,1,0,1,NA,0,NA,NA,NA,1
+351687,2nd innings,South Africa,Australia,36.3,HM Amla,AB de Villiers,SW Tait,1,0,1,NA,0,NA,NA,NA,1
+351687,2nd innings,South Africa,Australia,36.4,AB de Villiers,HM Amla,SW Tait,0,0,0,NA,0,NA,NA,NA,1
+351687,2nd innings,South Africa,Australia,36.5,AB de Villiers,HM Amla,SW Tait,1,0,1,NA,0,NA,NA,NA,1
+351687,2nd innings,South Africa,Australia,36.6,HM Amla,AB de Villiers,SW Tait,1,0,1,NA,0,NA,NA,NA,1
+351687,2nd innings,South Africa,Australia,37.1,HM Amla,AB de Villiers,BW Hilfenhaus,0,1,1,wides,0,NA,NA,NA,1
+351687,2nd innings,South Africa,Australia,37.2,HM Amla,AB de Villiers,BW Hilfenhaus,0,0,0,NA,0,NA,NA,NA,1
+351687,2nd innings,South Africa,Australia,37.3,HM Amla,AB de Villiers,BW Hilfenhaus,0,1,1,legbyes,0,NA,NA,NA,1
+351687,2nd innings,South Africa,Australia,37.4,AB de Villiers,HM Amla,BW Hilfenhaus,0,0,0,NA,0,NA,NA,NA,1
+351687,2nd innings,South Africa,Australia,37.5,AB de Villiers,HM Amla,BW Hilfenhaus,0,0,0,NA,0,NA,NA,NA,1
+351687,2nd innings,South Africa,Australia,37.6,AB de Villiers,HM Amla,BW Hilfenhaus,1,0,1,NA,0,NA,NA,NA,1
+351687,2nd innings,South Africa,Australia,37.7,HM Amla,AB de Villiers,BW Hilfenhaus,0,0,0,NA,0,NA,NA,NA,1
+351687,2nd innings,South Africa,Australia,38.1,AB de Villiers,HM Amla,JR Hopes,1,0,1,NA,0,NA,NA,NA,1

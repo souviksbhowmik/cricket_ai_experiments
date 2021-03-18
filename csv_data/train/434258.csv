@@ -1,0 +1,592 @@
+match_id,innings,team,opponent,ball,batsman,non_striker,bowler,scored_runs,extras,total,extra_type,wicket,wicket_type,player_out,fielders,winner
+434258,1st innings,Bangladesh,Sri Lanka,0.1,Tamim Iqbal,Imrul Kayes,KMDN Kulasekara,0,0,0,NA,0,NA,NA,NA,0
+434258,1st innings,Bangladesh,Sri Lanka,0.2,Tamim Iqbal,Imrul Kayes,KMDN Kulasekara,3,0,3,NA,0,NA,NA,NA,0
+434258,1st innings,Bangladesh,Sri Lanka,0.3,Imrul Kayes,Tamim Iqbal,KMDN Kulasekara,0,0,0,NA,0,NA,NA,NA,0
+434258,1st innings,Bangladesh,Sri Lanka,0.4,Imrul Kayes,Tamim Iqbal,KMDN Kulasekara,4,0,4,NA,0,NA,NA,NA,0
+434258,1st innings,Bangladesh,Sri Lanka,0.5,Imrul Kayes,Tamim Iqbal,KMDN Kulasekara,1,0,1,NA,0,NA,NA,NA,0
+434258,1st innings,Bangladesh,Sri Lanka,0.6,Tamim Iqbal,Imrul Kayes,KMDN Kulasekara,1,0,1,NA,0,NA,NA,NA,0
+434258,1st innings,Bangladesh,Sri Lanka,1.1,Tamim Iqbal,Imrul Kayes,UWMBCA Welegedara,0,1,1,wides,0,NA,NA,NA,0
+434258,1st innings,Bangladesh,Sri Lanka,1.2,Tamim Iqbal,Imrul Kayes,UWMBCA Welegedara,0,0,0,NA,0,NA,NA,NA,0
+434258,1st innings,Bangladesh,Sri Lanka,1.3,Tamim Iqbal,Imrul Kayes,UWMBCA Welegedara,0,0,0,NA,0,NA,NA,NA,0
+434258,1st innings,Bangladesh,Sri Lanka,1.4,Tamim Iqbal,Imrul Kayes,UWMBCA Welegedara,1,0,1,NA,0,NA,NA,NA,0
+434258,1st innings,Bangladesh,Sri Lanka,1.5,Imrul Kayes,Tamim Iqbal,UWMBCA Welegedara,0,0,0,NA,0,NA,NA,NA,0
+434258,1st innings,Bangladesh,Sri Lanka,1.6,Imrul Kayes,Tamim Iqbal,UWMBCA Welegedara,1,0,1,NA,0,NA,NA,NA,0
+434258,1st innings,Bangladesh,Sri Lanka,1.7,Tamim Iqbal,Imrul Kayes,UWMBCA Welegedara,0,0,0,NA,0,NA,NA,NA,0
+434258,1st innings,Bangladesh,Sri Lanka,2.1,Imrul Kayes,Tamim Iqbal,KMDN Kulasekara,0,0,0,NA,0,NA,NA,NA,0
+434258,1st innings,Bangladesh,Sri Lanka,2.2,Imrul Kayes,Tamim Iqbal,KMDN Kulasekara,0,0,0,NA,0,NA,NA,NA,0
+434258,1st innings,Bangladesh,Sri Lanka,2.3,Imrul Kayes,Tamim Iqbal,KMDN Kulasekara,0,0,0,NA,0,NA,NA,NA,0
+434258,1st innings,Bangladesh,Sri Lanka,2.4,Imrul Kayes,Tamim Iqbal,KMDN Kulasekara,2,0,2,NA,0,NA,NA,NA,0
+434258,1st innings,Bangladesh,Sri Lanka,2.5,Imrul Kayes,Tamim Iqbal,KMDN Kulasekara,1,0,1,NA,0,NA,NA,NA,0
+434258,1st innings,Bangladesh,Sri Lanka,2.6,Tamim Iqbal,Imrul Kayes,KMDN Kulasekara,1,0,1,NA,0,NA,NA,NA,0
+434258,1st innings,Bangladesh,Sri Lanka,3.1,Tamim Iqbal,Imrul Kayes,UWMBCA Welegedara,0,0,0,NA,0,NA,NA,NA,0
+434258,1st innings,Bangladesh,Sri Lanka,3.2,Tamim Iqbal,Imrul Kayes,UWMBCA Welegedara,1,0,1,NA,0,NA,NA,NA,0
+434258,1st innings,Bangladesh,Sri Lanka,3.3,Imrul Kayes,Tamim Iqbal,UWMBCA Welegedara,0,0,0,NA,0,NA,NA,NA,0
+434258,1st innings,Bangladesh,Sri Lanka,3.4,Imrul Kayes,Tamim Iqbal,UWMBCA Welegedara,0,0,0,NA,0,NA,NA,NA,0
+434258,1st innings,Bangladesh,Sri Lanka,3.5,Imrul Kayes,Tamim Iqbal,UWMBCA Welegedara,4,0,4,NA,0,NA,NA,NA,0
+434258,1st innings,Bangladesh,Sri Lanka,3.6,Imrul Kayes,Tamim Iqbal,UWMBCA Welegedara,0,0,0,NA,0,NA,NA,NA,0
+434258,1st innings,Bangladesh,Sri Lanka,4.1,Tamim Iqbal,Imrul Kayes,KMDN Kulasekara,0,0,0,NA,0,NA,NA,NA,0
+434258,1st innings,Bangladesh,Sri Lanka,4.2,Tamim Iqbal,Imrul Kayes,KMDN Kulasekara,0,0,0,NA,0,NA,NA,NA,0
+434258,1st innings,Bangladesh,Sri Lanka,4.3,Tamim Iqbal,Imrul Kayes,KMDN Kulasekara,0,0,0,NA,0,NA,NA,NA,0
+434258,1st innings,Bangladesh,Sri Lanka,4.4,Tamim Iqbal,Imrul Kayes,KMDN Kulasekara,0,0,0,NA,0,NA,NA,NA,0
+434258,1st innings,Bangladesh,Sri Lanka,4.5,Tamim Iqbal,Imrul Kayes,KMDN Kulasekara,0,0,0,NA,0,NA,NA,NA,0
+434258,1st innings,Bangladesh,Sri Lanka,4.6,Tamim Iqbal,Imrul Kayes,KMDN Kulasekara,0,0,0,NA,0,NA,NA,NA,0
+434258,1st innings,Bangladesh,Sri Lanka,5.1,Imrul Kayes,Tamim Iqbal,UWMBCA Welegedara,0,0,0,NA,0,NA,NA,NA,0
+434258,1st innings,Bangladesh,Sri Lanka,5.2,Imrul Kayes,Tamim Iqbal,UWMBCA Welegedara,2,0,2,NA,0,NA,NA,NA,0
+434258,1st innings,Bangladesh,Sri Lanka,5.3,Imrul Kayes,Tamim Iqbal,UWMBCA Welegedara,0,0,0,NA,0,NA,NA,NA,0
+434258,1st innings,Bangladesh,Sri Lanka,5.4,Imrul Kayes,Tamim Iqbal,UWMBCA Welegedara,1,0,1,NA,0,NA,NA,NA,0
+434258,1st innings,Bangladesh,Sri Lanka,5.5,Tamim Iqbal,Imrul Kayes,UWMBCA Welegedara,0,0,0,NA,0,NA,NA,NA,0
+434258,1st innings,Bangladesh,Sri Lanka,5.6,Tamim Iqbal,Imrul Kayes,UWMBCA Welegedara,0,0,0,NA,0,NA,NA,NA,0
+434258,1st innings,Bangladesh,Sri Lanka,6.1,Imrul Kayes,Tamim Iqbal,KMDN Kulasekara,0,0,0,NA,0,NA,NA,NA,0
+434258,1st innings,Bangladesh,Sri Lanka,6.2,Imrul Kayes,Tamim Iqbal,KMDN Kulasekara,0,2,2,legbyes,0,NA,NA,NA,0
+434258,1st innings,Bangladesh,Sri Lanka,6.3,Imrul Kayes,Tamim Iqbal,KMDN Kulasekara,0,0,0,NA,0,NA,NA,NA,0
+434258,1st innings,Bangladesh,Sri Lanka,6.4,Imrul Kayes,Tamim Iqbal,KMDN Kulasekara,0,0,0,NA,0,NA,NA,NA,0
+434258,1st innings,Bangladesh,Sri Lanka,6.5,Imrul Kayes,Tamim Iqbal,KMDN Kulasekara,2,0,2,NA,0,NA,NA,NA,0
+434258,1st innings,Bangladesh,Sri Lanka,6.6,Imrul Kayes,Tamim Iqbal,KMDN Kulasekara,0,0,0,NA,0,NA,NA,NA,0
+434258,1st innings,Bangladesh,Sri Lanka,7.1,Tamim Iqbal,Imrul Kayes,UWMBCA Welegedara,4,0,4,NA,0,NA,NA,NA,0
+434258,1st innings,Bangladesh,Sri Lanka,7.2,Tamim Iqbal,Imrul Kayes,UWMBCA Welegedara,0,0,0,NA,0,NA,NA,NA,0
+434258,1st innings,Bangladesh,Sri Lanka,7.3,Tamim Iqbal,Imrul Kayes,UWMBCA Welegedara,0,0,0,NA,0,NA,NA,NA,0
+434258,1st innings,Bangladesh,Sri Lanka,7.4,Tamim Iqbal,Imrul Kayes,UWMBCA Welegedara,4,0,4,NA,0,NA,NA,NA,0
+434258,1st innings,Bangladesh,Sri Lanka,7.5,Tamim Iqbal,Imrul Kayes,UWMBCA Welegedara,4,0,4,NA,0,NA,NA,NA,0
+434258,1st innings,Bangladesh,Sri Lanka,7.6,Tamim Iqbal,Imrul Kayes,UWMBCA Welegedara,4,0,4,NA,0,NA,NA,NA,0
+434258,1st innings,Bangladesh,Sri Lanka,8.1,Imrul Kayes,Tamim Iqbal,KMDN Kulasekara,1,0,1,NA,0,NA,NA,NA,0
+434258,1st innings,Bangladesh,Sri Lanka,8.2,Tamim Iqbal,Imrul Kayes,KMDN Kulasekara,0,0,0,NA,0,NA,NA,NA,0
+434258,1st innings,Bangladesh,Sri Lanka,8.3,Tamim Iqbal,Imrul Kayes,KMDN Kulasekara,1,0,1,NA,0,NA,NA,NA,0
+434258,1st innings,Bangladesh,Sri Lanka,8.4,Imrul Kayes,Tamim Iqbal,KMDN Kulasekara,0,0,0,NA,0,NA,NA,NA,0
+434258,1st innings,Bangladesh,Sri Lanka,8.5,Imrul Kayes,Tamim Iqbal,KMDN Kulasekara,0,0,0,NA,0,NA,NA,NA,0
+434258,1st innings,Bangladesh,Sri Lanka,8.6,Imrul Kayes,Tamim Iqbal,KMDN Kulasekara,0,0,0,NA,0,NA,NA,NA,0
+434258,1st innings,Bangladesh,Sri Lanka,9.1,Tamim Iqbal,Imrul Kayes,TM Dilshan,1,0,1,NA,0,NA,NA,NA,0
+434258,1st innings,Bangladesh,Sri Lanka,9.2,Imrul Kayes,Tamim Iqbal,TM Dilshan,1,0,1,NA,0,NA,NA,NA,0
+434258,1st innings,Bangladesh,Sri Lanka,9.3,Tamim Iqbal,Imrul Kayes,TM Dilshan,0,0,0,NA,0,NA,NA,NA,0
+434258,1st innings,Bangladesh,Sri Lanka,9.4,Tamim Iqbal,Imrul Kayes,TM Dilshan,0,0,0,NA,0,NA,NA,NA,0
+434258,1st innings,Bangladesh,Sri Lanka,9.5,Tamim Iqbal,Imrul Kayes,TM Dilshan,1,0,1,NA,0,NA,NA,NA,0
+434258,1st innings,Bangladesh,Sri Lanka,9.6,Imrul Kayes,Tamim Iqbal,TM Dilshan,0,0,0,NA,0,NA,NA,NA,0
+434258,1st innings,Bangladesh,Sri Lanka,10.1,Tamim Iqbal,Imrul Kayes,KMDN Kulasekara,0,0,0,NA,0,NA,NA,NA,0
+434258,1st innings,Bangladesh,Sri Lanka,10.2,Tamim Iqbal,Imrul Kayes,KMDN Kulasekara,1,0,1,NA,0,NA,NA,NA,0
+434258,1st innings,Bangladesh,Sri Lanka,10.3,Imrul Kayes,Tamim Iqbal,KMDN Kulasekara,1,0,1,NA,0,NA,NA,NA,0
+434258,1st innings,Bangladesh,Sri Lanka,10.4,Tamim Iqbal,Imrul Kayes,KMDN Kulasekara,1,0,1,NA,0,NA,NA,NA,0
+434258,1st innings,Bangladesh,Sri Lanka,10.5,Imrul Kayes,Tamim Iqbal,KMDN Kulasekara,1,0,1,NA,0,NA,NA,NA,0
+434258,1st innings,Bangladesh,Sri Lanka,10.6,Tamim Iqbal,Imrul Kayes,KMDN Kulasekara,0,0,0,NA,0,NA,NA,NA,0
+434258,1st innings,Bangladesh,Sri Lanka,11.1,Imrul Kayes,Tamim Iqbal,TM Dilshan,1,0,1,NA,0,NA,NA,NA,0
+434258,1st innings,Bangladesh,Sri Lanka,11.2,Tamim Iqbal,Imrul Kayes,TM Dilshan,0,0,0,NA,0,NA,NA,NA,0
+434258,1st innings,Bangladesh,Sri Lanka,11.3,Tamim Iqbal,Imrul Kayes,TM Dilshan,1,0,1,NA,0,NA,NA,NA,0
+434258,1st innings,Bangladesh,Sri Lanka,11.4,Imrul Kayes,Tamim Iqbal,TM Dilshan,0,5,5,wides,0,NA,NA,NA,0
+434258,1st innings,Bangladesh,Sri Lanka,11.5,Imrul Kayes,Tamim Iqbal,TM Dilshan,0,0,0,NA,0,NA,NA,NA,0
+434258,1st innings,Bangladesh,Sri Lanka,11.6,Imrul Kayes,Tamim Iqbal,TM Dilshan,0,0,0,NA,0,NA,NA,NA,0
+434258,1st innings,Bangladesh,Sri Lanka,11.7,Imrul Kayes,Tamim Iqbal,TM Dilshan,0,0,0,NA,0,NA,NA,NA,0
+434258,1st innings,Bangladesh,Sri Lanka,12.1,Tamim Iqbal,Imrul Kayes,KMDN Kulasekara,2,0,2,NA,0,NA,NA,NA,0
+434258,1st innings,Bangladesh,Sri Lanka,12.2,Tamim Iqbal,Imrul Kayes,KMDN Kulasekara,0,0,0,NA,0,NA,NA,NA,0
+434258,1st innings,Bangladesh,Sri Lanka,12.3,Tamim Iqbal,Imrul Kayes,KMDN Kulasekara,2,0,2,NA,0,NA,NA,NA,0
+434258,1st innings,Bangladesh,Sri Lanka,12.4,Tamim Iqbal,Imrul Kayes,KMDN Kulasekara,1,0,1,NA,0,NA,NA,NA,0
+434258,1st innings,Bangladesh,Sri Lanka,12.5,Imrul Kayes,Tamim Iqbal,KMDN Kulasekara,0,0,0,NA,1,caught,Imrul Kayes,TT Samaraweera,0
+434258,1st innings,Bangladesh,Sri Lanka,12.6,Mohammad Ashraful,Tamim Iqbal,KMDN Kulasekara,0,0,0,NA,0,NA,NA,NA,0
+434258,1st innings,Bangladesh,Sri Lanka,13.1,Tamim Iqbal,Mohammad Ashraful,TM Dilshan,0,0,0,NA,0,NA,NA,NA,0
+434258,1st innings,Bangladesh,Sri Lanka,13.2,Tamim Iqbal,Mohammad Ashraful,TM Dilshan,0,0,0,NA,0,NA,NA,NA,0
+434258,1st innings,Bangladesh,Sri Lanka,13.3,Tamim Iqbal,Mohammad Ashraful,TM Dilshan,0,0,0,NA,0,NA,NA,NA,0
+434258,1st innings,Bangladesh,Sri Lanka,13.4,Tamim Iqbal,Mohammad Ashraful,TM Dilshan,2,0,2,NA,0,NA,NA,NA,0
+434258,1st innings,Bangladesh,Sri Lanka,13.5,Tamim Iqbal,Mohammad Ashraful,TM Dilshan,4,0,4,NA,0,NA,NA,NA,0
+434258,1st innings,Bangladesh,Sri Lanka,13.6,Tamim Iqbal,Mohammad Ashraful,TM Dilshan,0,0,0,NA,1,caught,Tamim Iqbal,RAS Lakmal,0
+434258,1st innings,Bangladesh,Sri Lanka,14.1,Raqibul Hasan,Mohammad Ashraful,RAS Lakmal,0,0,0,NA,0,NA,NA,NA,0
+434258,1st innings,Bangladesh,Sri Lanka,14.2,Raqibul Hasan,Mohammad Ashraful,RAS Lakmal,0,0,0,NA,0,NA,NA,NA,0
+434258,1st innings,Bangladesh,Sri Lanka,14.3,Raqibul Hasan,Mohammad Ashraful,RAS Lakmal,0,0,0,NA,0,NA,NA,NA,0
+434258,1st innings,Bangladesh,Sri Lanka,14.4,Raqibul Hasan,Mohammad Ashraful,RAS Lakmal,0,0,0,NA,0,NA,NA,NA,0
+434258,1st innings,Bangladesh,Sri Lanka,14.5,Raqibul Hasan,Mohammad Ashraful,RAS Lakmal,0,0,0,NA,0,NA,NA,NA,0
+434258,1st innings,Bangladesh,Sri Lanka,14.6,Raqibul Hasan,Mohammad Ashraful,RAS Lakmal,0,0,0,NA,1,caught,Raqibul Hasan,TT Samaraweera,0
+434258,1st innings,Bangladesh,Sri Lanka,15.1,Mohammad Ashraful,Shakib Al Hasan,UWMBCA Welegedara,0,0,0,NA,0,NA,NA,NA,0
+434258,1st innings,Bangladesh,Sri Lanka,15.2,Mohammad Ashraful,Shakib Al Hasan,UWMBCA Welegedara,1,0,1,NA,0,NA,NA,NA,0
+434258,1st innings,Bangladesh,Sri Lanka,15.3,Shakib Al Hasan,Mohammad Ashraful,UWMBCA Welegedara,0,0,0,NA,0,NA,NA,NA,0
+434258,1st innings,Bangladesh,Sri Lanka,15.4,Shakib Al Hasan,Mohammad Ashraful,UWMBCA Welegedara,0,0,0,NA,0,NA,NA,NA,0
+434258,1st innings,Bangladesh,Sri Lanka,15.5,Shakib Al Hasan,Mohammad Ashraful,UWMBCA Welegedara,1,0,1,NA,0,NA,NA,NA,0
+434258,1st innings,Bangladesh,Sri Lanka,15.6,Mohammad Ashraful,Shakib Al Hasan,UWMBCA Welegedara,0,0,0,NA,0,NA,NA,NA,0
+434258,1st innings,Bangladesh,Sri Lanka,16.1,Shakib Al Hasan,Mohammad Ashraful,RAS Lakmal,0,0,0,NA,0,NA,NA,NA,0
+434258,1st innings,Bangladesh,Sri Lanka,16.2,Shakib Al Hasan,Mohammad Ashraful,RAS Lakmal,0,1,1,wides,0,NA,NA,NA,0
+434258,1st innings,Bangladesh,Sri Lanka,16.3,Shakib Al Hasan,Mohammad Ashraful,RAS Lakmal,0,0,0,NA,0,NA,NA,NA,0
+434258,1st innings,Bangladesh,Sri Lanka,16.4,Shakib Al Hasan,Mohammad Ashraful,RAS Lakmal,0,0,0,NA,0,NA,NA,NA,0
+434258,1st innings,Bangladesh,Sri Lanka,16.5,Shakib Al Hasan,Mohammad Ashraful,RAS Lakmal,0,0,0,NA,1,caught,Shakib Al Hasan,UWMBCA Welegedara,0
+434258,1st innings,Bangladesh,Sri Lanka,16.6,Mushfiqur Rahim,Mohammad Ashraful,RAS Lakmal,1,0,1,NA,0,NA,NA,NA,0
+434258,1st innings,Bangladesh,Sri Lanka,16.7,Mohammad Ashraful,Mushfiqur Rahim,RAS Lakmal,0,1,1,wides,0,NA,NA,NA,0
+434258,1st innings,Bangladesh,Sri Lanka,16.8,Mohammad Ashraful,Mushfiqur Rahim,RAS Lakmal,0,0,0,NA,0,NA,NA,NA,0
+434258,1st innings,Bangladesh,Sri Lanka,17.1,Mushfiqur Rahim,Mohammad Ashraful,UWMBCA Welegedara,0,0,0,NA,0,NA,NA,NA,0
+434258,1st innings,Bangladesh,Sri Lanka,17.2,Mushfiqur Rahim,Mohammad Ashraful,UWMBCA Welegedara,1,0,1,NA,0,NA,NA,NA,0
+434258,1st innings,Bangladesh,Sri Lanka,17.3,Mohammad Ashraful,Mushfiqur Rahim,UWMBCA Welegedara,1,0,1,NA,0,NA,NA,NA,0
+434258,1st innings,Bangladesh,Sri Lanka,17.4,Mushfiqur Rahim,Mohammad Ashraful,UWMBCA Welegedara,0,0,0,NA,0,NA,NA,NA,0
+434258,1st innings,Bangladesh,Sri Lanka,17.5,Mushfiqur Rahim,Mohammad Ashraful,UWMBCA Welegedara,0,0,0,NA,0,NA,NA,NA,0
+434258,1st innings,Bangladesh,Sri Lanka,17.6,Mushfiqur Rahim,Mohammad Ashraful,UWMBCA Welegedara,1,0,1,NA,0,NA,NA,NA,0
+434258,1st innings,Bangladesh,Sri Lanka,18.1,Mushfiqur Rahim,Mohammad Ashraful,RAS Lakmal,0,0,0,NA,0,NA,NA,NA,0
+434258,1st innings,Bangladesh,Sri Lanka,18.2,Mushfiqur Rahim,Mohammad Ashraful,RAS Lakmal,0,0,0,NA,0,NA,NA,NA,0
+434258,1st innings,Bangladesh,Sri Lanka,18.3,Mushfiqur Rahim,Mohammad Ashraful,RAS Lakmal,4,0,4,NA,0,NA,NA,NA,0
+434258,1st innings,Bangladesh,Sri Lanka,18.4,Mushfiqur Rahim,Mohammad Ashraful,RAS Lakmal,0,0,0,NA,0,NA,NA,NA,0
+434258,1st innings,Bangladesh,Sri Lanka,18.5,Mushfiqur Rahim,Mohammad Ashraful,RAS Lakmal,0,0,0,NA,0,NA,NA,NA,0
+434258,1st innings,Bangladesh,Sri Lanka,18.6,Mushfiqur Rahim,Mohammad Ashraful,RAS Lakmal,0,0,0,NA,0,NA,NA,NA,0
+434258,1st innings,Bangladesh,Sri Lanka,19.1,Mohammad Ashraful,Mushfiqur Rahim,S Randiv,1,0,1,NA,0,NA,NA,NA,0
+434258,1st innings,Bangladesh,Sri Lanka,19.2,Mushfiqur Rahim,Mohammad Ashraful,S Randiv,0,0,0,NA,0,NA,NA,NA,0
+434258,1st innings,Bangladesh,Sri Lanka,19.3,Mushfiqur Rahim,Mohammad Ashraful,S Randiv,0,0,0,NA,0,NA,NA,NA,0
+434258,1st innings,Bangladesh,Sri Lanka,19.4,Mushfiqur Rahim,Mohammad Ashraful,S Randiv,1,0,1,NA,0,NA,NA,NA,0
+434258,1st innings,Bangladesh,Sri Lanka,19.5,Mohammad Ashraful,Mushfiqur Rahim,S Randiv,0,0,0,NA,0,NA,NA,NA,0
+434258,1st innings,Bangladesh,Sri Lanka,19.6,Mohammad Ashraful,Mushfiqur Rahim,S Randiv,0,0,0,NA,0,NA,NA,NA,0
+434258,1st innings,Bangladesh,Sri Lanka,20.1,Mushfiqur Rahim,Mohammad Ashraful,RAS Lakmal,0,0,0,NA,0,NA,NA,NA,0
+434258,1st innings,Bangladesh,Sri Lanka,20.2,Mushfiqur Rahim,Mohammad Ashraful,RAS Lakmal,0,0,0,NA,0,NA,NA,NA,0
+434258,1st innings,Bangladesh,Sri Lanka,20.3,Mushfiqur Rahim,Mohammad Ashraful,RAS Lakmal,0,0,0,NA,0,NA,NA,NA,0
+434258,1st innings,Bangladesh,Sri Lanka,20.4,Mushfiqur Rahim,Mohammad Ashraful,RAS Lakmal,0,0,0,NA,0,NA,NA,NA,0
+434258,1st innings,Bangladesh,Sri Lanka,20.5,Mushfiqur Rahim,Mohammad Ashraful,RAS Lakmal,4,0,4,NA,0,NA,NA,NA,0
+434258,1st innings,Bangladesh,Sri Lanka,20.6,Mushfiqur Rahim,Mohammad Ashraful,RAS Lakmal,1,0,1,NA,0,NA,NA,NA,0
+434258,1st innings,Bangladesh,Sri Lanka,21.1,Mushfiqur Rahim,Mohammad Ashraful,S Randiv,0,0,0,NA,0,NA,NA,NA,0
+434258,1st innings,Bangladesh,Sri Lanka,21.2,Mushfiqur Rahim,Mohammad Ashraful,S Randiv,0,0,0,NA,0,NA,NA,NA,0
+434258,1st innings,Bangladesh,Sri Lanka,21.3,Mushfiqur Rahim,Mohammad Ashraful,S Randiv,0,0,0,NA,0,NA,NA,NA,0
+434258,1st innings,Bangladesh,Sri Lanka,21.4,Mushfiqur Rahim,Mohammad Ashraful,S Randiv,0,1,1,wides,0,NA,NA,NA,0
+434258,1st innings,Bangladesh,Sri Lanka,21.5,Mushfiqur Rahim,Mohammad Ashraful,S Randiv,0,0,0,NA,0,NA,NA,NA,0
+434258,1st innings,Bangladesh,Sri Lanka,21.6,Mushfiqur Rahim,Mohammad Ashraful,S Randiv,1,0,1,NA,0,NA,NA,NA,0
+434258,1st innings,Bangladesh,Sri Lanka,21.7,Mohammad Ashraful,Mushfiqur Rahim,S Randiv,0,0,0,NA,0,NA,NA,NA,0
+434258,1st innings,Bangladesh,Sri Lanka,22.1,Mushfiqur Rahim,Mohammad Ashraful,RAS Lakmal,0,0,0,NA,0,NA,NA,NA,0
+434258,1st innings,Bangladesh,Sri Lanka,22.2,Mushfiqur Rahim,Mohammad Ashraful,RAS Lakmal,4,0,4,NA,0,NA,NA,NA,0
+434258,1st innings,Bangladesh,Sri Lanka,22.3,Mushfiqur Rahim,Mohammad Ashraful,RAS Lakmal,0,0,0,NA,0,NA,NA,NA,0
+434258,1st innings,Bangladesh,Sri Lanka,22.4,Mushfiqur Rahim,Mohammad Ashraful,RAS Lakmal,0,1,1,wides,0,NA,NA,NA,0
+434258,1st innings,Bangladesh,Sri Lanka,22.5,Mushfiqur Rahim,Mohammad Ashraful,RAS Lakmal,1,0,1,NA,0,NA,NA,NA,0
+434258,1st innings,Bangladesh,Sri Lanka,22.6,Mohammad Ashraful,Mushfiqur Rahim,RAS Lakmal,0,0,0,NA,0,NA,NA,NA,0
+434258,1st innings,Bangladesh,Sri Lanka,22.7,Mohammad Ashraful,Mushfiqur Rahim,RAS Lakmal,1,0,1,NA,0,NA,NA,NA,0
+434258,1st innings,Bangladesh,Sri Lanka,23.1,Mohammad Ashraful,Mushfiqur Rahim,S Randiv,0,0,0,NA,0,NA,NA,NA,0
+434258,1st innings,Bangladesh,Sri Lanka,23.2,Mohammad Ashraful,Mushfiqur Rahim,S Randiv,1,0,1,NA,0,NA,NA,NA,0
+434258,1st innings,Bangladesh,Sri Lanka,23.3,Mushfiqur Rahim,Mohammad Ashraful,S Randiv,0,0,0,NA,0,NA,NA,NA,0
+434258,1st innings,Bangladesh,Sri Lanka,23.4,Mushfiqur Rahim,Mohammad Ashraful,S Randiv,1,0,1,NA,0,NA,NA,NA,0
+434258,1st innings,Bangladesh,Sri Lanka,23.5,Mohammad Ashraful,Mushfiqur Rahim,S Randiv,1,0,1,NA,0,NA,NA,NA,0
+434258,1st innings,Bangladesh,Sri Lanka,23.6,Mushfiqur Rahim,Mohammad Ashraful,S Randiv,1,0,1,NA,0,NA,NA,NA,0
+434258,1st innings,Bangladesh,Sri Lanka,24.1,Mushfiqur Rahim,Mohammad Ashraful,SHT Kandamby,0,0,0,NA,0,NA,NA,NA,0
+434258,1st innings,Bangladesh,Sri Lanka,24.2,Mushfiqur Rahim,Mohammad Ashraful,SHT Kandamby,1,0,1,NA,0,NA,NA,NA,0
+434258,1st innings,Bangladesh,Sri Lanka,24.3,Mohammad Ashraful,Mushfiqur Rahim,SHT Kandamby,0,0,0,NA,0,NA,NA,NA,0
+434258,1st innings,Bangladesh,Sri Lanka,24.4,Mohammad Ashraful,Mushfiqur Rahim,SHT Kandamby,1,0,1,NA,0,NA,NA,NA,0
+434258,1st innings,Bangladesh,Sri Lanka,24.5,Mushfiqur Rahim,Mohammad Ashraful,SHT Kandamby,0,0,0,NA,0,NA,NA,NA,0
+434258,1st innings,Bangladesh,Sri Lanka,24.6,Mushfiqur Rahim,Mohammad Ashraful,SHT Kandamby,3,0,3,NA,0,NA,NA,NA,0
+434258,1st innings,Bangladesh,Sri Lanka,25.1,Mushfiqur Rahim,Mohammad Ashraful,S Randiv,1,0,1,NA,0,NA,NA,NA,0
+434258,1st innings,Bangladesh,Sri Lanka,25.2,Mohammad Ashraful,Mushfiqur Rahim,S Randiv,0,0,0,NA,0,NA,NA,NA,0
+434258,1st innings,Bangladesh,Sri Lanka,25.3,Mohammad Ashraful,Mushfiqur Rahim,S Randiv,0,0,0,NA,0,NA,NA,NA,0
+434258,1st innings,Bangladesh,Sri Lanka,25.4,Mohammad Ashraful,Mushfiqur Rahim,S Randiv,2,0,2,NA,0,NA,NA,NA,0
+434258,1st innings,Bangladesh,Sri Lanka,25.5,Mohammad Ashraful,Mushfiqur Rahim,S Randiv,0,0,0,NA,0,NA,NA,NA,0
+434258,1st innings,Bangladesh,Sri Lanka,25.6,Mohammad Ashraful,Mushfiqur Rahim,S Randiv,1,0,1,NA,0,NA,NA,NA,0
+434258,1st innings,Bangladesh,Sri Lanka,26.1,Mohammad Ashraful,Mushfiqur Rahim,SHT Kandamby,0,0,0,NA,0,NA,NA,NA,0
+434258,1st innings,Bangladesh,Sri Lanka,26.2,Mohammad Ashraful,Mushfiqur Rahim,SHT Kandamby,0,0,0,NA,0,NA,NA,NA,0
+434258,1st innings,Bangladesh,Sri Lanka,26.3,Mohammad Ashraful,Mushfiqur Rahim,SHT Kandamby,1,0,1,NA,0,NA,NA,NA,0
+434258,1st innings,Bangladesh,Sri Lanka,26.4,Mushfiqur Rahim,Mohammad Ashraful,SHT Kandamby,1,0,1,NA,0,NA,NA,NA,0
+434258,1st innings,Bangladesh,Sri Lanka,26.5,Mohammad Ashraful,Mushfiqur Rahim,SHT Kandamby,0,0,0,NA,0,NA,NA,NA,0
+434258,1st innings,Bangladesh,Sri Lanka,26.6,Mohammad Ashraful,Mushfiqur Rahim,SHT Kandamby,0,0,0,NA,0,NA,NA,NA,0
+434258,1st innings,Bangladesh,Sri Lanka,27.1,Mushfiqur Rahim,Mohammad Ashraful,S Randiv,0,0,0,NA,0,NA,NA,NA,0
+434258,1st innings,Bangladesh,Sri Lanka,27.2,Mushfiqur Rahim,Mohammad Ashraful,S Randiv,0,0,0,NA,0,NA,NA,NA,0
+434258,1st innings,Bangladesh,Sri Lanka,27.3,Mushfiqur Rahim,Mohammad Ashraful,S Randiv,1,0,1,NA,0,NA,NA,NA,0
+434258,1st innings,Bangladesh,Sri Lanka,27.4,Mohammad Ashraful,Mushfiqur Rahim,S Randiv,1,0,1,NA,0,NA,NA,NA,0
+434258,1st innings,Bangladesh,Sri Lanka,27.5,Mushfiqur Rahim,Mohammad Ashraful,S Randiv,1,0,1,NA,0,NA,NA,NA,0
+434258,1st innings,Bangladesh,Sri Lanka,27.6,Mohammad Ashraful,Mushfiqur Rahim,S Randiv,0,0,0,NA,0,NA,NA,NA,0
+434258,1st innings,Bangladesh,Sri Lanka,28.1,Mushfiqur Rahim,Mohammad Ashraful,SHT Kandamby,2,0,2,NA,0,NA,NA,NA,0
+434258,1st innings,Bangladesh,Sri Lanka,28.2,Mushfiqur Rahim,Mohammad Ashraful,SHT Kandamby,1,0,1,NA,0,NA,NA,NA,0
+434258,1st innings,Bangladesh,Sri Lanka,28.3,Mohammad Ashraful,Mushfiqur Rahim,SHT Kandamby,0,0,0,NA,0,NA,NA,NA,0
+434258,1st innings,Bangladesh,Sri Lanka,28.4,Mohammad Ashraful,Mushfiqur Rahim,SHT Kandamby,0,0,0,NA,0,NA,NA,NA,0
+434258,1st innings,Bangladesh,Sri Lanka,28.5,Mohammad Ashraful,Mushfiqur Rahim,SHT Kandamby,1,0,1,NA,0,NA,NA,NA,0
+434258,1st innings,Bangladesh,Sri Lanka,28.6,Mushfiqur Rahim,Mohammad Ashraful,SHT Kandamby,0,0,0,NA,0,NA,NA,NA,0
+434258,1st innings,Bangladesh,Sri Lanka,29.1,Mohammad Ashraful,Mushfiqur Rahim,S Randiv,1,0,1,NA,0,NA,NA,NA,0
+434258,1st innings,Bangladesh,Sri Lanka,29.2,Mushfiqur Rahim,Mohammad Ashraful,S Randiv,1,0,1,NA,0,NA,NA,NA,0
+434258,1st innings,Bangladesh,Sri Lanka,29.3,Mohammad Ashraful,Mushfiqur Rahim,S Randiv,0,0,0,NA,0,NA,NA,NA,0
+434258,1st innings,Bangladesh,Sri Lanka,29.4,Mohammad Ashraful,Mushfiqur Rahim,S Randiv,1,0,1,NA,0,NA,NA,NA,0
+434258,1st innings,Bangladesh,Sri Lanka,29.5,Mushfiqur Rahim,Mohammad Ashraful,S Randiv,0,0,0,NA,0,NA,NA,NA,0
+434258,1st innings,Bangladesh,Sri Lanka,29.6,Mushfiqur Rahim,Mohammad Ashraful,S Randiv,0,0,0,NA,0,NA,NA,NA,0
+434258,1st innings,Bangladesh,Sri Lanka,30.1,Mohammad Ashraful,Mushfiqur Rahim,SHT Kandamby,0,0,0,NA,0,NA,NA,NA,0
+434258,1st innings,Bangladesh,Sri Lanka,30.2,Mohammad Ashraful,Mushfiqur Rahim,SHT Kandamby,4,0,4,NA,0,NA,NA,NA,0
+434258,1st innings,Bangladesh,Sri Lanka,30.3,Mohammad Ashraful,Mushfiqur Rahim,SHT Kandamby,0,0,0,NA,0,NA,NA,NA,0
+434258,1st innings,Bangladesh,Sri Lanka,30.4,Mohammad Ashraful,Mushfiqur Rahim,SHT Kandamby,0,0,0,NA,0,NA,NA,NA,0
+434258,1st innings,Bangladesh,Sri Lanka,30.5,Mohammad Ashraful,Mushfiqur Rahim,SHT Kandamby,1,0,1,NA,0,NA,NA,NA,0
+434258,1st innings,Bangladesh,Sri Lanka,30.6,Mushfiqur Rahim,Mohammad Ashraful,SHT Kandamby,1,0,1,NA,0,NA,NA,NA,0
+434258,1st innings,Bangladesh,Sri Lanka,31.1,Mushfiqur Rahim,Mohammad Ashraful,S Randiv,1,0,1,NA,0,NA,NA,NA,0
+434258,1st innings,Bangladesh,Sri Lanka,31.2,Mohammad Ashraful,Mushfiqur Rahim,S Randiv,0,0,0,NA,0,NA,NA,NA,0
+434258,1st innings,Bangladesh,Sri Lanka,31.3,Mohammad Ashraful,Mushfiqur Rahim,S Randiv,1,0,1,NA,0,NA,NA,NA,0
+434258,1st innings,Bangladesh,Sri Lanka,31.4,Mushfiqur Rahim,Mohammad Ashraful,S Randiv,0,0,0,NA,1,lbw,Mushfiqur Rahim,NA,0
+434258,1st innings,Bangladesh,Sri Lanka,31.5,Mahmudullah,Mohammad Ashraful,S Randiv,0,0,0,NA,0,NA,NA,NA,0
+434258,1st innings,Bangladesh,Sri Lanka,31.6,Mahmudullah,Mohammad Ashraful,S Randiv,2,0,2,NA,0,NA,NA,NA,0
+434258,1st innings,Bangladesh,Sri Lanka,32.1,Mohammad Ashraful,Mahmudullah,SHT Kandamby,1,0,1,NA,0,NA,NA,NA,0
+434258,1st innings,Bangladesh,Sri Lanka,32.2,Mahmudullah,Mohammad Ashraful,SHT Kandamby,0,0,0,NA,0,NA,NA,NA,0
+434258,1st innings,Bangladesh,Sri Lanka,32.3,Mahmudullah,Mohammad Ashraful,SHT Kandamby,0,0,0,NA,0,NA,NA,NA,0
+434258,1st innings,Bangladesh,Sri Lanka,32.4,Mahmudullah,Mohammad Ashraful,SHT Kandamby,1,0,1,NA,0,NA,NA,NA,0
+434258,1st innings,Bangladesh,Sri Lanka,32.5,Mohammad Ashraful,Mahmudullah,SHT Kandamby,1,0,1,NA,0,NA,NA,NA,0
+434258,1st innings,Bangladesh,Sri Lanka,32.6,Mahmudullah,Mohammad Ashraful,SHT Kandamby,1,0,1,NA,0,NA,NA,NA,0
+434258,1st innings,Bangladesh,Sri Lanka,33.1,Mahmudullah,Mohammad Ashraful,M Pushpakumara,1,0,1,NA,0,NA,NA,NA,0
+434258,1st innings,Bangladesh,Sri Lanka,33.2,Mohammad Ashraful,Mahmudullah,M Pushpakumara,1,0,1,NA,0,NA,NA,NA,0
+434258,1st innings,Bangladesh,Sri Lanka,33.3,Mahmudullah,Mohammad Ashraful,M Pushpakumara,0,0,0,NA,0,NA,NA,NA,0
+434258,1st innings,Bangladesh,Sri Lanka,33.4,Mahmudullah,Mohammad Ashraful,M Pushpakumara,0,0,0,NA,0,NA,NA,NA,0
+434258,1st innings,Bangladesh,Sri Lanka,33.5,Mahmudullah,Mohammad Ashraful,M Pushpakumara,1,0,1,NA,0,NA,NA,NA,0
+434258,1st innings,Bangladesh,Sri Lanka,33.6,Mohammad Ashraful,Mahmudullah,M Pushpakumara,1,0,1,NA,0,NA,NA,NA,0
+434258,1st innings,Bangladesh,Sri Lanka,34.1,Mohammad Ashraful,Mahmudullah,RAS Lakmal,1,0,1,NA,0,NA,NA,NA,0
+434258,1st innings,Bangladesh,Sri Lanka,34.2,Mahmudullah,Mohammad Ashraful,RAS Lakmal,0,0,0,NA,0,NA,NA,NA,0
+434258,1st innings,Bangladesh,Sri Lanka,34.3,Mahmudullah,Mohammad Ashraful,RAS Lakmal,0,0,0,NA,0,NA,NA,NA,0
+434258,1st innings,Bangladesh,Sri Lanka,34.4,Mahmudullah,Mohammad Ashraful,RAS Lakmal,0,0,0,NA,0,NA,NA,NA,0
+434258,1st innings,Bangladesh,Sri Lanka,34.5,Mahmudullah,Mohammad Ashraful,RAS Lakmal,4,0,4,NA,0,NA,NA,NA,0
+434258,1st innings,Bangladesh,Sri Lanka,34.6,Mahmudullah,Mohammad Ashraful,RAS Lakmal,0,0,0,NA,0,NA,NA,NA,0
+434258,1st innings,Bangladesh,Sri Lanka,35.1,Mohammad Ashraful,Mahmudullah,M Pushpakumara,0,0,0,NA,0,NA,NA,NA,0
+434258,1st innings,Bangladesh,Sri Lanka,35.2,Mohammad Ashraful,Mahmudullah,M Pushpakumara,0,0,0,NA,0,NA,NA,NA,0
+434258,1st innings,Bangladesh,Sri Lanka,35.3,Mohammad Ashraful,Mahmudullah,M Pushpakumara,1,0,1,NA,0,NA,NA,NA,0
+434258,1st innings,Bangladesh,Sri Lanka,35.4,Mahmudullah,Mohammad Ashraful,M Pushpakumara,0,0,0,NA,0,NA,NA,NA,0
+434258,1st innings,Bangladesh,Sri Lanka,35.5,Mahmudullah,Mohammad Ashraful,M Pushpakumara,1,0,1,NA,0,NA,NA,NA,0
+434258,1st innings,Bangladesh,Sri Lanka,35.6,Mohammad Ashraful,Mahmudullah,M Pushpakumara,2,0,2,NA,0,NA,NA,NA,0
+434258,1st innings,Bangladesh,Sri Lanka,36.1,Mahmudullah,Mohammad Ashraful,RAS Lakmal,0,0,0,NA,0,NA,NA,NA,0
+434258,1st innings,Bangladesh,Sri Lanka,36.2,Mahmudullah,Mohammad Ashraful,RAS Lakmal,1,0,1,NA,0,NA,NA,NA,0
+434258,1st innings,Bangladesh,Sri Lanka,36.3,Mohammad Ashraful,Mahmudullah,RAS Lakmal,0,0,0,NA,0,NA,NA,NA,0
+434258,1st innings,Bangladesh,Sri Lanka,36.4,Mohammad Ashraful,Mahmudullah,RAS Lakmal,0,0,0,NA,0,NA,NA,NA,0
+434258,1st innings,Bangladesh,Sri Lanka,36.5,Mohammad Ashraful,Mahmudullah,RAS Lakmal,1,0,1,NA,0,NA,NA,NA,0
+434258,1st innings,Bangladesh,Sri Lanka,36.6,Mahmudullah,Mohammad Ashraful,RAS Lakmal,0,1,1,wides,0,NA,NA,NA,0
+434258,1st innings,Bangladesh,Sri Lanka,36.7,Mahmudullah,Mohammad Ashraful,RAS Lakmal,1,0,1,NA,0,NA,NA,NA,0
+434258,1st innings,Bangladesh,Sri Lanka,37.1,Mahmudullah,Mohammad Ashraful,M Pushpakumara,1,0,1,NA,0,NA,NA,NA,0
+434258,1st innings,Bangladesh,Sri Lanka,37.2,Mohammad Ashraful,Mahmudullah,M Pushpakumara,0,0,0,NA,0,NA,NA,NA,0
+434258,1st innings,Bangladesh,Sri Lanka,37.3,Mohammad Ashraful,Mahmudullah,M Pushpakumara,0,0,0,NA,0,NA,NA,NA,0
+434258,1st innings,Bangladesh,Sri Lanka,37.4,Mohammad Ashraful,Mahmudullah,M Pushpakumara,0,0,0,NA,0,NA,NA,NA,0
+434258,1st innings,Bangladesh,Sri Lanka,37.5,Mohammad Ashraful,Mahmudullah,M Pushpakumara,1,0,1,NA,0,NA,NA,NA,0
+434258,1st innings,Bangladesh,Sri Lanka,37.6,Mahmudullah,Mohammad Ashraful,M Pushpakumara,1,0,1,NA,0,NA,NA,NA,0
+434258,1st innings,Bangladesh,Sri Lanka,38.1,Mahmudullah,Mohammad Ashraful,UWMBCA Welegedara,1,0,1,NA,0,NA,NA,NA,0
+434258,1st innings,Bangladesh,Sri Lanka,38.2,Mohammad Ashraful,Mahmudullah,UWMBCA Welegedara,0,0,0,NA,0,NA,NA,NA,0
+434258,1st innings,Bangladesh,Sri Lanka,38.3,Mohammad Ashraful,Mahmudullah,UWMBCA Welegedara,0,0,0,NA,0,NA,NA,NA,0
+434258,1st innings,Bangladesh,Sri Lanka,38.4,Mohammad Ashraful,Mahmudullah,UWMBCA Welegedara,0,0,0,NA,0,NA,NA,NA,0
+434258,1st innings,Bangladesh,Sri Lanka,38.5,Mohammad Ashraful,Mahmudullah,UWMBCA Welegedara,2,0,2,NA,0,NA,NA,NA,0
+434258,1st innings,Bangladesh,Sri Lanka,38.6,Mohammad Ashraful,Mahmudullah,UWMBCA Welegedara,1,0,1,NA,0,NA,NA,NA,0
+434258,1st innings,Bangladesh,Sri Lanka,39.1,Mohammad Ashraful,Mahmudullah,M Pushpakumara,0,1,1,wides,0,NA,NA,NA,0
+434258,1st innings,Bangladesh,Sri Lanka,39.2,Mohammad Ashraful,Mahmudullah,M Pushpakumara,0,0,0,NA,0,NA,NA,NA,0
+434258,1st innings,Bangladesh,Sri Lanka,39.3,Mohammad Ashraful,Mahmudullah,M Pushpakumara,1,0,1,NA,0,NA,NA,NA,0
+434258,1st innings,Bangladesh,Sri Lanka,39.4,Mahmudullah,Mohammad Ashraful,M Pushpakumara,1,0,1,NA,0,NA,NA,NA,0
+434258,1st innings,Bangladesh,Sri Lanka,39.5,Mohammad Ashraful,Mahmudullah,M Pushpakumara,1,0,1,NA,0,NA,NA,NA,0
+434258,1st innings,Bangladesh,Sri Lanka,39.6,Mahmudullah,Mohammad Ashraful,M Pushpakumara,1,0,1,NA,0,NA,NA,NA,0
+434258,1st innings,Bangladesh,Sri Lanka,39.7,Mohammad Ashraful,Mahmudullah,M Pushpakumara,1,0,1,NA,0,NA,NA,NA,0
+434258,1st innings,Bangladesh,Sri Lanka,40.1,Mohammad Ashraful,Mahmudullah,UWMBCA Welegedara,1,0,1,NA,0,NA,NA,NA,0
+434258,1st innings,Bangladesh,Sri Lanka,40.2,Mahmudullah,Mohammad Ashraful,UWMBCA Welegedara,1,0,1,NA,0,NA,NA,NA,0
+434258,1st innings,Bangladesh,Sri Lanka,40.3,Mohammad Ashraful,Mahmudullah,UWMBCA Welegedara,1,0,1,NA,0,NA,NA,NA,0
+434258,1st innings,Bangladesh,Sri Lanka,40.4,Mahmudullah,Mohammad Ashraful,UWMBCA Welegedara,0,0,0,NA,0,NA,NA,NA,0
+434258,1st innings,Bangladesh,Sri Lanka,40.5,Mahmudullah,Mohammad Ashraful,UWMBCA Welegedara,0,0,0,NA,0,NA,NA,NA,0
+434258,1st innings,Bangladesh,Sri Lanka,40.6,Mahmudullah,Mohammad Ashraful,UWMBCA Welegedara,0,0,0,NA,0,NA,NA,NA,0
+434258,1st innings,Bangladesh,Sri Lanka,41.1,Mohammad Ashraful,Mahmudullah,S Randiv,1,0,1,NA,0,NA,NA,NA,0
+434258,1st innings,Bangladesh,Sri Lanka,41.2,Mahmudullah,Mohammad Ashraful,S Randiv,0,0,0,NA,0,NA,NA,NA,0
+434258,1st innings,Bangladesh,Sri Lanka,41.3,Mahmudullah,Mohammad Ashraful,S Randiv,1,0,1,NA,0,NA,NA,NA,0
+434258,1st innings,Bangladesh,Sri Lanka,41.4,Mohammad Ashraful,Mahmudullah,S Randiv,4,0,4,NA,0,NA,NA,NA,0
+434258,1st innings,Bangladesh,Sri Lanka,41.5,Mohammad Ashraful,Mahmudullah,S Randiv,1,0,1,NA,0,NA,NA,NA,0
+434258,1st innings,Bangladesh,Sri Lanka,41.6,Mahmudullah,Mohammad Ashraful,S Randiv,0,0,0,NA,0,NA,NA,NA,0
+434258,1st innings,Bangladesh,Sri Lanka,42.1,Mohammad Ashraful,Mahmudullah,M Pushpakumara,2,0,2,NA,0,NA,NA,NA,0
+434258,1st innings,Bangladesh,Sri Lanka,42.2,Mohammad Ashraful,Mahmudullah,M Pushpakumara,0,0,0,NA,0,NA,NA,NA,0
+434258,1st innings,Bangladesh,Sri Lanka,42.3,Mohammad Ashraful,Mahmudullah,M Pushpakumara,1,0,1,NA,0,NA,NA,NA,0
+434258,1st innings,Bangladesh,Sri Lanka,42.4,Mahmudullah,Mohammad Ashraful,M Pushpakumara,0,0,0,NA,0,NA,NA,NA,0
+434258,1st innings,Bangladesh,Sri Lanka,42.5,Mahmudullah,Mohammad Ashraful,M Pushpakumara,0,0,0,NA,0,NA,NA,NA,0
+434258,1st innings,Bangladesh,Sri Lanka,42.6,Mahmudullah,Mohammad Ashraful,M Pushpakumara,1,0,1,NA,0,NA,NA,NA,0
+434258,1st innings,Bangladesh,Sri Lanka,43.1,Mahmudullah,Mohammad Ashraful,RAS Lakmal,1,0,1,NA,0,NA,NA,NA,0
+434258,1st innings,Bangladesh,Sri Lanka,43.2,Mohammad Ashraful,Mahmudullah,RAS Lakmal,0,0,0,NA,0,NA,NA,NA,0
+434258,1st innings,Bangladesh,Sri Lanka,43.3,Mohammad Ashraful,Mahmudullah,RAS Lakmal,4,0,4,NA,0,NA,NA,NA,0
+434258,1st innings,Bangladesh,Sri Lanka,43.4,Mohammad Ashraful,Mahmudullah,RAS Lakmal,0,1,1,wides,0,NA,NA,NA,0
+434258,1st innings,Bangladesh,Sri Lanka,43.5,Mohammad Ashraful,Mahmudullah,RAS Lakmal,4,0,4,NA,0,NA,NA,NA,0
+434258,1st innings,Bangladesh,Sri Lanka,43.6,Mohammad Ashraful,Mahmudullah,RAS Lakmal,1,0,1,NA,0,NA,NA,NA,0
+434258,1st innings,Bangladesh,Sri Lanka,43.7,Mahmudullah,Mohammad Ashraful,RAS Lakmal,4,0,4,NA,0,NA,NA,NA,0
+434258,1st innings,Bangladesh,Sri Lanka,44.1,Mohammad Ashraful,Mahmudullah,KMDN Kulasekara,1,0,1,NA,0,NA,NA,NA,0
+434258,1st innings,Bangladesh,Sri Lanka,44.2,Mahmudullah,Mohammad Ashraful,KMDN Kulasekara,1,0,1,NA,0,NA,NA,NA,0
+434258,1st innings,Bangladesh,Sri Lanka,44.3,Mohammad Ashraful,Mahmudullah,KMDN Kulasekara,1,0,1,NA,0,NA,NA,NA,0
+434258,1st innings,Bangladesh,Sri Lanka,44.4,Mahmudullah,Mohammad Ashraful,KMDN Kulasekara,2,0,2,NA,0,NA,NA,NA,0
+434258,1st innings,Bangladesh,Sri Lanka,44.5,Mahmudullah,Mohammad Ashraful,KMDN Kulasekara,0,1,1,wides,0,NA,NA,NA,0
+434258,1st innings,Bangladesh,Sri Lanka,44.6,Mahmudullah,Mohammad Ashraful,KMDN Kulasekara,1,0,1,NA,0,NA,NA,NA,0
+434258,1st innings,Bangladesh,Sri Lanka,44.7,Mohammad Ashraful,Mahmudullah,KMDN Kulasekara,1,0,1,NA,0,NA,NA,NA,0
+434258,1st innings,Bangladesh,Sri Lanka,45.1,Mohammad Ashraful,Mahmudullah,S Randiv,1,0,1,NA,0,NA,NA,NA,0
+434258,1st innings,Bangladesh,Sri Lanka,45.2,Mahmudullah,Mohammad Ashraful,S Randiv,4,0,4,NA,0,NA,NA,NA,0
+434258,1st innings,Bangladesh,Sri Lanka,45.3,Mahmudullah,Mohammad Ashraful,S Randiv,2,0,2,NA,0,NA,NA,NA,0
+434258,1st innings,Bangladesh,Sri Lanka,45.4,Mahmudullah,Mohammad Ashraful,S Randiv,1,0,1,NA,0,NA,NA,NA,0
+434258,1st innings,Bangladesh,Sri Lanka,45.5,Mohammad Ashraful,Mahmudullah,S Randiv,0,1,1,wides,0,NA,NA,NA,0
+434258,1st innings,Bangladesh,Sri Lanka,45.6,Mohammad Ashraful,Mahmudullah,S Randiv,0,0,0,NA,0,NA,NA,NA,0
+434258,1st innings,Bangladesh,Sri Lanka,45.7,Mohammad Ashraful,Mahmudullah,S Randiv,0,1,1,legbyes,0,NA,NA,NA,0
+434258,1st innings,Bangladesh,Sri Lanka,46.1,Mohammad Ashraful,Mahmudullah,KMDN Kulasekara,0,0,0,NA,0,NA,NA,NA,0
+434258,1st innings,Bangladesh,Sri Lanka,46.2,Mohammad Ashraful,Mahmudullah,KMDN Kulasekara,1,0,1,NA,0,NA,NA,NA,0
+434258,1st innings,Bangladesh,Sri Lanka,46.3,Mahmudullah,Mohammad Ashraful,KMDN Kulasekara,1,0,1,NA,0,NA,NA,NA,0
+434258,1st innings,Bangladesh,Sri Lanka,46.4,Mohammad Ashraful,Mahmudullah,KMDN Kulasekara,1,0,1,NA,0,NA,NA,NA,0
+434258,1st innings,Bangladesh,Sri Lanka,46.5,Mahmudullah,Mohammad Ashraful,KMDN Kulasekara,1,0,1,NA,0,NA,NA,NA,0
+434258,1st innings,Bangladesh,Sri Lanka,46.6,Mohammad Ashraful,Mahmudullah,KMDN Kulasekara,1,0,1,NA,0,NA,NA,NA,0
+434258,1st innings,Bangladesh,Sri Lanka,47.1,Mohammad Ashraful,Mahmudullah,S Randiv,1,0,1,NA,0,NA,NA,NA,0
+434258,1st innings,Bangladesh,Sri Lanka,47.2,Mahmudullah,Mohammad Ashraful,S Randiv,6,0,6,NA,0,NA,NA,NA,0
+434258,1st innings,Bangladesh,Sri Lanka,47.3,Mahmudullah,Mohammad Ashraful,S Randiv,0,0,0,NA,1,lbw,Mahmudullah,NA,0
+434258,1st innings,Bangladesh,Sri Lanka,47.4,Naeem Islam,Mohammad Ashraful,S Randiv,1,0,1,NA,0,NA,NA,NA,0
+434258,1st innings,Bangladesh,Sri Lanka,47.5,Mohammad Ashraful,Naeem Islam,S Randiv,4,0,4,NA,0,NA,NA,NA,0
+434258,1st innings,Bangladesh,Sri Lanka,47.6,Mohammad Ashraful,Naeem Islam,S Randiv,1,0,1,NA,0,NA,NA,NA,0
+434258,1st innings,Bangladesh,Sri Lanka,48.1,Mohammad Ashraful,Naeem Islam,KMDN Kulasekara,4,0,4,NA,0,NA,NA,NA,0
+434258,1st innings,Bangladesh,Sri Lanka,48.2,Mohammad Ashraful,Naeem Islam,KMDN Kulasekara,1,0,1,NA,0,NA,NA,NA,0
+434258,1st innings,Bangladesh,Sri Lanka,48.3,Naeem Islam,Mohammad Ashraful,KMDN Kulasekara,0,0,0,NA,1,run out,Mohammad Ashraful,KC Sangakkara,0
+434258,1st innings,Bangladesh,Sri Lanka,48.4,Abdur Razzak,Naeem Islam,KMDN Kulasekara,0,0,0,NA,0,NA,NA,NA,0
+434258,1st innings,Bangladesh,Sri Lanka,48.5,Abdur Razzak,Naeem Islam,KMDN Kulasekara,1,0,1,NA,0,NA,NA,NA,0
+434258,1st innings,Bangladesh,Sri Lanka,48.6,Naeem Islam,Abdur Razzak,KMDN Kulasekara,1,0,1,NA,0,NA,NA,NA,0
+434258,1st innings,Bangladesh,Sri Lanka,49.1,Naeem Islam,Abdur Razzak,RAS Lakmal,4,0,4,NA,0,NA,NA,NA,0
+434258,1st innings,Bangladesh,Sri Lanka,49.2,Naeem Islam,Abdur Razzak,RAS Lakmal,6,0,6,NA,0,NA,NA,NA,0
+434258,1st innings,Bangladesh,Sri Lanka,49.3,Naeem Islam,Abdur Razzak,RAS Lakmal,6,0,6,NA,0,NA,NA,NA,0
+434258,1st innings,Bangladesh,Sri Lanka,49.4,Naeem Islam,Abdur Razzak,RAS Lakmal,2,0,2,NA,0,NA,NA,NA,0
+434258,1st innings,Bangladesh,Sri Lanka,49.5,Naeem Islam,Abdur Razzak,RAS Lakmal,0,0,0,NA,0,NA,NA,NA,0
+434258,1st innings,Bangladesh,Sri Lanka,49.6,Naeem Islam,Abdur Razzak,RAS Lakmal,2,0,2,NA,0,NA,NA,NA,0
+434258,2nd innings,Sri Lanka,Bangladesh,0.1,WU Tharanga,TM Dilshan,Shafiul Islam,0,0,0,NA,0,NA,NA,NA,1
+434258,2nd innings,Sri Lanka,Bangladesh,0.2,WU Tharanga,TM Dilshan,Shafiul Islam,4,0,4,NA,0,NA,NA,NA,1
+434258,2nd innings,Sri Lanka,Bangladesh,0.3,WU Tharanga,TM Dilshan,Shafiul Islam,0,0,0,NA,0,NA,NA,NA,1
+434258,2nd innings,Sri Lanka,Bangladesh,0.4,WU Tharanga,TM Dilshan,Shafiul Islam,4,1,5,noballs,0,NA,NA,NA,1
+434258,2nd innings,Sri Lanka,Bangladesh,0.5,WU Tharanga,TM Dilshan,Shafiul Islam,1,0,1,NA,0,NA,NA,NA,1
+434258,2nd innings,Sri Lanka,Bangladesh,0.6,TM Dilshan,WU Tharanga,Shafiul Islam,0,0,0,NA,0,NA,NA,NA,1
+434258,2nd innings,Sri Lanka,Bangladesh,0.7,TM Dilshan,WU Tharanga,Shafiul Islam,0,0,0,NA,0,NA,NA,NA,1
+434258,2nd innings,Sri Lanka,Bangladesh,1.1,WU Tharanga,TM Dilshan,Rubel Hossain,0,0,0,NA,0,NA,NA,NA,1
+434258,2nd innings,Sri Lanka,Bangladesh,1.2,WU Tharanga,TM Dilshan,Rubel Hossain,0,1,1,wides,0,NA,NA,NA,1
+434258,2nd innings,Sri Lanka,Bangladesh,1.3,WU Tharanga,TM Dilshan,Rubel Hossain,0,4,4,legbyes,0,NA,NA,NA,1
+434258,2nd innings,Sri Lanka,Bangladesh,1.4,WU Tharanga,TM Dilshan,Rubel Hossain,0,0,0,NA,0,NA,NA,NA,1
+434258,2nd innings,Sri Lanka,Bangladesh,1.5,WU Tharanga,TM Dilshan,Rubel Hossain,0,0,0,NA,0,NA,NA,NA,1
+434258,2nd innings,Sri Lanka,Bangladesh,1.6,WU Tharanga,TM Dilshan,Rubel Hossain,0,0,0,NA,0,NA,NA,NA,1
+434258,2nd innings,Sri Lanka,Bangladesh,1.7,WU Tharanga,TM Dilshan,Rubel Hossain,0,0,0,NA,0,NA,NA,NA,1
+434258,2nd innings,Sri Lanka,Bangladesh,2.1,TM Dilshan,WU Tharanga,Shafiul Islam,4,0,4,NA,0,NA,NA,NA,1
+434258,2nd innings,Sri Lanka,Bangladesh,2.2,TM Dilshan,WU Tharanga,Shafiul Islam,1,0,1,NA,0,NA,NA,NA,1
+434258,2nd innings,Sri Lanka,Bangladesh,2.3,WU Tharanga,TM Dilshan,Shafiul Islam,0,4,4,byes,0,NA,NA,NA,1
+434258,2nd innings,Sri Lanka,Bangladesh,2.4,WU Tharanga,TM Dilshan,Shafiul Islam,1,0,1,NA,0,NA,NA,NA,1
+434258,2nd innings,Sri Lanka,Bangladesh,2.5,TM Dilshan,WU Tharanga,Shafiul Islam,4,0,4,NA,0,NA,NA,NA,1
+434258,2nd innings,Sri Lanka,Bangladesh,2.6,TM Dilshan,WU Tharanga,Shafiul Islam,1,0,1,NA,0,NA,NA,NA,1
+434258,2nd innings,Sri Lanka,Bangladesh,3.1,TM Dilshan,WU Tharanga,Rubel Hossain,0,0,0,NA,0,NA,NA,NA,1
+434258,2nd innings,Sri Lanka,Bangladesh,3.2,TM Dilshan,WU Tharanga,Rubel Hossain,0,0,0,NA,0,NA,NA,NA,1
+434258,2nd innings,Sri Lanka,Bangladesh,3.3,TM Dilshan,WU Tharanga,Rubel Hossain,1,0,1,NA,0,NA,NA,NA,1
+434258,2nd innings,Sri Lanka,Bangladesh,3.4,WU Tharanga,TM Dilshan,Rubel Hossain,4,0,4,NA,0,NA,NA,NA,1
+434258,2nd innings,Sri Lanka,Bangladesh,3.5,WU Tharanga,TM Dilshan,Rubel Hossain,0,0,0,NA,1,caught,WU Tharanga,Mushfiqur Rahim,1
+434258,2nd innings,Sri Lanka,Bangladesh,3.6,KC Sangakkara,TM Dilshan,Rubel Hossain,0,0,0,NA,0,NA,NA,NA,1
+434258,2nd innings,Sri Lanka,Bangladesh,4.1,TM Dilshan,KC Sangakkara,Shafiul Islam,0,0,0,NA,0,NA,NA,NA,1
+434258,2nd innings,Sri Lanka,Bangladesh,4.2,TM Dilshan,KC Sangakkara,Shafiul Islam,0,0,0,NA,0,NA,NA,NA,1
+434258,2nd innings,Sri Lanka,Bangladesh,4.3,TM Dilshan,KC Sangakkara,Shafiul Islam,0,0,0,NA,0,NA,NA,NA,1
+434258,2nd innings,Sri Lanka,Bangladesh,4.4,TM Dilshan,KC Sangakkara,Shafiul Islam,4,0,4,NA,0,NA,NA,NA,1
+434258,2nd innings,Sri Lanka,Bangladesh,4.5,TM Dilshan,KC Sangakkara,Shafiul Islam,0,0,0,NA,0,NA,NA,NA,1
+434258,2nd innings,Sri Lanka,Bangladesh,4.6,TM Dilshan,KC Sangakkara,Shafiul Islam,0,0,0,NA,0,NA,NA,NA,1
+434258,2nd innings,Sri Lanka,Bangladesh,5.1,KC Sangakkara,TM Dilshan,Rubel Hossain,4,0,4,NA,0,NA,NA,NA,1
+434258,2nd innings,Sri Lanka,Bangladesh,5.2,KC Sangakkara,TM Dilshan,Rubel Hossain,0,0,0,NA,0,NA,NA,NA,1
+434258,2nd innings,Sri Lanka,Bangladesh,5.3,KC Sangakkara,TM Dilshan,Rubel Hossain,0,4,4,legbyes,0,NA,NA,NA,1
+434258,2nd innings,Sri Lanka,Bangladesh,5.4,KC Sangakkara,TM Dilshan,Rubel Hossain,4,0,4,NA,0,NA,NA,NA,1
+434258,2nd innings,Sri Lanka,Bangladesh,5.5,KC Sangakkara,TM Dilshan,Rubel Hossain,0,0,0,NA,0,NA,NA,NA,1
+434258,2nd innings,Sri Lanka,Bangladesh,5.6,KC Sangakkara,TM Dilshan,Rubel Hossain,1,0,1,NA,0,NA,NA,NA,1
+434258,2nd innings,Sri Lanka,Bangladesh,6.1,KC Sangakkara,TM Dilshan,Shakib Al Hasan,0,0,0,NA,0,NA,NA,NA,1
+434258,2nd innings,Sri Lanka,Bangladesh,6.2,KC Sangakkara,TM Dilshan,Shakib Al Hasan,1,0,1,NA,0,NA,NA,NA,1
+434258,2nd innings,Sri Lanka,Bangladesh,6.3,TM Dilshan,KC Sangakkara,Shakib Al Hasan,0,0,0,NA,0,NA,NA,NA,1
+434258,2nd innings,Sri Lanka,Bangladesh,6.4,TM Dilshan,KC Sangakkara,Shakib Al Hasan,0,1,1,legbyes,0,NA,NA,NA,1
+434258,2nd innings,Sri Lanka,Bangladesh,6.5,KC Sangakkara,TM Dilshan,Shakib Al Hasan,0,0,0,NA,0,NA,NA,NA,1
+434258,2nd innings,Sri Lanka,Bangladesh,6.6,KC Sangakkara,TM Dilshan,Shakib Al Hasan,0,0,0,NA,0,NA,NA,NA,1
+434258,2nd innings,Sri Lanka,Bangladesh,7.1,TM Dilshan,KC Sangakkara,Rubel Hossain,1,0,1,NA,0,NA,NA,NA,1
+434258,2nd innings,Sri Lanka,Bangladesh,7.2,KC Sangakkara,TM Dilshan,Rubel Hossain,4,0,4,NA,0,NA,NA,NA,1
+434258,2nd innings,Sri Lanka,Bangladesh,7.3,KC Sangakkara,TM Dilshan,Rubel Hossain,0,0,0,NA,0,NA,NA,NA,1
+434258,2nd innings,Sri Lanka,Bangladesh,7.4,KC Sangakkara,TM Dilshan,Rubel Hossain,0,0,0,NA,0,NA,NA,NA,1
+434258,2nd innings,Sri Lanka,Bangladesh,7.5,KC Sangakkara,TM Dilshan,Rubel Hossain,0,1,1,noballs,0,NA,NA,NA,1
+434258,2nd innings,Sri Lanka,Bangladesh,7.6,KC Sangakkara,TM Dilshan,Rubel Hossain,4,0,4,NA,0,NA,NA,NA,1
+434258,2nd innings,Sri Lanka,Bangladesh,7.7,KC Sangakkara,TM Dilshan,Rubel Hossain,0,0,0,NA,0,NA,NA,NA,1
+434258,2nd innings,Sri Lanka,Bangladesh,8.1,TM Dilshan,KC Sangakkara,Abdur Razzak,2,0,2,NA,0,NA,NA,NA,1
+434258,2nd innings,Sri Lanka,Bangladesh,8.2,TM Dilshan,KC Sangakkara,Abdur Razzak,1,0,1,NA,0,NA,NA,NA,1
+434258,2nd innings,Sri Lanka,Bangladesh,8.3,KC Sangakkara,TM Dilshan,Abdur Razzak,2,0,2,NA,0,NA,NA,NA,1
+434258,2nd innings,Sri Lanka,Bangladesh,8.4,KC Sangakkara,TM Dilshan,Abdur Razzak,0,1,1,wides,0,NA,NA,NA,1
+434258,2nd innings,Sri Lanka,Bangladesh,8.5,KC Sangakkara,TM Dilshan,Abdur Razzak,1,0,1,NA,0,NA,NA,NA,1
+434258,2nd innings,Sri Lanka,Bangladesh,8.6,TM Dilshan,KC Sangakkara,Abdur Razzak,0,0,0,NA,0,NA,NA,NA,1
+434258,2nd innings,Sri Lanka,Bangladesh,8.7,TM Dilshan,KC Sangakkara,Abdur Razzak,1,0,1,NA,0,NA,NA,NA,1
+434258,2nd innings,Sri Lanka,Bangladesh,9.1,TM Dilshan,KC Sangakkara,Shakib Al Hasan,4,0,4,NA,0,NA,NA,NA,1
+434258,2nd innings,Sri Lanka,Bangladesh,9.2,TM Dilshan,KC Sangakkara,Shakib Al Hasan,0,0,0,NA,0,NA,NA,NA,1
+434258,2nd innings,Sri Lanka,Bangladesh,9.3,TM Dilshan,KC Sangakkara,Shakib Al Hasan,1,0,1,NA,0,NA,NA,NA,1
+434258,2nd innings,Sri Lanka,Bangladesh,9.4,KC Sangakkara,TM Dilshan,Shakib Al Hasan,0,0,0,NA,0,NA,NA,NA,1
+434258,2nd innings,Sri Lanka,Bangladesh,9.5,KC Sangakkara,TM Dilshan,Shakib Al Hasan,0,0,0,NA,0,NA,NA,NA,1
+434258,2nd innings,Sri Lanka,Bangladesh,9.6,KC Sangakkara,TM Dilshan,Shakib Al Hasan,4,0,4,NA,0,NA,NA,NA,1
+434258,2nd innings,Sri Lanka,Bangladesh,10.1,TM Dilshan,KC Sangakkara,Abdur Razzak,0,0,0,NA,0,NA,NA,NA,1
+434258,2nd innings,Sri Lanka,Bangladesh,10.2,TM Dilshan,KC Sangakkara,Abdur Razzak,0,0,0,NA,0,NA,NA,NA,1
+434258,2nd innings,Sri Lanka,Bangladesh,10.3,TM Dilshan,KC Sangakkara,Abdur Razzak,0,0,0,NA,0,NA,NA,NA,1
+434258,2nd innings,Sri Lanka,Bangladesh,10.4,TM Dilshan,KC Sangakkara,Abdur Razzak,0,0,0,NA,0,NA,NA,NA,1
+434258,2nd innings,Sri Lanka,Bangladesh,10.5,TM Dilshan,KC Sangakkara,Abdur Razzak,1,0,1,NA,0,NA,NA,NA,1
+434258,2nd innings,Sri Lanka,Bangladesh,10.6,KC Sangakkara,TM Dilshan,Abdur Razzak,0,0,0,NA,0,NA,NA,NA,1
+434258,2nd innings,Sri Lanka,Bangladesh,11.1,TM Dilshan,KC Sangakkara,Shakib Al Hasan,1,0,1,NA,0,NA,NA,NA,1
+434258,2nd innings,Sri Lanka,Bangladesh,11.2,KC Sangakkara,TM Dilshan,Shakib Al Hasan,0,0,0,NA,0,NA,NA,NA,1
+434258,2nd innings,Sri Lanka,Bangladesh,11.3,KC Sangakkara,TM Dilshan,Shakib Al Hasan,0,0,0,NA,0,NA,NA,NA,1
+434258,2nd innings,Sri Lanka,Bangladesh,11.4,KC Sangakkara,TM Dilshan,Shakib Al Hasan,0,0,0,NA,0,NA,NA,NA,1
+434258,2nd innings,Sri Lanka,Bangladesh,11.5,KC Sangakkara,TM Dilshan,Shakib Al Hasan,0,0,0,NA,0,NA,NA,NA,1
+434258,2nd innings,Sri Lanka,Bangladesh,11.6,KC Sangakkara,TM Dilshan,Shakib Al Hasan,0,0,0,NA,0,NA,NA,NA,1
+434258,2nd innings,Sri Lanka,Bangladesh,12.1,TM Dilshan,KC Sangakkara,Abdur Razzak,0,1,1,wides,0,NA,NA,NA,1
+434258,2nd innings,Sri Lanka,Bangladesh,12.2,TM Dilshan,KC Sangakkara,Abdur Razzak,2,0,2,NA,0,NA,NA,NA,1
+434258,2nd innings,Sri Lanka,Bangladesh,12.3,TM Dilshan,KC Sangakkara,Abdur Razzak,0,0,0,NA,0,NA,NA,NA,1
+434258,2nd innings,Sri Lanka,Bangladesh,12.4,TM Dilshan,KC Sangakkara,Abdur Razzak,1,0,1,NA,0,NA,NA,NA,1
+434258,2nd innings,Sri Lanka,Bangladesh,12.5,KC Sangakkara,TM Dilshan,Abdur Razzak,1,0,1,NA,0,NA,NA,NA,1
+434258,2nd innings,Sri Lanka,Bangladesh,12.6,TM Dilshan,KC Sangakkara,Abdur Razzak,0,0,0,NA,0,NA,NA,NA,1
+434258,2nd innings,Sri Lanka,Bangladesh,12.7,TM Dilshan,KC Sangakkara,Abdur Razzak,0,0,0,NA,0,NA,NA,NA,1
+434258,2nd innings,Sri Lanka,Bangladesh,13.1,KC Sangakkara,TM Dilshan,Shakib Al Hasan,1,0,1,NA,0,NA,NA,NA,1
+434258,2nd innings,Sri Lanka,Bangladesh,13.2,TM Dilshan,KC Sangakkara,Shakib Al Hasan,1,0,1,NA,0,NA,NA,NA,1
+434258,2nd innings,Sri Lanka,Bangladesh,13.3,KC Sangakkara,TM Dilshan,Shakib Al Hasan,1,0,1,NA,0,NA,NA,NA,1
+434258,2nd innings,Sri Lanka,Bangladesh,13.4,TM Dilshan,KC Sangakkara,Shakib Al Hasan,0,0,0,NA,0,NA,NA,NA,1
+434258,2nd innings,Sri Lanka,Bangladesh,13.5,TM Dilshan,KC Sangakkara,Shakib Al Hasan,0,0,0,NA,0,NA,NA,NA,1
+434258,2nd innings,Sri Lanka,Bangladesh,13.6,TM Dilshan,KC Sangakkara,Shakib Al Hasan,0,0,0,NA,0,NA,NA,NA,1
+434258,2nd innings,Sri Lanka,Bangladesh,14.1,KC Sangakkara,TM Dilshan,Rubel Hossain,1,0,1,NA,0,NA,NA,NA,1
+434258,2nd innings,Sri Lanka,Bangladesh,14.2,TM Dilshan,KC Sangakkara,Rubel Hossain,0,0,0,NA,0,NA,NA,NA,1
+434258,2nd innings,Sri Lanka,Bangladesh,14.3,TM Dilshan,KC Sangakkara,Rubel Hossain,0,0,0,NA,0,NA,NA,NA,1
+434258,2nd innings,Sri Lanka,Bangladesh,14.4,TM Dilshan,KC Sangakkara,Rubel Hossain,0,0,0,NA,0,NA,NA,NA,1
+434258,2nd innings,Sri Lanka,Bangladesh,14.5,TM Dilshan,KC Sangakkara,Rubel Hossain,0,0,0,NA,0,NA,NA,NA,1
+434258,2nd innings,Sri Lanka,Bangladesh,14.6,TM Dilshan,KC Sangakkara,Rubel Hossain,1,0,1,NA,0,NA,NA,NA,1
+434258,2nd innings,Sri Lanka,Bangladesh,15.1,TM Dilshan,KC Sangakkara,Shakib Al Hasan,1,0,1,NA,0,NA,NA,NA,1
+434258,2nd innings,Sri Lanka,Bangladesh,15.2,KC Sangakkara,TM Dilshan,Shakib Al Hasan,0,0,0,NA,0,NA,NA,NA,1
+434258,2nd innings,Sri Lanka,Bangladesh,15.3,KC Sangakkara,TM Dilshan,Shakib Al Hasan,4,0,4,NA,0,NA,NA,NA,1
+434258,2nd innings,Sri Lanka,Bangladesh,15.4,KC Sangakkara,TM Dilshan,Shakib Al Hasan,1,0,1,NA,0,NA,NA,NA,1
+434258,2nd innings,Sri Lanka,Bangladesh,15.5,TM Dilshan,KC Sangakkara,Shakib Al Hasan,1,0,1,NA,0,NA,NA,NA,1
+434258,2nd innings,Sri Lanka,Bangladesh,15.6,KC Sangakkara,TM Dilshan,Shakib Al Hasan,4,0,4,NA,0,NA,NA,NA,1
+434258,2nd innings,Sri Lanka,Bangladesh,16.1,TM Dilshan,KC Sangakkara,Rubel Hossain,4,0,4,NA,0,NA,NA,NA,1
+434258,2nd innings,Sri Lanka,Bangladesh,16.2,TM Dilshan,KC Sangakkara,Rubel Hossain,1,0,1,NA,0,NA,NA,NA,1
+434258,2nd innings,Sri Lanka,Bangladesh,16.3,KC Sangakkara,TM Dilshan,Rubel Hossain,0,1,1,wides,0,NA,NA,NA,1
+434258,2nd innings,Sri Lanka,Bangladesh,16.4,KC Sangakkara,TM Dilshan,Rubel Hossain,0,0,0,NA,0,NA,NA,NA,1
+434258,2nd innings,Sri Lanka,Bangladesh,16.5,KC Sangakkara,TM Dilshan,Rubel Hossain,0,0,0,NA,0,NA,NA,NA,1
+434258,2nd innings,Sri Lanka,Bangladesh,16.6,KC Sangakkara,TM Dilshan,Rubel Hossain,4,0,4,NA,0,NA,NA,NA,1
+434258,2nd innings,Sri Lanka,Bangladesh,16.7,KC Sangakkara,TM Dilshan,Rubel Hossain,2,0,2,NA,0,NA,NA,NA,1
+434258,2nd innings,Sri Lanka,Bangladesh,17.1,TM Dilshan,KC Sangakkara,Mahmudullah,0,0,0,NA,0,NA,NA,NA,1
+434258,2nd innings,Sri Lanka,Bangladesh,17.2,TM Dilshan,KC Sangakkara,Mahmudullah,1,0,1,NA,0,NA,NA,NA,1
+434258,2nd innings,Sri Lanka,Bangladesh,17.3,KC Sangakkara,TM Dilshan,Mahmudullah,0,0,0,NA,0,NA,NA,NA,1
+434258,2nd innings,Sri Lanka,Bangladesh,17.4,KC Sangakkara,TM Dilshan,Mahmudullah,1,0,1,NA,0,NA,NA,NA,1
+434258,2nd innings,Sri Lanka,Bangladesh,17.5,TM Dilshan,KC Sangakkara,Mahmudullah,1,0,1,NA,0,NA,NA,NA,1
+434258,2nd innings,Sri Lanka,Bangladesh,17.6,KC Sangakkara,TM Dilshan,Mahmudullah,2,0,2,NA,0,NA,NA,NA,1
+434258,2nd innings,Sri Lanka,Bangladesh,18.1,TM Dilshan,KC Sangakkara,Abdur Razzak,2,0,2,NA,0,NA,NA,NA,1
+434258,2nd innings,Sri Lanka,Bangladesh,18.2,TM Dilshan,KC Sangakkara,Abdur Razzak,0,0,0,NA,0,NA,NA,NA,1
+434258,2nd innings,Sri Lanka,Bangladesh,18.3,TM Dilshan,KC Sangakkara,Abdur Razzak,0,0,0,NA,0,NA,NA,NA,1
+434258,2nd innings,Sri Lanka,Bangladesh,18.4,TM Dilshan,KC Sangakkara,Abdur Razzak,0,0,0,NA,0,NA,NA,NA,1
+434258,2nd innings,Sri Lanka,Bangladesh,18.5,TM Dilshan,KC Sangakkara,Abdur Razzak,0,0,0,NA,0,NA,NA,NA,1
+434258,2nd innings,Sri Lanka,Bangladesh,18.6,TM Dilshan,KC Sangakkara,Abdur Razzak,1,0,1,NA,0,NA,NA,NA,1
+434258,2nd innings,Sri Lanka,Bangladesh,19.1,TM Dilshan,KC Sangakkara,Mahmudullah,0,0,0,NA,0,NA,NA,NA,1
+434258,2nd innings,Sri Lanka,Bangladesh,19.2,TM Dilshan,KC Sangakkara,Mahmudullah,1,0,1,NA,0,NA,NA,NA,1
+434258,2nd innings,Sri Lanka,Bangladesh,19.3,KC Sangakkara,TM Dilshan,Mahmudullah,0,0,0,NA,0,NA,NA,NA,1
+434258,2nd innings,Sri Lanka,Bangladesh,19.4,KC Sangakkara,TM Dilshan,Mahmudullah,0,0,0,NA,0,NA,NA,NA,1
+434258,2nd innings,Sri Lanka,Bangladesh,19.5,KC Sangakkara,TM Dilshan,Mahmudullah,1,0,1,NA,0,NA,NA,NA,1
+434258,2nd innings,Sri Lanka,Bangladesh,19.6,TM Dilshan,KC Sangakkara,Mahmudullah,4,0,4,NA,0,NA,NA,NA,1
+434258,2nd innings,Sri Lanka,Bangladesh,20.1,KC Sangakkara,TM Dilshan,Abdur Razzak,1,0,1,NA,0,NA,NA,NA,1
+434258,2nd innings,Sri Lanka,Bangladesh,20.2,TM Dilshan,KC Sangakkara,Abdur Razzak,0,0,0,NA,0,NA,NA,NA,1
+434258,2nd innings,Sri Lanka,Bangladesh,20.3,TM Dilshan,KC Sangakkara,Abdur Razzak,1,0,1,NA,0,NA,NA,NA,1
+434258,2nd innings,Sri Lanka,Bangladesh,20.4,KC Sangakkara,TM Dilshan,Abdur Razzak,0,0,0,NA,0,NA,NA,NA,1
+434258,2nd innings,Sri Lanka,Bangladesh,20.5,KC Sangakkara,TM Dilshan,Abdur Razzak,2,0,2,NA,0,NA,NA,NA,1
+434258,2nd innings,Sri Lanka,Bangladesh,20.6,KC Sangakkara,TM Dilshan,Abdur Razzak,1,0,1,NA,0,NA,NA,NA,1
+434258,2nd innings,Sri Lanka,Bangladesh,21.1,KC Sangakkara,TM Dilshan,Mahmudullah,0,0,0,NA,0,NA,NA,NA,1
+434258,2nd innings,Sri Lanka,Bangladesh,21.2,KC Sangakkara,TM Dilshan,Mahmudullah,1,0,1,NA,0,NA,NA,NA,1
+434258,2nd innings,Sri Lanka,Bangladesh,21.3,TM Dilshan,KC Sangakkara,Mahmudullah,4,0,4,NA,0,NA,NA,NA,1
+434258,2nd innings,Sri Lanka,Bangladesh,21.4,TM Dilshan,KC Sangakkara,Mahmudullah,0,0,0,NA,0,NA,NA,NA,1
+434258,2nd innings,Sri Lanka,Bangladesh,21.5,TM Dilshan,KC Sangakkara,Mahmudullah,1,0,1,NA,0,NA,NA,NA,1
+434258,2nd innings,Sri Lanka,Bangladesh,21.6,KC Sangakkara,TM Dilshan,Mahmudullah,1,0,1,NA,0,NA,NA,NA,1
+434258,2nd innings,Sri Lanka,Bangladesh,22.1,KC Sangakkara,TM Dilshan,Abdur Razzak,1,0,1,NA,0,NA,NA,NA,1
+434258,2nd innings,Sri Lanka,Bangladesh,22.2,TM Dilshan,KC Sangakkara,Abdur Razzak,0,0,0,NA,0,NA,NA,NA,1
+434258,2nd innings,Sri Lanka,Bangladesh,22.3,TM Dilshan,KC Sangakkara,Abdur Razzak,0,0,0,NA,0,NA,NA,NA,1
+434258,2nd innings,Sri Lanka,Bangladesh,22.4,TM Dilshan,KC Sangakkara,Abdur Razzak,0,0,0,NA,0,NA,NA,NA,1
+434258,2nd innings,Sri Lanka,Bangladesh,22.5,TM Dilshan,KC Sangakkara,Abdur Razzak,4,0,4,NA,0,NA,NA,NA,1
+434258,2nd innings,Sri Lanka,Bangladesh,22.6,TM Dilshan,KC Sangakkara,Abdur Razzak,0,0,0,NA,0,NA,NA,NA,1
+434258,2nd innings,Sri Lanka,Bangladesh,23.1,KC Sangakkara,TM Dilshan,Naeem Islam,0,0,0,NA,0,NA,NA,NA,1
+434258,2nd innings,Sri Lanka,Bangladesh,23.2,KC Sangakkara,TM Dilshan,Naeem Islam,1,0,1,NA,0,NA,NA,NA,1
+434258,2nd innings,Sri Lanka,Bangladesh,23.3,TM Dilshan,KC Sangakkara,Naeem Islam,0,0,0,NA,0,NA,NA,NA,1
+434258,2nd innings,Sri Lanka,Bangladesh,23.4,TM Dilshan,KC Sangakkara,Naeem Islam,0,0,0,NA,0,NA,NA,NA,1
+434258,2nd innings,Sri Lanka,Bangladesh,23.5,TM Dilshan,KC Sangakkara,Naeem Islam,1,0,1,NA,0,NA,NA,NA,1
+434258,2nd innings,Sri Lanka,Bangladesh,23.6,KC Sangakkara,TM Dilshan,Naeem Islam,3,0,3,NA,0,NA,NA,NA,1
+434258,2nd innings,Sri Lanka,Bangladesh,24.1,KC Sangakkara,TM Dilshan,Shakib Al Hasan,1,0,1,NA,0,NA,NA,NA,1
+434258,2nd innings,Sri Lanka,Bangladesh,24.2,TM Dilshan,KC Sangakkara,Shakib Al Hasan,1,0,1,NA,0,NA,NA,NA,1
+434258,2nd innings,Sri Lanka,Bangladesh,24.3,KC Sangakkara,TM Dilshan,Shakib Al Hasan,0,0,0,NA,0,NA,NA,NA,1
+434258,2nd innings,Sri Lanka,Bangladesh,24.4,KC Sangakkara,TM Dilshan,Shakib Al Hasan,1,0,1,NA,0,NA,NA,NA,1
+434258,2nd innings,Sri Lanka,Bangladesh,24.5,TM Dilshan,KC Sangakkara,Shakib Al Hasan,0,1,1,wides,0,NA,NA,NA,1
+434258,2nd innings,Sri Lanka,Bangladesh,24.6,TM Dilshan,KC Sangakkara,Shakib Al Hasan,0,0,0,NA,0,NA,NA,NA,1
+434258,2nd innings,Sri Lanka,Bangladesh,24.7,TM Dilshan,KC Sangakkara,Shakib Al Hasan,0,0,0,NA,0,NA,NA,NA,1
+434258,2nd innings,Sri Lanka,Bangladesh,25.1,KC Sangakkara,TM Dilshan,Naeem Islam,4,0,4,NA,0,NA,NA,NA,1
+434258,2nd innings,Sri Lanka,Bangladesh,25.2,KC Sangakkara,TM Dilshan,Naeem Islam,0,0,0,NA,0,NA,NA,NA,1
+434258,2nd innings,Sri Lanka,Bangladesh,25.3,KC Sangakkara,TM Dilshan,Naeem Islam,1,0,1,NA,0,NA,NA,NA,1
+434258,2nd innings,Sri Lanka,Bangladesh,25.4,TM Dilshan,KC Sangakkara,Naeem Islam,0,1,1,wides,0,NA,NA,NA,1
+434258,2nd innings,Sri Lanka,Bangladesh,25.5,TM Dilshan,KC Sangakkara,Naeem Islam,1,0,1,NA,0,NA,NA,NA,1
+434258,2nd innings,Sri Lanka,Bangladesh,25.6,KC Sangakkara,TM Dilshan,Naeem Islam,4,0,4,NA,0,NA,NA,NA,1
+434258,2nd innings,Sri Lanka,Bangladesh,25.7,KC Sangakkara,TM Dilshan,Naeem Islam,0,0,0,NA,0,NA,NA,NA,1
+434258,2nd innings,Sri Lanka,Bangladesh,26.1,TM Dilshan,KC Sangakkara,Shakib Al Hasan,0,0,0,NA,0,NA,NA,NA,1
+434258,2nd innings,Sri Lanka,Bangladesh,26.2,TM Dilshan,KC Sangakkara,Shakib Al Hasan,1,0,1,NA,0,NA,NA,NA,1
+434258,2nd innings,Sri Lanka,Bangladesh,26.3,KC Sangakkara,TM Dilshan,Shakib Al Hasan,0,0,0,NA,0,NA,NA,NA,1
+434258,2nd innings,Sri Lanka,Bangladesh,26.4,KC Sangakkara,TM Dilshan,Shakib Al Hasan,1,0,1,NA,0,NA,NA,NA,1
+434258,2nd innings,Sri Lanka,Bangladesh,26.5,TM Dilshan,KC Sangakkara,Shakib Al Hasan,0,0,0,NA,0,NA,NA,NA,1
+434258,2nd innings,Sri Lanka,Bangladesh,26.6,TM Dilshan,KC Sangakkara,Shakib Al Hasan,1,0,1,NA,0,NA,NA,NA,1
+434258,2nd innings,Sri Lanka,Bangladesh,27.1,TM Dilshan,KC Sangakkara,Shafiul Islam,0,0,0,NA,0,NA,NA,NA,1
+434258,2nd innings,Sri Lanka,Bangladesh,27.2,TM Dilshan,KC Sangakkara,Shafiul Islam,4,0,4,NA,0,NA,NA,NA,1
+434258,2nd innings,Sri Lanka,Bangladesh,27.3,TM Dilshan,KC Sangakkara,Shafiul Islam,0,0,0,NA,0,NA,NA,NA,1
+434258,2nd innings,Sri Lanka,Bangladesh,27.4,TM Dilshan,KC Sangakkara,Shafiul Islam,0,0,0,NA,0,NA,NA,NA,1
+434258,2nd innings,Sri Lanka,Bangladesh,27.5,TM Dilshan,KC Sangakkara,Shafiul Islam,1,0,1,NA,0,NA,NA,NA,1
+434258,2nd innings,Sri Lanka,Bangladesh,27.6,KC Sangakkara,TM Dilshan,Shafiul Islam,1,0,1,NA,0,NA,NA,NA,1
+434258,2nd innings,Sri Lanka,Bangladesh,28.1,KC Sangakkara,TM Dilshan,Shakib Al Hasan,0,0,0,NA,0,NA,NA,NA,1
+434258,2nd innings,Sri Lanka,Bangladesh,28.2,KC Sangakkara,TM Dilshan,Shakib Al Hasan,1,0,1,NA,0,NA,NA,NA,1
+434258,2nd innings,Sri Lanka,Bangladesh,28.3,TM Dilshan,KC Sangakkara,Shakib Al Hasan,1,0,1,NA,0,NA,NA,NA,1
+434258,2nd innings,Sri Lanka,Bangladesh,28.4,KC Sangakkara,TM Dilshan,Shakib Al Hasan,0,0,0,NA,0,NA,NA,NA,1
+434258,2nd innings,Sri Lanka,Bangladesh,28.5,KC Sangakkara,TM Dilshan,Shakib Al Hasan,1,0,1,NA,0,NA,NA,NA,1
+434258,2nd innings,Sri Lanka,Bangladesh,28.6,TM Dilshan,KC Sangakkara,Shakib Al Hasan,4,0,4,NA,0,NA,NA,NA,1
+434258,2nd innings,Sri Lanka,Bangladesh,29.1,KC Sangakkara,TM Dilshan,Shafiul Islam,0,0,0,NA,1,caught,KC Sangakkara,Mushfiqur Rahim,1
+434258,2nd innings,Sri Lanka,Bangladesh,29.2,TT Samaraweera,TM Dilshan,Shafiul Islam,0,0,0,NA,0,NA,NA,NA,1
+434258,2nd innings,Sri Lanka,Bangladesh,29.3,TT Samaraweera,TM Dilshan,Shafiul Islam,4,0,4,NA,0,NA,NA,NA,1
+434258,2nd innings,Sri Lanka,Bangladesh,29.4,TT Samaraweera,TM Dilshan,Shafiul Islam,2,0,2,NA,0,NA,NA,NA,1
+434258,2nd innings,Sri Lanka,Bangladesh,29.5,TT Samaraweera,TM Dilshan,Shafiul Islam,1,0,1,NA,0,NA,NA,NA,1
+434258,2nd innings,Sri Lanka,Bangladesh,29.6,TM Dilshan,TT Samaraweera,Shafiul Islam,1,0,1,NA,0,NA,NA,NA,1
+434258,2nd innings,Sri Lanka,Bangladesh,30.1,TM Dilshan,TT Samaraweera,Shakib Al Hasan,0,0,0,NA,0,NA,NA,NA,1
+434258,2nd innings,Sri Lanka,Bangladesh,30.2,TM Dilshan,TT Samaraweera,Shakib Al Hasan,1,0,1,NA,0,NA,NA,NA,1
+434258,2nd innings,Sri Lanka,Bangladesh,30.3,TT Samaraweera,TM Dilshan,Shakib Al Hasan,0,0,0,NA,0,NA,NA,NA,1
+434258,2nd innings,Sri Lanka,Bangladesh,30.4,TT Samaraweera,TM Dilshan,Shakib Al Hasan,0,0,0,NA,0,NA,NA,NA,1
+434258,2nd innings,Sri Lanka,Bangladesh,30.5,TT Samaraweera,TM Dilshan,Shakib Al Hasan,0,0,0,NA,0,NA,NA,NA,1
+434258,2nd innings,Sri Lanka,Bangladesh,30.6,TT Samaraweera,TM Dilshan,Shakib Al Hasan,0,0,0,NA,0,NA,NA,NA,1
+434258,2nd innings,Sri Lanka,Bangladesh,31.1,TM Dilshan,TT Samaraweera,Abdur Razzak,1,0,1,NA,0,NA,NA,NA,1
+434258,2nd innings,Sri Lanka,Bangladesh,31.2,TT Samaraweera,TM Dilshan,Abdur Razzak,0,0,0,NA,0,NA,NA,NA,1
+434258,2nd innings,Sri Lanka,Bangladesh,31.3,TT Samaraweera,TM Dilshan,Abdur Razzak,0,0,0,NA,0,NA,NA,NA,1
+434258,2nd innings,Sri Lanka,Bangladesh,31.4,TT Samaraweera,TM Dilshan,Abdur Razzak,0,0,0,NA,0,NA,NA,NA,1
+434258,2nd innings,Sri Lanka,Bangladesh,31.5,TT Samaraweera,TM Dilshan,Abdur Razzak,0,0,0,NA,0,NA,NA,NA,1
+434258,2nd innings,Sri Lanka,Bangladesh,31.6,TT Samaraweera,TM Dilshan,Abdur Razzak,0,0,0,NA,0,NA,NA,NA,1
+434258,2nd innings,Sri Lanka,Bangladesh,32.1,TM Dilshan,TT Samaraweera,Shakib Al Hasan,0,0,0,NA,0,NA,NA,NA,1
+434258,2nd innings,Sri Lanka,Bangladesh,32.2,TM Dilshan,TT Samaraweera,Shakib Al Hasan,1,0,1,NA,0,NA,NA,NA,1
+434258,2nd innings,Sri Lanka,Bangladesh,32.3,TT Samaraweera,TM Dilshan,Shakib Al Hasan,1,0,1,NA,0,NA,NA,NA,1
+434258,2nd innings,Sri Lanka,Bangladesh,32.4,TM Dilshan,TT Samaraweera,Shakib Al Hasan,0,0,0,NA,0,NA,NA,NA,1
+434258,2nd innings,Sri Lanka,Bangladesh,32.5,TM Dilshan,TT Samaraweera,Shakib Al Hasan,1,0,1,NA,0,NA,NA,NA,1
+434258,2nd innings,Sri Lanka,Bangladesh,32.6,TT Samaraweera,TM Dilshan,Shakib Al Hasan,0,0,0,NA,0,NA,NA,NA,1
+434258,2nd innings,Sri Lanka,Bangladesh,33.1,TM Dilshan,TT Samaraweera,Abdur Razzak,1,0,1,NA,0,NA,NA,NA,1
+434258,2nd innings,Sri Lanka,Bangladesh,33.2,TT Samaraweera,TM Dilshan,Abdur Razzak,0,0,0,NA,0,NA,NA,NA,1
+434258,2nd innings,Sri Lanka,Bangladesh,33.3,TT Samaraweera,TM Dilshan,Abdur Razzak,0,0,0,NA,0,NA,NA,NA,1
+434258,2nd innings,Sri Lanka,Bangladesh,33.4,TT Samaraweera,TM Dilshan,Abdur Razzak,0,0,0,NA,0,NA,NA,NA,1
+434258,2nd innings,Sri Lanka,Bangladesh,33.5,TT Samaraweera,TM Dilshan,Abdur Razzak,0,0,0,NA,0,NA,NA,NA,1
+434258,2nd innings,Sri Lanka,Bangladesh,33.6,TT Samaraweera,TM Dilshan,Abdur Razzak,0,0,0,NA,0,NA,NA,NA,1
+434258,2nd innings,Sri Lanka,Bangladesh,34.1,TM Dilshan,TT Samaraweera,Naeem Islam,0,0,0,NA,0,NA,NA,NA,1
+434258,2nd innings,Sri Lanka,Bangladesh,34.2,TM Dilshan,TT Samaraweera,Naeem Islam,0,0,0,NA,0,NA,NA,NA,1
+434258,2nd innings,Sri Lanka,Bangladesh,34.3,TM Dilshan,TT Samaraweera,Naeem Islam,1,0,1,NA,0,NA,NA,NA,1
+434258,2nd innings,Sri Lanka,Bangladesh,34.4,TT Samaraweera,TM Dilshan,Naeem Islam,1,0,1,NA,0,NA,NA,NA,1
+434258,2nd innings,Sri Lanka,Bangladesh,34.5,TM Dilshan,TT Samaraweera,Naeem Islam,1,0,1,NA,0,NA,NA,NA,1
+434258,2nd innings,Sri Lanka,Bangladesh,34.6,TT Samaraweera,TM Dilshan,Naeem Islam,0,0,0,NA,0,NA,NA,NA,1
+434258,2nd innings,Sri Lanka,Bangladesh,35.1,TM Dilshan,TT Samaraweera,Abdur Razzak,0,0,0,NA,0,NA,NA,NA,1
+434258,2nd innings,Sri Lanka,Bangladesh,35.2,TM Dilshan,TT Samaraweera,Abdur Razzak,1,0,1,NA,0,NA,NA,NA,1
+434258,2nd innings,Sri Lanka,Bangladesh,35.3,TT Samaraweera,TM Dilshan,Abdur Razzak,0,0,0,NA,0,NA,NA,NA,1
+434258,2nd innings,Sri Lanka,Bangladesh,35.4,TT Samaraweera,TM Dilshan,Abdur Razzak,1,0,1,NA,0,NA,NA,NA,1
+434258,2nd innings,Sri Lanka,Bangladesh,35.5,TM Dilshan,TT Samaraweera,Abdur Razzak,0,0,0,NA,0,NA,NA,NA,1
+434258,2nd innings,Sri Lanka,Bangladesh,35.6,TM Dilshan,TT Samaraweera,Abdur Razzak,1,0,1,NA,0,NA,NA,NA,1
+434258,2nd innings,Sri Lanka,Bangladesh,36.1,TM Dilshan,TT Samaraweera,Naeem Islam,1,0,1,NA,0,NA,NA,NA,1
+434258,2nd innings,Sri Lanka,Bangladesh,36.2,TT Samaraweera,TM Dilshan,Naeem Islam,0,0,0,NA,0,NA,NA,NA,1
+434258,2nd innings,Sri Lanka,Bangladesh,36.3,TT Samaraweera,TM Dilshan,Naeem Islam,0,1,1,wides,0,NA,NA,NA,1
+434258,2nd innings,Sri Lanka,Bangladesh,36.4,TT Samaraweera,TM Dilshan,Naeem Islam,1,0,1,NA,0,NA,NA,NA,1
+434258,2nd innings,Sri Lanka,Bangladesh,36.5,TM Dilshan,TT Samaraweera,Naeem Islam,1,0,1,NA,0,NA,NA,NA,1
+434258,2nd innings,Sri Lanka,Bangladesh,36.6,TT Samaraweera,TM Dilshan,Naeem Islam,1,0,1,NA,0,NA,NA,NA,1
+434258,2nd innings,Sri Lanka,Bangladesh,36.7,TM Dilshan,TT Samaraweera,Naeem Islam,1,0,1,NA,0,NA,NA,NA,1
+434258,2nd innings,Sri Lanka,Bangladesh,37.1,TM Dilshan,TT Samaraweera,Abdur Razzak,1,0,1,NA,0,NA,NA,NA,1
+434258,2nd innings,Sri Lanka,Bangladesh,37.2,TT Samaraweera,TM Dilshan,Abdur Razzak,0,0,0,NA,0,NA,NA,NA,1
+434258,2nd innings,Sri Lanka,Bangladesh,37.3,TT Samaraweera,TM Dilshan,Abdur Razzak,1,0,1,NA,0,NA,NA,NA,1
+434258,2nd innings,Sri Lanka,Bangladesh,37.4,TM Dilshan,TT Samaraweera,Abdur Razzak,1,0,1,NA,0,NA,NA,NA,1
+434258,2nd innings,Sri Lanka,Bangladesh,37.5,TT Samaraweera,TM Dilshan,Abdur Razzak,1,0,1,NA,0,NA,NA,NA,1
+434258,2nd innings,Sri Lanka,Bangladesh,37.6,TM Dilshan,TT Samaraweera,Abdur Razzak,1,0,1,NA,0,NA,NA,NA,1
+434258,2nd innings,Sri Lanka,Bangladesh,38.1,TM Dilshan,TT Samaraweera,Rubel Hossain,0,0,0,NA,0,NA,NA,NA,1
+434258,2nd innings,Sri Lanka,Bangladesh,38.2,TM Dilshan,TT Samaraweera,Rubel Hossain,0,0,0,NA,0,NA,NA,NA,1
+434258,2nd innings,Sri Lanka,Bangladesh,38.3,TM Dilshan,TT Samaraweera,Rubel Hossain,1,0,1,NA,0,NA,NA,NA,1
+434258,2nd innings,Sri Lanka,Bangladesh,38.4,TT Samaraweera,TM Dilshan,Rubel Hossain,1,0,1,NA,0,NA,NA,NA,1
+434258,2nd innings,Sri Lanka,Bangladesh,38.5,TM Dilshan,TT Samaraweera,Rubel Hossain,4,0,4,NA,0,NA,NA,NA,1
+434258,2nd innings,Sri Lanka,Bangladesh,38.6,TM Dilshan,TT Samaraweera,Rubel Hossain,2,0,2,NA,0,NA,NA,NA,1
+434258,2nd innings,Sri Lanka,Bangladesh,39.1,TT Samaraweera,TM Dilshan,Mahmudullah,0,0,0,NA,0,NA,NA,NA,1
+434258,2nd innings,Sri Lanka,Bangladesh,39.2,TT Samaraweera,TM Dilshan,Mahmudullah,4,0,4,NA,0,NA,NA,NA,1
+434258,2nd innings,Sri Lanka,Bangladesh,39.3,TT Samaraweera,TM Dilshan,Mahmudullah,0,0,0,NA,0,NA,NA,NA,1
+434258,2nd innings,Sri Lanka,Bangladesh,39.4,TT Samaraweera,TM Dilshan,Mahmudullah,1,0,1,NA,0,NA,NA,NA,1
+434258,2nd innings,Sri Lanka,Bangladesh,39.5,TM Dilshan,TT Samaraweera,Mahmudullah,1,0,1,NA,0,NA,NA,NA,1
+434258,2nd innings,Sri Lanka,Bangladesh,39.6,TT Samaraweera,TM Dilshan,Mahmudullah,1,0,1,NA,0,NA,NA,NA,1
+434258,2nd innings,Sri Lanka,Bangladesh,40.1,TT Samaraweera,TM Dilshan,Mohammad Ashraful,0,0,0,NA,0,NA,NA,NA,1
+434258,2nd innings,Sri Lanka,Bangladesh,40.2,TT Samaraweera,TM Dilshan,Mohammad Ashraful,1,0,1,NA,0,NA,NA,NA,1
+434258,2nd innings,Sri Lanka,Bangladesh,40.3,TM Dilshan,TT Samaraweera,Mohammad Ashraful,4,0,4,NA,0,NA,NA,NA,1
+434258,2nd innings,Sri Lanka,Bangladesh,40.4,TM Dilshan,TT Samaraweera,Mohammad Ashraful,0,1,1,wides,0,NA,NA,NA,1
+434258,2nd innings,Sri Lanka,Bangladesh,40.5,TM Dilshan,TT Samaraweera,Mohammad Ashraful,1,0,1,NA,0,NA,NA,NA,1
+434258,2nd innings,Sri Lanka,Bangladesh,40.6,TT Samaraweera,TM Dilshan,Mohammad Ashraful,0,0,0,NA,0,NA,NA,NA,1
+434258,2nd innings,Sri Lanka,Bangladesh,40.7,TT Samaraweera,TM Dilshan,Mohammad Ashraful,4,0,4,NA,0,NA,NA,NA,1
+434258,2nd innings,Sri Lanka,Bangladesh,41.1,TM Dilshan,TT Samaraweera,Mahmudullah,1,0,1,NA,0,NA,NA,NA,1
+434258,2nd innings,Sri Lanka,Bangladesh,41.2,TT Samaraweera,TM Dilshan,Mahmudullah,0,0,0,NA,0,NA,NA,NA,1
+434258,2nd innings,Sri Lanka,Bangladesh,41.3,TT Samaraweera,TM Dilshan,Mahmudullah,0,0,0,NA,0,NA,NA,NA,1
+434258,2nd innings,Sri Lanka,Bangladesh,41.4,TT Samaraweera,TM Dilshan,Mahmudullah,1,0,1,NA,0,NA,NA,NA,1
+434258,2nd innings,Sri Lanka,Bangladesh,41.5,TM Dilshan,TT Samaraweera,Mahmudullah,0,0,0,NA,1,caught,TM Dilshan,Naeem Islam,1
+434258,2nd innings,Sri Lanka,Bangladesh,41.6,LPC Silva,TT Samaraweera,Mahmudullah,0,0,0,NA,0,NA,NA,NA,1
+434258,2nd innings,Sri Lanka,Bangladesh,42.1,TT Samaraweera,LPC Silva,Naeem Islam,0,0,0,NA,0,NA,NA,NA,1
+434258,2nd innings,Sri Lanka,Bangladesh,42.2,TT Samaraweera,LPC Silva,Naeem Islam,4,0,4,NA,0,NA,NA,NA,1
+434258,2nd innings,Sri Lanka,Bangladesh,42.3,TT Samaraweera,LPC Silva,Naeem Islam,1,0,1,NA,0,NA,NA,NA,1
+434258,2nd innings,Sri Lanka,Bangladesh,42.4,LPC Silva,TT Samaraweera,Naeem Islam,1,0,1,NA,0,NA,NA,NA,1
+434258,2nd innings,Sri Lanka,Bangladesh,42.5,TT Samaraweera,LPC Silva,Naeem Islam,1,0,1,NA,0,NA,NA,NA,1
+434258,2nd innings,Sri Lanka,Bangladesh,42.6,LPC Silva,TT Samaraweera,Naeem Islam,0,0,0,NA,0,NA,NA,NA,1
+434258,2nd innings,Sri Lanka,Bangladesh,43.1,TT Samaraweera,LPC Silva,Mahmudullah,1,0,1,NA,0,NA,NA,NA,1
+434258,2nd innings,Sri Lanka,Bangladesh,43.2,LPC Silva,TT Samaraweera,Mahmudullah,1,0,1,NA,0,NA,NA,NA,1
+434258,2nd innings,Sri Lanka,Bangladesh,43.3,TT Samaraweera,LPC Silva,Mahmudullah,1,0,1,NA,0,NA,NA,NA,1
+434258,2nd innings,Sri Lanka,Bangladesh,43.4,LPC Silva,TT Samaraweera,Mahmudullah,1,0,1,NA,0,NA,NA,NA,1
+434258,2nd innings,Sri Lanka,Bangladesh,43.5,TT Samaraweera,LPC Silva,Mahmudullah,1,0,1,NA,0,NA,NA,NA,1
+434258,2nd innings,Sri Lanka,Bangladesh,43.6,LPC Silva,TT Samaraweera,Mahmudullah,0,0,0,NA,0,NA,NA,NA,1
+434258,2nd innings,Sri Lanka,Bangladesh,44.1,TT Samaraweera,LPC Silva,Naeem Islam,1,0,1,NA,0,NA,NA,NA,1
+434258,2nd innings,Sri Lanka,Bangladesh,44.2,LPC Silva,TT Samaraweera,Naeem Islam,1,0,1,NA,0,NA,NA,NA,1
+434258,2nd innings,Sri Lanka,Bangladesh,44.3,TT Samaraweera,LPC Silva,Naeem Islam,0,0,0,NA,0,NA,NA,NA,1
+434258,2nd innings,Sri Lanka,Bangladesh,44.4,TT Samaraweera,LPC Silva,Naeem Islam,0,1,1,wides,0,NA,NA,NA,1
+434258,2nd innings,Sri Lanka,Bangladesh,44.5,TT Samaraweera,LPC Silva,Naeem Islam,0,0,0,NA,0,NA,NA,NA,1
+434258,2nd innings,Sri Lanka,Bangladesh,44.6,TT Samaraweera,LPC Silva,Naeem Islam,4,0,4,NA,0,NA,NA,NA,1

@@ -1,0 +1,607 @@
+match_id,innings,team,opponent,ball,batsman,non_striker,bowler,scored_runs,extras,total,extra_type,wicket,wicket_type,player_out,fielders,winner
+439148,1st innings,South Africa,West Indies,0.1,GC Smith,HM Amla,JE Taylor,0,0,0,NA,0,NA,NA,NA,1
+439148,1st innings,South Africa,West Indies,0.2,GC Smith,HM Amla,JE Taylor,3,0,3,NA,0,NA,NA,NA,1
+439148,1st innings,South Africa,West Indies,0.3,HM Amla,GC Smith,JE Taylor,0,0,0,NA,0,NA,NA,NA,1
+439148,1st innings,South Africa,West Indies,0.4,HM Amla,GC Smith,JE Taylor,0,0,0,NA,0,NA,NA,NA,1
+439148,1st innings,South Africa,West Indies,0.5,HM Amla,GC Smith,JE Taylor,0,0,0,NA,0,NA,NA,NA,1
+439148,1st innings,South Africa,West Indies,0.6,HM Amla,GC Smith,JE Taylor,1,0,1,NA,0,NA,NA,NA,1
+439148,1st innings,South Africa,West Indies,1.1,HM Amla,GC Smith,R Rampaul,2,0,2,NA,0,NA,NA,NA,1
+439148,1st innings,South Africa,West Indies,1.2,HM Amla,GC Smith,R Rampaul,0,0,0,NA,0,NA,NA,NA,1
+439148,1st innings,South Africa,West Indies,1.3,HM Amla,GC Smith,R Rampaul,0,0,0,NA,0,NA,NA,NA,1
+439148,1st innings,South Africa,West Indies,1.4,HM Amla,GC Smith,R Rampaul,0,0,0,NA,0,NA,NA,NA,1
+439148,1st innings,South Africa,West Indies,1.5,HM Amla,GC Smith,R Rampaul,1,0,1,NA,0,NA,NA,NA,1
+439148,1st innings,South Africa,West Indies,1.6,GC Smith,HM Amla,R Rampaul,0,0,0,NA,0,NA,NA,NA,1
+439148,1st innings,South Africa,West Indies,2.1,HM Amla,GC Smith,JE Taylor,0,0,0,NA,0,NA,NA,NA,1
+439148,1st innings,South Africa,West Indies,2.2,HM Amla,GC Smith,JE Taylor,0,0,0,NA,0,NA,NA,NA,1
+439148,1st innings,South Africa,West Indies,2.3,HM Amla,GC Smith,JE Taylor,2,0,2,NA,0,NA,NA,NA,1
+439148,1st innings,South Africa,West Indies,2.4,HM Amla,GC Smith,JE Taylor,0,0,0,NA,0,NA,NA,NA,1
+439148,1st innings,South Africa,West Indies,2.5,HM Amla,GC Smith,JE Taylor,0,1,1,legbyes,0,NA,NA,NA,1
+439148,1st innings,South Africa,West Indies,2.6,GC Smith,HM Amla,JE Taylor,1,0,1,NA,0,NA,NA,NA,1
+439148,1st innings,South Africa,West Indies,3.1,GC Smith,HM Amla,R Rampaul,0,0,0,NA,0,NA,NA,NA,1
+439148,1st innings,South Africa,West Indies,3.2,GC Smith,HM Amla,R Rampaul,0,0,0,NA,0,NA,NA,NA,1
+439148,1st innings,South Africa,West Indies,3.3,GC Smith,HM Amla,R Rampaul,0,0,0,NA,0,NA,NA,NA,1
+439148,1st innings,South Africa,West Indies,3.4,GC Smith,HM Amla,R Rampaul,0,0,0,NA,0,NA,NA,NA,1
+439148,1st innings,South Africa,West Indies,3.5,GC Smith,HM Amla,R Rampaul,1,0,1,NA,0,NA,NA,NA,1
+439148,1st innings,South Africa,West Indies,3.6,HM Amla,GC Smith,R Rampaul,2,0,2,NA,0,NA,NA,NA,1
+439148,1st innings,South Africa,West Indies,4.1,GC Smith,HM Amla,JE Taylor,0,0,0,NA,0,NA,NA,NA,1
+439148,1st innings,South Africa,West Indies,4.2,GC Smith,HM Amla,JE Taylor,4,0,4,NA,0,NA,NA,NA,1
+439148,1st innings,South Africa,West Indies,4.3,GC Smith,HM Amla,JE Taylor,0,0,0,NA,0,NA,NA,NA,1
+439148,1st innings,South Africa,West Indies,4.4,GC Smith,HM Amla,JE Taylor,0,0,0,NA,0,NA,NA,NA,1
+439148,1st innings,South Africa,West Indies,4.5,GC Smith,HM Amla,JE Taylor,0,0,0,NA,0,NA,NA,NA,1
+439148,1st innings,South Africa,West Indies,4.6,GC Smith,HM Amla,JE Taylor,0,0,0,NA,0,NA,NA,NA,1
+439148,1st innings,South Africa,West Indies,5.1,HM Amla,GC Smith,R Rampaul,0,0,0,NA,0,NA,NA,NA,1
+439148,1st innings,South Africa,West Indies,5.2,HM Amla,GC Smith,R Rampaul,4,0,4,NA,0,NA,NA,NA,1
+439148,1st innings,South Africa,West Indies,5.3,HM Amla,GC Smith,R Rampaul,4,0,4,NA,0,NA,NA,NA,1
+439148,1st innings,South Africa,West Indies,5.4,HM Amla,GC Smith,R Rampaul,1,0,1,NA,0,NA,NA,NA,1
+439148,1st innings,South Africa,West Indies,5.5,GC Smith,HM Amla,R Rampaul,1,0,1,NA,0,NA,NA,NA,1
+439148,1st innings,South Africa,West Indies,5.6,HM Amla,GC Smith,R Rampaul,1,0,1,NA,0,NA,NA,NA,1
+439148,1st innings,South Africa,West Indies,6.1,HM Amla,GC Smith,JE Taylor,2,0,2,NA,0,NA,NA,NA,1
+439148,1st innings,South Africa,West Indies,6.2,HM Amla,GC Smith,JE Taylor,1,0,1,NA,0,NA,NA,NA,1
+439148,1st innings,South Africa,West Indies,6.3,GC Smith,HM Amla,JE Taylor,0,0,0,NA,0,NA,NA,NA,1
+439148,1st innings,South Africa,West Indies,6.4,GC Smith,HM Amla,JE Taylor,0,0,0,NA,0,NA,NA,NA,1
+439148,1st innings,South Africa,West Indies,6.5,GC Smith,HM Amla,JE Taylor,2,0,2,NA,0,NA,NA,NA,1
+439148,1st innings,South Africa,West Indies,6.6,GC Smith,HM Amla,JE Taylor,1,0,1,NA,0,NA,NA,NA,1
+439148,1st innings,South Africa,West Indies,7.1,GC Smith,HM Amla,R Rampaul,2,0,2,NA,0,NA,NA,NA,1
+439148,1st innings,South Africa,West Indies,7.2,GC Smith,HM Amla,R Rampaul,1,0,1,NA,0,NA,NA,NA,1
+439148,1st innings,South Africa,West Indies,7.3,HM Amla,GC Smith,R Rampaul,1,0,1,NA,0,NA,NA,NA,1
+439148,1st innings,South Africa,West Indies,7.4,GC Smith,HM Amla,R Rampaul,2,0,2,NA,0,NA,NA,NA,1
+439148,1st innings,South Africa,West Indies,7.5,GC Smith,HM Amla,R Rampaul,0,0,0,NA,0,NA,NA,NA,1
+439148,1st innings,South Africa,West Indies,7.6,GC Smith,HM Amla,R Rampaul,0,0,0,NA,0,NA,NA,NA,1
+439148,1st innings,South Africa,West Indies,8.1,HM Amla,GC Smith,DJ Bravo,4,0,4,NA,0,NA,NA,NA,1
+439148,1st innings,South Africa,West Indies,8.2,HM Amla,GC Smith,DJ Bravo,1,0,1,NA,0,NA,NA,NA,1
+439148,1st innings,South Africa,West Indies,8.3,GC Smith,HM Amla,DJ Bravo,0,0,0,NA,0,NA,NA,NA,1
+439148,1st innings,South Africa,West Indies,8.4,GC Smith,HM Amla,DJ Bravo,0,0,0,NA,0,NA,NA,NA,1
+439148,1st innings,South Africa,West Indies,8.5,GC Smith,HM Amla,DJ Bravo,1,0,1,NA,0,NA,NA,NA,1
+439148,1st innings,South Africa,West Indies,8.6,HM Amla,GC Smith,DJ Bravo,1,0,1,NA,0,NA,NA,NA,1
+439148,1st innings,South Africa,West Indies,9.1,HM Amla,GC Smith,R Rampaul,0,0,0,NA,0,NA,NA,NA,1
+439148,1st innings,South Africa,West Indies,9.2,HM Amla,GC Smith,R Rampaul,0,0,0,NA,0,NA,NA,NA,1
+439148,1st innings,South Africa,West Indies,9.3,HM Amla,GC Smith,R Rampaul,1,0,1,NA,0,NA,NA,NA,1
+439148,1st innings,South Africa,West Indies,9.4,GC Smith,HM Amla,R Rampaul,1,0,1,NA,0,NA,NA,NA,1
+439148,1st innings,South Africa,West Indies,9.5,HM Amla,GC Smith,R Rampaul,0,0,0,NA,0,NA,NA,NA,1
+439148,1st innings,South Africa,West Indies,9.6,HM Amla,GC Smith,R Rampaul,4,0,4,NA,0,NA,NA,NA,1
+439148,1st innings,South Africa,West Indies,10.1,GC Smith,HM Amla,DJ Bravo,0,0,0,NA,0,NA,NA,NA,1
+439148,1st innings,South Africa,West Indies,10.2,GC Smith,HM Amla,DJ Bravo,1,0,1,NA,0,NA,NA,NA,1
+439148,1st innings,South Africa,West Indies,10.3,HM Amla,GC Smith,DJ Bravo,1,0,1,NA,0,NA,NA,NA,1
+439148,1st innings,South Africa,West Indies,10.4,GC Smith,HM Amla,DJ Bravo,1,0,1,NA,0,NA,NA,NA,1
+439148,1st innings,South Africa,West Indies,10.5,HM Amla,GC Smith,DJ Bravo,1,0,1,NA,0,NA,NA,NA,1
+439148,1st innings,South Africa,West Indies,10.6,GC Smith,HM Amla,DJ Bravo,1,0,1,NA,0,NA,NA,NA,1
+439148,1st innings,South Africa,West Indies,11.1,GC Smith,HM Amla,R Rampaul,4,0,4,NA,0,NA,NA,NA,1
+439148,1st innings,South Africa,West Indies,11.2,GC Smith,HM Amla,R Rampaul,1,0,1,NA,0,NA,NA,NA,1
+439148,1st innings,South Africa,West Indies,11.3,HM Amla,GC Smith,R Rampaul,0,0,0,NA,0,NA,NA,NA,1
+439148,1st innings,South Africa,West Indies,11.4,HM Amla,GC Smith,R Rampaul,2,0,2,NA,0,NA,NA,NA,1
+439148,1st innings,South Africa,West Indies,11.5,HM Amla,GC Smith,R Rampaul,0,1,1,wides,0,NA,NA,NA,1
+439148,1st innings,South Africa,West Indies,11.6,HM Amla,GC Smith,R Rampaul,1,0,1,NA,0,NA,NA,NA,1
+439148,1st innings,South Africa,West Indies,11.7,GC Smith,HM Amla,R Rampaul,0,0,0,NA,0,NA,NA,NA,1
+439148,1st innings,South Africa,West Indies,12.1,HM Amla,GC Smith,DJ Bravo,1,0,1,NA,0,NA,NA,NA,1
+439148,1st innings,South Africa,West Indies,12.2,GC Smith,HM Amla,DJ Bravo,1,0,1,NA,0,NA,NA,NA,1
+439148,1st innings,South Africa,West Indies,12.3,HM Amla,GC Smith,DJ Bravo,1,0,1,NA,0,NA,NA,NA,1
+439148,1st innings,South Africa,West Indies,12.4,GC Smith,HM Amla,DJ Bravo,0,0,0,NA,0,NA,NA,NA,1
+439148,1st innings,South Africa,West Indies,12.5,GC Smith,HM Amla,DJ Bravo,0,0,0,NA,0,NA,NA,NA,1
+439148,1st innings,South Africa,West Indies,12.6,GC Smith,HM Amla,DJ Bravo,1,0,1,NA,0,NA,NA,NA,1
+439148,1st innings,South Africa,West Indies,13.1,GC Smith,HM Amla,NO Miller,0,0,0,NA,0,NA,NA,NA,1
+439148,1st innings,South Africa,West Indies,13.2,GC Smith,HM Amla,NO Miller,1,0,1,NA,0,NA,NA,NA,1
+439148,1st innings,South Africa,West Indies,13.3,HM Amla,GC Smith,NO Miller,4,0,4,NA,0,NA,NA,NA,1
+439148,1st innings,South Africa,West Indies,13.4,HM Amla,GC Smith,NO Miller,1,0,1,NA,0,NA,NA,NA,1
+439148,1st innings,South Africa,West Indies,13.5,GC Smith,HM Amla,NO Miller,0,0,0,NA,0,NA,NA,NA,1
+439148,1st innings,South Africa,West Indies,13.6,GC Smith,HM Amla,NO Miller,1,0,1,NA,0,NA,NA,NA,1
+439148,1st innings,South Africa,West Indies,14.1,GC Smith,HM Amla,DJ Bravo,0,0,0,NA,0,NA,NA,NA,1
+439148,1st innings,South Africa,West Indies,14.2,GC Smith,HM Amla,DJ Bravo,2,0,2,NA,0,NA,NA,NA,1
+439148,1st innings,South Africa,West Indies,14.3,GC Smith,HM Amla,DJ Bravo,1,0,1,NA,0,NA,NA,NA,1
+439148,1st innings,South Africa,West Indies,14.4,HM Amla,GC Smith,DJ Bravo,1,0,1,NA,0,NA,NA,NA,1
+439148,1st innings,South Africa,West Indies,14.5,GC Smith,HM Amla,DJ Bravo,0,0,0,NA,0,NA,NA,NA,1
+439148,1st innings,South Africa,West Indies,14.6,GC Smith,HM Amla,DJ Bravo,0,0,0,NA,0,NA,NA,NA,1
+439148,1st innings,South Africa,West Indies,15.1,HM Amla,GC Smith,NO Miller,1,0,1,NA,0,NA,NA,NA,1
+439148,1st innings,South Africa,West Indies,15.2,GC Smith,HM Amla,NO Miller,1,0,1,NA,0,NA,NA,NA,1
+439148,1st innings,South Africa,West Indies,15.3,HM Amla,GC Smith,NO Miller,0,1,1,wides,0,NA,NA,NA,1
+439148,1st innings,South Africa,West Indies,15.4,HM Amla,GC Smith,NO Miller,1,0,1,NA,0,NA,NA,NA,1
+439148,1st innings,South Africa,West Indies,15.5,GC Smith,HM Amla,NO Miller,1,0,1,NA,0,NA,NA,NA,1
+439148,1st innings,South Africa,West Indies,15.6,HM Amla,GC Smith,NO Miller,1,0,1,NA,0,NA,NA,NA,1
+439148,1st innings,South Africa,West Indies,15.7,GC Smith,HM Amla,NO Miller,0,0,0,NA,1,bowled,GC Smith,NA,1
+439148,1st innings,South Africa,West Indies,16.1,HM Amla,JH Kallis,DJ Bravo,1,0,1,NA,0,NA,NA,NA,1
+439148,1st innings,South Africa,West Indies,16.2,JH Kallis,HM Amla,DJ Bravo,0,0,0,NA,0,NA,NA,NA,1
+439148,1st innings,South Africa,West Indies,16.3,JH Kallis,HM Amla,DJ Bravo,1,0,1,NA,0,NA,NA,NA,1
+439148,1st innings,South Africa,West Indies,16.4,HM Amla,JH Kallis,DJ Bravo,0,0,0,NA,0,NA,NA,NA,1
+439148,1st innings,South Africa,West Indies,16.5,HM Amla,JH Kallis,DJ Bravo,1,0,1,NA,0,NA,NA,NA,1
+439148,1st innings,South Africa,West Indies,16.6,JH Kallis,HM Amla,DJ Bravo,0,0,0,NA,0,NA,NA,NA,1
+439148,1st innings,South Africa,West Indies,17.1,HM Amla,JH Kallis,NO Miller,1,0,1,NA,0,NA,NA,NA,1
+439148,1st innings,South Africa,West Indies,17.2,JH Kallis,HM Amla,NO Miller,4,0,4,NA,0,NA,NA,NA,1
+439148,1st innings,South Africa,West Indies,17.3,JH Kallis,HM Amla,NO Miller,1,0,1,NA,0,NA,NA,NA,1
+439148,1st innings,South Africa,West Indies,17.4,HM Amla,JH Kallis,NO Miller,0,0,0,NA,0,NA,NA,NA,1
+439148,1st innings,South Africa,West Indies,17.5,HM Amla,JH Kallis,NO Miller,0,0,0,NA,0,NA,NA,NA,1
+439148,1st innings,South Africa,West Indies,17.6,HM Amla,JH Kallis,CH Gayle,1,0,1,NA,0,NA,NA,NA,1
+439148,1st innings,South Africa,West Indies,18.1,HM Amla,JH Kallis,DJ Bravo,0,0,0,NA,0,NA,NA,NA,1
+439148,1st innings,South Africa,West Indies,18.2,HM Amla,JH Kallis,DJ Bravo,0,0,0,NA,0,NA,NA,NA,1
+439148,1st innings,South Africa,West Indies,18.3,HM Amla,JH Kallis,DJ Bravo,4,0,4,NA,0,NA,NA,NA,1
+439148,1st innings,South Africa,West Indies,18.4,HM Amla,JH Kallis,DJ Bravo,1,0,1,NA,0,NA,NA,NA,1
+439148,1st innings,South Africa,West Indies,18.5,JH Kallis,HM Amla,DJ Bravo,1,0,1,NA,0,NA,NA,NA,1
+439148,1st innings,South Africa,West Indies,18.6,HM Amla,JH Kallis,DJ Bravo,0,0,0,NA,0,NA,NA,NA,1
+439148,1st innings,South Africa,West Indies,19.1,JH Kallis,HM Amla,DJG Sammy,1,0,1,NA,0,NA,NA,NA,1
+439148,1st innings,South Africa,West Indies,19.2,HM Amla,JH Kallis,DJG Sammy,1,0,1,NA,0,NA,NA,NA,1
+439148,1st innings,South Africa,West Indies,19.3,JH Kallis,HM Amla,DJG Sammy,1,0,1,NA,0,NA,NA,NA,1
+439148,1st innings,South Africa,West Indies,19.4,HM Amla,JH Kallis,DJG Sammy,1,0,1,NA,0,NA,NA,NA,1
+439148,1st innings,South Africa,West Indies,19.5,JH Kallis,HM Amla,DJG Sammy,0,0,0,NA,0,NA,NA,NA,1
+439148,1st innings,South Africa,West Indies,19.6,JH Kallis,HM Amla,DJG Sammy,1,0,1,NA,0,NA,NA,NA,1
+439148,1st innings,South Africa,West Indies,20.1,JH Kallis,HM Amla,CH Gayle,1,0,1,NA,0,NA,NA,NA,1
+439148,1st innings,South Africa,West Indies,20.2,HM Amla,JH Kallis,CH Gayle,0,0,0,NA,0,NA,NA,NA,1
+439148,1st innings,South Africa,West Indies,20.3,HM Amla,JH Kallis,CH Gayle,2,0,2,NA,0,NA,NA,NA,1
+439148,1st innings,South Africa,West Indies,20.4,HM Amla,JH Kallis,CH Gayle,1,0,1,NA,0,NA,NA,NA,1
+439148,1st innings,South Africa,West Indies,20.5,JH Kallis,HM Amla,CH Gayle,1,0,1,NA,0,NA,NA,NA,1
+439148,1st innings,South Africa,West Indies,20.6,HM Amla,JH Kallis,CH Gayle,1,0,1,NA,0,NA,NA,NA,1
+439148,1st innings,South Africa,West Indies,21.1,HM Amla,JH Kallis,DJG Sammy,1,0,1,NA,0,NA,NA,NA,1
+439148,1st innings,South Africa,West Indies,21.2,JH Kallis,HM Amla,DJG Sammy,0,0,0,NA,0,NA,NA,NA,1
+439148,1st innings,South Africa,West Indies,21.3,JH Kallis,HM Amla,DJG Sammy,1,0,1,NA,0,NA,NA,NA,1
+439148,1st innings,South Africa,West Indies,21.4,HM Amla,JH Kallis,DJG Sammy,0,1,1,wides,0,NA,NA,NA,1
+439148,1st innings,South Africa,West Indies,21.5,HM Amla,JH Kallis,DJG Sammy,1,0,1,NA,0,NA,NA,NA,1
+439148,1st innings,South Africa,West Indies,21.6,JH Kallis,HM Amla,DJG Sammy,1,0,1,NA,0,NA,NA,NA,1
+439148,1st innings,South Africa,West Indies,21.7,HM Amla,JH Kallis,DJG Sammy,0,0,0,NA,0,NA,NA,NA,1
+439148,1st innings,South Africa,West Indies,22.1,JH Kallis,HM Amla,CH Gayle,1,0,1,NA,0,NA,NA,NA,1
+439148,1st innings,South Africa,West Indies,22.2,HM Amla,JH Kallis,CH Gayle,1,0,1,NA,0,NA,NA,NA,1
+439148,1st innings,South Africa,West Indies,22.3,JH Kallis,HM Amla,CH Gayle,0,0,0,NA,0,NA,NA,NA,1
+439148,1st innings,South Africa,West Indies,22.4,JH Kallis,HM Amla,CH Gayle,0,0,0,NA,0,NA,NA,NA,1
+439148,1st innings,South Africa,West Indies,22.5,JH Kallis,HM Amla,CH Gayle,1,0,1,NA,0,NA,NA,NA,1
+439148,1st innings,South Africa,West Indies,22.6,HM Amla,JH Kallis,CH Gayle,0,0,0,NA,0,NA,NA,NA,1
+439148,1st innings,South Africa,West Indies,23.1,JH Kallis,HM Amla,DJG Sammy,2,0,2,NA,0,NA,NA,NA,1
+439148,1st innings,South Africa,West Indies,23.2,JH Kallis,HM Amla,DJG Sammy,0,0,0,NA,0,NA,NA,NA,1
+439148,1st innings,South Africa,West Indies,23.3,JH Kallis,HM Amla,DJG Sammy,0,1,1,byes,0,NA,NA,NA,1
+439148,1st innings,South Africa,West Indies,23.4,HM Amla,JH Kallis,DJG Sammy,1,0,1,NA,0,NA,NA,NA,1
+439148,1st innings,South Africa,West Indies,23.5,JH Kallis,HM Amla,DJG Sammy,1,0,1,NA,0,NA,NA,NA,1
+439148,1st innings,South Africa,West Indies,23.6,HM Amla,JH Kallis,DJG Sammy,1,0,1,NA,0,NA,NA,NA,1
+439148,1st innings,South Africa,West Indies,24.1,HM Amla,JH Kallis,CH Gayle,1,0,1,NA,0,NA,NA,NA,1
+439148,1st innings,South Africa,West Indies,24.2,JH Kallis,HM Amla,CH Gayle,0,0,0,NA,0,NA,NA,NA,1
+439148,1st innings,South Africa,West Indies,24.3,JH Kallis,HM Amla,CH Gayle,0,0,0,NA,0,NA,NA,NA,1
+439148,1st innings,South Africa,West Indies,24.4,JH Kallis,HM Amla,CH Gayle,0,0,0,NA,0,NA,NA,NA,1
+439148,1st innings,South Africa,West Indies,24.5,JH Kallis,HM Amla,CH Gayle,2,0,2,NA,0,NA,NA,NA,1
+439148,1st innings,South Africa,West Indies,24.6,JH Kallis,HM Amla,CH Gayle,0,1,1,wides,0,NA,NA,NA,1
+439148,1st innings,South Africa,West Indies,24.7,JH Kallis,HM Amla,CH Gayle,0,0,0,NA,0,NA,NA,NA,1
+439148,1st innings,South Africa,West Indies,25.1,HM Amla,JH Kallis,DJG Sammy,2,0,2,NA,0,NA,NA,NA,1
+439148,1st innings,South Africa,West Indies,25.2,HM Amla,JH Kallis,DJG Sammy,0,0,0,NA,0,NA,NA,NA,1
+439148,1st innings,South Africa,West Indies,25.3,HM Amla,JH Kallis,DJG Sammy,0,0,0,NA,0,NA,NA,NA,1
+439148,1st innings,South Africa,West Indies,25.4,HM Amla,JH Kallis,DJG Sammy,1,0,1,NA,0,NA,NA,NA,1
+439148,1st innings,South Africa,West Indies,25.5,JH Kallis,HM Amla,DJG Sammy,1,0,1,NA,0,NA,NA,NA,1
+439148,1st innings,South Africa,West Indies,25.6,HM Amla,JH Kallis,DJG Sammy,1,0,1,NA,0,NA,NA,NA,1
+439148,1st innings,South Africa,West Indies,26.1,HM Amla,JH Kallis,CH Gayle,1,0,1,NA,0,NA,NA,NA,1
+439148,1st innings,South Africa,West Indies,26.2,JH Kallis,HM Amla,CH Gayle,1,0,1,NA,0,NA,NA,NA,1
+439148,1st innings,South Africa,West Indies,26.3,HM Amla,JH Kallis,CH Gayle,1,0,1,NA,0,NA,NA,NA,1
+439148,1st innings,South Africa,West Indies,26.4,JH Kallis,HM Amla,CH Gayle,1,0,1,NA,0,NA,NA,NA,1
+439148,1st innings,South Africa,West Indies,26.5,HM Amla,JH Kallis,CH Gayle,1,0,1,NA,0,NA,NA,NA,1
+439148,1st innings,South Africa,West Indies,26.6,JH Kallis,HM Amla,CH Gayle,0,0,0,NA,0,NA,NA,NA,1
+439148,1st innings,South Africa,West Indies,27.1,HM Amla,JH Kallis,DJG Sammy,1,0,1,NA,0,NA,NA,NA,1
+439148,1st innings,South Africa,West Indies,27.2,JH Kallis,HM Amla,DJG Sammy,0,0,0,NA,0,NA,NA,NA,1
+439148,1st innings,South Africa,West Indies,27.3,JH Kallis,HM Amla,DJG Sammy,1,0,1,NA,0,NA,NA,NA,1
+439148,1st innings,South Africa,West Indies,27.4,HM Amla,JH Kallis,DJG Sammy,1,0,1,NA,0,NA,NA,NA,1
+439148,1st innings,South Africa,West Indies,27.5,JH Kallis,HM Amla,DJG Sammy,1,0,1,NA,0,NA,NA,NA,1
+439148,1st innings,South Africa,West Indies,27.6,HM Amla,JH Kallis,DJG Sammy,1,0,1,NA,0,NA,NA,NA,1
+439148,1st innings,South Africa,West Indies,28.1,HM Amla,JH Kallis,CH Gayle,4,0,4,NA,0,NA,NA,NA,1
+439148,1st innings,South Africa,West Indies,28.2,HM Amla,JH Kallis,CH Gayle,1,0,1,NA,0,NA,NA,NA,1
+439148,1st innings,South Africa,West Indies,28.3,JH Kallis,HM Amla,CH Gayle,1,0,1,NA,0,NA,NA,NA,1
+439148,1st innings,South Africa,West Indies,28.4,HM Amla,JH Kallis,CH Gayle,0,0,0,NA,0,NA,NA,NA,1
+439148,1st innings,South Africa,West Indies,28.5,HM Amla,JH Kallis,CH Gayle,0,0,0,NA,0,NA,NA,NA,1
+439148,1st innings,South Africa,West Indies,28.6,HM Amla,JH Kallis,CH Gayle,1,0,1,NA,0,NA,NA,NA,1
+439148,1st innings,South Africa,West Indies,29.1,HM Amla,JH Kallis,JE Taylor,1,0,1,NA,0,NA,NA,NA,1
+439148,1st innings,South Africa,West Indies,29.2,JH Kallis,HM Amla,JE Taylor,1,0,1,NA,0,NA,NA,NA,1
+439148,1st innings,South Africa,West Indies,29.3,HM Amla,JH Kallis,JE Taylor,1,0,1,NA,0,NA,NA,NA,1
+439148,1st innings,South Africa,West Indies,29.4,JH Kallis,HM Amla,JE Taylor,1,0,1,NA,0,NA,NA,NA,1
+439148,1st innings,South Africa,West Indies,29.5,HM Amla,JH Kallis,JE Taylor,0,0,0,NA,0,NA,NA,NA,1
+439148,1st innings,South Africa,West Indies,29.6,HM Amla,JH Kallis,JE Taylor,1,0,1,NA,0,NA,NA,NA,1
+439148,1st innings,South Africa,West Indies,30.1,HM Amla,JH Kallis,CH Gayle,1,0,1,NA,0,NA,NA,NA,1
+439148,1st innings,South Africa,West Indies,30.2,JH Kallis,HM Amla,CH Gayle,1,0,1,NA,0,NA,NA,NA,1
+439148,1st innings,South Africa,West Indies,30.3,HM Amla,JH Kallis,CH Gayle,1,0,1,NA,0,NA,NA,NA,1
+439148,1st innings,South Africa,West Indies,30.4,JH Kallis,HM Amla,CH Gayle,1,0,1,NA,0,NA,NA,NA,1
+439148,1st innings,South Africa,West Indies,30.5,HM Amla,JH Kallis,CH Gayle,1,0,1,NA,0,NA,NA,NA,1
+439148,1st innings,South Africa,West Indies,30.6,JH Kallis,HM Amla,CH Gayle,1,0,1,NA,0,NA,NA,NA,1
+439148,1st innings,South Africa,West Indies,31.1,JH Kallis,HM Amla,JE Taylor,1,0,1,NA,0,NA,NA,NA,1
+439148,1st innings,South Africa,West Indies,31.2,HM Amla,JH Kallis,JE Taylor,0,0,0,NA,0,NA,NA,NA,1
+439148,1st innings,South Africa,West Indies,31.3,HM Amla,JH Kallis,JE Taylor,0,0,0,NA,1,caught,HM Amla,DM Richards,1
+439148,1st innings,South Africa,West Indies,31.4,AB de Villiers,JH Kallis,JE Taylor,2,0,2,NA,0,NA,NA,NA,1
+439148,1st innings,South Africa,West Indies,31.5,AB de Villiers,JH Kallis,JE Taylor,1,0,1,NA,0,NA,NA,NA,1
+439148,1st innings,South Africa,West Indies,31.6,JH Kallis,AB de Villiers,JE Taylor,0,0,0,NA,0,NA,NA,NA,1
+439148,1st innings,South Africa,West Indies,32.1,AB de Villiers,JH Kallis,CH Gayle,6,0,6,NA,0,NA,NA,NA,1
+439148,1st innings,South Africa,West Indies,32.2,AB de Villiers,JH Kallis,CH Gayle,0,0,0,NA,0,NA,NA,NA,1
+439148,1st innings,South Africa,West Indies,32.3,AB de Villiers,JH Kallis,CH Gayle,0,0,0,NA,0,NA,NA,NA,1
+439148,1st innings,South Africa,West Indies,32.4,AB de Villiers,JH Kallis,CH Gayle,1,0,1,NA,0,NA,NA,NA,1
+439148,1st innings,South Africa,West Indies,32.5,JH Kallis,AB de Villiers,CH Gayle,1,0,1,NA,0,NA,NA,NA,1
+439148,1st innings,South Africa,West Indies,32.6,AB de Villiers,JH Kallis,CH Gayle,1,0,1,NA,0,NA,NA,NA,1
+439148,1st innings,South Africa,West Indies,33.1,AB de Villiers,JH Kallis,JE Taylor,1,0,1,NA,0,NA,NA,NA,1
+439148,1st innings,South Africa,West Indies,33.2,JH Kallis,AB de Villiers,JE Taylor,1,0,1,NA,0,NA,NA,NA,1
+439148,1st innings,South Africa,West Indies,33.3,AB de Villiers,JH Kallis,JE Taylor,2,0,2,NA,0,NA,NA,NA,1
+439148,1st innings,South Africa,West Indies,33.4,AB de Villiers,JH Kallis,JE Taylor,0,0,0,NA,0,NA,NA,NA,1
+439148,1st innings,South Africa,West Indies,33.5,AB de Villiers,JH Kallis,JE Taylor,1,0,1,NA,0,NA,NA,NA,1
+439148,1st innings,South Africa,West Indies,33.6,JH Kallis,AB de Villiers,JE Taylor,1,0,1,NA,0,NA,NA,NA,1
+439148,1st innings,South Africa,West Indies,34.1,JH Kallis,AB de Villiers,KA Pollard,0,0,0,NA,0,NA,NA,NA,1
+439148,1st innings,South Africa,West Indies,34.2,JH Kallis,AB de Villiers,KA Pollard,0,0,0,NA,0,NA,NA,NA,1
+439148,1st innings,South Africa,West Indies,34.3,JH Kallis,AB de Villiers,KA Pollard,1,0,1,NA,0,NA,NA,NA,1
+439148,1st innings,South Africa,West Indies,34.4,AB de Villiers,JH Kallis,KA Pollard,0,0,0,NA,0,NA,NA,NA,1
+439148,1st innings,South Africa,West Indies,34.5,AB de Villiers,JH Kallis,KA Pollard,1,0,1,NA,0,NA,NA,NA,1
+439148,1st innings,South Africa,West Indies,34.6,JH Kallis,AB de Villiers,KA Pollard,1,0,1,NA,0,NA,NA,NA,1
+439148,1st innings,South Africa,West Indies,35.1,JH Kallis,AB de Villiers,R Rampaul,1,0,1,NA,0,NA,NA,NA,1
+439148,1st innings,South Africa,West Indies,35.2,AB de Villiers,JH Kallis,R Rampaul,4,0,4,NA,0,NA,NA,NA,1
+439148,1st innings,South Africa,West Indies,35.3,AB de Villiers,JH Kallis,R Rampaul,0,0,0,NA,0,NA,NA,NA,1
+439148,1st innings,South Africa,West Indies,35.4,AB de Villiers,JH Kallis,R Rampaul,2,0,2,NA,0,NA,NA,NA,1
+439148,1st innings,South Africa,West Indies,35.5,AB de Villiers,JH Kallis,R Rampaul,4,0,4,NA,0,NA,NA,NA,1
+439148,1st innings,South Africa,West Indies,35.6,AB de Villiers,JH Kallis,R Rampaul,0,0,0,NA,0,NA,NA,NA,1
+439148,1st innings,South Africa,West Indies,36.1,JH Kallis,AB de Villiers,KA Pollard,0,0,0,NA,0,NA,NA,NA,1
+439148,1st innings,South Africa,West Indies,36.2,JH Kallis,AB de Villiers,KA Pollard,2,0,2,NA,0,NA,NA,NA,1
+439148,1st innings,South Africa,West Indies,36.3,JH Kallis,AB de Villiers,KA Pollard,2,0,2,NA,0,NA,NA,NA,1
+439148,1st innings,South Africa,West Indies,36.4,JH Kallis,AB de Villiers,KA Pollard,1,0,1,NA,0,NA,NA,NA,1
+439148,1st innings,South Africa,West Indies,36.5,AB de Villiers,JH Kallis,KA Pollard,1,0,1,NA,0,NA,NA,NA,1
+439148,1st innings,South Africa,West Indies,36.6,JH Kallis,AB de Villiers,KA Pollard,1,0,1,NA,0,NA,NA,NA,1
+439148,1st innings,South Africa,West Indies,37.1,JH Kallis,AB de Villiers,R Rampaul,4,0,4,NA,0,NA,NA,NA,1
+439148,1st innings,South Africa,West Indies,37.2,JH Kallis,AB de Villiers,R Rampaul,0,0,0,NA,0,NA,NA,NA,1
+439148,1st innings,South Africa,West Indies,37.3,JH Kallis,AB de Villiers,R Rampaul,1,0,1,NA,0,NA,NA,NA,1
+439148,1st innings,South Africa,West Indies,37.4,AB de Villiers,JH Kallis,R Rampaul,4,0,4,NA,0,NA,NA,NA,1
+439148,1st innings,South Africa,West Indies,37.5,AB de Villiers,JH Kallis,R Rampaul,0,1,1,legbyes,0,NA,NA,NA,1
+439148,1st innings,South Africa,West Indies,37.6,JH Kallis,AB de Villiers,R Rampaul,0,0,0,NA,0,NA,NA,NA,1
+439148,1st innings,South Africa,West Indies,38.1,AB de Villiers,JH Kallis,KA Pollard,1,0,1,NA,0,NA,NA,NA,1
+439148,1st innings,South Africa,West Indies,38.2,JH Kallis,AB de Villiers,KA Pollard,1,0,1,NA,0,NA,NA,NA,1
+439148,1st innings,South Africa,West Indies,38.3,AB de Villiers,JH Kallis,KA Pollard,0,0,0,NA,0,NA,NA,NA,1
+439148,1st innings,South Africa,West Indies,38.4,AB de Villiers,JH Kallis,KA Pollard,1,0,1,NA,0,NA,NA,NA,1
+439148,1st innings,South Africa,West Indies,38.5,JH Kallis,AB de Villiers,KA Pollard,1,0,1,NA,0,NA,NA,NA,1
+439148,1st innings,South Africa,West Indies,38.6,AB de Villiers,JH Kallis,KA Pollard,1,0,1,NA,0,NA,NA,NA,1
+439148,1st innings,South Africa,West Indies,39.1,AB de Villiers,JH Kallis,DJ Bravo,1,0,1,NA,0,NA,NA,NA,1
+439148,1st innings,South Africa,West Indies,39.2,JH Kallis,AB de Villiers,DJ Bravo,0,0,0,NA,0,NA,NA,NA,1
+439148,1st innings,South Africa,West Indies,39.3,JH Kallis,AB de Villiers,DJ Bravo,1,0,1,NA,0,NA,NA,NA,1
+439148,1st innings,South Africa,West Indies,39.4,AB de Villiers,JH Kallis,DJ Bravo,0,0,0,NA,0,NA,NA,NA,1
+439148,1st innings,South Africa,West Indies,39.5,AB de Villiers,JH Kallis,DJ Bravo,2,0,2,NA,0,NA,NA,NA,1
+439148,1st innings,South Africa,West Indies,39.6,AB de Villiers,JH Kallis,DJ Bravo,1,0,1,NA,0,NA,NA,NA,1
+439148,1st innings,South Africa,West Indies,40.1,AB de Villiers,JH Kallis,KA Pollard,0,0,0,NA,0,NA,NA,NA,1
+439148,1st innings,South Africa,West Indies,40.2,AB de Villiers,JH Kallis,KA Pollard,1,0,1,NA,0,NA,NA,NA,1
+439148,1st innings,South Africa,West Indies,40.3,JH Kallis,AB de Villiers,KA Pollard,1,0,1,NA,0,NA,NA,NA,1
+439148,1st innings,South Africa,West Indies,40.4,AB de Villiers,JH Kallis,KA Pollard,1,0,1,NA,0,NA,NA,NA,1
+439148,1st innings,South Africa,West Indies,40.5,JH Kallis,AB de Villiers,KA Pollard,0,0,0,NA,0,NA,NA,NA,1
+439148,1st innings,South Africa,West Indies,40.6,JH Kallis,AB de Villiers,KA Pollard,1,0,1,NA,0,NA,NA,NA,1
+439148,1st innings,South Africa,West Indies,41.1,JH Kallis,AB de Villiers,DJ Bravo,2,0,2,NA,0,NA,NA,NA,1
+439148,1st innings,South Africa,West Indies,41.2,JH Kallis,AB de Villiers,DJ Bravo,0,1,1,legbyes,0,NA,NA,NA,1
+439148,1st innings,South Africa,West Indies,41.3,AB de Villiers,JH Kallis,DJ Bravo,1,0,1,NA,0,NA,NA,NA,1
+439148,1st innings,South Africa,West Indies,41.4,JH Kallis,AB de Villiers,DJ Bravo,2,0,2,NA,0,NA,NA,NA,1
+439148,1st innings,South Africa,West Indies,41.5,JH Kallis,AB de Villiers,DJ Bravo,1,0,1,NA,0,NA,NA,NA,1
+439148,1st innings,South Africa,West Indies,41.6,AB de Villiers,JH Kallis,DJ Bravo,0,0,0,NA,0,NA,NA,NA,1
+439148,1st innings,South Africa,West Indies,42.1,JH Kallis,AB de Villiers,KA Pollard,1,0,1,NA,0,NA,NA,NA,1
+439148,1st innings,South Africa,West Indies,42.2,AB de Villiers,JH Kallis,KA Pollard,0,0,0,NA,1,caught,AB de Villiers,JE Taylor,1
+439148,1st innings,South Africa,West Indies,42.3,JH Kallis,DA Miller,KA Pollard,1,0,1,NA,0,NA,NA,NA,1
+439148,1st innings,South Africa,West Indies,42.4,DA Miller,JH Kallis,KA Pollard,1,0,1,NA,0,NA,NA,NA,1
+439148,1st innings,South Africa,West Indies,42.5,JH Kallis,DA Miller,KA Pollard,1,0,1,NA,0,NA,NA,NA,1
+439148,1st innings,South Africa,West Indies,42.6,DA Miller,JH Kallis,KA Pollard,0,0,0,NA,0,NA,NA,NA,1
+439148,1st innings,South Africa,West Indies,43.1,JH Kallis,DA Miller,DJ Bravo,0,0,0,NA,0,NA,NA,NA,1
+439148,1st innings,South Africa,West Indies,43.2,JH Kallis,DA Miller,DJ Bravo,2,0,2,NA,0,NA,NA,NA,1
+439148,1st innings,South Africa,West Indies,43.3,JH Kallis,DA Miller,DJ Bravo,1,0,1,NA,0,NA,NA,NA,1
+439148,1st innings,South Africa,West Indies,43.4,DA Miller,JH Kallis,DJ Bravo,1,0,1,NA,0,NA,NA,NA,1
+439148,1st innings,South Africa,West Indies,43.5,JH Kallis,DA Miller,DJ Bravo,1,0,1,NA,0,NA,NA,NA,1
+439148,1st innings,South Africa,West Indies,43.6,DA Miller,JH Kallis,DJ Bravo,1,0,1,NA,0,NA,NA,NA,1
+439148,1st innings,South Africa,West Indies,44.1,DA Miller,JH Kallis,KA Pollard,0,0,0,NA,0,NA,NA,NA,1
+439148,1st innings,South Africa,West Indies,44.2,DA Miller,JH Kallis,KA Pollard,0,1,1,legbyes,0,NA,NA,NA,1
+439148,1st innings,South Africa,West Indies,44.3,JH Kallis,DA Miller,KA Pollard,4,0,4,NA,0,NA,NA,NA,1
+439148,1st innings,South Africa,West Indies,44.4,JH Kallis,DA Miller,KA Pollard,1,0,1,NA,0,NA,NA,NA,1
+439148,1st innings,South Africa,West Indies,44.5,DA Miller,JH Kallis,KA Pollard,1,0,1,NA,0,NA,NA,NA,1
+439148,1st innings,South Africa,West Indies,44.6,JH Kallis,DA Miller,KA Pollard,0,0,0,NA,0,NA,NA,NA,1
+439148,1st innings,South Africa,West Indies,45.1,DA Miller,JH Kallis,DJ Bravo,1,0,1,NA,0,NA,NA,NA,1
+439148,1st innings,South Africa,West Indies,45.2,JH Kallis,DA Miller,DJ Bravo,4,0,4,NA,0,NA,NA,NA,1
+439148,1st innings,South Africa,West Indies,45.3,JH Kallis,DA Miller,DJ Bravo,2,0,2,NA,0,NA,NA,NA,1
+439148,1st innings,South Africa,West Indies,45.4,JH Kallis,DA Miller,DJ Bravo,2,0,2,NA,0,NA,NA,NA,1
+439148,1st innings,South Africa,West Indies,45.5,JH Kallis,DA Miller,DJ Bravo,1,0,1,NA,0,NA,NA,NA,1
+439148,1st innings,South Africa,West Indies,45.6,DA Miller,JH Kallis,DJ Bravo,0,1,1,wides,0,NA,NA,NA,1
+439148,1st innings,South Africa,West Indies,45.7,DA Miller,JH Kallis,DJ Bravo,6,0,6,NA,0,NA,NA,NA,1
+439148,1st innings,South Africa,West Indies,46.1,JH Kallis,DA Miller,KA Pollard,2,0,2,NA,0,NA,NA,NA,1
+439148,1st innings,South Africa,West Indies,46.2,JH Kallis,DA Miller,KA Pollard,0,0,0,NA,0,NA,NA,NA,1
+439148,1st innings,South Africa,West Indies,46.3,JH Kallis,DA Miller,KA Pollard,2,0,2,NA,0,NA,NA,NA,1
+439148,1st innings,South Africa,West Indies,46.4,JH Kallis,DA Miller,KA Pollard,0,0,0,NA,1,caught,JH Kallis,DM Richards,1
+439148,1st innings,South Africa,West Indies,46.5,DA Miller,AN Petersen,KA Pollard,1,0,1,NA,0,NA,NA,NA,1
+439148,1st innings,South Africa,West Indies,46.6,AN Petersen,DA Miller,KA Pollard,1,0,1,NA,0,NA,NA,NA,1
+439148,1st innings,South Africa,West Indies,47.1,AN Petersen,DA Miller,JE Taylor,0,0,0,NA,1,lbw,AN Petersen,NA,1
+439148,1st innings,South Africa,West Indies,47.2,R McLaren,DA Miller,JE Taylor,0,0,0,NA,0,NA,NA,NA,1
+439148,1st innings,South Africa,West Indies,47.3,R McLaren,DA Miller,JE Taylor,0,0,0,NA,0,NA,NA,NA,1
+439148,1st innings,South Africa,West Indies,47.4,R McLaren,DA Miller,JE Taylor,0,0,0,NA,0,NA,NA,NA,1
+439148,1st innings,South Africa,West Indies,47.5,R McLaren,DA Miller,JE Taylor,1,0,1,NA,0,NA,NA,NA,1
+439148,1st innings,South Africa,West Indies,47.6,DA Miller,R McLaren,JE Taylor,1,0,1,NA,0,NA,NA,NA,1
+439148,1st innings,South Africa,West Indies,48.1,DA Miller,R McLaren,KA Pollard,1,0,1,NA,0,NA,NA,NA,1
+439148,1st innings,South Africa,West Indies,48.2,R McLaren,DA Miller,KA Pollard,1,0,1,NA,0,NA,NA,NA,1
+439148,1st innings,South Africa,West Indies,48.3,DA Miller,R McLaren,KA Pollard,1,0,1,NA,0,NA,NA,NA,1
+439148,1st innings,South Africa,West Indies,48.4,R McLaren,DA Miller,KA Pollard,1,0,1,NA,0,NA,NA,NA,1
+439148,1st innings,South Africa,West Indies,48.5,DA Miller,R McLaren,KA Pollard,0,0,0,NA,0,NA,NA,NA,1
+439148,1st innings,South Africa,West Indies,48.6,DA Miller,R McLaren,KA Pollard,0,0,0,NA,0,NA,NA,NA,1
+439148,1st innings,South Africa,West Indies,49.1,R McLaren,DA Miller,JE Taylor,1,0,1,NA,0,NA,NA,NA,1
+439148,1st innings,South Africa,West Indies,49.2,DA Miller,R McLaren,JE Taylor,2,0,2,NA,0,NA,NA,NA,1
+439148,1st innings,South Africa,West Indies,49.3,DA Miller,R McLaren,JE Taylor,6,0,6,NA,0,NA,NA,NA,1
+439148,1st innings,South Africa,West Indies,49.4,DA Miller,R McLaren,JE Taylor,2,0,2,NA,0,NA,NA,NA,1
+439148,1st innings,South Africa,West Indies,49.5,DA Miller,R McLaren,JE Taylor,1,0,1,NA,0,NA,NA,NA,1
+439148,1st innings,South Africa,West Indies,49.6,R McLaren,DA Miller,JE Taylor,4,0,4,NA,0,NA,NA,NA,1
+439148,2nd innings,West Indies,South Africa,0.1,CH Gayle,DM Richards,DW Steyn,0,0,0,NA,0,NA,NA,NA,0
+439148,2nd innings,West Indies,South Africa,0.2,CH Gayle,DM Richards,DW Steyn,2,0,2,NA,0,NA,NA,NA,0
+439148,2nd innings,West Indies,South Africa,0.3,CH Gayle,DM Richards,DW Steyn,0,0,0,NA,0,NA,NA,NA,0
+439148,2nd innings,West Indies,South Africa,0.4,CH Gayle,DM Richards,DW Steyn,0,0,0,NA,0,NA,NA,NA,0
+439148,2nd innings,West Indies,South Africa,0.5,CH Gayle,DM Richards,DW Steyn,1,0,1,NA,0,NA,NA,NA,0
+439148,2nd innings,West Indies,South Africa,0.6,DM Richards,CH Gayle,DW Steyn,0,0,0,NA,0,NA,NA,NA,0
+439148,2nd innings,West Indies,South Africa,1.1,CH Gayle,DM Richards,LL Tsotsobe,0,0,0,NA,0,NA,NA,NA,0
+439148,2nd innings,West Indies,South Africa,1.2,CH Gayle,DM Richards,LL Tsotsobe,0,0,0,NA,0,NA,NA,NA,0
+439148,2nd innings,West Indies,South Africa,1.3,CH Gayle,DM Richards,LL Tsotsobe,0,0,0,NA,0,NA,NA,NA,0
+439148,2nd innings,West Indies,South Africa,1.4,CH Gayle,DM Richards,LL Tsotsobe,0,0,0,NA,0,NA,NA,NA,0
+439148,2nd innings,West Indies,South Africa,1.5,CH Gayle,DM Richards,LL Tsotsobe,0,0,0,NA,0,NA,NA,NA,0
+439148,2nd innings,West Indies,South Africa,1.6,CH Gayle,DM Richards,LL Tsotsobe,0,0,0,NA,0,NA,NA,NA,0
+439148,2nd innings,West Indies,South Africa,2.1,DM Richards,CH Gayle,DW Steyn,0,0,0,NA,0,NA,NA,NA,0
+439148,2nd innings,West Indies,South Africa,2.2,DM Richards,CH Gayle,DW Steyn,1,0,1,NA,0,NA,NA,NA,0
+439148,2nd innings,West Indies,South Africa,2.3,CH Gayle,DM Richards,DW Steyn,0,0,0,NA,0,NA,NA,NA,0
+439148,2nd innings,West Indies,South Africa,2.4,CH Gayle,DM Richards,DW Steyn,2,0,2,NA,0,NA,NA,NA,0
+439148,2nd innings,West Indies,South Africa,2.5,CH Gayle,DM Richards,DW Steyn,0,0,0,NA,0,NA,NA,NA,0
+439148,2nd innings,West Indies,South Africa,2.6,CH Gayle,DM Richards,DW Steyn,0,0,0,NA,0,NA,NA,NA,0
+439148,2nd innings,West Indies,South Africa,3.1,DM Richards,CH Gayle,LL Tsotsobe,0,0,0,NA,0,NA,NA,NA,0
+439148,2nd innings,West Indies,South Africa,3.2,DM Richards,CH Gayle,LL Tsotsobe,0,0,0,NA,0,NA,NA,NA,0
+439148,2nd innings,West Indies,South Africa,3.3,DM Richards,CH Gayle,LL Tsotsobe,4,0,4,NA,0,NA,NA,NA,0
+439148,2nd innings,West Indies,South Africa,3.4,DM Richards,CH Gayle,LL Tsotsobe,0,0,0,NA,0,NA,NA,NA,0
+439148,2nd innings,West Indies,South Africa,3.5,DM Richards,CH Gayle,LL Tsotsobe,0,0,0,NA,0,NA,NA,NA,0
+439148,2nd innings,West Indies,South Africa,3.6,DM Richards,CH Gayle,LL Tsotsobe,0,0,0,NA,0,NA,NA,NA,0
+439148,2nd innings,West Indies,South Africa,4.1,CH Gayle,DM Richards,DW Steyn,4,0,4,NA,0,NA,NA,NA,0
+439148,2nd innings,West Indies,South Africa,4.2,CH Gayle,DM Richards,DW Steyn,4,0,4,NA,0,NA,NA,NA,0
+439148,2nd innings,West Indies,South Africa,4.3,CH Gayle,DM Richards,DW Steyn,1,0,1,NA,0,NA,NA,NA,0
+439148,2nd innings,West Indies,South Africa,4.4,DM Richards,CH Gayle,DW Steyn,0,0,0,NA,0,NA,NA,NA,0
+439148,2nd innings,West Indies,South Africa,4.5,DM Richards,CH Gayle,DW Steyn,0,0,0,NA,0,NA,NA,NA,0
+439148,2nd innings,West Indies,South Africa,4.6,DM Richards,CH Gayle,DW Steyn,0,0,0,NA,0,NA,NA,NA,0
+439148,2nd innings,West Indies,South Africa,5.1,CH Gayle,DM Richards,LL Tsotsobe,0,0,0,NA,0,NA,NA,NA,0
+439148,2nd innings,West Indies,South Africa,5.2,CH Gayle,DM Richards,LL Tsotsobe,0,0,0,NA,0,NA,NA,NA,0
+439148,2nd innings,West Indies,South Africa,5.3,CH Gayle,DM Richards,LL Tsotsobe,0,0,0,NA,0,NA,NA,NA,0
+439148,2nd innings,West Indies,South Africa,5.4,CH Gayle,DM Richards,LL Tsotsobe,2,0,2,NA,0,NA,NA,NA,0
+439148,2nd innings,West Indies,South Africa,5.5,CH Gayle,DM Richards,LL Tsotsobe,0,0,0,NA,0,NA,NA,NA,0
+439148,2nd innings,West Indies,South Africa,5.6,CH Gayle,DM Richards,LL Tsotsobe,0,0,0,NA,0,NA,NA,NA,0
+439148,2nd innings,West Indies,South Africa,6.1,DM Richards,CH Gayle,DW Steyn,0,0,0,NA,0,NA,NA,NA,0
+439148,2nd innings,West Indies,South Africa,6.2,DM Richards,CH Gayle,DW Steyn,0,0,0,NA,0,NA,NA,NA,0
+439148,2nd innings,West Indies,South Africa,6.3,DM Richards,CH Gayle,DW Steyn,4,0,4,NA,0,NA,NA,NA,0
+439148,2nd innings,West Indies,South Africa,6.4,DM Richards,CH Gayle,DW Steyn,0,1,1,wides,0,NA,NA,NA,0
+439148,2nd innings,West Indies,South Africa,6.5,DM Richards,CH Gayle,DW Steyn,0,0,0,NA,0,NA,NA,NA,0
+439148,2nd innings,West Indies,South Africa,6.6,DM Richards,CH Gayle,DW Steyn,0,0,0,NA,0,NA,NA,NA,0
+439148,2nd innings,West Indies,South Africa,6.7,DM Richards,CH Gayle,DW Steyn,1,0,1,NA,0,NA,NA,NA,0
+439148,2nd innings,West Indies,South Africa,7.1,DM Richards,CH Gayle,LL Tsotsobe,1,0,1,NA,0,NA,NA,NA,0
+439148,2nd innings,West Indies,South Africa,7.2,CH Gayle,DM Richards,LL Tsotsobe,4,0,4,NA,0,NA,NA,NA,0
+439148,2nd innings,West Indies,South Africa,7.3,CH Gayle,DM Richards,LL Tsotsobe,0,0,0,NA,0,NA,NA,NA,0
+439148,2nd innings,West Indies,South Africa,7.4,CH Gayle,DM Richards,LL Tsotsobe,6,0,6,NA,0,NA,NA,NA,0
+439148,2nd innings,West Indies,South Africa,7.5,CH Gayle,DM Richards,LL Tsotsobe,0,1,1,wides,0,NA,NA,NA,0
+439148,2nd innings,West Indies,South Africa,7.6,CH Gayle,DM Richards,LL Tsotsobe,0,0,0,NA,0,NA,NA,NA,0
+439148,2nd innings,West Indies,South Africa,7.7,CH Gayle,DM Richards,LL Tsotsobe,0,0,0,NA,0,NA,NA,NA,0
+439148,2nd innings,West Indies,South Africa,8.1,DM Richards,CH Gayle,M Morkel,0,0,0,NA,0,NA,NA,NA,0
+439148,2nd innings,West Indies,South Africa,8.2,DM Richards,CH Gayle,M Morkel,0,1,1,legbyes,0,NA,NA,NA,0
+439148,2nd innings,West Indies,South Africa,8.3,CH Gayle,DM Richards,M Morkel,0,0,0,NA,0,NA,NA,NA,0
+439148,2nd innings,West Indies,South Africa,8.4,CH Gayle,DM Richards,M Morkel,0,0,0,NA,0,NA,NA,NA,0
+439148,2nd innings,West Indies,South Africa,8.5,CH Gayle,DM Richards,M Morkel,0,0,0,NA,0,NA,NA,NA,0
+439148,2nd innings,West Indies,South Africa,8.6,CH Gayle,DM Richards,M Morkel,0,0,0,NA,0,NA,NA,NA,0
+439148,2nd innings,West Indies,South Africa,9.1,DM Richards,CH Gayle,R McLaren,0,0,0,NA,0,NA,NA,NA,0
+439148,2nd innings,West Indies,South Africa,9.2,DM Richards,CH Gayle,R McLaren,0,0,0,NA,0,NA,NA,NA,0
+439148,2nd innings,West Indies,South Africa,9.3,DM Richards,CH Gayle,R McLaren,0,0,0,NA,0,NA,NA,NA,0
+439148,2nd innings,West Indies,South Africa,9.4,DM Richards,CH Gayle,R McLaren,0,0,0,NA,0,NA,NA,NA,0
+439148,2nd innings,West Indies,South Africa,9.5,DM Richards,CH Gayle,R McLaren,0,0,0,NA,0,NA,NA,NA,0
+439148,2nd innings,West Indies,South Africa,9.6,DM Richards,CH Gayle,R McLaren,0,0,0,NA,0,NA,NA,NA,0
+439148,2nd innings,West Indies,South Africa,10.1,CH Gayle,DM Richards,M Morkel,0,0,0,NA,0,NA,NA,NA,0
+439148,2nd innings,West Indies,South Africa,10.2,CH Gayle,DM Richards,M Morkel,0,0,0,NA,1,caught,CH Gayle,R McLaren,0
+439148,2nd innings,West Indies,South Africa,10.3,RR Sarwan,DM Richards,M Morkel,0,0,0,NA,0,NA,NA,NA,0
+439148,2nd innings,West Indies,South Africa,10.4,RR Sarwan,DM Richards,M Morkel,4,0,4,NA,0,NA,NA,NA,0
+439148,2nd innings,West Indies,South Africa,10.5,RR Sarwan,DM Richards,M Morkel,0,1,1,legbyes,0,NA,NA,NA,0
+439148,2nd innings,West Indies,South Africa,10.6,DM Richards,RR Sarwan,M Morkel,0,0,0,NA,0,NA,NA,NA,0
+439148,2nd innings,West Indies,South Africa,11.1,RR Sarwan,DM Richards,R McLaren,1,0,1,NA,0,NA,NA,NA,0
+439148,2nd innings,West Indies,South Africa,11.2,DM Richards,RR Sarwan,R McLaren,0,0,0,NA,0,NA,NA,NA,0
+439148,2nd innings,West Indies,South Africa,11.3,DM Richards,RR Sarwan,R McLaren,2,0,2,NA,0,NA,NA,NA,0
+439148,2nd innings,West Indies,South Africa,11.4,DM Richards,RR Sarwan,R McLaren,1,0,1,NA,0,NA,NA,NA,0
+439148,2nd innings,West Indies,South Africa,11.5,RR Sarwan,DM Richards,R McLaren,1,0,1,NA,0,NA,NA,NA,0
+439148,2nd innings,West Indies,South Africa,11.6,DM Richards,N Deonarine,R McLaren,0,0,0,NA,0,NA,NA,NA,0
+439148,2nd innings,West Indies,South Africa,12.1,N Deonarine,DM Richards,M Morkel,0,0,0,NA,0,NA,NA,NA,0
+439148,2nd innings,West Indies,South Africa,12.2,N Deonarine,DM Richards,M Morkel,0,0,0,NA,0,NA,NA,NA,0
+439148,2nd innings,West Indies,South Africa,12.3,N Deonarine,DM Richards,M Morkel,0,0,0,NA,0,NA,NA,NA,0
+439148,2nd innings,West Indies,South Africa,12.4,N Deonarine,DM Richards,M Morkel,0,0,0,NA,0,NA,NA,NA,0
+439148,2nd innings,West Indies,South Africa,12.5,N Deonarine,DM Richards,M Morkel,0,0,0,NA,0,NA,NA,NA,0
+439148,2nd innings,West Indies,South Africa,12.6,N Deonarine,DM Richards,M Morkel,0,0,0,NA,0,NA,NA,NA,0
+439148,2nd innings,West Indies,South Africa,13.1,DM Richards,N Deonarine,R McLaren,4,0,4,NA,0,NA,NA,NA,0
+439148,2nd innings,West Indies,South Africa,13.2,DM Richards,N Deonarine,R McLaren,0,0,0,NA,0,NA,NA,NA,0
+439148,2nd innings,West Indies,South Africa,13.3,DM Richards,N Deonarine,R McLaren,4,0,4,NA,0,NA,NA,NA,0
+439148,2nd innings,West Indies,South Africa,13.4,DM Richards,N Deonarine,R McLaren,0,1,1,wides,0,NA,NA,NA,0
+439148,2nd innings,West Indies,South Africa,13.5,DM Richards,N Deonarine,R McLaren,2,0,2,NA,0,NA,NA,NA,0
+439148,2nd innings,West Indies,South Africa,13.6,DM Richards,N Deonarine,R McLaren,0,0,0,NA,0,NA,NA,NA,0
+439148,2nd innings,West Indies,South Africa,13.7,DM Richards,N Deonarine,R McLaren,0,0,0,NA,0,NA,NA,NA,0
+439148,2nd innings,West Indies,South Africa,14.1,N Deonarine,DM Richards,M Morkel,0,0,0,NA,0,NA,NA,NA,0
+439148,2nd innings,West Indies,South Africa,14.2,N Deonarine,DM Richards,M Morkel,0,0,0,NA,0,NA,NA,NA,0
+439148,2nd innings,West Indies,South Africa,14.3,N Deonarine,DM Richards,M Morkel,3,0,3,NA,0,NA,NA,NA,0
+439148,2nd innings,West Indies,South Africa,14.4,DM Richards,N Deonarine,M Morkel,0,0,0,NA,0,NA,NA,NA,0
+439148,2nd innings,West Indies,South Africa,14.5,DM Richards,N Deonarine,M Morkel,0,1,1,wides,0,NA,NA,NA,0
+439148,2nd innings,West Indies,South Africa,14.6,DM Richards,N Deonarine,M Morkel,0,0,0,NA,0,NA,NA,NA,0
+439148,2nd innings,West Indies,South Africa,14.7,DM Richards,N Deonarine,M Morkel,1,0,1,NA,0,NA,NA,NA,0
+439148,2nd innings,West Indies,South Africa,15.1,DM Richards,N Deonarine,R McLaren,0,0,0,NA,0,NA,NA,NA,0
+439148,2nd innings,West Indies,South Africa,15.2,DM Richards,N Deonarine,R McLaren,1,0,1,NA,0,NA,NA,NA,0
+439148,2nd innings,West Indies,South Africa,15.3,N Deonarine,DM Richards,R McLaren,2,0,2,NA,0,NA,NA,NA,0
+439148,2nd innings,West Indies,South Africa,15.4,N Deonarine,DM Richards,R McLaren,0,0,0,NA,0,NA,NA,NA,0
+439148,2nd innings,West Indies,South Africa,15.5,N Deonarine,DM Richards,R McLaren,1,0,1,NA,0,NA,NA,NA,0
+439148,2nd innings,West Indies,South Africa,15.6,DM Richards,N Deonarine,R McLaren,4,0,4,NA,0,NA,NA,NA,0
+439148,2nd innings,West Indies,South Africa,16.1,N Deonarine,DM Richards,J Botha,1,0,1,NA,0,NA,NA,NA,0
+439148,2nd innings,West Indies,South Africa,16.2,DM Richards,N Deonarine,J Botha,0,0,0,NA,0,NA,NA,NA,0
+439148,2nd innings,West Indies,South Africa,16.3,DM Richards,N Deonarine,J Botha,0,0,0,NA,0,NA,NA,NA,0
+439148,2nd innings,West Indies,South Africa,16.4,DM Richards,N Deonarine,J Botha,0,0,0,NA,0,NA,NA,NA,0
+439148,2nd innings,West Indies,South Africa,16.5,DM Richards,N Deonarine,J Botha,0,0,0,NA,0,NA,NA,NA,0
+439148,2nd innings,West Indies,South Africa,16.6,DM Richards,N Deonarine,J Botha,1,0,1,NA,0,NA,NA,NA,0
+439148,2nd innings,West Indies,South Africa,17.1,DM Richards,N Deonarine,LL Tsotsobe,1,0,1,NA,0,NA,NA,NA,0
+439148,2nd innings,West Indies,South Africa,17.2,N Deonarine,DM Richards,LL Tsotsobe,0,0,0,NA,0,NA,NA,NA,0
+439148,2nd innings,West Indies,South Africa,17.3,N Deonarine,DM Richards,LL Tsotsobe,0,0,0,NA,0,NA,NA,NA,0
+439148,2nd innings,West Indies,South Africa,17.4,N Deonarine,DM Richards,LL Tsotsobe,0,0,0,NA,0,NA,NA,NA,0
+439148,2nd innings,West Indies,South Africa,17.5,N Deonarine,DM Richards,LL Tsotsobe,0,0,0,NA,1,caught,N Deonarine,DA Miller,0
+439148,2nd innings,West Indies,South Africa,17.6,DJ Bravo,DM Richards,LL Tsotsobe,1,0,1,NA,0,NA,NA,NA,0
+439148,2nd innings,West Indies,South Africa,18.1,DJ Bravo,DM Richards,J Botha,1,0,1,NA,0,NA,NA,NA,0
+439148,2nd innings,West Indies,South Africa,18.2,DM Richards,DJ Bravo,J Botha,1,0,1,NA,0,NA,NA,NA,0
+439148,2nd innings,West Indies,South Africa,18.3,DJ Bravo,DM Richards,J Botha,1,0,1,NA,0,NA,NA,NA,0
+439148,2nd innings,West Indies,South Africa,18.4,DM Richards,DJ Bravo,J Botha,0,0,0,NA,0,NA,NA,NA,0
+439148,2nd innings,West Indies,South Africa,18.5,DM Richards,DJ Bravo,J Botha,0,0,0,NA,0,NA,NA,NA,0
+439148,2nd innings,West Indies,South Africa,18.6,DM Richards,DJ Bravo,J Botha,0,0,0,NA,0,NA,NA,NA,0
+439148,2nd innings,West Indies,South Africa,19.1,DJ Bravo,DM Richards,LL Tsotsobe,4,0,4,NA,0,NA,NA,NA,0
+439148,2nd innings,West Indies,South Africa,19.2,DJ Bravo,DM Richards,LL Tsotsobe,1,0,1,NA,0,NA,NA,NA,0
+439148,2nd innings,West Indies,South Africa,19.3,DM Richards,DJ Bravo,LL Tsotsobe,0,0,0,NA,0,NA,NA,NA,0
+439148,2nd innings,West Indies,South Africa,19.4,DM Richards,DJ Bravo,LL Tsotsobe,2,0,2,NA,0,NA,NA,NA,0
+439148,2nd innings,West Indies,South Africa,19.5,DM Richards,DJ Bravo,LL Tsotsobe,1,0,1,NA,0,NA,NA,NA,0
+439148,2nd innings,West Indies,South Africa,19.6,DJ Bravo,DM Richards,LL Tsotsobe,0,0,0,NA,0,NA,NA,NA,0
+439148,2nd innings,West Indies,South Africa,20.1,DM Richards,DJ Bravo,J Botha,2,0,2,NA,0,NA,NA,NA,0
+439148,2nd innings,West Indies,South Africa,20.2,DM Richards,DJ Bravo,J Botha,1,0,1,NA,0,NA,NA,NA,0
+439148,2nd innings,West Indies,South Africa,20.3,DJ Bravo,DM Richards,J Botha,0,0,0,NA,0,NA,NA,NA,0
+439148,2nd innings,West Indies,South Africa,20.4,DJ Bravo,DM Richards,J Botha,0,0,0,NA,0,NA,NA,NA,0
+439148,2nd innings,West Indies,South Africa,20.5,DJ Bravo,DM Richards,J Botha,2,0,2,NA,0,NA,NA,NA,0
+439148,2nd innings,West Indies,South Africa,20.6,DJ Bravo,DM Richards,J Botha,1,0,1,NA,0,NA,NA,NA,0
+439148,2nd innings,West Indies,South Africa,21.1,DJ Bravo,DM Richards,LL Tsotsobe,1,0,1,NA,0,NA,NA,NA,0
+439148,2nd innings,West Indies,South Africa,21.2,DM Richards,DJ Bravo,LL Tsotsobe,0,0,0,NA,0,NA,NA,NA,0
+439148,2nd innings,West Indies,South Africa,21.3,DM Richards,DJ Bravo,LL Tsotsobe,1,0,1,NA,0,NA,NA,NA,0
+439148,2nd innings,West Indies,South Africa,21.4,DJ Bravo,DM Richards,LL Tsotsobe,0,0,0,NA,0,NA,NA,NA,0
+439148,2nd innings,West Indies,South Africa,21.5,DJ Bravo,DM Richards,LL Tsotsobe,0,0,0,NA,0,NA,NA,NA,0
+439148,2nd innings,West Indies,South Africa,21.6,DJ Bravo,DM Richards,LL Tsotsobe,0,0,0,NA,0,NA,NA,NA,0
+439148,2nd innings,West Indies,South Africa,22.1,DM Richards,DJ Bravo,J Botha,0,0,0,NA,0,NA,NA,NA,0
+439148,2nd innings,West Indies,South Africa,22.2,DM Richards,DJ Bravo,J Botha,0,0,0,NA,0,NA,NA,NA,0
+439148,2nd innings,West Indies,South Africa,22.3,DM Richards,DJ Bravo,J Botha,4,0,4,NA,0,NA,NA,NA,0
+439148,2nd innings,West Indies,South Africa,22.4,DM Richards,DJ Bravo,J Botha,0,0,0,NA,0,NA,NA,NA,0
+439148,2nd innings,West Indies,South Africa,22.5,DM Richards,DJ Bravo,J Botha,1,0,1,NA,0,NA,NA,NA,0
+439148,2nd innings,West Indies,South Africa,22.6,DJ Bravo,DM Richards,J Botha,1,0,1,NA,0,NA,NA,NA,0
+439148,2nd innings,West Indies,South Africa,23.1,DJ Bravo,DM Richards,JH Kallis,1,0,1,NA,0,NA,NA,NA,0
+439148,2nd innings,West Indies,South Africa,23.2,DM Richards,DJ Bravo,JH Kallis,0,0,0,NA,0,NA,NA,NA,0
+439148,2nd innings,West Indies,South Africa,23.3,DM Richards,DJ Bravo,JH Kallis,0,0,0,NA,0,NA,NA,NA,0
+439148,2nd innings,West Indies,South Africa,23.4,DM Richards,DJ Bravo,JH Kallis,0,0,0,NA,0,NA,NA,NA,0
+439148,2nd innings,West Indies,South Africa,23.5,DM Richards,DJ Bravo,JH Kallis,0,1,1,wides,0,NA,NA,NA,0
+439148,2nd innings,West Indies,South Africa,23.6,DM Richards,DJ Bravo,JH Kallis,0,0,0,NA,0,NA,NA,NA,0
+439148,2nd innings,West Indies,South Africa,23.7,DM Richards,DJ Bravo,JH Kallis,0,0,0,NA,0,NA,NA,NA,0
+439148,2nd innings,West Indies,South Africa,24.1,DJ Bravo,DM Richards,J Botha,1,0,1,NA,0,NA,NA,NA,0
+439148,2nd innings,West Indies,South Africa,24.2,DM Richards,DJ Bravo,J Botha,0,0,0,NA,0,NA,NA,NA,0
+439148,2nd innings,West Indies,South Africa,24.3,DM Richards,DJ Bravo,J Botha,1,0,1,NA,0,NA,NA,NA,0
+439148,2nd innings,West Indies,South Africa,24.4,DJ Bravo,DM Richards,J Botha,1,0,1,NA,0,NA,NA,NA,0
+439148,2nd innings,West Indies,South Africa,24.5,DM Richards,DJ Bravo,J Botha,0,0,0,NA,0,NA,NA,NA,0
+439148,2nd innings,West Indies,South Africa,24.6,DM Richards,DJ Bravo,J Botha,1,0,1,NA,0,NA,NA,NA,0
+439148,2nd innings,West Indies,South Africa,25.1,DM Richards,DJ Bravo,JH Kallis,0,0,0,NA,0,NA,NA,NA,0
+439148,2nd innings,West Indies,South Africa,25.2,DM Richards,DJ Bravo,JH Kallis,0,0,0,NA,0,NA,NA,NA,0
+439148,2nd innings,West Indies,South Africa,25.3,DM Richards,DJ Bravo,JH Kallis,0,0,0,NA,0,NA,NA,NA,0
+439148,2nd innings,West Indies,South Africa,25.4,DM Richards,DJ Bravo,JH Kallis,1,0,1,NA,0,NA,NA,NA,0
+439148,2nd innings,West Indies,South Africa,25.5,DJ Bravo,DM Richards,JH Kallis,1,0,1,NA,0,NA,NA,NA,0
+439148,2nd innings,West Indies,South Africa,25.6,DM Richards,DJ Bravo,JH Kallis,0,0,0,NA,0,NA,NA,NA,0
+439148,2nd innings,West Indies,South Africa,26.1,DJ Bravo,DM Richards,J Botha,0,0,0,NA,0,NA,NA,NA,0
+439148,2nd innings,West Indies,South Africa,26.2,DJ Bravo,DM Richards,J Botha,1,0,1,NA,0,NA,NA,NA,0
+439148,2nd innings,West Indies,South Africa,26.3,DM Richards,DJ Bravo,J Botha,1,0,1,NA,0,NA,NA,NA,0
+439148,2nd innings,West Indies,South Africa,26.4,DJ Bravo,DM Richards,J Botha,1,0,1,NA,0,NA,NA,NA,0
+439148,2nd innings,West Indies,South Africa,26.5,DM Richards,DJ Bravo,J Botha,1,0,1,NA,0,NA,NA,NA,0
+439148,2nd innings,West Indies,South Africa,26.6,DJ Bravo,DM Richards,J Botha,1,0,1,NA,0,NA,NA,NA,0
+439148,2nd innings,West Indies,South Africa,27.1,DJ Bravo,DM Richards,JH Kallis,0,0,0,NA,0,NA,NA,NA,0
+439148,2nd innings,West Indies,South Africa,27.2,DJ Bravo,DM Richards,JH Kallis,1,0,1,NA,0,NA,NA,NA,0
+439148,2nd innings,West Indies,South Africa,27.3,DM Richards,DJ Bravo,JH Kallis,0,0,0,NA,0,NA,NA,NA,0
+439148,2nd innings,West Indies,South Africa,27.4,DM Richards,DJ Bravo,JH Kallis,1,0,1,NA,0,NA,NA,NA,0
+439148,2nd innings,West Indies,South Africa,27.5,DJ Bravo,DM Richards,JH Kallis,1,0,1,NA,0,NA,NA,NA,0
+439148,2nd innings,West Indies,South Africa,27.6,DM Richards,DJ Bravo,JH Kallis,0,0,0,NA,1,bowled,DM Richards,NA,0
+439148,2nd innings,West Indies,South Africa,28.1,DJ Bravo,KA Pollard,J Botha,0,0,0,NA,0,NA,NA,NA,0
+439148,2nd innings,West Indies,South Africa,28.2,DJ Bravo,KA Pollard,J Botha,1,0,1,NA,0,NA,NA,NA,0
+439148,2nd innings,West Indies,South Africa,28.3,KA Pollard,DJ Bravo,J Botha,0,0,0,NA,0,NA,NA,NA,0
+439148,2nd innings,West Indies,South Africa,28.4,KA Pollard,DJ Bravo,J Botha,0,0,0,NA,0,NA,NA,NA,0
+439148,2nd innings,West Indies,South Africa,28.5,KA Pollard,DJ Bravo,J Botha,1,0,1,NA,0,NA,NA,NA,0
+439148,2nd innings,West Indies,South Africa,28.6,DJ Bravo,KA Pollard,J Botha,1,0,1,NA,0,NA,NA,NA,0
+439148,2nd innings,West Indies,South Africa,29.1,DJ Bravo,KA Pollard,DW Steyn,1,0,1,NA,0,NA,NA,NA,0
+439148,2nd innings,West Indies,South Africa,29.2,KA Pollard,DJ Bravo,DW Steyn,0,0,0,NA,0,NA,NA,NA,0
+439148,2nd innings,West Indies,South Africa,29.3,KA Pollard,DJ Bravo,DW Steyn,1,0,1,NA,0,NA,NA,NA,0
+439148,2nd innings,West Indies,South Africa,29.4,DJ Bravo,KA Pollard,DW Steyn,1,0,1,NA,0,NA,NA,NA,0
+439148,2nd innings,West Indies,South Africa,29.5,KA Pollard,DJ Bravo,DW Steyn,0,0,0,NA,0,NA,NA,NA,0
+439148,2nd innings,West Indies,South Africa,29.6,KA Pollard,DJ Bravo,DW Steyn,0,0,0,NA,0,NA,NA,NA,0
+439148,2nd innings,West Indies,South Africa,30.1,DJ Bravo,KA Pollard,J Botha,0,0,0,NA,0,NA,NA,NA,0
+439148,2nd innings,West Indies,South Africa,30.2,DJ Bravo,KA Pollard,J Botha,1,0,1,NA,0,NA,NA,NA,0
+439148,2nd innings,West Indies,South Africa,30.3,KA Pollard,DJ Bravo,J Botha,0,1,1,byes,0,NA,NA,NA,0
+439148,2nd innings,West Indies,South Africa,30.4,DJ Bravo,KA Pollard,J Botha,1,0,1,NA,0,NA,NA,NA,0
+439148,2nd innings,West Indies,South Africa,30.5,KA Pollard,DJ Bravo,J Botha,1,0,1,NA,0,NA,NA,NA,0
+439148,2nd innings,West Indies,South Africa,30.6,DJ Bravo,KA Pollard,J Botha,1,0,1,NA,0,NA,NA,NA,0
+439148,2nd innings,West Indies,South Africa,31.1,DJ Bravo,KA Pollard,DW Steyn,0,0,0,NA,0,NA,NA,NA,0
+439148,2nd innings,West Indies,South Africa,31.2,DJ Bravo,KA Pollard,DW Steyn,1,0,1,NA,0,NA,NA,NA,0
+439148,2nd innings,West Indies,South Africa,31.3,KA Pollard,DJ Bravo,DW Steyn,1,0,1,NA,0,NA,NA,NA,0
+439148,2nd innings,West Indies,South Africa,31.4,DJ Bravo,KA Pollard,DW Steyn,0,0,0,NA,0,NA,NA,NA,0
+439148,2nd innings,West Indies,South Africa,31.5,DJ Bravo,KA Pollard,DW Steyn,1,0,1,NA,0,NA,NA,NA,0
+439148,2nd innings,West Indies,South Africa,31.6,KA Pollard,DJ Bravo,DW Steyn,0,1,1,wides,0,NA,NA,NA,0
+439148,2nd innings,West Indies,South Africa,31.7,KA Pollard,DJ Bravo,DW Steyn,0,1,1,legbyes,0,NA,NA,NA,0
+439148,2nd innings,West Indies,South Africa,32.1,KA Pollard,DJ Bravo,J Botha,1,0,1,NA,0,NA,NA,NA,0
+439148,2nd innings,West Indies,South Africa,32.2,DJ Bravo,KA Pollard,J Botha,6,0,6,NA,0,NA,NA,NA,0
+439148,2nd innings,West Indies,South Africa,32.3,DJ Bravo,KA Pollard,J Botha,1,0,1,NA,0,NA,NA,NA,0
+439148,2nd innings,West Indies,South Africa,32.4,KA Pollard,DJ Bravo,J Botha,1,0,1,NA,0,NA,NA,NA,0
+439148,2nd innings,West Indies,South Africa,32.5,DJ Bravo,KA Pollard,J Botha,1,0,1,NA,0,NA,NA,NA,0
+439148,2nd innings,West Indies,South Africa,32.6,KA Pollard,DJ Bravo,J Botha,1,0,1,NA,0,NA,NA,NA,0
+439148,2nd innings,West Indies,South Africa,33.1,KA Pollard,DJ Bravo,R McLaren,2,0,2,NA,0,NA,NA,NA,0
+439148,2nd innings,West Indies,South Africa,33.2,KA Pollard,DJ Bravo,R McLaren,1,0,1,NA,0,NA,NA,NA,0
+439148,2nd innings,West Indies,South Africa,33.3,DJ Bravo,KA Pollard,R McLaren,2,0,2,NA,0,NA,NA,NA,0
+439148,2nd innings,West Indies,South Africa,33.4,DJ Bravo,KA Pollard,R McLaren,1,0,1,NA,0,NA,NA,NA,0
+439148,2nd innings,West Indies,South Africa,33.5,KA Pollard,DJ Bravo,R McLaren,0,1,1,wides,0,NA,NA,NA,0
+439148,2nd innings,West Indies,South Africa,33.6,KA Pollard,DJ Bravo,R McLaren,1,0,1,NA,0,NA,NA,NA,0
+439148,2nd innings,West Indies,South Africa,33.7,DJ Bravo,KA Pollard,R McLaren,0,0,0,NA,0,NA,NA,NA,0
+439148,2nd innings,West Indies,South Africa,34.1,KA Pollard,DJ Bravo,M Morkel,0,0,0,NA,0,NA,NA,NA,0
+439148,2nd innings,West Indies,South Africa,34.2,KA Pollard,DJ Bravo,M Morkel,1,0,1,NA,0,NA,NA,NA,0
+439148,2nd innings,West Indies,South Africa,34.3,DJ Bravo,KA Pollard,M Morkel,1,0,1,NA,0,NA,NA,NA,0
+439148,2nd innings,West Indies,South Africa,34.4,KA Pollard,DJ Bravo,M Morkel,0,0,0,NA,0,NA,NA,NA,0
+439148,2nd innings,West Indies,South Africa,34.5,KA Pollard,DJ Bravo,M Morkel,1,0,1,NA,0,NA,NA,NA,0
+439148,2nd innings,West Indies,South Africa,34.6,DJ Bravo,KA Pollard,M Morkel,1,0,1,NA,0,NA,NA,NA,0
+439148,2nd innings,West Indies,South Africa,35.1,DJ Bravo,KA Pollard,DW Steyn,0,1,1,legbyes,0,NA,NA,NA,0
+439148,2nd innings,West Indies,South Africa,35.2,KA Pollard,DJ Bravo,DW Steyn,1,0,1,NA,0,NA,NA,NA,0
+439148,2nd innings,West Indies,South Africa,35.3,DJ Bravo,KA Pollard,DW Steyn,1,0,1,NA,0,NA,NA,NA,0
+439148,2nd innings,West Indies,South Africa,35.4,KA Pollard,DJ Bravo,DW Steyn,0,2,2,legbyes,0,NA,NA,NA,0
+439148,2nd innings,West Indies,South Africa,35.5,KA Pollard,DJ Bravo,DW Steyn,0,1,1,wides,0,NA,NA,NA,0
+439148,2nd innings,West Indies,South Africa,35.6,KA Pollard,DJ Bravo,DW Steyn,1,0,1,NA,0,NA,NA,NA,0
+439148,2nd innings,West Indies,South Africa,35.7,DJ Bravo,KA Pollard,DW Steyn,0,0,0,NA,0,NA,NA,NA,0
+439148,2nd innings,West Indies,South Africa,36.1,KA Pollard,DJ Bravo,M Morkel,2,0,2,NA,0,NA,NA,NA,0
+439148,2nd innings,West Indies,South Africa,36.2,KA Pollard,DJ Bravo,M Morkel,1,0,1,NA,0,NA,NA,NA,0
+439148,2nd innings,West Indies,South Africa,36.3,DJ Bravo,KA Pollard,M Morkel,1,0,1,NA,0,NA,NA,NA,0
+439148,2nd innings,West Indies,South Africa,36.4,KA Pollard,DJ Bravo,M Morkel,2,0,2,NA,0,NA,NA,NA,0
+439148,2nd innings,West Indies,South Africa,36.5,KA Pollard,DJ Bravo,M Morkel,0,1,1,wides,0,NA,NA,NA,0
+439148,2nd innings,West Indies,South Africa,36.6,KA Pollard,DJ Bravo,M Morkel,4,0,4,NA,0,NA,NA,NA,0
+439148,2nd innings,West Indies,South Africa,36.7,KA Pollard,DJ Bravo,M Morkel,1,0,1,NA,0,NA,NA,NA,0
+439148,2nd innings,West Indies,South Africa,37.1,KA Pollard,DJ Bravo,DW Steyn,2,0,2,NA,0,NA,NA,NA,0
+439148,2nd innings,West Indies,South Africa,37.2,KA Pollard,DJ Bravo,DW Steyn,1,0,1,NA,0,NA,NA,NA,0
+439148,2nd innings,West Indies,South Africa,37.3,DJ Bravo,KA Pollard,DW Steyn,1,0,1,NA,0,NA,NA,NA,0
+439148,2nd innings,West Indies,South Africa,37.4,KA Pollard,DJ Bravo,DW Steyn,0,0,0,NA,0,NA,NA,NA,0
+439148,2nd innings,West Indies,South Africa,37.5,KA Pollard,DJ Bravo,DW Steyn,0,0,0,NA,0,NA,NA,NA,0
+439148,2nd innings,West Indies,South Africa,37.6,KA Pollard,DJ Bravo,DW Steyn,1,0,1,NA,0,NA,NA,NA,0
+439148,2nd innings,West Indies,South Africa,38.1,KA Pollard,DJ Bravo,M Morkel,0,0,0,NA,1,caught,KA Pollard,J Botha,0
+439148,2nd innings,West Indies,South Africa,38.2,DJ Bravo,JE Taylor,M Morkel,1,0,1,NA,0,NA,NA,NA,0
+439148,2nd innings,West Indies,South Africa,38.3,JE Taylor,DJ Bravo,M Morkel,4,0,4,NA,0,NA,NA,NA,0
+439148,2nd innings,West Indies,South Africa,38.4,JE Taylor,DJ Bravo,M Morkel,2,0,2,NA,0,NA,NA,NA,0
+439148,2nd innings,West Indies,South Africa,38.5,JE Taylor,DJ Bravo,M Morkel,0,0,0,NA,0,NA,NA,NA,0
+439148,2nd innings,West Indies,South Africa,38.6,JE Taylor,DJ Bravo,M Morkel,0,0,0,NA,1,bowled,JE Taylor,NA,0
+439148,2nd innings,West Indies,South Africa,39.1,DJ Bravo,D Ramdin,LL Tsotsobe,4,0,4,NA,0,NA,NA,NA,0
+439148,2nd innings,West Indies,South Africa,39.2,DJ Bravo,D Ramdin,LL Tsotsobe,1,0,1,NA,0,NA,NA,NA,0
+439148,2nd innings,West Indies,South Africa,39.3,D Ramdin,DJ Bravo,LL Tsotsobe,1,0,1,NA,0,NA,NA,NA,0
+439148,2nd innings,West Indies,South Africa,39.4,DJ Bravo,D Ramdin,LL Tsotsobe,0,0,0,NA,0,NA,NA,NA,0
+439148,2nd innings,West Indies,South Africa,39.5,DJ Bravo,D Ramdin,LL Tsotsobe,2,0,2,NA,0,NA,NA,NA,0
+439148,2nd innings,West Indies,South Africa,39.6,DJ Bravo,D Ramdin,LL Tsotsobe,0,0,0,NA,0,NA,NA,NA,0
+439148,2nd innings,West Indies,South Africa,40.1,D Ramdin,DJ Bravo,R McLaren,1,0,1,NA,0,NA,NA,NA,0
+439148,2nd innings,West Indies,South Africa,40.2,DJ Bravo,D Ramdin,R McLaren,1,0,1,NA,0,NA,NA,NA,0
+439148,2nd innings,West Indies,South Africa,40.3,D Ramdin,DJ Bravo,R McLaren,0,1,1,wides,0,NA,NA,NA,0
+439148,2nd innings,West Indies,South Africa,40.4,D Ramdin,DJ Bravo,R McLaren,0,0,0,NA,0,NA,NA,NA,0
+439148,2nd innings,West Indies,South Africa,40.5,D Ramdin,DJ Bravo,R McLaren,0,0,0,NA,1,run out,D Ramdin,DA Miller,0
+439148,2nd innings,West Indies,South Africa,40.6,DJ Bravo,DJG Sammy,R McLaren,0,0,0,NA,0,NA,NA,NA,0
+439148,2nd innings,West Indies,South Africa,40.7,DJ Bravo,DJG Sammy,R McLaren,1,0,1,NA,0,NA,NA,NA,0
+439148,2nd innings,West Indies,South Africa,41.1,DJ Bravo,DJG Sammy,LL Tsotsobe,4,0,4,NA,0,NA,NA,NA,0
+439148,2nd innings,West Indies,South Africa,41.2,DJ Bravo,DJG Sammy,LL Tsotsobe,2,0,2,NA,0,NA,NA,NA,0
+439148,2nd innings,West Indies,South Africa,41.3,DJ Bravo,DJG Sammy,LL Tsotsobe,2,0,2,NA,0,NA,NA,NA,0
+439148,2nd innings,West Indies,South Africa,41.4,DJ Bravo,DJG Sammy,LL Tsotsobe,0,0,0,NA,0,NA,NA,NA,0
+439148,2nd innings,West Indies,South Africa,41.5,DJ Bravo,DJG Sammy,LL Tsotsobe,6,0,6,NA,0,NA,NA,NA,0
+439148,2nd innings,West Indies,South Africa,41.6,DJ Bravo,DJG Sammy,LL Tsotsobe,1,0,1,NA,0,NA,NA,NA,0
+439148,2nd innings,West Indies,South Africa,42.1,DJ Bravo,DJG Sammy,M Morkel,1,0,1,NA,0,NA,NA,NA,0
+439148,2nd innings,West Indies,South Africa,42.2,DJG Sammy,DJ Bravo,M Morkel,2,0,2,NA,0,NA,NA,NA,0
+439148,2nd innings,West Indies,South Africa,42.3,DJG Sammy,DJ Bravo,M Morkel,0,0,0,NA,0,NA,NA,NA,0
+439148,2nd innings,West Indies,South Africa,42.4,DJG Sammy,DJ Bravo,M Morkel,0,1,1,wides,0,NA,NA,NA,0
+439148,2nd innings,West Indies,South Africa,42.5,DJG Sammy,DJ Bravo,M Morkel,1,0,1,NA,0,NA,NA,NA,0
+439148,2nd innings,West Indies,South Africa,42.6,DJ Bravo,DJG Sammy,M Morkel,1,0,1,NA,0,NA,NA,NA,0
+439148,2nd innings,West Indies,South Africa,42.7,DJG Sammy,DJ Bravo,M Morkel,1,0,1,NA,0,NA,NA,NA,0
+439148,2nd innings,West Indies,South Africa,43.1,DJG Sammy,DJ Bravo,DW Steyn,6,0,6,NA,0,NA,NA,NA,0
+439148,2nd innings,West Indies,South Africa,43.2,DJG Sammy,DJ Bravo,DW Steyn,6,0,6,NA,0,NA,NA,NA,0
+439148,2nd innings,West Indies,South Africa,43.3,DJG Sammy,DJ Bravo,DW Steyn,0,0,0,NA,0,NA,NA,NA,0
+439148,2nd innings,West Indies,South Africa,43.4,DJG Sammy,DJ Bravo,DW Steyn,0,0,0,NA,0,NA,NA,NA,0
+439148,2nd innings,West Indies,South Africa,43.5,DJG Sammy,DJ Bravo,DW Steyn,1,0,1,NA,0,NA,NA,NA,0
+439148,2nd innings,West Indies,South Africa,43.6,DJ Bravo,DJG Sammy,DW Steyn,0,0,0,NA,1,caught,DJ Bravo,JH Kallis,0
+439148,2nd innings,West Indies,South Africa,44.1,RR Sarwan,DJG Sammy,J Botha,0,0,0,NA,1,caught,RR Sarwan,AB de Villiers,0
+439148,2nd innings,West Indies,South Africa,44.2,R Rampaul,DJG Sammy,J Botha,0,0,0,NA,0,NA,NA,NA,0
+439148,2nd innings,West Indies,South Africa,44.3,R Rampaul,DJG Sammy,J Botha,1,0,1,NA,0,NA,NA,NA,0
+439148,2nd innings,West Indies,South Africa,44.4,DJG Sammy,R Rampaul,J Botha,6,0,6,NA,0,NA,NA,NA,0
+439148,2nd innings,West Indies,South Africa,44.5,DJG Sammy,R Rampaul,J Botha,6,0,6,NA,0,NA,NA,NA,0
+439148,2nd innings,West Indies,South Africa,44.6,DJG Sammy,R Rampaul,J Botha,1,0,1,NA,0,NA,NA,NA,0
+439148,2nd innings,West Indies,South Africa,45.1,DJG Sammy,R Rampaul,DW Steyn,0,0,0,NA,0,NA,NA,NA,0
+439148,2nd innings,West Indies,South Africa,45.2,DJG Sammy,R Rampaul,DW Steyn,6,0,6,NA,0,NA,NA,NA,0
+439148,2nd innings,West Indies,South Africa,45.3,DJG Sammy,R Rampaul,DW Steyn,1,0,1,NA,0,NA,NA,NA,0
+439148,2nd innings,West Indies,South Africa,45.4,R Rampaul,DJG Sammy,DW Steyn,2,0,2,NA,0,NA,NA,NA,0
+439148,2nd innings,West Indies,South Africa,45.5,R Rampaul,DJG Sammy,DW Steyn,0,0,0,NA,0,NA,NA,NA,0
+439148,2nd innings,West Indies,South Africa,45.6,R Rampaul,DJG Sammy,DW Steyn,0,0,0,NA,0,NA,NA,NA,0
+439148,2nd innings,West Indies,South Africa,46.1,DJG Sammy,R Rampaul,M Morkel,2,0,2,NA,0,NA,NA,NA,0
+439148,2nd innings,West Indies,South Africa,46.2,DJG Sammy,R Rampaul,M Morkel,2,0,2,NA,0,NA,NA,NA,0
+439148,2nd innings,West Indies,South Africa,46.3,DJG Sammy,R Rampaul,M Morkel,4,0,4,NA,0,NA,NA,NA,0
+439148,2nd innings,West Indies,South Africa,46.4,DJG Sammy,R Rampaul,M Morkel,4,0,4,NA,0,NA,NA,NA,0
+439148,2nd innings,West Indies,South Africa,46.5,DJG Sammy,R Rampaul,M Morkel,6,0,6,NA,0,NA,NA,NA,0
+439148,2nd innings,West Indies,South Africa,46.6,DJG Sammy,R Rampaul,M Morkel,1,0,1,NA,0,NA,NA,NA,0
+439148,2nd innings,West Indies,South Africa,47.1,DJG Sammy,R Rampaul,R McLaren,1,0,1,NA,0,NA,NA,NA,0
+439148,2nd innings,West Indies,South Africa,47.2,R Rampaul,DJG Sammy,R McLaren,1,0,1,NA,0,NA,NA,NA,0
+439148,2nd innings,West Indies,South Africa,47.3,DJG Sammy,R Rampaul,R McLaren,1,0,1,NA,0,NA,NA,NA,0
+439148,2nd innings,West Indies,South Africa,47.4,R Rampaul,DJG Sammy,R McLaren,0,0,0,NA,0,NA,NA,NA,0
+439148,2nd innings,West Indies,South Africa,47.5,R Rampaul,DJG Sammy,R McLaren,1,0,1,NA,0,NA,NA,NA,0
+439148,2nd innings,West Indies,South Africa,47.6,DJG Sammy,R Rampaul,R McLaren,0,1,1,wides,0,NA,NA,NA,0
+439148,2nd innings,West Indies,South Africa,47.7,DJG Sammy,R Rampaul,R McLaren,0,0,0,NA,1,run out,R Rampaul,R McLaren,0
+439148,2nd innings,West Indies,South Africa,48.1,NO Miller,DJG Sammy,M Morkel,0,0,0,NA,1,run out,NO Miller,GC Smith,0

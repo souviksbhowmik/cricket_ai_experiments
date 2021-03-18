@@ -1,0 +1,626 @@
+match_id,innings,team,opponent,ball,batsman,non_striker,bowler,scored_runs,extras,total,extra_type,wicket,wicket_type,player_out,fielders,winner
+656443,1st innings,Pakistan,Zimbabwe,0.1,Nasir Jamshed,Ahmed Shehzad,T Panyangara,0,0,0,NA,0,NA,NA,NA,1
+656443,1st innings,Pakistan,Zimbabwe,0.2,Nasir Jamshed,Ahmed Shehzad,T Panyangara,0,0,0,NA,0,NA,NA,NA,1
+656443,1st innings,Pakistan,Zimbabwe,0.3,Nasir Jamshed,Ahmed Shehzad,T Panyangara,1,0,1,NA,0,NA,NA,NA,1
+656443,1st innings,Pakistan,Zimbabwe,0.4,Ahmed Shehzad,Nasir Jamshed,T Panyangara,0,0,0,NA,0,NA,NA,NA,1
+656443,1st innings,Pakistan,Zimbabwe,0.5,Ahmed Shehzad,Nasir Jamshed,T Panyangara,0,0,0,NA,0,NA,NA,NA,1
+656443,1st innings,Pakistan,Zimbabwe,0.6,Ahmed Shehzad,Nasir Jamshed,T Panyangara,0,0,0,NA,0,NA,NA,NA,1
+656443,1st innings,Pakistan,Zimbabwe,1.1,Nasir Jamshed,Ahmed Shehzad,TL Chatara,0,0,0,NA,0,NA,NA,NA,1
+656443,1st innings,Pakistan,Zimbabwe,1.2,Nasir Jamshed,Ahmed Shehzad,TL Chatara,0,0,0,NA,0,NA,NA,NA,1
+656443,1st innings,Pakistan,Zimbabwe,1.3,Nasir Jamshed,Ahmed Shehzad,TL Chatara,0,0,0,NA,0,NA,NA,NA,1
+656443,1st innings,Pakistan,Zimbabwe,1.4,Nasir Jamshed,Ahmed Shehzad,TL Chatara,0,0,0,NA,0,NA,NA,NA,1
+656443,1st innings,Pakistan,Zimbabwe,1.5,Nasir Jamshed,Ahmed Shehzad,TL Chatara,0,0,0,NA,0,NA,NA,NA,1
+656443,1st innings,Pakistan,Zimbabwe,1.6,Nasir Jamshed,Ahmed Shehzad,TL Chatara,0,0,0,NA,1,caught,Nasir Jamshed,Sikandar Raza,1
+656443,1st innings,Pakistan,Zimbabwe,2.1,Ahmed Shehzad,Haris Sohail,T Panyangara,0,0,0,NA,0,NA,NA,NA,1
+656443,1st innings,Pakistan,Zimbabwe,2.2,Ahmed Shehzad,Haris Sohail,T Panyangara,0,1,1,wides,0,NA,NA,NA,1
+656443,1st innings,Pakistan,Zimbabwe,2.3,Ahmed Shehzad,Haris Sohail,T Panyangara,0,1,1,wides,0,NA,NA,NA,1
+656443,1st innings,Pakistan,Zimbabwe,2.4,Ahmed Shehzad,Haris Sohail,T Panyangara,0,0,0,NA,0,NA,NA,NA,1
+656443,1st innings,Pakistan,Zimbabwe,2.5,Ahmed Shehzad,Haris Sohail,T Panyangara,0,0,0,NA,0,NA,NA,NA,1
+656443,1st innings,Pakistan,Zimbabwe,2.6,Ahmed Shehzad,Haris Sohail,T Panyangara,0,0,0,NA,0,NA,NA,NA,1
+656443,1st innings,Pakistan,Zimbabwe,2.7,Ahmed Shehzad,Haris Sohail,T Panyangara,0,0,0,NA,0,NA,NA,NA,1
+656443,1st innings,Pakistan,Zimbabwe,2.8,Ahmed Shehzad,Haris Sohail,T Panyangara,0,0,0,NA,0,NA,NA,NA,1
+656443,1st innings,Pakistan,Zimbabwe,3.1,Haris Sohail,Ahmed Shehzad,TL Chatara,0,0,0,NA,0,NA,NA,NA,1
+656443,1st innings,Pakistan,Zimbabwe,3.2,Haris Sohail,Ahmed Shehzad,TL Chatara,0,0,0,NA,0,NA,NA,NA,1
+656443,1st innings,Pakistan,Zimbabwe,3.3,Haris Sohail,Ahmed Shehzad,TL Chatara,0,1,1,legbyes,0,NA,NA,NA,1
+656443,1st innings,Pakistan,Zimbabwe,3.4,Ahmed Shehzad,Haris Sohail,TL Chatara,0,0,0,NA,0,NA,NA,NA,1
+656443,1st innings,Pakistan,Zimbabwe,3.5,Ahmed Shehzad,Haris Sohail,TL Chatara,0,0,0,NA,1,caught,Ahmed Shehzad,BRM Taylor,1
+656443,1st innings,Pakistan,Zimbabwe,3.6,Misbah-ul-Haq,Haris Sohail,TL Chatara,0,0,0,NA,0,NA,NA,NA,1
+656443,1st innings,Pakistan,Zimbabwe,4.1,Haris Sohail,Misbah-ul-Haq,T Panyangara,1,0,1,NA,0,NA,NA,NA,1
+656443,1st innings,Pakistan,Zimbabwe,4.2,Misbah-ul-Haq,Haris Sohail,T Panyangara,0,0,0,NA,0,NA,NA,NA,1
+656443,1st innings,Pakistan,Zimbabwe,4.3,Misbah-ul-Haq,Haris Sohail,T Panyangara,0,0,0,NA,0,NA,NA,NA,1
+656443,1st innings,Pakistan,Zimbabwe,4.4,Misbah-ul-Haq,Haris Sohail,T Panyangara,0,0,0,NA,0,NA,NA,NA,1
+656443,1st innings,Pakistan,Zimbabwe,4.5,Misbah-ul-Haq,Haris Sohail,T Panyangara,0,0,0,NA,0,NA,NA,NA,1
+656443,1st innings,Pakistan,Zimbabwe,4.6,Misbah-ul-Haq,Haris Sohail,T Panyangara,0,0,0,NA,0,NA,NA,NA,1
+656443,1st innings,Pakistan,Zimbabwe,5.1,Haris Sohail,Misbah-ul-Haq,TL Chatara,0,0,0,NA,0,NA,NA,NA,1
+656443,1st innings,Pakistan,Zimbabwe,5.2,Haris Sohail,Misbah-ul-Haq,TL Chatara,4,0,4,NA,0,NA,NA,NA,1
+656443,1st innings,Pakistan,Zimbabwe,5.3,Haris Sohail,Misbah-ul-Haq,TL Chatara,0,0,0,NA,0,NA,NA,NA,1
+656443,1st innings,Pakistan,Zimbabwe,5.4,Haris Sohail,Misbah-ul-Haq,TL Chatara,0,0,0,NA,0,NA,NA,NA,1
+656443,1st innings,Pakistan,Zimbabwe,5.5,Haris Sohail,Misbah-ul-Haq,TL Chatara,1,0,1,NA,0,NA,NA,NA,1
+656443,1st innings,Pakistan,Zimbabwe,5.6,Misbah-ul-Haq,Haris Sohail,TL Chatara,0,0,0,NA,0,NA,NA,NA,1
+656443,1st innings,Pakistan,Zimbabwe,6.1,Haris Sohail,Misbah-ul-Haq,T Mupariwa,0,0,0,NA,0,NA,NA,NA,1
+656443,1st innings,Pakistan,Zimbabwe,6.2,Haris Sohail,Misbah-ul-Haq,T Mupariwa,0,0,0,NA,0,NA,NA,NA,1
+656443,1st innings,Pakistan,Zimbabwe,6.3,Haris Sohail,Misbah-ul-Haq,T Mupariwa,0,0,0,NA,0,NA,NA,NA,1
+656443,1st innings,Pakistan,Zimbabwe,6.4,Haris Sohail,Misbah-ul-Haq,T Mupariwa,0,0,0,NA,0,NA,NA,NA,1
+656443,1st innings,Pakistan,Zimbabwe,6.5,Haris Sohail,Misbah-ul-Haq,T Mupariwa,0,0,0,NA,0,NA,NA,NA,1
+656443,1st innings,Pakistan,Zimbabwe,6.6,Haris Sohail,Misbah-ul-Haq,T Mupariwa,0,1,1,wides,0,NA,NA,NA,1
+656443,1st innings,Pakistan,Zimbabwe,6.7,Haris Sohail,Misbah-ul-Haq,T Mupariwa,0,0,0,NA,0,NA,NA,NA,1
+656443,1st innings,Pakistan,Zimbabwe,7.1,Misbah-ul-Haq,Haris Sohail,TL Chatara,0,0,0,NA,0,NA,NA,NA,1
+656443,1st innings,Pakistan,Zimbabwe,7.2,Misbah-ul-Haq,Haris Sohail,TL Chatara,0,0,0,NA,0,NA,NA,NA,1
+656443,1st innings,Pakistan,Zimbabwe,7.3,Misbah-ul-Haq,Haris Sohail,TL Chatara,0,0,0,NA,0,NA,NA,NA,1
+656443,1st innings,Pakistan,Zimbabwe,7.4,Misbah-ul-Haq,Haris Sohail,TL Chatara,0,0,0,NA,0,NA,NA,NA,1
+656443,1st innings,Pakistan,Zimbabwe,7.5,Misbah-ul-Haq,Haris Sohail,TL Chatara,0,0,0,NA,0,NA,NA,NA,1
+656443,1st innings,Pakistan,Zimbabwe,7.6,Misbah-ul-Haq,Haris Sohail,TL Chatara,1,0,1,NA,0,NA,NA,NA,1
+656443,1st innings,Pakistan,Zimbabwe,8.1,Misbah-ul-Haq,Haris Sohail,T Mupariwa,0,0,0,NA,0,NA,NA,NA,1
+656443,1st innings,Pakistan,Zimbabwe,8.2,Misbah-ul-Haq,Haris Sohail,T Mupariwa,0,0,0,NA,0,NA,NA,NA,1
+656443,1st innings,Pakistan,Zimbabwe,8.3,Misbah-ul-Haq,Haris Sohail,T Mupariwa,0,0,0,NA,0,NA,NA,NA,1
+656443,1st innings,Pakistan,Zimbabwe,8.4,Misbah-ul-Haq,Haris Sohail,T Mupariwa,0,0,0,NA,0,NA,NA,NA,1
+656443,1st innings,Pakistan,Zimbabwe,8.5,Misbah-ul-Haq,Haris Sohail,T Mupariwa,0,0,0,NA,0,NA,NA,NA,1
+656443,1st innings,Pakistan,Zimbabwe,8.6,Misbah-ul-Haq,Haris Sohail,T Mupariwa,0,0,0,NA,0,NA,NA,NA,1
+656443,1st innings,Pakistan,Zimbabwe,9.1,Haris Sohail,Misbah-ul-Haq,TL Chatara,1,0,1,NA,0,NA,NA,NA,1
+656443,1st innings,Pakistan,Zimbabwe,9.2,Misbah-ul-Haq,Haris Sohail,TL Chatara,0,0,0,NA,0,NA,NA,NA,1
+656443,1st innings,Pakistan,Zimbabwe,9.3,Misbah-ul-Haq,Haris Sohail,TL Chatara,0,0,0,NA,0,NA,NA,NA,1
+656443,1st innings,Pakistan,Zimbabwe,9.4,Misbah-ul-Haq,Haris Sohail,TL Chatara,0,0,0,NA,0,NA,NA,NA,1
+656443,1st innings,Pakistan,Zimbabwe,9.5,Misbah-ul-Haq,Haris Sohail,TL Chatara,0,0,0,NA,0,NA,NA,NA,1
+656443,1st innings,Pakistan,Zimbabwe,9.6,Misbah-ul-Haq,Haris Sohail,TL Chatara,1,0,1,NA,0,NA,NA,NA,1
+656443,1st innings,Pakistan,Zimbabwe,10.1,Misbah-ul-Haq,Haris Sohail,T Mupariwa,0,0,0,NA,0,NA,NA,NA,1
+656443,1st innings,Pakistan,Zimbabwe,10.2,Misbah-ul-Haq,Haris Sohail,T Mupariwa,0,0,0,NA,0,NA,NA,NA,1
+656443,1st innings,Pakistan,Zimbabwe,10.3,Misbah-ul-Haq,Haris Sohail,T Mupariwa,0,0,0,NA,0,NA,NA,NA,1
+656443,1st innings,Pakistan,Zimbabwe,10.4,Misbah-ul-Haq,Haris Sohail,T Mupariwa,2,0,2,NA,0,NA,NA,NA,1
+656443,1st innings,Pakistan,Zimbabwe,10.5,Misbah-ul-Haq,Haris Sohail,T Mupariwa,0,1,1,wides,0,NA,NA,NA,1
+656443,1st innings,Pakistan,Zimbabwe,10.6,Misbah-ul-Haq,Haris Sohail,T Mupariwa,0,0,0,NA,0,NA,NA,NA,1
+656443,1st innings,Pakistan,Zimbabwe,10.7,Misbah-ul-Haq,Haris Sohail,T Mupariwa,0,0,0,NA,0,NA,NA,NA,1
+656443,1st innings,Pakistan,Zimbabwe,11.1,Haris Sohail,Misbah-ul-Haq,T Panyangara,0,0,0,NA,0,NA,NA,NA,1
+656443,1st innings,Pakistan,Zimbabwe,11.2,Haris Sohail,Misbah-ul-Haq,T Panyangara,0,0,0,NA,0,NA,NA,NA,1
+656443,1st innings,Pakistan,Zimbabwe,11.3,Haris Sohail,Misbah-ul-Haq,T Panyangara,0,0,0,NA,0,NA,NA,NA,1
+656443,1st innings,Pakistan,Zimbabwe,11.4,Haris Sohail,Misbah-ul-Haq,T Panyangara,0,0,0,NA,0,NA,NA,NA,1
+656443,1st innings,Pakistan,Zimbabwe,11.5,Haris Sohail,Misbah-ul-Haq,T Panyangara,0,0,0,NA,0,NA,NA,NA,1
+656443,1st innings,Pakistan,Zimbabwe,11.6,Haris Sohail,Misbah-ul-Haq,T Panyangara,0,0,0,NA,0,NA,NA,NA,1
+656443,1st innings,Pakistan,Zimbabwe,12.1,Misbah-ul-Haq,Haris Sohail,T Mupariwa,1,0,1,NA,0,NA,NA,NA,1
+656443,1st innings,Pakistan,Zimbabwe,12.2,Haris Sohail,Misbah-ul-Haq,T Mupariwa,0,0,0,NA,0,NA,NA,NA,1
+656443,1st innings,Pakistan,Zimbabwe,12.3,Haris Sohail,Misbah-ul-Haq,T Mupariwa,1,0,1,NA,0,NA,NA,NA,1
+656443,1st innings,Pakistan,Zimbabwe,12.4,Misbah-ul-Haq,Haris Sohail,T Mupariwa,1,0,1,NA,0,NA,NA,NA,1
+656443,1st innings,Pakistan,Zimbabwe,12.5,Haris Sohail,Misbah-ul-Haq,T Mupariwa,0,0,0,NA,0,NA,NA,NA,1
+656443,1st innings,Pakistan,Zimbabwe,12.6,Haris Sohail,Misbah-ul-Haq,T Mupariwa,4,0,4,NA,0,NA,NA,NA,1
+656443,1st innings,Pakistan,Zimbabwe,13.1,Misbah-ul-Haq,Haris Sohail,T Panyangara,0,0,0,NA,0,NA,NA,NA,1
+656443,1st innings,Pakistan,Zimbabwe,13.2,Misbah-ul-Haq,Haris Sohail,T Panyangara,0,0,0,NA,0,NA,NA,NA,1
+656443,1st innings,Pakistan,Zimbabwe,13.3,Misbah-ul-Haq,Haris Sohail,T Panyangara,0,0,0,NA,0,NA,NA,NA,1
+656443,1st innings,Pakistan,Zimbabwe,13.4,Misbah-ul-Haq,Haris Sohail,T Panyangara,1,0,1,NA,0,NA,NA,NA,1
+656443,1st innings,Pakistan,Zimbabwe,13.5,Haris Sohail,Misbah-ul-Haq,T Panyangara,1,0,1,NA,0,NA,NA,NA,1
+656443,1st innings,Pakistan,Zimbabwe,13.6,Misbah-ul-Haq,Haris Sohail,T Panyangara,0,0,0,NA,0,NA,NA,NA,1
+656443,1st innings,Pakistan,Zimbabwe,14.1,Haris Sohail,Misbah-ul-Haq,SC Williams,0,0,0,NA,0,NA,NA,NA,1
+656443,1st innings,Pakistan,Zimbabwe,14.2,Haris Sohail,Misbah-ul-Haq,SC Williams,1,0,1,NA,0,NA,NA,NA,1
+656443,1st innings,Pakistan,Zimbabwe,14.3,Misbah-ul-Haq,Haris Sohail,SC Williams,4,0,4,NA,0,NA,NA,NA,1
+656443,1st innings,Pakistan,Zimbabwe,14.4,Misbah-ul-Haq,Haris Sohail,SC Williams,0,0,0,NA,0,NA,NA,NA,1
+656443,1st innings,Pakistan,Zimbabwe,14.5,Misbah-ul-Haq,Haris Sohail,SC Williams,1,0,1,NA,0,NA,NA,NA,1
+656443,1st innings,Pakistan,Zimbabwe,14.6,Haris Sohail,Misbah-ul-Haq,SC Williams,1,0,1,NA,0,NA,NA,NA,1
+656443,1st innings,Pakistan,Zimbabwe,15.1,Haris Sohail,Misbah-ul-Haq,H Masakadza,1,0,1,NA,0,NA,NA,NA,1
+656443,1st innings,Pakistan,Zimbabwe,15.2,Misbah-ul-Haq,Haris Sohail,H Masakadza,0,0,0,NA,0,NA,NA,NA,1
+656443,1st innings,Pakistan,Zimbabwe,15.3,Misbah-ul-Haq,Haris Sohail,H Masakadza,0,0,0,NA,0,NA,NA,NA,1
+656443,1st innings,Pakistan,Zimbabwe,15.4,Misbah-ul-Haq,Haris Sohail,H Masakadza,0,0,0,NA,0,NA,NA,NA,1
+656443,1st innings,Pakistan,Zimbabwe,15.5,Misbah-ul-Haq,Haris Sohail,H Masakadza,0,0,0,NA,0,NA,NA,NA,1
+656443,1st innings,Pakistan,Zimbabwe,15.6,Misbah-ul-Haq,Haris Sohail,H Masakadza,0,0,0,NA,0,NA,NA,NA,1
+656443,1st innings,Pakistan,Zimbabwe,16.1,Haris Sohail,Misbah-ul-Haq,SC Williams,1,0,1,NA,0,NA,NA,NA,1
+656443,1st innings,Pakistan,Zimbabwe,16.2,Misbah-ul-Haq,Haris Sohail,SC Williams,1,0,1,NA,0,NA,NA,NA,1
+656443,1st innings,Pakistan,Zimbabwe,16.3,Haris Sohail,Misbah-ul-Haq,SC Williams,0,0,0,NA,0,NA,NA,NA,1
+656443,1st innings,Pakistan,Zimbabwe,16.4,Haris Sohail,Misbah-ul-Haq,SC Williams,1,0,1,NA,0,NA,NA,NA,1
+656443,1st innings,Pakistan,Zimbabwe,16.5,Misbah-ul-Haq,Haris Sohail,SC Williams,0,0,0,NA,0,NA,NA,NA,1
+656443,1st innings,Pakistan,Zimbabwe,16.6,Misbah-ul-Haq,Haris Sohail,SC Williams,1,0,1,NA,0,NA,NA,NA,1
+656443,1st innings,Pakistan,Zimbabwe,17.1,Misbah-ul-Haq,Haris Sohail,H Masakadza,4,0,4,NA,0,NA,NA,NA,1
+656443,1st innings,Pakistan,Zimbabwe,17.2,Misbah-ul-Haq,Haris Sohail,H Masakadza,0,0,0,NA,0,NA,NA,NA,1
+656443,1st innings,Pakistan,Zimbabwe,17.3,Misbah-ul-Haq,Haris Sohail,H Masakadza,1,0,1,NA,0,NA,NA,NA,1
+656443,1st innings,Pakistan,Zimbabwe,17.4,Haris Sohail,Misbah-ul-Haq,H Masakadza,1,0,1,NA,0,NA,NA,NA,1
+656443,1st innings,Pakistan,Zimbabwe,17.5,Misbah-ul-Haq,Haris Sohail,H Masakadza,0,0,0,NA,0,NA,NA,NA,1
+656443,1st innings,Pakistan,Zimbabwe,17.6,Misbah-ul-Haq,Haris Sohail,H Masakadza,0,0,0,NA,0,NA,NA,NA,1
+656443,1st innings,Pakistan,Zimbabwe,18.1,Haris Sohail,Misbah-ul-Haq,E Chigumbura,0,1,1,wides,0,NA,NA,NA,1
+656443,1st innings,Pakistan,Zimbabwe,18.2,Haris Sohail,Misbah-ul-Haq,E Chigumbura,0,0,0,NA,0,NA,NA,NA,1
+656443,1st innings,Pakistan,Zimbabwe,18.3,Haris Sohail,Misbah-ul-Haq,E Chigumbura,0,1,1,wides,0,NA,NA,NA,1
+656443,1st innings,Pakistan,Zimbabwe,18.4,Haris Sohail,Misbah-ul-Haq,E Chigumbura,0,1,1,wides,0,NA,NA,NA,1
+656443,1st innings,Pakistan,Zimbabwe,18.5,Haris Sohail,Misbah-ul-Haq,E Chigumbura,0,0,0,NA,0,NA,NA,NA,1
+656443,1st innings,Pakistan,Zimbabwe,18.6,Haris Sohail,Misbah-ul-Haq,E Chigumbura,0,1,1,wides,0,NA,NA,NA,1
+656443,1st innings,Pakistan,Zimbabwe,18.7,Haris Sohail,Misbah-ul-Haq,E Chigumbura,1,0,1,NA,0,NA,NA,NA,1
+656443,1st innings,Pakistan,Zimbabwe,18.8,Misbah-ul-Haq,Haris Sohail,E Chigumbura,1,0,1,NA,0,NA,NA,NA,1
+656443,1st innings,Pakistan,Zimbabwe,18.9,Haris Sohail,Misbah-ul-Haq,E Chigumbura,1,0,1,NA,0,NA,NA,NA,1
+656443,1st innings,Pakistan,Zimbabwe,18.1,Misbah-ul-Haq,Haris Sohail,E Chigumbura,0,0,0,NA,0,NA,NA,NA,1
+656443,1st innings,Pakistan,Zimbabwe,19.1,Haris Sohail,Misbah-ul-Haq,H Masakadza,4,0,4,NA,0,NA,NA,NA,1
+656443,1st innings,Pakistan,Zimbabwe,19.2,Haris Sohail,Misbah-ul-Haq,H Masakadza,0,0,0,NA,0,NA,NA,NA,1
+656443,1st innings,Pakistan,Zimbabwe,19.3,Haris Sohail,Misbah-ul-Haq,H Masakadza,1,0,1,NA,0,NA,NA,NA,1
+656443,1st innings,Pakistan,Zimbabwe,19.4,Misbah-ul-Haq,Haris Sohail,H Masakadza,0,0,0,NA,0,NA,NA,NA,1
+656443,1st innings,Pakistan,Zimbabwe,19.5,Misbah-ul-Haq,Haris Sohail,H Masakadza,1,0,1,NA,0,NA,NA,NA,1
+656443,1st innings,Pakistan,Zimbabwe,19.6,Haris Sohail,Misbah-ul-Haq,H Masakadza,1,0,1,NA,0,NA,NA,NA,1
+656443,1st innings,Pakistan,Zimbabwe,20.1,Haris Sohail,Misbah-ul-Haq,Sikandar Raza,0,0,0,NA,1,caught,Haris Sohail,SC Williams,1
+656443,1st innings,Pakistan,Zimbabwe,20.2,Umar Akmal,Misbah-ul-Haq,Sikandar Raza,1,0,1,NA,0,NA,NA,NA,1
+656443,1st innings,Pakistan,Zimbabwe,20.3,Misbah-ul-Haq,Umar Akmal,Sikandar Raza,0,0,0,NA,0,NA,NA,NA,1
+656443,1st innings,Pakistan,Zimbabwe,20.4,Misbah-ul-Haq,Umar Akmal,Sikandar Raza,0,0,0,NA,0,NA,NA,NA,1
+656443,1st innings,Pakistan,Zimbabwe,20.5,Misbah-ul-Haq,Umar Akmal,Sikandar Raza,2,0,2,NA,0,NA,NA,NA,1
+656443,1st innings,Pakistan,Zimbabwe,20.6,Misbah-ul-Haq,Umar Akmal,Sikandar Raza,1,0,1,NA,0,NA,NA,NA,1
+656443,1st innings,Pakistan,Zimbabwe,21.1,Misbah-ul-Haq,Umar Akmal,T Mupariwa,1,0,1,NA,0,NA,NA,NA,1
+656443,1st innings,Pakistan,Zimbabwe,21.2,Umar Akmal,Misbah-ul-Haq,T Mupariwa,0,0,0,NA,0,NA,NA,NA,1
+656443,1st innings,Pakistan,Zimbabwe,21.3,Umar Akmal,Misbah-ul-Haq,T Mupariwa,1,0,1,NA,0,NA,NA,NA,1
+656443,1st innings,Pakistan,Zimbabwe,21.4,Misbah-ul-Haq,Umar Akmal,T Mupariwa,0,0,0,NA,0,NA,NA,NA,1
+656443,1st innings,Pakistan,Zimbabwe,21.5,Misbah-ul-Haq,Umar Akmal,T Mupariwa,0,0,0,NA,0,NA,NA,NA,1
+656443,1st innings,Pakistan,Zimbabwe,21.6,Misbah-ul-Haq,Umar Akmal,T Mupariwa,0,0,0,NA,0,NA,NA,NA,1
+656443,1st innings,Pakistan,Zimbabwe,22.1,Umar Akmal,Misbah-ul-Haq,Sikandar Raza,0,0,0,NA,0,NA,NA,NA,1
+656443,1st innings,Pakistan,Zimbabwe,22.2,Umar Akmal,Misbah-ul-Haq,Sikandar Raza,1,0,1,NA,0,NA,NA,NA,1
+656443,1st innings,Pakistan,Zimbabwe,22.3,Misbah-ul-Haq,Umar Akmal,Sikandar Raza,0,0,0,NA,0,NA,NA,NA,1
+656443,1st innings,Pakistan,Zimbabwe,22.4,Misbah-ul-Haq,Umar Akmal,Sikandar Raza,0,0,0,NA,0,NA,NA,NA,1
+656443,1st innings,Pakistan,Zimbabwe,22.5,Misbah-ul-Haq,Umar Akmal,Sikandar Raza,1,0,1,NA,0,NA,NA,NA,1
+656443,1st innings,Pakistan,Zimbabwe,22.6,Umar Akmal,Misbah-ul-Haq,Sikandar Raza,0,0,0,NA,0,NA,NA,NA,1
+656443,1st innings,Pakistan,Zimbabwe,23.1,Misbah-ul-Haq,Umar Akmal,T Mupariwa,0,0,0,NA,0,NA,NA,NA,1
+656443,1st innings,Pakistan,Zimbabwe,23.2,Misbah-ul-Haq,Umar Akmal,T Mupariwa,4,0,4,NA,0,NA,NA,NA,1
+656443,1st innings,Pakistan,Zimbabwe,23.3,Misbah-ul-Haq,Umar Akmal,T Mupariwa,0,0,0,NA,0,NA,NA,NA,1
+656443,1st innings,Pakistan,Zimbabwe,23.4,Misbah-ul-Haq,Umar Akmal,T Mupariwa,0,0,0,NA,0,NA,NA,NA,1
+656443,1st innings,Pakistan,Zimbabwe,23.5,Misbah-ul-Haq,Umar Akmal,T Mupariwa,1,0,1,NA,0,NA,NA,NA,1
+656443,1st innings,Pakistan,Zimbabwe,23.6,Umar Akmal,Misbah-ul-Haq,T Mupariwa,2,0,2,NA,0,NA,NA,NA,1
+656443,1st innings,Pakistan,Zimbabwe,24.1,Misbah-ul-Haq,Umar Akmal,Sikandar Raza,1,0,1,NA,0,NA,NA,NA,1
+656443,1st innings,Pakistan,Zimbabwe,24.2,Umar Akmal,Misbah-ul-Haq,Sikandar Raza,0,0,0,NA,0,NA,NA,NA,1
+656443,1st innings,Pakistan,Zimbabwe,24.3,Umar Akmal,Misbah-ul-Haq,Sikandar Raza,1,0,1,NA,0,NA,NA,NA,1
+656443,1st innings,Pakistan,Zimbabwe,24.4,Misbah-ul-Haq,Umar Akmal,Sikandar Raza,2,0,2,NA,0,NA,NA,NA,1
+656443,1st innings,Pakistan,Zimbabwe,24.5,Misbah-ul-Haq,Umar Akmal,Sikandar Raza,0,0,0,NA,0,NA,NA,NA,1
+656443,1st innings,Pakistan,Zimbabwe,24.6,Misbah-ul-Haq,Umar Akmal,Sikandar Raza,0,0,0,NA,0,NA,NA,NA,1
+656443,1st innings,Pakistan,Zimbabwe,25.1,Umar Akmal,Misbah-ul-Haq,SC Williams,1,0,1,NA,0,NA,NA,NA,1
+656443,1st innings,Pakistan,Zimbabwe,25.2,Misbah-ul-Haq,Umar Akmal,SC Williams,1,0,1,NA,0,NA,NA,NA,1
+656443,1st innings,Pakistan,Zimbabwe,25.3,Umar Akmal,Misbah-ul-Haq,SC Williams,0,0,0,NA,0,NA,NA,NA,1
+656443,1st innings,Pakistan,Zimbabwe,25.4,Umar Akmal,Misbah-ul-Haq,SC Williams,0,0,0,NA,0,NA,NA,NA,1
+656443,1st innings,Pakistan,Zimbabwe,25.5,Umar Akmal,Misbah-ul-Haq,SC Williams,4,0,4,NA,0,NA,NA,NA,1
+656443,1st innings,Pakistan,Zimbabwe,25.6,Umar Akmal,Misbah-ul-Haq,SC Williams,1,0,1,NA,0,NA,NA,NA,1
+656443,1st innings,Pakistan,Zimbabwe,26.1,Umar Akmal,Misbah-ul-Haq,Sikandar Raza,1,0,1,NA,0,NA,NA,NA,1
+656443,1st innings,Pakistan,Zimbabwe,26.2,Misbah-ul-Haq,Umar Akmal,Sikandar Raza,2,0,2,NA,0,NA,NA,NA,1
+656443,1st innings,Pakistan,Zimbabwe,26.3,Misbah-ul-Haq,Umar Akmal,Sikandar Raza,1,0,1,NA,0,NA,NA,NA,1
+656443,1st innings,Pakistan,Zimbabwe,26.4,Umar Akmal,Misbah-ul-Haq,Sikandar Raza,0,0,0,NA,0,NA,NA,NA,1
+656443,1st innings,Pakistan,Zimbabwe,26.5,Umar Akmal,Misbah-ul-Haq,Sikandar Raza,2,0,2,NA,0,NA,NA,NA,1
+656443,1st innings,Pakistan,Zimbabwe,26.6,Umar Akmal,Misbah-ul-Haq,Sikandar Raza,0,0,0,NA,0,NA,NA,NA,1
+656443,1st innings,Pakistan,Zimbabwe,27.1,Misbah-ul-Haq,Umar Akmal,SC Williams,1,0,1,NA,0,NA,NA,NA,1
+656443,1st innings,Pakistan,Zimbabwe,27.2,Umar Akmal,Misbah-ul-Haq,SC Williams,1,0,1,NA,0,NA,NA,NA,1
+656443,1st innings,Pakistan,Zimbabwe,27.3,Misbah-ul-Haq,Umar Akmal,SC Williams,1,0,1,NA,0,NA,NA,NA,1
+656443,1st innings,Pakistan,Zimbabwe,27.4,Umar Akmal,Misbah-ul-Haq,SC Williams,0,0,0,NA,0,NA,NA,NA,1
+656443,1st innings,Pakistan,Zimbabwe,27.5,Umar Akmal,Misbah-ul-Haq,SC Williams,4,0,4,NA,0,NA,NA,NA,1
+656443,1st innings,Pakistan,Zimbabwe,27.6,Umar Akmal,Misbah-ul-Haq,SC Williams,0,0,0,NA,0,NA,NA,NA,1
+656443,1st innings,Pakistan,Zimbabwe,28.1,Misbah-ul-Haq,Umar Akmal,SF Mire,1,0,1,NA,0,NA,NA,NA,1
+656443,1st innings,Pakistan,Zimbabwe,28.2,Umar Akmal,Misbah-ul-Haq,SF Mire,4,0,4,NA,0,NA,NA,NA,1
+656443,1st innings,Pakistan,Zimbabwe,28.3,Umar Akmal,Misbah-ul-Haq,SF Mire,0,0,0,NA,0,NA,NA,NA,1
+656443,1st innings,Pakistan,Zimbabwe,28.4,Umar Akmal,Misbah-ul-Haq,SF Mire,0,1,1,wides,0,NA,NA,NA,1
+656443,1st innings,Pakistan,Zimbabwe,28.5,Umar Akmal,Misbah-ul-Haq,SF Mire,1,0,1,NA,0,NA,NA,NA,1
+656443,1st innings,Pakistan,Zimbabwe,28.6,Misbah-ul-Haq,Umar Akmal,SF Mire,1,0,1,NA,0,NA,NA,NA,1
+656443,1st innings,Pakistan,Zimbabwe,28.7,Umar Akmal,Misbah-ul-Haq,SF Mire,1,0,1,NA,0,NA,NA,NA,1
+656443,1st innings,Pakistan,Zimbabwe,29.1,Umar Akmal,Misbah-ul-Haq,SC Williams,1,0,1,NA,0,NA,NA,NA,1
+656443,1st innings,Pakistan,Zimbabwe,29.2,Misbah-ul-Haq,Umar Akmal,SC Williams,0,1,1,wides,0,NA,NA,NA,1
+656443,1st innings,Pakistan,Zimbabwe,29.3,Misbah-ul-Haq,Umar Akmal,SC Williams,0,0,0,NA,0,NA,NA,NA,1
+656443,1st innings,Pakistan,Zimbabwe,29.4,Misbah-ul-Haq,Umar Akmal,SC Williams,1,0,1,NA,0,NA,NA,NA,1
+656443,1st innings,Pakistan,Zimbabwe,29.5,Umar Akmal,Misbah-ul-Haq,SC Williams,0,0,0,NA,0,NA,NA,NA,1
+656443,1st innings,Pakistan,Zimbabwe,29.6,Umar Akmal,Misbah-ul-Haq,SC Williams,1,0,1,NA,0,NA,NA,NA,1
+656443,1st innings,Pakistan,Zimbabwe,29.7,Misbah-ul-Haq,Umar Akmal,SC Williams,3,0,3,NA,0,NA,NA,NA,1
+656443,1st innings,Pakistan,Zimbabwe,30.1,Misbah-ul-Haq,Umar Akmal,Sikandar Raza,1,0,1,NA,0,NA,NA,NA,1
+656443,1st innings,Pakistan,Zimbabwe,30.2,Umar Akmal,Misbah-ul-Haq,Sikandar Raza,0,0,0,NA,0,NA,NA,NA,1
+656443,1st innings,Pakistan,Zimbabwe,30.3,Umar Akmal,Misbah-ul-Haq,Sikandar Raza,2,0,2,NA,0,NA,NA,NA,1
+656443,1st innings,Pakistan,Zimbabwe,30.4,Umar Akmal,Misbah-ul-Haq,Sikandar Raza,0,0,0,NA,0,NA,NA,NA,1
+656443,1st innings,Pakistan,Zimbabwe,30.5,Umar Akmal,Misbah-ul-Haq,Sikandar Raza,1,0,1,NA,0,NA,NA,NA,1
+656443,1st innings,Pakistan,Zimbabwe,30.6,Misbah-ul-Haq,Umar Akmal,Sikandar Raza,1,0,1,NA,0,NA,NA,NA,1
+656443,1st innings,Pakistan,Zimbabwe,31.1,Misbah-ul-Haq,Umar Akmal,SC Williams,1,0,1,NA,0,NA,NA,NA,1
+656443,1st innings,Pakistan,Zimbabwe,31.2,Umar Akmal,Misbah-ul-Haq,SC Williams,0,0,0,NA,0,NA,NA,NA,1
+656443,1st innings,Pakistan,Zimbabwe,31.3,Umar Akmal,Misbah-ul-Haq,SC Williams,1,0,1,NA,0,NA,NA,NA,1
+656443,1st innings,Pakistan,Zimbabwe,31.4,Misbah-ul-Haq,Umar Akmal,SC Williams,1,0,1,NA,0,NA,NA,NA,1
+656443,1st innings,Pakistan,Zimbabwe,31.5,Umar Akmal,Misbah-ul-Haq,SC Williams,0,0,0,NA,0,NA,NA,NA,1
+656443,1st innings,Pakistan,Zimbabwe,31.6,Umar Akmal,Misbah-ul-Haq,SC Williams,0,0,0,NA,0,NA,NA,NA,1
+656443,1st innings,Pakistan,Zimbabwe,32.1,Misbah-ul-Haq,Umar Akmal,Sikandar Raza,1,0,1,NA,0,NA,NA,NA,1
+656443,1st innings,Pakistan,Zimbabwe,32.2,Umar Akmal,Misbah-ul-Haq,Sikandar Raza,0,0,0,NA,0,NA,NA,NA,1
+656443,1st innings,Pakistan,Zimbabwe,32.3,Umar Akmal,Misbah-ul-Haq,Sikandar Raza,0,0,0,NA,0,NA,NA,NA,1
+656443,1st innings,Pakistan,Zimbabwe,32.4,Umar Akmal,Misbah-ul-Haq,Sikandar Raza,0,0,0,NA,0,NA,NA,NA,1
+656443,1st innings,Pakistan,Zimbabwe,32.5,Umar Akmal,Misbah-ul-Haq,Sikandar Raza,1,0,1,NA,0,NA,NA,NA,1
+656443,1st innings,Pakistan,Zimbabwe,32.6,Misbah-ul-Haq,Umar Akmal,Sikandar Raza,3,0,3,NA,0,NA,NA,NA,1
+656443,1st innings,Pakistan,Zimbabwe,33.1,Misbah-ul-Haq,Umar Akmal,SC Williams,0,0,0,NA,0,NA,NA,NA,1
+656443,1st innings,Pakistan,Zimbabwe,33.2,Misbah-ul-Haq,Umar Akmal,SC Williams,1,0,1,NA,0,NA,NA,NA,1
+656443,1st innings,Pakistan,Zimbabwe,33.3,Umar Akmal,Misbah-ul-Haq,SC Williams,0,0,0,NA,1,bowled,Umar Akmal,NA,1
+656443,1st innings,Pakistan,Zimbabwe,33.4,Shahid Afridi,Misbah-ul-Haq,SC Williams,0,0,0,NA,0,NA,NA,NA,1
+656443,1st innings,Pakistan,Zimbabwe,33.5,Shahid Afridi,Misbah-ul-Haq,SC Williams,0,0,0,NA,1,bowled,Shahid Afridi,NA,1
+656443,1st innings,Pakistan,Zimbabwe,33.6,Sohaib Maqsood,Misbah-ul-Haq,SC Williams,0,0,0,NA,0,NA,NA,NA,1
+656443,1st innings,Pakistan,Zimbabwe,34.1,Misbah-ul-Haq,Sohaib Maqsood,Sikandar Raza,1,0,1,NA,0,NA,NA,NA,1
+656443,1st innings,Pakistan,Zimbabwe,34.2,Sohaib Maqsood,Misbah-ul-Haq,Sikandar Raza,3,0,3,NA,0,NA,NA,NA,1
+656443,1st innings,Pakistan,Zimbabwe,34.3,Misbah-ul-Haq,Sohaib Maqsood,Sikandar Raza,1,0,1,NA,0,NA,NA,NA,1
+656443,1st innings,Pakistan,Zimbabwe,34.4,Sohaib Maqsood,Misbah-ul-Haq,Sikandar Raza,1,0,1,NA,0,NA,NA,NA,1
+656443,1st innings,Pakistan,Zimbabwe,34.5,Misbah-ul-Haq,Sohaib Maqsood,Sikandar Raza,1,0,1,NA,0,NA,NA,NA,1
+656443,1st innings,Pakistan,Zimbabwe,34.6,Sohaib Maqsood,Misbah-ul-Haq,Sikandar Raza,1,0,1,NA,0,NA,NA,NA,1
+656443,1st innings,Pakistan,Zimbabwe,35.1,Sohaib Maqsood,Misbah-ul-Haq,SC Williams,1,0,1,NA,0,NA,NA,NA,1
+656443,1st innings,Pakistan,Zimbabwe,35.2,Misbah-ul-Haq,Sohaib Maqsood,SC Williams,0,0,0,NA,0,NA,NA,NA,1
+656443,1st innings,Pakistan,Zimbabwe,35.3,Misbah-ul-Haq,Sohaib Maqsood,SC Williams,0,0,0,NA,0,NA,NA,NA,1
+656443,1st innings,Pakistan,Zimbabwe,35.4,Misbah-ul-Haq,Sohaib Maqsood,SC Williams,1,0,1,NA,0,NA,NA,NA,1
+656443,1st innings,Pakistan,Zimbabwe,35.5,Sohaib Maqsood,Misbah-ul-Haq,SC Williams,0,0,0,NA,0,NA,NA,NA,1
+656443,1st innings,Pakistan,Zimbabwe,35.6,Sohaib Maqsood,Misbah-ul-Haq,SC Williams,1,0,1,NA,0,NA,NA,NA,1
+656443,1st innings,Pakistan,Zimbabwe,36.1,Sohaib Maqsood,Misbah-ul-Haq,TL Chatara,0,0,0,NA,0,NA,NA,NA,1
+656443,1st innings,Pakistan,Zimbabwe,36.2,Sohaib Maqsood,Misbah-ul-Haq,TL Chatara,0,0,0,NA,0,NA,NA,NA,1
+656443,1st innings,Pakistan,Zimbabwe,36.3,Sohaib Maqsood,Misbah-ul-Haq,TL Chatara,0,0,0,NA,0,NA,NA,NA,1
+656443,1st innings,Pakistan,Zimbabwe,36.4,Sohaib Maqsood,Misbah-ul-Haq,TL Chatara,1,0,1,NA,0,NA,NA,NA,1
+656443,1st innings,Pakistan,Zimbabwe,36.5,Misbah-ul-Haq,Sohaib Maqsood,TL Chatara,0,1,1,wides,0,NA,NA,NA,1
+656443,1st innings,Pakistan,Zimbabwe,36.6,Misbah-ul-Haq,Sohaib Maqsood,TL Chatara,1,0,1,NA,0,NA,NA,NA,1
+656443,1st innings,Pakistan,Zimbabwe,36.7,Sohaib Maqsood,Misbah-ul-Haq,TL Chatara,0,0,0,NA,0,NA,NA,NA,1
+656443,1st innings,Pakistan,Zimbabwe,37.1,Misbah-ul-Haq,Sohaib Maqsood,SC Williams,0,0,0,NA,0,NA,NA,NA,1
+656443,1st innings,Pakistan,Zimbabwe,37.2,Misbah-ul-Haq,Sohaib Maqsood,SC Williams,0,1,1,legbyes,0,NA,NA,NA,1
+656443,1st innings,Pakistan,Zimbabwe,37.3,Sohaib Maqsood,Misbah-ul-Haq,SC Williams,2,0,2,NA,0,NA,NA,NA,1
+656443,1st innings,Pakistan,Zimbabwe,37.4,Sohaib Maqsood,Misbah-ul-Haq,SC Williams,4,0,4,NA,0,NA,NA,NA,1
+656443,1st innings,Pakistan,Zimbabwe,37.5,Sohaib Maqsood,Misbah-ul-Haq,SC Williams,3,0,3,NA,0,NA,NA,NA,1
+656443,1st innings,Pakistan,Zimbabwe,37.6,Misbah-ul-Haq,Sohaib Maqsood,SC Williams,0,0,0,NA,0,NA,NA,NA,1
+656443,1st innings,Pakistan,Zimbabwe,38.1,Sohaib Maqsood,Misbah-ul-Haq,T Mupariwa,4,0,4,NA,0,NA,NA,NA,1
+656443,1st innings,Pakistan,Zimbabwe,38.2,Sohaib Maqsood,Misbah-ul-Haq,T Mupariwa,0,0,0,NA,1,caught and bowled,Sohaib Maqsood,NA,1
+656443,1st innings,Pakistan,Zimbabwe,38.3,Wahab Riaz,Misbah-ul-Haq,T Mupariwa,1,0,1,NA,0,NA,NA,NA,1
+656443,1st innings,Pakistan,Zimbabwe,38.4,Misbah-ul-Haq,Wahab Riaz,T Mupariwa,1,0,1,NA,0,NA,NA,NA,1
+656443,1st innings,Pakistan,Zimbabwe,38.5,Wahab Riaz,Misbah-ul-Haq,T Mupariwa,0,0,0,NA,0,NA,NA,NA,1
+656443,1st innings,Pakistan,Zimbabwe,38.6,Wahab Riaz,Misbah-ul-Haq,T Mupariwa,1,0,1,NA,0,NA,NA,NA,1
+656443,1st innings,Pakistan,Zimbabwe,39.1,Wahab Riaz,Misbah-ul-Haq,T Panyangara,2,0,2,NA,0,NA,NA,NA,1
+656443,1st innings,Pakistan,Zimbabwe,39.2,Wahab Riaz,Misbah-ul-Haq,T Panyangara,0,0,0,NA,0,NA,NA,NA,1
+656443,1st innings,Pakistan,Zimbabwe,39.3,Wahab Riaz,Misbah-ul-Haq,T Panyangara,1,0,1,NA,0,NA,NA,NA,1
+656443,1st innings,Pakistan,Zimbabwe,39.4,Misbah-ul-Haq,Wahab Riaz,T Panyangara,1,0,1,NA,0,NA,NA,NA,1
+656443,1st innings,Pakistan,Zimbabwe,39.5,Wahab Riaz,Misbah-ul-Haq,T Panyangara,0,0,0,NA,0,NA,NA,NA,1
+656443,1st innings,Pakistan,Zimbabwe,39.6,Wahab Riaz,Misbah-ul-Haq,T Panyangara,0,0,0,NA,0,NA,NA,NA,1
+656443,1st innings,Pakistan,Zimbabwe,40.1,Misbah-ul-Haq,Wahab Riaz,TL Chatara,0,0,0,NA,0,NA,NA,NA,1
+656443,1st innings,Pakistan,Zimbabwe,40.2,Misbah-ul-Haq,Wahab Riaz,TL Chatara,1,0,1,NA,0,NA,NA,NA,1
+656443,1st innings,Pakistan,Zimbabwe,40.3,Wahab Riaz,Misbah-ul-Haq,TL Chatara,0,1,1,wides,0,NA,NA,NA,1
+656443,1st innings,Pakistan,Zimbabwe,40.4,Wahab Riaz,Misbah-ul-Haq,TL Chatara,1,0,1,NA,0,NA,NA,NA,1
+656443,1st innings,Pakistan,Zimbabwe,40.5,Misbah-ul-Haq,Wahab Riaz,TL Chatara,1,0,1,NA,0,NA,NA,NA,1
+656443,1st innings,Pakistan,Zimbabwe,40.6,Wahab Riaz,Misbah-ul-Haq,TL Chatara,0,1,1,wides,0,NA,NA,NA,1
+656443,1st innings,Pakistan,Zimbabwe,40.7,Wahab Riaz,Misbah-ul-Haq,TL Chatara,4,0,4,NA,0,NA,NA,NA,1
+656443,1st innings,Pakistan,Zimbabwe,40.8,Wahab Riaz,Misbah-ul-Haq,TL Chatara,0,0,0,NA,0,NA,NA,NA,1
+656443,1st innings,Pakistan,Zimbabwe,41.1,Misbah-ul-Haq,Wahab Riaz,T Panyangara,1,0,1,NA,0,NA,NA,NA,1
+656443,1st innings,Pakistan,Zimbabwe,41.2,Wahab Riaz,Misbah-ul-Haq,T Panyangara,1,0,1,NA,0,NA,NA,NA,1
+656443,1st innings,Pakistan,Zimbabwe,41.3,Misbah-ul-Haq,Wahab Riaz,T Panyangara,1,0,1,NA,0,NA,NA,NA,1
+656443,1st innings,Pakistan,Zimbabwe,41.4,Wahab Riaz,Misbah-ul-Haq,T Panyangara,1,0,1,NA,0,NA,NA,NA,1
+656443,1st innings,Pakistan,Zimbabwe,41.5,Misbah-ul-Haq,Wahab Riaz,T Panyangara,2,0,2,NA,0,NA,NA,NA,1
+656443,1st innings,Pakistan,Zimbabwe,41.6,Misbah-ul-Haq,Wahab Riaz,T Panyangara,0,0,0,NA,0,NA,NA,NA,1
+656443,1st innings,Pakistan,Zimbabwe,42.1,Wahab Riaz,Misbah-ul-Haq,TL Chatara,0,0,0,NA,0,NA,NA,NA,1
+656443,1st innings,Pakistan,Zimbabwe,42.2,Wahab Riaz,Misbah-ul-Haq,TL Chatara,0,0,0,NA,0,NA,NA,NA,1
+656443,1st innings,Pakistan,Zimbabwe,42.3,Wahab Riaz,Misbah-ul-Haq,TL Chatara,3,0,3,NA,0,NA,NA,NA,1
+656443,1st innings,Pakistan,Zimbabwe,42.4,Misbah-ul-Haq,Wahab Riaz,TL Chatara,0,0,0,NA,0,NA,NA,NA,1
+656443,1st innings,Pakistan,Zimbabwe,42.5,Misbah-ul-Haq,Wahab Riaz,TL Chatara,0,1,1,wides,0,NA,NA,NA,1
+656443,1st innings,Pakistan,Zimbabwe,42.6,Misbah-ul-Haq,Wahab Riaz,TL Chatara,1,0,1,NA,0,NA,NA,NA,1
+656443,1st innings,Pakistan,Zimbabwe,42.7,Wahab Riaz,Misbah-ul-Haq,TL Chatara,1,0,1,NA,0,NA,NA,NA,1
+656443,1st innings,Pakistan,Zimbabwe,43.1,Wahab Riaz,Misbah-ul-Haq,SC Williams,0,0,0,NA,0,NA,NA,NA,1
+656443,1st innings,Pakistan,Zimbabwe,43.2,Wahab Riaz,Misbah-ul-Haq,SC Williams,0,0,0,NA,0,NA,NA,NA,1
+656443,1st innings,Pakistan,Zimbabwe,43.3,Wahab Riaz,Misbah-ul-Haq,SC Williams,0,0,0,NA,0,NA,NA,NA,1
+656443,1st innings,Pakistan,Zimbabwe,43.4,Wahab Riaz,Misbah-ul-Haq,SC Williams,0,0,0,NA,0,NA,NA,NA,1
+656443,1st innings,Pakistan,Zimbabwe,43.5,Wahab Riaz,Misbah-ul-Haq,SC Williams,0,0,0,NA,0,NA,NA,NA,1
+656443,1st innings,Pakistan,Zimbabwe,43.6,Wahab Riaz,Misbah-ul-Haq,SC Williams,0,0,0,NA,0,NA,NA,NA,1
+656443,1st innings,Pakistan,Zimbabwe,44.1,Misbah-ul-Haq,Wahab Riaz,T Mupariwa,0,1,1,wides,0,NA,NA,NA,1
+656443,1st innings,Pakistan,Zimbabwe,44.2,Misbah-ul-Haq,Wahab Riaz,T Mupariwa,1,0,1,NA,0,NA,NA,NA,1
+656443,1st innings,Pakistan,Zimbabwe,44.3,Wahab Riaz,Misbah-ul-Haq,T Mupariwa,0,0,0,NA,0,NA,NA,NA,1
+656443,1st innings,Pakistan,Zimbabwe,44.4,Wahab Riaz,Misbah-ul-Haq,T Mupariwa,0,0,0,NA,0,NA,NA,NA,1
+656443,1st innings,Pakistan,Zimbabwe,44.5,Wahab Riaz,Misbah-ul-Haq,T Mupariwa,4,0,4,NA,0,NA,NA,NA,1
+656443,1st innings,Pakistan,Zimbabwe,44.6,Wahab Riaz,Misbah-ul-Haq,T Mupariwa,1,0,1,NA,0,NA,NA,NA,1
+656443,1st innings,Pakistan,Zimbabwe,44.7,Misbah-ul-Haq,Wahab Riaz,T Mupariwa,2,0,2,NA,0,NA,NA,NA,1
+656443,1st innings,Pakistan,Zimbabwe,45.1,Wahab Riaz,Misbah-ul-Haq,T Panyangara,4,0,4,NA,0,NA,NA,NA,1
+656443,1st innings,Pakistan,Zimbabwe,45.2,Wahab Riaz,Misbah-ul-Haq,T Panyangara,0,0,0,NA,0,NA,NA,NA,1
+656443,1st innings,Pakistan,Zimbabwe,45.3,Wahab Riaz,Misbah-ul-Haq,T Panyangara,1,0,1,NA,0,NA,NA,NA,1
+656443,1st innings,Pakistan,Zimbabwe,45.4,Misbah-ul-Haq,Wahab Riaz,T Panyangara,0,0,0,NA,0,NA,NA,NA,1
+656443,1st innings,Pakistan,Zimbabwe,45.5,Misbah-ul-Haq,Wahab Riaz,T Panyangara,1,0,1,NA,0,NA,NA,NA,1
+656443,1st innings,Pakistan,Zimbabwe,45.6,Wahab Riaz,Misbah-ul-Haq,T Panyangara,4,0,4,NA,0,NA,NA,NA,1
+656443,1st innings,Pakistan,Zimbabwe,46.1,Misbah-ul-Haq,Wahab Riaz,TL Chatara,0,0,0,NA,1,caught,Misbah-ul-Haq,SC Williams,1
+656443,1st innings,Pakistan,Zimbabwe,46.2,Wahab Riaz,Sohail Khan,TL Chatara,1,0,1,NA,0,NA,NA,NA,1
+656443,1st innings,Pakistan,Zimbabwe,46.3,Sohail Khan,Wahab Riaz,TL Chatara,0,0,0,NA,0,NA,NA,NA,1
+656443,1st innings,Pakistan,Zimbabwe,46.4,Sohail Khan,Wahab Riaz,TL Chatara,0,0,0,NA,0,NA,NA,NA,1
+656443,1st innings,Pakistan,Zimbabwe,46.5,Sohail Khan,Wahab Riaz,TL Chatara,1,0,1,NA,0,NA,NA,NA,1
+656443,1st innings,Pakistan,Zimbabwe,46.6,Wahab Riaz,Sohail Khan,TL Chatara,0,1,1,wides,0,NA,NA,NA,1
+656443,1st innings,Pakistan,Zimbabwe,46.7,Wahab Riaz,Sohail Khan,TL Chatara,1,0,1,NA,0,NA,NA,NA,1
+656443,1st innings,Pakistan,Zimbabwe,47.1,Wahab Riaz,Sohail Khan,T Panyangara,0,0,0,NA,0,NA,NA,NA,1
+656443,1st innings,Pakistan,Zimbabwe,47.2,Wahab Riaz,Sohail Khan,T Panyangara,0,0,0,NA,0,NA,NA,NA,1
+656443,1st innings,Pakistan,Zimbabwe,47.3,Wahab Riaz,Sohail Khan,T Panyangara,1,0,1,NA,0,NA,NA,NA,1
+656443,1st innings,Pakistan,Zimbabwe,47.4,Sohail Khan,Wahab Riaz,T Panyangara,1,0,1,NA,0,NA,NA,NA,1
+656443,1st innings,Pakistan,Zimbabwe,47.5,Wahab Riaz,Sohail Khan,T Panyangara,6,0,6,NA,0,NA,NA,NA,1
+656443,1st innings,Pakistan,Zimbabwe,47.6,Wahab Riaz,Sohail Khan,T Panyangara,2,0,2,NA,0,NA,NA,NA,1
+656443,1st innings,Pakistan,Zimbabwe,48.1,Sohail Khan,Wahab Riaz,TL Chatara,1,0,1,NA,0,NA,NA,NA,1
+656443,1st innings,Pakistan,Zimbabwe,48.2,Wahab Riaz,Sohail Khan,TL Chatara,0,0,0,NA,0,NA,NA,NA,1
+656443,1st innings,Pakistan,Zimbabwe,48.3,Wahab Riaz,Sohail Khan,TL Chatara,0,1,1,wides,0,NA,NA,NA,1
+656443,1st innings,Pakistan,Zimbabwe,48.4,Wahab Riaz,Sohail Khan,TL Chatara,1,0,1,NA,0,NA,NA,NA,1
+656443,1st innings,Pakistan,Zimbabwe,48.5,Sohail Khan,Wahab Riaz,TL Chatara,0,1,1,legbyes,0,NA,NA,NA,1
+656443,1st innings,Pakistan,Zimbabwe,48.6,Wahab Riaz,Sohail Khan,TL Chatara,2,0,2,NA,0,NA,NA,NA,1
+656443,1st innings,Pakistan,Zimbabwe,48.7,Wahab Riaz,Sohail Khan,TL Chatara,0,0,0,NA,0,NA,NA,NA,1
+656443,1st innings,Pakistan,Zimbabwe,49.1,Sohail Khan,Wahab Riaz,T Panyangara,2,0,2,NA,0,NA,NA,NA,1
+656443,1st innings,Pakistan,Zimbabwe,49.2,Sohail Khan,Wahab Riaz,T Panyangara,1,0,1,NA,0,NA,NA,NA,1
+656443,1st innings,Pakistan,Zimbabwe,49.3,Wahab Riaz,Sohail Khan,T Panyangara,0,0,0,NA,0,NA,NA,NA,1
+656443,1st innings,Pakistan,Zimbabwe,49.4,Wahab Riaz,Sohail Khan,T Panyangara,4,0,4,NA,0,NA,NA,NA,1
+656443,1st innings,Pakistan,Zimbabwe,49.5,Wahab Riaz,Sohail Khan,T Panyangara,2,0,2,NA,0,NA,NA,NA,1
+656443,1st innings,Pakistan,Zimbabwe,49.6,Wahab Riaz,Sohail Khan,T Panyangara,4,0,4,NA,0,NA,NA,NA,1
+656443,2nd innings,Zimbabwe,Pakistan,0.1,CJ Chibhabha,Sikandar Raza,Mohammad Irfan,0,0,0,NA,0,NA,NA,NA,0
+656443,2nd innings,Zimbabwe,Pakistan,0.2,CJ Chibhabha,Sikandar Raza,Mohammad Irfan,0,0,0,NA,0,NA,NA,NA,0
+656443,2nd innings,Zimbabwe,Pakistan,0.3,CJ Chibhabha,Sikandar Raza,Mohammad Irfan,0,0,0,NA,0,NA,NA,NA,0
+656443,2nd innings,Zimbabwe,Pakistan,0.4,CJ Chibhabha,Sikandar Raza,Mohammad Irfan,0,0,0,NA,0,NA,NA,NA,0
+656443,2nd innings,Zimbabwe,Pakistan,0.5,CJ Chibhabha,Sikandar Raza,Mohammad Irfan,0,0,0,NA,0,NA,NA,NA,0
+656443,2nd innings,Zimbabwe,Pakistan,0.6,CJ Chibhabha,Sikandar Raza,Mohammad Irfan,1,0,1,NA,0,NA,NA,NA,0
+656443,2nd innings,Zimbabwe,Pakistan,1.1,CJ Chibhabha,Sikandar Raza,Sohail Khan,0,0,0,NA,0,NA,NA,NA,0
+656443,2nd innings,Zimbabwe,Pakistan,1.2,CJ Chibhabha,Sikandar Raza,Sohail Khan,0,0,0,NA,0,NA,NA,NA,0
+656443,2nd innings,Zimbabwe,Pakistan,1.3,CJ Chibhabha,Sikandar Raza,Sohail Khan,0,0,0,NA,0,NA,NA,NA,0
+656443,2nd innings,Zimbabwe,Pakistan,1.4,CJ Chibhabha,Sikandar Raza,Sohail Khan,4,0,4,NA,0,NA,NA,NA,0
+656443,2nd innings,Zimbabwe,Pakistan,1.5,CJ Chibhabha,Sikandar Raza,Sohail Khan,0,0,0,NA,0,NA,NA,NA,0
+656443,2nd innings,Zimbabwe,Pakistan,1.6,CJ Chibhabha,Sikandar Raza,Sohail Khan,0,0,0,NA,0,NA,NA,NA,0
+656443,2nd innings,Zimbabwe,Pakistan,2.1,Sikandar Raza,CJ Chibhabha,Mohammad Irfan,0,0,0,NA,0,NA,NA,NA,0
+656443,2nd innings,Zimbabwe,Pakistan,2.2,Sikandar Raza,CJ Chibhabha,Mohammad Irfan,0,0,0,NA,0,NA,NA,NA,0
+656443,2nd innings,Zimbabwe,Pakistan,2.3,Sikandar Raza,CJ Chibhabha,Mohammad Irfan,0,0,0,NA,0,NA,NA,NA,0
+656443,2nd innings,Zimbabwe,Pakistan,2.4,Sikandar Raza,CJ Chibhabha,Mohammad Irfan,0,0,0,NA,0,NA,NA,NA,0
+656443,2nd innings,Zimbabwe,Pakistan,2.5,Sikandar Raza,CJ Chibhabha,Mohammad Irfan,0,0,0,NA,0,NA,NA,NA,0
+656443,2nd innings,Zimbabwe,Pakistan,2.6,Sikandar Raza,CJ Chibhabha,Mohammad Irfan,0,0,0,NA,0,NA,NA,NA,0
+656443,2nd innings,Zimbabwe,Pakistan,3.1,CJ Chibhabha,Sikandar Raza,Sohail Khan,4,0,4,NA,0,NA,NA,NA,0
+656443,2nd innings,Zimbabwe,Pakistan,3.2,CJ Chibhabha,Sikandar Raza,Sohail Khan,0,1,1,legbyes,0,NA,NA,NA,0
+656443,2nd innings,Zimbabwe,Pakistan,3.3,Sikandar Raza,CJ Chibhabha,Sohail Khan,2,0,2,NA,0,NA,NA,NA,0
+656443,2nd innings,Zimbabwe,Pakistan,3.4,Sikandar Raza,CJ Chibhabha,Sohail Khan,0,0,0,NA,0,NA,NA,NA,0
+656443,2nd innings,Zimbabwe,Pakistan,3.5,Sikandar Raza,CJ Chibhabha,Sohail Khan,0,0,0,NA,0,NA,NA,NA,0
+656443,2nd innings,Zimbabwe,Pakistan,3.6,Sikandar Raza,CJ Chibhabha,Sohail Khan,2,0,2,NA,0,NA,NA,NA,0
+656443,2nd innings,Zimbabwe,Pakistan,4.1,CJ Chibhabha,Sikandar Raza,Mohammad Irfan,0,0,0,NA,0,NA,NA,NA,0
+656443,2nd innings,Zimbabwe,Pakistan,4.2,CJ Chibhabha,Sikandar Raza,Mohammad Irfan,0,0,0,NA,0,NA,NA,NA,0
+656443,2nd innings,Zimbabwe,Pakistan,4.3,CJ Chibhabha,Sikandar Raza,Mohammad Irfan,0,0,0,NA,0,NA,NA,NA,0
+656443,2nd innings,Zimbabwe,Pakistan,4.4,CJ Chibhabha,Sikandar Raza,Mohammad Irfan,0,0,0,NA,1,caught,CJ Chibhabha,Haris Sohail,0
+656443,2nd innings,Zimbabwe,Pakistan,4.5,H Masakadza,Sikandar Raza,Mohammad Irfan,1,0,1,NA,0,NA,NA,NA,0
+656443,2nd innings,Zimbabwe,Pakistan,4.6,Sikandar Raza,H Masakadza,Mohammad Irfan,0,0,0,NA,0,NA,NA,NA,0
+656443,2nd innings,Zimbabwe,Pakistan,5.1,H Masakadza,Sikandar Raza,Sohail Khan,0,0,0,NA,0,NA,NA,NA,0
+656443,2nd innings,Zimbabwe,Pakistan,5.2,H Masakadza,Sikandar Raza,Sohail Khan,2,0,2,NA,0,NA,NA,NA,0
+656443,2nd innings,Zimbabwe,Pakistan,5.3,H Masakadza,Sikandar Raza,Sohail Khan,0,0,0,NA,0,NA,NA,NA,0
+656443,2nd innings,Zimbabwe,Pakistan,5.4,H Masakadza,Sikandar Raza,Sohail Khan,0,0,0,NA,0,NA,NA,NA,0
+656443,2nd innings,Zimbabwe,Pakistan,5.5,H Masakadza,Sikandar Raza,Sohail Khan,0,0,0,NA,0,NA,NA,NA,0
+656443,2nd innings,Zimbabwe,Pakistan,5.6,H Masakadza,Sikandar Raza,Sohail Khan,0,0,0,NA,0,NA,NA,NA,0
+656443,2nd innings,Zimbabwe,Pakistan,6.1,Sikandar Raza,H Masakadza,Mohammad Irfan,0,1,1,wides,0,NA,NA,NA,0
+656443,2nd innings,Zimbabwe,Pakistan,6.2,Sikandar Raza,H Masakadza,Mohammad Irfan,0,0,0,NA,0,NA,NA,NA,0
+656443,2nd innings,Zimbabwe,Pakistan,6.3,Sikandar Raza,H Masakadza,Mohammad Irfan,2,0,2,NA,0,NA,NA,NA,0
+656443,2nd innings,Zimbabwe,Pakistan,6.4,Sikandar Raza,H Masakadza,Mohammad Irfan,2,0,2,NA,0,NA,NA,NA,0
+656443,2nd innings,Zimbabwe,Pakistan,6.5,Sikandar Raza,H Masakadza,Mohammad Irfan,0,0,0,NA,1,caught,Sikandar Raza,Haris Sohail,0
+656443,2nd innings,Zimbabwe,Pakistan,6.6,BRM Taylor,H Masakadza,Mohammad Irfan,0,0,0,NA,0,NA,NA,NA,0
+656443,2nd innings,Zimbabwe,Pakistan,6.7,BRM Taylor,H Masakadza,Mohammad Irfan,0,0,0,NA,0,NA,NA,NA,0
+656443,2nd innings,Zimbabwe,Pakistan,7.1,H Masakadza,BRM Taylor,Sohail Khan,0,0,0,NA,0,NA,NA,NA,0
+656443,2nd innings,Zimbabwe,Pakistan,7.2,H Masakadza,BRM Taylor,Sohail Khan,0,0,0,NA,0,NA,NA,NA,0
+656443,2nd innings,Zimbabwe,Pakistan,7.3,H Masakadza,BRM Taylor,Sohail Khan,0,0,0,NA,0,NA,NA,NA,0
+656443,2nd innings,Zimbabwe,Pakistan,7.4,H Masakadza,BRM Taylor,Sohail Khan,0,0,0,NA,0,NA,NA,NA,0
+656443,2nd innings,Zimbabwe,Pakistan,7.5,H Masakadza,BRM Taylor,Sohail Khan,1,0,1,NA,0,NA,NA,NA,0
+656443,2nd innings,Zimbabwe,Pakistan,7.6,BRM Taylor,H Masakadza,Sohail Khan,0,0,0,NA,0,NA,NA,NA,0
+656443,2nd innings,Zimbabwe,Pakistan,8.1,H Masakadza,BRM Taylor,Mohammad Irfan,1,0,1,NA,0,NA,NA,NA,0
+656443,2nd innings,Zimbabwe,Pakistan,8.2,BRM Taylor,H Masakadza,Mohammad Irfan,0,0,0,NA,0,NA,NA,NA,0
+656443,2nd innings,Zimbabwe,Pakistan,8.3,BRM Taylor,H Masakadza,Mohammad Irfan,0,0,0,NA,0,NA,NA,NA,0
+656443,2nd innings,Zimbabwe,Pakistan,8.4,BRM Taylor,H Masakadza,Mohammad Irfan,0,0,0,NA,0,NA,NA,NA,0
+656443,2nd innings,Zimbabwe,Pakistan,8.5,BRM Taylor,H Masakadza,Mohammad Irfan,0,0,0,NA,0,NA,NA,NA,0
+656443,2nd innings,Zimbabwe,Pakistan,8.6,BRM Taylor,H Masakadza,Mohammad Irfan,0,0,0,NA,0,NA,NA,NA,0
+656443,2nd innings,Zimbabwe,Pakistan,9.1,H Masakadza,BRM Taylor,Sohail Khan,0,0,0,NA,0,NA,NA,NA,0
+656443,2nd innings,Zimbabwe,Pakistan,9.2,H Masakadza,BRM Taylor,Sohail Khan,0,0,0,NA,0,NA,NA,NA,0
+656443,2nd innings,Zimbabwe,Pakistan,9.3,H Masakadza,BRM Taylor,Sohail Khan,0,0,0,NA,0,NA,NA,NA,0
+656443,2nd innings,Zimbabwe,Pakistan,9.4,H Masakadza,BRM Taylor,Sohail Khan,4,0,4,NA,0,NA,NA,NA,0
+656443,2nd innings,Zimbabwe,Pakistan,9.5,H Masakadza,BRM Taylor,Sohail Khan,0,0,0,NA,0,NA,NA,NA,0
+656443,2nd innings,Zimbabwe,Pakistan,9.6,H Masakadza,BRM Taylor,Sohail Khan,0,0,0,NA,0,NA,NA,NA,0
+656443,2nd innings,Zimbabwe,Pakistan,10.1,BRM Taylor,H Masakadza,Rahat Ali,0,1,1,wides,0,NA,NA,NA,0
+656443,2nd innings,Zimbabwe,Pakistan,10.2,BRM Taylor,H Masakadza,Rahat Ali,0,1,1,wides,0,NA,NA,NA,0
+656443,2nd innings,Zimbabwe,Pakistan,10.3,BRM Taylor,H Masakadza,Rahat Ali,0,0,0,NA,0,NA,NA,NA,0
+656443,2nd innings,Zimbabwe,Pakistan,10.4,BRM Taylor,H Masakadza,Rahat Ali,1,0,1,NA,0,NA,NA,NA,0
+656443,2nd innings,Zimbabwe,Pakistan,10.5,H Masakadza,BRM Taylor,Rahat Ali,0,0,0,NA,0,NA,NA,NA,0
+656443,2nd innings,Zimbabwe,Pakistan,10.6,H Masakadza,BRM Taylor,Rahat Ali,4,0,4,NA,0,NA,NA,NA,0
+656443,2nd innings,Zimbabwe,Pakistan,10.7,H Masakadza,BRM Taylor,Rahat Ali,1,0,1,NA,0,NA,NA,NA,0
+656443,2nd innings,Zimbabwe,Pakistan,10.8,BRM Taylor,H Masakadza,Rahat Ali,1,0,1,NA,0,NA,NA,NA,0
+656443,2nd innings,Zimbabwe,Pakistan,11.1,BRM Taylor,H Masakadza,Wahab Riaz,4,0,4,NA,0,NA,NA,NA,0
+656443,2nd innings,Zimbabwe,Pakistan,11.2,BRM Taylor,H Masakadza,Wahab Riaz,0,1,1,wides,0,NA,NA,NA,0
+656443,2nd innings,Zimbabwe,Pakistan,11.3,BRM Taylor,H Masakadza,Wahab Riaz,0,0,0,NA,0,NA,NA,NA,0
+656443,2nd innings,Zimbabwe,Pakistan,11.4,BRM Taylor,H Masakadza,Wahab Riaz,0,0,0,NA,0,NA,NA,NA,0
+656443,2nd innings,Zimbabwe,Pakistan,11.5,BRM Taylor,H Masakadza,Wahab Riaz,0,0,0,NA,0,NA,NA,NA,0
+656443,2nd innings,Zimbabwe,Pakistan,11.6,BRM Taylor,H Masakadza,Wahab Riaz,2,0,2,NA,0,NA,NA,NA,0
+656443,2nd innings,Zimbabwe,Pakistan,11.7,BRM Taylor,H Masakadza,Wahab Riaz,0,0,0,NA,0,NA,NA,NA,0
+656443,2nd innings,Zimbabwe,Pakistan,12.1,H Masakadza,BRM Taylor,Rahat Ali,0,0,0,NA,0,NA,NA,NA,0
+656443,2nd innings,Zimbabwe,Pakistan,12.2,H Masakadza,BRM Taylor,Rahat Ali,1,0,1,NA,0,NA,NA,NA,0
+656443,2nd innings,Zimbabwe,Pakistan,12.3,BRM Taylor,H Masakadza,Rahat Ali,0,0,0,NA,0,NA,NA,NA,0
+656443,2nd innings,Zimbabwe,Pakistan,12.4,BRM Taylor,H Masakadza,Rahat Ali,0,0,0,NA,0,NA,NA,NA,0
+656443,2nd innings,Zimbabwe,Pakistan,12.5,BRM Taylor,H Masakadza,Rahat Ali,0,0,0,NA,0,NA,NA,NA,0
+656443,2nd innings,Zimbabwe,Pakistan,12.6,BRM Taylor,H Masakadza,Rahat Ali,0,0,0,NA,0,NA,NA,NA,0
+656443,2nd innings,Zimbabwe,Pakistan,13.1,H Masakadza,BRM Taylor,Wahab Riaz,0,0,0,NA,0,NA,NA,NA,0
+656443,2nd innings,Zimbabwe,Pakistan,13.2,H Masakadza,BRM Taylor,Wahab Riaz,0,0,0,NA,0,NA,NA,NA,0
+656443,2nd innings,Zimbabwe,Pakistan,13.3,H Masakadza,BRM Taylor,Wahab Riaz,0,0,0,NA,0,NA,NA,NA,0
+656443,2nd innings,Zimbabwe,Pakistan,13.4,H Masakadza,BRM Taylor,Wahab Riaz,0,0,0,NA,0,NA,NA,NA,0
+656443,2nd innings,Zimbabwe,Pakistan,13.5,H Masakadza,BRM Taylor,Wahab Riaz,1,0,1,NA,0,NA,NA,NA,0
+656443,2nd innings,Zimbabwe,Pakistan,13.6,BRM Taylor,H Masakadza,Wahab Riaz,0,0,0,NA,0,NA,NA,NA,0
+656443,2nd innings,Zimbabwe,Pakistan,14.1,H Masakadza,BRM Taylor,Rahat Ali,0,0,0,NA,0,NA,NA,NA,0
+656443,2nd innings,Zimbabwe,Pakistan,14.2,H Masakadza,BRM Taylor,Rahat Ali,0,0,0,NA,0,NA,NA,NA,0
+656443,2nd innings,Zimbabwe,Pakistan,14.3,H Masakadza,BRM Taylor,Rahat Ali,0,0,0,NA,0,NA,NA,NA,0
+656443,2nd innings,Zimbabwe,Pakistan,14.4,H Masakadza,BRM Taylor,Rahat Ali,0,0,0,NA,0,NA,NA,NA,0
+656443,2nd innings,Zimbabwe,Pakistan,14.5,H Masakadza,BRM Taylor,Rahat Ali,1,0,1,NA,0,NA,NA,NA,0
+656443,2nd innings,Zimbabwe,Pakistan,14.6,BRM Taylor,H Masakadza,Rahat Ali,0,0,0,NA,0,NA,NA,NA,0
+656443,2nd innings,Zimbabwe,Pakistan,15.1,H Masakadza,BRM Taylor,Wahab Riaz,0,0,0,NA,0,NA,NA,NA,0
+656443,2nd innings,Zimbabwe,Pakistan,15.2,H Masakadza,BRM Taylor,Wahab Riaz,0,0,0,NA,0,NA,NA,NA,0
+656443,2nd innings,Zimbabwe,Pakistan,15.3,H Masakadza,BRM Taylor,Wahab Riaz,0,0,0,NA,0,NA,NA,NA,0
+656443,2nd innings,Zimbabwe,Pakistan,15.4,H Masakadza,BRM Taylor,Wahab Riaz,4,0,4,NA,0,NA,NA,NA,0
+656443,2nd innings,Zimbabwe,Pakistan,15.5,H Masakadza,BRM Taylor,Wahab Riaz,0,0,0,NA,0,NA,NA,NA,0
+656443,2nd innings,Zimbabwe,Pakistan,15.6,H Masakadza,BRM Taylor,Wahab Riaz,2,0,2,NA,0,NA,NA,NA,0
+656443,2nd innings,Zimbabwe,Pakistan,16.1,BRM Taylor,H Masakadza,Rahat Ali,0,0,0,NA,0,NA,NA,NA,0
+656443,2nd innings,Zimbabwe,Pakistan,16.2,BRM Taylor,H Masakadza,Rahat Ali,0,0,0,NA,0,NA,NA,NA,0
+656443,2nd innings,Zimbabwe,Pakistan,16.3,BRM Taylor,H Masakadza,Rahat Ali,1,0,1,NA,0,NA,NA,NA,0
+656443,2nd innings,Zimbabwe,Pakistan,16.4,H Masakadza,BRM Taylor,Rahat Ali,0,0,0,NA,0,NA,NA,NA,0
+656443,2nd innings,Zimbabwe,Pakistan,16.5,H Masakadza,BRM Taylor,Rahat Ali,0,1,1,wides,0,NA,NA,NA,0
+656443,2nd innings,Zimbabwe,Pakistan,16.6,H Masakadza,BRM Taylor,Rahat Ali,0,0,0,NA,0,NA,NA,NA,0
+656443,2nd innings,Zimbabwe,Pakistan,16.7,H Masakadza,BRM Taylor,Rahat Ali,0,0,0,NA,0,NA,NA,NA,0
+656443,2nd innings,Zimbabwe,Pakistan,17.1,BRM Taylor,H Masakadza,Wahab Riaz,0,0,0,NA,0,NA,NA,NA,0
+656443,2nd innings,Zimbabwe,Pakistan,17.2,BRM Taylor,H Masakadza,Wahab Riaz,0,0,0,NA,0,NA,NA,NA,0
+656443,2nd innings,Zimbabwe,Pakistan,17.3,BRM Taylor,H Masakadza,Wahab Riaz,0,0,0,NA,0,NA,NA,NA,0
+656443,2nd innings,Zimbabwe,Pakistan,17.4,BRM Taylor,H Masakadza,Wahab Riaz,3,0,3,NA,0,NA,NA,NA,0
+656443,2nd innings,Zimbabwe,Pakistan,17.5,H Masakadza,BRM Taylor,Wahab Riaz,0,0,0,NA,0,NA,NA,NA,0
+656443,2nd innings,Zimbabwe,Pakistan,17.6,H Masakadza,BRM Taylor,Wahab Riaz,0,0,0,NA,0,NA,NA,NA,0
+656443,2nd innings,Zimbabwe,Pakistan,18.1,BRM Taylor,H Masakadza,Rahat Ali,1,0,1,NA,0,NA,NA,NA,0
+656443,2nd innings,Zimbabwe,Pakistan,18.2,H Masakadza,BRM Taylor,Rahat Ali,4,0,4,NA,0,NA,NA,NA,0
+656443,2nd innings,Zimbabwe,Pakistan,18.3,H Masakadza,BRM Taylor,Rahat Ali,0,0,0,NA,0,NA,NA,NA,0
+656443,2nd innings,Zimbabwe,Pakistan,18.4,H Masakadza,BRM Taylor,Rahat Ali,1,0,1,NA,0,NA,NA,NA,0
+656443,2nd innings,Zimbabwe,Pakistan,18.5,BRM Taylor,H Masakadza,Rahat Ali,1,0,1,NA,0,NA,NA,NA,0
+656443,2nd innings,Zimbabwe,Pakistan,18.6,H Masakadza,BRM Taylor,Rahat Ali,0,0,0,NA,0,NA,NA,NA,0
+656443,2nd innings,Zimbabwe,Pakistan,19.1,BRM Taylor,H Masakadza,Wahab Riaz,0,0,0,NA,0,NA,NA,NA,0
+656443,2nd innings,Zimbabwe,Pakistan,19.2,BRM Taylor,H Masakadza,Wahab Riaz,4,0,4,NA,0,NA,NA,NA,0
+656443,2nd innings,Zimbabwe,Pakistan,19.3,BRM Taylor,H Masakadza,Wahab Riaz,0,0,0,NA,0,NA,NA,NA,0
+656443,2nd innings,Zimbabwe,Pakistan,19.4,BRM Taylor,H Masakadza,Wahab Riaz,0,0,0,NA,0,NA,NA,NA,0
+656443,2nd innings,Zimbabwe,Pakistan,19.5,BRM Taylor,H Masakadza,Wahab Riaz,3,0,3,NA,0,NA,NA,NA,0
+656443,2nd innings,Zimbabwe,Pakistan,19.6,H Masakadza,BRM Taylor,Wahab Riaz,0,0,0,NA,0,NA,NA,NA,0
+656443,2nd innings,Zimbabwe,Pakistan,20.1,BRM Taylor,H Masakadza,Shahid Afridi,0,0,0,NA,0,NA,NA,NA,0
+656443,2nd innings,Zimbabwe,Pakistan,20.2,BRM Taylor,H Masakadza,Shahid Afridi,0,0,0,NA,0,NA,NA,NA,0
+656443,2nd innings,Zimbabwe,Pakistan,20.3,BRM Taylor,H Masakadza,Shahid Afridi,0,0,0,NA,0,NA,NA,NA,0
+656443,2nd innings,Zimbabwe,Pakistan,20.4,BRM Taylor,H Masakadza,Shahid Afridi,1,0,1,NA,0,NA,NA,NA,0
+656443,2nd innings,Zimbabwe,Pakistan,20.5,H Masakadza,BRM Taylor,Shahid Afridi,0,0,0,NA,0,NA,NA,NA,0
+656443,2nd innings,Zimbabwe,Pakistan,20.6,H Masakadza,BRM Taylor,Shahid Afridi,1,0,1,NA,0,NA,NA,NA,0
+656443,2nd innings,Zimbabwe,Pakistan,21.1,H Masakadza,BRM Taylor,Mohammad Irfan,0,0,0,NA,0,NA,NA,NA,0
+656443,2nd innings,Zimbabwe,Pakistan,21.2,H Masakadza,BRM Taylor,Mohammad Irfan,0,0,0,NA,1,caught,H Masakadza,Misbah-ul-Haq,0
+656443,2nd innings,Zimbabwe,Pakistan,21.3,BRM Taylor,SC Williams,Mohammad Irfan,0,0,0,NA,0,NA,NA,NA,0
+656443,2nd innings,Zimbabwe,Pakistan,21.4,BRM Taylor,SC Williams,Mohammad Irfan,0,0,0,NA,0,NA,NA,NA,0
+656443,2nd innings,Zimbabwe,Pakistan,21.5,BRM Taylor,SC Williams,Mohammad Irfan,0,0,0,NA,0,NA,NA,NA,0
+656443,2nd innings,Zimbabwe,Pakistan,21.6,BRM Taylor,SC Williams,Mohammad Irfan,0,0,0,NA,0,NA,NA,NA,0
+656443,2nd innings,Zimbabwe,Pakistan,22.1,SC Williams,BRM Taylor,Shahid Afridi,1,0,1,NA,0,NA,NA,NA,0
+656443,2nd innings,Zimbabwe,Pakistan,22.2,BRM Taylor,SC Williams,Shahid Afridi,4,0,4,NA,0,NA,NA,NA,0
+656443,2nd innings,Zimbabwe,Pakistan,22.3,BRM Taylor,SC Williams,Shahid Afridi,0,0,0,NA,0,NA,NA,NA,0
+656443,2nd innings,Zimbabwe,Pakistan,22.4,BRM Taylor,SC Williams,Shahid Afridi,0,0,0,NA,0,NA,NA,NA,0
+656443,2nd innings,Zimbabwe,Pakistan,22.5,BRM Taylor,SC Williams,Shahid Afridi,4,0,4,NA,0,NA,NA,NA,0
+656443,2nd innings,Zimbabwe,Pakistan,22.6,BRM Taylor,SC Williams,Shahid Afridi,0,0,0,NA,0,NA,NA,NA,0
+656443,2nd innings,Zimbabwe,Pakistan,23.1,SC Williams,BRM Taylor,Mohammad Irfan,4,0,4,NA,0,NA,NA,NA,0
+656443,2nd innings,Zimbabwe,Pakistan,23.2,SC Williams,BRM Taylor,Mohammad Irfan,0,0,0,NA,0,NA,NA,NA,0
+656443,2nd innings,Zimbabwe,Pakistan,23.3,SC Williams,BRM Taylor,Mohammad Irfan,2,0,2,NA,0,NA,NA,NA,0
+656443,2nd innings,Zimbabwe,Pakistan,23.4,SC Williams,BRM Taylor,Mohammad Irfan,0,5,5,wides,0,NA,NA,NA,0
+656443,2nd innings,Zimbabwe,Pakistan,23.5,SC Williams,BRM Taylor,Mohammad Irfan,4,0,4,NA,0,NA,NA,NA,0
+656443,2nd innings,Zimbabwe,Pakistan,23.6,SC Williams,BRM Taylor,Mohammad Irfan,0,0,0,NA,0,NA,NA,NA,0
+656443,2nd innings,Zimbabwe,Pakistan,23.7,SC Williams,BRM Taylor,Mohammad Irfan,0,0,0,NA,0,NA,NA,NA,0
+656443,2nd innings,Zimbabwe,Pakistan,24.1,BRM Taylor,SC Williams,Shahid Afridi,4,0,4,NA,0,NA,NA,NA,0
+656443,2nd innings,Zimbabwe,Pakistan,24.2,BRM Taylor,SC Williams,Shahid Afridi,0,0,0,NA,0,NA,NA,NA,0
+656443,2nd innings,Zimbabwe,Pakistan,24.3,BRM Taylor,SC Williams,Shahid Afridi,1,0,1,NA,0,NA,NA,NA,0
+656443,2nd innings,Zimbabwe,Pakistan,24.4,SC Williams,BRM Taylor,Shahid Afridi,0,0,0,NA,0,NA,NA,NA,0
+656443,2nd innings,Zimbabwe,Pakistan,24.5,SC Williams,BRM Taylor,Shahid Afridi,1,0,1,NA,0,NA,NA,NA,0
+656443,2nd innings,Zimbabwe,Pakistan,24.6,BRM Taylor,SC Williams,Shahid Afridi,1,0,1,NA,0,NA,NA,NA,0
+656443,2nd innings,Zimbabwe,Pakistan,25.1,BRM Taylor,SC Williams,Sohail Khan,0,0,0,NA,0,NA,NA,NA,0
+656443,2nd innings,Zimbabwe,Pakistan,25.2,BRM Taylor,SC Williams,Sohail Khan,1,0,1,NA,0,NA,NA,NA,0
+656443,2nd innings,Zimbabwe,Pakistan,25.3,SC Williams,BRM Taylor,Sohail Khan,0,0,0,NA,0,NA,NA,NA,0
+656443,2nd innings,Zimbabwe,Pakistan,25.4,SC Williams,BRM Taylor,Sohail Khan,0,0,0,NA,0,NA,NA,NA,0
+656443,2nd innings,Zimbabwe,Pakistan,25.5,SC Williams,BRM Taylor,Sohail Khan,1,0,1,NA,0,NA,NA,NA,0
+656443,2nd innings,Zimbabwe,Pakistan,25.6,BRM Taylor,SC Williams,Sohail Khan,0,0,0,NA,0,NA,NA,NA,0
+656443,2nd innings,Zimbabwe,Pakistan,26.1,SC Williams,BRM Taylor,Shahid Afridi,0,0,0,NA,0,NA,NA,NA,0
+656443,2nd innings,Zimbabwe,Pakistan,26.2,SC Williams,BRM Taylor,Shahid Afridi,0,3,3,byes,0,NA,NA,NA,0
+656443,2nd innings,Zimbabwe,Pakistan,26.3,BRM Taylor,SC Williams,Shahid Afridi,1,0,1,NA,0,NA,NA,NA,0
+656443,2nd innings,Zimbabwe,Pakistan,26.4,SC Williams,BRM Taylor,Shahid Afridi,1,0,1,NA,0,NA,NA,NA,0
+656443,2nd innings,Zimbabwe,Pakistan,26.5,BRM Taylor,SC Williams,Shahid Afridi,2,0,2,NA,0,NA,NA,NA,0
+656443,2nd innings,Zimbabwe,Pakistan,26.6,BRM Taylor,SC Williams,Shahid Afridi,2,0,2,NA,0,NA,NA,NA,0
+656443,2nd innings,Zimbabwe,Pakistan,27.1,SC Williams,BRM Taylor,Sohail Khan,1,0,1,NA,0,NA,NA,NA,0
+656443,2nd innings,Zimbabwe,Pakistan,27.2,BRM Taylor,SC Williams,Sohail Khan,0,0,0,NA,0,NA,NA,NA,0
+656443,2nd innings,Zimbabwe,Pakistan,27.3,BRM Taylor,SC Williams,Sohail Khan,1,0,1,NA,0,NA,NA,NA,0
+656443,2nd innings,Zimbabwe,Pakistan,27.4,SC Williams,BRM Taylor,Sohail Khan,1,0,1,NA,0,NA,NA,NA,0
+656443,2nd innings,Zimbabwe,Pakistan,27.5,BRM Taylor,SC Williams,Sohail Khan,4,0,4,NA,0,NA,NA,NA,0
+656443,2nd innings,Zimbabwe,Pakistan,27.6,BRM Taylor,SC Williams,Sohail Khan,1,0,1,NA,0,NA,NA,NA,0
+656443,2nd innings,Zimbabwe,Pakistan,28.1,BRM Taylor,SC Williams,Rahat Ali,0,1,1,wides,0,NA,NA,NA,0
+656443,2nd innings,Zimbabwe,Pakistan,28.2,BRM Taylor,SC Williams,Rahat Ali,0,0,0,NA,0,NA,NA,NA,0
+656443,2nd innings,Zimbabwe,Pakistan,28.3,BRM Taylor,SC Williams,Rahat Ali,0,0,0,NA,0,NA,NA,NA,0
+656443,2nd innings,Zimbabwe,Pakistan,28.4,BRM Taylor,SC Williams,Rahat Ali,0,0,0,NA,0,NA,NA,NA,0
+656443,2nd innings,Zimbabwe,Pakistan,28.5,BRM Taylor,SC Williams,Rahat Ali,1,0,1,NA,0,NA,NA,NA,0
+656443,2nd innings,Zimbabwe,Pakistan,28.6,SC Williams,BRM Taylor,Rahat Ali,1,0,1,NA,0,NA,NA,NA,0
+656443,2nd innings,Zimbabwe,Pakistan,28.7,BRM Taylor,SC Williams,Rahat Ali,1,0,1,NA,0,NA,NA,NA,0
+656443,2nd innings,Zimbabwe,Pakistan,29.1,BRM Taylor,SC Williams,Wahab Riaz,0,0,0,NA,0,NA,NA,NA,0
+656443,2nd innings,Zimbabwe,Pakistan,29.2,BRM Taylor,SC Williams,Wahab Riaz,0,0,0,NA,0,NA,NA,NA,0
+656443,2nd innings,Zimbabwe,Pakistan,29.3,BRM Taylor,SC Williams,Wahab Riaz,0,0,0,NA,1,caught,BRM Taylor,Umar Akmal,0
+656443,2nd innings,Zimbabwe,Pakistan,29.4,CR Ervine,SC Williams,Wahab Riaz,0,0,0,NA,0,NA,NA,NA,0
+656443,2nd innings,Zimbabwe,Pakistan,29.5,CR Ervine,SC Williams,Wahab Riaz,0,0,0,NA,0,NA,NA,NA,0
+656443,2nd innings,Zimbabwe,Pakistan,29.6,CR Ervine,SC Williams,Wahab Riaz,0,0,0,NA,0,NA,NA,NA,0
+656443,2nd innings,Zimbabwe,Pakistan,30.1,SC Williams,CR Ervine,Rahat Ali,0,0,0,NA,0,NA,NA,NA,0
+656443,2nd innings,Zimbabwe,Pakistan,30.2,SC Williams,CR Ervine,Rahat Ali,2,1,3,noballs,0,NA,NA,NA,0
+656443,2nd innings,Zimbabwe,Pakistan,30.3,SC Williams,CR Ervine,Rahat Ali,2,0,2,NA,0,NA,NA,NA,0
+656443,2nd innings,Zimbabwe,Pakistan,30.4,SC Williams,CR Ervine,Rahat Ali,0,0,0,NA,0,NA,NA,NA,0
+656443,2nd innings,Zimbabwe,Pakistan,30.5,SC Williams,CR Ervine,Rahat Ali,0,0,0,NA,0,NA,NA,NA,0
+656443,2nd innings,Zimbabwe,Pakistan,30.6,SC Williams,CR Ervine,Rahat Ali,1,0,1,NA,0,NA,NA,NA,0
+656443,2nd innings,Zimbabwe,Pakistan,30.7,CR Ervine,SC Williams,Rahat Ali,1,0,1,NA,0,NA,NA,NA,0
+656443,2nd innings,Zimbabwe,Pakistan,31.1,CR Ervine,SC Williams,Wahab Riaz,1,0,1,NA,0,NA,NA,NA,0
+656443,2nd innings,Zimbabwe,Pakistan,31.2,SC Williams,CR Ervine,Wahab Riaz,1,0,1,NA,0,NA,NA,NA,0
+656443,2nd innings,Zimbabwe,Pakistan,31.3,CR Ervine,SC Williams,Wahab Riaz,1,0,1,NA,0,NA,NA,NA,0
+656443,2nd innings,Zimbabwe,Pakistan,31.4,SC Williams,CR Ervine,Wahab Riaz,1,0,1,NA,0,NA,NA,NA,0
+656443,2nd innings,Zimbabwe,Pakistan,31.5,CR Ervine,SC Williams,Wahab Riaz,1,0,1,NA,0,NA,NA,NA,0
+656443,2nd innings,Zimbabwe,Pakistan,31.6,SC Williams,CR Ervine,Wahab Riaz,4,0,4,NA,0,NA,NA,NA,0
+656443,2nd innings,Zimbabwe,Pakistan,32.1,CR Ervine,SC Williams,Shahid Afridi,0,0,0,NA,0,NA,NA,NA,0
+656443,2nd innings,Zimbabwe,Pakistan,32.2,CR Ervine,SC Williams,Shahid Afridi,0,0,0,NA,0,NA,NA,NA,0
+656443,2nd innings,Zimbabwe,Pakistan,32.3,CR Ervine,SC Williams,Shahid Afridi,1,0,1,NA,0,NA,NA,NA,0
+656443,2nd innings,Zimbabwe,Pakistan,32.4,SC Williams,CR Ervine,Shahid Afridi,0,0,0,NA,0,NA,NA,NA,0
+656443,2nd innings,Zimbabwe,Pakistan,32.5,SC Williams,CR Ervine,Shahid Afridi,2,0,2,NA,0,NA,NA,NA,0
+656443,2nd innings,Zimbabwe,Pakistan,32.6,SC Williams,CR Ervine,Shahid Afridi,3,0,3,NA,0,NA,NA,NA,0
+656443,2nd innings,Zimbabwe,Pakistan,33.1,SC Williams,CR Ervine,Rahat Ali,0,0,0,NA,0,NA,NA,NA,0
+656443,2nd innings,Zimbabwe,Pakistan,33.2,SC Williams,CR Ervine,Rahat Ali,0,0,0,NA,1,caught,SC Williams,Ahmed Shehzad,0
+656443,2nd innings,Zimbabwe,Pakistan,33.3,SF Mire,CR Ervine,Rahat Ali,0,0,0,NA,0,NA,NA,NA,0
+656443,2nd innings,Zimbabwe,Pakistan,33.4,SF Mire,CR Ervine,Rahat Ali,0,0,0,NA,0,NA,NA,NA,0
+656443,2nd innings,Zimbabwe,Pakistan,33.5,SF Mire,CR Ervine,Rahat Ali,0,0,0,NA,0,NA,NA,NA,0
+656443,2nd innings,Zimbabwe,Pakistan,33.6,SF Mire,CR Ervine,Rahat Ali,1,0,1,NA,0,NA,NA,NA,0
+656443,2nd innings,Zimbabwe,Pakistan,34.1,SF Mire,CR Ervine,Shahid Afridi,0,0,0,NA,0,NA,NA,NA,0
+656443,2nd innings,Zimbabwe,Pakistan,34.2,SF Mire,CR Ervine,Shahid Afridi,1,0,1,NA,0,NA,NA,NA,0
+656443,2nd innings,Zimbabwe,Pakistan,34.3,CR Ervine,SF Mire,Shahid Afridi,4,0,4,NA,0,NA,NA,NA,0
+656443,2nd innings,Zimbabwe,Pakistan,34.4,CR Ervine,SF Mire,Shahid Afridi,0,0,0,NA,0,NA,NA,NA,0
+656443,2nd innings,Zimbabwe,Pakistan,34.5,CR Ervine,SF Mire,Shahid Afridi,1,0,1,NA,0,NA,NA,NA,0
+656443,2nd innings,Zimbabwe,Pakistan,34.6,SF Mire,CR Ervine,Shahid Afridi,3,0,3,NA,0,NA,NA,NA,0
+656443,2nd innings,Zimbabwe,Pakistan,35.1,SF Mire,CR Ervine,Rahat Ali,0,0,0,NA,0,NA,NA,NA,0
+656443,2nd innings,Zimbabwe,Pakistan,35.2,SF Mire,CR Ervine,Rahat Ali,0,0,0,NA,0,NA,NA,NA,0
+656443,2nd innings,Zimbabwe,Pakistan,35.3,SF Mire,CR Ervine,Rahat Ali,0,0,0,NA,0,NA,NA,NA,0
+656443,2nd innings,Zimbabwe,Pakistan,35.4,SF Mire,CR Ervine,Rahat Ali,2,0,2,NA,0,NA,NA,NA,0
+656443,2nd innings,Zimbabwe,Pakistan,35.5,SF Mire,CR Ervine,Rahat Ali,1,0,1,NA,0,NA,NA,NA,0
+656443,2nd innings,Zimbabwe,Pakistan,35.6,CR Ervine,SF Mire,Rahat Ali,1,0,1,NA,0,NA,NA,NA,0
+656443,2nd innings,Zimbabwe,Pakistan,36.1,CR Ervine,SF Mire,Mohammad Irfan,0,0,0,NA,0,NA,NA,NA,0
+656443,2nd innings,Zimbabwe,Pakistan,36.2,CR Ervine,SF Mire,Mohammad Irfan,1,0,1,NA,0,NA,NA,NA,0
+656443,2nd innings,Zimbabwe,Pakistan,36.3,SF Mire,CR Ervine,Mohammad Irfan,0,1,1,wides,0,NA,NA,NA,0
+656443,2nd innings,Zimbabwe,Pakistan,36.4,SF Mire,CR Ervine,Mohammad Irfan,0,0,0,NA,0,NA,NA,NA,0
+656443,2nd innings,Zimbabwe,Pakistan,36.5,SF Mire,CR Ervine,Mohammad Irfan,0,0,0,NA,1,caught,SF Mire,Umar Akmal,0
+656443,2nd innings,Zimbabwe,Pakistan,36.6,E Chigumbura,CR Ervine,Mohammad Irfan,0,0,0,NA,0,NA,NA,NA,0
+656443,2nd innings,Zimbabwe,Pakistan,36.7,E Chigumbura,CR Ervine,Mohammad Irfan,0,0,0,NA,0,NA,NA,NA,0
+656443,2nd innings,Zimbabwe,Pakistan,37.1,CR Ervine,E Chigumbura,Rahat Ali,0,0,0,NA,0,NA,NA,NA,0
+656443,2nd innings,Zimbabwe,Pakistan,37.2,CR Ervine,E Chigumbura,Rahat Ali,0,0,0,NA,0,NA,NA,NA,0
+656443,2nd innings,Zimbabwe,Pakistan,37.3,CR Ervine,E Chigumbura,Rahat Ali,0,0,0,NA,0,NA,NA,NA,0
+656443,2nd innings,Zimbabwe,Pakistan,37.4,CR Ervine,E Chigumbura,Rahat Ali,0,0,0,NA,0,NA,NA,NA,0
+656443,2nd innings,Zimbabwe,Pakistan,37.5,CR Ervine,E Chigumbura,Rahat Ali,1,0,1,NA,0,NA,NA,NA,0
+656443,2nd innings,Zimbabwe,Pakistan,37.6,E Chigumbura,CR Ervine,Rahat Ali,0,0,0,NA,0,NA,NA,NA,0
+656443,2nd innings,Zimbabwe,Pakistan,38.1,CR Ervine,E Chigumbura,Mohammad Irfan,0,0,0,NA,0,NA,NA,NA,0
+656443,2nd innings,Zimbabwe,Pakistan,38.2,CR Ervine,E Chigumbura,Mohammad Irfan,0,0,0,NA,0,NA,NA,NA,0
+656443,2nd innings,Zimbabwe,Pakistan,38.3,CR Ervine,E Chigumbura,Mohammad Irfan,0,0,0,NA,0,NA,NA,NA,0
+656443,2nd innings,Zimbabwe,Pakistan,38.4,CR Ervine,E Chigumbura,Mohammad Irfan,0,0,0,NA,0,NA,NA,NA,0
+656443,2nd innings,Zimbabwe,Pakistan,38.5,CR Ervine,E Chigumbura,Mohammad Irfan,0,0,0,NA,0,NA,NA,NA,0
+656443,2nd innings,Zimbabwe,Pakistan,38.6,CR Ervine,E Chigumbura,Mohammad Irfan,1,0,1,NA,0,NA,NA,NA,0
+656443,2nd innings,Zimbabwe,Pakistan,39.1,CR Ervine,E Chigumbura,Wahab Riaz,0,0,0,NA,0,NA,NA,NA,0
+656443,2nd innings,Zimbabwe,Pakistan,39.2,CR Ervine,E Chigumbura,Wahab Riaz,0,0,0,NA,1,caught,CR Ervine,Umar Akmal,0
+656443,2nd innings,Zimbabwe,Pakistan,39.3,T Mupariwa,E Chigumbura,Wahab Riaz,0,0,0,NA,0,NA,NA,NA,0
+656443,2nd innings,Zimbabwe,Pakistan,39.4,T Mupariwa,E Chigumbura,Wahab Riaz,0,0,0,NA,1,caught,T Mupariwa,Umar Akmal,0
+656443,2nd innings,Zimbabwe,Pakistan,39.5,T Panyangara,E Chigumbura,Wahab Riaz,0,1,1,wides,0,NA,NA,NA,0
+656443,2nd innings,Zimbabwe,Pakistan,39.6,T Panyangara,E Chigumbura,Wahab Riaz,2,0,2,NA,0,NA,NA,NA,0
+656443,2nd innings,Zimbabwe,Pakistan,39.7,T Panyangara,E Chigumbura,Wahab Riaz,0,0,0,NA,0,NA,NA,NA,0
+656443,2nd innings,Zimbabwe,Pakistan,40.1,E Chigumbura,T Panyangara,Shahid Afridi,0,0,0,NA,0,NA,NA,NA,0
+656443,2nd innings,Zimbabwe,Pakistan,40.2,E Chigumbura,T Panyangara,Shahid Afridi,2,0,2,NA,0,NA,NA,NA,0
+656443,2nd innings,Zimbabwe,Pakistan,40.3,E Chigumbura,T Panyangara,Shahid Afridi,1,0,1,NA,0,NA,NA,NA,0
+656443,2nd innings,Zimbabwe,Pakistan,40.4,T Panyangara,E Chigumbura,Shahid Afridi,0,0,0,NA,0,NA,NA,NA,0
+656443,2nd innings,Zimbabwe,Pakistan,40.5,T Panyangara,E Chigumbura,Shahid Afridi,0,0,0,NA,0,NA,NA,NA,0
+656443,2nd innings,Zimbabwe,Pakistan,40.6,T Panyangara,E Chigumbura,Shahid Afridi,0,0,0,NA,0,NA,NA,NA,0
+656443,2nd innings,Zimbabwe,Pakistan,41.1,E Chigumbura,T Panyangara,Sohail Khan,0,0,0,NA,0,NA,NA,NA,0
+656443,2nd innings,Zimbabwe,Pakistan,41.2,E Chigumbura,T Panyangara,Sohail Khan,4,0,4,NA,0,NA,NA,NA,0
+656443,2nd innings,Zimbabwe,Pakistan,41.3,E Chigumbura,T Panyangara,Sohail Khan,0,0,0,NA,0,NA,NA,NA,0
+656443,2nd innings,Zimbabwe,Pakistan,41.4,E Chigumbura,T Panyangara,Sohail Khan,1,0,1,NA,0,NA,NA,NA,0
+656443,2nd innings,Zimbabwe,Pakistan,41.5,T Panyangara,E Chigumbura,Sohail Khan,1,0,1,NA,0,NA,NA,NA,0
+656443,2nd innings,Zimbabwe,Pakistan,41.6,E Chigumbura,T Panyangara,Sohail Khan,1,0,1,NA,0,NA,NA,NA,0
+656443,2nd innings,Zimbabwe,Pakistan,42.1,E Chigumbura,T Panyangara,Shahid Afridi,0,0,0,NA,0,NA,NA,NA,0
+656443,2nd innings,Zimbabwe,Pakistan,42.2,E Chigumbura,T Panyangara,Shahid Afridi,1,0,1,NA,0,NA,NA,NA,0
+656443,2nd innings,Zimbabwe,Pakistan,42.3,T Panyangara,E Chigumbura,Shahid Afridi,1,0,1,NA,0,NA,NA,NA,0
+656443,2nd innings,Zimbabwe,Pakistan,42.4,E Chigumbura,T Panyangara,Shahid Afridi,2,0,2,NA,0,NA,NA,NA,0
+656443,2nd innings,Zimbabwe,Pakistan,42.5,E Chigumbura,T Panyangara,Shahid Afridi,1,0,1,NA,0,NA,NA,NA,0
+656443,2nd innings,Zimbabwe,Pakistan,42.6,T Panyangara,E Chigumbura,Shahid Afridi,0,0,0,NA,0,NA,NA,NA,0
+656443,2nd innings,Zimbabwe,Pakistan,43.1,E Chigumbura,T Panyangara,Sohail Khan,0,0,0,NA,0,NA,NA,NA,0
+656443,2nd innings,Zimbabwe,Pakistan,43.2,E Chigumbura,T Panyangara,Sohail Khan,1,0,1,NA,0,NA,NA,NA,0
+656443,2nd innings,Zimbabwe,Pakistan,43.3,T Panyangara,E Chigumbura,Sohail Khan,0,0,0,NA,0,NA,NA,NA,0
+656443,2nd innings,Zimbabwe,Pakistan,43.4,T Panyangara,E Chigumbura,Sohail Khan,0,0,0,NA,0,NA,NA,NA,0
+656443,2nd innings,Zimbabwe,Pakistan,43.5,T Panyangara,E Chigumbura,Sohail Khan,1,0,1,NA,0,NA,NA,NA,0
+656443,2nd innings,Zimbabwe,Pakistan,43.6,E Chigumbura,T Panyangara,Sohail Khan,1,0,1,NA,0,NA,NA,NA,0
+656443,2nd innings,Zimbabwe,Pakistan,44.1,E Chigumbura,T Panyangara,Shahid Afridi,1,0,1,NA,0,NA,NA,NA,0
+656443,2nd innings,Zimbabwe,Pakistan,44.2,T Panyangara,E Chigumbura,Shahid Afridi,1,0,1,NA,0,NA,NA,NA,0
+656443,2nd innings,Zimbabwe,Pakistan,44.3,E Chigumbura,T Panyangara,Shahid Afridi,0,0,0,NA,0,NA,NA,NA,0
+656443,2nd innings,Zimbabwe,Pakistan,44.4,E Chigumbura,T Panyangara,Shahid Afridi,0,0,0,NA,0,NA,NA,NA,0
+656443,2nd innings,Zimbabwe,Pakistan,44.5,E Chigumbura,T Panyangara,Shahid Afridi,4,0,4,NA,0,NA,NA,NA,0
+656443,2nd innings,Zimbabwe,Pakistan,44.6,E Chigumbura,T Panyangara,Shahid Afridi,0,0,0,NA,0,NA,NA,NA,0
+656443,2nd innings,Zimbabwe,Pakistan,45.1,T Panyangara,E Chigumbura,Sohail Khan,0,0,0,NA,0,NA,NA,NA,0
+656443,2nd innings,Zimbabwe,Pakistan,45.2,T Panyangara,E Chigumbura,Sohail Khan,0,0,0,NA,0,NA,NA,NA,0
+656443,2nd innings,Zimbabwe,Pakistan,45.3,T Panyangara,E Chigumbura,Sohail Khan,1,0,1,NA,0,NA,NA,NA,0
+656443,2nd innings,Zimbabwe,Pakistan,45.4,E Chigumbura,T Panyangara,Sohail Khan,4,0,4,NA,0,NA,NA,NA,0
+656443,2nd innings,Zimbabwe,Pakistan,45.5,E Chigumbura,T Panyangara,Sohail Khan,0,1,1,legbyes,0,NA,NA,NA,0
+656443,2nd innings,Zimbabwe,Pakistan,45.6,T Panyangara,E Chigumbura,Sohail Khan,1,0,1,NA,0,NA,NA,NA,0
+656443,2nd innings,Zimbabwe,Pakistan,46.1,T Panyangara,E Chigumbura,Shahid Afridi,0,0,0,NA,0,NA,NA,NA,0
+656443,2nd innings,Zimbabwe,Pakistan,46.2,T Panyangara,E Chigumbura,Shahid Afridi,0,0,0,NA,0,NA,NA,NA,0
+656443,2nd innings,Zimbabwe,Pakistan,46.3,T Panyangara,E Chigumbura,Shahid Afridi,0,0,0,NA,0,NA,NA,NA,0
+656443,2nd innings,Zimbabwe,Pakistan,46.4,T Panyangara,E Chigumbura,Shahid Afridi,0,0,0,NA,0,NA,NA,NA,0
+656443,2nd innings,Zimbabwe,Pakistan,46.5,T Panyangara,E Chigumbura,Shahid Afridi,0,0,0,NA,0,NA,NA,NA,0
+656443,2nd innings,Zimbabwe,Pakistan,46.6,T Panyangara,E Chigumbura,Shahid Afridi,0,0,0,NA,0,NA,NA,NA,0
+656443,2nd innings,Zimbabwe,Pakistan,47.1,E Chigumbura,T Panyangara,Wahab Riaz,1,0,1,NA,0,NA,NA,NA,0
+656443,2nd innings,Zimbabwe,Pakistan,47.2,T Panyangara,E Chigumbura,Wahab Riaz,1,0,1,NA,0,NA,NA,NA,0
+656443,2nd innings,Zimbabwe,Pakistan,47.3,E Chigumbura,T Panyangara,Wahab Riaz,0,0,0,NA,0,NA,NA,NA,0
+656443,2nd innings,Zimbabwe,Pakistan,47.4,E Chigumbura,T Panyangara,Wahab Riaz,0,0,0,NA,0,NA,NA,NA,0
+656443,2nd innings,Zimbabwe,Pakistan,47.5,E Chigumbura,T Panyangara,Wahab Riaz,4,0,4,NA,0,NA,NA,NA,0
+656443,2nd innings,Zimbabwe,Pakistan,47.6,E Chigumbura,T Panyangara,Wahab Riaz,0,0,0,NA,0,NA,NA,NA,0
+656443,2nd innings,Zimbabwe,Pakistan,48.1,T Panyangara,E Chigumbura,Mohammad Irfan,0,0,0,NA,0,NA,NA,NA,0
+656443,2nd innings,Zimbabwe,Pakistan,48.2,T Panyangara,E Chigumbura,Mohammad Irfan,0,0,0,NA,0,NA,NA,NA,0
+656443,2nd innings,Zimbabwe,Pakistan,48.3,T Panyangara,E Chigumbura,Mohammad Irfan,0,0,0,NA,0,NA,NA,NA,0
+656443,2nd innings,Zimbabwe,Pakistan,48.4,T Panyangara,E Chigumbura,Mohammad Irfan,1,0,1,NA,0,NA,NA,NA,0
+656443,2nd innings,Zimbabwe,Pakistan,48.5,E Chigumbura,T Panyangara,Mohammad Irfan,2,0,2,NA,0,NA,NA,NA,0
+656443,2nd innings,Zimbabwe,Pakistan,48.6,E Chigumbura,T Panyangara,Mohammad Irfan,1,0,1,NA,0,NA,NA,NA,0
+656443,2nd innings,Zimbabwe,Pakistan,49.1,E Chigumbura,T Panyangara,Wahab Riaz,0,0,0,NA,0,NA,NA,NA,0
+656443,2nd innings,Zimbabwe,Pakistan,49.2,E Chigumbura,T Panyangara,Wahab Riaz,3,0,3,NA,0,NA,NA,NA,0
+656443,2nd innings,Zimbabwe,Pakistan,49.3,T Panyangara,E Chigumbura,Wahab Riaz,0,0,0,NA,1,run out,T Panyangara,Umar Akmal,0
+656443,2nd innings,Zimbabwe,Pakistan,49.4,E Chigumbura,TL Chatara,Wahab Riaz,0,0,0,NA,1,caught,E Chigumbura,Umar Akmal,0

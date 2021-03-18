@@ -1,0 +1,530 @@
+match_id,innings,team,opponent,ball,batsman,non_striker,bowler,scored_runs,extras,total,extra_type,wicket,wicket_type,player_out,fielders,winner
+521219,1st innings,England,India,0.1,AN Cook,C Kieswetter,P Kumar,0,0,0,NA,0,NA,NA,NA,0
+521219,1st innings,England,India,0.2,AN Cook,C Kieswetter,P Kumar,0,0,0,NA,0,NA,NA,NA,0
+521219,1st innings,England,India,0.3,AN Cook,C Kieswetter,P Kumar,0,0,0,NA,0,NA,NA,NA,0
+521219,1st innings,England,India,0.4,AN Cook,C Kieswetter,P Kumar,0,0,0,NA,1,caught,AN Cook,RA Jadeja,0
+521219,1st innings,England,India,0.5,IJL Trott,C Kieswetter,P Kumar,0,0,0,NA,0,NA,NA,NA,0
+521219,1st innings,England,India,0.6,IJL Trott,C Kieswetter,P Kumar,0,0,0,NA,0,NA,NA,NA,0
+521219,1st innings,England,India,1.1,C Kieswetter,IJL Trott,R Vinay Kumar,0,0,0,NA,0,NA,NA,NA,0
+521219,1st innings,England,India,1.2,C Kieswetter,IJL Trott,R Vinay Kumar,0,0,0,NA,0,NA,NA,NA,0
+521219,1st innings,England,India,1.3,C Kieswetter,IJL Trott,R Vinay Kumar,0,0,0,NA,0,NA,NA,NA,0
+521219,1st innings,England,India,1.4,C Kieswetter,IJL Trott,R Vinay Kumar,0,0,0,NA,0,NA,NA,NA,0
+521219,1st innings,England,India,1.5,C Kieswetter,IJL Trott,R Vinay Kumar,0,0,0,NA,1,caught,C Kieswetter,V Kohli,0
+521219,1st innings,England,India,1.6,KP Pietersen,IJL Trott,R Vinay Kumar,0,0,0,NA,0,NA,NA,NA,0
+521219,1st innings,England,India,2.1,IJL Trott,KP Pietersen,P Kumar,0,0,0,NA,0,NA,NA,NA,0
+521219,1st innings,England,India,2.2,IJL Trott,KP Pietersen,P Kumar,1,0,1,NA,0,NA,NA,NA,0
+521219,1st innings,England,India,2.3,KP Pietersen,IJL Trott,P Kumar,0,0,0,NA,0,NA,NA,NA,0
+521219,1st innings,England,India,2.4,KP Pietersen,IJL Trott,P Kumar,0,0,0,NA,0,NA,NA,NA,0
+521219,1st innings,England,India,2.5,KP Pietersen,IJL Trott,P Kumar,0,0,0,NA,0,NA,NA,NA,0
+521219,1st innings,England,India,2.6,KP Pietersen,IJL Trott,P Kumar,0,1,1,wides,0,NA,NA,NA,0
+521219,1st innings,England,India,2.7,KP Pietersen,IJL Trott,P Kumar,0,0,0,NA,0,NA,NA,NA,0
+521219,1st innings,England,India,3.1,IJL Trott,KP Pietersen,R Vinay Kumar,0,0,0,NA,0,NA,NA,NA,0
+521219,1st innings,England,India,3.2,IJL Trott,KP Pietersen,R Vinay Kumar,0,0,0,NA,0,NA,NA,NA,0
+521219,1st innings,England,India,3.3,IJL Trott,KP Pietersen,R Vinay Kumar,0,0,0,NA,0,NA,NA,NA,0
+521219,1st innings,England,India,3.4,IJL Trott,KP Pietersen,R Vinay Kumar,0,0,0,NA,0,NA,NA,NA,0
+521219,1st innings,England,India,3.5,IJL Trott,KP Pietersen,R Vinay Kumar,1,0,1,NA,0,NA,NA,NA,0
+521219,1st innings,England,India,3.6,KP Pietersen,IJL Trott,R Vinay Kumar,0,0,0,NA,0,NA,NA,NA,0
+521219,1st innings,England,India,4.1,IJL Trott,KP Pietersen,P Kumar,4,0,4,NA,0,NA,NA,NA,0
+521219,1st innings,England,India,4.2,IJL Trott,KP Pietersen,P Kumar,4,0,4,NA,0,NA,NA,NA,0
+521219,1st innings,England,India,4.3,IJL Trott,KP Pietersen,P Kumar,4,0,4,NA,0,NA,NA,NA,0
+521219,1st innings,England,India,4.4,IJL Trott,KP Pietersen,P Kumar,0,0,0,NA,0,NA,NA,NA,0
+521219,1st innings,England,India,4.5,IJL Trott,KP Pietersen,P Kumar,1,0,1,NA,0,NA,NA,NA,0
+521219,1st innings,England,India,4.6,KP Pietersen,IJL Trott,P Kumar,4,0,4,NA,0,NA,NA,NA,0
+521219,1st innings,England,India,5.1,IJL Trott,KP Pietersen,R Vinay Kumar,0,0,0,NA,0,NA,NA,NA,0
+521219,1st innings,England,India,5.2,IJL Trott,KP Pietersen,R Vinay Kumar,0,0,0,NA,0,NA,NA,NA,0
+521219,1st innings,England,India,5.3,IJL Trott,KP Pietersen,R Vinay Kumar,0,0,0,NA,0,NA,NA,NA,0
+521219,1st innings,England,India,5.4,IJL Trott,KP Pietersen,R Vinay Kumar,1,0,1,NA,0,NA,NA,NA,0
+521219,1st innings,England,India,5.5,KP Pietersen,IJL Trott,R Vinay Kumar,0,0,0,NA,0,NA,NA,NA,0
+521219,1st innings,England,India,5.6,KP Pietersen,IJL Trott,R Vinay Kumar,0,0,0,NA,0,NA,NA,NA,0
+521219,1st innings,England,India,6.1,IJL Trott,KP Pietersen,P Kumar,0,0,0,NA,0,NA,NA,NA,0
+521219,1st innings,England,India,6.2,IJL Trott,KP Pietersen,P Kumar,2,0,2,NA,0,NA,NA,NA,0
+521219,1st innings,England,India,6.3,IJL Trott,KP Pietersen,P Kumar,0,4,4,legbyes,0,NA,NA,NA,0
+521219,1st innings,England,India,6.4,IJL Trott,KP Pietersen,P Kumar,0,0,0,NA,0,NA,NA,NA,0
+521219,1st innings,England,India,6.5,IJL Trott,KP Pietersen,P Kumar,0,0,0,NA,0,NA,NA,NA,0
+521219,1st innings,England,India,6.6,IJL Trott,KP Pietersen,P Kumar,0,0,0,NA,0,NA,NA,NA,0
+521219,1st innings,England,India,7.1,KP Pietersen,IJL Trott,R Vinay Kumar,2,0,2,NA,0,NA,NA,NA,0
+521219,1st innings,England,India,7.2,KP Pietersen,IJL Trott,R Vinay Kumar,0,0,0,NA,0,NA,NA,NA,0
+521219,1st innings,England,India,7.3,KP Pietersen,IJL Trott,R Vinay Kumar,1,0,1,NA,0,NA,NA,NA,0
+521219,1st innings,England,India,7.4,IJL Trott,KP Pietersen,R Vinay Kumar,4,0,4,NA,0,NA,NA,NA,0
+521219,1st innings,England,India,7.5,IJL Trott,KP Pietersen,R Vinay Kumar,0,0,0,NA,0,NA,NA,NA,0
+521219,1st innings,England,India,7.6,IJL Trott,KP Pietersen,R Vinay Kumar,0,0,0,NA,0,NA,NA,NA,0
+521219,1st innings,England,India,8.1,KP Pietersen,IJL Trott,P Kumar,1,0,1,NA,0,NA,NA,NA,0
+521219,1st innings,England,India,8.2,IJL Trott,KP Pietersen,P Kumar,0,0,0,NA,0,NA,NA,NA,0
+521219,1st innings,England,India,8.3,IJL Trott,KP Pietersen,P Kumar,0,0,0,NA,0,NA,NA,NA,0
+521219,1st innings,England,India,8.4,IJL Trott,KP Pietersen,P Kumar,0,0,0,NA,0,NA,NA,NA,0
+521219,1st innings,England,India,8.5,IJL Trott,KP Pietersen,P Kumar,0,0,0,NA,0,NA,NA,NA,0
+521219,1st innings,England,India,8.6,IJL Trott,KP Pietersen,P Kumar,4,0,4,NA,0,NA,NA,NA,0
+521219,1st innings,England,India,9.1,KP Pietersen,IJL Trott,R Vinay Kumar,1,0,1,NA,0,NA,NA,NA,0
+521219,1st innings,England,India,9.2,IJL Trott,KP Pietersen,R Vinay Kumar,4,0,4,NA,0,NA,NA,NA,0
+521219,1st innings,England,India,9.3,IJL Trott,KP Pietersen,R Vinay Kumar,0,0,0,NA,0,NA,NA,NA,0
+521219,1st innings,England,India,9.4,IJL Trott,KP Pietersen,R Vinay Kumar,4,0,4,NA,0,NA,NA,NA,0
+521219,1st innings,England,India,9.5,IJL Trott,KP Pietersen,R Vinay Kumar,0,0,0,NA,0,NA,NA,NA,0
+521219,1st innings,England,India,9.6,IJL Trott,KP Pietersen,R Vinay Kumar,0,0,0,NA,1,caught,IJL Trott,MS Dhoni,0
+521219,1st innings,England,India,10.1,KP Pietersen,RS Bopara,V Kohli,0,0,0,NA,0,NA,NA,NA,0
+521219,1st innings,England,India,10.2,KP Pietersen,RS Bopara,V Kohli,0,0,0,NA,0,NA,NA,NA,0
+521219,1st innings,England,India,10.3,KP Pietersen,RS Bopara,V Kohli,0,0,0,NA,0,NA,NA,NA,0
+521219,1st innings,England,India,10.4,KP Pietersen,RS Bopara,V Kohli,0,0,0,NA,0,NA,NA,NA,0
+521219,1st innings,England,India,10.5,KP Pietersen,RS Bopara,V Kohli,1,0,1,NA,0,NA,NA,NA,0
+521219,1st innings,England,India,10.6,RS Bopara,KP Pietersen,V Kohli,0,0,0,NA,0,NA,NA,NA,0
+521219,1st innings,England,India,11.1,KP Pietersen,RS Bopara,R Vinay Kumar,0,0,0,NA,0,NA,NA,NA,0
+521219,1st innings,England,India,11.2,KP Pietersen,RS Bopara,R Vinay Kumar,1,0,1,NA,0,NA,NA,NA,0
+521219,1st innings,England,India,11.3,RS Bopara,KP Pietersen,R Vinay Kumar,0,0,0,NA,0,NA,NA,NA,0
+521219,1st innings,England,India,11.4,RS Bopara,KP Pietersen,R Vinay Kumar,0,0,0,NA,0,NA,NA,NA,0
+521219,1st innings,England,India,11.5,RS Bopara,KP Pietersen,R Vinay Kumar,0,0,0,NA,0,NA,NA,NA,0
+521219,1st innings,England,India,11.6,RS Bopara,KP Pietersen,R Vinay Kumar,1,0,1,NA,0,NA,NA,NA,0
+521219,1st innings,England,India,12.1,RS Bopara,KP Pietersen,V Kohli,1,0,1,NA,0,NA,NA,NA,0
+521219,1st innings,England,India,12.2,KP Pietersen,RS Bopara,V Kohli,0,0,0,NA,0,NA,NA,NA,0
+521219,1st innings,England,India,12.3,KP Pietersen,RS Bopara,V Kohli,1,0,1,NA,0,NA,NA,NA,0
+521219,1st innings,England,India,12.4,RS Bopara,KP Pietersen,V Kohli,0,0,0,NA,0,NA,NA,NA,0
+521219,1st innings,England,India,12.5,RS Bopara,KP Pietersen,V Kohli,1,0,1,NA,0,NA,NA,NA,0
+521219,1st innings,England,India,12.6,KP Pietersen,RS Bopara,V Kohli,0,0,0,NA,0,NA,NA,NA,0
+521219,1st innings,England,India,13.1,RS Bopara,KP Pietersen,R Vinay Kumar,0,0,0,NA,0,NA,NA,NA,0
+521219,1st innings,England,India,13.2,RS Bopara,KP Pietersen,R Vinay Kumar,4,0,4,NA,0,NA,NA,NA,0
+521219,1st innings,England,India,13.3,RS Bopara,KP Pietersen,R Vinay Kumar,0,0,0,NA,0,NA,NA,NA,0
+521219,1st innings,England,India,13.4,RS Bopara,KP Pietersen,R Vinay Kumar,0,0,0,NA,0,NA,NA,NA,0
+521219,1st innings,England,India,13.5,RS Bopara,KP Pietersen,R Vinay Kumar,1,0,1,NA,0,NA,NA,NA,0
+521219,1st innings,England,India,13.6,KP Pietersen,RS Bopara,R Vinay Kumar,0,0,0,NA,0,NA,NA,NA,0
+521219,1st innings,England,India,14.1,RS Bopara,KP Pietersen,V Kohli,1,0,1,NA,0,NA,NA,NA,0
+521219,1st innings,England,India,14.2,KP Pietersen,RS Bopara,V Kohli,1,0,1,NA,0,NA,NA,NA,0
+521219,1st innings,England,India,14.3,RS Bopara,KP Pietersen,V Kohli,0,0,0,NA,0,NA,NA,NA,0
+521219,1st innings,England,India,14.4,RS Bopara,KP Pietersen,V Kohli,0,0,0,NA,0,NA,NA,NA,0
+521219,1st innings,England,India,14.5,RS Bopara,KP Pietersen,V Kohli,1,0,1,NA,0,NA,NA,NA,0
+521219,1st innings,England,India,14.6,KP Pietersen,RS Bopara,V Kohli,0,0,0,NA,0,NA,NA,NA,0
+521219,1st innings,England,India,15.1,RS Bopara,KP Pietersen,UT Yadav,4,0,4,NA,0,NA,NA,NA,0
+521219,1st innings,England,India,15.2,RS Bopara,KP Pietersen,UT Yadav,0,0,0,NA,0,NA,NA,NA,0
+521219,1st innings,England,India,15.3,RS Bopara,KP Pietersen,UT Yadav,4,0,4,NA,0,NA,NA,NA,0
+521219,1st innings,England,India,15.4,RS Bopara,KP Pietersen,UT Yadav,0,0,0,NA,0,NA,NA,NA,0
+521219,1st innings,England,India,15.5,RS Bopara,KP Pietersen,UT Yadav,0,0,0,NA,0,NA,NA,NA,0
+521219,1st innings,England,India,15.6,RS Bopara,KP Pietersen,UT Yadav,4,0,4,NA,0,NA,NA,NA,0
+521219,1st innings,England,India,16.1,KP Pietersen,RS Bopara,R Ashwin,1,0,1,NA,0,NA,NA,NA,0
+521219,1st innings,England,India,16.2,RS Bopara,KP Pietersen,R Ashwin,0,0,0,NA,0,NA,NA,NA,0
+521219,1st innings,England,India,16.3,RS Bopara,KP Pietersen,R Ashwin,0,0,0,NA,0,NA,NA,NA,0
+521219,1st innings,England,India,16.4,RS Bopara,KP Pietersen,R Ashwin,1,0,1,NA,0,NA,NA,NA,0
+521219,1st innings,England,India,16.5,KP Pietersen,RS Bopara,R Ashwin,0,0,0,NA,0,NA,NA,NA,0
+521219,1st innings,England,India,16.6,KP Pietersen,RS Bopara,R Ashwin,4,0,4,NA,0,NA,NA,NA,0
+521219,1st innings,England,India,17.1,RS Bopara,KP Pietersen,RA Jadeja,0,0,0,NA,0,NA,NA,NA,0
+521219,1st innings,England,India,17.2,RS Bopara,KP Pietersen,RA Jadeja,0,0,0,NA,0,NA,NA,NA,0
+521219,1st innings,England,India,17.3,RS Bopara,KP Pietersen,RA Jadeja,2,0,2,NA,0,NA,NA,NA,0
+521219,1st innings,England,India,17.4,RS Bopara,KP Pietersen,RA Jadeja,1,0,1,NA,0,NA,NA,NA,0
+521219,1st innings,England,India,17.5,KP Pietersen,RS Bopara,RA Jadeja,0,0,0,NA,0,NA,NA,NA,0
+521219,1st innings,England,India,17.6,KP Pietersen,RS Bopara,RA Jadeja,0,0,0,NA,0,NA,NA,NA,0
+521219,1st innings,England,India,18.1,RS Bopara,KP Pietersen,R Ashwin,0,0,0,NA,0,NA,NA,NA,0
+521219,1st innings,England,India,18.2,RS Bopara,KP Pietersen,R Ashwin,1,0,1,NA,0,NA,NA,NA,0
+521219,1st innings,England,India,18.3,KP Pietersen,RS Bopara,R Ashwin,0,0,0,NA,0,NA,NA,NA,0
+521219,1st innings,England,India,18.4,KP Pietersen,RS Bopara,R Ashwin,1,0,1,NA,0,NA,NA,NA,0
+521219,1st innings,England,India,18.5,RS Bopara,KP Pietersen,R Ashwin,1,0,1,NA,0,NA,NA,NA,0
+521219,1st innings,England,India,18.6,KP Pietersen,RS Bopara,R Ashwin,1,0,1,NA,0,NA,NA,NA,0
+521219,1st innings,England,India,19.1,KP Pietersen,RS Bopara,RA Jadeja,1,0,1,NA,0,NA,NA,NA,0
+521219,1st innings,England,India,19.2,RS Bopara,KP Pietersen,RA Jadeja,0,0,0,NA,0,NA,NA,NA,0
+521219,1st innings,England,India,19.3,RS Bopara,KP Pietersen,RA Jadeja,0,0,0,NA,0,NA,NA,NA,0
+521219,1st innings,England,India,19.4,RS Bopara,KP Pietersen,RA Jadeja,0,0,0,NA,0,NA,NA,NA,0
+521219,1st innings,England,India,19.5,RS Bopara,KP Pietersen,RA Jadeja,1,0,1,NA,0,NA,NA,NA,0
+521219,1st innings,England,India,19.6,KP Pietersen,RS Bopara,RA Jadeja,0,0,0,NA,0,NA,NA,NA,0
+521219,1st innings,England,India,20.1,RS Bopara,KP Pietersen,R Ashwin,0,0,0,NA,0,NA,NA,NA,0
+521219,1st innings,England,India,20.2,RS Bopara,KP Pietersen,R Ashwin,1,0,1,NA,0,NA,NA,NA,0
+521219,1st innings,England,India,20.3,KP Pietersen,RS Bopara,R Ashwin,1,0,1,NA,0,NA,NA,NA,0
+521219,1st innings,England,India,20.4,RS Bopara,KP Pietersen,R Ashwin,1,0,1,NA,0,NA,NA,NA,0
+521219,1st innings,England,India,20.5,KP Pietersen,RS Bopara,R Ashwin,0,0,0,NA,0,NA,NA,NA,0
+521219,1st innings,England,India,20.6,KP Pietersen,RS Bopara,R Ashwin,1,0,1,NA,0,NA,NA,NA,0
+521219,1st innings,England,India,21.1,KP Pietersen,RS Bopara,RA Jadeja,0,0,0,NA,0,NA,NA,NA,0
+521219,1st innings,England,India,21.2,KP Pietersen,RS Bopara,RA Jadeja,1,0,1,NA,0,NA,NA,NA,0
+521219,1st innings,England,India,21.3,RS Bopara,KP Pietersen,RA Jadeja,0,0,0,NA,0,NA,NA,NA,0
+521219,1st innings,England,India,21.4,RS Bopara,KP Pietersen,RA Jadeja,1,0,1,NA,0,NA,NA,NA,0
+521219,1st innings,England,India,21.5,KP Pietersen,RS Bopara,RA Jadeja,6,0,6,NA,0,NA,NA,NA,0
+521219,1st innings,England,India,21.6,KP Pietersen,RS Bopara,RA Jadeja,6,0,6,NA,0,NA,NA,NA,0
+521219,1st innings,England,India,22.1,RS Bopara,KP Pietersen,R Ashwin,1,0,1,NA,0,NA,NA,NA,0
+521219,1st innings,England,India,22.2,KP Pietersen,RS Bopara,R Ashwin,1,0,1,NA,0,NA,NA,NA,0
+521219,1st innings,England,India,22.3,RS Bopara,KP Pietersen,R Ashwin,0,0,0,NA,0,NA,NA,NA,0
+521219,1st innings,England,India,22.4,RS Bopara,KP Pietersen,R Ashwin,0,0,0,NA,0,NA,NA,NA,0
+521219,1st innings,England,India,22.5,RS Bopara,KP Pietersen,R Ashwin,1,0,1,NA,0,NA,NA,NA,0
+521219,1st innings,England,India,22.6,KP Pietersen,RS Bopara,R Ashwin,1,0,1,NA,0,NA,NA,NA,0
+521219,1st innings,England,India,23.1,KP Pietersen,RS Bopara,UT Yadav,1,0,1,NA,0,NA,NA,NA,0
+521219,1st innings,England,India,23.2,RS Bopara,KP Pietersen,UT Yadav,1,0,1,NA,0,NA,NA,NA,0
+521219,1st innings,England,India,23.3,KP Pietersen,RS Bopara,UT Yadav,0,0,0,NA,0,NA,NA,NA,0
+521219,1st innings,England,India,23.4,KP Pietersen,RS Bopara,UT Yadav,0,0,0,NA,0,NA,NA,NA,0
+521219,1st innings,England,India,23.5,KP Pietersen,RS Bopara,UT Yadav,1,0,1,NA,0,NA,NA,NA,0
+521219,1st innings,England,India,23.6,RS Bopara,KP Pietersen,UT Yadav,0,0,0,NA,0,NA,NA,NA,0
+521219,1st innings,England,India,24.1,KP Pietersen,RS Bopara,R Ashwin,1,0,1,NA,0,NA,NA,NA,0
+521219,1st innings,England,India,24.2,RS Bopara,KP Pietersen,R Ashwin,1,0,1,NA,0,NA,NA,NA,0
+521219,1st innings,England,India,24.3,KP Pietersen,RS Bopara,R Ashwin,4,0,4,NA,0,NA,NA,NA,0
+521219,1st innings,England,India,24.4,KP Pietersen,RS Bopara,R Ashwin,1,0,1,NA,0,NA,NA,NA,0
+521219,1st innings,England,India,24.5,RS Bopara,KP Pietersen,R Ashwin,0,0,0,NA,1,lbw,RS Bopara,NA,0
+521219,1st innings,England,India,24.6,JM Bairstow,KP Pietersen,R Ashwin,0,0,0,NA,0,NA,NA,NA,0
+521219,1st innings,England,India,25.1,KP Pietersen,JM Bairstow,UT Yadav,0,0,0,NA,0,NA,NA,NA,0
+521219,1st innings,England,India,25.2,KP Pietersen,JM Bairstow,UT Yadav,0,0,0,NA,1,caught,KP Pietersen,MS Dhoni,0
+521219,1st innings,England,India,25.3,SR Patel,JM Bairstow,UT Yadav,0,0,0,NA,0,NA,NA,NA,0
+521219,1st innings,England,India,25.4,SR Patel,JM Bairstow,UT Yadav,0,0,0,NA,0,NA,NA,NA,0
+521219,1st innings,England,India,25.5,SR Patel,JM Bairstow,UT Yadav,0,0,0,NA,0,NA,NA,NA,0
+521219,1st innings,England,India,25.6,SR Patel,JM Bairstow,UT Yadav,1,0,1,NA,0,NA,NA,NA,0
+521219,1st innings,England,India,26.1,SR Patel,JM Bairstow,R Ashwin,0,0,0,NA,0,NA,NA,NA,0
+521219,1st innings,England,India,26.2,SR Patel,JM Bairstow,R Ashwin,0,0,0,NA,0,NA,NA,NA,0
+521219,1st innings,England,India,26.3,SR Patel,JM Bairstow,R Ashwin,1,0,1,NA,0,NA,NA,NA,0
+521219,1st innings,England,India,26.4,JM Bairstow,SR Patel,R Ashwin,1,0,1,NA,0,NA,NA,NA,0
+521219,1st innings,England,India,26.5,SR Patel,JM Bairstow,R Ashwin,0,0,0,NA,0,NA,NA,NA,0
+521219,1st innings,England,India,26.6,SR Patel,JM Bairstow,R Ashwin,1,0,1,NA,0,NA,NA,NA,0
+521219,1st innings,England,India,27.1,SR Patel,JM Bairstow,UT Yadav,0,0,0,NA,0,NA,NA,NA,0
+521219,1st innings,England,India,27.2,SR Patel,JM Bairstow,UT Yadav,1,0,1,NA,0,NA,NA,NA,0
+521219,1st innings,England,India,27.3,JM Bairstow,SR Patel,UT Yadav,0,0,0,NA,0,NA,NA,NA,0
+521219,1st innings,England,India,27.4,JM Bairstow,SR Patel,UT Yadav,2,0,2,NA,0,NA,NA,NA,0
+521219,1st innings,England,India,27.5,JM Bairstow,SR Patel,UT Yadav,1,0,1,NA,0,NA,NA,NA,0
+521219,1st innings,England,India,27.6,SR Patel,JM Bairstow,UT Yadav,0,0,0,NA,0,NA,NA,NA,0
+521219,1st innings,England,India,28.1,JM Bairstow,SR Patel,R Ashwin,0,0,0,NA,0,NA,NA,NA,0
+521219,1st innings,England,India,28.2,JM Bairstow,SR Patel,R Ashwin,0,0,0,NA,0,NA,NA,NA,0
+521219,1st innings,England,India,28.3,JM Bairstow,SR Patel,R Ashwin,0,0,0,NA,0,NA,NA,NA,0
+521219,1st innings,England,India,28.4,JM Bairstow,SR Patel,R Ashwin,0,0,0,NA,0,NA,NA,NA,0
+521219,1st innings,England,India,28.5,JM Bairstow,SR Patel,R Ashwin,2,0,2,NA,0,NA,NA,NA,0
+521219,1st innings,England,India,28.6,JM Bairstow,SR Patel,R Ashwin,1,0,1,NA,0,NA,NA,NA,0
+521219,1st innings,England,India,29.1,JM Bairstow,SR Patel,UT Yadav,0,0,0,NA,0,NA,NA,NA,0
+521219,1st innings,England,India,29.2,JM Bairstow,SR Patel,UT Yadav,0,0,0,NA,0,NA,NA,NA,0
+521219,1st innings,England,India,29.3,JM Bairstow,SR Patel,UT Yadav,4,0,4,NA,0,NA,NA,NA,0
+521219,1st innings,England,India,29.4,JM Bairstow,SR Patel,UT Yadav,0,1,1,wides,0,NA,NA,NA,0
+521219,1st innings,England,India,29.5,JM Bairstow,SR Patel,UT Yadav,0,0,0,NA,0,NA,NA,NA,0
+521219,1st innings,England,India,29.6,JM Bairstow,SR Patel,UT Yadav,0,0,0,NA,0,NA,NA,NA,0
+521219,1st innings,England,India,29.7,JM Bairstow,SR Patel,UT Yadav,1,0,1,NA,0,NA,NA,NA,0
+521219,1st innings,England,India,30.1,JM Bairstow,SR Patel,RA Jadeja,1,0,1,NA,0,NA,NA,NA,0
+521219,1st innings,England,India,30.2,SR Patel,JM Bairstow,RA Jadeja,0,0,0,NA,0,NA,NA,NA,0
+521219,1st innings,England,India,30.3,SR Patel,JM Bairstow,RA Jadeja,0,0,0,NA,0,NA,NA,NA,0
+521219,1st innings,England,India,30.4,SR Patel,JM Bairstow,RA Jadeja,0,0,0,NA,0,NA,NA,NA,0
+521219,1st innings,England,India,30.5,SR Patel,JM Bairstow,RA Jadeja,0,1,1,wides,0,NA,NA,NA,0
+521219,1st innings,England,India,30.6,SR Patel,JM Bairstow,RA Jadeja,0,0,0,NA,0,NA,NA,NA,0
+521219,1st innings,England,India,30.7,SR Patel,JM Bairstow,RA Jadeja,0,0,0,NA,0,NA,NA,NA,0
+521219,1st innings,England,India,31.1,JM Bairstow,SR Patel,P Kumar,0,0,0,NA,0,NA,NA,NA,0
+521219,1st innings,England,India,31.2,JM Bairstow,SR Patel,P Kumar,1,0,1,NA,0,NA,NA,NA,0
+521219,1st innings,England,India,31.3,SR Patel,JM Bairstow,P Kumar,0,0,0,NA,0,NA,NA,NA,0
+521219,1st innings,England,India,31.4,SR Patel,JM Bairstow,P Kumar,1,0,1,NA,0,NA,NA,NA,0
+521219,1st innings,England,India,31.5,JM Bairstow,SR Patel,P Kumar,0,0,0,NA,0,NA,NA,NA,0
+521219,1st innings,England,India,31.6,JM Bairstow,SR Patel,P Kumar,0,0,0,NA,0,NA,NA,NA,0
+521219,1st innings,England,India,32.1,SR Patel,JM Bairstow,RA Jadeja,0,0,0,NA,0,NA,NA,NA,0
+521219,1st innings,England,India,32.2,SR Patel,JM Bairstow,RA Jadeja,6,0,6,NA,0,NA,NA,NA,0
+521219,1st innings,England,India,32.3,SR Patel,JM Bairstow,RA Jadeja,0,0,0,NA,0,NA,NA,NA,0
+521219,1st innings,England,India,32.4,SR Patel,JM Bairstow,RA Jadeja,0,0,0,NA,0,NA,NA,NA,0
+521219,1st innings,England,India,32.5,SR Patel,JM Bairstow,RA Jadeja,2,0,2,NA,0,NA,NA,NA,0
+521219,1st innings,England,India,32.6,SR Patel,JM Bairstow,RA Jadeja,0,0,0,NA,0,NA,NA,NA,0
+521219,1st innings,England,India,33.1,JM Bairstow,SR Patel,P Kumar,0,0,0,NA,0,NA,NA,NA,0
+521219,1st innings,England,India,33.2,JM Bairstow,SR Patel,P Kumar,0,0,0,NA,0,NA,NA,NA,0
+521219,1st innings,England,India,33.3,JM Bairstow,SR Patel,P Kumar,1,0,1,NA,0,NA,NA,NA,0
+521219,1st innings,England,India,33.4,SR Patel,JM Bairstow,P Kumar,0,0,0,NA,0,NA,NA,NA,0
+521219,1st innings,England,India,33.5,SR Patel,JM Bairstow,P Kumar,1,0,1,NA,0,NA,NA,NA,0
+521219,1st innings,England,India,33.6,JM Bairstow,SR Patel,P Kumar,0,0,0,NA,0,NA,NA,NA,0
+521219,1st innings,England,India,34.1,SR Patel,JM Bairstow,V Kohli,0,0,0,NA,0,NA,NA,NA,0
+521219,1st innings,England,India,34.2,SR Patel,JM Bairstow,V Kohli,1,0,1,NA,0,NA,NA,NA,0
+521219,1st innings,England,India,34.3,JM Bairstow,SR Patel,V Kohli,0,0,0,NA,0,NA,NA,NA,0
+521219,1st innings,England,India,34.4,JM Bairstow,SR Patel,V Kohli,0,0,0,NA,0,NA,NA,NA,0
+521219,1st innings,England,India,34.5,JM Bairstow,SR Patel,V Kohli,0,0,0,NA,0,NA,NA,NA,0
+521219,1st innings,England,India,34.6,JM Bairstow,SR Patel,V Kohli,1,0,1,NA,0,NA,NA,NA,0
+521219,1st innings,England,India,35.1,JM Bairstow,SR Patel,R Ashwin,1,0,1,NA,0,NA,NA,NA,0
+521219,1st innings,England,India,35.2,SR Patel,JM Bairstow,R Ashwin,0,0,0,NA,0,NA,NA,NA,0
+521219,1st innings,England,India,35.3,SR Patel,JM Bairstow,R Ashwin,0,1,1,wides,0,NA,NA,NA,0
+521219,1st innings,England,India,35.4,SR Patel,JM Bairstow,R Ashwin,0,0,0,NA,0,NA,NA,NA,0
+521219,1st innings,England,India,35.5,SR Patel,JM Bairstow,R Ashwin,1,0,1,NA,0,NA,NA,NA,0
+521219,1st innings,England,India,35.6,JM Bairstow,SR Patel,R Ashwin,0,0,0,NA,0,NA,NA,NA,0
+521219,1st innings,England,India,35.7,JM Bairstow,SR Patel,R Ashwin,0,0,0,NA,0,NA,NA,NA,0
+521219,1st innings,England,India,36.1,SR Patel,JM Bairstow,P Kumar,0,0,0,NA,0,NA,NA,NA,0
+521219,1st innings,England,India,36.2,SR Patel,JM Bairstow,P Kumar,0,1,1,wides,0,NA,NA,NA,0
+521219,1st innings,England,India,36.3,SR Patel,JM Bairstow,P Kumar,0,0,0,NA,0,NA,NA,NA,0
+521219,1st innings,England,India,36.4,SR Patel,JM Bairstow,P Kumar,2,0,2,NA,0,NA,NA,NA,0
+521219,1st innings,England,India,36.5,SR Patel,JM Bairstow,P Kumar,1,0,1,NA,0,NA,NA,NA,0
+521219,1st innings,England,India,36.6,JM Bairstow,SR Patel,P Kumar,0,0,0,NA,0,NA,NA,NA,0
+521219,1st innings,England,India,36.7,JM Bairstow,SR Patel,P Kumar,0,0,0,NA,0,NA,NA,NA,0
+521219,1st innings,England,India,37.1,SR Patel,JM Bairstow,R Ashwin,4,0,4,NA,0,NA,NA,NA,0
+521219,1st innings,England,India,37.2,SR Patel,JM Bairstow,R Ashwin,1,0,1,NA,0,NA,NA,NA,0
+521219,1st innings,England,India,37.3,JM Bairstow,SR Patel,R Ashwin,1,0,1,NA,0,NA,NA,NA,0
+521219,1st innings,England,India,37.4,SR Patel,JM Bairstow,R Ashwin,1,0,1,NA,0,NA,NA,NA,0
+521219,1st innings,England,India,37.5,JM Bairstow,SR Patel,R Ashwin,4,0,4,NA,0,NA,NA,NA,0
+521219,1st innings,England,India,37.6,JM Bairstow,SR Patel,R Ashwin,0,1,1,wides,0,NA,NA,NA,0
+521219,1st innings,England,India,37.7,JM Bairstow,SR Patel,R Ashwin,0,0,0,NA,0,NA,NA,NA,0
+521219,1st innings,England,India,38.1,SR Patel,JM Bairstow,P Kumar,0,0,0,NA,0,NA,NA,NA,0
+521219,1st innings,England,India,38.2,SR Patel,JM Bairstow,P Kumar,1,0,1,NA,0,NA,NA,NA,0
+521219,1st innings,England,India,38.3,JM Bairstow,SR Patel,P Kumar,1,0,1,NA,0,NA,NA,NA,0
+521219,1st innings,England,India,38.4,SR Patel,JM Bairstow,P Kumar,1,0,1,NA,0,NA,NA,NA,0
+521219,1st innings,England,India,38.5,JM Bairstow,SR Patel,P Kumar,2,0,2,NA,0,NA,NA,NA,0
+521219,1st innings,England,India,38.6,JM Bairstow,SR Patel,P Kumar,1,0,1,NA,0,NA,NA,NA,0
+521219,1st innings,England,India,39.1,JM Bairstow,SR Patel,R Ashwin,0,1,1,legbyes,0,NA,NA,NA,0
+521219,1st innings,England,India,39.2,SR Patel,JM Bairstow,R Ashwin,6,0,6,NA,0,NA,NA,NA,0
+521219,1st innings,England,India,39.3,SR Patel,JM Bairstow,R Ashwin,0,0,0,NA,0,NA,NA,NA,0
+521219,1st innings,England,India,39.4,SR Patel,JM Bairstow,R Ashwin,0,0,0,NA,0,NA,NA,NA,0
+521219,1st innings,England,India,39.5,SR Patel,JM Bairstow,R Ashwin,1,0,1,NA,0,NA,NA,NA,0
+521219,1st innings,England,India,39.6,JM Bairstow,SR Patel,R Ashwin,0,1,1,wides,0,NA,NA,NA,0
+521219,1st innings,England,India,39.7,JM Bairstow,SR Patel,R Ashwin,2,0,2,NA,0,NA,NA,NA,0
+521219,1st innings,England,India,40.1,SR Patel,JM Bairstow,V Kohli,4,0,4,NA,0,NA,NA,NA,0
+521219,1st innings,England,India,40.2,SR Patel,JM Bairstow,V Kohli,1,0,1,NA,0,NA,NA,NA,0
+521219,1st innings,England,India,40.3,JM Bairstow,SR Patel,V Kohli,1,0,1,NA,0,NA,NA,NA,0
+521219,1st innings,England,India,40.4,SR Patel,JM Bairstow,V Kohli,1,0,1,NA,0,NA,NA,NA,0
+521219,1st innings,England,India,40.5,JM Bairstow,SR Patel,V Kohli,1,0,1,NA,0,NA,NA,NA,0
+521219,1st innings,England,India,40.6,SR Patel,JM Bairstow,V Kohli,1,0,1,NA,0,NA,NA,NA,0
+521219,1st innings,England,India,41.1,SR Patel,JM Bairstow,UT Yadav,1,0,1,NA,0,NA,NA,NA,0
+521219,1st innings,England,India,41.2,JM Bairstow,SR Patel,UT Yadav,4,0,4,NA,0,NA,NA,NA,0
+521219,1st innings,England,India,41.3,JM Bairstow,SR Patel,UT Yadav,0,2,2,wides,0,NA,NA,NA,0
+521219,1st innings,England,India,41.4,SR Patel,JM Bairstow,UT Yadav,0,0,0,NA,0,NA,NA,NA,0
+521219,1st innings,England,India,41.5,SR Patel,JM Bairstow,UT Yadav,0,1,1,wides,0,NA,NA,NA,0
+521219,1st innings,England,India,41.6,SR Patel,JM Bairstow,UT Yadav,0,0,0,NA,1,lbw,SR Patel,NA,0
+521219,1st innings,England,India,41.7,TT Bresnan,JM Bairstow,UT Yadav,0,0,0,NA,0,NA,NA,NA,0
+521219,1st innings,England,India,41.8,TT Bresnan,JM Bairstow,UT Yadav,1,0,1,NA,0,NA,NA,NA,0
+521219,1st innings,England,India,42.1,TT Bresnan,JM Bairstow,RA Jadeja,1,0,1,NA,0,NA,NA,NA,0
+521219,1st innings,England,India,42.2,JM Bairstow,TT Bresnan,RA Jadeja,1,0,1,NA,0,NA,NA,NA,0
+521219,1st innings,England,India,42.3,TT Bresnan,JM Bairstow,RA Jadeja,0,0,0,NA,0,NA,NA,NA,0
+521219,1st innings,England,India,42.4,TT Bresnan,JM Bairstow,RA Jadeja,1,0,1,NA,0,NA,NA,NA,0
+521219,1st innings,England,India,42.5,JM Bairstow,TT Bresnan,RA Jadeja,0,0,0,NA,0,NA,NA,NA,0
+521219,1st innings,England,India,42.6,JM Bairstow,TT Bresnan,RA Jadeja,0,0,0,NA,1,caught,JM Bairstow,V Kohli,0
+521219,1st innings,England,India,43.1,GP Swann,TT Bresnan,UT Yadav,0,0,0,NA,0,NA,NA,NA,0
+521219,1st innings,England,India,43.2,GP Swann,TT Bresnan,UT Yadav,4,0,4,NA,0,NA,NA,NA,0
+521219,1st innings,England,India,43.3,GP Swann,TT Bresnan,UT Yadav,0,0,0,NA,0,NA,NA,NA,0
+521219,1st innings,England,India,43.4,GP Swann,TT Bresnan,UT Yadav,1,0,1,NA,0,NA,NA,NA,0
+521219,1st innings,England,India,43.5,TT Bresnan,GP Swann,UT Yadav,4,0,4,NA,0,NA,NA,NA,0
+521219,1st innings,England,India,43.6,TT Bresnan,GP Swann,UT Yadav,1,0,1,NA,0,NA,NA,NA,0
+521219,1st innings,England,India,44.1,TT Bresnan,GP Swann,RA Jadeja,2,0,2,NA,0,NA,NA,NA,0
+521219,1st innings,England,India,44.2,TT Bresnan,GP Swann,RA Jadeja,0,0,0,NA,0,NA,NA,NA,0
+521219,1st innings,England,India,44.3,TT Bresnan,GP Swann,RA Jadeja,1,0,1,NA,0,NA,NA,NA,0
+521219,1st innings,England,India,44.4,GP Swann,TT Bresnan,RA Jadeja,1,0,1,NA,0,NA,NA,NA,0
+521219,1st innings,England,India,44.5,TT Bresnan,GP Swann,RA Jadeja,1,0,1,NA,0,NA,NA,NA,0
+521219,1st innings,England,India,44.6,GP Swann,TT Bresnan,RA Jadeja,1,0,1,NA,0,NA,NA,NA,0
+521219,1st innings,England,India,45.1,GP Swann,TT Bresnan,R Vinay Kumar,0,0,0,NA,1,bowled,GP Swann,NA,0
+521219,1st innings,England,India,45.2,ST Finn,TT Bresnan,R Vinay Kumar,0,0,0,NA,0,NA,NA,NA,0
+521219,1st innings,England,India,45.3,ST Finn,TT Bresnan,R Vinay Kumar,0,0,0,NA,0,NA,NA,NA,0
+521219,1st innings,England,India,45.4,ST Finn,TT Bresnan,R Vinay Kumar,1,0,1,NA,0,NA,NA,NA,0
+521219,1st innings,England,India,45.5,TT Bresnan,ST Finn,R Vinay Kumar,0,0,0,NA,0,NA,NA,NA,0
+521219,1st innings,England,India,45.6,TT Bresnan,ST Finn,R Vinay Kumar,0,1,1,wides,0,NA,NA,NA,0
+521219,1st innings,England,India,45.7,TT Bresnan,ST Finn,R Vinay Kumar,0,0,0,NA,1,caught,TT Bresnan,SK Raina,0
+521219,1st innings,England,India,46.1,ST Finn,JW Dernbach,UT Yadav,0,0,0,NA,0,NA,NA,NA,0
+521219,1st innings,England,India,46.2,ST Finn,JW Dernbach,UT Yadav,1,0,1,NA,0,NA,NA,NA,0
+521219,1st innings,England,India,46.3,JW Dernbach,ST Finn,UT Yadav,1,0,1,NA,0,NA,NA,NA,0
+521219,1st innings,England,India,46.4,ST Finn,JW Dernbach,UT Yadav,0,0,0,NA,0,NA,NA,NA,0
+521219,1st innings,England,India,46.5,ST Finn,JW Dernbach,UT Yadav,0,0,0,NA,0,NA,NA,NA,0
+521219,1st innings,England,India,46.6,ST Finn,JW Dernbach,UT Yadav,1,0,1,NA,0,NA,NA,NA,0
+521219,1st innings,England,India,47.1,ST Finn,JW Dernbach,R Vinay Kumar,0,0,0,NA,0,NA,NA,NA,0
+521219,1st innings,England,India,47.2,ST Finn,JW Dernbach,R Vinay Kumar,0,0,0,NA,0,NA,NA,NA,0
+521219,1st innings,England,India,47.3,ST Finn,JW Dernbach,R Vinay Kumar,1,0,1,NA,0,NA,NA,NA,0
+521219,1st innings,England,India,47.4,JW Dernbach,ST Finn,R Vinay Kumar,1,0,1,NA,0,NA,NA,NA,0
+521219,1st innings,England,India,47.5,ST Finn,JW Dernbach,R Vinay Kumar,1,0,1,NA,0,NA,NA,NA,0
+521219,1st innings,England,India,47.6,JW Dernbach,ST Finn,R Vinay Kumar,0,0,0,NA,0,NA,NA,NA,0
+521219,1st innings,England,India,48.1,ST Finn,JW Dernbach,UT Yadav,1,0,1,NA,0,NA,NA,NA,0
+521219,1st innings,England,India,48.2,JW Dernbach,ST Finn,UT Yadav,1,0,1,NA,1,run out,JW Dernbach,P Kumar,0
+521219,2nd innings,India,England,0.1,PA Patel,AM Rahane,TT Bresnan,0,0,0,NA,0,NA,NA,NA,1
+521219,2nd innings,India,England,0.2,PA Patel,AM Rahane,TT Bresnan,0,0,0,NA,0,NA,NA,NA,1
+521219,2nd innings,India,England,0.3,PA Patel,AM Rahane,TT Bresnan,1,0,1,NA,0,NA,NA,NA,1
+521219,2nd innings,India,England,0.4,AM Rahane,PA Patel,TT Bresnan,0,0,0,NA,0,NA,NA,NA,1
+521219,2nd innings,India,England,0.5,AM Rahane,PA Patel,TT Bresnan,0,0,0,NA,0,NA,NA,NA,1
+521219,2nd innings,India,England,0.6,AM Rahane,PA Patel,TT Bresnan,0,0,0,NA,0,NA,NA,NA,1
+521219,2nd innings,India,England,1.1,PA Patel,AM Rahane,ST Finn,1,0,1,NA,0,NA,NA,NA,1
+521219,2nd innings,India,England,1.2,AM Rahane,PA Patel,ST Finn,1,0,1,NA,0,NA,NA,NA,1
+521219,2nd innings,India,England,1.3,PA Patel,AM Rahane,ST Finn,0,0,0,NA,0,NA,NA,NA,1
+521219,2nd innings,India,England,1.4,PA Patel,AM Rahane,ST Finn,0,0,0,NA,0,NA,NA,NA,1
+521219,2nd innings,India,England,1.5,PA Patel,AM Rahane,ST Finn,4,0,4,NA,0,NA,NA,NA,1
+521219,2nd innings,India,England,1.6,PA Patel,AM Rahane,ST Finn,0,0,0,NA,0,NA,NA,NA,1
+521219,2nd innings,India,England,2.1,AM Rahane,PA Patel,TT Bresnan,0,0,0,NA,0,NA,NA,NA,1
+521219,2nd innings,India,England,2.2,AM Rahane,PA Patel,TT Bresnan,0,1,1,legbyes,0,NA,NA,NA,1
+521219,2nd innings,India,England,2.3,PA Patel,AM Rahane,TT Bresnan,4,0,4,NA,0,NA,NA,NA,1
+521219,2nd innings,India,England,2.4,PA Patel,AM Rahane,TT Bresnan,0,0,0,NA,0,NA,NA,NA,1
+521219,2nd innings,India,England,2.5,PA Patel,AM Rahane,TT Bresnan,0,0,0,NA,0,NA,NA,NA,1
+521219,2nd innings,India,England,2.6,PA Patel,AM Rahane,TT Bresnan,1,0,1,NA,0,NA,NA,NA,1
+521219,2nd innings,India,England,3.1,PA Patel,AM Rahane,ST Finn,0,0,0,NA,0,NA,NA,NA,1
+521219,2nd innings,India,England,3.2,PA Patel,AM Rahane,ST Finn,0,0,0,NA,0,NA,NA,NA,1
+521219,2nd innings,India,England,3.3,PA Patel,AM Rahane,ST Finn,0,0,0,NA,0,NA,NA,NA,1
+521219,2nd innings,India,England,3.4,PA Patel,AM Rahane,ST Finn,1,0,1,NA,0,NA,NA,NA,1
+521219,2nd innings,India,England,3.5,AM Rahane,PA Patel,ST Finn,0,0,0,NA,0,NA,NA,NA,1
+521219,2nd innings,India,England,3.6,AM Rahane,PA Patel,ST Finn,0,0,0,NA,0,NA,NA,NA,1
+521219,2nd innings,India,England,4.1,PA Patel,AM Rahane,TT Bresnan,0,0,0,NA,1,caught,PA Patel,AN Cook,1
+521219,2nd innings,India,England,4.2,G Gambhir,AM Rahane,TT Bresnan,0,0,0,NA,0,NA,NA,NA,1
+521219,2nd innings,India,England,4.3,G Gambhir,AM Rahane,TT Bresnan,0,0,0,NA,0,NA,NA,NA,1
+521219,2nd innings,India,England,4.4,G Gambhir,AM Rahane,TT Bresnan,0,0,0,NA,0,NA,NA,NA,1
+521219,2nd innings,India,England,4.5,G Gambhir,AM Rahane,TT Bresnan,0,0,0,NA,0,NA,NA,NA,1
+521219,2nd innings,India,England,4.6,G Gambhir,AM Rahane,TT Bresnan,0,0,0,NA,0,NA,NA,NA,1
+521219,2nd innings,India,England,5.1,AM Rahane,G Gambhir,ST Finn,1,0,1,NA,0,NA,NA,NA,1
+521219,2nd innings,India,England,5.2,G Gambhir,AM Rahane,ST Finn,0,0,0,NA,0,NA,NA,NA,1
+521219,2nd innings,India,England,5.3,G Gambhir,AM Rahane,ST Finn,1,0,1,NA,0,NA,NA,NA,1
+521219,2nd innings,India,England,5.4,AM Rahane,G Gambhir,ST Finn,0,0,0,NA,0,NA,NA,NA,1
+521219,2nd innings,India,England,5.5,AM Rahane,G Gambhir,ST Finn,1,0,1,NA,0,NA,NA,NA,1
+521219,2nd innings,India,England,5.6,G Gambhir,AM Rahane,ST Finn,0,0,0,NA,0,NA,NA,NA,1
+521219,2nd innings,India,England,6.1,AM Rahane,G Gambhir,TT Bresnan,4,0,4,NA,0,NA,NA,NA,1
+521219,2nd innings,India,England,6.2,AM Rahane,G Gambhir,TT Bresnan,1,0,1,NA,0,NA,NA,NA,1
+521219,2nd innings,India,England,6.3,G Gambhir,AM Rahane,TT Bresnan,1,0,1,NA,0,NA,NA,NA,1
+521219,2nd innings,India,England,6.4,AM Rahane,G Gambhir,TT Bresnan,6,0,6,NA,0,NA,NA,NA,1
+521219,2nd innings,India,England,6.5,AM Rahane,G Gambhir,TT Bresnan,0,0,0,NA,1,caught,AM Rahane,JW Dernbach,1
+521219,2nd innings,India,England,6.6,V Kohli,G Gambhir,TT Bresnan,0,0,0,NA,0,NA,NA,NA,1
+521219,2nd innings,India,England,7.1,G Gambhir,V Kohli,ST Finn,1,0,1,NA,0,NA,NA,NA,1
+521219,2nd innings,India,England,7.2,V Kohli,G Gambhir,ST Finn,0,1,1,wides,0,NA,NA,NA,1
+521219,2nd innings,India,England,7.3,V Kohli,G Gambhir,ST Finn,0,0,0,NA,0,NA,NA,NA,1
+521219,2nd innings,India,England,7.4,V Kohli,G Gambhir,ST Finn,0,0,0,NA,0,NA,NA,NA,1
+521219,2nd innings,India,England,7.5,V Kohli,G Gambhir,ST Finn,4,0,4,NA,0,NA,NA,NA,1
+521219,2nd innings,India,England,7.6,V Kohli,G Gambhir,ST Finn,0,0,0,NA,0,NA,NA,NA,1
+521219,2nd innings,India,England,7.7,V Kohli,G Gambhir,ST Finn,0,0,0,NA,0,NA,NA,NA,1
+521219,2nd innings,India,England,8.1,G Gambhir,V Kohli,TT Bresnan,0,0,0,NA,0,NA,NA,NA,1
+521219,2nd innings,India,England,8.2,G Gambhir,V Kohli,TT Bresnan,0,0,0,NA,0,NA,NA,NA,1
+521219,2nd innings,India,England,8.3,G Gambhir,V Kohli,TT Bresnan,0,1,1,wides,0,NA,NA,NA,1
+521219,2nd innings,India,England,8.4,G Gambhir,V Kohli,TT Bresnan,0,0,0,NA,0,NA,NA,NA,1
+521219,2nd innings,India,England,8.5,G Gambhir,V Kohli,TT Bresnan,1,0,1,NA,0,NA,NA,NA,1
+521219,2nd innings,India,England,8.6,V Kohli,G Gambhir,TT Bresnan,0,0,0,NA,0,NA,NA,NA,1
+521219,2nd innings,India,England,8.7,V Kohli,G Gambhir,TT Bresnan,4,0,4,NA,0,NA,NA,NA,1
+521219,2nd innings,India,England,9.1,G Gambhir,V Kohli,ST Finn,4,0,4,NA,0,NA,NA,NA,1
+521219,2nd innings,India,England,9.2,G Gambhir,V Kohli,ST Finn,0,0,0,NA,0,NA,NA,NA,1
+521219,2nd innings,India,England,9.3,G Gambhir,V Kohli,ST Finn,4,0,4,NA,0,NA,NA,NA,1
+521219,2nd innings,India,England,9.4,G Gambhir,V Kohli,ST Finn,4,0,4,NA,0,NA,NA,NA,1
+521219,2nd innings,India,England,9.5,G Gambhir,V Kohli,ST Finn,0,0,0,NA,0,NA,NA,NA,1
+521219,2nd innings,India,England,9.6,G Gambhir,V Kohli,ST Finn,0,0,0,NA,0,NA,NA,NA,1
+521219,2nd innings,India,England,10.1,V Kohli,G Gambhir,JW Dernbach,1,0,1,NA,0,NA,NA,NA,1
+521219,2nd innings,India,England,10.2,G Gambhir,V Kohli,JW Dernbach,1,0,1,NA,0,NA,NA,NA,1
+521219,2nd innings,India,England,10.3,V Kohli,G Gambhir,JW Dernbach,0,0,0,NA,0,NA,NA,NA,1
+521219,2nd innings,India,England,10.4,V Kohli,G Gambhir,JW Dernbach,1,0,1,NA,0,NA,NA,NA,1
+521219,2nd innings,India,England,10.5,G Gambhir,V Kohli,JW Dernbach,0,0,0,NA,0,NA,NA,NA,1
+521219,2nd innings,India,England,10.6,G Gambhir,V Kohli,JW Dernbach,1,0,1,NA,0,NA,NA,NA,1
+521219,2nd innings,India,England,11.1,G Gambhir,V Kohli,GP Swann,0,0,0,NA,0,NA,NA,NA,1
+521219,2nd innings,India,England,11.2,G Gambhir,V Kohli,GP Swann,0,0,0,NA,0,NA,NA,NA,1
+521219,2nd innings,India,England,11.3,G Gambhir,V Kohli,GP Swann,0,0,0,NA,0,NA,NA,NA,1
+521219,2nd innings,India,England,11.4,G Gambhir,V Kohli,GP Swann,2,0,2,NA,0,NA,NA,NA,1
+521219,2nd innings,India,England,11.5,G Gambhir,V Kohli,GP Swann,1,0,1,NA,0,NA,NA,NA,1
+521219,2nd innings,India,England,11.6,V Kohli,G Gambhir,GP Swann,1,0,1,NA,0,NA,NA,NA,1
+521219,2nd innings,India,England,12.1,V Kohli,G Gambhir,JW Dernbach,4,0,4,NA,0,NA,NA,NA,1
+521219,2nd innings,India,England,12.2,V Kohli,G Gambhir,JW Dernbach,1,0,1,NA,0,NA,NA,NA,1
+521219,2nd innings,India,England,12.3,G Gambhir,V Kohli,JW Dernbach,0,0,0,NA,0,NA,NA,NA,1
+521219,2nd innings,India,England,12.4,G Gambhir,V Kohli,JW Dernbach,1,0,1,NA,0,NA,NA,NA,1
+521219,2nd innings,India,England,12.5,V Kohli,G Gambhir,JW Dernbach,4,0,4,NA,0,NA,NA,NA,1
+521219,2nd innings,India,England,12.6,V Kohli,G Gambhir,JW Dernbach,1,0,1,NA,0,NA,NA,NA,1
+521219,2nd innings,India,England,13.1,V Kohli,G Gambhir,GP Swann,1,0,1,NA,0,NA,NA,NA,1
+521219,2nd innings,India,England,13.2,G Gambhir,V Kohli,GP Swann,0,0,0,NA,0,NA,NA,NA,1
+521219,2nd innings,India,England,13.3,G Gambhir,V Kohli,GP Swann,1,0,1,NA,0,NA,NA,NA,1
+521219,2nd innings,India,England,13.4,V Kohli,G Gambhir,GP Swann,1,0,1,NA,0,NA,NA,NA,1
+521219,2nd innings,India,England,13.5,G Gambhir,V Kohli,GP Swann,4,0,4,NA,0,NA,NA,NA,1
+521219,2nd innings,India,England,13.6,G Gambhir,V Kohli,GP Swann,0,0,0,NA,0,NA,NA,NA,1
+521219,2nd innings,India,England,14.1,V Kohli,G Gambhir,RS Bopara,0,0,0,NA,0,NA,NA,NA,1
+521219,2nd innings,India,England,14.2,V Kohli,G Gambhir,RS Bopara,0,0,0,NA,0,NA,NA,NA,1
+521219,2nd innings,India,England,14.3,V Kohli,G Gambhir,RS Bopara,0,1,1,wides,0,NA,NA,NA,1
+521219,2nd innings,India,England,14.4,V Kohli,G Gambhir,RS Bopara,1,0,1,NA,0,NA,NA,NA,1
+521219,2nd innings,India,England,14.5,G Gambhir,V Kohli,RS Bopara,1,0,1,NA,0,NA,NA,NA,1
+521219,2nd innings,India,England,14.6,V Kohli,G Gambhir,RS Bopara,4,0,4,NA,0,NA,NA,NA,1
+521219,2nd innings,India,England,14.7,V Kohli,G Gambhir,RS Bopara,0,0,0,NA,0,NA,NA,NA,1
+521219,2nd innings,India,England,15.1,G Gambhir,V Kohli,GP Swann,0,0,0,NA,0,NA,NA,NA,1
+521219,2nd innings,India,England,15.2,G Gambhir,V Kohli,GP Swann,1,0,1,NA,0,NA,NA,NA,1
+521219,2nd innings,India,England,15.3,V Kohli,G Gambhir,GP Swann,0,1,1,legbyes,0,NA,NA,NA,1
+521219,2nd innings,India,England,15.4,G Gambhir,V Kohli,GP Swann,0,0,0,NA,0,NA,NA,NA,1
+521219,2nd innings,India,England,15.5,G Gambhir,V Kohli,GP Swann,0,0,0,NA,0,NA,NA,NA,1
+521219,2nd innings,India,England,15.6,G Gambhir,V Kohli,GP Swann,1,0,1,NA,0,NA,NA,NA,1
+521219,2nd innings,India,England,16.1,G Gambhir,V Kohli,RS Bopara,1,0,1,NA,0,NA,NA,NA,1
+521219,2nd innings,India,England,16.2,V Kohli,G Gambhir,RS Bopara,4,0,4,NA,0,NA,NA,NA,1
+521219,2nd innings,India,England,16.3,V Kohli,G Gambhir,RS Bopara,0,0,0,NA,0,NA,NA,NA,1
+521219,2nd innings,India,England,16.4,V Kohli,G Gambhir,RS Bopara,1,0,1,NA,0,NA,NA,NA,1
+521219,2nd innings,India,England,16.5,G Gambhir,V Kohli,RS Bopara,0,0,0,NA,0,NA,NA,NA,1
+521219,2nd innings,India,England,16.6,G Gambhir,V Kohli,RS Bopara,0,0,0,NA,0,NA,NA,NA,1
+521219,2nd innings,India,England,17.1,V Kohli,G Gambhir,JW Dernbach,1,0,1,NA,0,NA,NA,NA,1
+521219,2nd innings,India,England,17.2,G Gambhir,V Kohli,JW Dernbach,0,0,0,NA,0,NA,NA,NA,1
+521219,2nd innings,India,England,17.3,G Gambhir,V Kohli,JW Dernbach,1,0,1,NA,0,NA,NA,NA,1
+521219,2nd innings,India,England,17.4,V Kohli,G Gambhir,JW Dernbach,1,0,1,NA,0,NA,NA,NA,1
+521219,2nd innings,India,England,17.5,G Gambhir,V Kohli,JW Dernbach,1,0,1,NA,0,NA,NA,NA,1
+521219,2nd innings,India,England,17.6,V Kohli,G Gambhir,JW Dernbach,1,0,1,NA,0,NA,NA,NA,1
+521219,2nd innings,India,England,18.1,V Kohli,G Gambhir,ST Finn,0,0,0,NA,0,NA,NA,NA,1
+521219,2nd innings,India,England,18.2,V Kohli,G Gambhir,ST Finn,0,1,1,wides,0,NA,NA,NA,1
+521219,2nd innings,India,England,18.3,V Kohli,G Gambhir,ST Finn,4,0,4,NA,0,NA,NA,NA,1
+521219,2nd innings,India,England,18.4,V Kohli,G Gambhir,ST Finn,0,0,0,NA,0,NA,NA,NA,1
+521219,2nd innings,India,England,18.5,V Kohli,G Gambhir,ST Finn,1,0,1,NA,0,NA,NA,NA,1
+521219,2nd innings,India,England,18.6,G Gambhir,V Kohli,ST Finn,0,0,0,NA,0,NA,NA,NA,1
+521219,2nd innings,India,England,18.7,G Gambhir,V Kohli,ST Finn,1,0,1,NA,0,NA,NA,NA,1
+521219,2nd innings,India,England,19.1,G Gambhir,V Kohli,JW Dernbach,1,0,1,NA,0,NA,NA,NA,1
+521219,2nd innings,India,England,19.2,V Kohli,G Gambhir,JW Dernbach,0,0,0,NA,0,NA,NA,NA,1
+521219,2nd innings,India,England,19.3,V Kohli,G Gambhir,JW Dernbach,0,0,0,NA,0,NA,NA,NA,1
+521219,2nd innings,India,England,19.4,V Kohli,G Gambhir,JW Dernbach,1,0,1,NA,0,NA,NA,NA,1
+521219,2nd innings,India,England,19.5,G Gambhir,V Kohli,JW Dernbach,1,0,1,NA,0,NA,NA,NA,1
+521219,2nd innings,India,England,19.6,V Kohli,G Gambhir,JW Dernbach,2,0,2,NA,0,NA,NA,NA,1
+521219,2nd innings,India,England,20.1,G Gambhir,V Kohli,ST Finn,0,0,0,NA,0,NA,NA,NA,1
+521219,2nd innings,India,England,20.2,G Gambhir,V Kohli,ST Finn,0,0,0,NA,0,NA,NA,NA,1
+521219,2nd innings,India,England,20.3,G Gambhir,V Kohli,ST Finn,4,0,4,NA,0,NA,NA,NA,1
+521219,2nd innings,India,England,20.4,G Gambhir,V Kohli,ST Finn,0,0,0,NA,0,NA,NA,NA,1
+521219,2nd innings,India,England,20.5,G Gambhir,V Kohli,ST Finn,1,0,1,NA,0,NA,NA,NA,1
+521219,2nd innings,India,England,20.6,V Kohli,G Gambhir,ST Finn,3,0,3,NA,0,NA,NA,NA,1
+521219,2nd innings,India,England,21.1,V Kohli,G Gambhir,GP Swann,0,0,0,NA,0,NA,NA,NA,1
+521219,2nd innings,India,England,21.2,V Kohli,G Gambhir,GP Swann,0,0,0,NA,0,NA,NA,NA,1
+521219,2nd innings,India,England,21.3,V Kohli,G Gambhir,GP Swann,1,0,1,NA,0,NA,NA,NA,1
+521219,2nd innings,India,England,21.4,G Gambhir,V Kohli,GP Swann,1,0,1,NA,0,NA,NA,NA,1
+521219,2nd innings,India,England,21.5,V Kohli,G Gambhir,GP Swann,1,0,1,NA,0,NA,NA,NA,1
+521219,2nd innings,India,England,21.6,G Gambhir,V Kohli,GP Swann,4,0,4,NA,0,NA,NA,NA,1
+521219,2nd innings,India,England,22.1,V Kohli,G Gambhir,SR Patel,0,0,0,NA,0,NA,NA,NA,1
+521219,2nd innings,India,England,22.2,V Kohli,G Gambhir,SR Patel,1,0,1,NA,0,NA,NA,NA,1
+521219,2nd innings,India,England,22.3,G Gambhir,V Kohli,SR Patel,0,0,0,NA,0,NA,NA,NA,1
+521219,2nd innings,India,England,22.4,G Gambhir,V Kohli,SR Patel,1,0,1,NA,0,NA,NA,NA,1
+521219,2nd innings,India,England,22.5,V Kohli,G Gambhir,SR Patel,1,0,1,NA,0,NA,NA,NA,1
+521219,2nd innings,India,England,22.6,G Gambhir,V Kohli,SR Patel,2,0,2,NA,0,NA,NA,NA,1
+521219,2nd innings,India,England,23.1,V Kohli,G Gambhir,GP Swann,0,0,0,NA,0,NA,NA,NA,1
+521219,2nd innings,India,England,23.2,V Kohli,G Gambhir,GP Swann,1,0,1,NA,0,NA,NA,NA,1
+521219,2nd innings,India,England,23.3,G Gambhir,V Kohli,GP Swann,0,0,0,NA,0,NA,NA,NA,1
+521219,2nd innings,India,England,23.4,G Gambhir,V Kohli,GP Swann,1,0,1,NA,0,NA,NA,NA,1
+521219,2nd innings,India,England,23.5,V Kohli,G Gambhir,GP Swann,1,0,1,NA,0,NA,NA,NA,1
+521219,2nd innings,India,England,23.6,G Gambhir,V Kohli,GP Swann,1,0,1,NA,0,NA,NA,NA,1
+521219,2nd innings,India,England,24.1,G Gambhir,V Kohli,SR Patel,2,0,2,NA,0,NA,NA,NA,1
+521219,2nd innings,India,England,24.2,G Gambhir,V Kohli,SR Patel,0,0,0,NA,0,NA,NA,NA,1
+521219,2nd innings,India,England,24.3,G Gambhir,V Kohli,SR Patel,4,0,4,NA,0,NA,NA,NA,1
+521219,2nd innings,India,England,24.4,G Gambhir,V Kohli,SR Patel,1,0,1,NA,0,NA,NA,NA,1
+521219,2nd innings,India,England,24.5,V Kohli,G Gambhir,SR Patel,4,0,4,NA,0,NA,NA,NA,1
+521219,2nd innings,India,England,24.6,V Kohli,G Gambhir,SR Patel,1,0,1,NA,0,NA,NA,NA,1
+521219,2nd innings,India,England,25.1,V Kohli,G Gambhir,GP Swann,1,0,1,NA,0,NA,NA,NA,1
+521219,2nd innings,India,England,25.2,G Gambhir,V Kohli,GP Swann,0,0,0,NA,0,NA,NA,NA,1
+521219,2nd innings,India,England,25.3,G Gambhir,V Kohli,GP Swann,0,0,0,NA,0,NA,NA,NA,1
+521219,2nd innings,India,England,25.4,G Gambhir,V Kohli,GP Swann,1,0,1,NA,0,NA,NA,NA,1
+521219,2nd innings,India,England,25.5,V Kohli,G Gambhir,GP Swann,0,0,0,NA,0,NA,NA,NA,1
+521219,2nd innings,India,England,25.6,V Kohli,G Gambhir,GP Swann,0,5,5,wides,0,NA,NA,NA,1
+521219,2nd innings,India,England,25.7,V Kohli,G Gambhir,GP Swann,0,0,0,NA,0,NA,NA,NA,1
+521219,2nd innings,India,England,26.1,G Gambhir,V Kohli,TT Bresnan,1,0,1,NA,0,NA,NA,NA,1
+521219,2nd innings,India,England,26.2,V Kohli,G Gambhir,TT Bresnan,0,0,0,NA,0,NA,NA,NA,1
+521219,2nd innings,India,England,26.3,V Kohli,G Gambhir,TT Bresnan,4,0,4,NA,0,NA,NA,NA,1
+521219,2nd innings,India,England,26.4,V Kohli,G Gambhir,TT Bresnan,0,0,0,NA,0,NA,NA,NA,1
+521219,2nd innings,India,England,26.5,V Kohli,G Gambhir,TT Bresnan,1,0,1,NA,0,NA,NA,NA,1
+521219,2nd innings,India,England,26.6,G Gambhir,V Kohli,TT Bresnan,4,0,4,NA,0,NA,NA,NA,1
+521219,2nd innings,India,England,27.1,V Kohli,G Gambhir,GP Swann,2,0,2,NA,0,NA,NA,NA,1
+521219,2nd innings,India,England,27.2,V Kohli,G Gambhir,GP Swann,0,0,0,NA,0,NA,NA,NA,1
+521219,2nd innings,India,England,27.3,V Kohli,G Gambhir,GP Swann,4,0,4,NA,0,NA,NA,NA,1
+521219,2nd innings,India,England,27.4,V Kohli,G Gambhir,GP Swann,0,0,0,NA,0,NA,NA,NA,1
+521219,2nd innings,India,England,27.5,V Kohli,G Gambhir,GP Swann,1,0,1,NA,0,NA,NA,NA,1
+521219,2nd innings,India,England,27.6,G Gambhir,V Kohli,GP Swann,4,0,4,NA,0,NA,NA,NA,1
+521219,2nd innings,India,England,28.1,V Kohli,G Gambhir,KP Pietersen,1,0,1,NA,0,NA,NA,NA,1
+521219,2nd innings,India,England,28.2,G Gambhir,V Kohli,KP Pietersen,0,0,0,NA,0,NA,NA,NA,1
+521219,2nd innings,India,England,28.3,G Gambhir,V Kohli,KP Pietersen,0,0,0,NA,0,NA,NA,NA,1
+521219,2nd innings,India,England,28.4,G Gambhir,V Kohli,KP Pietersen,0,1,1,legbyes,0,NA,NA,NA,1
+521219,2nd innings,India,England,28.5,V Kohli,G Gambhir,KP Pietersen,4,0,4,NA,0,NA,NA,NA,1
+521219,2nd innings,India,England,28.6,V Kohli,G Gambhir,KP Pietersen,1,0,1,NA,0,NA,NA,NA,1
+521219,2nd innings,India,England,29.1,V Kohli,G Gambhir,ST Finn,0,0,0,NA,0,NA,NA,NA,1
+521219,2nd innings,India,England,29.2,V Kohli,G Gambhir,ST Finn,0,0,0,NA,0,NA,NA,NA,1
+521219,2nd innings,India,England,29.3,V Kohli,G Gambhir,ST Finn,0,0,0,NA,0,NA,NA,NA,1
+521219,2nd innings,India,England,29.4,V Kohli,G Gambhir,ST Finn,2,0,2,NA,0,NA,NA,NA,1
+521219,2nd innings,India,England,29.5,V Kohli,G Gambhir,ST Finn,1,0,1,NA,0,NA,NA,NA,1
+521219,2nd innings,India,England,29.6,G Gambhir,V Kohli,ST Finn,1,0,1,NA,0,NA,NA,NA,1
+521219,2nd innings,India,England,30.1,G Gambhir,V Kohli,KP Pietersen,0,1,1,wides,0,NA,NA,NA,1
+521219,2nd innings,India,England,30.2,G Gambhir,V Kohli,KP Pietersen,1,0,1,NA,0,NA,NA,NA,1
+521219,2nd innings,India,England,30.3,V Kohli,G Gambhir,KP Pietersen,1,0,1,NA,0,NA,NA,NA,1
+521219,2nd innings,India,England,30.4,G Gambhir,V Kohli,KP Pietersen,1,0,1,NA,0,NA,NA,NA,1
+521219,2nd innings,India,England,30.5,V Kohli,G Gambhir,KP Pietersen,1,0,1,NA,0,NA,NA,NA,1
+521219,2nd innings,India,England,30.6,G Gambhir,V Kohli,KP Pietersen,1,0,1,NA,0,NA,NA,NA,1
+521219,2nd innings,India,England,30.7,V Kohli,G Gambhir,KP Pietersen,1,0,1,NA,0,NA,NA,NA,1
+521219,2nd innings,India,England,31.1,V Kohli,G Gambhir,ST Finn,1,0,1,NA,0,NA,NA,NA,1
+521219,2nd innings,India,England,31.2,G Gambhir,V Kohli,ST Finn,1,0,1,NA,0,NA,NA,NA,1
+521219,2nd innings,India,England,31.3,V Kohli,G Gambhir,ST Finn,0,0,0,NA,0,NA,NA,NA,1
+521219,2nd innings,India,England,31.4,V Kohli,G Gambhir,ST Finn,0,0,0,NA,0,NA,NA,NA,1
+521219,2nd innings,India,England,31.5,V Kohli,G Gambhir,ST Finn,1,0,1,NA,0,NA,NA,NA,1
+521219,2nd innings,India,England,31.6,G Gambhir,V Kohli,ST Finn,0,0,0,NA,0,NA,NA,NA,1
+521219,2nd innings,India,England,32.1,V Kohli,G Gambhir,RS Bopara,0,0,0,NA,0,NA,NA,NA,1
+521219,2nd innings,India,England,32.2,V Kohli,G Gambhir,RS Bopara,4,0,4,NA,0,NA,NA,NA,1
+521219,2nd innings,India,England,32.3,V Kohli,G Gambhir,RS Bopara,0,0,0,NA,0,NA,NA,NA,1
+521219,2nd innings,India,England,32.4,V Kohli,G Gambhir,RS Bopara,0,1,1,wides,0,NA,NA,NA,1
+521219,2nd innings,India,England,32.5,V Kohli,G Gambhir,RS Bopara,0,0,0,NA,0,NA,NA,NA,1
+521219,2nd innings,India,England,32.6,V Kohli,G Gambhir,RS Bopara,1,0,1,NA,0,NA,NA,NA,1
+521219,2nd innings,India,England,32.7,G Gambhir,V Kohli,RS Bopara,0,1,1,wides,0,NA,NA,NA,1
+521219,2nd innings,India,England,32.8,G Gambhir,V Kohli,RS Bopara,1,0,1,NA,0,NA,NA,NA,1
+521219,2nd innings,India,England,33.1,G Gambhir,V Kohli,GP Swann,4,0,4,NA,0,NA,NA,NA,1
+521219,2nd innings,India,England,33.2,G Gambhir,V Kohli,GP Swann,1,0,1,NA,0,NA,NA,NA,1
+521219,2nd innings,India,England,33.3,V Kohli,G Gambhir,GP Swann,4,0,4,NA,0,NA,NA,NA,1
+521219,2nd innings,India,England,33.4,V Kohli,G Gambhir,GP Swann,0,0,0,NA,0,NA,NA,NA,1
+521219,2nd innings,India,England,33.5,V Kohli,G Gambhir,GP Swann,1,0,1,NA,0,NA,NA,NA,1
+521219,2nd innings,India,England,33.6,G Gambhir,V Kohli,GP Swann,0,0,0,NA,0,NA,NA,NA,1
+521219,2nd innings,India,England,34.1,V Kohli,G Gambhir,JW Dernbach,0,0,0,NA,0,NA,NA,NA,1
+521219,2nd innings,India,England,34.2,V Kohli,G Gambhir,JW Dernbach,4,0,4,NA,0,NA,NA,NA,1
+521219,2nd innings,India,England,34.3,V Kohli,G Gambhir,JW Dernbach,0,1,1,wides,0,NA,NA,NA,1
+521219,2nd innings,India,England,34.4,V Kohli,G Gambhir,JW Dernbach,1,0,1,NA,0,NA,NA,NA,1
+521219,2nd innings,India,England,34.5,G Gambhir,V Kohli,JW Dernbach,2,0,2,NA,0,NA,NA,NA,1
+521219,2nd innings,India,England,34.6,G Gambhir,V Kohli,JW Dernbach,1,0,1,NA,0,NA,NA,NA,1
+521219,2nd innings,India,England,34.7,V Kohli,G Gambhir,JW Dernbach,1,0,1,NA,0,NA,NA,NA,1
+521219,2nd innings,India,England,35.1,V Kohli,G Gambhir,TT Bresnan,0,0,0,NA,0,NA,NA,NA,1
+521219,2nd innings,India,England,35.2,V Kohli,G Gambhir,TT Bresnan,1,0,1,NA,0,NA,NA,NA,1
+521219,2nd innings,India,England,35.3,G Gambhir,V Kohli,TT Bresnan,1,0,1,NA,0,NA,NA,NA,1
+521219,2nd innings,India,England,35.4,V Kohli,G Gambhir,TT Bresnan,0,0,0,NA,0,NA,NA,NA,1
+521219,2nd innings,India,England,35.5,V Kohli,G Gambhir,TT Bresnan,4,0,4,NA,0,NA,NA,NA,1
+521219,2nd innings,India,England,35.6,V Kohli,G Gambhir,TT Bresnan,1,0,1,NA,0,NA,NA,NA,1
+521219,2nd innings,India,England,36.1,V Kohli,G Gambhir,JW Dernbach,0,0,0,NA,0,NA,NA,NA,1
+521219,2nd innings,India,England,36.2,V Kohli,G Gambhir,JW Dernbach,1,0,1,NA,0,NA,NA,NA,1
+521219,2nd innings,India,England,36.3,G Gambhir,V Kohli,JW Dernbach,1,0,1,NA,0,NA,NA,NA,1
+521219,2nd innings,India,England,36.4,V Kohli,G Gambhir,JW Dernbach,4,0,4,NA,0,NA,NA,NA,1

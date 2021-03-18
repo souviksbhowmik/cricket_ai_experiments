@@ -1,0 +1,530 @@
+match_id,innings,team,opponent,ball,batsman,non_striker,bowler,scored_runs,extras,total,extra_type,wicket,wicket_type,player_out,fielders,winner
+903601,1st innings,South Africa,India,0.1,Q de Kock,HM Amla,B Kumar,0,0,0,NA,0,NA,NA,NA,1
+903601,1st innings,South Africa,India,0.2,Q de Kock,HM Amla,B Kumar,0,0,0,NA,0,NA,NA,NA,1
+903601,1st innings,South Africa,India,0.3,Q de Kock,HM Amla,B Kumar,0,0,0,NA,0,NA,NA,NA,1
+903601,1st innings,South Africa,India,0.4,Q de Kock,HM Amla,B Kumar,0,0,0,NA,0,NA,NA,NA,1
+903601,1st innings,South Africa,India,0.5,Q de Kock,HM Amla,B Kumar,0,0,0,NA,0,NA,NA,NA,1
+903601,1st innings,South Africa,India,0.6,Q de Kock,HM Amla,B Kumar,0,1,1,wides,0,NA,NA,NA,1
+903601,1st innings,South Africa,India,0.7,Q de Kock,HM Amla,B Kumar,4,0,4,NA,0,NA,NA,NA,1
+903601,1st innings,South Africa,India,1.1,HM Amla,Q de Kock,MM Sharma,2,0,2,NA,0,NA,NA,NA,1
+903601,1st innings,South Africa,India,1.2,HM Amla,Q de Kock,MM Sharma,0,0,0,NA,0,NA,NA,NA,1
+903601,1st innings,South Africa,India,1.3,HM Amla,Q de Kock,MM Sharma,0,0,0,NA,0,NA,NA,NA,1
+903601,1st innings,South Africa,India,1.4,HM Amla,Q de Kock,MM Sharma,0,0,0,NA,0,NA,NA,NA,1
+903601,1st innings,South Africa,India,1.5,HM Amla,Q de Kock,MM Sharma,4,0,4,NA,0,NA,NA,NA,1
+903601,1st innings,South Africa,India,1.6,HM Amla,Q de Kock,MM Sharma,4,0,4,NA,0,NA,NA,NA,1
+903601,1st innings,South Africa,India,2.1,Q de Kock,HM Amla,B Kumar,0,0,0,NA,0,NA,NA,NA,1
+903601,1st innings,South Africa,India,2.2,Q de Kock,HM Amla,B Kumar,0,0,0,NA,0,NA,NA,NA,1
+903601,1st innings,South Africa,India,2.3,Q de Kock,HM Amla,B Kumar,1,0,1,NA,0,NA,NA,NA,1
+903601,1st innings,South Africa,India,2.4,HM Amla,Q de Kock,B Kumar,1,0,1,NA,0,NA,NA,NA,1
+903601,1st innings,South Africa,India,2.5,Q de Kock,HM Amla,B Kumar,4,0,4,NA,0,NA,NA,NA,1
+903601,1st innings,South Africa,India,2.6,Q de Kock,HM Amla,B Kumar,0,0,0,NA,0,NA,NA,NA,1
+903601,1st innings,South Africa,India,3.1,HM Amla,Q de Kock,MM Sharma,0,0,0,NA,0,NA,NA,NA,1
+903601,1st innings,South Africa,India,3.2,HM Amla,Q de Kock,MM Sharma,4,0,4,NA,0,NA,NA,NA,1
+903601,1st innings,South Africa,India,3.3,HM Amla,Q de Kock,MM Sharma,0,0,0,NA,0,NA,NA,NA,1
+903601,1st innings,South Africa,India,3.4,HM Amla,Q de Kock,MM Sharma,4,0,4,NA,0,NA,NA,NA,1
+903601,1st innings,South Africa,India,3.5,HM Amla,Q de Kock,MM Sharma,4,0,4,NA,0,NA,NA,NA,1
+903601,1st innings,South Africa,India,3.6,HM Amla,Q de Kock,MM Sharma,0,0,0,NA,1,caught,HM Amla,MS Dhoni,1
+903601,1st innings,South Africa,India,4.1,Q de Kock,F du Plessis,B Kumar,0,0,0,NA,0,NA,NA,NA,1
+903601,1st innings,South Africa,India,4.2,Q de Kock,F du Plessis,B Kumar,4,0,4,NA,0,NA,NA,NA,1
+903601,1st innings,South Africa,India,4.3,Q de Kock,F du Plessis,B Kumar,0,0,0,NA,0,NA,NA,NA,1
+903601,1st innings,South Africa,India,4.4,Q de Kock,F du Plessis,B Kumar,4,0,4,NA,0,NA,NA,NA,1
+903601,1st innings,South Africa,India,4.5,Q de Kock,F du Plessis,B Kumar,2,0,2,NA,0,NA,NA,NA,1
+903601,1st innings,South Africa,India,4.6,Q de Kock,F du Plessis,B Kumar,1,0,1,NA,0,NA,NA,NA,1
+903601,1st innings,South Africa,India,5.1,Q de Kock,F du Plessis,MM Sharma,0,0,0,NA,0,NA,NA,NA,1
+903601,1st innings,South Africa,India,5.2,Q de Kock,F du Plessis,MM Sharma,4,0,4,NA,0,NA,NA,NA,1
+903601,1st innings,South Africa,India,5.3,Q de Kock,F du Plessis,MM Sharma,0,0,0,NA,0,NA,NA,NA,1
+903601,1st innings,South Africa,India,5.4,Q de Kock,F du Plessis,MM Sharma,4,0,4,NA,0,NA,NA,NA,1
+903601,1st innings,South Africa,India,5.5,Q de Kock,F du Plessis,MM Sharma,0,0,0,NA,0,NA,NA,NA,1
+903601,1st innings,South Africa,India,5.6,Q de Kock,F du Plessis,MM Sharma,0,0,0,NA,0,NA,NA,NA,1
+903601,1st innings,South Africa,India,6.1,F du Plessis,Q de Kock,Harbhajan Singh,0,0,0,NA,0,NA,NA,NA,1
+903601,1st innings,South Africa,India,6.2,F du Plessis,Q de Kock,Harbhajan Singh,0,0,0,NA,0,NA,NA,NA,1
+903601,1st innings,South Africa,India,6.3,F du Plessis,Q de Kock,Harbhajan Singh,0,0,0,NA,0,NA,NA,NA,1
+903601,1st innings,South Africa,India,6.4,F du Plessis,Q de Kock,Harbhajan Singh,0,0,0,NA,0,NA,NA,NA,1
+903601,1st innings,South Africa,India,6.5,F du Plessis,Q de Kock,Harbhajan Singh,0,0,0,NA,0,NA,NA,NA,1
+903601,1st innings,South Africa,India,6.6,F du Plessis,Q de Kock,Harbhajan Singh,1,0,1,NA,0,NA,NA,NA,1
+903601,1st innings,South Africa,India,7.1,F du Plessis,Q de Kock,B Kumar,0,0,0,NA,0,NA,NA,NA,1
+903601,1st innings,South Africa,India,7.2,F du Plessis,Q de Kock,B Kumar,0,0,0,NA,0,NA,NA,NA,1
+903601,1st innings,South Africa,India,7.3,F du Plessis,Q de Kock,B Kumar,0,0,0,NA,0,NA,NA,NA,1
+903601,1st innings,South Africa,India,7.4,F du Plessis,Q de Kock,B Kumar,4,0,4,NA,0,NA,NA,NA,1
+903601,1st innings,South Africa,India,7.5,F du Plessis,Q de Kock,B Kumar,4,0,4,NA,0,NA,NA,NA,1
+903601,1st innings,South Africa,India,7.6,F du Plessis,Q de Kock,B Kumar,1,0,1,NA,0,NA,NA,NA,1
+903601,1st innings,South Africa,India,8.1,F du Plessis,Q de Kock,Harbhajan Singh,1,0,1,NA,0,NA,NA,NA,1
+903601,1st innings,South Africa,India,8.2,Q de Kock,F du Plessis,Harbhajan Singh,1,0,1,NA,0,NA,NA,NA,1
+903601,1st innings,South Africa,India,8.3,F du Plessis,Q de Kock,Harbhajan Singh,1,0,1,NA,0,NA,NA,NA,1
+903601,1st innings,South Africa,India,8.4,Q de Kock,F du Plessis,Harbhajan Singh,1,0,1,NA,0,NA,NA,NA,1
+903601,1st innings,South Africa,India,8.5,F du Plessis,Q de Kock,Harbhajan Singh,1,0,1,NA,0,NA,NA,NA,1
+903601,1st innings,South Africa,India,8.6,Q de Kock,F du Plessis,Harbhajan Singh,0,0,0,NA,0,NA,NA,NA,1
+903601,1st innings,South Africa,India,9.1,F du Plessis,Q de Kock,AR Patel,0,0,0,NA,0,NA,NA,NA,1
+903601,1st innings,South Africa,India,9.2,F du Plessis,Q de Kock,AR Patel,0,0,0,NA,0,NA,NA,NA,1
+903601,1st innings,South Africa,India,9.3,F du Plessis,Q de Kock,AR Patel,1,0,1,NA,0,NA,NA,NA,1
+903601,1st innings,South Africa,India,9.4,Q de Kock,F du Plessis,AR Patel,4,0,4,NA,0,NA,NA,NA,1
+903601,1st innings,South Africa,India,9.5,Q de Kock,F du Plessis,AR Patel,1,0,1,NA,0,NA,NA,NA,1
+903601,1st innings,South Africa,India,9.6,F du Plessis,Q de Kock,AR Patel,0,0,0,NA,0,NA,NA,NA,1
+903601,1st innings,South Africa,India,10.1,Q de Kock,F du Plessis,Harbhajan Singh,0,0,0,NA,0,NA,NA,NA,1
+903601,1st innings,South Africa,India,10.2,Q de Kock,F du Plessis,Harbhajan Singh,0,0,0,NA,0,NA,NA,NA,1
+903601,1st innings,South Africa,India,10.3,Q de Kock,F du Plessis,Harbhajan Singh,0,0,0,NA,0,NA,NA,NA,1
+903601,1st innings,South Africa,India,10.4,Q de Kock,F du Plessis,Harbhajan Singh,1,0,1,NA,0,NA,NA,NA,1
+903601,1st innings,South Africa,India,10.5,F du Plessis,Q de Kock,Harbhajan Singh,1,0,1,NA,0,NA,NA,NA,1
+903601,1st innings,South Africa,India,10.6,Q de Kock,F du Plessis,Harbhajan Singh,1,0,1,NA,0,NA,NA,NA,1
+903601,1st innings,South Africa,India,11.1,Q de Kock,F du Plessis,AR Patel,0,2,2,legbyes,0,NA,NA,NA,1
+903601,1st innings,South Africa,India,11.2,Q de Kock,F du Plessis,AR Patel,0,0,0,NA,0,NA,NA,NA,1
+903601,1st innings,South Africa,India,11.3,Q de Kock,F du Plessis,AR Patel,4,0,4,NA,0,NA,NA,NA,1
+903601,1st innings,South Africa,India,11.4,Q de Kock,F du Plessis,AR Patel,4,0,4,NA,0,NA,NA,NA,1
+903601,1st innings,South Africa,India,11.5,Q de Kock,F du Plessis,AR Patel,0,0,0,NA,0,NA,NA,NA,1
+903601,1st innings,South Africa,India,11.6,Q de Kock,F du Plessis,AR Patel,0,0,0,NA,0,NA,NA,NA,1
+903601,1st innings,South Africa,India,12.1,F du Plessis,Q de Kock,Harbhajan Singh,1,0,1,NA,0,NA,NA,NA,1
+903601,1st innings,South Africa,India,12.2,Q de Kock,F du Plessis,Harbhajan Singh,0,0,0,NA,0,NA,NA,NA,1
+903601,1st innings,South Africa,India,12.3,Q de Kock,F du Plessis,Harbhajan Singh,4,0,4,NA,0,NA,NA,NA,1
+903601,1st innings,South Africa,India,12.4,Q de Kock,F du Plessis,Harbhajan Singh,1,0,1,NA,0,NA,NA,NA,1
+903601,1st innings,South Africa,India,12.5,F du Plessis,Q de Kock,Harbhajan Singh,0,0,0,NA,0,NA,NA,NA,1
+903601,1st innings,South Africa,India,12.6,F du Plessis,Q de Kock,Harbhajan Singh,0,0,0,NA,0,NA,NA,NA,1
+903601,1st innings,South Africa,India,13.1,Q de Kock,F du Plessis,AR Patel,2,0,2,NA,0,NA,NA,NA,1
+903601,1st innings,South Africa,India,13.2,Q de Kock,F du Plessis,AR Patel,0,0,0,NA,0,NA,NA,NA,1
+903601,1st innings,South Africa,India,13.3,Q de Kock,F du Plessis,AR Patel,1,0,1,NA,0,NA,NA,NA,1
+903601,1st innings,South Africa,India,13.4,F du Plessis,Q de Kock,AR Patel,0,0,0,NA,0,NA,NA,NA,1
+903601,1st innings,South Africa,India,13.5,F du Plessis,Q de Kock,AR Patel,1,0,1,NA,0,NA,NA,NA,1
+903601,1st innings,South Africa,India,13.6,Q de Kock,F du Plessis,AR Patel,1,0,1,NA,0,NA,NA,NA,1
+903601,1st innings,South Africa,India,14.1,Q de Kock,F du Plessis,Harbhajan Singh,0,1,1,wides,0,NA,NA,NA,1
+903601,1st innings,South Africa,India,14.2,Q de Kock,F du Plessis,Harbhajan Singh,1,0,1,NA,0,NA,NA,NA,1
+903601,1st innings,South Africa,India,14.3,F du Plessis,Q de Kock,Harbhajan Singh,0,0,0,NA,0,NA,NA,NA,1
+903601,1st innings,South Africa,India,14.4,F du Plessis,Q de Kock,Harbhajan Singh,1,0,1,NA,0,NA,NA,NA,1
+903601,1st innings,South Africa,India,14.5,Q de Kock,F du Plessis,Harbhajan Singh,1,0,1,NA,0,NA,NA,NA,1
+903601,1st innings,South Africa,India,14.6,F du Plessis,Q de Kock,Harbhajan Singh,1,0,1,NA,0,NA,NA,NA,1
+903601,1st innings,South Africa,India,14.7,Q de Kock,F du Plessis,Harbhajan Singh,1,0,1,NA,0,NA,NA,NA,1
+903601,1st innings,South Africa,India,15.1,Q de Kock,F du Plessis,A Mishra,1,0,1,NA,0,NA,NA,NA,1
+903601,1st innings,South Africa,India,15.2,F du Plessis,Q de Kock,A Mishra,1,0,1,NA,0,NA,NA,NA,1
+903601,1st innings,South Africa,India,15.3,Q de Kock,F du Plessis,A Mishra,0,0,0,NA,0,NA,NA,NA,1
+903601,1st innings,South Africa,India,15.4,Q de Kock,F du Plessis,A Mishra,0,0,0,NA,0,NA,NA,NA,1
+903601,1st innings,South Africa,India,15.5,Q de Kock,F du Plessis,A Mishra,0,0,0,NA,0,NA,NA,NA,1
+903601,1st innings,South Africa,India,15.6,Q de Kock,F du Plessis,A Mishra,4,0,4,NA,0,NA,NA,NA,1
+903601,1st innings,South Africa,India,16.1,F du Plessis,Q de Kock,Harbhajan Singh,0,0,0,NA,0,NA,NA,NA,1
+903601,1st innings,South Africa,India,16.2,F du Plessis,Q de Kock,Harbhajan Singh,0,0,0,NA,0,NA,NA,NA,1
+903601,1st innings,South Africa,India,16.3,F du Plessis,Q de Kock,Harbhajan Singh,1,0,1,NA,0,NA,NA,NA,1
+903601,1st innings,South Africa,India,16.4,Q de Kock,F du Plessis,Harbhajan Singh,0,0,0,NA,0,NA,NA,NA,1
+903601,1st innings,South Africa,India,16.5,Q de Kock,F du Plessis,Harbhajan Singh,1,0,1,NA,0,NA,NA,NA,1
+903601,1st innings,South Africa,India,16.6,F du Plessis,Q de Kock,Harbhajan Singh,0,0,0,NA,0,NA,NA,NA,1
+903601,1st innings,South Africa,India,17.1,Q de Kock,F du Plessis,A Mishra,1,0,1,NA,0,NA,NA,NA,1
+903601,1st innings,South Africa,India,17.2,F du Plessis,Q de Kock,A Mishra,5,0,5,NA,0,NA,NA,NA,1
+903601,1st innings,South Africa,India,17.3,Q de Kock,F du Plessis,A Mishra,1,0,1,NA,0,NA,NA,NA,1
+903601,1st innings,South Africa,India,17.4,F du Plessis,Q de Kock,A Mishra,1,0,1,NA,0,NA,NA,NA,1
+903601,1st innings,South Africa,India,17.5,Q de Kock,F du Plessis,A Mishra,1,0,1,NA,0,NA,NA,NA,1
+903601,1st innings,South Africa,India,17.6,F du Plessis,Q de Kock,A Mishra,1,0,1,NA,0,NA,NA,NA,1
+903601,1st innings,South Africa,India,18.1,F du Plessis,Q de Kock,Harbhajan Singh,0,1,1,wides,0,NA,NA,NA,1
+903601,1st innings,South Africa,India,18.2,F du Plessis,Q de Kock,Harbhajan Singh,1,0,1,NA,0,NA,NA,NA,1
+903601,1st innings,South Africa,India,18.3,Q de Kock,F du Plessis,Harbhajan Singh,4,0,4,NA,0,NA,NA,NA,1
+903601,1st innings,South Africa,India,18.4,Q de Kock,F du Plessis,Harbhajan Singh,4,0,4,NA,0,NA,NA,NA,1
+903601,1st innings,South Africa,India,18.5,Q de Kock,F du Plessis,Harbhajan Singh,2,0,2,NA,0,NA,NA,NA,1
+903601,1st innings,South Africa,India,18.6,Q de Kock,F du Plessis,Harbhajan Singh,0,0,0,NA,0,NA,NA,NA,1
+903601,1st innings,South Africa,India,18.7,Q de Kock,F du Plessis,Harbhajan Singh,1,0,1,NA,0,NA,NA,NA,1
+903601,1st innings,South Africa,India,19.1,Q de Kock,F du Plessis,A Mishra,4,0,4,NA,0,NA,NA,NA,1
+903601,1st innings,South Africa,India,19.2,Q de Kock,F du Plessis,A Mishra,0,0,0,NA,0,NA,NA,NA,1
+903601,1st innings,South Africa,India,19.3,Q de Kock,F du Plessis,A Mishra,0,0,0,NA,0,NA,NA,NA,1
+903601,1st innings,South Africa,India,19.4,Q de Kock,F du Plessis,A Mishra,4,0,4,NA,0,NA,NA,NA,1
+903601,1st innings,South Africa,India,19.5,Q de Kock,F du Plessis,A Mishra,0,0,0,NA,0,NA,NA,NA,1
+903601,1st innings,South Africa,India,19.6,Q de Kock,F du Plessis,A Mishra,0,0,0,NA,0,NA,NA,NA,1
+903601,1st innings,South Africa,India,20.1,F du Plessis,Q de Kock,MM Sharma,1,0,1,NA,0,NA,NA,NA,1
+903601,1st innings,South Africa,India,20.2,Q de Kock,F du Plessis,MM Sharma,0,0,0,NA,0,NA,NA,NA,1
+903601,1st innings,South Africa,India,20.3,Q de Kock,F du Plessis,MM Sharma,1,0,1,NA,0,NA,NA,NA,1
+903601,1st innings,South Africa,India,20.4,F du Plessis,Q de Kock,MM Sharma,1,0,1,NA,0,NA,NA,NA,1
+903601,1st innings,South Africa,India,20.5,Q de Kock,F du Plessis,MM Sharma,2,0,2,NA,0,NA,NA,NA,1
+903601,1st innings,South Africa,India,20.6,Q de Kock,F du Plessis,MM Sharma,0,0,0,NA,0,NA,NA,NA,1
+903601,1st innings,South Africa,India,21.1,F du Plessis,Q de Kock,A Mishra,0,0,0,NA,0,NA,NA,NA,1
+903601,1st innings,South Africa,India,21.2,F du Plessis,Q de Kock,A Mishra,1,0,1,NA,0,NA,NA,NA,1
+903601,1st innings,South Africa,India,21.3,Q de Kock,F du Plessis,A Mishra,1,0,1,NA,0,NA,NA,NA,1
+903601,1st innings,South Africa,India,21.4,F du Plessis,Q de Kock,A Mishra,0,0,0,NA,0,NA,NA,NA,1
+903601,1st innings,South Africa,India,21.5,F du Plessis,Q de Kock,A Mishra,0,0,0,NA,0,NA,NA,NA,1
+903601,1st innings,South Africa,India,21.6,F du Plessis,Q de Kock,A Mishra,0,0,0,NA,0,NA,NA,NA,1
+903601,1st innings,South Africa,India,22.1,Q de Kock,F du Plessis,MM Sharma,6,0,6,NA,0,NA,NA,NA,1
+903601,1st innings,South Africa,India,22.2,Q de Kock,F du Plessis,MM Sharma,4,0,4,NA,0,NA,NA,NA,1
+903601,1st innings,South Africa,India,22.3,Q de Kock,F du Plessis,MM Sharma,1,0,1,NA,0,NA,NA,NA,1
+903601,1st innings,South Africa,India,22.4,F du Plessis,Q de Kock,MM Sharma,4,0,4,NA,0,NA,NA,NA,1
+903601,1st innings,South Africa,India,22.5,F du Plessis,Q de Kock,MM Sharma,1,0,1,NA,0,NA,NA,NA,1
+903601,1st innings,South Africa,India,22.6,Q de Kock,F du Plessis,MM Sharma,0,0,0,NA,0,NA,NA,NA,1
+903601,1st innings,South Africa,India,23.1,F du Plessis,Q de Kock,A Mishra,1,0,1,NA,0,NA,NA,NA,1
+903601,1st innings,South Africa,India,23.2,Q de Kock,F du Plessis,A Mishra,1,0,1,NA,0,NA,NA,NA,1
+903601,1st innings,South Africa,India,23.3,F du Plessis,Q de Kock,A Mishra,0,0,0,NA,0,NA,NA,NA,1
+903601,1st innings,South Africa,India,23.4,F du Plessis,Q de Kock,A Mishra,1,0,1,NA,0,NA,NA,NA,1
+903601,1st innings,South Africa,India,23.5,Q de Kock,F du Plessis,A Mishra,4,0,4,NA,0,NA,NA,NA,1
+903601,1st innings,South Africa,India,23.6,Q de Kock,F du Plessis,A Mishra,0,0,0,NA,0,NA,NA,NA,1
+903601,1st innings,South Africa,India,24.1,F du Plessis,Q de Kock,SK Raina,0,0,0,NA,0,NA,NA,NA,1
+903601,1st innings,South Africa,India,24.2,F du Plessis,Q de Kock,SK Raina,0,0,0,NA,0,NA,NA,NA,1
+903601,1st innings,South Africa,India,24.3,F du Plessis,Q de Kock,SK Raina,1,0,1,NA,0,NA,NA,NA,1
+903601,1st innings,South Africa,India,24.4,Q de Kock,F du Plessis,SK Raina,1,0,1,NA,0,NA,NA,NA,1
+903601,1st innings,South Africa,India,24.5,F du Plessis,Q de Kock,SK Raina,1,0,1,NA,0,NA,NA,NA,1
+903601,1st innings,South Africa,India,24.6,Q de Kock,F du Plessis,SK Raina,1,0,1,NA,0,NA,NA,NA,1
+903601,1st innings,South Africa,India,25.1,Q de Kock,F du Plessis,A Mishra,1,0,1,NA,0,NA,NA,NA,1
+903601,1st innings,South Africa,India,25.2,F du Plessis,Q de Kock,A Mishra,0,0,0,NA,0,NA,NA,NA,1
+903601,1st innings,South Africa,India,25.3,F du Plessis,Q de Kock,A Mishra,4,0,4,NA,0,NA,NA,NA,1
+903601,1st innings,South Africa,India,25.4,F du Plessis,Q de Kock,A Mishra,0,0,0,NA,0,NA,NA,NA,1
+903601,1st innings,South Africa,India,25.5,F du Plessis,Q de Kock,A Mishra,2,0,2,NA,0,NA,NA,NA,1
+903601,1st innings,South Africa,India,25.6,F du Plessis,Q de Kock,A Mishra,0,0,0,NA,0,NA,NA,NA,1
+903601,1st innings,South Africa,India,26.1,Q de Kock,F du Plessis,SK Raina,1,0,1,NA,0,NA,NA,NA,1
+903601,1st innings,South Africa,India,26.2,F du Plessis,Q de Kock,SK Raina,2,0,2,NA,0,NA,NA,NA,1
+903601,1st innings,South Africa,India,26.3,F du Plessis,Q de Kock,SK Raina,0,0,0,NA,0,NA,NA,NA,1
+903601,1st innings,South Africa,India,26.4,F du Plessis,Q de Kock,SK Raina,1,0,1,NA,0,NA,NA,NA,1
+903601,1st innings,South Africa,India,26.5,Q de Kock,F du Plessis,SK Raina,0,0,0,NA,1,caught,Q de Kock,V Kohli,1
+903601,1st innings,South Africa,India,26.6,AB de Villiers,F du Plessis,SK Raina,1,0,1,NA,0,NA,NA,NA,1
+903601,1st innings,South Africa,India,27.1,AB de Villiers,F du Plessis,AR Patel,1,0,1,NA,0,NA,NA,NA,1
+903601,1st innings,South Africa,India,27.2,F du Plessis,AB de Villiers,AR Patel,0,0,0,NA,0,NA,NA,NA,1
+903601,1st innings,South Africa,India,27.3,F du Plessis,AB de Villiers,AR Patel,0,0,0,NA,0,NA,NA,NA,1
+903601,1st innings,South Africa,India,27.4,F du Plessis,AB de Villiers,AR Patel,6,0,6,NA,0,NA,NA,NA,1
+903601,1st innings,South Africa,India,27.5,F du Plessis,AB de Villiers,AR Patel,0,0,0,NA,0,NA,NA,NA,1
+903601,1st innings,South Africa,India,27.6,F du Plessis,AB de Villiers,AR Patel,0,0,0,NA,0,NA,NA,NA,1
+903601,1st innings,South Africa,India,28.1,AB de Villiers,F du Plessis,SK Raina,1,0,1,NA,0,NA,NA,NA,1
+903601,1st innings,South Africa,India,28.2,F du Plessis,AB de Villiers,SK Raina,2,0,2,NA,0,NA,NA,NA,1
+903601,1st innings,South Africa,India,28.3,F du Plessis,AB de Villiers,SK Raina,0,0,0,NA,0,NA,NA,NA,1
+903601,1st innings,South Africa,India,28.4,F du Plessis,AB de Villiers,SK Raina,1,0,1,NA,0,NA,NA,NA,1
+903601,1st innings,South Africa,India,28.5,AB de Villiers,F du Plessis,SK Raina,0,0,0,NA,0,NA,NA,NA,1
+903601,1st innings,South Africa,India,28.6,AB de Villiers,F du Plessis,SK Raina,6,0,6,NA,0,NA,NA,NA,1
+903601,1st innings,South Africa,India,29.1,F du Plessis,AB de Villiers,AR Patel,0,0,0,NA,0,NA,NA,NA,1
+903601,1st innings,South Africa,India,29.2,F du Plessis,AB de Villiers,AR Patel,2,0,2,NA,0,NA,NA,NA,1
+903601,1st innings,South Africa,India,29.3,F du Plessis,AB de Villiers,AR Patel,0,0,0,NA,0,NA,NA,NA,1
+903601,1st innings,South Africa,India,29.4,F du Plessis,AB de Villiers,AR Patel,0,0,0,NA,0,NA,NA,NA,1
+903601,1st innings,South Africa,India,29.5,F du Plessis,AB de Villiers,AR Patel,1,0,1,NA,0,NA,NA,NA,1
+903601,1st innings,South Africa,India,29.6,AB de Villiers,F du Plessis,AR Patel,1,0,1,NA,0,NA,NA,NA,1
+903601,1st innings,South Africa,India,30.1,AB de Villiers,F du Plessis,V Kohli,1,0,1,NA,0,NA,NA,NA,1
+903601,1st innings,South Africa,India,30.2,F du Plessis,AB de Villiers,V Kohli,1,0,1,NA,0,NA,NA,NA,1
+903601,1st innings,South Africa,India,30.3,AB de Villiers,F du Plessis,V Kohli,0,0,0,NA,0,NA,NA,NA,1
+903601,1st innings,South Africa,India,30.4,AB de Villiers,F du Plessis,V Kohli,0,0,0,NA,0,NA,NA,NA,1
+903601,1st innings,South Africa,India,30.5,AB de Villiers,F du Plessis,V Kohli,1,0,1,NA,0,NA,NA,NA,1
+903601,1st innings,South Africa,India,30.6,F du Plessis,AB de Villiers,V Kohli,2,0,2,NA,0,NA,NA,NA,1
+903601,1st innings,South Africa,India,31.1,AB de Villiers,F du Plessis,AR Patel,1,0,1,NA,0,NA,NA,NA,1
+903601,1st innings,South Africa,India,31.2,F du Plessis,AB de Villiers,AR Patel,0,0,0,NA,0,NA,NA,NA,1
+903601,1st innings,South Africa,India,31.3,F du Plessis,AB de Villiers,AR Patel,1,0,1,NA,0,NA,NA,NA,1
+903601,1st innings,South Africa,India,31.4,AB de Villiers,F du Plessis,AR Patel,1,0,1,NA,0,NA,NA,NA,1
+903601,1st innings,South Africa,India,31.5,F du Plessis,AB de Villiers,AR Patel,0,0,0,NA,0,NA,NA,NA,1
+903601,1st innings,South Africa,India,31.6,F du Plessis,AB de Villiers,AR Patel,0,0,0,NA,0,NA,NA,NA,1
+903601,1st innings,South Africa,India,32.1,AB de Villiers,F du Plessis,V Kohli,1,0,1,NA,0,NA,NA,NA,1
+903601,1st innings,South Africa,India,32.2,F du Plessis,AB de Villiers,V Kohli,1,0,1,NA,0,NA,NA,NA,1
+903601,1st innings,South Africa,India,32.3,AB de Villiers,F du Plessis,V Kohli,2,0,2,NA,0,NA,NA,NA,1
+903601,1st innings,South Africa,India,32.4,AB de Villiers,F du Plessis,V Kohli,1,0,1,NA,0,NA,NA,NA,1
+903601,1st innings,South Africa,India,32.5,F du Plessis,AB de Villiers,V Kohli,4,0,4,NA,0,NA,NA,NA,1
+903601,1st innings,South Africa,India,32.6,F du Plessis,AB de Villiers,V Kohli,0,0,0,NA,0,NA,NA,NA,1
+903601,1st innings,South Africa,India,33.1,AB de Villiers,F du Plessis,AR Patel,0,0,0,NA,0,NA,NA,NA,1
+903601,1st innings,South Africa,India,33.2,AB de Villiers,F du Plessis,AR Patel,0,0,0,NA,0,NA,NA,NA,1
+903601,1st innings,South Africa,India,33.3,AB de Villiers,F du Plessis,AR Patel,1,0,1,NA,0,NA,NA,NA,1
+903601,1st innings,South Africa,India,33.4,F du Plessis,AB de Villiers,AR Patel,1,0,1,NA,0,NA,NA,NA,1
+903601,1st innings,South Africa,India,33.5,AB de Villiers,F du Plessis,AR Patel,2,0,2,NA,0,NA,NA,NA,1
+903601,1st innings,South Africa,India,33.6,AB de Villiers,F du Plessis,AR Patel,4,0,4,NA,0,NA,NA,NA,1
+903601,1st innings,South Africa,India,34.1,F du Plessis,AB de Villiers,B Kumar,1,0,1,NA,0,NA,NA,NA,1
+903601,1st innings,South Africa,India,34.2,AB de Villiers,F du Plessis,B Kumar,1,0,1,NA,0,NA,NA,NA,1
+903601,1st innings,South Africa,India,34.3,F du Plessis,AB de Villiers,B Kumar,0,0,0,NA,0,NA,NA,NA,1
+903601,1st innings,South Africa,India,34.4,F du Plessis,AB de Villiers,B Kumar,4,0,4,NA,0,NA,NA,NA,1
+903601,1st innings,South Africa,India,34.5,F du Plessis,AB de Villiers,B Kumar,0,0,0,NA,0,NA,NA,NA,1
+903601,1st innings,South Africa,India,34.6,F du Plessis,AB de Villiers,B Kumar,0,0,0,NA,0,NA,NA,NA,1
+903601,1st innings,South Africa,India,35.1,AB de Villiers,F du Plessis,Harbhajan Singh,0,1,1,wides,0,NA,NA,NA,1
+903601,1st innings,South Africa,India,35.2,AB de Villiers,F du Plessis,Harbhajan Singh,1,0,1,NA,0,NA,NA,NA,1
+903601,1st innings,South Africa,India,35.3,F du Plessis,AB de Villiers,Harbhajan Singh,1,0,1,NA,0,NA,NA,NA,1
+903601,1st innings,South Africa,India,35.4,AB de Villiers,F du Plessis,Harbhajan Singh,4,0,4,NA,0,NA,NA,NA,1
+903601,1st innings,South Africa,India,35.5,AB de Villiers,F du Plessis,Harbhajan Singh,2,0,2,NA,0,NA,NA,NA,1
+903601,1st innings,South Africa,India,35.6,AB de Villiers,F du Plessis,Harbhajan Singh,2,0,2,NA,0,NA,NA,NA,1
+903601,1st innings,South Africa,India,35.7,AB de Villiers,F du Plessis,Harbhajan Singh,1,0,1,NA,0,NA,NA,NA,1
+903601,1st innings,South Africa,India,36.1,AB de Villiers,F du Plessis,B Kumar,1,0,1,NA,0,NA,NA,NA,1
+903601,1st innings,South Africa,India,36.2,F du Plessis,AB de Villiers,B Kumar,0,0,0,NA,0,NA,NA,NA,1
+903601,1st innings,South Africa,India,36.3,F du Plessis,AB de Villiers,B Kumar,1,0,1,NA,0,NA,NA,NA,1
+903601,1st innings,South Africa,India,36.4,AB de Villiers,F du Plessis,B Kumar,0,0,0,NA,0,NA,NA,NA,1
+903601,1st innings,South Africa,India,36.5,AB de Villiers,F du Plessis,B Kumar,6,0,6,NA,0,NA,NA,NA,1
+903601,1st innings,South Africa,India,36.6,AB de Villiers,F du Plessis,B Kumar,1,0,1,NA,0,NA,NA,NA,1
+903601,1st innings,South Africa,India,37.1,AB de Villiers,F du Plessis,Harbhajan Singh,0,0,0,NA,0,NA,NA,NA,1
+903601,1st innings,South Africa,India,37.2,AB de Villiers,F du Plessis,Harbhajan Singh,1,0,1,NA,0,NA,NA,NA,1
+903601,1st innings,South Africa,India,37.3,F du Plessis,AB de Villiers,Harbhajan Singh,6,0,6,NA,0,NA,NA,NA,1
+903601,1st innings,South Africa,India,37.4,F du Plessis,AB de Villiers,Harbhajan Singh,0,0,0,NA,0,NA,NA,NA,1
+903601,1st innings,South Africa,India,37.5,F du Plessis,AB de Villiers,Harbhajan Singh,1,0,1,NA,0,NA,NA,NA,1
+903601,1st innings,South Africa,India,37.6,AB de Villiers,F du Plessis,Harbhajan Singh,0,0,0,NA,0,NA,NA,NA,1
+903601,1st innings,South Africa,India,38.1,F du Plessis,AB de Villiers,B Kumar,1,0,1,NA,0,NA,NA,NA,1
+903601,1st innings,South Africa,India,38.2,AB de Villiers,F du Plessis,B Kumar,6,0,6,NA,0,NA,NA,NA,1
+903601,1st innings,South Africa,India,38.3,AB de Villiers,F du Plessis,B Kumar,1,0,1,NA,0,NA,NA,NA,1
+903601,1st innings,South Africa,India,38.4,F du Plessis,AB de Villiers,B Kumar,4,0,4,NA,0,NA,NA,NA,1
+903601,1st innings,South Africa,India,38.5,F du Plessis,AB de Villiers,B Kumar,0,0,0,NA,0,NA,NA,NA,1
+903601,1st innings,South Africa,India,38.6,F du Plessis,AB de Villiers,B Kumar,0,1,1,wides,0,NA,NA,NA,1
+903601,1st innings,South Africa,India,38.7,F du Plessis,AB de Villiers,B Kumar,1,0,1,NA,0,NA,NA,NA,1
+903601,1st innings,South Africa,India,39.1,F du Plessis,AB de Villiers,A Mishra,3,0,3,NA,0,NA,NA,NA,1
+903601,1st innings,South Africa,India,39.2,AB de Villiers,F du Plessis,A Mishra,0,0,0,NA,0,NA,NA,NA,1
+903601,1st innings,South Africa,India,39.3,AB de Villiers,F du Plessis,A Mishra,0,0,0,NA,0,NA,NA,NA,1
+903601,1st innings,South Africa,India,39.4,AB de Villiers,F du Plessis,A Mishra,1,0,1,NA,0,NA,NA,NA,1
+903601,1st innings,South Africa,India,39.5,F du Plessis,AB de Villiers,A Mishra,1,0,1,NA,0,NA,NA,NA,1
+903601,1st innings,South Africa,India,39.6,AB de Villiers,F du Plessis,A Mishra,6,0,6,NA,0,NA,NA,NA,1
+903601,1st innings,South Africa,India,40.1,F du Plessis,AB de Villiers,MM Sharma,1,0,1,NA,0,NA,NA,NA,1
+903601,1st innings,South Africa,India,40.2,AB de Villiers,F du Plessis,MM Sharma,6,0,6,NA,0,NA,NA,NA,1
+903601,1st innings,South Africa,India,40.3,AB de Villiers,F du Plessis,MM Sharma,1,0,1,NA,0,NA,NA,NA,1
+903601,1st innings,South Africa,India,40.4,F du Plessis,AB de Villiers,MM Sharma,1,0,1,NA,0,NA,NA,NA,1
+903601,1st innings,South Africa,India,40.5,AB de Villiers,F du Plessis,MM Sharma,6,0,6,NA,0,NA,NA,NA,1
+903601,1st innings,South Africa,India,40.6,AB de Villiers,F du Plessis,MM Sharma,1,0,1,NA,0,NA,NA,NA,1
+903601,1st innings,South Africa,India,41.1,AB de Villiers,F du Plessis,A Mishra,0,0,0,NA,0,NA,NA,NA,1
+903601,1st innings,South Africa,India,41.2,AB de Villiers,F du Plessis,A Mishra,2,0,2,NA,0,NA,NA,NA,1
+903601,1st innings,South Africa,India,41.3,AB de Villiers,F du Plessis,A Mishra,1,0,1,NA,0,NA,NA,NA,1
+903601,1st innings,South Africa,India,41.4,F du Plessis,AB de Villiers,A Mishra,1,0,1,NA,0,NA,NA,NA,1
+903601,1st innings,South Africa,India,41.5,AB de Villiers,F du Plessis,A Mishra,1,0,1,NA,0,NA,NA,NA,1
+903601,1st innings,South Africa,India,41.6,F du Plessis,AB de Villiers,A Mishra,1,0,1,NA,0,NA,NA,NA,1
+903601,1st innings,South Africa,India,42.1,F du Plessis,AB de Villiers,AR Patel,6,0,6,NA,0,NA,NA,NA,1
+903601,1st innings,South Africa,India,42.2,F du Plessis,AB de Villiers,AR Patel,1,0,1,NA,0,NA,NA,NA,1
+903601,1st innings,South Africa,India,42.3,AB de Villiers,F du Plessis,AR Patel,1,0,1,NA,0,NA,NA,NA,1
+903601,1st innings,South Africa,India,42.4,F du Plessis,AB de Villiers,AR Patel,6,0,6,NA,0,NA,NA,NA,1
+903601,1st innings,South Africa,India,42.5,F du Plessis,AB de Villiers,AR Patel,6,0,6,NA,0,NA,NA,NA,1
+903601,1st innings,South Africa,India,42.6,F du Plessis,AB de Villiers,AR Patel,4,0,4,NA,0,NA,NA,NA,1
+903601,1st innings,South Africa,India,43.1,AB de Villiers,F du Plessis,B Kumar,1,0,1,NA,0,NA,NA,NA,1
+903601,1st innings,South Africa,India,43.2,F du Plessis,AB de Villiers,B Kumar,6,0,6,NA,0,NA,NA,NA,1
+903601,1st innings,South Africa,India,43.3,F du Plessis,AB de Villiers,B Kumar,0,0,0,NA,0,NA,NA,NA,1
+903601,1st innings,South Africa,India,43.4,F du Plessis,AB de Villiers,B Kumar,0,0,0,NA,0,NA,NA,NA,1
+903601,1st innings,South Africa,India,43.5,F du Plessis,AB de Villiers,B Kumar,4,0,4,NA,0,NA,NA,NA,1
+903601,1st innings,South Africa,India,43.6,F du Plessis,AB de Villiers,B Kumar,0,0,0,NA,1,retired hurt,F du Plessis,NA,1
+903601,1st innings,South Africa,India,44.1,AB de Villiers,DA Miller,A Mishra,1,0,1,NA,0,NA,NA,NA,1
+903601,1st innings,South Africa,India,44.2,DA Miller,AB de Villiers,A Mishra,1,0,1,NA,0,NA,NA,NA,1
+903601,1st innings,South Africa,India,44.3,AB de Villiers,DA Miller,A Mishra,0,0,0,NA,0,NA,NA,NA,1
+903601,1st innings,South Africa,India,44.4,AB de Villiers,DA Miller,A Mishra,2,0,2,NA,0,NA,NA,NA,1
+903601,1st innings,South Africa,India,44.5,AB de Villiers,DA Miller,A Mishra,6,0,6,NA,0,NA,NA,NA,1
+903601,1st innings,South Africa,India,44.6,AB de Villiers,DA Miller,A Mishra,6,0,6,NA,0,NA,NA,NA,1
+903601,1st innings,South Africa,India,45.1,DA Miller,AB de Villiers,MM Sharma,1,0,1,NA,0,NA,NA,NA,1
+903601,1st innings,South Africa,India,45.2,AB de Villiers,DA Miller,MM Sharma,4,0,4,NA,0,NA,NA,NA,1
+903601,1st innings,South Africa,India,45.3,AB de Villiers,DA Miller,MM Sharma,1,0,1,NA,0,NA,NA,NA,1
+903601,1st innings,South Africa,India,45.4,DA Miller,AB de Villiers,MM Sharma,1,0,1,NA,0,NA,NA,NA,1
+903601,1st innings,South Africa,India,45.5,AB de Villiers,DA Miller,MM Sharma,0,1,1,wides,0,NA,NA,NA,1
+903601,1st innings,South Africa,India,45.6,AB de Villiers,DA Miller,MM Sharma,0,1,1,wides,0,NA,NA,NA,1
+903601,1st innings,South Africa,India,45.7,AB de Villiers,DA Miller,MM Sharma,2,0,2,NA,0,NA,NA,NA,1
+903601,1st innings,South Africa,India,45.8,AB de Villiers,DA Miller,MM Sharma,6,0,6,NA,0,NA,NA,NA,1
+903601,1st innings,South Africa,India,46.1,DA Miller,AB de Villiers,B Kumar,1,0,1,NA,0,NA,NA,NA,1
+903601,1st innings,South Africa,India,46.2,AB de Villiers,DA Miller,B Kumar,0,1,1,wides,0,NA,NA,NA,1
+903601,1st innings,South Africa,India,46.3,AB de Villiers,DA Miller,B Kumar,6,0,6,NA,0,NA,NA,NA,1
+903601,1st innings,South Africa,India,46.4,AB de Villiers,DA Miller,B Kumar,6,0,6,NA,0,NA,NA,NA,1
+903601,1st innings,South Africa,India,46.5,AB de Villiers,DA Miller,B Kumar,0,0,0,NA,1,caught,AB de Villiers,MS Dhoni,1
+903601,1st innings,South Africa,India,46.6,F Behardien,DA Miller,B Kumar,0,0,0,NA,0,NA,NA,NA,1
+903601,1st innings,South Africa,India,46.7,F Behardien,DA Miller,B Kumar,1,0,1,NA,0,NA,NA,NA,1
+903601,1st innings,South Africa,India,47.1,F Behardien,DA Miller,A Mishra,0,0,0,NA,0,NA,NA,NA,1
+903601,1st innings,South Africa,India,47.2,F Behardien,DA Miller,A Mishra,0,0,0,NA,0,NA,NA,NA,1
+903601,1st innings,South Africa,India,47.3,F Behardien,DA Miller,A Mishra,1,0,1,NA,0,NA,NA,NA,1
+903601,1st innings,South Africa,India,47.4,DA Miller,F Behardien,A Mishra,0,1,1,wides,0,NA,NA,NA,1
+903601,1st innings,South Africa,India,47.5,DA Miller,F Behardien,A Mishra,1,0,1,NA,0,NA,NA,NA,1
+903601,1st innings,South Africa,India,47.6,F Behardien,DA Miller,A Mishra,1,0,1,NA,0,NA,NA,NA,1
+903601,1st innings,South Africa,India,47.7,DA Miller,F Behardien,A Mishra,1,0,1,NA,0,NA,NA,NA,1
+903601,1st innings,South Africa,India,48.1,DA Miller,F Behardien,B Kumar,4,0,4,NA,0,NA,NA,NA,1
+903601,1st innings,South Africa,India,48.2,DA Miller,F Behardien,B Kumar,4,0,4,NA,0,NA,NA,NA,1
+903601,1st innings,South Africa,India,48.3,DA Miller,F Behardien,B Kumar,4,0,4,NA,0,NA,NA,NA,1
+903601,1st innings,South Africa,India,48.4,DA Miller,F Behardien,B Kumar,1,0,1,NA,0,NA,NA,NA,1
+903601,1st innings,South Africa,India,48.5,F Behardien,DA Miller,B Kumar,6,0,6,NA,0,NA,NA,NA,1
+903601,1st innings,South Africa,India,48.6,F Behardien,DA Miller,B Kumar,1,0,1,NA,0,NA,NA,NA,1
+903601,1st innings,South Africa,India,49.1,F Behardien,DA Miller,Harbhajan Singh,6,0,6,NA,0,NA,NA,NA,1
+903601,1st innings,South Africa,India,49.2,F Behardien,DA Miller,Harbhajan Singh,0,0,0,NA,1,caught,F Behardien,SK Raina,1
+903601,1st innings,South Africa,India,49.3,D Elgar,DA Miller,Harbhajan Singh,4,0,4,NA,0,NA,NA,NA,1
+903601,1st innings,South Africa,India,49.4,D Elgar,DA Miller,Harbhajan Singh,1,0,1,NA,0,NA,NA,NA,1
+903601,1st innings,South Africa,India,49.5,DA Miller,D Elgar,Harbhajan Singh,2,0,2,NA,0,NA,NA,NA,1
+903601,1st innings,South Africa,India,49.6,DA Miller,D Elgar,Harbhajan Singh,1,0,1,NA,0,NA,NA,NA,1
+903601,2nd innings,India,South Africa,0.1,RG Sharma,S Dhawan,DW Steyn,0,0,0,NA,0,NA,NA,NA,0
+903601,2nd innings,India,South Africa,0.2,RG Sharma,S Dhawan,DW Steyn,0,0,0,NA,0,NA,NA,NA,0
+903601,2nd innings,India,South Africa,0.3,RG Sharma,S Dhawan,DW Steyn,0,0,0,NA,0,NA,NA,NA,0
+903601,2nd innings,India,South Africa,0.4,RG Sharma,S Dhawan,DW Steyn,0,0,0,NA,0,NA,NA,NA,0
+903601,2nd innings,India,South Africa,0.5,RG Sharma,S Dhawan,DW Steyn,4,0,4,NA,0,NA,NA,NA,0
+903601,2nd innings,India,South Africa,0.6,RG Sharma,S Dhawan,DW Steyn,4,0,4,NA,0,NA,NA,NA,0
+903601,2nd innings,India,South Africa,1.1,S Dhawan,RG Sharma,K Rabada,0,0,0,NA,0,NA,NA,NA,0
+903601,2nd innings,India,South Africa,1.2,S Dhawan,RG Sharma,K Rabada,0,0,0,NA,0,NA,NA,NA,0
+903601,2nd innings,India,South Africa,1.3,S Dhawan,RG Sharma,K Rabada,0,0,0,NA,0,NA,NA,NA,0
+903601,2nd innings,India,South Africa,1.4,S Dhawan,RG Sharma,K Rabada,4,0,4,NA,0,NA,NA,NA,0
+903601,2nd innings,India,South Africa,1.5,S Dhawan,RG Sharma,K Rabada,0,0,0,NA,0,NA,NA,NA,0
+903601,2nd innings,India,South Africa,1.6,S Dhawan,RG Sharma,K Rabada,0,0,0,NA,0,NA,NA,NA,0
+903601,2nd innings,India,South Africa,2.1,RG Sharma,S Dhawan,KJ Abbott,0,0,0,NA,0,NA,NA,NA,0
+903601,2nd innings,India,South Africa,2.2,RG Sharma,S Dhawan,KJ Abbott,0,0,0,NA,0,NA,NA,NA,0
+903601,2nd innings,India,South Africa,2.3,RG Sharma,S Dhawan,KJ Abbott,2,0,2,NA,0,NA,NA,NA,0
+903601,2nd innings,India,South Africa,2.4,RG Sharma,S Dhawan,KJ Abbott,0,0,0,NA,0,NA,NA,NA,0
+903601,2nd innings,India,South Africa,2.5,RG Sharma,S Dhawan,KJ Abbott,0,0,0,NA,0,NA,NA,NA,0
+903601,2nd innings,India,South Africa,2.6,RG Sharma,S Dhawan,KJ Abbott,2,0,2,NA,0,NA,NA,NA,0
+903601,2nd innings,India,South Africa,3.1,S Dhawan,RG Sharma,K Rabada,1,0,1,NA,0,NA,NA,NA,0
+903601,2nd innings,India,South Africa,3.2,RG Sharma,S Dhawan,K Rabada,0,0,0,NA,0,NA,NA,NA,0
+903601,2nd innings,India,South Africa,3.3,RG Sharma,S Dhawan,K Rabada,0,0,0,NA,0,NA,NA,NA,0
+903601,2nd innings,India,South Africa,3.4,RG Sharma,S Dhawan,K Rabada,4,0,4,NA,0,NA,NA,NA,0
+903601,2nd innings,India,South Africa,3.5,RG Sharma,S Dhawan,K Rabada,0,0,0,NA,0,NA,NA,NA,0
+903601,2nd innings,India,South Africa,3.6,RG Sharma,S Dhawan,K Rabada,0,0,0,NA,0,NA,NA,NA,0
+903601,2nd innings,India,South Africa,4.1,S Dhawan,RG Sharma,KJ Abbott,0,0,0,NA,0,NA,NA,NA,0
+903601,2nd innings,India,South Africa,4.2,S Dhawan,RG Sharma,KJ Abbott,0,0,0,NA,0,NA,NA,NA,0
+903601,2nd innings,India,South Africa,4.3,S Dhawan,RG Sharma,KJ Abbott,1,0,1,NA,0,NA,NA,NA,0
+903601,2nd innings,India,South Africa,4.4,RG Sharma,S Dhawan,KJ Abbott,0,0,0,NA,0,NA,NA,NA,0
+903601,2nd innings,India,South Africa,4.5,RG Sharma,S Dhawan,KJ Abbott,0,0,0,NA,0,NA,NA,NA,0
+903601,2nd innings,India,South Africa,4.6,RG Sharma,S Dhawan,KJ Abbott,0,0,0,NA,1,caught,RG Sharma,Imran Tahir,0
+903601,2nd innings,India,South Africa,5.1,S Dhawan,V Kohli,K Rabada,0,0,0,NA,0,NA,NA,NA,0
+903601,2nd innings,India,South Africa,5.2,S Dhawan,V Kohli,K Rabada,0,0,0,NA,0,NA,NA,NA,0
+903601,2nd innings,India,South Africa,5.3,S Dhawan,V Kohli,K Rabada,0,0,0,NA,0,NA,NA,NA,0
+903601,2nd innings,India,South Africa,5.4,S Dhawan,V Kohli,K Rabada,4,0,4,NA,0,NA,NA,NA,0
+903601,2nd innings,India,South Africa,5.5,S Dhawan,V Kohli,K Rabada,0,0,0,NA,0,NA,NA,NA,0
+903601,2nd innings,India,South Africa,5.6,S Dhawan,V Kohli,K Rabada,1,0,1,NA,0,NA,NA,NA,0
+903601,2nd innings,India,South Africa,6.1,S Dhawan,V Kohli,KJ Abbott,0,0,0,NA,0,NA,NA,NA,0
+903601,2nd innings,India,South Africa,6.2,S Dhawan,V Kohli,KJ Abbott,0,1,1,legbyes,0,NA,NA,NA,0
+903601,2nd innings,India,South Africa,6.3,V Kohli,S Dhawan,KJ Abbott,0,0,0,NA,0,NA,NA,NA,0
+903601,2nd innings,India,South Africa,6.4,V Kohli,S Dhawan,KJ Abbott,1,0,1,NA,0,NA,NA,NA,0
+903601,2nd innings,India,South Africa,6.5,S Dhawan,V Kohli,KJ Abbott,4,0,4,NA,0,NA,NA,NA,0
+903601,2nd innings,India,South Africa,6.6,S Dhawan,V Kohli,KJ Abbott,4,0,4,NA,0,NA,NA,NA,0
+903601,2nd innings,India,South Africa,7.1,V Kohli,S Dhawan,K Rabada,0,1,1,wides,0,NA,NA,NA,0
+903601,2nd innings,India,South Africa,7.2,V Kohli,S Dhawan,K Rabada,0,0,0,NA,0,NA,NA,NA,0
+903601,2nd innings,India,South Africa,7.3,V Kohli,S Dhawan,K Rabada,6,0,6,NA,0,NA,NA,NA,0
+903601,2nd innings,India,South Africa,7.4,V Kohli,S Dhawan,K Rabada,0,0,0,NA,0,NA,NA,NA,0
+903601,2nd innings,India,South Africa,7.5,V Kohli,S Dhawan,K Rabada,0,0,0,NA,1,caught,V Kohli,Q de Kock,0
+903601,2nd innings,India,South Africa,7.6,AM Rahane,S Dhawan,K Rabada,1,0,1,NA,0,NA,NA,NA,0
+903601,2nd innings,India,South Africa,7.7,S Dhawan,AM Rahane,K Rabada,0,0,0,NA,0,NA,NA,NA,0
+903601,2nd innings,India,South Africa,8.1,AM Rahane,S Dhawan,KJ Abbott,0,0,0,NA,0,NA,NA,NA,0
+903601,2nd innings,India,South Africa,8.2,AM Rahane,S Dhawan,KJ Abbott,1,0,1,NA,0,NA,NA,NA,0
+903601,2nd innings,India,South Africa,8.3,S Dhawan,AM Rahane,KJ Abbott,1,0,1,NA,0,NA,NA,NA,0
+903601,2nd innings,India,South Africa,8.4,AM Rahane,S Dhawan,KJ Abbott,1,0,1,NA,0,NA,NA,NA,0
+903601,2nd innings,India,South Africa,8.5,S Dhawan,AM Rahane,KJ Abbott,0,0,0,NA,0,NA,NA,NA,0
+903601,2nd innings,India,South Africa,8.6,S Dhawan,AM Rahane,KJ Abbott,0,0,0,NA,0,NA,NA,NA,0
+903601,2nd innings,India,South Africa,9.1,AM Rahane,S Dhawan,DW Steyn,1,0,1,NA,0,NA,NA,NA,0
+903601,2nd innings,India,South Africa,9.2,S Dhawan,AM Rahane,DW Steyn,0,0,0,NA,0,NA,NA,NA,0
+903601,2nd innings,India,South Africa,9.3,S Dhawan,AM Rahane,DW Steyn,0,0,0,NA,0,NA,NA,NA,0
+903601,2nd innings,India,South Africa,9.4,S Dhawan,AM Rahane,DW Steyn,1,0,1,NA,0,NA,NA,NA,0
+903601,2nd innings,India,South Africa,9.5,AM Rahane,S Dhawan,DW Steyn,1,0,1,NA,0,NA,NA,NA,0
+903601,2nd innings,India,South Africa,9.6,S Dhawan,AM Rahane,DW Steyn,0,0,0,NA,0,NA,NA,NA,0
+903601,2nd innings,India,South Africa,10.1,AM Rahane,S Dhawan,F Behardien,1,0,1,NA,0,NA,NA,NA,0
+903601,2nd innings,India,South Africa,10.2,S Dhawan,AM Rahane,F Behardien,1,0,1,NA,0,NA,NA,NA,0
+903601,2nd innings,India,South Africa,10.3,AM Rahane,S Dhawan,F Behardien,1,0,1,NA,0,NA,NA,NA,0
+903601,2nd innings,India,South Africa,10.4,S Dhawan,AM Rahane,F Behardien,1,0,1,NA,0,NA,NA,NA,0
+903601,2nd innings,India,South Africa,10.5,AM Rahane,S Dhawan,F Behardien,1,0,1,NA,0,NA,NA,NA,0
+903601,2nd innings,India,South Africa,10.6,S Dhawan,AM Rahane,F Behardien,1,0,1,NA,0,NA,NA,NA,0
+903601,2nd innings,India,South Africa,11.1,S Dhawan,AM Rahane,DW Steyn,1,0,1,NA,0,NA,NA,NA,0
+903601,2nd innings,India,South Africa,11.2,AM Rahane,S Dhawan,DW Steyn,0,0,0,NA,0,NA,NA,NA,0
+903601,2nd innings,India,South Africa,11.3,AM Rahane,S Dhawan,DW Steyn,4,0,4,NA,0,NA,NA,NA,0
+903601,2nd innings,India,South Africa,11.4,AM Rahane,S Dhawan,DW Steyn,0,0,0,NA,0,NA,NA,NA,0
+903601,2nd innings,India,South Africa,11.5,AM Rahane,S Dhawan,DW Steyn,4,0,4,NA,0,NA,NA,NA,0
+903601,2nd innings,India,South Africa,11.6,AM Rahane,S Dhawan,DW Steyn,0,0,0,NA,0,NA,NA,NA,0
+903601,2nd innings,India,South Africa,12.1,S Dhawan,AM Rahane,F Behardien,0,0,0,NA,0,NA,NA,NA,0
+903601,2nd innings,India,South Africa,12.2,S Dhawan,AM Rahane,F Behardien,1,0,1,NA,0,NA,NA,NA,0
+903601,2nd innings,India,South Africa,12.3,AM Rahane,S Dhawan,F Behardien,2,0,2,NA,0,NA,NA,NA,0
+903601,2nd innings,India,South Africa,12.4,AM Rahane,S Dhawan,F Behardien,0,0,0,NA,0,NA,NA,NA,0
+903601,2nd innings,India,South Africa,12.5,AM Rahane,S Dhawan,F Behardien,1,0,1,NA,0,NA,NA,NA,0
+903601,2nd innings,India,South Africa,12.6,S Dhawan,AM Rahane,F Behardien,1,0,1,NA,0,NA,NA,NA,0
+903601,2nd innings,India,South Africa,13.1,S Dhawan,AM Rahane,DW Steyn,1,0,1,NA,0,NA,NA,NA,0
+903601,2nd innings,India,South Africa,13.2,AM Rahane,S Dhawan,DW Steyn,4,0,4,NA,0,NA,NA,NA,0
+903601,2nd innings,India,South Africa,13.3,AM Rahane,S Dhawan,DW Steyn,4,0,4,NA,0,NA,NA,NA,0
+903601,2nd innings,India,South Africa,13.4,AM Rahane,S Dhawan,DW Steyn,0,0,0,NA,0,NA,NA,NA,0
+903601,2nd innings,India,South Africa,13.5,AM Rahane,S Dhawan,DW Steyn,1,0,1,NA,0,NA,NA,NA,0
+903601,2nd innings,India,South Africa,13.6,S Dhawan,AM Rahane,DW Steyn,1,0,1,NA,0,NA,NA,NA,0
+903601,2nd innings,India,South Africa,14.1,S Dhawan,AM Rahane,F Behardien,1,0,1,NA,0,NA,NA,NA,0
+903601,2nd innings,India,South Africa,14.2,AM Rahane,S Dhawan,F Behardien,0,0,0,NA,0,NA,NA,NA,0
+903601,2nd innings,India,South Africa,14.3,AM Rahane,S Dhawan,F Behardien,1,0,1,NA,0,NA,NA,NA,0
+903601,2nd innings,India,South Africa,14.4,S Dhawan,AM Rahane,F Behardien,4,0,4,NA,0,NA,NA,NA,0
+903601,2nd innings,India,South Africa,14.5,S Dhawan,AM Rahane,F Behardien,1,0,1,NA,0,NA,NA,NA,0
+903601,2nd innings,India,South Africa,14.6,AM Rahane,S Dhawan,F Behardien,1,0,1,NA,0,NA,NA,NA,0
+903601,2nd innings,India,South Africa,15.1,AM Rahane,S Dhawan,Imran Tahir,1,0,1,NA,0,NA,NA,NA,0
+903601,2nd innings,India,South Africa,15.2,S Dhawan,AM Rahane,Imran Tahir,1,0,1,NA,0,NA,NA,NA,0
+903601,2nd innings,India,South Africa,15.3,AM Rahane,S Dhawan,Imran Tahir,1,0,1,NA,0,NA,NA,NA,0
+903601,2nd innings,India,South Africa,15.4,S Dhawan,AM Rahane,Imran Tahir,1,0,1,NA,0,NA,NA,NA,0
+903601,2nd innings,India,South Africa,15.5,AM Rahane,S Dhawan,Imran Tahir,1,0,1,NA,0,NA,NA,NA,0
+903601,2nd innings,India,South Africa,15.6,S Dhawan,AM Rahane,Imran Tahir,1,0,1,NA,0,NA,NA,NA,0
+903601,2nd innings,India,South Africa,16.1,S Dhawan,AM Rahane,F Behardien,1,0,1,NA,0,NA,NA,NA,0
+903601,2nd innings,India,South Africa,16.2,AM Rahane,S Dhawan,F Behardien,1,0,1,NA,0,NA,NA,NA,0
+903601,2nd innings,India,South Africa,16.3,S Dhawan,AM Rahane,F Behardien,4,0,4,NA,0,NA,NA,NA,0
+903601,2nd innings,India,South Africa,16.4,S Dhawan,AM Rahane,F Behardien,1,0,1,NA,0,NA,NA,NA,0
+903601,2nd innings,India,South Africa,16.5,AM Rahane,S Dhawan,F Behardien,1,0,1,NA,0,NA,NA,NA,0
+903601,2nd innings,India,South Africa,16.6,S Dhawan,AM Rahane,F Behardien,0,0,0,NA,0,NA,NA,NA,0
+903601,2nd innings,India,South Africa,17.1,AM Rahane,S Dhawan,Imran Tahir,6,0,6,NA,0,NA,NA,NA,0
+903601,2nd innings,India,South Africa,17.2,AM Rahane,S Dhawan,Imran Tahir,1,0,1,NA,0,NA,NA,NA,0
+903601,2nd innings,India,South Africa,17.3,S Dhawan,AM Rahane,Imran Tahir,0,0,0,NA,0,NA,NA,NA,0
+903601,2nd innings,India,South Africa,17.4,S Dhawan,AM Rahane,Imran Tahir,1,0,1,NA,0,NA,NA,NA,0
+903601,2nd innings,India,South Africa,17.5,AM Rahane,S Dhawan,Imran Tahir,0,0,0,NA,0,NA,NA,NA,0
+903601,2nd innings,India,South Africa,17.6,AM Rahane,S Dhawan,Imran Tahir,0,0,0,NA,0,NA,NA,NA,0
+903601,2nd innings,India,South Africa,18.1,S Dhawan,AM Rahane,F Behardien,4,0,4,NA,0,NA,NA,NA,0
+903601,2nd innings,India,South Africa,18.2,S Dhawan,AM Rahane,F Behardien,1,0,1,NA,0,NA,NA,NA,0
+903601,2nd innings,India,South Africa,18.3,AM Rahane,S Dhawan,F Behardien,0,0,0,NA,0,NA,NA,NA,0
+903601,2nd innings,India,South Africa,18.4,AM Rahane,S Dhawan,F Behardien,0,0,0,NA,0,NA,NA,NA,0
+903601,2nd innings,India,South Africa,18.5,AM Rahane,S Dhawan,F Behardien,1,0,1,NA,0,NA,NA,NA,0
+903601,2nd innings,India,South Africa,18.6,S Dhawan,AM Rahane,F Behardien,1,0,1,NA,0,NA,NA,NA,0
+903601,2nd innings,India,South Africa,19.1,S Dhawan,AM Rahane,Imran Tahir,1,0,1,NA,0,NA,NA,NA,0
+903601,2nd innings,India,South Africa,19.2,AM Rahane,S Dhawan,Imran Tahir,2,0,2,NA,0,NA,NA,NA,0
+903601,2nd innings,India,South Africa,19.3,AM Rahane,S Dhawan,Imran Tahir,0,0,0,NA,0,NA,NA,NA,0
+903601,2nd innings,India,South Africa,19.4,AM Rahane,S Dhawan,Imran Tahir,1,0,1,NA,0,NA,NA,NA,0
+903601,2nd innings,India,South Africa,19.5,S Dhawan,AM Rahane,Imran Tahir,4,0,4,NA,0,NA,NA,NA,0
+903601,2nd innings,India,South Africa,19.6,S Dhawan,AM Rahane,Imran Tahir,1,0,1,NA,0,NA,NA,NA,0
+903601,2nd innings,India,South Africa,20.1,S Dhawan,AM Rahane,F Behardien,1,0,1,NA,0,NA,NA,NA,0
+903601,2nd innings,India,South Africa,20.2,AM Rahane,S Dhawan,F Behardien,0,0,0,NA,0,NA,NA,NA,0
+903601,2nd innings,India,South Africa,20.3,AM Rahane,S Dhawan,F Behardien,4,0,4,NA,0,NA,NA,NA,0
+903601,2nd innings,India,South Africa,20.4,AM Rahane,S Dhawan,F Behardien,2,0,2,NA,0,NA,NA,NA,0
+903601,2nd innings,India,South Africa,20.5,AM Rahane,S Dhawan,F Behardien,1,0,1,NA,0,NA,NA,NA,0
+903601,2nd innings,India,South Africa,20.6,S Dhawan,AM Rahane,F Behardien,1,0,1,NA,0,NA,NA,NA,0
+903601,2nd innings,India,South Africa,21.1,S Dhawan,AM Rahane,Imran Tahir,1,0,1,NA,0,NA,NA,NA,0
+903601,2nd innings,India,South Africa,21.2,AM Rahane,S Dhawan,Imran Tahir,6,0,6,NA,0,NA,NA,NA,0
+903601,2nd innings,India,South Africa,21.3,AM Rahane,S Dhawan,Imran Tahir,0,0,0,NA,0,NA,NA,NA,0
+903601,2nd innings,India,South Africa,21.4,AM Rahane,S Dhawan,Imran Tahir,0,0,0,NA,0,NA,NA,NA,0
+903601,2nd innings,India,South Africa,21.5,AM Rahane,S Dhawan,Imran Tahir,6,0,6,NA,0,NA,NA,NA,0
+903601,2nd innings,India,South Africa,21.6,AM Rahane,S Dhawan,Imran Tahir,1,0,1,NA,0,NA,NA,NA,0
+903601,2nd innings,India,South Africa,22.1,AM Rahane,S Dhawan,K Rabada,4,0,4,NA,0,NA,NA,NA,0
+903601,2nd innings,India,South Africa,22.2,AM Rahane,S Dhawan,K Rabada,1,0,1,NA,0,NA,NA,NA,0
+903601,2nd innings,India,South Africa,22.3,S Dhawan,AM Rahane,K Rabada,0,0,0,NA,1,caught,S Dhawan,HM Amla,0
+903601,2nd innings,India,South Africa,22.4,SK Raina,AM Rahane,K Rabada,0,0,0,NA,0,NA,NA,NA,0
+903601,2nd innings,India,South Africa,22.5,SK Raina,AM Rahane,K Rabada,1,0,1,NA,0,NA,NA,NA,0
+903601,2nd innings,India,South Africa,22.6,AM Rahane,SK Raina,K Rabada,4,0,4,NA,0,NA,NA,NA,0
+903601,2nd innings,India,South Africa,23.1,SK Raina,AM Rahane,Imran Tahir,0,0,0,NA,0,NA,NA,NA,0
+903601,2nd innings,India,South Africa,23.2,SK Raina,AM Rahane,Imran Tahir,6,0,6,NA,0,NA,NA,NA,0
+903601,2nd innings,India,South Africa,23.3,SK Raina,AM Rahane,Imran Tahir,0,0,0,NA,0,NA,NA,NA,0
+903601,2nd innings,India,South Africa,23.4,SK Raina,AM Rahane,Imran Tahir,0,0,0,NA,0,NA,NA,NA,0
+903601,2nd innings,India,South Africa,23.5,SK Raina,AM Rahane,Imran Tahir,0,0,0,NA,0,NA,NA,NA,0
+903601,2nd innings,India,South Africa,23.6,SK Raina,AM Rahane,Imran Tahir,1,0,1,NA,0,NA,NA,NA,0
+903601,2nd innings,India,South Africa,24.1,SK Raina,AM Rahane,K Rabada,0,0,0,NA,0,NA,NA,NA,0
+903601,2nd innings,India,South Africa,24.2,SK Raina,AM Rahane,K Rabada,4,0,4,NA,0,NA,NA,NA,0
+903601,2nd innings,India,South Africa,24.3,SK Raina,AM Rahane,K Rabada,0,0,0,NA,0,NA,NA,NA,0
+903601,2nd innings,India,South Africa,24.4,SK Raina,AM Rahane,K Rabada,0,0,0,NA,0,NA,NA,NA,0
+903601,2nd innings,India,South Africa,24.5,SK Raina,AM Rahane,K Rabada,0,0,0,NA,1,bowled,SK Raina,NA,0
+903601,2nd innings,India,South Africa,24.6,MS Dhoni,AM Rahane,K Rabada,0,0,0,NA,0,NA,NA,NA,0
+903601,2nd innings,India,South Africa,25.1,AM Rahane,MS Dhoni,KJ Abbott,4,0,4,NA,0,NA,NA,NA,0
+903601,2nd innings,India,South Africa,25.2,AM Rahane,MS Dhoni,KJ Abbott,4,0,4,NA,0,NA,NA,NA,0
+903601,2nd innings,India,South Africa,25.3,AM Rahane,MS Dhoni,KJ Abbott,1,0,1,NA,0,NA,NA,NA,0
+903601,2nd innings,India,South Africa,25.4,MS Dhoni,AM Rahane,KJ Abbott,1,0,1,NA,0,NA,NA,NA,0
+903601,2nd innings,India,South Africa,25.5,AM Rahane,MS Dhoni,KJ Abbott,2,0,2,NA,0,NA,NA,NA,0
+903601,2nd innings,India,South Africa,25.6,AM Rahane,MS Dhoni,KJ Abbott,1,0,1,NA,0,NA,NA,NA,0
+903601,2nd innings,India,South Africa,26.1,AM Rahane,MS Dhoni,DW Steyn,0,0,0,NA,0,NA,NA,NA,0
+903601,2nd innings,India,South Africa,26.2,AM Rahane,MS Dhoni,DW Steyn,0,0,0,NA,1,caught,AM Rahane,F Behardien,0
+903601,2nd innings,India,South Africa,26.3,MS Dhoni,AR Patel,DW Steyn,0,0,0,NA,0,NA,NA,NA,0
+903601,2nd innings,India,South Africa,26.4,MS Dhoni,AR Patel,DW Steyn,0,0,0,NA,0,NA,NA,NA,0
+903601,2nd innings,India,South Africa,26.5,MS Dhoni,AR Patel,DW Steyn,0,1,1,wides,0,NA,NA,NA,0
+903601,2nd innings,India,South Africa,26.6,MS Dhoni,AR Patel,DW Steyn,0,0,0,NA,0,NA,NA,NA,0
+903601,2nd innings,India,South Africa,26.7,MS Dhoni,AR Patel,DW Steyn,1,0,1,NA,0,NA,NA,NA,0
+903601,2nd innings,India,South Africa,27.1,MS Dhoni,AR Patel,KJ Abbott,1,0,1,NA,0,NA,NA,NA,0
+903601,2nd innings,India,South Africa,27.2,AR Patel,MS Dhoni,KJ Abbott,0,0,0,NA,0,NA,NA,NA,0
+903601,2nd innings,India,South Africa,27.3,AR Patel,MS Dhoni,KJ Abbott,1,0,1,NA,0,NA,NA,NA,0
+903601,2nd innings,India,South Africa,27.4,MS Dhoni,AR Patel,KJ Abbott,0,0,0,NA,0,NA,NA,NA,0
+903601,2nd innings,India,South Africa,27.5,MS Dhoni,AR Patel,KJ Abbott,1,0,1,NA,0,NA,NA,NA,0
+903601,2nd innings,India,South Africa,27.6,AR Patel,MS Dhoni,KJ Abbott,1,0,1,NA,0,NA,NA,NA,0
+903601,2nd innings,India,South Africa,28.1,AR Patel,MS Dhoni,DW Steyn,0,0,0,NA,0,NA,NA,NA,0
+903601,2nd innings,India,South Africa,28.2,AR Patel,MS Dhoni,DW Steyn,1,0,1,NA,0,NA,NA,NA,0
+903601,2nd innings,India,South Africa,28.3,MS Dhoni,AR Patel,DW Steyn,1,0,1,NA,0,NA,NA,NA,0
+903601,2nd innings,India,South Africa,28.4,AR Patel,MS Dhoni,DW Steyn,2,0,2,NA,0,NA,NA,NA,0
+903601,2nd innings,India,South Africa,28.5,AR Patel,MS Dhoni,DW Steyn,0,0,0,NA,0,NA,NA,NA,0
+903601,2nd innings,India,South Africa,28.6,AR Patel,MS Dhoni,DW Steyn,0,0,0,NA,1,caught,AR Patel,DA Miller,0
+903601,2nd innings,India,South Africa,29.1,MS Dhoni,Harbhajan Singh,KJ Abbott,0,0,0,NA,0,NA,NA,NA,0
+903601,2nd innings,India,South Africa,29.2,MS Dhoni,Harbhajan Singh,KJ Abbott,4,0,4,NA,0,NA,NA,NA,0
+903601,2nd innings,India,South Africa,29.3,MS Dhoni,Harbhajan Singh,KJ Abbott,1,0,1,NA,0,NA,NA,NA,0
+903601,2nd innings,India,South Africa,29.4,Harbhajan Singh,MS Dhoni,KJ Abbott,0,0,0,NA,0,NA,NA,NA,0
+903601,2nd innings,India,South Africa,29.5,Harbhajan Singh,MS Dhoni,KJ Abbott,0,0,0,NA,0,NA,NA,NA,0
+903601,2nd innings,India,South Africa,29.6,Harbhajan Singh,MS Dhoni,KJ Abbott,0,0,0,NA,0,NA,NA,NA,0
+903601,2nd innings,India,South Africa,30.1,MS Dhoni,Harbhajan Singh,DW Steyn,1,0,1,NA,0,NA,NA,NA,0
+903601,2nd innings,India,South Africa,30.2,Harbhajan Singh,MS Dhoni,DW Steyn,0,0,0,NA,1,caught,Harbhajan Singh,CH Morris (sub),0
+903601,2nd innings,India,South Africa,30.3,B Kumar,MS Dhoni,DW Steyn,0,0,0,NA,0,NA,NA,NA,0
+903601,2nd innings,India,South Africa,30.4,B Kumar,MS Dhoni,DW Steyn,0,0,0,NA,0,NA,NA,NA,0
+903601,2nd innings,India,South Africa,30.5,B Kumar,MS Dhoni,DW Steyn,0,0,0,NA,0,NA,NA,NA,0
+903601,2nd innings,India,South Africa,30.6,B Kumar,MS Dhoni,DW Steyn,0,0,0,NA,0,NA,NA,NA,0
+903601,2nd innings,India,South Africa,31.1,MS Dhoni,B Kumar,F Behardien,1,0,1,NA,0,NA,NA,NA,0
+903601,2nd innings,India,South Africa,31.2,B Kumar,MS Dhoni,F Behardien,1,0,1,NA,0,NA,NA,NA,0
+903601,2nd innings,India,South Africa,31.3,MS Dhoni,B Kumar,F Behardien,0,0,0,NA,0,NA,NA,NA,0
+903601,2nd innings,India,South Africa,31.4,MS Dhoni,B Kumar,F Behardien,1,0,1,NA,0,NA,NA,NA,0
+903601,2nd innings,India,South Africa,31.5,B Kumar,MS Dhoni,F Behardien,0,0,0,NA,0,NA,NA,NA,0
+903601,2nd innings,India,South Africa,31.6,B Kumar,MS Dhoni,F Behardien,0,0,0,NA,0,NA,NA,NA,0
+903601,2nd innings,India,South Africa,32.1,MS Dhoni,B Kumar,Imran Tahir,0,0,0,NA,0,NA,NA,NA,0
+903601,2nd innings,India,South Africa,32.2,MS Dhoni,B Kumar,Imran Tahir,2,0,2,NA,0,NA,NA,NA,0
+903601,2nd innings,India,South Africa,32.3,MS Dhoni,B Kumar,Imran Tahir,0,0,0,NA,0,NA,NA,NA,0
+903601,2nd innings,India,South Africa,32.4,MS Dhoni,B Kumar,Imran Tahir,2,0,2,NA,0,NA,NA,NA,0
+903601,2nd innings,India,South Africa,32.5,MS Dhoni,B Kumar,Imran Tahir,0,1,1,wides,0,NA,NA,NA,0
+903601,2nd innings,India,South Africa,32.6,MS Dhoni,B Kumar,Imran Tahir,1,0,1,NA,0,NA,NA,NA,0
+903601,2nd innings,India,South Africa,32.7,B Kumar,MS Dhoni,Imran Tahir,0,0,0,NA,1,caught,B Kumar,DA Miller,0
+903601,2nd innings,India,South Africa,33.1,MS Dhoni,A Mishra,F Behardien,0,0,0,NA,0,NA,NA,NA,0
+903601,2nd innings,India,South Africa,33.2,MS Dhoni,A Mishra,F Behardien,0,0,0,NA,0,NA,NA,NA,0
+903601,2nd innings,India,South Africa,33.3,MS Dhoni,A Mishra,F Behardien,4,0,4,NA,0,NA,NA,NA,0
+903601,2nd innings,India,South Africa,33.4,MS Dhoni,A Mishra,F Behardien,4,0,4,NA,0,NA,NA,NA,0
+903601,2nd innings,India,South Africa,33.5,MS Dhoni,A Mishra,F Behardien,1,0,1,NA,0,NA,NA,NA,0
+903601,2nd innings,India,South Africa,33.6,A Mishra,MS Dhoni,F Behardien,0,0,0,NA,0,NA,NA,NA,0
+903601,2nd innings,India,South Africa,34.1,MS Dhoni,A Mishra,Imran Tahir,0,0,0,NA,0,NA,NA,NA,0
+903601,2nd innings,India,South Africa,34.2,MS Dhoni,A Mishra,Imran Tahir,0,0,0,NA,1,bowled,MS Dhoni,NA,0
+903601,2nd innings,India,South Africa,34.3,MM Sharma,A Mishra,Imran Tahir,0,0,0,NA,0,NA,NA,NA,0
+903601,2nd innings,India,South Africa,34.4,MM Sharma,A Mishra,Imran Tahir,0,0,0,NA,0,NA,NA,NA,0
+903601,2nd innings,India,South Africa,34.5,MM Sharma,A Mishra,Imran Tahir,0,0,0,NA,0,NA,NA,NA,0
+903601,2nd innings,India,South Africa,34.6,MM Sharma,A Mishra,Imran Tahir,0,0,0,NA,0,NA,NA,NA,0
+903601,2nd innings,India,South Africa,35.1,A Mishra,MM Sharma,K Rabada,0,1,1,wides,0,NA,NA,NA,0
+903601,2nd innings,India,South Africa,35.2,A Mishra,MM Sharma,K Rabada,0,0,0,NA,0,NA,NA,NA,0
+903601,2nd innings,India,South Africa,35.3,A Mishra,MM Sharma,K Rabada,0,0,0,NA,0,NA,NA,NA,0
+903601,2nd innings,India,South Africa,35.4,A Mishra,MM Sharma,K Rabada,0,0,0,NA,0,NA,NA,NA,0
+903601,2nd innings,India,South Africa,35.5,A Mishra,MM Sharma,K Rabada,0,0,0,NA,0,NA,NA,NA,0
+903601,2nd innings,India,South Africa,35.6,A Mishra,MM Sharma,K Rabada,4,0,4,NA,0,NA,NA,NA,0
+903601,2nd innings,India,South Africa,35.7,A Mishra,MM Sharma,K Rabada,0,0,0,NA,1,lbw,A Mishra,NA,0

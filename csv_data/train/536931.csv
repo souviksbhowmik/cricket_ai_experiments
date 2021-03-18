@@ -1,0 +1,593 @@
+match_id,innings,team,opponent,ball,batsman,non_striker,bowler,scored_runs,extras,total,extra_type,wicket,wicket_type,player_out,fielders,winner
+536931,1st innings,West Indies,India,0.1,LMP Simmons,DP Hyatt,R Vinay Kumar,0,0,0,NA,0,NA,NA,NA,1
+536931,1st innings,West Indies,India,0.2,LMP Simmons,DP Hyatt,R Vinay Kumar,0,0,0,NA,0,NA,NA,NA,1
+536931,1st innings,West Indies,India,0.3,LMP Simmons,DP Hyatt,R Vinay Kumar,0,0,0,NA,0,NA,NA,NA,1
+536931,1st innings,West Indies,India,0.4,LMP Simmons,DP Hyatt,R Vinay Kumar,1,0,1,NA,0,NA,NA,NA,1
+536931,1st innings,West Indies,India,0.5,DP Hyatt,LMP Simmons,R Vinay Kumar,0,0,0,NA,0,NA,NA,NA,1
+536931,1st innings,West Indies,India,0.6,DP Hyatt,LMP Simmons,R Vinay Kumar,1,0,1,NA,0,NA,NA,NA,1
+536931,1st innings,West Indies,India,1.1,DP Hyatt,LMP Simmons,UT Yadav,0,0,0,NA,0,NA,NA,NA,1
+536931,1st innings,West Indies,India,1.2,DP Hyatt,LMP Simmons,UT Yadav,0,0,0,NA,0,NA,NA,NA,1
+536931,1st innings,West Indies,India,1.3,DP Hyatt,LMP Simmons,UT Yadav,0,0,0,NA,0,NA,NA,NA,1
+536931,1st innings,West Indies,India,1.4,DP Hyatt,LMP Simmons,UT Yadav,0,0,0,NA,0,NA,NA,NA,1
+536931,1st innings,West Indies,India,1.5,DP Hyatt,LMP Simmons,UT Yadav,0,0,0,NA,0,NA,NA,NA,1
+536931,1st innings,West Indies,India,1.6,DP Hyatt,LMP Simmons,UT Yadav,0,0,0,NA,0,NA,NA,NA,1
+536931,1st innings,West Indies,India,2.1,LMP Simmons,DP Hyatt,R Vinay Kumar,0,0,0,NA,0,NA,NA,NA,1
+536931,1st innings,West Indies,India,2.2,LMP Simmons,DP Hyatt,R Vinay Kumar,0,0,0,NA,0,NA,NA,NA,1
+536931,1st innings,West Indies,India,2.3,LMP Simmons,DP Hyatt,R Vinay Kumar,0,0,0,NA,0,NA,NA,NA,1
+536931,1st innings,West Indies,India,2.4,LMP Simmons,DP Hyatt,R Vinay Kumar,0,0,0,NA,1,caught,LMP Simmons,PA Patel,1
+536931,1st innings,West Indies,India,2.5,MN Samuels,DP Hyatt,R Vinay Kumar,0,0,0,NA,0,NA,NA,NA,1
+536931,1st innings,West Indies,India,2.6,MN Samuels,DP Hyatt,R Vinay Kumar,0,0,0,NA,0,NA,NA,NA,1
+536931,1st innings,West Indies,India,3.1,DP Hyatt,MN Samuels,UT Yadav,0,0,0,NA,0,NA,NA,NA,1
+536931,1st innings,West Indies,India,3.2,DP Hyatt,MN Samuels,UT Yadav,0,0,0,NA,0,NA,NA,NA,1
+536931,1st innings,West Indies,India,3.3,DP Hyatt,MN Samuels,UT Yadav,0,0,0,NA,0,NA,NA,NA,1
+536931,1st innings,West Indies,India,3.4,DP Hyatt,MN Samuels,UT Yadav,0,0,0,NA,0,NA,NA,NA,1
+536931,1st innings,West Indies,India,3.5,DP Hyatt,MN Samuels,UT Yadav,0,0,0,NA,0,NA,NA,NA,1
+536931,1st innings,West Indies,India,3.6,DP Hyatt,MN Samuels,UT Yadav,4,0,4,NA,0,NA,NA,NA,1
+536931,1st innings,West Indies,India,4.1,MN Samuels,DP Hyatt,R Vinay Kumar,1,0,1,NA,0,NA,NA,NA,1
+536931,1st innings,West Indies,India,4.2,DP Hyatt,MN Samuels,R Vinay Kumar,0,0,0,NA,0,NA,NA,NA,1
+536931,1st innings,West Indies,India,4.3,DP Hyatt,MN Samuels,R Vinay Kumar,0,0,0,NA,0,NA,NA,NA,1
+536931,1st innings,West Indies,India,4.4,DP Hyatt,MN Samuels,R Vinay Kumar,0,0,0,NA,0,NA,NA,NA,1
+536931,1st innings,West Indies,India,4.5,DP Hyatt,MN Samuels,R Vinay Kumar,0,0,0,NA,0,NA,NA,NA,1
+536931,1st innings,West Indies,India,4.6,DP Hyatt,MN Samuels,R Vinay Kumar,0,0,0,NA,0,NA,NA,NA,1
+536931,1st innings,West Indies,India,5.1,MN Samuels,DP Hyatt,UT Yadav,0,0,0,NA,0,NA,NA,NA,1
+536931,1st innings,West Indies,India,5.2,MN Samuels,DP Hyatt,UT Yadav,0,0,0,NA,0,NA,NA,NA,1
+536931,1st innings,West Indies,India,5.3,MN Samuels,DP Hyatt,UT Yadav,0,0,0,NA,0,NA,NA,NA,1
+536931,1st innings,West Indies,India,5.4,MN Samuels,DP Hyatt,UT Yadav,0,0,0,NA,0,NA,NA,NA,1
+536931,1st innings,West Indies,India,5.5,MN Samuels,DP Hyatt,UT Yadav,0,0,0,NA,0,NA,NA,NA,1
+536931,1st innings,West Indies,India,5.6,MN Samuels,DP Hyatt,UT Yadav,1,0,1,NA,0,NA,NA,NA,1
+536931,1st innings,West Indies,India,6.1,MN Samuels,DP Hyatt,R Vinay Kumar,0,0,0,NA,0,NA,NA,NA,1
+536931,1st innings,West Indies,India,6.2,MN Samuels,DP Hyatt,R Vinay Kumar,0,0,0,NA,0,NA,NA,NA,1
+536931,1st innings,West Indies,India,6.3,MN Samuels,DP Hyatt,R Vinay Kumar,0,0,0,NA,0,NA,NA,NA,1
+536931,1st innings,West Indies,India,6.4,MN Samuels,DP Hyatt,R Vinay Kumar,1,0,1,NA,0,NA,NA,NA,1
+536931,1st innings,West Indies,India,6.5,DP Hyatt,MN Samuels,R Vinay Kumar,1,0,1,NA,0,NA,NA,NA,1
+536931,1st innings,West Indies,India,6.6,MN Samuels,DP Hyatt,R Vinay Kumar,0,0,0,NA,0,NA,NA,NA,1
+536931,1st innings,West Indies,India,7.1,DP Hyatt,MN Samuels,A Mithun,0,1,1,legbyes,0,NA,NA,NA,1
+536931,1st innings,West Indies,India,7.2,MN Samuels,DP Hyatt,A Mithun,0,0,0,NA,0,NA,NA,NA,1
+536931,1st innings,West Indies,India,7.3,MN Samuels,DP Hyatt,A Mithun,1,0,1,NA,0,NA,NA,NA,1
+536931,1st innings,West Indies,India,7.4,DP Hyatt,MN Samuels,A Mithun,1,0,1,NA,0,NA,NA,NA,1
+536931,1st innings,West Indies,India,7.5,MN Samuels,DP Hyatt,A Mithun,4,0,4,NA,0,NA,NA,NA,1
+536931,1st innings,West Indies,India,7.6,MN Samuels,DP Hyatt,A Mithun,4,0,4,NA,0,NA,NA,NA,1
+536931,1st innings,West Indies,India,8.1,DP Hyatt,MN Samuels,R Vinay Kumar,3,0,3,NA,0,NA,NA,NA,1
+536931,1st innings,West Indies,India,8.2,MN Samuels,DP Hyatt,R Vinay Kumar,0,0,0,NA,0,NA,NA,NA,1
+536931,1st innings,West Indies,India,8.3,MN Samuels,DP Hyatt,R Vinay Kumar,0,0,0,NA,0,NA,NA,NA,1
+536931,1st innings,West Indies,India,8.4,MN Samuels,DP Hyatt,R Vinay Kumar,2,0,2,NA,0,NA,NA,NA,1
+536931,1st innings,West Indies,India,8.5,MN Samuels,DP Hyatt,R Vinay Kumar,1,0,1,NA,0,NA,NA,NA,1
+536931,1st innings,West Indies,India,8.6,DP Hyatt,MN Samuels,R Vinay Kumar,1,0,1,NA,0,NA,NA,NA,1
+536931,1st innings,West Indies,India,9.1,DP Hyatt,MN Samuels,A Mithun,0,0,0,NA,0,NA,NA,NA,1
+536931,1st innings,West Indies,India,9.2,DP Hyatt,MN Samuels,A Mithun,0,0,0,NA,0,NA,NA,NA,1
+536931,1st innings,West Indies,India,9.3,DP Hyatt,MN Samuels,A Mithun,1,0,1,NA,0,NA,NA,NA,1
+536931,1st innings,West Indies,India,9.4,MN Samuels,DP Hyatt,A Mithun,0,0,0,NA,0,NA,NA,NA,1
+536931,1st innings,West Indies,India,9.5,MN Samuels,DP Hyatt,A Mithun,1,0,1,NA,0,NA,NA,NA,1
+536931,1st innings,West Indies,India,9.6,DP Hyatt,MN Samuels,A Mithun,0,0,0,NA,0,NA,NA,NA,1
+536931,1st innings,West Indies,India,10.1,MN Samuels,DP Hyatt,R Vinay Kumar,1,0,1,NA,0,NA,NA,NA,1
+536931,1st innings,West Indies,India,10.2,DP Hyatt,MN Samuels,R Vinay Kumar,0,0,0,NA,0,NA,NA,NA,1
+536931,1st innings,West Indies,India,10.3,DP Hyatt,MN Samuels,R Vinay Kumar,6,0,6,NA,0,NA,NA,NA,1
+536931,1st innings,West Indies,India,10.4,DP Hyatt,MN Samuels,R Vinay Kumar,0,0,0,NA,0,NA,NA,NA,1
+536931,1st innings,West Indies,India,10.5,DP Hyatt,MN Samuels,R Vinay Kumar,1,0,1,NA,0,NA,NA,NA,1
+536931,1st innings,West Indies,India,10.6,MN Samuels,DP Hyatt,R Vinay Kumar,0,0,0,NA,0,NA,NA,NA,1
+536931,1st innings,West Indies,India,11.1,DP Hyatt,MN Samuels,A Mithun,0,0,0,NA,0,NA,NA,NA,1
+536931,1st innings,West Indies,India,11.2,DP Hyatt,MN Samuels,A Mithun,0,1,1,legbyes,0,NA,NA,NA,1
+536931,1st innings,West Indies,India,11.3,MN Samuels,DP Hyatt,A Mithun,0,0,0,NA,0,NA,NA,NA,1
+536931,1st innings,West Indies,India,11.4,MN Samuels,DP Hyatt,A Mithun,0,0,0,NA,0,NA,NA,NA,1
+536931,1st innings,West Indies,India,11.5,MN Samuels,DP Hyatt,A Mithun,1,0,1,NA,0,NA,NA,NA,1
+536931,1st innings,West Indies,India,11.6,DP Hyatt,MN Samuels,A Mithun,0,0,0,NA,0,NA,NA,NA,1
+536931,1st innings,West Indies,India,12.1,MN Samuels,DP Hyatt,RA Jadeja,0,0,0,NA,0,NA,NA,NA,1
+536931,1st innings,West Indies,India,12.2,MN Samuels,DP Hyatt,RA Jadeja,0,0,0,NA,0,NA,NA,NA,1
+536931,1st innings,West Indies,India,12.3,MN Samuels,DP Hyatt,RA Jadeja,1,0,1,NA,0,NA,NA,NA,1
+536931,1st innings,West Indies,India,12.4,DP Hyatt,MN Samuels,RA Jadeja,0,0,0,NA,0,NA,NA,NA,1
+536931,1st innings,West Indies,India,12.5,DP Hyatt,MN Samuels,RA Jadeja,0,0,0,NA,0,NA,NA,NA,1
+536931,1st innings,West Indies,India,12.6,DP Hyatt,MN Samuels,RA Jadeja,1,0,1,NA,0,NA,NA,NA,1
+536931,1st innings,West Indies,India,13.1,DP Hyatt,MN Samuels,A Mithun,0,0,0,NA,1,caught,DP Hyatt,PA Patel,1
+536931,1st innings,West Indies,India,13.2,DM Bravo,MN Samuels,A Mithun,0,0,0,NA,0,NA,NA,NA,1
+536931,1st innings,West Indies,India,13.3,DM Bravo,MN Samuels,A Mithun,0,0,0,NA,0,NA,NA,NA,1
+536931,1st innings,West Indies,India,13.4,DM Bravo,MN Samuels,A Mithun,0,0,0,NA,0,NA,NA,NA,1
+536931,1st innings,West Indies,India,13.5,DM Bravo,MN Samuels,A Mithun,2,0,2,NA,0,NA,NA,NA,1
+536931,1st innings,West Indies,India,13.6,DM Bravo,MN Samuels,A Mithun,0,0,0,NA,0,NA,NA,NA,1
+536931,1st innings,West Indies,India,14.1,MN Samuels,DM Bravo,RA Jadeja,0,0,0,NA,0,NA,NA,NA,1
+536931,1st innings,West Indies,India,14.2,MN Samuels,DM Bravo,RA Jadeja,0,0,0,NA,0,NA,NA,NA,1
+536931,1st innings,West Indies,India,14.3,MN Samuels,DM Bravo,RA Jadeja,0,0,0,NA,0,NA,NA,NA,1
+536931,1st innings,West Indies,India,14.4,MN Samuels,DM Bravo,RA Jadeja,0,0,0,NA,0,NA,NA,NA,1
+536931,1st innings,West Indies,India,14.5,MN Samuels,DM Bravo,RA Jadeja,0,0,0,NA,0,NA,NA,NA,1
+536931,1st innings,West Indies,India,14.6,MN Samuels,DM Bravo,RA Jadeja,0,0,0,NA,0,NA,NA,NA,1
+536931,1st innings,West Indies,India,15.1,DM Bravo,MN Samuels,A Mithun,0,0,0,NA,0,NA,NA,NA,1
+536931,1st innings,West Indies,India,15.2,DM Bravo,MN Samuels,A Mithun,0,0,0,NA,0,NA,NA,NA,1
+536931,1st innings,West Indies,India,15.3,DM Bravo,MN Samuels,A Mithun,1,0,1,NA,0,NA,NA,NA,1
+536931,1st innings,West Indies,India,15.4,MN Samuels,DM Bravo,A Mithun,0,0,0,NA,0,NA,NA,NA,1
+536931,1st innings,West Indies,India,15.5,MN Samuels,DM Bravo,A Mithun,2,0,2,NA,0,NA,NA,NA,1
+536931,1st innings,West Indies,India,15.6,MN Samuels,DM Bravo,A Mithun,0,0,0,NA,0,NA,NA,NA,1
+536931,1st innings,West Indies,India,16.1,DM Bravo,MN Samuels,UT Yadav,1,0,1,NA,0,NA,NA,NA,1
+536931,1st innings,West Indies,India,16.2,MN Samuels,DM Bravo,UT Yadav,0,0,0,NA,0,NA,NA,NA,1
+536931,1st innings,West Indies,India,16.3,MN Samuels,DM Bravo,UT Yadav,0,0,0,NA,0,NA,NA,NA,1
+536931,1st innings,West Indies,India,16.4,MN Samuels,DM Bravo,UT Yadav,4,0,4,NA,0,NA,NA,NA,1
+536931,1st innings,West Indies,India,16.5,MN Samuels,DM Bravo,UT Yadav,0,0,0,NA,0,NA,NA,NA,1
+536931,1st innings,West Indies,India,16.6,MN Samuels,DM Bravo,UT Yadav,0,0,0,NA,0,NA,NA,NA,1
+536931,1st innings,West Indies,India,17.1,DM Bravo,MN Samuels,A Mithun,0,0,0,NA,0,NA,NA,NA,1
+536931,1st innings,West Indies,India,17.2,DM Bravo,MN Samuels,A Mithun,4,0,4,NA,0,NA,NA,NA,1
+536931,1st innings,West Indies,India,17.3,DM Bravo,MN Samuels,A Mithun,0,0,0,NA,0,NA,NA,NA,1
+536931,1st innings,West Indies,India,17.4,DM Bravo,MN Samuels,A Mithun,0,0,0,NA,0,NA,NA,NA,1
+536931,1st innings,West Indies,India,17.5,DM Bravo,MN Samuels,A Mithun,2,0,2,NA,0,NA,NA,NA,1
+536931,1st innings,West Indies,India,17.6,DM Bravo,MN Samuels,A Mithun,0,0,0,NA,0,NA,NA,NA,1
+536931,1st innings,West Indies,India,18.1,MN Samuels,DM Bravo,UT Yadav,6,0,6,NA,0,NA,NA,NA,1
+536931,1st innings,West Indies,India,18.2,MN Samuels,DM Bravo,UT Yadav,4,0,4,NA,0,NA,NA,NA,1
+536931,1st innings,West Indies,India,18.3,MN Samuels,DM Bravo,UT Yadav,0,0,0,NA,0,NA,NA,NA,1
+536931,1st innings,West Indies,India,18.4,MN Samuels,DM Bravo,UT Yadav,4,0,4,NA,0,NA,NA,NA,1
+536931,1st innings,West Indies,India,18.5,MN Samuels,DM Bravo,UT Yadav,1,0,1,NA,0,NA,NA,NA,1
+536931,1st innings,West Indies,India,18.6,DM Bravo,MN Samuels,UT Yadav,1,0,1,NA,0,NA,NA,NA,1
+536931,1st innings,West Indies,India,19.1,DM Bravo,MN Samuels,R Ashwin,0,1,1,wides,0,NA,NA,NA,1
+536931,1st innings,West Indies,India,19.2,DM Bravo,MN Samuels,R Ashwin,0,0,0,NA,0,NA,NA,NA,1
+536931,1st innings,West Indies,India,19.3,DM Bravo,MN Samuels,R Ashwin,0,0,0,NA,0,NA,NA,NA,1
+536931,1st innings,West Indies,India,19.4,DM Bravo,MN Samuels,R Ashwin,1,0,1,NA,0,NA,NA,NA,1
+536931,1st innings,West Indies,India,19.5,MN Samuels,DM Bravo,R Ashwin,1,0,1,NA,0,NA,NA,NA,1
+536931,1st innings,West Indies,India,19.6,DM Bravo,MN Samuels,R Ashwin,0,0,0,NA,0,NA,NA,NA,1
+536931,1st innings,West Indies,India,19.7,DM Bravo,MN Samuels,R Ashwin,0,0,0,NA,0,NA,NA,NA,1
+536931,1st innings,West Indies,India,20.1,MN Samuels,DM Bravo,RA Jadeja,0,0,0,NA,0,NA,NA,NA,1
+536931,1st innings,West Indies,India,20.2,MN Samuels,DM Bravo,RA Jadeja,0,0,0,NA,0,NA,NA,NA,1
+536931,1st innings,West Indies,India,20.3,MN Samuels,DM Bravo,RA Jadeja,1,0,1,NA,0,NA,NA,NA,1
+536931,1st innings,West Indies,India,20.4,DM Bravo,MN Samuels,RA Jadeja,1,0,1,NA,0,NA,NA,NA,1
+536931,1st innings,West Indies,India,20.5,MN Samuels,DM Bravo,RA Jadeja,0,0,0,NA,0,NA,NA,NA,1
+536931,1st innings,West Indies,India,20.6,MN Samuels,DM Bravo,RA Jadeja,0,0,0,NA,0,NA,NA,NA,1
+536931,1st innings,West Indies,India,21.1,DM Bravo,MN Samuels,R Ashwin,0,0,0,NA,0,NA,NA,NA,1
+536931,1st innings,West Indies,India,21.2,DM Bravo,MN Samuels,R Ashwin,0,0,0,NA,0,NA,NA,NA,1
+536931,1st innings,West Indies,India,21.3,DM Bravo,MN Samuels,R Ashwin,0,0,0,NA,0,NA,NA,NA,1
+536931,1st innings,West Indies,India,21.4,DM Bravo,MN Samuels,R Ashwin,1,0,1,NA,0,NA,NA,NA,1
+536931,1st innings,West Indies,India,21.5,MN Samuels,DM Bravo,R Ashwin,0,0,0,NA,0,NA,NA,NA,1
+536931,1st innings,West Indies,India,21.6,MN Samuels,DM Bravo,R Ashwin,0,0,0,NA,0,NA,NA,NA,1
+536931,1st innings,West Indies,India,22.1,DM Bravo,MN Samuels,RA Jadeja,0,0,0,NA,0,NA,NA,NA,1
+536931,1st innings,West Indies,India,22.2,DM Bravo,MN Samuels,RA Jadeja,4,0,4,NA,0,NA,NA,NA,1
+536931,1st innings,West Indies,India,22.3,DM Bravo,MN Samuels,RA Jadeja,1,0,1,NA,0,NA,NA,NA,1
+536931,1st innings,West Indies,India,22.4,MN Samuels,DM Bravo,RA Jadeja,2,0,2,NA,0,NA,NA,NA,1
+536931,1st innings,West Indies,India,22.5,MN Samuels,DM Bravo,RA Jadeja,0,0,0,NA,0,NA,NA,NA,1
+536931,1st innings,West Indies,India,22.6,MN Samuels,DM Bravo,RA Jadeja,0,0,0,NA,0,NA,NA,NA,1
+536931,1st innings,West Indies,India,23.1,DM Bravo,MN Samuels,R Ashwin,1,0,1,NA,0,NA,NA,NA,1
+536931,1st innings,West Indies,India,23.2,MN Samuels,DM Bravo,R Ashwin,0,0,0,NA,0,NA,NA,NA,1
+536931,1st innings,West Indies,India,23.3,MN Samuels,DM Bravo,R Ashwin,0,0,0,NA,0,NA,NA,NA,1
+536931,1st innings,West Indies,India,23.4,MN Samuels,DM Bravo,R Ashwin,1,0,1,NA,0,NA,NA,NA,1
+536931,1st innings,West Indies,India,23.5,DM Bravo,MN Samuels,R Ashwin,1,0,1,NA,0,NA,NA,NA,1
+536931,1st innings,West Indies,India,23.6,MN Samuels,DM Bravo,R Ashwin,0,0,0,NA,0,NA,NA,NA,1
+536931,1st innings,West Indies,India,24.1,DM Bravo,MN Samuels,RA Jadeja,0,0,0,NA,0,NA,NA,NA,1
+536931,1st innings,West Indies,India,24.2,DM Bravo,MN Samuels,RA Jadeja,0,0,0,NA,0,NA,NA,NA,1
+536931,1st innings,West Indies,India,24.3,DM Bravo,MN Samuels,RA Jadeja,1,0,1,NA,0,NA,NA,NA,1
+536931,1st innings,West Indies,India,24.4,MN Samuels,DM Bravo,RA Jadeja,1,0,1,NA,0,NA,NA,NA,1
+536931,1st innings,West Indies,India,24.5,DM Bravo,MN Samuels,RA Jadeja,0,0,0,NA,0,NA,NA,NA,1
+536931,1st innings,West Indies,India,24.6,DM Bravo,MN Samuels,RA Jadeja,1,0,1,NA,0,NA,NA,NA,1
+536931,1st innings,West Indies,India,25.1,DM Bravo,MN Samuels,R Ashwin,0,0,0,NA,0,NA,NA,NA,1
+536931,1st innings,West Indies,India,25.2,DM Bravo,MN Samuels,R Ashwin,0,0,0,NA,0,NA,NA,NA,1
+536931,1st innings,West Indies,India,25.3,DM Bravo,MN Samuels,R Ashwin,0,0,0,NA,0,NA,NA,NA,1
+536931,1st innings,West Indies,India,25.4,DM Bravo,MN Samuels,R Ashwin,2,0,2,NA,0,NA,NA,NA,1
+536931,1st innings,West Indies,India,25.5,DM Bravo,MN Samuels,R Ashwin,1,0,1,NA,0,NA,NA,NA,1
+536931,1st innings,West Indies,India,25.6,MN Samuels,DM Bravo,R Ashwin,1,0,1,NA,1,retired hurt,DM Bravo,NA,1
+536931,1st innings,West Indies,India,26.1,MN Samuels,D Ramdin,SK Raina,0,0,0,NA,0,NA,NA,NA,1
+536931,1st innings,West Indies,India,26.2,MN Samuels,D Ramdin,SK Raina,1,0,1,NA,0,NA,NA,NA,1
+536931,1st innings,West Indies,India,26.3,D Ramdin,MN Samuels,SK Raina,0,0,0,NA,0,NA,NA,NA,1
+536931,1st innings,West Indies,India,26.4,D Ramdin,MN Samuels,SK Raina,0,0,0,NA,0,NA,NA,NA,1
+536931,1st innings,West Indies,India,26.5,D Ramdin,MN Samuels,SK Raina,4,0,4,NA,0,NA,NA,NA,1
+536931,1st innings,West Indies,India,26.6,D Ramdin,MN Samuels,SK Raina,0,0,0,NA,0,NA,NA,NA,1
+536931,1st innings,West Indies,India,27.1,MN Samuels,D Ramdin,R Ashwin,0,0,0,NA,0,NA,NA,NA,1
+536931,1st innings,West Indies,India,27.2,MN Samuels,D Ramdin,R Ashwin,0,0,0,NA,0,NA,NA,NA,1
+536931,1st innings,West Indies,India,27.3,MN Samuels,D Ramdin,R Ashwin,0,0,0,NA,0,NA,NA,NA,1
+536931,1st innings,West Indies,India,27.4,MN Samuels,D Ramdin,R Ashwin,0,0,0,NA,0,NA,NA,NA,1
+536931,1st innings,West Indies,India,27.5,MN Samuels,D Ramdin,R Ashwin,1,0,1,NA,0,NA,NA,NA,1
+536931,1st innings,West Indies,India,27.6,D Ramdin,MN Samuels,R Ashwin,1,0,1,NA,0,NA,NA,NA,1
+536931,1st innings,West Indies,India,28.1,D Ramdin,MN Samuels,SK Raina,0,0,0,NA,0,NA,NA,NA,1
+536931,1st innings,West Indies,India,28.2,D Ramdin,MN Samuels,SK Raina,0,0,0,NA,0,NA,NA,NA,1
+536931,1st innings,West Indies,India,28.3,D Ramdin,MN Samuels,SK Raina,1,0,1,NA,0,NA,NA,NA,1
+536931,1st innings,West Indies,India,28.4,MN Samuels,D Ramdin,SK Raina,0,0,0,NA,0,NA,NA,NA,1
+536931,1st innings,West Indies,India,28.5,MN Samuels,D Ramdin,SK Raina,0,0,0,NA,0,NA,NA,NA,1
+536931,1st innings,West Indies,India,28.6,MN Samuels,D Ramdin,SK Raina,1,0,1,NA,0,NA,NA,NA,1
+536931,1st innings,West Indies,India,29.1,MN Samuels,D Ramdin,R Ashwin,0,0,0,NA,0,NA,NA,NA,1
+536931,1st innings,West Indies,India,29.2,MN Samuels,D Ramdin,R Ashwin,1,0,1,NA,0,NA,NA,NA,1
+536931,1st innings,West Indies,India,29.3,D Ramdin,MN Samuels,R Ashwin,1,0,1,NA,0,NA,NA,NA,1
+536931,1st innings,West Indies,India,29.4,MN Samuels,D Ramdin,R Ashwin,2,0,2,NA,0,NA,NA,NA,1
+536931,1st innings,West Indies,India,29.5,MN Samuels,D Ramdin,R Ashwin,0,0,0,NA,0,NA,NA,NA,1
+536931,1st innings,West Indies,India,29.6,MN Samuels,D Ramdin,R Ashwin,0,0,0,NA,0,NA,NA,NA,1
+536931,1st innings,West Indies,India,30.1,D Ramdin,MN Samuels,SK Raina,1,0,1,NA,0,NA,NA,NA,1
+536931,1st innings,West Indies,India,30.2,MN Samuels,D Ramdin,SK Raina,0,0,0,NA,0,NA,NA,NA,1
+536931,1st innings,West Indies,India,30.3,MN Samuels,D Ramdin,SK Raina,0,0,0,NA,0,NA,NA,NA,1
+536931,1st innings,West Indies,India,30.4,MN Samuels,D Ramdin,SK Raina,1,0,1,NA,0,NA,NA,NA,1
+536931,1st innings,West Indies,India,30.5,D Ramdin,MN Samuels,SK Raina,1,0,1,NA,0,NA,NA,NA,1
+536931,1st innings,West Indies,India,30.6,MN Samuels,D Ramdin,SK Raina,1,0,1,NA,0,NA,NA,NA,1
+536931,1st innings,West Indies,India,31.1,MN Samuels,D Ramdin,R Ashwin,1,0,1,NA,0,NA,NA,NA,1
+536931,1st innings,West Indies,India,31.2,D Ramdin,MN Samuels,R Ashwin,1,0,1,NA,0,NA,NA,NA,1
+536931,1st innings,West Indies,India,31.3,MN Samuels,D Ramdin,R Ashwin,1,0,1,NA,0,NA,NA,NA,1
+536931,1st innings,West Indies,India,31.4,D Ramdin,MN Samuels,R Ashwin,0,0,0,NA,0,NA,NA,NA,1
+536931,1st innings,West Indies,India,31.5,D Ramdin,MN Samuels,R Ashwin,0,0,0,NA,0,NA,NA,NA,1
+536931,1st innings,West Indies,India,31.6,D Ramdin,MN Samuels,R Ashwin,1,0,1,NA,0,NA,NA,NA,1
+536931,1st innings,West Indies,India,32.1,D Ramdin,MN Samuels,SK Raina,1,0,1,NA,0,NA,NA,NA,1
+536931,1st innings,West Indies,India,32.2,MN Samuels,D Ramdin,SK Raina,0,0,0,NA,0,NA,NA,NA,1
+536931,1st innings,West Indies,India,32.3,MN Samuels,D Ramdin,SK Raina,1,0,1,NA,0,NA,NA,NA,1
+536931,1st innings,West Indies,India,32.4,D Ramdin,MN Samuels,SK Raina,0,0,0,NA,0,NA,NA,NA,1
+536931,1st innings,West Indies,India,32.5,D Ramdin,MN Samuels,SK Raina,1,0,1,NA,0,NA,NA,NA,1
+536931,1st innings,West Indies,India,32.6,MN Samuels,D Ramdin,SK Raina,0,0,0,NA,0,NA,NA,NA,1
+536931,1st innings,West Indies,India,33.1,D Ramdin,MN Samuels,R Ashwin,0,0,0,NA,0,NA,NA,NA,1
+536931,1st innings,West Indies,India,33.2,D Ramdin,MN Samuels,R Ashwin,0,0,0,NA,0,NA,NA,NA,1
+536931,1st innings,West Indies,India,33.3,D Ramdin,MN Samuels,R Ashwin,1,0,1,NA,0,NA,NA,NA,1
+536931,1st innings,West Indies,India,33.4,MN Samuels,D Ramdin,R Ashwin,0,0,0,NA,1,bowled,MN Samuels,NA,1
+536931,1st innings,West Indies,India,33.5,KA Pollard,D Ramdin,R Ashwin,0,0,0,NA,0,NA,NA,NA,1
+536931,1st innings,West Indies,India,33.6,KA Pollard,D Ramdin,R Ashwin,1,0,1,NA,0,NA,NA,NA,1
+536931,1st innings,West Indies,India,34.1,KA Pollard,D Ramdin,RA Jadeja,0,0,0,NA,0,NA,NA,NA,1
+536931,1st innings,West Indies,India,34.2,KA Pollard,D Ramdin,RA Jadeja,1,0,1,NA,0,NA,NA,NA,1
+536931,1st innings,West Indies,India,34.3,D Ramdin,KA Pollard,RA Jadeja,1,0,1,NA,0,NA,NA,NA,1
+536931,1st innings,West Indies,India,34.4,KA Pollard,D Ramdin,RA Jadeja,0,0,0,NA,0,NA,NA,NA,1
+536931,1st innings,West Indies,India,34.5,KA Pollard,D Ramdin,RA Jadeja,1,0,1,NA,0,NA,NA,NA,1
+536931,1st innings,West Indies,India,34.6,D Ramdin,KA Pollard,RA Jadeja,1,0,1,NA,0,NA,NA,NA,1
+536931,1st innings,West Indies,India,35.1,D Ramdin,KA Pollard,R Ashwin,0,0,0,NA,0,NA,NA,NA,1
+536931,1st innings,West Indies,India,35.2,D Ramdin,KA Pollard,R Ashwin,0,0,0,NA,0,NA,NA,NA,1
+536931,1st innings,West Indies,India,35.3,D Ramdin,KA Pollard,R Ashwin,0,0,0,NA,0,NA,NA,NA,1
+536931,1st innings,West Indies,India,35.4,D Ramdin,KA Pollard,R Ashwin,0,0,0,NA,0,NA,NA,NA,1
+536931,1st innings,West Indies,India,35.5,D Ramdin,KA Pollard,R Ashwin,1,0,1,NA,0,NA,NA,NA,1
+536931,1st innings,West Indies,India,35.6,KA Pollard,D Ramdin,R Ashwin,0,1,1,wides,0,NA,NA,NA,1
+536931,1st innings,West Indies,India,35.7,KA Pollard,D Ramdin,R Ashwin,0,0,0,NA,0,NA,NA,NA,1
+536931,1st innings,West Indies,India,36.1,D Ramdin,KA Pollard,RA Jadeja,1,0,1,NA,0,NA,NA,NA,1
+536931,1st innings,West Indies,India,36.2,KA Pollard,D Ramdin,RA Jadeja,0,1,1,wides,0,NA,NA,NA,1
+536931,1st innings,West Indies,India,36.3,KA Pollard,D Ramdin,RA Jadeja,0,0,0,NA,0,NA,NA,NA,1
+536931,1st innings,West Indies,India,36.4,KA Pollard,D Ramdin,RA Jadeja,0,0,0,NA,0,NA,NA,NA,1
+536931,1st innings,West Indies,India,36.5,KA Pollard,D Ramdin,RA Jadeja,1,0,1,NA,0,NA,NA,NA,1
+536931,1st innings,West Indies,India,36.6,D Ramdin,KA Pollard,RA Jadeja,4,0,4,NA,0,NA,NA,NA,1
+536931,1st innings,West Indies,India,36.7,D Ramdin,KA Pollard,RA Jadeja,0,0,0,NA,0,NA,NA,NA,1
+536931,1st innings,West Indies,India,37.1,KA Pollard,D Ramdin,SK Raina,0,0,0,NA,0,NA,NA,NA,1
+536931,1st innings,West Indies,India,37.2,KA Pollard,D Ramdin,SK Raina,1,0,1,NA,0,NA,NA,NA,1
+536931,1st innings,West Indies,India,37.3,D Ramdin,KA Pollard,SK Raina,1,0,1,NA,0,NA,NA,NA,1
+536931,1st innings,West Indies,India,37.4,KA Pollard,D Ramdin,SK Raina,0,0,0,NA,0,NA,NA,NA,1
+536931,1st innings,West Indies,India,37.5,KA Pollard,D Ramdin,SK Raina,1,0,1,NA,0,NA,NA,NA,1
+536931,1st innings,West Indies,India,37.6,D Ramdin,KA Pollard,SK Raina,1,0,1,NA,0,NA,NA,NA,1
+536931,1st innings,West Indies,India,38.1,D Ramdin,KA Pollard,RA Jadeja,1,0,1,NA,0,NA,NA,NA,1
+536931,1st innings,West Indies,India,38.2,KA Pollard,D Ramdin,RA Jadeja,0,0,0,NA,0,NA,NA,NA,1
+536931,1st innings,West Indies,India,38.3,KA Pollard,D Ramdin,RA Jadeja,1,0,1,NA,0,NA,NA,NA,1
+536931,1st innings,West Indies,India,38.4,D Ramdin,KA Pollard,RA Jadeja,1,0,1,NA,0,NA,NA,NA,1
+536931,1st innings,West Indies,India,38.5,KA Pollard,D Ramdin,RA Jadeja,1,0,1,NA,0,NA,NA,NA,1
+536931,1st innings,West Indies,India,38.6,D Ramdin,KA Pollard,RA Jadeja,1,0,1,NA,0,NA,NA,NA,1
+536931,1st innings,West Indies,India,39.1,D Ramdin,KA Pollard,SK Raina,0,0,0,NA,0,NA,NA,NA,1
+536931,1st innings,West Indies,India,39.2,D Ramdin,KA Pollard,SK Raina,0,0,0,NA,0,NA,NA,NA,1
+536931,1st innings,West Indies,India,39.3,D Ramdin,KA Pollard,SK Raina,1,0,1,NA,0,NA,NA,NA,1
+536931,1st innings,West Indies,India,39.4,KA Pollard,D Ramdin,SK Raina,1,0,1,NA,0,NA,NA,NA,1
+536931,1st innings,West Indies,India,39.5,D Ramdin,KA Pollard,SK Raina,1,0,1,NA,0,NA,NA,NA,1
+536931,1st innings,West Indies,India,39.6,KA Pollard,D Ramdin,SK Raina,6,0,6,NA,0,NA,NA,NA,1
+536931,1st innings,West Indies,India,40.1,D Ramdin,KA Pollard,RA Jadeja,0,0,0,NA,0,NA,NA,NA,1
+536931,1st innings,West Indies,India,40.2,D Ramdin,KA Pollard,RA Jadeja,1,0,1,NA,0,NA,NA,NA,1
+536931,1st innings,West Indies,India,40.3,KA Pollard,D Ramdin,RA Jadeja,1,0,1,NA,0,NA,NA,NA,1
+536931,1st innings,West Indies,India,40.4,D Ramdin,KA Pollard,RA Jadeja,0,0,0,NA,0,NA,NA,NA,1
+536931,1st innings,West Indies,India,40.5,D Ramdin,KA Pollard,RA Jadeja,0,0,0,NA,0,NA,NA,NA,1
+536931,1st innings,West Indies,India,40.6,D Ramdin,KA Pollard,RA Jadeja,1,0,1,NA,0,NA,NA,NA,1
+536931,1st innings,West Indies,India,41.1,D Ramdin,KA Pollard,UT Yadav,0,0,0,NA,0,NA,NA,NA,1
+536931,1st innings,West Indies,India,41.2,D Ramdin,KA Pollard,UT Yadav,1,0,1,NA,0,NA,NA,NA,1
+536931,1st innings,West Indies,India,41.3,KA Pollard,D Ramdin,UT Yadav,0,0,0,NA,0,NA,NA,NA,1
+536931,1st innings,West Indies,India,41.4,KA Pollard,D Ramdin,UT Yadav,0,0,0,NA,0,NA,NA,NA,1
+536931,1st innings,West Indies,India,41.5,KA Pollard,D Ramdin,UT Yadav,4,0,4,NA,0,NA,NA,NA,1
+536931,1st innings,West Indies,India,41.6,KA Pollard,D Ramdin,UT Yadav,1,0,1,NA,0,NA,NA,NA,1
+536931,1st innings,West Indies,India,42.1,KA Pollard,D Ramdin,RA Jadeja,0,0,0,NA,0,NA,NA,NA,1
+536931,1st innings,West Indies,India,42.2,KA Pollard,D Ramdin,RA Jadeja,2,0,2,NA,0,NA,NA,NA,1
+536931,1st innings,West Indies,India,42.3,KA Pollard,D Ramdin,RA Jadeja,1,0,1,NA,0,NA,NA,NA,1
+536931,1st innings,West Indies,India,42.4,D Ramdin,KA Pollard,RA Jadeja,0,0,0,NA,0,NA,NA,NA,1
+536931,1st innings,West Indies,India,42.5,D Ramdin,KA Pollard,RA Jadeja,1,0,1,NA,0,NA,NA,NA,1
+536931,1st innings,West Indies,India,42.6,KA Pollard,D Ramdin,RA Jadeja,0,0,0,NA,0,NA,NA,NA,1
+536931,1st innings,West Indies,India,43.1,D Ramdin,KA Pollard,UT Yadav,4,0,4,NA,0,NA,NA,NA,1
+536931,1st innings,West Indies,India,43.2,D Ramdin,KA Pollard,UT Yadav,1,0,1,NA,0,NA,NA,NA,1
+536931,1st innings,West Indies,India,43.3,KA Pollard,D Ramdin,UT Yadav,4,0,4,NA,0,NA,NA,NA,1
+536931,1st innings,West Indies,India,43.4,KA Pollard,D Ramdin,UT Yadav,1,0,1,NA,0,NA,NA,NA,1
+536931,1st innings,West Indies,India,43.5,D Ramdin,KA Pollard,UT Yadav,0,0,0,NA,1,caught,D Ramdin,PA Patel,1
+536931,1st innings,West Indies,India,43.6,AD Russell,KA Pollard,UT Yadav,4,0,4,NA,0,NA,NA,NA,1
+536931,1st innings,West Indies,India,44.1,KA Pollard,AD Russell,R Vinay Kumar,0,0,0,NA,0,NA,NA,NA,1
+536931,1st innings,West Indies,India,44.2,KA Pollard,AD Russell,R Vinay Kumar,0,0,0,NA,1,caught,KA Pollard,RA Jadeja,1
+536931,1st innings,West Indies,India,44.3,AD Russell,DJG Sammy,R Vinay Kumar,0,0,0,NA,0,NA,NA,NA,1
+536931,1st innings,West Indies,India,44.4,AD Russell,DJG Sammy,R Vinay Kumar,1,0,1,NA,0,NA,NA,NA,1
+536931,1st innings,West Indies,India,44.5,DJG Sammy,AD Russell,R Vinay Kumar,4,0,4,NA,0,NA,NA,NA,1
+536931,1st innings,West Indies,India,44.6,DJG Sammy,AD Russell,R Vinay Kumar,1,0,1,NA,0,NA,NA,NA,1
+536931,1st innings,West Indies,India,45.1,DJG Sammy,AD Russell,R Ashwin,1,0,1,NA,0,NA,NA,NA,1
+536931,1st innings,West Indies,India,45.2,AD Russell,DJG Sammy,R Ashwin,4,0,4,NA,0,NA,NA,NA,1
+536931,1st innings,West Indies,India,45.3,AD Russell,DJG Sammy,R Ashwin,1,0,1,NA,0,NA,NA,NA,1
+536931,1st innings,West Indies,India,45.4,DJG Sammy,AD Russell,R Ashwin,1,0,1,NA,0,NA,NA,NA,1
+536931,1st innings,West Indies,India,45.5,AD Russell,DJG Sammy,R Ashwin,0,0,0,NA,0,NA,NA,NA,1
+536931,1st innings,West Indies,India,45.6,AD Russell,DJG Sammy,R Ashwin,1,0,1,NA,0,NA,NA,NA,1
+536931,1st innings,West Indies,India,46.1,AD Russell,DJG Sammy,R Vinay Kumar,1,0,1,NA,0,NA,NA,NA,1
+536931,1st innings,West Indies,India,46.2,DJG Sammy,AD Russell,R Vinay Kumar,4,0,4,NA,0,NA,NA,NA,1
+536931,1st innings,West Indies,India,46.3,DJG Sammy,AD Russell,R Vinay Kumar,1,0,1,NA,0,NA,NA,NA,1
+536931,1st innings,West Indies,India,46.4,AD Russell,DJG Sammy,R Vinay Kumar,0,1,1,wides,0,NA,NA,NA,1
+536931,1st innings,West Indies,India,46.5,AD Russell,DJG Sammy,R Vinay Kumar,1,0,1,NA,0,NA,NA,NA,1
+536931,1st innings,West Indies,India,46.6,DJG Sammy,AD Russell,R Vinay Kumar,4,0,4,NA,0,NA,NA,NA,1
+536931,1st innings,West Indies,India,46.7,DJG Sammy,AD Russell,R Vinay Kumar,1,0,1,NA,0,NA,NA,NA,1
+536931,1st innings,West Indies,India,47.1,DJG Sammy,AD Russell,UT Yadav,0,0,0,NA,0,NA,NA,NA,1
+536931,1st innings,West Indies,India,47.2,DJG Sammy,AD Russell,UT Yadav,1,0,1,NA,0,NA,NA,NA,1
+536931,1st innings,West Indies,India,47.3,AD Russell,DJG Sammy,UT Yadav,1,0,1,NA,0,NA,NA,NA,1
+536931,1st innings,West Indies,India,47.4,DJG Sammy,AD Russell,UT Yadav,1,0,1,NA,0,NA,NA,NA,1
+536931,1st innings,West Indies,India,47.5,AD Russell,DJG Sammy,UT Yadav,0,0,0,NA,0,NA,NA,NA,1
+536931,1st innings,West Indies,India,47.6,AD Russell,DJG Sammy,UT Yadav,6,0,6,NA,0,NA,NA,NA,1
+536931,1st innings,West Indies,India,48.1,DJG Sammy,AD Russell,A Mithun,0,1,1,wides,0,NA,NA,NA,1
+536931,1st innings,West Indies,India,48.2,DJG Sammy,AD Russell,A Mithun,4,0,4,NA,0,NA,NA,NA,1
+536931,1st innings,West Indies,India,48.3,DJG Sammy,AD Russell,A Mithun,4,0,4,NA,0,NA,NA,NA,1
+536931,1st innings,West Indies,India,48.4,DJG Sammy,AD Russell,A Mithun,0,0,0,NA,0,NA,NA,NA,1
+536931,1st innings,West Indies,India,48.5,DJG Sammy,AD Russell,A Mithun,6,0,6,NA,0,NA,NA,NA,1
+536931,1st innings,West Indies,India,48.6,DJG Sammy,AD Russell,A Mithun,6,0,6,NA,0,NA,NA,NA,1
+536931,1st innings,West Indies,India,48.7,DJG Sammy,AD Russell,A Mithun,2,0,2,NA,0,NA,NA,NA,1
+536931,1st innings,West Indies,India,49.1,AD Russell,DJG Sammy,UT Yadav,4,0,4,NA,0,NA,NA,NA,1
+536931,1st innings,West Indies,India,49.2,AD Russell,DJG Sammy,UT Yadav,4,0,4,NA,0,NA,NA,NA,1
+536931,1st innings,West Indies,India,49.3,AD Russell,DJG Sammy,UT Yadav,2,0,2,NA,0,NA,NA,NA,1
+536931,1st innings,West Indies,India,49.4,AD Russell,DJG Sammy,UT Yadav,6,0,6,NA,0,NA,NA,NA,1
+536931,1st innings,West Indies,India,49.5,AD Russell,DJG Sammy,UT Yadav,2,0,2,NA,0,NA,NA,NA,1
+536931,1st innings,West Indies,India,49.6,AD Russell,DJG Sammy,UT Yadav,2,0,2,NA,0,NA,NA,NA,1
+536931,2nd innings,India,West Indies,0.1,PA Patel,V Sehwag,KAJ Roach,0,0,0,NA,0,NA,NA,NA,0
+536931,2nd innings,India,West Indies,0.2,PA Patel,V Sehwag,KAJ Roach,0,0,0,NA,0,NA,NA,NA,0
+536931,2nd innings,India,West Indies,0.3,PA Patel,V Sehwag,KAJ Roach,0,0,0,NA,0,NA,NA,NA,0
+536931,2nd innings,India,West Indies,0.4,PA Patel,V Sehwag,KAJ Roach,4,0,4,NA,0,NA,NA,NA,0
+536931,2nd innings,India,West Indies,0.5,PA Patel,V Sehwag,KAJ Roach,4,0,4,NA,0,NA,NA,NA,0
+536931,2nd innings,India,West Indies,0.6,PA Patel,V Sehwag,KAJ Roach,0,0,0,NA,0,NA,NA,NA,0
+536931,2nd innings,India,West Indies,1.1,V Sehwag,PA Patel,R Rampaul,0,0,0,NA,1,caught,V Sehwag,D Ramdin,0
+536931,2nd innings,India,West Indies,1.2,G Gambhir,PA Patel,R Rampaul,0,0,0,NA,1,lbw,G Gambhir,NA,0
+536931,2nd innings,India,West Indies,1.3,V Kohli,PA Patel,R Rampaul,0,0,0,NA,0,NA,NA,NA,0
+536931,2nd innings,India,West Indies,1.4,V Kohli,PA Patel,R Rampaul,0,0,0,NA,0,NA,NA,NA,0
+536931,2nd innings,India,West Indies,1.5,V Kohli,PA Patel,R Rampaul,0,0,0,NA,0,NA,NA,NA,0
+536931,2nd innings,India,West Indies,1.6,V Kohli,PA Patel,R Rampaul,0,0,0,NA,0,NA,NA,NA,0
+536931,2nd innings,India,West Indies,2.1,PA Patel,V Kohli,KAJ Roach,4,0,4,NA,0,NA,NA,NA,0
+536931,2nd innings,India,West Indies,2.2,PA Patel,V Kohli,KAJ Roach,4,0,4,NA,0,NA,NA,NA,0
+536931,2nd innings,India,West Indies,2.3,PA Patel,V Kohli,KAJ Roach,1,0,1,NA,0,NA,NA,NA,0
+536931,2nd innings,India,West Indies,2.4,V Kohli,PA Patel,KAJ Roach,0,0,0,NA,0,NA,NA,NA,0
+536931,2nd innings,India,West Indies,2.5,V Kohli,PA Patel,KAJ Roach,0,0,0,NA,0,NA,NA,NA,0
+536931,2nd innings,India,West Indies,2.6,V Kohli,PA Patel,KAJ Roach,1,0,1,NA,0,NA,NA,NA,0
+536931,2nd innings,India,West Indies,3.1,V Kohli,PA Patel,R Rampaul,0,0,0,NA,0,NA,NA,NA,0
+536931,2nd innings,India,West Indies,3.2,V Kohli,PA Patel,R Rampaul,0,0,0,NA,0,NA,NA,NA,0
+536931,2nd innings,India,West Indies,3.3,V Kohli,PA Patel,R Rampaul,0,0,0,NA,0,NA,NA,NA,0
+536931,2nd innings,India,West Indies,3.4,V Kohli,PA Patel,R Rampaul,1,0,1,NA,0,NA,NA,NA,0
+536931,2nd innings,India,West Indies,3.5,PA Patel,V Kohli,R Rampaul,0,0,0,NA,0,NA,NA,NA,0
+536931,2nd innings,India,West Indies,3.6,PA Patel,V Kohli,R Rampaul,0,0,0,NA,0,NA,NA,NA,0
+536931,2nd innings,India,West Indies,4.1,V Kohli,PA Patel,SP Narine,0,0,0,NA,0,NA,NA,NA,0
+536931,2nd innings,India,West Indies,4.2,V Kohli,PA Patel,SP Narine,0,0,0,NA,0,NA,NA,NA,0
+536931,2nd innings,India,West Indies,4.3,V Kohli,PA Patel,SP Narine,0,0,0,NA,0,NA,NA,NA,0
+536931,2nd innings,India,West Indies,4.4,V Kohli,PA Patel,SP Narine,1,0,1,NA,0,NA,NA,NA,0
+536931,2nd innings,India,West Indies,4.5,PA Patel,V Kohli,SP Narine,0,0,0,NA,0,NA,NA,NA,0
+536931,2nd innings,India,West Indies,4.6,PA Patel,V Kohli,SP Narine,4,0,4,NA,0,NA,NA,NA,0
+536931,2nd innings,India,West Indies,5.1,V Kohli,PA Patel,R Rampaul,4,0,4,NA,0,NA,NA,NA,0
+536931,2nd innings,India,West Indies,5.2,V Kohli,PA Patel,R Rampaul,4,0,4,NA,0,NA,NA,NA,0
+536931,2nd innings,India,West Indies,5.3,V Kohli,PA Patel,R Rampaul,1,0,1,NA,0,NA,NA,NA,0
+536931,2nd innings,India,West Indies,5.4,PA Patel,V Kohli,R Rampaul,0,0,0,NA,0,NA,NA,NA,0
+536931,2nd innings,India,West Indies,5.5,PA Patel,V Kohli,R Rampaul,0,0,0,NA,0,NA,NA,NA,0
+536931,2nd innings,India,West Indies,5.6,PA Patel,V Kohli,R Rampaul,0,0,0,NA,0,NA,NA,NA,0
+536931,2nd innings,India,West Indies,6.1,V Kohli,PA Patel,SP Narine,0,0,0,NA,0,NA,NA,NA,0
+536931,2nd innings,India,West Indies,6.2,V Kohli,PA Patel,SP Narine,0,0,0,NA,0,NA,NA,NA,0
+536931,2nd innings,India,West Indies,6.3,V Kohli,PA Patel,SP Narine,0,0,0,NA,0,NA,NA,NA,0
+536931,2nd innings,India,West Indies,6.4,V Kohli,PA Patel,SP Narine,0,0,0,NA,0,NA,NA,NA,0
+536931,2nd innings,India,West Indies,6.5,V Kohli,PA Patel,SP Narine,0,0,0,NA,0,NA,NA,NA,0
+536931,2nd innings,India,West Indies,6.6,V Kohli,PA Patel,SP Narine,1,0,1,NA,0,NA,NA,NA,0
+536931,2nd innings,India,West Indies,7.1,V Kohli,PA Patel,R Rampaul,1,0,1,NA,0,NA,NA,NA,0
+536931,2nd innings,India,West Indies,7.2,PA Patel,V Kohli,R Rampaul,1,0,1,NA,0,NA,NA,NA,0
+536931,2nd innings,India,West Indies,7.3,V Kohli,PA Patel,R Rampaul,0,0,0,NA,0,NA,NA,NA,0
+536931,2nd innings,India,West Indies,7.4,V Kohli,PA Patel,R Rampaul,4,0,4,NA,0,NA,NA,NA,0
+536931,2nd innings,India,West Indies,7.5,V Kohli,PA Patel,R Rampaul,0,0,0,NA,0,NA,NA,NA,0
+536931,2nd innings,India,West Indies,7.6,V Kohli,PA Patel,R Rampaul,2,0,2,NA,0,NA,NA,NA,0
+536931,2nd innings,India,West Indies,8.1,PA Patel,V Kohli,SP Narine,1,0,1,NA,0,NA,NA,NA,0
+536931,2nd innings,India,West Indies,8.2,V Kohli,PA Patel,SP Narine,0,0,0,NA,1,lbw,V Kohli,NA,0
+536931,2nd innings,India,West Indies,8.3,RG Sharma,PA Patel,SP Narine,0,0,0,NA,0,NA,NA,NA,0
+536931,2nd innings,India,West Indies,8.4,RG Sharma,PA Patel,SP Narine,0,0,0,NA,0,NA,NA,NA,0
+536931,2nd innings,India,West Indies,8.5,RG Sharma,PA Patel,SP Narine,0,0,0,NA,0,NA,NA,NA,0
+536931,2nd innings,India,West Indies,8.6,RG Sharma,PA Patel,SP Narine,0,0,0,NA,0,NA,NA,NA,0
+536931,2nd innings,India,West Indies,9.1,PA Patel,RG Sharma,KAJ Roach,4,0,4,NA,0,NA,NA,NA,0
+536931,2nd innings,India,West Indies,9.2,PA Patel,RG Sharma,KAJ Roach,0,0,0,NA,0,NA,NA,NA,0
+536931,2nd innings,India,West Indies,9.3,PA Patel,RG Sharma,KAJ Roach,0,1,1,legbyes,0,NA,NA,NA,0
+536931,2nd innings,India,West Indies,9.4,RG Sharma,PA Patel,KAJ Roach,0,0,0,NA,0,NA,NA,NA,0
+536931,2nd innings,India,West Indies,9.5,RG Sharma,PA Patel,KAJ Roach,0,0,0,NA,0,NA,NA,NA,0
+536931,2nd innings,India,West Indies,9.6,RG Sharma,PA Patel,KAJ Roach,0,1,1,byes,0,NA,NA,NA,0
+536931,2nd innings,India,West Indies,10.1,RG Sharma,PA Patel,SP Narine,0,0,0,NA,0,NA,NA,NA,0
+536931,2nd innings,India,West Indies,10.2,RG Sharma,PA Patel,SP Narine,0,0,0,NA,0,NA,NA,NA,0
+536931,2nd innings,India,West Indies,10.3,RG Sharma,PA Patel,SP Narine,0,0,0,NA,0,NA,NA,NA,0
+536931,2nd innings,India,West Indies,10.4,RG Sharma,PA Patel,SP Narine,0,0,0,NA,0,NA,NA,NA,0
+536931,2nd innings,India,West Indies,10.5,RG Sharma,PA Patel,SP Narine,6,0,6,NA,0,NA,NA,NA,0
+536931,2nd innings,India,West Indies,10.6,RG Sharma,PA Patel,SP Narine,0,0,0,NA,0,NA,NA,NA,0
+536931,2nd innings,India,West Indies,11.1,PA Patel,RG Sharma,KAJ Roach,1,0,1,NA,0,NA,NA,NA,0
+536931,2nd innings,India,West Indies,11.2,RG Sharma,PA Patel,KAJ Roach,4,0,4,NA,0,NA,NA,NA,0
+536931,2nd innings,India,West Indies,11.3,RG Sharma,PA Patel,KAJ Roach,0,1,1,noballs,0,NA,NA,NA,0
+536931,2nd innings,India,West Indies,11.4,RG Sharma,PA Patel,KAJ Roach,2,0,2,NA,0,NA,NA,NA,0
+536931,2nd innings,India,West Indies,11.5,RG Sharma,PA Patel,KAJ Roach,1,0,1,NA,0,NA,NA,NA,0
+536931,2nd innings,India,West Indies,11.6,PA Patel,RG Sharma,KAJ Roach,0,0,0,NA,0,NA,NA,NA,0
+536931,2nd innings,India,West Indies,11.7,PA Patel,RG Sharma,KAJ Roach,0,0,0,NA,0,NA,NA,NA,0
+536931,2nd innings,India,West Indies,12.1,RG Sharma,PA Patel,MN Samuels,1,0,1,NA,0,NA,NA,NA,0
+536931,2nd innings,India,West Indies,12.2,PA Patel,RG Sharma,MN Samuels,0,0,0,NA,0,NA,NA,NA,0
+536931,2nd innings,India,West Indies,12.3,PA Patel,RG Sharma,MN Samuels,1,0,1,NA,0,NA,NA,NA,0
+536931,2nd innings,India,West Indies,12.4,RG Sharma,PA Patel,MN Samuels,1,0,1,NA,0,NA,NA,NA,0
+536931,2nd innings,India,West Indies,12.5,PA Patel,RG Sharma,MN Samuels,1,0,1,NA,0,NA,NA,NA,0
+536931,2nd innings,India,West Indies,12.6,RG Sharma,PA Patel,MN Samuels,0,0,0,NA,0,NA,NA,NA,0
+536931,2nd innings,India,West Indies,13.1,PA Patel,RG Sharma,AD Russell,4,0,4,NA,0,NA,NA,NA,0
+536931,2nd innings,India,West Indies,13.2,PA Patel,RG Sharma,AD Russell,0,0,0,NA,0,NA,NA,NA,0
+536931,2nd innings,India,West Indies,13.3,PA Patel,RG Sharma,AD Russell,0,0,0,NA,0,NA,NA,NA,0
+536931,2nd innings,India,West Indies,13.4,PA Patel,RG Sharma,AD Russell,2,0,2,NA,0,NA,NA,NA,0
+536931,2nd innings,India,West Indies,13.5,PA Patel,RG Sharma,AD Russell,1,0,1,NA,0,NA,NA,NA,0
+536931,2nd innings,India,West Indies,13.6,RG Sharma,PA Patel,AD Russell,0,0,0,NA,0,NA,NA,NA,0
+536931,2nd innings,India,West Indies,14.1,PA Patel,RG Sharma,MN Samuels,1,0,1,NA,0,NA,NA,NA,0
+536931,2nd innings,India,West Indies,14.2,RG Sharma,PA Patel,MN Samuels,0,0,0,NA,0,NA,NA,NA,0
+536931,2nd innings,India,West Indies,14.3,RG Sharma,PA Patel,MN Samuels,1,0,1,NA,0,NA,NA,NA,0
+536931,2nd innings,India,West Indies,14.4,PA Patel,RG Sharma,MN Samuels,1,0,1,NA,0,NA,NA,NA,0
+536931,2nd innings,India,West Indies,14.5,RG Sharma,PA Patel,MN Samuels,1,0,1,NA,0,NA,NA,NA,0
+536931,2nd innings,India,West Indies,14.6,PA Patel,RG Sharma,MN Samuels,0,0,0,NA,1,bowled,PA Patel,NA,0
+536931,2nd innings,India,West Indies,15.1,RG Sharma,SK Raina,R Rampaul,2,0,2,NA,0,NA,NA,NA,0
+536931,2nd innings,India,West Indies,15.2,RG Sharma,SK Raina,R Rampaul,0,0,0,NA,0,NA,NA,NA,0
+536931,2nd innings,India,West Indies,15.3,RG Sharma,SK Raina,R Rampaul,1,0,1,NA,0,NA,NA,NA,0
+536931,2nd innings,India,West Indies,15.4,SK Raina,RG Sharma,R Rampaul,0,0,0,NA,0,NA,NA,NA,0
+536931,2nd innings,India,West Indies,15.5,SK Raina,RG Sharma,R Rampaul,2,0,2,NA,0,NA,NA,NA,0
+536931,2nd innings,India,West Indies,15.6,SK Raina,RG Sharma,R Rampaul,0,0,0,NA,1,caught,SK Raina,D Ramdin,0
+536931,2nd innings,India,West Indies,16.1,RG Sharma,RA Jadeja,MN Samuels,0,0,0,NA,0,NA,NA,NA,0
+536931,2nd innings,India,West Indies,16.2,RG Sharma,RA Jadeja,MN Samuels,4,0,4,NA,0,NA,NA,NA,0
+536931,2nd innings,India,West Indies,16.3,RG Sharma,RA Jadeja,MN Samuels,1,0,1,NA,0,NA,NA,NA,0
+536931,2nd innings,India,West Indies,16.4,RA Jadeja,RG Sharma,MN Samuels,0,0,0,NA,0,NA,NA,NA,0
+536931,2nd innings,India,West Indies,16.5,RA Jadeja,RG Sharma,MN Samuels,0,0,0,NA,0,NA,NA,NA,0
+536931,2nd innings,India,West Indies,16.6,RA Jadeja,RG Sharma,MN Samuels,0,0,0,NA,0,NA,NA,NA,0
+536931,2nd innings,India,West Indies,17.1,RG Sharma,RA Jadeja,R Rampaul,0,0,0,NA,0,NA,NA,NA,0
+536931,2nd innings,India,West Indies,17.2,RG Sharma,RA Jadeja,R Rampaul,0,0,0,NA,0,NA,NA,NA,0
+536931,2nd innings,India,West Indies,17.3,RG Sharma,RA Jadeja,R Rampaul,1,0,1,NA,0,NA,NA,NA,0
+536931,2nd innings,India,West Indies,17.4,RA Jadeja,RG Sharma,R Rampaul,0,0,0,NA,0,NA,NA,NA,0
+536931,2nd innings,India,West Indies,17.5,RA Jadeja,RG Sharma,R Rampaul,0,0,0,NA,0,NA,NA,NA,0
+536931,2nd innings,India,West Indies,17.6,RA Jadeja,RG Sharma,R Rampaul,0,0,0,NA,0,NA,NA,NA,0
+536931,2nd innings,India,West Indies,18.1,RG Sharma,RA Jadeja,SP Narine,0,0,0,NA,0,NA,NA,NA,0
+536931,2nd innings,India,West Indies,18.2,RG Sharma,RA Jadeja,SP Narine,0,0,0,NA,0,NA,NA,NA,0
+536931,2nd innings,India,West Indies,18.3,RG Sharma,RA Jadeja,SP Narine,0,0,0,NA,0,NA,NA,NA,0
+536931,2nd innings,India,West Indies,18.4,RG Sharma,RA Jadeja,SP Narine,1,0,1,NA,0,NA,NA,NA,0
+536931,2nd innings,India,West Indies,18.5,RA Jadeja,RG Sharma,SP Narine,0,0,0,NA,0,NA,NA,NA,0
+536931,2nd innings,India,West Indies,18.6,RA Jadeja,RG Sharma,SP Narine,0,0,0,NA,0,NA,NA,NA,0
+536931,2nd innings,India,West Indies,19.1,RG Sharma,RA Jadeja,R Rampaul,1,0,1,NA,0,NA,NA,NA,0
+536931,2nd innings,India,West Indies,19.2,RA Jadeja,RG Sharma,R Rampaul,0,0,0,NA,0,NA,NA,NA,0
+536931,2nd innings,India,West Indies,19.3,RA Jadeja,RG Sharma,R Rampaul,2,0,2,NA,0,NA,NA,NA,0
+536931,2nd innings,India,West Indies,19.4,RA Jadeja,RG Sharma,R Rampaul,0,0,0,NA,0,NA,NA,NA,0
+536931,2nd innings,India,West Indies,19.5,RA Jadeja,RG Sharma,R Rampaul,0,1,1,noballs,0,NA,NA,NA,0
+536931,2nd innings,India,West Indies,19.6,RA Jadeja,RG Sharma,R Rampaul,4,0,4,NA,0,NA,NA,NA,0
+536931,2nd innings,India,West Indies,19.7,RA Jadeja,RG Sharma,R Rampaul,4,0,4,NA,0,NA,NA,NA,0
+536931,2nd innings,India,West Indies,20.1,RG Sharma,RA Jadeja,SP Narine,1,0,1,NA,0,NA,NA,NA,0
+536931,2nd innings,India,West Indies,20.2,RA Jadeja,RG Sharma,SP Narine,0,0,0,NA,0,NA,NA,NA,0
+536931,2nd innings,India,West Indies,20.3,RA Jadeja,RG Sharma,SP Narine,1,0,1,NA,0,NA,NA,NA,0
+536931,2nd innings,India,West Indies,20.4,RG Sharma,RA Jadeja,SP Narine,0,0,0,NA,0,NA,NA,NA,0
+536931,2nd innings,India,West Indies,20.5,RG Sharma,RA Jadeja,SP Narine,0,0,0,NA,1,run out,RA Jadeja,AD Russell,0
+536931,2nd innings,India,West Indies,20.6,R Ashwin,RG Sharma,SP Narine,0,0,0,NA,0,NA,NA,NA,0
+536931,2nd innings,India,West Indies,21.1,RG Sharma,R Ashwin,KAJ Roach,0,0,0,NA,0,NA,NA,NA,0
+536931,2nd innings,India,West Indies,21.2,RG Sharma,R Ashwin,KAJ Roach,0,0,0,NA,0,NA,NA,NA,0
+536931,2nd innings,India,West Indies,21.3,RG Sharma,R Ashwin,KAJ Roach,1,0,1,NA,0,NA,NA,NA,0
+536931,2nd innings,India,West Indies,21.4,R Ashwin,RG Sharma,KAJ Roach,0,0,0,NA,0,NA,NA,NA,0
+536931,2nd innings,India,West Indies,21.5,R Ashwin,RG Sharma,KAJ Roach,0,0,0,NA,0,NA,NA,NA,0
+536931,2nd innings,India,West Indies,21.6,R Ashwin,RG Sharma,KAJ Roach,1,0,1,NA,0,NA,NA,NA,0
+536931,2nd innings,India,West Indies,22.1,R Ashwin,RG Sharma,SP Narine,1,0,1,NA,0,NA,NA,NA,0
+536931,2nd innings,India,West Indies,22.2,RG Sharma,R Ashwin,SP Narine,1,0,1,NA,0,NA,NA,NA,0
+536931,2nd innings,India,West Indies,22.3,R Ashwin,RG Sharma,SP Narine,0,0,0,NA,0,NA,NA,NA,0
+536931,2nd innings,India,West Indies,22.4,R Ashwin,RG Sharma,SP Narine,0,0,0,NA,0,NA,NA,NA,0
+536931,2nd innings,India,West Indies,22.5,R Ashwin,RG Sharma,SP Narine,0,0,0,NA,0,NA,NA,NA,0
+536931,2nd innings,India,West Indies,22.6,R Ashwin,RG Sharma,SP Narine,0,0,0,NA,0,NA,NA,NA,0
+536931,2nd innings,India,West Indies,23.1,RG Sharma,R Ashwin,KAJ Roach,0,0,0,NA,0,NA,NA,NA,0
+536931,2nd innings,India,West Indies,23.2,RG Sharma,R Ashwin,KAJ Roach,1,0,1,NA,0,NA,NA,NA,0
+536931,2nd innings,India,West Indies,23.3,R Ashwin,RG Sharma,KAJ Roach,0,0,0,NA,0,NA,NA,NA,0
+536931,2nd innings,India,West Indies,23.4,R Ashwin,RG Sharma,KAJ Roach,0,0,0,NA,0,NA,NA,NA,0
+536931,2nd innings,India,West Indies,23.5,R Ashwin,RG Sharma,KAJ Roach,0,0,0,NA,0,NA,NA,NA,0
+536931,2nd innings,India,West Indies,23.6,R Ashwin,RG Sharma,KAJ Roach,4,0,4,NA,0,NA,NA,NA,0
+536931,2nd innings,India,West Indies,24.1,RG Sharma,R Ashwin,MN Samuels,0,0,0,NA,0,NA,NA,NA,0
+536931,2nd innings,India,West Indies,24.2,RG Sharma,R Ashwin,MN Samuels,1,0,1,NA,0,NA,NA,NA,0
+536931,2nd innings,India,West Indies,24.3,R Ashwin,RG Sharma,MN Samuels,0,0,0,NA,0,NA,NA,NA,0
+536931,2nd innings,India,West Indies,24.4,R Ashwin,RG Sharma,MN Samuels,0,0,0,NA,0,NA,NA,NA,0
+536931,2nd innings,India,West Indies,24.5,R Ashwin,RG Sharma,MN Samuels,0,0,0,NA,0,NA,NA,NA,0
+536931,2nd innings,India,West Indies,24.6,R Ashwin,RG Sharma,MN Samuels,1,0,1,NA,0,NA,NA,NA,0
+536931,2nd innings,India,West Indies,25.1,R Ashwin,RG Sharma,KAJ Roach,0,0,0,NA,0,NA,NA,NA,0
+536931,2nd innings,India,West Indies,25.2,R Ashwin,RG Sharma,KAJ Roach,0,0,0,NA,0,NA,NA,NA,0
+536931,2nd innings,India,West Indies,25.3,R Ashwin,RG Sharma,KAJ Roach,1,0,1,NA,0,NA,NA,NA,0
+536931,2nd innings,India,West Indies,25.4,RG Sharma,R Ashwin,KAJ Roach,0,0,0,NA,0,NA,NA,NA,0
+536931,2nd innings,India,West Indies,25.5,RG Sharma,R Ashwin,KAJ Roach,0,0,0,NA,0,NA,NA,NA,0
+536931,2nd innings,India,West Indies,25.6,RG Sharma,R Ashwin,KAJ Roach,4,0,4,NA,0,NA,NA,NA,0
+536931,2nd innings,India,West Indies,26.1,R Ashwin,RG Sharma,MN Samuels,0,0,0,NA,0,NA,NA,NA,0
+536931,2nd innings,India,West Indies,26.2,R Ashwin,RG Sharma,MN Samuels,0,0,0,NA,0,NA,NA,NA,0
+536931,2nd innings,India,West Indies,26.3,R Ashwin,RG Sharma,MN Samuels,1,0,1,NA,0,NA,NA,NA,0
+536931,2nd innings,India,West Indies,26.4,RG Sharma,R Ashwin,MN Samuels,0,0,0,NA,0,NA,NA,NA,0
+536931,2nd innings,India,West Indies,26.5,RG Sharma,R Ashwin,MN Samuels,0,0,0,NA,0,NA,NA,NA,0
+536931,2nd innings,India,West Indies,26.6,RG Sharma,R Ashwin,MN Samuels,0,0,0,NA,0,NA,NA,NA,0
+536931,2nd innings,India,West Indies,27.1,R Ashwin,RG Sharma,AD Russell,0,0,0,NA,0,NA,NA,NA,0
+536931,2nd innings,India,West Indies,27.2,R Ashwin,RG Sharma,AD Russell,1,0,1,NA,0,NA,NA,NA,0
+536931,2nd innings,India,West Indies,27.3,RG Sharma,R Ashwin,AD Russell,0,0,0,NA,0,NA,NA,NA,0
+536931,2nd innings,India,West Indies,27.4,RG Sharma,R Ashwin,AD Russell,4,0,4,NA,0,NA,NA,NA,0
+536931,2nd innings,India,West Indies,27.5,RG Sharma,R Ashwin,AD Russell,0,0,0,NA,0,NA,NA,NA,0
+536931,2nd innings,India,West Indies,27.6,RG Sharma,R Ashwin,AD Russell,0,0,0,NA,0,NA,NA,NA,0
+536931,2nd innings,India,West Indies,28.1,R Ashwin,RG Sharma,MN Samuels,1,0,1,NA,0,NA,NA,NA,0
+536931,2nd innings,India,West Indies,28.2,RG Sharma,R Ashwin,MN Samuels,4,0,4,NA,0,NA,NA,NA,0
+536931,2nd innings,India,West Indies,28.3,RG Sharma,R Ashwin,MN Samuels,0,0,0,NA,0,NA,NA,NA,0
+536931,2nd innings,India,West Indies,28.4,RG Sharma,R Ashwin,MN Samuels,2,0,2,NA,0,NA,NA,NA,0
+536931,2nd innings,India,West Indies,28.5,RG Sharma,R Ashwin,MN Samuels,1,0,1,NA,0,NA,NA,NA,0
+536931,2nd innings,India,West Indies,28.6,R Ashwin,RG Sharma,MN Samuels,0,0,0,NA,0,NA,NA,NA,0
+536931,2nd innings,India,West Indies,29.1,RG Sharma,R Ashwin,AD Russell,2,0,2,NA,0,NA,NA,NA,0
+536931,2nd innings,India,West Indies,29.2,RG Sharma,R Ashwin,AD Russell,1,0,1,NA,0,NA,NA,NA,0
+536931,2nd innings,India,West Indies,29.3,R Ashwin,RG Sharma,AD Russell,1,0,1,NA,0,NA,NA,NA,0
+536931,2nd innings,India,West Indies,29.4,RG Sharma,R Ashwin,AD Russell,1,0,1,NA,0,NA,NA,NA,0
+536931,2nd innings,India,West Indies,29.5,R Ashwin,RG Sharma,AD Russell,0,0,0,NA,0,NA,NA,NA,0
+536931,2nd innings,India,West Indies,29.6,R Ashwin,RG Sharma,AD Russell,1,0,1,NA,0,NA,NA,NA,0
+536931,2nd innings,India,West Indies,30.1,R Ashwin,RG Sharma,MN Samuels,0,0,0,NA,0,NA,NA,NA,0
+536931,2nd innings,India,West Indies,30.2,R Ashwin,RG Sharma,MN Samuels,1,0,1,NA,0,NA,NA,NA,0
+536931,2nd innings,India,West Indies,30.3,RG Sharma,R Ashwin,MN Samuels,0,0,0,NA,0,NA,NA,NA,0
+536931,2nd innings,India,West Indies,30.4,RG Sharma,R Ashwin,MN Samuels,0,0,0,NA,0,NA,NA,NA,0
+536931,2nd innings,India,West Indies,30.5,RG Sharma,R Ashwin,MN Samuels,1,0,1,NA,0,NA,NA,NA,0
+536931,2nd innings,India,West Indies,30.6,R Ashwin,RG Sharma,MN Samuels,0,0,0,NA,0,NA,NA,NA,0
+536931,2nd innings,India,West Indies,31.1,RG Sharma,R Ashwin,AD Russell,1,0,1,NA,0,NA,NA,NA,0
+536931,2nd innings,India,West Indies,31.2,R Ashwin,RG Sharma,AD Russell,1,0,1,NA,0,NA,NA,NA,0
+536931,2nd innings,India,West Indies,31.3,RG Sharma,R Ashwin,AD Russell,1,0,1,NA,0,NA,NA,NA,0
+536931,2nd innings,India,West Indies,31.4,R Ashwin,RG Sharma,AD Russell,1,0,1,NA,0,NA,NA,NA,0
+536931,2nd innings,India,West Indies,31.5,RG Sharma,R Ashwin,AD Russell,0,1,1,wides,0,NA,NA,NA,0
+536931,2nd innings,India,West Indies,31.6,RG Sharma,R Ashwin,AD Russell,1,0,1,NA,0,NA,NA,NA,0
+536931,2nd innings,India,West Indies,31.7,R Ashwin,RG Sharma,AD Russell,1,0,1,NA,0,NA,NA,NA,0
+536931,2nd innings,India,West Indies,32.1,R Ashwin,RG Sharma,DJG Sammy,1,0,1,NA,0,NA,NA,NA,0
+536931,2nd innings,India,West Indies,32.2,RG Sharma,R Ashwin,DJG Sammy,1,0,1,NA,0,NA,NA,NA,0
+536931,2nd innings,India,West Indies,32.3,R Ashwin,RG Sharma,DJG Sammy,1,0,1,NA,0,NA,NA,NA,0
+536931,2nd innings,India,West Indies,32.4,RG Sharma,R Ashwin,DJG Sammy,2,0,2,NA,0,NA,NA,NA,0
+536931,2nd innings,India,West Indies,32.5,RG Sharma,R Ashwin,DJG Sammy,2,0,2,NA,0,NA,NA,NA,0
+536931,2nd innings,India,West Indies,32.6,RG Sharma,R Ashwin,DJG Sammy,0,0,0,NA,0,NA,NA,NA,0
+536931,2nd innings,India,West Indies,33.1,R Ashwin,RG Sharma,LMP Simmons,0,0,0,NA,0,NA,NA,NA,0
+536931,2nd innings,India,West Indies,33.2,R Ashwin,RG Sharma,LMP Simmons,0,0,0,NA,0,NA,NA,NA,0
+536931,2nd innings,India,West Indies,33.3,R Ashwin,RG Sharma,LMP Simmons,0,0,0,NA,0,NA,NA,NA,0
+536931,2nd innings,India,West Indies,33.4,R Ashwin,RG Sharma,LMP Simmons,1,0,1,NA,0,NA,NA,NA,0
+536931,2nd innings,India,West Indies,33.5,RG Sharma,R Ashwin,LMP Simmons,1,0,1,NA,0,NA,NA,NA,0
+536931,2nd innings,India,West Indies,33.6,R Ashwin,RG Sharma,LMP Simmons,0,0,0,NA,0,NA,NA,NA,0
+536931,2nd innings,India,West Indies,34.1,RG Sharma,R Ashwin,KA Pollard,0,0,0,NA,0,NA,NA,NA,0
+536931,2nd innings,India,West Indies,34.2,RG Sharma,R Ashwin,KA Pollard,1,0,1,NA,0,NA,NA,NA,0
+536931,2nd innings,India,West Indies,34.3,R Ashwin,RG Sharma,KA Pollard,0,0,0,NA,0,NA,NA,NA,0
+536931,2nd innings,India,West Indies,34.4,R Ashwin,RG Sharma,KA Pollard,1,0,1,NA,0,NA,NA,NA,0
+536931,2nd innings,India,West Indies,34.5,RG Sharma,R Ashwin,KA Pollard,1,0,1,NA,0,NA,NA,NA,0
+536931,2nd innings,India,West Indies,34.6,R Ashwin,RG Sharma,KA Pollard,1,0,1,NA,0,NA,NA,NA,0
+536931,2nd innings,India,West Indies,35.1,R Ashwin,RG Sharma,LMP Simmons,1,0,1,NA,0,NA,NA,NA,0
+536931,2nd innings,India,West Indies,35.2,RG Sharma,R Ashwin,LMP Simmons,1,0,1,NA,0,NA,NA,NA,0
+536931,2nd innings,India,West Indies,35.3,R Ashwin,RG Sharma,LMP Simmons,1,0,1,NA,0,NA,NA,NA,0
+536931,2nd innings,India,West Indies,35.4,RG Sharma,R Ashwin,LMP Simmons,4,0,4,NA,0,NA,NA,NA,0
+536931,2nd innings,India,West Indies,35.5,RG Sharma,R Ashwin,LMP Simmons,1,0,1,NA,0,NA,NA,NA,0
+536931,2nd innings,India,West Indies,35.6,R Ashwin,RG Sharma,LMP Simmons,0,0,0,NA,0,NA,NA,NA,0
+536931,2nd innings,India,West Indies,36.1,RG Sharma,R Ashwin,SP Narine,1,0,1,NA,0,NA,NA,NA,0
+536931,2nd innings,India,West Indies,36.2,R Ashwin,RG Sharma,SP Narine,1,0,1,NA,0,NA,NA,NA,0
+536931,2nd innings,India,West Indies,36.3,RG Sharma,R Ashwin,SP Narine,1,0,1,NA,0,NA,NA,NA,0
+536931,2nd innings,India,West Indies,36.4,R Ashwin,RG Sharma,SP Narine,0,0,0,NA,0,NA,NA,NA,0
+536931,2nd innings,India,West Indies,36.5,R Ashwin,RG Sharma,SP Narine,0,0,0,NA,0,NA,NA,NA,0
+536931,2nd innings,India,West Indies,36.6,R Ashwin,RG Sharma,SP Narine,0,0,0,NA,0,NA,NA,NA,0
+536931,2nd innings,India,West Indies,37.1,RG Sharma,R Ashwin,R Rampaul,0,1,1,wides,0,NA,NA,NA,0
+536931,2nd innings,India,West Indies,37.2,RG Sharma,R Ashwin,R Rampaul,1,0,1,NA,0,NA,NA,NA,0
+536931,2nd innings,India,West Indies,37.3,R Ashwin,RG Sharma,R Rampaul,1,0,1,NA,0,NA,NA,NA,0
+536931,2nd innings,India,West Indies,37.4,RG Sharma,R Ashwin,R Rampaul,4,0,4,NA,0,NA,NA,NA,0
+536931,2nd innings,India,West Indies,37.5,RG Sharma,R Ashwin,R Rampaul,0,1,1,legbyes,0,NA,NA,NA,0
+536931,2nd innings,India,West Indies,37.6,R Ashwin,RG Sharma,R Rampaul,1,0,1,NA,0,NA,NA,NA,0
+536931,2nd innings,India,West Indies,37.7,RG Sharma,R Ashwin,R Rampaul,4,0,4,NA,0,NA,NA,NA,0
+536931,2nd innings,India,West Indies,38.1,R Ashwin,RG Sharma,MN Samuels,0,0,0,NA,0,NA,NA,NA,0
+536931,2nd innings,India,West Indies,38.2,R Ashwin,RG Sharma,MN Samuels,1,0,1,NA,0,NA,NA,NA,0
+536931,2nd innings,India,West Indies,38.3,RG Sharma,R Ashwin,MN Samuels,4,0,4,NA,0,NA,NA,NA,0
+536931,2nd innings,India,West Indies,38.4,RG Sharma,R Ashwin,MN Samuels,0,0,0,NA,0,NA,NA,NA,0
+536931,2nd innings,India,West Indies,38.5,RG Sharma,R Ashwin,MN Samuels,1,0,1,NA,0,NA,NA,NA,0
+536931,2nd innings,India,West Indies,38.6,R Ashwin,RG Sharma,MN Samuels,1,0,1,NA,0,NA,NA,NA,0
+536931,2nd innings,India,West Indies,39.1,R Ashwin,RG Sharma,SP Narine,0,0,0,NA,0,NA,NA,NA,0
+536931,2nd innings,India,West Indies,39.2,R Ashwin,RG Sharma,SP Narine,0,0,0,NA,0,NA,NA,NA,0
+536931,2nd innings,India,West Indies,39.3,R Ashwin,RG Sharma,SP Narine,2,0,2,NA,0,NA,NA,NA,0
+536931,2nd innings,India,West Indies,39.4,R Ashwin,RG Sharma,SP Narine,0,0,0,NA,0,NA,NA,NA,0
+536931,2nd innings,India,West Indies,39.5,R Ashwin,RG Sharma,SP Narine,0,0,0,NA,0,NA,NA,NA,0
+536931,2nd innings,India,West Indies,39.6,R Ashwin,RG Sharma,SP Narine,0,0,0,NA,1,lbw,R Ashwin,NA,0
+536931,2nd innings,India,West Indies,40.1,RG Sharma,R Vinay Kumar,MN Samuels,1,0,1,NA,0,NA,NA,NA,0
+536931,2nd innings,India,West Indies,40.2,R Vinay Kumar,RG Sharma,MN Samuels,0,0,0,NA,0,NA,NA,NA,0
+536931,2nd innings,India,West Indies,40.3,R Vinay Kumar,RG Sharma,MN Samuels,2,0,2,NA,0,NA,NA,NA,0
+536931,2nd innings,India,West Indies,40.4,R Vinay Kumar,RG Sharma,MN Samuels,0,0,0,NA,0,NA,NA,NA,0
+536931,2nd innings,India,West Indies,40.5,R Vinay Kumar,RG Sharma,MN Samuels,0,0,0,NA,0,NA,NA,NA,0
+536931,2nd innings,India,West Indies,40.6,R Vinay Kumar,RG Sharma,MN Samuels,1,0,1,NA,0,NA,NA,NA,0
+536931,2nd innings,India,West Indies,41.1,R Vinay Kumar,RG Sharma,KAJ Roach,0,0,0,NA,0,NA,NA,NA,0
+536931,2nd innings,India,West Indies,41.2,R Vinay Kumar,RG Sharma,KAJ Roach,0,0,0,NA,0,NA,NA,NA,0
+536931,2nd innings,India,West Indies,41.3,R Vinay Kumar,RG Sharma,KAJ Roach,0,0,0,NA,1,bowled,R Vinay Kumar,NA,0
+536931,2nd innings,India,West Indies,41.4,A Mithun,RG Sharma,KAJ Roach,0,1,1,wides,0,NA,NA,NA,0
+536931,2nd innings,India,West Indies,41.5,A Mithun,RG Sharma,KAJ Roach,0,0,0,NA,0,NA,NA,NA,0
+536931,2nd innings,India,West Indies,41.6,A Mithun,RG Sharma,KAJ Roach,0,0,0,NA,0,NA,NA,NA,0
+536931,2nd innings,India,West Indies,41.7,A Mithun,RG Sharma,KAJ Roach,0,0,0,NA,0,NA,NA,NA,0
+536931,2nd innings,India,West Indies,42.1,RG Sharma,A Mithun,MN Samuels,4,0,4,NA,0,NA,NA,NA,0
+536931,2nd innings,India,West Indies,42.2,RG Sharma,A Mithun,MN Samuels,0,0,0,NA,0,NA,NA,NA,0
+536931,2nd innings,India,West Indies,42.3,RG Sharma,A Mithun,MN Samuels,2,0,2,NA,0,NA,NA,NA,0
+536931,2nd innings,India,West Indies,42.4,RG Sharma,A Mithun,MN Samuels,1,0,1,NA,0,NA,NA,NA,0
+536931,2nd innings,India,West Indies,42.5,A Mithun,RG Sharma,MN Samuels,0,0,0,NA,0,NA,NA,NA,0
+536931,2nd innings,India,West Indies,42.6,A Mithun,RG Sharma,MN Samuels,6,0,6,NA,0,NA,NA,NA,0
+536931,2nd innings,India,West Indies,43.1,RG Sharma,A Mithun,KAJ Roach,0,0,0,NA,0,NA,NA,NA,0
+536931,2nd innings,India,West Indies,43.2,RG Sharma,A Mithun,KAJ Roach,1,0,1,NA,0,NA,NA,NA,0
+536931,2nd innings,India,West Indies,43.3,A Mithun,RG Sharma,KAJ Roach,1,0,1,NA,0,NA,NA,NA,0
+536931,2nd innings,India,West Indies,43.4,RG Sharma,A Mithun,KAJ Roach,0,0,0,NA,1,run out,RG Sharma,DJG Sammy,0
+536931,2nd innings,India,West Indies,43.5,A Mithun,UT Yadav,KAJ Roach,0,0,0,NA,0,NA,NA,NA,0
+536931,2nd innings,India,West Indies,43.6,A Mithun,UT Yadav,KAJ Roach,0,0,0,NA,0,NA,NA,NA,0
+536931,2nd innings,India,West Indies,44.1,UT Yadav,A Mithun,SP Narine,4,0,4,NA,0,NA,NA,NA,0
+536931,2nd innings,India,West Indies,44.2,UT Yadav,A Mithun,SP Narine,0,0,0,NA,0,NA,NA,NA,0
+536931,2nd innings,India,West Indies,44.3,UT Yadav,A Mithun,SP Narine,0,0,0,NA,0,NA,NA,NA,0
+536931,2nd innings,India,West Indies,44.4,UT Yadav,A Mithun,SP Narine,0,0,0,NA,0,NA,NA,NA,0
+536931,2nd innings,India,West Indies,44.5,UT Yadav,A Mithun,SP Narine,1,0,1,NA,0,NA,NA,NA,0
+536931,2nd innings,India,West Indies,44.6,A Mithun,UT Yadav,SP Narine,6,0,6,NA,0,NA,NA,NA,0
+536931,2nd innings,India,West Indies,45.1,UT Yadav,A Mithun,KAJ Roach,0,0,0,NA,0,NA,NA,NA,0
+536931,2nd innings,India,West Indies,45.2,UT Yadav,A Mithun,KAJ Roach,0,1,1,noballs,0,NA,NA,NA,0
+536931,2nd innings,India,West Indies,45.3,UT Yadav,A Mithun,KAJ Roach,1,0,1,NA,0,NA,NA,NA,0
+536931,2nd innings,India,West Indies,45.4,A Mithun,UT Yadav,KAJ Roach,0,0,0,NA,0,NA,NA,NA,0
+536931,2nd innings,India,West Indies,45.5,A Mithun,UT Yadav,KAJ Roach,0,0,0,NA,0,NA,NA,NA,0
+536931,2nd innings,India,West Indies,45.6,A Mithun,UT Yadav,KAJ Roach,4,0,4,NA,0,NA,NA,NA,0
+536931,2nd innings,India,West Indies,45.7,A Mithun,UT Yadav,KAJ Roach,2,0,2,NA,0,NA,NA,NA,0
+536931,2nd innings,India,West Indies,46.1,UT Yadav,A Mithun,R Rampaul,4,0,4,NA,0,NA,NA,NA,0
+536931,2nd innings,India,West Indies,46.2,UT Yadav,A Mithun,R Rampaul,1,0,1,NA,0,NA,NA,NA,0
+536931,2nd innings,India,West Indies,46.3,A Mithun,UT Yadav,R Rampaul,4,0,4,NA,0,NA,NA,NA,0
+536931,2nd innings,India,West Indies,46.4,A Mithun,UT Yadav,R Rampaul,0,0,0,NA,0,NA,NA,NA,0
+536931,2nd innings,India,West Indies,46.5,A Mithun,UT Yadav,R Rampaul,0,0,0,NA,1,lbw,A Mithun,NA,0

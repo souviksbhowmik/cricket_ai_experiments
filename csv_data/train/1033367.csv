@@ -1,0 +1,458 @@
+match_id,innings,team,opponent,ball,batsman,non_striker,bowler,scored_runs,extras,total,extra_type,wicket,wicket_type,player_out,fielders,winner
+1033367,1st innings,Ireland,Bangladesh,0.1,EC Joyce,PR Stirling,Rubel Hossain,0,0,0,NA,0,NA,NA,NA,0
+1033367,1st innings,Ireland,Bangladesh,0.2,EC Joyce,PR Stirling,Rubel Hossain,0,0,0,NA,0,NA,NA,NA,0
+1033367,1st innings,Ireland,Bangladesh,0.3,EC Joyce,PR Stirling,Rubel Hossain,0,0,0,NA,0,NA,NA,NA,0
+1033367,1st innings,Ireland,Bangladesh,0.4,EC Joyce,PR Stirling,Rubel Hossain,0,0,0,NA,0,NA,NA,NA,0
+1033367,1st innings,Ireland,Bangladesh,0.5,EC Joyce,PR Stirling,Rubel Hossain,0,0,0,NA,0,NA,NA,NA,0
+1033367,1st innings,Ireland,Bangladesh,0.6,EC Joyce,PR Stirling,Rubel Hossain,0,0,0,NA,0,NA,NA,NA,0
+1033367,1st innings,Ireland,Bangladesh,1.1,PR Stirling,EC Joyce,Mustafizur Rahman,0,0,0,NA,0,NA,NA,NA,0
+1033367,1st innings,Ireland,Bangladesh,1.2,PR Stirling,EC Joyce,Mustafizur Rahman,0,0,0,NA,0,NA,NA,NA,0
+1033367,1st innings,Ireland,Bangladesh,1.3,PR Stirling,EC Joyce,Mustafizur Rahman,0,0,0,NA,1,caught,PR Stirling,Sabbir Rahman,0
+1033367,1st innings,Ireland,Bangladesh,1.4,WTS Porterfield,EC Joyce,Mustafizur Rahman,0,0,0,NA,0,NA,NA,NA,0
+1033367,1st innings,Ireland,Bangladesh,1.5,WTS Porterfield,EC Joyce,Mustafizur Rahman,0,0,0,NA,0,NA,NA,NA,0
+1033367,1st innings,Ireland,Bangladesh,1.6,WTS Porterfield,EC Joyce,Mustafizur Rahman,0,0,0,NA,0,NA,NA,NA,0
+1033367,1st innings,Ireland,Bangladesh,2.1,EC Joyce,WTS Porterfield,Rubel Hossain,0,0,0,NA,0,NA,NA,NA,0
+1033367,1st innings,Ireland,Bangladesh,2.2,EC Joyce,WTS Porterfield,Rubel Hossain,0,0,0,NA,0,NA,NA,NA,0
+1033367,1st innings,Ireland,Bangladesh,2.3,EC Joyce,WTS Porterfield,Rubel Hossain,1,0,1,NA,0,NA,NA,NA,0
+1033367,1st innings,Ireland,Bangladesh,2.4,WTS Porterfield,EC Joyce,Rubel Hossain,0,0,0,NA,0,NA,NA,NA,0
+1033367,1st innings,Ireland,Bangladesh,2.5,WTS Porterfield,EC Joyce,Rubel Hossain,0,1,1,wides,0,NA,NA,NA,0
+1033367,1st innings,Ireland,Bangladesh,2.6,WTS Porterfield,EC Joyce,Rubel Hossain,0,0,0,NA,0,NA,NA,NA,0
+1033367,1st innings,Ireland,Bangladesh,2.7,WTS Porterfield,EC Joyce,Rubel Hossain,0,0,0,NA,0,NA,NA,NA,0
+1033367,1st innings,Ireland,Bangladesh,3.1,EC Joyce,WTS Porterfield,Mustafizur Rahman,0,0,0,NA,0,NA,NA,NA,0
+1033367,1st innings,Ireland,Bangladesh,3.2,EC Joyce,WTS Porterfield,Mustafizur Rahman,0,0,0,NA,0,NA,NA,NA,0
+1033367,1st innings,Ireland,Bangladesh,3.3,EC Joyce,WTS Porterfield,Mustafizur Rahman,3,0,3,NA,0,NA,NA,NA,0
+1033367,1st innings,Ireland,Bangladesh,3.4,WTS Porterfield,EC Joyce,Mustafizur Rahman,0,1,1,wides,0,NA,NA,NA,0
+1033367,1st innings,Ireland,Bangladesh,3.5,WTS Porterfield,EC Joyce,Mustafizur Rahman,0,1,1,wides,0,NA,NA,NA,0
+1033367,1st innings,Ireland,Bangladesh,3.6,WTS Porterfield,EC Joyce,Mustafizur Rahman,3,0,3,NA,0,NA,NA,NA,0
+1033367,1st innings,Ireland,Bangladesh,3.7,EC Joyce,WTS Porterfield,Mustafizur Rahman,2,0,2,NA,0,NA,NA,NA,0
+1033367,1st innings,Ireland,Bangladesh,3.8,EC Joyce,WTS Porterfield,Mustafizur Rahman,0,0,0,NA,0,NA,NA,NA,0
+1033367,1st innings,Ireland,Bangladesh,4.1,WTS Porterfield,EC Joyce,Rubel Hossain,0,0,0,NA,0,NA,NA,NA,0
+1033367,1st innings,Ireland,Bangladesh,4.2,WTS Porterfield,EC Joyce,Rubel Hossain,0,1,1,legbyes,0,NA,NA,NA,0
+1033367,1st innings,Ireland,Bangladesh,4.3,EC Joyce,WTS Porterfield,Rubel Hossain,1,0,1,NA,0,NA,NA,NA,0
+1033367,1st innings,Ireland,Bangladesh,4.4,WTS Porterfield,EC Joyce,Rubel Hossain,4,0,4,NA,0,NA,NA,NA,0
+1033367,1st innings,Ireland,Bangladesh,4.5,WTS Porterfield,EC Joyce,Rubel Hossain,0,0,0,NA,0,NA,NA,NA,0
+1033367,1st innings,Ireland,Bangladesh,4.6,WTS Porterfield,EC Joyce,Rubel Hossain,0,0,0,NA,0,NA,NA,NA,0
+1033367,1st innings,Ireland,Bangladesh,5.1,EC Joyce,WTS Porterfield,Mashrafe Mortaza,0,0,0,NA,0,NA,NA,NA,0
+1033367,1st innings,Ireland,Bangladesh,5.2,EC Joyce,WTS Porterfield,Mashrafe Mortaza,0,0,0,NA,0,NA,NA,NA,0
+1033367,1st innings,Ireland,Bangladesh,5.3,EC Joyce,WTS Porterfield,Mashrafe Mortaza,0,0,0,NA,0,NA,NA,NA,0
+1033367,1st innings,Ireland,Bangladesh,5.4,EC Joyce,WTS Porterfield,Mashrafe Mortaza,0,1,1,wides,0,NA,NA,NA,0
+1033367,1st innings,Ireland,Bangladesh,5.5,EC Joyce,WTS Porterfield,Mashrafe Mortaza,1,0,1,NA,0,NA,NA,NA,0
+1033367,1st innings,Ireland,Bangladesh,5.6,WTS Porterfield,EC Joyce,Mashrafe Mortaza,0,0,0,NA,0,NA,NA,NA,0
+1033367,1st innings,Ireland,Bangladesh,5.7,WTS Porterfield,EC Joyce,Mashrafe Mortaza,6,0,6,NA,0,NA,NA,NA,0
+1033367,1st innings,Ireland,Bangladesh,6.1,EC Joyce,WTS Porterfield,Rubel Hossain,0,0,0,NA,0,NA,NA,NA,0
+1033367,1st innings,Ireland,Bangladesh,6.2,EC Joyce,WTS Porterfield,Rubel Hossain,1,0,1,NA,0,NA,NA,NA,0
+1033367,1st innings,Ireland,Bangladesh,6.3,WTS Porterfield,EC Joyce,Rubel Hossain,4,0,4,NA,0,NA,NA,NA,0
+1033367,1st innings,Ireland,Bangladesh,6.4,WTS Porterfield,EC Joyce,Rubel Hossain,4,0,4,NA,0,NA,NA,NA,0
+1033367,1st innings,Ireland,Bangladesh,6.5,WTS Porterfield,EC Joyce,Rubel Hossain,0,1,1,byes,0,NA,NA,NA,0
+1033367,1st innings,Ireland,Bangladesh,6.6,EC Joyce,WTS Porterfield,Rubel Hossain,0,0,0,NA,0,NA,NA,NA,0
+1033367,1st innings,Ireland,Bangladesh,7.1,WTS Porterfield,EC Joyce,Mashrafe Mortaza,0,0,0,NA,0,NA,NA,NA,0
+1033367,1st innings,Ireland,Bangladesh,7.2,WTS Porterfield,EC Joyce,Mashrafe Mortaza,0,0,0,NA,0,NA,NA,NA,0
+1033367,1st innings,Ireland,Bangladesh,7.3,WTS Porterfield,EC Joyce,Mashrafe Mortaza,0,0,0,NA,0,NA,NA,NA,0
+1033367,1st innings,Ireland,Bangladesh,7.4,WTS Porterfield,EC Joyce,Mashrafe Mortaza,0,0,0,NA,0,NA,NA,NA,0
+1033367,1st innings,Ireland,Bangladesh,7.5,WTS Porterfield,EC Joyce,Mashrafe Mortaza,1,0,1,NA,0,NA,NA,NA,0
+1033367,1st innings,Ireland,Bangladesh,7.6,EC Joyce,WTS Porterfield,Mashrafe Mortaza,0,0,0,NA,0,NA,NA,NA,0
+1033367,1st innings,Ireland,Bangladesh,8.1,WTS Porterfield,EC Joyce,Mosaddek Hossain,0,0,0,NA,0,NA,NA,NA,0
+1033367,1st innings,Ireland,Bangladesh,8.2,WTS Porterfield,EC Joyce,Mosaddek Hossain,0,0,0,NA,0,NA,NA,NA,0
+1033367,1st innings,Ireland,Bangladesh,8.3,WTS Porterfield,EC Joyce,Mosaddek Hossain,0,0,0,NA,1,caught and bowled,WTS Porterfield,NA,0
+1033367,1st innings,Ireland,Bangladesh,8.4,A Balbirnie,EC Joyce,Mosaddek Hossain,0,0,0,NA,0,NA,NA,NA,0
+1033367,1st innings,Ireland,Bangladesh,8.5,A Balbirnie,EC Joyce,Mosaddek Hossain,1,0,1,NA,0,NA,NA,NA,0
+1033367,1st innings,Ireland,Bangladesh,8.6,EC Joyce,A Balbirnie,Mosaddek Hossain,0,0,0,NA,0,NA,NA,NA,0
+1033367,1st innings,Ireland,Bangladesh,9.1,A Balbirnie,EC Joyce,Mashrafe Mortaza,0,0,0,NA,0,NA,NA,NA,0
+1033367,1st innings,Ireland,Bangladesh,9.2,A Balbirnie,EC Joyce,Mashrafe Mortaza,0,0,0,NA,0,NA,NA,NA,0
+1033367,1st innings,Ireland,Bangladesh,9.3,A Balbirnie,EC Joyce,Mashrafe Mortaza,0,0,0,NA,0,NA,NA,NA,0
+1033367,1st innings,Ireland,Bangladesh,9.4,A Balbirnie,EC Joyce,Mashrafe Mortaza,0,0,0,NA,0,NA,NA,NA,0
+1033367,1st innings,Ireland,Bangladesh,9.5,A Balbirnie,EC Joyce,Mashrafe Mortaza,0,0,0,NA,0,NA,NA,NA,0
+1033367,1st innings,Ireland,Bangladesh,9.6,A Balbirnie,EC Joyce,Mashrafe Mortaza,0,0,0,NA,0,NA,NA,NA,0
+1033367,1st innings,Ireland,Bangladesh,10.1,EC Joyce,A Balbirnie,Mosaddek Hossain,1,0,1,NA,0,NA,NA,NA,0
+1033367,1st innings,Ireland,Bangladesh,10.2,A Balbirnie,EC Joyce,Mosaddek Hossain,0,0,0,NA,0,NA,NA,NA,0
+1033367,1st innings,Ireland,Bangladesh,10.3,A Balbirnie,EC Joyce,Mosaddek Hossain,0,0,0,NA,0,NA,NA,NA,0
+1033367,1st innings,Ireland,Bangladesh,10.4,A Balbirnie,EC Joyce,Mosaddek Hossain,0,0,0,NA,0,NA,NA,NA,0
+1033367,1st innings,Ireland,Bangladesh,10.5,A Balbirnie,EC Joyce,Mosaddek Hossain,1,0,1,NA,0,NA,NA,NA,0
+1033367,1st innings,Ireland,Bangladesh,10.6,EC Joyce,A Balbirnie,Mosaddek Hossain,2,0,2,NA,0,NA,NA,NA,0
+1033367,1st innings,Ireland,Bangladesh,11.1,A Balbirnie,EC Joyce,Mashrafe Mortaza,0,0,0,NA,0,NA,NA,NA,0
+1033367,1st innings,Ireland,Bangladesh,11.2,A Balbirnie,EC Joyce,Mashrafe Mortaza,0,0,0,NA,0,NA,NA,NA,0
+1033367,1st innings,Ireland,Bangladesh,11.3,A Balbirnie,EC Joyce,Mashrafe Mortaza,0,0,0,NA,0,NA,NA,NA,0
+1033367,1st innings,Ireland,Bangladesh,11.4,A Balbirnie,EC Joyce,Mashrafe Mortaza,0,1,1,legbyes,0,NA,NA,NA,0
+1033367,1st innings,Ireland,Bangladesh,11.5,EC Joyce,A Balbirnie,Mashrafe Mortaza,1,0,1,NA,0,NA,NA,NA,0
+1033367,1st innings,Ireland,Bangladesh,11.6,A Balbirnie,EC Joyce,Mashrafe Mortaza,1,0,1,NA,0,NA,NA,NA,0
+1033367,1st innings,Ireland,Bangladesh,12.1,A Balbirnie,EC Joyce,Shakib Al Hasan,2,0,2,NA,0,NA,NA,NA,0
+1033367,1st innings,Ireland,Bangladesh,12.2,A Balbirnie,EC Joyce,Shakib Al Hasan,0,0,0,NA,0,NA,NA,NA,0
+1033367,1st innings,Ireland,Bangladesh,12.3,A Balbirnie,EC Joyce,Shakib Al Hasan,0,0,0,NA,0,NA,NA,NA,0
+1033367,1st innings,Ireland,Bangladesh,12.4,A Balbirnie,EC Joyce,Shakib Al Hasan,6,0,6,NA,0,NA,NA,NA,0
+1033367,1st innings,Ireland,Bangladesh,12.5,A Balbirnie,EC Joyce,Shakib Al Hasan,1,0,1,NA,0,NA,NA,NA,0
+1033367,1st innings,Ireland,Bangladesh,12.6,EC Joyce,A Balbirnie,Shakib Al Hasan,1,0,1,NA,0,NA,NA,NA,0
+1033367,1st innings,Ireland,Bangladesh,13.1,EC Joyce,A Balbirnie,Mustafizur Rahman,0,0,0,NA,0,NA,NA,NA,0
+1033367,1st innings,Ireland,Bangladesh,13.2,EC Joyce,A Balbirnie,Mustafizur Rahman,4,0,4,NA,0,NA,NA,NA,0
+1033367,1st innings,Ireland,Bangladesh,13.3,EC Joyce,A Balbirnie,Mustafizur Rahman,0,0,0,NA,0,NA,NA,NA,0
+1033367,1st innings,Ireland,Bangladesh,13.4,EC Joyce,A Balbirnie,Mustafizur Rahman,0,0,0,NA,0,NA,NA,NA,0
+1033367,1st innings,Ireland,Bangladesh,13.5,EC Joyce,A Balbirnie,Mustafizur Rahman,1,0,1,NA,0,NA,NA,NA,0
+1033367,1st innings,Ireland,Bangladesh,13.6,A Balbirnie,EC Joyce,Mustafizur Rahman,0,0,0,NA,0,NA,NA,NA,0
+1033367,1st innings,Ireland,Bangladesh,14.1,EC Joyce,A Balbirnie,Shakib Al Hasan,1,0,1,NA,0,NA,NA,NA,0
+1033367,1st innings,Ireland,Bangladesh,14.2,A Balbirnie,EC Joyce,Shakib Al Hasan,0,0,0,NA,1,bowled,A Balbirnie,NA,0
+1033367,1st innings,Ireland,Bangladesh,14.3,NJ O'Brien,EC Joyce,Shakib Al Hasan,0,0,0,NA,0,NA,NA,NA,0
+1033367,1st innings,Ireland,Bangladesh,14.4,NJ O'Brien,EC Joyce,Shakib Al Hasan,0,0,0,NA,0,NA,NA,NA,0
+1033367,1st innings,Ireland,Bangladesh,14.5,NJ O'Brien,EC Joyce,Shakib Al Hasan,0,0,0,NA,0,NA,NA,NA,0
+1033367,1st innings,Ireland,Bangladesh,14.6,NJ O'Brien,EC Joyce,Shakib Al Hasan,1,0,1,NA,0,NA,NA,NA,0
+1033367,1st innings,Ireland,Bangladesh,15.1,NJ O'Brien,EC Joyce,Mosaddek Hossain,1,0,1,NA,0,NA,NA,NA,0
+1033367,1st innings,Ireland,Bangladesh,15.2,EC Joyce,NJ O'Brien,Mosaddek Hossain,0,0,0,NA,0,NA,NA,NA,0
+1033367,1st innings,Ireland,Bangladesh,15.3,EC Joyce,NJ O'Brien,Mosaddek Hossain,0,0,0,NA,0,NA,NA,NA,0
+1033367,1st innings,Ireland,Bangladesh,15.4,EC Joyce,NJ O'Brien,Mosaddek Hossain,0,0,0,NA,0,NA,NA,NA,0
+1033367,1st innings,Ireland,Bangladesh,15.5,EC Joyce,NJ O'Brien,Mosaddek Hossain,0,0,0,NA,0,NA,NA,NA,0
+1033367,1st innings,Ireland,Bangladesh,15.6,EC Joyce,NJ O'Brien,Mosaddek Hossain,4,0,4,NA,0,NA,NA,NA,0
+1033367,1st innings,Ireland,Bangladesh,16.1,NJ O'Brien,EC Joyce,Shakib Al Hasan,0,0,0,NA,0,NA,NA,NA,0
+1033367,1st innings,Ireland,Bangladesh,16.2,NJ O'Brien,EC Joyce,Shakib Al Hasan,1,0,1,NA,0,NA,NA,NA,0
+1033367,1st innings,Ireland,Bangladesh,16.3,EC Joyce,NJ O'Brien,Shakib Al Hasan,0,0,0,NA,0,NA,NA,NA,0
+1033367,1st innings,Ireland,Bangladesh,16.4,EC Joyce,NJ O'Brien,Shakib Al Hasan,0,0,0,NA,0,NA,NA,NA,0
+1033367,1st innings,Ireland,Bangladesh,16.5,EC Joyce,NJ O'Brien,Shakib Al Hasan,1,0,1,NA,0,NA,NA,NA,0
+1033367,1st innings,Ireland,Bangladesh,16.6,NJ O'Brien,EC Joyce,Shakib Al Hasan,0,0,0,NA,0,NA,NA,NA,0
+1033367,1st innings,Ireland,Bangladesh,17.1,EC Joyce,NJ O'Brien,Mosaddek Hossain,1,0,1,NA,0,NA,NA,NA,0
+1033367,1st innings,Ireland,Bangladesh,17.2,NJ O'Brien,EC Joyce,Mosaddek Hossain,1,0,1,NA,0,NA,NA,NA,0
+1033367,1st innings,Ireland,Bangladesh,17.3,EC Joyce,NJ O'Brien,Mosaddek Hossain,1,0,1,NA,0,NA,NA,NA,0
+1033367,1st innings,Ireland,Bangladesh,17.4,NJ O'Brien,EC Joyce,Mosaddek Hossain,0,0,0,NA,0,NA,NA,NA,0
+1033367,1st innings,Ireland,Bangladesh,17.5,NJ O'Brien,EC Joyce,Mosaddek Hossain,0,0,0,NA,0,NA,NA,NA,0
+1033367,1st innings,Ireland,Bangladesh,17.6,NJ O'Brien,EC Joyce,Mosaddek Hossain,1,0,1,NA,0,NA,NA,NA,0
+1033367,1st innings,Ireland,Bangladesh,18.1,NJ O'Brien,EC Joyce,Shakib Al Hasan,0,0,0,NA,0,NA,NA,NA,0
+1033367,1st innings,Ireland,Bangladesh,18.2,NJ O'Brien,EC Joyce,Shakib Al Hasan,0,0,0,NA,0,NA,NA,NA,0
+1033367,1st innings,Ireland,Bangladesh,18.3,NJ O'Brien,EC Joyce,Shakib Al Hasan,1,0,1,NA,0,NA,NA,NA,0
+1033367,1st innings,Ireland,Bangladesh,18.4,EC Joyce,NJ O'Brien,Shakib Al Hasan,0,0,0,NA,0,NA,NA,NA,0
+1033367,1st innings,Ireland,Bangladesh,18.5,EC Joyce,NJ O'Brien,Shakib Al Hasan,0,0,0,NA,0,NA,NA,NA,0
+1033367,1st innings,Ireland,Bangladesh,18.6,EC Joyce,NJ O'Brien,Shakib Al Hasan,1,0,1,NA,0,NA,NA,NA,0
+1033367,1st innings,Ireland,Bangladesh,19.1,EC Joyce,NJ O'Brien,Mosaddek Hossain,1,0,1,NA,0,NA,NA,NA,0
+1033367,1st innings,Ireland,Bangladesh,19.2,NJ O'Brien,EC Joyce,Mosaddek Hossain,0,0,0,NA,0,NA,NA,NA,0
+1033367,1st innings,Ireland,Bangladesh,19.3,NJ O'Brien,EC Joyce,Mosaddek Hossain,0,0,0,NA,0,NA,NA,NA,0
+1033367,1st innings,Ireland,Bangladesh,19.4,NJ O'Brien,EC Joyce,Mosaddek Hossain,0,0,0,NA,0,NA,NA,NA,0
+1033367,1st innings,Ireland,Bangladesh,19.5,NJ O'Brien,EC Joyce,Mosaddek Hossain,0,0,0,NA,0,NA,NA,NA,0
+1033367,1st innings,Ireland,Bangladesh,19.6,NJ O'Brien,EC Joyce,Mosaddek Hossain,1,0,1,NA,0,NA,NA,NA,0
+1033367,1st innings,Ireland,Bangladesh,20.1,NJ O'Brien,EC Joyce,Shakib Al Hasan,1,0,1,NA,0,NA,NA,NA,0
+1033367,1st innings,Ireland,Bangladesh,20.2,EC Joyce,NJ O'Brien,Shakib Al Hasan,0,0,0,NA,0,NA,NA,NA,0
+1033367,1st innings,Ireland,Bangladesh,20.3,EC Joyce,NJ O'Brien,Shakib Al Hasan,0,0,0,NA,0,NA,NA,NA,0
+1033367,1st innings,Ireland,Bangladesh,20.4,EC Joyce,NJ O'Brien,Shakib Al Hasan,0,0,0,NA,0,NA,NA,NA,0
+1033367,1st innings,Ireland,Bangladesh,20.5,EC Joyce,NJ O'Brien,Shakib Al Hasan,1,0,1,NA,0,NA,NA,NA,0
+1033367,1st innings,Ireland,Bangladesh,20.6,NJ O'Brien,EC Joyce,Shakib Al Hasan,6,0,6,NA,0,NA,NA,NA,0
+1033367,1st innings,Ireland,Bangladesh,21.1,EC Joyce,NJ O'Brien,Mosaddek Hossain,0,1,1,legbyes,0,NA,NA,NA,0
+1033367,1st innings,Ireland,Bangladesh,21.2,NJ O'Brien,EC Joyce,Mosaddek Hossain,4,0,4,NA,0,NA,NA,NA,0
+1033367,1st innings,Ireland,Bangladesh,21.3,NJ O'Brien,EC Joyce,Mosaddek Hossain,0,0,0,NA,0,NA,NA,NA,0
+1033367,1st innings,Ireland,Bangladesh,21.4,NJ O'Brien,EC Joyce,Mosaddek Hossain,0,0,0,NA,0,NA,NA,NA,0
+1033367,1st innings,Ireland,Bangladesh,21.5,NJ O'Brien,EC Joyce,Mosaddek Hossain,1,0,1,NA,0,NA,NA,NA,0
+1033367,1st innings,Ireland,Bangladesh,21.6,EC Joyce,NJ O'Brien,Mosaddek Hossain,0,0,0,NA,0,NA,NA,NA,0
+1033367,1st innings,Ireland,Bangladesh,22.1,NJ O'Brien,EC Joyce,Mahmudullah,0,0,0,NA,0,NA,NA,NA,0
+1033367,1st innings,Ireland,Bangladesh,22.2,NJ O'Brien,EC Joyce,Mahmudullah,0,0,0,NA,0,NA,NA,NA,0
+1033367,1st innings,Ireland,Bangladesh,22.3,NJ O'Brien,EC Joyce,Mahmudullah,1,0,1,NA,0,NA,NA,NA,0
+1033367,1st innings,Ireland,Bangladesh,22.4,EC Joyce,NJ O'Brien,Mahmudullah,1,0,1,NA,0,NA,NA,NA,0
+1033367,1st innings,Ireland,Bangladesh,22.5,NJ O'Brien,EC Joyce,Mahmudullah,0,0,0,NA,0,NA,NA,NA,0
+1033367,1st innings,Ireland,Bangladesh,22.6,NJ O'Brien,EC Joyce,Mahmudullah,1,0,1,NA,0,NA,NA,NA,0
+1033367,1st innings,Ireland,Bangladesh,23.1,NJ O'Brien,EC Joyce,Rubel Hossain,1,0,1,NA,0,NA,NA,NA,0
+1033367,1st innings,Ireland,Bangladesh,23.2,EC Joyce,NJ O'Brien,Rubel Hossain,1,0,1,NA,0,NA,NA,NA,0
+1033367,1st innings,Ireland,Bangladesh,23.3,NJ O'Brien,EC Joyce,Rubel Hossain,1,0,1,NA,0,NA,NA,NA,0
+1033367,1st innings,Ireland,Bangladesh,23.4,EC Joyce,NJ O'Brien,Rubel Hossain,0,0,0,NA,0,NA,NA,NA,0
+1033367,1st innings,Ireland,Bangladesh,23.5,EC Joyce,NJ O'Brien,Rubel Hossain,0,0,0,NA,0,NA,NA,NA,0
+1033367,1st innings,Ireland,Bangladesh,23.6,EC Joyce,NJ O'Brien,Rubel Hossain,2,0,2,NA,0,NA,NA,NA,0
+1033367,1st innings,Ireland,Bangladesh,24.1,NJ O'Brien,EC Joyce,Mahmudullah,1,0,1,NA,0,NA,NA,NA,0
+1033367,1st innings,Ireland,Bangladesh,24.2,EC Joyce,NJ O'Brien,Mahmudullah,0,0,0,NA,0,NA,NA,NA,0
+1033367,1st innings,Ireland,Bangladesh,24.3,EC Joyce,NJ O'Brien,Mahmudullah,1,0,1,NA,0,NA,NA,NA,0
+1033367,1st innings,Ireland,Bangladesh,24.4,NJ O'Brien,EC Joyce,Mahmudullah,1,0,1,NA,0,NA,NA,NA,0
+1033367,1st innings,Ireland,Bangladesh,24.5,EC Joyce,NJ O'Brien,Mahmudullah,0,0,0,NA,0,NA,NA,NA,0
+1033367,1st innings,Ireland,Bangladesh,24.6,EC Joyce,NJ O'Brien,Mahmudullah,0,0,0,NA,0,NA,NA,NA,0
+1033367,1st innings,Ireland,Bangladesh,25.1,NJ O'Brien,EC Joyce,Rubel Hossain,1,0,1,NA,0,NA,NA,NA,0
+1033367,1st innings,Ireland,Bangladesh,25.2,EC Joyce,NJ O'Brien,Rubel Hossain,1,0,1,NA,0,NA,NA,NA,0
+1033367,1st innings,Ireland,Bangladesh,25.3,NJ O'Brien,EC Joyce,Rubel Hossain,2,0,2,NA,0,NA,NA,NA,0
+1033367,1st innings,Ireland,Bangladesh,25.4,NJ O'Brien,EC Joyce,Rubel Hossain,1,0,1,NA,0,NA,NA,NA,0
+1033367,1st innings,Ireland,Bangladesh,25.5,EC Joyce,NJ O'Brien,Rubel Hossain,0,0,0,NA,0,NA,NA,NA,0
+1033367,1st innings,Ireland,Bangladesh,25.6,EC Joyce,NJ O'Brien,Rubel Hossain,1,0,1,NA,0,NA,NA,NA,0
+1033367,1st innings,Ireland,Bangladesh,26.1,EC Joyce,NJ O'Brien,Mahmudullah,0,0,0,NA,0,NA,NA,NA,0
+1033367,1st innings,Ireland,Bangladesh,26.2,EC Joyce,NJ O'Brien,Mahmudullah,1,0,1,NA,0,NA,NA,NA,0
+1033367,1st innings,Ireland,Bangladesh,26.3,NJ O'Brien,EC Joyce,Mahmudullah,1,0,1,NA,0,NA,NA,NA,0
+1033367,1st innings,Ireland,Bangladesh,26.4,EC Joyce,NJ O'Brien,Mahmudullah,4,0,4,NA,0,NA,NA,NA,0
+1033367,1st innings,Ireland,Bangladesh,26.5,EC Joyce,NJ O'Brien,Mahmudullah,1,0,1,NA,0,NA,NA,NA,0
+1033367,1st innings,Ireland,Bangladesh,26.6,NJ O'Brien,EC Joyce,Mahmudullah,0,0,0,NA,0,NA,NA,NA,0
+1033367,1st innings,Ireland,Bangladesh,27.1,EC Joyce,NJ O'Brien,Mustafizur Rahman,1,0,1,NA,0,NA,NA,NA,0
+1033367,1st innings,Ireland,Bangladesh,27.2,NJ O'Brien,EC Joyce,Mustafizur Rahman,0,0,0,NA,0,NA,NA,NA,0
+1033367,1st innings,Ireland,Bangladesh,27.3,NJ O'Brien,EC Joyce,Mustafizur Rahman,0,0,0,NA,1,caught,NJ O'Brien,Tamim Iqbal,0
+1033367,1st innings,Ireland,Bangladesh,27.4,KJ O'Brien,EC Joyce,Mustafizur Rahman,0,0,0,NA,0,NA,NA,NA,0
+1033367,1st innings,Ireland,Bangladesh,27.5,KJ O'Brien,EC Joyce,Mustafizur Rahman,0,0,0,NA,0,NA,NA,NA,0
+1033367,1st innings,Ireland,Bangladesh,27.6,KJ O'Brien,EC Joyce,Mustafizur Rahman,2,0,2,NA,0,NA,NA,NA,0
+1033367,1st innings,Ireland,Bangladesh,28.1,EC Joyce,KJ O'Brien,Sunzamul Islam,1,0,1,NA,0,NA,NA,NA,0
+1033367,1st innings,Ireland,Bangladesh,28.2,KJ O'Brien,EC Joyce,Sunzamul Islam,4,0,4,NA,0,NA,NA,NA,0
+1033367,1st innings,Ireland,Bangladesh,28.3,KJ O'Brien,EC Joyce,Sunzamul Islam,1,0,1,NA,0,NA,NA,NA,0
+1033367,1st innings,Ireland,Bangladesh,28.4,EC Joyce,KJ O'Brien,Sunzamul Islam,1,0,1,NA,0,NA,NA,NA,0
+1033367,1st innings,Ireland,Bangladesh,28.5,KJ O'Brien,EC Joyce,Sunzamul Islam,1,0,1,NA,0,NA,NA,NA,0
+1033367,1st innings,Ireland,Bangladesh,28.6,EC Joyce,KJ O'Brien,Sunzamul Islam,0,0,0,NA,1,caught,EC Joyce,Tamim Iqbal,0
+1033367,1st innings,Ireland,Bangladesh,29.1,GC Wilson,KJ O'Brien,Mustafizur Rahman,0,0,0,NA,0,NA,NA,NA,0
+1033367,1st innings,Ireland,Bangladesh,29.2,GC Wilson,KJ O'Brien,Mustafizur Rahman,0,0,0,NA,0,NA,NA,NA,0
+1033367,1st innings,Ireland,Bangladesh,29.3,GC Wilson,KJ O'Brien,Mustafizur Rahman,0,0,0,NA,0,NA,NA,NA,0
+1033367,1st innings,Ireland,Bangladesh,29.4,GC Wilson,KJ O'Brien,Mustafizur Rahman,2,0,2,NA,0,NA,NA,NA,0
+1033367,1st innings,Ireland,Bangladesh,29.5,GC Wilson,KJ O'Brien,Mustafizur Rahman,0,0,0,NA,0,NA,NA,NA,0
+1033367,1st innings,Ireland,Bangladesh,29.6,GC Wilson,KJ O'Brien,Mustafizur Rahman,0,0,0,NA,0,NA,NA,NA,0
+1033367,1st innings,Ireland,Bangladesh,30.1,KJ O'Brien,GC Wilson,Sunzamul Islam,0,0,0,NA,0,NA,NA,NA,0
+1033367,1st innings,Ireland,Bangladesh,30.2,KJ O'Brien,GC Wilson,Sunzamul Islam,0,1,1,wides,0,NA,NA,NA,0
+1033367,1st innings,Ireland,Bangladesh,30.3,KJ O'Brien,GC Wilson,Sunzamul Islam,0,0,0,NA,0,NA,NA,NA,0
+1033367,1st innings,Ireland,Bangladesh,30.4,KJ O'Brien,GC Wilson,Sunzamul Islam,1,0,1,NA,0,NA,NA,NA,0
+1033367,1st innings,Ireland,Bangladesh,30.5,GC Wilson,KJ O'Brien,Sunzamul Islam,1,0,1,NA,0,NA,NA,NA,0
+1033367,1st innings,Ireland,Bangladesh,30.6,KJ O'Brien,GC Wilson,Sunzamul Islam,1,0,1,NA,0,NA,NA,NA,0
+1033367,1st innings,Ireland,Bangladesh,30.7,GC Wilson,KJ O'Brien,Sunzamul Islam,1,0,1,NA,0,NA,NA,NA,0
+1033367,1st innings,Ireland,Bangladesh,31.1,GC Wilson,KJ O'Brien,Mustafizur Rahman,0,0,0,NA,0,NA,NA,NA,0
+1033367,1st innings,Ireland,Bangladesh,31.2,GC Wilson,KJ O'Brien,Mustafizur Rahman,0,0,0,NA,0,NA,NA,NA,0
+1033367,1st innings,Ireland,Bangladesh,31.3,GC Wilson,KJ O'Brien,Mustafizur Rahman,1,0,1,NA,0,NA,NA,NA,0
+1033367,1st innings,Ireland,Bangladesh,31.4,KJ O'Brien,GC Wilson,Mustafizur Rahman,0,0,0,NA,1,caught,KJ O'Brien,Mosaddek Hossain,0
+1033367,1st innings,Ireland,Bangladesh,31.5,GC Wilson,GH Dockrell,Mustafizur Rahman,0,0,0,NA,0,NA,NA,NA,0
+1033367,1st innings,Ireland,Bangladesh,31.6,GC Wilson,GH Dockrell,Mustafizur Rahman,0,0,0,NA,0,NA,NA,NA,0
+1033367,1st innings,Ireland,Bangladesh,32.1,GH Dockrell,GC Wilson,Sunzamul Islam,0,0,0,NA,0,NA,NA,NA,0
+1033367,1st innings,Ireland,Bangladesh,32.2,GH Dockrell,GC Wilson,Sunzamul Islam,1,0,1,NA,0,NA,NA,NA,0
+1033367,1st innings,Ireland,Bangladesh,32.3,GC Wilson,GH Dockrell,Sunzamul Islam,0,0,0,NA,0,NA,NA,NA,0
+1033367,1st innings,Ireland,Bangladesh,32.4,GC Wilson,GH Dockrell,Sunzamul Islam,0,0,0,NA,0,NA,NA,NA,0
+1033367,1st innings,Ireland,Bangladesh,32.5,GC Wilson,GH Dockrell,Sunzamul Islam,1,0,1,NA,0,NA,NA,NA,0
+1033367,1st innings,Ireland,Bangladesh,32.6,GH Dockrell,GC Wilson,Sunzamul Islam,0,0,0,NA,0,NA,NA,NA,0
+1033367,1st innings,Ireland,Bangladesh,33.1,GC Wilson,GH Dockrell,Mustafizur Rahman,0,0,0,NA,1,caught,GC Wilson,Mushfiqur Rahim,0
+1033367,1st innings,Ireland,Bangladesh,33.2,BJ McCarthy,GH Dockrell,Mustafizur Rahman,0,0,0,NA,0,NA,NA,NA,0
+1033367,1st innings,Ireland,Bangladesh,33.3,BJ McCarthy,GH Dockrell,Mustafizur Rahman,0,0,0,NA,0,NA,NA,NA,0
+1033367,1st innings,Ireland,Bangladesh,33.4,BJ McCarthy,GH Dockrell,Mustafizur Rahman,0,0,0,NA,0,NA,NA,NA,0
+1033367,1st innings,Ireland,Bangladesh,33.5,BJ McCarthy,GH Dockrell,Mustafizur Rahman,0,0,0,NA,0,NA,NA,NA,0
+1033367,1st innings,Ireland,Bangladesh,33.6,BJ McCarthy,GH Dockrell,Mustafizur Rahman,0,0,0,NA,0,NA,NA,NA,0
+1033367,1st innings,Ireland,Bangladesh,34.1,GH Dockrell,BJ McCarthy,Sunzamul Islam,1,0,1,NA,0,NA,NA,NA,0
+1033367,1st innings,Ireland,Bangladesh,34.2,BJ McCarthy,GH Dockrell,Sunzamul Islam,0,0,0,NA,0,NA,NA,NA,0
+1033367,1st innings,Ireland,Bangladesh,34.3,BJ McCarthy,GH Dockrell,Sunzamul Islam,0,0,0,NA,0,NA,NA,NA,0
+1033367,1st innings,Ireland,Bangladesh,34.4,BJ McCarthy,GH Dockrell,Sunzamul Islam,1,0,1,NA,0,NA,NA,NA,0
+1033367,1st innings,Ireland,Bangladesh,34.5,GH Dockrell,BJ McCarthy,Sunzamul Islam,0,0,0,NA,0,NA,NA,NA,0
+1033367,1st innings,Ireland,Bangladesh,34.6,GH Dockrell,BJ McCarthy,Sunzamul Islam,1,0,1,NA,0,NA,NA,NA,0
+1033367,1st innings,Ireland,Bangladesh,35.1,GH Dockrell,BJ McCarthy,Mustafizur Rahman,0,0,0,NA,0,NA,NA,NA,0
+1033367,1st innings,Ireland,Bangladesh,35.2,GH Dockrell,BJ McCarthy,Mustafizur Rahman,0,0,0,NA,0,NA,NA,NA,0
+1033367,1st innings,Ireland,Bangladesh,35.3,GH Dockrell,BJ McCarthy,Mustafizur Rahman,0,0,0,NA,0,NA,NA,NA,0
+1033367,1st innings,Ireland,Bangladesh,35.4,GH Dockrell,BJ McCarthy,Mustafizur Rahman,0,0,0,NA,0,NA,NA,NA,0
+1033367,1st innings,Ireland,Bangladesh,35.5,GH Dockrell,BJ McCarthy,Mustafizur Rahman,1,0,1,NA,0,NA,NA,NA,0
+1033367,1st innings,Ireland,Bangladesh,35.6,BJ McCarthy,GH Dockrell,Mustafizur Rahman,0,0,0,NA,0,NA,NA,NA,0
+1033367,1st innings,Ireland,Bangladesh,36.1,GH Dockrell,BJ McCarthy,Shakib Al Hasan,0,0,0,NA,0,NA,NA,NA,0
+1033367,1st innings,Ireland,Bangladesh,36.2,GH Dockrell,BJ McCarthy,Shakib Al Hasan,2,0,2,NA,0,NA,NA,NA,0
+1033367,1st innings,Ireland,Bangladesh,36.3,GH Dockrell,BJ McCarthy,Shakib Al Hasan,1,0,1,NA,0,NA,NA,NA,0
+1033367,1st innings,Ireland,Bangladesh,36.4,BJ McCarthy,GH Dockrell,Shakib Al Hasan,1,0,1,NA,0,NA,NA,NA,0
+1033367,1st innings,Ireland,Bangladesh,36.5,GH Dockrell,BJ McCarthy,Shakib Al Hasan,0,0,0,NA,0,NA,NA,NA,0
+1033367,1st innings,Ireland,Bangladesh,36.6,GH Dockrell,BJ McCarthy,Shakib Al Hasan,0,0,0,NA,0,NA,NA,NA,0
+1033367,1st innings,Ireland,Bangladesh,37.1,BJ McCarthy,GH Dockrell,Rubel Hossain,1,0,1,NA,0,NA,NA,NA,0
+1033367,1st innings,Ireland,Bangladesh,37.2,GH Dockrell,BJ McCarthy,Rubel Hossain,0,0,0,NA,0,NA,NA,NA,0
+1033367,1st innings,Ireland,Bangladesh,37.3,GH Dockrell,BJ McCarthy,Rubel Hossain,0,0,0,NA,0,NA,NA,NA,0
+1033367,1st innings,Ireland,Bangladesh,37.4,GH Dockrell,BJ McCarthy,Rubel Hossain,2,0,2,NA,0,NA,NA,NA,0
+1033367,1st innings,Ireland,Bangladesh,37.5,GH Dockrell,BJ McCarthy,Rubel Hossain,1,0,1,NA,0,NA,NA,NA,0
+1033367,1st innings,Ireland,Bangladesh,37.6,BJ McCarthy,GH Dockrell,Rubel Hossain,0,1,1,wides,0,NA,NA,NA,0
+1033367,1st innings,Ireland,Bangladesh,37.7,BJ McCarthy,GH Dockrell,Rubel Hossain,4,0,4,NA,0,NA,NA,NA,0
+1033367,1st innings,Ireland,Bangladesh,38.1,GH Dockrell,BJ McCarthy,Shakib Al Hasan,0,0,0,NA,0,NA,NA,NA,0
+1033367,1st innings,Ireland,Bangladesh,38.2,GH Dockrell,BJ McCarthy,Shakib Al Hasan,0,0,0,NA,0,NA,NA,NA,0
+1033367,1st innings,Ireland,Bangladesh,38.3,GH Dockrell,BJ McCarthy,Shakib Al Hasan,1,0,1,NA,0,NA,NA,NA,0
+1033367,1st innings,Ireland,Bangladesh,38.4,BJ McCarthy,GH Dockrell,Shakib Al Hasan,1,0,1,NA,0,NA,NA,NA,0
+1033367,1st innings,Ireland,Bangladesh,38.5,GH Dockrell,BJ McCarthy,Shakib Al Hasan,0,0,0,NA,0,NA,NA,NA,0
+1033367,1st innings,Ireland,Bangladesh,38.6,GH Dockrell,BJ McCarthy,Shakib Al Hasan,1,0,1,NA,0,NA,NA,NA,0
+1033367,1st innings,Ireland,Bangladesh,39.1,GH Dockrell,BJ McCarthy,Rubel Hossain,1,0,1,NA,0,NA,NA,NA,0
+1033367,1st innings,Ireland,Bangladesh,39.2,BJ McCarthy,GH Dockrell,Rubel Hossain,1,0,1,NA,0,NA,NA,NA,0
+1033367,1st innings,Ireland,Bangladesh,39.3,GH Dockrell,BJ McCarthy,Rubel Hossain,1,0,1,NA,0,NA,NA,NA,0
+1033367,1st innings,Ireland,Bangladesh,39.4,BJ McCarthy,GH Dockrell,Rubel Hossain,0,0,0,NA,0,NA,NA,NA,0
+1033367,1st innings,Ireland,Bangladesh,39.5,BJ McCarthy,GH Dockrell,Rubel Hossain,1,0,1,NA,0,NA,NA,NA,0
+1033367,1st innings,Ireland,Bangladesh,39.6,GH Dockrell,BJ McCarthy,Rubel Hossain,1,0,1,NA,0,NA,NA,NA,0
+1033367,1st innings,Ireland,Bangladesh,40.1,GH Dockrell,BJ McCarthy,Shakib Al Hasan,1,0,1,NA,0,NA,NA,NA,0
+1033367,1st innings,Ireland,Bangladesh,40.2,BJ McCarthy,GH Dockrell,Shakib Al Hasan,1,0,1,NA,0,NA,NA,NA,0
+1033367,1st innings,Ireland,Bangladesh,40.3,GH Dockrell,BJ McCarthy,Shakib Al Hasan,0,0,0,NA,0,NA,NA,NA,0
+1033367,1st innings,Ireland,Bangladesh,40.4,GH Dockrell,BJ McCarthy,Shakib Al Hasan,0,0,0,NA,0,NA,NA,NA,0
+1033367,1st innings,Ireland,Bangladesh,40.5,GH Dockrell,BJ McCarthy,Shakib Al Hasan,0,0,0,NA,0,NA,NA,NA,0
+1033367,1st innings,Ireland,Bangladesh,40.6,GH Dockrell,BJ McCarthy,Shakib Al Hasan,0,0,0,NA,0,NA,NA,NA,0
+1033367,1st innings,Ireland,Bangladesh,41.1,BJ McCarthy,GH Dockrell,Mashrafe Mortaza,0,0,0,NA,0,NA,NA,NA,0
+1033367,1st innings,Ireland,Bangladesh,41.2,BJ McCarthy,GH Dockrell,Mashrafe Mortaza,0,0,0,NA,0,NA,NA,NA,0
+1033367,1st innings,Ireland,Bangladesh,41.3,BJ McCarthy,GH Dockrell,Mashrafe Mortaza,0,0,0,NA,0,NA,NA,NA,0
+1033367,1st innings,Ireland,Bangladesh,41.4,BJ McCarthy,GH Dockrell,Mashrafe Mortaza,1,0,1,NA,0,NA,NA,NA,0
+1033367,1st innings,Ireland,Bangladesh,41.5,GH Dockrell,BJ McCarthy,Mashrafe Mortaza,0,0,0,NA,0,NA,NA,NA,0
+1033367,1st innings,Ireland,Bangladesh,41.6,GH Dockrell,BJ McCarthy,Mashrafe Mortaza,0,1,1,legbyes,0,NA,NA,NA,0
+1033367,1st innings,Ireland,Bangladesh,42.1,GH Dockrell,BJ McCarthy,Shakib Al Hasan,0,0,0,NA,0,NA,NA,NA,0
+1033367,1st innings,Ireland,Bangladesh,42.2,GH Dockrell,BJ McCarthy,Shakib Al Hasan,0,0,0,NA,0,NA,NA,NA,0
+1033367,1st innings,Ireland,Bangladesh,42.3,GH Dockrell,BJ McCarthy,Shakib Al Hasan,4,0,4,NA,0,NA,NA,NA,0
+1033367,1st innings,Ireland,Bangladesh,42.4,GH Dockrell,BJ McCarthy,Shakib Al Hasan,0,0,0,NA,0,NA,NA,NA,0
+1033367,1st innings,Ireland,Bangladesh,42.5,GH Dockrell,BJ McCarthy,Shakib Al Hasan,1,0,1,NA,0,NA,NA,NA,0
+1033367,1st innings,Ireland,Bangladesh,42.6,BJ McCarthy,GH Dockrell,Shakib Al Hasan,0,0,0,NA,0,NA,NA,NA,0
+1033367,1st innings,Ireland,Bangladesh,43.1,GH Dockrell,BJ McCarthy,Sunzamul Islam,1,0,1,NA,0,NA,NA,NA,0
+1033367,1st innings,Ireland,Bangladesh,43.2,BJ McCarthy,GH Dockrell,Sunzamul Islam,0,0,0,NA,1,lbw,BJ McCarthy,NA,0
+1033367,1st innings,Ireland,Bangladesh,43.3,TJ Murtagh,GH Dockrell,Sunzamul Islam,0,0,0,NA,0,NA,NA,NA,0
+1033367,1st innings,Ireland,Bangladesh,43.4,TJ Murtagh,GH Dockrell,Sunzamul Islam,1,0,1,NA,0,NA,NA,NA,0
+1033367,1st innings,Ireland,Bangladesh,43.5,GH Dockrell,TJ Murtagh,Sunzamul Islam,0,0,0,NA,0,NA,NA,NA,0
+1033367,1st innings,Ireland,Bangladesh,43.6,GH Dockrell,TJ Murtagh,Sunzamul Islam,2,0,2,NA,0,NA,NA,NA,0
+1033367,1st innings,Ireland,Bangladesh,44.1,TJ Murtagh,GH Dockrell,Mashrafe Mortaza,0,1,1,wides,0,NA,NA,NA,0
+1033367,1st innings,Ireland,Bangladesh,44.2,TJ Murtagh,GH Dockrell,Mashrafe Mortaza,1,0,1,NA,0,NA,NA,NA,0
+1033367,1st innings,Ireland,Bangladesh,44.3,GH Dockrell,TJ Murtagh,Mashrafe Mortaza,1,0,1,NA,0,NA,NA,NA,0
+1033367,1st innings,Ireland,Bangladesh,44.4,TJ Murtagh,GH Dockrell,Mashrafe Mortaza,0,0,0,NA,0,NA,NA,NA,0
+1033367,1st innings,Ireland,Bangladesh,44.5,TJ Murtagh,GH Dockrell,Mashrafe Mortaza,0,0,0,NA,0,NA,NA,NA,0
+1033367,1st innings,Ireland,Bangladesh,44.6,TJ Murtagh,GH Dockrell,Mashrafe Mortaza,1,0,1,NA,0,NA,NA,NA,0
+1033367,1st innings,Ireland,Bangladesh,44.7,GH Dockrell,TJ Murtagh,Mashrafe Mortaza,0,0,0,NA,0,NA,NA,NA,0
+1033367,1st innings,Ireland,Bangladesh,45.1,TJ Murtagh,GH Dockrell,Mustafizur Rahman,0,0,0,NA,0,NA,NA,NA,0
+1033367,1st innings,Ireland,Bangladesh,45.2,TJ Murtagh,GH Dockrell,Mustafizur Rahman,1,0,1,NA,0,NA,NA,NA,0
+1033367,1st innings,Ireland,Bangladesh,45.3,GH Dockrell,TJ Murtagh,Mustafizur Rahman,0,0,0,NA,0,NA,NA,NA,0
+1033367,1st innings,Ireland,Bangladesh,45.4,GH Dockrell,TJ Murtagh,Mustafizur Rahman,0,0,0,NA,0,NA,NA,NA,0
+1033367,1st innings,Ireland,Bangladesh,45.5,GH Dockrell,TJ Murtagh,Mustafizur Rahman,0,0,0,NA,0,NA,NA,NA,0
+1033367,1st innings,Ireland,Bangladesh,45.6,GH Dockrell,TJ Murtagh,Mustafizur Rahman,0,0,0,NA,0,NA,NA,NA,0
+1033367,1st innings,Ireland,Bangladesh,46.1,TJ Murtagh,GH Dockrell,Mashrafe Mortaza,1,0,1,NA,0,NA,NA,NA,0
+1033367,1st innings,Ireland,Bangladesh,46.2,GH Dockrell,TJ Murtagh,Mashrafe Mortaza,0,0,0,NA,1,caught,GH Dockrell,Mushfiqur Rahim,0
+1033367,1st innings,Ireland,Bangladesh,46.3,PKD Chase,TJ Murtagh,Mashrafe Mortaza,0,1,1,wides,0,NA,NA,NA,0
+1033367,1st innings,Ireland,Bangladesh,46.4,PKD Chase,TJ Murtagh,Mashrafe Mortaza,0,0,0,NA,1,caught,PKD Chase,Mushfiqur Rahim,0
+1033367,2nd innings,Bangladesh,Ireland,0.1,Tamim Iqbal,Soumya Sarkar,PKD Chase,0,0,0,NA,0,NA,NA,NA,1
+1033367,2nd innings,Bangladesh,Ireland,0.2,Tamim Iqbal,Soumya Sarkar,PKD Chase,0,0,0,NA,0,NA,NA,NA,1
+1033367,2nd innings,Bangladesh,Ireland,0.3,Tamim Iqbal,Soumya Sarkar,PKD Chase,0,0,0,NA,0,NA,NA,NA,1
+1033367,2nd innings,Bangladesh,Ireland,0.4,Tamim Iqbal,Soumya Sarkar,PKD Chase,0,1,1,wides,0,NA,NA,NA,1
+1033367,2nd innings,Bangladesh,Ireland,0.5,Tamim Iqbal,Soumya Sarkar,PKD Chase,0,0,0,NA,0,NA,NA,NA,1
+1033367,2nd innings,Bangladesh,Ireland,0.6,Tamim Iqbal,Soumya Sarkar,PKD Chase,4,0,4,NA,0,NA,NA,NA,1
+1033367,2nd innings,Bangladesh,Ireland,0.7,Tamim Iqbal,Soumya Sarkar,PKD Chase,1,0,1,NA,0,NA,NA,NA,1
+1033367,2nd innings,Bangladesh,Ireland,1.1,Tamim Iqbal,Soumya Sarkar,TJ Murtagh,0,0,0,NA,0,NA,NA,NA,1
+1033367,2nd innings,Bangladesh,Ireland,1.2,Tamim Iqbal,Soumya Sarkar,TJ Murtagh,0,0,0,NA,0,NA,NA,NA,1
+1033367,2nd innings,Bangladesh,Ireland,1.3,Tamim Iqbal,Soumya Sarkar,TJ Murtagh,0,0,0,NA,0,NA,NA,NA,1
+1033367,2nd innings,Bangladesh,Ireland,1.4,Tamim Iqbal,Soumya Sarkar,TJ Murtagh,0,0,0,NA,0,NA,NA,NA,1
+1033367,2nd innings,Bangladesh,Ireland,1.5,Tamim Iqbal,Soumya Sarkar,TJ Murtagh,0,0,0,NA,0,NA,NA,NA,1
+1033367,2nd innings,Bangladesh,Ireland,1.6,Tamim Iqbal,Soumya Sarkar,TJ Murtagh,2,0,2,NA,0,NA,NA,NA,1
+1033367,2nd innings,Bangladesh,Ireland,2.1,Soumya Sarkar,Tamim Iqbal,PKD Chase,1,0,1,NA,0,NA,NA,NA,1
+1033367,2nd innings,Bangladesh,Ireland,2.2,Tamim Iqbal,Soumya Sarkar,PKD Chase,0,0,0,NA,0,NA,NA,NA,1
+1033367,2nd innings,Bangladesh,Ireland,2.3,Tamim Iqbal,Soumya Sarkar,PKD Chase,0,1,1,wides,0,NA,NA,NA,1
+1033367,2nd innings,Bangladesh,Ireland,2.4,Tamim Iqbal,Soumya Sarkar,PKD Chase,0,0,0,NA,0,NA,NA,NA,1
+1033367,2nd innings,Bangladesh,Ireland,2.5,Tamim Iqbal,Soumya Sarkar,PKD Chase,0,0,0,NA,0,NA,NA,NA,1
+1033367,2nd innings,Bangladesh,Ireland,2.6,Tamim Iqbal,Soumya Sarkar,PKD Chase,2,0,2,NA,0,NA,NA,NA,1
+1033367,2nd innings,Bangladesh,Ireland,2.7,Tamim Iqbal,Soumya Sarkar,PKD Chase,1,0,1,NA,0,NA,NA,NA,1
+1033367,2nd innings,Bangladesh,Ireland,3.1,Tamim Iqbal,Soumya Sarkar,TJ Murtagh,0,0,0,NA,0,NA,NA,NA,1
+1033367,2nd innings,Bangladesh,Ireland,3.2,Tamim Iqbal,Soumya Sarkar,TJ Murtagh,1,0,1,NA,0,NA,NA,NA,1
+1033367,2nd innings,Bangladesh,Ireland,3.3,Soumya Sarkar,Tamim Iqbal,TJ Murtagh,0,0,0,NA,0,NA,NA,NA,1
+1033367,2nd innings,Bangladesh,Ireland,3.4,Soumya Sarkar,Tamim Iqbal,TJ Murtagh,1,0,1,NA,0,NA,NA,NA,1
+1033367,2nd innings,Bangladesh,Ireland,3.5,Tamim Iqbal,Soumya Sarkar,TJ Murtagh,1,0,1,NA,0,NA,NA,NA,1
+1033367,2nd innings,Bangladesh,Ireland,3.6,Soumya Sarkar,Tamim Iqbal,TJ Murtagh,0,0,0,NA,0,NA,NA,NA,1
+1033367,2nd innings,Bangladesh,Ireland,4.1,Tamim Iqbal,Soumya Sarkar,PKD Chase,0,0,0,NA,0,NA,NA,NA,1
+1033367,2nd innings,Bangladesh,Ireland,4.2,Tamim Iqbal,Soumya Sarkar,PKD Chase,4,0,4,NA,0,NA,NA,NA,1
+1033367,2nd innings,Bangladesh,Ireland,4.3,Tamim Iqbal,Soumya Sarkar,PKD Chase,1,0,1,NA,0,NA,NA,NA,1
+1033367,2nd innings,Bangladesh,Ireland,4.4,Soumya Sarkar,Tamim Iqbal,PKD Chase,0,0,0,NA,0,NA,NA,NA,1
+1033367,2nd innings,Bangladesh,Ireland,4.5,Soumya Sarkar,Tamim Iqbal,PKD Chase,4,0,4,NA,0,NA,NA,NA,1
+1033367,2nd innings,Bangladesh,Ireland,4.6,Soumya Sarkar,Tamim Iqbal,PKD Chase,0,0,0,NA,0,NA,NA,NA,1
+1033367,2nd innings,Bangladesh,Ireland,5.1,Tamim Iqbal,Soumya Sarkar,TJ Murtagh,0,0,0,NA,0,NA,NA,NA,1
+1033367,2nd innings,Bangladesh,Ireland,5.2,Tamim Iqbal,Soumya Sarkar,TJ Murtagh,0,0,0,NA,0,NA,NA,NA,1
+1033367,2nd innings,Bangladesh,Ireland,5.3,Tamim Iqbal,Soumya Sarkar,TJ Murtagh,0,0,0,NA,0,NA,NA,NA,1
+1033367,2nd innings,Bangladesh,Ireland,5.4,Tamim Iqbal,Soumya Sarkar,TJ Murtagh,0,2,2,legbyes,0,NA,NA,NA,1
+1033367,2nd innings,Bangladesh,Ireland,5.5,Tamim Iqbal,Soumya Sarkar,TJ Murtagh,1,0,1,NA,0,NA,NA,NA,1
+1033367,2nd innings,Bangladesh,Ireland,5.6,Soumya Sarkar,Tamim Iqbal,TJ Murtagh,0,0,0,NA,0,NA,NA,NA,1
+1033367,2nd innings,Bangladesh,Ireland,6.1,Tamim Iqbal,Soumya Sarkar,PKD Chase,0,0,0,NA,0,NA,NA,NA,1
+1033367,2nd innings,Bangladesh,Ireland,6.2,Tamim Iqbal,Soumya Sarkar,PKD Chase,0,0,0,NA,0,NA,NA,NA,1
+1033367,2nd innings,Bangladesh,Ireland,6.3,Tamim Iqbal,Soumya Sarkar,PKD Chase,0,0,0,NA,0,NA,NA,NA,1
+1033367,2nd innings,Bangladesh,Ireland,6.4,Tamim Iqbal,Soumya Sarkar,PKD Chase,0,0,0,NA,0,NA,NA,NA,1
+1033367,2nd innings,Bangladesh,Ireland,6.5,Tamim Iqbal,Soumya Sarkar,PKD Chase,4,0,4,NA,0,NA,NA,NA,1
+1033367,2nd innings,Bangladesh,Ireland,6.6,Tamim Iqbal,Soumya Sarkar,PKD Chase,1,0,1,NA,0,NA,NA,NA,1
+1033367,2nd innings,Bangladesh,Ireland,7.1,Tamim Iqbal,Soumya Sarkar,TJ Murtagh,1,0,1,NA,0,NA,NA,NA,1
+1033367,2nd innings,Bangladesh,Ireland,7.2,Soumya Sarkar,Tamim Iqbal,TJ Murtagh,0,0,0,NA,0,NA,NA,NA,1
+1033367,2nd innings,Bangladesh,Ireland,7.3,Soumya Sarkar,Tamim Iqbal,TJ Murtagh,6,0,6,NA,0,NA,NA,NA,1
+1033367,2nd innings,Bangladesh,Ireland,7.4,Soumya Sarkar,Tamim Iqbal,TJ Murtagh,0,0,0,NA,0,NA,NA,NA,1
+1033367,2nd innings,Bangladesh,Ireland,7.5,Soumya Sarkar,Tamim Iqbal,TJ Murtagh,0,1,1,wides,0,NA,NA,NA,1
+1033367,2nd innings,Bangladesh,Ireland,7.6,Soumya Sarkar,Tamim Iqbal,TJ Murtagh,0,0,0,NA,0,NA,NA,NA,1
+1033367,2nd innings,Bangladesh,Ireland,7.7,Soumya Sarkar,Tamim Iqbal,TJ Murtagh,1,0,1,NA,0,NA,NA,NA,1
+1033367,2nd innings,Bangladesh,Ireland,8.1,Soumya Sarkar,Tamim Iqbal,BJ McCarthy,0,1,1,wides,0,NA,NA,NA,1
+1033367,2nd innings,Bangladesh,Ireland,8.2,Soumya Sarkar,Tamim Iqbal,BJ McCarthy,0,1,1,wides,0,NA,NA,NA,1
+1033367,2nd innings,Bangladesh,Ireland,8.3,Soumya Sarkar,Tamim Iqbal,BJ McCarthy,4,0,4,NA,0,NA,NA,NA,1
+1033367,2nd innings,Bangladesh,Ireland,8.4,Soumya Sarkar,Tamim Iqbal,BJ McCarthy,6,0,6,NA,0,NA,NA,NA,1
+1033367,2nd innings,Bangladesh,Ireland,8.5,Soumya Sarkar,Tamim Iqbal,BJ McCarthy,0,0,0,NA,0,NA,NA,NA,1
+1033367,2nd innings,Bangladesh,Ireland,8.6,Soumya Sarkar,Tamim Iqbal,BJ McCarthy,4,0,4,NA,0,NA,NA,NA,1
+1033367,2nd innings,Bangladesh,Ireland,8.7,Soumya Sarkar,Tamim Iqbal,BJ McCarthy,0,0,0,NA,0,NA,NA,NA,1
+1033367,2nd innings,Bangladesh,Ireland,8.8,Soumya Sarkar,Tamim Iqbal,BJ McCarthy,0,0,0,NA,0,NA,NA,NA,1
+1033367,2nd innings,Bangladesh,Ireland,9.1,Tamim Iqbal,Soumya Sarkar,TJ Murtagh,4,0,4,NA,0,NA,NA,NA,1
+1033367,2nd innings,Bangladesh,Ireland,9.2,Tamim Iqbal,Soumya Sarkar,TJ Murtagh,1,0,1,NA,0,NA,NA,NA,1
+1033367,2nd innings,Bangladesh,Ireland,9.3,Soumya Sarkar,Tamim Iqbal,TJ Murtagh,4,0,4,NA,0,NA,NA,NA,1
+1033367,2nd innings,Bangladesh,Ireland,9.4,Soumya Sarkar,Tamim Iqbal,TJ Murtagh,2,0,2,NA,0,NA,NA,NA,1
+1033367,2nd innings,Bangladesh,Ireland,9.5,Soumya Sarkar,Tamim Iqbal,TJ Murtagh,0,0,0,NA,0,NA,NA,NA,1
+1033367,2nd innings,Bangladesh,Ireland,9.6,Soumya Sarkar,Tamim Iqbal,TJ Murtagh,0,0,0,NA,0,NA,NA,NA,1
+1033367,2nd innings,Bangladesh,Ireland,10.1,Tamim Iqbal,Soumya Sarkar,PR Stirling,1,0,1,NA,0,NA,NA,NA,1
+1033367,2nd innings,Bangladesh,Ireland,10.2,Soumya Sarkar,Tamim Iqbal,PR Stirling,2,0,2,NA,0,NA,NA,NA,1
+1033367,2nd innings,Bangladesh,Ireland,10.3,Soumya Sarkar,Tamim Iqbal,PR Stirling,1,0,1,NA,0,NA,NA,NA,1
+1033367,2nd innings,Bangladesh,Ireland,10.4,Tamim Iqbal,Soumya Sarkar,PR Stirling,1,0,1,NA,0,NA,NA,NA,1
+1033367,2nd innings,Bangladesh,Ireland,10.5,Soumya Sarkar,Tamim Iqbal,PR Stirling,1,0,1,NA,0,NA,NA,NA,1
+1033367,2nd innings,Bangladesh,Ireland,10.6,Tamim Iqbal,Soumya Sarkar,PR Stirling,1,0,1,NA,0,NA,NA,NA,1
+1033367,2nd innings,Bangladesh,Ireland,11.1,Tamim Iqbal,Soumya Sarkar,KJ O'Brien,0,0,0,NA,0,NA,NA,NA,1
+1033367,2nd innings,Bangladesh,Ireland,11.2,Tamim Iqbal,Soumya Sarkar,KJ O'Brien,1,0,1,NA,0,NA,NA,NA,1
+1033367,2nd innings,Bangladesh,Ireland,11.3,Soumya Sarkar,Tamim Iqbal,KJ O'Brien,1,0,1,NA,0,NA,NA,NA,1
+1033367,2nd innings,Bangladesh,Ireland,11.4,Tamim Iqbal,Soumya Sarkar,KJ O'Brien,0,0,0,NA,0,NA,NA,NA,1
+1033367,2nd innings,Bangladesh,Ireland,11.5,Tamim Iqbal,Soumya Sarkar,KJ O'Brien,2,0,2,NA,0,NA,NA,NA,1
+1033367,2nd innings,Bangladesh,Ireland,11.6,Tamim Iqbal,Soumya Sarkar,KJ O'Brien,1,0,1,NA,0,NA,NA,NA,1
+1033367,2nd innings,Bangladesh,Ireland,12.1,Tamim Iqbal,Soumya Sarkar,PR Stirling,0,0,0,NA,0,NA,NA,NA,1
+1033367,2nd innings,Bangladesh,Ireland,12.2,Tamim Iqbal,Soumya Sarkar,PR Stirling,4,0,4,NA,0,NA,NA,NA,1
+1033367,2nd innings,Bangladesh,Ireland,12.3,Tamim Iqbal,Soumya Sarkar,PR Stirling,0,0,0,NA,0,NA,NA,NA,1
+1033367,2nd innings,Bangladesh,Ireland,12.4,Tamim Iqbal,Soumya Sarkar,PR Stirling,1,0,1,NA,0,NA,NA,NA,1
+1033367,2nd innings,Bangladesh,Ireland,12.5,Soumya Sarkar,Tamim Iqbal,PR Stirling,1,0,1,NA,0,NA,NA,NA,1
+1033367,2nd innings,Bangladesh,Ireland,12.6,Tamim Iqbal,Soumya Sarkar,PR Stirling,1,0,1,NA,0,NA,NA,NA,1
+1033367,2nd innings,Bangladesh,Ireland,13.1,Tamim Iqbal,Soumya Sarkar,KJ O'Brien,4,0,4,NA,0,NA,NA,NA,1
+1033367,2nd innings,Bangladesh,Ireland,13.2,Tamim Iqbal,Soumya Sarkar,KJ O'Brien,0,1,1,wides,0,NA,NA,NA,1
+1033367,2nd innings,Bangladesh,Ireland,13.3,Tamim Iqbal,Soumya Sarkar,KJ O'Brien,0,0,0,NA,0,NA,NA,NA,1
+1033367,2nd innings,Bangladesh,Ireland,13.4,Tamim Iqbal,Soumya Sarkar,KJ O'Brien,1,0,1,NA,0,NA,NA,NA,1
+1033367,2nd innings,Bangladesh,Ireland,13.5,Soumya Sarkar,Tamim Iqbal,KJ O'Brien,1,0,1,NA,0,NA,NA,NA,1
+1033367,2nd innings,Bangladesh,Ireland,13.6,Tamim Iqbal,Soumya Sarkar,KJ O'Brien,0,0,0,NA,1,caught,Tamim Iqbal,NJ O'Brien,1
+1033367,2nd innings,Bangladesh,Ireland,13.7,Sabbir Rahman,Soumya Sarkar,KJ O'Brien,0,0,0,NA,0,NA,NA,NA,1
+1033367,2nd innings,Bangladesh,Ireland,14.1,Soumya Sarkar,Sabbir Rahman,GH Dockrell,2,0,2,NA,0,NA,NA,NA,1
+1033367,2nd innings,Bangladesh,Ireland,14.2,Soumya Sarkar,Sabbir Rahman,GH Dockrell,1,0,1,NA,0,NA,NA,NA,1
+1033367,2nd innings,Bangladesh,Ireland,14.3,Sabbir Rahman,Soumya Sarkar,GH Dockrell,0,0,0,NA,0,NA,NA,NA,1
+1033367,2nd innings,Bangladesh,Ireland,14.4,Sabbir Rahman,Soumya Sarkar,GH Dockrell,0,0,0,NA,0,NA,NA,NA,1
+1033367,2nd innings,Bangladesh,Ireland,14.5,Sabbir Rahman,Soumya Sarkar,GH Dockrell,1,0,1,NA,0,NA,NA,NA,1
+1033367,2nd innings,Bangladesh,Ireland,14.6,Soumya Sarkar,Sabbir Rahman,GH Dockrell,0,0,0,NA,0,NA,NA,NA,1
+1033367,2nd innings,Bangladesh,Ireland,15.1,Sabbir Rahman,Soumya Sarkar,KJ O'Brien,2,0,2,NA,0,NA,NA,NA,1
+1033367,2nd innings,Bangladesh,Ireland,15.2,Sabbir Rahman,Soumya Sarkar,KJ O'Brien,0,0,0,NA,0,NA,NA,NA,1
+1033367,2nd innings,Bangladesh,Ireland,15.3,Sabbir Rahman,Soumya Sarkar,KJ O'Brien,0,0,0,NA,0,NA,NA,NA,1
+1033367,2nd innings,Bangladesh,Ireland,15.4,Sabbir Rahman,Soumya Sarkar,KJ O'Brien,0,0,0,NA,0,NA,NA,NA,1
+1033367,2nd innings,Bangladesh,Ireland,15.5,Sabbir Rahman,Soumya Sarkar,KJ O'Brien,0,0,0,NA,0,NA,NA,NA,1
+1033367,2nd innings,Bangladesh,Ireland,15.6,Sabbir Rahman,Soumya Sarkar,KJ O'Brien,1,0,1,NA,0,NA,NA,NA,1
+1033367,2nd innings,Bangladesh,Ireland,16.1,Sabbir Rahman,Soumya Sarkar,GH Dockrell,0,0,0,NA,0,NA,NA,NA,1
+1033367,2nd innings,Bangladesh,Ireland,16.2,Sabbir Rahman,Soumya Sarkar,GH Dockrell,0,0,0,NA,0,NA,NA,NA,1
+1033367,2nd innings,Bangladesh,Ireland,16.3,Sabbir Rahman,Soumya Sarkar,GH Dockrell,1,0,1,NA,0,NA,NA,NA,1
+1033367,2nd innings,Bangladesh,Ireland,16.4,Soumya Sarkar,Sabbir Rahman,GH Dockrell,1,0,1,NA,0,NA,NA,NA,1
+1033367,2nd innings,Bangladesh,Ireland,16.5,Sabbir Rahman,Soumya Sarkar,GH Dockrell,0,0,0,NA,0,NA,NA,NA,1
+1033367,2nd innings,Bangladesh,Ireland,16.6,Sabbir Rahman,Soumya Sarkar,GH Dockrell,0,0,0,NA,0,NA,NA,NA,1
+1033367,2nd innings,Bangladesh,Ireland,17.1,Soumya Sarkar,Sabbir Rahman,KJ O'Brien,0,0,0,NA,0,NA,NA,NA,1
+1033367,2nd innings,Bangladesh,Ireland,17.2,Soumya Sarkar,Sabbir Rahman,KJ O'Brien,0,0,0,NA,0,NA,NA,NA,1
+1033367,2nd innings,Bangladesh,Ireland,17.3,Soumya Sarkar,Sabbir Rahman,KJ O'Brien,4,0,4,NA,0,NA,NA,NA,1
+1033367,2nd innings,Bangladesh,Ireland,17.4,Soumya Sarkar,Sabbir Rahman,KJ O'Brien,0,0,0,NA,0,NA,NA,NA,1
+1033367,2nd innings,Bangladesh,Ireland,17.5,Soumya Sarkar,Sabbir Rahman,KJ O'Brien,0,0,0,NA,0,NA,NA,NA,1
+1033367,2nd innings,Bangladesh,Ireland,17.6,Soumya Sarkar,Sabbir Rahman,KJ O'Brien,0,0,0,NA,0,NA,NA,NA,1
+1033367,2nd innings,Bangladesh,Ireland,18.1,Sabbir Rahman,Soumya Sarkar,GH Dockrell,1,0,1,NA,0,NA,NA,NA,1
+1033367,2nd innings,Bangladesh,Ireland,18.2,Soumya Sarkar,Sabbir Rahman,GH Dockrell,4,0,4,NA,0,NA,NA,NA,1
+1033367,2nd innings,Bangladesh,Ireland,18.3,Soumya Sarkar,Sabbir Rahman,GH Dockrell,0,0,0,NA,0,NA,NA,NA,1
+1033367,2nd innings,Bangladesh,Ireland,18.4,Soumya Sarkar,Sabbir Rahman,GH Dockrell,1,0,1,NA,0,NA,NA,NA,1
+1033367,2nd innings,Bangladesh,Ireland,18.5,Sabbir Rahman,Soumya Sarkar,GH Dockrell,0,0,0,NA,0,NA,NA,NA,1
+1033367,2nd innings,Bangladesh,Ireland,18.6,Sabbir Rahman,Soumya Sarkar,GH Dockrell,0,0,0,NA,0,NA,NA,NA,1
+1033367,2nd innings,Bangladesh,Ireland,19.1,Soumya Sarkar,Sabbir Rahman,PKD Chase,4,0,4,NA,0,NA,NA,NA,1
+1033367,2nd innings,Bangladesh,Ireland,19.2,Soumya Sarkar,Sabbir Rahman,PKD Chase,0,1,1,wides,0,NA,NA,NA,1
+1033367,2nd innings,Bangladesh,Ireland,19.3,Soumya Sarkar,Sabbir Rahman,PKD Chase,2,0,2,NA,0,NA,NA,NA,1
+1033367,2nd innings,Bangladesh,Ireland,19.4,Soumya Sarkar,Sabbir Rahman,PKD Chase,1,0,1,NA,0,NA,NA,NA,1
+1033367,2nd innings,Bangladesh,Ireland,19.5,Sabbir Rahman,Soumya Sarkar,PKD Chase,3,0,3,NA,0,NA,NA,NA,1
+1033367,2nd innings,Bangladesh,Ireland,19.6,Soumya Sarkar,Sabbir Rahman,PKD Chase,0,0,0,NA,0,NA,NA,NA,1
+1033367,2nd innings,Bangladesh,Ireland,19.7,Soumya Sarkar,Sabbir Rahman,PKD Chase,0,0,0,NA,0,NA,NA,NA,1
+1033367,2nd innings,Bangladesh,Ireland,20.1,Sabbir Rahman,Soumya Sarkar,GH Dockrell,4,0,4,NA,0,NA,NA,NA,1
+1033367,2nd innings,Bangladesh,Ireland,20.2,Sabbir Rahman,Soumya Sarkar,GH Dockrell,1,0,1,NA,0,NA,NA,NA,1
+1033367,2nd innings,Bangladesh,Ireland,20.3,Soumya Sarkar,Sabbir Rahman,GH Dockrell,1,0,1,NA,0,NA,NA,NA,1
+1033367,2nd innings,Bangladesh,Ireland,20.4,Sabbir Rahman,Soumya Sarkar,GH Dockrell,0,0,0,NA,0,NA,NA,NA,1
+1033367,2nd innings,Bangladesh,Ireland,20.5,Sabbir Rahman,Soumya Sarkar,GH Dockrell,0,0,0,NA,0,NA,NA,NA,1
+1033367,2nd innings,Bangladesh,Ireland,20.6,Sabbir Rahman,Soumya Sarkar,GH Dockrell,2,0,2,NA,0,NA,NA,NA,1
+1033367,2nd innings,Bangladesh,Ireland,21.1,Soumya Sarkar,Sabbir Rahman,PKD Chase,0,0,0,NA,0,NA,NA,NA,1
+1033367,2nd innings,Bangladesh,Ireland,21.2,Soumya Sarkar,Sabbir Rahman,PKD Chase,0,0,0,NA,0,NA,NA,NA,1
+1033367,2nd innings,Bangladesh,Ireland,21.3,Soumya Sarkar,Sabbir Rahman,PKD Chase,0,1,1,legbyes,0,NA,NA,NA,1
+1033367,2nd innings,Bangladesh,Ireland,21.4,Sabbir Rahman,Soumya Sarkar,PKD Chase,0,0,0,NA,0,NA,NA,NA,1
+1033367,2nd innings,Bangladesh,Ireland,21.5,Sabbir Rahman,Soumya Sarkar,PKD Chase,2,0,2,NA,0,NA,NA,NA,1
+1033367,2nd innings,Bangladesh,Ireland,21.6,Sabbir Rahman,Soumya Sarkar,PKD Chase,4,0,4,NA,0,NA,NA,NA,1
+1033367,2nd innings,Bangladesh,Ireland,22.1,Soumya Sarkar,Sabbir Rahman,BJ McCarthy,4,0,4,NA,0,NA,NA,NA,1
+1033367,2nd innings,Bangladesh,Ireland,22.2,Soumya Sarkar,Sabbir Rahman,BJ McCarthy,0,0,0,NA,0,NA,NA,NA,1
+1033367,2nd innings,Bangladesh,Ireland,22.3,Soumya Sarkar,Sabbir Rahman,BJ McCarthy,0,0,0,NA,0,NA,NA,NA,1
+1033367,2nd innings,Bangladesh,Ireland,22.4,Soumya Sarkar,Sabbir Rahman,BJ McCarthy,1,0,1,NA,0,NA,NA,NA,1
+1033367,2nd innings,Bangladesh,Ireland,22.5,Sabbir Rahman,Soumya Sarkar,BJ McCarthy,0,0,0,NA,0,NA,NA,NA,1
+1033367,2nd innings,Bangladesh,Ireland,22.6,Sabbir Rahman,Soumya Sarkar,BJ McCarthy,2,0,2,NA,0,NA,NA,NA,1
+1033367,2nd innings,Bangladesh,Ireland,23.1,Soumya Sarkar,Sabbir Rahman,PKD Chase,2,0,2,NA,0,NA,NA,NA,1
+1033367,2nd innings,Bangladesh,Ireland,23.2,Soumya Sarkar,Sabbir Rahman,PKD Chase,4,0,4,NA,0,NA,NA,NA,1
+1033367,2nd innings,Bangladesh,Ireland,23.3,Soumya Sarkar,Sabbir Rahman,PKD Chase,0,0,0,NA,0,NA,NA,NA,1
+1033367,2nd innings,Bangladesh,Ireland,23.4,Soumya Sarkar,Sabbir Rahman,PKD Chase,1,0,1,NA,0,NA,NA,NA,1
+1033367,2nd innings,Bangladesh,Ireland,23.5,Sabbir Rahman,Soumya Sarkar,PKD Chase,0,0,0,NA,0,NA,NA,NA,1
+1033367,2nd innings,Bangladesh,Ireland,23.6,Sabbir Rahman,Soumya Sarkar,PKD Chase,6,0,6,NA,0,NA,NA,NA,1
+1033367,2nd innings,Bangladesh,Ireland,24.1,Soumya Sarkar,Sabbir Rahman,BJ McCarthy,1,0,1,NA,0,NA,NA,NA,1
+1033367,2nd innings,Bangladesh,Ireland,24.2,Sabbir Rahman,Soumya Sarkar,BJ McCarthy,1,0,1,NA,0,NA,NA,NA,1
+1033367,2nd innings,Bangladesh,Ireland,24.3,Soumya Sarkar,Sabbir Rahman,BJ McCarthy,4,0,4,NA,0,NA,NA,NA,1
+1033367,2nd innings,Bangladesh,Ireland,24.4,Soumya Sarkar,Sabbir Rahman,BJ McCarthy,1,0,1,NA,0,NA,NA,NA,1
+1033367,2nd innings,Bangladesh,Ireland,24.5,Sabbir Rahman,Soumya Sarkar,BJ McCarthy,4,0,4,NA,0,NA,NA,NA,1
+1033367,2nd innings,Bangladesh,Ireland,24.6,Sabbir Rahman,Soumya Sarkar,BJ McCarthy,0,0,0,NA,1,caught,Sabbir Rahman,GH Dockrell,1
+1033367,2nd innings,Bangladesh,Ireland,25.1,Mushfiqur Rahim,Soumya Sarkar,KJ O'Brien,0,0,0,NA,0,NA,NA,NA,1
+1033367,2nd innings,Bangladesh,Ireland,25.2,Mushfiqur Rahim,Soumya Sarkar,KJ O'Brien,0,0,0,NA,0,NA,NA,NA,1
+1033367,2nd innings,Bangladesh,Ireland,25.3,Mushfiqur Rahim,Soumya Sarkar,KJ O'Brien,0,0,0,NA,0,NA,NA,NA,1
+1033367,2nd innings,Bangladesh,Ireland,25.4,Mushfiqur Rahim,Soumya Sarkar,KJ O'Brien,1,0,1,NA,0,NA,NA,NA,1
+1033367,2nd innings,Bangladesh,Ireland,25.5,Soumya Sarkar,Mushfiqur Rahim,KJ O'Brien,0,0,0,NA,0,NA,NA,NA,1
+1033367,2nd innings,Bangladesh,Ireland,25.6,Soumya Sarkar,Mushfiqur Rahim,KJ O'Brien,1,0,1,NA,0,NA,NA,NA,1
+1033367,2nd innings,Bangladesh,Ireland,26.1,Soumya Sarkar,Mushfiqur Rahim,BJ McCarthy,1,0,1,NA,0,NA,NA,NA,1
+1033367,2nd innings,Bangladesh,Ireland,26.2,Mushfiqur Rahim,Soumya Sarkar,BJ McCarthy,0,0,0,NA,0,NA,NA,NA,1
+1033367,2nd innings,Bangladesh,Ireland,26.3,Mushfiqur Rahim,Soumya Sarkar,BJ McCarthy,1,0,1,NA,0,NA,NA,NA,1
+1033367,2nd innings,Bangladesh,Ireland,26.4,Soumya Sarkar,Mushfiqur Rahim,BJ McCarthy,2,0,2,NA,0,NA,NA,NA,1
+1033367,2nd innings,Bangladesh,Ireland,26.5,Soumya Sarkar,Mushfiqur Rahim,BJ McCarthy,0,0,0,NA,0,NA,NA,NA,1
+1033367,2nd innings,Bangladesh,Ireland,26.6,Soumya Sarkar,Mushfiqur Rahim,BJ McCarthy,4,0,4,NA,0,NA,NA,NA,1
+1033367,2nd innings,Bangladesh,Ireland,27.1,Mushfiqur Rahim,Soumya Sarkar,KJ O'Brien,1,0,1,NA,0,NA,NA,NA,1

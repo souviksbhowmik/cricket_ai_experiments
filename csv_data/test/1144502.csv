@@ -1,0 +1,591 @@
+match_id,innings,team,opponent,ball,batsman,non_striker,bowler,scored_runs,extras,total,extra_type,wicket,wicket_type,player_out,fielders,winner
+1144502,1st innings,Australia,Sri Lanka,0.1,DA Warner,AJ Finch,SL Malinga,0,0,0,NA,0,NA,NA,NA,1
+1144502,1st innings,Australia,Sri Lanka,0.2,DA Warner,AJ Finch,SL Malinga,0,0,0,NA,0,NA,NA,NA,1
+1144502,1st innings,Australia,Sri Lanka,0.3,DA Warner,AJ Finch,SL Malinga,4,0,4,NA,0,NA,NA,NA,1
+1144502,1st innings,Australia,Sri Lanka,0.4,DA Warner,AJ Finch,SL Malinga,0,0,0,NA,0,NA,NA,NA,1
+1144502,1st innings,Australia,Sri Lanka,0.5,DA Warner,AJ Finch,SL Malinga,0,0,0,NA,0,NA,NA,NA,1
+1144502,1st innings,Australia,Sri Lanka,0.6,DA Warner,AJ Finch,SL Malinga,0,0,0,NA,0,NA,NA,NA,1
+1144502,1st innings,Australia,Sri Lanka,1.1,AJ Finch,DA Warner,N Pradeep,4,0,4,NA,0,NA,NA,NA,1
+1144502,1st innings,Australia,Sri Lanka,1.2,AJ Finch,DA Warner,N Pradeep,0,0,0,NA,0,NA,NA,NA,1
+1144502,1st innings,Australia,Sri Lanka,1.3,AJ Finch,DA Warner,N Pradeep,0,0,0,NA,0,NA,NA,NA,1
+1144502,1st innings,Australia,Sri Lanka,1.4,AJ Finch,DA Warner,N Pradeep,0,0,0,NA,0,NA,NA,NA,1
+1144502,1st innings,Australia,Sri Lanka,1.5,AJ Finch,DA Warner,N Pradeep,4,0,4,NA,0,NA,NA,NA,1
+1144502,1st innings,Australia,Sri Lanka,1.6,AJ Finch,DA Warner,N Pradeep,0,0,0,NA,0,NA,NA,NA,1
+1144502,1st innings,Australia,Sri Lanka,2.1,DA Warner,AJ Finch,SL Malinga,0,0,0,NA,0,NA,NA,NA,1
+1144502,1st innings,Australia,Sri Lanka,2.2,DA Warner,AJ Finch,SL Malinga,0,0,0,NA,0,NA,NA,NA,1
+1144502,1st innings,Australia,Sri Lanka,2.3,DA Warner,AJ Finch,SL Malinga,0,0,0,NA,0,NA,NA,NA,1
+1144502,1st innings,Australia,Sri Lanka,2.4,DA Warner,AJ Finch,SL Malinga,0,0,0,NA,0,NA,NA,NA,1
+1144502,1st innings,Australia,Sri Lanka,2.5,DA Warner,AJ Finch,SL Malinga,0,0,0,NA,0,NA,NA,NA,1
+1144502,1st innings,Australia,Sri Lanka,2.6,DA Warner,AJ Finch,SL Malinga,0,0,0,NA,0,NA,NA,NA,1
+1144502,1st innings,Australia,Sri Lanka,3.1,AJ Finch,DA Warner,N Pradeep,0,0,0,NA,0,NA,NA,NA,1
+1144502,1st innings,Australia,Sri Lanka,3.2,AJ Finch,DA Warner,N Pradeep,0,0,0,NA,0,NA,NA,NA,1
+1144502,1st innings,Australia,Sri Lanka,3.3,AJ Finch,DA Warner,N Pradeep,0,0,0,NA,0,NA,NA,NA,1
+1144502,1st innings,Australia,Sri Lanka,3.4,AJ Finch,DA Warner,N Pradeep,4,0,4,NA,0,NA,NA,NA,1
+1144502,1st innings,Australia,Sri Lanka,3.5,AJ Finch,DA Warner,N Pradeep,1,0,1,NA,0,NA,NA,NA,1
+1144502,1st innings,Australia,Sri Lanka,3.6,DA Warner,AJ Finch,N Pradeep,0,0,0,NA,0,NA,NA,NA,1
+1144502,1st innings,Australia,Sri Lanka,4.1,AJ Finch,DA Warner,SL Malinga,1,0,1,NA,0,NA,NA,NA,1
+1144502,1st innings,Australia,Sri Lanka,4.2,DA Warner,AJ Finch,SL Malinga,2,0,2,NA,0,NA,NA,NA,1
+1144502,1st innings,Australia,Sri Lanka,4.3,DA Warner,AJ Finch,SL Malinga,0,0,0,NA,0,NA,NA,NA,1
+1144502,1st innings,Australia,Sri Lanka,4.4,DA Warner,AJ Finch,SL Malinga,0,0,0,NA,0,NA,NA,NA,1
+1144502,1st innings,Australia,Sri Lanka,4.5,DA Warner,AJ Finch,SL Malinga,0,0,0,NA,0,NA,NA,NA,1
+1144502,1st innings,Australia,Sri Lanka,4.6,DA Warner,AJ Finch,SL Malinga,0,0,0,NA,0,NA,NA,NA,1
+1144502,1st innings,Australia,Sri Lanka,5.1,AJ Finch,DA Warner,N Pradeep,0,0,0,NA,0,NA,NA,NA,1
+1144502,1st innings,Australia,Sri Lanka,5.2,AJ Finch,DA Warner,N Pradeep,0,0,0,NA,0,NA,NA,NA,1
+1144502,1st innings,Australia,Sri Lanka,5.3,AJ Finch,DA Warner,N Pradeep,1,0,1,NA,0,NA,NA,NA,1
+1144502,1st innings,Australia,Sri Lanka,5.4,DA Warner,AJ Finch,N Pradeep,2,0,2,NA,0,NA,NA,NA,1
+1144502,1st innings,Australia,Sri Lanka,5.5,DA Warner,AJ Finch,N Pradeep,0,0,0,NA,0,NA,NA,NA,1
+1144502,1st innings,Australia,Sri Lanka,5.6,DA Warner,AJ Finch,N Pradeep,0,0,0,NA,0,NA,NA,NA,1
+1144502,1st innings,Australia,Sri Lanka,6.1,AJ Finch,DA Warner,SL Malinga,0,0,0,NA,0,NA,NA,NA,1
+1144502,1st innings,Australia,Sri Lanka,6.2,AJ Finch,DA Warner,SL Malinga,4,0,4,NA,0,NA,NA,NA,1
+1144502,1st innings,Australia,Sri Lanka,6.3,AJ Finch,DA Warner,SL Malinga,2,0,2,NA,0,NA,NA,NA,1
+1144502,1st innings,Australia,Sri Lanka,6.4,AJ Finch,DA Warner,SL Malinga,0,0,0,NA,0,NA,NA,NA,1
+1144502,1st innings,Australia,Sri Lanka,6.5,AJ Finch,DA Warner,SL Malinga,4,0,4,NA,0,NA,NA,NA,1
+1144502,1st innings,Australia,Sri Lanka,6.6,AJ Finch,DA Warner,SL Malinga,0,0,0,NA,0,NA,NA,NA,1
+1144502,1st innings,Australia,Sri Lanka,7.1,DA Warner,AJ Finch,N Pradeep,4,0,4,NA,0,NA,NA,NA,1
+1144502,1st innings,Australia,Sri Lanka,7.2,DA Warner,AJ Finch,N Pradeep,0,0,0,NA,0,NA,NA,NA,1
+1144502,1st innings,Australia,Sri Lanka,7.3,DA Warner,AJ Finch,N Pradeep,0,2,2,wides,0,NA,NA,NA,1
+1144502,1st innings,Australia,Sri Lanka,7.4,AJ Finch,DA Warner,N Pradeep,0,0,0,NA,0,NA,NA,NA,1
+1144502,1st innings,Australia,Sri Lanka,7.5,AJ Finch,DA Warner,N Pradeep,1,0,1,NA,0,NA,NA,NA,1
+1144502,1st innings,Australia,Sri Lanka,7.6,DA Warner,AJ Finch,N Pradeep,2,0,2,NA,0,NA,NA,NA,1
+1144502,1st innings,Australia,Sri Lanka,7.7,DA Warner,AJ Finch,N Pradeep,1,0,1,NA,0,NA,NA,NA,1
+1144502,1st innings,Australia,Sri Lanka,8.1,DA Warner,AJ Finch,I Udana,0,0,0,NA,0,NA,NA,NA,1
+1144502,1st innings,Australia,Sri Lanka,8.2,DA Warner,AJ Finch,I Udana,0,0,0,NA,0,NA,NA,NA,1
+1144502,1st innings,Australia,Sri Lanka,8.3,DA Warner,AJ Finch,I Udana,0,0,0,NA,0,NA,NA,NA,1
+1144502,1st innings,Australia,Sri Lanka,8.4,DA Warner,AJ Finch,I Udana,0,0,0,NA,0,NA,NA,NA,1
+1144502,1st innings,Australia,Sri Lanka,8.5,DA Warner,AJ Finch,I Udana,1,0,1,NA,0,NA,NA,NA,1
+1144502,1st innings,Australia,Sri Lanka,8.6,AJ Finch,DA Warner,I Udana,0,0,0,NA,0,NA,NA,NA,1
+1144502,1st innings,Australia,Sri Lanka,9.1,DA Warner,AJ Finch,NLTC Perera,1,0,1,NA,0,NA,NA,NA,1
+1144502,1st innings,Australia,Sri Lanka,9.2,AJ Finch,DA Warner,NLTC Perera,4,0,4,NA,0,NA,NA,NA,1
+1144502,1st innings,Australia,Sri Lanka,9.3,AJ Finch,DA Warner,NLTC Perera,4,0,4,NA,0,NA,NA,NA,1
+1144502,1st innings,Australia,Sri Lanka,9.4,AJ Finch,DA Warner,NLTC Perera,0,0,0,NA,0,NA,NA,NA,1
+1144502,1st innings,Australia,Sri Lanka,9.5,AJ Finch,DA Warner,NLTC Perera,0,0,0,NA,0,NA,NA,NA,1
+1144502,1st innings,Australia,Sri Lanka,9.6,AJ Finch,DA Warner,NLTC Perera,0,0,0,NA,0,NA,NA,NA,1
+1144502,1st innings,Australia,Sri Lanka,10.1,DA Warner,AJ Finch,I Udana,0,0,0,NA,0,NA,NA,NA,1
+1144502,1st innings,Australia,Sri Lanka,10.2,DA Warner,AJ Finch,I Udana,0,0,0,NA,0,NA,NA,NA,1
+1144502,1st innings,Australia,Sri Lanka,10.3,DA Warner,AJ Finch,I Udana,0,0,0,NA,0,NA,NA,NA,1
+1144502,1st innings,Australia,Sri Lanka,10.4,DA Warner,AJ Finch,I Udana,2,0,2,NA,0,NA,NA,NA,1
+1144502,1st innings,Australia,Sri Lanka,10.5,DA Warner,AJ Finch,I Udana,1,0,1,NA,0,NA,NA,NA,1
+1144502,1st innings,Australia,Sri Lanka,10.6,AJ Finch,DA Warner,I Udana,1,0,1,NA,0,NA,NA,NA,1
+1144502,1st innings,Australia,Sri Lanka,11.1,AJ Finch,DA Warner,NLTC Perera,0,2,2,legbyes,0,NA,NA,NA,1
+1144502,1st innings,Australia,Sri Lanka,11.2,AJ Finch,DA Warner,NLTC Perera,0,0,0,NA,0,NA,NA,NA,1
+1144502,1st innings,Australia,Sri Lanka,11.3,AJ Finch,DA Warner,NLTC Perera,1,0,1,NA,0,NA,NA,NA,1
+1144502,1st innings,Australia,Sri Lanka,11.4,DA Warner,AJ Finch,NLTC Perera,0,0,0,NA,0,NA,NA,NA,1
+1144502,1st innings,Australia,Sri Lanka,11.5,DA Warner,AJ Finch,NLTC Perera,0,1,1,wides,0,NA,NA,NA,1
+1144502,1st innings,Australia,Sri Lanka,11.6,DA Warner,AJ Finch,NLTC Perera,1,0,1,NA,0,NA,NA,NA,1
+1144502,1st innings,Australia,Sri Lanka,11.7,AJ Finch,DA Warner,NLTC Perera,1,0,1,NA,0,NA,NA,NA,1
+1144502,1st innings,Australia,Sri Lanka,12.1,AJ Finch,DA Warner,I Udana,1,0,1,NA,0,NA,NA,NA,1
+1144502,1st innings,Australia,Sri Lanka,12.2,DA Warner,AJ Finch,I Udana,1,0,1,NA,0,NA,NA,NA,1
+1144502,1st innings,Australia,Sri Lanka,12.3,AJ Finch,DA Warner,I Udana,0,0,0,NA,0,NA,NA,NA,1
+1144502,1st innings,Australia,Sri Lanka,12.4,AJ Finch,DA Warner,I Udana,2,0,2,NA,0,NA,NA,NA,1
+1144502,1st innings,Australia,Sri Lanka,12.5,AJ Finch,DA Warner,I Udana,0,0,0,NA,0,NA,NA,NA,1
+1144502,1st innings,Australia,Sri Lanka,12.6,AJ Finch,DA Warner,I Udana,2,0,2,NA,0,NA,NA,NA,1
+1144502,1st innings,Australia,Sri Lanka,13.1,DA Warner,AJ Finch,NLTC Perera,1,0,1,NA,0,NA,NA,NA,1
+1144502,1st innings,Australia,Sri Lanka,13.2,AJ Finch,DA Warner,NLTC Perera,0,0,0,NA,0,NA,NA,NA,1
+1144502,1st innings,Australia,Sri Lanka,13.3,AJ Finch,DA Warner,NLTC Perera,1,0,1,NA,0,NA,NA,NA,1
+1144502,1st innings,Australia,Sri Lanka,13.4,DA Warner,AJ Finch,NLTC Perera,1,0,1,NA,0,NA,NA,NA,1
+1144502,1st innings,Australia,Sri Lanka,13.5,AJ Finch,DA Warner,NLTC Perera,1,0,1,NA,0,NA,NA,NA,1
+1144502,1st innings,Australia,Sri Lanka,13.6,DA Warner,AJ Finch,NLTC Perera,0,0,0,NA,0,NA,NA,NA,1
+1144502,1st innings,Australia,Sri Lanka,14.1,AJ Finch,DA Warner,DM de Silva,0,0,0,NA,0,NA,NA,NA,1
+1144502,1st innings,Australia,Sri Lanka,14.2,AJ Finch,DA Warner,DM de Silva,1,0,1,NA,0,NA,NA,NA,1
+1144502,1st innings,Australia,Sri Lanka,14.3,DA Warner,AJ Finch,DM de Silva,1,0,1,NA,0,NA,NA,NA,1
+1144502,1st innings,Australia,Sri Lanka,14.4,AJ Finch,DA Warner,DM de Silva,1,0,1,NA,0,NA,NA,NA,1
+1144502,1st innings,Australia,Sri Lanka,14.5,DA Warner,AJ Finch,DM de Silva,0,0,0,NA,0,NA,NA,NA,1
+1144502,1st innings,Australia,Sri Lanka,14.6,DA Warner,AJ Finch,DM de Silva,0,0,0,NA,0,NA,NA,NA,1
+1144502,1st innings,Australia,Sri Lanka,15.1,AJ Finch,DA Warner,NLTC Perera,0,0,0,NA,0,NA,NA,NA,1
+1144502,1st innings,Australia,Sri Lanka,15.2,AJ Finch,DA Warner,NLTC Perera,1,0,1,NA,0,NA,NA,NA,1
+1144502,1st innings,Australia,Sri Lanka,15.3,DA Warner,AJ Finch,NLTC Perera,1,0,1,NA,0,NA,NA,NA,1
+1144502,1st innings,Australia,Sri Lanka,15.4,AJ Finch,DA Warner,NLTC Perera,0,0,0,NA,0,NA,NA,NA,1
+1144502,1st innings,Australia,Sri Lanka,15.5,AJ Finch,DA Warner,NLTC Perera,0,0,0,NA,0,NA,NA,NA,1
+1144502,1st innings,Australia,Sri Lanka,15.6,AJ Finch,DA Warner,NLTC Perera,1,0,1,NA,0,NA,NA,NA,1
+1144502,1st innings,Australia,Sri Lanka,16.1,AJ Finch,DA Warner,DM de Silva,0,0,0,NA,0,NA,NA,NA,1
+1144502,1st innings,Australia,Sri Lanka,16.2,AJ Finch,DA Warner,DM de Silva,1,0,1,NA,0,NA,NA,NA,1
+1144502,1st innings,Australia,Sri Lanka,16.3,DA Warner,AJ Finch,DM de Silva,0,0,0,NA,0,NA,NA,NA,1
+1144502,1st innings,Australia,Sri Lanka,16.4,DA Warner,AJ Finch,DM de Silva,0,0,0,NA,1,bowled,DA Warner,NA,1
+1144502,1st innings,Australia,Sri Lanka,16.5,UT Khawaja,AJ Finch,DM de Silva,0,0,0,NA,0,NA,NA,NA,1
+1144502,1st innings,Australia,Sri Lanka,16.6,UT Khawaja,AJ Finch,DM de Silva,0,0,0,NA,0,NA,NA,NA,1
+1144502,1st innings,Australia,Sri Lanka,17.1,AJ Finch,UT Khawaja,NLTC Perera,1,0,1,NA,0,NA,NA,NA,1
+1144502,1st innings,Australia,Sri Lanka,17.2,UT Khawaja,AJ Finch,NLTC Perera,0,0,0,NA,0,NA,NA,NA,1
+1144502,1st innings,Australia,Sri Lanka,17.3,UT Khawaja,AJ Finch,NLTC Perera,0,0,0,NA,0,NA,NA,NA,1
+1144502,1st innings,Australia,Sri Lanka,17.4,UT Khawaja,AJ Finch,NLTC Perera,1,0,1,NA,0,NA,NA,NA,1
+1144502,1st innings,Australia,Sri Lanka,17.5,AJ Finch,UT Khawaja,NLTC Perera,0,0,0,NA,0,NA,NA,NA,1
+1144502,1st innings,Australia,Sri Lanka,17.6,AJ Finch,UT Khawaja,NLTC Perera,1,0,1,NA,0,NA,NA,NA,1
+1144502,1st innings,Australia,Sri Lanka,18.1,AJ Finch,UT Khawaja,DM de Silva,0,0,0,NA,0,NA,NA,NA,1
+1144502,1st innings,Australia,Sri Lanka,18.2,AJ Finch,UT Khawaja,DM de Silva,1,0,1,NA,0,NA,NA,NA,1
+1144502,1st innings,Australia,Sri Lanka,18.3,UT Khawaja,AJ Finch,DM de Silva,1,0,1,NA,0,NA,NA,NA,1
+1144502,1st innings,Australia,Sri Lanka,18.4,AJ Finch,UT Khawaja,DM de Silva,1,0,1,NA,0,NA,NA,NA,1
+1144502,1st innings,Australia,Sri Lanka,18.5,UT Khawaja,AJ Finch,DM de Silva,0,0,0,NA,0,NA,NA,NA,1
+1144502,1st innings,Australia,Sri Lanka,18.6,UT Khawaja,AJ Finch,DM de Silva,1,0,1,NA,0,NA,NA,NA,1
+1144502,1st innings,Australia,Sri Lanka,19.1,UT Khawaja,AJ Finch,N Pradeep,0,0,0,NA,0,NA,NA,NA,1
+1144502,1st innings,Australia,Sri Lanka,19.2,UT Khawaja,AJ Finch,N Pradeep,4,0,4,NA,0,NA,NA,NA,1
+1144502,1st innings,Australia,Sri Lanka,19.3,UT Khawaja,AJ Finch,N Pradeep,0,0,0,NA,0,NA,NA,NA,1
+1144502,1st innings,Australia,Sri Lanka,19.4,UT Khawaja,AJ Finch,N Pradeep,1,0,1,NA,0,NA,NA,NA,1
+1144502,1st innings,Australia,Sri Lanka,19.5,AJ Finch,UT Khawaja,N Pradeep,1,0,1,NA,0,NA,NA,NA,1
+1144502,1st innings,Australia,Sri Lanka,19.6,UT Khawaja,AJ Finch,N Pradeep,0,0,0,NA,0,NA,NA,NA,1
+1144502,1st innings,Australia,Sri Lanka,20.1,AJ Finch,UT Khawaja,DM de Silva,0,0,0,NA,0,NA,NA,NA,1
+1144502,1st innings,Australia,Sri Lanka,20.2,AJ Finch,UT Khawaja,DM de Silva,0,0,0,NA,0,NA,NA,NA,1
+1144502,1st innings,Australia,Sri Lanka,20.3,AJ Finch,UT Khawaja,DM de Silva,0,0,0,NA,0,NA,NA,NA,1
+1144502,1st innings,Australia,Sri Lanka,20.4,AJ Finch,UT Khawaja,DM de Silva,1,0,1,NA,0,NA,NA,NA,1
+1144502,1st innings,Australia,Sri Lanka,20.5,UT Khawaja,AJ Finch,DM de Silva,1,0,1,NA,0,NA,NA,NA,1
+1144502,1st innings,Australia,Sri Lanka,20.6,AJ Finch,UT Khawaja,DM de Silva,0,0,0,NA,0,NA,NA,NA,1
+1144502,1st innings,Australia,Sri Lanka,21.1,UT Khawaja,AJ Finch,N Pradeep,0,0,0,NA,0,NA,NA,NA,1
+1144502,1st innings,Australia,Sri Lanka,21.2,UT Khawaja,AJ Finch,N Pradeep,1,0,1,NA,0,NA,NA,NA,1
+1144502,1st innings,Australia,Sri Lanka,21.3,AJ Finch,UT Khawaja,N Pradeep,0,0,0,NA,0,NA,NA,NA,1
+1144502,1st innings,Australia,Sri Lanka,21.4,AJ Finch,UT Khawaja,N Pradeep,1,0,1,NA,0,NA,NA,NA,1
+1144502,1st innings,Australia,Sri Lanka,21.5,UT Khawaja,AJ Finch,N Pradeep,0,0,0,NA,0,NA,NA,NA,1
+1144502,1st innings,Australia,Sri Lanka,21.6,UT Khawaja,AJ Finch,N Pradeep,0,0,0,NA,0,NA,NA,NA,1
+1144502,1st innings,Australia,Sri Lanka,22.1,AJ Finch,UT Khawaja,DM de Silva,0,0,0,NA,0,NA,NA,NA,1
+1144502,1st innings,Australia,Sri Lanka,22.2,AJ Finch,UT Khawaja,DM de Silva,0,0,0,NA,0,NA,NA,NA,1
+1144502,1st innings,Australia,Sri Lanka,22.3,AJ Finch,UT Khawaja,DM de Silva,2,0,2,NA,0,NA,NA,NA,1
+1144502,1st innings,Australia,Sri Lanka,22.4,AJ Finch,UT Khawaja,DM de Silva,1,0,1,NA,0,NA,NA,NA,1
+1144502,1st innings,Australia,Sri Lanka,22.5,UT Khawaja,AJ Finch,DM de Silva,0,0,0,NA,0,NA,NA,NA,1
+1144502,1st innings,Australia,Sri Lanka,22.6,UT Khawaja,AJ Finch,DM de Silva,0,0,0,NA,1,caught,UT Khawaja,I Udana,1
+1144502,1st innings,Australia,Sri Lanka,23.1,AJ Finch,SPD Smith,N Pradeep,1,0,1,NA,0,NA,NA,NA,1
+1144502,1st innings,Australia,Sri Lanka,23.2,SPD Smith,AJ Finch,N Pradeep,0,0,0,NA,0,NA,NA,NA,1
+1144502,1st innings,Australia,Sri Lanka,23.3,SPD Smith,AJ Finch,N Pradeep,1,0,1,NA,0,NA,NA,NA,1
+1144502,1st innings,Australia,Sri Lanka,23.4,AJ Finch,SPD Smith,N Pradeep,0,0,0,NA,0,NA,NA,NA,1
+1144502,1st innings,Australia,Sri Lanka,23.5,AJ Finch,SPD Smith,N Pradeep,0,0,0,NA,0,NA,NA,NA,1
+1144502,1st innings,Australia,Sri Lanka,23.6,AJ Finch,SPD Smith,N Pradeep,6,0,6,NA,0,NA,NA,NA,1
+1144502,1st innings,Australia,Sri Lanka,24.1,SPD Smith,AJ Finch,DM de Silva,0,0,0,NA,0,NA,NA,NA,1
+1144502,1st innings,Australia,Sri Lanka,24.2,SPD Smith,AJ Finch,DM de Silva,0,0,0,NA,0,NA,NA,NA,1
+1144502,1st innings,Australia,Sri Lanka,24.3,SPD Smith,AJ Finch,DM de Silva,0,0,0,NA,0,NA,NA,NA,1
+1144502,1st innings,Australia,Sri Lanka,24.4,SPD Smith,AJ Finch,DM de Silva,1,0,1,NA,0,NA,NA,NA,1
+1144502,1st innings,Australia,Sri Lanka,24.5,AJ Finch,SPD Smith,DM de Silva,1,0,1,NA,0,NA,NA,NA,1
+1144502,1st innings,Australia,Sri Lanka,24.6,SPD Smith,AJ Finch,DM de Silva,0,0,0,NA,0,NA,NA,NA,1
+1144502,1st innings,Australia,Sri Lanka,25.1,AJ Finch,SPD Smith,I Udana,1,0,1,NA,0,NA,NA,NA,1
+1144502,1st innings,Australia,Sri Lanka,25.2,SPD Smith,AJ Finch,I Udana,1,0,1,NA,0,NA,NA,NA,1
+1144502,1st innings,Australia,Sri Lanka,25.3,AJ Finch,SPD Smith,I Udana,1,0,1,NA,0,NA,NA,NA,1
+1144502,1st innings,Australia,Sri Lanka,25.4,SPD Smith,AJ Finch,I Udana,0,0,0,NA,0,NA,NA,NA,1
+1144502,1st innings,Australia,Sri Lanka,25.5,SPD Smith,AJ Finch,I Udana,2,0,2,NA,0,NA,NA,NA,1
+1144502,1st innings,Australia,Sri Lanka,25.6,SPD Smith,AJ Finch,I Udana,4,0,4,NA,0,NA,NA,NA,1
+1144502,1st innings,Australia,Sri Lanka,26.1,AJ Finch,SPD Smith,DM de Silva,0,1,1,wides,0,NA,NA,NA,1
+1144502,1st innings,Australia,Sri Lanka,26.2,AJ Finch,SPD Smith,DM de Silva,0,0,0,NA,0,NA,NA,NA,1
+1144502,1st innings,Australia,Sri Lanka,26.3,AJ Finch,SPD Smith,DM de Silva,1,0,1,NA,0,NA,NA,NA,1
+1144502,1st innings,Australia,Sri Lanka,26.4,SPD Smith,AJ Finch,DM de Silva,1,0,1,NA,0,NA,NA,NA,1
+1144502,1st innings,Australia,Sri Lanka,26.5,AJ Finch,SPD Smith,DM de Silva,1,0,1,NA,0,NA,NA,NA,1
+1144502,1st innings,Australia,Sri Lanka,26.6,SPD Smith,AJ Finch,DM de Silva,0,0,0,NA,0,NA,NA,NA,1
+1144502,1st innings,Australia,Sri Lanka,26.7,SPD Smith,AJ Finch,DM de Silva,1,0,1,NA,0,NA,NA,NA,1
+1144502,1st innings,Australia,Sri Lanka,27.1,SPD Smith,AJ Finch,I Udana,1,0,1,NA,0,NA,NA,NA,1
+1144502,1st innings,Australia,Sri Lanka,27.2,AJ Finch,SPD Smith,I Udana,1,0,1,NA,0,NA,NA,NA,1
+1144502,1st innings,Australia,Sri Lanka,27.3,SPD Smith,AJ Finch,I Udana,1,0,1,NA,0,NA,NA,NA,1
+1144502,1st innings,Australia,Sri Lanka,27.4,AJ Finch,SPD Smith,I Udana,1,0,1,NA,0,NA,NA,NA,1
+1144502,1st innings,Australia,Sri Lanka,27.5,SPD Smith,AJ Finch,I Udana,0,0,0,NA,0,NA,NA,NA,1
+1144502,1st innings,Australia,Sri Lanka,27.6,SPD Smith,AJ Finch,I Udana,4,0,4,NA,0,NA,NA,NA,1
+1144502,1st innings,Australia,Sri Lanka,28.1,AJ Finch,SPD Smith,DM de Silva,4,0,4,NA,0,NA,NA,NA,1
+1144502,1st innings,Australia,Sri Lanka,28.2,AJ Finch,SPD Smith,DM de Silva,6,0,6,NA,0,NA,NA,NA,1
+1144502,1st innings,Australia,Sri Lanka,28.3,AJ Finch,SPD Smith,DM de Silva,6,0,6,NA,0,NA,NA,NA,1
+1144502,1st innings,Australia,Sri Lanka,28.4,AJ Finch,SPD Smith,DM de Silva,0,1,1,wides,0,NA,NA,NA,1
+1144502,1st innings,Australia,Sri Lanka,28.5,AJ Finch,SPD Smith,DM de Silva,1,0,1,NA,0,NA,NA,NA,1
+1144502,1st innings,Australia,Sri Lanka,28.6,SPD Smith,AJ Finch,DM de Silva,1,0,1,NA,0,NA,NA,NA,1
+1144502,1st innings,Australia,Sri Lanka,28.7,AJ Finch,SPD Smith,DM de Silva,1,0,1,NA,0,NA,NA,NA,1
+1144502,1st innings,Australia,Sri Lanka,29.1,AJ Finch,SPD Smith,SL Malinga,1,0,1,NA,0,NA,NA,NA,1
+1144502,1st innings,Australia,Sri Lanka,29.2,SPD Smith,AJ Finch,SL Malinga,1,0,1,NA,0,NA,NA,NA,1
+1144502,1st innings,Australia,Sri Lanka,29.3,AJ Finch,SPD Smith,SL Malinga,0,0,0,NA,0,NA,NA,NA,1
+1144502,1st innings,Australia,Sri Lanka,29.4,AJ Finch,SPD Smith,SL Malinga,0,1,1,wides,0,NA,NA,NA,1
+1144502,1st innings,Australia,Sri Lanka,29.5,AJ Finch,SPD Smith,SL Malinga,1,0,1,NA,0,NA,NA,NA,1
+1144502,1st innings,Australia,Sri Lanka,29.6,SPD Smith,AJ Finch,SL Malinga,2,0,2,NA,0,NA,NA,NA,1
+1144502,1st innings,Australia,Sri Lanka,29.7,SPD Smith,AJ Finch,SL Malinga,1,0,1,NA,0,NA,NA,NA,1
+1144502,1st innings,Australia,Sri Lanka,30.1,SPD Smith,AJ Finch,TAM Siriwardana,4,0,4,NA,0,NA,NA,NA,1
+1144502,1st innings,Australia,Sri Lanka,30.2,SPD Smith,AJ Finch,TAM Siriwardana,2,0,2,NA,0,NA,NA,NA,1
+1144502,1st innings,Australia,Sri Lanka,30.3,SPD Smith,AJ Finch,TAM Siriwardana,0,0,0,NA,0,NA,NA,NA,1
+1144502,1st innings,Australia,Sri Lanka,30.4,SPD Smith,AJ Finch,TAM Siriwardana,1,0,1,NA,0,NA,NA,NA,1
+1144502,1st innings,Australia,Sri Lanka,30.5,AJ Finch,SPD Smith,TAM Siriwardana,1,0,1,NA,0,NA,NA,NA,1
+1144502,1st innings,Australia,Sri Lanka,30.6,SPD Smith,AJ Finch,TAM Siriwardana,1,0,1,NA,0,NA,NA,NA,1
+1144502,1st innings,Australia,Sri Lanka,31.1,SPD Smith,AJ Finch,SL Malinga,4,0,4,NA,0,NA,NA,NA,1
+1144502,1st innings,Australia,Sri Lanka,31.2,SPD Smith,AJ Finch,SL Malinga,0,1,1,wides,0,NA,NA,NA,1
+1144502,1st innings,Australia,Sri Lanka,31.3,SPD Smith,AJ Finch,SL Malinga,0,0,0,NA,0,NA,NA,NA,1
+1144502,1st innings,Australia,Sri Lanka,31.4,SPD Smith,AJ Finch,SL Malinga,1,0,1,NA,0,NA,NA,NA,1
+1144502,1st innings,Australia,Sri Lanka,31.5,AJ Finch,SPD Smith,SL Malinga,0,1,1,noballs,0,NA,NA,NA,1
+1144502,1st innings,Australia,Sri Lanka,31.6,AJ Finch,SPD Smith,SL Malinga,0,0,0,NA,0,NA,NA,NA,1
+1144502,1st innings,Australia,Sri Lanka,31.7,AJ Finch,SPD Smith,SL Malinga,0,0,0,NA,0,NA,NA,NA,1
+1144502,1st innings,Australia,Sri Lanka,31.8,AJ Finch,SPD Smith,SL Malinga,1,0,1,NA,0,NA,NA,NA,1
+1144502,1st innings,Australia,Sri Lanka,32.1,AJ Finch,SPD Smith,TAM Siriwardana,0,0,0,NA,0,NA,NA,NA,1
+1144502,1st innings,Australia,Sri Lanka,32.2,AJ Finch,SPD Smith,TAM Siriwardana,6,0,6,NA,0,NA,NA,NA,1
+1144502,1st innings,Australia,Sri Lanka,32.3,AJ Finch,SPD Smith,TAM Siriwardana,0,0,0,NA,0,NA,NA,NA,1
+1144502,1st innings,Australia,Sri Lanka,32.4,AJ Finch,SPD Smith,TAM Siriwardana,1,0,1,NA,0,NA,NA,NA,1
+1144502,1st innings,Australia,Sri Lanka,32.5,SPD Smith,AJ Finch,TAM Siriwardana,1,0,1,NA,0,NA,NA,NA,1
+1144502,1st innings,Australia,Sri Lanka,32.6,AJ Finch,SPD Smith,TAM Siriwardana,0,1,1,legbyes,0,NA,NA,NA,1
+1144502,1st innings,Australia,Sri Lanka,33.1,AJ Finch,SPD Smith,NLTC Perera,0,0,0,NA,0,NA,NA,NA,1
+1144502,1st innings,Australia,Sri Lanka,33.2,AJ Finch,SPD Smith,NLTC Perera,1,0,1,NA,0,NA,NA,NA,1
+1144502,1st innings,Australia,Sri Lanka,33.3,SPD Smith,AJ Finch,NLTC Perera,0,0,0,NA,0,NA,NA,NA,1
+1144502,1st innings,Australia,Sri Lanka,33.4,SPD Smith,AJ Finch,NLTC Perera,2,0,2,NA,0,NA,NA,NA,1
+1144502,1st innings,Australia,Sri Lanka,33.5,SPD Smith,AJ Finch,NLTC Perera,1,0,1,NA,0,NA,NA,NA,1
+1144502,1st innings,Australia,Sri Lanka,33.6,AJ Finch,SPD Smith,NLTC Perera,1,0,1,NA,0,NA,NA,NA,1
+1144502,1st innings,Australia,Sri Lanka,34.1,AJ Finch,SPD Smith,I Udana,0,0,0,NA,0,NA,NA,NA,1
+1144502,1st innings,Australia,Sri Lanka,34.2,AJ Finch,SPD Smith,I Udana,4,0,4,NA,0,NA,NA,NA,1
+1144502,1st innings,Australia,Sri Lanka,34.3,AJ Finch,SPD Smith,I Udana,0,0,0,NA,0,NA,NA,NA,1
+1144502,1st innings,Australia,Sri Lanka,34.4,AJ Finch,SPD Smith,I Udana,0,0,0,NA,0,NA,NA,NA,1
+1144502,1st innings,Australia,Sri Lanka,34.5,AJ Finch,SPD Smith,I Udana,0,0,0,NA,0,NA,NA,NA,1
+1144502,1st innings,Australia,Sri Lanka,34.6,AJ Finch,SPD Smith,I Udana,1,0,1,NA,0,NA,NA,NA,1
+1144502,1st innings,Australia,Sri Lanka,35.1,AJ Finch,SPD Smith,NLTC Perera,1,0,1,NA,0,NA,NA,NA,1
+1144502,1st innings,Australia,Sri Lanka,35.2,SPD Smith,AJ Finch,NLTC Perera,0,0,0,NA,0,NA,NA,NA,1
+1144502,1st innings,Australia,Sri Lanka,35.3,SPD Smith,AJ Finch,NLTC Perera,4,0,4,NA,0,NA,NA,NA,1
+1144502,1st innings,Australia,Sri Lanka,35.4,SPD Smith,AJ Finch,NLTC Perera,1,0,1,NA,0,NA,NA,NA,1
+1144502,1st innings,Australia,Sri Lanka,35.5,AJ Finch,SPD Smith,NLTC Perera,1,0,1,NA,0,NA,NA,NA,1
+1144502,1st innings,Australia,Sri Lanka,35.6,SPD Smith,AJ Finch,NLTC Perera,1,0,1,NA,0,NA,NA,NA,1
+1144502,1st innings,Australia,Sri Lanka,36.1,SPD Smith,AJ Finch,I Udana,1,0,1,NA,0,NA,NA,NA,1
+1144502,1st innings,Australia,Sri Lanka,36.2,AJ Finch,SPD Smith,I Udana,0,0,0,NA,0,NA,NA,NA,1
+1144502,1st innings,Australia,Sri Lanka,36.3,AJ Finch,SPD Smith,I Udana,1,0,1,NA,0,NA,NA,NA,1
+1144502,1st innings,Australia,Sri Lanka,36.4,SPD Smith,AJ Finch,I Udana,0,0,0,NA,0,NA,NA,NA,1
+1144502,1st innings,Australia,Sri Lanka,36.5,SPD Smith,AJ Finch,I Udana,1,0,1,NA,0,NA,NA,NA,1
+1144502,1st innings,Australia,Sri Lanka,36.6,AJ Finch,SPD Smith,I Udana,4,0,4,NA,0,NA,NA,NA,1
+1144502,1st innings,Australia,Sri Lanka,37.1,SPD Smith,AJ Finch,NLTC Perera,0,0,0,NA,0,NA,NA,NA,1
+1144502,1st innings,Australia,Sri Lanka,37.2,SPD Smith,AJ Finch,NLTC Perera,1,0,1,NA,0,NA,NA,NA,1
+1144502,1st innings,Australia,Sri Lanka,37.3,AJ Finch,SPD Smith,NLTC Perera,1,0,1,NA,0,NA,NA,NA,1
+1144502,1st innings,Australia,Sri Lanka,37.4,SPD Smith,AJ Finch,NLTC Perera,1,0,1,NA,0,NA,NA,NA,1
+1144502,1st innings,Australia,Sri Lanka,37.5,AJ Finch,SPD Smith,NLTC Perera,4,0,4,NA,0,NA,NA,NA,1
+1144502,1st innings,Australia,Sri Lanka,37.6,AJ Finch,SPD Smith,NLTC Perera,1,0,1,NA,0,NA,NA,NA,1
+1144502,1st innings,Australia,Sri Lanka,38.1,AJ Finch,SPD Smith,N Pradeep,1,0,1,NA,0,NA,NA,NA,1
+1144502,1st innings,Australia,Sri Lanka,38.2,SPD Smith,AJ Finch,N Pradeep,0,0,0,NA,0,NA,NA,NA,1
+1144502,1st innings,Australia,Sri Lanka,38.3,SPD Smith,AJ Finch,N Pradeep,1,0,1,NA,0,NA,NA,NA,1
+1144502,1st innings,Australia,Sri Lanka,38.4,AJ Finch,SPD Smith,N Pradeep,1,0,1,NA,0,NA,NA,NA,1
+1144502,1st innings,Australia,Sri Lanka,38.5,SPD Smith,AJ Finch,N Pradeep,1,0,1,NA,0,NA,NA,NA,1
+1144502,1st innings,Australia,Sri Lanka,38.6,AJ Finch,SPD Smith,N Pradeep,2,0,2,NA,0,NA,NA,NA,1
+1144502,1st innings,Australia,Sri Lanka,39.1,SPD Smith,AJ Finch,NLTC Perera,1,0,1,NA,0,NA,NA,NA,1
+1144502,1st innings,Australia,Sri Lanka,39.2,AJ Finch,SPD Smith,NLTC Perera,6,0,6,NA,0,NA,NA,NA,1
+1144502,1st innings,Australia,Sri Lanka,39.3,AJ Finch,SPD Smith,NLTC Perera,4,0,4,NA,0,NA,NA,NA,1
+1144502,1st innings,Australia,Sri Lanka,39.4,AJ Finch,SPD Smith,NLTC Perera,1,0,1,NA,0,NA,NA,NA,1
+1144502,1st innings,Australia,Sri Lanka,39.5,SPD Smith,AJ Finch,NLTC Perera,1,0,1,NA,0,NA,NA,NA,1
+1144502,1st innings,Australia,Sri Lanka,39.6,AJ Finch,SPD Smith,NLTC Perera,0,0,0,NA,0,NA,NA,NA,1
+1144502,1st innings,Australia,Sri Lanka,40.1,SPD Smith,AJ Finch,N Pradeep,4,0,4,NA,0,NA,NA,NA,1
+1144502,1st innings,Australia,Sri Lanka,40.2,SPD Smith,AJ Finch,N Pradeep,4,0,4,NA,0,NA,NA,NA,1
+1144502,1st innings,Australia,Sri Lanka,40.3,SPD Smith,AJ Finch,N Pradeep,1,0,1,NA,0,NA,NA,NA,1
+1144502,1st innings,Australia,Sri Lanka,40.4,AJ Finch,SPD Smith,N Pradeep,4,0,4,NA,0,NA,NA,NA,1
+1144502,1st innings,Australia,Sri Lanka,40.5,AJ Finch,SPD Smith,N Pradeep,4,0,4,NA,0,NA,NA,NA,1
+1144502,1st innings,Australia,Sri Lanka,40.6,AJ Finch,SPD Smith,N Pradeep,1,0,1,NA,0,NA,NA,NA,1
+1144502,1st innings,Australia,Sri Lanka,41.1,AJ Finch,SPD Smith,SL Malinga,4,0,4,NA,0,NA,NA,NA,1
+1144502,1st innings,Australia,Sri Lanka,41.2,AJ Finch,SPD Smith,SL Malinga,1,0,1,NA,0,NA,NA,NA,1
+1144502,1st innings,Australia,Sri Lanka,41.3,SPD Smith,AJ Finch,SL Malinga,0,1,1,wides,0,NA,NA,NA,1
+1144502,1st innings,Australia,Sri Lanka,41.4,SPD Smith,AJ Finch,SL Malinga,1,0,1,NA,0,NA,NA,NA,1
+1144502,1st innings,Australia,Sri Lanka,41.5,AJ Finch,SPD Smith,SL Malinga,1,0,1,NA,0,NA,NA,NA,1
+1144502,1st innings,Australia,Sri Lanka,41.6,SPD Smith,AJ Finch,SL Malinga,0,0,0,NA,0,NA,NA,NA,1
+1144502,1st innings,Australia,Sri Lanka,41.7,SPD Smith,AJ Finch,SL Malinga,6,0,6,NA,0,NA,NA,NA,1
+1144502,1st innings,Australia,Sri Lanka,42.1,AJ Finch,SPD Smith,I Udana,1,0,1,NA,0,NA,NA,NA,1
+1144502,1st innings,Australia,Sri Lanka,42.2,SPD Smith,AJ Finch,I Udana,2,0,2,NA,0,NA,NA,NA,1
+1144502,1st innings,Australia,Sri Lanka,42.3,SPD Smith,AJ Finch,I Udana,1,0,1,NA,0,NA,NA,NA,1
+1144502,1st innings,Australia,Sri Lanka,42.4,AJ Finch,SPD Smith,I Udana,0,0,0,NA,1,caught,AJ Finch,FDM Karunaratne,1
+1144502,1st innings,Australia,Sri Lanka,42.5,SPD Smith,GJ Maxwell,I Udana,1,0,1,NA,0,NA,NA,NA,1
+1144502,1st innings,Australia,Sri Lanka,42.6,GJ Maxwell,SPD Smith,I Udana,1,0,1,NA,0,NA,NA,NA,1
+1144502,1st innings,Australia,Sri Lanka,43.1,GJ Maxwell,SPD Smith,SL Malinga,2,0,2,NA,0,NA,NA,NA,1
+1144502,1st innings,Australia,Sri Lanka,43.2,GJ Maxwell,SPD Smith,SL Malinga,1,0,1,NA,0,NA,NA,NA,1
+1144502,1st innings,Australia,Sri Lanka,43.3,SPD Smith,GJ Maxwell,SL Malinga,0,0,0,NA,1,bowled,SPD Smith,NA,1
+1144502,1st innings,Australia,Sri Lanka,43.4,SE Marsh,GJ Maxwell,SL Malinga,1,0,1,NA,0,NA,NA,NA,1
+1144502,1st innings,Australia,Sri Lanka,43.5,GJ Maxwell,SE Marsh,SL Malinga,1,0,1,NA,0,NA,NA,NA,1
+1144502,1st innings,Australia,Sri Lanka,43.6,SE Marsh,GJ Maxwell,SL Malinga,0,0,0,NA,0,NA,NA,NA,1
+1144502,1st innings,Australia,Sri Lanka,44.1,GJ Maxwell,SE Marsh,N Pradeep,4,0,4,NA,0,NA,NA,NA,1
+1144502,1st innings,Australia,Sri Lanka,44.2,GJ Maxwell,SE Marsh,N Pradeep,6,0,6,NA,0,NA,NA,NA,1
+1144502,1st innings,Australia,Sri Lanka,44.3,GJ Maxwell,SE Marsh,N Pradeep,0,0,0,NA,0,NA,NA,NA,1
+1144502,1st innings,Australia,Sri Lanka,44.4,GJ Maxwell,SE Marsh,N Pradeep,4,0,4,NA,0,NA,NA,NA,1
+1144502,1st innings,Australia,Sri Lanka,44.5,GJ Maxwell,SE Marsh,N Pradeep,4,0,4,NA,0,NA,NA,NA,1
+1144502,1st innings,Australia,Sri Lanka,44.6,GJ Maxwell,SE Marsh,N Pradeep,4,0,4,NA,0,NA,NA,NA,1
+1144502,1st innings,Australia,Sri Lanka,45.1,SE Marsh,GJ Maxwell,SL Malinga,1,0,1,NA,0,NA,NA,NA,1
+1144502,1st innings,Australia,Sri Lanka,45.2,GJ Maxwell,SE Marsh,SL Malinga,1,0,1,NA,0,NA,NA,NA,1
+1144502,1st innings,Australia,Sri Lanka,45.3,SE Marsh,GJ Maxwell,SL Malinga,0,0,0,NA,0,NA,NA,NA,1
+1144502,1st innings,Australia,Sri Lanka,45.4,SE Marsh,GJ Maxwell,SL Malinga,0,1,1,legbyes,0,NA,NA,NA,1
+1144502,1st innings,Australia,Sri Lanka,45.5,GJ Maxwell,SE Marsh,SL Malinga,1,0,1,NA,0,NA,NA,NA,1
+1144502,1st innings,Australia,Sri Lanka,45.6,SE Marsh,GJ Maxwell,SL Malinga,0,0,0,NA,0,NA,NA,NA,1
+1144502,1st innings,Australia,Sri Lanka,46.1,GJ Maxwell,SE Marsh,I Udana,0,1,1,wides,0,NA,NA,NA,1
+1144502,1st innings,Australia,Sri Lanka,46.2,GJ Maxwell,SE Marsh,I Udana,1,0,1,NA,0,NA,NA,NA,1
+1144502,1st innings,Australia,Sri Lanka,46.3,SE Marsh,GJ Maxwell,I Udana,1,0,1,NA,0,NA,NA,NA,1
+1144502,1st innings,Australia,Sri Lanka,46.4,GJ Maxwell,SE Marsh,I Udana,0,0,0,NA,0,NA,NA,NA,1
+1144502,1st innings,Australia,Sri Lanka,46.5,GJ Maxwell,SE Marsh,I Udana,1,0,1,NA,0,NA,NA,NA,1
+1144502,1st innings,Australia,Sri Lanka,46.6,SE Marsh,GJ Maxwell,I Udana,0,0,0,NA,0,NA,NA,NA,1
+1144502,1st innings,Australia,Sri Lanka,46.7,SE Marsh,GJ Maxwell,I Udana,0,0,0,NA,1,caught,SE Marsh,TAM Siriwardana,1
+1144502,1st innings,Australia,Sri Lanka,47.1,GJ Maxwell,AT Carey,SL Malinga,1,0,1,NA,0,NA,NA,NA,1
+1144502,1st innings,Australia,Sri Lanka,47.2,AT Carey,GJ Maxwell,SL Malinga,0,0,0,NA,0,NA,NA,NA,1
+1144502,1st innings,Australia,Sri Lanka,47.3,AT Carey,GJ Maxwell,SL Malinga,3,0,3,NA,0,NA,NA,NA,1
+1144502,1st innings,Australia,Sri Lanka,47.4,GJ Maxwell,AT Carey,SL Malinga,1,0,1,NA,0,NA,NA,NA,1
+1144502,1st innings,Australia,Sri Lanka,47.5,AT Carey,GJ Maxwell,SL Malinga,1,0,1,NA,0,NA,NA,NA,1
+1144502,1st innings,Australia,Sri Lanka,47.6,GJ Maxwell,AT Carey,SL Malinga,1,0,1,NA,0,NA,NA,NA,1
+1144502,1st innings,Australia,Sri Lanka,48.1,GJ Maxwell,AT Carey,I Udana,0,0,0,NA,1,run out,AT Carey,NA,1
+1144502,1st innings,Australia,Sri Lanka,48.2,GJ Maxwell,PJ Cummins,I Udana,3,0,3,NA,0,NA,NA,NA,1
+1144502,1st innings,Australia,Sri Lanka,48.3,PJ Cummins,GJ Maxwell,I Udana,0,0,0,NA,1,run out,PJ Cummins,NA,1
+1144502,1st innings,Australia,Sri Lanka,48.4,MA Starc,GJ Maxwell,I Udana,1,0,1,NA,0,NA,NA,NA,1
+1144502,1st innings,Australia,Sri Lanka,48.5,GJ Maxwell,MA Starc,I Udana,2,0,2,NA,0,NA,NA,NA,1
+1144502,1st innings,Australia,Sri Lanka,48.6,GJ Maxwell,MA Starc,I Udana,1,0,1,NA,0,NA,NA,NA,1
+1144502,1st innings,Australia,Sri Lanka,49.1,GJ Maxwell,MA Starc,NLTC Perera,1,0,1,NA,0,NA,NA,NA,1
+1144502,1st innings,Australia,Sri Lanka,49.2,MA Starc,GJ Maxwell,NLTC Perera,1,0,1,NA,0,NA,NA,NA,1
+1144502,1st innings,Australia,Sri Lanka,49.3,GJ Maxwell,MA Starc,NLTC Perera,1,0,1,NA,0,NA,NA,NA,1
+1144502,1st innings,Australia,Sri Lanka,49.4,MA Starc,GJ Maxwell,NLTC Perera,2,0,2,NA,0,NA,NA,NA,1
+1144502,1st innings,Australia,Sri Lanka,49.5,MA Starc,GJ Maxwell,NLTC Perera,1,0,1,NA,0,NA,NA,NA,1
+1144502,1st innings,Australia,Sri Lanka,49.6,GJ Maxwell,MA Starc,NLTC Perera,4,0,4,NA,0,NA,NA,NA,1
+1144502,2nd innings,Sri Lanka,Australia,0.1,FDM Karunaratne,MDKJ Perera,MA Starc,1,0,1,NA,0,NA,NA,NA,0
+1144502,2nd innings,Sri Lanka,Australia,0.2,MDKJ Perera,FDM Karunaratne,MA Starc,0,0,0,NA,0,NA,NA,NA,0
+1144502,2nd innings,Sri Lanka,Australia,0.3,MDKJ Perera,FDM Karunaratne,MA Starc,4,0,4,NA,0,NA,NA,NA,0
+1144502,2nd innings,Sri Lanka,Australia,0.4,MDKJ Perera,FDM Karunaratne,MA Starc,0,1,1,legbyes,0,NA,NA,NA,0
+1144502,2nd innings,Sri Lanka,Australia,0.5,FDM Karunaratne,MDKJ Perera,MA Starc,2,0,2,NA,0,NA,NA,NA,0
+1144502,2nd innings,Sri Lanka,Australia,0.6,FDM Karunaratne,MDKJ Perera,MA Starc,4,0,4,NA,0,NA,NA,NA,0
+1144502,2nd innings,Sri Lanka,Australia,1.1,MDKJ Perera,FDM Karunaratne,PJ Cummins,1,0,1,NA,0,NA,NA,NA,0
+1144502,2nd innings,Sri Lanka,Australia,1.2,FDM Karunaratne,MDKJ Perera,PJ Cummins,0,0,0,NA,0,NA,NA,NA,0
+1144502,2nd innings,Sri Lanka,Australia,1.3,FDM Karunaratne,MDKJ Perera,PJ Cummins,3,0,3,NA,0,NA,NA,NA,0
+1144502,2nd innings,Sri Lanka,Australia,1.4,MDKJ Perera,FDM Karunaratne,PJ Cummins,4,0,4,NA,0,NA,NA,NA,0
+1144502,2nd innings,Sri Lanka,Australia,1.5,MDKJ Perera,FDM Karunaratne,PJ Cummins,0,0,0,NA,0,NA,NA,NA,0
+1144502,2nd innings,Sri Lanka,Australia,1.6,MDKJ Perera,FDM Karunaratne,PJ Cummins,4,0,4,NA,0,NA,NA,NA,0
+1144502,2nd innings,Sri Lanka,Australia,2.1,FDM Karunaratne,MDKJ Perera,MA Starc,0,0,0,NA,0,NA,NA,NA,0
+1144502,2nd innings,Sri Lanka,Australia,2.2,FDM Karunaratne,MDKJ Perera,MA Starc,0,0,0,NA,0,NA,NA,NA,0
+1144502,2nd innings,Sri Lanka,Australia,2.3,FDM Karunaratne,MDKJ Perera,MA Starc,2,0,2,NA,0,NA,NA,NA,0
+1144502,2nd innings,Sri Lanka,Australia,2.4,FDM Karunaratne,MDKJ Perera,MA Starc,0,0,0,NA,0,NA,NA,NA,0
+1144502,2nd innings,Sri Lanka,Australia,2.5,FDM Karunaratne,MDKJ Perera,MA Starc,0,0,0,NA,0,NA,NA,NA,0
+1144502,2nd innings,Sri Lanka,Australia,2.6,FDM Karunaratne,MDKJ Perera,MA Starc,0,0,0,NA,0,NA,NA,NA,0
+1144502,2nd innings,Sri Lanka,Australia,3.1,MDKJ Perera,FDM Karunaratne,PJ Cummins,0,0,0,NA,0,NA,NA,NA,0
+1144502,2nd innings,Sri Lanka,Australia,3.2,MDKJ Perera,FDM Karunaratne,PJ Cummins,0,0,0,NA,0,NA,NA,NA,0
+1144502,2nd innings,Sri Lanka,Australia,3.3,MDKJ Perera,FDM Karunaratne,PJ Cummins,1,0,1,NA,0,NA,NA,NA,0
+1144502,2nd innings,Sri Lanka,Australia,3.4,FDM Karunaratne,MDKJ Perera,PJ Cummins,0,0,0,NA,0,NA,NA,NA,0
+1144502,2nd innings,Sri Lanka,Australia,3.5,FDM Karunaratne,MDKJ Perera,PJ Cummins,0,0,0,NA,0,NA,NA,NA,0
+1144502,2nd innings,Sri Lanka,Australia,3.6,FDM Karunaratne,MDKJ Perera,PJ Cummins,3,0,3,NA,0,NA,NA,NA,0
+1144502,2nd innings,Sri Lanka,Australia,4.1,FDM Karunaratne,MDKJ Perera,JP Behrendorff,0,0,0,NA,0,NA,NA,NA,0
+1144502,2nd innings,Sri Lanka,Australia,4.2,FDM Karunaratne,MDKJ Perera,JP Behrendorff,0,0,0,NA,0,NA,NA,NA,0
+1144502,2nd innings,Sri Lanka,Australia,4.3,FDM Karunaratne,MDKJ Perera,JP Behrendorff,0,0,0,NA,0,NA,NA,NA,0
+1144502,2nd innings,Sri Lanka,Australia,4.4,FDM Karunaratne,MDKJ Perera,JP Behrendorff,0,0,0,NA,0,NA,NA,NA,0
+1144502,2nd innings,Sri Lanka,Australia,4.5,FDM Karunaratne,MDKJ Perera,JP Behrendorff,0,0,0,NA,0,NA,NA,NA,0
+1144502,2nd innings,Sri Lanka,Australia,4.6,FDM Karunaratne,MDKJ Perera,JP Behrendorff,1,0,1,NA,0,NA,NA,NA,0
+1144502,2nd innings,Sri Lanka,Australia,5.1,FDM Karunaratne,MDKJ Perera,PJ Cummins,0,0,0,NA,0,NA,NA,NA,0
+1144502,2nd innings,Sri Lanka,Australia,5.2,FDM Karunaratne,MDKJ Perera,PJ Cummins,4,0,4,NA,0,NA,NA,NA,0
+1144502,2nd innings,Sri Lanka,Australia,5.3,FDM Karunaratne,MDKJ Perera,PJ Cummins,4,0,4,NA,0,NA,NA,NA,0
+1144502,2nd innings,Sri Lanka,Australia,5.4,FDM Karunaratne,MDKJ Perera,PJ Cummins,0,0,0,NA,0,NA,NA,NA,0
+1144502,2nd innings,Sri Lanka,Australia,5.5,FDM Karunaratne,MDKJ Perera,PJ Cummins,0,0,0,NA,0,NA,NA,NA,0
+1144502,2nd innings,Sri Lanka,Australia,5.6,FDM Karunaratne,MDKJ Perera,PJ Cummins,1,0,1,NA,0,NA,NA,NA,0
+1144502,2nd innings,Sri Lanka,Australia,6.1,FDM Karunaratne,MDKJ Perera,JP Behrendorff,2,0,2,NA,0,NA,NA,NA,0
+1144502,2nd innings,Sri Lanka,Australia,6.2,FDM Karunaratne,MDKJ Perera,JP Behrendorff,1,0,1,NA,0,NA,NA,NA,0
+1144502,2nd innings,Sri Lanka,Australia,6.3,MDKJ Perera,FDM Karunaratne,JP Behrendorff,1,0,1,NA,0,NA,NA,NA,0
+1144502,2nd innings,Sri Lanka,Australia,6.4,FDM Karunaratne,MDKJ Perera,JP Behrendorff,4,0,4,NA,0,NA,NA,NA,0
+1144502,2nd innings,Sri Lanka,Australia,6.5,FDM Karunaratne,MDKJ Perera,JP Behrendorff,4,0,4,NA,0,NA,NA,NA,0
+1144502,2nd innings,Sri Lanka,Australia,6.6,FDM Karunaratne,MDKJ Perera,JP Behrendorff,1,0,1,NA,0,NA,NA,NA,0
+1144502,2nd innings,Sri Lanka,Australia,7.1,FDM Karunaratne,MDKJ Perera,KW Richardson,0,0,0,NA,0,NA,NA,NA,0
+1144502,2nd innings,Sri Lanka,Australia,7.2,FDM Karunaratne,MDKJ Perera,KW Richardson,4,0,4,NA,0,NA,NA,NA,0
+1144502,2nd innings,Sri Lanka,Australia,7.3,FDM Karunaratne,MDKJ Perera,KW Richardson,1,0,1,NA,0,NA,NA,NA,0
+1144502,2nd innings,Sri Lanka,Australia,7.4,MDKJ Perera,FDM Karunaratne,KW Richardson,0,0,0,NA,0,NA,NA,NA,0
+1144502,2nd innings,Sri Lanka,Australia,7.5,MDKJ Perera,FDM Karunaratne,KW Richardson,2,0,2,NA,0,NA,NA,NA,0
+1144502,2nd innings,Sri Lanka,Australia,7.6,MDKJ Perera,FDM Karunaratne,KW Richardson,1,0,1,NA,0,NA,NA,NA,0
+1144502,2nd innings,Sri Lanka,Australia,8.1,MDKJ Perera,FDM Karunaratne,JP Behrendorff,6,0,6,NA,0,NA,NA,NA,0
+1144502,2nd innings,Sri Lanka,Australia,8.2,MDKJ Perera,FDM Karunaratne,JP Behrendorff,2,0,2,NA,0,NA,NA,NA,0
+1144502,2nd innings,Sri Lanka,Australia,8.3,MDKJ Perera,FDM Karunaratne,JP Behrendorff,5,0,5,NA,0,NA,NA,NA,0
+1144502,2nd innings,Sri Lanka,Australia,8.4,FDM Karunaratne,MDKJ Perera,JP Behrendorff,1,0,1,NA,0,NA,NA,NA,0
+1144502,2nd innings,Sri Lanka,Australia,8.5,MDKJ Perera,FDM Karunaratne,JP Behrendorff,0,0,0,NA,0,NA,NA,NA,0
+1144502,2nd innings,Sri Lanka,Australia,8.6,MDKJ Perera,FDM Karunaratne,JP Behrendorff,4,0,4,NA,0,NA,NA,NA,0
+1144502,2nd innings,Sri Lanka,Australia,9.1,FDM Karunaratne,MDKJ Perera,KW Richardson,1,0,1,NA,0,NA,NA,NA,0
+1144502,2nd innings,Sri Lanka,Australia,9.2,MDKJ Perera,FDM Karunaratne,KW Richardson,2,0,2,NA,0,NA,NA,NA,0
+1144502,2nd innings,Sri Lanka,Australia,9.3,MDKJ Perera,FDM Karunaratne,KW Richardson,4,0,4,NA,0,NA,NA,NA,0
+1144502,2nd innings,Sri Lanka,Australia,9.4,MDKJ Perera,FDM Karunaratne,KW Richardson,0,0,0,NA,0,NA,NA,NA,0
+1144502,2nd innings,Sri Lanka,Australia,9.5,MDKJ Perera,FDM Karunaratne,KW Richardson,1,0,1,NA,0,NA,NA,NA,0
+1144502,2nd innings,Sri Lanka,Australia,9.6,FDM Karunaratne,MDKJ Perera,KW Richardson,0,0,0,NA,0,NA,NA,NA,0
+1144502,2nd innings,Sri Lanka,Australia,10.1,MDKJ Perera,FDM Karunaratne,GJ Maxwell,0,0,0,NA,0,NA,NA,NA,0
+1144502,2nd innings,Sri Lanka,Australia,10.2,MDKJ Perera,FDM Karunaratne,GJ Maxwell,0,0,0,NA,0,NA,NA,NA,0
+1144502,2nd innings,Sri Lanka,Australia,10.3,MDKJ Perera,FDM Karunaratne,GJ Maxwell,1,0,1,NA,0,NA,NA,NA,0
+1144502,2nd innings,Sri Lanka,Australia,10.4,FDM Karunaratne,MDKJ Perera,GJ Maxwell,0,1,1,wides,0,NA,NA,NA,0
+1144502,2nd innings,Sri Lanka,Australia,10.5,FDM Karunaratne,MDKJ Perera,GJ Maxwell,0,0,0,NA,0,NA,NA,NA,0
+1144502,2nd innings,Sri Lanka,Australia,10.6,FDM Karunaratne,MDKJ Perera,GJ Maxwell,0,0,0,NA,0,NA,NA,NA,0
+1144502,2nd innings,Sri Lanka,Australia,10.7,FDM Karunaratne,MDKJ Perera,GJ Maxwell,2,0,2,NA,0,NA,NA,NA,0
+1144502,2nd innings,Sri Lanka,Australia,11.1,MDKJ Perera,FDM Karunaratne,KW Richardson,2,0,2,NA,0,NA,NA,NA,0
+1144502,2nd innings,Sri Lanka,Australia,11.2,MDKJ Perera,FDM Karunaratne,KW Richardson,1,0,1,NA,0,NA,NA,NA,0
+1144502,2nd innings,Sri Lanka,Australia,11.3,FDM Karunaratne,MDKJ Perera,KW Richardson,0,0,0,NA,0,NA,NA,NA,0
+1144502,2nd innings,Sri Lanka,Australia,11.4,FDM Karunaratne,MDKJ Perera,KW Richardson,0,0,0,NA,0,NA,NA,NA,0
+1144502,2nd innings,Sri Lanka,Australia,11.5,FDM Karunaratne,MDKJ Perera,KW Richardson,4,0,4,NA,0,NA,NA,NA,0
+1144502,2nd innings,Sri Lanka,Australia,11.6,FDM Karunaratne,MDKJ Perera,KW Richardson,0,0,0,NA,0,NA,NA,NA,0
+1144502,2nd innings,Sri Lanka,Australia,12.1,MDKJ Perera,FDM Karunaratne,GJ Maxwell,1,0,1,NA,0,NA,NA,NA,0
+1144502,2nd innings,Sri Lanka,Australia,12.2,FDM Karunaratne,MDKJ Perera,GJ Maxwell,0,0,0,NA,0,NA,NA,NA,0
+1144502,2nd innings,Sri Lanka,Australia,12.3,FDM Karunaratne,MDKJ Perera,GJ Maxwell,0,0,0,NA,0,NA,NA,NA,0
+1144502,2nd innings,Sri Lanka,Australia,12.4,FDM Karunaratne,MDKJ Perera,GJ Maxwell,1,0,1,NA,0,NA,NA,NA,0
+1144502,2nd innings,Sri Lanka,Australia,12.5,MDKJ Perera,FDM Karunaratne,GJ Maxwell,1,0,1,NA,0,NA,NA,NA,0
+1144502,2nd innings,Sri Lanka,Australia,12.6,FDM Karunaratne,MDKJ Perera,GJ Maxwell,1,0,1,NA,0,NA,NA,NA,0
+1144502,2nd innings,Sri Lanka,Australia,13.1,FDM Karunaratne,MDKJ Perera,MA Starc,1,0,1,NA,0,NA,NA,NA,0
+1144502,2nd innings,Sri Lanka,Australia,13.2,MDKJ Perera,FDM Karunaratne,MA Starc,0,0,0,NA,0,NA,NA,NA,0
+1144502,2nd innings,Sri Lanka,Australia,13.3,MDKJ Perera,FDM Karunaratne,MA Starc,1,0,1,NA,0,NA,NA,NA,0
+1144502,2nd innings,Sri Lanka,Australia,13.4,FDM Karunaratne,MDKJ Perera,MA Starc,0,0,0,NA,0,NA,NA,NA,0
+1144502,2nd innings,Sri Lanka,Australia,13.5,FDM Karunaratne,MDKJ Perera,MA Starc,1,0,1,NA,0,NA,NA,NA,0
+1144502,2nd innings,Sri Lanka,Australia,13.6,MDKJ Perera,FDM Karunaratne,MA Starc,1,0,1,NA,0,NA,NA,NA,0
+1144502,2nd innings,Sri Lanka,Australia,14.1,MDKJ Perera,FDM Karunaratne,GJ Maxwell,1,0,1,NA,0,NA,NA,NA,0
+1144502,2nd innings,Sri Lanka,Australia,14.2,FDM Karunaratne,MDKJ Perera,GJ Maxwell,0,0,0,NA,0,NA,NA,NA,0
+1144502,2nd innings,Sri Lanka,Australia,14.3,FDM Karunaratne,MDKJ Perera,GJ Maxwell,0,0,0,NA,0,NA,NA,NA,0
+1144502,2nd innings,Sri Lanka,Australia,14.4,FDM Karunaratne,MDKJ Perera,GJ Maxwell,3,0,3,NA,0,NA,NA,NA,0
+1144502,2nd innings,Sri Lanka,Australia,14.5,MDKJ Perera,FDM Karunaratne,GJ Maxwell,1,0,1,NA,0,NA,NA,NA,0
+1144502,2nd innings,Sri Lanka,Australia,14.6,FDM Karunaratne,MDKJ Perera,GJ Maxwell,1,0,1,NA,0,NA,NA,NA,0
+1144502,2nd innings,Sri Lanka,Australia,15.1,FDM Karunaratne,MDKJ Perera,MA Starc,2,0,2,NA,0,NA,NA,NA,0
+1144502,2nd innings,Sri Lanka,Australia,15.2,FDM Karunaratne,MDKJ Perera,MA Starc,1,0,1,NA,0,NA,NA,NA,0
+1144502,2nd innings,Sri Lanka,Australia,15.3,MDKJ Perera,FDM Karunaratne,MA Starc,0,0,0,NA,1,bowled,MDKJ Perera,NA,0
+1144502,2nd innings,Sri Lanka,Australia,15.4,HDRL Thirimanne,FDM Karunaratne,MA Starc,1,0,1,NA,0,NA,NA,NA,0
+1144502,2nd innings,Sri Lanka,Australia,15.5,FDM Karunaratne,HDRL Thirimanne,MA Starc,0,0,0,NA,0,NA,NA,NA,0
+1144502,2nd innings,Sri Lanka,Australia,15.6,FDM Karunaratne,HDRL Thirimanne,MA Starc,4,0,4,NA,0,NA,NA,NA,0
+1144502,2nd innings,Sri Lanka,Australia,16.1,HDRL Thirimanne,FDM Karunaratne,GJ Maxwell,1,0,1,NA,0,NA,NA,NA,0
+1144502,2nd innings,Sri Lanka,Australia,16.2,FDM Karunaratne,HDRL Thirimanne,GJ Maxwell,1,0,1,NA,0,NA,NA,NA,0
+1144502,2nd innings,Sri Lanka,Australia,16.3,HDRL Thirimanne,FDM Karunaratne,GJ Maxwell,0,0,0,NA,0,NA,NA,NA,0
+1144502,2nd innings,Sri Lanka,Australia,16.4,HDRL Thirimanne,FDM Karunaratne,GJ Maxwell,0,0,0,NA,0,NA,NA,NA,0
+1144502,2nd innings,Sri Lanka,Australia,16.5,HDRL Thirimanne,FDM Karunaratne,GJ Maxwell,0,0,0,NA,0,NA,NA,NA,0
+1144502,2nd innings,Sri Lanka,Australia,16.6,HDRL Thirimanne,FDM Karunaratne,GJ Maxwell,0,0,0,NA,0,NA,NA,NA,0
+1144502,2nd innings,Sri Lanka,Australia,17.1,FDM Karunaratne,HDRL Thirimanne,MA Starc,0,0,0,NA,0,NA,NA,NA,0
+1144502,2nd innings,Sri Lanka,Australia,17.2,FDM Karunaratne,HDRL Thirimanne,MA Starc,0,0,0,NA,0,NA,NA,NA,0
+1144502,2nd innings,Sri Lanka,Australia,17.3,FDM Karunaratne,HDRL Thirimanne,MA Starc,1,0,1,NA,0,NA,NA,NA,0
+1144502,2nd innings,Sri Lanka,Australia,17.4,HDRL Thirimanne,FDM Karunaratne,MA Starc,0,0,0,NA,0,NA,NA,NA,0
+1144502,2nd innings,Sri Lanka,Australia,17.5,HDRL Thirimanne,FDM Karunaratne,MA Starc,0,0,0,NA,0,NA,NA,NA,0
+1144502,2nd innings,Sri Lanka,Australia,17.6,HDRL Thirimanne,FDM Karunaratne,MA Starc,0,0,0,NA,0,NA,NA,NA,0
+1144502,2nd innings,Sri Lanka,Australia,18.1,FDM Karunaratne,HDRL Thirimanne,GJ Maxwell,1,0,1,NA,0,NA,NA,NA,0
+1144502,2nd innings,Sri Lanka,Australia,18.2,HDRL Thirimanne,FDM Karunaratne,GJ Maxwell,1,0,1,NA,0,NA,NA,NA,0
+1144502,2nd innings,Sri Lanka,Australia,18.3,FDM Karunaratne,HDRL Thirimanne,GJ Maxwell,0,0,0,NA,0,NA,NA,NA,0
+1144502,2nd innings,Sri Lanka,Australia,18.4,FDM Karunaratne,HDRL Thirimanne,GJ Maxwell,1,0,1,NA,0,NA,NA,NA,0
+1144502,2nd innings,Sri Lanka,Australia,18.5,HDRL Thirimanne,FDM Karunaratne,GJ Maxwell,1,0,1,NA,0,NA,NA,NA,0
+1144502,2nd innings,Sri Lanka,Australia,18.6,FDM Karunaratne,HDRL Thirimanne,GJ Maxwell,4,0,4,NA,0,NA,NA,NA,0
+1144502,2nd innings,Sri Lanka,Australia,19.1,HDRL Thirimanne,FDM Karunaratne,JP Behrendorff,0,0,0,NA,0,NA,NA,NA,0
+1144502,2nd innings,Sri Lanka,Australia,19.2,HDRL Thirimanne,FDM Karunaratne,JP Behrendorff,1,0,1,NA,0,NA,NA,NA,0
+1144502,2nd innings,Sri Lanka,Australia,19.3,FDM Karunaratne,HDRL Thirimanne,JP Behrendorff,2,0,2,NA,0,NA,NA,NA,0
+1144502,2nd innings,Sri Lanka,Australia,19.4,FDM Karunaratne,HDRL Thirimanne,JP Behrendorff,1,0,1,NA,0,NA,NA,NA,0
+1144502,2nd innings,Sri Lanka,Australia,19.5,HDRL Thirimanne,FDM Karunaratne,JP Behrendorff,0,0,0,NA,0,NA,NA,NA,0
+1144502,2nd innings,Sri Lanka,Australia,19.6,HDRL Thirimanne,FDM Karunaratne,JP Behrendorff,0,0,0,NA,0,NA,NA,NA,0
+1144502,2nd innings,Sri Lanka,Australia,20.1,FDM Karunaratne,HDRL Thirimanne,GJ Maxwell,0,0,0,NA,0,NA,NA,NA,0
+1144502,2nd innings,Sri Lanka,Australia,20.2,FDM Karunaratne,HDRL Thirimanne,GJ Maxwell,1,0,1,NA,0,NA,NA,NA,0
+1144502,2nd innings,Sri Lanka,Australia,20.3,HDRL Thirimanne,FDM Karunaratne,GJ Maxwell,1,0,1,NA,0,NA,NA,NA,0
+1144502,2nd innings,Sri Lanka,Australia,20.4,FDM Karunaratne,HDRL Thirimanne,GJ Maxwell,1,0,1,NA,0,NA,NA,NA,0
+1144502,2nd innings,Sri Lanka,Australia,20.5,HDRL Thirimanne,FDM Karunaratne,GJ Maxwell,1,0,1,NA,0,NA,NA,NA,0
+1144502,2nd innings,Sri Lanka,Australia,20.6,FDM Karunaratne,HDRL Thirimanne,GJ Maxwell,0,0,0,NA,0,NA,NA,NA,0
+1144502,2nd innings,Sri Lanka,Australia,21.1,HDRL Thirimanne,FDM Karunaratne,JP Behrendorff,1,0,1,NA,0,NA,NA,NA,0
+1144502,2nd innings,Sri Lanka,Australia,21.2,FDM Karunaratne,HDRL Thirimanne,JP Behrendorff,0,0,0,NA,0,NA,NA,NA,0
+1144502,2nd innings,Sri Lanka,Australia,21.3,FDM Karunaratne,HDRL Thirimanne,JP Behrendorff,0,0,0,NA,0,NA,NA,NA,0
+1144502,2nd innings,Sri Lanka,Australia,21.4,FDM Karunaratne,HDRL Thirimanne,JP Behrendorff,1,0,1,NA,0,NA,NA,NA,0
+1144502,2nd innings,Sri Lanka,Australia,21.5,HDRL Thirimanne,FDM Karunaratne,JP Behrendorff,0,0,0,NA,0,NA,NA,NA,0
+1144502,2nd innings,Sri Lanka,Australia,21.6,HDRL Thirimanne,FDM Karunaratne,JP Behrendorff,0,0,0,NA,0,NA,NA,NA,0
+1144502,2nd innings,Sri Lanka,Australia,22.1,FDM Karunaratne,HDRL Thirimanne,GJ Maxwell,0,0,0,NA,0,NA,NA,NA,0
+1144502,2nd innings,Sri Lanka,Australia,22.2,FDM Karunaratne,HDRL Thirimanne,GJ Maxwell,0,0,0,NA,0,NA,NA,NA,0
+1144502,2nd innings,Sri Lanka,Australia,22.3,FDM Karunaratne,HDRL Thirimanne,GJ Maxwell,1,0,1,NA,0,NA,NA,NA,0
+1144502,2nd innings,Sri Lanka,Australia,22.4,HDRL Thirimanne,FDM Karunaratne,GJ Maxwell,1,0,1,NA,0,NA,NA,NA,0
+1144502,2nd innings,Sri Lanka,Australia,22.5,FDM Karunaratne,HDRL Thirimanne,GJ Maxwell,1,0,1,NA,0,NA,NA,NA,0
+1144502,2nd innings,Sri Lanka,Australia,22.6,HDRL Thirimanne,FDM Karunaratne,GJ Maxwell,1,0,1,NA,0,NA,NA,NA,0
+1144502,2nd innings,Sri Lanka,Australia,23.1,HDRL Thirimanne,FDM Karunaratne,JP Behrendorff,2,0,2,NA,0,NA,NA,NA,0
+1144502,2nd innings,Sri Lanka,Australia,23.2,HDRL Thirimanne,FDM Karunaratne,JP Behrendorff,0,1,1,legbyes,0,NA,NA,NA,0
+1144502,2nd innings,Sri Lanka,Australia,23.3,FDM Karunaratne,HDRL Thirimanne,JP Behrendorff,1,0,1,NA,0,NA,NA,NA,0
+1144502,2nd innings,Sri Lanka,Australia,23.4,HDRL Thirimanne,FDM Karunaratne,JP Behrendorff,4,0,4,NA,0,NA,NA,NA,0
+1144502,2nd innings,Sri Lanka,Australia,23.5,HDRL Thirimanne,FDM Karunaratne,JP Behrendorff,0,0,0,NA,1,caught,HDRL Thirimanne,AT Carey,0
+1144502,2nd innings,Sri Lanka,Australia,23.6,BKG Mendis,FDM Karunaratne,JP Behrendorff,1,0,1,NA,0,NA,NA,NA,0
+1144502,2nd innings,Sri Lanka,Australia,24.1,BKG Mendis,FDM Karunaratne,PJ Cummins,0,0,0,NA,0,NA,NA,NA,0
+1144502,2nd innings,Sri Lanka,Australia,24.2,BKG Mendis,FDM Karunaratne,PJ Cummins,0,0,0,NA,0,NA,NA,NA,0
+1144502,2nd innings,Sri Lanka,Australia,24.3,BKG Mendis,FDM Karunaratne,PJ Cummins,0,0,0,NA,0,NA,NA,NA,0
+1144502,2nd innings,Sri Lanka,Australia,24.4,BKG Mendis,FDM Karunaratne,PJ Cummins,0,1,1,wides,0,NA,NA,NA,0
+1144502,2nd innings,Sri Lanka,Australia,24.5,BKG Mendis,FDM Karunaratne,PJ Cummins,0,0,0,NA,0,NA,NA,NA,0
+1144502,2nd innings,Sri Lanka,Australia,24.6,BKG Mendis,FDM Karunaratne,PJ Cummins,1,0,1,NA,0,NA,NA,NA,0
+1144502,2nd innings,Sri Lanka,Australia,24.7,FDM Karunaratne,BKG Mendis,PJ Cummins,0,0,0,NA,0,NA,NA,NA,0
+1144502,2nd innings,Sri Lanka,Australia,25.1,BKG Mendis,FDM Karunaratne,JP Behrendorff,0,0,0,NA,0,NA,NA,NA,0
+1144502,2nd innings,Sri Lanka,Australia,25.2,BKG Mendis,FDM Karunaratne,JP Behrendorff,1,0,1,NA,0,NA,NA,NA,0
+1144502,2nd innings,Sri Lanka,Australia,25.3,FDM Karunaratne,BKG Mendis,JP Behrendorff,1,0,1,NA,0,NA,NA,NA,0
+1144502,2nd innings,Sri Lanka,Australia,25.4,BKG Mendis,FDM Karunaratne,JP Behrendorff,1,0,1,NA,0,NA,NA,NA,0
+1144502,2nd innings,Sri Lanka,Australia,25.5,FDM Karunaratne,BKG Mendis,JP Behrendorff,0,0,0,NA,0,NA,NA,NA,0
+1144502,2nd innings,Sri Lanka,Australia,25.6,FDM Karunaratne,BKG Mendis,JP Behrendorff,0,0,0,NA,0,NA,NA,NA,0
+1144502,2nd innings,Sri Lanka,Australia,26.1,BKG Mendis,FDM Karunaratne,PJ Cummins,1,0,1,NA,0,NA,NA,NA,0
+1144502,2nd innings,Sri Lanka,Australia,26.2,FDM Karunaratne,BKG Mendis,PJ Cummins,1,0,1,NA,0,NA,NA,NA,0
+1144502,2nd innings,Sri Lanka,Australia,26.3,BKG Mendis,FDM Karunaratne,PJ Cummins,1,0,1,NA,0,NA,NA,NA,0
+1144502,2nd innings,Sri Lanka,Australia,26.4,FDM Karunaratne,BKG Mendis,PJ Cummins,0,0,0,NA,0,NA,NA,NA,0
+1144502,2nd innings,Sri Lanka,Australia,26.5,FDM Karunaratne,BKG Mendis,PJ Cummins,1,0,1,NA,0,NA,NA,NA,0
+1144502,2nd innings,Sri Lanka,Australia,26.6,BKG Mendis,FDM Karunaratne,PJ Cummins,0,0,0,NA,0,NA,NA,NA,0
+1144502,2nd innings,Sri Lanka,Australia,27.1,FDM Karunaratne,BKG Mendis,JP Behrendorff,2,0,2,NA,0,NA,NA,NA,0
+1144502,2nd innings,Sri Lanka,Australia,27.2,FDM Karunaratne,BKG Mendis,JP Behrendorff,0,0,0,NA,0,NA,NA,NA,0
+1144502,2nd innings,Sri Lanka,Australia,27.3,FDM Karunaratne,BKG Mendis,JP Behrendorff,0,0,0,NA,0,NA,NA,NA,0
+1144502,2nd innings,Sri Lanka,Australia,27.4,FDM Karunaratne,BKG Mendis,JP Behrendorff,1,0,1,NA,0,NA,NA,NA,0
+1144502,2nd innings,Sri Lanka,Australia,27.5,BKG Mendis,FDM Karunaratne,JP Behrendorff,1,0,1,NA,0,NA,NA,NA,0
+1144502,2nd innings,Sri Lanka,Australia,27.6,FDM Karunaratne,BKG Mendis,JP Behrendorff,1,0,1,NA,0,NA,NA,NA,0
+1144502,2nd innings,Sri Lanka,Australia,28.1,FDM Karunaratne,BKG Mendis,KW Richardson,0,0,0,NA,0,NA,NA,NA,0
+1144502,2nd innings,Sri Lanka,Australia,28.2,FDM Karunaratne,BKG Mendis,KW Richardson,2,0,2,NA,0,NA,NA,NA,0
+1144502,2nd innings,Sri Lanka,Australia,28.3,FDM Karunaratne,BKG Mendis,KW Richardson,0,0,0,NA,0,NA,NA,NA,0
+1144502,2nd innings,Sri Lanka,Australia,28.4,FDM Karunaratne,BKG Mendis,KW Richardson,1,0,1,NA,0,NA,NA,NA,0
+1144502,2nd innings,Sri Lanka,Australia,28.5,BKG Mendis,FDM Karunaratne,KW Richardson,1,0,1,NA,0,NA,NA,NA,0
+1144502,2nd innings,Sri Lanka,Australia,28.6,FDM Karunaratne,BKG Mendis,KW Richardson,1,0,1,NA,0,NA,NA,NA,0
+1144502,2nd innings,Sri Lanka,Australia,29.1,FDM Karunaratne,BKG Mendis,GJ Maxwell,0,0,0,NA,0,NA,NA,NA,0
+1144502,2nd innings,Sri Lanka,Australia,29.2,FDM Karunaratne,BKG Mendis,GJ Maxwell,1,0,1,NA,0,NA,NA,NA,0
+1144502,2nd innings,Sri Lanka,Australia,29.3,BKG Mendis,FDM Karunaratne,GJ Maxwell,0,0,0,NA,0,NA,NA,NA,0
+1144502,2nd innings,Sri Lanka,Australia,29.4,BKG Mendis,FDM Karunaratne,GJ Maxwell,1,0,1,NA,0,NA,NA,NA,0
+1144502,2nd innings,Sri Lanka,Australia,29.5,FDM Karunaratne,BKG Mendis,GJ Maxwell,0,0,0,NA,0,NA,NA,NA,0
+1144502,2nd innings,Sri Lanka,Australia,29.6,FDM Karunaratne,BKG Mendis,GJ Maxwell,1,0,1,NA,0,NA,NA,NA,0
+1144502,2nd innings,Sri Lanka,Australia,30.1,FDM Karunaratne,BKG Mendis,KW Richardson,0,0,0,NA,0,NA,NA,NA,0
+1144502,2nd innings,Sri Lanka,Australia,30.2,FDM Karunaratne,BKG Mendis,KW Richardson,1,0,1,NA,0,NA,NA,NA,0
+1144502,2nd innings,Sri Lanka,Australia,30.3,BKG Mendis,FDM Karunaratne,KW Richardson,0,0,0,NA,0,NA,NA,NA,0
+1144502,2nd innings,Sri Lanka,Australia,30.4,BKG Mendis,FDM Karunaratne,KW Richardson,0,0,0,NA,0,NA,NA,NA,0
+1144502,2nd innings,Sri Lanka,Australia,30.5,BKG Mendis,FDM Karunaratne,KW Richardson,0,0,0,NA,0,NA,NA,NA,0
+1144502,2nd innings,Sri Lanka,Australia,30.6,BKG Mendis,FDM Karunaratne,KW Richardson,1,0,1,NA,0,NA,NA,NA,0
+1144502,2nd innings,Sri Lanka,Australia,31.1,BKG Mendis,FDM Karunaratne,GJ Maxwell,0,0,0,NA,0,NA,NA,NA,0
+1144502,2nd innings,Sri Lanka,Australia,31.2,BKG Mendis,FDM Karunaratne,GJ Maxwell,1,0,1,NA,0,NA,NA,NA,0
+1144502,2nd innings,Sri Lanka,Australia,31.3,FDM Karunaratne,BKG Mendis,GJ Maxwell,0,0,0,NA,0,NA,NA,NA,0
+1144502,2nd innings,Sri Lanka,Australia,31.4,FDM Karunaratne,BKG Mendis,GJ Maxwell,0,0,0,NA,0,NA,NA,NA,0
+1144502,2nd innings,Sri Lanka,Australia,31.5,FDM Karunaratne,BKG Mendis,GJ Maxwell,1,0,1,NA,0,NA,NA,NA,0
+1144502,2nd innings,Sri Lanka,Australia,31.6,BKG Mendis,FDM Karunaratne,GJ Maxwell,6,0,6,NA,0,NA,NA,NA,0
+1144502,2nd innings,Sri Lanka,Australia,32.1,FDM Karunaratne,BKG Mendis,KW Richardson,0,0,0,NA,1,caught,FDM Karunaratne,GJ Maxwell,0
+1144502,2nd innings,Sri Lanka,Australia,32.2,AD Mathews,BKG Mendis,KW Richardson,4,0,4,NA,0,NA,NA,NA,0
+1144502,2nd innings,Sri Lanka,Australia,32.3,AD Mathews,BKG Mendis,KW Richardson,0,0,0,NA,0,NA,NA,NA,0
+1144502,2nd innings,Sri Lanka,Australia,32.4,AD Mathews,BKG Mendis,KW Richardson,0,0,0,NA,0,NA,NA,NA,0
+1144502,2nd innings,Sri Lanka,Australia,32.5,AD Mathews,BKG Mendis,KW Richardson,0,0,0,NA,0,NA,NA,NA,0
+1144502,2nd innings,Sri Lanka,Australia,32.6,AD Mathews,BKG Mendis,KW Richardson,0,0,0,NA,0,NA,NA,NA,0
+1144502,2nd innings,Sri Lanka,Australia,33.1,BKG Mendis,AD Mathews,GJ Maxwell,1,0,1,NA,0,NA,NA,NA,0
+1144502,2nd innings,Sri Lanka,Australia,33.2,AD Mathews,BKG Mendis,GJ Maxwell,1,0,1,NA,0,NA,NA,NA,0
+1144502,2nd innings,Sri Lanka,Australia,33.3,BKG Mendis,AD Mathews,GJ Maxwell,0,0,0,NA,0,NA,NA,NA,0
+1144502,2nd innings,Sri Lanka,Australia,33.4,BKG Mendis,AD Mathews,GJ Maxwell,0,0,0,NA,0,NA,NA,NA,0
+1144502,2nd innings,Sri Lanka,Australia,33.5,BKG Mendis,AD Mathews,GJ Maxwell,0,0,0,NA,0,NA,NA,NA,0
+1144502,2nd innings,Sri Lanka,Australia,33.6,BKG Mendis,AD Mathews,GJ Maxwell,1,0,1,NA,0,NA,NA,NA,0
+1144502,2nd innings,Sri Lanka,Australia,34.1,BKG Mendis,AD Mathews,MA Starc,0,0,0,NA,0,NA,NA,NA,0
+1144502,2nd innings,Sri Lanka,Australia,34.2,BKG Mendis,AD Mathews,MA Starc,6,0,6,NA,0,NA,NA,NA,0
+1144502,2nd innings,Sri Lanka,Australia,34.3,BKG Mendis,AD Mathews,MA Starc,1,0,1,NA,0,NA,NA,NA,0
+1144502,2nd innings,Sri Lanka,Australia,34.4,AD Mathews,BKG Mendis,MA Starc,0,0,0,NA,0,NA,NA,NA,0
+1144502,2nd innings,Sri Lanka,Australia,34.5,AD Mathews,BKG Mendis,MA Starc,0,0,0,NA,0,NA,NA,NA,0
+1144502,2nd innings,Sri Lanka,Australia,34.6,AD Mathews,BKG Mendis,MA Starc,4,0,4,NA,0,NA,NA,NA,0
+1144502,2nd innings,Sri Lanka,Australia,35.1,BKG Mendis,AD Mathews,PJ Cummins,0,0,0,NA,0,NA,NA,NA,0
+1144502,2nd innings,Sri Lanka,Australia,35.2,BKG Mendis,AD Mathews,PJ Cummins,1,0,1,NA,0,NA,NA,NA,0
+1144502,2nd innings,Sri Lanka,Australia,35.3,AD Mathews,BKG Mendis,PJ Cummins,0,0,0,NA,0,NA,NA,NA,0
+1144502,2nd innings,Sri Lanka,Australia,35.4,AD Mathews,BKG Mendis,PJ Cummins,0,0,0,NA,1,caught,AD Mathews,AT Carey,0
+1144502,2nd innings,Sri Lanka,Australia,35.5,TAM Siriwardana,BKG Mendis,PJ Cummins,2,0,2,NA,0,NA,NA,NA,0
+1144502,2nd innings,Sri Lanka,Australia,35.6,TAM Siriwardana,BKG Mendis,PJ Cummins,1,0,1,NA,0,NA,NA,NA,0
+1144502,2nd innings,Sri Lanka,Australia,36.1,TAM Siriwardana,BKG Mendis,MA Starc,0,1,1,wides,0,NA,NA,NA,0
+1144502,2nd innings,Sri Lanka,Australia,36.2,TAM Siriwardana,BKG Mendis,MA Starc,0,0,0,NA,0,NA,NA,NA,0
+1144502,2nd innings,Sri Lanka,Australia,36.3,TAM Siriwardana,BKG Mendis,MA Starc,0,0,0,NA,1,bowled,TAM Siriwardana,NA,0
+1144502,2nd innings,Sri Lanka,Australia,36.4,NLTC Perera,BKG Mendis,MA Starc,6,0,6,NA,0,NA,NA,NA,0
+1144502,2nd innings,Sri Lanka,Australia,36.5,NLTC Perera,BKG Mendis,MA Starc,1,0,1,NA,0,NA,NA,NA,0
+1144502,2nd innings,Sri Lanka,Australia,36.6,BKG Mendis,NLTC Perera,MA Starc,1,0,1,NA,0,NA,NA,NA,0
+1144502,2nd innings,Sri Lanka,Australia,36.7,NLTC Perera,BKG Mendis,MA Starc,0,0,0,NA,1,caught,NLTC Perera,DA Warner,0
+1144502,2nd innings,Sri Lanka,Australia,37.1,BKG Mendis,DM de Silva,JP Behrendorff,1,0,1,NA,0,NA,NA,NA,0
+1144502,2nd innings,Sri Lanka,Australia,37.2,DM de Silva,BKG Mendis,JP Behrendorff,0,0,0,NA,0,NA,NA,NA,0
+1144502,2nd innings,Sri Lanka,Australia,37.3,DM de Silva,BKG Mendis,JP Behrendorff,2,0,2,NA,0,NA,NA,NA,0
+1144502,2nd innings,Sri Lanka,Australia,37.4,DM de Silva,BKG Mendis,JP Behrendorff,0,0,0,NA,0,NA,NA,NA,0
+1144502,2nd innings,Sri Lanka,Australia,37.5,DM de Silva,BKG Mendis,JP Behrendorff,1,0,1,NA,0,NA,NA,NA,0
+1144502,2nd innings,Sri Lanka,Australia,37.6,BKG Mendis,DM de Silva,JP Behrendorff,1,0,1,NA,0,NA,NA,NA,0
+1144502,2nd innings,Sri Lanka,Australia,38.1,BKG Mendis,DM de Silva,MA Starc,0,0,0,NA,1,caught,BKG Mendis,AT Carey,0
+1144502,2nd innings,Sri Lanka,Australia,38.2,I Udana,DM de Silva,MA Starc,1,0,1,NA,0,NA,NA,NA,0
+1144502,2nd innings,Sri Lanka,Australia,38.3,DM de Silva,I Udana,MA Starc,1,0,1,NA,0,NA,NA,NA,0
+1144502,2nd innings,Sri Lanka,Australia,38.4,I Udana,DM de Silva,MA Starc,1,0,1,NA,0,NA,NA,NA,0
+1144502,2nd innings,Sri Lanka,Australia,38.5,DM de Silva,I Udana,MA Starc,0,0,0,NA,0,NA,NA,NA,0
+1144502,2nd innings,Sri Lanka,Australia,38.6,DM de Silva,I Udana,MA Starc,4,0,4,NA,0,NA,NA,NA,0
+1144502,2nd innings,Sri Lanka,Australia,39.1,I Udana,DM de Silva,KW Richardson,4,0,4,NA,0,NA,NA,NA,0
+1144502,2nd innings,Sri Lanka,Australia,39.2,I Udana,DM de Silva,KW Richardson,0,0,0,NA,0,NA,NA,NA,0
+1144502,2nd innings,Sri Lanka,Australia,39.3,I Udana,DM de Silva,KW Richardson,0,0,0,NA,0,NA,NA,NA,0
+1144502,2nd innings,Sri Lanka,Australia,39.4,I Udana,DM de Silva,KW Richardson,0,0,0,NA,0,NA,NA,NA,0
+1144502,2nd innings,Sri Lanka,Australia,39.5,I Udana,DM de Silva,KW Richardson,0,1,1,wides,0,NA,NA,NA,0
+1144502,2nd innings,Sri Lanka,Australia,39.6,I Udana,DM de Silva,KW Richardson,2,0,2,NA,0,NA,NA,NA,0
+1144502,2nd innings,Sri Lanka,Australia,39.7,I Udana,DM de Silva,KW Richardson,0,0,0,NA,1,caught,I Udana,AJ Finch,0
+1144502,2nd innings,Sri Lanka,Australia,40.1,SL Malinga,DM de Silva,MA Starc,1,0,1,NA,0,NA,NA,NA,0
+1144502,2nd innings,Sri Lanka,Australia,40.2,DM de Silva,SL Malinga,MA Starc,0,0,0,NA,0,NA,NA,NA,0
+1144502,2nd innings,Sri Lanka,Australia,40.3,DM de Silva,SL Malinga,MA Starc,0,0,0,NA,0,NA,NA,NA,0
+1144502,2nd innings,Sri Lanka,Australia,40.4,DM de Silva,SL Malinga,MA Starc,0,0,0,NA,0,NA,NA,NA,0
+1144502,2nd innings,Sri Lanka,Australia,40.5,DM de Silva,SL Malinga,MA Starc,0,0,0,NA,0,NA,NA,NA,0
+1144502,2nd innings,Sri Lanka,Australia,40.6,DM de Silva,SL Malinga,MA Starc,0,0,0,NA,0,NA,NA,NA,0
+1144502,2nd innings,Sri Lanka,Australia,41.1,SL Malinga,DM de Silva,KW Richardson,0,0,0,NA,0,NA,NA,NA,0
+1144502,2nd innings,Sri Lanka,Australia,41.2,SL Malinga,DM de Silva,KW Richardson,0,0,0,NA,0,NA,NA,NA,0
+1144502,2nd innings,Sri Lanka,Australia,41.3,SL Malinga,DM de Silva,KW Richardson,0,0,0,NA,0,NA,NA,NA,0
+1144502,2nd innings,Sri Lanka,Australia,41.4,SL Malinga,DM de Silva,KW Richardson,0,0,0,NA,1,caught,SL Malinga,UT Khawaja,0
+1144502,2nd innings,Sri Lanka,Australia,41.5,N Pradeep,DM de Silva,KW Richardson,0,0,0,NA,0,NA,NA,NA,0
+1144502,2nd innings,Sri Lanka,Australia,41.6,N Pradeep,DM de Silva,KW Richardson,0,0,0,NA,0,NA,NA,NA,0
+1144502,2nd innings,Sri Lanka,Australia,42.1,DM de Silva,N Pradeep,MA Starc,0,0,0,NA,0,NA,NA,NA,0
+1144502,2nd innings,Sri Lanka,Australia,42.2,DM de Silva,N Pradeep,MA Starc,0,0,0,NA,0,NA,NA,NA,0
+1144502,2nd innings,Sri Lanka,Australia,42.3,DM de Silva,N Pradeep,MA Starc,0,0,0,NA,0,NA,NA,NA,0
+1144502,2nd innings,Sri Lanka,Australia,42.4,DM de Silva,N Pradeep,MA Starc,0,0,0,NA,0,NA,NA,NA,0
+1144502,2nd innings,Sri Lanka,Australia,42.5,DM de Silva,N Pradeep,MA Starc,1,0,1,NA,0,NA,NA,NA,0
+1144502,2nd innings,Sri Lanka,Australia,42.6,N Pradeep,DM de Silva,MA Starc,0,0,0,NA,0,NA,NA,NA,0
+1144502,2nd innings,Sri Lanka,Australia,43.1,DM de Silva,N Pradeep,PJ Cummins,0,0,0,NA,0,NA,NA,NA,0
+1144502,2nd innings,Sri Lanka,Australia,43.2,DM de Silva,N Pradeep,PJ Cummins,0,1,1,wides,0,NA,NA,NA,0
+1144502,2nd innings,Sri Lanka,Australia,43.3,DM de Silva,N Pradeep,PJ Cummins,0,0,0,NA,0,NA,NA,NA,0
+1144502,2nd innings,Sri Lanka,Australia,43.4,DM de Silva,N Pradeep,PJ Cummins,0,0,0,NA,0,NA,NA,NA,0
+1144502,2nd innings,Sri Lanka,Australia,43.5,DM de Silva,N Pradeep,PJ Cummins,1,0,1,NA,0,NA,NA,NA,0
+1144502,2nd innings,Sri Lanka,Australia,43.6,N Pradeep,DM de Silva,PJ Cummins,0,0,0,NA,0,NA,NA,NA,0
+1144502,2nd innings,Sri Lanka,Australia,43.7,N Pradeep,DM de Silva,PJ Cummins,0,0,0,NA,0,NA,NA,NA,0
+1144502,2nd innings,Sri Lanka,Australia,44.1,DM de Silva,N Pradeep,KW Richardson,0,0,0,NA,0,NA,NA,NA,0
+1144502,2nd innings,Sri Lanka,Australia,44.2,DM de Silva,N Pradeep,KW Richardson,0,1,1,wides,0,NA,NA,NA,0
+1144502,2nd innings,Sri Lanka,Australia,44.3,DM de Silva,N Pradeep,KW Richardson,0,0,0,NA,0,NA,NA,NA,0
+1144502,2nd innings,Sri Lanka,Australia,44.4,DM de Silva,N Pradeep,KW Richardson,0,0,0,NA,0,NA,NA,NA,0
+1144502,2nd innings,Sri Lanka,Australia,44.5,DM de Silva,N Pradeep,KW Richardson,4,0,4,NA,0,NA,NA,NA,0
+1144502,2nd innings,Sri Lanka,Australia,44.6,DM de Silva,N Pradeep,KW Richardson,1,0,1,NA,0,NA,NA,NA,0
+1144502,2nd innings,Sri Lanka,Australia,44.7,N Pradeep,DM de Silva,KW Richardson,0,0,0,NA,0,NA,NA,NA,0
+1144502,2nd innings,Sri Lanka,Australia,45.1,DM de Silva,N Pradeep,PJ Cummins,0,0,0,NA,0,NA,NA,NA,0
+1144502,2nd innings,Sri Lanka,Australia,45.2,DM de Silva,N Pradeep,PJ Cummins,0,0,0,NA,0,NA,NA,NA,0
+1144502,2nd innings,Sri Lanka,Australia,45.3,DM de Silva,N Pradeep,PJ Cummins,0,0,0,NA,0,NA,NA,NA,0
+1144502,2nd innings,Sri Lanka,Australia,45.4,DM de Silva,N Pradeep,PJ Cummins,1,0,1,NA,0,NA,NA,NA,0
+1144502,2nd innings,Sri Lanka,Australia,45.5,N Pradeep,DM de Silva,PJ Cummins,0,0,0,NA,1,caught,N Pradeep,AT Carey,0

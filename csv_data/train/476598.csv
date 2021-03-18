@@ -1,0 +1,511 @@
+match_id,innings,team,opponent,ball,batsman,non_striker,bowler,scored_runs,extras,total,extra_type,wicket,wicket_type,player_out,fielders,winner
+476598,1st innings,New Zealand,Bangladesh,0.1,BB McCullum,JD Ryder,Shafiul Islam,0,0,0,NA,0,NA,NA,NA,0
+476598,1st innings,New Zealand,Bangladesh,0.2,BB McCullum,JD Ryder,Shafiul Islam,0,0,0,NA,0,NA,NA,NA,0
+476598,1st innings,New Zealand,Bangladesh,0.3,BB McCullum,JD Ryder,Shafiul Islam,0,0,0,NA,0,NA,NA,NA,0
+476598,1st innings,New Zealand,Bangladesh,0.4,BB McCullum,JD Ryder,Shafiul Islam,0,0,0,NA,1,caught,BB McCullum,Mushfiqur Rahim,0
+476598,1st innings,New Zealand,Bangladesh,0.5,BJ Watling,JD Ryder,Shafiul Islam,0,0,0,NA,0,NA,NA,NA,0
+476598,1st innings,New Zealand,Bangladesh,0.6,BJ Watling,JD Ryder,Shafiul Islam,4,0,4,NA,0,NA,NA,NA,0
+476598,1st innings,New Zealand,Bangladesh,1.1,JD Ryder,BJ Watling,Rubel Hossain,0,0,0,NA,0,NA,NA,NA,0
+476598,1st innings,New Zealand,Bangladesh,1.2,JD Ryder,BJ Watling,Rubel Hossain,0,0,0,NA,0,NA,NA,NA,0
+476598,1st innings,New Zealand,Bangladesh,1.3,JD Ryder,BJ Watling,Rubel Hossain,1,0,1,NA,0,NA,NA,NA,0
+476598,1st innings,New Zealand,Bangladesh,1.4,BJ Watling,JD Ryder,Rubel Hossain,0,0,0,NA,0,NA,NA,NA,0
+476598,1st innings,New Zealand,Bangladesh,1.5,BJ Watling,JD Ryder,Rubel Hossain,0,0,0,NA,0,NA,NA,NA,0
+476598,1st innings,New Zealand,Bangladesh,1.6,BJ Watling,JD Ryder,Rubel Hossain,0,1,1,wides,0,NA,NA,NA,0
+476598,1st innings,New Zealand,Bangladesh,1.7,BJ Watling,JD Ryder,Rubel Hossain,0,0,0,NA,0,NA,NA,NA,0
+476598,1st innings,New Zealand,Bangladesh,2.1,JD Ryder,BJ Watling,Shafiul Islam,6,0,6,NA,0,NA,NA,NA,0
+476598,1st innings,New Zealand,Bangladesh,2.2,JD Ryder,BJ Watling,Shafiul Islam,0,0,0,NA,0,NA,NA,NA,0
+476598,1st innings,New Zealand,Bangladesh,2.3,JD Ryder,BJ Watling,Shafiul Islam,2,0,2,NA,0,NA,NA,NA,0
+476598,1st innings,New Zealand,Bangladesh,2.4,JD Ryder,BJ Watling,Shafiul Islam,0,0,0,NA,0,NA,NA,NA,0
+476598,1st innings,New Zealand,Bangladesh,2.5,JD Ryder,BJ Watling,Shafiul Islam,0,0,0,NA,0,NA,NA,NA,0
+476598,1st innings,New Zealand,Bangladesh,2.6,JD Ryder,BJ Watling,Shafiul Islam,0,0,0,NA,0,NA,NA,NA,0
+476598,1st innings,New Zealand,Bangladesh,3.1,BJ Watling,JD Ryder,Rubel Hossain,0,0,0,NA,0,NA,NA,NA,0
+476598,1st innings,New Zealand,Bangladesh,3.2,BJ Watling,JD Ryder,Rubel Hossain,0,0,0,NA,0,NA,NA,NA,0
+476598,1st innings,New Zealand,Bangladesh,3.3,BJ Watling,JD Ryder,Rubel Hossain,1,0,1,NA,0,NA,NA,NA,0
+476598,1st innings,New Zealand,Bangladesh,3.4,JD Ryder,BJ Watling,Rubel Hossain,2,0,2,NA,0,NA,NA,NA,0
+476598,1st innings,New Zealand,Bangladesh,3.5,JD Ryder,BJ Watling,Rubel Hossain,0,1,1,wides,0,NA,NA,NA,0
+476598,1st innings,New Zealand,Bangladesh,3.6,JD Ryder,BJ Watling,Rubel Hossain,0,0,0,NA,0,NA,NA,NA,0
+476598,1st innings,New Zealand,Bangladesh,3.7,JD Ryder,BJ Watling,Rubel Hossain,0,0,0,NA,0,NA,NA,NA,0
+476598,1st innings,New Zealand,Bangladesh,4.1,BJ Watling,JD Ryder,Shafiul Islam,0,0,0,NA,0,NA,NA,NA,0
+476598,1st innings,New Zealand,Bangladesh,4.2,BJ Watling,JD Ryder,Shafiul Islam,1,0,1,NA,0,NA,NA,NA,0
+476598,1st innings,New Zealand,Bangladesh,4.3,JD Ryder,BJ Watling,Shafiul Islam,1,0,1,NA,0,NA,NA,NA,0
+476598,1st innings,New Zealand,Bangladesh,4.4,BJ Watling,JD Ryder,Shafiul Islam,0,0,0,NA,0,NA,NA,NA,0
+476598,1st innings,New Zealand,Bangladesh,4.5,BJ Watling,JD Ryder,Shafiul Islam,1,0,1,NA,0,NA,NA,NA,0
+476598,1st innings,New Zealand,Bangladesh,4.6,JD Ryder,BJ Watling,Shafiul Islam,4,0,4,NA,0,NA,NA,NA,0
+476598,1st innings,New Zealand,Bangladesh,5.1,BJ Watling,JD Ryder,Abdur Razzak,0,0,0,NA,0,NA,NA,NA,0
+476598,1st innings,New Zealand,Bangladesh,5.2,BJ Watling,JD Ryder,Abdur Razzak,1,0,1,NA,0,NA,NA,NA,0
+476598,1st innings,New Zealand,Bangladesh,5.3,JD Ryder,BJ Watling,Abdur Razzak,1,0,1,NA,0,NA,NA,NA,0
+476598,1st innings,New Zealand,Bangladesh,5.4,BJ Watling,JD Ryder,Abdur Razzak,0,0,0,NA,0,NA,NA,NA,0
+476598,1st innings,New Zealand,Bangladesh,5.5,BJ Watling,JD Ryder,Abdur Razzak,0,0,0,NA,0,NA,NA,NA,0
+476598,1st innings,New Zealand,Bangladesh,5.6,BJ Watling,JD Ryder,Abdur Razzak,0,0,0,NA,0,NA,NA,NA,0
+476598,1st innings,New Zealand,Bangladesh,6.1,JD Ryder,BJ Watling,Rubel Hossain,0,0,0,NA,0,NA,NA,NA,0
+476598,1st innings,New Zealand,Bangladesh,6.2,JD Ryder,BJ Watling,Rubel Hossain,0,0,0,NA,0,NA,NA,NA,0
+476598,1st innings,New Zealand,Bangladesh,6.3,JD Ryder,BJ Watling,Rubel Hossain,1,0,1,NA,0,NA,NA,NA,0
+476598,1st innings,New Zealand,Bangladesh,6.4,BJ Watling,JD Ryder,Rubel Hossain,0,0,0,NA,0,NA,NA,NA,0
+476598,1st innings,New Zealand,Bangladesh,6.5,BJ Watling,JD Ryder,Rubel Hossain,0,0,0,NA,0,NA,NA,NA,0
+476598,1st innings,New Zealand,Bangladesh,6.6,BJ Watling,JD Ryder,Rubel Hossain,4,0,4,NA,0,NA,NA,NA,0
+476598,1st innings,New Zealand,Bangladesh,7.1,JD Ryder,BJ Watling,Abdur Razzak,0,0,0,NA,0,NA,NA,NA,0
+476598,1st innings,New Zealand,Bangladesh,7.2,JD Ryder,BJ Watling,Abdur Razzak,1,0,1,NA,0,NA,NA,NA,0
+476598,1st innings,New Zealand,Bangladesh,7.3,BJ Watling,JD Ryder,Abdur Razzak,0,0,0,NA,0,NA,NA,NA,0
+476598,1st innings,New Zealand,Bangladesh,7.4,BJ Watling,JD Ryder,Abdur Razzak,2,0,2,NA,0,NA,NA,NA,0
+476598,1st innings,New Zealand,Bangladesh,7.5,BJ Watling,JD Ryder,Abdur Razzak,0,0,0,NA,0,NA,NA,NA,0
+476598,1st innings,New Zealand,Bangladesh,7.6,BJ Watling,JD Ryder,Abdur Razzak,0,0,0,NA,0,NA,NA,NA,0
+476598,1st innings,New Zealand,Bangladesh,8.1,JD Ryder,BJ Watling,Rubel Hossain,6,0,6,NA,0,NA,NA,NA,0
+476598,1st innings,New Zealand,Bangladesh,8.2,JD Ryder,BJ Watling,Rubel Hossain,0,0,0,NA,0,NA,NA,NA,0
+476598,1st innings,New Zealand,Bangladesh,8.3,JD Ryder,BJ Watling,Rubel Hossain,0,0,0,NA,0,NA,NA,NA,0
+476598,1st innings,New Zealand,Bangladesh,8.4,JD Ryder,BJ Watling,Rubel Hossain,1,0,1,NA,0,NA,NA,NA,0
+476598,1st innings,New Zealand,Bangladesh,8.5,BJ Watling,JD Ryder,Rubel Hossain,0,0,0,NA,0,NA,NA,NA,0
+476598,1st innings,New Zealand,Bangladesh,8.6,BJ Watling,JD Ryder,Rubel Hossain,0,0,0,NA,0,NA,NA,NA,0
+476598,1st innings,New Zealand,Bangladesh,9.1,JD Ryder,BJ Watling,Abdur Razzak,2,0,2,NA,0,NA,NA,NA,0
+476598,1st innings,New Zealand,Bangladesh,9.2,JD Ryder,BJ Watling,Abdur Razzak,1,0,1,NA,0,NA,NA,NA,0
+476598,1st innings,New Zealand,Bangladesh,9.3,BJ Watling,JD Ryder,Abdur Razzak,0,0,0,NA,0,NA,NA,NA,0
+476598,1st innings,New Zealand,Bangladesh,9.4,BJ Watling,JD Ryder,Abdur Razzak,0,0,0,NA,0,NA,NA,NA,0
+476598,1st innings,New Zealand,Bangladesh,9.5,BJ Watling,JD Ryder,Abdur Razzak,0,0,0,NA,0,NA,NA,NA,0
+476598,1st innings,New Zealand,Bangladesh,9.6,BJ Watling,JD Ryder,Abdur Razzak,1,0,1,NA,0,NA,NA,NA,0
+476598,1st innings,New Zealand,Bangladesh,10.1,BJ Watling,JD Ryder,Shakib Al Hasan,1,0,1,NA,0,NA,NA,NA,0
+476598,1st innings,New Zealand,Bangladesh,10.2,JD Ryder,BJ Watling,Shakib Al Hasan,0,0,0,NA,0,NA,NA,NA,0
+476598,1st innings,New Zealand,Bangladesh,10.3,JD Ryder,BJ Watling,Shakib Al Hasan,1,0,1,NA,0,NA,NA,NA,0
+476598,1st innings,New Zealand,Bangladesh,10.4,BJ Watling,JD Ryder,Shakib Al Hasan,0,0,0,NA,0,NA,NA,NA,0
+476598,1st innings,New Zealand,Bangladesh,10.5,BJ Watling,JD Ryder,Shakib Al Hasan,1,0,1,NA,0,NA,NA,NA,0
+476598,1st innings,New Zealand,Bangladesh,10.6,JD Ryder,BJ Watling,Shakib Al Hasan,0,0,0,NA,0,NA,NA,NA,0
+476598,1st innings,New Zealand,Bangladesh,11.1,BJ Watling,JD Ryder,Abdur Razzak,1,0,1,NA,0,NA,NA,NA,0
+476598,1st innings,New Zealand,Bangladesh,11.2,JD Ryder,BJ Watling,Abdur Razzak,0,0,0,NA,0,NA,NA,NA,0
+476598,1st innings,New Zealand,Bangladesh,11.3,JD Ryder,BJ Watling,Abdur Razzak,0,0,0,NA,0,NA,NA,NA,0
+476598,1st innings,New Zealand,Bangladesh,11.4,JD Ryder,BJ Watling,Abdur Razzak,0,0,0,NA,0,NA,NA,NA,0
+476598,1st innings,New Zealand,Bangladesh,11.5,JD Ryder,BJ Watling,Abdur Razzak,1,0,1,NA,0,NA,NA,NA,0
+476598,1st innings,New Zealand,Bangladesh,11.6,BJ Watling,JD Ryder,Abdur Razzak,1,0,1,NA,0,NA,NA,NA,0
+476598,1st innings,New Zealand,Bangladesh,12.1,BJ Watling,JD Ryder,Shakib Al Hasan,0,0,0,NA,0,NA,NA,NA,0
+476598,1st innings,New Zealand,Bangladesh,12.2,BJ Watling,JD Ryder,Shakib Al Hasan,0,0,0,NA,0,NA,NA,NA,0
+476598,1st innings,New Zealand,Bangladesh,12.3,BJ Watling,JD Ryder,Shakib Al Hasan,0,0,0,NA,0,NA,NA,NA,0
+476598,1st innings,New Zealand,Bangladesh,12.4,BJ Watling,JD Ryder,Shakib Al Hasan,1,0,1,NA,0,NA,NA,NA,0
+476598,1st innings,New Zealand,Bangladesh,12.5,JD Ryder,BJ Watling,Shakib Al Hasan,0,0,0,NA,0,NA,NA,NA,0
+476598,1st innings,New Zealand,Bangladesh,12.6,JD Ryder,BJ Watling,Shakib Al Hasan,1,0,1,NA,0,NA,NA,NA,0
+476598,1st innings,New Zealand,Bangladesh,13.1,JD Ryder,BJ Watling,Abdur Razzak,1,0,1,NA,0,NA,NA,NA,0
+476598,1st innings,New Zealand,Bangladesh,13.2,BJ Watling,JD Ryder,Abdur Razzak,0,0,0,NA,0,NA,NA,NA,0
+476598,1st innings,New Zealand,Bangladesh,13.3,BJ Watling,JD Ryder,Abdur Razzak,0,0,0,NA,1,caught,BJ Watling,Junaid Siddique,0
+476598,1st innings,New Zealand,Bangladesh,13.4,JD Ryder,LRPL Taylor,Abdur Razzak,0,0,0,NA,0,NA,NA,NA,0
+476598,1st innings,New Zealand,Bangladesh,13.5,JD Ryder,LRPL Taylor,Abdur Razzak,0,0,0,NA,0,NA,NA,NA,0
+476598,1st innings,New Zealand,Bangladesh,13.6,JD Ryder,LRPL Taylor,Abdur Razzak,0,0,0,NA,0,NA,NA,NA,0
+476598,1st innings,New Zealand,Bangladesh,14.1,LRPL Taylor,JD Ryder,Suhrawadi Shuvo,1,0,1,NA,0,NA,NA,NA,0
+476598,1st innings,New Zealand,Bangladesh,14.2,JD Ryder,LRPL Taylor,Suhrawadi Shuvo,0,0,0,NA,0,NA,NA,NA,0
+476598,1st innings,New Zealand,Bangladesh,14.3,JD Ryder,LRPL Taylor,Suhrawadi Shuvo,0,0,0,NA,0,NA,NA,NA,0
+476598,1st innings,New Zealand,Bangladesh,14.4,JD Ryder,LRPL Taylor,Suhrawadi Shuvo,0,0,0,NA,1,caught,JD Ryder,Imrul Kayes,0
+476598,1st innings,New Zealand,Bangladesh,14.5,LRPL Taylor,GD Elliott,Suhrawadi Shuvo,0,0,0,NA,0,NA,NA,NA,0
+476598,1st innings,New Zealand,Bangladesh,14.6,LRPL Taylor,GD Elliott,Suhrawadi Shuvo,0,0,0,NA,0,NA,NA,NA,0
+476598,1st innings,New Zealand,Bangladesh,15.1,GD Elliott,LRPL Taylor,Abdur Razzak,0,0,0,NA,0,NA,NA,NA,0
+476598,1st innings,New Zealand,Bangladesh,15.2,GD Elliott,LRPL Taylor,Abdur Razzak,0,0,0,NA,0,NA,NA,NA,0
+476598,1st innings,New Zealand,Bangladesh,15.3,GD Elliott,LRPL Taylor,Abdur Razzak,1,0,1,NA,0,NA,NA,NA,0
+476598,1st innings,New Zealand,Bangladesh,15.4,LRPL Taylor,GD Elliott,Abdur Razzak,0,0,0,NA,0,NA,NA,NA,0
+476598,1st innings,New Zealand,Bangladesh,15.5,LRPL Taylor,GD Elliott,Abdur Razzak,0,0,0,NA,0,NA,NA,NA,0
+476598,1st innings,New Zealand,Bangladesh,15.6,LRPL Taylor,GD Elliott,Abdur Razzak,4,0,4,NA,0,NA,NA,NA,0
+476598,1st innings,New Zealand,Bangladesh,16.1,GD Elliott,LRPL Taylor,Suhrawadi Shuvo,0,0,0,NA,0,NA,NA,NA,0
+476598,1st innings,New Zealand,Bangladesh,16.2,GD Elliott,LRPL Taylor,Suhrawadi Shuvo,0,0,0,NA,0,NA,NA,NA,0
+476598,1st innings,New Zealand,Bangladesh,16.3,GD Elliott,LRPL Taylor,Suhrawadi Shuvo,0,0,0,NA,0,NA,NA,NA,0
+476598,1st innings,New Zealand,Bangladesh,16.4,GD Elliott,LRPL Taylor,Suhrawadi Shuvo,0,0,0,NA,0,NA,NA,NA,0
+476598,1st innings,New Zealand,Bangladesh,16.5,GD Elliott,LRPL Taylor,Suhrawadi Shuvo,0,0,0,NA,0,NA,NA,NA,0
+476598,1st innings,New Zealand,Bangladesh,16.6,GD Elliott,LRPL Taylor,Suhrawadi Shuvo,1,0,1,NA,0,NA,NA,NA,0
+476598,1st innings,New Zealand,Bangladesh,17.1,GD Elliott,LRPL Taylor,Shakib Al Hasan,0,0,0,NA,0,NA,NA,NA,0
+476598,1st innings,New Zealand,Bangladesh,17.2,GD Elliott,LRPL Taylor,Shakib Al Hasan,0,0,0,NA,0,NA,NA,NA,0
+476598,1st innings,New Zealand,Bangladesh,17.3,GD Elliott,LRPL Taylor,Shakib Al Hasan,0,0,0,NA,1,bowled,GD Elliott,NA,0
+476598,1st innings,New Zealand,Bangladesh,17.4,DL Vettori,LRPL Taylor,Shakib Al Hasan,0,0,0,NA,0,NA,NA,NA,0
+476598,1st innings,New Zealand,Bangladesh,17.5,DL Vettori,LRPL Taylor,Shakib Al Hasan,0,0,0,NA,0,NA,NA,NA,0
+476598,1st innings,New Zealand,Bangladesh,17.6,DL Vettori,LRPL Taylor,Shakib Al Hasan,1,0,1,NA,0,NA,NA,NA,0
+476598,1st innings,New Zealand,Bangladesh,18.1,DL Vettori,LRPL Taylor,Mahmudullah,3,0,3,NA,0,NA,NA,NA,0
+476598,1st innings,New Zealand,Bangladesh,18.2,LRPL Taylor,DL Vettori,Mahmudullah,0,0,0,NA,0,NA,NA,NA,0
+476598,1st innings,New Zealand,Bangladesh,18.3,LRPL Taylor,DL Vettori,Mahmudullah,0,0,0,NA,0,NA,NA,NA,0
+476598,1st innings,New Zealand,Bangladesh,18.4,LRPL Taylor,DL Vettori,Mahmudullah,0,1,1,wides,0,NA,NA,NA,0
+476598,1st innings,New Zealand,Bangladesh,18.5,LRPL Taylor,DL Vettori,Mahmudullah,1,0,1,NA,0,NA,NA,NA,0
+476598,1st innings,New Zealand,Bangladesh,18.6,DL Vettori,LRPL Taylor,Mahmudullah,0,0,0,NA,0,NA,NA,NA,0
+476598,1st innings,New Zealand,Bangladesh,18.7,DL Vettori,LRPL Taylor,Mahmudullah,1,0,1,NA,0,NA,NA,NA,0
+476598,1st innings,New Zealand,Bangladesh,19.1,DL Vettori,LRPL Taylor,Shakib Al Hasan,1,0,1,NA,0,NA,NA,NA,0
+476598,1st innings,New Zealand,Bangladesh,19.2,LRPL Taylor,DL Vettori,Shakib Al Hasan,0,1,1,noballs,0,NA,NA,NA,0
+476598,1st innings,New Zealand,Bangladesh,19.3,LRPL Taylor,DL Vettori,Shakib Al Hasan,1,0,1,NA,0,NA,NA,NA,0
+476598,1st innings,New Zealand,Bangladesh,19.4,DL Vettori,LRPL Taylor,Shakib Al Hasan,0,0,0,NA,0,NA,NA,NA,0
+476598,1st innings,New Zealand,Bangladesh,19.5,DL Vettori,LRPL Taylor,Shakib Al Hasan,1,0,1,NA,0,NA,NA,NA,0
+476598,1st innings,New Zealand,Bangladesh,19.6,LRPL Taylor,DL Vettori,Shakib Al Hasan,1,0,1,NA,0,NA,NA,NA,0
+476598,1st innings,New Zealand,Bangladesh,19.7,DL Vettori,LRPL Taylor,Shakib Al Hasan,0,0,0,NA,0,NA,NA,NA,0
+476598,1st innings,New Zealand,Bangladesh,20.1,LRPL Taylor,DL Vettori,Suhrawadi Shuvo,1,0,1,NA,0,NA,NA,NA,0
+476598,1st innings,New Zealand,Bangladesh,20.2,DL Vettori,LRPL Taylor,Suhrawadi Shuvo,0,0,0,NA,0,NA,NA,NA,0
+476598,1st innings,New Zealand,Bangladesh,20.3,DL Vettori,LRPL Taylor,Suhrawadi Shuvo,0,0,0,NA,0,NA,NA,NA,0
+476598,1st innings,New Zealand,Bangladesh,20.4,DL Vettori,LRPL Taylor,Suhrawadi Shuvo,1,0,1,NA,0,NA,NA,NA,0
+476598,1st innings,New Zealand,Bangladesh,20.5,LRPL Taylor,DL Vettori,Suhrawadi Shuvo,0,0,0,NA,0,NA,NA,NA,0
+476598,1st innings,New Zealand,Bangladesh,20.6,LRPL Taylor,DL Vettori,Suhrawadi Shuvo,0,0,0,NA,0,NA,NA,NA,0
+476598,1st innings,New Zealand,Bangladesh,21.1,DL Vettori,LRPL Taylor,Shafiul Islam,1,0,1,NA,0,NA,NA,NA,0
+476598,1st innings,New Zealand,Bangladesh,21.2,LRPL Taylor,DL Vettori,Shafiul Islam,0,0,0,NA,0,NA,NA,NA,0
+476598,1st innings,New Zealand,Bangladesh,21.3,LRPL Taylor,DL Vettori,Shafiul Islam,0,0,0,NA,0,NA,NA,NA,0
+476598,1st innings,New Zealand,Bangladesh,21.4,LRPL Taylor,DL Vettori,Shafiul Islam,0,0,0,NA,0,NA,NA,NA,0
+476598,1st innings,New Zealand,Bangladesh,21.5,LRPL Taylor,DL Vettori,Shafiul Islam,0,0,0,NA,0,NA,NA,NA,0
+476598,1st innings,New Zealand,Bangladesh,21.6,LRPL Taylor,DL Vettori,Shafiul Islam,2,0,2,NA,0,NA,NA,NA,0
+476598,1st innings,New Zealand,Bangladesh,22.1,DL Vettori,LRPL Taylor,Suhrawadi Shuvo,0,0,0,NA,1,caught and bowled,DL Vettori,NA,0
+476598,1st innings,New Zealand,Bangladesh,22.2,SL Stewart,LRPL Taylor,Suhrawadi Shuvo,0,0,0,NA,0,NA,NA,NA,0
+476598,1st innings,New Zealand,Bangladesh,22.3,SL Stewart,LRPL Taylor,Suhrawadi Shuvo,0,0,0,NA,0,NA,NA,NA,0
+476598,1st innings,New Zealand,Bangladesh,22.4,SL Stewart,LRPL Taylor,Suhrawadi Shuvo,0,0,0,NA,0,NA,NA,NA,0
+476598,1st innings,New Zealand,Bangladesh,22.5,SL Stewart,LRPL Taylor,Suhrawadi Shuvo,0,0,0,NA,0,NA,NA,NA,0
+476598,1st innings,New Zealand,Bangladesh,22.6,SL Stewart,LRPL Taylor,Suhrawadi Shuvo,0,0,0,NA,0,NA,NA,NA,0
+476598,1st innings,New Zealand,Bangladesh,23.1,LRPL Taylor,SL Stewart,Shakib Al Hasan,0,0,0,NA,0,NA,NA,NA,0
+476598,1st innings,New Zealand,Bangladesh,23.2,LRPL Taylor,SL Stewart,Shakib Al Hasan,0,0,0,NA,0,NA,NA,NA,0
+476598,1st innings,New Zealand,Bangladesh,23.3,LRPL Taylor,SL Stewart,Shakib Al Hasan,0,0,0,NA,0,NA,NA,NA,0
+476598,1st innings,New Zealand,Bangladesh,23.4,LRPL Taylor,SL Stewart,Shakib Al Hasan,0,0,0,NA,0,NA,NA,NA,0
+476598,1st innings,New Zealand,Bangladesh,23.5,LRPL Taylor,SL Stewart,Shakib Al Hasan,0,0,0,NA,0,NA,NA,NA,0
+476598,1st innings,New Zealand,Bangladesh,23.6,LRPL Taylor,SL Stewart,Shakib Al Hasan,0,0,0,NA,0,NA,NA,NA,0
+476598,1st innings,New Zealand,Bangladesh,24.1,SL Stewart,LRPL Taylor,Suhrawadi Shuvo,0,0,0,NA,0,NA,NA,NA,0
+476598,1st innings,New Zealand,Bangladesh,24.2,SL Stewart,LRPL Taylor,Suhrawadi Shuvo,1,0,1,NA,0,NA,NA,NA,0
+476598,1st innings,New Zealand,Bangladesh,24.3,LRPL Taylor,SL Stewart,Suhrawadi Shuvo,0,0,0,NA,0,NA,NA,NA,0
+476598,1st innings,New Zealand,Bangladesh,24.4,LRPL Taylor,SL Stewart,Suhrawadi Shuvo,0,0,0,NA,0,NA,NA,NA,0
+476598,1st innings,New Zealand,Bangladesh,24.5,LRPL Taylor,SL Stewart,Suhrawadi Shuvo,1,0,1,NA,0,NA,NA,NA,0
+476598,1st innings,New Zealand,Bangladesh,24.6,SL Stewart,LRPL Taylor,Suhrawadi Shuvo,0,0,0,NA,0,NA,NA,NA,0
+476598,1st innings,New Zealand,Bangladesh,25.1,LRPL Taylor,SL Stewart,Shakib Al Hasan,0,0,0,NA,0,NA,NA,NA,0
+476598,1st innings,New Zealand,Bangladesh,25.2,LRPL Taylor,SL Stewart,Shakib Al Hasan,1,0,1,NA,0,NA,NA,NA,0
+476598,1st innings,New Zealand,Bangladesh,25.3,SL Stewart,LRPL Taylor,Shakib Al Hasan,0,0,0,NA,0,NA,NA,NA,0
+476598,1st innings,New Zealand,Bangladesh,25.4,SL Stewart,LRPL Taylor,Shakib Al Hasan,2,0,2,NA,0,NA,NA,NA,0
+476598,1st innings,New Zealand,Bangladesh,25.5,SL Stewart,LRPL Taylor,Shakib Al Hasan,0,0,0,NA,0,NA,NA,NA,0
+476598,1st innings,New Zealand,Bangladesh,25.6,SL Stewart,LRPL Taylor,Shakib Al Hasan,1,0,1,NA,0,NA,NA,NA,0
+476598,1st innings,New Zealand,Bangladesh,26.1,SL Stewart,LRPL Taylor,Suhrawadi Shuvo,0,0,0,NA,0,NA,NA,NA,0
+476598,1st innings,New Zealand,Bangladesh,26.2,SL Stewart,LRPL Taylor,Suhrawadi Shuvo,0,0,0,NA,0,NA,NA,NA,0
+476598,1st innings,New Zealand,Bangladesh,26.3,SL Stewart,LRPL Taylor,Suhrawadi Shuvo,0,0,0,NA,0,NA,NA,NA,0
+476598,1st innings,New Zealand,Bangladesh,26.4,SL Stewart,LRPL Taylor,Suhrawadi Shuvo,0,0,0,NA,0,NA,NA,NA,0
+476598,1st innings,New Zealand,Bangladesh,26.5,SL Stewart,LRPL Taylor,Suhrawadi Shuvo,1,0,1,NA,0,NA,NA,NA,0
+476598,1st innings,New Zealand,Bangladesh,26.6,LRPL Taylor,SL Stewart,Suhrawadi Shuvo,0,0,0,NA,0,NA,NA,NA,0
+476598,1st innings,New Zealand,Bangladesh,27.1,SL Stewart,LRPL Taylor,Abdur Razzak,4,0,4,NA,0,NA,NA,NA,0
+476598,1st innings,New Zealand,Bangladesh,27.2,SL Stewart,LRPL Taylor,Abdur Razzak,0,0,0,NA,0,NA,NA,NA,0
+476598,1st innings,New Zealand,Bangladesh,27.3,SL Stewart,LRPL Taylor,Abdur Razzak,0,0,0,NA,0,NA,NA,NA,0
+476598,1st innings,New Zealand,Bangladesh,27.4,SL Stewart,LRPL Taylor,Abdur Razzak,1,0,1,NA,0,NA,NA,NA,0
+476598,1st innings,New Zealand,Bangladesh,27.5,LRPL Taylor,SL Stewart,Abdur Razzak,1,0,1,NA,0,NA,NA,NA,0
+476598,1st innings,New Zealand,Bangladesh,27.6,SL Stewart,LRPL Taylor,Abdur Razzak,1,0,1,NA,0,NA,NA,NA,0
+476598,1st innings,New Zealand,Bangladesh,28.1,SL Stewart,LRPL Taylor,Suhrawadi Shuvo,0,0,0,NA,0,NA,NA,NA,0
+476598,1st innings,New Zealand,Bangladesh,28.2,SL Stewart,LRPL Taylor,Suhrawadi Shuvo,0,0,0,NA,0,NA,NA,NA,0
+476598,1st innings,New Zealand,Bangladesh,28.3,SL Stewart,LRPL Taylor,Suhrawadi Shuvo,1,0,1,NA,0,NA,NA,NA,0
+476598,1st innings,New Zealand,Bangladesh,28.4,LRPL Taylor,SL Stewart,Suhrawadi Shuvo,1,0,1,NA,0,NA,NA,NA,0
+476598,1st innings,New Zealand,Bangladesh,28.5,SL Stewart,LRPL Taylor,Suhrawadi Shuvo,0,0,0,NA,0,NA,NA,NA,0
+476598,1st innings,New Zealand,Bangladesh,28.6,SL Stewart,LRPL Taylor,Suhrawadi Shuvo,0,0,0,NA,0,NA,NA,NA,0
+476598,1st innings,New Zealand,Bangladesh,29.1,LRPL Taylor,SL Stewart,Abdur Razzak,0,0,0,NA,0,NA,NA,NA,0
+476598,1st innings,New Zealand,Bangladesh,29.2,LRPL Taylor,SL Stewart,Abdur Razzak,0,0,0,NA,0,NA,NA,NA,0
+476598,1st innings,New Zealand,Bangladesh,29.3,LRPL Taylor,SL Stewart,Abdur Razzak,0,0,0,NA,0,NA,NA,NA,0
+476598,1st innings,New Zealand,Bangladesh,29.4,LRPL Taylor,SL Stewart,Abdur Razzak,1,0,1,NA,0,NA,NA,NA,0
+476598,1st innings,New Zealand,Bangladesh,29.5,SL Stewart,LRPL Taylor,Abdur Razzak,0,0,0,NA,0,NA,NA,NA,0
+476598,1st innings,New Zealand,Bangladesh,29.6,SL Stewart,LRPL Taylor,Abdur Razzak,1,0,1,NA,0,NA,NA,NA,0
+476598,1st innings,New Zealand,Bangladesh,30.1,SL Stewart,LRPL Taylor,Rubel Hossain,0,0,0,NA,0,NA,NA,NA,0
+476598,1st innings,New Zealand,Bangladesh,30.2,SL Stewart,LRPL Taylor,Rubel Hossain,0,0,0,NA,0,NA,NA,NA,0
+476598,1st innings,New Zealand,Bangladesh,30.3,SL Stewart,LRPL Taylor,Rubel Hossain,1,0,1,NA,0,NA,NA,NA,0
+476598,1st innings,New Zealand,Bangladesh,30.4,LRPL Taylor,SL Stewart,Rubel Hossain,0,0,0,NA,0,NA,NA,NA,0
+476598,1st innings,New Zealand,Bangladesh,30.5,LRPL Taylor,SL Stewart,Rubel Hossain,0,0,0,NA,0,NA,NA,NA,0
+476598,1st innings,New Zealand,Bangladesh,30.6,LRPL Taylor,SL Stewart,Rubel Hossain,0,0,0,NA,0,NA,NA,NA,0
+476598,1st innings,New Zealand,Bangladesh,31.1,SL Stewart,LRPL Taylor,Suhrawadi Shuvo,0,0,0,NA,0,NA,NA,NA,0
+476598,1st innings,New Zealand,Bangladesh,31.2,SL Stewart,LRPL Taylor,Suhrawadi Shuvo,0,0,0,NA,1,lbw,SL Stewart,NA,0
+476598,1st innings,New Zealand,Bangladesh,31.3,NL McCullum,LRPL Taylor,Suhrawadi Shuvo,0,0,0,NA,0,NA,NA,NA,0
+476598,1st innings,New Zealand,Bangladesh,31.4,NL McCullum,LRPL Taylor,Suhrawadi Shuvo,0,0,0,NA,0,NA,NA,NA,0
+476598,1st innings,New Zealand,Bangladesh,31.5,NL McCullum,LRPL Taylor,Suhrawadi Shuvo,2,0,2,NA,0,NA,NA,NA,0
+476598,1st innings,New Zealand,Bangladesh,31.6,NL McCullum,LRPL Taylor,Suhrawadi Shuvo,0,0,0,NA,0,NA,NA,NA,0
+476598,1st innings,New Zealand,Bangladesh,32.1,LRPL Taylor,NL McCullum,Rubel Hossain,0,0,0,NA,0,NA,NA,NA,0
+476598,1st innings,New Zealand,Bangladesh,32.2,LRPL Taylor,NL McCullum,Rubel Hossain,1,0,1,NA,0,NA,NA,NA,0
+476598,1st innings,New Zealand,Bangladesh,32.3,NL McCullum,LRPL Taylor,Rubel Hossain,0,0,0,NA,0,NA,NA,NA,0
+476598,1st innings,New Zealand,Bangladesh,32.4,NL McCullum,LRPL Taylor,Rubel Hossain,0,0,0,NA,1,bowled,NL McCullum,NA,0
+476598,1st innings,New Zealand,Bangladesh,32.5,KD Mills,LRPL Taylor,Rubel Hossain,0,0,0,NA,0,NA,NA,NA,0
+476598,1st innings,New Zealand,Bangladesh,32.6,KD Mills,LRPL Taylor,Rubel Hossain,0,0,0,NA,0,NA,NA,NA,0
+476598,1st innings,New Zealand,Bangladesh,33.1,LRPL Taylor,KD Mills,Suhrawadi Shuvo,0,0,0,NA,0,NA,NA,NA,0
+476598,1st innings,New Zealand,Bangladesh,33.2,LRPL Taylor,KD Mills,Suhrawadi Shuvo,0,0,0,NA,0,NA,NA,NA,0
+476598,1st innings,New Zealand,Bangladesh,33.3,LRPL Taylor,KD Mills,Suhrawadi Shuvo,0,0,0,NA,0,NA,NA,NA,0
+476598,1st innings,New Zealand,Bangladesh,33.4,LRPL Taylor,KD Mills,Suhrawadi Shuvo,0,0,0,NA,0,NA,NA,NA,0
+476598,1st innings,New Zealand,Bangladesh,33.5,LRPL Taylor,KD Mills,Suhrawadi Shuvo,0,0,0,NA,0,NA,NA,NA,0
+476598,1st innings,New Zealand,Bangladesh,33.6,LRPL Taylor,KD Mills,Suhrawadi Shuvo,0,0,0,NA,0,NA,NA,NA,0
+476598,1st innings,New Zealand,Bangladesh,34.1,KD Mills,LRPL Taylor,Rubel Hossain,0,0,0,NA,0,NA,NA,NA,0
+476598,1st innings,New Zealand,Bangladesh,34.2,KD Mills,LRPL Taylor,Rubel Hossain,1,0,1,NA,0,NA,NA,NA,0
+476598,1st innings,New Zealand,Bangladesh,34.3,LRPL Taylor,KD Mills,Rubel Hossain,0,0,0,NA,0,NA,NA,NA,0
+476598,1st innings,New Zealand,Bangladesh,34.4,LRPL Taylor,KD Mills,Rubel Hossain,1,0,1,NA,0,NA,NA,NA,0
+476598,1st innings,New Zealand,Bangladesh,34.5,KD Mills,LRPL Taylor,Rubel Hossain,0,0,0,NA,0,NA,NA,NA,0
+476598,1st innings,New Zealand,Bangladesh,34.6,KD Mills,LRPL Taylor,Rubel Hossain,0,0,0,NA,0,NA,NA,NA,0
+476598,1st innings,New Zealand,Bangladesh,35.1,LRPL Taylor,KD Mills,Shakib Al Hasan,0,0,0,NA,0,NA,NA,NA,0
+476598,1st innings,New Zealand,Bangladesh,35.2,LRPL Taylor,KD Mills,Shakib Al Hasan,0,0,0,NA,0,NA,NA,NA,0
+476598,1st innings,New Zealand,Bangladesh,35.3,LRPL Taylor,KD Mills,Shakib Al Hasan,1,0,1,NA,0,NA,NA,NA,0
+476598,1st innings,New Zealand,Bangladesh,35.4,KD Mills,LRPL Taylor,Shakib Al Hasan,0,0,0,NA,0,NA,NA,NA,0
+476598,1st innings,New Zealand,Bangladesh,35.5,KD Mills,LRPL Taylor,Shakib Al Hasan,0,0,0,NA,0,NA,NA,NA,0
+476598,1st innings,New Zealand,Bangladesh,35.6,KD Mills,LRPL Taylor,Shakib Al Hasan,2,0,2,NA,0,NA,NA,NA,0
+476598,1st innings,New Zealand,Bangladesh,36.1,LRPL Taylor,KD Mills,Abdur Razzak,1,0,1,NA,0,NA,NA,NA,0
+476598,1st innings,New Zealand,Bangladesh,36.2,KD Mills,LRPL Taylor,Abdur Razzak,0,0,0,NA,0,NA,NA,NA,0
+476598,1st innings,New Zealand,Bangladesh,36.3,KD Mills,LRPL Taylor,Abdur Razzak,0,0,0,NA,0,NA,NA,NA,0
+476598,1st innings,New Zealand,Bangladesh,36.4,KD Mills,LRPL Taylor,Abdur Razzak,6,0,6,NA,0,NA,NA,NA,0
+476598,1st innings,New Zealand,Bangladesh,36.5,KD Mills,LRPL Taylor,Abdur Razzak,0,0,0,NA,0,NA,NA,NA,0
+476598,1st innings,New Zealand,Bangladesh,36.6,KD Mills,LRPL Taylor,Abdur Razzak,0,0,0,NA,0,NA,NA,NA,0
+476598,1st innings,New Zealand,Bangladesh,37.1,LRPL Taylor,KD Mills,Rubel Hossain,0,0,0,NA,0,NA,NA,NA,0
+476598,1st innings,New Zealand,Bangladesh,37.2,LRPL Taylor,KD Mills,Rubel Hossain,6,0,6,NA,0,NA,NA,NA,0
+476598,1st innings,New Zealand,Bangladesh,37.3,LRPL Taylor,KD Mills,Rubel Hossain,4,0,4,NA,0,NA,NA,NA,0
+476598,1st innings,New Zealand,Bangladesh,37.4,LRPL Taylor,KD Mills,Rubel Hossain,6,0,6,NA,0,NA,NA,NA,0
+476598,1st innings,New Zealand,Bangladesh,37.5,LRPL Taylor,KD Mills,Rubel Hossain,1,0,1,NA,0,NA,NA,NA,0
+476598,1st innings,New Zealand,Bangladesh,37.6,KD Mills,LRPL Taylor,Rubel Hossain,0,0,0,NA,0,NA,NA,NA,0
+476598,1st innings,New Zealand,Bangladesh,38.1,LRPL Taylor,KD Mills,Abdur Razzak,4,0,4,NA,0,NA,NA,NA,0
+476598,1st innings,New Zealand,Bangladesh,38.2,LRPL Taylor,KD Mills,Abdur Razzak,0,0,0,NA,0,NA,NA,NA,0
+476598,1st innings,New Zealand,Bangladesh,38.3,LRPL Taylor,KD Mills,Abdur Razzak,1,0,1,NA,0,NA,NA,NA,0
+476598,1st innings,New Zealand,Bangladesh,38.4,KD Mills,LRPL Taylor,Abdur Razzak,1,0,1,NA,0,NA,NA,NA,0
+476598,1st innings,New Zealand,Bangladesh,38.5,LRPL Taylor,KD Mills,Abdur Razzak,6,0,6,NA,0,NA,NA,NA,0
+476598,1st innings,New Zealand,Bangladesh,38.6,LRPL Taylor,KD Mills,Abdur Razzak,1,0,1,NA,0,NA,NA,NA,0
+476598,1st innings,New Zealand,Bangladesh,39.1,LRPL Taylor,KD Mills,Shakib Al Hasan,1,0,1,NA,0,NA,NA,NA,0
+476598,1st innings,New Zealand,Bangladesh,39.2,KD Mills,LRPL Taylor,Shakib Al Hasan,6,0,6,NA,0,NA,NA,NA,0
+476598,1st innings,New Zealand,Bangladesh,39.3,KD Mills,LRPL Taylor,Shakib Al Hasan,6,0,6,NA,0,NA,NA,NA,0
+476598,1st innings,New Zealand,Bangladesh,39.4,KD Mills,LRPL Taylor,Shakib Al Hasan,2,0,2,NA,0,NA,NA,NA,0
+476598,1st innings,New Zealand,Bangladesh,39.5,KD Mills,LRPL Taylor,Shakib Al Hasan,0,0,0,NA,0,NA,NA,NA,0
+476598,1st innings,New Zealand,Bangladesh,39.6,KD Mills,LRPL Taylor,Shakib Al Hasan,0,0,0,NA,0,NA,NA,NA,0
+476598,1st innings,New Zealand,Bangladesh,40.1,LRPL Taylor,KD Mills,Suhrawadi Shuvo,0,0,0,NA,0,NA,NA,NA,0
+476598,1st innings,New Zealand,Bangladesh,40.2,LRPL Taylor,KD Mills,Suhrawadi Shuvo,1,0,1,NA,0,NA,NA,NA,0
+476598,1st innings,New Zealand,Bangladesh,40.3,KD Mills,LRPL Taylor,Suhrawadi Shuvo,0,0,0,NA,0,NA,NA,NA,0
+476598,1st innings,New Zealand,Bangladesh,40.4,KD Mills,LRPL Taylor,Suhrawadi Shuvo,0,0,0,NA,0,NA,NA,NA,0
+476598,1st innings,New Zealand,Bangladesh,40.5,KD Mills,LRPL Taylor,Suhrawadi Shuvo,1,0,1,NA,0,NA,NA,NA,0
+476598,1st innings,New Zealand,Bangladesh,40.6,LRPL Taylor,KD Mills,Suhrawadi Shuvo,1,0,1,NA,0,NA,NA,NA,0
+476598,1st innings,New Zealand,Bangladesh,41.1,LRPL Taylor,KD Mills,Shakib Al Hasan,6,0,6,NA,0,NA,NA,NA,0
+476598,1st innings,New Zealand,Bangladesh,41.2,LRPL Taylor,KD Mills,Shakib Al Hasan,1,0,1,NA,0,NA,NA,NA,0
+476598,1st innings,New Zealand,Bangladesh,41.3,KD Mills,LRPL Taylor,Shakib Al Hasan,0,1,1,noballs,0,NA,NA,NA,0
+476598,1st innings,New Zealand,Bangladesh,41.4,KD Mills,LRPL Taylor,Shakib Al Hasan,1,0,1,NA,0,NA,NA,NA,0
+476598,1st innings,New Zealand,Bangladesh,41.5,LRPL Taylor,KD Mills,Shakib Al Hasan,3,0,3,NA,0,NA,NA,NA,0
+476598,1st innings,New Zealand,Bangladesh,41.6,KD Mills,LRPL Taylor,Shakib Al Hasan,0,0,0,NA,0,NA,NA,NA,0
+476598,1st innings,New Zealand,Bangladesh,41.7,KD Mills,LRPL Taylor,Shakib Al Hasan,0,0,0,NA,1,caught,KD Mills,Rubel Hossain,0
+476598,1st innings,New Zealand,Bangladesh,42.1,TG Southee,LRPL Taylor,Mahmudullah,0,0,0,NA,0,NA,NA,NA,0
+476598,1st innings,New Zealand,Bangladesh,42.2,TG Southee,LRPL Taylor,Mahmudullah,0,0,0,NA,0,NA,NA,NA,0
+476598,1st innings,New Zealand,Bangladesh,42.3,TG Southee,LRPL Taylor,Mahmudullah,0,0,0,NA,0,NA,NA,NA,0
+476598,1st innings,New Zealand,Bangladesh,42.4,TG Southee,LRPL Taylor,Mahmudullah,0,0,0,NA,1,lbw,TG Southee,NA,0
+476598,1st innings,New Zealand,Bangladesh,42.5,AJ McKay,LRPL Taylor,Mahmudullah,0,0,0,NA,1,caught,AJ McKay,Mushfiqur Rahim,0
+476598,2nd innings,Bangladesh,New Zealand,0.1,Imrul Kayes,Shahriar Nafees,KD Mills,3,1,4,noballs,0,NA,NA,NA,1
+476598,2nd innings,Bangladesh,New Zealand,0.2,Shahriar Nafees,Imrul Kayes,KD Mills,1,0,1,NA,0,NA,NA,NA,1
+476598,2nd innings,Bangladesh,New Zealand,0.3,Imrul Kayes,Shahriar Nafees,KD Mills,2,0,2,NA,0,NA,NA,NA,1
+476598,2nd innings,Bangladesh,New Zealand,0.4,Imrul Kayes,Shahriar Nafees,KD Mills,0,0,0,NA,0,NA,NA,NA,1
+476598,2nd innings,Bangladesh,New Zealand,0.5,Imrul Kayes,Shahriar Nafees,KD Mills,0,0,0,NA,0,NA,NA,NA,1
+476598,2nd innings,Bangladesh,New Zealand,0.6,Imrul Kayes,Shahriar Nafees,KD Mills,1,0,1,NA,0,NA,NA,NA,1
+476598,2nd innings,Bangladesh,New Zealand,0.7,Shahriar Nafees,Imrul Kayes,KD Mills,0,0,0,NA,0,NA,NA,NA,1
+476598,2nd innings,Bangladesh,New Zealand,1.1,Imrul Kayes,Shahriar Nafees,TG Southee,0,0,0,NA,0,NA,NA,NA,1
+476598,2nd innings,Bangladesh,New Zealand,1.2,Imrul Kayes,Shahriar Nafees,TG Southee,0,0,0,NA,0,NA,NA,NA,1
+476598,2nd innings,Bangladesh,New Zealand,1.3,Imrul Kayes,Shahriar Nafees,TG Southee,0,0,0,NA,0,NA,NA,NA,1
+476598,2nd innings,Bangladesh,New Zealand,1.4,Imrul Kayes,Shahriar Nafees,TG Southee,0,0,0,NA,0,NA,NA,NA,1
+476598,2nd innings,Bangladesh,New Zealand,1.5,Imrul Kayes,Shahriar Nafees,TG Southee,4,0,4,NA,0,NA,NA,NA,1
+476598,2nd innings,Bangladesh,New Zealand,1.6,Imrul Kayes,Shahriar Nafees,TG Southee,4,0,4,NA,0,NA,NA,NA,1
+476598,2nd innings,Bangladesh,New Zealand,2.1,Shahriar Nafees,Imrul Kayes,KD Mills,2,0,2,NA,0,NA,NA,NA,1
+476598,2nd innings,Bangladesh,New Zealand,2.2,Shahriar Nafees,Imrul Kayes,KD Mills,4,0,4,NA,0,NA,NA,NA,1
+476598,2nd innings,Bangladesh,New Zealand,2.3,Shahriar Nafees,Imrul Kayes,KD Mills,0,0,0,NA,0,NA,NA,NA,1
+476598,2nd innings,Bangladesh,New Zealand,2.4,Shahriar Nafees,Imrul Kayes,KD Mills,0,0,0,NA,0,NA,NA,NA,1
+476598,2nd innings,Bangladesh,New Zealand,2.5,Shahriar Nafees,Imrul Kayes,KD Mills,0,0,0,NA,0,NA,NA,NA,1
+476598,2nd innings,Bangladesh,New Zealand,2.6,Shahriar Nafees,Imrul Kayes,KD Mills,2,0,2,NA,0,NA,NA,NA,1
+476598,2nd innings,Bangladesh,New Zealand,3.1,Imrul Kayes,Shahriar Nafees,NL McCullum,0,0,0,NA,0,NA,NA,NA,1
+476598,2nd innings,Bangladesh,New Zealand,3.2,Imrul Kayes,Shahriar Nafees,NL McCullum,0,0,0,NA,0,NA,NA,NA,1
+476598,2nd innings,Bangladesh,New Zealand,3.3,Imrul Kayes,Shahriar Nafees,NL McCullum,0,0,0,NA,0,NA,NA,NA,1
+476598,2nd innings,Bangladesh,New Zealand,3.4,Imrul Kayes,Shahriar Nafees,NL McCullum,0,0,0,NA,0,NA,NA,NA,1
+476598,2nd innings,Bangladesh,New Zealand,3.5,Imrul Kayes,Shahriar Nafees,NL McCullum,0,0,0,NA,0,NA,NA,NA,1
+476598,2nd innings,Bangladesh,New Zealand,3.6,Imrul Kayes,Shahriar Nafees,NL McCullum,2,0,2,NA,0,NA,NA,NA,1
+476598,2nd innings,Bangladesh,New Zealand,4.1,Shahriar Nafees,Imrul Kayes,KD Mills,4,0,4,NA,0,NA,NA,NA,1
+476598,2nd innings,Bangladesh,New Zealand,4.2,Shahriar Nafees,Imrul Kayes,KD Mills,0,0,0,NA,0,NA,NA,NA,1
+476598,2nd innings,Bangladesh,New Zealand,4.3,Shahriar Nafees,Imrul Kayes,KD Mills,0,0,0,NA,0,NA,NA,NA,1
+476598,2nd innings,Bangladesh,New Zealand,4.4,Shahriar Nafees,Imrul Kayes,KD Mills,0,0,0,NA,0,NA,NA,NA,1
+476598,2nd innings,Bangladesh,New Zealand,4.5,Shahriar Nafees,Imrul Kayes,KD Mills,4,0,4,NA,0,NA,NA,NA,1
+476598,2nd innings,Bangladesh,New Zealand,4.6,Shahriar Nafees,Imrul Kayes,KD Mills,1,0,1,NA,0,NA,NA,NA,1
+476598,2nd innings,Bangladesh,New Zealand,5.1,Shahriar Nafees,Imrul Kayes,TG Southee,0,0,0,NA,0,NA,NA,NA,1
+476598,2nd innings,Bangladesh,New Zealand,5.2,Shahriar Nafees,Imrul Kayes,TG Southee,0,0,0,NA,0,NA,NA,NA,1
+476598,2nd innings,Bangladesh,New Zealand,5.3,Shahriar Nafees,Imrul Kayes,TG Southee,1,0,1,NA,0,NA,NA,NA,1
+476598,2nd innings,Bangladesh,New Zealand,5.4,Imrul Kayes,Shahriar Nafees,TG Southee,0,0,0,NA,0,NA,NA,NA,1
+476598,2nd innings,Bangladesh,New Zealand,5.5,Imrul Kayes,Shahriar Nafees,TG Southee,0,0,0,NA,0,NA,NA,NA,1
+476598,2nd innings,Bangladesh,New Zealand,5.6,Imrul Kayes,Shahriar Nafees,TG Southee,0,0,0,NA,0,NA,NA,NA,1
+476598,2nd innings,Bangladesh,New Zealand,6.1,Shahriar Nafees,Imrul Kayes,NL McCullum,0,0,0,NA,0,NA,NA,NA,1
+476598,2nd innings,Bangladesh,New Zealand,6.2,Shahriar Nafees,Imrul Kayes,NL McCullum,0,0,0,NA,0,NA,NA,NA,1
+476598,2nd innings,Bangladesh,New Zealand,6.3,Shahriar Nafees,Imrul Kayes,NL McCullum,0,0,0,NA,0,NA,NA,NA,1
+476598,2nd innings,Bangladesh,New Zealand,6.4,Shahriar Nafees,Imrul Kayes,NL McCullum,4,0,4,NA,0,NA,NA,NA,1
+476598,2nd innings,Bangladesh,New Zealand,6.5,Shahriar Nafees,Imrul Kayes,NL McCullum,0,0,0,NA,0,NA,NA,NA,1
+476598,2nd innings,Bangladesh,New Zealand,6.6,Shahriar Nafees,Imrul Kayes,NL McCullum,1,0,1,NA,0,NA,NA,NA,1
+476598,2nd innings,Bangladesh,New Zealand,7.1,Shahriar Nafees,Imrul Kayes,TG Southee,0,0,0,NA,0,NA,NA,NA,1
+476598,2nd innings,Bangladesh,New Zealand,7.2,Shahriar Nafees,Imrul Kayes,TG Southee,1,1,2,noballs,0,NA,NA,NA,1
+476598,2nd innings,Bangladesh,New Zealand,7.3,Imrul Kayes,Shahriar Nafees,TG Southee,1,0,1,NA,0,NA,NA,NA,1
+476598,2nd innings,Bangladesh,New Zealand,7.4,Shahriar Nafees,Imrul Kayes,TG Southee,4,0,4,NA,0,NA,NA,NA,1
+476598,2nd innings,Bangladesh,New Zealand,7.5,Shahriar Nafees,Imrul Kayes,TG Southee,4,0,4,NA,0,NA,NA,NA,1
+476598,2nd innings,Bangladesh,New Zealand,7.6,Shahriar Nafees,Imrul Kayes,TG Southee,0,0,0,NA,0,NA,NA,NA,1
+476598,2nd innings,Bangladesh,New Zealand,7.7,Shahriar Nafees,Imrul Kayes,TG Southee,0,0,0,NA,0,NA,NA,NA,1
+476598,2nd innings,Bangladesh,New Zealand,8.1,Imrul Kayes,Shahriar Nafees,NL McCullum,0,0,0,NA,0,NA,NA,NA,1
+476598,2nd innings,Bangladesh,New Zealand,8.2,Imrul Kayes,Shahriar Nafees,NL McCullum,0,0,0,NA,0,NA,NA,NA,1
+476598,2nd innings,Bangladesh,New Zealand,8.3,Imrul Kayes,Shahriar Nafees,NL McCullum,0,0,0,NA,0,NA,NA,NA,1
+476598,2nd innings,Bangladesh,New Zealand,8.4,Imrul Kayes,Shahriar Nafees,NL McCullum,0,0,0,NA,0,NA,NA,NA,1
+476598,2nd innings,Bangladesh,New Zealand,8.5,Imrul Kayes,Shahriar Nafees,NL McCullum,1,0,1,NA,0,NA,NA,NA,1
+476598,2nd innings,Bangladesh,New Zealand,8.6,Shahriar Nafees,Imrul Kayes,NL McCullum,0,0,0,NA,0,NA,NA,NA,1
+476598,2nd innings,Bangladesh,New Zealand,9.1,Imrul Kayes,Shahriar Nafees,AJ McKay,0,0,0,NA,0,NA,NA,NA,1
+476598,2nd innings,Bangladesh,New Zealand,9.2,Imrul Kayes,Shahriar Nafees,AJ McKay,0,0,0,NA,0,NA,NA,NA,1
+476598,2nd innings,Bangladesh,New Zealand,9.3,Imrul Kayes,Shahriar Nafees,AJ McKay,0,0,0,NA,0,NA,NA,NA,1
+476598,2nd innings,Bangladesh,New Zealand,9.4,Imrul Kayes,Shahriar Nafees,AJ McKay,4,0,4,NA,0,NA,NA,NA,1
+476598,2nd innings,Bangladesh,New Zealand,9.5,Imrul Kayes,Shahriar Nafees,AJ McKay,0,1,1,wides,0,NA,NA,NA,1
+476598,2nd innings,Bangladesh,New Zealand,9.6,Imrul Kayes,Shahriar Nafees,AJ McKay,0,0,0,NA,0,NA,NA,NA,1
+476598,2nd innings,Bangladesh,New Zealand,9.7,Imrul Kayes,Shahriar Nafees,AJ McKay,0,0,0,NA,0,NA,NA,NA,1
+476598,2nd innings,Bangladesh,New Zealand,10.1,Shahriar Nafees,Imrul Kayes,DL Vettori,1,0,1,NA,0,NA,NA,NA,1
+476598,2nd innings,Bangladesh,New Zealand,10.2,Imrul Kayes,Shahriar Nafees,DL Vettori,0,0,0,NA,0,NA,NA,NA,1
+476598,2nd innings,Bangladesh,New Zealand,10.3,Imrul Kayes,Shahriar Nafees,DL Vettori,0,0,0,NA,0,NA,NA,NA,1
+476598,2nd innings,Bangladesh,New Zealand,10.4,Imrul Kayes,Shahriar Nafees,DL Vettori,2,0,2,NA,0,NA,NA,NA,1
+476598,2nd innings,Bangladesh,New Zealand,10.5,Imrul Kayes,Shahriar Nafees,DL Vettori,1,0,1,NA,0,NA,NA,NA,1
+476598,2nd innings,Bangladesh,New Zealand,10.6,Shahriar Nafees,Imrul Kayes,DL Vettori,1,0,1,NA,0,NA,NA,NA,1
+476598,2nd innings,Bangladesh,New Zealand,11.1,Shahriar Nafees,Imrul Kayes,AJ McKay,0,0,0,NA,0,NA,NA,NA,1
+476598,2nd innings,Bangladesh,New Zealand,11.2,Shahriar Nafees,Imrul Kayes,AJ McKay,0,0,0,NA,0,NA,NA,NA,1
+476598,2nd innings,Bangladesh,New Zealand,11.3,Shahriar Nafees,Imrul Kayes,AJ McKay,0,0,0,NA,0,NA,NA,NA,1
+476598,2nd innings,Bangladesh,New Zealand,11.4,Shahriar Nafees,Imrul Kayes,AJ McKay,0,0,0,NA,0,NA,NA,NA,1
+476598,2nd innings,Bangladesh,New Zealand,11.5,Shahriar Nafees,Imrul Kayes,AJ McKay,1,0,1,NA,0,NA,NA,NA,1
+476598,2nd innings,Bangladesh,New Zealand,11.6,Imrul Kayes,Shahriar Nafees,AJ McKay,0,0,0,NA,0,NA,NA,NA,1
+476598,2nd innings,Bangladesh,New Zealand,12.1,Shahriar Nafees,Imrul Kayes,DL Vettori,4,0,4,NA,0,NA,NA,NA,1
+476598,2nd innings,Bangladesh,New Zealand,12.2,Shahriar Nafees,Imrul Kayes,DL Vettori,0,0,0,NA,0,NA,NA,NA,1
+476598,2nd innings,Bangladesh,New Zealand,12.3,Shahriar Nafees,Imrul Kayes,DL Vettori,0,0,0,NA,0,NA,NA,NA,1
+476598,2nd innings,Bangladesh,New Zealand,12.4,Shahriar Nafees,Imrul Kayes,DL Vettori,0,0,0,NA,0,NA,NA,NA,1
+476598,2nd innings,Bangladesh,New Zealand,12.5,Shahriar Nafees,Imrul Kayes,DL Vettori,4,0,4,NA,0,NA,NA,NA,1
+476598,2nd innings,Bangladesh,New Zealand,12.6,Shahriar Nafees,Imrul Kayes,DL Vettori,0,0,0,NA,0,NA,NA,NA,1
+476598,2nd innings,Bangladesh,New Zealand,13.1,Imrul Kayes,Shahriar Nafees,AJ McKay,0,0,0,NA,0,NA,NA,NA,1
+476598,2nd innings,Bangladesh,New Zealand,13.2,Imrul Kayes,Shahriar Nafees,AJ McKay,0,0,0,NA,0,NA,NA,NA,1
+476598,2nd innings,Bangladesh,New Zealand,13.3,Imrul Kayes,Shahriar Nafees,AJ McKay,0,1,1,wides,0,NA,NA,NA,1
+476598,2nd innings,Bangladesh,New Zealand,13.4,Imrul Kayes,Shahriar Nafees,AJ McKay,0,0,0,NA,0,NA,NA,NA,1
+476598,2nd innings,Bangladesh,New Zealand,13.5,Imrul Kayes,Shahriar Nafees,AJ McKay,1,0,1,NA,0,NA,NA,NA,1
+476598,2nd innings,Bangladesh,New Zealand,13.6,Shahriar Nafees,Imrul Kayes,AJ McKay,0,0,0,NA,0,NA,NA,NA,1
+476598,2nd innings,Bangladesh,New Zealand,13.7,Shahriar Nafees,Imrul Kayes,AJ McKay,0,0,0,NA,0,NA,NA,NA,1
+476598,2nd innings,Bangladesh,New Zealand,14.1,Imrul Kayes,Shahriar Nafees,DL Vettori,0,0,0,NA,0,NA,NA,NA,1
+476598,2nd innings,Bangladesh,New Zealand,14.2,Imrul Kayes,Shahriar Nafees,DL Vettori,0,0,0,NA,0,NA,NA,NA,1
+476598,2nd innings,Bangladesh,New Zealand,14.3,Imrul Kayes,Shahriar Nafees,DL Vettori,1,0,1,NA,0,NA,NA,NA,1
+476598,2nd innings,Bangladesh,New Zealand,14.4,Shahriar Nafees,Imrul Kayes,DL Vettori,0,0,0,NA,0,NA,NA,NA,1
+476598,2nd innings,Bangladesh,New Zealand,14.5,Shahriar Nafees,Imrul Kayes,DL Vettori,4,0,4,NA,0,NA,NA,NA,1
+476598,2nd innings,Bangladesh,New Zealand,14.6,Shahriar Nafees,Imrul Kayes,DL Vettori,0,0,0,NA,0,NA,NA,NA,1
+476598,2nd innings,Bangladesh,New Zealand,15.1,Imrul Kayes,Shahriar Nafees,AJ McKay,0,1,1,legbyes,0,NA,NA,NA,1
+476598,2nd innings,Bangladesh,New Zealand,15.2,Shahriar Nafees,Imrul Kayes,AJ McKay,4,0,4,NA,0,NA,NA,NA,1
+476598,2nd innings,Bangladesh,New Zealand,15.3,Shahriar Nafees,Imrul Kayes,AJ McKay,0,0,0,NA,0,NA,NA,NA,1
+476598,2nd innings,Bangladesh,New Zealand,15.4,Shahriar Nafees,Imrul Kayes,AJ McKay,2,0,2,NA,0,NA,NA,NA,1
+476598,2nd innings,Bangladesh,New Zealand,15.5,Shahriar Nafees,Imrul Kayes,AJ McKay,0,1,1,wides,0,NA,NA,NA,1
+476598,2nd innings,Bangladesh,New Zealand,15.6,Shahriar Nafees,Imrul Kayes,AJ McKay,1,0,1,NA,0,NA,NA,NA,1
+476598,2nd innings,Bangladesh,New Zealand,15.7,Imrul Kayes,Shahriar Nafees,AJ McKay,1,0,1,NA,0,NA,NA,NA,1
+476598,2nd innings,Bangladesh,New Zealand,16.1,Imrul Kayes,Shahriar Nafees,NL McCullum,0,0,0,NA,0,NA,NA,NA,1
+476598,2nd innings,Bangladesh,New Zealand,16.2,Imrul Kayes,Shahriar Nafees,NL McCullum,1,0,1,NA,0,NA,NA,NA,1
+476598,2nd innings,Bangladesh,New Zealand,16.3,Shahriar Nafees,Imrul Kayes,NL McCullum,0,0,0,NA,0,NA,NA,NA,1
+476598,2nd innings,Bangladesh,New Zealand,16.4,Shahriar Nafees,Imrul Kayes,NL McCullum,0,0,0,NA,0,NA,NA,NA,1
+476598,2nd innings,Bangladesh,New Zealand,16.5,Shahriar Nafees,Imrul Kayes,NL McCullum,0,0,0,NA,0,NA,NA,NA,1
+476598,2nd innings,Bangladesh,New Zealand,16.6,Shahriar Nafees,Imrul Kayes,NL McCullum,0,0,0,NA,0,NA,NA,NA,1
+476598,2nd innings,Bangladesh,New Zealand,17.1,Imrul Kayes,Shahriar Nafees,JD Ryder,0,0,0,NA,0,NA,NA,NA,1
+476598,2nd innings,Bangladesh,New Zealand,17.2,Imrul Kayes,Shahriar Nafees,JD Ryder,1,0,1,NA,0,NA,NA,NA,1
+476598,2nd innings,Bangladesh,New Zealand,17.3,Shahriar Nafees,Imrul Kayes,JD Ryder,0,1,1,wides,0,NA,NA,NA,1
+476598,2nd innings,Bangladesh,New Zealand,17.4,Shahriar Nafees,Imrul Kayes,JD Ryder,0,0,0,NA,0,NA,NA,NA,1
+476598,2nd innings,Bangladesh,New Zealand,17.5,Shahriar Nafees,Imrul Kayes,JD Ryder,0,0,0,NA,0,NA,NA,NA,1
+476598,2nd innings,Bangladesh,New Zealand,17.6,Shahriar Nafees,Imrul Kayes,JD Ryder,0,0,0,NA,0,NA,NA,NA,1
+476598,2nd innings,Bangladesh,New Zealand,17.7,Shahriar Nafees,Imrul Kayes,JD Ryder,0,0,0,NA,0,NA,NA,NA,1
+476598,2nd innings,Bangladesh,New Zealand,18.1,Imrul Kayes,Shahriar Nafees,NL McCullum,0,0,0,NA,0,NA,NA,NA,1
+476598,2nd innings,Bangladesh,New Zealand,18.2,Imrul Kayes,Shahriar Nafees,NL McCullum,4,0,4,NA,0,NA,NA,NA,1
+476598,2nd innings,Bangladesh,New Zealand,18.3,Imrul Kayes,Shahriar Nafees,NL McCullum,0,0,0,NA,0,NA,NA,NA,1
+476598,2nd innings,Bangladesh,New Zealand,18.4,Imrul Kayes,Shahriar Nafees,NL McCullum,1,0,1,NA,0,NA,NA,NA,1
+476598,2nd innings,Bangladesh,New Zealand,18.5,Shahriar Nafees,Imrul Kayes,NL McCullum,1,0,1,NA,0,NA,NA,NA,1
+476598,2nd innings,Bangladesh,New Zealand,18.6,Imrul Kayes,Shahriar Nafees,NL McCullum,1,0,1,NA,0,NA,NA,NA,1
+476598,2nd innings,Bangladesh,New Zealand,19.1,Imrul Kayes,Shahriar Nafees,JD Ryder,0,0,0,NA,0,NA,NA,NA,1
+476598,2nd innings,Bangladesh,New Zealand,19.2,Imrul Kayes,Shahriar Nafees,JD Ryder,1,0,1,NA,0,NA,NA,NA,1
+476598,2nd innings,Bangladesh,New Zealand,19.3,Shahriar Nafees,Imrul Kayes,JD Ryder,1,0,1,NA,0,NA,NA,NA,1
+476598,2nd innings,Bangladesh,New Zealand,19.4,Imrul Kayes,Shahriar Nafees,JD Ryder,0,0,0,NA,0,NA,NA,NA,1
+476598,2nd innings,Bangladesh,New Zealand,19.5,Imrul Kayes,Shahriar Nafees,JD Ryder,0,0,0,NA,0,NA,NA,NA,1
+476598,2nd innings,Bangladesh,New Zealand,19.6,Imrul Kayes,Shahriar Nafees,JD Ryder,1,0,1,NA,0,NA,NA,NA,1
+476598,2nd innings,Bangladesh,New Zealand,20.1,Imrul Kayes,Shahriar Nafees,NL McCullum,0,0,0,NA,0,NA,NA,NA,1
+476598,2nd innings,Bangladesh,New Zealand,20.2,Imrul Kayes,Shahriar Nafees,NL McCullum,0,0,0,NA,0,NA,NA,NA,1
+476598,2nd innings,Bangladesh,New Zealand,20.3,Imrul Kayes,Shahriar Nafees,NL McCullum,0,0,0,NA,0,NA,NA,NA,1
+476598,2nd innings,Bangladesh,New Zealand,20.4,Imrul Kayes,Shahriar Nafees,NL McCullum,0,0,0,NA,0,NA,NA,NA,1
+476598,2nd innings,Bangladesh,New Zealand,20.5,Imrul Kayes,Shahriar Nafees,NL McCullum,2,0,2,NA,0,NA,NA,NA,1
+476598,2nd innings,Bangladesh,New Zealand,20.6,Imrul Kayes,Shahriar Nafees,NL McCullum,1,0,1,NA,0,NA,NA,NA,1
+476598,2nd innings,Bangladesh,New Zealand,21.1,Imrul Kayes,Shahriar Nafees,JD Ryder,1,0,1,NA,0,NA,NA,NA,1
+476598,2nd innings,Bangladesh,New Zealand,21.2,Shahriar Nafees,Imrul Kayes,JD Ryder,0,0,0,NA,0,NA,NA,NA,1
+476598,2nd innings,Bangladesh,New Zealand,21.3,Shahriar Nafees,Imrul Kayes,JD Ryder,4,0,4,NA,0,NA,NA,NA,1
+476598,2nd innings,Bangladesh,New Zealand,21.4,Shahriar Nafees,Imrul Kayes,JD Ryder,2,0,2,NA,0,NA,NA,NA,1
+476598,2nd innings,Bangladesh,New Zealand,21.5,Shahriar Nafees,Imrul Kayes,JD Ryder,4,0,4,NA,0,NA,NA,NA,1
+476598,2nd innings,Bangladesh,New Zealand,21.6,Shahriar Nafees,Imrul Kayes,JD Ryder,4,0,4,NA,0,NA,NA,NA,1
+476598,2nd innings,Bangladesh,New Zealand,22.1,Imrul Kayes,Shahriar Nafees,NL McCullum,0,0,0,NA,0,NA,NA,NA,1
+476598,2nd innings,Bangladesh,New Zealand,22.2,Imrul Kayes,Shahriar Nafees,NL McCullum,1,0,1,NA,0,NA,NA,NA,1
+476598,2nd innings,Bangladesh,New Zealand,22.3,Shahriar Nafees,Imrul Kayes,NL McCullum,1,0,1,NA,0,NA,NA,NA,1
+476598,2nd innings,Bangladesh,New Zealand,22.4,Imrul Kayes,Shahriar Nafees,NL McCullum,1,0,1,NA,0,NA,NA,NA,1
+476598,2nd innings,Bangladesh,New Zealand,22.5,Shahriar Nafees,Imrul Kayes,NL McCullum,0,0,0,NA,0,NA,NA,NA,1
+476598,2nd innings,Bangladesh,New Zealand,22.6,Shahriar Nafees,Imrul Kayes,NL McCullum,0,0,0,NA,0,NA,NA,NA,1
+476598,2nd innings,Bangladesh,New Zealand,23.1,Imrul Kayes,Shahriar Nafees,DL Vettori,0,0,0,NA,0,NA,NA,NA,1
+476598,2nd innings,Bangladesh,New Zealand,23.2,Imrul Kayes,Shahriar Nafees,DL Vettori,0,0,0,NA,0,NA,NA,NA,1
+476598,2nd innings,Bangladesh,New Zealand,23.3,Imrul Kayes,Shahriar Nafees,DL Vettori,1,0,1,NA,0,NA,NA,NA,1
+476598,2nd innings,Bangladesh,New Zealand,23.4,Shahriar Nafees,Imrul Kayes,DL Vettori,0,0,0,NA,0,NA,NA,NA,1
+476598,2nd innings,Bangladesh,New Zealand,23.5,Shahriar Nafees,Imrul Kayes,DL Vettori,1,0,1,NA,0,NA,NA,NA,1
+476598,2nd innings,Bangladesh,New Zealand,23.6,Imrul Kayes,Shahriar Nafees,DL Vettori,1,0,1,NA,0,NA,NA,NA,1
+476598,2nd innings,Bangladesh,New Zealand,24.1,Imrul Kayes,Shahriar Nafees,NL McCullum,1,0,1,NA,0,NA,NA,NA,1
+476598,2nd innings,Bangladesh,New Zealand,24.2,Shahriar Nafees,Imrul Kayes,NL McCullum,0,0,0,NA,1,caught,Shahriar Nafees,BB McCullum,1
+476598,2nd innings,Bangladesh,New Zealand,24.3,Junaid Siddique,Imrul Kayes,NL McCullum,0,0,0,NA,0,NA,NA,NA,1
+476598,2nd innings,Bangladesh,New Zealand,24.4,Junaid Siddique,Imrul Kayes,NL McCullum,1,0,1,NA,0,NA,NA,NA,1
+476598,2nd innings,Bangladesh,New Zealand,24.5,Imrul Kayes,Junaid Siddique,NL McCullum,0,0,0,NA,0,NA,NA,NA,1
+476598,2nd innings,Bangladesh,New Zealand,24.6,Imrul Kayes,Junaid Siddique,NL McCullum,0,0,0,NA,0,NA,NA,NA,1
+476598,2nd innings,Bangladesh,New Zealand,25.1,Junaid Siddique,Imrul Kayes,DL Vettori,0,0,0,NA,0,NA,NA,NA,1
+476598,2nd innings,Bangladesh,New Zealand,25.2,Junaid Siddique,Imrul Kayes,DL Vettori,1,0,1,NA,0,NA,NA,NA,1
+476598,2nd innings,Bangladesh,New Zealand,25.3,Imrul Kayes,Junaid Siddique,DL Vettori,1,0,1,NA,0,NA,NA,NA,1
+476598,2nd innings,Bangladesh,New Zealand,25.4,Junaid Siddique,Imrul Kayes,DL Vettori,0,0,0,NA,0,NA,NA,NA,1
+476598,2nd innings,Bangladesh,New Zealand,25.5,Junaid Siddique,Imrul Kayes,DL Vettori,1,0,1,NA,0,NA,NA,NA,1
+476598,2nd innings,Bangladesh,New Zealand,25.6,Imrul Kayes,Junaid Siddique,DL Vettori,1,0,1,NA,0,NA,NA,NA,1
+476598,2nd innings,Bangladesh,New Zealand,26.1,Imrul Kayes,Junaid Siddique,NL McCullum,0,0,0,NA,0,NA,NA,NA,1
+476598,2nd innings,Bangladesh,New Zealand,26.2,Imrul Kayes,Junaid Siddique,NL McCullum,0,0,0,NA,0,NA,NA,NA,1
+476598,2nd innings,Bangladesh,New Zealand,26.3,Imrul Kayes,Junaid Siddique,NL McCullum,1,0,1,NA,0,NA,NA,NA,1
+476598,2nd innings,Bangladesh,New Zealand,26.4,Junaid Siddique,Imrul Kayes,NL McCullum,1,0,1,NA,0,NA,NA,NA,1
+476598,2nd innings,Bangladesh,New Zealand,26.5,Imrul Kayes,Junaid Siddique,NL McCullum,0,0,0,NA,1,caught,Imrul Kayes,GD Elliott,1
+476598,2nd innings,Bangladesh,New Zealand,26.6,Raqibul Hasan,Junaid Siddique,NL McCullum,0,0,0,NA,0,NA,NA,NA,1
+476598,2nd innings,Bangladesh,New Zealand,27.1,Junaid Siddique,Raqibul Hasan,DL Vettori,1,0,1,NA,0,NA,NA,NA,1
+476598,2nd innings,Bangladesh,New Zealand,27.2,Raqibul Hasan,Junaid Siddique,DL Vettori,0,0,0,NA,0,NA,NA,NA,1
+476598,2nd innings,Bangladesh,New Zealand,27.3,Raqibul Hasan,Junaid Siddique,DL Vettori,0,0,0,NA,0,NA,NA,NA,1
+476598,2nd innings,Bangladesh,New Zealand,27.4,Raqibul Hasan,Junaid Siddique,DL Vettori,0,0,0,NA,0,NA,NA,NA,1
+476598,2nd innings,Bangladesh,New Zealand,27.5,Raqibul Hasan,Junaid Siddique,DL Vettori,0,0,0,NA,0,NA,NA,NA,1
+476598,2nd innings,Bangladesh,New Zealand,27.6,Raqibul Hasan,Junaid Siddique,DL Vettori,0,0,0,NA,0,NA,NA,NA,1
+476598,2nd innings,Bangladesh,New Zealand,28.1,Junaid Siddique,Raqibul Hasan,NL McCullum,0,0,0,NA,0,NA,NA,NA,1
+476598,2nd innings,Bangladesh,New Zealand,28.2,Junaid Siddique,Raqibul Hasan,NL McCullum,0,0,0,NA,0,NA,NA,NA,1
+476598,2nd innings,Bangladesh,New Zealand,28.3,Junaid Siddique,Raqibul Hasan,NL McCullum,0,0,0,NA,0,NA,NA,NA,1
+476598,2nd innings,Bangladesh,New Zealand,28.4,Junaid Siddique,Raqibul Hasan,NL McCullum,1,0,1,NA,0,NA,NA,NA,1
+476598,2nd innings,Bangladesh,New Zealand,28.5,Raqibul Hasan,Junaid Siddique,NL McCullum,4,0,4,NA,0,NA,NA,NA,1
+476598,2nd innings,Bangladesh,New Zealand,28.6,Raqibul Hasan,Junaid Siddique,NL McCullum,0,0,0,NA,0,NA,NA,NA,1
+476598,2nd innings,Bangladesh,New Zealand,29.1,Junaid Siddique,Raqibul Hasan,DL Vettori,0,0,0,NA,0,NA,NA,NA,1
+476598,2nd innings,Bangladesh,New Zealand,29.2,Junaid Siddique,Raqibul Hasan,DL Vettori,0,0,0,NA,0,NA,NA,NA,1
+476598,2nd innings,Bangladesh,New Zealand,29.3,Junaid Siddique,Raqibul Hasan,DL Vettori,1,0,1,NA,0,NA,NA,NA,1
+476598,2nd innings,Bangladesh,New Zealand,29.4,Raqibul Hasan,Junaid Siddique,DL Vettori,0,0,0,NA,0,NA,NA,NA,1
+476598,2nd innings,Bangladesh,New Zealand,29.5,Raqibul Hasan,Junaid Siddique,DL Vettori,0,0,0,NA,0,NA,NA,NA,1
+476598,2nd innings,Bangladesh,New Zealand,29.6,Raqibul Hasan,Junaid Siddique,DL Vettori,0,0,0,NA,0,NA,NA,NA,1
+476598,2nd innings,Bangladesh,New Zealand,30.1,Junaid Siddique,Raqibul Hasan,LRPL Taylor,1,0,1,NA,0,NA,NA,NA,1
+476598,2nd innings,Bangladesh,New Zealand,30.2,Raqibul Hasan,Junaid Siddique,LRPL Taylor,0,0,0,NA,0,NA,NA,NA,1
+476598,2nd innings,Bangladesh,New Zealand,30.3,Raqibul Hasan,Junaid Siddique,LRPL Taylor,0,0,0,NA,0,NA,NA,NA,1
+476598,2nd innings,Bangladesh,New Zealand,30.4,Raqibul Hasan,Junaid Siddique,LRPL Taylor,0,0,0,NA,0,NA,NA,NA,1
+476598,2nd innings,Bangladesh,New Zealand,30.5,Raqibul Hasan,Junaid Siddique,LRPL Taylor,1,0,1,NA,0,NA,NA,NA,1
+476598,2nd innings,Bangladesh,New Zealand,30.6,Junaid Siddique,Raqibul Hasan,LRPL Taylor,0,0,0,NA,0,NA,NA,NA,1
+476598,2nd innings,Bangladesh,New Zealand,31.1,Raqibul Hasan,Junaid Siddique,DL Vettori,0,0,0,NA,0,NA,NA,NA,1
+476598,2nd innings,Bangladesh,New Zealand,31.2,Raqibul Hasan,Junaid Siddique,DL Vettori,0,0,0,NA,0,NA,NA,NA,1
+476598,2nd innings,Bangladesh,New Zealand,31.3,Raqibul Hasan,Junaid Siddique,DL Vettori,1,0,1,NA,0,NA,NA,NA,1
+476598,2nd innings,Bangladesh,New Zealand,31.4,Junaid Siddique,Raqibul Hasan,DL Vettori,1,0,1,NA,0,NA,NA,NA,1
+476598,2nd innings,Bangladesh,New Zealand,31.5,Raqibul Hasan,Junaid Siddique,DL Vettori,0,0,0,NA,0,NA,NA,NA,1
+476598,2nd innings,Bangladesh,New Zealand,31.6,Raqibul Hasan,Junaid Siddique,DL Vettori,1,0,1,NA,0,NA,NA,NA,1
+476598,2nd innings,Bangladesh,New Zealand,32.1,Raqibul Hasan,Junaid Siddique,LRPL Taylor,0,0,0,NA,0,NA,NA,NA,1
+476598,2nd innings,Bangladesh,New Zealand,32.2,Raqibul Hasan,Junaid Siddique,LRPL Taylor,0,0,0,NA,0,NA,NA,NA,1
+476598,2nd innings,Bangladesh,New Zealand,32.3,Raqibul Hasan,Junaid Siddique,LRPL Taylor,0,0,0,NA,0,NA,NA,NA,1
+476598,2nd innings,Bangladesh,New Zealand,32.4,Raqibul Hasan,Junaid Siddique,LRPL Taylor,0,0,0,NA,0,NA,NA,NA,1
+476598,2nd innings,Bangladesh,New Zealand,32.5,Raqibul Hasan,Junaid Siddique,LRPL Taylor,0,0,0,NA,0,NA,NA,NA,1
+476598,2nd innings,Bangladesh,New Zealand,32.6,Raqibul Hasan,Junaid Siddique,LRPL Taylor,1,0,1,NA,0,NA,NA,NA,1
+476598,2nd innings,Bangladesh,New Zealand,33.1,Raqibul Hasan,Junaid Siddique,DL Vettori,0,0,0,NA,0,NA,NA,NA,1
+476598,2nd innings,Bangladesh,New Zealand,33.2,Raqibul Hasan,Junaid Siddique,DL Vettori,0,0,0,NA,0,NA,NA,NA,1
+476598,2nd innings,Bangladesh,New Zealand,33.3,Raqibul Hasan,Junaid Siddique,DL Vettori,0,0,0,NA,0,NA,NA,NA,1
+476598,2nd innings,Bangladesh,New Zealand,33.4,Raqibul Hasan,Junaid Siddique,DL Vettori,1,0,1,NA,0,NA,NA,NA,1
+476598,2nd innings,Bangladesh,New Zealand,33.5,Junaid Siddique,Raqibul Hasan,DL Vettori,1,0,1,NA,0,NA,NA,NA,1
+476598,2nd innings,Bangladesh,New Zealand,33.6,Raqibul Hasan,Junaid Siddique,DL Vettori,1,0,1,NA,0,NA,NA,NA,1
+476598,2nd innings,Bangladesh,New Zealand,34.1,Raqibul Hasan,Junaid Siddique,KD Mills,0,0,0,NA,0,NA,NA,NA,1
+476598,2nd innings,Bangladesh,New Zealand,34.2,Raqibul Hasan,Junaid Siddique,KD Mills,0,0,0,NA,0,NA,NA,NA,1
+476598,2nd innings,Bangladesh,New Zealand,34.3,Raqibul Hasan,Junaid Siddique,KD Mills,0,0,0,NA,0,NA,NA,NA,1
+476598,2nd innings,Bangladesh,New Zealand,34.4,Raqibul Hasan,Junaid Siddique,KD Mills,0,0,0,NA,0,NA,NA,NA,1
+476598,2nd innings,Bangladesh,New Zealand,34.5,Raqibul Hasan,Junaid Siddique,KD Mills,2,0,2,NA,0,NA,NA,NA,1
+476598,2nd innings,Bangladesh,New Zealand,34.6,Raqibul Hasan,Junaid Siddique,KD Mills,0,0,0,NA,0,NA,NA,NA,1
+476598,2nd innings,Bangladesh,New Zealand,35.1,Junaid Siddique,Raqibul Hasan,DL Vettori,0,0,0,NA,0,NA,NA,NA,1
+476598,2nd innings,Bangladesh,New Zealand,35.2,Junaid Siddique,Raqibul Hasan,DL Vettori,1,0,1,NA,0,NA,NA,NA,1
+476598,2nd innings,Bangladesh,New Zealand,35.3,Raqibul Hasan,Junaid Siddique,DL Vettori,1,0,1,NA,0,NA,NA,NA,1
+476598,2nd innings,Bangladesh,New Zealand,35.4,Junaid Siddique,Raqibul Hasan,DL Vettori,1,0,1,NA,0,NA,NA,NA,1
+476598,2nd innings,Bangladesh,New Zealand,35.5,Raqibul Hasan,Junaid Siddique,DL Vettori,0,0,0,NA,0,NA,NA,NA,1
+476598,2nd innings,Bangladesh,New Zealand,35.6,Raqibul Hasan,Junaid Siddique,DL Vettori,0,0,0,NA,0,NA,NA,NA,1
+476598,2nd innings,Bangladesh,New Zealand,36.1,Junaid Siddique,Raqibul Hasan,KD Mills,0,0,0,NA,0,NA,NA,NA,1
+476598,2nd innings,Bangladesh,New Zealand,36.2,Junaid Siddique,Raqibul Hasan,KD Mills,1,0,1,NA,0,NA,NA,NA,1
+476598,2nd innings,Bangladesh,New Zealand,36.3,Raqibul Hasan,Junaid Siddique,KD Mills,0,0,0,NA,0,NA,NA,NA,1
+476598,2nd innings,Bangladesh,New Zealand,36.4,Raqibul Hasan,Junaid Siddique,KD Mills,1,0,1,NA,0,NA,NA,NA,1
+476598,2nd innings,Bangladesh,New Zealand,36.5,Junaid Siddique,Raqibul Hasan,KD Mills,0,0,0,NA,0,NA,NA,NA,1
+476598,2nd innings,Bangladesh,New Zealand,36.6,Junaid Siddique,Raqibul Hasan,KD Mills,1,0,1,NA,0,NA,NA,NA,1
+476598,2nd innings,Bangladesh,New Zealand,37.1,Junaid Siddique,Raqibul Hasan,AJ McKay,0,1,1,wides,0,NA,NA,NA,1
+476598,2nd innings,Bangladesh,New Zealand,37.2,Junaid Siddique,Raqibul Hasan,AJ McKay,0,0,0,NA,1,caught,Junaid Siddique,NL McCullum,1
+476598,2nd innings,Bangladesh,New Zealand,37.3,Shakib Al Hasan,Raqibul Hasan,AJ McKay,0,0,0,NA,0,NA,NA,NA,1
+476598,2nd innings,Bangladesh,New Zealand,37.4,Shakib Al Hasan,Raqibul Hasan,AJ McKay,4,0,4,NA,0,NA,NA,NA,1
+476598,2nd innings,Bangladesh,New Zealand,37.5,Shakib Al Hasan,Raqibul Hasan,AJ McKay,4,0,4,NA,0,NA,NA,NA,1
+476598,2nd innings,Bangladesh,New Zealand,37.6,Shakib Al Hasan,Raqibul Hasan,AJ McKay,0,0,0,NA,0,NA,NA,NA,1
+476598,2nd innings,Bangladesh,New Zealand,37.7,Shakib Al Hasan,Raqibul Hasan,AJ McKay,0,0,0,NA,0,NA,NA,NA,1
+476598,2nd innings,Bangladesh,New Zealand,38.1,Raqibul Hasan,Shakib Al Hasan,KD Mills,1,0,1,NA,0,NA,NA,NA,1
+476598,2nd innings,Bangladesh,New Zealand,38.2,Shakib Al Hasan,Raqibul Hasan,KD Mills,1,0,1,NA,0,NA,NA,NA,1
+476598,2nd innings,Bangladesh,New Zealand,38.3,Raqibul Hasan,Shakib Al Hasan,KD Mills,0,0,0,NA,0,NA,NA,NA,1
+476598,2nd innings,Bangladesh,New Zealand,38.4,Raqibul Hasan,Shakib Al Hasan,KD Mills,0,0,0,NA,0,NA,NA,NA,1
+476598,2nd innings,Bangladesh,New Zealand,38.5,Raqibul Hasan,Shakib Al Hasan,KD Mills,0,0,0,NA,0,NA,NA,NA,1
+476598,2nd innings,Bangladesh,New Zealand,38.6,Raqibul Hasan,Shakib Al Hasan,KD Mills,1,0,1,NA,0,NA,NA,NA,1
+476598,2nd innings,Bangladesh,New Zealand,39.1,Raqibul Hasan,Shakib Al Hasan,AJ McKay,0,0,0,NA,0,NA,NA,NA,1
+476598,2nd innings,Bangladesh,New Zealand,39.2,Raqibul Hasan,Shakib Al Hasan,AJ McKay,0,0,0,NA,0,NA,NA,NA,1
+476598,2nd innings,Bangladesh,New Zealand,39.3,Raqibul Hasan,Shakib Al Hasan,AJ McKay,0,0,0,NA,0,NA,NA,NA,1
+476598,2nd innings,Bangladesh,New Zealand,39.4,Raqibul Hasan,Shakib Al Hasan,AJ McKay,0,0,0,NA,0,NA,NA,NA,1
+476598,2nd innings,Bangladesh,New Zealand,39.5,Raqibul Hasan,Shakib Al Hasan,AJ McKay,2,0,2,NA,0,NA,NA,NA,1
+476598,2nd innings,Bangladesh,New Zealand,39.6,Raqibul Hasan,Shakib Al Hasan,AJ McKay,0,0,0,NA,0,NA,NA,NA,1
+476598,2nd innings,Bangladesh,New Zealand,40.1,Shakib Al Hasan,Raqibul Hasan,KD Mills,4,1,5,noballs,0,NA,NA,NA,1

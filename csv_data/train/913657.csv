@@ -1,0 +1,571 @@
+match_id,innings,team,opponent,ball,batsman,non_striker,bowler,scored_runs,extras,total,extra_type,wicket,wicket_type,player_out,fielders,winner
+913657,1st innings,England,Pakistan,0.1,JJ Roy,AD Hales,Mohammad Amir,0,0,0,NA,0,NA,NA,NA,1
+913657,1st innings,England,Pakistan,0.2,JJ Roy,AD Hales,Mohammad Amir,0,0,0,NA,0,NA,NA,NA,1
+913657,1st innings,England,Pakistan,0.3,JJ Roy,AD Hales,Mohammad Amir,0,0,0,NA,0,NA,NA,NA,1
+913657,1st innings,England,Pakistan,0.4,JJ Roy,AD Hales,Mohammad Amir,0,0,0,NA,0,NA,NA,NA,1
+913657,1st innings,England,Pakistan,0.5,JJ Roy,AD Hales,Mohammad Amir,4,0,4,NA,0,NA,NA,NA,1
+913657,1st innings,England,Pakistan,0.6,JJ Roy,AD Hales,Mohammad Amir,0,0,0,NA,0,NA,NA,NA,1
+913657,1st innings,England,Pakistan,1.1,AD Hales,JJ Roy,Hasan Ali,2,0,2,NA,0,NA,NA,NA,1
+913657,1st innings,England,Pakistan,1.2,AD Hales,JJ Roy,Hasan Ali,0,0,0,NA,0,NA,NA,NA,1
+913657,1st innings,England,Pakistan,1.3,AD Hales,JJ Roy,Hasan Ali,4,0,4,NA,0,NA,NA,NA,1
+913657,1st innings,England,Pakistan,1.4,AD Hales,JJ Roy,Hasan Ali,1,0,1,NA,0,NA,NA,NA,1
+913657,1st innings,England,Pakistan,1.5,JJ Roy,AD Hales,Hasan Ali,0,0,0,NA,0,NA,NA,NA,1
+913657,1st innings,England,Pakistan,1.6,JJ Roy,AD Hales,Hasan Ali,0,0,0,NA,0,NA,NA,NA,1
+913657,1st innings,England,Pakistan,2.1,AD Hales,JJ Roy,Mohammad Amir,0,0,0,NA,0,NA,NA,NA,1
+913657,1st innings,England,Pakistan,2.2,AD Hales,JJ Roy,Mohammad Amir,0,0,0,NA,0,NA,NA,NA,1
+913657,1st innings,England,Pakistan,2.3,AD Hales,JJ Roy,Mohammad Amir,3,0,3,NA,0,NA,NA,NA,1
+913657,1st innings,England,Pakistan,2.4,JJ Roy,AD Hales,Mohammad Amir,0,0,0,NA,0,NA,NA,NA,1
+913657,1st innings,England,Pakistan,2.5,JJ Roy,AD Hales,Mohammad Amir,4,0,4,NA,0,NA,NA,NA,1
+913657,1st innings,England,Pakistan,2.6,JJ Roy,AD Hales,Mohammad Amir,0,0,0,NA,0,NA,NA,NA,1
+913657,1st innings,England,Pakistan,3.1,AD Hales,JJ Roy,Hasan Ali,1,0,1,NA,0,NA,NA,NA,1
+913657,1st innings,England,Pakistan,3.2,JJ Roy,AD Hales,Hasan Ali,1,0,1,NA,0,NA,NA,NA,1
+913657,1st innings,England,Pakistan,3.3,AD Hales,JJ Roy,Hasan Ali,4,0,4,NA,0,NA,NA,NA,1
+913657,1st innings,England,Pakistan,3.4,AD Hales,JJ Roy,Hasan Ali,0,0,0,NA,0,NA,NA,NA,1
+913657,1st innings,England,Pakistan,3.5,AD Hales,JJ Roy,Hasan Ali,0,1,1,legbyes,0,NA,NA,NA,1
+913657,1st innings,England,Pakistan,3.6,JJ Roy,AD Hales,Hasan Ali,1,0,1,NA,0,NA,NA,NA,1
+913657,1st innings,England,Pakistan,4.1,JJ Roy,AD Hales,Mohammad Amir,0,0,0,NA,0,NA,NA,NA,1
+913657,1st innings,England,Pakistan,4.2,JJ Roy,AD Hales,Mohammad Amir,0,0,0,NA,0,NA,NA,NA,1
+913657,1st innings,England,Pakistan,4.3,JJ Roy,AD Hales,Mohammad Amir,0,0,0,NA,0,NA,NA,NA,1
+913657,1st innings,England,Pakistan,4.4,JJ Roy,AD Hales,Mohammad Amir,4,0,4,NA,0,NA,NA,NA,1
+913657,1st innings,England,Pakistan,4.5,JJ Roy,AD Hales,Mohammad Amir,1,0,1,NA,0,NA,NA,NA,1
+913657,1st innings,England,Pakistan,4.6,AD Hales,JJ Roy,Mohammad Amir,1,0,1,NA,0,NA,NA,NA,1
+913657,1st innings,England,Pakistan,5.1,AD Hales,JJ Roy,Hasan Ali,1,0,1,NA,0,NA,NA,NA,1
+913657,1st innings,England,Pakistan,5.2,JJ Roy,AD Hales,Hasan Ali,0,0,0,NA,1,caught,JJ Roy,Sarfraz Ahmed,1
+913657,1st innings,England,Pakistan,5.3,JE Root,AD Hales,Hasan Ali,0,0,0,NA,0,NA,NA,NA,1
+913657,1st innings,England,Pakistan,5.4,JE Root,AD Hales,Hasan Ali,1,0,1,NA,0,NA,NA,NA,1
+913657,1st innings,England,Pakistan,5.5,AD Hales,JE Root,Hasan Ali,4,0,4,NA,0,NA,NA,NA,1
+913657,1st innings,England,Pakistan,5.6,AD Hales,JE Root,Hasan Ali,1,0,1,NA,0,NA,NA,NA,1
+913657,1st innings,England,Pakistan,6.1,AD Hales,JE Root,Mohammad Amir,0,0,0,NA,0,NA,NA,NA,1
+913657,1st innings,England,Pakistan,6.2,AD Hales,JE Root,Mohammad Amir,0,0,0,NA,0,NA,NA,NA,1
+913657,1st innings,England,Pakistan,6.3,AD Hales,JE Root,Mohammad Amir,0,0,0,NA,0,NA,NA,NA,1
+913657,1st innings,England,Pakistan,6.4,AD Hales,JE Root,Mohammad Amir,2,0,2,NA,0,NA,NA,NA,1
+913657,1st innings,England,Pakistan,6.5,AD Hales,JE Root,Mohammad Amir,0,0,0,NA,0,NA,NA,NA,1
+913657,1st innings,England,Pakistan,6.6,AD Hales,JE Root,Mohammad Amir,0,0,0,NA,0,NA,NA,NA,1
+913657,1st innings,England,Pakistan,7.1,JE Root,AD Hales,Hasan Ali,4,0,4,NA,0,NA,NA,NA,1
+913657,1st innings,England,Pakistan,7.2,JE Root,AD Hales,Hasan Ali,3,1,4,noballs,0,NA,NA,NA,1
+913657,1st innings,England,Pakistan,7.3,AD Hales,JE Root,Hasan Ali,6,0,6,NA,0,NA,NA,NA,1
+913657,1st innings,England,Pakistan,7.4,AD Hales,JE Root,Hasan Ali,0,0,0,NA,0,NA,NA,NA,1
+913657,1st innings,England,Pakistan,7.5,AD Hales,JE Root,Hasan Ali,0,0,0,NA,0,NA,NA,NA,1
+913657,1st innings,England,Pakistan,7.6,AD Hales,JE Root,Hasan Ali,0,0,0,NA,0,NA,NA,NA,1
+913657,1st innings,England,Pakistan,7.7,AD Hales,JE Root,Hasan Ali,1,0,1,NA,0,NA,NA,NA,1
+913657,1st innings,England,Pakistan,8.1,AD Hales,JE Root,Wahab Riaz,0,0,0,NA,0,NA,NA,NA,1
+913657,1st innings,England,Pakistan,8.2,AD Hales,JE Root,Wahab Riaz,0,0,0,NA,0,NA,NA,NA,1
+913657,1st innings,England,Pakistan,8.3,AD Hales,JE Root,Wahab Riaz,1,0,1,NA,0,NA,NA,NA,1
+913657,1st innings,England,Pakistan,8.4,JE Root,AD Hales,Wahab Riaz,0,0,0,NA,0,NA,NA,NA,1
+913657,1st innings,England,Pakistan,8.5,JE Root,AD Hales,Wahab Riaz,1,0,1,NA,0,NA,NA,NA,1
+913657,1st innings,England,Pakistan,8.6,AD Hales,JE Root,Wahab Riaz,4,0,4,NA,0,NA,NA,NA,1
+913657,1st innings,England,Pakistan,9.1,JE Root,AD Hales,Mohammad Nawaz (3),0,0,0,NA,0,NA,NA,NA,1
+913657,1st innings,England,Pakistan,9.2,JE Root,AD Hales,Mohammad Nawaz (3),0,0,0,NA,0,NA,NA,NA,1
+913657,1st innings,England,Pakistan,9.3,JE Root,AD Hales,Mohammad Nawaz (3),0,0,0,NA,0,NA,NA,NA,1
+913657,1st innings,England,Pakistan,9.4,JE Root,AD Hales,Mohammad Nawaz (3),1,0,1,NA,0,NA,NA,NA,1
+913657,1st innings,England,Pakistan,9.5,AD Hales,JE Root,Mohammad Nawaz (3),1,0,1,NA,0,NA,NA,NA,1
+913657,1st innings,England,Pakistan,9.6,JE Root,AD Hales,Mohammad Nawaz (3),0,0,0,NA,0,NA,NA,NA,1
+913657,1st innings,England,Pakistan,10.1,AD Hales,JE Root,Yasir Shah,1,0,1,NA,0,NA,NA,NA,1
+913657,1st innings,England,Pakistan,10.2,JE Root,AD Hales,Yasir Shah,1,0,1,NA,0,NA,NA,NA,1
+913657,1st innings,England,Pakistan,10.3,AD Hales,JE Root,Yasir Shah,0,0,0,NA,0,NA,NA,NA,1
+913657,1st innings,England,Pakistan,10.4,AD Hales,JE Root,Yasir Shah,0,0,0,NA,0,NA,NA,NA,1
+913657,1st innings,England,Pakistan,10.5,AD Hales,JE Root,Yasir Shah,1,0,1,NA,0,NA,NA,NA,1
+913657,1st innings,England,Pakistan,10.6,JE Root,AD Hales,Yasir Shah,1,0,1,NA,0,NA,NA,NA,1
+913657,1st innings,England,Pakistan,11.1,JE Root,AD Hales,Mohammad Nawaz (3),1,0,1,NA,0,NA,NA,NA,1
+913657,1st innings,England,Pakistan,11.2,AD Hales,JE Root,Mohammad Nawaz (3),0,0,0,NA,0,NA,NA,NA,1
+913657,1st innings,England,Pakistan,11.3,AD Hales,JE Root,Mohammad Nawaz (3),0,0,0,NA,0,NA,NA,NA,1
+913657,1st innings,England,Pakistan,11.4,AD Hales,JE Root,Mohammad Nawaz (3),1,0,1,NA,0,NA,NA,NA,1
+913657,1st innings,England,Pakistan,11.5,JE Root,AD Hales,Mohammad Nawaz (3),1,0,1,NA,0,NA,NA,NA,1
+913657,1st innings,England,Pakistan,11.6,AD Hales,JE Root,Mohammad Nawaz (3),0,0,0,NA,0,NA,NA,NA,1
+913657,1st innings,England,Pakistan,12.1,JE Root,AD Hales,Yasir Shah,1,0,1,NA,0,NA,NA,NA,1
+913657,1st innings,England,Pakistan,12.2,AD Hales,JE Root,Yasir Shah,1,0,1,NA,0,NA,NA,NA,1
+913657,1st innings,England,Pakistan,12.3,JE Root,AD Hales,Yasir Shah,1,0,1,NA,0,NA,NA,NA,1
+913657,1st innings,England,Pakistan,12.4,AD Hales,JE Root,Yasir Shah,0,0,0,NA,0,NA,NA,NA,1
+913657,1st innings,England,Pakistan,12.5,AD Hales,JE Root,Yasir Shah,4,0,4,NA,0,NA,NA,NA,1
+913657,1st innings,England,Pakistan,12.6,AD Hales,JE Root,Yasir Shah,0,0,0,NA,0,NA,NA,NA,1
+913657,1st innings,England,Pakistan,13.1,JE Root,AD Hales,Mohammad Nawaz (3),0,0,0,NA,0,NA,NA,NA,1
+913657,1st innings,England,Pakistan,13.2,JE Root,AD Hales,Mohammad Nawaz (3),1,0,1,NA,0,NA,NA,NA,1
+913657,1st innings,England,Pakistan,13.3,AD Hales,JE Root,Mohammad Nawaz (3),0,0,0,NA,0,NA,NA,NA,1
+913657,1st innings,England,Pakistan,13.4,AD Hales,JE Root,Mohammad Nawaz (3),0,0,0,NA,0,NA,NA,NA,1
+913657,1st innings,England,Pakistan,13.5,AD Hales,JE Root,Mohammad Nawaz (3),0,0,0,NA,0,NA,NA,NA,1
+913657,1st innings,England,Pakistan,13.6,AD Hales,JE Root,Mohammad Nawaz (3),0,0,0,NA,0,NA,NA,NA,1
+913657,1st innings,England,Pakistan,14.1,JE Root,AD Hales,Yasir Shah,0,0,0,NA,0,NA,NA,NA,1
+913657,1st innings,England,Pakistan,14.2,JE Root,AD Hales,Yasir Shah,4,0,4,NA,0,NA,NA,NA,1
+913657,1st innings,England,Pakistan,14.3,JE Root,AD Hales,Yasir Shah,1,0,1,NA,0,NA,NA,NA,1
+913657,1st innings,England,Pakistan,14.4,AD Hales,JE Root,Yasir Shah,0,0,0,NA,0,NA,NA,NA,1
+913657,1st innings,England,Pakistan,14.5,AD Hales,JE Root,Yasir Shah,1,0,1,NA,0,NA,NA,NA,1
+913657,1st innings,England,Pakistan,14.6,JE Root,AD Hales,Yasir Shah,1,0,1,NA,0,NA,NA,NA,1
+913657,1st innings,England,Pakistan,15.1,JE Root,AD Hales,Mohammad Nawaz (3),1,0,1,NA,0,NA,NA,NA,1
+913657,1st innings,England,Pakistan,15.2,AD Hales,JE Root,Mohammad Nawaz (3),0,0,0,NA,0,NA,NA,NA,1
+913657,1st innings,England,Pakistan,15.3,AD Hales,JE Root,Mohammad Nawaz (3),0,0,0,NA,0,NA,NA,NA,1
+913657,1st innings,England,Pakistan,15.4,AD Hales,JE Root,Mohammad Nawaz (3),0,0,0,NA,0,NA,NA,NA,1
+913657,1st innings,England,Pakistan,15.5,AD Hales,JE Root,Mohammad Nawaz (3),1,0,1,NA,0,NA,NA,NA,1
+913657,1st innings,England,Pakistan,15.6,JE Root,AD Hales,Mohammad Nawaz (3),0,0,0,NA,0,NA,NA,NA,1
+913657,1st innings,England,Pakistan,16.1,AD Hales,JE Root,Wahab Riaz,0,0,0,NA,0,NA,NA,NA,1
+913657,1st innings,England,Pakistan,16.2,AD Hales,JE Root,Wahab Riaz,4,0,4,NA,0,NA,NA,NA,1
+913657,1st innings,England,Pakistan,16.3,AD Hales,JE Root,Wahab Riaz,0,0,0,NA,0,NA,NA,NA,1
+913657,1st innings,England,Pakistan,16.4,AD Hales,JE Root,Wahab Riaz,4,0,4,NA,0,NA,NA,NA,1
+913657,1st innings,England,Pakistan,16.5,AD Hales,JE Root,Wahab Riaz,1,0,1,NA,0,NA,NA,NA,1
+913657,1st innings,England,Pakistan,16.6,JE Root,AD Hales,Wahab Riaz,1,0,1,NA,0,NA,NA,NA,1
+913657,1st innings,England,Pakistan,17.1,JE Root,AD Hales,Mohammad Nawaz (3),1,0,1,NA,0,NA,NA,NA,1
+913657,1st innings,England,Pakistan,17.2,AD Hales,JE Root,Mohammad Nawaz (3),1,0,1,NA,0,NA,NA,NA,1
+913657,1st innings,England,Pakistan,17.3,JE Root,AD Hales,Mohammad Nawaz (3),0,0,0,NA,0,NA,NA,NA,1
+913657,1st innings,England,Pakistan,17.4,JE Root,AD Hales,Mohammad Nawaz (3),0,0,0,NA,0,NA,NA,NA,1
+913657,1st innings,England,Pakistan,17.5,JE Root,AD Hales,Mohammad Nawaz (3),1,0,1,NA,0,NA,NA,NA,1
+913657,1st innings,England,Pakistan,17.6,AD Hales,JE Root,Mohammad Nawaz (3),0,0,0,NA,0,NA,NA,NA,1
+913657,1st innings,England,Pakistan,18.1,JE Root,AD Hales,Wahab Riaz,0,4,4,byes,0,NA,NA,NA,1
+913657,1st innings,England,Pakistan,18.2,JE Root,AD Hales,Wahab Riaz,0,0,0,NA,0,NA,NA,NA,1
+913657,1st innings,England,Pakistan,18.3,JE Root,AD Hales,Wahab Riaz,1,0,1,NA,0,NA,NA,NA,1
+913657,1st innings,England,Pakistan,18.4,AD Hales,JE Root,Wahab Riaz,2,0,2,NA,0,NA,NA,NA,1
+913657,1st innings,England,Pakistan,18.5,AD Hales,JE Root,Wahab Riaz,0,0,0,NA,0,NA,NA,NA,1
+913657,1st innings,England,Pakistan,18.6,AD Hales,JE Root,Wahab Riaz,2,0,2,NA,0,NA,NA,NA,1
+913657,1st innings,England,Pakistan,19.1,JE Root,AD Hales,Mohammad Nawaz (3),1,0,1,NA,0,NA,NA,NA,1
+913657,1st innings,England,Pakistan,19.2,AD Hales,JE Root,Mohammad Nawaz (3),1,0,1,NA,0,NA,NA,NA,1
+913657,1st innings,England,Pakistan,19.3,JE Root,AD Hales,Mohammad Nawaz (3),1,0,1,NA,0,NA,NA,NA,1
+913657,1st innings,England,Pakistan,19.4,AD Hales,JE Root,Mohammad Nawaz (3),4,0,4,NA,0,NA,NA,NA,1
+913657,1st innings,England,Pakistan,19.5,AD Hales,JE Root,Mohammad Nawaz (3),6,0,6,NA,0,NA,NA,NA,1
+913657,1st innings,England,Pakistan,19.6,AD Hales,JE Root,Mohammad Nawaz (3),0,0,0,NA,0,NA,NA,NA,1
+913657,1st innings,England,Pakistan,20.1,JE Root,AD Hales,Wahab Riaz,0,0,0,NA,0,NA,NA,NA,1
+913657,1st innings,England,Pakistan,20.2,JE Root,AD Hales,Wahab Riaz,1,0,1,NA,0,NA,NA,NA,1
+913657,1st innings,England,Pakistan,20.3,AD Hales,JE Root,Wahab Riaz,0,0,0,NA,0,NA,NA,NA,1
+913657,1st innings,England,Pakistan,20.4,AD Hales,JE Root,Wahab Riaz,1,1,2,noballs,0,NA,NA,NA,1
+913657,1st innings,England,Pakistan,20.5,JE Root,AD Hales,Wahab Riaz,4,0,4,NA,0,NA,NA,NA,1
+913657,1st innings,England,Pakistan,20.6,JE Root,AD Hales,Wahab Riaz,1,0,1,NA,0,NA,NA,NA,1
+913657,1st innings,England,Pakistan,20.7,AD Hales,JE Root,Wahab Riaz,1,0,1,NA,0,NA,NA,NA,1
+913657,1st innings,England,Pakistan,21.1,AD Hales,JE Root,Mohammad Nawaz (3),1,0,1,NA,0,NA,NA,NA,1
+913657,1st innings,England,Pakistan,21.2,JE Root,AD Hales,Mohammad Nawaz (3),0,0,0,NA,0,NA,NA,NA,1
+913657,1st innings,England,Pakistan,21.3,JE Root,AD Hales,Mohammad Nawaz (3),1,0,1,NA,0,NA,NA,NA,1
+913657,1st innings,England,Pakistan,21.4,AD Hales,JE Root,Mohammad Nawaz (3),1,0,1,NA,0,NA,NA,NA,1
+913657,1st innings,England,Pakistan,21.5,JE Root,AD Hales,Mohammad Nawaz (3),1,0,1,NA,0,NA,NA,NA,1
+913657,1st innings,England,Pakistan,21.6,AD Hales,JE Root,Mohammad Nawaz (3),1,0,1,NA,0,NA,NA,NA,1
+913657,1st innings,England,Pakistan,22.1,AD Hales,JE Root,Azhar Ali,4,0,4,NA,0,NA,NA,NA,1
+913657,1st innings,England,Pakistan,22.2,AD Hales,JE Root,Azhar Ali,6,0,6,NA,0,NA,NA,NA,1
+913657,1st innings,England,Pakistan,22.3,AD Hales,JE Root,Azhar Ali,1,0,1,NA,0,NA,NA,NA,1
+913657,1st innings,England,Pakistan,22.4,JE Root,AD Hales,Azhar Ali,1,0,1,NA,0,NA,NA,NA,1
+913657,1st innings,England,Pakistan,22.5,AD Hales,JE Root,Azhar Ali,4,0,4,NA,0,NA,NA,NA,1
+913657,1st innings,England,Pakistan,22.6,AD Hales,JE Root,Azhar Ali,4,0,4,NA,0,NA,NA,NA,1
+913657,1st innings,England,Pakistan,23.1,JE Root,AD Hales,Hasan Ali,0,0,0,NA,0,NA,NA,NA,1
+913657,1st innings,England,Pakistan,23.2,JE Root,AD Hales,Hasan Ali,1,0,1,NA,0,NA,NA,NA,1
+913657,1st innings,England,Pakistan,23.3,AD Hales,JE Root,Hasan Ali,1,0,1,NA,0,NA,NA,NA,1
+913657,1st innings,England,Pakistan,23.4,JE Root,AD Hales,Hasan Ali,2,0,2,NA,0,NA,NA,NA,1
+913657,1st innings,England,Pakistan,23.5,JE Root,AD Hales,Hasan Ali,0,0,0,NA,0,NA,NA,NA,1
+913657,1st innings,England,Pakistan,23.6,JE Root,AD Hales,Hasan Ali,0,0,0,NA,0,NA,NA,NA,1
+913657,1st innings,England,Pakistan,24.1,AD Hales,JE Root,Yasir Shah,0,0,0,NA,0,NA,NA,NA,1
+913657,1st innings,England,Pakistan,24.2,AD Hales,JE Root,Yasir Shah,1,0,1,NA,0,NA,NA,NA,1
+913657,1st innings,England,Pakistan,24.3,JE Root,AD Hales,Yasir Shah,1,0,1,NA,0,NA,NA,NA,1
+913657,1st innings,England,Pakistan,24.4,AD Hales,JE Root,Yasir Shah,1,0,1,NA,0,NA,NA,NA,1
+913657,1st innings,England,Pakistan,24.5,JE Root,AD Hales,Yasir Shah,1,0,1,NA,0,NA,NA,NA,1
+913657,1st innings,England,Pakistan,24.6,AD Hales,JE Root,Yasir Shah,1,0,1,NA,0,NA,NA,NA,1
+913657,1st innings,England,Pakistan,25.1,AD Hales,JE Root,Hasan Ali,1,0,1,NA,0,NA,NA,NA,1
+913657,1st innings,England,Pakistan,25.2,JE Root,AD Hales,Hasan Ali,1,0,1,NA,0,NA,NA,NA,1
+913657,1st innings,England,Pakistan,25.3,AD Hales,JE Root,Hasan Ali,0,0,0,NA,0,NA,NA,NA,1
+913657,1st innings,England,Pakistan,25.4,AD Hales,JE Root,Hasan Ali,0,0,0,NA,0,NA,NA,NA,1
+913657,1st innings,England,Pakistan,25.5,AD Hales,JE Root,Hasan Ali,1,0,1,NA,0,NA,NA,NA,1
+913657,1st innings,England,Pakistan,25.6,JE Root,AD Hales,Hasan Ali,0,0,0,NA,0,NA,NA,NA,1
+913657,1st innings,England,Pakistan,26.1,AD Hales,JE Root,Yasir Shah,1,0,1,NA,0,NA,NA,NA,1
+913657,1st innings,England,Pakistan,26.2,JE Root,AD Hales,Yasir Shah,0,0,0,NA,0,NA,NA,NA,1
+913657,1st innings,England,Pakistan,26.3,JE Root,AD Hales,Yasir Shah,2,0,2,NA,0,NA,NA,NA,1
+913657,1st innings,England,Pakistan,26.4,JE Root,AD Hales,Yasir Shah,1,0,1,NA,0,NA,NA,NA,1
+913657,1st innings,England,Pakistan,26.5,AD Hales,JE Root,Yasir Shah,0,0,0,NA,0,NA,NA,NA,1
+913657,1st innings,England,Pakistan,26.6,AD Hales,JE Root,Yasir Shah,4,0,4,NA,0,NA,NA,NA,1
+913657,1st innings,England,Pakistan,27.1,JE Root,AD Hales,Mohammad Amir,0,0,0,NA,0,NA,NA,NA,1
+913657,1st innings,England,Pakistan,27.2,JE Root,AD Hales,Mohammad Amir,1,0,1,NA,0,NA,NA,NA,1
+913657,1st innings,England,Pakistan,27.3,AD Hales,JE Root,Mohammad Amir,0,0,0,NA,0,NA,NA,NA,1
+913657,1st innings,England,Pakistan,27.4,AD Hales,JE Root,Mohammad Amir,2,0,2,NA,0,NA,NA,NA,1
+913657,1st innings,England,Pakistan,27.5,AD Hales,JE Root,Mohammad Amir,1,0,1,NA,0,NA,NA,NA,1
+913657,1st innings,England,Pakistan,27.6,JE Root,AD Hales,Mohammad Amir,1,0,1,NA,0,NA,NA,NA,1
+913657,1st innings,England,Pakistan,28.1,JE Root,AD Hales,Yasir Shah,4,0,4,NA,0,NA,NA,NA,1
+913657,1st innings,England,Pakistan,28.2,JE Root,AD Hales,Yasir Shah,0,0,0,NA,0,NA,NA,NA,1
+913657,1st innings,England,Pakistan,28.3,JE Root,AD Hales,Yasir Shah,1,0,1,NA,0,NA,NA,NA,1
+913657,1st innings,England,Pakistan,28.4,AD Hales,JE Root,Yasir Shah,4,0,4,NA,0,NA,NA,NA,1
+913657,1st innings,England,Pakistan,28.5,AD Hales,JE Root,Yasir Shah,2,0,2,NA,0,NA,NA,NA,1
+913657,1st innings,England,Pakistan,28.6,AD Hales,JE Root,Yasir Shah,6,0,6,NA,0,NA,NA,NA,1
+913657,1st innings,England,Pakistan,29.1,JE Root,AD Hales,Mohammad Amir,1,0,1,NA,0,NA,NA,NA,1
+913657,1st innings,England,Pakistan,29.2,AD Hales,JE Root,Mohammad Amir,1,0,1,NA,0,NA,NA,NA,1
+913657,1st innings,England,Pakistan,29.3,JE Root,AD Hales,Mohammad Amir,0,0,0,NA,0,NA,NA,NA,1
+913657,1st innings,England,Pakistan,29.4,JE Root,AD Hales,Mohammad Amir,0,0,0,NA,0,NA,NA,NA,1
+913657,1st innings,England,Pakistan,29.5,JE Root,AD Hales,Mohammad Amir,1,0,1,NA,0,NA,NA,NA,1
+913657,1st innings,England,Pakistan,29.6,AD Hales,JE Root,Mohammad Amir,2,0,2,NA,0,NA,NA,NA,1
+913657,1st innings,England,Pakistan,30.1,JE Root,AD Hales,Wahab Riaz,1,0,1,NA,0,NA,NA,NA,1
+913657,1st innings,England,Pakistan,30.2,AD Hales,JE Root,Wahab Riaz,1,0,1,NA,0,NA,NA,NA,1
+913657,1st innings,England,Pakistan,30.3,JE Root,AD Hales,Wahab Riaz,4,0,4,NA,0,NA,NA,NA,1
+913657,1st innings,England,Pakistan,30.4,JE Root,AD Hales,Wahab Riaz,0,0,0,NA,0,NA,NA,NA,1
+913657,1st innings,England,Pakistan,30.5,JE Root,AD Hales,Wahab Riaz,1,0,1,NA,0,NA,NA,NA,1
+913657,1st innings,England,Pakistan,30.6,AD Hales,JE Root,Wahab Riaz,1,0,1,NA,0,NA,NA,NA,1
+913657,1st innings,England,Pakistan,31.1,AD Hales,JE Root,Mohammad Nawaz (3),0,0,0,NA,0,NA,NA,NA,1
+913657,1st innings,England,Pakistan,31.2,AD Hales,JE Root,Mohammad Nawaz (3),1,0,1,NA,0,NA,NA,NA,1
+913657,1st innings,England,Pakistan,31.3,JE Root,AD Hales,Mohammad Nawaz (3),1,0,1,NA,0,NA,NA,NA,1
+913657,1st innings,England,Pakistan,31.4,AD Hales,JE Root,Mohammad Nawaz (3),4,0,4,NA,0,NA,NA,NA,1
+913657,1st innings,England,Pakistan,31.5,AD Hales,JE Root,Mohammad Nawaz (3),4,0,4,NA,0,NA,NA,NA,1
+913657,1st innings,England,Pakistan,31.6,AD Hales,JE Root,Mohammad Nawaz (3),1,0,1,NA,0,NA,NA,NA,1
+913657,1st innings,England,Pakistan,32.1,AD Hales,JE Root,Wahab Riaz,4,0,4,NA,0,NA,NA,NA,1
+913657,1st innings,England,Pakistan,32.2,AD Hales,JE Root,Wahab Riaz,1,0,1,NA,0,NA,NA,NA,1
+913657,1st innings,England,Pakistan,32.3,JE Root,AD Hales,Wahab Riaz,1,0,1,NA,0,NA,NA,NA,1
+913657,1st innings,England,Pakistan,32.4,AD Hales,JE Root,Wahab Riaz,4,0,4,NA,0,NA,NA,NA,1
+913657,1st innings,England,Pakistan,32.5,AD Hales,JE Root,Wahab Riaz,0,0,0,NA,0,NA,NA,NA,1
+913657,1st innings,England,Pakistan,32.6,AD Hales,JE Root,Wahab Riaz,0,1,1,wides,0,NA,NA,NA,1
+913657,1st innings,England,Pakistan,32.7,AD Hales,JE Root,Wahab Riaz,4,0,4,NA,0,NA,NA,NA,1
+913657,1st innings,England,Pakistan,33.1,JE Root,AD Hales,Shoaib Malik,0,0,0,NA,0,NA,NA,NA,1
+913657,1st innings,England,Pakistan,33.2,JE Root,AD Hales,Shoaib Malik,1,0,1,NA,0,NA,NA,NA,1
+913657,1st innings,England,Pakistan,33.3,AD Hales,JE Root,Shoaib Malik,1,0,1,NA,0,NA,NA,NA,1
+913657,1st innings,England,Pakistan,33.4,JE Root,AD Hales,Shoaib Malik,4,0,4,NA,0,NA,NA,NA,1
+913657,1st innings,England,Pakistan,33.5,JE Root,AD Hales,Shoaib Malik,0,2,2,legbyes,0,NA,NA,NA,1
+913657,1st innings,England,Pakistan,33.6,JE Root,AD Hales,Shoaib Malik,0,0,0,NA,0,NA,NA,NA,1
+913657,1st innings,England,Pakistan,34.1,AD Hales,JE Root,Wahab Riaz,0,0,0,NA,0,NA,NA,NA,1
+913657,1st innings,England,Pakistan,34.2,AD Hales,JE Root,Wahab Riaz,1,0,1,NA,0,NA,NA,NA,1
+913657,1st innings,England,Pakistan,34.3,JE Root,AD Hales,Wahab Riaz,4,0,4,NA,0,NA,NA,NA,1
+913657,1st innings,England,Pakistan,34.4,JE Root,AD Hales,Wahab Riaz,1,0,1,NA,0,NA,NA,NA,1
+913657,1st innings,England,Pakistan,34.5,AD Hales,JE Root,Wahab Riaz,4,0,4,NA,0,NA,NA,NA,1
+913657,1st innings,England,Pakistan,34.6,AD Hales,JE Root,Wahab Riaz,4,0,4,NA,0,NA,NA,NA,1
+913657,1st innings,England,Pakistan,35.1,JE Root,AD Hales,Shoaib Malik,4,0,4,NA,0,NA,NA,NA,1
+913657,1st innings,England,Pakistan,35.2,JE Root,AD Hales,Shoaib Malik,0,0,0,NA,0,NA,NA,NA,1
+913657,1st innings,England,Pakistan,35.3,JE Root,AD Hales,Shoaib Malik,1,0,1,NA,0,NA,NA,NA,1
+913657,1st innings,England,Pakistan,35.4,AD Hales,JE Root,Shoaib Malik,4,0,4,NA,0,NA,NA,NA,1
+913657,1st innings,England,Pakistan,35.5,AD Hales,JE Root,Shoaib Malik,1,0,1,NA,0,NA,NA,NA,1
+913657,1st innings,England,Pakistan,35.6,JE Root,AD Hales,Shoaib Malik,2,0,2,NA,0,NA,NA,NA,1
+913657,1st innings,England,Pakistan,36.1,AD Hales,JE Root,Hasan Ali,0,0,0,NA,0,NA,NA,NA,1
+913657,1st innings,England,Pakistan,36.2,AD Hales,JE Root,Hasan Ali,1,0,1,NA,0,NA,NA,NA,1
+913657,1st innings,England,Pakistan,36.3,JE Root,AD Hales,Hasan Ali,1,1,2,noballs,0,NA,NA,NA,1
+913657,1st innings,England,Pakistan,36.4,AD Hales,JE Root,Hasan Ali,1,0,1,NA,0,NA,NA,NA,1
+913657,1st innings,England,Pakistan,36.5,JE Root,AD Hales,Hasan Ali,1,0,1,NA,0,NA,NA,NA,1
+913657,1st innings,England,Pakistan,36.6,AD Hales,JE Root,Hasan Ali,4,0,4,NA,0,NA,NA,NA,1
+913657,1st innings,England,Pakistan,36.7,AD Hales,JE Root,Hasan Ali,0,0,0,NA,1,lbw,AD Hales,NA,1
+913657,1st innings,England,Pakistan,37.1,JE Root,JC Buttler,Mohammad Nawaz (3),1,0,1,NA,0,NA,NA,NA,1
+913657,1st innings,England,Pakistan,37.2,JC Buttler,JE Root,Mohammad Nawaz (3),0,0,0,NA,0,NA,NA,NA,1
+913657,1st innings,England,Pakistan,37.3,JC Buttler,JE Root,Mohammad Nawaz (3),0,0,0,NA,0,NA,NA,NA,1
+913657,1st innings,England,Pakistan,37.4,JC Buttler,JE Root,Mohammad Nawaz (3),0,0,0,NA,0,NA,NA,NA,1
+913657,1st innings,England,Pakistan,37.5,JC Buttler,JE Root,Mohammad Nawaz (3),1,0,1,NA,0,NA,NA,NA,1
+913657,1st innings,England,Pakistan,37.6,JE Root,JC Buttler,Mohammad Nawaz (3),0,0,0,NA,1,caught,JE Root,Sarfraz Ahmed,1
+913657,1st innings,England,Pakistan,38.1,JC Buttler,EJG Morgan,Hasan Ali,0,0,0,NA,0,NA,NA,NA,1
+913657,1st innings,England,Pakistan,38.2,JC Buttler,EJG Morgan,Hasan Ali,0,1,1,legbyes,0,NA,NA,NA,1
+913657,1st innings,England,Pakistan,38.3,EJG Morgan,JC Buttler,Hasan Ali,0,0,0,NA,0,NA,NA,NA,1
+913657,1st innings,England,Pakistan,38.4,EJG Morgan,JC Buttler,Hasan Ali,1,0,1,NA,0,NA,NA,NA,1
+913657,1st innings,England,Pakistan,38.5,JC Buttler,EJG Morgan,Hasan Ali,0,0,0,NA,0,NA,NA,NA,1
+913657,1st innings,England,Pakistan,38.6,JC Buttler,EJG Morgan,Hasan Ali,4,0,4,NA,0,NA,NA,NA,1
+913657,1st innings,England,Pakistan,39.1,EJG Morgan,JC Buttler,Mohammad Nawaz (3),0,0,0,NA,0,NA,NA,NA,1
+913657,1st innings,England,Pakistan,39.2,EJG Morgan,JC Buttler,Mohammad Nawaz (3),1,0,1,NA,0,NA,NA,NA,1
+913657,1st innings,England,Pakistan,39.3,JC Buttler,EJG Morgan,Mohammad Nawaz (3),6,0,6,NA,0,NA,NA,NA,1
+913657,1st innings,England,Pakistan,39.4,JC Buttler,EJG Morgan,Mohammad Nawaz (3),6,0,6,NA,0,NA,NA,NA,1
+913657,1st innings,England,Pakistan,39.5,JC Buttler,EJG Morgan,Mohammad Nawaz (3),1,0,1,NA,0,NA,NA,NA,1
+913657,1st innings,England,Pakistan,39.6,EJG Morgan,JC Buttler,Mohammad Nawaz (3),6,0,6,NA,0,NA,NA,NA,1
+913657,1st innings,England,Pakistan,40.1,JC Buttler,EJG Morgan,Hasan Ali,0,0,0,NA,0,NA,NA,NA,1
+913657,1st innings,England,Pakistan,40.2,JC Buttler,EJG Morgan,Hasan Ali,4,0,4,NA,0,NA,NA,NA,1
+913657,1st innings,England,Pakistan,40.3,JC Buttler,EJG Morgan,Hasan Ali,0,1,1,noballs,0,NA,NA,NA,1
+913657,1st innings,England,Pakistan,40.4,JC Buttler,EJG Morgan,Hasan Ali,4,0,4,NA,0,NA,NA,NA,1
+913657,1st innings,England,Pakistan,40.5,JC Buttler,EJG Morgan,Hasan Ali,1,0,1,NA,0,NA,NA,NA,1
+913657,1st innings,England,Pakistan,40.6,EJG Morgan,JC Buttler,Hasan Ali,1,0,1,NA,0,NA,NA,NA,1
+913657,1st innings,England,Pakistan,40.7,JC Buttler,EJG Morgan,Hasan Ali,1,0,1,NA,0,NA,NA,NA,1
+913657,1st innings,England,Pakistan,41.1,JC Buttler,EJG Morgan,Shoaib Malik,6,0,6,NA,0,NA,NA,NA,1
+913657,1st innings,England,Pakistan,41.2,JC Buttler,EJG Morgan,Shoaib Malik,1,0,1,NA,0,NA,NA,NA,1
+913657,1st innings,England,Pakistan,41.3,EJG Morgan,JC Buttler,Shoaib Malik,1,0,1,NA,0,NA,NA,NA,1
+913657,1st innings,England,Pakistan,41.4,JC Buttler,EJG Morgan,Shoaib Malik,6,0,6,NA,0,NA,NA,NA,1
+913657,1st innings,England,Pakistan,41.5,JC Buttler,EJG Morgan,Shoaib Malik,6,0,6,NA,0,NA,NA,NA,1
+913657,1st innings,England,Pakistan,41.6,JC Buttler,EJG Morgan,Shoaib Malik,6,0,6,NA,0,NA,NA,NA,1
+913657,1st innings,England,Pakistan,42.1,EJG Morgan,JC Buttler,Mohammad Amir,0,0,0,NA,0,NA,NA,NA,1
+913657,1st innings,England,Pakistan,42.2,EJG Morgan,JC Buttler,Mohammad Amir,2,0,2,NA,0,NA,NA,NA,1
+913657,1st innings,England,Pakistan,42.3,EJG Morgan,JC Buttler,Mohammad Amir,1,0,1,NA,0,NA,NA,NA,1
+913657,1st innings,England,Pakistan,42.4,JC Buttler,EJG Morgan,Mohammad Amir,0,0,0,NA,0,NA,NA,NA,1
+913657,1st innings,England,Pakistan,42.5,JC Buttler,EJG Morgan,Mohammad Amir,1,0,1,NA,0,NA,NA,NA,1
+913657,1st innings,England,Pakistan,42.6,EJG Morgan,JC Buttler,Mohammad Amir,1,0,1,NA,0,NA,NA,NA,1
+913657,1st innings,England,Pakistan,43.1,EJG Morgan,JC Buttler,Wahab Riaz,2,0,2,NA,0,NA,NA,NA,1
+913657,1st innings,England,Pakistan,43.2,EJG Morgan,JC Buttler,Wahab Riaz,0,0,0,NA,0,NA,NA,NA,1
+913657,1st innings,England,Pakistan,43.3,EJG Morgan,JC Buttler,Wahab Riaz,6,0,6,NA,0,NA,NA,NA,1
+913657,1st innings,England,Pakistan,43.4,EJG Morgan,JC Buttler,Wahab Riaz,4,0,4,NA,0,NA,NA,NA,1
+913657,1st innings,England,Pakistan,43.5,EJG Morgan,JC Buttler,Wahab Riaz,1,0,1,NA,0,NA,NA,NA,1
+913657,1st innings,England,Pakistan,43.6,JC Buttler,EJG Morgan,Wahab Riaz,0,0,0,NA,0,NA,NA,NA,1
+913657,1st innings,England,Pakistan,44.1,EJG Morgan,JC Buttler,Mohammad Amir,6,0,6,NA,0,NA,NA,NA,1
+913657,1st innings,England,Pakistan,44.2,EJG Morgan,JC Buttler,Mohammad Amir,4,0,4,NA,0,NA,NA,NA,1
+913657,1st innings,England,Pakistan,44.3,EJG Morgan,JC Buttler,Mohammad Amir,4,0,4,NA,0,NA,NA,NA,1
+913657,1st innings,England,Pakistan,44.4,EJG Morgan,JC Buttler,Mohammad Amir,1,0,1,NA,0,NA,NA,NA,1
+913657,1st innings,England,Pakistan,44.5,JC Buttler,EJG Morgan,Mohammad Amir,2,0,2,NA,0,NA,NA,NA,1
+913657,1st innings,England,Pakistan,44.6,JC Buttler,EJG Morgan,Mohammad Amir,0,1,1,byes,0,NA,NA,NA,1
+913657,1st innings,England,Pakistan,45.1,JC Buttler,EJG Morgan,Wahab Riaz,0,0,0,NA,0,NA,NA,NA,1
+913657,1st innings,England,Pakistan,45.2,JC Buttler,EJG Morgan,Wahab Riaz,1,0,1,NA,0,NA,NA,NA,1
+913657,1st innings,England,Pakistan,45.3,EJG Morgan,JC Buttler,Wahab Riaz,0,1,1,wides,0,NA,NA,NA,1
+913657,1st innings,England,Pakistan,45.4,EJG Morgan,JC Buttler,Wahab Riaz,1,0,1,NA,0,NA,NA,NA,1
+913657,1st innings,England,Pakistan,45.5,JC Buttler,EJG Morgan,Wahab Riaz,0,0,0,NA,0,NA,NA,NA,1
+913657,1st innings,England,Pakistan,45.6,JC Buttler,EJG Morgan,Wahab Riaz,1,0,1,NA,0,NA,NA,NA,1
+913657,1st innings,England,Pakistan,45.7,EJG Morgan,JC Buttler,Wahab Riaz,2,0,2,NA,0,NA,NA,NA,1
+913657,1st innings,England,Pakistan,46.1,JC Buttler,EJG Morgan,Mohammad Amir,4,0,4,NA,0,NA,NA,NA,1
+913657,1st innings,England,Pakistan,46.2,JC Buttler,EJG Morgan,Mohammad Amir,0,0,0,NA,0,NA,NA,NA,1
+913657,1st innings,England,Pakistan,46.3,JC Buttler,EJG Morgan,Mohammad Amir,4,0,4,NA,0,NA,NA,NA,1
+913657,1st innings,England,Pakistan,46.4,JC Buttler,EJG Morgan,Mohammad Amir,0,1,1,wides,0,NA,NA,NA,1
+913657,1st innings,England,Pakistan,46.5,JC Buttler,EJG Morgan,Mohammad Amir,2,0,2,NA,0,NA,NA,NA,1
+913657,1st innings,England,Pakistan,46.6,JC Buttler,EJG Morgan,Mohammad Amir,1,0,1,NA,0,NA,NA,NA,1
+913657,1st innings,England,Pakistan,46.7,EJG Morgan,JC Buttler,Mohammad Amir,0,4,4,legbyes,0,NA,NA,NA,1
+913657,1st innings,England,Pakistan,47.1,JC Buttler,EJG Morgan,Wahab Riaz,0,0,0,NA,0,NA,NA,NA,1
+913657,1st innings,England,Pakistan,47.2,JC Buttler,EJG Morgan,Wahab Riaz,6,0,6,NA,0,NA,NA,NA,1
+913657,1st innings,England,Pakistan,47.3,JC Buttler,EJG Morgan,Wahab Riaz,0,5,5,noballs,0,NA,NA,NA,1
+913657,1st innings,England,Pakistan,47.4,JC Buttler,EJG Morgan,Wahab Riaz,0,0,0,NA,0,NA,NA,NA,1
+913657,1st innings,England,Pakistan,47.5,JC Buttler,EJG Morgan,Wahab Riaz,1,0,1,NA,0,NA,NA,NA,1
+913657,1st innings,England,Pakistan,47.6,EJG Morgan,JC Buttler,Wahab Riaz,6,0,6,NA,0,NA,NA,NA,1
+913657,1st innings,England,Pakistan,47.7,EJG Morgan,JC Buttler,Wahab Riaz,6,0,6,NA,0,NA,NA,NA,1
+913657,1st innings,England,Pakistan,48.1,JC Buttler,EJG Morgan,Mohammad Amir,0,0,0,NA,0,NA,NA,NA,1
+913657,1st innings,England,Pakistan,48.2,JC Buttler,EJG Morgan,Mohammad Amir,2,0,2,NA,0,NA,NA,NA,1
+913657,1st innings,England,Pakistan,48.3,JC Buttler,EJG Morgan,Mohammad Amir,4,0,4,NA,0,NA,NA,NA,1
+913657,1st innings,England,Pakistan,48.4,JC Buttler,EJG Morgan,Mohammad Amir,2,0,2,NA,0,NA,NA,NA,1
+913657,1st innings,England,Pakistan,48.5,JC Buttler,EJG Morgan,Mohammad Amir,0,0,0,NA,0,NA,NA,NA,1
+913657,1st innings,England,Pakistan,48.6,JC Buttler,EJG Morgan,Mohammad Amir,1,0,1,NA,0,NA,NA,NA,1
+913657,1st innings,England,Pakistan,49.1,JC Buttler,EJG Morgan,Hasan Ali,1,0,1,NA,0,NA,NA,NA,1
+913657,1st innings,England,Pakistan,49.2,EJG Morgan,JC Buttler,Hasan Ali,0,0,0,NA,0,NA,NA,NA,1
+913657,1st innings,England,Pakistan,49.3,EJG Morgan,JC Buttler,Hasan Ali,0,1,1,byes,0,NA,NA,NA,1
+913657,1st innings,England,Pakistan,49.4,JC Buttler,EJG Morgan,Hasan Ali,0,0,0,NA,0,NA,NA,NA,1
+913657,1st innings,England,Pakistan,49.5,JC Buttler,EJG Morgan,Hasan Ali,0,0,0,NA,0,NA,NA,NA,1
+913657,1st innings,England,Pakistan,49.6,JC Buttler,EJG Morgan,Hasan Ali,4,0,4,NA,0,NA,NA,NA,1
+913657,2nd innings,Pakistan,England,0.1,Sami Aslam,Sharjeel Khan,MA Wood,0,0,0,NA,0,NA,NA,NA,0
+913657,2nd innings,Pakistan,England,0.2,Sami Aslam,Sharjeel Khan,MA Wood,0,0,0,NA,0,NA,NA,NA,0
+913657,2nd innings,Pakistan,England,0.3,Sami Aslam,Sharjeel Khan,MA Wood,1,0,1,NA,0,NA,NA,NA,0
+913657,2nd innings,Pakistan,England,0.4,Sharjeel Khan,Sami Aslam,MA Wood,0,0,0,NA,0,NA,NA,NA,0
+913657,2nd innings,Pakistan,England,0.5,Sharjeel Khan,Sami Aslam,MA Wood,4,0,4,NA,0,NA,NA,NA,0
+913657,2nd innings,Pakistan,England,0.6,Sharjeel Khan,Sami Aslam,MA Wood,0,0,0,NA,0,NA,NA,NA,0
+913657,2nd innings,Pakistan,England,1.1,Sami Aslam,Sharjeel Khan,CR Woakes,0,0,0,NA,0,NA,NA,NA,0
+913657,2nd innings,Pakistan,England,1.2,Sami Aslam,Sharjeel Khan,CR Woakes,0,0,0,NA,0,NA,NA,NA,0
+913657,2nd innings,Pakistan,England,1.3,Sami Aslam,Sharjeel Khan,CR Woakes,1,0,1,NA,0,NA,NA,NA,0
+913657,2nd innings,Pakistan,England,1.4,Sharjeel Khan,Sami Aslam,CR Woakes,0,0,0,NA,0,NA,NA,NA,0
+913657,2nd innings,Pakistan,England,1.5,Sharjeel Khan,Sami Aslam,CR Woakes,0,0,0,NA,0,NA,NA,NA,0
+913657,2nd innings,Pakistan,England,1.6,Sharjeel Khan,Sami Aslam,CR Woakes,4,0,4,NA,0,NA,NA,NA,0
+913657,2nd innings,Pakistan,England,2.1,Sami Aslam,Sharjeel Khan,MA Wood,4,0,4,NA,0,NA,NA,NA,0
+913657,2nd innings,Pakistan,England,2.2,Sami Aslam,Sharjeel Khan,MA Wood,1,0,1,NA,0,NA,NA,NA,0
+913657,2nd innings,Pakistan,England,2.3,Sharjeel Khan,Sami Aslam,MA Wood,1,0,1,NA,0,NA,NA,NA,0
+913657,2nd innings,Pakistan,England,2.4,Sami Aslam,Sharjeel Khan,MA Wood,1,0,1,NA,0,NA,NA,NA,0
+913657,2nd innings,Pakistan,England,2.5,Sharjeel Khan,Sami Aslam,MA Wood,4,0,4,NA,0,NA,NA,NA,0
+913657,2nd innings,Pakistan,England,2.6,Sharjeel Khan,Sami Aslam,MA Wood,0,0,0,NA,0,NA,NA,NA,0
+913657,2nd innings,Pakistan,England,3.1,Sami Aslam,Sharjeel Khan,CR Woakes,0,0,0,NA,0,NA,NA,NA,0
+913657,2nd innings,Pakistan,England,3.2,Sami Aslam,Sharjeel Khan,CR Woakes,0,0,0,NA,0,NA,NA,NA,0
+913657,2nd innings,Pakistan,England,3.3,Sami Aslam,Sharjeel Khan,CR Woakes,0,0,0,NA,0,NA,NA,NA,0
+913657,2nd innings,Pakistan,England,3.4,Sami Aslam,Sharjeel Khan,CR Woakes,0,0,0,NA,1,caught,Sami Aslam,MM Ali,0
+913657,2nd innings,Pakistan,England,3.5,Azhar Ali,Sharjeel Khan,CR Woakes,0,0,0,NA,0,NA,NA,NA,0
+913657,2nd innings,Pakistan,England,3.6,Azhar Ali,Sharjeel Khan,CR Woakes,0,0,0,NA,0,NA,NA,NA,0
+913657,2nd innings,Pakistan,England,4.1,Sharjeel Khan,Azhar Ali,MA Wood,4,0,4,NA,0,NA,NA,NA,0
+913657,2nd innings,Pakistan,England,4.2,Sharjeel Khan,Azhar Ali,MA Wood,0,0,0,NA,0,NA,NA,NA,0
+913657,2nd innings,Pakistan,England,4.3,Sharjeel Khan,Azhar Ali,MA Wood,4,0,4,NA,0,NA,NA,NA,0
+913657,2nd innings,Pakistan,England,4.4,Sharjeel Khan,Azhar Ali,MA Wood,1,0,1,NA,0,NA,NA,NA,0
+913657,2nd innings,Pakistan,England,4.5,Azhar Ali,Sharjeel Khan,MA Wood,0,0,0,NA,0,NA,NA,NA,0
+913657,2nd innings,Pakistan,England,4.6,Azhar Ali,Sharjeel Khan,MA Wood,4,0,4,NA,0,NA,NA,NA,0
+913657,2nd innings,Pakistan,England,5.1,Sharjeel Khan,Azhar Ali,CR Woakes,4,0,4,NA,0,NA,NA,NA,0
+913657,2nd innings,Pakistan,England,5.2,Sharjeel Khan,Azhar Ali,CR Woakes,1,0,1,NA,0,NA,NA,NA,0
+913657,2nd innings,Pakistan,England,5.3,Azhar Ali,Sharjeel Khan,CR Woakes,4,0,4,NA,0,NA,NA,NA,0
+913657,2nd innings,Pakistan,England,5.4,Azhar Ali,Sharjeel Khan,CR Woakes,0,0,0,NA,0,NA,NA,NA,0
+913657,2nd innings,Pakistan,England,5.5,Azhar Ali,Sharjeel Khan,CR Woakes,0,0,0,NA,0,NA,NA,NA,0
+913657,2nd innings,Pakistan,England,5.6,Azhar Ali,Sharjeel Khan,CR Woakes,2,0,2,NA,0,NA,NA,NA,0
+913657,2nd innings,Pakistan,England,6.1,Sharjeel Khan,Azhar Ali,MA Wood,0,0,0,NA,0,NA,NA,NA,0
+913657,2nd innings,Pakistan,England,6.2,Sharjeel Khan,Azhar Ali,MA Wood,0,1,1,legbyes,0,NA,NA,NA,0
+913657,2nd innings,Pakistan,England,6.3,Azhar Ali,Sharjeel Khan,MA Wood,0,0,0,NA,0,NA,NA,NA,0
+913657,2nd innings,Pakistan,England,6.4,Azhar Ali,Sharjeel Khan,MA Wood,0,0,0,NA,0,NA,NA,NA,0
+913657,2nd innings,Pakistan,England,6.5,Azhar Ali,Sharjeel Khan,MA Wood,1,0,1,NA,0,NA,NA,NA,0
+913657,2nd innings,Pakistan,England,6.6,Sharjeel Khan,Azhar Ali,MA Wood,0,1,1,wides,0,NA,NA,NA,0
+913657,2nd innings,Pakistan,England,6.7,Sharjeel Khan,Azhar Ali,MA Wood,0,0,0,NA,0,NA,NA,NA,0
+913657,2nd innings,Pakistan,England,7.1,Azhar Ali,Sharjeel Khan,CR Woakes,2,0,2,NA,0,NA,NA,NA,0
+913657,2nd innings,Pakistan,England,7.2,Azhar Ali,Sharjeel Khan,CR Woakes,0,0,0,NA,0,NA,NA,NA,0
+913657,2nd innings,Pakistan,England,7.3,Azhar Ali,Sharjeel Khan,CR Woakes,0,0,0,NA,1,caught,Azhar Ali,AU Rashid,0
+913657,2nd innings,Pakistan,England,7.4,Babar Azam,Sharjeel Khan,CR Woakes,0,0,0,NA,0,NA,NA,NA,0
+913657,2nd innings,Pakistan,England,7.5,Babar Azam,Sharjeel Khan,CR Woakes,2,0,2,NA,0,NA,NA,NA,0
+913657,2nd innings,Pakistan,England,7.6,Babar Azam,Sharjeel Khan,CR Woakes,0,0,0,NA,0,NA,NA,NA,0
+913657,2nd innings,Pakistan,England,8.1,Sharjeel Khan,Babar Azam,MA Wood,4,0,4,NA,0,NA,NA,NA,0
+913657,2nd innings,Pakistan,England,8.2,Sharjeel Khan,Babar Azam,MA Wood,4,0,4,NA,0,NA,NA,NA,0
+913657,2nd innings,Pakistan,England,8.3,Sharjeel Khan,Babar Azam,MA Wood,4,0,4,NA,0,NA,NA,NA,0
+913657,2nd innings,Pakistan,England,8.4,Sharjeel Khan,Babar Azam,MA Wood,4,0,4,NA,0,NA,NA,NA,0
+913657,2nd innings,Pakistan,England,8.5,Sharjeel Khan,Babar Azam,MA Wood,0,0,0,NA,0,NA,NA,NA,0
+913657,2nd innings,Pakistan,England,8.6,Sharjeel Khan,Babar Azam,MA Wood,1,0,1,NA,0,NA,NA,NA,0
+913657,2nd innings,Pakistan,England,9.1,Sharjeel Khan,Babar Azam,CR Woakes,4,0,4,NA,0,NA,NA,NA,0
+913657,2nd innings,Pakistan,England,9.2,Sharjeel Khan,Babar Azam,CR Woakes,4,0,4,NA,0,NA,NA,NA,0
+913657,2nd innings,Pakistan,England,9.3,Sharjeel Khan,Babar Azam,CR Woakes,0,0,0,NA,0,NA,NA,NA,0
+913657,2nd innings,Pakistan,England,9.4,Sharjeel Khan,Babar Azam,CR Woakes,0,0,0,NA,0,NA,NA,NA,0
+913657,2nd innings,Pakistan,England,9.5,Sharjeel Khan,Babar Azam,CR Woakes,6,0,6,NA,0,NA,NA,NA,0
+913657,2nd innings,Pakistan,England,9.6,Sharjeel Khan,Babar Azam,CR Woakes,0,0,0,NA,1,caught,Sharjeel Khan,BA Stokes,0
+913657,2nd innings,Pakistan,England,10.1,Babar Azam,Sarfraz Ahmed,LE Plunkett,0,0,0,NA,0,NA,NA,NA,0
+913657,2nd innings,Pakistan,England,10.2,Babar Azam,Sarfraz Ahmed,LE Plunkett,1,0,1,NA,0,NA,NA,NA,0
+913657,2nd innings,Pakistan,England,10.3,Sarfraz Ahmed,Babar Azam,LE Plunkett,1,0,1,NA,0,NA,NA,NA,0
+913657,2nd innings,Pakistan,England,10.4,Babar Azam,Sarfraz Ahmed,LE Plunkett,0,0,0,NA,0,NA,NA,NA,0
+913657,2nd innings,Pakistan,England,10.5,Babar Azam,Sarfraz Ahmed,LE Plunkett,0,0,0,NA,0,NA,NA,NA,0
+913657,2nd innings,Pakistan,England,10.6,Babar Azam,Sarfraz Ahmed,LE Plunkett,1,0,1,NA,0,NA,NA,NA,0
+913657,2nd innings,Pakistan,England,11.1,Babar Azam,Sarfraz Ahmed,BA Stokes,1,0,1,NA,0,NA,NA,NA,0
+913657,2nd innings,Pakistan,England,11.2,Sarfraz Ahmed,Babar Azam,BA Stokes,0,0,0,NA,0,NA,NA,NA,0
+913657,2nd innings,Pakistan,England,11.3,Sarfraz Ahmed,Babar Azam,BA Stokes,0,0,0,NA,0,NA,NA,NA,0
+913657,2nd innings,Pakistan,England,11.4,Sarfraz Ahmed,Babar Azam,BA Stokes,1,0,1,NA,0,NA,NA,NA,0
+913657,2nd innings,Pakistan,England,11.5,Babar Azam,Sarfraz Ahmed,BA Stokes,1,0,1,NA,0,NA,NA,NA,0
+913657,2nd innings,Pakistan,England,11.6,Sarfraz Ahmed,Babar Azam,BA Stokes,1,0,1,NA,0,NA,NA,NA,0
+913657,2nd innings,Pakistan,England,12.1,Sarfraz Ahmed,Babar Azam,LE Plunkett,0,0,0,NA,0,NA,NA,NA,0
+913657,2nd innings,Pakistan,England,12.2,Sarfraz Ahmed,Babar Azam,LE Plunkett,4,0,4,NA,0,NA,NA,NA,0
+913657,2nd innings,Pakistan,England,12.3,Sarfraz Ahmed,Babar Azam,LE Plunkett,1,0,1,NA,0,NA,NA,NA,0
+913657,2nd innings,Pakistan,England,12.4,Babar Azam,Sarfraz Ahmed,LE Plunkett,1,0,1,NA,0,NA,NA,NA,0
+913657,2nd innings,Pakistan,England,12.5,Sarfraz Ahmed,Babar Azam,LE Plunkett,0,0,0,NA,0,NA,NA,NA,0
+913657,2nd innings,Pakistan,England,12.6,Sarfraz Ahmed,Babar Azam,LE Plunkett,2,0,2,NA,0,NA,NA,NA,0
+913657,2nd innings,Pakistan,England,13.1,Babar Azam,Sarfraz Ahmed,BA Stokes,0,0,0,NA,0,NA,NA,NA,0
+913657,2nd innings,Pakistan,England,13.2,Babar Azam,Sarfraz Ahmed,BA Stokes,0,0,0,NA,0,NA,NA,NA,0
+913657,2nd innings,Pakistan,England,13.3,Babar Azam,Sarfraz Ahmed,BA Stokes,1,0,1,NA,0,NA,NA,NA,0
+913657,2nd innings,Pakistan,England,13.4,Sarfraz Ahmed,Babar Azam,BA Stokes,1,0,1,NA,0,NA,NA,NA,0
+913657,2nd innings,Pakistan,England,13.5,Babar Azam,Sarfraz Ahmed,BA Stokes,0,0,0,NA,0,NA,NA,NA,0
+913657,2nd innings,Pakistan,England,13.6,Babar Azam,Sarfraz Ahmed,BA Stokes,0,0,0,NA,0,NA,NA,NA,0
+913657,2nd innings,Pakistan,England,14.1,Sarfraz Ahmed,Babar Azam,LE Plunkett,0,0,0,NA,0,NA,NA,NA,0
+913657,2nd innings,Pakistan,England,14.2,Sarfraz Ahmed,Babar Azam,LE Plunkett,4,0,4,NA,0,NA,NA,NA,0
+913657,2nd innings,Pakistan,England,14.3,Sarfraz Ahmed,Babar Azam,LE Plunkett,0,0,0,NA,0,NA,NA,NA,0
+913657,2nd innings,Pakistan,England,14.4,Sarfraz Ahmed,Babar Azam,LE Plunkett,0,1,1,legbyes,0,NA,NA,NA,0
+913657,2nd innings,Pakistan,England,14.5,Babar Azam,Sarfraz Ahmed,LE Plunkett,0,0,0,NA,0,NA,NA,NA,0
+913657,2nd innings,Pakistan,England,14.6,Babar Azam,Sarfraz Ahmed,LE Plunkett,1,0,1,NA,0,NA,NA,NA,0
+913657,2nd innings,Pakistan,England,15.1,Babar Azam,Sarfraz Ahmed,BA Stokes,0,0,0,NA,1,caught,Babar Azam,EJG Morgan,0
+913657,2nd innings,Pakistan,England,15.2,Shoaib Malik,Sarfraz Ahmed,BA Stokes,0,0,0,NA,0,NA,NA,NA,0
+913657,2nd innings,Pakistan,England,15.3,Shoaib Malik,Sarfraz Ahmed,BA Stokes,0,0,0,NA,0,NA,NA,NA,0
+913657,2nd innings,Pakistan,England,15.4,Shoaib Malik,Sarfraz Ahmed,BA Stokes,0,0,0,NA,0,NA,NA,NA,0
+913657,2nd innings,Pakistan,England,15.5,Shoaib Malik,Sarfraz Ahmed,BA Stokes,0,0,0,NA,0,NA,NA,NA,0
+913657,2nd innings,Pakistan,England,15.6,Shoaib Malik,Sarfraz Ahmed,BA Stokes,1,0,1,NA,0,NA,NA,NA,0
+913657,2nd innings,Pakistan,England,16.1,Shoaib Malik,Sarfraz Ahmed,LE Plunkett,0,0,0,NA,0,NA,NA,NA,0
+913657,2nd innings,Pakistan,England,16.2,Shoaib Malik,Sarfraz Ahmed,LE Plunkett,0,1,1,wides,0,NA,NA,NA,0
+913657,2nd innings,Pakistan,England,16.3,Shoaib Malik,Sarfraz Ahmed,LE Plunkett,0,0,0,NA,1,caught,Shoaib Malik,JC Buttler,0
+913657,2nd innings,Pakistan,England,16.4,Mohammad Nawaz (3),Sarfraz Ahmed,LE Plunkett,0,0,0,NA,0,NA,NA,NA,0
+913657,2nd innings,Pakistan,England,16.5,Mohammad Nawaz (3),Sarfraz Ahmed,LE Plunkett,1,0,1,NA,0,NA,NA,NA,0
+913657,2nd innings,Pakistan,England,16.6,Sarfraz Ahmed,Mohammad Nawaz (3),LE Plunkett,2,0,2,NA,0,NA,NA,NA,0
+913657,2nd innings,Pakistan,England,16.7,Sarfraz Ahmed,Mohammad Nawaz (3),LE Plunkett,1,0,1,NA,0,NA,NA,NA,0
+913657,2nd innings,Pakistan,England,17.1,Sarfraz Ahmed,Mohammad Nawaz (3),BA Stokes,0,0,0,NA,0,NA,NA,NA,0
+913657,2nd innings,Pakistan,England,17.2,Sarfraz Ahmed,Mohammad Nawaz (3),BA Stokes,0,0,0,NA,0,NA,NA,NA,0
+913657,2nd innings,Pakistan,England,17.3,Sarfraz Ahmed,Mohammad Nawaz (3),BA Stokes,0,0,0,NA,0,NA,NA,NA,0
+913657,2nd innings,Pakistan,England,17.4,Sarfraz Ahmed,Mohammad Nawaz (3),BA Stokes,2,0,2,NA,0,NA,NA,NA,0
+913657,2nd innings,Pakistan,England,17.5,Sarfraz Ahmed,Mohammad Nawaz (3),BA Stokes,0,1,1,wides,0,NA,NA,NA,0
+913657,2nd innings,Pakistan,England,17.6,Sarfraz Ahmed,Mohammad Nawaz (3),BA Stokes,0,0,0,NA,0,NA,NA,NA,0
+913657,2nd innings,Pakistan,England,17.7,Sarfraz Ahmed,Mohammad Nawaz (3),BA Stokes,4,0,4,NA,0,NA,NA,NA,0
+913657,2nd innings,Pakistan,England,18.1,Mohammad Nawaz (3),Sarfraz Ahmed,LE Plunkett,0,0,0,NA,0,NA,NA,NA,0
+913657,2nd innings,Pakistan,England,18.2,Mohammad Nawaz (3),Sarfraz Ahmed,LE Plunkett,0,0,0,NA,0,NA,NA,NA,0
+913657,2nd innings,Pakistan,England,18.3,Mohammad Nawaz (3),Sarfraz Ahmed,LE Plunkett,0,0,0,NA,0,NA,NA,NA,0
+913657,2nd innings,Pakistan,England,18.4,Mohammad Nawaz (3),Sarfraz Ahmed,LE Plunkett,1,0,1,NA,0,NA,NA,NA,0
+913657,2nd innings,Pakistan,England,18.5,Sarfraz Ahmed,Mohammad Nawaz (3),LE Plunkett,0,0,0,NA,0,NA,NA,NA,0
+913657,2nd innings,Pakistan,England,18.6,Sarfraz Ahmed,Mohammad Nawaz (3),LE Plunkett,0,0,0,NA,0,NA,NA,NA,0
+913657,2nd innings,Pakistan,England,19.1,Mohammad Nawaz (3),Sarfraz Ahmed,MM Ali,0,0,0,NA,0,NA,NA,NA,0
+913657,2nd innings,Pakistan,England,19.2,Mohammad Nawaz (3),Sarfraz Ahmed,MM Ali,1,0,1,NA,0,NA,NA,NA,0
+913657,2nd innings,Pakistan,England,19.3,Sarfraz Ahmed,Mohammad Nawaz (3),MM Ali,0,0,0,NA,0,NA,NA,NA,0
+913657,2nd innings,Pakistan,England,19.4,Sarfraz Ahmed,Mohammad Nawaz (3),MM Ali,0,0,0,NA,0,NA,NA,NA,0
+913657,2nd innings,Pakistan,England,19.5,Sarfraz Ahmed,Mohammad Nawaz (3),MM Ali,1,0,1,NA,0,NA,NA,NA,0
+913657,2nd innings,Pakistan,England,19.6,Mohammad Nawaz (3),Sarfraz Ahmed,MM Ali,1,0,1,NA,0,NA,NA,NA,0
+913657,2nd innings,Pakistan,England,20.1,Mohammad Nawaz (3),Sarfraz Ahmed,LE Plunkett,1,0,1,NA,0,NA,NA,NA,0
+913657,2nd innings,Pakistan,England,20.2,Sarfraz Ahmed,Mohammad Nawaz (3),LE Plunkett,0,0,0,NA,0,NA,NA,NA,0
+913657,2nd innings,Pakistan,England,20.3,Sarfraz Ahmed,Mohammad Nawaz (3),LE Plunkett,0,0,0,NA,0,NA,NA,NA,0
+913657,2nd innings,Pakistan,England,20.4,Sarfraz Ahmed,Mohammad Nawaz (3),LE Plunkett,4,0,4,NA,0,NA,NA,NA,0
+913657,2nd innings,Pakistan,England,20.5,Sarfraz Ahmed,Mohammad Nawaz (3),LE Plunkett,1,0,1,NA,0,NA,NA,NA,0
+913657,2nd innings,Pakistan,England,20.6,Mohammad Nawaz (3),Sarfraz Ahmed,LE Plunkett,2,0,2,NA,0,NA,NA,NA,0
+913657,2nd innings,Pakistan,England,21.1,Sarfraz Ahmed,Mohammad Nawaz (3),MM Ali,4,0,4,NA,0,NA,NA,NA,0
+913657,2nd innings,Pakistan,England,21.2,Sarfraz Ahmed,Mohammad Nawaz (3),MM Ali,0,0,0,NA,0,NA,NA,NA,0
+913657,2nd innings,Pakistan,England,21.3,Sarfraz Ahmed,Mohammad Nawaz (3),MM Ali,0,0,0,NA,0,NA,NA,NA,0
+913657,2nd innings,Pakistan,England,21.4,Sarfraz Ahmed,Mohammad Nawaz (3),MM Ali,0,0,0,NA,0,NA,NA,NA,0
+913657,2nd innings,Pakistan,England,21.5,Sarfraz Ahmed,Mohammad Nawaz (3),MM Ali,1,0,1,NA,0,NA,NA,NA,0
+913657,2nd innings,Pakistan,England,21.6,Mohammad Nawaz (3),Sarfraz Ahmed,MM Ali,0,0,0,NA,0,NA,NA,NA,0
+913657,2nd innings,Pakistan,England,22.1,Sarfraz Ahmed,Mohammad Nawaz (3),AU Rashid,0,0,0,NA,0,NA,NA,NA,0
+913657,2nd innings,Pakistan,England,22.2,Sarfraz Ahmed,Mohammad Nawaz (3),AU Rashid,1,0,1,NA,0,NA,NA,NA,0
+913657,2nd innings,Pakistan,England,22.3,Mohammad Nawaz (3),Sarfraz Ahmed,AU Rashid,0,0,0,NA,0,NA,NA,NA,0
+913657,2nd innings,Pakistan,England,22.4,Mohammad Nawaz (3),Sarfraz Ahmed,AU Rashid,1,0,1,NA,0,NA,NA,NA,0
+913657,2nd innings,Pakistan,England,22.5,Sarfraz Ahmed,Mohammad Nawaz (3),AU Rashid,0,0,0,NA,0,NA,NA,NA,0
+913657,2nd innings,Pakistan,England,22.6,Sarfraz Ahmed,Mohammad Nawaz (3),AU Rashid,2,0,2,NA,0,NA,NA,NA,0
+913657,2nd innings,Pakistan,England,23.1,Mohammad Nawaz (3),Sarfraz Ahmed,MM Ali,4,0,4,NA,0,NA,NA,NA,0
+913657,2nd innings,Pakistan,England,23.2,Mohammad Nawaz (3),Sarfraz Ahmed,MM Ali,0,0,0,NA,0,NA,NA,NA,0
+913657,2nd innings,Pakistan,England,23.3,Mohammad Nawaz (3),Sarfraz Ahmed,MM Ali,2,0,2,NA,0,NA,NA,NA,0
+913657,2nd innings,Pakistan,England,23.4,Mohammad Nawaz (3),Sarfraz Ahmed,MM Ali,4,0,4,NA,0,NA,NA,NA,0
+913657,2nd innings,Pakistan,England,23.5,Mohammad Nawaz (3),Sarfraz Ahmed,MM Ali,2,1,3,noballs,0,NA,NA,NA,0
+913657,2nd innings,Pakistan,England,23.6,Mohammad Nawaz (3),Sarfraz Ahmed,MM Ali,0,0,0,NA,0,NA,NA,NA,0
+913657,2nd innings,Pakistan,England,23.7,Mohammad Nawaz (3),Sarfraz Ahmed,MM Ali,2,0,2,NA,0,NA,NA,NA,0
+913657,2nd innings,Pakistan,England,24.1,Sarfraz Ahmed,Mohammad Nawaz (3),AU Rashid,0,0,0,NA,0,NA,NA,NA,0
+913657,2nd innings,Pakistan,England,24.2,Sarfraz Ahmed,Mohammad Nawaz (3),AU Rashid,0,0,0,NA,1,caught,Sarfraz Ahmed,JE Root,0
+913657,2nd innings,Pakistan,England,24.3,Hasan Ali,Mohammad Nawaz (3),AU Rashid,1,0,1,NA,0,NA,NA,NA,0
+913657,2nd innings,Pakistan,England,24.4,Mohammad Nawaz (3),Hasan Ali,AU Rashid,1,0,1,NA,0,NA,NA,NA,0
+913657,2nd innings,Pakistan,England,24.5,Hasan Ali,Mohammad Nawaz (3),AU Rashid,0,0,0,NA,0,NA,NA,NA,0
+913657,2nd innings,Pakistan,England,24.6,Hasan Ali,Mohammad Nawaz (3),AU Rashid,1,0,1,NA,0,NA,NA,NA,0
+913657,2nd innings,Pakistan,England,25.1,Hasan Ali,Mohammad Nawaz (3),MM Ali,0,0,0,NA,0,NA,NA,NA,0
+913657,2nd innings,Pakistan,England,25.2,Hasan Ali,Mohammad Nawaz (3),MM Ali,0,0,0,NA,0,NA,NA,NA,0
+913657,2nd innings,Pakistan,England,25.3,Hasan Ali,Mohammad Nawaz (3),MM Ali,0,0,0,NA,0,NA,NA,NA,0
+913657,2nd innings,Pakistan,England,25.4,Hasan Ali,Mohammad Nawaz (3),MM Ali,0,0,0,NA,0,NA,NA,NA,0
+913657,2nd innings,Pakistan,England,25.5,Hasan Ali,Mohammad Nawaz (3),MM Ali,1,0,1,NA,0,NA,NA,NA,0
+913657,2nd innings,Pakistan,England,25.6,Mohammad Nawaz (3),Hasan Ali,MM Ali,0,0,0,NA,0,NA,NA,NA,0
+913657,2nd innings,Pakistan,England,26.1,Hasan Ali,Mohammad Nawaz (3),AU Rashid,0,0,0,NA,0,NA,NA,NA,0
+913657,2nd innings,Pakistan,England,26.2,Hasan Ali,Mohammad Nawaz (3),AU Rashid,0,0,0,NA,0,NA,NA,NA,0
+913657,2nd innings,Pakistan,England,26.3,Hasan Ali,Mohammad Nawaz (3),AU Rashid,1,0,1,NA,0,NA,NA,NA,0
+913657,2nd innings,Pakistan,England,26.4,Mohammad Nawaz (3),Hasan Ali,AU Rashid,2,0,2,NA,0,NA,NA,NA,0
+913657,2nd innings,Pakistan,England,26.5,Mohammad Nawaz (3),Hasan Ali,AU Rashid,1,0,1,NA,0,NA,NA,NA,0
+913657,2nd innings,Pakistan,England,26.6,Hasan Ali,Mohammad Nawaz (3),AU Rashid,0,0,0,NA,0,NA,NA,NA,0
+913657,2nd innings,Pakistan,England,27.1,Mohammad Nawaz (3),Hasan Ali,MM Ali,1,0,1,NA,0,NA,NA,NA,0
+913657,2nd innings,Pakistan,England,27.2,Hasan Ali,Mohammad Nawaz (3),MM Ali,0,0,0,NA,1,bowled,Hasan Ali,NA,0
+913657,2nd innings,Pakistan,England,27.3,Wahab Riaz,Mohammad Nawaz (3),MM Ali,0,0,0,NA,0,NA,NA,NA,0
+913657,2nd innings,Pakistan,England,27.4,Wahab Riaz,Mohammad Nawaz (3),MM Ali,0,0,0,NA,0,NA,NA,NA,0
+913657,2nd innings,Pakistan,England,27.5,Wahab Riaz,Mohammad Nawaz (3),MM Ali,0,0,0,NA,0,NA,NA,NA,0
+913657,2nd innings,Pakistan,England,27.6,Wahab Riaz,Mohammad Nawaz (3),MM Ali,0,0,0,NA,0,NA,NA,NA,0
+913657,2nd innings,Pakistan,England,28.1,Mohammad Nawaz (3),Wahab Riaz,AU Rashid,1,0,1,NA,0,NA,NA,NA,0
+913657,2nd innings,Pakistan,England,28.2,Wahab Riaz,Mohammad Nawaz (3),AU Rashid,1,0,1,NA,0,NA,NA,NA,0
+913657,2nd innings,Pakistan,England,28.3,Mohammad Nawaz (3),Wahab Riaz,AU Rashid,0,0,0,NA,0,NA,NA,NA,0
+913657,2nd innings,Pakistan,England,28.4,Mohammad Nawaz (3),Wahab Riaz,AU Rashid,2,0,2,NA,0,NA,NA,NA,0
+913657,2nd innings,Pakistan,England,28.5,Mohammad Nawaz (3),Wahab Riaz,AU Rashid,1,0,1,NA,0,NA,NA,NA,0
+913657,2nd innings,Pakistan,England,28.6,Wahab Riaz,Mohammad Nawaz (3),AU Rashid,2,0,2,NA,0,NA,NA,NA,0
+913657,2nd innings,Pakistan,England,29.1,Mohammad Nawaz (3),Wahab Riaz,MM Ali,0,0,0,NA,0,NA,NA,NA,0
+913657,2nd innings,Pakistan,England,29.2,Mohammad Nawaz (3),Wahab Riaz,MM Ali,1,0,1,NA,0,NA,NA,NA,0
+913657,2nd innings,Pakistan,England,29.3,Wahab Riaz,Mohammad Nawaz (3),MM Ali,1,0,1,NA,0,NA,NA,NA,0
+913657,2nd innings,Pakistan,England,29.4,Mohammad Nawaz (3),Wahab Riaz,MM Ali,1,0,1,NA,0,NA,NA,NA,0
+913657,2nd innings,Pakistan,England,29.5,Wahab Riaz,Mohammad Nawaz (3),MM Ali,0,0,0,NA,0,NA,NA,NA,0
+913657,2nd innings,Pakistan,England,29.6,Wahab Riaz,Mohammad Nawaz (3),MM Ali,0,0,0,NA,0,NA,NA,NA,0
+913657,2nd innings,Pakistan,England,30.1,Mohammad Nawaz (3),Wahab Riaz,AU Rashid,1,0,1,NA,0,NA,NA,NA,0
+913657,2nd innings,Pakistan,England,30.2,Wahab Riaz,Mohammad Nawaz (3),AU Rashid,0,0,0,NA,0,NA,NA,NA,0
+913657,2nd innings,Pakistan,England,30.3,Wahab Riaz,Mohammad Nawaz (3),AU Rashid,1,0,1,NA,0,NA,NA,NA,0
+913657,2nd innings,Pakistan,England,30.4,Mohammad Nawaz (3),Wahab Riaz,AU Rashid,0,4,4,byes,0,NA,NA,NA,0
+913657,2nd innings,Pakistan,England,30.5,Mohammad Nawaz (3),Wahab Riaz,AU Rashid,0,0,0,NA,1,caught,Mohammad Nawaz (3),EJG Morgan,0
+913657,2nd innings,Pakistan,England,30.6,Yasir Shah,Wahab Riaz,AU Rashid,0,0,0,NA,0,NA,NA,NA,0
+913657,2nd innings,Pakistan,England,31.1,Wahab Riaz,Yasir Shah,MA Wood,0,1,1,wides,0,NA,NA,NA,0
+913657,2nd innings,Pakistan,England,31.2,Wahab Riaz,Yasir Shah,MA Wood,1,0,1,NA,0,NA,NA,NA,0
+913657,2nd innings,Pakistan,England,31.3,Yasir Shah,Wahab Riaz,MA Wood,0,0,0,NA,0,NA,NA,NA,0
+913657,2nd innings,Pakistan,England,31.4,Yasir Shah,Wahab Riaz,MA Wood,0,0,0,NA,0,NA,NA,NA,0
+913657,2nd innings,Pakistan,England,31.5,Yasir Shah,Wahab Riaz,MA Wood,0,0,0,NA,0,NA,NA,NA,0
+913657,2nd innings,Pakistan,England,31.6,Yasir Shah,Wahab Riaz,MA Wood,0,0,0,NA,0,NA,NA,NA,0
+913657,2nd innings,Pakistan,England,31.7,Yasir Shah,Wahab Riaz,MA Wood,1,0,1,NA,0,NA,NA,NA,0
+913657,2nd innings,Pakistan,England,32.1,Yasir Shah,Wahab Riaz,AU Rashid,4,0,4,NA,0,NA,NA,NA,0
+913657,2nd innings,Pakistan,England,32.2,Yasir Shah,Wahab Riaz,AU Rashid,0,0,0,NA,0,NA,NA,NA,0
+913657,2nd innings,Pakistan,England,32.3,Yasir Shah,Wahab Riaz,AU Rashid,1,0,1,NA,0,NA,NA,NA,0
+913657,2nd innings,Pakistan,England,32.4,Wahab Riaz,Yasir Shah,AU Rashid,2,0,2,NA,0,NA,NA,NA,0
+913657,2nd innings,Pakistan,England,32.5,Wahab Riaz,Yasir Shah,AU Rashid,0,0,0,NA,0,NA,NA,NA,0
+913657,2nd innings,Pakistan,England,32.6,Wahab Riaz,Yasir Shah,AU Rashid,1,0,1,NA,0,NA,NA,NA,0
+913657,2nd innings,Pakistan,England,33.1,Wahab Riaz,Yasir Shah,MA Wood,1,0,1,NA,0,NA,NA,NA,0
+913657,2nd innings,Pakistan,England,33.2,Yasir Shah,Wahab Riaz,MA Wood,0,0,0,NA,0,NA,NA,NA,0
+913657,2nd innings,Pakistan,England,33.3,Yasir Shah,Wahab Riaz,MA Wood,1,0,1,NA,0,NA,NA,NA,0
+913657,2nd innings,Pakistan,England,33.4,Wahab Riaz,Yasir Shah,MA Wood,0,0,0,NA,0,NA,NA,NA,0
+913657,2nd innings,Pakistan,England,33.5,Wahab Riaz,Yasir Shah,MA Wood,1,0,1,NA,0,NA,NA,NA,0
+913657,2nd innings,Pakistan,England,33.6,Yasir Shah,Wahab Riaz,MA Wood,0,0,0,NA,0,NA,NA,NA,0
+913657,2nd innings,Pakistan,England,34.1,Wahab Riaz,Yasir Shah,AU Rashid,2,0,2,NA,0,NA,NA,NA,0
+913657,2nd innings,Pakistan,England,34.2,Wahab Riaz,Yasir Shah,AU Rashid,1,0,1,NA,0,NA,NA,NA,0
+913657,2nd innings,Pakistan,England,34.3,Yasir Shah,Wahab Riaz,AU Rashid,0,0,0,NA,0,NA,NA,NA,0
+913657,2nd innings,Pakistan,England,34.4,Yasir Shah,Wahab Riaz,AU Rashid,0,0,0,NA,0,NA,NA,NA,0
+913657,2nd innings,Pakistan,England,34.5,Yasir Shah,Wahab Riaz,AU Rashid,1,0,1,NA,0,NA,NA,NA,0
+913657,2nd innings,Pakistan,England,34.6,Wahab Riaz,Yasir Shah,AU Rashid,0,0,0,NA,0,NA,NA,NA,0
+913657,2nd innings,Pakistan,England,35.1,Yasir Shah,Wahab Riaz,MA Wood,1,0,1,NA,0,NA,NA,NA,0
+913657,2nd innings,Pakistan,England,35.2,Wahab Riaz,Yasir Shah,MA Wood,0,0,0,NA,1,lbw,Wahab Riaz,NA,0
+913657,2nd innings,Pakistan,England,35.3,Mohammad Amir,Yasir Shah,MA Wood,1,0,1,NA,0,NA,NA,NA,0
+913657,2nd innings,Pakistan,England,35.4,Yasir Shah,Mohammad Amir,MA Wood,1,0,1,NA,0,NA,NA,NA,0
+913657,2nd innings,Pakistan,England,35.5,Mohammad Amir,Yasir Shah,MA Wood,0,0,0,NA,0,NA,NA,NA,0
+913657,2nd innings,Pakistan,England,35.6,Mohammad Amir,Yasir Shah,MA Wood,1,0,1,NA,0,NA,NA,NA,0
+913657,2nd innings,Pakistan,England,36.1,Mohammad Amir,Yasir Shah,AU Rashid,0,0,0,NA,0,NA,NA,NA,0
+913657,2nd innings,Pakistan,England,36.2,Mohammad Amir,Yasir Shah,AU Rashid,1,0,1,NA,0,NA,NA,NA,0
+913657,2nd innings,Pakistan,England,36.3,Yasir Shah,Mohammad Amir,AU Rashid,1,0,1,NA,0,NA,NA,NA,0
+913657,2nd innings,Pakistan,England,36.4,Mohammad Amir,Yasir Shah,AU Rashid,4,0,4,NA,0,NA,NA,NA,0
+913657,2nd innings,Pakistan,England,36.5,Mohammad Amir,Yasir Shah,AU Rashid,6,0,6,NA,0,NA,NA,NA,0
+913657,2nd innings,Pakistan,England,36.6,Mohammad Amir,Yasir Shah,AU Rashid,0,0,0,NA,0,NA,NA,NA,0
+913657,2nd innings,Pakistan,England,37.1,Yasir Shah,Mohammad Amir,MA Wood,1,0,1,NA,0,NA,NA,NA,0
+913657,2nd innings,Pakistan,England,37.2,Mohammad Amir,Yasir Shah,MA Wood,1,0,1,NA,0,NA,NA,NA,0
+913657,2nd innings,Pakistan,England,37.3,Yasir Shah,Mohammad Amir,MA Wood,4,0,4,NA,0,NA,NA,NA,0
+913657,2nd innings,Pakistan,England,37.4,Yasir Shah,Mohammad Amir,MA Wood,0,0,0,NA,0,NA,NA,NA,0
+913657,2nd innings,Pakistan,England,37.5,Yasir Shah,Mohammad Amir,MA Wood,1,0,1,NA,0,NA,NA,NA,0
+913657,2nd innings,Pakistan,England,37.6,Mohammad Amir,Yasir Shah,MA Wood,0,0,0,NA,0,NA,NA,NA,0
+913657,2nd innings,Pakistan,England,38.1,Yasir Shah,Mohammad Amir,AU Rashid,0,0,0,NA,0,NA,NA,NA,0
+913657,2nd innings,Pakistan,England,38.2,Yasir Shah,Mohammad Amir,AU Rashid,1,0,1,NA,0,NA,NA,NA,0
+913657,2nd innings,Pakistan,England,38.3,Mohammad Amir,Yasir Shah,AU Rashid,4,0,4,NA,0,NA,NA,NA,0
+913657,2nd innings,Pakistan,England,38.4,Mohammad Amir,Yasir Shah,AU Rashid,2,0,2,NA,0,NA,NA,NA,0
+913657,2nd innings,Pakistan,England,38.5,Mohammad Amir,Yasir Shah,AU Rashid,2,0,2,NA,0,NA,NA,NA,0
+913657,2nd innings,Pakistan,England,38.6,Mohammad Amir,Yasir Shah,AU Rashid,1,0,1,NA,0,NA,NA,NA,0
+913657,2nd innings,Pakistan,England,39.1,Mohammad Amir,Yasir Shah,MA Wood,1,0,1,NA,0,NA,NA,NA,0
+913657,2nd innings,Pakistan,England,39.2,Yasir Shah,Mohammad Amir,MA Wood,1,0,1,NA,0,NA,NA,NA,0
+913657,2nd innings,Pakistan,England,39.3,Mohammad Amir,Yasir Shah,MA Wood,4,0,4,NA,0,NA,NA,NA,0
+913657,2nd innings,Pakistan,England,39.4,Mohammad Amir,Yasir Shah,MA Wood,0,0,0,NA,0,NA,NA,NA,0
+913657,2nd innings,Pakistan,England,39.5,Mohammad Amir,Yasir Shah,MA Wood,0,0,0,NA,0,NA,NA,NA,0
+913657,2nd innings,Pakistan,England,39.6,Mohammad Amir,Yasir Shah,MA Wood,4,0,4,NA,0,NA,NA,NA,0
+913657,2nd innings,Pakistan,England,40.1,Yasir Shah,Mohammad Amir,AU Rashid,0,0,0,NA,0,NA,NA,NA,0
+913657,2nd innings,Pakistan,England,40.2,Yasir Shah,Mohammad Amir,AU Rashid,0,0,0,NA,0,NA,NA,NA,0
+913657,2nd innings,Pakistan,England,40.3,Yasir Shah,Mohammad Amir,AU Rashid,1,0,1,NA,0,NA,NA,NA,0
+913657,2nd innings,Pakistan,England,40.4,Mohammad Amir,Yasir Shah,AU Rashid,6,0,6,NA,0,NA,NA,NA,0
+913657,2nd innings,Pakistan,England,40.5,Mohammad Amir,Yasir Shah,AU Rashid,6,0,6,NA,0,NA,NA,NA,0
+913657,2nd innings,Pakistan,England,40.6,Mohammad Amir,Yasir Shah,AU Rashid,6,0,6,NA,0,NA,NA,NA,0
+913657,2nd innings,Pakistan,England,41.1,Yasir Shah,Mohammad Amir,MM Ali,0,0,0,NA,0,NA,NA,NA,0
+913657,2nd innings,Pakistan,England,41.2,Yasir Shah,Mohammad Amir,MM Ali,1,0,1,NA,0,NA,NA,NA,0
+913657,2nd innings,Pakistan,England,41.3,Mohammad Amir,Yasir Shah,MM Ali,1,0,1,NA,0,NA,NA,NA,0
+913657,2nd innings,Pakistan,England,41.4,Yasir Shah,Mohammad Amir,MM Ali,1,0,1,NA,0,NA,NA,NA,0
+913657,2nd innings,Pakistan,England,41.5,Mohammad Amir,Yasir Shah,MM Ali,1,0,1,NA,0,NA,NA,NA,0
+913657,2nd innings,Pakistan,England,41.6,Yasir Shah,Mohammad Amir,MM Ali,4,0,4,NA,0,NA,NA,NA,0
+913657,2nd innings,Pakistan,England,42.1,Mohammad Amir,Yasir Shah,CR Woakes,0,0,0,NA,0,NA,NA,NA,0
+913657,2nd innings,Pakistan,England,42.2,Mohammad Amir,Yasir Shah,CR Woakes,2,0,2,NA,0,NA,NA,NA,0
+913657,2nd innings,Pakistan,England,42.3,Mohammad Amir,Yasir Shah,CR Woakes,0,1,1,wides,0,NA,NA,NA,0
+913657,2nd innings,Pakistan,England,42.4,Mohammad Amir,Yasir Shah,CR Woakes,4,0,4,NA,0,NA,NA,NA,0
+913657,2nd innings,Pakistan,England,42.5,Mohammad Amir,Yasir Shah,CR Woakes,0,0,0,NA,1,caught and bowled,Mohammad Amir,NA,0

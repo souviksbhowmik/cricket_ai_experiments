@@ -1,0 +1,574 @@
+match_id,innings,team,opponent,ball,batsman,non_striker,bowler,scored_runs,extras,total,extra_type,wicket,wicket_type,player_out,fielders,winner
+1126719,1st innings,South Africa,England,0.1,L Lee,L Wolvaardt,KH Brunt,1,0,1,NA,0,NA,NA,NA,0
+1126719,1st innings,South Africa,England,0.2,L Wolvaardt,L Lee,KH Brunt,0,0,0,NA,0,NA,NA,NA,0
+1126719,1st innings,South Africa,England,0.3,L Wolvaardt,L Lee,KH Brunt,0,0,0,NA,0,NA,NA,NA,0
+1126719,1st innings,South Africa,England,0.4,L Wolvaardt,L Lee,KH Brunt,1,0,1,NA,0,NA,NA,NA,0
+1126719,1st innings,South Africa,England,0.5,L Lee,L Wolvaardt,KH Brunt,0,0,0,NA,0,NA,NA,NA,0
+1126719,1st innings,South Africa,England,0.6,L Lee,L Wolvaardt,KH Brunt,1,0,1,NA,0,NA,NA,NA,0
+1126719,1st innings,South Africa,England,1.1,L Lee,L Wolvaardt,A Shrubsole,0,0,0,NA,0,NA,NA,NA,0
+1126719,1st innings,South Africa,England,1.2,L Lee,L Wolvaardt,A Shrubsole,0,0,0,NA,0,NA,NA,NA,0
+1126719,1st innings,South Africa,England,1.3,L Lee,L Wolvaardt,A Shrubsole,0,0,0,NA,0,NA,NA,NA,0
+1126719,1st innings,South Africa,England,1.4,L Lee,L Wolvaardt,A Shrubsole,0,0,0,NA,0,NA,NA,NA,0
+1126719,1st innings,South Africa,England,1.5,L Lee,L Wolvaardt,A Shrubsole,0,0,0,NA,0,NA,NA,NA,0
+1126719,1st innings,South Africa,England,1.6,L Lee,L Wolvaardt,A Shrubsole,0,0,0,NA,0,NA,NA,NA,0
+1126719,1st innings,South Africa,England,2.1,L Wolvaardt,L Lee,KH Brunt,0,0,0,NA,0,NA,NA,NA,0
+1126719,1st innings,South Africa,England,2.2,L Wolvaardt,L Lee,KH Brunt,4,0,4,NA,0,NA,NA,NA,0
+1126719,1st innings,South Africa,England,2.3,L Wolvaardt,L Lee,KH Brunt,0,0,0,NA,0,NA,NA,NA,0
+1126719,1st innings,South Africa,England,2.4,L Wolvaardt,L Lee,KH Brunt,0,0,0,NA,0,NA,NA,NA,0
+1126719,1st innings,South Africa,England,2.5,L Wolvaardt,L Lee,KH Brunt,0,0,0,NA,0,NA,NA,NA,0
+1126719,1st innings,South Africa,England,2.6,L Wolvaardt,L Lee,KH Brunt,0,0,0,NA,0,NA,NA,NA,0
+1126719,1st innings,South Africa,England,3.1,L Lee,L Wolvaardt,A Shrubsole,0,0,0,NA,0,NA,NA,NA,0
+1126719,1st innings,South Africa,England,3.2,L Lee,L Wolvaardt,A Shrubsole,0,0,0,NA,1,lbw,L Lee,NA,0
+1126719,1st innings,South Africa,England,3.3,A Steyn,L Wolvaardt,A Shrubsole,1,0,1,NA,0,NA,NA,NA,0
+1126719,1st innings,South Africa,England,3.4,L Wolvaardt,A Steyn,A Shrubsole,0,0,0,NA,0,NA,NA,NA,0
+1126719,1st innings,South Africa,England,3.5,L Wolvaardt,A Steyn,A Shrubsole,0,0,0,NA,0,NA,NA,NA,0
+1126719,1st innings,South Africa,England,3.6,L Wolvaardt,A Steyn,A Shrubsole,0,0,0,NA,0,NA,NA,NA,0
+1126719,1st innings,South Africa,England,4.1,A Steyn,L Wolvaardt,KH Brunt,1,0,1,NA,0,NA,NA,NA,0
+1126719,1st innings,South Africa,England,4.2,L Wolvaardt,A Steyn,KH Brunt,4,0,4,NA,0,NA,NA,NA,0
+1126719,1st innings,South Africa,England,4.3,L Wolvaardt,A Steyn,KH Brunt,0,0,0,NA,0,NA,NA,NA,0
+1126719,1st innings,South Africa,England,4.4,L Wolvaardt,A Steyn,KH Brunt,0,0,0,NA,0,NA,NA,NA,0
+1126719,1st innings,South Africa,England,4.5,L Wolvaardt,A Steyn,KH Brunt,0,0,0,NA,0,NA,NA,NA,0
+1126719,1st innings,South Africa,England,4.6,L Wolvaardt,A Steyn,KH Brunt,1,0,1,NA,0,NA,NA,NA,0
+1126719,1st innings,South Africa,England,5.1,L Wolvaardt,A Steyn,A Shrubsole,0,0,0,NA,0,NA,NA,NA,0
+1126719,1st innings,South Africa,England,5.2,L Wolvaardt,A Steyn,A Shrubsole,2,0,2,NA,0,NA,NA,NA,0
+1126719,1st innings,South Africa,England,5.3,L Wolvaardt,A Steyn,A Shrubsole,0,0,0,NA,0,NA,NA,NA,0
+1126719,1st innings,South Africa,England,5.4,L Wolvaardt,A Steyn,A Shrubsole,0,0,0,NA,0,NA,NA,NA,0
+1126719,1st innings,South Africa,England,5.5,L Wolvaardt,A Steyn,A Shrubsole,0,0,0,NA,0,NA,NA,NA,0
+1126719,1st innings,South Africa,England,5.6,L Wolvaardt,A Steyn,A Shrubsole,0,0,0,NA,0,NA,NA,NA,0
+1126719,1st innings,South Africa,England,6.1,A Steyn,L Wolvaardt,KH Brunt,0,0,0,NA,0,NA,NA,NA,0
+1126719,1st innings,South Africa,England,6.2,A Steyn,L Wolvaardt,KH Brunt,0,1,1,legbyes,0,NA,NA,NA,0
+1126719,1st innings,South Africa,England,6.3,L Wolvaardt,A Steyn,KH Brunt,0,0,0,NA,0,NA,NA,NA,0
+1126719,1st innings,South Africa,England,6.4,L Wolvaardt,A Steyn,KH Brunt,0,0,0,NA,0,NA,NA,NA,0
+1126719,1st innings,South Africa,England,6.5,L Wolvaardt,A Steyn,KH Brunt,0,0,0,NA,0,NA,NA,NA,0
+1126719,1st innings,South Africa,England,6.6,L Wolvaardt,A Steyn,KH Brunt,0,0,0,NA,0,NA,NA,NA,0
+1126719,1st innings,South Africa,England,7.1,A Steyn,L Wolvaardt,A Shrubsole,0,0,0,NA,0,NA,NA,NA,0
+1126719,1st innings,South Africa,England,7.2,A Steyn,L Wolvaardt,A Shrubsole,0,0,0,NA,0,NA,NA,NA,0
+1126719,1st innings,South Africa,England,7.3,A Steyn,L Wolvaardt,A Shrubsole,0,0,0,NA,0,NA,NA,NA,0
+1126719,1st innings,South Africa,England,7.4,A Steyn,L Wolvaardt,A Shrubsole,0,0,0,NA,0,NA,NA,NA,0
+1126719,1st innings,South Africa,England,7.5,A Steyn,L Wolvaardt,A Shrubsole,0,0,0,NA,0,NA,NA,NA,0
+1126719,1st innings,South Africa,England,7.6,A Steyn,L Wolvaardt,A Shrubsole,0,0,0,NA,0,NA,NA,NA,0
+1126719,1st innings,South Africa,England,8.1,L Wolvaardt,A Steyn,KH Brunt,0,0,0,NA,0,NA,NA,NA,0
+1126719,1st innings,South Africa,England,8.2,L Wolvaardt,A Steyn,KH Brunt,1,0,1,NA,0,NA,NA,NA,0
+1126719,1st innings,South Africa,England,8.3,A Steyn,L Wolvaardt,KH Brunt,0,0,0,NA,0,NA,NA,NA,0
+1126719,1st innings,South Africa,England,8.4,A Steyn,L Wolvaardt,KH Brunt,0,0,0,NA,0,NA,NA,NA,0
+1126719,1st innings,South Africa,England,8.5,A Steyn,L Wolvaardt,KH Brunt,0,0,0,NA,0,NA,NA,NA,0
+1126719,1st innings,South Africa,England,8.6,A Steyn,L Wolvaardt,KH Brunt,0,0,0,NA,0,NA,NA,NA,0
+1126719,1st innings,South Africa,England,9.1,L Wolvaardt,A Steyn,NR Sciver,2,0,2,NA,0,NA,NA,NA,0
+1126719,1st innings,South Africa,England,9.2,L Wolvaardt,A Steyn,NR Sciver,0,1,1,wides,0,NA,NA,NA,0
+1126719,1st innings,South Africa,England,9.3,L Wolvaardt,A Steyn,NR Sciver,1,0,1,NA,0,NA,NA,NA,0
+1126719,1st innings,South Africa,England,9.4,A Steyn,L Wolvaardt,NR Sciver,0,0,0,NA,0,NA,NA,NA,0
+1126719,1st innings,South Africa,England,9.5,A Steyn,L Wolvaardt,NR Sciver,0,0,0,NA,0,NA,NA,NA,0
+1126719,1st innings,South Africa,England,9.6,A Steyn,L Wolvaardt,NR Sciver,0,0,0,NA,0,NA,NA,NA,0
+1126719,1st innings,South Africa,England,9.7,A Steyn,L Wolvaardt,NR Sciver,0,0,0,NA,0,NA,NA,NA,0
+1126719,1st innings,South Africa,England,10.1,L Wolvaardt,A Steyn,LA Marsh,0,0,0,NA,0,NA,NA,NA,0
+1126719,1st innings,South Africa,England,10.2,L Wolvaardt,A Steyn,LA Marsh,0,0,0,NA,0,NA,NA,NA,0
+1126719,1st innings,South Africa,England,10.3,L Wolvaardt,A Steyn,LA Marsh,1,0,1,NA,0,NA,NA,NA,0
+1126719,1st innings,South Africa,England,10.4,A Steyn,L Wolvaardt,LA Marsh,1,0,1,NA,0,NA,NA,NA,0
+1126719,1st innings,South Africa,England,10.5,L Wolvaardt,A Steyn,LA Marsh,0,0,0,NA,0,NA,NA,NA,0
+1126719,1st innings,South Africa,England,10.6,L Wolvaardt,A Steyn,LA Marsh,0,0,0,NA,0,NA,NA,NA,0
+1126719,1st innings,South Africa,England,11.1,A Steyn,L Wolvaardt,NR Sciver,0,1,1,wides,0,NA,NA,NA,0
+1126719,1st innings,South Africa,England,11.2,A Steyn,L Wolvaardt,NR Sciver,1,0,1,NA,0,NA,NA,NA,0
+1126719,1st innings,South Africa,England,11.3,L Wolvaardt,A Steyn,NR Sciver,1,0,1,NA,0,NA,NA,NA,0
+1126719,1st innings,South Africa,England,11.4,A Steyn,L Wolvaardt,NR Sciver,0,1,1,wides,0,NA,NA,NA,0
+1126719,1st innings,South Africa,England,11.5,A Steyn,L Wolvaardt,NR Sciver,0,0,0,NA,0,NA,NA,NA,0
+1126719,1st innings,South Africa,England,11.6,A Steyn,L Wolvaardt,NR Sciver,0,0,0,NA,0,NA,NA,NA,0
+1126719,1st innings,South Africa,England,11.7,A Steyn,L Wolvaardt,NR Sciver,0,0,0,NA,0,NA,NA,NA,0
+1126719,1st innings,South Africa,England,11.8,A Steyn,L Wolvaardt,NR Sciver,1,0,1,NA,0,NA,NA,NA,0
+1126719,1st innings,South Africa,England,12.1,A Steyn,L Wolvaardt,LA Marsh,0,0,0,NA,0,NA,NA,NA,0
+1126719,1st innings,South Africa,England,12.2,A Steyn,L Wolvaardt,LA Marsh,4,0,4,NA,0,NA,NA,NA,0
+1126719,1st innings,South Africa,England,12.3,A Steyn,L Wolvaardt,LA Marsh,1,0,1,NA,0,NA,NA,NA,0
+1126719,1st innings,South Africa,England,12.4,L Wolvaardt,A Steyn,LA Marsh,1,0,1,NA,0,NA,NA,NA,0
+1126719,1st innings,South Africa,England,12.5,A Steyn,L Wolvaardt,LA Marsh,1,0,1,NA,0,NA,NA,NA,0
+1126719,1st innings,South Africa,England,12.6,L Wolvaardt,A Steyn,LA Marsh,1,0,1,NA,0,NA,NA,NA,0
+1126719,1st innings,South Africa,England,13.1,L Wolvaardt,A Steyn,NR Sciver,1,0,1,NA,0,NA,NA,NA,0
+1126719,1st innings,South Africa,England,13.2,A Steyn,L Wolvaardt,NR Sciver,1,0,1,NA,0,NA,NA,NA,0
+1126719,1st innings,South Africa,England,13.3,L Wolvaardt,A Steyn,NR Sciver,0,0,0,NA,0,NA,NA,NA,0
+1126719,1st innings,South Africa,England,13.4,L Wolvaardt,A Steyn,NR Sciver,0,0,0,NA,0,NA,NA,NA,0
+1126719,1st innings,South Africa,England,13.5,L Wolvaardt,A Steyn,NR Sciver,1,0,1,NA,0,NA,NA,NA,0
+1126719,1st innings,South Africa,England,13.6,A Steyn,L Wolvaardt,NR Sciver,0,0,0,NA,0,NA,NA,NA,0
+1126719,1st innings,South Africa,England,14.1,L Wolvaardt,A Steyn,LA Marsh,0,0,0,NA,0,NA,NA,NA,0
+1126719,1st innings,South Africa,England,14.2,L Wolvaardt,A Steyn,LA Marsh,1,0,1,NA,0,NA,NA,NA,0
+1126719,1st innings,South Africa,England,14.3,A Steyn,L Wolvaardt,LA Marsh,1,0,1,NA,0,NA,NA,NA,0
+1126719,1st innings,South Africa,England,14.4,L Wolvaardt,A Steyn,LA Marsh,1,0,1,NA,0,NA,NA,NA,0
+1126719,1st innings,South Africa,England,14.5,A Steyn,L Wolvaardt,LA Marsh,1,0,1,NA,0,NA,NA,NA,0
+1126719,1st innings,South Africa,England,14.6,L Wolvaardt,A Steyn,LA Marsh,1,0,1,NA,0,NA,NA,NA,0
+1126719,1st innings,South Africa,England,15.1,L Wolvaardt,A Steyn,NR Sciver,1,0,1,NA,0,NA,NA,NA,0
+1126719,1st innings,South Africa,England,15.2,A Steyn,L Wolvaardt,NR Sciver,1,0,1,NA,0,NA,NA,NA,0
+1126719,1st innings,South Africa,England,15.3,L Wolvaardt,A Steyn,NR Sciver,2,0,2,NA,0,NA,NA,NA,0
+1126719,1st innings,South Africa,England,15.4,L Wolvaardt,A Steyn,NR Sciver,1,0,1,NA,0,NA,NA,NA,0
+1126719,1st innings,South Africa,England,15.5,A Steyn,L Wolvaardt,NR Sciver,0,0,0,NA,0,NA,NA,NA,0
+1126719,1st innings,South Africa,England,15.6,A Steyn,L Wolvaardt,NR Sciver,1,0,1,NA,0,NA,NA,NA,0
+1126719,1st innings,South Africa,England,16.1,A Steyn,L Wolvaardt,LA Marsh,1,0,1,NA,0,NA,NA,NA,0
+1126719,1st innings,South Africa,England,16.2,L Wolvaardt,A Steyn,LA Marsh,1,0,1,NA,0,NA,NA,NA,0
+1126719,1st innings,South Africa,England,16.3,A Steyn,L Wolvaardt,LA Marsh,1,0,1,NA,0,NA,NA,NA,0
+1126719,1st innings,South Africa,England,16.4,L Wolvaardt,A Steyn,LA Marsh,0,0,0,NA,0,NA,NA,NA,0
+1126719,1st innings,South Africa,England,16.5,L Wolvaardt,A Steyn,LA Marsh,1,0,1,NA,0,NA,NA,NA,0
+1126719,1st innings,South Africa,England,16.6,A Steyn,L Wolvaardt,LA Marsh,0,0,0,NA,0,NA,NA,NA,0
+1126719,1st innings,South Africa,England,17.1,L Wolvaardt,A Steyn,S Ecclestone,1,0,1,NA,0,NA,NA,NA,0
+1126719,1st innings,South Africa,England,17.2,A Steyn,L Wolvaardt,S Ecclestone,1,0,1,NA,0,NA,NA,NA,0
+1126719,1st innings,South Africa,England,17.3,L Wolvaardt,A Steyn,S Ecclestone,1,0,1,NA,0,NA,NA,NA,0
+1126719,1st innings,South Africa,England,17.4,A Steyn,L Wolvaardt,S Ecclestone,0,0,0,NA,1,lbw,A Steyn,NA,0
+1126719,1st innings,South Africa,England,17.5,D van Niekerk,L Wolvaardt,S Ecclestone,0,0,0,NA,0,NA,NA,NA,0
+1126719,1st innings,South Africa,England,17.6,D van Niekerk,L Wolvaardt,S Ecclestone,0,0,0,NA,0,NA,NA,NA,0
+1126719,1st innings,South Africa,England,18.1,L Wolvaardt,D van Niekerk,LA Marsh,1,0,1,NA,0,NA,NA,NA,0
+1126719,1st innings,South Africa,England,18.2,D van Niekerk,L Wolvaardt,LA Marsh,0,0,0,NA,0,NA,NA,NA,0
+1126719,1st innings,South Africa,England,18.3,D van Niekerk,L Wolvaardt,LA Marsh,4,0,4,NA,0,NA,NA,NA,0
+1126719,1st innings,South Africa,England,18.4,D van Niekerk,L Wolvaardt,LA Marsh,0,0,0,NA,0,NA,NA,NA,0
+1126719,1st innings,South Africa,England,18.5,D van Niekerk,L Wolvaardt,LA Marsh,0,0,0,NA,0,NA,NA,NA,0
+1126719,1st innings,South Africa,England,18.6,D van Niekerk,L Wolvaardt,LA Marsh,0,0,0,NA,0,NA,NA,NA,0
+1126719,1st innings,South Africa,England,19.1,L Wolvaardt,D van Niekerk,S Ecclestone,1,0,1,NA,0,NA,NA,NA,0
+1126719,1st innings,South Africa,England,19.2,D van Niekerk,L Wolvaardt,S Ecclestone,0,0,0,NA,0,NA,NA,NA,0
+1126719,1st innings,South Africa,England,19.3,D van Niekerk,L Wolvaardt,S Ecclestone,0,0,0,NA,0,NA,NA,NA,0
+1126719,1st innings,South Africa,England,19.4,D van Niekerk,L Wolvaardt,S Ecclestone,0,0,0,NA,0,NA,NA,NA,0
+1126719,1st innings,South Africa,England,19.5,D van Niekerk,L Wolvaardt,S Ecclestone,0,0,0,NA,0,NA,NA,NA,0
+1126719,1st innings,South Africa,England,19.6,D van Niekerk,L Wolvaardt,S Ecclestone,0,0,0,NA,0,NA,NA,NA,0
+1126719,1st innings,South Africa,England,20.1,L Wolvaardt,D van Niekerk,LA Marsh,1,0,1,NA,0,NA,NA,NA,0
+1126719,1st innings,South Africa,England,20.2,D van Niekerk,L Wolvaardt,LA Marsh,1,0,1,NA,0,NA,NA,NA,0
+1126719,1st innings,South Africa,England,20.3,L Wolvaardt,D van Niekerk,LA Marsh,0,0,0,NA,0,NA,NA,NA,0
+1126719,1st innings,South Africa,England,20.4,L Wolvaardt,D van Niekerk,LA Marsh,0,0,0,NA,0,NA,NA,NA,0
+1126719,1st innings,South Africa,England,20.5,L Wolvaardt,D van Niekerk,LA Marsh,1,0,1,NA,0,NA,NA,NA,0
+1126719,1st innings,South Africa,England,20.6,D van Niekerk,L Wolvaardt,LA Marsh,1,0,1,NA,0,NA,NA,NA,0
+1126719,1st innings,South Africa,England,21.1,D van Niekerk,L Wolvaardt,S Ecclestone,0,0,0,NA,0,NA,NA,NA,0
+1126719,1st innings,South Africa,England,21.2,D van Niekerk,L Wolvaardt,S Ecclestone,2,0,2,NA,0,NA,NA,NA,0
+1126719,1st innings,South Africa,England,21.3,D van Niekerk,L Wolvaardt,S Ecclestone,1,0,1,NA,0,NA,NA,NA,0
+1126719,1st innings,South Africa,England,21.4,L Wolvaardt,D van Niekerk,S Ecclestone,0,0,0,NA,0,NA,NA,NA,0
+1126719,1st innings,South Africa,England,21.5,L Wolvaardt,D van Niekerk,S Ecclestone,0,0,0,NA,0,NA,NA,NA,0
+1126719,1st innings,South Africa,England,21.6,L Wolvaardt,D van Niekerk,S Ecclestone,1,0,1,NA,0,NA,NA,NA,0
+1126719,1st innings,South Africa,England,22.1,L Wolvaardt,D van Niekerk,HC Knight,1,0,1,NA,0,NA,NA,NA,0
+1126719,1st innings,South Africa,England,22.2,D van Niekerk,L Wolvaardt,HC Knight,1,0,1,NA,0,NA,NA,NA,0
+1126719,1st innings,South Africa,England,22.3,L Wolvaardt,D van Niekerk,HC Knight,1,0,1,NA,0,NA,NA,NA,0
+1126719,1st innings,South Africa,England,22.4,D van Niekerk,L Wolvaardt,HC Knight,0,0,0,NA,0,NA,NA,NA,0
+1126719,1st innings,South Africa,England,22.5,D van Niekerk,L Wolvaardt,HC Knight,1,0,1,NA,0,NA,NA,NA,0
+1126719,1st innings,South Africa,England,22.6,L Wolvaardt,D van Niekerk,HC Knight,2,0,2,NA,0,NA,NA,NA,0
+1126719,1st innings,South Africa,England,23.1,D van Niekerk,L Wolvaardt,S Ecclestone,0,0,0,NA,0,NA,NA,NA,0
+1126719,1st innings,South Africa,England,23.2,D van Niekerk,L Wolvaardt,S Ecclestone,0,0,0,NA,0,NA,NA,NA,0
+1126719,1st innings,South Africa,England,23.3,D van Niekerk,L Wolvaardt,S Ecclestone,0,0,0,NA,0,NA,NA,NA,0
+1126719,1st innings,South Africa,England,23.4,D van Niekerk,L Wolvaardt,S Ecclestone,0,0,0,NA,0,NA,NA,NA,0
+1126719,1st innings,South Africa,England,23.5,D van Niekerk,L Wolvaardt,S Ecclestone,1,0,1,NA,0,NA,NA,NA,0
+1126719,1st innings,South Africa,England,23.6,L Wolvaardt,D van Niekerk,S Ecclestone,1,0,1,NA,0,NA,NA,NA,0
+1126719,1st innings,South Africa,England,24.1,L Wolvaardt,D van Niekerk,HC Knight,0,0,0,NA,0,NA,NA,NA,0
+1126719,1st innings,South Africa,England,24.2,L Wolvaardt,D van Niekerk,HC Knight,1,0,1,NA,0,NA,NA,NA,0
+1126719,1st innings,South Africa,England,24.3,D van Niekerk,L Wolvaardt,HC Knight,1,0,1,NA,0,NA,NA,NA,0
+1126719,1st innings,South Africa,England,24.4,L Wolvaardt,D van Niekerk,HC Knight,1,0,1,NA,0,NA,NA,NA,0
+1126719,1st innings,South Africa,England,24.5,D van Niekerk,L Wolvaardt,HC Knight,0,0,0,NA,0,NA,NA,NA,0
+1126719,1st innings,South Africa,England,24.6,D van Niekerk,L Wolvaardt,HC Knight,1,0,1,NA,0,NA,NA,NA,0
+1126719,1st innings,South Africa,England,25.1,D van Niekerk,L Wolvaardt,S Ecclestone,0,0,0,NA,0,NA,NA,NA,0
+1126719,1st innings,South Africa,England,25.2,D van Niekerk,L Wolvaardt,S Ecclestone,0,0,0,NA,0,NA,NA,NA,0
+1126719,1st innings,South Africa,England,25.3,D van Niekerk,L Wolvaardt,S Ecclestone,0,0,0,NA,0,NA,NA,NA,0
+1126719,1st innings,South Africa,England,25.4,D van Niekerk,L Wolvaardt,S Ecclestone,0,0,0,NA,0,NA,NA,NA,0
+1126719,1st innings,South Africa,England,25.5,D van Niekerk,L Wolvaardt,S Ecclestone,0,0,0,NA,0,NA,NA,NA,0
+1126719,1st innings,South Africa,England,25.6,D van Niekerk,L Wolvaardt,S Ecclestone,0,0,0,NA,0,NA,NA,NA,0
+1126719,1st innings,South Africa,England,26.1,L Wolvaardt,D van Niekerk,HC Knight,1,0,1,NA,0,NA,NA,NA,0
+1126719,1st innings,South Africa,England,26.2,D van Niekerk,L Wolvaardt,HC Knight,1,0,1,NA,0,NA,NA,NA,0
+1126719,1st innings,South Africa,England,26.3,L Wolvaardt,D van Niekerk,HC Knight,1,0,1,NA,0,NA,NA,NA,0
+1126719,1st innings,South Africa,England,26.4,D van Niekerk,L Wolvaardt,HC Knight,0,0,0,NA,0,NA,NA,NA,0
+1126719,1st innings,South Africa,England,26.5,D van Niekerk,L Wolvaardt,HC Knight,1,0,1,NA,0,NA,NA,NA,0
+1126719,1st innings,South Africa,England,26.6,L Wolvaardt,D van Niekerk,HC Knight,1,0,1,NA,0,NA,NA,NA,0
+1126719,1st innings,South Africa,England,27.1,L Wolvaardt,D van Niekerk,S Ecclestone,1,0,1,NA,0,NA,NA,NA,0
+1126719,1st innings,South Africa,England,27.2,D van Niekerk,L Wolvaardt,S Ecclestone,1,0,1,NA,0,NA,NA,NA,0
+1126719,1st innings,South Africa,England,27.3,L Wolvaardt,D van Niekerk,S Ecclestone,0,0,0,NA,0,NA,NA,NA,0
+1126719,1st innings,South Africa,England,27.4,L Wolvaardt,D van Niekerk,S Ecclestone,0,0,0,NA,0,NA,NA,NA,0
+1126719,1st innings,South Africa,England,27.5,L Wolvaardt,D van Niekerk,S Ecclestone,1,0,1,NA,0,NA,NA,NA,0
+1126719,1st innings,South Africa,England,27.6,D van Niekerk,L Wolvaardt,S Ecclestone,1,0,1,NA,0,NA,NA,NA,0
+1126719,1st innings,South Africa,England,28.1,D van Niekerk,L Wolvaardt,GA Elwiss,0,0,0,NA,0,NA,NA,NA,0
+1126719,1st innings,South Africa,England,28.2,D van Niekerk,L Wolvaardt,GA Elwiss,0,0,0,NA,0,NA,NA,NA,0
+1126719,1st innings,South Africa,England,28.3,D van Niekerk,L Wolvaardt,GA Elwiss,0,0,0,NA,0,NA,NA,NA,0
+1126719,1st innings,South Africa,England,28.4,D van Niekerk,L Wolvaardt,GA Elwiss,0,0,0,NA,0,NA,NA,NA,0
+1126719,1st innings,South Africa,England,28.5,D van Niekerk,L Wolvaardt,GA Elwiss,0,0,0,NA,0,NA,NA,NA,0
+1126719,1st innings,South Africa,England,28.6,D van Niekerk,L Wolvaardt,GA Elwiss,1,0,1,NA,0,NA,NA,NA,0
+1126719,1st innings,South Africa,England,29.1,D van Niekerk,L Wolvaardt,S Ecclestone,0,0,0,NA,0,NA,NA,NA,0
+1126719,1st innings,South Africa,England,29.2,D van Niekerk,L Wolvaardt,S Ecclestone,0,0,0,NA,0,NA,NA,NA,0
+1126719,1st innings,South Africa,England,29.3,D van Niekerk,L Wolvaardt,S Ecclestone,0,0,0,NA,0,NA,NA,NA,0
+1126719,1st innings,South Africa,England,29.4,D van Niekerk,L Wolvaardt,S Ecclestone,2,0,2,NA,0,NA,NA,NA,0
+1126719,1st innings,South Africa,England,29.5,D van Niekerk,L Wolvaardt,S Ecclestone,0,0,0,NA,0,NA,NA,NA,0
+1126719,1st innings,South Africa,England,29.6,D van Niekerk,L Wolvaardt,S Ecclestone,1,0,1,NA,0,NA,NA,NA,0
+1126719,1st innings,South Africa,England,30.1,D van Niekerk,L Wolvaardt,GA Elwiss,1,0,1,NA,0,NA,NA,NA,0
+1126719,1st innings,South Africa,England,30.2,L Wolvaardt,D van Niekerk,GA Elwiss,0,0,0,NA,0,NA,NA,NA,0
+1126719,1st innings,South Africa,England,30.3,L Wolvaardt,D van Niekerk,GA Elwiss,1,0,1,NA,0,NA,NA,NA,0
+1126719,1st innings,South Africa,England,30.4,D van Niekerk,L Wolvaardt,GA Elwiss,0,0,0,NA,0,NA,NA,NA,0
+1126719,1st innings,South Africa,England,30.5,D van Niekerk,L Wolvaardt,GA Elwiss,0,0,0,NA,0,NA,NA,NA,0
+1126719,1st innings,South Africa,England,30.6,D van Niekerk,L Wolvaardt,GA Elwiss,0,0,0,NA,0,NA,NA,NA,0
+1126719,1st innings,South Africa,England,31.1,L Wolvaardt,D van Niekerk,A Shrubsole,1,0,1,NA,0,NA,NA,NA,0
+1126719,1st innings,South Africa,England,31.2,D van Niekerk,L Wolvaardt,A Shrubsole,0,0,0,NA,0,NA,NA,NA,0
+1126719,1st innings,South Africa,England,31.3,D van Niekerk,L Wolvaardt,A Shrubsole,2,0,2,NA,0,NA,NA,NA,0
+1126719,1st innings,South Africa,England,31.4,D van Niekerk,L Wolvaardt,A Shrubsole,1,0,1,NA,0,NA,NA,NA,0
+1126719,1st innings,South Africa,England,31.5,L Wolvaardt,D van Niekerk,A Shrubsole,1,0,1,NA,0,NA,NA,NA,0
+1126719,1st innings,South Africa,England,31.6,D van Niekerk,L Wolvaardt,A Shrubsole,1,0,1,NA,0,NA,NA,NA,0
+1126719,1st innings,South Africa,England,32.1,D van Niekerk,L Wolvaardt,GA Elwiss,4,0,4,NA,0,NA,NA,NA,0
+1126719,1st innings,South Africa,England,32.2,D van Niekerk,L Wolvaardt,GA Elwiss,0,0,0,NA,0,NA,NA,NA,0
+1126719,1st innings,South Africa,England,32.3,D van Niekerk,L Wolvaardt,GA Elwiss,1,0,1,NA,0,NA,NA,NA,0
+1126719,1st innings,South Africa,England,32.4,L Wolvaardt,D van Niekerk,GA Elwiss,0,0,0,NA,0,NA,NA,NA,0
+1126719,1st innings,South Africa,England,32.5,L Wolvaardt,D van Niekerk,GA Elwiss,1,0,1,NA,0,NA,NA,NA,0
+1126719,1st innings,South Africa,England,32.6,D van Niekerk,L Wolvaardt,GA Elwiss,0,1,1,wides,0,NA,NA,NA,0
+1126719,1st innings,South Africa,England,32.7,D van Niekerk,L Wolvaardt,GA Elwiss,1,0,1,NA,0,NA,NA,NA,0
+1126719,1st innings,South Africa,England,33.1,D van Niekerk,L Wolvaardt,A Shrubsole,0,0,0,NA,0,NA,NA,NA,0
+1126719,1st innings,South Africa,England,33.2,D van Niekerk,L Wolvaardt,A Shrubsole,4,0,4,NA,0,NA,NA,NA,0
+1126719,1st innings,South Africa,England,33.3,D van Niekerk,L Wolvaardt,A Shrubsole,0,0,0,NA,0,NA,NA,NA,0
+1126719,1st innings,South Africa,England,33.4,D van Niekerk,L Wolvaardt,A Shrubsole,4,0,4,NA,0,NA,NA,NA,0
+1126719,1st innings,South Africa,England,33.5,D van Niekerk,L Wolvaardt,A Shrubsole,0,0,0,NA,0,NA,NA,NA,0
+1126719,1st innings,South Africa,England,33.6,D van Niekerk,L Wolvaardt,A Shrubsole,0,0,0,NA,0,NA,NA,NA,0
+1126719,1st innings,South Africa,England,34.1,L Wolvaardt,D van Niekerk,GA Elwiss,0,0,0,NA,0,NA,NA,NA,0
+1126719,1st innings,South Africa,England,34.2,L Wolvaardt,D van Niekerk,GA Elwiss,0,0,0,NA,0,NA,NA,NA,0
+1126719,1st innings,South Africa,England,34.3,L Wolvaardt,D van Niekerk,GA Elwiss,0,0,0,NA,0,NA,NA,NA,0
+1126719,1st innings,South Africa,England,34.4,L Wolvaardt,D van Niekerk,GA Elwiss,1,0,1,NA,0,NA,NA,NA,0
+1126719,1st innings,South Africa,England,34.5,D van Niekerk,L Wolvaardt,GA Elwiss,0,0,0,NA,0,NA,NA,NA,0
+1126719,1st innings,South Africa,England,34.6,D van Niekerk,L Wolvaardt,GA Elwiss,1,0,1,NA,0,NA,NA,NA,0
+1126719,1st innings,South Africa,England,35.1,D van Niekerk,L Wolvaardt,A Shrubsole,0,0,0,NA,0,NA,NA,NA,0
+1126719,1st innings,South Africa,England,35.2,D van Niekerk,L Wolvaardt,A Shrubsole,0,0,0,NA,0,NA,NA,NA,0
+1126719,1st innings,South Africa,England,35.3,D van Niekerk,L Wolvaardt,A Shrubsole,0,0,0,NA,0,NA,NA,NA,0
+1126719,1st innings,South Africa,England,35.4,D van Niekerk,L Wolvaardt,A Shrubsole,6,0,6,NA,0,NA,NA,NA,0
+1126719,1st innings,South Africa,England,35.5,D van Niekerk,L Wolvaardt,A Shrubsole,2,0,2,NA,0,NA,NA,NA,0
+1126719,1st innings,South Africa,England,35.6,D van Niekerk,L Wolvaardt,A Shrubsole,1,0,1,NA,0,NA,NA,NA,0
+1126719,1st innings,South Africa,England,36.1,D van Niekerk,L Wolvaardt,KH Brunt,0,0,0,NA,0,NA,NA,NA,0
+1126719,1st innings,South Africa,England,36.2,D van Niekerk,L Wolvaardt,KH Brunt,0,0,0,NA,0,NA,NA,NA,0
+1126719,1st innings,South Africa,England,36.3,D van Niekerk,L Wolvaardt,KH Brunt,1,0,1,NA,0,NA,NA,NA,0
+1126719,1st innings,South Africa,England,36.4,L Wolvaardt,D van Niekerk,KH Brunt,2,0,2,NA,0,NA,NA,NA,0
+1126719,1st innings,South Africa,England,36.5,L Wolvaardt,D van Niekerk,KH Brunt,0,0,0,NA,0,NA,NA,NA,0
+1126719,1st innings,South Africa,England,36.6,L Wolvaardt,D van Niekerk,KH Brunt,4,0,4,NA,0,NA,NA,NA,0
+1126719,1st innings,South Africa,England,37.1,D van Niekerk,L Wolvaardt,S Ecclestone,1,0,1,NA,0,NA,NA,NA,0
+1126719,1st innings,South Africa,England,37.2,L Wolvaardt,D van Niekerk,S Ecclestone,0,0,0,NA,0,NA,NA,NA,0
+1126719,1st innings,South Africa,England,37.3,L Wolvaardt,D van Niekerk,S Ecclestone,1,0,1,NA,0,NA,NA,NA,0
+1126719,1st innings,South Africa,England,37.4,D van Niekerk,L Wolvaardt,S Ecclestone,1,0,1,NA,0,NA,NA,NA,0
+1126719,1st innings,South Africa,England,37.5,L Wolvaardt,D van Niekerk,S Ecclestone,1,0,1,NA,0,NA,NA,NA,0
+1126719,1st innings,South Africa,England,37.6,D van Niekerk,L Wolvaardt,S Ecclestone,1,0,1,NA,0,NA,NA,NA,0
+1126719,1st innings,South Africa,England,38.1,D van Niekerk,L Wolvaardt,KH Brunt,4,0,4,NA,0,NA,NA,NA,0
+1126719,1st innings,South Africa,England,38.2,D van Niekerk,L Wolvaardt,KH Brunt,0,0,0,NA,0,NA,NA,NA,0
+1126719,1st innings,South Africa,England,38.3,D van Niekerk,L Wolvaardt,KH Brunt,0,0,0,NA,0,NA,NA,NA,0
+1126719,1st innings,South Africa,England,38.4,D van Niekerk,L Wolvaardt,KH Brunt,4,0,4,NA,0,NA,NA,NA,0
+1126719,1st innings,South Africa,England,38.5,D van Niekerk,L Wolvaardt,KH Brunt,1,0,1,NA,0,NA,NA,NA,0
+1126719,1st innings,South Africa,England,38.6,L Wolvaardt,D van Niekerk,KH Brunt,0,0,0,NA,0,NA,NA,NA,0
+1126719,1st innings,South Africa,England,39.1,D van Niekerk,L Wolvaardt,S Ecclestone,1,0,1,NA,0,NA,NA,NA,0
+1126719,1st innings,South Africa,England,39.2,L Wolvaardt,D van Niekerk,S Ecclestone,0,0,0,NA,0,NA,NA,NA,0
+1126719,1st innings,South Africa,England,39.3,L Wolvaardt,D van Niekerk,S Ecclestone,0,0,0,NA,0,NA,NA,NA,0
+1126719,1st innings,South Africa,England,39.4,L Wolvaardt,D van Niekerk,S Ecclestone,0,0,0,NA,0,NA,NA,NA,0
+1126719,1st innings,South Africa,England,39.5,L Wolvaardt,D van Niekerk,S Ecclestone,1,0,1,NA,0,NA,NA,NA,0
+1126719,1st innings,South Africa,England,39.6,D van Niekerk,L Wolvaardt,S Ecclestone,1,0,1,NA,0,NA,NA,NA,0
+1126719,1st innings,South Africa,England,40.1,D van Niekerk,L Wolvaardt,GA Elwiss,4,0,4,NA,0,NA,NA,NA,0
+1126719,1st innings,South Africa,England,40.2,D van Niekerk,L Wolvaardt,GA Elwiss,1,0,1,NA,0,NA,NA,NA,0
+1126719,1st innings,South Africa,England,40.3,L Wolvaardt,D van Niekerk,GA Elwiss,0,0,0,NA,1,caught,L Wolvaardt,A Shrubsole,0
+1126719,1st innings,South Africa,England,40.4,CL Tryon,D van Niekerk,GA Elwiss,1,0,1,NA,0,NA,NA,NA,0
+1126719,1st innings,South Africa,England,40.5,D van Niekerk,CL Tryon,GA Elwiss,1,0,1,NA,0,NA,NA,NA,0
+1126719,1st innings,South Africa,England,40.6,CL Tryon,D van Niekerk,GA Elwiss,0,0,0,NA,0,NA,NA,NA,0
+1126719,1st innings,South Africa,England,41.1,D van Niekerk,CL Tryon,S Ecclestone,1,0,1,NA,0,NA,NA,NA,0
+1126719,1st innings,South Africa,England,41.2,CL Tryon,D van Niekerk,S Ecclestone,0,0,0,NA,0,NA,NA,NA,0
+1126719,1st innings,South Africa,England,41.3,CL Tryon,D van Niekerk,S Ecclestone,0,0,0,NA,0,NA,NA,NA,0
+1126719,1st innings,South Africa,England,41.4,CL Tryon,D van Niekerk,S Ecclestone,0,0,0,NA,0,NA,NA,NA,0
+1126719,1st innings,South Africa,England,41.5,CL Tryon,D van Niekerk,S Ecclestone,0,0,0,NA,0,NA,NA,NA,0
+1126719,1st innings,South Africa,England,41.6,CL Tryon,D van Niekerk,S Ecclestone,0,0,0,NA,0,NA,NA,NA,0
+1126719,1st innings,South Africa,England,42.1,D van Niekerk,CL Tryon,GA Elwiss,1,0,1,NA,0,NA,NA,NA,0
+1126719,1st innings,South Africa,England,42.2,CL Tryon,D van Niekerk,GA Elwiss,6,0,6,NA,0,NA,NA,NA,0
+1126719,1st innings,South Africa,England,42.3,CL Tryon,D van Niekerk,GA Elwiss,6,0,6,NA,0,NA,NA,NA,0
+1126719,1st innings,South Africa,England,42.4,CL Tryon,D van Niekerk,GA Elwiss,0,0,0,NA,0,NA,NA,NA,0
+1126719,1st innings,South Africa,England,42.5,CL Tryon,D van Niekerk,GA Elwiss,1,0,1,NA,0,NA,NA,NA,0
+1126719,1st innings,South Africa,England,42.6,D van Niekerk,CL Tryon,GA Elwiss,1,0,1,NA,0,NA,NA,NA,0
+1126719,1st innings,South Africa,England,43.1,D van Niekerk,CL Tryon,A Shrubsole,4,0,4,NA,0,NA,NA,NA,0
+1126719,1st innings,South Africa,England,43.2,D van Niekerk,CL Tryon,A Shrubsole,4,0,4,NA,0,NA,NA,NA,0
+1126719,1st innings,South Africa,England,43.3,D van Niekerk,CL Tryon,A Shrubsole,0,0,0,NA,0,NA,NA,NA,0
+1126719,1st innings,South Africa,England,43.4,D van Niekerk,CL Tryon,A Shrubsole,4,0,4,NA,0,NA,NA,NA,0
+1126719,1st innings,South Africa,England,43.5,D van Niekerk,CL Tryon,A Shrubsole,0,0,0,NA,0,NA,NA,NA,0
+1126719,1st innings,South Africa,England,43.6,D van Niekerk,CL Tryon,A Shrubsole,0,0,0,NA,0,NA,NA,NA,0
+1126719,1st innings,South Africa,England,44.1,CL Tryon,D van Niekerk,KH Brunt,0,0,0,NA,0,NA,NA,NA,0
+1126719,1st innings,South Africa,England,44.2,CL Tryon,D van Niekerk,KH Brunt,4,0,4,NA,0,NA,NA,NA,0
+1126719,1st innings,South Africa,England,44.3,CL Tryon,D van Niekerk,KH Brunt,0,0,0,NA,0,NA,NA,NA,0
+1126719,1st innings,South Africa,England,44.4,CL Tryon,D van Niekerk,KH Brunt,1,0,1,NA,0,NA,NA,NA,0
+1126719,1st innings,South Africa,England,44.5,D van Niekerk,CL Tryon,KH Brunt,1,0,1,NA,0,NA,NA,NA,0
+1126719,1st innings,South Africa,England,44.6,CL Tryon,D van Niekerk,KH Brunt,0,0,0,NA,1,caught,CL Tryon,AE Jones,0
+1126719,1st innings,South Africa,England,45.1,M du Preez,D van Niekerk,LA Marsh,0,0,0,NA,0,NA,NA,NA,0
+1126719,1st innings,South Africa,England,45.2,M du Preez,D van Niekerk,LA Marsh,1,0,1,NA,0,NA,NA,NA,0
+1126719,1st innings,South Africa,England,45.3,D van Niekerk,M du Preez,LA Marsh,4,0,4,NA,0,NA,NA,NA,0
+1126719,1st innings,South Africa,England,45.4,D van Niekerk,M du Preez,LA Marsh,1,0,1,NA,0,NA,NA,NA,0
+1126719,1st innings,South Africa,England,45.5,M du Preez,D van Niekerk,LA Marsh,1,0,1,NA,0,NA,NA,NA,0
+1126719,1st innings,South Africa,England,45.6,D van Niekerk,M du Preez,LA Marsh,2,0,2,NA,0,NA,NA,NA,0
+1126719,1st innings,South Africa,England,46.1,M du Preez,D van Niekerk,KH Brunt,4,0,4,NA,0,NA,NA,NA,0
+1126719,1st innings,South Africa,England,46.2,M du Preez,D van Niekerk,KH Brunt,1,0,1,NA,0,NA,NA,NA,0
+1126719,1st innings,South Africa,England,46.3,D van Niekerk,M du Preez,KH Brunt,0,1,1,wides,1,stumped,D van Niekerk,SJ Taylor,0
+1126719,1st innings,South Africa,England,46.4,S Luus,M du Preez,KH Brunt,0,0,0,NA,0,NA,NA,NA,0
+1126719,1st innings,South Africa,England,46.5,S Luus,M du Preez,KH Brunt,0,0,0,NA,0,NA,NA,NA,0
+1126719,1st innings,South Africa,England,46.6,S Luus,M du Preez,KH Brunt,0,0,0,NA,0,NA,NA,NA,0
+1126719,1st innings,South Africa,England,46.7,S Luus,M du Preez,KH Brunt,0,0,0,NA,1,caught,S Luus,NR Sciver,0
+1126719,1st innings,South Africa,England,47.1,M Kapp,M du Preez,LA Marsh,0,0,0,NA,1,caught and bowled,M Kapp,NA,0
+1126719,1st innings,South Africa,England,47.2,S Ismail,M du Preez,LA Marsh,0,0,0,NA,0,NA,NA,NA,0
+1126719,1st innings,South Africa,England,47.3,S Ismail,M du Preez,LA Marsh,0,0,0,NA,0,NA,NA,NA,0
+1126719,1st innings,South Africa,England,47.4,S Ismail,M du Preez,LA Marsh,1,0,1,NA,0,NA,NA,NA,0
+1126719,1st innings,South Africa,England,47.5,M du Preez,S Ismail,LA Marsh,2,0,2,NA,0,NA,NA,NA,0
+1126719,1st innings,South Africa,England,47.6,M du Preez,S Ismail,LA Marsh,1,0,1,NA,0,NA,NA,NA,0
+1126719,1st innings,South Africa,England,48.1,M du Preez,S Ismail,KH Brunt,4,0,4,NA,0,NA,NA,NA,0
+1126719,1st innings,South Africa,England,48.2,M du Preez,S Ismail,KH Brunt,1,0,1,NA,0,NA,NA,NA,0
+1126719,1st innings,South Africa,England,48.3,S Ismail,M du Preez,KH Brunt,1,0,1,NA,0,NA,NA,NA,0
+1126719,1st innings,South Africa,England,48.4,M du Preez,S Ismail,KH Brunt,1,0,1,NA,0,NA,NA,NA,0
+1126719,1st innings,South Africa,England,48.5,S Ismail,M du Preez,KH Brunt,2,0,2,NA,0,NA,NA,NA,0
+1126719,1st innings,South Africa,England,48.6,S Ismail,M du Preez,KH Brunt,1,0,1,NA,0,NA,NA,NA,0
+1126719,1st innings,South Africa,England,49.1,S Ismail,M du Preez,LA Marsh,0,0,0,NA,0,NA,NA,NA,0
+1126719,1st innings,South Africa,England,49.2,S Ismail,M du Preez,LA Marsh,1,0,1,NA,0,NA,NA,NA,0
+1126719,1st innings,South Africa,England,49.3,M du Preez,S Ismail,LA Marsh,1,0,1,NA,1,run out,M du Preez,NA,0
+1126719,1st innings,South Africa,England,49.4,A Khaka,S Ismail,LA Marsh,0,0,0,NA,1,run out,A Khaka,NA,0
+1126719,1st innings,South Africa,England,49.5,S Ismail,M Klaas,LA Marsh,0,0,0,NA,1,stumped,S Ismail,SJ Taylor,0
+1126719,2nd innings,England,South Africa,0.1,AE Jones,TT Beaumont,S Ismail,0,0,0,NA,0,NA,NA,NA,1
+1126719,2nd innings,England,South Africa,0.2,AE Jones,TT Beaumont,S Ismail,0,0,0,NA,0,NA,NA,NA,1
+1126719,2nd innings,England,South Africa,0.3,AE Jones,TT Beaumont,S Ismail,0,0,0,NA,0,NA,NA,NA,1
+1126719,2nd innings,England,South Africa,0.4,AE Jones,TT Beaumont,S Ismail,2,0,2,NA,0,NA,NA,NA,1
+1126719,2nd innings,England,South Africa,0.5,AE Jones,TT Beaumont,S Ismail,0,0,0,NA,0,NA,NA,NA,1
+1126719,2nd innings,England,South Africa,0.6,AE Jones,TT Beaumont,S Ismail,0,0,0,NA,0,NA,NA,NA,1
+1126719,2nd innings,England,South Africa,1.1,TT Beaumont,AE Jones,M Kapp,1,0,1,NA,0,NA,NA,NA,1
+1126719,2nd innings,England,South Africa,1.2,AE Jones,TT Beaumont,M Kapp,4,0,4,NA,0,NA,NA,NA,1
+1126719,2nd innings,England,South Africa,1.3,AE Jones,TT Beaumont,M Kapp,0,1,1,wides,0,NA,NA,NA,1
+1126719,2nd innings,England,South Africa,1.4,AE Jones,TT Beaumont,M Kapp,0,0,0,NA,0,NA,NA,NA,1
+1126719,2nd innings,England,South Africa,1.5,AE Jones,TT Beaumont,M Kapp,2,0,2,NA,0,NA,NA,NA,1
+1126719,2nd innings,England,South Africa,1.6,AE Jones,TT Beaumont,M Kapp,0,0,0,NA,0,NA,NA,NA,1
+1126719,2nd innings,England,South Africa,1.7,AE Jones,TT Beaumont,M Kapp,0,0,0,NA,0,NA,NA,NA,1
+1126719,2nd innings,England,South Africa,2.1,TT Beaumont,AE Jones,S Ismail,1,0,1,NA,0,NA,NA,NA,1
+1126719,2nd innings,England,South Africa,2.2,AE Jones,TT Beaumont,S Ismail,0,0,0,NA,0,NA,NA,NA,1
+1126719,2nd innings,England,South Africa,2.3,AE Jones,TT Beaumont,S Ismail,1,0,1,NA,0,NA,NA,NA,1
+1126719,2nd innings,England,South Africa,2.4,TT Beaumont,AE Jones,S Ismail,0,0,0,NA,0,NA,NA,NA,1
+1126719,2nd innings,England,South Africa,2.5,TT Beaumont,AE Jones,S Ismail,0,0,0,NA,0,NA,NA,NA,1
+1126719,2nd innings,England,South Africa,2.6,TT Beaumont,AE Jones,S Ismail,0,0,0,NA,0,NA,NA,NA,1
+1126719,2nd innings,England,South Africa,3.1,AE Jones,TT Beaumont,M Kapp,0,0,0,NA,0,NA,NA,NA,1
+1126719,2nd innings,England,South Africa,3.2,AE Jones,TT Beaumont,M Kapp,2,0,2,NA,0,NA,NA,NA,1
+1126719,2nd innings,England,South Africa,3.3,AE Jones,TT Beaumont,M Kapp,0,0,0,NA,0,NA,NA,NA,1
+1126719,2nd innings,England,South Africa,3.4,AE Jones,TT Beaumont,M Kapp,0,0,0,NA,0,NA,NA,NA,1
+1126719,2nd innings,England,South Africa,3.5,AE Jones,TT Beaumont,M Kapp,0,0,0,NA,0,NA,NA,NA,1
+1126719,2nd innings,England,South Africa,3.6,AE Jones,TT Beaumont,M Kapp,0,0,0,NA,0,NA,NA,NA,1
+1126719,2nd innings,England,South Africa,4.1,TT Beaumont,AE Jones,S Ismail,0,0,0,NA,0,NA,NA,NA,1
+1126719,2nd innings,England,South Africa,4.2,TT Beaumont,AE Jones,S Ismail,0,2,2,wides,0,NA,NA,NA,1
+1126719,2nd innings,England,South Africa,4.3,AE Jones,TT Beaumont,S Ismail,0,0,0,NA,0,NA,NA,NA,1
+1126719,2nd innings,England,South Africa,4.4,AE Jones,TT Beaumont,S Ismail,4,0,4,NA,0,NA,NA,NA,1
+1126719,2nd innings,England,South Africa,4.5,AE Jones,TT Beaumont,S Ismail,0,0,0,NA,0,NA,NA,NA,1
+1126719,2nd innings,England,South Africa,4.6,AE Jones,TT Beaumont,S Ismail,0,0,0,NA,0,NA,NA,NA,1
+1126719,2nd innings,England,South Africa,4.7,AE Jones,TT Beaumont,S Ismail,0,0,0,NA,0,NA,NA,NA,1
+1126719,2nd innings,England,South Africa,5.1,TT Beaumont,AE Jones,M Kapp,0,0,0,NA,0,NA,NA,NA,1
+1126719,2nd innings,England,South Africa,5.2,TT Beaumont,AE Jones,M Kapp,0,0,0,NA,0,NA,NA,NA,1
+1126719,2nd innings,England,South Africa,5.3,TT Beaumont,AE Jones,M Kapp,0,0,0,NA,0,NA,NA,NA,1
+1126719,2nd innings,England,South Africa,5.4,TT Beaumont,AE Jones,M Kapp,0,0,0,NA,0,NA,NA,NA,1
+1126719,2nd innings,England,South Africa,5.5,TT Beaumont,AE Jones,M Kapp,1,0,1,NA,0,NA,NA,NA,1
+1126719,2nd innings,England,South Africa,5.6,AE Jones,TT Beaumont,M Kapp,0,0,0,NA,0,NA,NA,NA,1
+1126719,2nd innings,England,South Africa,6.1,TT Beaumont,AE Jones,S Ismail,0,0,0,NA,0,NA,NA,NA,1
+1126719,2nd innings,England,South Africa,6.2,TT Beaumont,AE Jones,S Ismail,0,0,0,NA,0,NA,NA,NA,1
+1126719,2nd innings,England,South Africa,6.3,TT Beaumont,AE Jones,S Ismail,1,0,1,NA,0,NA,NA,NA,1
+1126719,2nd innings,England,South Africa,6.4,AE Jones,TT Beaumont,S Ismail,0,0,0,NA,0,NA,NA,NA,1
+1126719,2nd innings,England,South Africa,6.5,AE Jones,TT Beaumont,S Ismail,0,0,0,NA,0,NA,NA,NA,1
+1126719,2nd innings,England,South Africa,6.6,AE Jones,TT Beaumont,S Ismail,0,0,0,NA,0,NA,NA,NA,1
+1126719,2nd innings,England,South Africa,7.1,TT Beaumont,AE Jones,M Kapp,0,0,0,NA,0,NA,NA,NA,1
+1126719,2nd innings,England,South Africa,7.2,TT Beaumont,AE Jones,M Kapp,0,0,0,NA,0,NA,NA,NA,1
+1126719,2nd innings,England,South Africa,7.3,TT Beaumont,AE Jones,M Kapp,0,0,0,NA,0,NA,NA,NA,1
+1126719,2nd innings,England,South Africa,7.4,TT Beaumont,AE Jones,M Kapp,4,0,4,NA,0,NA,NA,NA,1
+1126719,2nd innings,England,South Africa,7.5,TT Beaumont,AE Jones,M Kapp,0,0,0,NA,0,NA,NA,NA,1
+1126719,2nd innings,England,South Africa,7.6,TT Beaumont,AE Jones,M Kapp,2,0,2,NA,0,NA,NA,NA,1
+1126719,2nd innings,England,South Africa,8.1,AE Jones,TT Beaumont,S Ismail,0,0,0,NA,0,NA,NA,NA,1
+1126719,2nd innings,England,South Africa,8.2,AE Jones,TT Beaumont,S Ismail,0,0,0,NA,0,NA,NA,NA,1
+1126719,2nd innings,England,South Africa,8.3,AE Jones,TT Beaumont,S Ismail,0,0,0,NA,0,NA,NA,NA,1
+1126719,2nd innings,England,South Africa,8.4,AE Jones,TT Beaumont,S Ismail,0,0,0,NA,0,NA,NA,NA,1
+1126719,2nd innings,England,South Africa,8.5,AE Jones,TT Beaumont,S Ismail,0,0,0,NA,0,NA,NA,NA,1
+1126719,2nd innings,England,South Africa,8.6,AE Jones,TT Beaumont,S Ismail,4,0,4,NA,0,NA,NA,NA,1
+1126719,2nd innings,England,South Africa,9.1,TT Beaumont,AE Jones,M Kapp,0,0,0,NA,0,NA,NA,NA,1
+1126719,2nd innings,England,South Africa,9.2,TT Beaumont,AE Jones,M Kapp,0,0,0,NA,0,NA,NA,NA,1
+1126719,2nd innings,England,South Africa,9.3,TT Beaumont,AE Jones,M Kapp,0,0,0,NA,0,NA,NA,NA,1
+1126719,2nd innings,England,South Africa,9.4,TT Beaumont,AE Jones,M Kapp,2,0,2,NA,0,NA,NA,NA,1
+1126719,2nd innings,England,South Africa,9.5,TT Beaumont,AE Jones,M Kapp,0,0,0,NA,0,NA,NA,NA,1
+1126719,2nd innings,England,South Africa,9.6,TT Beaumont,AE Jones,M Kapp,0,0,0,NA,0,NA,NA,NA,1
+1126719,2nd innings,England,South Africa,10.1,AE Jones,TT Beaumont,M Klaas,0,0,0,NA,0,NA,NA,NA,1
+1126719,2nd innings,England,South Africa,10.2,AE Jones,TT Beaumont,M Klaas,0,0,0,NA,0,NA,NA,NA,1
+1126719,2nd innings,England,South Africa,10.3,AE Jones,TT Beaumont,M Klaas,0,0,0,NA,0,NA,NA,NA,1
+1126719,2nd innings,England,South Africa,10.4,AE Jones,TT Beaumont,M Klaas,4,0,4,NA,0,NA,NA,NA,1
+1126719,2nd innings,England,South Africa,10.5,AE Jones,TT Beaumont,M Klaas,1,0,1,NA,0,NA,NA,NA,1
+1126719,2nd innings,England,South Africa,10.6,TT Beaumont,AE Jones,M Klaas,0,0,0,NA,0,NA,NA,NA,1
+1126719,2nd innings,England,South Africa,11.1,AE Jones,TT Beaumont,A Khaka,0,0,0,NA,1,caught,AE Jones,S Luus,1
+1126719,2nd innings,England,South Africa,11.2,SJ Taylor,TT Beaumont,A Khaka,4,0,4,NA,0,NA,NA,NA,1
+1126719,2nd innings,England,South Africa,11.3,SJ Taylor,TT Beaumont,A Khaka,0,0,0,NA,0,NA,NA,NA,1
+1126719,2nd innings,England,South Africa,11.4,SJ Taylor,TT Beaumont,A Khaka,0,0,0,NA,0,NA,NA,NA,1
+1126719,2nd innings,England,South Africa,11.5,SJ Taylor,TT Beaumont,A Khaka,0,0,0,NA,0,NA,NA,NA,1
+1126719,2nd innings,England,South Africa,11.6,SJ Taylor,TT Beaumont,A Khaka,0,0,0,NA,0,NA,NA,NA,1
+1126719,2nd innings,England,South Africa,12.1,TT Beaumont,SJ Taylor,M Klaas,0,0,0,NA,0,NA,NA,NA,1
+1126719,2nd innings,England,South Africa,12.2,TT Beaumont,SJ Taylor,M Klaas,4,0,4,NA,0,NA,NA,NA,1
+1126719,2nd innings,England,South Africa,12.3,TT Beaumont,SJ Taylor,M Klaas,0,0,0,NA,0,NA,NA,NA,1
+1126719,2nd innings,England,South Africa,12.4,TT Beaumont,SJ Taylor,M Klaas,0,0,0,NA,0,NA,NA,NA,1
+1126719,2nd innings,England,South Africa,12.5,TT Beaumont,SJ Taylor,M Klaas,0,0,0,NA,0,NA,NA,NA,1
+1126719,2nd innings,England,South Africa,12.6,TT Beaumont,SJ Taylor,M Klaas,1,0,1,NA,0,NA,NA,NA,1
+1126719,2nd innings,England,South Africa,13.1,TT Beaumont,SJ Taylor,A Khaka,0,0,0,NA,0,NA,NA,NA,1
+1126719,2nd innings,England,South Africa,13.2,TT Beaumont,SJ Taylor,A Khaka,1,0,1,NA,0,NA,NA,NA,1
+1126719,2nd innings,England,South Africa,13.3,SJ Taylor,TT Beaumont,A Khaka,1,0,1,NA,0,NA,NA,NA,1
+1126719,2nd innings,England,South Africa,13.4,TT Beaumont,SJ Taylor,A Khaka,1,0,1,NA,0,NA,NA,NA,1
+1126719,2nd innings,England,South Africa,13.5,SJ Taylor,TT Beaumont,A Khaka,0,0,0,NA,0,NA,NA,NA,1
+1126719,2nd innings,England,South Africa,13.6,SJ Taylor,TT Beaumont,A Khaka,0,0,0,NA,1,bowled,SJ Taylor,NA,1
+1126719,2nd innings,England,South Africa,14.1,TT Beaumont,HC Knight,M Klaas,0,0,0,NA,0,NA,NA,NA,1
+1126719,2nd innings,England,South Africa,14.2,TT Beaumont,HC Knight,M Klaas,0,0,0,NA,0,NA,NA,NA,1
+1126719,2nd innings,England,South Africa,14.3,TT Beaumont,HC Knight,M Klaas,0,0,0,NA,0,NA,NA,NA,1
+1126719,2nd innings,England,South Africa,14.4,TT Beaumont,HC Knight,M Klaas,0,0,0,NA,0,NA,NA,NA,1
+1126719,2nd innings,England,South Africa,14.5,TT Beaumont,HC Knight,M Klaas,4,0,4,NA,0,NA,NA,NA,1
+1126719,2nd innings,England,South Africa,14.6,TT Beaumont,HC Knight,M Klaas,0,0,0,NA,0,NA,NA,NA,1
+1126719,2nd innings,England,South Africa,15.1,HC Knight,TT Beaumont,A Khaka,0,0,0,NA,0,NA,NA,NA,1
+1126719,2nd innings,England,South Africa,15.2,HC Knight,TT Beaumont,A Khaka,0,0,0,NA,0,NA,NA,NA,1
+1126719,2nd innings,England,South Africa,15.3,HC Knight,TT Beaumont,A Khaka,1,0,1,NA,0,NA,NA,NA,1
+1126719,2nd innings,England,South Africa,15.4,TT Beaumont,HC Knight,A Khaka,0,0,0,NA,0,NA,NA,NA,1
+1126719,2nd innings,England,South Africa,15.5,TT Beaumont,HC Knight,A Khaka,1,0,1,NA,0,NA,NA,NA,1
+1126719,2nd innings,England,South Africa,15.6,HC Knight,TT Beaumont,A Khaka,0,0,0,NA,0,NA,NA,NA,1
+1126719,2nd innings,England,South Africa,16.1,TT Beaumont,HC Knight,M Klaas,0,0,0,NA,0,NA,NA,NA,1
+1126719,2nd innings,England,South Africa,16.2,TT Beaumont,HC Knight,M Klaas,0,0,0,NA,0,NA,NA,NA,1
+1126719,2nd innings,England,South Africa,16.3,TT Beaumont,HC Knight,M Klaas,0,0,0,NA,0,NA,NA,NA,1
+1126719,2nd innings,England,South Africa,16.4,TT Beaumont,HC Knight,M Klaas,0,0,0,NA,0,NA,NA,NA,1
+1126719,2nd innings,England,South Africa,16.5,TT Beaumont,HC Knight,M Klaas,1,0,1,NA,0,NA,NA,NA,1
+1126719,2nd innings,England,South Africa,16.6,HC Knight,TT Beaumont,M Klaas,0,0,0,NA,0,NA,NA,NA,1
+1126719,2nd innings,England,South Africa,17.1,TT Beaumont,HC Knight,A Khaka,0,0,0,NA,0,NA,NA,NA,1
+1126719,2nd innings,England,South Africa,17.2,TT Beaumont,HC Knight,A Khaka,0,1,1,legbyes,0,NA,NA,NA,1
+1126719,2nd innings,England,South Africa,17.3,HC Knight,TT Beaumont,A Khaka,0,0,0,NA,0,NA,NA,NA,1
+1126719,2nd innings,England,South Africa,17.4,HC Knight,TT Beaumont,A Khaka,0,0,0,NA,0,NA,NA,NA,1
+1126719,2nd innings,England,South Africa,17.5,HC Knight,TT Beaumont,A Khaka,0,0,0,NA,0,NA,NA,NA,1
+1126719,2nd innings,England,South Africa,17.6,HC Knight,TT Beaumont,A Khaka,2,0,2,NA,0,NA,NA,NA,1
+1126719,2nd innings,England,South Africa,18.1,TT Beaumont,HC Knight,M Klaas,1,0,1,NA,0,NA,NA,NA,1
+1126719,2nd innings,England,South Africa,18.2,HC Knight,TT Beaumont,M Klaas,0,0,0,NA,0,NA,NA,NA,1
+1126719,2nd innings,England,South Africa,18.3,HC Knight,TT Beaumont,M Klaas,1,0,1,NA,0,NA,NA,NA,1
+1126719,2nd innings,England,South Africa,18.4,TT Beaumont,HC Knight,M Klaas,0,0,0,NA,0,NA,NA,NA,1
+1126719,2nd innings,England,South Africa,18.5,TT Beaumont,HC Knight,M Klaas,1,0,1,NA,0,NA,NA,NA,1
+1126719,2nd innings,England,South Africa,18.6,HC Knight,TT Beaumont,M Klaas,1,0,1,NA,0,NA,NA,NA,1
+1126719,2nd innings,England,South Africa,19.1,HC Knight,TT Beaumont,A Khaka,1,0,1,NA,0,NA,NA,NA,1
+1126719,2nd innings,England,South Africa,19.2,TT Beaumont,HC Knight,A Khaka,0,0,0,NA,0,NA,NA,NA,1
+1126719,2nd innings,England,South Africa,19.3,TT Beaumont,HC Knight,A Khaka,0,0,0,NA,0,NA,NA,NA,1
+1126719,2nd innings,England,South Africa,19.4,TT Beaumont,HC Knight,A Khaka,4,0,4,NA,0,NA,NA,NA,1
+1126719,2nd innings,England,South Africa,19.5,TT Beaumont,HC Knight,A Khaka,0,0,0,NA,0,NA,NA,NA,1
+1126719,2nd innings,England,South Africa,19.6,TT Beaumont,HC Knight,A Khaka,4,0,4,NA,0,NA,NA,NA,1
+1126719,2nd innings,England,South Africa,20.1,HC Knight,TT Beaumont,CL Tryon,1,0,1,NA,0,NA,NA,NA,1
+1126719,2nd innings,England,South Africa,20.2,TT Beaumont,HC Knight,CL Tryon,0,0,0,NA,0,NA,NA,NA,1
+1126719,2nd innings,England,South Africa,20.3,TT Beaumont,HC Knight,CL Tryon,1,0,1,NA,0,NA,NA,NA,1
+1126719,2nd innings,England,South Africa,20.4,HC Knight,TT Beaumont,CL Tryon,0,0,0,NA,0,NA,NA,NA,1
+1126719,2nd innings,England,South Africa,20.5,HC Knight,TT Beaumont,CL Tryon,2,0,2,NA,0,NA,NA,NA,1
+1126719,2nd innings,England,South Africa,20.6,HC Knight,TT Beaumont,CL Tryon,1,0,1,NA,0,NA,NA,NA,1
+1126719,2nd innings,England,South Africa,21.1,HC Knight,TT Beaumont,D van Niekerk,1,0,1,NA,0,NA,NA,NA,1
+1126719,2nd innings,England,South Africa,21.2,TT Beaumont,HC Knight,D van Niekerk,2,0,2,NA,0,NA,NA,NA,1
+1126719,2nd innings,England,South Africa,21.3,TT Beaumont,HC Knight,D van Niekerk,0,0,0,NA,0,NA,NA,NA,1
+1126719,2nd innings,England,South Africa,21.4,TT Beaumont,HC Knight,D van Niekerk,0,0,0,NA,0,NA,NA,NA,1
+1126719,2nd innings,England,South Africa,21.5,TT Beaumont,HC Knight,D van Niekerk,2,0,2,NA,0,NA,NA,NA,1
+1126719,2nd innings,England,South Africa,21.6,TT Beaumont,HC Knight,D van Niekerk,0,0,0,NA,0,NA,NA,NA,1
+1126719,2nd innings,England,South Africa,22.1,HC Knight,TT Beaumont,CL Tryon,2,0,2,NA,0,NA,NA,NA,1
+1126719,2nd innings,England,South Africa,22.2,HC Knight,TT Beaumont,CL Tryon,1,0,1,NA,0,NA,NA,NA,1
+1126719,2nd innings,England,South Africa,22.3,TT Beaumont,HC Knight,CL Tryon,2,0,2,NA,0,NA,NA,NA,1
+1126719,2nd innings,England,South Africa,22.4,TT Beaumont,HC Knight,CL Tryon,0,0,0,NA,0,NA,NA,NA,1
+1126719,2nd innings,England,South Africa,22.5,TT Beaumont,HC Knight,CL Tryon,1,0,1,NA,0,NA,NA,NA,1
+1126719,2nd innings,England,South Africa,22.6,HC Knight,TT Beaumont,CL Tryon,0,0,0,NA,0,NA,NA,NA,1
+1126719,2nd innings,England,South Africa,23.1,TT Beaumont,HC Knight,D van Niekerk,1,0,1,NA,0,NA,NA,NA,1
+1126719,2nd innings,England,South Africa,23.2,HC Knight,TT Beaumont,D van Niekerk,2,0,2,NA,0,NA,NA,NA,1
+1126719,2nd innings,England,South Africa,23.3,HC Knight,TT Beaumont,D van Niekerk,2,0,2,NA,0,NA,NA,NA,1
+1126719,2nd innings,England,South Africa,23.4,HC Knight,TT Beaumont,D van Niekerk,1,0,1,NA,0,NA,NA,NA,1
+1126719,2nd innings,England,South Africa,23.5,TT Beaumont,HC Knight,D van Niekerk,0,0,0,NA,0,NA,NA,NA,1
+1126719,2nd innings,England,South Africa,23.6,TT Beaumont,HC Knight,D van Niekerk,1,0,1,NA,0,NA,NA,NA,1
+1126719,2nd innings,England,South Africa,24.1,TT Beaumont,HC Knight,S Luus,1,0,1,NA,0,NA,NA,NA,1
+1126719,2nd innings,England,South Africa,24.2,HC Knight,TT Beaumont,S Luus,0,0,0,NA,0,NA,NA,NA,1
+1126719,2nd innings,England,South Africa,24.3,HC Knight,TT Beaumont,S Luus,1,0,1,NA,0,NA,NA,NA,1
+1126719,2nd innings,England,South Africa,24.4,TT Beaumont,HC Knight,S Luus,2,0,2,NA,0,NA,NA,NA,1
+1126719,2nd innings,England,South Africa,24.5,TT Beaumont,HC Knight,S Luus,1,0,1,NA,0,NA,NA,NA,1
+1126719,2nd innings,England,South Africa,24.6,HC Knight,TT Beaumont,S Luus,1,0,1,NA,0,NA,NA,NA,1
+1126719,2nd innings,England,South Africa,25.1,HC Knight,TT Beaumont,D van Niekerk,1,0,1,NA,0,NA,NA,NA,1
+1126719,2nd innings,England,South Africa,25.2,TT Beaumont,HC Knight,D van Niekerk,0,0,0,NA,0,NA,NA,NA,1
+1126719,2nd innings,England,South Africa,25.3,TT Beaumont,HC Knight,D van Niekerk,1,0,1,NA,0,NA,NA,NA,1
+1126719,2nd innings,England,South Africa,25.4,HC Knight,TT Beaumont,D van Niekerk,1,0,1,NA,0,NA,NA,NA,1
+1126719,2nd innings,England,South Africa,25.5,TT Beaumont,HC Knight,D van Niekerk,0,0,0,NA,0,NA,NA,NA,1
+1126719,2nd innings,England,South Africa,25.6,TT Beaumont,HC Knight,D van Niekerk,1,0,1,NA,0,NA,NA,NA,1
+1126719,2nd innings,England,South Africa,26.1,TT Beaumont,HC Knight,S Luus,1,0,1,NA,0,NA,NA,NA,1
+1126719,2nd innings,England,South Africa,26.2,HC Knight,TT Beaumont,S Luus,1,0,1,NA,0,NA,NA,NA,1
+1126719,2nd innings,England,South Africa,26.3,TT Beaumont,HC Knight,S Luus,4,0,4,NA,0,NA,NA,NA,1
+1126719,2nd innings,England,South Africa,26.4,TT Beaumont,HC Knight,S Luus,1,0,1,NA,0,NA,NA,NA,1
+1126719,2nd innings,England,South Africa,26.5,HC Knight,TT Beaumont,S Luus,0,0,0,NA,0,NA,NA,NA,1
+1126719,2nd innings,England,South Africa,26.6,HC Knight,TT Beaumont,S Luus,1,0,1,NA,0,NA,NA,NA,1
+1126719,2nd innings,England,South Africa,27.1,HC Knight,TT Beaumont,D van Niekerk,0,0,0,NA,0,NA,NA,NA,1
+1126719,2nd innings,England,South Africa,27.2,HC Knight,TT Beaumont,D van Niekerk,1,0,1,NA,0,NA,NA,NA,1
+1126719,2nd innings,England,South Africa,27.3,TT Beaumont,HC Knight,D van Niekerk,0,0,0,NA,0,NA,NA,NA,1
+1126719,2nd innings,England,South Africa,27.4,TT Beaumont,HC Knight,D van Niekerk,1,0,1,NA,0,NA,NA,NA,1
+1126719,2nd innings,England,South Africa,27.5,HC Knight,TT Beaumont,D van Niekerk,1,0,1,NA,0,NA,NA,NA,1
+1126719,2nd innings,England,South Africa,27.6,TT Beaumont,HC Knight,D van Niekerk,0,0,0,NA,0,NA,NA,NA,1
+1126719,2nd innings,England,South Africa,28.1,HC Knight,TT Beaumont,S Ismail,2,0,2,NA,0,NA,NA,NA,1
+1126719,2nd innings,England,South Africa,28.2,HC Knight,TT Beaumont,S Ismail,0,0,0,NA,0,NA,NA,NA,1
+1126719,2nd innings,England,South Africa,28.3,HC Knight,TT Beaumont,S Ismail,1,0,1,NA,0,NA,NA,NA,1
+1126719,2nd innings,England,South Africa,28.4,TT Beaumont,HC Knight,S Ismail,1,0,1,NA,0,NA,NA,NA,1
+1126719,2nd innings,England,South Africa,28.5,HC Knight,TT Beaumont,S Ismail,0,0,0,NA,0,NA,NA,NA,1
+1126719,2nd innings,England,South Africa,28.6,HC Knight,TT Beaumont,S Ismail,4,0,4,NA,0,NA,NA,NA,1
+1126719,2nd innings,England,South Africa,29.1,TT Beaumont,HC Knight,D van Niekerk,1,0,1,NA,0,NA,NA,NA,1
+1126719,2nd innings,England,South Africa,29.2,HC Knight,TT Beaumont,D van Niekerk,0,0,0,NA,0,NA,NA,NA,1
+1126719,2nd innings,England,South Africa,29.3,HC Knight,TT Beaumont,D van Niekerk,4,0,4,NA,0,NA,NA,NA,1
+1126719,2nd innings,England,South Africa,29.4,HC Knight,TT Beaumont,D van Niekerk,1,0,1,NA,0,NA,NA,NA,1
+1126719,2nd innings,England,South Africa,29.5,TT Beaumont,HC Knight,D van Niekerk,1,0,1,NA,0,NA,NA,NA,1
+1126719,2nd innings,England,South Africa,29.6,HC Knight,TT Beaumont,D van Niekerk,0,0,0,NA,0,NA,NA,NA,1
+1126719,2nd innings,England,South Africa,30.1,TT Beaumont,HC Knight,M Klaas,0,3,3,wides,0,NA,NA,NA,1
+1126719,2nd innings,England,South Africa,30.2,TT Beaumont,HC Knight,M Klaas,1,0,1,NA,0,NA,NA,NA,1
+1126719,2nd innings,England,South Africa,30.3,HC Knight,TT Beaumont,M Klaas,1,0,1,NA,0,NA,NA,NA,1
+1126719,2nd innings,England,South Africa,30.4,TT Beaumont,HC Knight,M Klaas,1,0,1,NA,0,NA,NA,NA,1
+1126719,2nd innings,England,South Africa,30.5,HC Knight,TT Beaumont,M Klaas,1,0,1,NA,0,NA,NA,NA,1
+1126719,2nd innings,England,South Africa,30.6,TT Beaumont,HC Knight,M Klaas,0,0,0,NA,0,NA,NA,NA,1
+1126719,2nd innings,England,South Africa,30.7,TT Beaumont,HC Knight,M Klaas,1,0,1,NA,0,NA,NA,NA,1
+1126719,2nd innings,England,South Africa,31.1,TT Beaumont,HC Knight,A Khaka,0,0,0,NA,0,NA,NA,NA,1
+1126719,2nd innings,England,South Africa,31.2,TT Beaumont,HC Knight,A Khaka,0,1,1,wides,0,NA,NA,NA,1
+1126719,2nd innings,England,South Africa,31.3,TT Beaumont,HC Knight,A Khaka,0,0,0,NA,0,NA,NA,NA,1
+1126719,2nd innings,England,South Africa,31.4,TT Beaumont,HC Knight,A Khaka,4,0,4,NA,0,NA,NA,NA,1
+1126719,2nd innings,England,South Africa,31.5,TT Beaumont,HC Knight,A Khaka,0,0,0,NA,0,NA,NA,NA,1
+1126719,2nd innings,England,South Africa,31.6,TT Beaumont,HC Knight,A Khaka,4,0,4,NA,0,NA,NA,NA,1
+1126719,2nd innings,England,South Africa,31.7,TT Beaumont,HC Knight,A Khaka,0,0,0,NA,0,NA,NA,NA,1
+1126719,2nd innings,England,South Africa,32.1,HC Knight,TT Beaumont,S Ismail,0,0,0,NA,0,NA,NA,NA,1
+1126719,2nd innings,England,South Africa,32.2,HC Knight,TT Beaumont,S Ismail,1,0,1,NA,0,NA,NA,NA,1
+1126719,2nd innings,England,South Africa,32.3,TT Beaumont,HC Knight,S Ismail,1,0,1,NA,0,NA,NA,NA,1
+1126719,2nd innings,England,South Africa,32.4,HC Knight,TT Beaumont,S Ismail,0,0,0,NA,0,NA,NA,NA,1
+1126719,2nd innings,England,South Africa,32.5,HC Knight,TT Beaumont,S Ismail,1,0,1,NA,0,NA,NA,NA,1
+1126719,2nd innings,England,South Africa,32.6,TT Beaumont,HC Knight,S Ismail,0,0,0,NA,0,NA,NA,NA,1
+1126719,2nd innings,England,South Africa,33.1,HC Knight,TT Beaumont,M Kapp,1,0,1,NA,0,NA,NA,NA,1
+1126719,2nd innings,England,South Africa,33.2,TT Beaumont,HC Knight,M Kapp,0,0,0,NA,0,NA,NA,NA,1
+1126719,2nd innings,England,South Africa,33.3,TT Beaumont,HC Knight,M Kapp,1,0,1,NA,0,NA,NA,NA,1
+1126719,2nd innings,England,South Africa,33.4,HC Knight,TT Beaumont,M Kapp,2,0,2,NA,0,NA,NA,NA,1
+1126719,2nd innings,England,South Africa,33.5,HC Knight,TT Beaumont,M Kapp,0,0,0,NA,0,NA,NA,NA,1
+1126719,2nd innings,England,South Africa,33.6,HC Knight,TT Beaumont,M Kapp,1,0,1,NA,0,NA,NA,NA,1
+1126719,2nd innings,England,South Africa,34.1,HC Knight,TT Beaumont,S Ismail,0,0,0,NA,0,NA,NA,NA,1
+1126719,2nd innings,England,South Africa,34.2,HC Knight,TT Beaumont,S Ismail,1,0,1,NA,0,NA,NA,NA,1
+1126719,2nd innings,England,South Africa,34.3,TT Beaumont,HC Knight,S Ismail,0,1,1,byes,0,NA,NA,NA,1
+1126719,2nd innings,England,South Africa,34.4,HC Knight,TT Beaumont,S Ismail,0,0,0,NA,0,NA,NA,NA,1
+1126719,2nd innings,England,South Africa,34.5,HC Knight,TT Beaumont,S Ismail,0,0,0,NA,0,NA,NA,NA,1
+1126719,2nd innings,England,South Africa,34.6,HC Knight,TT Beaumont,S Ismail,0,0,0,NA,0,NA,NA,NA,1
+1126719,2nd innings,England,South Africa,35.1,TT Beaumont,HC Knight,M Kapp,4,0,4,NA,0,NA,NA,NA,1
+1126719,2nd innings,England,South Africa,35.2,TT Beaumont,HC Knight,M Kapp,1,0,1,NA,0,NA,NA,NA,1
+1126719,2nd innings,England,South Africa,35.3,HC Knight,TT Beaumont,M Kapp,1,0,1,NA,0,NA,NA,NA,1
+1126719,2nd innings,England,South Africa,35.4,TT Beaumont,HC Knight,M Kapp,1,0,1,NA,0,NA,NA,NA,1
+1126719,2nd innings,England,South Africa,35.5,HC Knight,TT Beaumont,M Kapp,0,0,0,NA,0,NA,NA,NA,1
+1126719,2nd innings,England,South Africa,35.6,HC Knight,TT Beaumont,M Kapp,0,0,0,NA,0,NA,NA,NA,1
+1126719,2nd innings,England,South Africa,36.1,TT Beaumont,HC Knight,A Khaka,1,0,1,NA,0,NA,NA,NA,1
+1126719,2nd innings,England,South Africa,36.2,HC Knight,TT Beaumont,A Khaka,1,0,1,NA,0,NA,NA,NA,1
+1126719,2nd innings,England,South Africa,36.3,TT Beaumont,HC Knight,A Khaka,4,0,4,NA,0,NA,NA,NA,1
+1126719,2nd innings,England,South Africa,36.4,TT Beaumont,HC Knight,A Khaka,4,0,4,NA,0,NA,NA,NA,1
+1126719,2nd innings,England,South Africa,36.5,TT Beaumont,HC Knight,A Khaka,0,1,1,legbyes,0,NA,NA,NA,1
+1126719,2nd innings,England,South Africa,36.6,HC Knight,TT Beaumont,A Khaka,0,0,0,NA,0,NA,NA,NA,1
+1126719,2nd innings,England,South Africa,37.1,TT Beaumont,HC Knight,M Kapp,0,0,0,NA,0,NA,NA,NA,1
+1126719,2nd innings,England,South Africa,37.2,TT Beaumont,HC Knight,M Kapp,4,0,4,NA,0,NA,NA,NA,1
+1126719,2nd innings,England,South Africa,37.3,TT Beaumont,HC Knight,M Kapp,1,0,1,NA,0,NA,NA,NA,1
+1126719,2nd innings,England,South Africa,37.4,HC Knight,TT Beaumont,M Kapp,2,0,2,NA,0,NA,NA,NA,1
+1126719,2nd innings,England,South Africa,37.5,HC Knight,TT Beaumont,M Kapp,0,0,0,NA,0,NA,NA,NA,1
+1126719,2nd innings,England,South Africa,37.6,HC Knight,TT Beaumont,M Kapp,1,0,1,NA,0,NA,NA,NA,1
+1126719,2nd innings,England,South Africa,38.1,HC Knight,TT Beaumont,A Khaka,2,0,2,NA,0,NA,NA,NA,1
+1126719,2nd innings,England,South Africa,38.2,HC Knight,TT Beaumont,A Khaka,1,0,1,NA,0,NA,NA,NA,1
+1126719,2nd innings,England,South Africa,38.3,TT Beaumont,HC Knight,A Khaka,0,0,0,NA,0,NA,NA,NA,1
+1126719,2nd innings,England,South Africa,38.4,TT Beaumont,HC Knight,A Khaka,0,0,0,NA,0,NA,NA,NA,1
+1126719,2nd innings,England,South Africa,38.5,TT Beaumont,HC Knight,A Khaka,1,0,1,NA,0,NA,NA,NA,1
+1126719,2nd innings,England,South Africa,38.6,HC Knight,TT Beaumont,A Khaka,4,0,4,NA,0,NA,NA,NA,1
+1126719,2nd innings,England,South Africa,39.1,TT Beaumont,HC Knight,S Ismail,0,0,0,NA,0,NA,NA,NA,1
+1126719,2nd innings,England,South Africa,39.2,TT Beaumont,HC Knight,S Ismail,1,0,1,NA,0,NA,NA,NA,1
+1126719,2nd innings,England,South Africa,39.3,HC Knight,TT Beaumont,S Ismail,1,0,1,NA,0,NA,NA,NA,1
+1126719,2nd innings,England,South Africa,39.4,TT Beaumont,HC Knight,S Ismail,0,0,0,NA,0,NA,NA,NA,1
+1126719,2nd innings,England,South Africa,39.5,TT Beaumont,HC Knight,S Ismail,1,0,1,NA,0,NA,NA,NA,1
+1126719,2nd innings,England,South Africa,39.6,HC Knight,TT Beaumont,S Ismail,0,0,0,NA,0,NA,NA,NA,1
+1126719,2nd innings,England,South Africa,40.1,TT Beaumont,HC Knight,M Kapp,4,0,4,NA,0,NA,NA,NA,1
+1126719,2nd innings,England,South Africa,40.2,TT Beaumont,HC Knight,M Kapp,4,0,4,NA,0,NA,NA,NA,1
+1126719,2nd innings,England,South Africa,40.3,TT Beaumont,HC Knight,M Kapp,0,0,0,NA,1,lbw,TT Beaumont,NA,1
+1126719,2nd innings,England,South Africa,40.4,NR Sciver,HC Knight,M Kapp,0,0,0,NA,0,NA,NA,NA,1
+1126719,2nd innings,England,South Africa,40.5,NR Sciver,HC Knight,M Kapp,1,0,1,NA,0,NA,NA,NA,1
+1126719,2nd innings,England,South Africa,40.6,HC Knight,NR Sciver,M Kapp,0,0,0,NA,0,NA,NA,NA,1
+1126719,2nd innings,England,South Africa,41.1,NR Sciver,HC Knight,S Ismail,0,0,0,NA,0,NA,NA,NA,1
+1126719,2nd innings,England,South Africa,41.2,NR Sciver,HC Knight,S Ismail,0,0,0,NA,0,NA,NA,NA,1
+1126719,2nd innings,England,South Africa,41.3,NR Sciver,HC Knight,S Ismail,0,0,0,NA,0,NA,NA,NA,1
+1126719,2nd innings,England,South Africa,41.4,NR Sciver,HC Knight,S Ismail,0,0,0,NA,0,NA,NA,NA,1
+1126719,2nd innings,England,South Africa,41.5,NR Sciver,HC Knight,S Ismail,0,0,0,NA,0,NA,NA,NA,1
+1126719,2nd innings,England,South Africa,41.6,NR Sciver,HC Knight,S Ismail,0,0,0,NA,0,NA,NA,NA,1
+1126719,2nd innings,England,South Africa,42.1,HC Knight,NR Sciver,M Kapp,1,0,1,NA,0,NA,NA,NA,1
+1126719,2nd innings,England,South Africa,42.2,NR Sciver,HC Knight,M Kapp,1,0,1,NA,0,NA,NA,NA,1
+1126719,2nd innings,England,South Africa,42.3,HC Knight,NR Sciver,M Kapp,0,0,0,NA,0,NA,NA,NA,1
+1126719,2nd innings,England,South Africa,42.4,HC Knight,NR Sciver,M Kapp,1,0,1,NA,0,NA,NA,NA,1
+1126719,2nd innings,England,South Africa,42.5,NR Sciver,HC Knight,M Kapp,1,0,1,NA,0,NA,NA,NA,1
+1126719,2nd innings,England,South Africa,42.6,HC Knight,NR Sciver,M Kapp,1,0,1,NA,0,NA,NA,NA,1
+1126719,2nd innings,England,South Africa,43.1,HC Knight,NR Sciver,A Khaka,4,0,4,NA,0,NA,NA,NA,1
+1126719,2nd innings,England,South Africa,43.2,HC Knight,NR Sciver,A Khaka,0,0,0,NA,0,NA,NA,NA,1
+1126719,2nd innings,England,South Africa,43.3,HC Knight,NR Sciver,A Khaka,4,0,4,NA,0,NA,NA,NA,1
+1126719,2nd innings,England,South Africa,43.4,HC Knight,NR Sciver,A Khaka,0,0,0,NA,0,NA,NA,NA,1
+1126719,2nd innings,England,South Africa,43.5,HC Knight,NR Sciver,A Khaka,4,0,4,NA,0,NA,NA,NA,1
+1126719,2nd innings,England,South Africa,43.6,HC Knight,NR Sciver,A Khaka,4,0,4,NA,0,NA,NA,NA,1
+1126719,2nd innings,England,South Africa,44.1,NR Sciver,HC Knight,M Klaas,0,5,5,wides,0,NA,NA,NA,1

@@ -1,0 +1,574 @@
+match_id,innings,team,opponent,ball,batsman,non_striker,bowler,scored_runs,extras,total,extra_type,wicket,wicket_type,player_out,fielders,winner
+594915,1st innings,Australia,West Indies,0.1,MM Lanning,RL Haynes,SF Daley,0,0,0,NA,0,NA,NA,NA,1
+594915,1st innings,Australia,West Indies,0.2,MM Lanning,RL Haynes,SF Daley,1,0,1,NA,0,NA,NA,NA,1
+594915,1st innings,Australia,West Indies,0.3,RL Haynes,MM Lanning,SF Daley,0,0,0,NA,0,NA,NA,NA,1
+594915,1st innings,Australia,West Indies,0.4,RL Haynes,MM Lanning,SF Daley,0,0,0,NA,0,NA,NA,NA,1
+594915,1st innings,Australia,West Indies,0.5,RL Haynes,MM Lanning,SF Daley,0,0,0,NA,0,NA,NA,NA,1
+594915,1st innings,Australia,West Indies,0.6,RL Haynes,MM Lanning,SF Daley,0,0,0,NA,0,NA,NA,NA,1
+594915,1st innings,Australia,West Indies,1.1,MM Lanning,RL Haynes,TD Smartt,0,0,0,NA,0,NA,NA,NA,1
+594915,1st innings,Australia,West Indies,1.2,MM Lanning,RL Haynes,TD Smartt,0,0,0,NA,0,NA,NA,NA,1
+594915,1st innings,Australia,West Indies,1.3,MM Lanning,RL Haynes,TD Smartt,4,0,4,NA,0,NA,NA,NA,1
+594915,1st innings,Australia,West Indies,1.4,MM Lanning,RL Haynes,TD Smartt,4,0,4,NA,0,NA,NA,NA,1
+594915,1st innings,Australia,West Indies,1.5,MM Lanning,RL Haynes,TD Smartt,0,0,0,NA,0,NA,NA,NA,1
+594915,1st innings,Australia,West Indies,1.6,MM Lanning,RL Haynes,TD Smartt,0,0,0,NA,0,NA,NA,NA,1
+594915,1st innings,Australia,West Indies,2.1,RL Haynes,MM Lanning,SF Daley,4,0,4,NA,0,NA,NA,NA,1
+594915,1st innings,Australia,West Indies,2.2,RL Haynes,MM Lanning,SF Daley,0,0,0,NA,0,NA,NA,NA,1
+594915,1st innings,Australia,West Indies,2.3,RL Haynes,MM Lanning,SF Daley,1,0,1,NA,0,NA,NA,NA,1
+594915,1st innings,Australia,West Indies,2.4,MM Lanning,RL Haynes,SF Daley,0,0,0,NA,0,NA,NA,NA,1
+594915,1st innings,Australia,West Indies,2.5,MM Lanning,RL Haynes,SF Daley,4,0,4,NA,0,NA,NA,NA,1
+594915,1st innings,Australia,West Indies,2.6,MM Lanning,RL Haynes,SF Daley,0,0,0,NA,0,NA,NA,NA,1
+594915,1st innings,Australia,West Indies,3.1,RL Haynes,MM Lanning,TD Smartt,0,0,0,NA,0,NA,NA,NA,1
+594915,1st innings,Australia,West Indies,3.2,RL Haynes,MM Lanning,TD Smartt,0,0,0,NA,0,NA,NA,NA,1
+594915,1st innings,Australia,West Indies,3.3,RL Haynes,MM Lanning,TD Smartt,0,1,1,noballs,0,NA,NA,NA,1
+594915,1st innings,Australia,West Indies,3.4,RL Haynes,MM Lanning,TD Smartt,1,0,1,NA,0,NA,NA,NA,1
+594915,1st innings,Australia,West Indies,3.5,MM Lanning,RL Haynes,TD Smartt,0,0,0,NA,0,NA,NA,NA,1
+594915,1st innings,Australia,West Indies,3.6,MM Lanning,RL Haynes,TD Smartt,4,0,4,NA,0,NA,NA,NA,1
+594915,1st innings,Australia,West Indies,3.7,MM Lanning,RL Haynes,TD Smartt,0,1,1,legbyes,0,NA,NA,NA,1
+594915,1st innings,Australia,West Indies,4.1,MM Lanning,RL Haynes,SF Daley,2,0,2,NA,0,NA,NA,NA,1
+594915,1st innings,Australia,West Indies,4.2,MM Lanning,RL Haynes,SF Daley,0,0,0,NA,0,NA,NA,NA,1
+594915,1st innings,Australia,West Indies,4.3,MM Lanning,RL Haynes,SF Daley,0,0,0,NA,0,NA,NA,NA,1
+594915,1st innings,Australia,West Indies,4.4,MM Lanning,RL Haynes,SF Daley,0,0,0,NA,0,NA,NA,NA,1
+594915,1st innings,Australia,West Indies,4.5,MM Lanning,RL Haynes,SF Daley,0,0,0,NA,0,NA,NA,NA,1
+594915,1st innings,Australia,West Indies,4.6,MM Lanning,RL Haynes,SF Daley,1,0,1,NA,0,NA,NA,NA,1
+594915,1st innings,Australia,West Indies,5.1,MM Lanning,RL Haynes,TD Smartt,0,0,0,NA,0,NA,NA,NA,1
+594915,1st innings,Australia,West Indies,5.2,MM Lanning,RL Haynes,TD Smartt,1,0,1,NA,0,NA,NA,NA,1
+594915,1st innings,Australia,West Indies,5.3,RL Haynes,MM Lanning,TD Smartt,0,0,0,NA,0,NA,NA,NA,1
+594915,1st innings,Australia,West Indies,5.4,RL Haynes,MM Lanning,TD Smartt,4,0,4,NA,0,NA,NA,NA,1
+594915,1st innings,Australia,West Indies,5.5,RL Haynes,MM Lanning,TD Smartt,1,1,2,noballs,0,NA,NA,NA,1
+594915,1st innings,Australia,West Indies,5.6,MM Lanning,RL Haynes,TD Smartt,0,1,1,noballs,0,NA,NA,NA,1
+594915,1st innings,Australia,West Indies,5.7,MM Lanning,RL Haynes,TD Smartt,0,0,0,NA,0,NA,NA,NA,1
+594915,1st innings,Australia,West Indies,5.8,MM Lanning,RL Haynes,TD Smartt,0,0,0,NA,0,NA,NA,NA,1
+594915,1st innings,Australia,West Indies,6.1,RL Haynes,MM Lanning,SF Daley,1,0,1,NA,0,NA,NA,NA,1
+594915,1st innings,Australia,West Indies,6.2,MM Lanning,RL Haynes,SF Daley,0,0,0,NA,0,NA,NA,NA,1
+594915,1st innings,Australia,West Indies,6.3,MM Lanning,RL Haynes,SF Daley,0,0,0,NA,0,NA,NA,NA,1
+594915,1st innings,Australia,West Indies,6.4,MM Lanning,RL Haynes,SF Daley,0,0,0,NA,0,NA,NA,NA,1
+594915,1st innings,Australia,West Indies,6.5,MM Lanning,RL Haynes,SF Daley,0,0,0,NA,0,NA,NA,NA,1
+594915,1st innings,Australia,West Indies,6.6,MM Lanning,RL Haynes,SF Daley,1,0,1,NA,0,NA,NA,NA,1
+594915,1st innings,Australia,West Indies,7.1,MM Lanning,RL Haynes,SR Taylor,0,0,0,NA,0,NA,NA,NA,1
+594915,1st innings,Australia,West Indies,7.2,MM Lanning,RL Haynes,SR Taylor,0,0,0,NA,0,NA,NA,NA,1
+594915,1st innings,Australia,West Indies,7.3,MM Lanning,RL Haynes,SR Taylor,1,0,1,NA,0,NA,NA,NA,1
+594915,1st innings,Australia,West Indies,7.4,RL Haynes,MM Lanning,SR Taylor,0,0,0,NA,0,NA,NA,NA,1
+594915,1st innings,Australia,West Indies,7.5,RL Haynes,MM Lanning,SR Taylor,1,0,1,NA,0,NA,NA,NA,1
+594915,1st innings,Australia,West Indies,7.6,MM Lanning,RL Haynes,SR Taylor,4,0,4,NA,0,NA,NA,NA,1
+594915,1st innings,Australia,West Indies,8.1,RL Haynes,MM Lanning,SF Daley,0,0,0,NA,0,NA,NA,NA,1
+594915,1st innings,Australia,West Indies,8.2,RL Haynes,MM Lanning,SF Daley,2,0,2,NA,0,NA,NA,NA,1
+594915,1st innings,Australia,West Indies,8.3,RL Haynes,MM Lanning,SF Daley,0,0,0,NA,0,NA,NA,NA,1
+594915,1st innings,Australia,West Indies,8.4,RL Haynes,MM Lanning,SF Daley,1,0,1,NA,0,NA,NA,NA,1
+594915,1st innings,Australia,West Indies,8.5,MM Lanning,RL Haynes,SF Daley,0,1,1,legbyes,0,NA,NA,NA,1
+594915,1st innings,Australia,West Indies,8.6,RL Haynes,MM Lanning,SF Daley,0,0,0,NA,0,NA,NA,NA,1
+594915,1st innings,Australia,West Indies,9.1,MM Lanning,RL Haynes,SR Taylor,0,0,0,NA,0,NA,NA,NA,1
+594915,1st innings,Australia,West Indies,9.2,MM Lanning,RL Haynes,SR Taylor,0,0,0,NA,0,NA,NA,NA,1
+594915,1st innings,Australia,West Indies,9.3,MM Lanning,RL Haynes,SR Taylor,0,0,0,NA,0,NA,NA,NA,1
+594915,1st innings,Australia,West Indies,9.4,MM Lanning,RL Haynes,SR Taylor,0,0,0,NA,0,NA,NA,NA,1
+594915,1st innings,Australia,West Indies,9.5,MM Lanning,RL Haynes,SR Taylor,4,0,4,NA,0,NA,NA,NA,1
+594915,1st innings,Australia,West Indies,9.6,MM Lanning,RL Haynes,SR Taylor,0,0,0,NA,1,caught,MM Lanning,Kyshona A Knight,1
+594915,1st innings,Australia,West Indies,10.1,RL Haynes,JE Cameron,SF Daley,0,0,0,NA,0,NA,NA,NA,1
+594915,1st innings,Australia,West Indies,10.2,RL Haynes,JE Cameron,SF Daley,1,0,1,NA,0,NA,NA,NA,1
+594915,1st innings,Australia,West Indies,10.3,JE Cameron,RL Haynes,SF Daley,0,0,0,NA,0,NA,NA,NA,1
+594915,1st innings,Australia,West Indies,10.4,JE Cameron,RL Haynes,SF Daley,0,0,0,NA,0,NA,NA,NA,1
+594915,1st innings,Australia,West Indies,10.5,JE Cameron,RL Haynes,SF Daley,0,0,0,NA,0,NA,NA,NA,1
+594915,1st innings,Australia,West Indies,10.6,JE Cameron,RL Haynes,SF Daley,0,0,0,NA,0,NA,NA,NA,1
+594915,1st innings,Australia,West Indies,11.1,RL Haynes,JE Cameron,SR Taylor,0,0,0,NA,0,NA,NA,NA,1
+594915,1st innings,Australia,West Indies,11.2,RL Haynes,JE Cameron,SR Taylor,0,0,0,NA,0,NA,NA,NA,1
+594915,1st innings,Australia,West Indies,11.3,RL Haynes,JE Cameron,SR Taylor,0,0,0,NA,0,NA,NA,NA,1
+594915,1st innings,Australia,West Indies,11.4,RL Haynes,JE Cameron,SR Taylor,0,0,0,NA,0,NA,NA,NA,1
+594915,1st innings,Australia,West Indies,11.5,RL Haynes,JE Cameron,SR Taylor,0,0,0,NA,0,NA,NA,NA,1
+594915,1st innings,Australia,West Indies,11.6,RL Haynes,JE Cameron,SR Taylor,0,0,0,NA,0,NA,NA,NA,1
+594915,1st innings,Australia,West Indies,12.1,JE Cameron,RL Haynes,SL Quintyne,0,0,0,NA,0,NA,NA,NA,1
+594915,1st innings,Australia,West Indies,12.2,JE Cameron,RL Haynes,SL Quintyne,4,0,4,NA,0,NA,NA,NA,1
+594915,1st innings,Australia,West Indies,12.3,JE Cameron,RL Haynes,SL Quintyne,0,0,0,NA,0,NA,NA,NA,1
+594915,1st innings,Australia,West Indies,12.4,JE Cameron,RL Haynes,SL Quintyne,0,0,0,NA,0,NA,NA,NA,1
+594915,1st innings,Australia,West Indies,12.5,JE Cameron,RL Haynes,SL Quintyne,0,0,0,NA,0,NA,NA,NA,1
+594915,1st innings,Australia,West Indies,12.6,JE Cameron,RL Haynes,SL Quintyne,0,0,0,NA,0,NA,NA,NA,1
+594915,1st innings,Australia,West Indies,13.1,RL Haynes,JE Cameron,SR Taylor,1,0,1,NA,0,NA,NA,NA,1
+594915,1st innings,Australia,West Indies,13.2,JE Cameron,RL Haynes,SR Taylor,0,0,0,NA,0,NA,NA,NA,1
+594915,1st innings,Australia,West Indies,13.3,JE Cameron,RL Haynes,SR Taylor,4,0,4,NA,0,NA,NA,NA,1
+594915,1st innings,Australia,West Indies,13.4,JE Cameron,RL Haynes,SR Taylor,1,0,1,NA,0,NA,NA,NA,1
+594915,1st innings,Australia,West Indies,13.5,RL Haynes,JE Cameron,SR Taylor,4,0,4,NA,0,NA,NA,NA,1
+594915,1st innings,Australia,West Indies,13.6,RL Haynes,JE Cameron,SR Taylor,0,0,0,NA,0,NA,NA,NA,1
+594915,1st innings,Australia,West Indies,14.1,JE Cameron,RL Haynes,SL Quintyne,1,0,1,NA,0,NA,NA,NA,1
+594915,1st innings,Australia,West Indies,14.2,RL Haynes,JE Cameron,SL Quintyne,0,0,0,NA,0,NA,NA,NA,1
+594915,1st innings,Australia,West Indies,14.3,RL Haynes,JE Cameron,SL Quintyne,2,0,2,NA,0,NA,NA,NA,1
+594915,1st innings,Australia,West Indies,14.4,RL Haynes,JE Cameron,SL Quintyne,0,0,0,NA,0,NA,NA,NA,1
+594915,1st innings,Australia,West Indies,14.5,RL Haynes,JE Cameron,SL Quintyne,0,0,0,NA,0,NA,NA,NA,1
+594915,1st innings,Australia,West Indies,14.6,RL Haynes,JE Cameron,SL Quintyne,0,0,0,NA,0,NA,NA,NA,1
+594915,1st innings,Australia,West Indies,15.1,JE Cameron,RL Haynes,A Mohammed,0,0,0,NA,0,NA,NA,NA,1
+594915,1st innings,Australia,West Indies,15.2,JE Cameron,RL Haynes,A Mohammed,1,0,1,NA,0,NA,NA,NA,1
+594915,1st innings,Australia,West Indies,15.3,RL Haynes,JE Cameron,A Mohammed,0,0,0,NA,0,NA,NA,NA,1
+594915,1st innings,Australia,West Indies,15.4,RL Haynes,JE Cameron,A Mohammed,1,0,1,NA,0,NA,NA,NA,1
+594915,1st innings,Australia,West Indies,15.5,JE Cameron,RL Haynes,A Mohammed,1,0,1,NA,0,NA,NA,NA,1
+594915,1st innings,Australia,West Indies,15.6,RL Haynes,JE Cameron,A Mohammed,4,0,4,NA,0,NA,NA,NA,1
+594915,1st innings,Australia,West Indies,16.1,JE Cameron,RL Haynes,SL Quintyne,1,0,1,NA,0,NA,NA,NA,1
+594915,1st innings,Australia,West Indies,16.2,RL Haynes,JE Cameron,SL Quintyne,2,0,2,NA,0,NA,NA,NA,1
+594915,1st innings,Australia,West Indies,16.3,RL Haynes,JE Cameron,SL Quintyne,0,0,0,NA,0,NA,NA,NA,1
+594915,1st innings,Australia,West Indies,16.4,RL Haynes,JE Cameron,SL Quintyne,0,0,0,NA,0,NA,NA,NA,1
+594915,1st innings,Australia,West Indies,16.5,RL Haynes,JE Cameron,SL Quintyne,1,0,1,NA,0,NA,NA,NA,1
+594915,1st innings,Australia,West Indies,16.6,JE Cameron,RL Haynes,SL Quintyne,0,0,0,NA,0,NA,NA,NA,1
+594915,1st innings,Australia,West Indies,17.1,RL Haynes,JE Cameron,A Mohammed,1,0,1,NA,0,NA,NA,NA,1
+594915,1st innings,Australia,West Indies,17.2,JE Cameron,RL Haynes,A Mohammed,1,0,1,NA,0,NA,NA,NA,1
+594915,1st innings,Australia,West Indies,17.3,RL Haynes,JE Cameron,A Mohammed,0,0,0,NA,0,NA,NA,NA,1
+594915,1st innings,Australia,West Indies,17.4,RL Haynes,JE Cameron,A Mohammed,0,0,0,NA,0,NA,NA,NA,1
+594915,1st innings,Australia,West Indies,17.5,RL Haynes,JE Cameron,A Mohammed,2,0,2,NA,0,NA,NA,NA,1
+594915,1st innings,Australia,West Indies,17.6,RL Haynes,JE Cameron,A Mohammed,1,0,1,NA,0,NA,NA,NA,1
+594915,1st innings,Australia,West Indies,18.1,RL Haynes,JE Cameron,SL Quintyne,0,0,0,NA,0,NA,NA,NA,1
+594915,1st innings,Australia,West Indies,18.2,RL Haynes,JE Cameron,SL Quintyne,0,0,0,NA,0,NA,NA,NA,1
+594915,1st innings,Australia,West Indies,18.3,RL Haynes,JE Cameron,SL Quintyne,0,0,0,NA,0,NA,NA,NA,1
+594915,1st innings,Australia,West Indies,18.4,RL Haynes,JE Cameron,SL Quintyne,0,0,0,NA,0,NA,NA,NA,1
+594915,1st innings,Australia,West Indies,18.5,RL Haynes,JE Cameron,SL Quintyne,0,0,0,NA,0,NA,NA,NA,1
+594915,1st innings,Australia,West Indies,18.6,RL Haynes,JE Cameron,SL Quintyne,0,0,0,NA,0,NA,NA,NA,1
+594915,1st innings,Australia,West Indies,19.1,JE Cameron,RL Haynes,A Mohammed,0,0,0,NA,0,NA,NA,NA,1
+594915,1st innings,Australia,West Indies,19.2,JE Cameron,RL Haynes,A Mohammed,1,0,1,NA,0,NA,NA,NA,1
+594915,1st innings,Australia,West Indies,19.3,RL Haynes,JE Cameron,A Mohammed,0,0,0,NA,0,NA,NA,NA,1
+594915,1st innings,Australia,West Indies,19.4,RL Haynes,JE Cameron,A Mohammed,1,0,1,NA,0,NA,NA,NA,1
+594915,1st innings,Australia,West Indies,19.5,JE Cameron,RL Haynes,A Mohammed,0,0,0,NA,0,NA,NA,NA,1
+594915,1st innings,Australia,West Indies,19.6,JE Cameron,RL Haynes,A Mohammed,0,0,0,NA,0,NA,NA,NA,1
+594915,1st innings,Australia,West Indies,20.1,RL Haynes,JE Cameron,SL Quintyne,0,0,0,NA,0,NA,NA,NA,1
+594915,1st innings,Australia,West Indies,20.2,RL Haynes,JE Cameron,SL Quintyne,1,0,1,NA,0,NA,NA,NA,1
+594915,1st innings,Australia,West Indies,20.3,JE Cameron,RL Haynes,SL Quintyne,0,0,0,NA,0,NA,NA,NA,1
+594915,1st innings,Australia,West Indies,20.4,JE Cameron,RL Haynes,SL Quintyne,0,0,0,NA,0,NA,NA,NA,1
+594915,1st innings,Australia,West Indies,20.5,JE Cameron,RL Haynes,SL Quintyne,1,0,1,NA,0,NA,NA,NA,1
+594915,1st innings,Australia,West Indies,20.6,RL Haynes,JE Cameron,SL Quintyne,1,0,1,NA,0,NA,NA,NA,1
+594915,1st innings,Australia,West Indies,21.1,RL Haynes,JE Cameron,A Mohammed,1,0,1,NA,0,NA,NA,NA,1
+594915,1st innings,Australia,West Indies,21.2,JE Cameron,RL Haynes,A Mohammed,0,0,0,NA,0,NA,NA,NA,1
+594915,1st innings,Australia,West Indies,21.3,JE Cameron,RL Haynes,A Mohammed,1,0,1,NA,0,NA,NA,NA,1
+594915,1st innings,Australia,West Indies,21.4,RL Haynes,JE Cameron,A Mohammed,4,0,4,NA,0,NA,NA,NA,1
+594915,1st innings,Australia,West Indies,21.5,RL Haynes,JE Cameron,A Mohammed,0,1,1,legbyes,0,NA,NA,NA,1
+594915,1st innings,Australia,West Indies,21.6,JE Cameron,RL Haynes,A Mohammed,1,0,1,NA,0,NA,NA,NA,1
+594915,1st innings,Australia,West Indies,22.1,JE Cameron,RL Haynes,SL Quintyne,0,0,0,NA,0,NA,NA,NA,1
+594915,1st innings,Australia,West Indies,22.2,JE Cameron,RL Haynes,SL Quintyne,0,0,0,NA,0,NA,NA,NA,1
+594915,1st innings,Australia,West Indies,22.3,JE Cameron,RL Haynes,SL Quintyne,1,0,1,NA,0,NA,NA,NA,1
+594915,1st innings,Australia,West Indies,22.4,RL Haynes,JE Cameron,SL Quintyne,0,0,0,NA,0,NA,NA,NA,1
+594915,1st innings,Australia,West Indies,22.5,RL Haynes,JE Cameron,SL Quintyne,0,0,0,NA,0,NA,NA,NA,1
+594915,1st innings,Australia,West Indies,22.6,RL Haynes,JE Cameron,SL Quintyne,1,0,1,NA,0,NA,NA,NA,1
+594915,1st innings,Australia,West Indies,23.1,RL Haynes,JE Cameron,Kyshona A Knight,0,0,0,NA,0,NA,NA,NA,1
+594915,1st innings,Australia,West Indies,23.2,RL Haynes,JE Cameron,Kyshona A Knight,4,0,4,NA,0,NA,NA,NA,1
+594915,1st innings,Australia,West Indies,23.3,RL Haynes,JE Cameron,Kyshona A Knight,1,0,1,NA,0,NA,NA,NA,1
+594915,1st innings,Australia,West Indies,23.4,JE Cameron,RL Haynes,Kyshona A Knight,1,0,1,NA,0,NA,NA,NA,1
+594915,1st innings,Australia,West Indies,23.5,RL Haynes,JE Cameron,Kyshona A Knight,1,0,1,NA,0,NA,NA,NA,1
+594915,1st innings,Australia,West Indies,23.6,JE Cameron,RL Haynes,Kyshona A Knight,4,0,4,NA,0,NA,NA,NA,1
+594915,1st innings,Australia,West Indies,24.1,RL Haynes,JE Cameron,SL Quintyne,0,0,0,NA,0,NA,NA,NA,1
+594915,1st innings,Australia,West Indies,24.2,RL Haynes,JE Cameron,SL Quintyne,1,0,1,NA,0,NA,NA,NA,1
+594915,1st innings,Australia,West Indies,24.3,JE Cameron,RL Haynes,SL Quintyne,0,0,0,NA,0,NA,NA,NA,1
+594915,1st innings,Australia,West Indies,24.4,JE Cameron,RL Haynes,SL Quintyne,2,0,2,NA,0,NA,NA,NA,1
+594915,1st innings,Australia,West Indies,24.5,JE Cameron,RL Haynes,SL Quintyne,1,0,1,NA,0,NA,NA,NA,1
+594915,1st innings,Australia,West Indies,24.6,RL Haynes,JE Cameron,SL Quintyne,0,0,0,NA,1,caught,RL Haynes,Kycia A Knight,1
+594915,1st innings,Australia,West Indies,25.1,AJ Blackwell,JE Cameron,SA Campbelle,1,0,1,NA,0,NA,NA,NA,1
+594915,1st innings,Australia,West Indies,25.2,JE Cameron,AJ Blackwell,SA Campbelle,0,0,0,NA,0,NA,NA,NA,1
+594915,1st innings,Australia,West Indies,25.3,JE Cameron,AJ Blackwell,SA Campbelle,0,0,0,NA,0,NA,NA,NA,1
+594915,1st innings,Australia,West Indies,25.4,JE Cameron,AJ Blackwell,SA Campbelle,4,0,4,NA,0,NA,NA,NA,1
+594915,1st innings,Australia,West Indies,25.5,JE Cameron,AJ Blackwell,SA Campbelle,1,0,1,NA,0,NA,NA,NA,1
+594915,1st innings,Australia,West Indies,25.6,AJ Blackwell,JE Cameron,SA Campbelle,0,0,0,NA,0,NA,NA,NA,1
+594915,1st innings,Australia,West Indies,26.1,JE Cameron,AJ Blackwell,SL Quintyne,1,0,1,NA,0,NA,NA,NA,1
+594915,1st innings,Australia,West Indies,26.2,AJ Blackwell,JE Cameron,SL Quintyne,0,0,0,NA,0,NA,NA,NA,1
+594915,1st innings,Australia,West Indies,26.3,AJ Blackwell,JE Cameron,SL Quintyne,0,0,0,NA,0,NA,NA,NA,1
+594915,1st innings,Australia,West Indies,26.4,AJ Blackwell,JE Cameron,SL Quintyne,0,0,0,NA,0,NA,NA,NA,1
+594915,1st innings,Australia,West Indies,26.5,AJ Blackwell,JE Cameron,SL Quintyne,1,0,1,NA,0,NA,NA,NA,1
+594915,1st innings,Australia,West Indies,26.6,JE Cameron,AJ Blackwell,SL Quintyne,0,0,0,NA,0,NA,NA,NA,1
+594915,1st innings,Australia,West Indies,27.1,AJ Blackwell,JE Cameron,TD Smartt,1,0,1,NA,0,NA,NA,NA,1
+594915,1st innings,Australia,West Indies,27.2,JE Cameron,AJ Blackwell,TD Smartt,0,0,0,NA,0,NA,NA,NA,1
+594915,1st innings,Australia,West Indies,27.3,JE Cameron,AJ Blackwell,TD Smartt,1,0,1,NA,0,NA,NA,NA,1
+594915,1st innings,Australia,West Indies,27.4,AJ Blackwell,JE Cameron,TD Smartt,0,0,0,NA,0,NA,NA,NA,1
+594915,1st innings,Australia,West Indies,27.5,AJ Blackwell,JE Cameron,TD Smartt,0,0,0,NA,1,caught,AJ Blackwell,MR Aguilleira,1
+594915,1st innings,Australia,West Indies,27.6,LC Sthalekar,JE Cameron,TD Smartt,0,0,0,NA,0,NA,NA,NA,1
+594915,1st innings,Australia,West Indies,28.1,JE Cameron,LC Sthalekar,SF Daley,0,0,0,NA,0,NA,NA,NA,1
+594915,1st innings,Australia,West Indies,28.2,JE Cameron,LC Sthalekar,SF Daley,0,0,0,NA,0,NA,NA,NA,1
+594915,1st innings,Australia,West Indies,28.3,JE Cameron,LC Sthalekar,SF Daley,0,0,0,NA,0,NA,NA,NA,1
+594915,1st innings,Australia,West Indies,28.4,JE Cameron,LC Sthalekar,SF Daley,1,0,1,NA,0,NA,NA,NA,1
+594915,1st innings,Australia,West Indies,28.5,LC Sthalekar,JE Cameron,SF Daley,0,0,0,NA,0,NA,NA,NA,1
+594915,1st innings,Australia,West Indies,28.6,LC Sthalekar,JE Cameron,SF Daley,0,0,0,NA,0,NA,NA,NA,1
+594915,1st innings,Australia,West Indies,29.1,JE Cameron,LC Sthalekar,TD Smartt,4,0,4,NA,0,NA,NA,NA,1
+594915,1st innings,Australia,West Indies,29.2,JE Cameron,LC Sthalekar,TD Smartt,0,1,1,noballs,0,NA,NA,NA,1
+594915,1st innings,Australia,West Indies,29.3,JE Cameron,LC Sthalekar,TD Smartt,6,0,6,NA,0,NA,NA,NA,1
+594915,1st innings,Australia,West Indies,29.4,JE Cameron,LC Sthalekar,TD Smartt,0,0,0,NA,0,NA,NA,NA,1
+594915,1st innings,Australia,West Indies,29.5,JE Cameron,LC Sthalekar,TD Smartt,2,0,2,NA,0,NA,NA,NA,1
+594915,1st innings,Australia,West Indies,29.6,JE Cameron,LC Sthalekar,TD Smartt,0,0,0,NA,0,NA,NA,NA,1
+594915,1st innings,Australia,West Indies,29.7,JE Cameron,LC Sthalekar,TD Smartt,6,0,6,NA,0,NA,NA,NA,1
+594915,1st innings,Australia,West Indies,30.1,LC Sthalekar,JE Cameron,SF Daley,1,0,1,NA,0,NA,NA,NA,1
+594915,1st innings,Australia,West Indies,30.2,JE Cameron,LC Sthalekar,SF Daley,4,0,4,NA,0,NA,NA,NA,1
+594915,1st innings,Australia,West Indies,30.3,JE Cameron,LC Sthalekar,SF Daley,0,0,0,NA,0,NA,NA,NA,1
+594915,1st innings,Australia,West Indies,30.4,JE Cameron,LC Sthalekar,SF Daley,0,0,0,NA,0,NA,NA,NA,1
+594915,1st innings,Australia,West Indies,30.5,JE Cameron,LC Sthalekar,SF Daley,0,1,1,wides,0,NA,NA,NA,1
+594915,1st innings,Australia,West Indies,30.6,JE Cameron,LC Sthalekar,SF Daley,1,0,1,NA,0,NA,NA,NA,1
+594915,1st innings,Australia,West Indies,30.7,LC Sthalekar,JE Cameron,SF Daley,1,0,1,NA,0,NA,NA,NA,1
+594915,1st innings,Australia,West Indies,31.1,LC Sthalekar,JE Cameron,A Mohammed,0,0,0,NA,0,NA,NA,NA,1
+594915,1st innings,Australia,West Indies,31.2,LC Sthalekar,JE Cameron,A Mohammed,0,0,0,NA,0,NA,NA,NA,1
+594915,1st innings,Australia,West Indies,31.3,LC Sthalekar,JE Cameron,A Mohammed,1,0,1,NA,0,NA,NA,NA,1
+594915,1st innings,Australia,West Indies,31.4,JE Cameron,LC Sthalekar,A Mohammed,0,0,0,NA,0,NA,NA,NA,1
+594915,1st innings,Australia,West Indies,31.5,JE Cameron,LC Sthalekar,A Mohammed,1,0,1,NA,0,NA,NA,NA,1
+594915,1st innings,Australia,West Indies,31.6,LC Sthalekar,JE Cameron,A Mohammed,1,0,1,NA,0,NA,NA,NA,1
+594915,1st innings,Australia,West Indies,32.1,LC Sthalekar,JE Cameron,SR Taylor,0,0,0,NA,0,NA,NA,NA,1
+594915,1st innings,Australia,West Indies,32.2,LC Sthalekar,JE Cameron,SR Taylor,1,0,1,NA,0,NA,NA,NA,1
+594915,1st innings,Australia,West Indies,32.3,JE Cameron,LC Sthalekar,SR Taylor,0,0,0,NA,0,NA,NA,NA,1
+594915,1st innings,Australia,West Indies,32.4,JE Cameron,LC Sthalekar,SR Taylor,2,0,2,NA,0,NA,NA,NA,1
+594915,1st innings,Australia,West Indies,32.5,JE Cameron,LC Sthalekar,SR Taylor,1,0,1,NA,0,NA,NA,NA,1
+594915,1st innings,Australia,West Indies,32.6,LC Sthalekar,JE Cameron,SR Taylor,1,0,1,NA,0,NA,NA,NA,1
+594915,1st innings,Australia,West Indies,33.1,LC Sthalekar,JE Cameron,A Mohammed,0,0,0,NA,0,NA,NA,NA,1
+594915,1st innings,Australia,West Indies,33.2,LC Sthalekar,JE Cameron,A Mohammed,4,0,4,NA,0,NA,NA,NA,1
+594915,1st innings,Australia,West Indies,33.3,LC Sthalekar,JE Cameron,A Mohammed,0,0,0,NA,0,NA,NA,NA,1
+594915,1st innings,Australia,West Indies,33.4,LC Sthalekar,JE Cameron,A Mohammed,1,0,1,NA,0,NA,NA,NA,1
+594915,1st innings,Australia,West Indies,33.5,JE Cameron,LC Sthalekar,A Mohammed,2,0,2,NA,0,NA,NA,NA,1
+594915,1st innings,Australia,West Indies,33.6,JE Cameron,LC Sthalekar,A Mohammed,1,0,1,NA,0,NA,NA,NA,1
+594915,1st innings,Australia,West Indies,34.1,JE Cameron,LC Sthalekar,SR Taylor,4,0,4,NA,0,NA,NA,NA,1
+594915,1st innings,Australia,West Indies,34.2,JE Cameron,LC Sthalekar,SR Taylor,1,0,1,NA,0,NA,NA,NA,1
+594915,1st innings,Australia,West Indies,34.3,LC Sthalekar,JE Cameron,SR Taylor,0,0,0,NA,0,NA,NA,NA,1
+594915,1st innings,Australia,West Indies,34.4,LC Sthalekar,JE Cameron,SR Taylor,0,0,0,NA,0,NA,NA,NA,1
+594915,1st innings,Australia,West Indies,34.5,LC Sthalekar,JE Cameron,SR Taylor,1,0,1,NA,0,NA,NA,NA,1
+594915,1st innings,Australia,West Indies,34.6,JE Cameron,LC Sthalekar,SR Taylor,1,0,1,NA,0,NA,NA,NA,1
+594915,1st innings,Australia,West Indies,35.1,JE Cameron,LC Sthalekar,SF Daley,0,0,0,NA,0,NA,NA,NA,1
+594915,1st innings,Australia,West Indies,35.2,JE Cameron,LC Sthalekar,SF Daley,4,0,4,NA,0,NA,NA,NA,1
+594915,1st innings,Australia,West Indies,35.3,JE Cameron,LC Sthalekar,SF Daley,0,0,0,NA,0,NA,NA,NA,1
+594915,1st innings,Australia,West Indies,35.4,JE Cameron,LC Sthalekar,SF Daley,0,0,0,NA,0,NA,NA,NA,1
+594915,1st innings,Australia,West Indies,35.5,JE Cameron,LC Sthalekar,SF Daley,0,0,0,NA,1,caught,JE Cameron,Kyshona A Knight,1
+594915,1st innings,Australia,West Indies,35.6,SJ Coyte,LC Sthalekar,SF Daley,1,0,1,NA,0,NA,NA,NA,1
+594915,1st innings,Australia,West Indies,36.1,SJ Coyte,LC Sthalekar,SR Taylor,0,0,0,NA,0,NA,NA,NA,1
+594915,1st innings,Australia,West Indies,36.2,SJ Coyte,LC Sthalekar,SR Taylor,0,0,0,NA,0,NA,NA,NA,1
+594915,1st innings,Australia,West Indies,36.3,SJ Coyte,LC Sthalekar,SR Taylor,0,0,0,NA,0,NA,NA,NA,1
+594915,1st innings,Australia,West Indies,36.4,SJ Coyte,LC Sthalekar,SR Taylor,0,0,0,NA,0,NA,NA,NA,1
+594915,1st innings,Australia,West Indies,36.5,SJ Coyte,LC Sthalekar,SR Taylor,4,0,4,NA,0,NA,NA,NA,1
+594915,1st innings,Australia,West Indies,36.6,SJ Coyte,LC Sthalekar,SR Taylor,0,0,0,NA,0,NA,NA,NA,1
+594915,1st innings,Australia,West Indies,37.1,LC Sthalekar,SJ Coyte,SL Quintyne,0,1,1,wides,0,NA,NA,NA,1
+594915,1st innings,Australia,West Indies,37.2,LC Sthalekar,SJ Coyte,SL Quintyne,0,0,0,NA,1,caught,LC Sthalekar,SA Campbelle,1
+594915,1st innings,Australia,West Indies,37.3,JM Fields,SJ Coyte,SL Quintyne,0,0,0,NA,0,NA,NA,NA,1
+594915,1st innings,Australia,West Indies,37.4,JM Fields,SJ Coyte,SL Quintyne,0,0,0,NA,0,NA,NA,NA,1
+594915,1st innings,Australia,West Indies,37.5,JM Fields,SJ Coyte,SL Quintyne,1,0,1,NA,0,NA,NA,NA,1
+594915,1st innings,Australia,West Indies,37.6,SJ Coyte,JM Fields,SL Quintyne,0,0,0,NA,0,NA,NA,NA,1
+594915,1st innings,Australia,West Indies,37.7,SJ Coyte,JM Fields,SL Quintyne,1,0,1,NA,0,NA,NA,NA,1
+594915,1st innings,Australia,West Indies,38.1,SJ Coyte,JM Fields,SR Taylor,1,0,1,NA,0,NA,NA,NA,1
+594915,1st innings,Australia,West Indies,38.2,JM Fields,SJ Coyte,SR Taylor,0,0,0,NA,0,NA,NA,NA,1
+594915,1st innings,Australia,West Indies,38.3,JM Fields,SJ Coyte,SR Taylor,0,0,0,NA,0,NA,NA,NA,1
+594915,1st innings,Australia,West Indies,38.4,JM Fields,SJ Coyte,SR Taylor,0,0,0,NA,0,NA,NA,NA,1
+594915,1st innings,Australia,West Indies,38.5,JM Fields,SJ Coyte,SR Taylor,0,0,0,NA,0,NA,NA,NA,1
+594915,1st innings,Australia,West Indies,38.6,JM Fields,SJ Coyte,SR Taylor,0,0,0,NA,0,NA,NA,NA,1
+594915,1st innings,Australia,West Indies,39.1,SJ Coyte,JM Fields,SL Quintyne,0,0,0,NA,0,NA,NA,NA,1
+594915,1st innings,Australia,West Indies,39.2,SJ Coyte,JM Fields,SL Quintyne,0,0,0,NA,1,caught,SJ Coyte,SF Daley,1
+594915,1st innings,Australia,West Indies,39.3,EA Osborne,JM Fields,SL Quintyne,0,0,0,NA,0,NA,NA,NA,1
+594915,1st innings,Australia,West Indies,39.4,EA Osborne,JM Fields,SL Quintyne,2,0,2,NA,0,NA,NA,NA,1
+594915,1st innings,Australia,West Indies,39.5,EA Osborne,JM Fields,SL Quintyne,0,0,0,NA,0,NA,NA,NA,1
+594915,1st innings,Australia,West Indies,39.6,EA Osborne,JM Fields,SL Quintyne,0,0,0,NA,0,NA,NA,NA,1
+594915,1st innings,Australia,West Indies,40.1,JM Fields,EA Osborne,Kyshona A Knight,1,0,1,NA,0,NA,NA,NA,1
+594915,1st innings,Australia,West Indies,40.2,EA Osborne,JM Fields,Kyshona A Knight,1,0,1,NA,0,NA,NA,NA,1
+594915,1st innings,Australia,West Indies,40.3,JM Fields,EA Osborne,Kyshona A Knight,0,0,0,NA,0,NA,NA,NA,1
+594915,1st innings,Australia,West Indies,40.4,JM Fields,EA Osborne,Kyshona A Knight,0,0,0,NA,0,NA,NA,NA,1
+594915,1st innings,Australia,West Indies,40.5,JM Fields,EA Osborne,Kyshona A Knight,0,0,0,NA,0,NA,NA,NA,1
+594915,1st innings,Australia,West Indies,40.6,JM Fields,EA Osborne,Kyshona A Knight,1,0,1,NA,0,NA,NA,NA,1
+594915,1st innings,Australia,West Indies,41.1,JM Fields,EA Osborne,A Mohammed,0,0,0,NA,0,NA,NA,NA,1
+594915,1st innings,Australia,West Indies,41.2,JM Fields,EA Osborne,A Mohammed,1,0,1,NA,0,NA,NA,NA,1
+594915,1st innings,Australia,West Indies,41.3,EA Osborne,JM Fields,A Mohammed,0,0,0,NA,0,NA,NA,NA,1
+594915,1st innings,Australia,West Indies,41.4,EA Osborne,JM Fields,A Mohammed,1,0,1,NA,0,NA,NA,NA,1
+594915,1st innings,Australia,West Indies,41.5,JM Fields,EA Osborne,A Mohammed,1,0,1,NA,0,NA,NA,NA,1
+594915,1st innings,Australia,West Indies,41.6,EA Osborne,JM Fields,A Mohammed,1,0,1,NA,0,NA,NA,NA,1
+594915,1st innings,Australia,West Indies,42.1,EA Osborne,JM Fields,Kyshona A Knight,0,1,1,wides,0,NA,NA,NA,1
+594915,1st innings,Australia,West Indies,42.2,EA Osborne,JM Fields,Kyshona A Knight,1,0,1,NA,0,NA,NA,NA,1
+594915,1st innings,Australia,West Indies,42.3,JM Fields,EA Osborne,Kyshona A Knight,1,0,1,NA,0,NA,NA,NA,1
+594915,1st innings,Australia,West Indies,42.4,EA Osborne,JM Fields,Kyshona A Knight,1,0,1,NA,0,NA,NA,NA,1
+594915,1st innings,Australia,West Indies,42.5,JM Fields,EA Osborne,Kyshona A Knight,4,0,4,NA,0,NA,NA,NA,1
+594915,1st innings,Australia,West Indies,42.6,JM Fields,EA Osborne,Kyshona A Knight,1,0,1,NA,0,NA,NA,NA,1
+594915,1st innings,Australia,West Indies,42.7,EA Osborne,JM Fields,Kyshona A Knight,0,0,0,NA,0,NA,NA,NA,1
+594915,1st innings,Australia,West Indies,43.1,JM Fields,EA Osborne,A Mohammed,1,0,1,NA,0,NA,NA,NA,1
+594915,1st innings,Australia,West Indies,43.2,EA Osborne,JM Fields,A Mohammed,0,0,0,NA,1,caught,EA Osborne,SL Quintyne,1
+594915,1st innings,Australia,West Indies,43.3,EA Perry,JM Fields,A Mohammed,2,0,2,NA,0,NA,NA,NA,1
+594915,1st innings,Australia,West Indies,43.4,EA Perry,JM Fields,A Mohammed,0,0,0,NA,0,NA,NA,NA,1
+594915,1st innings,Australia,West Indies,43.5,EA Perry,JM Fields,A Mohammed,1,0,1,NA,0,NA,NA,NA,1
+594915,1st innings,Australia,West Indies,43.6,JM Fields,EA Perry,A Mohammed,0,0,0,NA,0,NA,NA,NA,1
+594915,1st innings,Australia,West Indies,44.1,EA Perry,JM Fields,SA Campbelle,0,0,0,NA,0,NA,NA,NA,1
+594915,1st innings,Australia,West Indies,44.2,EA Perry,JM Fields,SA Campbelle,0,0,0,NA,0,NA,NA,NA,1
+594915,1st innings,Australia,West Indies,44.3,EA Perry,JM Fields,SA Campbelle,0,0,0,NA,0,NA,NA,NA,1
+594915,1st innings,Australia,West Indies,44.4,EA Perry,JM Fields,SA Campbelle,1,0,1,NA,0,NA,NA,NA,1
+594915,1st innings,Australia,West Indies,44.5,JM Fields,EA Perry,SA Campbelle,0,0,0,NA,0,NA,NA,NA,1
+594915,1st innings,Australia,West Indies,44.6,JM Fields,EA Perry,SA Campbelle,1,0,1,NA,0,NA,NA,NA,1
+594915,1st innings,Australia,West Indies,45.1,JM Fields,EA Perry,A Mohammed,4,0,4,NA,0,NA,NA,NA,1
+594915,1st innings,Australia,West Indies,45.2,JM Fields,EA Perry,A Mohammed,0,0,0,NA,0,NA,NA,NA,1
+594915,1st innings,Australia,West Indies,45.3,JM Fields,EA Perry,A Mohammed,1,0,1,NA,0,NA,NA,NA,1
+594915,1st innings,Australia,West Indies,45.4,EA Perry,JM Fields,A Mohammed,0,0,0,NA,0,NA,NA,NA,1
+594915,1st innings,Australia,West Indies,45.5,EA Perry,JM Fields,A Mohammed,1,0,1,NA,0,NA,NA,NA,1
+594915,1st innings,Australia,West Indies,45.6,JM Fields,EA Perry,A Mohammed,0,0,0,NA,0,NA,NA,NA,1
+594915,1st innings,Australia,West Indies,46.1,EA Perry,JM Fields,SA Campbelle,1,0,1,NA,0,NA,NA,NA,1
+594915,1st innings,Australia,West Indies,46.2,JM Fields,EA Perry,SA Campbelle,1,0,1,NA,0,NA,NA,NA,1
+594915,1st innings,Australia,West Indies,46.3,EA Perry,JM Fields,SA Campbelle,1,0,1,NA,0,NA,NA,NA,1
+594915,1st innings,Australia,West Indies,46.4,JM Fields,EA Perry,SA Campbelle,1,0,1,NA,0,NA,NA,NA,1
+594915,1st innings,Australia,West Indies,46.5,EA Perry,JM Fields,SA Campbelle,1,0,1,NA,0,NA,NA,NA,1
+594915,1st innings,Australia,West Indies,46.6,JM Fields,EA Perry,SA Campbelle,0,1,1,wides,0,NA,NA,NA,1
+594915,1st innings,Australia,West Indies,46.7,JM Fields,EA Perry,SA Campbelle,1,0,1,NA,0,NA,NA,NA,1
+594915,1st innings,Australia,West Indies,47.1,JM Fields,EA Perry,A Mohammed,4,0,4,NA,0,NA,NA,NA,1
+594915,1st innings,Australia,West Indies,47.2,JM Fields,EA Perry,A Mohammed,1,0,1,NA,0,NA,NA,NA,1
+594915,1st innings,Australia,West Indies,47.3,EA Perry,JM Fields,A Mohammed,0,0,0,NA,0,NA,NA,NA,1
+594915,1st innings,Australia,West Indies,47.4,EA Perry,JM Fields,A Mohammed,4,0,4,NA,0,NA,NA,NA,1
+594915,1st innings,Australia,West Indies,47.5,EA Perry,JM Fields,A Mohammed,0,0,0,NA,0,NA,NA,NA,1
+594915,1st innings,Australia,West Indies,47.6,EA Perry,JM Fields,A Mohammed,6,0,6,NA,0,NA,NA,NA,1
+594915,1st innings,Australia,West Indies,48.1,JM Fields,EA Perry,SR Taylor,1,0,1,NA,0,NA,NA,NA,1
+594915,1st innings,Australia,West Indies,48.2,EA Perry,JM Fields,SR Taylor,0,0,0,NA,0,NA,NA,NA,1
+594915,1st innings,Australia,West Indies,48.3,EA Perry,JM Fields,SR Taylor,0,0,0,NA,0,NA,NA,NA,1
+594915,1st innings,Australia,West Indies,48.4,EA Perry,JM Fields,SR Taylor,4,0,4,NA,0,NA,NA,NA,1
+594915,1st innings,Australia,West Indies,48.5,EA Perry,JM Fields,SR Taylor,1,0,1,NA,0,NA,NA,NA,1
+594915,1st innings,Australia,West Indies,48.6,JM Fields,EA Perry,SR Taylor,1,0,1,NA,0,NA,NA,NA,1
+594915,1st innings,Australia,West Indies,49.1,JM Fields,EA Perry,SF Daley,1,0,1,NA,0,NA,NA,NA,1
+594915,1st innings,Australia,West Indies,49.2,EA Perry,JM Fields,SF Daley,1,0,1,NA,0,NA,NA,NA,1
+594915,1st innings,Australia,West Indies,49.3,JM Fields,EA Perry,SF Daley,4,0,4,NA,0,NA,NA,NA,1
+594915,1st innings,Australia,West Indies,49.4,JM Fields,EA Perry,SF Daley,2,0,2,NA,0,NA,NA,NA,1
+594915,1st innings,Australia,West Indies,49.5,JM Fields,EA Perry,SF Daley,1,0,1,NA,0,NA,NA,NA,1
+594915,1st innings,Australia,West Indies,49.6,EA Perry,JM Fields,SF Daley,1,0,1,NA,0,NA,NA,NA,1
+594915,2nd innings,West Indies,Australia,0.1,Kycia A Knight,NY McLean,ML Schutt,0,0,0,NA,0,NA,NA,NA,0
+594915,2nd innings,West Indies,Australia,0.2,Kycia A Knight,NY McLean,ML Schutt,0,0,0,NA,0,NA,NA,NA,0
+594915,2nd innings,West Indies,Australia,0.3,Kycia A Knight,NY McLean,ML Schutt,0,0,0,NA,0,NA,NA,NA,0
+594915,2nd innings,West Indies,Australia,0.4,Kycia A Knight,NY McLean,ML Schutt,0,0,0,NA,0,NA,NA,NA,0
+594915,2nd innings,West Indies,Australia,0.5,Kycia A Knight,NY McLean,ML Schutt,0,0,0,NA,0,NA,NA,NA,0
+594915,2nd innings,West Indies,Australia,0.6,Kycia A Knight,NY McLean,ML Schutt,0,0,0,NA,0,NA,NA,NA,0
+594915,2nd innings,West Indies,Australia,1.1,NY McLean,Kycia A Knight,JL Hunter,0,0,0,NA,0,NA,NA,NA,0
+594915,2nd innings,West Indies,Australia,1.2,NY McLean,Kycia A Knight,JL Hunter,0,0,0,NA,0,NA,NA,NA,0
+594915,2nd innings,West Indies,Australia,1.3,NY McLean,Kycia A Knight,JL Hunter,0,0,0,NA,0,NA,NA,NA,0
+594915,2nd innings,West Indies,Australia,1.4,NY McLean,Kycia A Knight,JL Hunter,0,1,1,wides,0,NA,NA,NA,0
+594915,2nd innings,West Indies,Australia,1.5,NY McLean,Kycia A Knight,JL Hunter,0,1,1,wides,0,NA,NA,NA,0
+594915,2nd innings,West Indies,Australia,1.6,NY McLean,Kycia A Knight,JL Hunter,1,0,1,NA,0,NA,NA,NA,0
+594915,2nd innings,West Indies,Australia,1.7,Kycia A Knight,NY McLean,JL Hunter,0,1,1,wides,0,NA,NA,NA,0
+594915,2nd innings,West Indies,Australia,1.8,Kycia A Knight,NY McLean,JL Hunter,0,0,0,NA,0,NA,NA,NA,0
+594915,2nd innings,West Indies,Australia,1.9,Kycia A Knight,NY McLean,JL Hunter,0,0,0,NA,0,NA,NA,NA,0
+594915,2nd innings,West Indies,Australia,2.1,NY McLean,Kycia A Knight,ML Schutt,0,0,0,NA,0,NA,NA,NA,0
+594915,2nd innings,West Indies,Australia,2.2,NY McLean,Kycia A Knight,ML Schutt,0,0,0,NA,0,NA,NA,NA,0
+594915,2nd innings,West Indies,Australia,2.3,NY McLean,Kycia A Knight,ML Schutt,0,0,0,NA,0,NA,NA,NA,0
+594915,2nd innings,West Indies,Australia,2.4,NY McLean,Kycia A Knight,ML Schutt,0,0,0,NA,0,NA,NA,NA,0
+594915,2nd innings,West Indies,Australia,2.5,NY McLean,Kycia A Knight,ML Schutt,0,0,0,NA,0,NA,NA,NA,0
+594915,2nd innings,West Indies,Australia,2.6,NY McLean,Kycia A Knight,ML Schutt,0,0,0,NA,0,NA,NA,NA,0
+594915,2nd innings,West Indies,Australia,3.1,Kycia A Knight,NY McLean,JL Hunter,0,0,0,NA,0,NA,NA,NA,0
+594915,2nd innings,West Indies,Australia,3.2,Kycia A Knight,NY McLean,JL Hunter,4,0,4,NA,0,NA,NA,NA,0
+594915,2nd innings,West Indies,Australia,3.3,Kycia A Knight,NY McLean,JL Hunter,2,0,2,NA,0,NA,NA,NA,0
+594915,2nd innings,West Indies,Australia,3.4,Kycia A Knight,NY McLean,JL Hunter,0,0,0,NA,0,NA,NA,NA,0
+594915,2nd innings,West Indies,Australia,3.5,Kycia A Knight,NY McLean,JL Hunter,0,0,0,NA,0,NA,NA,NA,0
+594915,2nd innings,West Indies,Australia,3.6,Kycia A Knight,NY McLean,JL Hunter,2,0,2,NA,0,NA,NA,NA,0
+594915,2nd innings,West Indies,Australia,4.1,NY McLean,Kycia A Knight,ML Schutt,0,1,1,byes,0,NA,NA,NA,0
+594915,2nd innings,West Indies,Australia,4.2,Kycia A Knight,NY McLean,ML Schutt,2,0,2,NA,0,NA,NA,NA,0
+594915,2nd innings,West Indies,Australia,4.3,Kycia A Knight,NY McLean,ML Schutt,0,0,0,NA,0,NA,NA,NA,0
+594915,2nd innings,West Indies,Australia,4.4,Kycia A Knight,NY McLean,ML Schutt,0,0,0,NA,0,NA,NA,NA,0
+594915,2nd innings,West Indies,Australia,4.5,Kycia A Knight,NY McLean,ML Schutt,0,0,0,NA,0,NA,NA,NA,0
+594915,2nd innings,West Indies,Australia,4.6,Kycia A Knight,NY McLean,ML Schutt,4,0,4,NA,0,NA,NA,NA,0
+594915,2nd innings,West Indies,Australia,5.1,NY McLean,Kycia A Knight,JL Hunter,1,0,1,NA,0,NA,NA,NA,0
+594915,2nd innings,West Indies,Australia,5.2,Kycia A Knight,NY McLean,JL Hunter,0,0,0,NA,0,NA,NA,NA,0
+594915,2nd innings,West Indies,Australia,5.3,Kycia A Knight,NY McLean,JL Hunter,0,0,0,NA,0,NA,NA,NA,0
+594915,2nd innings,West Indies,Australia,5.4,Kycia A Knight,NY McLean,JL Hunter,0,0,0,NA,0,NA,NA,NA,0
+594915,2nd innings,West Indies,Australia,5.5,Kycia A Knight,NY McLean,JL Hunter,0,0,0,NA,0,NA,NA,NA,0
+594915,2nd innings,West Indies,Australia,5.6,Kycia A Knight,NY McLean,JL Hunter,0,0,0,NA,0,NA,NA,NA,0
+594915,2nd innings,West Indies,Australia,6.1,NY McLean,Kycia A Knight,ML Schutt,0,0,0,NA,0,NA,NA,NA,0
+594915,2nd innings,West Indies,Australia,6.2,NY McLean,Kycia A Knight,ML Schutt,4,0,4,NA,0,NA,NA,NA,0
+594915,2nd innings,West Indies,Australia,6.3,NY McLean,Kycia A Knight,ML Schutt,0,0,0,NA,0,NA,NA,NA,0
+594915,2nd innings,West Indies,Australia,6.4,NY McLean,Kycia A Knight,ML Schutt,0,0,0,NA,0,NA,NA,NA,0
+594915,2nd innings,West Indies,Australia,6.5,NY McLean,Kycia A Knight,ML Schutt,1,0,1,NA,0,NA,NA,NA,0
+594915,2nd innings,West Indies,Australia,6.6,Kycia A Knight,NY McLean,ML Schutt,1,0,1,NA,0,NA,NA,NA,0
+594915,2nd innings,West Indies,Australia,7.1,Kycia A Knight,NY McLean,JL Hunter,1,0,1,NA,0,NA,NA,NA,0
+594915,2nd innings,West Indies,Australia,7.2,NY McLean,Kycia A Knight,JL Hunter,0,0,0,NA,0,NA,NA,NA,0
+594915,2nd innings,West Indies,Australia,7.3,NY McLean,Kycia A Knight,JL Hunter,0,0,0,NA,0,NA,NA,NA,0
+594915,2nd innings,West Indies,Australia,7.4,NY McLean,Kycia A Knight,JL Hunter,0,0,0,NA,0,NA,NA,NA,0
+594915,2nd innings,West Indies,Australia,7.5,NY McLean,Kycia A Knight,JL Hunter,0,0,0,NA,0,NA,NA,NA,0
+594915,2nd innings,West Indies,Australia,7.6,NY McLean,Kycia A Knight,JL Hunter,4,0,4,NA,0,NA,NA,NA,0
+594915,2nd innings,West Indies,Australia,8.1,Kycia A Knight,NY McLean,LC Sthalekar,0,0,0,NA,0,NA,NA,NA,0
+594915,2nd innings,West Indies,Australia,8.2,Kycia A Knight,NY McLean,LC Sthalekar,0,0,0,NA,0,NA,NA,NA,0
+594915,2nd innings,West Indies,Australia,8.3,Kycia A Knight,NY McLean,LC Sthalekar,1,0,1,NA,0,NA,NA,NA,0
+594915,2nd innings,West Indies,Australia,8.4,NY McLean,Kycia A Knight,LC Sthalekar,0,0,0,NA,0,NA,NA,NA,0
+594915,2nd innings,West Indies,Australia,8.5,NY McLean,Kycia A Knight,LC Sthalekar,0,0,0,NA,0,NA,NA,NA,0
+594915,2nd innings,West Indies,Australia,8.6,NY McLean,Kycia A Knight,LC Sthalekar,0,0,0,NA,0,NA,NA,NA,0
+594915,2nd innings,West Indies,Australia,9.1,Kycia A Knight,NY McLean,EA Perry,0,0,0,NA,0,NA,NA,NA,0
+594915,2nd innings,West Indies,Australia,9.2,Kycia A Knight,NY McLean,EA Perry,0,0,0,NA,0,NA,NA,NA,0
+594915,2nd innings,West Indies,Australia,9.3,Kycia A Knight,NY McLean,EA Perry,0,0,0,NA,0,NA,NA,NA,0
+594915,2nd innings,West Indies,Australia,9.4,Kycia A Knight,NY McLean,EA Perry,0,0,0,NA,0,NA,NA,NA,0
+594915,2nd innings,West Indies,Australia,9.5,Kycia A Knight,NY McLean,EA Perry,0,0,0,NA,0,NA,NA,NA,0
+594915,2nd innings,West Indies,Australia,9.6,Kycia A Knight,NY McLean,EA Perry,0,0,0,NA,1,lbw,Kycia A Knight,NA,0
+594915,2nd innings,West Indies,Australia,10.1,NY McLean,SR Taylor,LC Sthalekar,1,0,1,NA,0,NA,NA,NA,0
+594915,2nd innings,West Indies,Australia,10.2,SR Taylor,NY McLean,LC Sthalekar,0,0,0,NA,0,NA,NA,NA,0
+594915,2nd innings,West Indies,Australia,10.3,SR Taylor,NY McLean,LC Sthalekar,0,0,0,NA,0,NA,NA,NA,0
+594915,2nd innings,West Indies,Australia,10.4,SR Taylor,NY McLean,LC Sthalekar,0,0,0,NA,0,NA,NA,NA,0
+594915,2nd innings,West Indies,Australia,10.5,SR Taylor,NY McLean,LC Sthalekar,4,0,4,NA,0,NA,NA,NA,0
+594915,2nd innings,West Indies,Australia,10.6,SR Taylor,NY McLean,LC Sthalekar,1,0,1,NA,0,NA,NA,NA,0
+594915,2nd innings,West Indies,Australia,11.1,SR Taylor,NY McLean,EA Perry,0,0,0,NA,0,NA,NA,NA,0
+594915,2nd innings,West Indies,Australia,11.2,SR Taylor,NY McLean,EA Perry,0,0,0,NA,0,NA,NA,NA,0
+594915,2nd innings,West Indies,Australia,11.3,SR Taylor,NY McLean,EA Perry,0,0,0,NA,0,NA,NA,NA,0
+594915,2nd innings,West Indies,Australia,11.4,SR Taylor,NY McLean,EA Perry,0,0,0,NA,1,caught and bowled,SR Taylor,NA,0
+594915,2nd innings,West Indies,Australia,11.5,Kyshona A Knight,NY McLean,EA Perry,2,0,2,NA,0,NA,NA,NA,0
+594915,2nd innings,West Indies,Australia,11.6,Kyshona A Knight,NY McLean,EA Perry,0,0,0,NA,0,NA,NA,NA,0
+594915,2nd innings,West Indies,Australia,12.1,NY McLean,Kyshona A Knight,LC Sthalekar,1,0,1,NA,0,NA,NA,NA,0
+594915,2nd innings,West Indies,Australia,12.2,Kyshona A Knight,NY McLean,LC Sthalekar,0,0,0,NA,0,NA,NA,NA,0
+594915,2nd innings,West Indies,Australia,12.3,Kyshona A Knight,NY McLean,LC Sthalekar,0,0,0,NA,0,NA,NA,NA,0
+594915,2nd innings,West Indies,Australia,12.4,Kyshona A Knight,NY McLean,LC Sthalekar,0,0,0,NA,0,NA,NA,NA,0
+594915,2nd innings,West Indies,Australia,12.5,Kyshona A Knight,NY McLean,LC Sthalekar,0,0,0,NA,0,NA,NA,NA,0
+594915,2nd innings,West Indies,Australia,12.6,Kyshona A Knight,NY McLean,LC Sthalekar,0,0,0,NA,0,NA,NA,NA,0
+594915,2nd innings,West Indies,Australia,13.1,NY McLean,Kyshona A Knight,EA Perry,0,0,0,NA,0,NA,NA,NA,0
+594915,2nd innings,West Indies,Australia,13.2,NY McLean,Kyshona A Knight,EA Perry,0,0,0,NA,0,NA,NA,NA,0
+594915,2nd innings,West Indies,Australia,13.3,NY McLean,Kyshona A Knight,EA Perry,0,0,0,NA,1,lbw,NY McLean,NA,0
+594915,2nd innings,West Indies,Australia,13.4,MR Aguilleira,Kyshona A Knight,EA Perry,0,0,0,NA,0,NA,NA,NA,0
+594915,2nd innings,West Indies,Australia,13.5,MR Aguilleira,Kyshona A Knight,EA Perry,0,0,0,NA,0,NA,NA,NA,0
+594915,2nd innings,West Indies,Australia,13.6,MR Aguilleira,Kyshona A Knight,EA Perry,0,0,0,NA,0,NA,NA,NA,0
+594915,2nd innings,West Indies,Australia,14.1,Kyshona A Knight,MR Aguilleira,LC Sthalekar,0,0,0,NA,0,NA,NA,NA,0
+594915,2nd innings,West Indies,Australia,14.2,Kyshona A Knight,MR Aguilleira,LC Sthalekar,0,0,0,NA,0,NA,NA,NA,0
+594915,2nd innings,West Indies,Australia,14.3,Kyshona A Knight,MR Aguilleira,LC Sthalekar,0,0,0,NA,0,NA,NA,NA,0
+594915,2nd innings,West Indies,Australia,14.4,Kyshona A Knight,MR Aguilleira,LC Sthalekar,0,0,0,NA,0,NA,NA,NA,0
+594915,2nd innings,West Indies,Australia,14.5,Kyshona A Knight,MR Aguilleira,LC Sthalekar,0,0,0,NA,0,NA,NA,NA,0
+594915,2nd innings,West Indies,Australia,14.6,Kyshona A Knight,MR Aguilleira,LC Sthalekar,0,0,0,NA,0,NA,NA,NA,0
+594915,2nd innings,West Indies,Australia,15.1,MR Aguilleira,Kyshona A Knight,EA Perry,0,0,0,NA,0,NA,NA,NA,0
+594915,2nd innings,West Indies,Australia,15.2,MR Aguilleira,Kyshona A Knight,EA Perry,0,0,0,NA,0,NA,NA,NA,0
+594915,2nd innings,West Indies,Australia,15.3,MR Aguilleira,Kyshona A Knight,EA Perry,0,0,0,NA,0,NA,NA,NA,0
+594915,2nd innings,West Indies,Australia,15.4,MR Aguilleira,Kyshona A Knight,EA Perry,0,0,0,NA,0,NA,NA,NA,0
+594915,2nd innings,West Indies,Australia,15.5,MR Aguilleira,Kyshona A Knight,EA Perry,0,0,0,NA,0,NA,NA,NA,0
+594915,2nd innings,West Indies,Australia,15.6,MR Aguilleira,Kyshona A Knight,EA Perry,2,0,2,NA,0,NA,NA,NA,0
+594915,2nd innings,West Indies,Australia,16.1,Kyshona A Knight,MR Aguilleira,LC Sthalekar,1,0,1,NA,0,NA,NA,NA,0
+594915,2nd innings,West Indies,Australia,16.2,MR Aguilleira,Kyshona A Knight,LC Sthalekar,0,0,0,NA,0,NA,NA,NA,0
+594915,2nd innings,West Indies,Australia,16.3,MR Aguilleira,Kyshona A Knight,LC Sthalekar,0,0,0,NA,0,NA,NA,NA,0
+594915,2nd innings,West Indies,Australia,16.4,MR Aguilleira,Kyshona A Knight,LC Sthalekar,0,0,0,NA,0,NA,NA,NA,0
+594915,2nd innings,West Indies,Australia,16.5,MR Aguilleira,Kyshona A Knight,LC Sthalekar,0,0,0,NA,0,NA,NA,NA,0
+594915,2nd innings,West Indies,Australia,16.6,MR Aguilleira,Kyshona A Knight,LC Sthalekar,0,0,0,NA,0,NA,NA,NA,0
+594915,2nd innings,West Indies,Australia,17.1,Kyshona A Knight,MR Aguilleira,EA Perry,0,4,4,legbyes,0,NA,NA,NA,0
+594915,2nd innings,West Indies,Australia,17.2,Kyshona A Knight,MR Aguilleira,EA Perry,0,0,0,NA,0,NA,NA,NA,0
+594915,2nd innings,West Indies,Australia,17.3,Kyshona A Knight,MR Aguilleira,EA Perry,0,0,0,NA,0,NA,NA,NA,0
+594915,2nd innings,West Indies,Australia,17.4,Kyshona A Knight,MR Aguilleira,EA Perry,0,0,0,NA,0,NA,NA,NA,0
+594915,2nd innings,West Indies,Australia,17.5,Kyshona A Knight,MR Aguilleira,EA Perry,0,1,1,wides,0,NA,NA,NA,0
+594915,2nd innings,West Indies,Australia,17.6,Kyshona A Knight,MR Aguilleira,EA Perry,0,1,1,wides,0,NA,NA,NA,0
+594915,2nd innings,West Indies,Australia,17.7,Kyshona A Knight,MR Aguilleira,EA Perry,0,0,0,NA,0,NA,NA,NA,0
+594915,2nd innings,West Indies,Australia,17.8,Kyshona A Knight,MR Aguilleira,EA Perry,0,0,0,NA,0,NA,NA,NA,0
+594915,2nd innings,West Indies,Australia,18.1,MR Aguilleira,Kyshona A Knight,LC Sthalekar,1,0,1,NA,0,NA,NA,NA,0
+594915,2nd innings,West Indies,Australia,18.2,Kyshona A Knight,MR Aguilleira,LC Sthalekar,1,0,1,NA,0,NA,NA,NA,0
+594915,2nd innings,West Indies,Australia,18.3,MR Aguilleira,Kyshona A Knight,LC Sthalekar,0,0,0,NA,0,NA,NA,NA,0
+594915,2nd innings,West Indies,Australia,18.4,MR Aguilleira,Kyshona A Knight,LC Sthalekar,0,0,0,NA,0,NA,NA,NA,0
+594915,2nd innings,West Indies,Australia,18.5,MR Aguilleira,Kyshona A Knight,LC Sthalekar,1,0,1,NA,0,NA,NA,NA,0
+594915,2nd innings,West Indies,Australia,18.6,Kyshona A Knight,MR Aguilleira,LC Sthalekar,0,0,0,NA,0,NA,NA,NA,0
+594915,2nd innings,West Indies,Australia,19.1,MR Aguilleira,Kyshona A Knight,EA Perry,0,0,0,NA,0,NA,NA,NA,0
+594915,2nd innings,West Indies,Australia,19.2,MR Aguilleira,Kyshona A Knight,EA Perry,1,0,1,NA,0,NA,NA,NA,0
+594915,2nd innings,West Indies,Australia,19.3,Kyshona A Knight,MR Aguilleira,EA Perry,0,0,0,NA,0,NA,NA,NA,0
+594915,2nd innings,West Indies,Australia,19.4,Kyshona A Knight,MR Aguilleira,EA Perry,0,0,0,NA,0,NA,NA,NA,0
+594915,2nd innings,West Indies,Australia,19.5,Kyshona A Knight,MR Aguilleira,EA Perry,0,0,0,NA,0,NA,NA,NA,0
+594915,2nd innings,West Indies,Australia,19.6,Kyshona A Knight,MR Aguilleira,EA Perry,1,0,1,NA,0,NA,NA,NA,0
+594915,2nd innings,West Indies,Australia,20.1,Kyshona A Knight,MR Aguilleira,LC Sthalekar,0,0,0,NA,0,NA,NA,NA,0
+594915,2nd innings,West Indies,Australia,20.2,Kyshona A Knight,MR Aguilleira,LC Sthalekar,0,0,0,NA,0,NA,NA,NA,0
+594915,2nd innings,West Indies,Australia,20.3,Kyshona A Knight,MR Aguilleira,LC Sthalekar,0,0,0,NA,0,NA,NA,NA,0
+594915,2nd innings,West Indies,Australia,20.4,Kyshona A Knight,MR Aguilleira,LC Sthalekar,0,0,0,NA,0,NA,NA,NA,0
+594915,2nd innings,West Indies,Australia,20.5,Kyshona A Knight,MR Aguilleira,LC Sthalekar,0,0,0,NA,0,NA,NA,NA,0
+594915,2nd innings,West Indies,Australia,20.6,Kyshona A Knight,MR Aguilleira,LC Sthalekar,0,0,0,NA,0,NA,NA,NA,0
+594915,2nd innings,West Indies,Australia,21.1,MR Aguilleira,Kyshona A Knight,EA Osborne,1,0,1,NA,0,NA,NA,NA,0
+594915,2nd innings,West Indies,Australia,21.2,Kyshona A Knight,MR Aguilleira,EA Osborne,0,0,0,NA,0,NA,NA,NA,0
+594915,2nd innings,West Indies,Australia,21.3,Kyshona A Knight,MR Aguilleira,EA Osborne,1,0,1,NA,0,NA,NA,NA,0
+594915,2nd innings,West Indies,Australia,21.4,MR Aguilleira,DJS Dottin,EA Osborne,0,0,0,NA,0,NA,NA,NA,0
+594915,2nd innings,West Indies,Australia,21.5,MR Aguilleira,DJS Dottin,EA Osborne,4,0,4,NA,0,NA,NA,NA,0
+594915,2nd innings,West Indies,Australia,21.6,MR Aguilleira,DJS Dottin,EA Osborne,6,0,6,NA,0,NA,NA,NA,0
+594915,2nd innings,West Indies,Australia,22.1,DJS Dottin,MR Aguilleira,SJ Coyte,0,0,0,NA,0,NA,NA,NA,0
+594915,2nd innings,West Indies,Australia,22.2,DJS Dottin,MR Aguilleira,SJ Coyte,6,0,6,NA,0,NA,NA,NA,0
+594915,2nd innings,West Indies,Australia,22.3,DJS Dottin,MR Aguilleira,SJ Coyte,0,0,0,NA,0,NA,NA,NA,0
+594915,2nd innings,West Indies,Australia,22.4,DJS Dottin,MR Aguilleira,SJ Coyte,0,1,1,legbyes,0,NA,NA,NA,0
+594915,2nd innings,West Indies,Australia,22.5,MR Aguilleira,DJS Dottin,SJ Coyte,0,0,0,NA,0,NA,NA,NA,0
+594915,2nd innings,West Indies,Australia,22.6,MR Aguilleira,DJS Dottin,SJ Coyte,0,0,0,NA,0,NA,NA,NA,0
+594915,2nd innings,West Indies,Australia,23.1,DJS Dottin,MR Aguilleira,EA Perry,0,0,0,NA,0,NA,NA,NA,0
+594915,2nd innings,West Indies,Australia,23.2,DJS Dottin,MR Aguilleira,EA Perry,0,0,0,NA,0,NA,NA,NA,0
+594915,2nd innings,West Indies,Australia,23.3,DJS Dottin,MR Aguilleira,EA Perry,0,0,0,NA,0,NA,NA,NA,0
+594915,2nd innings,West Indies,Australia,23.4,DJS Dottin,MR Aguilleira,EA Perry,0,0,0,NA,0,NA,NA,NA,0
+594915,2nd innings,West Indies,Australia,23.5,DJS Dottin,MR Aguilleira,EA Perry,0,0,0,NA,0,NA,NA,NA,0
+594915,2nd innings,West Indies,Australia,23.6,DJS Dottin,MR Aguilleira,EA Perry,0,0,0,NA,0,NA,NA,NA,0
+594915,2nd innings,West Indies,Australia,24.1,MR Aguilleira,DJS Dottin,SJ Coyte,1,0,1,NA,0,NA,NA,NA,0
+594915,2nd innings,West Indies,Australia,24.2,DJS Dottin,MR Aguilleira,SJ Coyte,6,0,6,NA,0,NA,NA,NA,0
+594915,2nd innings,West Indies,Australia,24.3,DJS Dottin,MR Aguilleira,SJ Coyte,0,0,0,NA,0,NA,NA,NA,0
+594915,2nd innings,West Indies,Australia,24.4,DJS Dottin,MR Aguilleira,SJ Coyte,1,0,1,NA,0,NA,NA,NA,0
+594915,2nd innings,West Indies,Australia,24.5,MR Aguilleira,DJS Dottin,SJ Coyte,0,0,0,NA,0,NA,NA,NA,0
+594915,2nd innings,West Indies,Australia,24.6,MR Aguilleira,DJS Dottin,SJ Coyte,1,0,1,NA,0,NA,NA,NA,0
+594915,2nd innings,West Indies,Australia,25.1,MR Aguilleira,DJS Dottin,EA Perry,0,0,0,NA,0,NA,NA,NA,0
+594915,2nd innings,West Indies,Australia,25.2,MR Aguilleira,DJS Dottin,EA Perry,4,0,4,NA,0,NA,NA,NA,0
+594915,2nd innings,West Indies,Australia,25.3,MR Aguilleira,DJS Dottin,EA Perry,0,0,0,NA,0,NA,NA,NA,0
+594915,2nd innings,West Indies,Australia,25.4,MR Aguilleira,DJS Dottin,EA Perry,0,0,0,NA,0,NA,NA,NA,0
+594915,2nd innings,West Indies,Australia,25.5,MR Aguilleira,DJS Dottin,EA Perry,0,0,0,NA,0,NA,NA,NA,0
+594915,2nd innings,West Indies,Australia,25.6,MR Aguilleira,DJS Dottin,EA Perry,1,0,1,NA,0,NA,NA,NA,0
+594915,2nd innings,West Indies,Australia,26.1,MR Aguilleira,DJS Dottin,LC Sthalekar,0,0,0,NA,1,bowled,MR Aguilleira,NA,0
+594915,2nd innings,West Indies,Australia,26.2,SA Campbelle,DJS Dottin,LC Sthalekar,0,0,0,NA,0,NA,NA,NA,0
+594915,2nd innings,West Indies,Australia,26.3,SA Campbelle,DJS Dottin,LC Sthalekar,0,0,0,NA,0,NA,NA,NA,0
+594915,2nd innings,West Indies,Australia,26.4,SA Campbelle,DJS Dottin,LC Sthalekar,0,0,0,NA,0,NA,NA,NA,0
+594915,2nd innings,West Indies,Australia,26.5,SA Campbelle,DJS Dottin,LC Sthalekar,0,0,0,NA,0,NA,NA,NA,0
+594915,2nd innings,West Indies,Australia,26.6,SA Campbelle,DJS Dottin,LC Sthalekar,0,0,0,NA,0,NA,NA,NA,0
+594915,2nd innings,West Indies,Australia,27.1,DJS Dottin,SA Campbelle,ML Schutt,0,0,0,NA,0,NA,NA,NA,0
+594915,2nd innings,West Indies,Australia,27.2,DJS Dottin,SA Campbelle,ML Schutt,0,0,0,NA,0,NA,NA,NA,0
+594915,2nd innings,West Indies,Australia,27.3,DJS Dottin,SA Campbelle,ML Schutt,0,0,0,NA,0,NA,NA,NA,0
+594915,2nd innings,West Indies,Australia,27.4,DJS Dottin,SA Campbelle,ML Schutt,0,0,0,NA,0,NA,NA,NA,0
+594915,2nd innings,West Indies,Australia,27.5,DJS Dottin,SA Campbelle,ML Schutt,0,0,0,NA,0,NA,NA,NA,0
+594915,2nd innings,West Indies,Australia,27.6,DJS Dottin,SA Campbelle,ML Schutt,1,0,1,NA,0,NA,NA,NA,0
+594915,2nd innings,West Indies,Australia,28.1,DJS Dottin,SA Campbelle,LC Sthalekar,0,1,1,legbyes,0,NA,NA,NA,0
+594915,2nd innings,West Indies,Australia,28.2,SA Campbelle,DJS Dottin,LC Sthalekar,0,0,0,NA,0,NA,NA,NA,0
+594915,2nd innings,West Indies,Australia,28.3,SA Campbelle,DJS Dottin,LC Sthalekar,0,0,0,NA,0,NA,NA,NA,0
+594915,2nd innings,West Indies,Australia,28.4,SA Campbelle,DJS Dottin,LC Sthalekar,1,0,1,NA,0,NA,NA,NA,0
+594915,2nd innings,West Indies,Australia,28.5,DJS Dottin,SA Campbelle,LC Sthalekar,1,0,1,NA,0,NA,NA,NA,0
+594915,2nd innings,West Indies,Australia,28.6,SA Campbelle,DJS Dottin,LC Sthalekar,0,0,0,NA,0,NA,NA,NA,0
+594915,2nd innings,West Indies,Australia,29.1,DJS Dottin,SA Campbelle,ML Schutt,1,0,1,NA,0,NA,NA,NA,0
+594915,2nd innings,West Indies,Australia,29.2,SA Campbelle,DJS Dottin,ML Schutt,5,0,5,NA,0,NA,NA,NA,0
+594915,2nd innings,West Indies,Australia,29.3,DJS Dottin,SA Campbelle,ML Schutt,0,0,0,NA,0,NA,NA,NA,0
+594915,2nd innings,West Indies,Australia,29.4,DJS Dottin,SA Campbelle,ML Schutt,4,0,4,NA,0,NA,NA,NA,0
+594915,2nd innings,West Indies,Australia,29.5,DJS Dottin,SA Campbelle,ML Schutt,0,0,0,NA,0,NA,NA,NA,0
+594915,2nd innings,West Indies,Australia,29.6,DJS Dottin,SA Campbelle,ML Schutt,1,0,1,NA,0,NA,NA,NA,0
+594915,2nd innings,West Indies,Australia,30.1,DJS Dottin,SA Campbelle,LC Sthalekar,1,0,1,NA,0,NA,NA,NA,0
+594915,2nd innings,West Indies,Australia,30.2,SA Campbelle,DJS Dottin,LC Sthalekar,4,0,4,NA,0,NA,NA,NA,0
+594915,2nd innings,West Indies,Australia,30.3,SA Campbelle,DJS Dottin,LC Sthalekar,1,0,1,NA,0,NA,NA,NA,0
+594915,2nd innings,West Indies,Australia,30.4,DJS Dottin,SA Campbelle,LC Sthalekar,0,0,0,NA,1,bowled,DJS Dottin,NA,0
+594915,2nd innings,West Indies,Australia,30.5,SF Daley,SA Campbelle,LC Sthalekar,0,0,0,NA,0,NA,NA,NA,0
+594915,2nd innings,West Indies,Australia,30.6,SF Daley,SA Campbelle,LC Sthalekar,0,0,0,NA,0,NA,NA,NA,0
+594915,2nd innings,West Indies,Australia,31.1,SA Campbelle,SF Daley,ML Schutt,0,0,0,NA,1,caught,SA Campbelle,MM Lanning,0
+594915,2nd innings,West Indies,Australia,31.2,SL Quintyne,SF Daley,ML Schutt,2,0,2,NA,0,NA,NA,NA,0
+594915,2nd innings,West Indies,Australia,31.3,SL Quintyne,SF Daley,ML Schutt,0,0,0,NA,0,NA,NA,NA,0
+594915,2nd innings,West Indies,Australia,31.4,SL Quintyne,SF Daley,ML Schutt,0,0,0,NA,0,NA,NA,NA,0
+594915,2nd innings,West Indies,Australia,31.5,SL Quintyne,SF Daley,ML Schutt,0,0,0,NA,0,NA,NA,NA,0
+594915,2nd innings,West Indies,Australia,31.6,SL Quintyne,SF Daley,ML Schutt,0,0,0,NA,0,NA,NA,NA,0
+594915,2nd innings,West Indies,Australia,32.1,SF Daley,SL Quintyne,EA Osborne,0,0,0,NA,0,NA,NA,NA,0
+594915,2nd innings,West Indies,Australia,32.2,SF Daley,SL Quintyne,EA Osborne,0,0,0,NA,0,NA,NA,NA,0
+594915,2nd innings,West Indies,Australia,32.3,SF Daley,SL Quintyne,EA Osborne,0,0,0,NA,0,NA,NA,NA,0
+594915,2nd innings,West Indies,Australia,32.4,SF Daley,SL Quintyne,EA Osborne,0,0,0,NA,0,NA,NA,NA,0
+594915,2nd innings,West Indies,Australia,32.5,SF Daley,SL Quintyne,EA Osborne,0,0,0,NA,0,NA,NA,NA,0
+594915,2nd innings,West Indies,Australia,32.6,SF Daley,SL Quintyne,EA Osborne,0,0,0,NA,0,NA,NA,NA,0
+594915,2nd innings,West Indies,Australia,33.1,SL Quintyne,SF Daley,ML Schutt,0,1,1,legbyes,0,NA,NA,NA,0
+594915,2nd innings,West Indies,Australia,33.2,SF Daley,SL Quintyne,ML Schutt,0,0,0,NA,0,NA,NA,NA,0
+594915,2nd innings,West Indies,Australia,33.3,SF Daley,SL Quintyne,ML Schutt,2,0,2,NA,0,NA,NA,NA,0
+594915,2nd innings,West Indies,Australia,33.4,SF Daley,SL Quintyne,ML Schutt,0,0,0,NA,0,NA,NA,NA,0
+594915,2nd innings,West Indies,Australia,33.5,SF Daley,SL Quintyne,ML Schutt,0,0,0,NA,0,NA,NA,NA,0
+594915,2nd innings,West Indies,Australia,33.6,SF Daley,SL Quintyne,ML Schutt,0,0,0,NA,0,NA,NA,NA,0
+594915,2nd innings,West Indies,Australia,34.1,SL Quintyne,SF Daley,EA Osborne,0,0,0,NA,1,caught,SL Quintyne,AJ Blackwell,0
+594915,2nd innings,West Indies,Australia,34.2,A Mohammed,SF Daley,EA Osborne,0,0,0,NA,0,NA,NA,NA,0
+594915,2nd innings,West Indies,Australia,34.3,A Mohammed,SF Daley,EA Osborne,0,0,0,NA,0,NA,NA,NA,0
+594915,2nd innings,West Indies,Australia,34.4,A Mohammed,SF Daley,EA Osborne,0,0,0,NA,0,NA,NA,NA,0
+594915,2nd innings,West Indies,Australia,34.5,A Mohammed,SF Daley,EA Osborne,0,0,0,NA,0,NA,NA,NA,0
+594915,2nd innings,West Indies,Australia,34.6,A Mohammed,SF Daley,EA Osborne,0,0,0,NA,0,NA,NA,NA,0
+594915,2nd innings,West Indies,Australia,35.1,SF Daley,A Mohammed,ML Schutt,0,0,0,NA,0,NA,NA,NA,0
+594915,2nd innings,West Indies,Australia,35.2,SF Daley,A Mohammed,ML Schutt,0,0,0,NA,0,NA,NA,NA,0
+594915,2nd innings,West Indies,Australia,35.3,SF Daley,A Mohammed,ML Schutt,0,0,0,NA,0,NA,NA,NA,0
+594915,2nd innings,West Indies,Australia,35.4,SF Daley,A Mohammed,ML Schutt,0,0,0,NA,1,caught and bowled,SF Daley,NA,0
+594915,2nd innings,West Indies,Australia,35.5,Kyshona A Knight,A Mohammed,ML Schutt,4,0,4,NA,0,NA,NA,NA,0
+594915,2nd innings,West Indies,Australia,35.6,Kyshona A Knight,A Mohammed,ML Schutt,0,0,0,NA,0,NA,NA,NA,0
+594915,2nd innings,West Indies,Australia,36.1,A Mohammed,Kyshona A Knight,EA Osborne,0,0,0,NA,0,NA,NA,NA,0
+594915,2nd innings,West Indies,Australia,36.2,A Mohammed,Kyshona A Knight,EA Osborne,2,0,2,NA,0,NA,NA,NA,0
+594915,2nd innings,West Indies,Australia,36.3,A Mohammed,Kyshona A Knight,EA Osborne,0,0,0,NA,0,NA,NA,NA,0
+594915,2nd innings,West Indies,Australia,36.4,A Mohammed,Kyshona A Knight,EA Osborne,0,0,0,NA,0,NA,NA,NA,0
+594915,2nd innings,West Indies,Australia,36.5,A Mohammed,Kyshona A Knight,EA Osborne,1,0,1,NA,0,NA,NA,NA,0
+594915,2nd innings,West Indies,Australia,36.6,Kyshona A Knight,A Mohammed,EA Osborne,0,0,0,NA,0,NA,NA,NA,0
+594915,2nd innings,West Indies,Australia,37.1,A Mohammed,Kyshona A Knight,ML Schutt,0,0,0,NA,0,NA,NA,NA,0
+594915,2nd innings,West Indies,Australia,37.2,A Mohammed,Kyshona A Knight,ML Schutt,0,0,0,NA,0,NA,NA,NA,0
+594915,2nd innings,West Indies,Australia,37.3,A Mohammed,Kyshona A Knight,ML Schutt,0,0,0,NA,0,NA,NA,NA,0
+594915,2nd innings,West Indies,Australia,37.4,A Mohammed,Kyshona A Knight,ML Schutt,0,0,0,NA,0,NA,NA,NA,0
+594915,2nd innings,West Indies,Australia,37.5,A Mohammed,Kyshona A Knight,ML Schutt,2,0,2,NA,0,NA,NA,NA,0
+594915,2nd innings,West Indies,Australia,37.6,A Mohammed,Kyshona A Knight,ML Schutt,4,0,4,NA,0,NA,NA,NA,0
+594915,2nd innings,West Indies,Australia,38.1,Kyshona A Knight,A Mohammed,EA Osborne,0,0,0,NA,0,NA,NA,NA,0
+594915,2nd innings,West Indies,Australia,38.2,Kyshona A Knight,A Mohammed,EA Osborne,0,0,0,NA,0,NA,NA,NA,0
+594915,2nd innings,West Indies,Australia,38.3,Kyshona A Knight,A Mohammed,EA Osborne,2,0,2,NA,0,NA,NA,NA,0
+594915,2nd innings,West Indies,Australia,38.4,Kyshona A Knight,A Mohammed,EA Osborne,0,0,0,NA,0,NA,NA,NA,0
+594915,2nd innings,West Indies,Australia,38.5,Kyshona A Knight,A Mohammed,EA Osborne,0,0,0,NA,0,NA,NA,NA,0
+594915,2nd innings,West Indies,Australia,38.6,Kyshona A Knight,A Mohammed,EA Osborne,0,0,0,NA,0,NA,NA,NA,0
+594915,2nd innings,West Indies,Australia,39.1,A Mohammed,Kyshona A Knight,EA Perry,0,0,0,NA,0,NA,NA,NA,0
+594915,2nd innings,West Indies,Australia,39.2,A Mohammed,Kyshona A Knight,EA Perry,0,0,0,NA,0,NA,NA,NA,0
+594915,2nd innings,West Indies,Australia,39.3,A Mohammed,Kyshona A Knight,EA Perry,1,0,1,NA,0,NA,NA,NA,0
+594915,2nd innings,West Indies,Australia,39.4,Kyshona A Knight,A Mohammed,EA Perry,0,1,1,legbyes,0,NA,NA,NA,0
+594915,2nd innings,West Indies,Australia,39.5,A Mohammed,Kyshona A Knight,EA Perry,0,0,0,NA,0,NA,NA,NA,0
+594915,2nd innings,West Indies,Australia,39.6,A Mohammed,Kyshona A Knight,EA Perry,0,0,0,NA,0,NA,NA,NA,0
+594915,2nd innings,West Indies,Australia,40.1,Kyshona A Knight,A Mohammed,EA Osborne,0,0,0,NA,0,NA,NA,NA,0
+594915,2nd innings,West Indies,Australia,40.2,Kyshona A Knight,A Mohammed,EA Osborne,0,0,0,NA,0,NA,NA,NA,0
+594915,2nd innings,West Indies,Australia,40.3,Kyshona A Knight,A Mohammed,EA Osborne,1,0,1,NA,0,NA,NA,NA,0
+594915,2nd innings,West Indies,Australia,40.4,A Mohammed,Kyshona A Knight,EA Osborne,0,0,0,NA,0,NA,NA,NA,0
+594915,2nd innings,West Indies,Australia,40.5,A Mohammed,Kyshona A Knight,EA Osborne,4,0,4,NA,0,NA,NA,NA,0
+594915,2nd innings,West Indies,Australia,40.6,A Mohammed,Kyshona A Knight,EA Osborne,0,0,0,NA,0,NA,NA,NA,0
+594915,2nd innings,West Indies,Australia,41.1,Kyshona A Knight,A Mohammed,EA Perry,0,0,0,NA,0,NA,NA,NA,0
+594915,2nd innings,West Indies,Australia,41.2,Kyshona A Knight,A Mohammed,EA Perry,0,0,0,NA,0,NA,NA,NA,0
+594915,2nd innings,West Indies,Australia,41.3,Kyshona A Knight,A Mohammed,EA Perry,0,0,0,NA,0,NA,NA,NA,0
+594915,2nd innings,West Indies,Australia,41.4,Kyshona A Knight,A Mohammed,EA Perry,0,0,0,NA,0,NA,NA,NA,0
+594915,2nd innings,West Indies,Australia,41.5,Kyshona A Knight,A Mohammed,EA Perry,0,0,0,NA,0,NA,NA,NA,0
+594915,2nd innings,West Indies,Australia,41.6,Kyshona A Knight,A Mohammed,EA Perry,0,1,1,wides,0,NA,NA,NA,0
+594915,2nd innings,West Indies,Australia,41.7,Kyshona A Knight,A Mohammed,EA Perry,4,0,4,NA,0,NA,NA,NA,0
+594915,2nd innings,West Indies,Australia,42.1,A Mohammed,Kyshona A Knight,EA Osborne,0,0,0,NA,0,NA,NA,NA,0
+594915,2nd innings,West Indies,Australia,42.2,A Mohammed,Kyshona A Knight,EA Osborne,0,0,0,NA,1,caught,A Mohammed,ML Schutt,0
+594915,2nd innings,West Indies,Australia,42.3,Kyshona A Knight,TD Smartt,EA Osborne,0,0,0,NA,0,NA,NA,NA,0
+594915,2nd innings,West Indies,Australia,42.4,Kyshona A Knight,TD Smartt,EA Osborne,4,0,4,NA,0,NA,NA,NA,0
+594915,2nd innings,West Indies,Australia,42.5,Kyshona A Knight,TD Smartt,EA Osborne,0,0,0,NA,0,NA,NA,NA,0
+594915,2nd innings,West Indies,Australia,42.6,Kyshona A Knight,TD Smartt,EA Osborne,0,0,0,NA,0,NA,NA,NA,0
+594915,2nd innings,West Indies,Australia,43.1,TD Smartt,Kyshona A Knight,JL Hunter,0,0,0,NA,1,caught,TD Smartt,LC Sthalekar,0
